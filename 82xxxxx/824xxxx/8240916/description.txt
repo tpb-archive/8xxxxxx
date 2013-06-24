@@ -1,0 +1,58 @@
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 554 MiB
+Duration                         : 1h 37mn
+Overall bit rate                 : 796 Kbps
+Encoded date                     : UTC 2013-03-10 20:53:54
+Tagged date                      : UTC 2013-03-10 20:53:54
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 37mn
+Bit rate mode                    : Variable
+Bit rate                         : 739 Kbps
+Width                            : 704 pixels
+Height                           : 304 pixels
+Display aspect ratio             : 2.35:1
+Frame rate mode                  : Variable
+Frame rate                       : 30.000 fps
+Minimum frame rate               : 30.000 fps
+Maximum frame rate               : 30.030 fps
+Standard                         : NTSC
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.115
+Stream size                      : 514 MiB (93%)
+Language                         : English
+Encoded date                     : UTC 2013-03-10 20:53:55
+Tagged date                      : UTC 2013-03-10 20:53:55
+Color primaries                  : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics         : BT.601-6 525, BT.601-6 625, BT.1358 525, BT.1358 625, BT.1700 NTSC, SMPTE 170M
+Matrix coefficients              : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 1h 37mn
+Bit rate mode                    : Variable
+Bit rate                         : 53.7 Kbps
+Maximum bit rate                 : 203 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Stream size                      : 37.3 MiB (7%)
+Language                         : English

@@ -1,0 +1,75 @@
+Spending their summer on an exotic beach, two brothers fall for the same beautiful girl, whose charm and looks may hide more than they they bargained for.
+
+SUBS: English
+ 
+http://www.imdb.com/title/tt0160440/
+
+General
+Unique ID : 221392512757220135705870197353053335969 (0xA68EA5A05D735888B4C034EA95FEB1A1)
+Complete name : Kurutta.kajitsu.1956.CRiTERiON.DVDRip.x264-[gx].mkv
+Format : Matroska
+Format version : Version 2
+File size : 1.46 GiB
+Duration : 1h 26mn
+Overall bit rate : 2 425 Kbps
+Encoded date : UTC 2009-06-29 09:51:44
+Writing application : mkvmerge v2.9.5 ('Tu es le seul') built on Jun 7 2009 11:07:07
+Writing library : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 26mn
+Bit rate : 2 231 Kbps
+Width : 720 pixels
+Height : 480 pixels
+Display aspect ratio : 4:3
+Frame rate : 23.976 fps
+Standard : NTSC
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.269
+Stream size : 1.31 GiB (90%)
+Title : Kurutta kajitsu / Crazed Fruit (1956)
+Writing library : x264 core 67 r1173M f6d3166
+Encoding settings : cabac=1 / ref=16 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy_rd=0.8:0.6 / mixed_ref=1 / me_range=24 / chroma_me=0 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=-4 / threads=3 / nr=0 / decimate=0 / mbaff=0 / bframes=6 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / wpredb=1 / keyint=240 / keyint_min=24 / scenecut=40 / rc=2pass / bitrate=2231 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.80
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 26mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 1 channel
+Channel positions : Front: C
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 118 MiB (8%)
+Title : Japanese Audio (AC3, mono)
+Language : Japanese
+Default : Yes
+Forced : No
+
+Text
+ID : 3
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : English Subs (SRT)
+Language : English
+Default : Yes
+Forced : No

@@ -1,0 +1,46 @@
+﻿Filename,Size,Unit
+plugins/gpuPeopsSoft.dll,688,K
+plugins/gpu.dll,536,K
+plugins/gpu.dat,536,K
+bios/SCPH3000.BIN,512,K
+bios/SCPH5000.BIN,512,K
+bios/SCPH1001.BIN,512,K
+bios/SCPH5502.BIN,512,K
+bios/SCPH1000.BIN,512,K
+bios/SCPH7000.BIN,512,K
+bios/SCPH7001.BIN,512,K
+bios/PSX - SCPH1001.BIN,512,K
+bios/SCPH7502.BIN,512,K
+bios/SCPH5500.BIN,512,K
+bios/SCPH7003.BIN,512,K
+bios/DTLH3000.BIN,512,K
+plugins/gpuLewGlide.dll,472,K
+plugins/gpuPeopsSoft114.dll,468,K
+plugins/gpuPeteDX6D3D.dll,416,K
+plugins/gpuPeteOpenGL (2).dll,408,K
+plugins/gpuPeteD3D (2).dll,404,K
+plugins/gpuPeteOpenGL.dll,336,K
+plugins/gpuPeteD3D.dll,336,K
+ePSXe.exe,269,K
+plugins/gpuNextGL.dll,244,K
+plugins/padHarakiri.dll,206,K
+plugins/joy1Harakiri.dll,206,K
+plugins/joy0Harakiri.dll,206,K
+plugins/cpka.dll,200,K
+memcards/epsxe001.mcr,128,K
+memcards/epsxe000.mcr,128,K
+kailleraclient.dll,120,K
+plugins/spuEternal.dll,120,K
+plugins/gpuNakSoft.dll,108,K
+epsxe.chm,90.49,K
+plugins/spuPeopsDSound.dll,76,K
+plugins/cdrXeven.dll,56,K
+zlib1.dll,54.5,K
+docs/ePSXe_sp.txt,45.55,K
+docs/ePSXe_en.txt,39.14,K
+plugins/padSeguDIKey.dll,32,K
+plugins/padHellMM.dll,31.5,K
+burutter.dll,28,K
+plugins/spuNull7.dll,24,K
+cyberpad.chm,15.7,K
+cheats/breath_of_fire_4_usa.cht,56,B

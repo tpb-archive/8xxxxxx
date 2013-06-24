@@ -1,0 +1,13 @@
+What's New in R2013a (more details, but in English)
+Desktop
+ΓÇó MATLAB : Unit Test framework for the MATLAB Language 
+ΓÇó Financial Instruments Toolbox : Calibration and Monte Carlo Simulation for Hull-White, Linear Gaussian and LIBOR Market Models 
+ΓÇó Image Processing Toolbox : Image segmentation using active Contours, Generation C code for 10 functions, and GPU acceleration for 11 Functions 
+ΓÇó Image Acquisition Toolbox : Kinect for Windows sensor Support for Acquiring Images, Depth maps, and skeleton Data 
+ΓÇó Statistics Toolbox : Support Vector Machines (SVMs) for binary Classification, PCA Algorithms for Data missing, and Anderson-Darling goodness-of-fit Test 
+ΓÇó Data Acquisition Toolbox : Support Package for Digilent Analog Design Discovery Kit 
+ΓÇó Vehicle Network Toolbox : Support for Accessing XCP on CAN Bus ECUs 
+ΓÇó Communications System Toolbox : Sphere Decoder and Constellation Diagram System Objects 
+ΓÇó Computer Vision System Toolbox : Viola-Jones object Detection Training, FREAK feature extraction, and new Other Functions 
+ΓÇó DSP System Toolbox : Spectrum Analyzer and Logic Analyzer Triggering scopes and scopes of time 
+ΓÇó Phased Array System Toolbox : Polarization Support, array tapers, and apps for sensor array Analysis, waveform Analysis, and Radar equation calculation. Simulink ΓÇó Simulink : Simulation Performance Advisor, masking of linked Library Blocks, and active variant Control Via Logical expressions ΓÇó SimRF : Circuit Envelope Simulation solver for fast load time and model ΓÇó SimMechanics : Published XML schema for Importing Models from CAD and Other Systems ΓÇó Simulink Design Verifier : Array out-of-Bounds checking ΓÇó Simulink Coder : Reduced Data Copies for Simulink Functions Called from Stateflow ΓÇó Fixed-Point Designer : A new Product That Combines the Functionality of Fixed-Point Toolbox and simulink Fixed Point ΓÇó Verifier HDL : HDL testbench Generation from MATLAB

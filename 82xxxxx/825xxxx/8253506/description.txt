@@ -1,0 +1,71 @@
+General
+Identifiant unique                       : 171215780931196462166018952931226015270 (0x80CEF5BEEFA415AEA9B4476D78C5D626)
+Nom complet                              : Lincoln.mkv
+Format                                   : Matroska
+Version du format                        : Version 2
+Taille du fichier                        : 5,18 Gio
+Duree                                    : 2h 29mn
+Type de debit global                     : Variable
+Debit global moyen                       : 4 945 Kbps
+Nom du film                              : Lincoln par Cuzin83
+Date d'encodage                          : UTC 2013-03-13 16:41:11
+Application utilisee                     : dvdfab 9 + mkvmerge v3.2.0 
+Bibliotheque utilisee                    : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Parametres du format, CABAC              : Oui
+Parametres du format, RefFrames          : 2 images
+Identifiant du codec                     : V_MPEG4/ISO/AVC
+Duree                                    : 2h 29mn
+Type de debit                            : Variable
+Debit                                    : 4 399 Kbps
+Debit maximum                            : 6 739 Kbps
+Largeur                                  : 1 920 pixels
+Hauteur                                  : 800 pixels
+Format a l'ecran                         : 2,40:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-echantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Bits/(Pixel*Image)                       : 0.119
+Taille du flux                           : 4,61 Gio (89%)
+Titre                                    : lincoln HD par Cuzin83
+Default                                  : Oui
+Forced                                   : Non
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Parametres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Duree                                    : 2h 29mn
+Type de debit                            : Constant
+Debit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 480 Mio (9%)
+Titre                                    : Audio AC3 francais
+Langue                                   : Francais
+Default                                  : Oui
+Forced                                   : Non
+
+Texte
+ID                                       : 3
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : francais forced
+Default                                  : Oui
+Forced                                   : Oui
+

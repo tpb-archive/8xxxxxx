@@ -1,0 +1,29 @@
+Hotfix for Don't Starve - 28 Feb 2013
+-----------------------------------------------------------------
+
+Quick guide in case of problems with starting any version of game:
+
+
+After uninstalling don't starve do things i wrote above:
+
+1. C:Users YourUserName AppData Local FLT Steam 211670 - remove that folder and content inside (save files, etc.). you can access here by run -&gt; %appdata%, enter, and back once from Roaming folder too, if don't want to search on your HDD :)
+
+2. Same goes for 219740 folder
+
+3. Remove entire install folder of Don't starve if exist.
+
+4. Win7/8: run -&gt; regedit. HKEY_CURRENT_USER SOFTWARE VALVE - right click here, Permissions. Set to full control read/write.
+
+5. Run CCleaner with CCEnhancer, clean your files, and registry.
+
+6. Reinstall game
+
+7. Reinstall Microsoft Visual C++ 2010 Redistributable Package (vcredist.exe)
+
+8. Win 7/8 Set permission for Don't starve folder (Properties-&gt;Security (?) ) to full control for all groups.
+
+If that helped im glad. Game should start normally. If no try to start game (i bet you can do it with clean install once) in window, create new world and save it, restart game - if you can join then it's ok. If not - clean saves (1-3 step, + CCleaner) and game installation, and try same but with disabling bloom, and that second option, don't remember it's name.
+
+
+
+-----------------------------------------------------------------

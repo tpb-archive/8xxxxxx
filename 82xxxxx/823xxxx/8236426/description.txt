@@ -1,0 +1,18 @@
+Info Update
+
+ΓÇô Addressed some stability and startup issues on machines that have both Intel and NVIDIA graphics hardware.
+ΓÇô Fix for players being unable to progress related to the boat in the beach area.
+ΓÇô Some fixes for crashes on startup and when selecting Options.
+ΓÇô Some small improvements to TressFX hair rendering.
+ΓÇô Fixes for various graphics glitches, including certain effects not being visible in fullscreen mode.
+ΓÇô Fixed a problem that caused some users to not be able to use exclusive fullscreen.
+ΓÇô Added support for separate mouse/gamepad inversion for aiming, as well as support for x-axis inversion.
+ΓÇô Fixes related to the benchmark scene and benchmark mode.
+ΓÇô Various other small fixes.
+
+Install
+
+    1- Download update
+    2- Extract update to MAIN game folder
+    3- Overwrite when prompted
+    4- Play!

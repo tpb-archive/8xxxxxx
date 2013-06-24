@@ -1,0 +1,39 @@
+This is for CFW (CEX). You have to dowload the DEX versions if you use DEX...
+
+I have 3.55 CFW TB (TrueBlue FW 2.51 and SGK Enable / Disable Spoof for PS3 Firmware 4.31 on PSN with CFW). I downloaded and installed multiMAN ver 04.20.00 BASE CEX (20130220) and I couldn't play any game. So if you have the same problem as I'm, you can install the latest supported multiMAN which is multiMAN ver 04.19.07 UPD CEX (20130212). Or any one you like from ver 04.18.00 - 04.19.07.
+I can recommend to install multiMAN ver 04.18.00 FULL CEX (20130106) and then multiMAN ver 04.19.07 UPD CEX (20130212). Or you can install all pkg files from 04.18.00 FULL to 04.19.07 to be on your safe side.
+
+For more info about each multiMAN updates read: 
+http://www.ps3hax.net/showthread.php?t=49724
+
+
+IMPORTANT
+---------
+
+With multiMAN 05.00.00 only 4.30 and higher firmwares will be supported. Supporting 14 different firmwares is too hard to maintain compatibility with.
+
+These will no longer be supported:
+
+3.41 OFW
+3.41 OFW + DONGLE
+3.41 MFW (HERMES)
+3.55 OFW
+3.55 CFW KMEAW
+3.55 CFW COBRA
+3.55 CFW TB
+3.55 CFW REBUG/ROGERO
+3.55 OFW DEX
+3.55 CFW DEX
+4.21 OFW DEX
+4.21 CFW REBUG
+4.21 CFW ROGERO 1.00..2.03
+
+These and later will be supported:
+
+4.30 CFW ROGERO 2.05..
+4.30 CFW REBUG
+4.31 CFW
+
+In the beginning mM used to support 1.90/3.00/3.14/3.21 firmwares but then suddenly the new additions started to cause issues with these old firmwares so I leveled up at 3.41. Now 2 years and 6 months later I think it is time to go up again.
+
+Users of unsupported firmwares can stay with 04.19.00 or lower multiMAN version - anyway - it has more than everything one may need. Or switch to Iris.

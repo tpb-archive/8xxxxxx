@@ -1,0 +1,95 @@
+This is the complete set of all 26 Zatoichi movies ranging from 1962 to 1989.
+
+I've spent a great deal of time and expense acquiring these movies.  About half of them are out of print and were difficult to purchase.  Due to the rare nature of these films that I've enjoyed immensely, I've put together the collection in it's native MPEG format so everyone can enjoy them the way they came off the DVD.
+
+I've also scanned in each of the covers at 600dpi.  Each scan was meticulously went through to clean up any problems in the original production cover using GIMP.  I put many hours into making these scans look as perfect as possible.
+
+I've also extracted and OCR'd the subtitles from the movies.  I then created a new .ASS subtitles based on these to push the subtitles into the black frames of the movie.  I cannot begin to describe how many hours I have put into this part alone.
+
+Audio and Video Quality:
+DVD's were converted to MKV files using MakeMKV.  The native MPEG video and AC3 audio streams are identical to the DVD.  No encoding whatsoever was done.  
+
+Subtitles:  The MKV files were remuxed with the created ASS and SRT subtitles.  In addition the original VOBSUBs from the DVD are also included in the MKV files.  The extracted VOBSUBs, ASS, and SRT subtitles are also included in a folder.
+
+Cover Art:  Each MKV file has the front cover muxed into it.  In addition the full front and back cover is included in a folder.
+
+I've included an Episode Guide written by someone else but with a few edits of my own.
+
+Included Zatoichi Movies:
+01 - The Tale of Zatoichi (1962) - 96 min 
+http://www.imdb.com/title/tt0056714/
+
+02 - The Tale of Zatoichi Continues (1962) - 72 min 
+http://www.imdb.com/title/tt0200309/
+
+03 - New Tale of Zatoichi (1963) - 91 min 
+http://www.imdb.com/title/tt0057503/
+
+04 - Zatoichi the Fugitive (1963) - 86 min 
+http://www.imdb.com/title/tt0057715/
+
+05 - Zatoichi On the Road (1963) - 85 min 
+http://www.imdb.com/title/tt0057714/
+
+06 - Zatoichi and the Chest of Gold (1964) - 83 min 
+http://www.imdb.com/title/tt0130377/
+
+07 - Zatoichi's Flashing Sword (1964) - 82 min 
+http://www.imdb.com/title/tt0191664/
+
+08 - Fight, Zatoichi, Fight (1964) - 87 min 
+http://www.imdb.com/title/tt0123334/
+
+09 - Adventures of Zatoichi (1964) - 86 min 
+http://www.imdb.com/title/tt0164984/
+
+10 - Zatoichi's Revenge (1965) - 84 min 
+http://www.imdb.com/title/tt0123335/
+
+11 - Zatoichi and the Doomed Man (1965) - 88 min 
+http://www.imdb.com/title/tt0202154/
+
+12 - Zatoichi and the Chess Expert (1965) - 87 min 
+http://www.imdb.com/title/tt0059942/
+
+13 - Zatoichi's Vengeance (1966) - 83 min 
+http://www.imdb.com/title/tt0143012/
+
+14 - Zatoichi's Pilgrimage (1966) - 82 min 
+http://www.imdb.com/title/tt0199905/
+
+15 - Zatoichis Cane Sword (1967) - 93 min 
+http://www.imdb.com/title/tt0186725/
+
+16 - Zatoichi the Outlaw (1967) - 96 min 
+http://www.imdb.com/title/tt0062518/
+
+17 - Zatoichi Challenged (1967) - 87 min 
+http://www.imdb.com/title/tt0063834/
+
+18 - Zatoichi and The Fugitives (1968) - 82 min 
+http://www.imdb.com/title/tt0063835/
+
+19 - Samaritan Zatoichi (1968) - 84 min 
+http://www.imdb.com/title/tt0164983/
+
+20 - Zatoichi Meets Yojimbo (1970) - 79 min 
+http://www.imdb.com/title/tt0066603/
+
+21 - Zatoichi The Fire Festival (1970) - 96 min 
+http://www.imdb.com/title/tt0164982/
+
+22 - Zatoichi Meets the One-Armed Swordsman (1971) - 94 min 
+http://www.imdb.com/title/tt0066602/
+
+23 - Zatoichi at Large (1972) - 90 min 
+http://www.imdb.com/title/tt0202153/
+
+24 - Zatoichi in Desperation (1972) - 95 min 
+http://www.imdb.com/title/tt0201922/
+
+25 - Zatoichi at the Blood Fest (A.K.A Zatoichi's Conspiracy) (1973) -  88 min 
+http://www.imdb.com/title/tt0072439/
+
+26 - Zatoichi The Blind Swordsman (A.K.A. Darkness Is His Ally) (1989) - 116 min 
+http://www.imdb.com/title/tt0202152

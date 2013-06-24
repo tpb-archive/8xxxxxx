@@ -1,0 +1,84 @@
+--This will NOT fit on a 4.37GiB Single-Layer DVDR--
+--Use a Dual-Layer DVDR or a USB Flash Drive--
+
+murphy78 proudly presents:
+Windows 8 Enterprise Office 2013 ProPlus VL x64 en-US Mar3 2013
+
+x64 Windows 8 Enterprise Build 9200 MSDN Source:
+en_windows_8_enterprise_x64_dvd_917522.iso
+
+Office 2013 ProPlus VL x64 Source
+SW_DVD5_Office_Professional_Plus_2013_64Bit_English_MLF_X18-55297.ISO
+
+Installation Indexes:
+Windows 8 Enterprise Office 2013 PPVL 64-bit
+Windows 8 Enterprise Office 2013 PPVL 64-bit AutoKMS
+
+Release File:
+Win8Ent-Office2013-x64-en-US-Mar3-2013.iso
+Size: 6.74GiB
+CRC32: FB983AD8
+MD5: D001A2FB7D119FC69A0B2AEDDB40B6FA
+SHA-1: F33E472040B39283D2A298EDBA0BF4F1F38A33A6
+
+Language: en-US (English - United States)
+
+Tools used:
+gimagex for image capture
+dism for AutoKMS setupcomplete
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+AutoKMS is an activator that runs every boot from the Microsoft ToolKit
+2.4.1 from CODYQX4. It runs silently in the background for a couple seconds
+every time you boot to activate Windows and Office.
+
+It is on A/V program sh**lists because it's such a successful, fast,
+activator. Do not move the program out of the Windows_AutoKMS directory
+or your Defender will quarantine it. Although it is a false positive in
+A/V programs, you will need to exclude it in any extra A/V programs that
+you add to your system.
+
+You may update windows at your own risk. I would recommend screening to
+make sure people don't complain about breaking kms activation before
+installing them. I personally recommend turning off smartscreen filter
+and disabling automatic updates. You can still update, but do it
+manually with by running wuapp (winkey+r then wuapp)
+
+I did not download any display drivers or other optional software.
+The only program that I added to Windows, besides the activator, is Office.
+
+All Windows and Office updates available were integrated into the
+release at the time of creation. No other programs besides Office 2013
+were integrated.
+
+--------For AutoKMS index
+Defender Rule reg key added for AutoKMS
+AutoKMS.exe
+schtasks triggerkms xml import
+
+Changes from recent Windows 8 x64 releases:
+-Info folder moved to Windows_Setup for discretion
+-Used Audit Mode - Sysprep /Generalize - Capture Image method
+-Office 2013 ProPlus VL x64 Slipstreamed
+-Added .NET 2-3.5.1
+-Obviously the AutoKMS Pre-Activation
+
+Screens from x86 version. Tested same on x64:
+01-RightClickStartScreen 
+http://bayimg.com/gakgMAAec
+
+02-RightClickPinIcons 
+http://bayimg.com/gakgnAAEC
+
+03-ActivationProof 
+http://bayimg.com/gAKGoAaec
+
+04-AutoKMSTask-Defender-Exclusion 
+http://bayimg.com/hakGaAAEc
+
+05-NoUpdatesNeededAfterInstall 
+http://bayimg.com/haKGbaAeC
+
+Enjoy Pirates,
+murphy78-TPB :)

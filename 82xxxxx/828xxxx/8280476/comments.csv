@@ -1,0 +1,98 @@
+﻿User Type,Username,Date,Text
+,kamisma,2013-03-20T22:42Z,"Changelog :
+
+ = Steam integration
+Prison Architect is now available from Steam (Pc & Mac)
+Existing customers : You have been gifted a complimentary Steam Key!
+Open your purchase receipt email then click on the URL and you'll find your steam product key
+Use this key to activate your copy of Prison Architect for Steam
+
+= New Planning Mode
+Accessable from the main toolbar, use this to plan your upcoming buildings and room layouts
+You can draw in the usual way with the left mouse and clear with the right mouse
+Plans are automatically cleared once actually built by workers
+
+= Door Lock system changes
+- New object: 'Staff Door', which is a locked door that can be opened by any guard OR staff member
+Note: Prisoners treat this as a normal door, requiring Guards to unlock in the usual way
+(Staff never unlock doors for prisoners - it's not in their job description, and too dangerous)
+(Want a Staff-ONLY door? Set the Sector type to be Staff Only in Deployment)
+
+- Doors have two new special modes: Locked Shut or Locked Open. Click on a door to set this.
+Locked Shut prevents anyone using the door at any time.
+Locked Open keeps the door open at all times, EXCEPT during a lockdown when it slams shut
+
+- There is a new sector setting called ""Unlocked"", which keeps all doors within the sector open
+This is useful during construction of a building, or during a fire evacuation
+
+- Doors that are blocked when closing will no longer push the blocking object aside.
+They won't close fully until unblocked.
+
+- Guards will now stick to their assigned patrols and sectors, only doing jobs within their sector
+This makes them much more responsive at opening doors within / bordering their sector
+
+- Fixed: Guards will no longer be called upon to unlock wooden office doors
+
+
+= AI & Behaviour Improvements
+- During Shower / Yard / Meal times, Prisoners will first go to the nearest room of that type,
+then will only use the facilities within that room.
+This stops prisoners in one shower running to another shower on the other side of the map
+
+- Facilities within a Holding Cell may now only be used by prisoners living in that holding cell
+
+- Prisoners will no longer nap during the day, instead preferring to sleep for longer at night
+(Requires Sleep regime)
+
+- Workers/Chefs/Janitors etc will now attempt jobs even if there is mild danger nearby,
+but will still refuse if the area is very dangerous
+Guards will no longer refuse any job because it is too dangerous. They are paid to be brave!
+Jobs which are paused due to danger will be restarted quicker once the danger has passed
+
+- Dead Firemen will now be taken to the morgue by Guards (rather than being left to rot),
+and fire trucks will leave without them
+
+- Guards that are not assigned anywhere will try to hang out somewhere useful
+
+- Fixed: Chefs will no longer bin all prepared food during Bang Up / Lockdown
+
+
+= Interface improvements
+- The top toolbar now displays the number of available guards, prisoners, and cctv cameras when you have them
+- The Lockdown and Bangup buttons have been moved onto the main toolbar (placeholder graphics)
+- Tooltips have been added to many items in the main toolbars
+- The prisoner Rap sheet now displays any recent misconduct they were involved in
+- The graphics options screen now asks you to confirm a new resolution is acceptable, or reverts after 15 seconds
+
+- The hunt for Stuck Entities
+- Fixed: Prisoners could become trapped in Solitary Confinement forever after saving and reloading
+- Fixed: All entities could become trapped in a Medical Bed
+
+- The maximum number of prisoners you can receive in a day is now based on your prison size:
+Small = 16, Medium = 24, Large = 32. Previously it was 24 for all prisons
+
+- New command line option:
+-safemode : Runs at 1024x768, windowed, with shaders disabled, and a blank new map
+(Steam users can run this directly from steam by selecting ""Launch in SAFE MODE"")
+
+- Prisoners minor injuries will now heal while they sleep overnight
+
+- Prisoners misconduct is now saved correctly in save games
+
+- Administrators now have a short view range (3 squares)"
+,Dwarth,2013-03-20T22:48Z,"Thank you, I was kinda lazy :p"
+,gulisa,2013-03-20T23:08Z,SEED
+,ahoi1,2013-03-21T09:14Z,If it only wouldn't cost 30 bucks... like fuck that.
+,tehteh123,2013-03-21T13:10Z,"yeah, 30 bucks for an unfinished alpha of a game of this quality is far too much. should be like 10 or 15"
+,CanadianPsycho,2013-03-21T13:40Z,"Yeah all you guy's are right,I own hundreds of steam games and even I think 30$ Is way too freaking much for this game($20 tops),and I just paid 97$ for Arma 3 supporter Edition.  "
+,Dwarth,2013-03-21T16:21Z,"Well...I bought the game to support the devs but I think that it's way too much too
+
+Maybe they will reduce the price now that it's on steam"
+,anonyboy,2013-03-23T13:03Z,"Thanks. I am actually entitled to play this game because I like it, so thanks for the upload."
+,MadRevolver,2013-03-23T17:37Z,thank you!
+,AFHD,2013-04-02T02:09Z,"Thanks! Awesome torrent. I find the $30 price tag a bit excessive for an alpha game as small as this. I seeded for about 12 hours, hope it helps!"
+,zaroba,2013-04-10T11:20Z,"Just throwing it out there, it's not $30 for an alpha, its $30 for the whole finished game.  It's just that by buying it now, you get to play the development versions.  Otherwise it would just be a preorder and you would have to wait to play it.
+
+
+Thanks for the upload."
+,Dwarth,2013-04-24T15:35Z,Alpha 9 available on TPB (click on my nickname)

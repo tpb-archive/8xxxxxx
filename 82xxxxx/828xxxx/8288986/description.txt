@@ -1,0 +1,43 @@
+Hopper Disassembler
+
+Hopper is a reverse engineering tool for the Windows, that lets you disassemble, decompile and debug your 32bits and 64bits executables. Take a look at the features list below!
+
+Native
+Hopper is perfectly adapted to the Windows environment. It fully makes use of the Cocoa framework, and perfectly integrate with other applications.
+
+Fast Disassembler
+Hopper has been designed to be fast and responsive. Disassembling and analyzing, even large binaries, is very fast. And the memory footprint is reduced to a very small amount!
+
+Procedures
+Hopper analyzes the function prologues, and try to extract procedural informations, like basic blocks and local variables.
+
+Control Flow Graph
+Once a procedure has been detected, Hopper is able to show you its control flow graph in a graphical way. The graph nodes are customizable, and you can even export a PDF.
+
+Scriptable
+Most of the Hopper features can be invoked from Python scripts, giving you the possibility to transform the binary the way you want.
+
+Objective-C
+Even if Hopper can disassemble any kind of Intel executable, it do not forget its main platform. Hopper is specialized in retrieving Objective-C informations in the files you analyze, like selectors, strings and messages sent. 
+
+Debugger
+Thanks to its free companion application, Hopper is able to use GDB, which lets you debug and analyze the binary in a dynamic way.
+
+Decompiler
+And, if you still want more informations about the program you analyze, you can ask Hopper to generate pseudo-code from procedures, which takes advantage of the results of its analysis!
+
+Supported OS:
+
+Windows XP and Above All
+
+Homepage: http://www.hopperapp.com/
+
+Installation Instructions:
+
+- Install program.
+- Run Keygen and patch to register application.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

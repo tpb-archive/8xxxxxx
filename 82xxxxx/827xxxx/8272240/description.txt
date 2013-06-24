@@ -1,0 +1,34 @@
+Now Playing plugin for Winamp
+
+The Now Playing plugin allows you to easily publishing what you are listening to!
+
+Winamp allows you to install plugins that can do various tasks for you.
+The Now Playing plugin monitors the song you are listening to and publishes the data in various ways:
+
+- Creates a XML file with information on that song. A file called now_playing.xml is created in your Now Playing plugin directory.
+
+- The plugin also offers you the ability to FTP/SFTP that file to a server of your choosing after its updated.
+- Create a ping with the song information.
+- Post information on Twitter.
+
+The idea is that you publish the XML up to your web server and then through some scripting magic, you can display your currently playing song or your recently played tracks. To make your web site more interactive, the plugin also retrieves the following information for you to use:
+
+- URL of the album image cover art from Amazon.com (if found).
+- Link to the Amazon.com product page for the CD (if found).
+- Link to the Apple iTunes Music Store product page with the song highlighted within iTunes (if found).
+
+Supported OS:
+
+Windows All and winamp installed
+
+Homepage: http://brandon.fuller.name/archives/hacks/nowplaying/winamp/
+
+Installation Instructions:
+
+- Install program.
+- Register application with given email/key.
+- Done, Enjoy
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

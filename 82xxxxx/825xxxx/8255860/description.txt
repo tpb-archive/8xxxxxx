@@ -1,0 +1,54 @@
+USB Safely Remove
+
+USB Safely Remove is a utility for effortless and speedy disconnection of any removable devices. Not only does it save time, but it ensures that all data remains on a device when it is unplugged. Safely Remove is a system utility designed for quick and safely stopping USB Flash Drives connected to your computer. With this utility you can safely stop and remove USB Flash Drives much faster then using "Safely remove hardware"" icon in the system tray.
+
+FEATURES:
+
+*Unlimited number of processes to launch
+You may specify to launch any number of processes for specified event. For example you may setup launching a backup of the drive before stopping and following disomounting of a TrueCrypt volume
+*Optional command line parameters
+You may pass such device parameters as drive letter, drive label, device PNP name into the process command line via parameter templates (e.g. this command line will browse a drive in Explorer on device connection: explorer.exe %DriveLetter%)
+*New events to launch programs
+Now programs can be launched after device plugging, before device stopping, after device stopping and after device removing
+*Global autorun
+You can setup a program to be launched not only for certain device, but for all hotplug devices in the system
+
+One click templates!
+Dislike reading boring documentation, but interested in one of the following things?
+* Browsing a drive with Explorer or Total Commander on device connection
+* Scanning a device for viruses on its connection
+* Making automatic backup of a flash-drive folder
+* Automatic mounting and dismounting a TrueCrypt volume stored on a device
+
+Quote:
+
+Version 5.2 (Released on Mar 12th, 2013)
+Option to fix several drives to the same drive letter added
+Windows 8 support & Metro UI skin
+A special sign is displayed for fixed drive letter in the menu
+Folder mount points are now displayed in full size (not truncated as earlier)
+Verbose logging was enabled by default
+Card reader drives are displayed even when the option "Display storage device volumes" is disabled
+Skin scheme file now has usual web format of the colors
+"Extend license" menu item could display "Order" page rather than "Extend"
+Autorun programs called before changing drive letters (e.g. for fixed drive letters). This caused double calling of the autorun programs.
+The device menu might be displayed when user launched TaskManager (Win 8) or Customize tray icons dialog (Win 7, 8)
+The SATA system drive was displayed in the list by default. Now it's displayed only when you enable the option "Display all storage devices"
+Now the program doesn't add itself to the Windows startup on each launch, it does this when it's needed.
+
+Supported OS: 
+
+Win XP/2003/Vista/7/8, (32/64 bit)
+
+Homepage: http://www.safelyremove.com/
+
+Installation Instructions:
+
+- Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Register application with given name/key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

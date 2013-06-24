@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,xxbonoxx,2013-03-24T15:32Z,"AMD Athlon﻿ II X4 630...on Windows 8...VMware 9
+
+keep getting the error:
+
+The CPU has been disabled by the guest operating system. Power off or reset the virtual machine.
+
+Any solution? Advice? Suggestions?"
+,mrdeejay,2013-04-06T09:15Z,"I get the same error, dont have a clue why still virtualisation is enabled In my bios. "
+,osirisd3,2013-04-10T08:36Z,"I had 10.8.2 working no problem on my Intel system (3GHz Core2 Duo, 4GB RAM, Win7 64bit, Vmware 9.0.1) assigned 2 cores, 2GB's of RAM to that VM & it worked like a champ!
+
+But then I upgraded my system to (AMD FX8350 Eight Core, 32GB RAM, Win8 Pro 64bit, Vmware 9.0.2) assigned 4 cores, 8GB's of RAM to the VM...
+
+and I started getting the error message ""The CPU has been disabled by the guest operating system"" I followed all instructions properly & know what I am doing, but kept getting that damn message!
+
+I figured out the fix!
+FIX:
+Show all hidden files - in Folder Options
+Run/double click: amd-kernel.cmd
+Copy 'OS X Mountain Lion.nvram' from 'amd' hidden folder & paste/overwrite in 'OS X Mountain Lion' folder. That's it & now its working great!
+
+The amd-kernel.cmd is not copying the .nvram to the OSX VM folder properly in Windows 8.
+
+I hope that helps!
+
+PS: I am having issues with getting vmware tools installed from /zackehsoul"
+,mrloyal,2013-05-06T07:37Z,@osirisd3 : copy the iso file to your Mac instead of mounting it...then install vmware tool...it works for me!

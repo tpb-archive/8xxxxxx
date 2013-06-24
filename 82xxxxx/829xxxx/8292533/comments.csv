@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,Ricky9712,2013-03-24T01:22Z,whats the serial code
+,itscory,2013-03-24T01:50Z,"It shouldn't ask for one. Make sure the mylicense.dat file is with the .app. If you drag it into your application folder, you need to drag the whole folder the .app and .dat is in."
+,Ricky9712,2013-03-24T01:58Z,Well i put 20 9's and it worked (99999999999999999999)
+,itscory,2013-03-24T03:01Z,"If it asks for a key, use 3596280875. It will generate a new mylicense.dat file with it. I haven't tried Ricky's trick yet but that'll work just as well."
+,itscory,2013-03-24T18:06Z,Forget about the MD5 and SHA1 hash. I'm new to hashing and for some reason it's not consistent.
+,jumjumb,2013-03-28T13:53Z,"Everything is working well. Didnt ask for a serial.
+
+Thanks itscory ...  :o)"

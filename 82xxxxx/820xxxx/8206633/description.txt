@@ -1,0 +1,26 @@
+AIMP v3.20.1165 + Portable [Multi]
+ 
+http://www.aimp2.us/ 
+http://www.aimp.ru/index.php
+
+Technical Data:
+----------------
+28.3 MB | Multilanguage including Spanish | Free | Windows XP SP3 / Windows Vista / Windows 7 / Windows 8
+
+Description:
+-------------
+AIMP is a powerful audio player to your computer. This application allows us to play all kinds of songs and audio files in multiple formats like MP3, OGG and WMA among others, as well as edit all aspects of reproduction thanks to its equalizer panel.
+AIMP includes many grants and user features such as a full playlist, the ability to edit the tags, a complete conversion of file format and audio recording system.
+
+History of Changes:
+----------------------
+AIMP v3.20 Build 1165 (12/21/2012)
+Tag Editor: The cover is now saved in the special section in FLAC format
+Player: The algorithm catch CUE sheets for audio files with double extensions is improved
+Fixed: Audio Converter - Sample Format saved incorrectly for command-line encoders
+Fixed: Audio Converter - An error occurs when trying to remove the virtual disk track
+Fixed: Capture Radio - You can choose command line encoder for capturing
+Fixed: The "Ctrl + Del" hotkey is intercepted by the list of text input elements secundariosde
+Fixed: The content of playlist stops drawing in some cases
+Fixed: The player does not play the sound, if the initialization of DSP-plugin not
+Fixed: The player does not detect the CD "A" letter

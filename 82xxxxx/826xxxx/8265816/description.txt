@@ -1,0 +1,84 @@
+**************************************************************
+* Microsoft Office Professional Plus SP1 2010 Volume Channel *
+**************************************************************
+
+MSDN SOURCE:
+en_office_professional_plus_2010_with_sp1_x86_x64_dvd_730330.iso
+
+Release File:
+Office_ProPlus_2010_SP1_VL_32Bit_En-US-Mar2013_730330.iso
+Size: 1.48GiB
+CRC32: 68A885E5
+MD5: 0648A1DD7AF502784E254A7CDE6A1404
+SHA-1: 812C7C33538B8E0F5ACD05B114AE82EA0C43BCFE
+
+First I converted the source from Retail to VL because you are
+NEVER going to activate any Retail version without purchasing.
+Then I added all the big MSP files into the updates folder.
+The updates folder for the source already had sp1 msp files,
+so I just needed to add ones for post-sp1 to satisfy MS Update.
+
+I split the source into 2 different versions so people wouldn't
+have to download both of them. They already had autorun info. I
+didn't modify the source other than switch it to VL and add
+updates. A lot of people from what I hear, recommend getting
+32-bit version of Office 2010 because of all the plug-ins.
+You can choose for yourself.
+
+You can't simply toss the exe files from MS Download Center in the
+folder, but you can extract those files with 7-zip and then copy
+the en-US and the none.MSP files to there. You also have to
+add any proofing spanish and french files or Update nags you.
+
+And that's exactly what I've done. These are all of the MSP files
+contained in MOST of the KB exe files available for download. There
+are still a few ones that don't have any MSP file inside, but
+they are very small. The non-MSP kb files total about 1-2megs on
+Microsoft Download. Those, you can do yourself. I cannot
+pre-integrate those without making a fully custom install using
+a bunch of registry settings, task settings, services, etc.
+Basically, just not gonna happen; would be a mistake to even try.
+
+MSP files in Updates Folder:
+EXCEL.msp, ace-x-none.msp, clientshared64muisp1-en-us.msp,
+clientshared64wwsp1-x-none.msp, clientsharedmuisp1-en-us.msp,
+csi-x-none.msp, excel-x-none.msp, filterpack-x-none.msp,
+gkall-x-none.msp, graph-x-none.msp, groove-x-none.msp,
+infopath-x-none.msp, ipeditor-x-none.msp, mscomctlocx-x-none.msp,
+mso-x-none.msp, msointl-en-us.msp, msores-x-none.msp,
+niceclass-x-none.msp, oart-x-none.msp, oartconv-x-none.msp,
+officesuitemuisp1-en-us.msp, officesuitewwsp1-x-none.msp,
+onenote-x-none.msp, onenoteintl-en-us.msp, osc-x-none.msp,
+oscintl-en-us.msp, osetup-x-none.msp, outlfltr-x-none.msp,
+outlook-x-none.msp, outlookintl-en-us.msp, powerpoint-x-none.msp,
+proof-en-us.msp, proof-es-es.msp,
+proofingsp1-en-us.msp, proofsp1-en-us.msp, proofsp1-es-es.msp,vbe7-x-none.msp, visio-x-none.msp,
+vviewer-x-none.msp, word-x-none.msp
+
+You can activate using MS Toolkit 2.4.1.
+Click the office button, then activation tab, etc.
+If you install AutoKMS you will need to allow it through any A/V
+programs. It has been blacklisted for being an insanely fast,
+basically perfect Offline KMS Activator.  You can also use
+KMS Server Service, which is a dropdown option if you click on
+AutoKMS.  With that service though, you will need to create
+a re-activation script and task. I have instructions on MDL at: 
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products/page348?p=731096&viewfull=1#post731096
+
+*ACTIVATE Office with the MTK first!*
+
+You can delete the line with SLMGR if you don't activate windows
+with this. It will just attempt to re-activate windows. This is
+not desirable unless you also need to activate your VL version
+of windows. If you want to also activate windows, you have to
+install a gVLK key. You can do this by running the admin cmd prompt:
+SLMGR /ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+
+Find gVLK keys online by searching for them. they're not a secret.
+
+I recommend getting and using Advanced Tokens Manager to backup
+any legit retail Windows or Office activations before attempting
+to use any KMS activator.
+
+Enjoy Pirates,
+murphy78-TPB

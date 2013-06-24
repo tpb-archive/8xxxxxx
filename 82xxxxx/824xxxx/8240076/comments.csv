@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+,Dillenger,2013-03-10T20:51Z,I put the preset folder in the location but it doesn't show up on the program. Not sure what the problem is.
+,mrblackheim,2013-03-11T04:52Z,"@Dillenger in my computer (Windows 8 64 bit) the path is E:ProgramDataToontrackEZmixPresets. 
+
+Just make sure you find the correct path as it should have at least the Core Packs on it. Also, please remember that you need to have version 2.0.2 
+If you need anything else just write in the comments. 
+https://thepiratebay.sx/torrent/7948030/Toontrack_EZmix_2_v2.0.2_UNLOCKED_-_R2R_%5Bdeepstatus%5D"
+,mrblackheim,2013-03-11T05:04Z,"@Dillenger
+
+Not sure what happened. Make sure you have version 2.0.2 and that you are moving it to the right folder. In Windows 8 is E:ProgramDataToontrackEZmixPresets
+
+By default, the folder should have at least the Core Packs (they are 2) and the Presets folder must exist (created under installation).
+
+Here is the link for V.2.0.2: 
+https://thepiratebay.sx/torrent/7948030/Toontrack_EZmix_2_v2.0.2_UNLOCKED_-_R2R_%5Bdeepstatus%5D"
+,ChaosBuster-666,2013-03-12T12:41Z,"I'm running Windows 7 64 here, can't manage to make the thing work and I sure won't create a virtual drive just for that either. Do you have another way around so I can use & test these new packs ?! 
+
+(I have v2.0.2 installed x64)"
+,mrblackheim,2013-03-18T00:27Z,"@ChaosBuster-666 
+
+That's weird... I mean, I tested it in my Win7 PC, Win8 PC, a friend tested it in his Mac and even in and old WinXP PC worked...
+
+Are you sure that the Preset folder exist in your PC and you are not creating it? "
+,ChaosBuster-666,2013-04-05T05:25Z,"Not sure... listen, I've downloaded/installed the thing to many directories, I've even uninstalled and reinstalled my Ezmix app several times thinking it was the problem but never was able to have it ""register"" the new packs.
+
+I tried installing the packs directly in the apps folder (toontrack/ezmix/presets) didn't work... I tried several other options which also didn't work... in the end, I wasn't going to create an E: drive just to but one thing to work along with the rest of my stuff.
+
+So unless you have better options or a quick fix that would  help me.. I'm afraid I'll have to keep on using what I've got.
+
+Thanks anyway."
+,ChaosBuster-666,2013-04-05T05:27Z,"sorry for the bad english, getting late..
+""... E: drive just to *have* one thing to work along with the rest of my stuff.""
+
+Hell... it's late! :)"
+,N0UM3N0N,2013-04-22T19:19Z,"I run Win 7, downloaded your app for 2.0.2, mounted the image, installed fine. Runs fine, but has no ""Presets"" folder for these packs. I've tried creating the folder within several directories with no luck.
+
+It is currently installed here: C:Program FilesToontrackEZmix
+
+Within the EZmix folder there is the Application, the PDF Manual, and a ""Clicks"" folder with various click track audio files inside. I cannot find a ""Presets"" folder anywhere.. but when I load up the program it provides the EZmix Preset packs 1 and 2.
+
+Any ideas?"
+,N0UM3N0N,2013-04-22T19:22Z,"64bit btw..
+
+The ""EZmix.dll"" is installed here: C:Program FilesVstPluginsToontrack
+
+Why, I don't know.. but still no ""Presets"" folder."
+,N0UM3N0N,2013-04-22T19:34Z,"I:EZmix 64-bitCommonAppDataToontrackEZmixPresets
+
+This is the only place I can find the ""Preset"" folder, but it is on the virtual drive and I cannot place the expansion pack files to this location, because it is a virtual drive.
+
+Furthermore, once installed, you don't need to mount the image in order to use the program.
+
+This is driving me crazy."
+,zzzxtreme,2013-05-01T16:32Z,"the folder ProgramData is actually hidden in windows
+
+try typing in windows explorer C:ProgramData
+
+and u will find the hidden folder. or tell windows to show hidden operating system folder "
+,N0UM3N0N,2013-05-01T23:10Z,"Thanks for the response man.. ironic enough, I've done some searching online and turned on the ""show hidden files, folders and drives"" option. Still nothing.
+
+I tried searching for the ProgramData file through Windows Explorer, still nothing.. thanks for the response though I was beginning to think asking here was a lost cause.. any other suggestions I could try?"
+,zzzxtreme,2013-05-01T23:52Z,"No, not that! Google for 'show windows hidden protected files folder' or something. Dont give up, its definitely there"
+,N0UM3N0N,2013-05-01T23:58Z,"I have finally found the solution! Here are perfectly clear instructions for everyone else with this issue, for future reference! :)
+
+1.) Follow -> Start MenuControl PanelAppearance and PersonalizationFolder Options, click the ""View"" tab, under the folder labeled ""Hidden files and folders"" click the option to ""Show hidden files, folders and drives"", now click ""Apply"" then click ""OK"". Close all other open windows.
+
+2.) Open the Start Menu again, right-click on ""Programs"" and select ""Open All Users"". This will open a window with your ""Programs"" folder, shortcuts to Windows Update, Default Programs and uTorrent (that's what it shows for me, it could be different for you, though this doesn't matter).
+
+My directory looks like this: C:ProgramDataMicrosoftWindowsStart Menu. From here, up at the top of the window, within the directory bar, click ""ProgramData"". Now follow -> ToontrackEZmixPresets. BAM! You're there!
+
+Within the ""Presets"" folder you should see EMX_Core and EMX_Core2, leave them alone, copy/paste EMX_Metal, EMX_MetalGuitarGods, and EMX_Rock into the ""Presets"" folder. Close all windows.
+
+DONE! m/"
+,N0UM3N0N,2013-05-02T00:20Z,"For some reason TPB doesn't show the other / symbol, the backwards one haha.. so just pretend it is there when reading my instructions! ;P"
+,brwk89,2013-05-19T22:13Z,"@N0UM3N0N
+
+Awesome dude , i really work with your notification . Thank's man \m//
+
+Windows 7 32bit"

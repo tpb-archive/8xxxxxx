@@ -1,0 +1,59 @@
+Synopsis:
+
+Après la naissance de sa fille Renésmée, Bella s’adapte peu à peu à sa nouvelle vie de vampire avec le soutien d’Edward.
+ Se sentant menacés par cette naissance d’un nouveau genre, les Volturi déclarent la guerre à la famille Cullen. Pour préparer leur défense, les Cullen vont parcourir le monde pour rassembler les familles de vampires alliées et tenter de repousser les Volturi lors d’un ultime affrontement.
+
+###################################################################################
+###################################################################################
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Taille du fichier                        : 1,40 Gio
+Durée                                    : 1h 55mn
+Débit global moyen                       : 1 745 Kbps
+Bibliothèque utilisée                    : VirtualDub build 32842/release
+
+Vidéo
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Paramètres du format, BVOP               : 1
+Paramètres du format, QPel               : Non
+Paramètres du format, GMC                : Pas de warppoints
+Paramètres du format, Matrice            : Default (H.263)
+Type de muxing                           : Packed bitstream
+Identifiant du codec                     : DX50
+Identifiant du codec/Suggestion          : DivX 5
+Durée                                    : 1h 55mn
+Débit                                    : 1 416 Kbps
+Largeur                                  : 640 pixels
+Hauteur                                  : 272 pixels
+Format à l'écran                         : 2,35:1
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Mode de compression                      : Avec perte
+Bits/(Pixel*Image)                       : 0.339
+Taille du flux                           : 1,14 Gio (81%)
+Bibliothèque utilisée                    : DivX 2682
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Version du format                        : Version 1
+Profil du format                         : Layer 3
+Paramètres du format, Mode               : Joint stereo
+Identifiant du codec                     : 55
+Identifiant du codec/Suggestion          : MP3
+Durée                                    : 1h 55mn
+Type de débit                            : Constant
+Débit                                    : 320 Kbps
+Canaux                                   : 2 canaux
+Echantillonnage                          : 48,0 KHz
+Mode de compression                      : Avec perte
+Délai par rapport Vidéo                  : 250ms
+Taille du flux                           : 264 Mio (18%)
+Alignement                               : Eparpillé à travers les interleaves
+Imbrication, durée                       : 42 ms (1,00 image vidéo)
+Imbrication, d. de pré-chargement        : 500 ms

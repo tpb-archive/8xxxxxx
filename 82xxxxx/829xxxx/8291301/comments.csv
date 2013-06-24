@@ -1,0 +1,106 @@
+﻿User Type,Username,Date,Text
+,Diyos,2013-03-23T17:40Z,why is this 100mb less that the other upload? 
+[T],Totenkruez,2013-03-23T18:20Z,These are the original compressed files. I leave them untouched. Mr.Stifmeister extracts them before uploading.
+,Diyos,2013-03-23T18:44Z,ah ok thx for the quick reply
+,alibabi1201,2013-03-23T22:09Z,I read that the Creation Kit was also updated with 1.9. Any chance that could be uploaded too please?
+,kabutowarez,2013-03-24T00:53Z,"Thanks a lot for the original rared files, I love and ALWAYS prefer this way!
+:)"
+,OMGYourMom,2013-03-24T02:41Z,Anyone else's SKSE says they need to update? Works fine but wanted to see if anyone was getting this message.
+,Stratux,2013-03-24T07:35Z,"I have Update 11 installed, do I need to install 12 then 13? Or, does one need to just install the latest to catch-up with all the updates?"
+,russianhornybear,2013-03-24T07:57Z,"thanks ,game not working now..
+reason steam dll i think coz w/o it game asking for steam. If with this lame file,game just dead.
+Now i need to find old update -_- "
+,russianhornybear,2013-03-24T08:18Z,And why launcher not showing game version anymore ?O_o
+,ozzo_,2013-03-24T15:13Z,"To anyone with SKSE saying update Skyrim; go into their ""archived builds"" and use an earlier version."
+,Jeordie,2013-03-24T17:54Z,"The current skse is for this game, if you didn't update skse or didn't install this game correctly, then that would likely be the cause. 1.6.13 skse is working for me.
+Reloaded game updates are not incremental. This patch updates any game version from 1.0-1.9.
+
+@russianhornybear, if your game is no longer working, then readd the steam_api.dll file and make sure to allow it in your antivirus program. It just happens to be a false positive. If you are paranoid and still untrust it, many people use the previous steam_api.dll from patch 11.
+Basically the latest steam_api.dll tries to store stats and achievements for the game. So it is larger and there is a new ini file included. Yet once the false positive is flagged, in peoples minds, it is no longer trust worthy.
+Getting compressed files makes a lot more sense, especially if they are as they were when released from reloaded."
+,PineappleStarz,2013-03-24T22:21Z,"it's the latest, so it needs the latest skse...
+it's a full patch, it does NOT say incremental patch...
+damn nubs!
+
+thanks for the update!"
+,AtomicRaptor,2013-03-25T05:56Z,AVG has found a trojan in this can anyone else confirm?
+,AtomicRaptor,2013-03-25T05:59Z,My comment disappeared :( AVG found a trojan can anyone confirm this?
+,Jeordie,2013-03-25T06:29Z,"That is a false positive. As I have already mentioned and you didn't read, and should perhaps kill yourself. I can confirm that you should kill yourself. If you are still reading, why haven't you killed yourself already?"
+,klearlycanadian,2013-03-27T01:08Z,"@Jeordie
+ROTFL! I take it you really hate repeating yourself?
+
+Thanks for the info though much appreciated. :)"
+,Serenifly,2013-03-27T19:53Z,Just go to the SKSE site and download the last version. There has been a small update
+,mandarp,2013-03-30T23:00Z,"I currently have the update 11 applied, will I loose my saves if I apply this update ?"
+,mandarp,2013-03-30T23:15Z,Also will these work with Razor1911's version of the game ? I hope so because I have that version and update 11 works just fine with it.
+,xarinl,2013-03-30T23:53Z,@mandarp I applied the patch and loaded my latest save and it seems to work fine. I am using Razor1911's version of Skyrim too. 
+,xarinl,2013-03-30T23:53Z,@mandarp I applied the patch and loaded my latest save and it seems to work fine. I too am using Razor1911's version of Skyrim. 
+,Breton12,2013-03-31T03:14Z,"Don't download this torrent if you have the cracked version of this game. If you do, it will ask for steam to play it. It contains this file : steam_api.dll"
+,Breton12,2013-03-31T03:34Z,For anyone who has the cracked version of skyrim don't download this. If you do then it will ask for steam to play it. 
+,Torrentsfan,2013-03-31T16:10Z,Worked perfectly thanks.
+,Dankaru81,2013-03-31T17:13Z,@Jeordie: I just told someone on another torrent the exact same thing for posting about a trojan.
+,Jeordie,2013-04-04T09:23Z,"Breton12, please stop posting bad advice when it is your fault for not even being able to follow directions in the NFO file. All you did was install the update with out placing the crack files. Now you are here complaining because you couldn't follow instructions. You could of used a bit of logic to solve this problem. When you noticed inside the rar archive it contained an update folder and crack folder, did it not occur to you, that the crack may be important part of this update?
+
+This torrent is is the better choice of torrents. Simply because it is compressed, that is the most obvious, it's smaller and wastes less time and bandwidth for you and others to download. Secondly, it is unedited files directly from reloaded, the group who releases these updates. This also includes the original files as well as the cracked files. I know this seems meaningless, but maybe you found you could do something differently with the crack or maybe a specific bug you thought you could fix in the crack? Maybe you just wanted to test your skills at cracking it yourself. Either way, totenkruez uploaded a proper torrent and I appreciate it. "
+,ccflier,2013-04-05T16:13Z,Does this include the legendary skill add-on?
+,Blackace23,2013-04-07T05:53Z,This update didnt allow me to download steam mods  anymore.. can someone help me with this? 
+,eggs_plode135,2013-04-07T07:45Z,Do I still need to install the other updates before this? Or could I just install from a freshly installed skyrim?
+,PineappleStarz,2013-04-07T10:11Z,"eggs, you are a dumb retard."
+,alnis,2013-04-07T11:22Z,"@eggs_plode135
+
+No, you don't need the previous updates. Only the latest one is necessary."
+,eggs_plode135,2013-04-07T13:43Z,@alnis thanks! another question. does dawnguard come with this update?
+,Caddir,2013-04-08T03:58Z,I seem to be doing something wrong. I've tried several different uploads of Update 13 and I still can't get my game to update beyond 1.3. Any suggestions? I've copied all the files/cracks to the main Skyrim directory and still no update.
+,Caddir,2013-04-08T04:05Z,Test.
+,VegitoDBZ,2013-04-08T21:51Z,"I am betting that this update is broken, because each time I apply it, skyrim won't even start. Althought I may be wrong"
+,Kyashii,2013-04-09T02:12Z,"@ccflier Yes, that was last patch.
+
+@Blackace23 How were you downloading steam mods anyway? If you have a legit steam version you don't need to get a cracked copy of the patch.
+
+@eggs_plode135 Dawnguard is a lot older than this patch. Usually you should grab all DLCs as well as the latest update- there's often a patch after a DLC is released to fix any bugs said DLC introduced.
+Also note that if you want to use SKSE and most mods, you'll need the latest version."
+,evilclive666,2013-04-09T11:06Z,After installing this update+dragonborn i cant save anymore. It says that is saved in the corner but nothing shows up in the load or save menus =(
+,toncey5,2013-04-11T16:32Z,"@Kyashii, there is a working and simple method to use Skyrim Workshop mods from steam on cracked Skyrim, but this mod seems to conflict with it. Which sucks. "
+,toncey5,2013-04-11T16:33Z,*update
+,LiliumSnow,2013-04-12T05:40Z,"I have Norton Anti-Virus on my laptop and whenever I try to unzip the files, it keeps on automatically deleting them because they're ""unsafe"". I know it's not the uploader's fault, but I was wondering if someone knew a way to get around this (you know, aside from just uninstalling Norton)."
+,wtb300,2013-04-16T02:23Z,anyone else have 13 files labeled rld-tesvsu13 with this dl? all is working fine without them just curious as to why they are here in the first place. 
+,wtb300,2013-04-16T02:39Z,Also Thanks a lot for the upload. perfect as always. didnt mean to sound ungrateful.  
+,paulcuna,2013-04-18T15:52Z,"To second a previously asked question, does this patch include the legendary difficulty/skill resets? "
+,paulcuna,2013-04-18T15:53Z,welp nvm seems someone already answered that question
+,xarinl,2013-04-18T19:16Z,"@eggs_plode135
+
+nice name you got."
+,tehstonerlol,2013-04-18T21:48Z,"@wtb300: ""rld-tesvsu13"" stands for...
+rld - Reloaded (the guy who cracked it)
+t - The
+e - Elder
+s - Scrolls
+v - 5
+s - Skyrim
+u13 - Update 13
+
+Just a simple insight to the acronym, though, it does almost carry a sketchy air to the file name."
+,darkdescent666,2013-04-20T16:15Z,thanks
+,viatical08,2013-04-29T02:16Z,Do I have to install all 13 updates? Or can I just install this 1 because it's the latest?
+,viatical08,2013-04-29T02:18Z,Never mind. 
+,bixxi3,2013-05-04T00:04Z,"Hey can someone help me out i seem to be having a problem, which normally doesn't happen since i've been doing this for years.
+
+But once i updated this Skyrim will now open steam and not play. It is like the crack isn't working. 
+Any ideas will help alot thanks"
+,til_roque,2013-05-04T07:14Z,"@ccflier yes it does. that's what patch 1.9 does, among bug fixes."
+,Nuhlie,2013-05-04T23:34Z,Why does this come with 13 RAR files? Was that really necessary
+,Lonestar775,2013-05-15T19:54Z,"ok having a problem. Just installed it and got it working, but now i cant sprint or jump. Anyone have any ideas?"
+,FerrelBMW,2013-05-15T20:09Z,do i have to need previous update(S) ?
+,DPerete,2013-05-16T20:51Z,"Works perfectly, just extrack the folders, run the Updater then drop the 'Crack' files in Skyrim's 'Data' folder.
+
+The Elder Scrolls: Skyrim v1.9.32.0"
+,Defirence,2013-05-25T07:45Z,"Thanks a lot, been waiting for this! "
+,roco69,2013-05-26T13:21Z,why does it come up with A steam update check everytime i try play the game now?
+,roco69,2013-05-26T13:23Z,"never mind..
+found the crack..
+awks"
+,richie231186,2013-06-04T15:59Z,"Update worked great and everything (Sorta)
+
+For some reason the sneak or crouch button only works 30% of the time and you have to press the button 10x some times to get it to work and it has nothing to do with my keyboard/controller as both are working fine.
+
+This is really annoying if your an stealth assassin/theif."

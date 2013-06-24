@@ -1,0 +1,24 @@
+Permet: 
+-de sauvegarder et restaurer une partiton système ou de donnée ou un disque dur entier partitonné ou pas;
+de cloner le disque dur du PC, même partitonné, même sur un disque de même taille ou infèrieure.
+
+Médias de sauvegardes
+• Hard Disk Drives
+• Network Attached Storage (NAS)
+• FTP Server
+• CD-R/RW, DVD-R/RW, DVD+R/RW, BD-R
+• PATA (IDE), SATA, SCSI, SAS, IEEE1394 (Firewire), USB1.1/2.0/3.0 drives
+OS supportés
+• Windows 8 all Editions
+• Windows 7 all Editions SP1
+• Windows Vista all Editions SP2
+• Windows XP Home Edition SP3
+• Windows XP Professional(X32 SP3/X64 SP2)
+• Windows Home Server 2011
+Fichiers supportés
+• FAT16/32, NTFS
+• Raw Image support
+
+
+Utilisation:
+Graver l'ISO sur CD en tant qu'image disque", démarrer le PC à partir du CD ainsi créé (éventuellement vérifier ou ajuster les paramètres du bios pour que le PC cherche à démarrer d'abord à partir du CD.

@@ -1,0 +1,21 @@
+For x264 MP4 with AAC audio, a bow to HBO credits them with the best possible quality:
+V=10
+A=10
+.
+So, this is quite odd (probably shows me naive). I use ReplayMediaCatcher, two versions
+3.11 downloaded this file as .MP4, 4.4.3.0 downloads it as .MOV  they are identical.
+In XP, I hover over the MP4 and it says "MPEG-4(QuickTime)"
+I demux the MP4 (x264, AAC) and remux and now it says "MPEG-4(BaseMedia)version 4"
+.
+========= IMDB.com/title/tt0350448/
+.
+Release Name: Real.Time.With.Bill.Maher.2013.03.01.OverTimeOnly.AAC.x264.HBO-via-AVIGUY.mp4
+.
+From AVIGUY :
+Release Date : 20130301
+Release Size : 102 Mb
+Run Time     : 06:01
+Resolution   : 960x540
+Video:       : MP4 / x264
+Video Bitrate: 2183 Kbps
+Audio AAC 187Kbps 44KHz

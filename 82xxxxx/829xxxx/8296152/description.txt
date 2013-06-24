@@ -1,0 +1,84 @@
+Zygor Guides update v4.0.6164, released March 22nd, 2013. (Horde and Alliance)
+
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary but it is here as a reference.
+
+
+***********************************************************************************
+READ ME:
+
+These uploads work just fine; if you are having problems it is on your end. That being said, if there does happen to be a problem with an upload, then fall back to the previous version and NICELY let me know... I'll fix it as soon as I can.
+
+
+Please DO NOT post comments about new updates. I check daily for updates and if I haven't posted a new version yet, I'll get to it when I get to it. 
+
+
+Please DO NOT make addon requests. The two most popular guides are Zygor and Dugi, and those are the ones that will be uploaded. (I'm working on Dugi currently.)
+***********************************************************************************
+
+
+
+
+Version: 4.0.6164
+Released on: March 22nd, 2013
+[B] Gear
+Added in some extra debug information to assist in finding the issue for some incorrect gear suggestions.
+Version: 4.0.6162
+Released on: March 22nd, 2013
+[B] Achievements
+Added and edited content in the current achievements.
+
+[B] Reputations/Dailies
+Added and edited content in the current dailies.
+
+[A] Reputations
+Updating reputations in Northrend
+Version: 4.0.6157
+Released on: March 22nd, 2013
+[B] Dailies/Reputations
+Edited content for the new 5.2 Isle of Thunder reputations.
+Version: 4.0.6153
+Released on: March 21st, 2013
+[B] Achievements
+Added in achievements for the new Z-Icon system.
+Edited current achievements in our guides.
+
+[B] General
+Fixed "Make this your home location" steps that did not have a coordinate or NPC to talk to.
+General housekeeping of includes and tags.
+
+[A] Reputations
+Updated Northrend Reputations
+Version: 4.0.6147
+Released on: March 21st, 2013
+Guide Viewer
+Bugfixes for odd errors (login window placement, MagicKey startup)
+Version: 4.0.6145
+Released on: March 20th, 2013
+[B] Pets/Mounts
+Added in the Zandalari raptor battle pets
+Guides have been added for Elder Python, Swamp Croaker, Thundertail Flapper, Living Sandling, and Ji-Kun.
+Fixed several parsing errors and issues with the pets and mounts guides
+
+[A] Leveling
+Fixed a flight master step in the Leveling guide
+
+[H] Dailies/Reputations
+Fixed reported errors with the Sunreaver Onslaught
+
+[A] Dailies/Reputaions
+Updating repuations in Outland and Northrend
+Fixed reported errors with the Kirin Tor Offensive

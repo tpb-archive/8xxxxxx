@@ -1,0 +1,67 @@
+Sourcd :L-S
+ 
+http://www.imdb.com/title/tt1877797/
+
+
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 700 MiB
+Duration : 1h 28mn
+Overall bit rate : 1 110 Kbps
+Writing library : VirtualDub build 32842/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 4
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 28mn
+Bit rate : 972 Kbps
+Width : 640 pixels
+Height : 272 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.223
+Stream size : 613 MiB (88%)
+Writing library : XviD 64
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 28mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 80.7 MiB (12%)
+Alignment : Split accross interleaves
+Interleave, duration : 40 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+Writing library : LAME3.98
+
+
+Plot
+A couple endures a series of mishaps right before their wedding day.
+
+ 
+http://www.shotpix.com/images/12213379469004845616.png 
+http://www.shotpix.com/images/20225343203977029463.png 
+http://www.shotpix.com/images/62744330487131371284.png

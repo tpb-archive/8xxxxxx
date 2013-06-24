@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,MoeHoeBoeDoe,2013-03-28T03:27Z,This is in Russian. 
+,seahawk2,2013-04-05T10:36Z,"To fix the crash (load/save/any other) TRY this:
+start game on EASY
+In Normal mode , there are chances of crash
+For those who already started game in NORMAL:
+GO TO C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Delete (make a backup) Synopsis8_SF.upk and
+Copy Synopsis0_SF.upk fromC:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+and paste it in C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Rename it to Synopsis8_SF.upk "

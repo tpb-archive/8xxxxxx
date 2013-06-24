@@ -1,0 +1,56 @@
+Note : You can get this from  http://www.microsoft.com/mac/downloads  as a free update
+
+┬á
+Official Web Site:  http://support.microsoft.com/kb/2817452
+
+Microsoft Office 2011 helps you create professional documents and presentations. And since Office for Mac 2011 is compatible with Office for Windows, you can work on documents with virtually anyone, anywhere.
+
+Update Details:
+
+Microsoft has released security bulletin MS13-026. This security bulletin contains all the relevant information about the security update for Microsoft Office for Mac 2011. To view the complete security bulletin, go to the following Microsoft website:  
+http://technet.microsoft.com/security/bulletin/MS13-026. In addition to the application improvements mentioned in this article, Office for Mac 2011 is now available as a subscription offering.
+
+This security update provides the latest fixes for Office for Mac 2011. These include the following:
+
+Whats New:
+
+* Contacts that were created in x500 format did not work in Outlook for Mac.
+
+* Fixes an issue in which messages that were addressed to contacts that were created in x500 format and sent in Mac Outlook were not deliverable.
+
+* BCC recipient was missing on Gmail IMAP draft message in Outlook for Mac.
+
+* Fixes an issue in which BCC recipients were not saved when you saved a draft message on an IMAP server.
+
+* Some contractions were marked as spelling errors in Outlook for Mac.
+
+* Fixes an issue in which letters before the single quotation mark in contractions were marked as misspelled.
+
+* Shared folders could not open other mailboxes that used Kerberos protocol in Outlook for Mac.
+
+* Fixes an issue in which shared folders could not be opened for accounts that used Kerberos authentication.
+
+* Coordinated Universal Time was not included when you created a calendar event in Outlook for Mac.
+
+* Adds Coordinated Universal Time (UTC+0 without a DST offset) to the list of available time zones when you create a calendar event.
+
+* Offline Address Book (OAB) was not updated correctly.
+Fixes an issue in which OAB was not updated correctly for certain Office 365 users.
+
+* When the "Save As" dialog box was displayed, VBA code that was running did not wait for user's action (Save/Cancel) before the code advanced to the next line of the VBA code.
+
+* Fixes an issue that occurred when you ran a Macro that contained "Applications.Dialogs(xlDialogSaveAs).Show." Now, the macro aligns with Windows VBA behavior in this particular scenario.
+
+* Scrolling when Track Changes default settings are enabled in larger documents crashed Word for Mac.
+
+* Stability is improved when scrolling through documents that have Track Changes bubbles.
+
+* Transitions had graphic issues during slide shows in PowerPoint for Mac.
+
+* Fixes an issue in which artifacts may have appeared during slide show transitions (This issue affects users who have NVIDIA video cards that are running Mac OS X Mountain Lion).
+
+System Requirements:
+
+ Intel Mac, OS X.5.8
+
+--- PLEASE SEED ---

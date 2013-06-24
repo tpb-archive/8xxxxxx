@@ -1,0 +1,125 @@
+=============================================================================
+
+P L E A S E   R E A D   B E F O R E   Y O U   D O W N L O A D!!!!!!!!!!!!!!!!
+
+=============================================================================
+
+Requirements: Bridge Commander 1.1, and WinRAR
+   
+Kobayashi Maru v. 0.9.1 is one of the best mods I've run across, though the nanofx 2.0 Beta plugin used has caused me problems, turning it off has fixed it.
+
+People still play online though many have moved on to the 2011_10 version, this one still has it's play as one of the most compatible.
+
+This is a full 0.9.1 mod, just extract to your Bridge Commander folder and overwrite when prompted; I advise that if you want to uninstall in the future you take the time now before overwriting to make a backup copy of your whole Bridge Commander installation.
+
+If you get an error, trying Multiplayer, saying "Your Multiplayer folder
+is dirty" then Remove the entire MP folder
+("Bridge commander/scripts/Multiplayer/") and reinstall this patch.
+
+Changes from 0.9:
+
+-Improved Anti-File-Download protection.
+-Fixed Galor/Keldon icon
+-Fixed a few Mission4 (TKY) Bugs
+-Disabled surrender
+-8472 is now non-player ship
+-Fixed Klingbase disruptor
+-Reduced damage of Karemma beams
+-Fixed the Ktinga turning rate
+-Disabled Bridge in TKY
+-Borg Cube: Phasers now single fire, higher repair points.
+-Firepoints should no longer explode -&gt; Blindfire should no longer crash the game.
+-Added Missing Neghvar documents
+-Fixed Prometheus Phasers.
+-Lots of other bug fixes
+-Version number updated to 0.9.1
+-Starbase220 Power corrected
+
+Kobayashi Maru:
+
+This is a Bridge Commander Mod pack.
+Please read our Manual in the doc/ -folder.
+
+Please note, that Kobayashi Maru does only support high Model settings.
+Playing with Low or Medium Model Settings while NanoFX is activated will crash the game.
+
+Server naming:
+
+You do not need to tag your server with KM, the game tags itself automaticly.
+
+
+Install:
+
+Kobayashi Maru has to be installed into a clean 1.1 installation:
+1. Install Bridge Commander
+2. Install the 1.1 patch
+3. Install KOBMARU
+
+thats all
+If something does not work, please take a look at KOBMARU-FAQ.txt in the doc/
+Folder first before contacting us or a Forum.
+
+
+Recommended Downloads
+
+-Play Klingon Music (from Klingon Academy) while flying a klingon ship: 
+http://bridgecommander.filefront.com/file/FBCMP_Klingon_music_addon;41234
+-CTU Bridge retextures - For more beautiful bridges: 
+http://bridgecommander.filefront.com/file/CTU_MoD_Bridge_Retexture_Pack;44179
+-Mainmenu Video Modifications: 
+http://bridgecommander.filefront.com/file/Start_Screen;10342 
+http://bridgecommander.filefront.com/file/Start_Screen_Mod_Pt2;10557
+
+
+Author:
+
+This Mod is presented you by the people of 
+http://bckobayashimaru.de eMail: support@bckobayashimaru.de
+For a list of credits to other people see below.
+
+"THIS MATERIAL IS NOT MADE OR SUPPORTED BY ACTIVISION."
+
+
+Features:
+
+-new Ships
+-new Systems
+-new scripts
+-new Weapons
+-Bots in MP
+-QuickBattle scripts in MP
+-Multiplayer ships all have their correct icons
+-new Technologies, Cloak Firing
+
+
+License/Copyright:
+
+1. Each Mod included in Kobayashi Maru comes with its own license.
+Please check the relevant Read Me's in the doc/ Folder.
+2. For all other Mods that have their own license: Contact their Author.
+3. If you are unsure, contact us at http://bckobayashimaru.de
+4. You must contact us if you want to redistribute Kobayashi Maru, or any parts of it!
+5. If you wish to update or modify Kobayashi Maru in any way, we require that you contact us before doing so.
+6. If we, the Kobayashi Maru team and its successors one day die out, and you have been unable to contact us,
+then you are free to redistribute anything you want as long as correct credits are given.
+
+
+Credits:
+
+Kobayashi Maru: Idea and development, Defiant.
+Hary74656: Helping and testing.
+Logo #1 has been done by Hary74656, Logo #2 and #3 are the work of Dragon.
+Dragon, Cube, Nebula, Shinzon, Cpt.Blue, FireFOX: testing
+Custom Ships and Mods: The Credits are going to the Authors,
+see below and doc/ -Folder for details
+Permission has been asked and received for every Single Model.
+FBCMP Music Themes have been taken from the Movies "The day after Tomorrow" and "Gladiator"
+Most ship Icons have been made by Dragon
+HP work by Cube, Dragon, Nebula and Shinzon.
+Intro by Hary74656
+Boston Pops Orchestra for their TNG theme
+Loading Screen by Dragon
+Manual & FAQ: Dragon
+Ship and Races descriptions: Cube, Dragon & Shinzon
+
+Also thanks to http://www.Mailus.de - Shell & Webhosting - for hosting us.

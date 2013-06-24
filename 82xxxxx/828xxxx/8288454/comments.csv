@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,smartiez,2013-03-23T03:47Z,Tq 4 sharing
+,karunama,2013-04-10T16:11Z,Applying this makes it impossible to play the game.  Always an 'unhandled exception error' popping up.
+,Brenry,2013-04-24T18:09Z,"If you get the 'unhandled exception error' immediately after loading, it's because you went from the original game release directly to 1.0.3.1
+
+With your current setup (can be original or 1.0.3.1 copied on):
+
+install Impire_v1.0.1.2-FLTDOX
+Impire_v1.0.3.1_incl_DLC_Pack-FLTDOX
+
+With the two patches combined, game now loads"

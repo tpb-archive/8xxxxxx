@@ -1,0 +1,55 @@
+All 25 Episodes of the 1990's version Plus Ultra Rare Unaired Pilot
+
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+Overall bit rate                         : 973 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 22mn 35s
+Width                                    : 710 pixels
+Height                                   : 574 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 22mn 35s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+
+
+
+Ill be uploading the 70's version as well

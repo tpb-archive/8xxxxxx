@@ -1,0 +1,19 @@
+Unlike all the new MTG games you can actually CONSTRUCT YOUR OWN DECK in this one..
+
+Magic: The Gathering is a computer game published by MicroProse in April 1997 based on the collectible card game Magic: The Gathering. It is often referred to as Shandalar after the plane of Shandalar, where the game takes place. The player must travel the land and fight random enemies to gain cards, and defeat five wizards representing the five colors. Adventure game and role-playing game elements are present, including inventory, gold, towns, dungeons, random battles, and character progression in the form of new abilities and a higher life point total.
+
+Added in the Shandalar 2012 MOD:
+
+* Re-Skinned Deckbuilder and Duel UI
+Modern updates to all of the graphics seen in both the DeckBuilder and the Duel UI, mostly Sarlack's stuff. They can easily be changed using any of the available ArtMods.
+* Updated Enemy Decks
+Now Arzakon's minions are nastier than ever thanks to Enemy Decks Overhaul. Rebuilt all of the Aversarial PlayDecks by making more intelligent use of the available cards. If you haven't used these yet, you're seriously missing out. Be sure to read his thread for a descriptive analysis of each and every adversary... all 55 of 'em!
+* Updated Card Images
+Shandalar no longer uses the original proprietary Microprose .CAT files for images; it now loads card images just like Manalink 3.0 does. Where as the original .CAT files contained 943 images, the game now uses 1259 different images for the 649 available cards... and they look much better than the originals.
+
+Note: In specific cases, some of the windows will still fail to draw properly (for example when cancelling an effect, or when the area gets really messy with cards). When that happens, just right click on your large playing area (your territory), and choose "Duel Options..", then click Ok. This will force a redraw that will fix things for you. Even quicker, if you know that the opponent is just waiting for you to pass a phase, just press ENTER and you will go to the next phase.
+
+Ported to mac by me. Only works in Lion or later. Sorry.
+
+
+Enjoy and please seed this classic game.

@@ -1,0 +1,58 @@
+SPORT: The Rugby Club
+Date: Friday 8th March 2013 
+
+This week, Alex Payne, Will Greenwood, Stuart Barnes and Dewi Morris look ahead to this weekend's games in the Six Nations Championship and the LV= Cup.
+
+
+General
+Complete name                            : 2013.03.08.Rugby.Club.pdtv.x264.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 355 MiB
+Duration                                 : 46mn 35s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 066 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 8 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 46mn 35s
+Bit rate                                 : 934 Kbps
+Maximum bit rate                         : 5 325 Kbps
+Width                                    : 720 pixels
+Height                                   : 416 pixels
+Display aspect ratio                     : 1.731
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.125
+Stream size                              : 311 MiB (88%)
+Writing library                          : x264 core 130 r2273 b3065e6
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 46mn 35s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 145 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 42.6 MiB (12%)
+Language                                 : English

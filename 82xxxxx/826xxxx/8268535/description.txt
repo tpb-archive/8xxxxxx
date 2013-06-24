@@ -1,0 +1,28 @@
+Jogo completo Age of Mythology Gold em português.
+-=Descompactar e instalar=-
+
+Instalações e configurações
+
+1 - Instale o Tunngle.
+2 - Instale Age of Mythology "Titãns" ou "Gold(R77DT-BHFD7-H9GYR-QYH8C-32R9M)"
+3 - Execute o arquivo "aomx10to103.exe" para fazer o downgrade para versão 1.03
+4 - Coloque o arquivo "TT_Loader.exe" na pasta em que vc instalou o Age (muitas vezes no "C:Program FilesMicrosoft GamesAge of MythologyTT_Loader.exe")
+5 - Crie um atalho pro Desktop do arquivo acima citado(TT_Loader.exe), após criar o atalho clique nele com o botâo direito do mouse em PROPRIEDADES >> na guia ATALHO  onde diz: DESTINO: adicione após os escritos >>  +OverrideAddress="SEU IP HAMACHI AQUI" +directIPConnectivity +noIntroCinematics
+
+Jogando pelo Tunngle - tanto pra quem monta a sala quanto pra quem entra nela.
+
+1 - Ligue o Tunngle e fique on-line.
+2 - Vá até a sua central de redes e desabilite sua rede de internet(vc será desconectado do internet, não se assuste).
+3 - Abra o Age pelo atalho que nós criamos.
+4 - Alt+Tab para sair do jogo sem fechar ele.
+5 - Habilite ou repare a sua rede de internet(teste se  sua internet voltou).
+6 - Feito isso entre no jogo normalmente em Multi-Jogador>>Lan e IP Direto>>Apelido e OK>>onde diz: Digite um IP direto "Aqui vc digita o ip do hamachi de quem serve a sala ex: 5.XXX.XXX.XXX"
+
+Video ensinando a jogar Age of mythology Titans no Tunngle.
+
+
+Essa pagina é dedicada para jogadores de Age of Mythology Titans.
+Organizaremos reuniões, campeonatos e atividades ligadas ao jogo.
+AOMT(ver1.03), Raidcall(ID:5745725) e Tunngle(NW:desafiosaomt)
+
+Venha jogar!

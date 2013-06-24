@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,Pharmit24,2013-03-10T08:28Z,It crashes when Rendering.
+,MistA01,2013-03-11T21:04Z,"X5 version crashes during rendering too.  Open a browser page to cover the program and it won't crash.  It's a graphics driver problem,  probably AMD.  Great upload,  btw"
+,spen007,2013-03-20T15:10Z,Excellent! Quick & easy install on Windows 7 Ultimate (Brazilian Portuguese). Great job! Thank you!
+,MistA01,2013-05-09T02:35Z,"Fixed the crashing.  If anyone gets this program,  here's how to fix it from crashing.  Google for a file called atimpenc.dll,  download it and copy it into both system32 and sysWOW64 folders inside your C:Windows folder.  Fixed mine and the program works flawlessly."
+,BakedUp,2013-05-23T23:04Z,"Works like a Charm!
+
+Indeed, scene4all is trusty as a trombone.
+Heartfelt greetings and thanks to X-FORCE and scene4all all the way from the East!
+"
+,vecuccio,2013-06-04T12:10Z,"Does it have the issue X5 had where the PSI_SVC_2 service had to be running all the time, and you had to write a batch file to get around it ?"

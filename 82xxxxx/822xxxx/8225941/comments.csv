@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,Hu8Aw7At,2013-03-08T22:00Z,"I forced a re-check, and still receive this error upon installation:
+C:Program Files (x86)CrysisGameLevelsMultiplayerPSShorelevel.pak
+A decompression error occurred (#2029)
+Unknown decompression error
+
+I also can't uninstall it once I abort the installation. There's no entry for the game in the Control Panel, and when I run uninstall.exe it says ""Invalid start mode: archive filename"". Since I have no way of knowing what this installer actually does I had to manually remove it from the Program Files folder and hope there are no files left elsewhere.
+
+There's a plus however, this is not in the description, but you get the option to unlock all missions when you install the game."
+,nehatiya,2013-03-09T15:30Z,"The game works perfectly..Thank you..
+
+@Hu8Aw7At my installation worked perfectly."
+,jimbus80,2013-03-28T16:14Z,"Oooops, game crashes after loading the ""Assault"" mission, at least for me using 64-bit binaries under Windows 7 64-bit...
+
+Can anyone else confirm this too?
+
+I had not noticed that error. Sorry for the inconvenience. I will try to solve it and upload a fixed version ASAP."
+,jimbus80,2013-03-28T17:11Z,"Ok, I have found the problem. The game is OK. The problem is just with the saved game. If you try to load the map ""Assault"" using the saved game this release includes, the game will crash.
+
+So, just do not use that specific saved game."
+,wind_highlander,2013-04-21T00:23Z,"Well, after playing for a day, now it opens with a black screen and crashes saying ""Crysis has stopped working"". There's no way to make it run again (compatibility settings, etc.). And it *was* working perfectly ok. Restarting computer won't work either."
+,wind_highlander,2013-04-21T00:24Z,"I've got Windows 8 64bit, by the way. Thanks ;)"
+,bent211,2013-05-15T13:36Z,"Hi, it work I can only run it on crysis.exe from the bin64 folder, not the crysis64.exe. Whenever I run the game from crysis64.exe it takes me to a black screen and I have to quit using the task manager. When I run it on Crysis.exe in the bin64 folder, the textures in the options is always set to ""Custom"" by default and switches back everytime I try to set it to ""Very High"". Is Crysis64.exe the same as Crysis.exe?"

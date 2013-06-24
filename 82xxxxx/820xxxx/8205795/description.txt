@@ -1,0 +1,40 @@
+Picture Cutout Guide
+
+The Picture Cutout Guide application was developed to be a program that will allow users to separate objects from the background and makes a photomontage. Picture Cutout Guide allows you to change the size or aspect ratio of an image keeping the "important" features intact and remove objects from photo without visible traces.
+
+Wide Edge
+This tool allows you to separate an object from its background, to apply background effects (filling, shadowing, blur), and to separately store an object for later pasting onto another image.
+Size - adjusts the size of the tool (tool size may be adjusted by rotating the mouse wheel, or by using the page up/down keys).
+Separate - begin separating an object from its background. Wide edge must be indicated by the brush.
+Clear - allows you to completely clear the wide edge.
+Effect - applies a selected background effect. An object must be separated from its background.
+Swap - swaps the object and its background. An effect must be applied previously.
+Store - stores the separated object for later pasting onto another image. An effect must be applied previously.
+Done - finishes processing after effect applying.
+Background: Color - fills the background by selecting color.
+Background: Shadow - reduces the background brightness. The shadow degree indicated by trackbar.
+Background: Blur - blurs the background. The blur degree indicated by trackbar.
+Background: Monochrome - makes the background monochrome by the selected color.
+
+Paste Object
+This tool allows pasting an object (separated from its background by another tool) into an image. It also is possible to transform the object using vertical and horizontal reflection. The object selected for pasting is displayed on the tool top.
+
+Rotation - allow you to rotate selected object at an arbitary angle.
+Delete - deletes the selected object. Deleted objects cannot be recovered.
+Thumbnails of the objects that can be selected are displayed on the tool bottom. To select an object, click on its thumbnail.
+
+Supported OS:
+
+Windows XP / Vista / 7 / 8, both 32-bit and 64-bit.
+
+Homepage: http://tintguide.com/picturecutout.html
+
+Installation Instructions:
+
+- Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Done, Enjoy. 
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

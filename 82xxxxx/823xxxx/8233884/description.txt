@@ -1,0 +1,74 @@
+Hero Corp - Season 1 (french TV show)
+
+This is DVD Rip, not TV Rip!
+
+MKV container (XviD/MP3), remuxed from private AVI release, without re-encoding, with MKVmerge.
+
+FRENCH LANGUAGE, NO SUBTITLES
+
+---------------------------------------
+
+General
+Unique ID                                : 180673810713756450087715957711919580583 (0x87EC829DE8FED5ABBBB06FB8396705A7)
+Complete name                            : X:Hero CorpSeason 1Hero.Corp.S01E01.352p.DVDrip.XviD.MP3.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 224 MiB
+Duration                                 : 25mn 50s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 214 Kbps
+Encoded date                             : UTC 2013-03-03 19:28:59
+Writing application                      : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : V_MS/VFW/FOURCC / XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 25mn 50s
+Bit rate                                 : 1 062 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.189
+Stream size                              : 196 MiB (87%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+Language                                 : French
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 26mn 32s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 24.3 MiB (11%)
+Writing library                          : LAME3.90.
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.6 --abr 128
+Language                                 : French
+Default                                  : Yes
+Forced                                   : No
+

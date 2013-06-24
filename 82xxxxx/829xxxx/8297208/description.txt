@@ -1,0 +1,18 @@
+A Verifiable Certificate of Completion is presented to all students who undertake this course.
+
+This Web Programming with Python course takes you through a hands-on guide to object-oriented development for the web, working with multiple types of servers, databases and web frameworks. All that is required to get started is a very basic background knowledge of Python, as instructor Mike McMillan begins these Python tutorials with two chapters of review and then goes step by step through the necessary concepts at every stage of development. You'll get a detailed primer on database programming with Python, installing an SQLite server and performing routine data selections and operations; you'll learn how to interact with FTP and email services using native Python code; see how to process web form data via Python; and learn how to interact with web database applications and utilize XML. Finally, the course ends with a chapter on configuring and working with Django, a modern web framework that allows you to create and manage complex database-driven websites. There's not a better course for taking Python concepts and applying them to real world projects.
+
+
+What You Will Learn
+
+- How to use Python object-oriented programming techniques within web-based projects, from online databases to complete websites.
+- How to install and configure basic web-based databases using Python code.
+- The essentials of XML and how it can be used in conjunction with Python projects.
+- How to implement and work with Django to manage full database-driven websites.
+
+
+Who Should Take This Course
+
+- Anyone with a basic background knowledge of Python and object-oriented programming (OOC) who wants to see how the language can be used for web-specific projects.
+- Anyone who wants a better understanding of SQLite, XML, and online database standards.
+- Anyone looking to increase their knowledge of the Python programming language and its practical application.

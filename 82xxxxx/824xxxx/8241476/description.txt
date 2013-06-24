@@ -1,0 +1,61 @@
+Synopsis:
+
+Isabella Swan, 17 ans, déménage à Forks, petite ville pluvieuse dans l'Etat de Washington, pour vivre avec son père. Elle s'attend à ce que sa nouvelle vie soit aussi ennuyeuse que la ville elle-même. Or, au lycée, elle est terriblement intriguée par le comportement d'une étrange fratrie, deux filles et trois garçons. Bella tombe follement amoureuse de l'un d'eux, Edward Cullen. Une relation sensuelle et dangereuse commence alors entre les deux jeunes gens : lorsque Isabella comprend que Edward est un vampire, il est déjà trop tard.
+
+###################################################################################
+###################################################################################
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Taille du fichier                        : 1,48 Gio
+Durée                                    : 2h 1mn
+Débit global moyen                       : 1 738 Kbps
+Application utilisée                     : VirtualDubMod 1.5.10.2 (build 2540/release)
+Bibliothèque utilisée                    : VirtualDubMod build 2540/release
+
+Vidéo
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Paramètres du format, BVOP               : 1
+Paramètres du format, QPel               : Non
+Paramètres du format, GMC                : Pas de warppoints
+Paramètres du format, Matrice            : Default (H.263)
+Type de muxing                           : Packed bitstream
+Identifiant du codec                     : DX50
+Identifiant du codec/Suggestion          : DivX 5
+Durée                                    : 2h 1mn
+Débit                                    : 1 281 Kbps
+Largeur                                  : 640 pixels
+Hauteur                                  : 272 pixels
+Format à l'écran                         : 2,35:1
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Mode de compression                      : Avec perte
+Bits/(Pixel*Image)                       : 0.307
+Taille du flux                           : 1,09 Gio (74%)
+Bibliothèque utilisée                    : DivX 6.8.5 (UTC 2009-08-20)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Paramètres du format, Endianness         : Big
+Identifiant du codec                     : 2000
+Durée                                    : 2h 1mn
+Type de débit                            : Constant
+Débit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Délai par rapport Vidéo                  : 500ms
+Taille du flux                           : 390 Mio (26%)
+Alignement                               : Eparpillé à travers les interleaves
+Imbrication, durée                       : 42 ms (1,00 image vidéo)
+Imbrication, d. de pré-chargement        : 500 ms
+

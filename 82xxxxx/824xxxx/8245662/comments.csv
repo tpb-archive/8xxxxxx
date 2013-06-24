@@ -1,0 +1,88 @@
+﻿User Type,Username,Date,Text
+,Rezalabibi,2013-03-12T02:33Z,no seed very very  slow
+,Razgriz.MX,2013-03-12T06:47Z,"Work great in my iPad3 LTE with iOS 5.1.1 and JeppFD 2.0
+
+Thanks a lot!!"
+,precursor1188,2013-03-12T13:57Z,Thank You. Works OK.
+,candresmoran,2013-03-12T22:52Z,works ok! thanks!
+,jcuellars,2013-03-13T03:19Z,any chance for the PC version please
+,flybyware,2013-03-13T16:59Z,what about pc version?? not everybody has Ipad.....
+,Villa777,2013-03-14T02:09Z,"Hello guys
+
+Why was it skip to 1306 instead 1305?
+
+Now the seeds are working fine"
+,airbusflyer,2013-03-15T13:04Z,"@Villa777
+because there was no up of 1305. Actual version is 1306 so everything is fine according to the cycle."
+,glounk,2013-03-15T16:40Z,please windows PC version :-)
+,AN-124,2013-03-16T15:59Z,thanksssss
+,dementie,2013-03-16T18:22Z,Thanks.thanks................
+,ATPL_Fritzmann,2013-03-17T11:16Z,the ipad version is worthless crap - PLZ post the win version...
+,flyedal,2013-03-17T18:43Z,"Works, thx!"
+,Swervin000,2013-03-22T12:04Z,Does anyone else have issues with missing waypoints in the Database?  I'm missing a bunch in Canada. Also has anyone had any luck inputting SIDS and STARS in the flight plan?
+,pekacot,2013-03-25T14:39Z,"I copied data to jeppFD folder, and I got route map but when I try to open airport TC I have Chart Library Problem: The requested chart is not in the library. Contact Jeppesen Technical Support. Any help for this please!"
+,airbusflyer,2013-03-27T19:07Z,"Someone got the new Jepp FD version working?
+I can't see the folders described by V1RotateV2, only Documents/AppData is present.
+
+Any idea??"
+,bobdjebel,2013-03-27T21:31Z,"Do NOT update to Jepp 2.0.5
+Don't work with this new version."
+,bobdjebel,2013-03-27T21:38Z,"Do NOT update Jepp FD 2.0.5
+Don't work !!"
+,airbusflyer,2013-03-28T11:24Z,"Can someone please upload the previous version (before 2.0.5)?iTunes updated my version and so I can't go back.
+Thanks..."
+,precursor1188,2013-03-28T15:50Z,"Seems that Jepp is having problem with this new version. Perhaps wait for them to resolve it. 
+What's New in Version v 2.0.5
+NOTE: PLEASE DO NOT DOWNLOAD THIS VERSION AT THIS TIME. We are actively working on a download problem being experienced. When it has been resolved, we will remove this message. Our apologies for the inconvenience."
+,ClaudioCa,2013-03-29T02:18Z,MAYDAY MAYDAY! I did the update! And now i am stuck! I ve put the data folder into JeppFD/documents....restarted JFD but still demo charts :((( appreciate some helps! Thank u very much! 
+,el_barto7,2013-03-29T05:01Z,"to ClaudioCa
+
+temporary solution, as I can see, the new App has change their folders. copy TermCharts to JeppFD.app/DemoData/
+
+then  copy the subfolders of Enroute/db_a/ db1 & sotre to JeppFD.app/DemoData/Enroute/Databse
+
+The only thing is NOT working is the terrain colors for the enroute charts. so far every thing is OK
+
+Goodluck!"
+,ClaudioCa,2013-03-29T10:03Z,"To El_barto7
+
+Thanks for your help but it does not work. Im using ifunbox, and its impossible to modify folders inside jeppFD.app. I think the only way is to downgrade to v2.0.0. I,d appreciate if someone share jeppFD v2.0.0 ipa. Thanks"
+,radial111,2013-03-29T10:45Z,PC anyone  ???
+,rafikihd,2013-03-29T16:46Z,It is not on Appstore anymore...
+,ClaudioCa,2013-03-29T18:37Z,Hi guys! Alternative option for those who are stucked with JFD v2.05 is to use JEppTC with this cycle. At least we gonna have terminal chart. Great job anonymous and all of you. Bless u
+,bobdjebel,2013-03-29T21:34Z,"To Mac users.
+If you have a Time Machine, use it!! Delete JeppFD in iTunes and use the TM backup to restore jeppFD in version 2.0.0. That's what I do and it works."
+,el_barto7,2013-03-30T00:49Z,"to ClaudioCa,
+
+Use DiskAid, I've tested today the only thing that does not work, is the Terrain. everything else Works ok (turbulence, winds, etc, airport charts, etc)"
+,precursor1188,2013-03-30T03:14Z,"For those who needs the old FD version 2.0 or 1.1 can download the latest 1307 ipad from here and the link to old FD:
+rutracker dot org /forum/viewtopic.php?t=4395076
+Check the description. They have included the 2 older version link."
+,Sbsaks,2013-03-30T05:42Z,Pl see http://thepiratebay.sx/torrent/8317486/Jeppview_1307_IPAD
+,NiceLittleRabbit,2013-03-30T12:51Z,"@precursor1188
+
+Jeppesen Mobile FD 2.0.0 from rutracker dot org /forum/viewtopic.php?t=4395076 has not been correctly extracted and required the Apple login/password of its original owner to work"
+,quangkevinatc,2013-04-01T10:49Z,iam looking forward to seeing the cycle 1306 for PC....anyone hepl me? Thanks
+,krisf,2013-04-04T16:09Z,"Hi guys,
+
+what i did to get it working on 2.05:
+
+as previously mentioned, put all the data in the 
+/JeppFD.app/DemoData folder.
+
+terrain goes in terrain, jvm goes in jvm and make sure you don't use ""sub"" maps, so everything directly in the folder.
+Once you open one map, 9example terrain) you can already see there are some files ther, delete those and search for the complete files in the downloaded cycle.
+The only tricky part is the enroute databas, or the folder /JeppFD.app/DemoData/Enroute/Database
+here you have to put the db1 and store folders coming out of the enr from this location:
+
+Jeppview 1307 IPADJeppview 1307 IPADDocumentsappDataJDS EnrouteJeppesen Enroute2456359.08333Jeppesenenr
+
+at least that is the one i used
+When all done, respring ipad and you're good to go
+
+If still not working let me know, i might have some more time on my hands too make a better tutorial, but i think this would be clear enough for  now...
+
+btw, using itools, simply the best for exploring the ipad"
+,rdz777,2013-04-08T17:39Z,"How did you manage to modify jeppfd.app folder? do I need to JB the iPad, to be able to do so?"
+,s3rgi0b,2013-04-11T18:42Z,A new update came out is 2.0.6 Im guessing we shouldn´t update?
+,leeodes,2013-04-18T20:11Z,How did you manage to change jeppfd.app folder? I have installed the itools and ifunbox and neither could modify that folder. thanks

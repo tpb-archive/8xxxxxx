@@ -1,0 +1,10 @@
+This introductory course on jQuery 1.7 will introduce you to the jQuery library and lead you through the basics, from simple jQuery statements through DOM manipulations and event handling, preparing you for more advanced lessons on jQuery.
+
+In this course, you will learn:
+How to obtain jQuery 1.7 and get it up and running in your projects
+The fundamental principles of jQuery and what it helps you accomplish
+The basic syntax of jQuery statements and how jQuery wrapped sets work
+The jQuery selector syntax used to select Document Object Model (DOM) elements for operations
+How to create new elements to be inserted in the DOM
+How to move, clone and remove DOM elements
+How to modify element characteristics such as attributes, properties, classes and styles

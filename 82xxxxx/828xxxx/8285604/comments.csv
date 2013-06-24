@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,frobknob,2013-03-22T21:59Z,Why would you zip CBR files? CBRs are RARs of JPGs. Three levels of compression. 
+,dbranson17,2013-03-22T23:30Z,"@frobknob
+it's an archive not a compression - - this way the overwhelming number of lurkers that pick and choose parts of the collection and then bail without ever seeding (thus leaving me with the seeding load) can't practice their self-involved behaviors - and I'm just sick of that sh*t..."
+,ProphetZarquon,2013-03-23T18:32Z,"That isn't how seeding works...
+
+If you stick it in an archive (Zip *is* an archive, even at zero compression) then as soon as people download it, they will naturally want to extract the files, which will either A) leave them with duplicate files, or B) they'll remove the archive & stop being a seed.
+
+If you select only certain files from a torrent, your client *tries* to only download those.  It has nothing to do with whether you continue seeding after it finishes. Furthermore, a partial seed is better than none.
+
+When you pack a torrent's files inside a ZIP or RAR, seeds drop as soon as they complete, because the archive has to get extracted.
+
+If you uploaded this twice, one with a RAR and one without, I guarantee the one *without* the RAR will have more seeds within one month.
+
+(I'll seed 4:1 on this, then I'm deleting the RAR files as they are redundant and incovenient.)"
+,ProphetZarquon,2013-03-23T18:35Z,"Or ZIP file, as it were."
+,dbranson17,2013-03-23T19:29Z,"@ProphetZarquon
+blah, blah, blah.  obviously this upload isn't for you - so move on.
+
+This is exactly how seeding works for a collection! And it's people like you that make it necessary.  4:1 seeding ratio, I'm looking at 100:1!  You're the problem here..."
+,ProphetZarquon,2013-03-24T23:16Z,"? I ended up seeding 10:1 before I even got home today. I torrent a lot, so anything new gets at least 4 days or 4:1, whichever comes first.
+
+I seed over 30 torrents at a time, in addition to my own uploads. I don't have bandwidth to seed everything at once.
+
+This month alone I uploaded about 550gb by torrent.  That's over double my ""total allowable usage"" specified by my ISP.
+
+Even peers (leeches) typically help a torrent, because you have to adjust your settings to prevent uploading during a download. Many Americans just have crap upload speeds, so they're not a very good Seed even if they try.
+
+Based on the Seed to Leech ratio on your uploads, I'd say people are seeding VERY thoroughly.  There just aren't that many new people finding your torrents right now.
+
+Your content is good, but when people unpack it, they will want to throw away the ZIP file afterwards, not keep two of everything just to keep seeding.
+
+Please don't bother complaining about a lack of seeds on something that you packed in an archive.  My Buck Rogers TV show torrent has about as many seeds as this does, and it has 14gb of separate video files.
+
+My Star Trek collection is about 199gb and it seeds slowly, but the peer cloud grows every week. If all 199gb were packed in an archive I can guarantee it would have only 1 Seed right now.
+
+Thanks for the upload.  Like I said, it's good content."

@@ -1,0 +1,102 @@
+﻿User Type,Username,Date,Text
+,Zemsta,2013-03-25T13:07Z,"Not working.
+Perfectly executed the instructions in the NFO tho. I got i.imgur.com/w3ONQ7U.png to allow OFFLINE PLAY thats good, but when I click on ""Play Offline"" I got the ""STARTER Edition cannot play in offline mode"" error: i.imgur.com/Pl18oFk.png
+
+I heard somewhere about an AMD-only SC2 cracking bug and I use az A10 APU. This is it? "
+,witya32,2013-03-25T13:59Z,but this definetly should work.he's not a fake uploader... :/
+,Zemsta,2013-03-25T14:00Z,"Sorry for links. So
+press connect -> http://i.imgur.com/w3ONQ7U.png -> clicked on ""offline play"" -> http://i.imgur.com/1hfbivL.png
+
+And yes, I have started the game once and the NFO describes.  
+
+Any idea?"
+,Zemsta,2013-03-25T14:42Z,"Anyone else getting error with AMD Bulldozer chip?
+Found this from TUHD:
+
+"" ...there's something within the Bulldozer-chip (the base of the FX-series) that cancels out the generated key in tandem with the SCII-program. I assume it has something to do how programs code in the key into the registry. Just speculation here though. Only thing I know AMD FX+SCII key generation doesn't work."" "
+,hstpctech,2013-03-25T15:28Z,still not working - the login window is not offering playing offline anymore.
+,thcfreak666,2013-03-25T15:47Z,"Will not work on core i7 920 This is not CPU problem, the crack is fake or fail !"
+,Crusader2010,2013-03-25T18:57Z,"After a google search, there was a similar error in 2011:
+
+If you are getting the Starter Edition offline error, it could mean you haven't logged in successfully in the last 30 days. They have a piracy protection system that enables offline mode for 30 days upon each successful logon. 
+
+No idea how to bypass it though."
+,Zemsta,2013-03-25T23:13Z,"TEH BUG:
+With certain CPUs like Bulldozers, the licence key you register with Step4 button will be automatically deleted upon pressing the ""CONNECT"" button, therefore client will be reverted back to ""Starter Edition"".
+
+Need a hotfix!!"
+,D_A7,2013-03-26T00:08Z,"The moment you run the game it deletes applied license from FLT and you cant play in offline mode :( ( i checked registry before and after )
+It would be great if someone can confirm if this is only AMD cpu related bug.
+
+My specs are:
+AMD FX-6300
+MSI GTS 450
+8gb 1866Mhz ddr3 ram
+MSI 970a-g46
+500gb HDD"
+,Notter87,2013-03-26T19:14Z,"I did all the steps
+when i choose ""offline mode"" i get a client validation error
+and it says i need to have a B.Net account with at least 1 user
+
+is there anything i've missed?"
+,Notter87,2013-03-26T22:06Z,"Found my problem.
+step 3 didn't execute properly, since i copied the exe to the desktop and ran it from there."
+,wildpig1234,2013-03-27T04:48Z,"Much appreciated if someone can torrent
+
+Starcraft II Heart of Swarm Bradygame Strategy Guide. 
+
+Thanks"
+,fiki97,2013-03-28T16:00Z,i.imgur.com/Pl18oFk.png SOLVE THIS !!!
+,Arun1121,2013-04-01T12:05Z,"To all those people to whom the game is giving the error...""Must have logged on atleast once and must have created atleast one SC2 Character"" after following all the instructions correctly....
+Do this to make the game work....
+Step 1 : Goto battlenet.com and create a new account...
+Step 2 : Temporarily  allow the game to connect to the internet (do so by disabling the firewall )
+Step 3 : Login the game using this new account
+Step 4 : Create your Character. Then you can exit the game...
+Note:  There the game will give a nag screen telling about the features you will unlock if you buy the game; when you press exit.
+Step 5 : Open the flt unlocker.... There click the steps 3 and 4...(ie...copy files and generate licence)
+Step 6 : Enable your firewall now. Open the game. Login with the NEW account (not the flttrash@mail.com )
+Step 7 : Play the Game....!
+Note: you must have blocked both “Starcraft II.exe” in the game folder as well as the SC2.exe file in Versions Base24944 folder
+Plz : this was tested by me and it works ....also only go for this method if the original method fails and gives this message” Must have logged on atleast once and must have created atleast one SC2 Character”."
+,Arun1121,2013-04-01T12:06Z,If u do the above correctly.. the nag screen will disappear... Indicating that the game is unlocked
+,leffe_83,2013-04-09T23:10Z,"hi guys and girls, for the people who downloaded FLT version of Heart of the swarm.
+
+This is the way I got the Heart of the swarm to work with a little tinkering :).
+
+I already had Wings of liberty downloaded with crack but had to reinstall it without cracking it and updating it..
+
+For example:
+http://thepiratebay.sx/torrent/5719719/Starcraft.2.Wings.of.Liberty-LiBERTY
+
+I installed the FLT version before the reloaded was uploaded.
+
+http://thepiratebay.sx/torrent/8297229/StarCraft_II_Heart_of_the_Swarm-FLT
+
+The I updated it with the updater it was alittle over 2,5 Gb.
+
+Then I used the reloaded cracker and it didnt work so I downloaded the US downgrade:
+
+http://thepiratebay.sx/torrent/8258564/Starcraft_2_Heart_of_the_Swarm_US_Downgrade_to_2.0.5
+
+And then search them up in the Starcraft folder and replaced them (made a copy of them first just incase)
+
+so:
+
+1: install Wings of liberty without crack and update.
+2: Install ( FLT version of Heart of the swarm).
+3: update fully. Like 2,5-3 Gb for me.
+4: crack with reloaded crack.
+http://thepiratebay.sx/torrent/8342146/StarCraft.II.Heart.of.the.Swarm.Proper.Crack.Only-RELOADED_
+
+(4b:) I also tried the snify loader also but dont know it did anything in the long hal.
+http://thepiratebay.sx/torrent/8318297/Starcraft_II_Heart_Of_The_Swarm_Loader_Only
+
+5: Downgrade the installation with 2.0.5, because the newer ones dont work, yet.
+
+6: run the crack again just incase.
+
+
+After all this my Starcraft worked :).
+
+cheers.."

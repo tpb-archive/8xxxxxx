@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,super777,2013-03-20T07:51Z,"can someone confirm if this is working? im not sure if i added this correctly or not... i see it says ""seeders 1"" but id like to make sure it's working!"
+,super777,2013-03-20T09:17Z,"according to the documentation, this will also work on os X As low as JAGUAR 10.2 and PANTHER 10.3"
+,super777,2013-03-20T11:36Z,"ftp://ftp.steinberg.net/Download/Cubase_SX_3/Docs_English/All_Cubase_Feature_Comparison.pdf
+
+please refer to this document to compare this version to SE, SL + SX versions of cubase
+for feature comparison"
+,super777,2013-03-20T15:05Z,"https://docs.google.com/spreadsheet/ccc?key=0AuVRqCVJbeaudDRVaDNnb3FyRUQ0V3NQejZ5YWZqM1E&usp=sharing
+
+a list of the different versions of softwares.. vs dates vs system/os requirements"
+,JayCapo,2013-04-05T03:47Z,do anyone no if this work!!! please HELP... I'm new to the Mac world.
+,super777,2013-04-13T18:32Z,"@JayCapo - yes it works 100% - this is the old version of cubase le... that is based on the engine of cubase sx... basically the free version of cubase sx...  it will even work on osx panther, but there is a problem with the installer which prevents it from isntalling correctly.. i'm trying to track down a v1.07 cd of cubase le, because that version works on panther (10.3) and jaguar(10.2).. the only difference is the actual installer script.."
+,super777,2013-04-20T17:49Z,"simultaneous playback	48 tracks
+midi tracks			64
+inserts				2
+group channels			4
+fx return				no
+vst instrument slot		2
+midi inserts			no
+rewire 2 support		yes
+undo steps			10
+vst audio effects included	21
+vst instruments included	3
+
+^^^ limitations of cubase LE 
+this version DOES NOT REQUIRE A DONGLE
+OR AUTHORIZATION OF ANY KIND"
+,super777,2013-04-20T17:50Z,this version is also limited to 4 physical inputs + outputs... or 2 stereo pairs of ins and 2 stereo pairs of outs
+,dunners87,2013-04-23T12:41Z,How do I install this? I have a text document with heaps of scrambled letters and symbols on it. Thanks for the help. 

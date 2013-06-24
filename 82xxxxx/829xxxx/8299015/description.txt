@@ -1,0 +1,37 @@
+Multisim & Ultiboard (Circuit Design Suite) PowerPro 12.0.1
+===========================================================
+
+New version NI Circuit Design Suite Power Pro 12.0.1, includes the familiar products: NI Multisim schematic capture and simulation environment and NI Ultiboard layout and routing.
+
+- NI Multisim Power Pro
+=======================
+NI Multisim software combines intuitive capture with powerful simulation to help you quickly, easily, and efficiently design and validate a circuit.
+With Multisim, you can quickly build a schematic with a comprehensive component library and emulate circuit behavior using the industry-standard SPICE simulator.
+This software provides an easy-to-use interface to SPICE, ensuring accurate and immediate simulation results that uncover flaws earlier in the design process and reduce prototype errors and time to market.
+You can purchase Multisim as a complete, integrated design and test platform to seamlessly transfer schematics to layout in NI Ultiboard software and incorporate real-world measurements with the NI LabVIEW graphical programming environment.
+
+- NI Ultiboard Power Pro
+========================
+NI Ultiboard software provides an easy-to-use and intuitive platform to lay out and route a printed circuit board (PCB) design. With Ultiboard, you can complete the entire layout process, from part placement to copper routing, in a flexible design environment that optimizes speed and control. Automated processes, such as the integrated advanced autorouter, quickly define noncritical trace placement, while manual trace placement ensures the precise control to efficiently take a design to prototype.
+Seamless integration with NI Multisim software optimizes the design experience, ensuring that you can easily transfer schematics to PCB design and effortlessly annotate changes between layout and capture. You can export a final design to industry-standard file formats, such as Gerber and DXF, to complete the integrated flow of design to prototype.
+
+This new release brings with it a long list of quality improvements and new database parts. The following list is a summary of the what's included:
+
+- Over 200 new and updated Analog Devices components
+- Over 975 new and updated ON Semiconductor components
+- Over 525 new Infineon MOSFETs, each with up to 3 levels of model complexity (Power Pro and Edu only)
+- Over 50 new National Instruments connectors
+- Over 50 new industry connectors, including RCA, HDMI, DVI, and JTAG headers
+- Over 1,400 duplicate symbols have been removed
+- Hierarchical and LabVIEW-Multisim Co-simulation Connector Improvements
+- 150 Bug Fixes
+ 
+http://pixhost.me/avaxhome/29/04/00230429.jpeg
+
+Name: NI Circuit Design Suite Power Pro
+Version: 12.0.1 (12.0.923)
+Interface: English, Russian
+OS: Windows XP / Vista / Seven / Server 2003 R2 / Windows Server 2008 R2
+Size: 625.4 mb
+
+Note: Circuit Design Suite 12.0.1 supports Windows XP 32bit edition, Windows Vista 32bit and 64bit editions, Windows 7 32bit and 64bit editions, Windows Server 2003 R2 (32bit) and Windows Server 2008 R2 (64bit). Circuit Design Suite 12.0.1 does not support Windows 2000/NT/Me/98/95, Windows XP 64bit edition, or the Windows Server non-R2 editions.

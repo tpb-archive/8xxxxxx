@@ -1,0 +1,141 @@
+﻿User Type,Username,Date,Text
+,Sonic_27,2013-03-13T13:58Z,"Thanks my friend, WORKS PERFECT! Just hope next time you can do WMC (not activated) Thanks again!"
+,pankaj.kr,2013-03-13T14:08Z,hey murphy.. can u please tell me the exact date when will u upload windows 7 updated till march including IE10 final..i have to format my pc but m waiting for ur upload..thanks..
+[V],murphy78,2013-03-13T16:17Z,"sonic, the non-activated wmc is gonna have to be a part of the AIO. As cool as it is for people who managed to get a key working, there just isn't enough people who can use it for me to make a solo release of it. The torrent wouldn't have any downloaders or seeders."
+[V],murphy78,2013-03-13T16:18Z,pankaj I'm sorry bud I know you are probably getting antsy :P I will most likely do it within 24 hours. People seem to be seeding these things enough for me to stop after one day.
+,pankaj.kr,2013-03-13T18:53Z,"thanx in advance...crazy fan of ur uploads... :D
+and please write the date also till the windows update is added...not only month..."
+,asakusa,2013-03-13T19:19Z,"Murphy, tell me what difference this activation to other isos you did? .. Can I upgrade my windows without falling activation problem? If I use another antivirus can disable the crack? Thanks, great job;)"
+,Sonic_27,2013-03-13T20:00Z,ok....I just have a backup (tokens) that's all and the newer the version (WMC) you put on I can use that and will be permanent activated! Maybe another time then....Thanks for all your PERFECT uploads! Peace out for now =)
+,bbooty,2013-03-14T03:22Z,"Murphy, your work looks great.  Unfortunately I haven't been able to make a bootable 8GB USB using PowerISO 5.5 'Create Bootable USB Drive' function.  It stops after 1.02 GB with the Source folder less than 1 GB.  I have the same problem with your AIO.  No problem with other ISO's. Hopefully it is something I am doing/not doing, or are your ISOs not compatible with PowerISO?  I realize you can't see what I'm doing, but if you have any clues I would be very grateful."
+[V],murphy78,2013-03-14T04:07Z,"bbooty, I wouldn't suggest using poweriso or any other iso program to copy stuff over to a usb device. I would suggest using either the win7usb tool, which I included a link to download; or the usb tool from Josh cell software, which I included the full program. The reason being that if your drive is in fat32, and you don't format it to ntfs, the large install.wim will cause a copy error.
+
+Fat32 can only fit files up to a certain size per file. This is another complain of the UEFI people as they seem to be only able to boot with Fat32 on USB.
+
+I'm going to look into making a multi-part install.wim. I forget what filetype they call it but it's something like wsf or something. I'll have to research it further.  If I can simply split the install file to like 2gb chunks, it should have no problem on fat32 usb drives and shouldn't affect size or dvds. In fact it might make it easier to make multi-disk dvds if I need to make them huge for some reason."
+,bbooty,2013-03-14T06:46Z,"Murphy, Gee thanks for the prompt back.  I sure don't want to cause you any extra work.  You are busy enough as it is.  Yes I was using PowerISO on an exFAT formatted USB - didn't think to try it with NTFS formatting.
+
+While waiting for your response, I used your win7usb tool.  It formatted it NTFS and worked fine of course.  I'm typing this on your new Win8 installation.
+
+For my edification, I formatted another USB with NTFS and tried PowerISO again - same problem.  The durn thing reformatted it plane FAT.
+
+Thanks a lot for your tech support and a very fine Win8."
+[V],murphy78,2013-03-14T09:13Z,"yw, and it's not gonna be extra work.
+
+Since UEFI is going to be a big part of the future of computing, I am going to try to accommodate.  On the multi-disc thing, that's still a ways in the future. A good deal of people using windows 8 are also using a bluray drive. For those people, it's just inconvenient if I make a multi-disc because those discs cost a lot of money.
+
+I will most likely just limit multi-discing to very large releases such as a future win8 18in1. The time is approaching faster than you'd think. The kb files on windows 7 are usually like 250kb-2megs... Each Windows 8 kb file averages something like 15megs. I think this is because they often patch a lot of the default app stuff which contains a lot of graphical information.
+
+My idea is that if I cannot keep an image under 7.95GiB which is the limit for Dual-Layer dvdr, I might be forced to multi-disc it.
+
+It really also depends how the install.wim splitting turns out. If I can simply split the file into 2gb chunks and instruct people how to make their own multi-discs; I think that would help. Most people to date, just want to do that because they're cheap and don't want to spring for a dual-layer dvdr or flash drive."
+,mps40471,2013-03-14T15:17Z,Apart from latest updates is there any other difference between Feb2013 and Mar2013 ?
+,fethifethi,2013-03-14T16:53Z,Thanks :)
+,Kevs1,2013-03-15T02:32Z,"really slow down load , seeds not seeding, 12 hours now and still saying it will take upto 14 weeks"
+,zencowboy,2013-03-15T19:21Z,"Howdy Murphy78,  first thanks for all your work and time on this!
+
+May I ask what is the down side to installing this...can we do 'regular' windows 8 updates and such driver updates as well?  Can we login to windows 8 with our hotmail email and be fine too?
+
+Thanks again for your time!"
+,piddyra,2013-03-15T20:15Z,"Hi Murphy78. Thank you for the upload. Really gratefull. I do have a question though.
+
+I the read me fill you write: 
+:::Do and Dont:::
+Do - Install a VL version of Office 2010 or 2013 and run the Activate-Office.cmd
+Dont - Install a Retail or Trial version of any Office.
+
+I have a danish retail version of office 2013 which I installed in your january release of windows 8 and used KMSnano to convert from retail to VL and activate as well.
+
+So from your above ""do and dont"" should I not do this in this release of windows 8 ?"
+,piddyra,2013-03-15T20:41Z,"Thanks for the upload :) In the read me file you write: 
+
+:::Do and Dont:::
+Do - Install a VL version of Office 2010 or 2013 and run the Activate-Office.cmd
+Dont - Install a Retail or Trial version of any Office.
+
+I have a danish retail version of office 2013 that I installed in your january release of windows 8 and used KMSnano to convert to VL and activate. 
+
+Cant I do this anymore regarding your ""do and dont"""
+,fadooy11,2013-03-16T11:33Z,"heyy, and thanks for your uplaod man i really appreciate it, but i was wondering..
+
+can i upgrade my windows 7 to windows 8 using this torrent or no ?
+
+is there anyway i could upgrade it without formatting my pc ?"
+,rinu123,2013-03-16T17:26Z,Cannot activate windows. I tried the tool that came with this pack.
+[V],murphy78,2013-03-17T03:41Z,"You can Pre-Convert the Office with MTK 241.
+
+Take your retail office iso. Extract to a directory: Ex: Office2013
+
+Then open MTK, click the office button, then the
+Customize Setup button. Now click the Set Installer Path button and point it at the setup.exe in the Office2013 directory.
+
+Click the Change Channel button and it will pre-convert it to VL.
+
+You don't want to do post-VL conversion because of the methods of achieving it. It gets REALLY messy with installing certs and registering everything correctly.  The pre-conversion is very clean and basically perfect.
+
+You can re-iso the files afterward if you want."
+[V],murphy78,2013-03-17T03:46Z,"fadooy11, yes you can upgrade from 7 using this torrent.
+
+As far as which files and settings you want to keep, it depends on which version of windows 7 you come from. Windows has built-in rules on which versions upgrade to others and why. I have not modified the upgradematrix.xml because it would generate invalid data in the activation files and potentially cause a problem.
+
+You can check a wiki. I'm sure I saw the upgrade  options on one of em. They list what you can upgrade to what and what files/settings you can keep."
+[V],murphy78,2013-03-17T03:49Z,"rinu123, can you be more specific? did you do a fresh install? Are you trying to activate this on a laptop? Do other activation methods work for you?
+
+This is a very new method to be done pre-installed, so I am curious about your issue.
+
+You can PM me on mydigitallife.info and maybe I can help problem-solve you.
+
+Name is murphy78 there also."
+[V],murphy78,2013-03-17T04:11Z,"CODYQX4 has confirmed that Windows' built-in re-activation is a bit buggy with this service. I'm guessing there might be some sort of communication that windows normally does with KMS servers with re-activation that isn't coded in for handling. Or perhaps it needs to match PID etc. Who knows. What we do know is that it doesn't seem to re-activate automatically.
+
+I have posted a clean workaround in the MDL forum in the MTK thread:
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products/page348?p=731096&viewfull=1#post731096
+If you do not use that, you will need to re-activate manually before or when your activation runs out.
+
+It's fairly simple, but if you have a problem, pm me there (murphy78) and I'll try and help you."
+[V],murphy78,2013-03-17T08:28Z,"Actually I think MTK 2.4.1 might have a problem pre-converting Office 2013 atm. CODY is about to crack that nut, but in the meantime you can use the instructions in this thread:
+http://forums.mydigitallife.info/threads/39018-Convert-Office-2013-ProPlus-installer-from-retail-to-volume-(by-hand)
+
+They are meant for the english retail versions, but the file and folder names should be the same on any version."
+[V],murphy78,2013-03-17T10:23Z,"Spoke too soon on the re-activation thing. I think it might just be a problem when you first activate windows with MTK, not necessarily the slmgr call that I used. So you all will probably be ok on the re-activation. You might wanna get that script just in case though."
+[V],murphy78,2013-03-18T04:09Z,"Yah I have done A LOT of testing and confirmed that this service method and the office activation script works perfectly and auto-renews itself.
+
+If you experience any problems, it's most likely something you added to windows like an internet security, or firewall program, or other a/v program.
+
+Just be careful what you add to windows if you want it to keep activating everything correctly."
+,Sonic_27,2013-03-18T17:56Z,"Can you PLEASE upload Windows 8 x64 (NOT PRO) or Windows 8 x64 with WMC with all the new updates, I need that so I can have a permanent activation! I WOULD REALLY APPRECIATE IT MY FRIEND."
+,Sonic_27,2013-03-19T04:47Z,Really I just need Windows 8 x64 (NOT PRO) So....maybe you can do another AIO with all new updates (small file) would appreciate it! Thanks
+,raysefo666,2013-03-20T16:06Z,"murphy ! i have UEFI and my hdd is gpt format , how can i boot from your iso's ? i try ultraiso power iso but all of them doesnt enable UEFI boot option, only normal boot and in normal boot option cant install anyhing ! if i get a stock iso i am able to boot UEFI! PLS HELP ME  "
+,jimjones666,2013-03-22T05:22Z,"Thank you Murpyh,
+I installed this and it worked but would not acitvate did I forget to do something. 
+Your Activation Proof Screencap said there is a Activate-Windows.cmd included but this file is not in the torrent."
+,shukree,2013-03-22T09:28Z,"Hi Murph78
+
+I am using Symantec Endpoint Protection 12.1.2.2015 for Windows 8 .
+
+but this release and the previous (Windows 8 AIO x64 x86 36in1 en-US AutoKMS Mar6 2013) are causing A/V to be interrupted and not installed,forcing me to use your February release
+
+then Audit,update and Generalize.
+
+any help ?
+
+thanks."
+[V],murphy78,2013-03-22T21:54Z,"The server service in this release is installed using runonce at first boot. If your computer fails to activate, it's possible that a few different things may be wrong. Firstly, you may have installed the index that is not labeled KMS-SS, in which case, there is no installed activation. Secondly, it might have not created the service correctly. If that is the case, then you should go into the windows_KMSServerService folder and run the uninstall script and re-install KSS through MTK 2.4 or later. I'd actually recommend getting the latest version.
+
+If you are experiencing a problem where the service installs correctly, but activation cannot seem to communicate with it, it's most likely that your WMI services do not have open firewall permissions for your localsubnet.  I only tested using the default HOME setting for networks. You are on your own if you want to add extra firewall protections.  I mistakenly added firewall settings for just the service, but those don't actually do anything because firewall settings are based on the program that starts the communication, in this case, WMI.  You will need to find the firewall setting that points to WMI stuff and open it up to localsubnet for in and out directions.
+
+On the a/v question, I have added an exclusion to defender, but it's like I said. ""Add ""KMS Server Service.exe"" to any A/V programs and Firewall or Internet Security Programs you add.""
+
+I cannot and will not attempt to personally crypt or turn these activators into a half-ass a/v fooler. They are on the a/v lists for being activators. Deal with it."
+,jimjones666,2013-03-23T06:37Z,"I switched off windows firewall altogether and tried to activate but this did not work. 
+When I installed it I chose ""Windows 8 Pro 64-bit KMS-SS"" perhaps I should have tried ""Windows 8 Pro 64-bit"" could this be my problem. I also installed it on a new partition and now have duel boot system could this be a problem? Everything else works fine it gets updates and connects to the internet but just wont activate."
+,jimjones666,2013-03-23T07:04Z,"When I click on activate it says
+Windows couldn't be activated.
+error code: 0x8007232B
+error description: DNS name does not exist "
+,DHC92,2013-03-26T15:59Z,"Hey murphy78,
+
+Could you explain to me in what I can understand what this installation of Windows 8 Pro actually adds? I've never heard of KMS-SS before and would like to know what it is. I somehow feel that my current torrent installation of Windows 8 Pro seems lacking because I didn't use your torrent. Thanks!"
+,jimjones666,2013-03-28T07:25Z,"OK, so i deleted the partition I made and re-installed it over the top of my windows 7 (C:), I also turned off the internet connection when installing and it works perfect. Don't know why it made a difference, if anyone can't get it to activate try re-installing it and don't use a different partition. Thanks murphy you are a hero. "
+,PaceyPimps,2013-03-28T18:13Z,Can i activate Office with out messing my legal version of windows 8 pro? 
+,TAB_,2013-04-08T08:40Z,Works perfectly!!

@@ -1,0 +1,59 @@
+SPORT: Rugby Highlights - Aviva Premiership
+On: itv1 hd
+Date: Sunday 3rd March 2013 
+Time: 23:15 to 00:15 
+
+Craig Doyle and Martin Bayfield present the best of the action from round 17 of the Aviva Premiership, from Franklin's Gardens, home of Northampton Saints.
+
+General
+Complete name: 2013.03.03.Rugby.Union.Aviva.Highlights.pdtv.x264.mp4
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size: 458 MiB
+Duration : 45mn 37s
+Overall bit rate mode: Variable
+Overall bit rate : 1 404 Kbps
+
+Video
+ID : 1
+Format : AVC
+Format/Info: Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames: 8 frames
+Codec ID : avc1
+Codec ID/Info: Advanced Video Coding
+Duration : 45mn 37s
+Bit rate : 1 276 Kbps
+Maximum bit rate : 4 187 Kbps
+Width: 720 pixels
+Height : 416 pixels
+Display aspect ratio : 1.731
+Frame rate mode: Constant
+Frame rate : 25.000 fps
+Color space: YUV
+Chroma subsampling : 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame) : 0.170
+Stream size: 416 MiB (91%)
+Writing library: x264 core 130 r2273 b3065e6
+
+Audio
+ID : 2
+Format : AAC
+Format/Info: Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 45mn 37s
+Bit rate mode: Variable
+Bit rate : 124 Kbps
+Maximum bit rate : 131 Kbps
+Channel(s) : 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode : Lossy
+Delay relative to video: 80ms
+Stream size: 40.4 MiB (9%)
+Language : English

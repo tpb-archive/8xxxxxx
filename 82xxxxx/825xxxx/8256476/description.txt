@@ -1,0 +1,75 @@
+Naruto Shippuden - Ep -  304
+
+"The Underworld Transfer Jutsu"
+
+Screens: 
+http://imageshack.us/a/img195/9756/horriblesubsnarutoshippg.jpg 
+http://imageshack.us/a/img824/6831/horriblesubsnarutoshippt.jpg 
+http://imageshack.us/a/img594/7167/horriblesubsnarutoshippr.jpg
+
+
+
+Media Info:
+
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 59.8 MiB 
+Duration : 23mn 9s 
+Overall bit rate mode : Variable 
+Overall bit rate : 361 Kbps 
+Encoded date : UTC 2013-03-14 15:14:05 
+Writing application : mkvmerge v6.1.0 ('Old Devil') built on Mar 2 2013 14:32:37 
+Writing library : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High 10@L4.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 4 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 23mn 9s 
+Bit rate : 300 Kbps 
+Width : 848 pixels 
+Height : 480 pixels 
+Display aspect ratio : 16:9 
+Frame rate mode : Constant 
+Frame rate : 23.976 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 10 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.031 
+Stream size : 47.7 MiB (80%) 
+Writing library : x264 core
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : Vorbis 
+Format settings, Floor : 1 
+Codec ID : A_VORBIS 
+Duration : 23mn 9s 
+Bit rate mode : Variable 
+Bit rate : 65.5 Kbps 
+Channel(s) : 1 channel 
+Sampling rate : 44.1 KHz 
+Compression mode : Lossy 
+Stream size : 10.9 MiB (18%) 
+Writing library : aoTuV
+Language : Japanese 
+Default : Yes 
+Forced : No 
+
+Text 
+ID : 3 
+Format : ASS 
+Codec ID : S_TEXT/ASS 
+Codec ID/Info : Advanced Sub Station Alpha 
+Compression mode : Lossless 
+Language : English 
+Default : Yes 
+Forced : No

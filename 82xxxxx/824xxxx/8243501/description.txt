@@ -1,0 +1,22 @@
+Title: The Crystal Key
+Genre: adventure / puzzle-solving / 1st-person
+Released: 22nd November 1999
+Developer: Earthlight Productions
+Publisher: DreamCatcher Interactive
+Description:
+Your quest for the Crystal Key will take you on an incredible adventure. Armed with only your wits, your journey will take you through fascinating lands of desert, jungle and water as you explore breathtaking worlds, each more beautiful and magical than the last. Rise to the challenge and let your wisdom, instinct and ingenuity lead the way. Carefully examine and solve each puzzle along your path. Secrets lie waiting to be unlocked and discovered by those who possess the Crystal Key. 
+
+How to play:
+1) Burn disc images on CDs or mount them on a virtual drive;
+2) Run Setup.exe on the first disc and install the game (but don't install QuickTime 4 when asked);
+3) Run CK_Letterbox.exe to patch the game (fixes display issues);
+4) Launch the game through its main executable or shortcuts with the first disc inserted (you will have to swap discs while playing).
+
+! Notice
+The game requires QuickTime to run and I suggest you use QuickTime Alternative instead of the old QuickTime version 4 which comes with the game. Run QuickTime_Alternative_322.exe to install it (you will have to uninstall other versions of QuickTime first). Newer versions of QuickTime might work, but I haven't tested it.
+
+! Notice
+The game ran fine for me on Windows 7 x64 with all the latest updates installed. I didn't have to use any special compatibility settings.
+
+! Warning
+There is a game-breaking bug which the developers of the game haven't fixed. When you encounter the error "cannot find file sunlight.tif", extract CK_Sunlight.zip to where you installed the game and overwrite the original file. This will advance your game to a state after the portion which doesn't work and you'll be able to continue playing.

@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,GSPT,2013-03-20T10:09Z,Can't get crack to work.
+,grogxD,2013-03-20T16:36Z,"To crack:
+
+1. Install FontLab.
+2. Open Patcher.
+3. Accept first message.
+4. Click ""Select FontLab Studio 5_App"".
+5. Choose installed application executable file. The one in /Applications, not the one in your downloads directory.
+6. Wait until program says executable is patched.
+7. Enjoy.
+
+If you are prompted for a user name you can put any name."
+,macgorilla,2013-03-20T20:56Z,"Thanks grogxD for the great seed! Unfortunately the patcher won't launch. When you double-click on it, nothing happens. Mac OSX Mountain Lion 10.8.2."
+,yay4bay,2013-03-20T21:49Z,same - 10.8.2
+,cmlim,2013-03-21T02:49Z,same - 10.8.3
+,grogxD,2013-03-22T22:17Z,"Check that non-identified developer's apps are allowed:
+
+1. Preference Panel.
+2. Security & Privacy.
+3. General.
+4. Allow applications downloaded from ""Anywhere"".
+
+Alternatively:
+
+1. Secondary click on patch.
+2. Open.
+3. Confirm you want to open a non-identified developer's application."
+,dombedos,2013-03-23T00:48Z,"I could not either use the patch file.
+I made a new one ; I made a new torrent, but without a permanent internet connection, I can't make sure I can seed regularly.
+http://thepiratebay.sx/torrent/8289079
+
+I can explain how I did it. Quite simple.
+go to http://ipatch.org to download iPatch.
+Launch iPatch. Create a new Patch with any original and modified files from your computer.
+Save new Patch.
+Edit new Patch application content and replace Contents/Resources with the similar folder provided in this torrent.
+
+"

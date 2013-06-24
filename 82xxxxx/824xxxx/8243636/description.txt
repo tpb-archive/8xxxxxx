@@ -1,0 +1,7 @@
+XCOM Enemy Unknown - Pe┼éne spolszczenie
+
+wklei─ç wszystko do XCOM Enemy UnkonwnxcomXComGame a potem zmieni─ç
+linijke Language=INT na POL w plikach:
+1. Documents/My Games/XCOM ? Enemy Unknown/XComGame/Config/XComEngine.ini
+2. XCOM/Engine/Config/BaseEngine.ini
+3. XCOM/XComGame/Config/DefaultEngine.ini 

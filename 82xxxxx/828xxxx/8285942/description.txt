@@ -1,0 +1,50 @@
+SSW Code Auditor
+
+Are you looking to eradicate bugs and ensure consistency?
+SSW Code Auditor is a code analysis tool that allows developers to take control of your code, ensuring large, complex source code can be simplified, cleaned and maintained. The built-in rules focus on the most popular .NET languages (C#, VB.NET) for both Windows Forms and ASP.NET; however, the flexibility of SSW Code Auditor allows the developer to add their own rules to target any language in any text file.
+As a project or company grows, managing code standards throughout your team becomes virtually impossible. Consistent code is crucial to future development and maintenance. SSW Code Auditor lets you take control of your code and automatically review your web apps and projects - giving you more opportunity to spend time where it really matters.
+Here at SSW, we face the problem of maintaining our standards across nearly five thousand web pages, over twenty active projects in both Visual Basic (6 and .NET) and C#. There comes a point where a tool to check our work is needed, this tool is SSW Code Auditor.
+SSW Code Auditor utilizes the power of Regular Expressions to audit your code. This powerful feature permits the user to write their own set of rules and have different rules for different projects.
+
+Key Features & Benefits:
+
+SSW Code Auditor allows you to:
+Verify that coding standards are maintained
+Prevent bad coding practices
+Seamlessly integrates with VS.NET
+
+More Technical Features:
+
+Code Auditor includes the ability to:
+Scan TFS Pending changes (Only if using VS 2012)
+Check any text file
+Check file names
+Scan project directories for code that violates your rules
+Perform deep traversal of directories
+Scan websites for HTML that violates your rules - including the information served by the web server!
+Validate HTML code by using the Tidy HTML engine
+Use the report that is written to an .mdb, or to export to XML
+Organize separate projects into jobs
+Allow exceptions to rules, thus ignoring files that you are aware of
+Full scheduling abilities with email alerts, providing regular automated checks on your code base
+Use Regular Expression to define more rules
+Regular Expression builder included
+
+System Requirements:
+
+.NET Framework 4.5 or later
+VS 2010 (VSIX extension)
+VS 2012 (VSIX extension)
+VS 2012 (if using TFS Pending changes scan)
+
+Homepage: http://www.ssw.com.au/ssw/CodeAuditor/
+
+Installation Instructions:
+
+- Install program.
+- Register application with given name/key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

@@ -1,0 +1,63 @@
+ http://imgr.us/images/dxmcs0kzfs41yozdkj8z.jpg
+
+Info:
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 691 MiB
+Duration : 1h 43mn
+Overall bit rate : 932 Kbps
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 2
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : DX50
+Codec ID/Hint : DivX 5
+Duration : 1h 43mn
+Bit rate : 854 Kbps
+Width : 720 pixels
+Height : 332 pixels
+Display aspect ratio : 2.2:1
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.119
+Stream size : 634 MiB (92%)
+Writing library : XviD 1.2.1 (UTC 2008-12-04)
+
+
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 43mn
+Bit rate mode : Constant
+Bit rate : 64.0 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 47.5 MiB (7%)
+Alignment : Aligned on interleaves
+Interleave, duration : 24 ms (0.72 video frame)
+Writing library : LAME3.98.4
+
+
+
+Screens: 
+http://imgr.us/images/uaq0fhzsvdvvoh1c4oh.png 
+http://imgr.us/images/a0jf55zihwqppr0btdeq.png 
+http://imgr.us/images/c3gmobh7aa27amhttb2.png

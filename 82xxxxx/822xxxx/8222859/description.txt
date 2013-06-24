@@ -1,0 +1,80 @@
+Greetings,
+We are few dutch guys providing you with quality movies including dutch subtitles.
+Our goal is to create torrents which are easy to download and don't require any different syncing with subtitles/formats.
+All our torrents are provided with optional dutch subtitles, if you like you can turn the subtitles off and insert your own .SRT
+
+For a list of our torrents visit 
+Or our website, which will be online anytime soon
+
+
+-------------
+Movie information:
+ 
+http://www.imdb.com/title/tt0111161
+9.3/10
+Andy Dufresne is a young and successful banker whose life changes drastically when he is convicted and sentenced to life imprisonment for the murder of his wife and her lover. Set in the 1940's, the film shows how Andy, with the help of his friend Red, the prison entrepreneur, turns out to be a most unconventional prisoner. 
+
+Original rip from DTS-KINGDOM
+-------------
+
+Video information:
+
+Video
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : High@L3.1
+Format_Settings_CABAC/String     : Yes
+Format_Settings_RefFrames/String : 6 frames
+CodecID                          : V_MPEG4/ISO/AVC
+Duration/String                  : 2h 22mn
+Width/String                     : 848 pixels
+Height/String                    : 480 pixels
+DisplayAspectRatio/String        : 16:9
+FrameRate_Mode/String            : Constant
+FrameRate/String                 : 23.976 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Encoded_Library/String           : x264 core 120
+Language/String                  : English
+Default/String                   : Yes
+Forced/String                    : No
+Color primaries                  : BT.709
+Transfer characteristics         : BT.709
+Matrix coefficients              : BT.709
+-------------
+
+Audio information:
+
+Audio
+ID/String                        : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format_Profile                   : LC
+CodecID                          : A_AAC
+Duration/String                  : 2h 22mn
+Channel(s)/String                : 2 channels
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+Video_Delay/String               : 21ms
+Language/String                  : English
+Default/String                   : Yes
+Forced/String                    : No
+-------------
+Subtitle information:
+
+Text
+ID/String                        : 3
+Format                           : UTF-8
+CodecID                          : S_TEXT/UTF8
+CodecID/Info                     : UTF-8 Plain Text
+Title                            : Dutch
+Language/String                  : Dutch
+Default/String                   : Yes
+Forced/String                    : No
+-------------
+
+Enjoy!

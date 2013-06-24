@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,jdpeen,2013-03-01T15:16Z,Any way to get this to work with Lightroom?
+,jdpeen,2013-03-02T20:05Z,hey thanks for the response. i checked the location of the LR Plugin. it is in appdata/adobe/lightroom/modules/perfectlyclear.lrplugin but it appears it doesnt use an .8bf file it uses a LUA instead? And also there are some dll's in the pcplugin folder in the athentech program files folder but no 8bf's

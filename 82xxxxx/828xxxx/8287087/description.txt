@@ -1,0 +1,21 @@
+This Kit can be used to Unbrick Aurora II to the Factory Android OS
+(Also tested on black screen issue)
+
+Manual Translation
+
+
+
+[ROM Release] Aurora II recovery image file. Quick and automatic repair for black screen (but working backlight) issue, as well as fake and real bricking of tablet.
+
+Wrong ROM flashed (black screen but with backlight on):
+1. First download feiyu DIY ROM 0609, copy the rom .zip file as well as the automatic ROM flashing script factory_update_param.aml to a fat32 formatted microSD card root directory.
+
+
+2. Insert the microSD card and switch off the device by holding the power button for 10 seconds (go to a dark area and observe that the backlight goes off)
+
+3. Attach the charging plug (unless you are sure your device is fully charged). Holding the Volume Minus button, hold the power button for four to five seconds and let go. Wait for a few minutes. The boot logo might not appear, so it is best to to observe the backlight in a dark area. The backlight would light up when it enters recovery mode and goes off when the flashing of ROM is done. The flashing of ROM is automated.
+
+4. Boot the tablet up normally
+
+
+[Instruction Kit in English PDF also included in the ZIP file]

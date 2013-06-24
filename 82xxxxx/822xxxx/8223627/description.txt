@@ -1,0 +1,55 @@
+General
+UniqueID/String                          : 224828378400251420403638020942273463456 (0xA9245EE1AAC7DDC1963BA47E436444A0)
+Nombre completo                          : I:Video CaptureUCL.MU.RMA.05.03.13.TVE.HDTV.720PUCL.MU.RMA.05.03.13.TVE.HDTV.720P.P1-1.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 382MB X 280MB X 370MB X 349MB
+Duración                                 : 28min. X 21min. X 26min. X 24min.
+Tasa de bits total                       : 1 862Kbps
+Fecha de codificación                    : UTC 2010-02-22 21:41:31
+Aplicación de codifición                 : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.2
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 28min.
+Tasa de bits                             : 1 505Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 50,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.033
+Tamaño de pista                          : 309MB (81%)
+Librería de codificación                 : x264 core 129 r2245 bc13772
+Opciones de codificación                 : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=umh / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=500 / keyint_min=50 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=26.8 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : E-AC-3
+Formato/Info                             : Audio Coding 3
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_EAC3
+Duración                                 : 28min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 320Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+Tamaño de pista                          : 65,6MB (17%)
+Default                                  : Si
+Forced                                   : No

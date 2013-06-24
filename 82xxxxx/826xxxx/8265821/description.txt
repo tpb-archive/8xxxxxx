@@ -1,0 +1,69 @@
+***********************************************************
+* Microsoft Office Professional Plus 2013 Volume Channel  *
+***********************************************************
+
+MSDN SOURCE:
+SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138.ISO
+
+Release File:
+Office_Professional_Plus_2013_VL_32Bit_En-US-Mar2013_X18-55138.iso
+Size: 926MB
+CRC32: E3EAEA4F
+MD5: 62C97CFAD51A8E9BC431D02F2BCECB20
+SHA-1: 13A8DB98BABAEE418AF2FBCF002D0709B5F26F6A
+
+Basically, what you have here is a beautiful MSDN ProPlus VL source
+and it has an updates folder. You can't simply toss the exe files
+from MS Download Center in the folder, but you can extract those files
+with 7-zip and then copy the en-US and the none.MSP files to there.
+You also have to add any proofing Spanish and French files or Update
+nags you.
+
+And that's exactly what I've done. These are all of the MSP files
+contained in MOST of the KB exe files available for download. There
+are still a few ones that don't have any MSP file inside, but
+they are very small. The non-MSP kb files total about 1-2megs on
+Microsoft Download. Those, you can do yourself. I cannot
+pre-integrate those without making a fully custom install using
+a bunch of registry settings, task settings, services, etc.
+Basically, just not gonna happen; would be a mistake to even try.
+
+MSP files added to Updates Folder:
+access-x-none.msp, ace-x-none.msp, convintl-en-us.msp,
+csi-x-none.msp, excel-x-none.msp, excelintl-en-us.msp,
+groove-x-none.msp, grooveintl-en-us.msp, lync-x-none.msp,
+lyncintl-en-us.msp, msmipc-x-none.msp, mso-x-none.msp,
+msointl-en-us.msp, msores-x-none.msp, oart-x-none.msp,
+onenote-x-none.msp, osetup-x-none.msp, outlfltr-x-none.msp,
+outlook-x-none.msp, outlookintl-en-us.msp, powerpoint-x-none.msp,
+powerpointintl-en-us.msp, project-x-none.msp, proof-en-us.msp,
+proof-es-es.msp,visio-x-none.msp,
+visiointl-en-us.msp, vviewer-x-none.msp, word-x-none.msp
+
+You can activate using MS Toolkit 2.4.1.
+Click the office button, then activation tab, etc.
+If you install AutoKMS you will need to allow it through any A/V
+programs. It has been blacklisted for being an insanely fast,
+basically perfect Offline KMS Activator.  You can also use
+KMS Server Service, which is a dropdown option if you click on
+AutoKMS.  With that service though, you will need to create
+a re-activation script and task. I have instructions on MDL at: 
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products/page348?p=731096&viewfull=1#post731096
+
+*ACTIVATE Office with the MTK first!*
+
+You can delete the line with SLMGR if you don't activate windows
+with this. It will just attempt to re-activate windows. This is
+not desirable unless you also need to activate your VL version
+of windows. If you want to also activate windows, you have to
+install a gVLK key. You can do this by running the admin cmd prompt:
+SLMGR /ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+
+Find gVLK keys online by searching for them. they're not a secret.
+
+I recommend getting and using Advanced Tokens Manager to backup
+any legit retail Windows or Office activations before attempting
+to use any KMS activator.
+
+Enjoy Pirates,
+murphy78-TPB

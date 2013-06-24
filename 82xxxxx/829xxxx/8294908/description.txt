@@ -1,0 +1,98 @@
+ http://imgr.us/images/24f1o2hm14odfoosze1t.jpg
+
+Info:
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 683 MiB
+Duration : 2h 4mn
+Overall bit rate : 769 Kbps
+Encoded date : UTC 2013-03-23 21:07:02
+Tagged date : UTC 2013-03-23 21:57:43
+Writing application : HandBrake 0.9.8 2012071700
+
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 2h 4mn
+Bit rate mode : Variable
+Bit rate : 380 Kbps
+Width : 720 pixels
+Height : 320 pixels
+Display aspect ratio : 2.25:1
+Frame rate mode : Variable
+Frame rate : 23.976 fps
+Minimum frame rate : 8.000 fps
+Maximum frame rate : 500.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.069
+Stream size : 337 MiB (49%)
+Writing library : x264 core 120
+Encoded date : UTC 2013-03-23 21:07:02
+Tagged date : UTC 2013-03-23 21:57:43
+Material_Duration : 7455363
+Material_StreamSize : 353819957
+Material_FrameCount : 178744
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+
+Audio #1
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 2h 4mn
+Bit rate mode : Variable
+Bit rate : 158 Kbps
+Maximum bit rate : 271 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 141 MiB (21%)
+Encoded date : UTC 2013-03-23 21:07:02
+Tagged date : UTC 2013-03-23 21:57:42
+Material_Duration : 7455394
+Material_StreamSize : 147447410
+
+
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : ac-3
+Duration : 2h 4mn
+Bit rate mode : Constant
+Bit rate : 224 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 199 MiB (29%)
+Encoded date : UTC 2013-03-23 21:07:02
+Tagged date : UTC 2013-03-23 21:57:42
+Material_Duration : 7455347
+Material_StreamSize : 208749714
+
+
+
+Screens: 
+http://imgr.us/images/pm62xp3eqlgyb8oizio9.jpg

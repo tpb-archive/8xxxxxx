@@ -1,0 +1,203 @@
+﻿Filename,Size,Unit
+00 Introduction/79825_00_01_SC03_intro.mov,4.57,M
+00 Introduction/79825_00_02_SC11_exercisefiles.mov,1005.82,K
+00 Introduction/79825_00_03_SC11_shouldknow.mov,1.3,M
+00 Introduction/79825_00_04_SC11_CHANGES.mov,15.04,M
+01 Getting Started/79825_01_01_SC11_sdkwin.mov,8.01,M
+01 Getting Started/79825_01_02_SC11_sdkmac.mov,2.47,M
+01 Getting Started/79825_01_03_SC11_installpackages.mov,4.93,M
+01 Getting Started/79825_01_04_SC11_virtualdevices.mov,7.46,M
+01 Getting Started/79825_01_05_SC11_eclipsemac.mov,4.88,M
+01 Getting Started/79825_01_06_SC11_eclipsewin.mov,7.14,M
+01 Getting Started/79825_01_07_SC11_adt.mov,8.45,M
+01 Getting Started/79825_01_08_SC11_preparedevice.mov,2.38,M
+02 Android App Fundamentals/79825_02_01_SC11_overview.mov,8.91,M
+02 Android App Fundamentals/79825_02_02_SC11_projectstructure.mov,12.92,M
+02 Android App Fundamentals/79825_02_03_SC11_manifest.mov,6.46,M
+02 Android App Fundamentals/79825_02_04_SC11_activities.mov,25.22,M
+02 Android App Fundamentals/79825_02_05_SC11_explicitintents.mov,14.64,M
+02 Android App Fundamentals/79825_02_06_SC11_implicitintents.mov,14.13,M
+02 Android App Fundamentals/79825_02_07_SC11_resources.mov,15.17,M
+02 Android App Fundamentals/79825_02_08_SC11_permissions.mov,11.21,M
+02 Android App Fundamentals/79825_02_09_SC11_debugging.mov,20.78,M
+03 The User Interface and Controls/79825_03_00_SC11_units.mov,10.07,M
+03 The User Interface and Controls/79825_03_01_SC11_layout.mov,9.84,M
+03 The User Interface and Controls/79825_03_02_SC11_text.mov,11.04,M
+03 The User Interface and Controls/79825_03_03_SC11_buttons.mov,11.17,M
+03 The User Interface and Controls/79825_03_04_SC11_lists.mov,10.8,M
+03 The User Interface and Controls/79825_03_05_SC11_customlists.mov,22.7,M
+03 The User Interface and Controls/79825_03_06_SC11_othercontrols.mov,4.21,M
+04 Graphics and Styling/79825_04_01_SC11_styles.mov,14.51,M
+04 Graphics and Styling/79825_04_02_SC11_themes1.mov,8.14,M
+04 Graphics and Styling/79825_04_03_SC11_icons.mov,14.35,M
+04 Graphics and Styling/79825_04_04_SC11_ninepatch.mov,14.99,M
+05 Supporting Multiple Screens/79825_05_01_SC11_screendensities.mov,6.59,M
+05 Supporting Multiple Screens/79825_05_02_SC11_alternatelayouts.mov,9.13,M
+06 Animation and Graphics/79825_06_01_SC11_framebyframe.mov,16.52,M
+06 Animation and Graphics/79825_06_02_SC11_tween.mov,15.73,M
+06 Animation and Graphics/79825_06_03_SC11_2ddrawing.mov,9.25,M
+07 Menus and Dialogs/79825_07_01_SC11_options.mov,14.4,M
+07 Menus and Dialogs/79825_07_02_SC11_context.mov,11.33,M
+07 Menus and Dialogs/79825_07_03_SC11_alert.mov,11.21,M
+07 Menus and Dialogs/79825_07_04_SC11_progress.mov,8.75,M
+07 Menus and Dialogs/79825_07_05_SC11_customdialog.mov,8.83,M
+08 Notifications and Toast/79825_08_01_SC11_status.mov,22.9,M
+08 Notifications and Toast/79825_08_02_SC11_toast.mov,5.87,M
+09 Working with Media/79825_09_01_SC11_audio.mov,6.59,M
+09 Working with Media/79825_09_02_MM11_video.mov,12.97,M
+09 Working with Media/79825_09_03_MM11_camera.mov,19.98,M
+10 Preferences and Data Storage/79825_10_01_SC11_shared.mov,12.76,M
+10 Preferences and Data Storage/79825_10_02_SC11_preferences.mov,14.71,M
+10 Preferences and Data Storage/79825_10_03_SC11_sqlite.mov,14.61,M
+10 Preferences and Data Storage/79825_10_04_SC11_network.mov,17.69,M
+10 Preferences and Data Storage/79825_10_05_SC11_contentproviders.mov,10.61,M
+11 Locations and Maps/79825_11_01_SC11_maps.mov,24.08,M
+11 Locations and Maps/79825_11_02_SC11_location.mov,22.09,M
+12 Creating a Home Screen Widget/79825_12_01_SC11_widget.mov,32.3,M
+12 Creating a Home Screen Widget/79825_12_02_SC11_configure.mov,29.85,M
+13 Publishing Your App/79825_13_01_SC11_prepare.mov,5.56,M
+13 Publishing Your App/79825_13_02_SC11_signing.mov,5.11,M
+13 Publishing Your App/79825_13_03_SC11_preparegraphics.mov,9.28,M
+13 Publishing Your App/79825_13_04_SC11_publishing.mov,14.66,M
+14 Conclusion/79825_14_01_MM11_samples.mov,14.51,M
+14 Conclusion/79825_14_02_SC11_resources.mov,9.39,M
+Exercise Files/Assets/amsterdam.jpg,166.92,K
+Exercise Files/Assets/animation/animation_00031.png,5.01,K
+Exercise Files/Assets/animation/animation_00032.png,5.07,K
+Exercise Files/Assets/animation/animation_00033.png,5.08,K
+Exercise Files/Assets/animation/animation_00034.png,5.08,K
+Exercise Files/Assets/animation/animation_00035.png,4.95,K
+Exercise Files/Assets/animation/animation_00036.png,4.7,K
+Exercise Files/Assets/animation/animation_00037.png,5.01,K
+Exercise Files/Assets/animation/animation_00038.png,5.02,K
+Exercise Files/Assets/animation/animation_00039.png,5.05,K
+Exercise Files/Assets/animation/animation_00040.png,4.97,K
+Exercise Files/Assets/animation/animation_00041.png,4.13,K
+Exercise Files/Assets/animation/animation_00042.png,4.91,K
+Exercise Files/Assets/animation/animation_00043.png,4.65,K
+Exercise Files/Assets/animation/animation_00044.png,4.76,K
+Exercise Files/Assets/animation/animation_00045.png,4.77,K
+Exercise Files/Assets/animation/animation_00046.png,4.88,K
+Exercise Files/Assets/animation/animation_00047.png,4.9,K
+Exercise Files/Assets/animation/animation_00048.png,4.43,K
+Exercise Files/Assets/animation/animation_00049.png,4.11,K
+Exercise Files/Assets/animation/animation_00050.png,4.2,K
+Exercise Files/Assets/animation/animation_00051.png,4.34,K
+Exercise Files/Assets/animation/animation_00052.png,4.96,K
+Exercise Files/Assets/animation/animation_00053.png,4.68,K
+Exercise Files/Assets/animation/animation_00054.png,5.04,K
+Exercise Files/Assets/animation/animation_00055.png,4.98,K
+Exercise Files/Assets/animation/animation_00056.png,4.76,K
+Exercise Files/Assets/animation/animation_00057.png,4.87,K
+Exercise Files/Assets/animation/animation_00058.png,4.57,K
+Exercise Files/Assets/animation/animation_00059.png,4.72,K
+Exercise Files/Assets/animation/animation_00060.png,4.8,K
+Exercise Files/Assets/animation/animation_00061.png,4.92,K
+Exercise Files/Assets/animation/animation_00062.png,4.94,K
+Exercise Files/Assets/animation/animation_00063.png,4.96,K
+Exercise Files/Assets/bea.jpg,3.37,K
+Exercise Files/Assets/beep.mp3,1.43,K
+Exercise Files/Assets/gloss_button.psd,76.68,K
+Exercise Files/Assets/icon_template.psd,407.24,K
+Exercise Files/Assets/lima.jpg,161.68,K
+Exercise Files/Assets/vid.mp4,3.25,M
+Exercise Files/Ch2/Explicit_Intents/.project,852,B
+Exercise Files/Ch2/Explicit_Intents/AndroidManifest.xml,868,B
+Exercise Files/Ch2/Explicit_Intents/bin/classes.dex,3.79,K
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/explicit_intents/Main$1.class,1.38,K
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/explicit_intents/Main.class,1.06,K
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/explicit_intents/Second.class,962,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R$attr.class,355,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R$drawable.class,415,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R$id.class,466,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R$layout.class,439,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R$string.class,442,B
+Exercise Files/Ch2/Explicit_Intents/bin/com/leebrimelow/intents/R.class,566,B
+Exercise Files/Ch2/Explicit_Intents/bin/Explicit_Intents.apk,14.52,K
+Exercise Files/Ch2/Explicit_Intents/bin/resources.ap_,10.87,K
+Exercise Files/Ch2/Explicit_Intents/default.properties,363,B
+Exercise Files/Ch2/Explicit_Intents/gen/com/leebrimelow/intents/R.java,903,B
+Exercise Files/Ch2/Explicit_Intents/proguard.cfg,1.13,K
+Exercise Files/Ch2/Explicit_Intents/res/drawable-hdpi/icon.png,4.05,K
+Exercise Files/Ch2/Explicit_Intents/res/drawable-ldpi/icon.png,1.68,K
+Exercise Files/Ch2/Explicit_Intents/res/drawable-mdpi/icon.png,2.51,K
+Exercise Files/Ch2/Explicit_Intents/res/layout/main.xml,533,B
+Exercise Files/Ch2/Explicit_Intents/res/layout/second.xml,359,B
+Exercise Files/Ch2/Explicit_Intents/res/values/strings.xml,162,B
+Exercise Files/Ch2/Explicit_Intents/src/com/leebrimelow/explicit_intents/Main.java,943,B
+Exercise Files/Ch2/Explicit_Intents/src/com/leebrimelow/explicit_intents/Second.java,527,B
+Exercise Files/Ch3/Custom_Lists/.project,848,B
+Exercise Files/Ch3/Custom_Lists/AndroidManifest.xml,681,B
+Exercise Files/Ch3/Custom_Lists/bin/classes.dex,2.64,K
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/Main.class,845,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R$array.class,408,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R$attr.class,352,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R$drawable.class,558,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R$layout.class,406,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R$string.class,439,B
+Exercise Files/Ch3/Custom_Lists/bin/com/leebrimelow/custom/R.class,565,B
+Exercise Files/Ch3/Custom_Lists/bin/Custom_Lists.apk,19.25,K
+Exercise Files/Ch3/Custom_Lists/bin/resources.ap_,15.92,K
+Exercise Files/Ch3/Custom_Lists/default.properties,363,B
+Exercise Files/Ch3/Custom_Lists/gen/com/leebrimelow/custom/R.java,1001,B
+Exercise Files/Ch3/Custom_Lists/proguard.cfg,1.13,K
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/brazil.png,1.57,K
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/france.png,637,B
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/icon.png,4.05,K
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/japan.png,705,B
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/russia.png,487,B
+Exercise Files/Ch3/Custom_Lists/res/drawable-hdpi/usa.png,830,B
+Exercise Files/Ch3/Custom_Lists/res/drawable-ldpi/icon.png,1.68,K
+Exercise Files/Ch3/Custom_Lists/res/drawable-mdpi/icon.png,2.51,K
+Exercise Files/Ch3/Custom_Lists/res/layout/main.xml,377,B
+Exercise Files/Ch3/Custom_Lists/res/values/countries.xml,260,B
+Exercise Files/Ch3/Custom_Lists/res/values/strings.xml,167,B
+Exercise Files/Ch3/Custom_Lists/src/com/leebrimelow/custom/Main.java,527,B
+Exercise Files/Ch3/List_Controls/.project,849,B
+Exercise Files/Ch3/List_Controls/AndroidManifest.xml,680,B
+Exercise Files/Ch3/List_Controls/bin/classes.dex,2.5,K
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/Main.class,855,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R$array.class,405,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R$attr.class,349,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R$drawable.class,409,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R$layout.class,403,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R$string.class,436,B
+Exercise Files/Ch3/List_Controls/bin/com/leebrimelow/lists/R.class,558,B
+Exercise Files/Ch3/List_Controls/bin/List_Controls.apk,13.36,K
+Exercise Files/Ch3/List_Controls/bin/resources.ap_,10.38,K
+Exercise Files/Ch3/List_Controls/default.properties,363,B
+Exercise Files/Ch3/List_Controls/gen/com/leebrimelow/lists/R.java,744,B
+Exercise Files/Ch3/List_Controls/proguard.cfg,1.13,K
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/Brazil.png,1.57,K
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/France.png,637,B
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/icon.png,4.05,K
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/Japan.png,705,B
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/russia.png,487,B
+Exercise Files/Ch3/List_Controls/res/drawable-hdpi/usa.png,830,B
+Exercise Files/Ch3/List_Controls/res/drawable-ldpi/icon.png,1.68,K
+Exercise Files/Ch3/List_Controls/res/drawable-mdpi/icon.png,2.51,K
+Exercise Files/Ch3/List_Controls/res/layout/main.xml,380,B
+Exercise Files/Ch3/List_Controls/res/values/countries.xml,294,B
+Exercise Files/Ch3/List_Controls/res/values/strings.xml,168,B
+Exercise Files/Ch3/List_Controls/src/com/leebrimelow/lists/Main.java,584,B
+Exercise Files/Ch6/Graphics_2D/.project,847,B
+Exercise Files/Ch6/Graphics_2D/AndroidManifest.xml,683,B
+Exercise Files/Ch6/Graphics_2D/bin/classes.dex,2.09,K
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/Main.class,505,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R$attr.class,358,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R$drawable.class,418,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R$id.class,403,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R$layout.class,412,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R$string.class,445,B
+Exercise Files/Ch6/Graphics_2D/bin/com/leebrimelow/graphics/R.class,573,B
+Exercise Files/Ch6/Graphics_2D/bin/Graphics_2D.apk,13.1,K
+Exercise Files/Ch6/Graphics_2D/bin/resources.ap_,10.33,K
+Exercise Files/Ch6/Graphics_2D/default.properties,363,B
+Exercise Files/Ch6/Graphics_2D/gen/com/leebrimelow/graphics/R.java,742,B
+Exercise Files/Ch6/Graphics_2D/proguard.cfg,1.13,K
+Exercise Files/Ch6/Graphics_2D/res/drawable-hdpi/icon.png,4.05,K
+Exercise Files/Ch6/Graphics_2D/res/drawable-ldpi/icon.png,1.68,K
+Exercise Files/Ch6/Graphics_2D/res/drawable-mdpi/icon.png,2.51,K
+Exercise Files/Ch6/Graphics_2D/res/layout/main.xml,453,B
+Exercise Files/Ch6/Graphics_2D/res/values/strings.xml,166,B
+Exercise Files/Ch6/Graphics_2D/src/com/leebrimelow/graphics/Main.java,340,B

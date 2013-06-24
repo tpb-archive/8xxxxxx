@@ -1,0 +1,22 @@
+This is the re-upload for Zygor Guides version 4.0.6090, released March 13th, 2013.
+
+The last torrent had an issue which caused seeding from my end to freeze at 67.8%. This torrent fixes the issue. My apologies.
+
+
+
+
+Changelog from last version:
+
+
+Version: 4.0.6090
+Released on: March 13th, 2013
+[A] Dailies
+updated the new MOP dailies.
+
+[H] 5.2 Dailies
+Added missing quests for stage 2.
+Version: 4.0.6085
+Released on: March 13th, 2013
+* Loading a guide now starts it in unpaused mode, so it'll start completing immediately.
+* Ctrl-clicking the &lt;- arrow now restarts the current guide at step 1 (no more "skip manually to beginning" mayhem!)
+* Improved instructions on how to handle Arcanital Mara'kah's protection fields in the Ally Scenario 1 boss fight in Thunder Isle.

@@ -1,0 +1,30 @@
+Plik ISO
+
+---------- 
+Adobe Photoshop CS4 Extended Keygen. 
+---------- 
+Jak to zrobić
+---------- 
+- Uruchom program instalacyjny Adobe Photoshop CS4 Extended
+- Uruchom Keygena
+- Wygeneruj serial
+- Wprowadź serial w odpowiednie pola 
+- Przejdź do C: /Windows /System32 /drivers /etc. 
+- Znajdź plik "Hosts" oraz kliknij dwukrotnie na jego ikone
+- Z okna aplikacji wybierz "Notatnik" po czym naciśnij OK
+
+Powinno otworzyć się okienko tekstowe w którym znajdziesz poniższe wyrażenie:
+
+127.0.0.1 localhost 
+
+
+Wprowadź druga linijkę tak jak to widać poniżej:
+
+127.0.0.1 localhost 
+127.0.0.1 activate.adobe.com 
+ 
+
+- Teraz wybierz Plik -> Zapisz
+- Zamknij Notatnik 
+- Dokończ instalację Photoshop CS4 Extended
+- Enjoy!

@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-01T11:34Z,"I know it's technically March now, but forgive me. I accidently deleted my whole win7 integration folder and most of my win8 integration folder. I had to re-do everything from scratch. Enjoy the new IE10 and USB3 additions folks."
+,thegamer,2013-03-01T12:39Z,"Hi Murphy78, I downloaded your last windows 7 and I'm very impressed with it I've installed it on a couple of computers and a couple of laptops and once done it comes up with the make of the computer motherboard or laptop as a desktop screen very nice, WELL DONE M8
+keep up the goodwork.
+thegamer."
+,neilzzz01,2013-03-01T14:34Z,"Great Job mate for the update!
+Well, Hope to see also the Windows 8 AIO DaRT8 USB3 IE10 NET45 from you soon, but necessarily this Feb2013 or March2013, Im still using your Windows 8 AIO 18in1 en-US DaRT8 Jan2013, and its awesome!"
+[V],murphy78,2013-03-01T14:34Z,yw bud
+[V],murphy78,2013-03-01T14:43Z,"win8 already has usb3, ie10, and net45 by default, but I'll make a good one with net2-3.5.1 support, toss in the newer defender updates, and do everything offline with dism just like I did with this one.  I'm pretty happy with the way this turned out. The size is small, all things considered, and there's no junk data that gets created during a sysprep.
+
+It's like I said on my vista AIO, I'll probably just stick to offline dism integration for everything. Consider the win7ultsp1 and win8pro for feb2013 kind-of a fluke. They should technically work just fine, but I don't like capturing images with junk data.  Win8's cleanmgr does a good job of cleaning up any downloaded updates, but win7 doesn't. They both don't seem to delete the admin account afterward.
+
+anyhow, got sleep to try and make up."
+,Sonic_27,2013-03-01T16:02Z,Sweet....Thanks =)
+,BlackDragontc,2013-03-01T19:38Z,Thank you for this release!!
+[V],murphy78,2013-03-01T19:39Z,"I think one of the USB drivers is actually Etron, not Entron. It's just a typo, there's nothing wrong with the actual drivers."
+,s_t_o_r_m,2013-03-01T20:23Z,"Hi murphy78, I see that you are doing a good job here. I have a question. Is there a way to change or add other language? This Windows is in English. What I had to do, to have it in Polish?"
+[V],murphy78,2013-03-01T21:15Z,"I'm not sure exactly if/how you would do it for most of the indexes, but I believe you can download languages in windows update on ultimate and enterprise and then just change the language from control panel.
+
+I've tried many times to release non-english stuff and people just don't download them very much. Partly because I cannot really advertise everything in the native language, and partly because it just isn't as popular.
+
+If the add language thing works for you, great. If not, you can always try your hand at integration. You can use offline methods or audit mode / sysprep.  I think there is pretty much every language RTM on full-packs_com"
+,_viruzz_,2013-03-01T21:32Z,"@s_t_o_r_m
+
+you can always install windows 7 ultimate then download language pack from updates, or install the windows 7 version you want and use Vistalizator to change to the language you want.
+
+Vistalizator page:
+
+ www.froggie.sk/"
+,pankaj.kr,2013-03-02T04:15Z,"hello murphy78.. m very big fan of urs...i just luv ur uploads...plz upload the seperate torrent for 32 bit and 64 bit updated till march (may be till date wen u upload)..+IE10 ""Final"" (released on 26th feb)..thanx in advance.."
+,pankaj.kr,2013-03-02T04:18Z,hello murphy ..m big fan of urs...just luv ur uploads...plz upload the seperate 32 bit and 64 bit updated till march (may be till date u upload) with IE 10 FINAL released on 26 feb..thanx in advance..
+,s_t_o_r_m,2013-03-02T04:24Z,"Thanks guys, I'll try."
+[V],murphy78,2013-03-02T12:37Z,"I plan on doing an ultimate specific version of this with the march 11 patch date. It may be a few days behind, I try to get a win8 out first."
+,alvester,2013-03-02T12:43Z,"Hi there Murphy. I wanted to install this release ""Windows 8 Pro VL x64 Perm Re-Activation Feb2013"" in UEFI mode. So I changed my boot mode from Legacy to UEFI in BIOS. But it didn't boot from USB. I did a little bit of research and found that you need to boot from FAT32 formatted USB while Windows 7 USB Tool formats it NTFS. Since FAT32 supports file less than 4GB and this release consists of a file more than 4GB, I ended up formatting my USB Drive with exFAT format and it still boot from it. Can you please help me with this. Awaiting response. Thanks"
+,alvester,2013-03-02T14:29Z,@scoalait I know how to install windows from usb. I just don't know how to get it ready to install it in uefi mode.
+,extracube,2013-03-03T17:07Z,"Question for uploader and anyone / everyone else.  I wonder what would happen if you installed this OS, then after a few weeks changed your motherboard (to a different brand -- i.e. from gigabyte to Asus), as well as graphix card.  Would the OS mess up / crash, or would it autoload under the new intro screen to the changed brand?"
+,MicahA,2013-03-03T19:53Z,"Can you give me a walk through on how to do this? I'm new to installing operating systems. Also what is KMS? like i said, I'm fairly new to this."
+,sethiansh,2013-03-04T06:44Z,"murphy78
+buddy waitin for your ultimate rip...
+hpe 2 see both 32 n 64 bit in it..
+n u truly did a lot of hardwork in this...hats off to u.."
+,natanaelcd,2013-03-05T09:20Z,Thanks
+,ssgokou,2013-03-05T11:20Z,Dammit Seed people! A lot of seeders but nobody's seeding -_-'
+,david-lynch,2013-03-05T22:19Z,"Huge thanks for such a great work, murphy78! :)
+
+Could someone please tell us where to find a good tutorial on how to prepare a USB flash drive to use this image?
+
+Thanks!"
+,russianhornybear,2013-03-07T10:44Z,"@ david-lynch 
+Just install Microsoft Windows 7 USB DVD tool and push next..
+@murphy78
+I think if Win 7 or 8 installed on formatted partitions w/o hidden recovery 300mb thingy ,will be no DART and so on. Need to use DVD or USB to be able to access it?"
+,humannature,2013-03-07T11:35Z,"Hi!
+Would you tell me please, how to split this iso in only one x64 edition iso to fit  on a blank 4.7 DVD?
+Thank you so much  in advance !"
+,david-lynch,2013-03-08T04:44Z,"@ russianhornybear:
+Thank you :)
+
+@ humannature:
+I would like to know that, too :)"
+,mrthuvi,2013-03-11T05:30Z,"THANK YOU, murphy78. I only created this account to say thank you. KEEP UP THE GOOD WORK MAN! "
+[V],murphy78,2013-03-11T13:07Z,"I'm starting to get the UEFI boot question a lot now. You guys are going to have to find a UEFI usb conversion program. It's not super difficult. You can do it with diskpart if you first use a tool to create a hidden extra partition.
+
+There's a tool called rmusbpreptool or something like that. I found it searching for ways to make a windows 8 to go usb stick. That tool can prep your drive with the extra hidden partition, and they also have instructions on their site about making uefi partition stuff with diskpart.
+
+It's kind-of a pain in the ass, but until someone makes a dvd-to-usb tool that supports UEFI, you're kind-of stuck using that workaround."
+[V],murphy78,2013-03-11T13:10Z,"@humannature, I will try not to make multi-disc AIO versions as long as I possibly can. It's really better to just use a single-install version if you want to save disc space.  I plan on rolling out a new Ultimate version for IE10, USB3, and NET45 in a few days for tommorrow's patch date."
+,NaJeEb303,2013-05-02T11:27Z,"PLZZ PLZZ, i need windows 7 ultimate 32 & 64 bit pre-activated , LATEST!!!
+Will be greatly appreaciated .. not 32 bit and 64 bit separately, in a single iso file.... pre-activated!!
+Please Upload...!"

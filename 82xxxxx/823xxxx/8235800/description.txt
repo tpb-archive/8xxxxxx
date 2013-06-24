@@ -1,0 +1,75 @@
+
+
+Cover -
+ 
+http://desibbrg.org/images/63189394221076257776.jpg
+
+
+
+
+
+Screens -
+
+
+ 	http://desibbrg.org/images/79574856039659331912.jpg
+    	http://desibbrg.org/images/88821827483196643478.jpg
+    	http://desibbrg.org/images/20492346770593370927.jpg
+    	http://desibbrg.org/images/11435420999966204384.jpg
+    	http://desibbrg.org/images/33955054925990127315.jpg
+    	http://desibbrg.org/images/24179393891209214096.jpg
+    	http://desibbrg.org/images/55506276071011713688.jpg
+    	http://desibbrg.org/images/80129136762044065642.jpg
+    	http://desibbrg.org/images/84044386993221754099.jpg
+
+
+INfo - 
+
+General
+
+Format                           : Matroska
+File size                        : 875 MiB
+Duration                         : 2h 29mn
+Overall bit rate                 : 817 Kbps
+Encoded date                     : UTC 2013-02-11 08:07:41
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 29mn
+Nominal bit rate                 : 703 Kbps
+Width                            : 720 pixels
+Height                           : 400 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.102
+Writing library                  : x264 core 120
+Language                         : English
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : A_AAC
+Duration                         : 2h 29mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+
+Text
+ID                               : 3
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text

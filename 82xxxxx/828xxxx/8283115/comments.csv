@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,kwjhaa,2013-03-21T20:52Z,About to DL... will inform you all if it is good :)
+,stephon_,2013-03-21T22:22Z,"is there ark upgrades offline fix ?
+there was no way to finish standard campaign"
+,Darknote,2013-03-22T17:07Z,"There is no Text whenever I play the game. Checked the steam forums and apparently, you need to run the autopatcher to update the game. Apparently, as pirates, you can't :("
+,Darknote,2013-03-22T17:12Z,"Alright, found a fix.
+Go to:
+C:Users%username%AppDataRoamingUbisoftANNO 2070Config
+Change 
+ger
+to eng
+(NOTE: Open with notepad.)
+Worked for me :3"
+,budwar65,2013-03-22T18:13Z,"In Config located the line ger and change the ger to your preferred language, ie: eng"
+,budwar65,2013-03-22T18:16Z,line LanguageTAG ger LanguageTAG
+,artinjulio,2013-03-31T07:15Z,Error in torrent at 4.0 Gb. Two times
+,artinjulio,2013-03-31T07:26Z,Error on setup.exe file
+,Hououin,2013-04-06T02:20Z,This was the only torrent of Anno 2070 that worked flawlessly for me. (over the other RELOADED torrent: http://thepiratebay.sx/torrent/6845517/Anno_2070-RELOADED) Great upload dude.
+,MichaelSeph,2013-04-09T01:50Z,"How is this an updated version of the game with the expansion included, in only 4 gb ? It doesn't mention any detail on having all the pieces, just the title and image...
+
+Does it has what it says ?"
+,Bunions,2013-04-20T05:22Z,"2 things.
+
+I get random crashes during gameplay it will display my desktop instead of the game I guess I will check to make sure my video drivers are up to date. Is or has this happened to anyone 
+else?
+
+You can still use the ark and basic research project in offline mode IF ark storage is turned OFF on game startup, such as the case in all scenarios, and if you choose so in continuous game mode. This allows you to still use the Ark, upgrade it, and do basic research projects, they just won't carry over into another game.
+"
+,rathaga,2013-05-11T16:40Z,"So I've followed the instructions and I'm still getting a ""Cannot connect to server"" message whenever I try to log in.
+
+Any ideas?"
+,Fredrik00,2013-05-19T15:56Z,Doesn't work. Keep getting lost connection to server.
+,Fredrik00,2013-05-19T17:28Z,"Nvm, move Accounts folder and not the Profile folder to ""C:Users[UserName]AppDataRoamingUbisoftANNO 2070"" and it should work."

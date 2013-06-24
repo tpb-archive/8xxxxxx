@@ -1,0 +1,69 @@
+Season 10 Episode 2 of 8
+Little Ant and Dec take on their first assignment - meeting a Hollywood superstar - and talk-show host Jeremy Kyle is the target of the Geordie duo's most ambitious undercover prank to date. One unsuspecting viewer is given the chance to win a trip to Las Vegas in Place on the Plane and a member of the studio audience plays for the contents of a commercial break in Win the Ads. Plus, an end-of-show performance by one of the world's biggest pop stars.
+
+
+
+
+
+
+
+
+General
+Complete name                         : Ant.And.Decs.Saturday.Night.Takeaway.S10E02.WS.PDTV.XviD-W33D.avi
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Format profile                           : OpenDML
+Format settings                          : rec
+File size                                : 458 MiB
+Duration                                 : 59mn 33s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 076 Kbps
+Writing application                      : AVI-Mux GUI 1.17.8.3, Feb 16 201019:42:50
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 1
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 59mn 33s
+Bit rate                                 : 936 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.166
+Stream size                              : 399 MiB (87%)
+Writing library                          : XviD 1.1.2 (UTC 2006-11-01)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 59mn 33s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 56.1 MiB (12%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.60 video frame)
+Interleave, preload duration             : 189 ms
+Writing library                          : LAME3.90.
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.6 --abr 128

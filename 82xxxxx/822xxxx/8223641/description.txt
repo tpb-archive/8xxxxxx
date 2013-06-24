@@ -1,0 +1,44 @@
+Γÿà Video Format Extension
+Γ£ö Support High quality video clips ( 720P, 1080P )
+- MKV,AVI,MP4,MOV,M4V
+Γ£ö XVID,AVI,WMV,RMVB,ASF,H264,MKVΓÇª most of all movie file formats.
+Γ£ö SMI, SRT, TXT, SubStationAlpha Subtitles
+Γÿà Post Processing
+Γ£ö High quality video processing
+Γ£ö Sepia,Grayscale,Colorize
+Γ£ö TV-Out
+Γÿà Control the playback speed (From 0.5X to 2.0X)
+Γ£ö User setting support
+-Sweep to the left : move to backword 10 sec
+-Sweep to the right : move to forward 10 sec
+-Sweep to the top : 1.5X speed
+-Sweep to the down : normal speed
+Γÿà Additional features
+Γ£ö Rotation Lock / Aspect ratio:auto/16:9/4:3/1:1/Full screen
+Γ£ö Folder Management:Pass code/Move/Rename/Create
+Γ£ö Resume play from last position
+Γ£ö Scrubbing search
+Γ£ö supports e-mail attachment by ΓÇ£Open InΓÇ¥ feature
+Γÿà USB/WIFI Transfer
+Γùå Note
+1. How to add video with USB
+- Run iTunes 9.1 or above
+- Device-&gt;My Device(My iPad)-&gt;Apps, drag and drop files to the AVplayerΓÇÖs documents
+2. Support High quality video clips ( 720P, 1080P )
+- High quality video clips of 720P (1280 x 720) or more are recommended for MP4 format.
+- MP4, MOV, M4V formats that QuickTime supports can be played up to 1080P by using H/W Decoder but, Post Processing function isnΓÇÖt provided.
+- Support H/W decoding for MKV and AVI (720P supported on iPad1, 1080P supported on iPad2 / The New iPad)
+- Hybrid decoding mode is added and now it is able to play high resolution videos by using hardware accelerator feature embedded in iPhone/iPad even for mkv or avi in h264. Also battery use time has extended.
+- Application may crash in iPhone 3GS / iPod Touch due to heavy use of memory in Hybrid decoding. Try turning off all application running in background and reboot the device by holding down sleep mode button for long time.
+- If screen shakes it means hardware decoding is not supported. Try turning off hybrid decoding.
+- When the file formats are available for MKV or AVI the player supports hardware decoding.
+- If you cannot choose audio in mp4 or avi, change the extension to mkv temporarily and chosen audio channel will be applied.
+3. The optimal speed when advancing its playing speed can differ depending on the way itΓÇÖs compressed and the size.
+Video clips of XVID (AVI) 720 x 480 can be fast played up to 1.3-1.5 times faster than normal.
+
+WhatΓÇÖs New in Version 1.61
+
+Fixed following bugs.
+- Resume playback function does not operate
+- irregularly paused and buffered at the time of Hybrid Decoding.
+- Selection of internal subtitles stream and internal audio stream is not applied.

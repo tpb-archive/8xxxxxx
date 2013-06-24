@@ -1,0 +1,92 @@
+This is my own rip.  There is a small logo for 30 seconds every 20 minutes.
+
+TCM has a very large safe area, but it's still about 90% of full 1080p, and much better than 720p.
+
+General
+Unique ID                        : 199277413477111450863655899204469237143 (0x95EB6F0C920C05C5A7F35CFCE935A597)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.98 GiB
+Duration                         : 1h 56mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 3 671 Kbps
+Encoded date                     : UTC 2013-03-02 19:07:42
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 56mn
+Bit rate mode                    : Variable
+Bit rate                         : 3 150 Kbps
+Maximum bit rate                 : 13.4 Mbps
+Width                            : 1 796 pixels
+Height                           : 736 pixels
+Display aspect ratio             : 2.40:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.099
+Stream size                      : 2.56 GiB (86%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 56mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 373 MiB (12%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:Start
+00:05:42.300                     : en:Jeff's Play
+00:06:52.120                     : en:Surprise Party
+00:20:28.708                     : en:Dorothy Meets Ron
+00:22:44.989                     : en:Reading for the Part
+00:25:27.006                     : en:The Russian Tea Room
+00:30:11.935                     : en:Sandy's Apartment
+00:32:21.106                     : en:"Tootsie"
+00:35:16.406                     : en:Her First Scene
+00:47:49.116                     : en:Julie's Apartment
+00:53:07.935                     : en:Three Hours Late
+00:55:13.644                     : en:Making Up Lines
+00:57:14.097                     : en:National Phenomenon
+00:59:31.610                     : en:Phil Weintraub's Party
+01:04:58.978                     : en:At the Farm
+01:06:15.763                     : en:"It Might Be You"
+01:11:18.232                     : en:Les & Dorothy
+01:13:19.876                     : en:Strange Bedfellows
+01:17:20.678                     : en:Picking Up Her Option
+01:22:49.339                     : en:Baby Trouble
+01:24:20.847                     : en:Making Her Move
+01:27:23.280                     : en:Les Proposes
+01:29:22.671                     : en:John Visits Dorothy
+01:32:47.145                     : en:Nightmare Continues
+01:37:38.686                     : en:Late Night Visit
+01:41:26.038                     : en:Amazing Revelation
+01:46:33.284                     : en:With Les
+01:49:47.186                     : en:A Better Man
+01:53:33.682                     : en:End Credits

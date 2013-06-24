@@ -1,0 +1,61 @@
+Includes the VSO ConvertXtoDVD v5.0.0.51 BETA installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Automatically burn to DVD after conversion. Excellent and fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Create menus & chapters, cut videos, total customization with live preview.
+
+
+Edit your project with the various settings and features listed below:
+  -Create menus with videos and music
+  -Preview window / Integrated video player for live preview
+  -Cut unwanted parts of the video
+  -Add chapters - automatic or custom
+  -Many subtitles formats supported, convert soft or hard-coded
+  -Convert NTSC to PAL and vice-versa
+  -Merge function - like for CD1 + CD2
+  -Rotate video, modify brightness and contrast settings
+  -Compatible with any disks
+  -ISO output available
+  -NTSC + PAL region formats
+  -16:9 widescreen + 4:3 fullscreen
+  -Burn multiple copies
+  -VSO burning engine included
+  -Various SD resolutions available
+  -Custom output size
+  -Burn to DVD/USB key or store on PC
+
+Additional/Advanced features:
+  -2 pass encoding for enhanced quality
+  -Hardware decoding for faster conversion
+  -Video/Audio/Subtitle synchronisation
+  -Various audio output formats
+  -Image resize filters (lanczos, linear, cubic, etc.)
+  -Multiple encoding profiles
+  -Option to shutdown computer when finished
+  -Multi-core processor optimized
+  -Audio amplifier
+  -Padding and cropping
+  -De-interlacing
+  -Batch converter
+  -Multiple conversions processed simultaneously
+  -Quality advisor
+
+-----------------------------------------------------------------------------------
+
+VARIOUS BUG FIXES SINCE LAST BETA BUILD (v5.0.0.49)
+
+- 0006558: [Bug] INIT ERROR: Input path (C:test) is empty. (cedric) - resolved.
+- 0006542: [Bug] Cut doesn't work when merging files (audio not cut) (felicia) - resolved.
+- 0006556: [Feature Request] change default font in to VERDANA-28 (OUTLINE 2) (cedric) - resolved.
+- 0006557: [Bug] I can load my files in 5.0.0.48 version, but not in 5.0.0.49 (cedric) - resolved.
+- 0006453: [Feature Request] add pal+ntsc to installer (felicia) - resolved.
+- 0006554: [Bug] M2T don't load (felicia) - resolved.

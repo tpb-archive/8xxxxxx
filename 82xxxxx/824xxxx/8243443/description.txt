@@ -1,0 +1,59 @@
+SPORT: Six Nations Rugby Union - England v Italy
+On: BBC 1 HD 
+Date: Sunday 10th March 2013 
+KO Time: 15:00
+
+Stuart Lancaster's England host Italy as they continue their bid to become Six Nations champions. The Azzurri are traditionally seen as the weakest team in the competition, but proved with their opening-day defeat of France that they are no pushovers. Equally, the men in white will be determined not to rest on their laurels - especially given their superb recent displays against nations such as New Zealand and Ireland. When England went to Rome last year, they managed to eke out a narrow 19-15 win. 
+
+General
+Complete name: 2013.03.10.6N.England.v.Italy.720p.mp4
+Format: MPEG-4
+Format profile: Base Media
+Codec ID: isom
+File size: 3.07 GiB
+Duration: 1h 47mn
+Overall bit rate mode: Variable
+Overall bit rate: 4 098 Kbps
+
+Video
+ID: 1
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: High@L4.1
+Format settings, CABAC: Yes
+Format settings, ReFrames: 5 frames
+Codec ID: avc1
+Codec ID/Info: Advanced Video Coding
+Duration: 1h 47mn
+Bit rate: 3 970 Kbps
+Maximum bit rate: 11.9 Mbps
+Width: 1 280 pixels
+Height: 720 pixels
+Display aspect ratio: 16:9
+Frame rate mode: Constant
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.172
+Stream size: 2.97 GiB (97%)
+Writing library: x264 core 130 r2273 b3065e6
+
+Audio
+ID: 2
+Format: AAC
+Format/Info: Advanced Audio Codec
+Format profile: LC
+Codec ID: 40
+Duration: 1h 47mn
+Bit rate mode: Variable
+Bit rate: 124 Kbps
+Maximum bit rate: 128 Kbps
+Channel(s): 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode: Lossy
+Delay relative to video: 80ms
+Stream size: 94.9 MiB (3%)
+Language: English

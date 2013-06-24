@@ -1,0 +1,64 @@
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: OS
+Platform.............: Windows 7 Ultimate x64
+Image Format.........: .iso
+Image Created with...: Easyboot 6
+
+
+
+
+
+-------------------------------------------------------------------------------
+                                          INfo
+-------------------------------------------------------------------------------
+
+Size 2.4 Gigs, US language only, as extra languages removed.
+
+Lean & Mean, no functionality Lost, Installed takes up only 4 gigs of Hard disk space for those of us that use SSD Drives.
+
+Don't expect all your drivers to be installed, your Graphics and Lan, and chipset should be installed.
+
+All updates to present. AMD Catalist 13.10 Plus Nvidea 313.96, plus USB 3 Drivers, Sata, intel chipset drivers
+
+Installation Time in Vmware 8 Minutes....
+
+-------------------------------------------------------------------------------
+                              INstallation Instructions
+-------------------------------------------------------------------------------
+
+DVD is bootable, boots into menu, choose install Windows 7 Black Edition, follow
+
+instructions on screen. After you choosed HD to format, its fully unattended to desktop then
+
+choose apps from menu to install.  Then Settings app will load where you can configure,
+time zone, PC name, your name etc..
+
+-------------------------------------------------------------------------------
+                              Updates
+-------------------------------------------------------------------------------
+
+119 Post SP1 updates slipstreamed to present. IE 10 is on desktop for you to click and install.
+
+-------------------------------------------------------------------------------
+                              Drivers
+-------------------------------------------------------------------------------
+
+Mass storage drivers added
+
+AMD Catalyst 13.10 including control panel
+
+Nvidea 313.96, plus USB 3 Drivers, Sata, intel chipset drivers
+
+I opted not to use the driver packs as they are old and flawed causing BSODs.
+
+Special note: In vmware on certain hardware, if you click on my computer and it loads
+
+properties instead of explorer, you will only have to hit the shift button 3 times, ctrl button 3 times
+
+alt button 3 times and it will now work properly. Has something to do with it activates sticky keys.
+
+It only happen very rarely occasion first install in vmware.
+
+Screens:

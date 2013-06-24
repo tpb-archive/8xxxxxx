@@ -1,0 +1,50 @@
+OPlayer HD is used to boost your iPad's media abilities, you can also use it to streaming audio and video over the internet. 
+
+OPlayer HD has been rated as "IPHONE APPS Plus Best." 
+
+* Supported File Format Extension 
+
+* XVID/DIVX AVI, WMV, RMVB, ASF, H264, MKV, TS, M2TS... most of all movie file formats.
+* MP3, WMA, WAV, OGG, FLAC... most of all audio file formats.
+* SMI, ASS, SUB, SRT, TXT... most of all subtitle file formats. 
+
+* Extra Features
+
+* USB Sync: Use itunes to fast sync movies to your iPad.
+* WIFI Upload: Upload movies by the web browser of your computer, support ie/safari/firefox/chrome.
+* FTP server: Upload movies by the ftp client of your computer, support cyberduck/filezilla.
+* FTP Client: You can download files from FTP server to your iPad. 
+* SAMBA Client: You can download files from SAMBA server to your iPad. 
+* Dropbox support.
+* Streaming: Support HTTP/RTSP/MMS/FTP/SAMBA streaming. 
+* File Management: Support New/Rename/Cut/Paste/Delete.
+* Playlist: Create your own playlist, and play files continuous, you can even use OPlayer as a music player.
+* Different Play Mode: Support Loop off/Loop One/Loop all.
+* Screen Lock: View your movie even on the bed.
+* Dynamically Menu: Dynamically choose audio/subtitle/video channel and encoding method.
+* Resume Function: Don't worry about closing your application suddenly.
+* TV Out: Both cable TV out and AirPlay are supported.
+* iTunes Backup: By default, we will not backup media data when you do iTunes sync or iCloud backup, and you can't see the files in iTunes, you can enable it in the settings page to backup your media data.
+
+* FAQ
+
+* How do I put files into OPlayer HD? 
+To add files to your OPlayer HD app, you have to go to iTunes, and select the ΓÇ£AppsΓÇ¥ tab. At the bottom of this page, thereΓÇÖs a ΓÇ£File sharingΓÇ¥ section ΓÇô just select OPlayer HD in the list, and add files from there. Note that you donΓÇÖt have to sync your iPhone or iPad to iTunes to add movies. Just drop files in the ΓÇ£File sharingΓÇ¥ tab, and theyΓÇÖll be uploaded immediately. You can even use a friendΓÇÖs iTunes to add videos to your own iPhone. Also, adding files over WiFi is supported. Indeed, WiFi is significantly slower than USB, and ruins the battery life.
+
+* What kind of streams does OPlayer HD play? 
+OPlayer HD is able to play RTSP/MMS/FTP/SAMBA streams, If you want to use OPlayer HD to open the streaming from your website, add "oplayer:" prefix in the URL.
+
+* I want to open an attachment from mail app with OPlayer HD? 
+If you want to watch an attachment in OPlayer HD(from Mail for example), just do a long press on the attachment. A menu will pop-up that will let you pick OPlayer HD as a player.
+
+* iTunes wonΓÇÖt see the files under OPlayer HD? 
+You need to enable backup in the settings page to see files in iTunes.
+
+* Why HD MKV movies donΓÇÖt play smoothly? 
+Currently, only iPad 2 supports 720p MKV file, thatΓÇÖs to be expected. The other iDevices have limited computing power, and cannot handle the complex task of decoding HD movies in real time.
+
+* The audio and the video is not in sync? 
+That is because the CPU is not power enough to do video decoding, you can try to enable "Skip Frame" in the file detail page.
+
+* Is there a TV-out support? 
+Yep, but TV-out function only supported by iPod gen4, iPhone4, iPhone4S and iPad 1/2.

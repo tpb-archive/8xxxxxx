@@ -1,0 +1,54 @@
+IMDB:   http://www.imdb.com/title/tt2069955/                                  
+
+
+General
+Complete name                            : Border Run 2012 BRRip x264 AAC-SSN.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 900 MiB
+Duration                                 : 1h 36mn
+Overall bit rate                         : 1 306 Kbps
+Encoded date                             : UTC 2013-03-02 15:37:29
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 36mn
+Nominal bit rate                         : 1 027 Kbps
+Width                                    : 900 pixels
+Height                                   : 382 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.150
+Writing library                          : x264 core 130 r2273 b3065e6
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 36mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No
+

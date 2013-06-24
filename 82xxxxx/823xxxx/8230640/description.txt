@@ -1,0 +1,30 @@
+XiaoPan-OS Slitaz v2:
+
+ Programs:
+ ____________________________
+ aircrack-ng
+ airolib-ng
+ Airssl (script)
+ airsnort
+ cowpatty
+ crunch
+ compat-wireless
+ driftnet
+ ettercap
+ Feedingbottle
+ fping
+ Hydra
+ Inflator
+ JTR
+ kismet
+ macchanger
+ mdk3
+ nmap
+ proxychains
+ Reaver
+ sslstrip
+ wireshark
+ WepWap (script)
+ Yamas (script)
+ unveil (script to assist in selecting airssl, yamas , wepwap)
+ _________________________________________________

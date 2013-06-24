@@ -1,0 +1,72 @@
+Description
+Latest version: 1.5
+
+
+
+Spoutcraft Version:
+
+=What is spoutcraft?=
+Spoutcraft is a client mod that enhances gameplay performance. You can easily customize the graphics with view distance, details, shaders etc. Spoutcraft also enables you to set up your own keybindings. Whether it be commands binded to a key, or change what buttons make you move.
+
+If a server is using plugings that require spoutcraft (GUI plugins such as SpoutHelp, or item plugins like Guns+ or ManaBags) you must use spoutcraft to get the full potential. However, it is not required to play.
+
+
+Client-side features:
+-- Optional performance improvements inspired by OptiFine
+-- Optional advanced video options
+-- HD fonts and BetterGrass integrated
+-- HD textures support integrated
+-- Sign rendering performance improvements
+-- Biome water colors (watercolor.png usage)
+-- SetRemainingAir/SetMaximumAir render correctly
+-- Configurable chunk caching
+-- Enabling/disabling of visual cheats as set by Spout on a server.
+-- Customizable shortcuts, key bindings, and advanced video settings.
+-- In-game public server list and search and filter options.
+-- In-game texture pack database and installation.
+
+==================Bug Fixes====================
+-- Added Java 7 compatibility popup notice for Mac OS X users.
+-- Added offline resource caching of download API.
+-- Fixed a couple annoyances with checkboxes on options menu.
+-- Fixed channel switching to stable if latest is stable.
+-- Fixed double-clicking image login causing crash/hang.
+-- Fixed exception when downloads are interrupted.
+-- Fixed exception when switching channels while downloading.
+-- Fixed local builds updating when they shouldn't be.
+-- Fixed location with multi-monitors on Linux.
+-- Fixed migrated account response handling.
+-- Fixed progress bar artifacting.
+-- Fixed timeout issues with player avatar helms.
+-- Fixed updating from paths with spaces in it.
+-- Implemented API for Minecraft files, removing hard-coded MD5s.
+-- Implemented fancy new launcher GUI design and layout.
+-- Improved error handling logging output.
+-- Improved startup time of launcher.
+
+
+
+Most current Spoutcraft Launcher as of March 17, 2013. Version 8.
+
+This launcher cancels out the authorization to the Mojang server so you can put in any username and play.
+
+Both cracked users and premium users can use this launcher.
+
+Cracked users have to play on cracked servers.
+
+
+Here's a website that has cracked Minecraft servers:  
+http://minecraftserverlijst.nl/crackedlijst.htm
+
+
+
+
+=============================Cracked by XiiCandySackiiX============================
+
+Download the .jar file and place it anywhere on your PC. Double click to run and allow it to download the necessary files before playing.
+
+This was cracked on Linux and runs fine. I tried it over on my Windows partition and it had a little trouble (I think it was my connection) it kept returning errors. However, after it finally downloaded all the necessary files it ran fine. 
+
+Any problems, please post them down in the comments.
+
+- XiiCandySackiiX	

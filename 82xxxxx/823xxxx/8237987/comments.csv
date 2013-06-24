@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+[V],rr-ne,2013-03-10T04:47Z,"hi
+
+may i ask u what converter/ encoder u used to get the small file size?"
+,ryuksan,2013-03-10T11:29Z,"@rr-ne
+i usually use staxrip or MEGUI."
+,LakersCentral,2013-03-11T08:39Z,"thanks for your rips of south park & family guy! really appreciate them! any chance of family guy season 9+?
+
+i've been converting a lot of vids i haven't been able to find elsewhere into 480p/x264 (soon to make available on tpb). i've been using ""video to video converter"".  seems to work pretty well. is staxrip/megui better for some reason? "
+,ryuksan,2013-03-11T16:06Z,"i am currently encoding season 9 and 10 of family guy.
+once they are done i will upload them for sure. but season 11 onwards all the episodes i found online are already 50-80 mb so not much i can do in that regard.
+And staxrip and megui are widely used by encoders for x264 codec. i am not very good at using them myself, i try and find settings which people say work :) 
+also x264 codecs are very good for 2d animated content, for 3d and live action stuff they are still the best, but the amount of compression achievable on 2d content is more than on 3d and live action.
+for details you can visit forums like doom 9 and doom10. but they are very detailed :)"
+,LakersCentral,2013-03-12T04:28Z,"yea, can't tell you how many hours i've spent reading stuff on doom9 and videohelp.com (among others) ;.o
+
+vtvc (video to video converter) works well and is simple. advanced settings are hidden (if there at all), but i don't have to time to figure out all that stuff anyways. pretty much just use x264 with ac3, and all i really ever adjust is the bitrates.
+
+right now i'm converting a bunch of documentaries and standup comedy to mkv that i've only ever been able to locate in avi. seems like x264 can achieve almost double the compression of xvid while yielding the same quality. any thoughts on this?
+
+i'll check out staxrip / megui. the only thing i'm really hoping to do is increase the speed of the encode ;.)"
+,ryuksan,2013-03-13T06:03Z,"as far as i know the speed mostly comes from better cpu's, the faster the better. 
+also you can play around with deblocking a bit to get more quality at the same bitrate. i dont touch much of the settings anyways :p
+i have never used vtvc so i don't know anything about it, but megui and staxrip provide a bit of info about most of the settings as a tooltip, which helps in understanding a bit about the settings to be used :D"

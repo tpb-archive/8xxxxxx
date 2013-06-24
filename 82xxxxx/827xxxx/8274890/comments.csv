@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+[T],480v,2013-03-19T13:16Z,Strange...how did this torrent accrue two seeders when it shows that I haven't uploaded anything yet. 0 Bytes uploaded.
+[T],pharmakate,2013-03-19T23:59Z,"@480v - I get that a lot. I think it has something to do with the way the trackers aggregate the seeder numbers -- it seems to count the same seeder more than once via DHT or whatever trackers are found. Or something like that. Obviously I'm no expert! But it'll sort itself out.
+
+And hey, thanks for the Thom Hartmann Program!"

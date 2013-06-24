@@ -1,0 +1,77 @@
+***COMPATIBLE WITH PATCH 5.2***
+
+NOTE: 4.0.6018 (last upload) didn't work properly, my apologies for that. I verified this one myself.
+
+
+Zygor Guides v4.0.6015, released March 6th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+
+
+These uploads work just fine; if you are having problems it is on your end and not mine. Thanks!
+
+
+
+
+Patch notes:
+
+
+Version: 4.0.6034
+Released on: March 7th, 2013
+[B] Hunter Pets
+Fixed issues reported with the new direhorn pets
+
+Version: 4.0.6031
+Released on: March 6th, 2013
+Guide Viewer
+* Fixed "secondary mode lines overlap".
+* Travel fix: no longer suffering from severe slowdowns when fast skipping through previously unseen steps. Awaiting for quest titles to arrive from the server was causing the waypoint arrow to be constantly updated.
+* Travel fix: updates properly again when changing zones.
+Other Guides
+* Initial Isle of Thunder guide step modified to suggest doing Kirin Tor / Sunreavers dailies, if realm doesn't have the Isle stages unlocked yet.
+
+Version: 4.0.6027
+Released on: March 6th, 2013
+[B] Reputations
+Updating the Outland reputations for horde and alliance.
+
+[B] Npc file
+updated some models in the viewer.
+
+[B] Dailies/Reps
+Cleanup of the new 5.2 dailies.
+
+Fixed a LibRover error in version 6024
+
+Version: 4.0.6024
+Released on: March 6th, 2013
+[B] Reputations
+Updating the Outland reputations for horde and alliance.
+
+[B] Npc file
+updated some models in the viewer.
+
+[B] Dailies/Reps
+Cleanup of the new 5.2 dailies.
+
+Version: 4.0.6018
+Released on: March 6th, 2013
+[B] Reputations/Dailies
+Fixed several reported issues with the 5.2 dailies.
+
+[B] Talents
+Fixed an error with the survival hunter talent advisor.

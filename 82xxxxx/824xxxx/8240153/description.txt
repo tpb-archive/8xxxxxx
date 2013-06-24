@@ -1,0 +1,134 @@
+[b]scheda:[/b]
+
+
+Titolo: Silver Linings Playbook
+Anno: 2012
+Regia: David O. Russell
+Nazione: USA
+Data D'uscita: 7 marzo 2013 (Italia)
+Genere: Comedy | Drama | Romance
+Durata: 122 Min
+Lingua: italiano
+Sottotitoli: inglese
+
+
+
+
+[b]TRAMA :[/b]
+
+
+Pat Peoples, ex insegnante di storia delle superiori, è stato appena dimesso da un istituto per malattie mentali. Pat si ostina a credere di essere stato in cura per pochi mesi e non per quattro anni e ha intenzione di riconciliarsi con l’ex moglie. Rifiutando l’idea che sia passato così tanto tempo e che la loro sia una separazione definitiva, Pat trascorre i giorni nell’attesa febbrile della riconciliazione cercando di diventare l’uomo che la moglie ha sempre desiderato. Nel frattempo però viene inaspettatamente distratto da una bella e problematica vicina di casa.
+
+
+
+[b]NFO[/b]
+
+[quote]
+
+[ Info sul file ]
+
+Nome: Il lato positivo subita [www.DDBestShare.com].avi
+Data: 30/01/2013 23:28:34
+
+[ Info generiche ]
+
+Durata: 01:57:07 (7027.48 s)
+Tipo di contenitore: AVI OpenDML
+Streams totali: 2
+Tipo stream n. 0: video
+Tipo stream n. 1: audio
+Audio streams: 1
+ISFT: VirtualDubMod 1.5.10.2 (build 2540/release)
+JUNK: VirtualDubMod build 2540/release
+
+[ Dati rilevanti ]
+
+Risoluzione: 640 x 272
+Larghezza: multipla di 32
+Altezza: multipla di 16
+DRF medio: 3.031527
+Deviazione standard: 1.032351
+Media pesata dev. std.: 0.291343
+
+[ Traccia video ]
+
+FourCC: xvid/XVID
+Risoluzione: 640 x 272
+Frame aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Framerate: 25 fps
+Frames totali: 175687
+Stream size: 1,074,094,330 bytes
+Bitrate: 1222.736263 kbps
+Qf: 0.280959
+Key frames: 1774 (0; 300; 600; 900; 1180; ... 175436)
+Null frames: 0
+Min key int: 1
+Max key int: 300
+Key int medio: 99.034385
+Ritardo: 0 ms
+
+[ Traccia audio ]
+
+Audio tag: 0x2000 (AC3)
+Bitrate (contenitore): 384 kbps CBR
+Canali (contenitore): 2
+Frequenza (contenitore): 48000 Hz
+Chunks: 175416
+Stream size: 336,821,760 bytes
+Preload: 512 ms
+Max A/V diff: 536 ms
+AC-3 frames: 219285
+Durata: 01:56:57 (7017.12 s)
+Chunk-aligned: Sì
+Mode: stereo
+Ritardo: 0 ms
+
+[ Info sulla codifica MPEG4 ]
+
+User data: XviD0050
+Packed bitstream: No
+QPel: No
+GMC: No
+Interlaced: No
+Aspect ratio: Square pixels
+Quant type: H.263
+Frames totali: 175687
+Drop/delay frames: 0
+Frames corrotti: 0
+
+I-VOPs:  1774 (  1.010 %)                          
+P-VOPs: 88231 ( 50.221 %) #############            
+B-VOPs: 85682 ( 48.770 %) ############            
+S-VOPs:     0 (  0.000 %)                          
+N-VOPs:     0 (  0.000 %)                          
+
+Max consecutive B-VOPs: 1
+
+[ Analisi DRF ]
+
+DRF medio: 3.031527
+Deviazione standard: 1.032351
+DRF max: 9
+
+DRF9:     0 (  0.000 %)                          
+
+I-VOPs DRF medio: 2.067643
+I-VOPs deviazione std.: 0.282805
+I-VOPs DRF max: 5
+
+P-VOPs DRF medio: 2.065169
+P-VOPs deviazione std.: 0.289746
+P-VOPs DRF max: 6
+
+B-VOPs DRF medio: 4.046590
+B-VOPs deviazione std.: 0.293165
+B-VOPs DRF max: 9
+
+[ Profile compliancy ]
+
+Profilo da testare: MTK PAL 6000
+Risoluzione: Ok
+Framerate: Ok
+Min buffer fill: 81%

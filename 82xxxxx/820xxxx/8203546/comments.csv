@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,AsifAkheir,2013-03-10T08:14Z,"Thanks lletaif
+A10
+V10
+M?
+
+Have not been able to watch because subtitles are out of sync (wrong framerate I think) and in Sub idx format. So far I have been unsuccessful in converting them to srt format so they can then be properly synced. Can anybody out there do it? Or, better yet, know where some already synced english srt subtitles can be downloaded?
+Asif"
+,bladedracula,2013-03-12T16:53Z,thx
+,AsifAkheir,2013-03-13T23:03Z,"@ lletaif
+
+I fixed the subtitle problem with mkvmerge,  by demuxing them from BOZX's 5.4 GiB version:
+http://thepiratebay.sx/torrent/8194833/Ve.Stinu.aka.In.The.Shadow.2012.720p.BluRay.DTS.x264-PublicHD
+And remuxing them onto this 1.9 GiB version. Now I have both: small file and sunced subs."

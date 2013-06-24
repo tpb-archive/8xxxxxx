@@ -1,0 +1,30 @@
+LinuxCBT EL-6 Edition
+English | MOV | 800x600 | Video AVC 65Kbps | Audio AAC 64Kbps | 2.87Gb
+Genre: eLearning
+LinuxCBT EL-6 Edition focuses on the RedHatÂ® Enterprise 6 GNU/Linux operating system.
+
+LinuxCBT EL-6 Edition, is unparalleled in content. LinuxCBT EL-6 Edition prepares you or your organization for successfully deploying and managing business-critical RedHatÂ® Enterprise 6-based solutions. Let LinuxCBT EL-6 Edition bolster your GNU/Linux administration skills.
+
+Recommended Prerequisites for:
+
+LinuxCBT EL-6 Edition
+Determination to master Linux and related open-source applications
+Intermediate to advanced WindowsÂ® networking skills
+Understanding of networking concepts: OSI Model
+Physical or virtual machine to follow exercises
+
+
+Installations - Shell Basics - Permissions - File Systems - Package Management
+
+Installations -Network - VNC - Kickstart
+Discuss features of RedHatÂ® Enterprise Linux 6
+Create HTTP installation source tree
+Explore installation options
+Install via HTTP - Text Mode
+Perform VNC Install
+Graphical installation
+Kickstart, automated installation
+Use Rescue Mode
+Explore Single-User Mode
+Discuss INIT - Upstart facilities
+And more ...

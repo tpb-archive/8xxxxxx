@@ -1,0 +1,73 @@
+ http://www.shotpix.com/images/73865011355486850657.jpg
+
+Info:
+Format : Matroska
+Format version : Version 2
+File size : 702 MiB
+Duration : 2h 8mn
+Overall bit rate : 765 Kbps
+Writing application : HandBrake 0.9.5
+Writing library : libmkv 0.6.4.1
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 8mn
+Nominal bit rate : 598 Kbps
+Width : 624 pixels
+Height : 272 pixels
+Display aspect ratio : 2.25:1
+Frame rate mode : Variable
+Frame rate : 50.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.070
+Writing library : x264 core 112
+Language : English
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 2h 8mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+
+
+Screens: 
+http://www.shotpix.com/images/33281651684082404548.png 
+http://www.shotpix.com/images/94628710319074406653.png 
+http://www.shotpix.com/images/31082061174220007433.png 
+http://www.shotpix.com/images/92416543746793117143.png 
+http://www.shotpix.com/images/81144125658205516700.png 
+http://www.shotpix.com/images/17635672169768262989.png 
+http://www.shotpix.com/images/84878966748476540088.png
+
+
+
+
+
+
+
+
+
+
+
+
+

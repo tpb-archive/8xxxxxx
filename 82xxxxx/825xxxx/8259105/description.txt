@@ -1,0 +1,71 @@
+murphy78 presents Windows 7 Ultimate SP1 x86 en-US Mar2013
+This AIO supports Windows Upgrade from previous Windows Versions.
+
+Hotfixes included bring install current to Mar12 patch date
+Internet Exporer 10, USB3, and Network Drivers Added!!!
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+32-bit Source:
+X17-59463.iso (Digital River Retail Media Refresh Ult-SP1)
+Media Refesh versions are SP1 versions with an ascii fix (KB2534111)
+
+Installation Indexes:
+Windows 7 Ultimate SP1 32-bit
+Windows 7 Ultimate SP1 32-bit Pre-Activated
+
+Release File: Win7Ult-SP1-x86-en-US-Mar2013.iso
+Size: 2.74GiB
+CRC32: 2F41665E
+MD5: 4BBAA863C14DE5A99079D105A177EA76
+SHA-1: 6D4FB273192560F422017F24BB8DE30FE04BCDF9
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, naming, and export
+dism for image mount, MSU KB hotfix integration
+oscdimg for ISO mastering
+Added Info folder to installs to annoy credit thieves.
+
+KB Files integrated with dism /add-package:
+KB2479943, KB2491683, KB2502285, KB2503665, KB2506212,
+KB2506928-v2, KB2509553, KB2511455, KB2515325, KB2529073,
+KB2532531, KB2536275, KB2536276-v2, KB2541014, KB2544893,
+KB2545698, KB2547666, KB2552343, KB2560656, KB2563227,
+KB2564958, KB2570947, KB2574819, KB2579686, KB2584146,
+KB2585542, KB2592687, KB2604115, KB2618451, KB2619339,
+KB2620704, KB2620712, KB2621440, KB2631813, KB2640148-v2,
+KB2644615, KB2647753-v4, KB2653956, KB2654428, KB2655992,
+KB2656356, KB2656411, KB2659262, KB2660075, KB2660649,
+KB2661254, KB2667402-v2, KB2670838, KB2676562, KB2679255-v2,
+KB2685811, KB2685813, KB2685939, KB2690533, KB2691442,
+KB2698365, KB2699779-v2, KB2705219-v2, KB2709630, KB2709981-v2,
+KB2712808, KB2718704, KB2719857, KB2719985, KB2726535,
+KB2727528, KB2729094-v2, KB2729452, KB2732059-v5, KB2732487-v2,
+KB2732500-v2, KB2736233, KB2736422, KB2739159, KB2742599,
+KB2743555, KB2749655, KB2750841, KB2753842-v2, KB2756921,
+KB2757638, KB2761217, KB2763523, KB2769369, KB2770660,
+KB2773072, KB2778344, KB2779562, KB2785220, KB2786081,
+KB2786400, KB2789645, KB2790113, KB2790655, KB2791765,
+KB2799494, KB2807986, KB982018-v3
+
+setupcomplete.cmd phase:
+KB2533552 (online only update)
+dotnetfx45_full_x86_x64.exe (Adds Net4.5 Redist)
+KB2737083, KB2742613, KB2750147, KB2789648 (Net45 Hotfixes)
+mpas-fe (Defender Updates)
+KB890830 (Recent Malicious software removal tool)
+(WinLoader2.2.1 and reboot if Pre-Activated Index)
+
+Changes from recent Windows 7 releases:
+-Info folder moved to Windows_Setup_Info
+-Added IE10 and USB3 drivers to boot and install indexes.
+-Added LAN and WLAN drivers to install indexes.
+
+(Thanks to Daz for his Awesome Windows Loader Activator)
+Enjoy Pirates,
+murphy78-TPB :)

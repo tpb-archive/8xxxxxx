@@ -1,0 +1,128 @@
+Author: Lee Brimelow
+=======
+Subject: Developer, Games, Web
+========
+Software: ActionScript 3.0, Flash Builder 4.6, Flash Player 11
+=========
+Level: Intermediate | Duration: 2h 57m | Released date: Jul 05, 2012
+======
+
+Join Lee Brimelow in this project-style course that teaches how to build a Flash-based game with Flash Builder 4.6, Flash Player 11, and the Starling framework. Starling, a pure ActionScript 3.0 library for advanced graphics, extends Flash Player 11ΓÇ▓s support for the modern GPU (graphic processing unit) to enable visual presentations and games in the browser or as a mobile app.
+
+Starting with installation and configuration of Starling and creation of a Flash Builder project, the course shows how to prepare and import graphical assets, create MovieClip classes from sprite sheets, manage various gaming objects, detect collisions, and add both particle and sound effects. The finished game can be deployed to any browser or mobile device that integrates Flash Player 11, which was released in September 2011.
+
+Topics include:
+===============
+
+[*]Downloading and installing Starling and Flash Builder
+[*]Creating the project
+[*]Creating the main game class, static assets class, and other classes
+[*]Building the state machine
+[*]Creating a static assets class
+[*]Adding images
+[*]Creating sprite sheets with Texture Packer
+[*]Creating and importing bitmap fonts
+[*]Detecting collisions
+[*]Adding particle effects
+[*]Adding sound effects
+
+
+Introduction
+============
+
+[*]Welcome
+[*]Using the exercise files
+[*]What you should know
+
+
+1. Getting Started
+==================
+
+[*]Checking out the finished product
+[*]Downloading the Starling framework
+[*]Installing Flash Builder
+[*]Installing additional tools
+[*]Overview of the Starling framework
+
+
+2. Project Setup
+================
+
+[*]Creating the Flash Builder project
+[*]Setting up your Starling scene
+[*]Creating the main game class
+
+
+3. The Game State Machine
+=========================
+
+[*]Creating the IState interface
+[*]Creating the three game states
+Building the state machine
+
+
+4. Preparing and Importing Assets
+=================================
+
+[*]Creating a static assets class
+[*]Adding images and creating textures
+[*]Creating sprite sheets with TexturePacker
+[*]Creating the main texture atlas
+[*]Creating and importing bitmap fonts
+
+
+5. The Menu State
+=================
+
+[*]Creating the Background class
+[*]Adding the logo
+[*]Adding the play button
+[*]Implementing the destroy method
+
+
+6. The Play State
+=================
+
+[*]Adding the background
+[*]Creating the Hero class
+[*]Creating the Bullet class
+[*]Creating the BulletManager class
+[*]Using the StarlingPool class
+[*]Firing bullets with the mouse
+[*]Creating the Alien movie clip
+[*]Creating the AlienManager class
+[*]Overview of collision-detection options
+[*]Creating the CollisionManager class
+[*]Implementing the destroy method
+
+
+7. The GameOver State
+=====================
+
+[*]Adding the background
+[*]Creating the ΓÇ£Game OverΓÇ¥ text
+[*]Adding the Try Again button
+
+
+8. Adding Particle Effects
+==========================
+
+[*]Exploring particle-creation tools
+[*]Adding the smoke texture
+[*]Creating the Explosion class
+[*]Creating the ExplosionManager class
+
+
+9. Finishing Touches
+====================
+
+[*]Creating sound effects with cfxr
+[*]Adding the sound effects
+[*]Creating the Score class
+
+
+Conclusion
+==========
+
+[*]Starling optimization tips
+[*]Helpful Starling resources

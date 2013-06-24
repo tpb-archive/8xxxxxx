@@ -1,0 +1,55 @@
+For this episode 4 different encodes are being made available. Maybe it will help to see what is preferred based upon what gets more seeders and based upon comments.
+
+If some of these encodes are not popular, they may be deleted after a few days.
+
+All 4 different encodes of this episode can be found here:
+ 
+http://thepiratebay.se/tag/Doomsday+Preppers+S02E15
+
+
+General
+Unique ID                        : 101803010008957025107523820946172336553 (0x4C968BEA140714558B6304D85FEED9A9)
+Complete name                    : Doomsday.Preppers.S02E15 MKV 352pDoomsday.Preppers.S02E15.A.Fortress.at.Sea.HDTV.[352p]H264.AAC-k3n.mkv
+Format                           : Matroska
+File size                        : 123 MiB
+Duration                         : 45mn 9s
+Overall bit rate                 : 380 Kbps
+Writing application              : HandBrake 0.9.8
+Writing library                  : libmkv 0.6.5
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 45mn 9s
+Width                            : 624 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Writing library                  : x264 core 120
+Encoding settings                : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=28.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+Color primaries                  : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 45mn 9s
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy

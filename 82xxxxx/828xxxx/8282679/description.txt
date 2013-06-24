@@ -1,0 +1,53 @@
+General
+Complete name                  : Cloud.Atlas.2012.480p.BRRip.AAC.x264-AMX.mkv
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 695 MiB
+Duration                       : 2h 52mn
+Overall bit rate               : 564 Kbps
+Writing application            : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 8 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2h 52mn
+Nominal bit rate               : 458 Kbps
+Width                          : 720 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.087
+Writing library                : x264 core 129 r2245 bc13772
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 2h 52mn
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Delay relative to video        : 22ms
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Chapters: None at source!
+Subs: None at source!
+Source: Cloud.Atlas.2012.1080p.Bluray.x264.DTS-NYDIC Thanks!!!

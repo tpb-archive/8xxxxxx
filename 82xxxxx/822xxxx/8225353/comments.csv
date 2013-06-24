@@ -1,0 +1,87 @@
+﻿User Type,Username,Date,Text
+,nox150690,2013-03-07T00:28Z,"Please be aware that I am trying to prioritise seeding those who already have the majority of the game already downloaded, so that more seeds are created. I am having trouble seeding to everyone, so please be patient."
+,lv2bll54,2013-03-08T02:55Z,which one of the 32 & 64 bit versions of the crack do i use. my os is 64 bit but my program looks like its 32?
+,nox150690,2013-03-08T03:38Z,"@lv2bll54 , the cracks are for the type of OS you are running, so in your case, you would use the 64-bit crack."
+,lv2bll54,2013-03-08T05:26Z,Yeah bro i had to  reinstall the complete game then it worked perfectly. Thanx for the help son.
+,AnotherShady,2013-03-08T13:39Z,Will the Black Box edition work with mods? Or other custom content?
+,Gh0st666,2013-03-09T02:33Z,"Mine started at 120kbs, now at 77% is 6kbs. This blows."
+,music_man55,2013-03-09T22:07Z,Hello. i get diffrent kind of wrong messages when i try installing it. the first game works perfekt but when i add the rest it just blurgh.
+,totamariee,2013-03-14T16:13Z,"Can you please make a tutorial for this undate also, like you done for the last? I've new to editing and using .reg's but following your previous tutorial was just able to do it all perfectly... im kinda afraid to touch this one now without a tutorial lol :)"
+,nox150690,2013-03-15T20:55Z,"Quick update: I have had a massive corruption of one of my Hard Drives, which is why I have not been replying recently, obviously this means that a great deal of work was lost, but it also means that I will not around for a few weeks, as I need to re-write all of the programs that I have made over the years, as well as get a new Hard Drive to replace the old one. Hopefully the information on this page, and the other pages, are enough for users to know how to install the updates. I will be back soon,
+
+NoX"
+,sim34p,2013-03-21T18:12Z,"Hello,
+Is this multilanguage as the BlackBox ?
+Thanks"
+,6793,2013-04-02T04:02Z,"hi my games installed to C:GamesThe Sims 3 Complete EditionThe Sims 3 University Life
+and my reg file looks like this 
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeElectronic ArtsSimsThe Sims 3 University Life]
+""DisplayName""=""The Sims™ 3 University Life""
+""Locale""=""en_US""
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeElectronic ArtsSimsThe Sims 3 University Lifeergc]
+@=""7J5M9KGAAGBCZRR10FLT""
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeSimsThe Sims 3 University Life]
+""SKU""=dword:00000001
+""Country""=""GB""
+""Telemetry""=dword:00000000
+""ErgcRegPath""=""Electronic ArtsSimsThe Sims 3 University Lifeergc""
+""ContentID""=""sims3_ep09_sku1""
+""DisplayName""=""The Sims™ 3 University Life""
+""ExePath""=""C:GamesThe Sims 3 Complete EditionThe Sims 3 University LifeGameBinTS3EP09.exe""
+""Install Dir""=""C:GamesThe Sims 3 Complete EditionThe Sims 3 University Life""
+""Locale""=""en-US""
+""ProductID""=dword:00000012
+""InstallStart""=dword:00000000
+
+[HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionGameUXGames{C76025C0-5FC3-4344-805F-FCA17BE61EF7}]
+""ConfigInstallType""=""2""
+""ConfigApplicationPath""=""C:GamesThe Sims 3 Complete EditionThe Sims 3 University Life""
+""ConfigGDFBinaryPath""=""C:GamesThe Sims 3 Complete EditionThe Sims 3 University LifeGameBinSims3EP09GDF.dll""
+""ApplicationId""=""{F4A88613-9197-44F5-9F7C-DF2ED3E4ABC7}""
+""Title""=""The Sims™ 3 University Life""
+""RatingsInfo""=""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ""
+""Description""=""The Sims™ 3 University Life""
+""Type""=dword:00000000
+""IsSigned""=dword:00000001
+
+can you tell me what im doing wrong?"
+,s1kkdawgg,2013-04-08T18:55Z,"Hi there, I have managed to install blackbox sims 3 and the updates but when I try to install this update, it creates a total different directory. It's not like the previous updates. What am I doing wrong?"
+,s1kkdawgg,2013-04-08T19:16Z,"can you post a video tutorial on how to do this. I've tried and no luck, it installs it as a university life update."

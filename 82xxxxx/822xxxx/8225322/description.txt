@@ -1,0 +1,59 @@
+Language: Arabic, French
+
+Subtitles: English and Portuguese
+
+IMDB: http://www.imdb.com/title/tt0307913
+
+The lives of two brothers, who live in N'djamena, are upended when they awake one Saturday morning to find that their father has left the family. They are Amine, about eight years old, playful and asthmatic, and Tahir, 15, handsome, quiet, his brother's protector. The boys go in search of their father, and find only trouble. Dad's leaving also debilitates their mother. The movies, a musical uncle, a village Koran school, a poster of a Moroccan beach, and a young deaf woman figure in the resolution. Is there any place for happiness, or is happiness only in storybooks?
+
+
+      Format : AVI
+      Format/Info : Audio Video Interleave
+      File size : 700 MiB
+      Duration : 1h 20mn
+      Overall bit rate : 1 214 Kbps
+      Writing application : VirtualDubMod 1.5.4.1 (build 2178/release)
+      Writing library : VirtualDubMod build 2178/release
+   Video #0
+      ID : 0
+      Format : MPEG-4 Visual
+      Format profile : AdvancedSimple@L5
+      Format settings, BVOP : Yes
+      Format settings, QPel : No
+      Format settings, GMC : No warppoints
+      Format settings, Matrix : Custom
+      Codec ID : XVID
+      Codec ID/Hint : XviD
+      Duration : 1h 20mn
+      Bit rate : 1 074 Kbps
+      Width : 704 pixels
+      Height : 384 pixels
+      Display aspect ratio : 16:9
+      Frame rate : 25.000 fps
+      Resolution : 24 bits
+      Colorimetry : 4:2:0
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.159
+      Stream size : 620 MiB (88%)
+      Writing library : XviD 1.0.3 (UTC 2004-12-20)
+   Audio #1
+      ID : 1
+      Format : MPEG Audio
+      Format version : Version 1
+      Format profile : Layer 3
+      Codec ID : 55
+      Codec ID/Hint : MP3
+      Duration : 1h 20mn
+      Bit rate mode : Variable
+      Bit rate : 127 Kbps
+      Nominal bit rate : 128 Kbps
+      Channel(s) : 2 channels
+      Sampling rate : 48.0 KHz
+      Resolution : 16 bits
+      Stream size : 73.1 MiB (10%)
+      Alignment : Aligned on interleaves
+      Interleave, duration : 24 ms (0.60 video frame)
+      Interleave, preload duration : 506 ms
+      Writing library : LAME3.96r
+      Encoding settings : -m j -V 4 -q 2 -lowpass 17.5 --abr 128
+     

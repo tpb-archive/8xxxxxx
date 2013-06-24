@@ -1,0 +1,74 @@
+tTorrent Pro 1.1.2.1 FiNaL AnDrOiD - SceneDL
+
+Requirements: Android 2.3+
+
+tTorrent is simply the best bittorrent client for Android based devices.
+
+Features:
+- UNLIMITED DOWNLOAD SPEED!
+- download single files from torrents with multiple files
+- multiple torrent downloading, queuing
+- search for torrents
+- Wifi only mode, Wifi or WiMAX mode
+- able to set Upload/Download speed in options
+- web browser integration
+- magnet link support
+- trackerless torrent (DHT) support
+- RSS support(automatically download torrents published in feeds)
+- UPnP and NAT-PMP support
+- IP filtering support
+- proxy support(SOCKS, HTTP)
+- encryption
+- Local Peer Discovery
+- creating torrents
+
+FAQ
+
+If you have problems: ALWAYS SEND CRASH REPORTS!
+In case of doubt try the Lite version first!
+
+Q: My download speed is as slow as with the Lite version. How comes?
+A: Uninstall the Lite version and restart your device before installing the Pro version. Try to change settings. Clear cache. Enable encryption.
+-
+Q: I have force restarts, my device slows down etc. What's this crap?
+A: Uninstall the Lite version. Clear Cache/Temp files.
+We can't support custom ROMs. Use another OS.
+-
+Q: All torrents are corrupted. What the heck?
+A: You probably try to download from a tracker, which needs to be logged in with an account. Log in to your account on that tracker or download the files from another tracker.
+-
+Q: Why I can't save data to my SD Card?
+A: If you can't save to the SD card, your hardware doesn't support that.
+tTorrent is able to save to SD cards. 
+-
+Q: Why I need to download another app from outside to use this?
+A: You need to download the search plugin Transdroid to be able to search from inside the app. If you don't download it, you still can search for torrents within your internet browser.
+-
+Q: Why do I get "Provider Error" on search?
+A: You can try to change the search site in the app's settings, maybe the actual torrent site is down. You will find what you are looking for on another one!
+-
+Q: Why can't I add my own tracker to the search engine?
+A: There is no universal solution for every tracker regarding search queries. It must be coded for every tracker separately.
+You can contact us with a list of your favorite trackers which you would like to see in the search engine and if a tracker is wanted by many, we will add it.
+-
+Q: Why I can't find This or That?
+A: We don't know. We have no files for you to download. You download from the Internet through tTorrent. If you don't find it, then it is not on the Internet.
+-
+Q: Why is my downloaded file bad quality?
+A: As above: we don't know. We don't make the files, you download. We don't even upload or host them. The app doesn't alter files either, so if your download is bad quality, that is because it was uploaded to the internet in that quality. Try to download another version of the same file.
+-
+Q: Why doesn't this crap open my downloaded file?
+A: tTorrent can't open files. It downloads them. To open a file you will need an app that can open that file with that extension.
+-
+Q: Other apps have a preview of the file I try to download. Why doesn't this one do that?
+A: We can't do that due to legal issues.
+
+This app has no advertisements
+
+More Info:
+ 
+https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.pro
+
+By:
+
+SceneDL

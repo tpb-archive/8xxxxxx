@@ -1,0 +1,60 @@
+SPORT: Y Clwb Rygbi - Munster V Ospreys
+On: S4C
+Date: Saturday 2nd March 2013 
+Time: 18:15 to 20:30 
+
+Live coverage from Thomond Park as the Ospreys take on Munster in the RaboDirect Pro 12. Kick-off, 6.30pm. English commentary. Read the ReadMe for more details.
+
+
+General
+Complete name: 2013.03.02.Munster.v.Ospreys.pdtv.x264.mp4
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size: 860 MiB
+Duration : 1h 34mn
+Overall bit rate mode: Variable
+Overall bit rate : 1 271 Kbps
+
+Video
+ID : 1
+Format : AVC
+Format/Info: Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames: 4 frames
+Codec ID : avc1
+Codec ID/Info: Advanced Video Coding
+Duration : 1h 34mn
+Bit rate : 1 139 Kbps
+Maximum bit rate : 2 756 Kbps
+Width: 720 pixels
+Height : 416 pixels
+Display aspect ratio : 1.731
+Frame rate mode: Constant
+Frame rate : 25.000 fps
+Color space: YUV
+Chroma subsampling : 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame) : 0.152
+Stream size: 770 MiB (90%)
+Writing library: x264 core 129 r2245 bc13772
+
+Audio
+ID : 2
+Format : AAC
+Format/Info: Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 34mn
+Bit rate mode: Variable
+Bit rate : 128 Kbps
+Maximum bit rate : 147 Kbps
+Channel(s) : 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode : Lossy
+Delay relative to video: 80ms
+Stream size: 86.6 MiB (10%)
+Language : English

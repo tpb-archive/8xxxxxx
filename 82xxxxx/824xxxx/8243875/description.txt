@@ -1,0 +1,74 @@
+Greetings,
+We are few dutch guys providing you with quality movies including dutch subtitles.
+Our goal is to create torrents which are easy to download and don't require any different syncing with subtitles/formats.
+All our torrents are provided with optional dutch subtitles, if you like you can turn the subtitles off and insert your own .SRT
+
+For a list of our torrents visit 
+Or our website, which will be online anytime soon
+
+-------------
+Movie information
+ 
+http://www.imdb.com/title/tt0333766/
+7.6/10
+Andrew Largeman is a semi-successful television actor who plays a retarded quarterback. His somewhat controlling and psychiatrist father has led Andrew ("Large") to believe that his mother's wheelchair bound life was his fault. Andrew decides to lay off the drugs that his father and his doctor made him believe that he needed, and began to see life for what it is. He began to feel the pain he had longed for, and began to have a genuine relationship with a girl who had some problems of her own.
+
+Original rip from DTS-WiKi
+-------------
+
+Video Information:
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 42mn
+Width                                    : 1 080 pixels
+Height                                   : 464 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=22.5 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+-------------
+
+Audio information:
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 42mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+-------------
+
+Subtitle information:
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : Yes
+Forced                                   : No
+-------------
+
+Enjoy!

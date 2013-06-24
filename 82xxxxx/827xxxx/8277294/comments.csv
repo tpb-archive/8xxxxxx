@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,dansko2,2013-03-20T03:36Z,thank you for this upload... it's working better than the other... thank you
+,blakeh,2013-03-20T03:54Z,"so it will work with previous game saves as well?
+or will i be forced to do yet another clean install of 1.8?"
+,blakeh,2013-03-20T04:11Z,ok this one works perfectly thanks W!
+,WDoubleYouW,2013-03-20T04:33Z,"@blakeh
+Your saves should be fine. No need to reinstall the whole game all over again!"
+,vokvok333,2013-03-20T04:40Z,any news on the 1.9.32.0. release??
+,WDoubleYouW,2013-03-20T06:28Z,"@vokvok333
+We generally wait for it to get out of beta before we release the update."
+,vokvok333,2013-03-20T18:36Z,ok.
+,vokvok333,2013-03-20T23:48Z,1.9.32 is not beta. waitinf for new update from reloaded. :)
+,coltraz,2013-03-21T05:18Z,"I'm getting ""Please Update to the Latest Version of Skyrim"" every time I try to launch the game now."
+,WDoubleYouW,2013-03-21T06:13Z,"@coltraz
+Sounds like you need to update skse to 1.06.11
+skse.silverlock.org"
+,youngster86,2013-03-21T14:42Z,"This is the update 1.9.26.0.8 and the new Skse reqiure the latest update which is 1.9.32.0* and not the 1.9.26.0*, so if any skse use download this it is useless wait for 1.9.32.0*"
+,Jeordie,2013-03-22T02:27Z,"There are archived builds for a reason youngster86, if you read the skse_docs.txt, you would of seen the skse and the run times section. Skse 1.6.11	 for version 1.9.29.0 of the game is what you need for this patch. 
+Who knows when and if we will see a small incremental patch to .32."
+,Jeordie,2013-03-22T05:57Z,"http://www.uesp.net/wiki/Skyrim:Patch Fixed issue with NPCs sleeping with open eyes
+.32 is not a critical update anyway."
+,youngster86,2013-03-22T10:38Z,It is not because of update its just to use last version of skse since all new mods requires it pretty much
+,WDoubleYouW,2013-03-26T03:23Z,"Update 13 runtime 1.9.32.0.8 released:
+
+https://thepiratebay.sx/torrent/8300814"

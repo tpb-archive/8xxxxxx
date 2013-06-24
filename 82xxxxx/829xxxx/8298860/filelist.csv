@@ -1,0 +1,301 @@
+﻿Filename,Size,Unit
+deb6x/LCBT_Deb6x_001_Classroom_Topology.mov,7.77,M
+deb6x/LCBT_Deb6x_002_Deb5x_Distro-Upgrade.mov,55.33,M
+deb6x/LCBT_Deb6x_003_Debian_Features.mov,29.89,M
+deb6x/LCBT_Deb6x_004_Distro_Upgrade.mov,69.39,M
+deb6x/LCBT_Deb6x_005_PXE_Installation.mov,37.95,M
+deb6x/LCBT_Deb6x_006_Rescue_Mode.mov,41.41,M
+deb6x/LCBT_Deb6x_007_Startup_Environment.mov,46.64,M
+deb6x/LCBT_Deb6x_008_Basic-Linux_Commands-I.mov,43.29,M
+deb6x/LCBT_Deb6x_009_Basic-Linux_Commands-II.mov,70.04,M
+deb6x/LCBT_Deb6x_010_Compression_Utilities.mov,61.13,M
+deb6x/LCBT_Deb6x_011_Checksum_Utilities.mov,43.16,M
+deb6x/LCBT_Deb6x_012_User-Management_Tools.mov,46.25,M
+deb6x/LCBT_Deb6x_013_Permissions_SymLinks.mov,60.08,M
+deb6x/LCBT_Deb6x_014_Partitions_File-Systems.mov,62.93,M
+deb6x/LCBT_Deb6x_015_SWAP_Configuration.mov,62.17,M
+deb6x/LCBT_Deb6x_016_Proc_FileSystem.mov,58.51,M
+deb6x/LCBT_Deb6x_017_LVM_Setup.mov,42.12,M
+deb6x/LCBT_Deb6x_018_LVM_Management.mov,41.72,M
+deb6x/LCBT_Deb6x_019_Package_Management.mov,72.71,M
+deb6x/LCBT_Deb6x_020_Sysctl_Kernel-Tweaking.mov,52.15,M
+deb6x/LCBT_Deb6x_021_PCREGREP_Usage.mov,54.86,M
+deb6x/LCBT_Deb6x_022_Screen_Persistent-Shells.mov,55.31,M
+deb6x/LCBT_Deb6x_023_Cron_Scheduler.mov,41.85,M
+deb6x/LCBT_Deb6x_024_Syslog_Configuration.mov,48.04,M
+deb6x/LCBT_Deb6x_025_Log_Rotation.mov,48.3,M
+deb6x/LCBT_Deb6x_026_Network_Utilities.mov,41.3,M
+deb6x/LCBT_Deb6x_027_IPv4_Configuration.mov,59.81,M
+deb6x/LCBT_Deb6x_028_IPv6_Configuration.mov,39.01,M
+deb6x/LCBT_Deb6x_029_Client_Resolvers.mov,40.24,M
+deb6x/LCBT_Deb6x_030_LFTP_Client.mov,50.98,M
+deb6x/LCBT_Deb6x_031_RSYNC_Usage.mov,68.41,M
+deb6x/LCBT_Deb6x_032_TFTP_Client-Server.mov,37.89,M
+deb6x/LCBT_Deb6x_033_VSFTPD_Implementation.mov,49.84,M
+deb6x/LCBT_Deb6x_034_Telnet_Server.mov,20.92,M
+deb6x/LCBT_Deb6x_035_NTP_Setup.mov,25.76,M
+deb6x/LCBT_Deb6x_036_DHCPD_Setup.mov,46.52,M
+deb6x/LCBT_Deb6x_037_DNS_Caching-Only.mov,31.99,M
+deb6x/LCBT_Deb6x_038_DNS_Primary-Zone.mov,23.46,M
+deb6x/LCBT_Deb6x_039_DNS_Secondary-Zone.mov,26.7,M
+deb6x/LCBT_Deb6x_040_DNS_Reverse-Zones.mov,24.08,M
+deb6x/LCBT_Deb6x_041_NFS_Usage.mov,50.38,M
+deb6x/LCBT_Deb6x_042_FUSE_Usage.mov,53.11,M
+deb6x/LCBT_Deb6x_043_Samba_Clients.mov,47.73,M
+deb6x/LCBT_Deb6x_044_Samba_Server.mov,59.41,M
+deb6x/LCBT_Deb6x_045_Apache_Configuration.mov,56.51,M
+deb6x/LCBT_Deb6x_046_Apache_Logs.mov,50.11,M
+deb6x/LCBT_Deb6x_047_Apache_IP-Based-VHosts.mov,45.08,M
+deb6x/LCBT_Deb6x_048_Apache_Named-VHosts.mov,50.08,M
+deb6x/LCBT_Deb6x_049_MySQL_Introduction.mov,87.82,M
+deb6x/LCBT_Deb6x_050_PHPMyAdmin_Setup.mov,49.91,M
+deb6x/LCBT_Deb6x_051_PHP_MySQL.mov,54.13,M
+deb6x/LCBT_Deb6x_052_Postfix_MTA.mov,62.7,M
+deb6x/LCBT_Deb6x_053_POP3_Client.mov,45.76,M
+deb6x/LCBT_Deb6x_054_IMAP_Client.mov,35.37,M
+deb6x/LCBT_Deb6x_055_Squirrelmail_WebMail.mov,47.58,M
+deb6x/LCBT_Deb6x_056_Security_Updates.mov,53.64,M
+deb6x/LCBT_Deb6x_057_GPG_Introduction.mov,51.59,M
+deb6x/LCBT_Deb6x_058_SSH_Introduction.mov,53.73,M
+deb6x/LCBT_Deb6x_059_SCP_SFTP-Intro.mov,32.92,M
+deb6x/LCBT_Deb6x_060_System_Lockdown.mov,55.71,M
+deb6x/LCBT_Deb6x_061_Login_Definitions.mov,40.85,M
+deb6x/LCBT_Deb6x_062_SSHD_Tightening.mov,50.08,M
+deb6x/LCBT_Deb6x_063_TCPDump_Usage.mov,61.37,M
+deb6x/LCBT_Deb6x_064_WireShark_Usage.mov,61.66,M
+deb6x/LCBT_Deb6x_065_NMap_Introduction.mov,60.66,M
+deb6x/LCBT_Deb6x_066_NMap_Usage.mov,57.16,M
+deb6x/LCBT_Deb6x_067_IPTables_Introduction.mov,16.96,M
+deb6x/LCBT_Deb6x_068_IPTables_Usage.mov,58.58,M
+deb6x/LCBT_Deb6x_069_Apache_SSL.mov,64.91,M
+deb6x/LCBT_Deb6x_070_VSFTPD_SSL.mov,38.82,M
+deb6x/LCBT_Deb6x_071_MySQL_SSH.mov,36.64,M
+deb6x/LCBT_Deb6x_072_BandwidthD_Monitoring.mov,44.07,M
+deb6x/LCBT_Deb6x_073_DenyHosts_SSHD.mov,38.1,M
+deb6x/LCBT_Deb6x_074_OpenVAS_Setup.mov,39.5,M
+deb6x/LCBT_Deb6x_075_OpenVAS_Usage.mov,79.22,M
+deb6x/LCBT_Deb6x_076_Snort_Sniffer.mov,55.79,M
+deb6x/LCBT_Deb6x_077_Snort_Logger.mov,59.28,M
+deb6x/LCBT_Deb6x_099_EGRESS.mov,110.19,K
+LinuxCBT - Ubu12x Edition/cover.jpg,9.16,K
+LinuxCBT - Ubu12x Edition/Info.txt,5.85,K
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition.mov,112.58,K
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_10.mov,68.09,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_11.mov,87.72,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_12.mov,49.45,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_13.mov,90.47,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_14.mov,61.33,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_15.mov,66.1,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_16.mov,31.33,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_17.mov,62.34,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_18.mov,71.66,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_19.mov,61.57,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_2.mov,28.98,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_20...LVM.mov,52.74,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_21...LVM.mov,66,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_22.mov,60.14,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_23.mov,68.68,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_24.mov,91.63,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_25.mov,80.27,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_26.mov,82.1,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_27.mov,62.28,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_28.mov,96.17,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_29.mov,93.63,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_3.mov,37.99,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_30.mov,51.55,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_31.mov,106.19,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_32.mov,75.77,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_33.mov,75.97,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_34.mov,110.3,K
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_4.mov,22.5,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_5.mov,37.89,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_6.mov,30.05,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_7.mov,17.01,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_8.mov,36.61,M
+LinuxCBT - Ubu12x Edition/LinuxCBT Ubu12x Edition_9.mov,79.82,M
+LinuxCBT RHEL 6/amex_online_multi4_clear_small.gif,3.01,K
+LinuxCBT RHEL 6/AUTORUN.INF,50,B
+LinuxCBT RHEL 6/bottombg.gif,76,B
+LinuxCBT RHEL 6/bottomcheckout.gif,809,B
+LinuxCBT RHEL 6/buy.gif,1.17,K
+LinuxCBT RHEL 6/cam_embed.js,541,B
+LinuxCBT RHEL 6/clearpixel.gif,807,B
+LinuxCBT RHEL 6/config.xml,33.05,K
+LinuxCBT RHEL 6/controller.swf,184.96,K
+LinuxCBT RHEL 6/favicon-32x32.ico,2.19,K
+LinuxCBT RHEL 6/favicon.ico,318,B
+LinuxCBT RHEL 6/getSeal.htm,2.65,K
+LinuxCBT RHEL 6/header.jpg,3.48,K
+LinuxCBT RHEL 6/hrlong.gif,61,B
+LinuxCBT RHEL 6/icon_adobe_pdf.gif,1012,B
+LinuxCBT RHEL 6/index.html,2.11,K
+LinuxCBT RHEL 6/LCBT_EL-6_000_INGRESS.mov,112.05,K
+LinuxCBT RHEL 6/LCBT_EL-6_000_Welcome_Message.mov,13.34,M
+LinuxCBT RHEL 6/LCBT_EL-6_001_Features_Prep.mov,34.42,M
+LinuxCBT RHEL 6/LCBT_EL-6_002_Text_Install.mov,18.87,M
+LinuxCBT RHEL 6/LCBT_EL-6_003_VNC_Install.mov,29.63,M
+LinuxCBT RHEL 6/LCBT_EL-6_004_Graphical_Install.mov,27.97,M
+LinuxCBT RHEL 6/LCBT_EL-6_005_Kickstart_Install.mov,33.03,M
+LinuxCBT RHEL 6/LCBT_EL-6_006_Rescue-Single_Modes.mov,55.13,M
+LinuxCBT RHEL 6/LCBT_EL-6_007_INIT_Upstart.mov,30,M
+LinuxCBT RHEL 6/LCBT_EL-6_008_Basic_Skills-I.mov,44.93,M
+LinuxCBT RHEL 6/LCBT_EL-6_009_Basic_Skills-II.mov,66.4,M
+LinuxCBT RHEL 6/LCBT_EL-6_010_Basic_Skills-III.mov,40.97,M
+LinuxCBT RHEL 6/LCBT_EL-6_011_Compression_Utilities.mov,46.23,M
+LinuxCBT RHEL 6/LCBT_EL-6_012_Checksums_Tools.mov,32.91,M
+LinuxCBT RHEL 6/LCBT_EL-6_013_GREP_Usage.mov,42.31,M
+LinuxCBT RHEL 6/LCBT_EL-6_014_Awk_Usage.mov,39.21,M
+LinuxCBT RHEL 6/LCBT_EL-6_015_Sed_Usage.mov,34.74,M
+LinuxCBT RHEL 6/LCBT_EL-6_016_Perl_Usage.mov,30.47,M
+LinuxCBT RHEL 6/LCBT_EL-6_017_User_Management.mov,63.99,M
+LinuxCBT RHEL 6/LCBT_EL-6_018_File_Permissions.mov,49.79,M
+LinuxCBT RHEL 6/LCBT_EL-6_019_Symbolic_Links.mov,51.91,M
+LinuxCBT RHEL 6/LCBT_EL-6_020_Quota_Mgmt.mov,47.83,M
+LinuxCBT RHEL 6/LCBT_EL-6_021_EXT4_Parted.mov,34.04,M
+LinuxCBT RHEL 6/LCBT_EL-6_022_Swap_Config.mov,37.34,M
+LinuxCBT RHEL 6/LCBT_EL-6_023_LVM_Intro.mov,31.57,M
+LinuxCBT RHEL 6/LCBT_EL-6_024_LVM_Resize.mov,38.01,M
+LinuxCBT RHEL 6/LCBT_EL-6_025_LVM_GUI.mov,38.84,M
+LinuxCBT RHEL 6/LCBT_EL-6_026_RAID_Intro.mov,29.26,M
+LinuxCBT RHEL 6/LCBT_EL-6_027_RAID_Mgmt.mov,32.5,M
+LinuxCBT RHEL 6/LCBT_EL-6_028_RPM_Usage.mov,51.19,M
+LinuxCBT RHEL 6/LCBT_EL-6_029_YUM_Usage.mov,97,M
+LinuxCBT RHEL 6/LCBT_EL-6_030_Package_Kit.mov,28.14,M
+LinuxCBT RHEL 6/LCBT_EL-6_031_Cron_Usage.mov,35.36,M
+LinuxCBT RHEL 6/LCBT_EL-6_032_At-Batch_Usage.mov,34.19,M
+LinuxCBT RHEL 6/LCBT_EL-6_033_Syslog_Config.mov,38.42,M
+LinuxCBT RHEL 6/LCBT_EL-6_034_Log_Rotation.mov,39.8,M
+LinuxCBT RHEL 6/LCBT_EL-6_035_Network_Utilities.mov,64.05,M
+LinuxCBT RHEL 6/LCBT_EL-6_036_IPv4_Config.mov,46.51,M
+LinuxCBT RHEL 6/LCBT_EL-6_037_IPv6_Config.mov,36.28,M
+LinuxCBT RHEL 6/LCBT_EL-6_038_VSFTPD_Config.mov,64.27,M
+LinuxCBT RHEL 6/LCBT_EL-6_039_LFTP_Usage.mov,57.43,M
+LinuxCBT RHEL 6/LCBT_EL-6_040_Curl_Usage.mov,24.8,M
+LinuxCBT RHEL 6/LCBT_EL-6_041_RSYNC_Usage.mov,27.74,M
+LinuxCBT RHEL 6/LCBT_EL-6_042_TFTPD_Config.mov,52.17,M
+LinuxCBT RHEL 6/LCBT_EL-6_043_TelnetD_Config.mov,36.94,M
+LinuxCBT RHEL 6/LCBT_EL-6_044_NTPD_Config.mov,44.74,M
+LinuxCBT RHEL 6/LCBT_EL-6_045_Provision_NICs.mov,34.45,M
+LinuxCBT RHEL 6/LCBT_EL-6_046_DHCPD_Config.mov,47.65,M
+LinuxCBT RHEL 6/LCBT_EL-6_047_Service_Management.mov,27.52,M
+LinuxCBT RHEL 6/LCBT_EL-6_048_BIND_Caching-Only.mov,37.99,M
+LinuxCBT RHEL 6/LCBT_EL-6_049_BIND_Primary.mov,42.42,M
+LinuxCBT RHEL 6/LCBT_EL-6_050_BIND_Secondary.mov,23.65,M
+LinuxCBT RHEL 6/LCBT_EL-6_051_BIND_Reverse.mov,19.87,M
+LinuxCBT RHEL 6/LCBT_EL-6_052_BIND_IPv6.mov,48.5,M
+LinuxCBT RHEL 6/LCBT_EL-6_053_Samba_Clients.mov,39.54,M
+LinuxCBT RHEL 6/LCBT_EL-6_054_Samba_Server.mov,49,M
+LinuxCBT RHEL 6/LCBT_EL-6_055_Samba_ADS.mov,25.42,M
+LinuxCBT RHEL 6/LCBT_EL-6_056_Apache_Intro.mov,48.72,M
+LinuxCBT RHEL 6/LCBT_EL-6_057_Apache_Logs.mov,24.62,M
+LinuxCBT RHEL 6/LCBT_EL-6_058_Apache_VHosts.mov,47.7,M
+LinuxCBT RHEL 6/LCBT_EL-6_059_MySQL_Intro.mov,46.79,M
+LinuxCBT RHEL 6/LCBT_EL-6_060_PHP_MySQL.mov,41.63,M
+LinuxCBT RHEL 6/LCBT_EL-6_061_NFS_Setup.mov,43.69,M
+LinuxCBT RHEL 6/LCBT_EL-6_062_SELinux_Intro.mov,42.28,M
+LinuxCBT RHEL 6/LCBT_EL-6_063_NMap_Usage.mov,57.21,M
+LinuxCBT RHEL 6/LCBT_EL-6_064_IPTables_IPv4.mov,41.63,M
+LinuxCBT RHEL 6/LCBT_EL-6_066_IPTables_IPv6.mov,45.37,M
+LinuxCBT RHEL 6/LCBT_EL-6_067_TCPDump_Usage.mov,53.92,M
+LinuxCBT RHEL 6/LCBT_EL-6_068_Apache_SSL.mov,83.64,M
+LinuxCBT RHEL 6/LCBT_EL-6_069_VSFTPD_SSL.mov,58.5,M
+LinuxCBT RHEL 6/LCBT_EL-6_070_Tighten_Security.mov,56.56,M
+LinuxCBT RHEL 6/LCBT_EL-6_099_EGRESS.mov,109.6,K
+LinuxCBT RHEL 6/linuxcbt_clients.gif,536,B
+LinuxCBT RHEL 6/LinuxCBT_demonstration.jpg,9.53,K
+LinuxCBT RHEL 6/linuxcbt_demos.gif,864,B
+LinuxCBT RHEL 6/LinuxCBT_EL-6_Edition_Notes.txt,85.23,K
+LinuxCBT RHEL 6/linuxcbt_info.gif,577,B
+LinuxCBT RHEL 6/linuxcbt_logo2.gif,10.89,K
+LinuxCBT RHEL 6/LinuxCBT_UnixCBT_Logo.gif,12.08,K
+LinuxCBT RHEL 6/logo-php.gif,962,B
+LinuxCBT RHEL 6/news.gif,416,B
+LinuxCBT RHEL 6/nntable.gif,102,B
+LinuxCBT RHEL 6/part_advan_mark_or_blu_asso.jpg,2.73,K
+LinuxCBT RHEL 6/patron-logo-sm.png,17.54,K
+LinuxCBT RHEL 6/powered-by-mysql.png,1.16,K
+LinuxCBT RHEL 6/powered_by_suse-io.gif,7.97,K
+LinuxCBT RHEL 6/powered_by_suse.png,1.34,K
+LinuxCBT RHEL 6/preload.swf,2.22,K
+LinuxCBT RHEL 6/rightbg.gif,95,B
+LinuxCBT RHEL 6/righttop.jpg,1.45,K
+LinuxCBT RHEL 6/separator.gif,338,B
+LinuxCBT RHEL 6/side_btm.gif,325,B
+LinuxCBT RHEL 6/side_left.gif,278,B
+LinuxCBT RHEL 6/side_rt.gif,278,B
+LinuxCBT RHEL 6/side_top.gif,298,B
+LinuxCBT RHEL 6/sitesealgd_t_small.swf,25.34,K
+LinuxCBT RHEL 6/style.css,1.12,K
+LinuxCBT RHEL 6/swfobject.js,6.72,K
+LinuxCBT RHEL 6/topbg.gif,92,B
+LinuxCBT RHEL 6/topcheckout.gif,810,B
+LinuxCBT RHEL 6/verisign_m.gif,1.49,K
+SLES11/LCBT_SLES11_000_INGRESS.mov,109.77,K
+SLES11/LCBT_SLES11_000_Welcome_Message.mov,27.6,M
+SLES11/LCBT_SLES11_001_Topology.mov,14.22,M
+SLES11/LCBT_SLES11_002_TFTP_Prep.mov,21.42,M
+SLES11/LCBT_SLES11_003_PXE_Install.mov,69.72,M
+SLES11/LCBT_SLES11_004_PXE_SSH_Install.mov,51.86,M
+SLES11/LCBT_SLES11_005_PXE_AutoYast_SSH_Install.mov,31.74,M
+SLES11/LCBT_SLES11_006_PXE_VMWare_SSH_Install.mov,71.2,M
+SLES11/LCBT_SLES11_007_PXE_VMWare_AutoYast_SSH_Install.mov,41,M
+SLES11/LCBT_SLES11_008_PXE_VMWare_AutoYast_MAC_SSH_Install.mov,59.36,M
+SLES11/LCBT_SLES11_009_PXE_Dell_AutoYast_MAC_SSH_Install.mov,22.97,M
+SLES11/LCBT_SLES11_010_Partial_DVD_Install.mov,24.11,M
+SLES11/LCBT_SLES11_011_AutoInstall_Config.mov,71.03,M
+SLES11/LCBT_SLES11_012_AutoInstall_Install.mov,16.89,M
+SLES11/LCBT_SLES11_013_Boot_Process.mov,93.27,M
+SLES11/LCBT_SLES11_014_Boot_Problems.mov,86.88,M
+SLES11/LCBT_SLES11_015_X_Configure.mov,20.53,M
+SLES11/LCBT_SLES11_016_Gnome.mov,48.39,M
+SLES11/LCBT_SLES11_017_BasicSkills1.mov,45.16,M
+SLES11/LCBT_SLES11_018_BasicSkills2.mov,45.7,M
+SLES11/LCBT_SLES11_019_BasicSkills3.mov,38.08,M
+SLES11/LCBT_SLES11_020_BasicSkills4.mov,67.06,M
+SLES11/LCBT_SLES11_021_BasicSkills5.mov,55.65,M
+SLES11/LCBT_SLES11_022_gzip_bzip2_zip_tar.mov,66.75,M
+SLES11/LCBT_SLES11_023_SSHv2_Clients.mov,42.34,M
+SLES11/LCBT_SLES11_024_Net_Clients1.mov,61.48,M
+SLES11/LCBT_SLES11_025_Net_Clients2.mov,35.23,M
+SLES11/LCBT_SLES11_026_RPM.mov,44.66,M
+SLES11/LCBT_SLES11_027_Users_Shell.mov,37.3,M
+SLES11/LCBT_SLES11_028_Users_Tools.mov,49.72,M
+SLES11/LCBT_SLES11_029_File_Features.mov,55.99,M
+SLES11/LCBT_SLES11_030_Swap_Allocation.mov,35.79,M
+SLES11/LCBT_SLES11_031_VMWare_RAID_Prep.mov,14.22,M
+SLES11/LCBT_SLES11_032_RAID_Config.mov,61.89,M
+SLES11/LCBT_SLES11_033_LVM_1.mov,54.24,M
+SLES11/LCBT_SLES11_034_LVM_2.mov,34.2,M
+SLES11/LCBT_SLES11_035_Cron.mov,50.44,M
+SLES11/LCBT_SLES11_036_Syslog-NG.mov,43.03,M
+SLES11/LCBT_SLES11_037_LogRotate.mov,60.08,M
+SLES11/LCBT_SLES11_038_Interface_Config.mov,45.91,M
+SLES11/LCBT_SLES11_039_NTP.mov,51.71,M
+SLES11/LCBT_SLES11_040_TFTP.mov,32.89,M
+SLES11/LCBT_SLES11_041_DHCPD.mov,60.4,M
+SLES11/LCBT_SLES11_042_BIND_CachingOnly.mov,31.77,M
+SLES11/LCBT_SLES11_043_BIND_PriSec.mov,60.4,M
+SLES11/LCBT_SLES11_044_BIND_Sub_etc.mov,36.81,M
+SLES11/LCBT_SLES11_045_VSFTPD.mov,48.2,M
+SLES11/LCBT_SLES11_046_pure-ftpd.mov,43.08,M
+SLES11/LCBT_SLES11_047_NFS.mov,54.24,M
+SLES11/LCBT_SLES11_048_Samba_Clients.mov,37.66,M
+SLES11/LCBT_SLES11_049_Samba_Server_User.mov,46.74,M
+SLES11/LCBT_SLES11_050_Samba_SWAT.mov,51.75,M
+SLES11/LCBT_SLES11_051_AD_Install.mov,15.79,M
+SLES11/LCBT_SLES11_052_Samba_ADS2k3_Mode.mov,44.12,M
+SLES11/LCBT_SLES11_053_Samba_ADS2k8_Mode.mov,28.16,M
+SLES11/LCBT_SLES11_054_Apache_Install.mov,40.99,M
+SLES11/LCBT_SLES11_055_Apache_Config.mov,65.66,M
+SLES11/LCBT_SLES11_056_Apache_VHosts.mov,57.07,M
+SLES11/LCBT_SLES11_057_Apache_Logs.mov,43.76,M
+SLES11/LCBT_SLES11_058_MySQL_PHPMyAdmin.mov,53.17,M
+SLES11/LCBT_SLES11_059_MTA_IMAP.mov,44.8,M
+SLES11/LCBT_SLES11_060_SquirrelMail.mov,26.81,M
+SLES11/LCBT_SLES11_061_Apache_SSL.mov,50.25,M
+SLES11/LCBT_SLES11_062_Local_Security.mov,55.63,M
+SLES11/LCBT_SLES11_063_SUSE10_Upgrade_Prep.mov,19.5,M
+SLES11/LCBT_SLES11_064_SUSE10_Upgrade.mov,20.6,M
+SLES11/LCBT_SLES11_065_NMap.mov,31.72,M
+SLES11/LCBT_SLES11_066_SuSEFirewall2.mov,46.97,M
+SLES11/LCBT_SLES11_099_EGRESS.mov,110.08,K

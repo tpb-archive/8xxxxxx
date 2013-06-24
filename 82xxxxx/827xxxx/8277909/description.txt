@@ -1,0 +1,111 @@
+This will NOT fit on a 4.37GiB Single-Layer DVDR
+Use a Dual-Layer DVDR or an 16GB+ USB flash drive.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.
+No Unattended Settings were added to the ISO.
+
+murphy78 presents Windows 8 AIO 18in1 x64 x86 en-US Mar19 2013
+This installs all kb files current to Mar12 patch date.
+
+64-bit MSDN Sources:
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_n_x64_dvd_916091.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_x64_dvd_915440.iso
+
+32-bit MSDN Sources:
+en_windows_8_enterprise_n_x86_dvd_918707.iso
+en_windows_8_enterprise_x86_dvd_917587.iso
+en_windows_8_n_x86_dvd_916097.iso
+en_windows_8_pro_n_vl_x86_dvd_918877.iso
+en_windows_8_pro_vl_x86_dvd_917830.iso
+en_windows_8_x86_dvd_915417.iso
+
+Thess RTM Sources are the final Build 9200
+
+Installation Indexes:
+Windows 8 (Core) 32-bit
+Windows 8 (Core) N 32-bit
+Windows 8 Pro 32-bit
+Windows 8 Pro with Media Center 32-bit
+Windows 8 Pro N 32-bit
+Windows 8 Pro VL 32-bit
+Windows 8 Pro N VL 32-bit
+Windows 8 Enterprise 32-bit
+Windows 8 Enterprise N 32-bit
+Windows 8 (Core) 64-bit
+Windows 8 (Core) N 64-bit
+Windows 8 Pro 64-bit
+Windows 8 Pro with Media Center 64-bit
+Windows 8 Pro N 64-bit
+Windows 8 Pro VL 64-bit
+Windows 8 Pro N VL 64-bit
+Windows 8 Enterprise 64-bit
+Windows 8 Enterprise N 64-bit
+
+EI.CFG is set to Retail channel for support, but if you do not
+have a retail key, just press skip button. ProWMC upgrade key
+will not work during setup, you need to restore your activation
+that you previously saved after installing.
+
+Release File: Win8AIO-18in1-en-US-Mar2013.iso
+Size: 7.70GiB
+CRC32: 7AD0BD45
+MD5: 8BD5F41986EBBDD1D2DDA22074373B8E
+SHA-1: 4E2F861B44DCDDF8877ECE603CF9AC9EC393BD93
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, ProWMC flag, renaming, and export
+dism for MSU KB hotfix integration, mount for file copying
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2751352-v2, KB2753842-v2,
+KB2756872, KB2756923, KB2757638, KB2758246-v2, KB2761094,
+KB2764870, KB2768703, KB2769034, KB2769165, KB2769166,
+KB2770660, KB2770917, KB2771744, KB2771821, KB2777166,
+KB2777294, KB2778171, KB2779562, KB2779768, KB2780342,
+KB2781197, KB2782419, KB2783251, KB2784160, KB2785094,
+KB2785220, KB2788350, KB2789649, KB2789650, KB2790907,
+KB2790920, KB2792009, KB2794599, KB2795944, KB2797052,
+KB2799494, KB2800088, KB2805940, KB2807986, KB2809289,
+KB2811660, KB2812822, KB2812829, KB2815769, KB2823233,
+KB2824670
+
+KB list is same for x64 and x86.
+
+setupcomplete.cmd phase:
+KB890830 (Recent Malicious software removal tool)
+mpam-fe (Defender Updates)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe hotfix)
+
+Changes from recent Windows 8 AIO releases:
+-New Upgrade hex edited setup64.exe file and autorun.dll to
+support upgrade from previous x64 windows versions.
+-x64 recovery boot option boots into 64-bit boot.wim so
+you can repair and restore your pc on x64 systems.
+-Added .NET 2-3.5.1 and all hotfixes currently avail.
+
+Future updates will make the size jump over 7.95GiB and lose
+the ability to be burned on a dual-layer dvdr. When that
+happens, I will likely include a split tool with options for
+single-layer multi-dvding or multi-layer multi-dvding. It
+won't be necessary on a blu-ray or 16+GB usb flash drive.
+
+Enclosed is a UEFI conversion tool that I have been working
+on, but note that it only converts the ISO to UEFI support.
+It does not make this release able to fit on a fat32 drive.
+If you want a Win8 AIO to fit on a fat32 drive for UEFI, you
+need to get my NoFrills release.
+
+Thank you for your AMAZING Offline KMS Activation tool CODYQX4.
+Enjoy Pirates,
+murphy78-TPB :)

@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,arrrgghh,2013-04-22T23:12Z,"What's wrong with the vocal track? I tried watching this on VLC, and neither the Japanese nor English vocal tracks could be heard after the opening fight scene. 
+
+Am I the only one that's having this problem? Solutions?
+
+Besides that issue, everything else looks great."
+,Sesshy,2013-04-24T09:01Z,arrrgghh: You're probably using stereo speakers. Are you sure your audio filter is properly downmixing the 7-channel audio to stereo? That's almost certainly the reason the vocal track is inaudible.
+,arrrgghh,2013-04-25T22:28Z,"Thanks for replying, Sesshy. 
+
+I'll admit, I haven't messed around with the configurations much on VLC. I've never had to adjust the audio settings until now. I've learned a lot in the few hours that have passed, except how to downmix to stereo.
+
+I've went through control panel>Sounds to mess with the speaker configs there. I've went through VLC Tools>Preferences>Show settings--All>Audio and messed around with the configs in the sub-tabs. Tried looking up possible solutions on google and VLC forums. Even played around with AC3Filter. Nothing. 
+
+Something tells me it's something simple but I'm making it out to be something major. 
+
+Tl;dr - Basically, I'm still having the same problem and have no fucking clue what to do to fix it. Is there a specific set-up, audio filter or something that could possibly fix this issue?"
+,arrrgghh,2013-04-25T23:23Z,"Disregard my last comment.
+
+I downloaded PotPlayer and everything works great!
+
+Once again, just wanted to say thanks. Excellent quality, for those who wanted to know."

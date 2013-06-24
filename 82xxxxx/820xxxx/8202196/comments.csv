@@ -1,0 +1,149 @@
+﻿User Type,Username,Date,Text
+,XxCmonxX,2013-02-28T10:06Z,so basicly update 1 from reloaded dont count and this one should be update 2
+[V],Gh0stNet,2013-02-28T10:09Z,"-_- really 
+is it really hard to read the info 
+install game ,install update 2 (mine),install update 3 and play "
+,XxCmonxX,2013-02-28T10:13Z,*show comment* -_-
+,XxCmonxX,2013-02-28T10:15Z,"some dude yesterday said i cant install update 2 (yours) if i have the reloaded (update 1) installed 
+-_-"
+,XxCmonxX,2013-02-28T10:26Z,*feels dumb* ok ima get the first update also then >_
+,rajshekhar13,2013-02-28T10:38Z,official update???????????????
+,rajshekhar13,2013-02-28T10:40Z,official update?
+,rajshekhar13,2013-02-28T10:43Z,?official update?
+,rajshekhar13,2013-02-28T10:50Z,"official update ?????
+plzzzz reply?????"
+,markofbear,2013-02-28T10:51Z,"Well my game stopped responding after applying this update, update 2 worked fine tough"
+,rajshekhar13,2013-02-28T10:52Z,???
+,markofbear,2013-02-28T10:59Z,*bump* So I can see comments
+,rajshekhar13,2013-02-28T11:00Z,plzz reply?
+[V],Gh0stNet,2013-02-28T11:02Z,"@XxCmonxX  
+u cant install use my update on reloaded update you will be required to install the game again and that other machine4578 is my friend and cs.rin.ru user !"
+[V],Gh0stNet,2013-02-28T11:04Z,Yes its official the game was updated on steam today
+,rajshekhar13,2013-02-28T11:06Z,?
+,rajshekhar13,2013-02-28T11:11Z,"""Interpolated rendering is disabled until we have a solution that works on all platforms.""
+
+what is interpolated rendering???
+does it effect the graphics?"
+,rajshekhar13,2013-02-28T11:16Z,plzz reply
+,GeryGo,2013-02-28T11:20Z,LOL this broken port game is so broken I can see major fixed in every update; I can't find any reason except for greed to release an untouched port and then fix it
+,GeryGo,2013-02-28T11:21Z,@Gh0stNet thanks for the upload
+,rajshekhar13,2013-02-28T11:22Z,reply plz
+,XxCmonxX,2013-02-28T11:23Z,"@Gh0stNet
+oki oki i get it now thaaanks "
+,rajshekhar13,2013-02-28T11:24Z,reply
+,rajshekhar13,2013-02-28T11:29Z,ghostnet rply plz
+[V],Gh0stNet,2013-02-28T11:40Z,"@rajshekhar13 (see above buddy)
+Yes its official the game was updated on steam today "
+,rajshekhar13,2013-02-28T11:59Z,this update fixes alot of bug in the game thnxxxxxx ghpstnet
+,Whickerx7,2013-02-28T16:04Z,"Greygo if you knew anything you would know an ""untouched"" port would not work with any mouse/keyboard input and its not as simple as you think on the consoles they only had to make the game for 2/3 specific hardware sets with PC there are millions of hardware comboinations its much harder to make it compatible will all of them"
+,Balintss,2013-02-28T17:01Z,"I've done anything according to the steps, but when I try to launch, it says: Disk cannot be read - and the game won't start up normally (black screen).
+
+Can anybody suggest a solution? (I'm using a windows 8, with the previous update it was fine)"
+[V],Gh0stNet,2013-02-28T17:42Z,Dont use reloaded update other wise your game will not work so reinstall game then install my update 2 and update 3 
+,Balintss,2013-02-28T18:43Z,"I didn't use the reloaded update, just the two update of yours.. i've tried reinstalling the game - i repeated the steps, but it's the same. "
+,Balintss,2013-02-28T18:45Z,"I redownloaded the updates, but it's the same."
+,Balintss,2013-02-28T18:46Z,"I didn't use the reloaded update, just yours. (2 and 3)"
+[V],Gh0stNet,2013-02-28T19:32Z,sorry to hear that but i cant help u here go to cs.rin.ru and post in the game post for help! people will help you there 
+,Machine4578,2013-02-28T20:32Z,"@RaW-D-Coy 
+where is RLD's new update??
+RELOADED..quality??
+no this is quality!!!.. "
+,Stefanovics,2013-02-28T22:38Z,"it wont save!
+i had read from a forum that if this occurs the only thing to do is downgrade to 1.01
+so i will reinstall the game but only with the first update"
+,Stefanovics,2013-02-28T22:58Z,"the method worked. if someone has save issues only use the
+Brutal.Legend.Update.1-RELOADED"
+,Pestilencemage,2013-03-01T02:49Z,"Whickerx7 and GeryGo
+Everything in this game works perfectly.  (er... the legit version anyway)  There is nothing ""broken"".  As you failed to discribe your problem, and judgeing by the way GeryGo worded his message; I'll assume he is an idiot who calls tech support and bitches untill they tell him to plug in his P.... well, probably a MAC.  Get yourself a MAC, they are good for people who don't know what they are doing."
+,dahaka47,2013-03-01T04:50Z,"@ Pestilencemage
+
+If everything in this game works perfectly as you say, then developers must be releasing updates for the pirated version. Isn't that right, genius?"
+,dcs78,2013-03-01T07:00Z,"For anyone getting an error about too many file names in RgB_Ctsn.~p, here is a fix that worked for me.
+
+Open Brutal.Legend.Update.3.bat and find ""RgB_Ctsn.patch"". Simply add two ampersands with spaces before and after, just like this ""&&""
+
+The string should read:
+xdelta3 -d -f -q -9 s ""WinPacksRgB_Ctsn.~p.tmp"" RgB_Ctsn.patch && ""WinPacksRgB_Ctsn.~p""
+
+Gh0stNet: There is a newer version of xdelta out. It has both a x86 and x64 flavors. I put both in the folder naming them ""xdelta3x86"" and ""xdelta3x64"". Then I added a few pieces of code to decide which to use. As this is my first post and I don't know how to pm you I will add entire file. *Note: Only tested it on Win8 x64.
+
+@echo off
+cls
+echo Brutal Legend Update 3
+echo.
+pause
+cls
+
+for /f ""skip=1 delims="" %%x in ('wmic cpu get addresswidth') do if not defined AddressWidth set AddressWidth=%%x
+
+if %AddressWidth%==64 (
+  rem 64 bit
+  ren xdelta3x64.exe xdelta3.exe
+) else (
+  rem 32 bit
+  ren xdelta3x86.exe xdelta3.exe
+)
+
+echo Updating DLC1_Stuff.~p...
+ren ""WinPacksDLC1_Stuff.~p"" ""DLC1_Stuff.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksDLC1_Stuff.~p.tmp"" DLC1_Stuff.patch ""WinPacksDLC1_Stuff.~p""
+del /f /q ""WinPacksDLC1_Stuff.~p.tmp""
+del /f /q DLC1_Stuff.patch
+
+echo Updating Man_Gfx.~p...
+ren ""WinPacksMan_Gfx.~p"" ""Man_Gfx.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksMan_Gfx.~p.tmp"" Man_Gfx.patch ""WinPacksMan_Gfx.~p""
+del /f /q ""WinPacksMan_Gfx.~p.tmp""
+del /f /q Man_Gfx.patch
+
+echo Updating Man_Trivial.~p...
+ren ""WinPacksMan_Trivial.~p"" ""Man_Trivial.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksMan_Trivial.~p.tmp"" Man_Trivial.patch ""WinPacksMan_Trivial.~p""
+del /f /q ""WinPacksMan_Trivial.~p.tmp""
+del /f /q Man_Trivial.patch
+
+echo Updating RgB_Ctsn.~p...
+ren ""WinPacksRgB_Ctsn.~p"" ""RgB_Ctsn.~p.tmp""
+xdelta3 -d -f -q -9 s ""WinPacksRgB_Ctsn.~p.tmp"" RgB_Ctsn.patch && ""WinPacksRgB_Ctsn.~p""
+del /f /q ""WinPacksRgB_Ctsn.~p.tmp""
+del /f /q RgB_Ctsn.patch
+
+echo Updating RgS_Faction.~p...
+ren ""WinPacksRgS_Faction.~p"" ""RgS_Faction.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksRgS_Faction.~p.tmp"" RgS_Faction.patch ""WinPacksRgS_Faction.~p""
+del /f /q ""WinPacksRgS_Faction.~p.tmp""
+del /f /q RgS_Faction.patch
+
+echo Updating RgS_World.~p...
+ren ""WinPacksRgS_World.~p"" ""RgS_World.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksRgS_World.~p.tmp"" RgS_World.patch ""WinPacksRgS_World.~p""
+del /f /q ""WinPacksRgS_World.~p.tmp""
+del /f /q RgS_World.patch
+
+echo Updating RgS_World2.~p...
+ren ""WinPacksRgS_World2.~p"" ""RgS_World2.~p.tmp""
+xdelta3 -d -f -q -9 -s ""WinPacksRgS_World2.~p.tmp"" RgS_World2.patch ""WinPacksRgS_World2.~p""
+del /f /q ""WinPacksRgS_World2.~p.tmp""
+del /f /q RgS_World2.patch
+
+echo.
+echo Files Updated!
+echo.
+echo Cleaning up...
+del /f /q xdelta3*.exe
+del /f /q Brutal.Legend.Update.3.bat
+echo.
+echo DONE!
+echo.
+echo.
+pause
+exit"
+,miked2138,2013-03-01T07:22Z," I dont know whats up with this ""update"" but it didnt work for me  either, and it changed the permissions on my game folder so i could not even paste the steam, crack back into the folder, and even after uninstalling and not using this update it still did it, i had to change the install directory to be able to install the game again,, imo avoid this one something is def not right with this, the reloaded game and update 1 work just fine, "
+,tedwu,2013-03-01T09:11Z,"Another confirm that this path along with Update 2 will not work w/ RELOADED version of the game. I followed per uploader's instruction dont use RELOADED patch for anything just update 2 and 3 P2P uploaded by Gh0stNet.
+Result win7, GTX690 froze on start up.
+Going back to RELOADED update 1.
+As far as the game at first it's weird but during game play asides from some of the major bug issue I really enjoyed it. 
+Still seeding RELOADED version so others can enjoy:)
+Found solution please share anything will help thanks."
+,Derc,2013-03-01T09:40Z,"Yea it works and then some. Ya know what bro... you need props then some. I never get, any.. been helping the fucktards since 2005. I quit that now I help the legits. This is good and your updates... plays fine.. then some YAY!"
+,kinroko,2013-03-01T10:42Z,"no one cares if you help or not, if you can't solve it on your own then get the fuck out"

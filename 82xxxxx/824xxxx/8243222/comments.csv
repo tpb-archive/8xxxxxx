@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,monkeybomb11,2013-03-17T13:20Z,"it is with english or spanish files?
+it has zombie loading videos?"
+,gatekeeper754,2013-05-03T03:31Z,"downloaded this , now how the hell do i install it"
+,feniks1234,2013-05-09T15:20Z,"http://worldmedia.comlu.com/game.php?game=pc-games/system-requirements/Call-of-Duty-Black-Ops.html
+
+Minimum system requirements
+
+# OS: Windows® Vista / XP / 7
+# Processor:Intel® Core™2 Duo E6600 or AMD Phenom™ X3 8750 or better
+# Memory: 2GB
+# HDD: 12GB
+# Video: Shader 3.0 or better 256MB NVIDIA® GeForce® 8600GT / ATI Radeon® X1950Pro or better"
+,NovaGuy,2013-05-12T12:32Z,"It's English
+
+The files are part of a spanned compressed file
+
+If you uncompres the first file it will automatically do the rest and probably and create an iso or similar file.
+
+If the files look like this
+
+b-revopsON
+
+you need to change your file setting to NOT hide extensions for known file types the compressed files should look like this
+
+b-revopsON.r00
+b-revopsON.r01
+
+and so on ...
+"

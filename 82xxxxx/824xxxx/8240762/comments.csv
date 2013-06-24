@@ -1,0 +1,92 @@
+﻿User Type,Username,Date,Text
+,rozdvd,2013-03-10T23:48Z,"
+Tomb Raider v1.0.718.4 Update info:
+
+
+This update addresses a variety of issues that we either found out about shortly before release or immediately after.
+
+Fixes include:
+
+- Addressed some stability and startup issues on machines that have both Intel and NVIDIA graphics hardware.
+- Fix for players being unable to progress related to the boat in the beach area.
+- Some fixes for crashes on startup and when selecting Options.
+- Some small improvements to TressFX hair rendering.
+- Fixes for various graphics glitches, including certain effects not being visible in fullscreen mode.
+- Fixed a problem that caused some users to not be able to use exclusive fullscreen.
+- Added support for separate mouse/gamepad inversion for aiming, as well as support for x-axis inversion.
+- Fixes related to the benchmark scene and benchmark mode.
+- Various other small fixes.
+
+While we expect this patch to be an improvement for everyone. If you do have trouble with this patch and prefer to stay on the old version we made a Beta available on Steam, Build716.5, that can be used to switch back to the previous version. Please note however that you can only play multiplayer with people that share your version."
+,PyroTheGreat,2013-03-10T23:54Z,"Thanks a lot! Desperately been waiting for a patch, hope it works :D "
+,Rawlings44,2013-03-11T00:06Z,This patch has completely fucked my game up and has made it unplayable.
+,Mercer99,2013-03-11T00:16Z,"If anyone here uses an Nvidia card, may wanna get this. It helps a LOT. :)"
+,IAmTorrenter,2013-03-11T00:23Z,"works fine for me.
+but then again the game was working fine for me before,
+probably because of my ATI graphics card"
+,HKCannibal,2013-03-11T00:27Z,Thanks SKIDROW and scene4all!
+,dandalis,2013-03-11T00:35Z,"dont fix anything for Nvidia cards, still hyper low fps with TressFX and crashes."
+,Rawlings44,2013-03-11T00:38Z,A little update: patch works fine now. I changed it from 4XSSA to FXAA. The former option completely messed up the game as well as Lara's hair and made it unplayable for me. It's fine now.
+,MiniZaggy,2013-03-11T01:49Z,"Use the beta driver for nvidia, there is no crash anymore. But yea once in a while, one game gets out and its optimized for ATI cards so fanboys could brag about how much their card is great or whatsoever. "
+,Dewarton,2013-03-11T02:17Z,NVIDIA have released beta drivers for tesselation issues etc... go check NVIDIA's website.
+,MLO89,2013-03-11T03:43Z,"This patch did nothing for me. I still get the crashes unless Tessellation is disabled. Something still not quite right with this game. Game play is pretty cool though, had a blast playing it (finished it) and getting ready to play it again."
+,CapnBin,2013-03-11T07:36Z,"I still got the crash 10-15 mins when playing with my gtx570, it also overheat my card up to 100degrees -_-"
+,Joe17Pro,2013-03-11T07:37Z,does this fix the mathias qte bug?
+,xValkyrie920,2013-03-11T11:44Z,"Hello, I'm pretty new at torrenting and I'm having some trouble installing the game. I opened and installed the update program, creating the default Square Enix folder and application. However, it seems as if the installer only gave me 2 files, being patch.000.tiger and TombRaider.exe. Am I missing files, and if i am, how may I retrieve them? Thanks!"
+,Imperialz,2013-03-11T12:00Z,"dandalis, quit using tressfx it is meant for higher end amd cards."
+,dandalis,2013-03-11T12:51Z,"Tress FX isnt a exclusive Radeon future, like we have Physx, it can be runned on GeForce too, it only needs optimazition from developers and Nvidia."
+,The_Probe,2013-03-11T14:06Z,"@CapnBin
+
+If your card is reaching 100 degrees it is a hardware problem. A game will cause a card to heat up but the card will generally shut down to prevent physical damage before getting too hot. You may want to clean out the fans, if problems persist re-seat the GPU cooler with a fresh bath of thermal paste."
+,Carlozero,2013-03-11T14:16Z,"anyone know how to fix gamepad problem, i cant look all directions with my right analog and its so damn annoying its south west to be specific i know its not the controller
+
+anyone got same issue?"
+,alex32571,2013-03-11T15:46Z,"Are you using a 360 wired controller? If not, it's probably your controller. Some games (left4dead2 for example) just won't work right with anything else, even if it's faked to be a 360 controller. But you can always try x360ce."
+,Carlozero,2013-03-11T18:51Z,"im using a wired one, and in 360ce all the buttons work i can look in every direction rumble is on, but in this mfikng game everything is working except looking south west with the right analog (camera) and i just cant stand it. and if you try to map the buttons in xpadder or whatever the game just overrides it. 
+
+is there anyway to just delete the god damn controlls in the game? cus this is just ruining the whole fucking experience
+
+thanks for answer tho"
+,Carlozero,2013-03-11T19:08Z,"using wired yes, the controller works perfect in CE and all other games but in this one it simply does not look south west and its ruining everything. the game controller overrides the xpadder mapping 
+
+is it possible just to delete the whole controller mapping."
+,Carlozero,2013-03-11T19:09Z,double post -_-
+,Skyseed,2013-03-11T22:00Z,"I haven't patched yet I think I'll purchase, very good game so far.  Running the game fine on Nvidia/Intel hardware.  My only problem is I can't get out of a cave where a wolf attacks me and I go in to QTE mode.  Mashing A and D does not work.  
+Although it worked earlier on in the game."
+,made_in_brazil,2013-03-11T23:02Z,before updating backup save file :)
+,dmx89,2013-03-12T22:15Z,"I cant get this game to work, made no difference with the patch. it always crash after the intro when the logo shows up. i've never used tesselation or tressfx. i have nvidia gt540m 2gb"
+,Reunion13,2013-03-13T00:50Z,"Doesn't work for me at all. Framerate still drops at certain areas from a 100+ to 11 fps while lagging horrible. In order to fix the game i think they have to rework it completely because these small ""updates"" won't fix anything."
+,pixie4000,2013-03-13T17:53Z,"Funny how the benchmark is telling me it's now worse than before
+
+Not funny."
+,hydroswar,2013-03-14T14:16Z,"I'm having an issue opening the .bin file for the update. i've tried multiple iso mounting programs, none of them work. i've also tried converting it into .iso file itself. nothing is working. someone HELP!"
+,macwun,2013-03-14T19:37Z,hope this fixes the issue with not being able to grab the damn bow!
+,pih2013,2013-03-15T16:48Z,"yt GamePlay
+
+P20T9ikOSA4"
+,tuniturntablist,2013-03-15T18:49Z,"Can anyone confirm if this fixed the missing graphics effects on full screen (lens flare, water drop...)"
+,takashi77,2013-03-16T02:45Z,You won't see a performance boost unless in have the new 314.21 BETA driver installed.
+,Carlozero,2013-03-16T03:20Z,"fuck me fsideways, it was my controllers fault it dident work, piece of junk even tho it works in every other game"
+,Tunisiano125,2013-03-17T14:33Z,"Guys i just fixed the (Not working right analogue Stick problem) I have a Generic probably 3 dollars Usb gamepad and it worked ! The solution is complicated , you need to follow this very carefully
+1-Download the third file on this link code.googlecom/p/x360ce/downloads/list)
+2-Make sure you have the latest directx drivers and precisley xinput.dll files.
+"
+,Tunisiano125,2013-03-17T14:35Z,"5-Rename the ""xinput3_1.dll"" file to ""xinput9_1_0.dll"" (very important otherwise the game won't recognize the gamepad !! )
+6-Open x360ce.exe(executable) 
+press ALL the keys to check if they match yours
+if they don't THE GAME WILL CRASH TO DESKTOP,So you make sure to bind keys to correct ones,for me the arrows weren't working and so the game didn't until i fixed them
+7-That's it !! Hope this works (Iknow it will for 100% if you do as i said)"
+,Tunisiano125,2013-03-17T14:36Z,"Guys i just fixed the (Not working right analogue Stick problem) I have a Generic probably 3 dollars Usb gamepad and it worked ! The solution is complicated , you need to follow this very carefully
+1-Download the third file on this link code.googlecom/p/x360ce/downloads/list)
+2-Make sure you have the latest directx drivers and precisley xinput.dll files."
+,Tunisiano125,2013-03-17T14:37Z,"3-Now,extract the archive in the game directory (Its an emulator that makes your controller get recognized as a xbox360 controller)
+"
+,Tunisiano125,2013-03-17T14:40Z,"4-Here comes the complicated part ! 
+Watch this video very carefully and do as the guy did (wat""""ch?v=68MKioSHVgs)"
+,Tunisiano125,2013-03-17T14:54Z,"4-Here comes the complicated part ! 
+Watch this video very carefully and do as the guy did (youtubecom/watch?""deletethis""v=68MKioSHVgs)"
+,Tunisiano125,2013-03-17T15:10Z,"Sorry for the mess,this is my first time posting here,the problem was really pissing me off i felt that i need to spread the fix"
+,s1raz1,2013-03-18T04:24Z,"one of the  naval mines didnt get added when i destroyed it, now i have 97% complete :/
+
+Fubar!"
+,MLO89,2013-03-29T03:14Z,"Hey scene4all, where is the latest 1.0.730.0 patch for this game? I figure if anyone can find it, it's you."

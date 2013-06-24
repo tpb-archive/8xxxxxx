@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,telefonea,2013-03-13T15:19Z,"YAAAAAAAAAAAAs, finally a deluxe FLAC version. Great job!! :))"
+[V],baby967,2013-03-13T15:21Z,[:-) 
+,bd201020,2013-03-13T16:41Z,"Audiochecker is bringing up half the tracks as Mpeg 95%. I'm guessing with the rest being 100% CDDA its a false positive but is anyone else able to check, and confirm?"
+,CyberTootie,2013-03-15T04:41Z,"From what I could tell, the tracks I looked at do have a pre-master gradual low-pass filter that starts around 20k, which could indicate some sort of lossy source. However, besides the fact filter frequency fade it pretty consistent except at beats, there is one giveaway I noticed that it is a finalized master. So it could be a case of lossy audio sources used in the final master, but I think it's just a LPF; some high frequency tones I looked at came across crisp in my spectrum analyzer."
+,CyberTootie,2013-03-15T04:45Z,"From what I could tell, the tracks I looked at do have a pre-master gradual low-pass filter that starts around 20k, which could indicate some sort of lossy source. However, besides the fact the filter frequency fade is pretty consistent except at beats, there is one giveaway I noticed that it is a finalized master. So it could be a case of lossy audio sources used in the final master, but I think it's just a LPF; some high frequency tones I looked at came across crisp in my spectrum analyzer."
+,blackmambano1,2013-03-16T07:34Z,"@CyberTootie this is most likely coming from a lossy source because this album was not released until March 15th, but streaming the entire album was available since March 11th from iTunes"
+,piratebuddha,2013-03-18T00:29Z,"I'm going to swing by a Target when the album is released on Tuesday, get a copy of this deluxe edition, and rip a copy of it using EAC. I'll have it up by Tuesday night (US time) w/ scans."
+,CyberTootie,2013-03-18T22:50Z,"The album was released earlier in Europe and it isn't that unfeasible for someone to get a hold of it early... I stand by my opinion. It could conceivably be lossily-sourced, but there are certain aspects of the data that tell me it's a finalized master, based on my experience. But I welcome the challenge. I myself am a ""question everything"" individual, and if I'm wrong, we all benefit in the end."
+,CyberTootie,2013-03-19T00:28Z,"It's definitely not the iTunes stream...
+http://imgur.com/dCIyeIc
+iTunes stream is on top."
+,piratebuddha,2013-03-19T21:45Z,"I just ripped it myself with EAC and uploaded with full scans:
+Justin Timberlake - The 20/20 Experience (2013) [Deluxe Edition] [FLAC] https://thepiratebay.sx/torrent/8276656"
+,CyberTootie,2013-03-20T06:17Z,"...and that's an identical match to what's here, so I can say this is a legitimate lossless release with confidence."

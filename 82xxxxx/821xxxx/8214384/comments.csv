@@ -1,0 +1,196 @@
+﻿User Type,Username,Date,Text
+,GateKeeper13,2013-03-11T21:34Z,Thanks! Downloading!!!
+,55trucker,2013-03-12T05:42Z,Is the DTS master audio still in it's original variable rate format or has it been remuxed to 1536 constant?
+,Rohschinken,2013-03-12T07:52Z,"Allgemein 
+UniqueID/String : 254839585593652554135552739903437249201 (0xBFB851A2D7453F1CAC35F7323D8B9AB1) 
+Vollständiger Name : Q:FlimmerkastlThe Hobbit - An Unexpected JourneyThe Hobbit An Unexpected Journey 2012 1080p Blu-ray Remux AVC DTS-HD MA 7.1 - KRaLiMaRKo.mkv 
+Format : Matroska 
+Format-Version : Version 4 / Version 2 
+Dateigröße : 31,1 GiB 
+Dauer : 2h 49min 
+Modus der Gesamtbitrate : variabel 
+Gesamte Bitrate : 26,3 Mbps 
+Filmname : The Hobbit An Unexpected Journey 2012 1080p Blu-ray Remux AVC DTS-HD MA 7.1 - KRaLiMaRKo 
+Kodierungs-Datum : UTC 2010-02-22 21:41:31 
+Kodierendes Programm : mkvmerge v5.9.0 ('On The Loose') built on Dec 9 2012 15:37:01 
+verwendete Encoder-Bibliothek : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format-Profil : High@L4.1 
+Format-Einstellungen für CABAC : Ja 
+Format-Einstellungen für ReFrames : 2 frames 
+Codec-ID : V_MPEG4/ISO/AVC 
+Dauer : 2h 49min 
+Bitraten-Modus : variabel 
+Bitrate : 24,2 Mbps 
+Breite : 1 920 Pixel 
+Höhe : 1 080 Pixel 
+Bildseitenverhältnis : 16:9 
+Bildwiederholungsrate : 23,976 FPS 
+ColorSpace : YUV 
+ChromaSubsampling : 4:2:0 
+BitDepth/String : 8 bits 
+Scantyp : progressiv 
+Bits/(Pixel*Frame) : 0.486 
+Stream-Größe : 28,6 GiB (92%) 
+Sprache : Englisch 
+Default : Ja 
+Forced : Nein 
+
+Audio 
+ID : 2 
+Format : DTS 
+Format/Info : Digital Theater Systems 
+Format-Profil : MA / Core 
+Codec-ID : A_DTS 
+Dauer : 2h 49min 
+Bitraten-Modus : variabel 
+Bitrate : 1 597 Kbps / 1 510 Kbps 
+Kanäle : 8 Kanäle / 6 Kanäle 
+Kanal-Positionen : Front: L C R, Side: L R, Back: L R, LFE / Front: L C R, Side: L R, LFE 
+Samplingrate : 48,0 KHz 
+BitDepth/String : 24 bits 
+Compression_Mode/String : / Lossy 
+Sprache : Englisch 
+Default : Ja 
+Forced : Nein 
+
+Text #1 
+ID : 3 
+Format : PGS 
+Codec-ID : S_HDMV/PGS 
+Codec-ID/Info : The same subtitle format used on BDs/HD-DVDs 
+Titel : SDH 
+Sprache : Englisch 
+Default : Ja 
+Forced : Nein 
+
+Text #2 
+ID : 4 
+Format : PGS 
+Codec-ID : S_HDMV/PGS 
+Codec-ID/Info : The same subtitle format used on BDs/HD-DVDs 
+Sprache : Französisch 
+Default : Nein 
+Forced : Nein 
+
+Text #3 
+ID : 5 
+Format : PGS 
+Codec-ID : S_HDMV/PGS 
+Codec-ID/Info : The same subtitle format used on BDs/HD-DVDs 
+Titel : Brazilian 
+Sprache : Portugiesisch 
+Default : Nein 
+Forced : Nein 
+
+Text #4 
+ID : 6 
+Format : PGS 
+Codec-ID : S_HDMV/PGS 
+Codec-ID/Info : The same subtitle format used on BDs/HD-DVDs 
+Titel : Latin American 
+Sprache : Spanisch 
+Default : Nein 
+Forced : Nein 
+
+Menü 
+00:00:00.000 : en:00:00:00.000 
+00:08:51.531 : en:00:08:51.531 
+00:12:58.903 : en:00:12:58.903 
+00:16:34.619 : en:00:16:34.619 
+00:20:50.666 : en:00:20:50.666 
+00:25:09.007 : en:00:25:09.007 
+00:33:14.409 : en:00:33:14.409 
+00:38:26.804 : en:00:38:26.804 
+00:43:40.368 : en:00:43:40.368 
+00:50:12.301 : en:00:50:12.301 
+00:55:16.939 : en:00:55:16.939 
+00:57:04.838 : en:00:57:04.838 
+01:07:51.943 : en:01:07:51.943 
+01:12:11.369 : en:01:12:11.369 
+01:16:03.559 : en:01:16:03.559 
+01:22:06.463 : en:01:22:06.463 
+01:28:49.991 : en:01:28:49.991 
+01:32:03.518 : en:01:32:03.518 
+01:33:42.534 : en:01:33:42.534 
+01:40:29.607 : en:01:40:29.607 
+01:43:06.847 : en:01:43:06.847 
+01:49:12.963 : en:01:49:12.963 
+01:54:04.588 : en:01:54:04.588 
+01:56:58.094 : en:01:56:58.094 
+02:10:27.945 : en:02:10:27.945 
+02:12:26.021 : en:02:12:26.021 
+02:13:37.718 : en:02:13:37.718 
+02:17:59.438 : en:02:17:59.438 
+02:20:09.359 : en:02:20:09.359 
+02:22:59.112 : en:02:22:59.112 
+02:33:58.563 : en:02:33:58.563 
+02:39:27.558 : en:02:39:27.558 "
+,War4Lock,2013-03-12T17:44Z,"A:10
+
+V:10
+
+Best copy out there, didnt downloaded 35,GB yet
+
+Keep in mind that that is still missing some of original release , its not full picture.
+
+Screenshot from torrent - 
+
+http://postimage.org/image/rb07eamn7/full/
+
+Original screenshot
+
+"
+,War4Lock,2013-03-12T17:46Z,"Original screenshot 
+
+http://postimage.org/image/9355j6z77/
+
+As you can see , all those torrents are actually missing full size, compare flowers below , you will see.
+
+
+"
+,War4Lock,2013-03-12T17:48Z,"A:10
+
+V:10
+
+Screen 
+
+http://postimage.org/image/rb07eamn7/full/"
+,sakkispb,2013-03-12T17:56Z,"Thanks for all the informations. 
+So DTS-MA on this is 1536?"
+,55trucker,2013-03-13T18:00Z,"@War4lock:
+
+Curious that there appear to be two different aspect ratios for this movie (not resolution, but aspect ratio), the one photo that is rather fuzzy which has a larger field scan, is that a pic taken from an SD version of the movie and not the Bluray?"
+,War4Lock,2013-03-13T20:22Z,"@55trucker That fuzz pic with larget field scan is from    FB page - Hobbit , its offical screen  , theatrical version.
+
+Other one if from this Blu-Ray RIP,
+
+Whats anoying for me is that Blue -Ray doesnt have some aspect ratio as original, you miss some of pic.
+
+By the way its like that in all those versions currently avilable on piratebay."
+,War4Lock,2013-03-13T20:35Z,"Hey! Here are more pictures! Enoy! I shall seed now. Finished downloading it 
+
+http://postimage.org/image/nmdrht3v1/
+http://postimage.org/image/jeiz922fh/
+http://postimage.org/image/idiqjxlfx/
+http://postimage.org/image/qx24hotsd/
+http://postimage.org/image/f9co0vu19/
+http://postimage.org/image/i4pr7qy19/
+http://postimage.org/image/5fvgo2rwt/
+http://postimage.org/image/gthzza2fh/
+http://postimage.org/image/tm63z7e19/
+http://postimage.org/image/6yqut1yh9/
+http://postimage.org/image/94l5nk1xp/
+http://postimage.org/image/e4ilvi7kd/
+http://postimage.org/image/iex9r3cnh/
+http://postimage.org/image/yekiody31/
+http://postimage.org/image/99tiayyml/
+http://postimage.org/image/lcytyj9ot/
+http://postimage.org/image/su81dqz7x/
+http://postimage.org/image/lsa3rjvm5/
+http://postimage.org/image/wt58wknv1/
+http://postimage.org/image/nmmy9aiml/"

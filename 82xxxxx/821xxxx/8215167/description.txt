@@ -1,0 +1,63 @@
+┬á
+Official Web Site:  http://supermegaultragroovy.com/products/Capo/
+
+Capo is a musician's best friend. It lets you slow down your favorite songs, so you can hear the notes and learn how they are played. And, you can tab out your songs in record time atop a highly-detailed OpenCL-powered spectrogram display!
+
+It's your music
+
+No longer do you have to rely on the musical tastes of others to learn music. Drag songs right from your music collection into capo to start learning them.
+
+Tab it out!
+
+By simply drawing atop the spectrogram, Capo will generate tablature automatically for you. It really doesn't get much easier than this!
+
+Detect, and enter chords
+
+Figure out the chords in your music using Capo's sophisticated chord detection routines. Or, enter your own easily using strings like 'bbmaj7' or 'f#maj9'.
+
+Pitch adjustment
+
+Capo lets you adjust the pitch of your songs-so you can change their key or fine tune them to match your instrument.
+
+Markers
+
+Use keyboard shortcuts to mark verses, choruses, bridges, and other important points in your songs so you can return to them later.
+
+Looping
+
+Repeat difficult sections slowly, playing along with your favorite artist. Speed up gradually as you get better.
+
+Music Export
+
+Take your Capo-adjusted music with you. Export speed- and pitch-corrected audio to your iPod, and play along when and where it's most convenient.
+
+Effects
+
+Capo lets you modify panning, adjust a 10-band graphic equalizer, and apply vocal reduction to help you isolate the parts of the music you wish to learn.
+
+Whats new:
+
+Bug Fixes:
+
+* Capo no longer fails to respond to keyboard control 
+  commands before the Control menu is shown.
+
+* The displayed keyboard modifiers for the defaults no longer
+   include the 'fn' key. (You must delete your preferences to see 
+  this fix.)
+
+* When resizing the window during a spectrogram calculation, 
+  Capo no longer crashes with an OpenGL assertion.
+
+* When using a mouse with no trackpad attached, Capo no
+   longer shifts the display of the tablature up too high, losing the
+   1st string in the display.
+
+Thanks to Special K
+
+System Requirements:
+
+Intel Mac, OS,7 or higher
+Processor type(s) & speed: 64 bit
+
+---- PLEASE SEED ----

@@ -1,0 +1,14 @@
+This is the modified Gateway FX P-7805u BIOS. It is based off of the original version of the bios 9C.23. It has been modified to be able to disable EIST [speedstep technology] therefore allowing you to OC the CPU using throttlestep in windows.
+
+
+Flash it with phlash16 in DOS
+Change the bios setting to disable speedstep
+Use throttlestop to disable EIST in windows thus allowing you to overclock
+
+
+Enjoy!
+
+
+Note: Flashing a bios wrong will ruin your computer, use this at your own risk.
+
+Worked fine on my Gateway FX P-7807u. Went from 2.55 ghz stock to 2.66 ghz OC.

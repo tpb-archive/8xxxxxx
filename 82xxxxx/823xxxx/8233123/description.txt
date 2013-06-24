@@ -1,0 +1,56 @@
+Avast 2050 License Faker by ZeNiX 2012-06-29
+==============================================
+
+This is free, not for sale.
+If you love Avast, please consider ordering your own license.
+
+ZeNiX
+
+1. Install [Avast PRO] or [Avast Internet Security] as trail (DEMO)
+
+2. Disable Self-Protection module from Avast.
+   You can re-enable it later.
+   
+3. XP users please double click [AVAST XP ZeNiX.reg] to activate my 2050.
+
+4. Run [Avast 2050 by ZeNiX], and reboot.
+
+5. Done
+
+You can enable Avast's autoupdate with 2050.
+You can re-enable Avast's Self-Protection module now.
+
+Please always use your own license or DEMO license. 
+
+================================================
+2012-06-29
+   Previously, I use Userenv.dll for License Faker.
+   Now, I changed it to version.dll
+ 
+   Please go to folder of ProgramFile Avast and AvastSetup, delete Userenv.dll if you find it.   
+
+2012-04-18
+   Added searching and bypass of Avast NagScreen.
+   Well, this is not a good solution I think.
+
+2012-03-14
+Tested OK with following versions.
+  Avast 6.0.1367
+  Avast 7.0.1399
+  Avast 7.0.1403
+  Avast 7.0.1403
+  Avast 7.0.1407
+  Avast 7.0.1412
+  Avast 7.0.1414
+  Avast 7.0.1426
+
+Test OK on following systems.
+  Windows XP
+  Windows 7 x86
+  Windows 7 x64
+  Windows 8 x86
+  Windows 8 x64
+  Windows 2008 R2
+
+2012-02-22
+  Added [Uninstall] of my 2050 in control panel.

@@ -1,0 +1,101 @@
+
+
+Requirements: Every device with armv7 processor and froyo or higher
+Overview: This is the twlauncher 4.5, actually the tw4 launcher from Samsung heavily modified by Fr4gg0r and Swiftwork.
+
+Installation of Applications & Widgets
+
+First of all, your phone DO NOT have to be ROOTED! You will be able to install it without having rooted your phone, but you will miss some options.
+
+Secondly, I strongly suggest you to have another launcher installed (and defrozed)... this for avoiding a loop reboot and to be able to work, remove,... with applications.
+
+Here are two choices :
+1. simple put the .apk of the launcher in any folder of the phone and double-clic on it
+2. follow this upper procedure :
+
+if you do not have the TW4.5 installed (and have a Samsung phone or have touchwizz installed) :
+go in "system/app"
+find "TouchWiz30Launcher.apk" and rename it to "TouchWiz30Launcher.apk.OLD"
+find "TouchWiz30Launcher.odex" and rename it to "TouchWiz30Launcher.odex.OLD"
+find "TWLauncher.apk" and rename it to "TWLauncher.apk.OLD"
+find "TWLauncher.odex" and rename it to "TWLauncher.odex.OLD"
+find any other file with "TW" and "Launcher" in the name and rename them with .OLD at the end
+if you do not find this files (other phone or touchwizz not installed), don't be afraid... just skip this steps ![*]if you already have a version of TW4.5 installed :
+go in "system/app"
+find "TW4Launcher.apk" and rename it "TW4Launcher.apk.OLD" or simply delete it
+copy the latest version of launcher you have downloaded in this folder.[*]if you want to make a really clean new installation of your launcher, you also can rename "data/data/samsung.tw4.nextgen" folder in (for example) "samsung.tw4.nextgen.OLD", do the same for "sdcard/.TW4Themes" folder to "sdcard/.TW4Themes_OLD" (or delete it) and relaunch the launcher.
+The new folder, with default settings, will be created.
+
+Last points... installing the Widgets.
+
+First to know that special widgets needs to :
+- have a samsung framework
+- have been resigned to be functionnals with TW4.5 Launcher
+
+You also can download some widgets (resigned) for SG1 and SG2 via TW4Manager and "Widgets" :
+run TW4Manager (think just to check you have the very latest version)
+go in "Widgets"
+select the system you want (SG1 or SG2)
+a list of available resigned widgets will be shown
+check the one you want
+hit the "Menu" button
+choose "apply selected"
+
+The widgets will be installed.
+
+Note that:
+- Power Widget stays gray on samsung firmwares (it does not on cm7 for example), after reboot it will be displayed normally.
+- some widgets listed will not be functionnals on some systems.
+- not all widgets are listed. Scroll the official thread to find more (and report links so I can put the links here)
+- on my SG2 quite all other widgets are functionnals (not all of Samsung)
+- some widgets, even if resigned, will absolutely not work on some phone. So sad... but take other widgets, !
+- if you have some widgets which are absolutely working, please send me a PM with the widget's name, your phone (and ROM) and, of course, a downloadable link so I will upgrade the infos
+
+Launcher TW4.5 : actions on screens
+
+This Launcher acts quite the same as the touchwizz 3.0 launcher. But I will explain you here how to do some little actions on the main screen.
+
+set default screen
+you quickly can know which is the main screen by :
+
+- pinching in on the screen (or by hitting menu and then configure). A list of all desktops will appear :
+
+
+The default mainscreen is the one with the little house drawed on it.
+
+To change the default homescreen, from this view:
+- hit the menu key
+- click on "define as default homescreen"
+- select the one you want. It will be greyed
+- click on "ok"
+
+
+adding screens
+- pinching in on the screen (or by hitting menu and then configure). A list of all desktops will appear :
+
+- press the + button to add a new screen
+
+
+removing screens
+- pinching in on the screen (or by hitting menu and then configure). A list of all desktops will appear :
+
+- press and hold the screen you want to remove
+- drop the holded screen in the bottom trash bin
+- validate
+
+
+change the size of widgets
+press long the widget until the phone make a little vibration. then stop pressing. You will see a yellow grid allowing you to resize the widget by dragging the grey corner :
+
+
+
+quickly select a screen
+you have many options to quickly select a screen :
+- if you're not on the main screen, simply hit the middle button to go back to main screen
+- hit the "pageIndicator" of the page you want to reach
+- slide the "pageIndicators" to quickly browse screens
+
+
+basis functions
+adding new shortcuts, change wallpaper, adding widget, moving shortcuts and widgets through screens,... are like the TW3.0
+Just to note that if you have themed applications, shortcut of those which are dragged from the appdrawer will have the themed icon.

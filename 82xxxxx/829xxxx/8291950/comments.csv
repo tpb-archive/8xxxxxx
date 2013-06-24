@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,myst31,2013-03-25T00:57Z,"Hmmm, it DID ask me for a serial. And I didn't have one. google time."
+,bikolanoq,2013-03-29T01:39Z,what is the passwor dmen for the rar file?? i cant extraxt it.. thank much for the help.
+,picnik2,2013-04-09T09:54Z,"It does not work if you put it on USB and try to install it from USB.
+I tried several times with WinToFlash and WinSetupFromUSB.
+I always get this file copy error at WinXP txt setup:
+MSVBVM50.dll copy error 
+
+I lost many hours of my time - don't loose it you too.
+(If you have a solution for this please write here) 
+
+Cheers!"
+,rkac_jamie,2013-04-11T18:05Z,"to fix the msvbvm50.dll problem download that missing dll from 
+http://activex.microsoft.com/controls/vb5/MSVBVM50.CAB
+and extract it to to the folder 
+$WIN_NT$.~LSI386 on your usb stick (that is if you formatted using WinSetupFromUsb)
+
+then do the install and everything should work"
+,rkac_jamie,2013-04-11T18:57Z,$WIN_NT$.~LSI386**
+,rkac_jamie,2013-04-11T18:58Z,"aparently TPB doens't like slashes
+
+$WIN_NT$.~LS > I386"
+,Drechon,2013-04-22T23:54Z,"Thank you so much for this Microsoft Windows XP Pro ISO, as I have downloaded one elsewhere before I searched and ended here. The first one was fucked up so after reading the description and comments on this one, I gave it a try. I burned the ISO to a DVD+R, ran the disc and used the code I obtained from the fucked up ISO I had. I then upgraded which is recommended. Overall, this Microsoft Operating system ISO worked out for me with no problems. This is highly recommended if your looking for one."
+,vdbhb59,2013-05-05T10:26Z,"Please seed man, as the Seeders are not doing that."

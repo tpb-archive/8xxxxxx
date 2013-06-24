@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,cmentvaliantino,2013-03-23T12:45Z,why no comment? hav u not tried it?
+,cmentvaliantino,2013-03-23T13:36Z,need to run it from a usb. any ideas
+[T],JRepin,2013-03-27T10:01Z,"To run it from USB just use the dd command, something like this:
+dd if=/path/to/openSUSE.iso of=/dev/sdc
+Where /dev/dsc is the device of your USB drive. You can also use unetbootin to create bootale USB in an easier way."

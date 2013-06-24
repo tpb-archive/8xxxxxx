@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,ozc,2013-03-11T00:56Z,"I mean leEchers. Wtf, I thought I could go back and edit the description..."
+,azulmarino,2013-03-30T21:00Z,How can I copy nomod scripts inside objects with this? Is there a user manual somewhere? Thanks
+,ozc,2013-05-28T03:25Z,Scripts are ran server side and cannot be copied if they're NoMod. Some things like particles actively emitting can be copied but just the particle part.

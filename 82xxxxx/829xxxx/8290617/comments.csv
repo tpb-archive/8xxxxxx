@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,Bhaskarbs,2013-03-23T11:51Z,wer is the changelog ???
+,accursed2010,2013-03-23T11:57Z,"changelog in whatsnew.txt file:
+-Bug Fixes
+-Fixed issue with NPCs sleeping with open eyes"
+,bigdaddybioshock,2013-03-23T12:36Z,"IT WORKER, my fucking anti-virus worked, this tried to give me a trojan.gen 2, Nice try."
+,Jestowe,2013-03-23T13:05Z,"Yeah, I installed the patch, cracked it. the usual... Updated all my mod programs.. And this shit broke my game... And I don't think it's user error. Can anyone confirm if this works? "
+,Jestowe,2013-03-23T13:10Z,what happened to my last comment?
+,mansonfamily,2013-03-23T16:55Z,"Works, but for the update 12 and 13 it is better to use only game exe and launcher exe from crack folder. For steam api dll use the old one (I use the 12k dll from the first reloaded crack)."
+,setsudan,2013-03-23T19:05Z,"@bigdaddybioshock I can't believe people still bitch about that. Cracks use a code that is almost identical to the code that is used for trojans. It is called a false positive. Your antivirus detected is as a virus because it is very much like a virus, just like ANY OTHER CRACK."
+,Megatron6,2013-03-23T19:48Z,"@setsudan
+
+The problem i see is that there is no reason for the new steam_api.dll. The old ones work perfectly fine and there is *no* reason for it. Why should we just take YOUR word for it? I agree with you that most of the time they are false positives but not every time and I'm sorry but most people shouldn't just blindly accept that it's NOT a virus just because some anonymous commenter says so."
+,setsudan,2013-03-23T20:45Z,"@Megatron6 I assume the dll is there because this contains all the older patch data. I reinstalled skyrim yesterday and downloading all patches 1 by 1 would have been a huge pain in my ass. I didn't have the old dll. 
+Also two words ; VIP status (technically it's 4 words but you get what I mean).
+When you see a VIP upload Reloaded/Razor1991 etc. content, the chances of catching a virus are minimal. It's as good as it gets in online piracy. There is nothing (that I know of) that says virus-free product more than that."
+,TheDragonReborn26,2013-03-23T21:53Z,^
+,OMGYourMom,2013-03-24T02:41Z,Anyone else's SKSE says they need to update? Works fine but wanted to see if anyone was getting this message.
+,Stratux,2013-03-24T07:36Z,"I have Update 11 installed, do I need to install 12 then 13? Or, does one need to just install the latest to catch-up with all the updates?"
+,mansonfamily,2013-03-24T12:30Z,Only 13
+,ozzo_,2013-03-24T14:59Z,"To anyone with SKSE saying update Skyrim; go into their ""archived builds"" and use an earlier version. "
+,leo8nardo8,2013-03-25T18:56Z,I need to install all the other 12 updates? Or the last one have ther other content?
+,Puxes,2013-03-25T23:04Z,"I don't know how to update my game to the latest version. . Mine says it is version  1.1.21.0? 
+What version is that? Like the first the second? I'm really confused Please help me catch up. "
+,DarkSilhouette,2013-03-26T16:02Z,"It amazes me how few people actually know what is going on behind the scenes with cracking software. Most of the cracked software is done in private circles of crackers, if you are apart of the cracking community then you are allowed to give and take. Other software is cracked by companies for hire to help competitive sales in similar markets. The end result of this is it is leaked to the public or someone who is in the cracking communities leaks the game to TPB or KAT or ISO whatever. Stiffy doesn't make the crack this is a reloaded release which means if stiffy has time he may scan it with whatever he has available but since he did not make it, there is a possibility that it contains a virus and many trusted uploaders will even ask us to please scan it for ourselves. Stiffy is a great uploader but things can slip through. Anyways, the steamapi is a dll that controls permissions of a virtual reloaded profile in skyrim or any steam protected game. The first one should be fine to use, but at the same time some companies will change how the protection is accessed and it requires a change in the steamapi or steamrld file. I havent checked it yet but stop complaining about shit and research for yourselves. worst case you get a virus and then oh no you have to get rid of it which might be a good learning exercise for some of you."
+,Serenifly,2013-03-27T19:31Z,"Just install the latest SKSE. It's still 1.6, but there has been a small update from 1.6.11 to 1.6.13"
+,TheGenral,2013-03-28T02:36Z,"^ 
+Anyway, this is 1.9.32  the update that made alot of changes was 1.9.26. I reviewed that patch's changelog, and most of the changes were gameplay oriented. By that i mean most of the items etc weren't changed, but places etc and npcs were changed, and rare bugs fixed. I patched my game up from version 1.8.61 and reloaded my old save game, was able to load it my weapons and armors intact etc. However you will not be able to change the difficulty to legendary because it simply doesn't exist in the older save game's settings.
+If you're getting any kind of virus detection etc, im pretty sure you just have an over-protective anti-virus software. I put the crack in the proper  place(main skyrim directory) overwrote the appropriate files and my game loaded fine .
+Definitely use SKSE 1.6.13, as it is at least ive been told, the only way to load an updated Skyrim.
+If you use any mods(like the unofficial patches for example) most likely theyve released a new version to be compatible with this patch so you'll need to download and replace the mod. If the mod doesn't have a new version to it, or if its latest version is back before the current patch(this is especially true with highly endorsed mods) then most likely it doesn't matter what version the actual game is, the mod should still work."
+,coco1993,2013-03-28T16:21Z,thanks ! 
+,assymcgee,2013-03-28T19:15Z,im getting less than 1kb/s d/l speeds. not sure if its my end or that there are no seeders listed in the peers section.
+,Dankaru81,2013-03-31T17:18Z,"@Megatron6: I'm not 100% positive about this but I'm pretty sure that TPB scans for virus' when they allow you to upload.
+
+I've been using this site off and on for 2 years (RIP Demonoid) and I've gotten exactly 0 virus' from my DL's. 
+
+The explanation has been given time and time again. I think it's time you go buy the fucking game if you can't understand.
+"
+,VegitoDBZ,2013-04-08T21:53Z,Each time I apply 13 my skyrim won't even start.... I'll try mansonfamily's tip and hopefully it will fucking work
+,Sylencer90,2013-04-27T11:41Z,"everything works fine for me . Thanks for uploading :)
+
+doesnt affect savegame for me . im using reloaded versions since very first beginning and works always fine :D"
+,FerrelBMW,2013-05-16T07:01Z,do i need 1st -> 12th updates ??

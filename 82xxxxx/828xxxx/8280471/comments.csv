@@ -1,0 +1,101 @@
+﻿User Type,Username,Date,Text
+,kamisma,2013-03-20T22:41Z,"Changelog :
+
+ = Steam integration
+Prison Architect is now available from Steam (Pc & Mac)
+Existing customers : You have been gifted a complimentary Steam Key!
+Open your purchase receipt email then click on the URL and you'll find your steam product key
+Use this key to activate your copy of Prison Architect for Steam
+
+= New Planning Mode
+Accessable from the main toolbar, use this to plan your upcoming buildings and room layouts
+You can draw in the usual way with the left mouse and clear with the right mouse
+Plans are automatically cleared once actually built by workers
+
+= Door Lock system changes
+- New object: 'Staff Door', which is a locked door that can be opened by any guard OR staff member
+Note: Prisoners treat this as a normal door, requiring Guards to unlock in the usual way
+(Staff never unlock doors for prisoners - it's not in their job description, and too dangerous)
+(Want a Staff-ONLY door? Set the Sector type to be Staff Only in Deployment)
+
+- Doors have two new special modes: Locked Shut or Locked Open. Click on a door to set this.
+Locked Shut prevents anyone using the door at any time.
+Locked Open keeps the door open at all times, EXCEPT during a lockdown when it slams shut
+
+- There is a new sector setting called ""Unlocked"", which keeps all doors within the sector open
+This is useful during construction of a building, or during a fire evacuation
+
+- Doors that are blocked when closing will no longer push the blocking object aside.
+They won't close fully until unblocked.
+
+- Guards will now stick to their assigned patrols and sectors, only doing jobs within their sector
+This makes them much more responsive at opening doors within / bordering their sector
+
+- Fixed: Guards will no longer be called upon to unlock wooden office doors
+
+
+= AI & Behaviour Improvements
+- During Shower / Yard / Meal times, Prisoners will first go to the nearest room of that type,
+then will only use the facilities within that room.
+This stops prisoners in one shower running to another shower on the other side of the map
+
+- Facilities within a Holding Cell may now only be used by prisoners living in that holding cell
+
+- Prisoners will no longer nap during the day, instead preferring to sleep for longer at night
+(Requires Sleep regime)
+
+- Workers/Chefs/Janitors etc will now attempt jobs even if there is mild danger nearby,
+but will still refuse if the area is very dangerous
+Guards will no longer refuse any job because it is too dangerous. They are paid to be brave!
+Jobs which are paused due to danger will be restarted quicker once the danger has passed
+
+- Dead Firemen will now be taken to the morgue by Guards (rather than being left to rot),
+and fire trucks will leave without them
+
+- Guards that are not assigned anywhere will try to hang out somewhere useful
+
+- Fixed: Chefs will no longer bin all prepared food during Bang Up / Lockdown
+
+
+= Interface improvements
+- The top toolbar now displays the number of available guards, prisoners, and cctv cameras when you have them
+- The Lockdown and Bangup buttons have been moved onto the main toolbar (placeholder graphics)
+- Tooltips have been added to many items in the main toolbars
+- The prisoner Rap sheet now displays any recent misconduct they were involved in
+- The graphics options screen now asks you to confirm a new resolution is acceptable, or reverts after 15 seconds
+
+- The hunt for Stuck Entities
+- Fixed: Prisoners could become trapped in Solitary Confinement forever after saving and reloading
+- Fixed: All entities could become trapped in a Medical Bed
+
+- The maximum number of prisoners you can receive in a day is now based on your prison size:
+Small = 16, Medium = 24, Large = 32. Previously it was 24 for all prisons
+
+- New command line option:
+-safemode : Runs at 1024x768, windowed, with shaders disabled, and a blank new map
+(Steam users can run this directly from steam by selecting ""Launch in SAFE MODE"")
+
+- Prisoners minor injuries will now heal while they sleep overnight
+
+- Prisoners misconduct is now saved correctly in save games
+
+- Administrators now have a short view range (3 squares)"
+,bloopton,2013-03-21T00:44Z,FUCK YEAH ALPHA 8! thanks for all the prison architect dwarth 
+,julllleee,2013-03-21T11:03Z,"Thank Dwarth :)
+really fast update, Nice!"
+,GSmokr,2013-03-21T16:42Z,"This happened to me since alpha 6. the graphics of prisioners, guards, staff, etc are just glitched squares. anyone knows how to fix this?
+Thanks in advance. and thanks Dwarth!"
+,julllleee,2013-03-22T08:14Z,"GSmokr what kind of graphic card do you got? Have you tried to update it to latest version? Also check if your card can run OpenGL 2.1, that is minimum for Prision Architect. Also you can try to run the game in windows mode and  see if that helps. Also go to control panel and find you graphic card settings and if they are set to performance, change them to quality or something like that. Hope this help."
+,GSmokr,2013-03-22T14:38Z,"Updated my graphic card to latest version and it solved my problem. :)
+Thank you julllleee"
+,lhgaw2,2013-03-27T09:41Z,"Thanks for the upload!
+
+I'll definitely be purchasing the game once it's done or maybe in beta.
+"
+,Dwarth,2013-03-27T11:53Z,"Yeah, wait for a steam deal to buy it, it's a bit overpriced now"
+,nodrog742,2013-03-31T07:47Z,GSmokr - how did you update??
+,genitalia,2013-04-01T23:37Z,why is permission denied to download?
+,cloghy,2013-04-05T22:19Z,So is this like a patch or a complete new build ready to run on its own?
+,Dwarth,2013-04-06T01:33Z,Complete build
+,cloghy,2013-04-06T10:43Z,What a great little game :) Only problem I have that  I see shadows instead of characters and objects. Is there a fix to that? Playing on 2011 Mac Mini btw
+,FastForwarder,2013-04-16T00:06Z,Thanks for the update. Everything works fine for me with 10.8.3 - iMac.

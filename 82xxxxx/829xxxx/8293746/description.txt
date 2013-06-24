@@ -1,0 +1,200 @@
+
+
+      IMDB: http://www.imdb.com/title/tt0082497/
+
+
+       Language: English
+
+       Subs: Finnish. English. Danish. Swedish
+        French, Spanish, Dutch, Norwegian, 
+        Italian, Polish, Russian  
+           
+              + Swedish srt
+
+
+
+
+
+General
+
+Complete name                       : The.Hand.1981.DVDRip.Multisubs.mkv
+Format                              : Matroska
+Format version                      : Version 2
+File size                           : 700 MiB
+Duration                            : 1h 40mn
+
+
+Video
+ID                                  : 1
+Format                              : AVC
+Format/Info                         : Advanced Video Codec
+Format profile                      : High@L3.0
+Format settings, CABAC              : Yes
+Format settings, ReFrames           : 4 frames
+Muxing mode                         : Header stripping
+Codec ID                            : V_MPEG4/ISO/AVC
+Nominal bit rate                    : 908 Kbps
+Width                               : 720 pixels
+Height                              : 400 pixels
+Display aspect ratio                : 16:9
+Frame rate mode                     : Variable
+Original frame rate                 : 25.000 fps
+Color space                         : YUV
+Chroma subsampling                  : 4:2:0
+Bit depth                           : 8 bits
+Scan type                           : Progressive
+Bits/(Pixel*Frame)                  : 0.126
+Writing library                     : x264 core 130 r2273 b3065e6
+Default                             : Yes
+Forced                              : No
+
+Audio
+ID                                  : 2
+Format                              : AAC
+Format/Info                         : Advanced Audio Codec
+Format profile                      : HE-AAC / LC
+Codec ID                            : A_AAC
+Duration                            : 1h 40mn
+Channel(s)                          : 2 channels
+Channel positions                   : Front: L R
+Sampling rate                       : 48.0 KHz / 24.0 KHz
+Compression mode                    : Lossy
+Default                             : Yes
+Forced                              : No
+
+Text #1
+ID                                  : 3
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : English
+Default                             : No
+Forced                              : No
+
+Text #2
+ID                                  : 4
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Danish
+Default                             : No
+Forced                              : No
+
+Text #3
+ID                                  : 5
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Dutch
+Default                             : No
+Forced                              : No
+
+Text #4
+ID                                  : 6
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Finnish
+Default                             : No
+Forced                              : No
+
+Text #5
+ID                                  : 7
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : French
+Default                             : No
+Forced                              : No
+
+Text #6
+ID                                  : 8
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Italian
+Default                             : No
+Forced                              : No
+
+Text #7
+ID                                  : 9
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Norwegian
+Default                             : No
+Forced                              : No
+
+Text #8
+ID                                  : 10
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Polish
+Default                             : No
+Forced                              : No
+
+Text #9
+ID                                  : 11
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Russian
+Default                             : No
+Forced                              : No
+
+Text #10
+ID                                  : 12
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Spanish
+Default                             : No
+Forced                              : No
+
+Text #11
+ID                                  : 13
+Format                              : VobSub
+Muxing mode                         : zlib
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Swedish
+Default                             : No
+Forced                              : No
+
+Menu #1
+00:05:30.000                        : en:Chapter 1
+00:10:30.000                        : en:Chapter 2
+00:15:30.000                        : en:Chapter 3
+00:20:30.000                        : en:Chapter 4
+00:25:30.000                        : en:Chapter 5
+00:30:30.000                        : en:Chapter 6
+00:35:30.000                        : en:Chapter 7
+00:40:30.000                        : en:Chapter 8
+00:45:30.000                        : en:Chapter 9
+00:50:30.000                        : en:Chapter 10
+00:55:30.000                        : en:Chapter 11
+01:00:00.000                        : en:Chapter 12
+01:05:30.000                        : en:Chapter 13
+01:10:30.000                        : en:Chapter 14
+01:15:30.000                        : en:Chapter 15
+01:20:30.000                        : en:Chapter 16
+01:25:30.000                        : en:Chapter 17
+01:30:30.000                        : en:Chapter 18
+01:35:30.000                        : en:Chapter 19
+01:40:30.000                        : en:Chapter 20
+01:45:30.000                        : en:Chapter 21
+
+Menu #2
+00:00:00.097                        : en:00:00:00.097
+

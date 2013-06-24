@@ -1,0 +1,65 @@
+
+                                      nERv
+
+
+                Brutal Legend Update 4-8 (c) Double Fine Prod.
+
+         03/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam
+               - :.......... DISC(S) .. GAME.TYPE ........: Action
+
+
+Due to the large amount of updates/fixes for this game we decided to pack
+several into one.
+
+Update 8:
+~~~~~~~~~
+* We tuned the score adjustments for ranked matches, and properly save the
+  new ranking of the winning player
+* Remapping multiple controls and directional inputs has been fixed
+* The Wall of Speakers effect render properly
+* The beer delivery mission works correctly with hi-fi sim
+* New command line option: "-reassignWithAnalog". With that flag, you can
+  start using a gamepad by moving an analog stick, or start using the mouse
+  by moving it
+* New command line option: "-disableXInput". This forces all gamepads to
+  use DirectInput drivers instead of XInput drivers
+
+Update 7:
+~~~~~~~~~
+* Improved skill matches for ranked games
+* Fix for the disconnect crash
+* Fix for the flocking spiders
+* Fix for the 'Favored' achievement, which should retroactively unlock if
+  necessary
+
+Update 6:
+~~~~~~~~~
+* Fix for Steam Cloud saving
+* Fix for standard savings
+* Fix for Directx11
+* Several graphic render errors got fixed
+
+Update 5:
+~~~~~~~~~
+* Fix for Multiplayer with different updated games, you get forced to
+  Update now
+* Several fixes for custom Match erros
+* Fixed some issues with overkill (still not 100% perfect)
+* Fix for getting stucked when slid off the edge after rescuing a dragon
+  statue
+
+Update 4:
+~~~~~~~~~
+* Fix for several audio init crashes
+* Fix for X360 controler crash
+
+
+ 1. Unrar.
+ 2. Install the update to your game dir. Overwrite existing when asked.
+    Previous Updates (1,2,3) are required to be installed.
+ 3. Copy the content from /Crack directory to the
+     directory of the game, overwriting the existing
+    files.
+ 4. Play the game.
+ 5. Support the software developers. If you like this game, BUY IT!
+[/pre]

@@ -1,0 +1,51 @@
+Brutal Legend Update 3 (c) Double Fine Prod
+
+02/2013: RELEASE.DATE .. PROTECTION: Steam
+1: DISC(S) .. GAME.TYPE: Action
+
+******************************
+**     **Game Notes:**        **
+ ****************************** 
+Brutal Legend is an action-adventure that marries visceral action combat
+with open-world freedom. Set in a universe somewhere between Lord of the
+Rings and Spinal Tap, its a fresh take on the action/driving genre, which
+in this case is full of imitation cover bands, demons intent on enslaving
+humanity and Heavy metal tunes. Featuring the talents of comedian, actor
+and musician, Jack Black as super roadie Eddie Riggs, as well as cameos by
+some of the biggest names in metal music it's a wild ride in the belly of
+the beast that is not to be missed by gamers and Metalheads alike
+
+Included as a free bonus in the PC version of Brutal Legend are both the
+Hammer of Infinite Fate and Tears of the Hextadon multiplayer map packs
+
+Change log:-
+----------
+
+Major Fixes
+ΓÇó Terrible stuttering/low framerate that some players experienced after pausing the game (including opening the map) should now be now fixed. This required (temporarily) disabling interpolated rendering. WeΓÇÖll re-enable interpolated rendering once we having the timing issue that affected some players worked out. Hi-fi (60 fps) sim is still enabled (if you turn the option on).
+ΓÇó Missing background in Motor Forge is fixed.
+ΓÇó Fixes and improvements for the in-game radial menus based on player feedback.
+ΓÇó Fixed the shadows in the intro area of the game and in additional trouble spots
+
+Major Known Issues
+ΓÇó Alt+Tab can lead to black textures.
+ΓÇó Interpolated rendering is disabled until we have a solution that works on all platforms.
+
+ ***************************** 
+**   **Install Notes:**      **
+ ***************************** 
+ 
+-Unpack it into the game folder
+-Run the "Brutal.Legend.Update.3.bat" Bat file 
+-Play and Enjoy!!
+
+ ******************************** 
+**   **Additional Notes:**      **
+ ******************************** 
+ 
+-Credits for the patch goes to demde (cs.rin.ru)
+
+-Thank to JBeckman (cs.rin.ru) for updated files 
+
+-You need to have update 2 installed so get it from http://thepiratebay.se/torrent/8198716/Brutal.Legend.Update.2-P2P
+

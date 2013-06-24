@@ -1,0 +1,23 @@
+Arch Linux Environment Setup How-to
+
+BOOK DETAILS:
+
+Publisher: Packt Publishing (November 2012) Language: English ISBN-10: 1849519722 ISBN-13: 978-1849519724 Format: PDF, EPUB
+
+BOOK DESCRIPTION:
+
+Over the years there have been many Linux distributions out there, some are trying to do everything for you, others do not. Arch Linux tries to be easy and user-friendly for developers and enthusiasts who are willing to customize their system to the maximum. Arch Linux Environment Setup How-to will give you the step-up into the Arch Linux world. It will guide you through the different ways of installation and how to use the Arch Linux specific software. This book only aims to get you on your way; the true experience is completely up to you. You will be guided through the installation process so that basic configuration of an Arch Linux system will become second nature. Installing and removing packages from the system will become clear as water and even shiny new technology, like system, is made simple to understand. When you have a DIY mentality and like to customize your system, this book is the perfect launch towards a great Arch Linux experience. This book encourages you to dig deeper into the fascinating world of Linux. 
+
+What you will learn from this book:
+
+Install Arch using the official iso or the archboot iso 
+Configure the system and configure it with the packages you need and want 
+Boot and manage services using initscripts or systems 
+Install with official iso or archboostiso 
+Configure the GUI and xorg 
+
+Approach Each task expresses a specific task for setting up an Arch Linux environment. The recipe as a solution is a carefully organized set of instructions to perform the task as efficiently as possible and a discussion on how to apply the solution in different situations. 
+
+Who this book is written for:
+
+Arch Linux Environment Setup How to is for people wanting to dig deep into a Linux system. By the end of the book you will have basic knowledge how a Linux system is built up, how it boots and a general idea of how it is working. The book also assumes you already know what partitioning is and if you need dual booting you already have some experience with that. For people only trying out Arch Linux the author would suggest following this guide inside a virtual machine. 

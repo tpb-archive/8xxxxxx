@@ -1,0 +1,46 @@
+Copy and paste from http://www.comunidadgz.com/Thread-ReFX-Nexus-v1-4-1-Content-Official-Banks-Skins-MacOSX--4323
+
+I think it's an automatic translation from Russian, but it's easy to follow.
+
+To make it work in Lion you have to give full access permissions to the directories in /Library/Audio/Plug-Ins/
+
+Use this command:
+sudo chmod 777 /Library/Audio/Plug-Ins/*
+
+
+---
+
+ReFX Nexus v1.4.1 (Content+Official Banks+Skins) - Mac OSX | 9.5GB
+
+
+ReFX Nexus - capable of many things, but only the more able you are - from complex storm sounds to powerful dance leads and Gregorian choirs. Its function is freely programmable arpeggiator, flexible Trance-Gate, optimized 4 gigabyte library of over 650 presets, built-in effects, including reverb Arts Acoustic and small requirements for computer resources.
+Extras. Information:
+This hand made at the request because there is no uniform for the Mac, with everything necessary for it to work, you have to collect from Vindovyh hands, and some of them are jammed, so I hope the admins will leave her.
+
+Installation:
+
+Personally installed on Mac 10.6.8 on 2 machines running with no problems, and the lodge and ABLE to questions related to other systems could not answer, ask in the comments, may be people who can help you if something arises which -the problem.
+
+1. Install reFX Nexus v1.4.1, is established.
+2. Create a folder reFX on the way HD / library / application support / (if someone created automatically after installation, skip this paragraph, I just have it was not).
+3. Open the DAW, launching Nexus, he asks for a file 0TestTone, do not do anything close DAW.
+4. Mount the Nexus Content and move their entire folder created in step 2.
+5. Again open the DAW, launching Nexus, requesting a file 0TestTone show him the way to HD / library / application support / reFX / nexus content/samples/ROM/0testtone.nxs.
+6. Mount the Official Banks, in the Nexus click on the button sys, then import exp and alternately podgruzhaem banks of the image Official Banks (what if suddenly will give an error while loading, copy them to a thread on a hard, any place and then add the copied after the installation, you can delete, Nexus itself has put them where necessary).
+7. Once downloaded all banks, not where you do not have to stick just close DAW.
+8. Install reFX Expansion Packs (contained in the image), run the installer and the third screen click Change installation location and specify HD / library / application support / reFX / nexus content / Presets.
+All. Skins add just a sys (only patch Nitsche not necessary).
+
+Version: 1.4.1
+Developer: reFX
+Site Developer: http://refx.com/
+Platform: PPC / Intel Universal
+Language: English
+
+System requirements:
+PPC G4 800 Mhz or Intel 1.5 GHz
+512 MB RAM
+Mac OSX 10.4.x and 10.5.x
+VST, AU compliant host 
+
+---

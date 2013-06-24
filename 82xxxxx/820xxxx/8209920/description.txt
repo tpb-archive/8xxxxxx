@@ -1,0 +1,36 @@
+Update changes:
+
+  - Ch.1 Act 1: Fix camera out of bounds when placing kitchen. 
+  - Ch.1 Act 3: Gate not opening and crash during boss fight,
+    and end of scenario
+  - Ch.1 Act 4: Skulls Side quest and Golden keys side quests
+    now work properly
+  - Ch.4 Act 5: Resources will be gained provided you have
+    access to the stockroom.
+  - Fixes in stability. No more game crash at end of scenario.
+  - Fixed Giving orders to units during combat, for both
+    squads and single units.
+  - There are no more Asserts, and other pop ups, except for
+    unhandled exceptions which CTD and provide a .dmp file.
+  - Fixed to two musics playing at the same time.
+  - Fixed gui sliders not going through full range
+  - Fixed being unable to equip runes.
+  - Updated German Localisation.
+  - Misc GUI fixes.
+  - Fixed Camera out of bound problems, and when squads
+    in world map.
+  - Ch.2 Act 1: Coloured fire is replaced by symbols to help
+    the colour blind.
+  - Mouse Scroll (for camera) delay has been disabled. 
+    For users who use WASD to move camera you can disable the
+    mouse scroll in the options. We will work to add an option
+    for delay time.
+  - Aggressiveness is now regained by all units idling, up
+    to 50%.
+
+
+
+  Instructions:
+
+  - Install using the Setup.exe ( point to your installation folder
+    if required )

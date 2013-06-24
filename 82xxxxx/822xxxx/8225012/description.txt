@@ -1,0 +1,51 @@
+Description
+Discover how a database can benefit both you and your architecture, whatever the programming language, operating system, or application type you use. In this course, explore options that range from personal desktop databases to large-scale geographically distributed database servers and classic relational databases to modern document-oriented systems and data warehousesΓÇöand learn how to choose the best solution for you. Author Simon Allardice covers key terminology and concepts, such as normalization, "deadly embraces" and "dirty reads," ACID and CRUD, referential integrity, deadlocks, and rollbacks. The course also explores data modeling step by step through hands-on examples to design the best system for our data. Plus, learn to juggle the competing demands of storage, access, performance, and securityΓÇömanagement tasks that are critical to your database's success.
+
+Contents:
+What is a database?
+Why do you need a database?
+Choosing primary keys
+Identifying columns and selecting data types
+Defining relationships: one-to-one, one-to-many, and many-to-many
+Understanding normalization
+Creating queries to create, insert, update, and delete data
+Understanding indexing and stored procedures
+Exploring your database options
+
+Media Info:
+Format: MPEG-4 
+Format profile: Base Media / Version 2 
+Codec ID: MP42 
+Overall bit rate mode: Variable 
+Overall bit rate: 1 245 Kbps 
+Encoded Date: 21/1/2013 16:58:47 UTC 
+Tagged Date : 01.21.2013 4:58:47 p.m. UTC 
+Writing Library: Apple QuickTime 
+Copyright:
+
+Video 
+ID: 1 
+Format: AVC 
+Format / Info: Advanced Video Codec 
+Format Profile: Main@L3.1 
+Format Settings, CABAC: Yes 
+Format settings, ReFrames: 3 frames 
+Codec ID: AVC1 
+Codec ID / Info: Advanced Video Coding 
+Duration: 1mn 6s 
+Bit rate: 1 081 Kbps 
+Width: 960 pixels 
+Height: 540 pixels 
+Display Aspect Ratio: 16:9 
+Frame rate mode: Constant 
+Frame rate: 30.000 fps 
+Standard: PAL 
+Color space: YUV 
+Chroma subsampling: 4:2:0 
+Bit Depth: 8 bits 
+Scan type: Progressive 
+Bits / (Pixel * Frame): 0.069 
+Stream Size: 8.57 MiB (87%) 
+Language: English 
+Encoded Date: 01.21.2013 4:58:47 p.m. UTC 
+Tagged Date: 1.21.2013 16:58:47 UTC

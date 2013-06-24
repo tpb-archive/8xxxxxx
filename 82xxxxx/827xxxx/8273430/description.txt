@@ -1,0 +1,78 @@
+1860. Italy is divided in 8 states. But after 60 years of heroic wars, frontiers'll soon fall down, thanks to Giuseppe Garibaldi & the legendary volunteers who fought with him, known as "the thousand".
+
+General
+Unique ID                                : 237375831552142670548545485651218833875 (0xB294EC15B169B0365E86F0BD8DC8A1D3)
+Complete name                            : Viva l'Italia.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.97 GiB
+Duration                                 : 2h 3mn
+Overall bit rate                         : 2 295 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 11 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 3mn
+Width                                    : 714 pixels
+Height                                   : 386 pixels
+Display aspect ratio                     : 1.642
+Original display aspect ratio            : 1.644
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=11 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.05:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=16.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=2:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 3mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : Italian
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 1
+00:06:48.408                             : Chapter 2
+00:18:30.109                             : Chapter 3
+00:30:21.820                             : Chapter 4
+00:45:59.757                             : Chapter 5
+00:54:37.274                             : Chapter 6
+01:01:46.202                             : Chapter 7
+01:15:58.554                             : Chapter 8
+01:26:01.156                             : Chapter 9
+01:35:08.736                             : Chapter 10
+01:46:30.917                             : Chapter 11
+01:54:37.904                             : Chapter 12

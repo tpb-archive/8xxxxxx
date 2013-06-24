@@ -1,0 +1,53 @@
+General
+UniqueID/String                          : 215958042763817208153332852504707979303 (0xA2780191ABB743929C776FEB9F7BD827)
+Nombre completo                          : I:Video Capture1080pLife is but a Dream 1080p HDTV x264.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 5,67GIB
+Duración                                 : 1h 29min.
+Modo de tasa de bits                     : Variable
+Tasa de bits total                       : 9 038Kbps
+Fecha de codificación                    : UTC 2013-02-28 01:38:49
+Aplicación de codifición                 : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+Format_Settings_GOP                      : M=4, N=32
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 29min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits máxima                      : 20,0Mbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 1 080pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,970fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Entrelazado
+Orden de la exploración                  : Campo superior primero
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : A_AAC
+Duración                                 : 1h 29min.
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz
+Default                                  : Si
+Forced                                   : No

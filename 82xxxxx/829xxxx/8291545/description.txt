@@ -1,0 +1,44 @@
+What's New in Version 12.0 (Build 755/756)
+
+-Added support for burning 3D projects to Blu-ray Disc: use the 3D Blu-ray settings in the New Project Wizard to create a new project, and use Tools &gt; Burn Disc &gt; Blu-ray Disc settings to burn your 3D project to a Blu-ray 3D Disc. 
+-Added Anchor point setting to the Titles & Text plug-in. Text now scales relative to the anchor point, which does not move. 
+-File Open dialogs have been updated to allow you to browse and open files from mobile devices. 
+-Fixed a crash that could occur when working with certain files with the maximum file name length allowed in Windows. 
+-Fixed a bug that could cause the incorrect clip to be added to your project after capturing from an HDV camera. 
+-Fixed a bug that could exit 3D full-screen preview when the mouse was clicked. On glassless 3D systems, this could corrupt the display until full-screen preview was re-enabled. 
+-Fixed a bug that could cause the first frame of an MVC file to appear briefly at the end when previewing the file from the Explorer window. 
+-Fixed a bug that could ΓÇö in some circumstances ΓÇö prevent the application from starting after registering. 
+-Fixed a bug that could prevent the application from being uninstalled properly. 
+-Fixed a bug that could require you to re-enter your serial number after updating the software. 
+-Fixed a bug that could cause image sequences to have black frames in Video Preview and rendered output after zooming in with the Event Pan/Crop plug-in and time compressing. 
+-Fixed a bug that prevented the application from prompting to associate the .vf file type with Movie Studio.
+
+System Requirements
+The following lists the minimum system requirements for using Sony Creative Software Inc. Movie Studio software:
+* Microsoft┬« Windows VistaΓäó SP2, Windows 7, or Windows 8
+* 2 GHz processor (multicore or multiprocessor CPU recommended for HD or stereoscopic 3D)
+* 400 MB hard-disk space for program installation
+* 1 GB RAM (2 GB recommended)
+* OHCI-compatible IEEE-1394DV card (for DV capture and print-to-tape)
+* USB 2.0 connection (for importing from AVCHD or DVD camcorders)
+* Supported NVIDIA or AMD GPU:
+
+NVIDIA : Requires a CUDA-enabled GPU and driver 270.xx or later.
+* GeForce GPUs: GeForce GTX 4xx Series or higher (or GeForce GT 2xx Series or higher with driver 285.62 or later).
+* Quadro GPUs: Quadro 600 or higher (or Quadro FX 1700 or higher with driver 285.62 or later).
+NVIDIA recommends NVIDIA Quadro for professional applications and recommends use of the latest boards based on the Fermi architecture.
+
+AMD/ATI : Requires an OpenCL-enabled GPU and Catalyst driver 11.7 or later with a Radeon HD 57xx or higher GPU. If using a FirePro GPU, FirePro unified driver 8.85 or later is required.
+
+* Windows-compatible sound card
+* DVD-ROM drive (for installation from a DVD only)
+* Supported CD-recordable drive (for CD burning only)
+* Supported DVD-R/-RW/+R/+RW (for DVD burning only)
+* Supported BD-R/-RE drive (for Blu-ray DiscΓäó burning only)
+* Microsoft .NET Framework 3.51 (included on application disc)
+* Apple┬« QuickTime┬« 7.1.6 or later
+
+Languages : English, French, German, japanese, Russian, Spanish
+
+Homepage :  
+http://www.sonycreativesoftware.com/moviestudiope

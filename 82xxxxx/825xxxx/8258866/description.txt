@@ -1,0 +1,3 @@
+Sakis3G script┬áis a shell script, it only needs to be downloaded and be turned executable. Modern distributions should be able to satisfy all┬ádependencies┬áthrough their default installation.
+
+You only need to plugin your USB 3G modem. Made it executable with chmod +x, move to your /bin/ folder and execute. Simple that way!

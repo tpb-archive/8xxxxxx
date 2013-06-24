@@ -1,0 +1,175 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-15T08:44Z,"I have included a little UEFI conversion tool that I made piecing together a few things. It can convert the iso to EFI mode, but it also splits the install.wim to 2gb chunks of swm version.
+
+Note that it is very preliminary and NOT necessary when the install.wim is less than 4GB.  I have included it because some people may prefer the DVD to boot in EFI mode.
+
+Please let me know if the conversion process doesn't work properly. I haven't had time to actually test the resulting file that it creates."
+,B.Torrents,2013-03-15T08:47Z,Thanks murphy78...
+,Kevs1,2013-03-15T12:39Z,"Again can not understand why seeders are not suporting this uploader, down load speed 0.2kb to 2.2 qand Im uploading at 100kbs . Really guys be fair to all."
+,izajasz,2013-03-15T13:18Z,"Did anyone test UEFI converter ? AS i understand , when You want to isntall win7 in UEFI mode You need to use this converter right? I am long searching for an updated iso of windows that actually installs 100% without problem while booting in UEFI mode. Murphy78 is it absolutely needed to use this converter You say You included ? Or it will boot when i choose UEFI: My DVD drive instead of Legacy boot ?"
+,sicfuc67,2013-03-15T13:21Z,Thank you
+,izajasz,2013-03-15T13:35Z,Did anyone test UEFI converter ? Does it work properly? I am long looking for windows 7 with all updates which can install in uefi mode. Is it absolutely neccesary to use the converter ? The iso wont work if i choose in boot menu UEFI: My DVD DRIVE instead of the legacy boot method? If anyone used this already please give feedback :)
+,izajasz,2013-03-15T14:48Z,And by the way - please seed . thats how torrent network works -_- .
+,Sonic_27,2013-03-15T15:54Z,"Once again Thanks, GOOD WORK! Only took about 3.5 hours to get, not to bad....WILL SEED!"
+,pankaj.kr,2013-03-15T17:02Z,Thanks Murphy...was waiting for dis 1...
+,chris4smd,2013-03-15T21:16Z,Once again an excellent upload! Thank you Murphy78! The UEFI conversion tool is a little gem in the making and indeed usefull!  Keep'em coming Pirate!!! 
+,Val777,2013-03-15T22:08Z,"Very good torrents, guys SEED please.
+
+I am not downloading this, but I am sure that it is worth it. SEED, support the guy.
+
+But I have only one question, if you integrate all windows updates in this OS, then you integrate update KB971033 that blocks pirate activation?
+
+Can you explain this to me, please.
+
+Thanks, keep the good work."
+[V],murphy78,2013-03-15T23:02Z,"I have not included kb971033, which is also not in the kbfile list that I posted.
+
+With windows loader, it doesn't matter if you install it or not, though I would recommend against it."
+[V],murphy78,2013-03-15T23:06Z,"isajasz from my understanding, to boot the dvd using EFI boot sector, you would need to rebuild the iso using the commands specified in my oscdimg line of the script in the tool.
+
+For fat32 usb drive support you just need all the files to be less than 4gb max-size. So that's why I made the split also on the conversion tool. It's not necessary in THIS release because the install.wim is already less than 4gb, but you can play with it if you like."
+[V],murphy78,2013-03-15T23:08Z,"oh... missed a question about needing to use converter if booting in UEFI.
+
+That's a good question. You may need to prep your hard disk before installing Windows 7. I believe Windows 8 has built-in UEFI support during setup, but for Windows 7 I'm not sure how it works."
+,izajasz,2013-03-15T23:52Z,"Well , atm the efi conversion tool doesnt work on win8. I ll try on win7 . Will the tool work with AIO Feb2013 version of Your iso ?"
+,izajasz,2013-03-15T23:57Z,"Im doing this in disk part to get uefi bootable drive:
+
+select disk #
+clean
+create partition primary
+format fs=fat32 quick
+active
+assign
+list volume
+exit
+
+Then i copy the iso contents, then:
+
+On the USB flash drive, copy the efimicrosoftboot folder up one level into the efi folder as efiboot. (see screenshot below)
+
+B In 7-Zip, navigate to and ""Copy"" the sourcesinstall.wim1WindowsBootEFIbootmgfw.efi file to your desktop, and close 7-Zip.
+
+D) Rename the bootmgfw.efi file on your desktop to bootx64.efi.
+
+E) Copy/Move the renamed bootx64.efi file into the efi/boot folder on the USB."
+,izajasz,2013-03-15T23:57Z,"With normal win 7 refresh iso i did this to get usb efi bootable drive :
+http://www.eightforums.com/tutorials/15458-uefi-bootable-usb-flash-drive-create-windows.html"
+,izajasz,2013-03-16T02:33Z,"""7 zip cannot find the code that wors with the archive. File not found"" Error is what i get when i try to use uefi converter with win ultimate or AIO from murphy78 ; ( Any help ?"
+[V],murphy78,2013-03-16T06:58Z,Read the instructions guys. You have to change the filename in the 7z line. Of course it's not gonna work on win8 if you don't change the iso file to extract.
+[V],murphy78,2013-03-16T06:59Z,"isajasz I was talking about prepping your hard disk for the uefi boot, not the usb. But those appear to be good instructions for doing the usb prep."
+,Ares.Cro,2013-03-16T11:36Z,Is this windows 7 updateable? Or will there be a genuine validation if I update?
+[V],murphy78,2013-03-16T12:57Z,"Yes it's update-able. I would advise hiding kb971033 as it calls home, but it doesn't find Windows Loader 2.2.1; so do whatever you want."
+[V],DeGun,2013-03-16T15:29Z,"cool as usual ! 
+
+thx for di up m8"
+,screamingtrees,2013-03-16T22:09Z,"I'm having a hard time with that 7z line you want us to change. Nothing I try seems to work. I get the same error as izajasz. This is what my last try looks like:
+7z.exe x H:UsersRyanDesktopMeowWin7Ult-SP1-x64-en-US-Mar2013.iso -oC:winiso"
+,screamingtrees,2013-03-16T22:10Z,but with slashes in the normal places
+,shadysnoman,2013-03-16T22:25Z,"Hi, this may be a silly question, but this can be used for a fresh install on a recently formatted hard drive correct? Thanks."
+[V],murphy78,2013-03-17T03:33Z,:D TY Velvet. Green Skull guys!
+[V],murphy78,2013-03-17T03:36Z,"on the UEFI tool issue, try extracting the tool files to the same directory as the .ISO file. Then make sure the 7z call uses the correct .ISO name.
+
+If that doesn't work, you could try just extracting the iso manually and running the commands manually. I mean, it's a pain in the butt; but nobody is really making any GUI stuff for this. I'm trying to help out the full-UEFI folks that don't have any legacy support."
+,izajasz,2013-03-17T10:47Z,YEs. Screamingtrees is right. Im am sure i am pasting the correct iso name. I tried wit h2 diffrent isos (paths in the script were correct as i placed the script with the iso in same folder). An i get the error...
+,izajasz,2013-03-17T13:04Z,BTW. It should work when You make uefi bootable pendrive manually copying bootmgfw.efi according to instructions on the net.
+,screamingtrees,2013-03-17T13:57Z,"@murphy78, I tried both of your suggestions. the converter won't do anything, even if I try extracting manually and then deleting the part of the script that does the extraction. i would try doing the whole conversion manually, but I'm not sure how to. I'm using a computer that came pre-installed with windows 8. And I'm not sure I even need to use the conversion tool, but when I tried to follow the guide linked by izajasz to make the usb boot drive, and I get ""Failed to boot Windows"" in the boot menu. So I thought might as well try the uefi conversion to see if that helps"
+,anarchist9027,2013-03-18T04:08Z,"Congrats with your green skull Murphy ;)
+
+Do you think you can do an updated AIO of this month release?"
+,captain_red_beard,2013-03-18T20:08Z,"Worked perfectly by writing ISO to a cd
+Thanks for the upload murphy78 :) "
+,jcm5182,2013-03-19T03:57Z,Hello. I wrote the iso file to a DVD and did a clean installation on my laptop. When prompted I chose the Pre-Activated version. However once the installation was complete I am being asked for a Product Key. Where can I find this? 
+[V],murphy78,2013-03-19T13:32Z,"jcm, that is because I didn't run it through a set-product key pass. I could have, but that would bring about more problems.
+
+You can simply click the skip button on the key part. It will change anything you enter anyway with the windows loader oem key."
+[V],murphy78,2013-03-19T13:36Z,"screamingtrees. I am trying to make a version right now for my AIO that searches for any .iso files in the current directory. I'm also adding a bit of current directory passing with ""%~dp0"".
+
+I have no idea if it's going to work for everybody, and I'm not going to spend all day working on it, but it might work for you if I can get it testing correctly."
+,gkkfalls,2013-03-19T17:14Z,murphy wil u upload only windows 7 ultimate 32&64bit in single iso with latest updates & auto activation
+,Rach3,2013-03-19T19:01Z,"Thank you murphy78, for your hard work with all these torrents. I've been using tpb for as long as I can remember, and never bothered to register until  right now, just to say this."
+,jcm5182,2013-03-19T20:39Z,Thanks Murphy! There should be more uploaders like you around! You are by far and away the best that I have seen thus far. You respond to the people who ask questions and you are very pleasant. 
+,andymax,2013-03-19T21:41Z,"Hi Murphy78 well done best so far have been using orbits release from way back and decided on a refresh seamlesss, burned with imgburn to dvd rw 2.4 speed and verify no probs and running sweet best regards"
+,screamingtrees,2013-03-20T00:39Z,"@murphy78, Okay I got it to work on a USB drive (I wasn't using legacy boot the first time and I have a laptop that came preinstalled with Windows 8). Thanks for your help. "
+,jporter72,2013-03-20T01:59Z,@Shadysnoman this is an Upgrade you need to have windows installed and updated to install.
+,marosteeha,2013-03-20T03:00Z,"i like your torrents, i have downloaded the windows 8 one and the office 2013 one, but one thing i really don't like about you torrents is that they are slow even though they are not exactly unhealthy. why is that?"
+[V],murphy78,2013-03-21T02:43Z,"maro, hard to say. When I upload stuff I usually seed for quite a while at 2.8MB/sec. I think I tend to attract a lot of people with low internet upload speed that don't help share the load.
+
+On the UEFI issue. I'm sorry the version in this release doesn't work with people who haven't installed 7-zip 32-bit. I used that so people could try to convert but I forgot the 7z.dll. It never asked me for it because I had it installed and I guess it looks for the program files folder.
+
+Also, it doesn't seem to like to split the install.wim. When you try to install, if the licensing terms are not on the first split, then it will not install.  I'm going to poke around by mounting and seeing if I can put the licensing terms in the boot.wim instead, so it can be split without failing install.
+
+In my win8aio this month I made one that does a simple convert for the iso, but it doesn't split.  If I do manage to get a split working, it will probably also need to mount the boot.wim files and copy over license data.  I tried a simple autounattend to skip the eula, but it doesn't work. It still needs to read the information first.
+
+Tis a puzzle, but I'll see if I can get it working after my win7aio."
+,izajasz,2013-03-21T16:20Z,"I think the uefi doesnt work because of some updates that are installing with sysprep. I retyped the commands from the script manually and i made the iso with split files but it still didnt show as UEFI:  , and when i make uefi usb drive it boots with uefi but it locks up on the windows ""lights"" makeing the flag."
+,laxer23,2013-03-21T17:01Z,"I'm having problems. I followed the steps very carefully a handful of times. I copied the iso onto my flashdrive. Now, when I boot from ""UEFI: SanDisk Extreme 0001"" and try to install and I get this error ""A required CD/DVD drive device driver is missing. If you have a driver floppy disk, CD, DCD, or USB flash drive, please insert it now.""
+
+Is it saying I have a problem with my drivers (if so, how did it read the flash drive to begin with?)?
+
+Here are the stops I did:
+Open command promt
+diskpart
+list disk
+select disk 1
+clean
+create partition primary
+format fs=fat32 quick
+active
+assign
+list volume
+exit
+
+Then I mounted the iso. 
+Sent the files from the iso to my flash drive.
+Copied the ""boot"" folder from efimicrosoftboot up one folder to become efiboot (I copied it, so there is still a boot folder in the microsoft folder).
+Used 7-Zip to open archive on sourcesinstall.wim.
+Copied the file ""bootmgfw.efi"" from sourcesinstall.wim1windowsbootefi onto my desktop.
+Changed the name from ""bootmgfw.efi"" to ""bootx64.efi"".
+Copied the new file, ""bootx64.efi"", and put it in the efiboot folder.
+
+Then I put my flash drive in my desktop (the desktop I am installing windows on), booted from ""UEFI: SanDisk Extreme 0001"", and received the error I mentioned above.
+
+Any help here would be appreciated."
+,izajasz,2013-03-21T23:49Z,"MY bad. It actually works but my dell laptop needs the option ""Load Legacy option roms"" to enable for win7 to boot in uefi mode. IT installed without problem with prepared USB drive according to the instructions on the net . No need to separate the wim file or convert anything. Ty murphy :)"
+,izajasz,2013-03-21T23:51Z,"@laxer 
+Do not mount the iso. Format the usb drive as you wrote using diskpart then extract the iso using 7zip to the usb . Enter efi/microsoft folder and copy boot folder so it resides also at efi/ and extract or download bootx54.efi file and paste it into the efi/boot folder . Thats how i did it and it works perfectly :)"
+,Val777,2013-03-22T16:35Z,"Thanks, working great."
+,Ehhzee,2013-03-25T01:37Z,Ive tried installing this but when it gets to installing it says im missing some files in the program. plz help!
+,Slasherlord,2013-03-26T08:56Z,"Dear Friends please help, I've burned the ISO Image with Nero on a DVD but couldn't boot any system with it. It shows just one Track written of 3.6GB. What am I doing wrong or missing?"
+,abhaykv.13,2013-03-27T09:50Z,"Need Help !
+While Installing, After 96%, it says windows is missing is missing some files or it may be corrupt.
+Please Help !"
+,davotglov,2013-03-27T14:02Z,i cannot download it .. utorrent is reporting all the trackers connection timed out or request timed out .. i have properly forwarded ports and utorrent tests ok .. and green tick mark is shown in utorrent as well .. why ?
+,mrthuvi,2013-03-29T03:21Z,"murphy78, the windows 7 ultimate activated give me BSOD. No problem with the normal windows 7 ultimate. For more info, I installed it on a laptop with ""bad slic size"" (no 2.1 slic present). That maybe the problem."
+,StoneM64,2013-03-29T09:17Z,"I want to use this for bootcamp on my mac, will this work?"
+,StoneM64,2013-03-29T09:19Z,"I want to put the ISO on a flash drive and boot from that for bootcamp on mac. I am not the most technical person though, will this work? "
+,deadenz,2013-03-31T18:38Z,@murphy78 I've had this installed for a couple days then it started asking me to activate windows. what do I need to do or download to fix this?
+,stewox,2013-04-01T10:47Z,"IMPORTANT:
+@izajasz 
+
+Doing the Bootx64.efi thing is for GPT format, you don't want to do that if you want MBR.
+
+You guys have to research more to reconfirm what you're doing here are some links:
+
+Those guides are old and do not know the existance of murphy's UEFI ISO converter so they all point for FLASH STICK 
+
+ALSO you need to read the guides because for SSDs it's important to inject INTEL RST Driver for AHCI/RAID
+
+http://www.tomshardware.co.uk/forum/314707-30-please-desperate-asus-p9x79-windows-help
+
+http://www.overclock.net/t/1156654/seans-windows-7-install-optimization-guide-for-ssds-hdds
+
+http://hardforum.com/showthread.php?p=1039181498
+
+As the tomshardware guide says you have to put intel SATA into RAID mode even if you don't have raid. It will trick WIN7 and let you inject INTEL RST F6 drivers (iaStorA.inf). You can set SATA mode back to AHCI after install.
+
+Extracting, moving, and renaming to Bootx64.efi is for GPT format as far as I've seen from this, so don't do that if you want MBR just make sure you use UEFI iso converter without splitting scripts for DVD. It booted up for me i have it running right now. But i can see more guides on the web kind of confusing ... check the overclocking.net link for a PROPER GPT/MBR guide it seems you can switch between either formats right there in command prompt."
+,stewox,2013-04-01T10:49Z,"Also, forgot to mention, I think the SATA RAID workaround is fopr X79 chipset only, maybe not, but searched mainly for ASUS P9X79"
+,madgame18,2013-04-01T18:01Z,hey murphy do you have email on wich i can contact you i have a proposal for you?
+,stewox,2013-04-01T18:13Z,"UPDATE: Damn it seems like , i didn't use any of the CMD manual tools maybe there is some way to force MBR in UEFI mode.
+
+This is something murphy could look into more easily, a way to disable GPT support and remove it totally so it will have to be MBR no matter what boot mode. 
+
+If I find nothing on the web i'll do it my self (but if it takes too long i'll abandon)"
+,fedorahead,2013-04-09T22:07Z,"Let me get this straight- if I'm using BIOS, all I need to do is burn and run?"
+,roffabong,2013-04-16T02:03Z,"@murphy78 it shows that I need to activate the windows, do should I do?"

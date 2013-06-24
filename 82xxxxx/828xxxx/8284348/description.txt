@@ -1,0 +1,85 @@
+Original name: Chelovek s kino-apparatom 
+
+This playful film is at once a documentary of a day in the life of the Soviet Union, a documentary of the filming of said documentary, and a depiction of an audience watching the film. Even the editing of the film is documented. We often see the cameraman who is purportedly making the film, but we rarely, if ever, see any of the footage he seems to be in the act of shooting.
+
+This release has proper framerate and includes the three most popular scores:
+1. The Cinematic Orchestra
+2. Michael Nyman
+3. and the very rare Alloy Orchestra*
+
+*The Alloy Orchestra score has a slightly different duration time than the video track.
+In order to synchronise the sound with the picture,
+the soundtrack must be started 1 minute and 24 seconds earlier than the video track.
+
+General
+Complete name : Dziga Vertov - Man With A Movie Camera (1929).avi
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 922 MiB
+Duration : 1h 6mn
+Overall bit rate : 1 929 Kbps
+Writing application : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library : VirtualDubMod build 2540/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format settings, BVOP : 1
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : DX50
+Codec ID/Hint : DivX 5
+Duration : 1h 6mn
+Bit rate : 1 530 Kbps
+Width : 640 pixels
+Height : 480 pixels
+Display aspect ratio : 4:3
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.199
+Stream size : 731 MiB (79%)
+Writing library : DivX 6.8.5 (UTC 2009-08-20)
+
+Audio #1
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 6mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 91.7 MiB (10%)
+Alignment : Aligned on interleaves
+Interleave, duration : 40 ms (1.00 video frame)
+Interleave, preload duration : 504 ms
+
+Audio #2
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : 2000
+Duration : 1h 6mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 91.8 MiB (10%)
+Alignment : Split accross interleaves
+Interleave, duration : 40 ms (1.00 video frame)
+Interleave, preload duration : 500 ms

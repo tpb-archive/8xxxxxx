@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,genbnet,2013-03-18T04:02Z,does not work
+,masterjf,2013-03-19T17:22Z,Works fine thanks
+,genbnet,2013-03-27T12:40Z,"@masterjf: Works fine thanks
+
+you'll be found trial pop-up after 7days.."
+,oquatanginwann,2013-04-01T23:06Z,"It will not stay working. None of them do. In a week to ten days, you will get a pop up that says Trial Expired. It will work perfectly before that.
+
+Every connection you start via TeamViewer goes through their servers. They log your MAC address and other things. 
+
+No one has yet come up with a TeamViewer that can stay working successfully.
+
+Even the free TeamViewer Portable, which does not install a Service or write to the Registry stops working, where you get the Commercial Use Suspected pop-up. It used to be you could then simply change your Ethernet card's MAC address to begin again. But that has stopped working as now TeamViewer Corporate is using more than just your computer's MAC address."
+,XtraZoom,2013-04-25T19:58Z,"There is new version out 8.0.18051
+
+@oquatanginwann if they are checking something other than just MAC then it could be Computer Name/ID + HDD name/serial. Which is changeable with restart. I know some sites does this."

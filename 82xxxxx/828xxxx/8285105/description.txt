@@ -1,0 +1,30 @@
+┬á
+Official Web Site:  http://debussy.music.ubc.ca/NoteAbility/index.html
+
+Pre-cracked courtesy of TOBW
+
+NoteAbilityPro is a professional music notation package for the Mac OS X operating system. Developed by Dr. Keith Hamel at the University of British Columbia, it is easily the most sophisticated music notation software available on any platform. NoteAbility combines both musical intelligence and graphical flexibility in a direct and intuitive graphical user interface. Notate anything from simple melodies to complex avant garde orchestral music, play the score on your MIDI synthesizer or using Quicktime Musical Instruments and print a publishable copy of your score on any Mac OS X compatible printer.
+
+If you have been frustrated by the awkwardness and inflexibility of other notation programs, or by the time it takes to learn them, then you definitely should have a look at NoteAbility Pro.
+
+The demo version of NoteAbilityPro is a complete working copy of the program with some functions disabled. You are not allowed to save files, copy or export in certain formats, and printing is restricted to the first page only. Just follow the simple installation notes, and the OS X Installer application will ensure that all required files are installed into the correct locations.
+
+What's New:
+
+* Slurs are now allow independent control over the middle control points so that the bezier curve can be adjusted more flexibly. These control points are visible when the select tool (arrow) is chosen. They can only be adjusted by clicking and dragging -- they are not selected when they are included in a selection rectangle. Slurs created using earlier versions of NAPro will automatically be converted to the new slurs with the original shape of the slur being retained.
+
+* Selected control points are now shown with colored circles when they are selected and adjusted. As well, the selectable area of the control point was enlarged to make clicking and dragging control points easier.
+
+* Zoom in and zoom out short-cuts were added so you can more quickly change the score display size. On most keyboards the sequence: Command and - will reduce decrease the magnification (make the images smaller) and Command and = will increase the magnification (make the images larger.) There are more view size settings so each sizing increment is smaller. These commands also appear in the Format menu.
+
+* A new Velocity Editor was added to the Tools menu. The Velocity Editor allows you to load selected notes into a panel where their velocities (i.e., volumes) are displayed along a measure timeline. Using the tools on the right side of the panel, you can alter the velocities of these notes, audition them and save the changes. Once a selected collection of notes has been loaded into the Velocity Editor (by clicking on the Load Notes button, the velocities of selected notes are displayed. The bar-lines and measures numbers are also provided for reference.
+
+* The tempo controls in the Music Images panel was altered to all different duration values to be displayed. You can click on the lower note icon to change to a different rhythmic value.
+
+* OS X 10.7 and 10.8 redraw problems with text and lyrics have been fixed. There was a recursive redrawing that was occurring with overlapping text boxes in some operating systems.
+
+System Requirements:
+
+PPC and Intel Mac, OS X.4.11 or later
+
+--- PLEASE SEED ---

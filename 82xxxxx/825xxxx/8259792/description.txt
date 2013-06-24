@@ -1,0 +1,67 @@
+Format                         : MPEG-4
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42
+File size                      : 386 MiB
+Duration                       : 1h 23mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 649 Kbps
+Encoded date                   : UTC 2013-03-15 02:08:44
+Tagged date                    : UTC 2013-03-15 02:08:44
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 3 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1h 23mn
+Source duration                : 1h 23mn
+Bit rate mode                  : Variable
+Bit rate                       : 584 Kbps
+Width                          : 704 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Variable
+Frame rate                     : 30.000 fps
+Minimum frame rate             : 30.000 fps
+Maximum frame rate             : 30.030 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.091
+Stream size                    : 348 MiB (90%)
+Source stream size             : 348 MiB (90%)
+Language                       : English
+Encoded date                   : UTC 2013-03-15 02:08:44
+Tagged date                    : UTC 2013-03-15 02:08:44
+mdhd_Duration                  : 4991200
+Color primaries                : BT.601 NTSC
+Transfer characteristics       : BT.601
+Matrix coefficients            : BT.601
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 1h 23mn
+Source duration                : 1h 23mn
+Bit rate mode                  : Variable
+Bit rate                       : 61.7 Kbps
+Maximum bit rate               : 218 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 36.7 MiB (10%)
+Source stream size             : 36.7 MiB (10%)
+Language                       : English
+Encoded date                   : UTC 2013-03-15 02:08:44
+Tagged date                    : UTC 2013-03-15 02:08:44
+mdhd_Duration                  : 4991246

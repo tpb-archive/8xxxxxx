@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,notchuck,2013-03-19T21:49Z,"Okay so I forgot the additional steps for after you install the actual OS, rather than run the live version. 
+
+Download: https://launchpad.net/ubuntu/+archive/primary/+files/b43-fwcutter_015-14_powerpc.deb
+
+Double click on it, then re-run the commands from sudo b43-fwcutter"

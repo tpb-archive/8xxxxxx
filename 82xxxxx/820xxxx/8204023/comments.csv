@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,i.me.myself,2013-02-28T20:04Z,Anyone with SBS version please?
+,antoblfc,2013-02-28T23:42Z,3D Version Please.... Pirate Bay Is King
+,sakkispb,2013-03-25T23:17Z,"There is some problem with the sound.
+
+DTS HD-MA is presented like DTS with 6 channels, but the main problem i think is that the track is not recognizable as DTS HD-MA 7.1ch either form my sony bluray, or TSmuxer on pc.
+
+Results: It's not playable in my home cinema.
+
+Maybe is the container (.mkv) that can't handle properly DTS HD-MA, like .m2ts can??
+
+Any tips are welcome..."
+,sakkispb,2013-04-01T07:27Z,"I finally got it to work. Reencoding with RipBot264 and creating an AVCHD structure. Now Audio is working perfectly as DTS-HD MA 7.1ch [6.1Mbs](after reencoding).
+
+A: 10
+V: 10
+
+Perfect quality, watched on Home Cinema as "".m2ts"" file.
+
+***
+If anyone is interested in adding subtitles on blurays (m2ts, ts, or mkv, mp4), so he can watch from home theater or ps3 stand alone, just use RipBot264. 
+You can hardcode image subtitles (sup, srt...) and retain the exactly same quality in both a/v.
+
+You reencode the bluray. Although you must have a powerful cpu, it’s very demanding."
+,TheLathe,2013-04-05T10:21Z,"@sakkispb
+
+I don't think it is necessary to 're-encode' just because it is an MKV file.  I have a fairly touchy OPPO Blu-ray player and all you really need is to use TSMuxer to place the MKV A/V files into an AVCHD or strict Blu-ray format (which I would use in this case since the file size requires a Blu-ray anyway - I guess first you WOULD have to remux the remux using BDRebuilder or something to shrink it to fit on a single layer BD anyway or if you had more time and the CPU power, you COULD shrink it down to a BD9, but then why download this Blu-ray  : )"

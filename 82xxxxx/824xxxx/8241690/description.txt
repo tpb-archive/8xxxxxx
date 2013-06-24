@@ -1,0 +1,69 @@
+ Director:
+ Maja Milos
+ Writer:
+ Maja Milos
+ Stars:
+ Isidora Simijonovic, Vukasin Jasnic, Sanja Mikitisin
+
+ Storyline:
+ Jasna is a teenage girl living in the poor suburbs in the south of Belgrade, Serbia. She likes to record everything around her using a mobile phone camera. She is making videos of herself, her school friends, family and Djole - the boy of her dreams. Her family is a mess: father is terminally ill and mother is barely coping. That's why she is spending more and more time hanging out with her school friends, partying and drinking. At one of the parties, she finally starts a conversation with Djole and later they develop an intense sexual relationship. When he realizes that she will do anything to be close to him, Djole starts using her as a sexual object. Jasna starts to experiment with drugs and to skip school. Her life is getting out of control and she needs Djole to accept and reciprocate her affections.
+
+Screenshots: 
+http://postimage.org/image/va0pu0bnl/
+
+ Format                                   : AVI
+ Format/Info                              : Audio Video Interleave
+ File size                                : 700 MiB
+ Duration                                 : 1h 38mn
+ Overall bit rate mode                    : Variable
+ Overall bit rate                         : 994 Kbps
+ Writing application                      : VirtualDubMod 1.5.10.2 (build 2540/release)
+ Writing library                          : VirtualDubMod build 2540/release
+
+ Video
+ ID                                       : 0
+ Format                                   : MPEG-4 Visual
+ Format profile                           : Advanced Simple@L5
+ Format settings, BVOP                    : 2
+ Format settings, QPel                    : No
+ Format settings, GMC                     : No warppoints
+ Format settings, Matrix                  : Default (H.263)
+ Muxing mode                              : Packed bitstream
+ Codec ID                                 : XVID
+ Codec ID/Hint                            : XviD
+ Duration                                 : 1h 38mn
+ Bit rate                                 : 850 Kbps
+ Width                                    : 672 pixels
+ Height                                   : 320 pixels
+ Display aspect ratio                     : 2.100
+ Frame rate                               : 25.000 fps
+ Color space                              : YUV
+ Chroma subsampling                       : 4:2:0
+ Bit depth                                : 8 bits
+ Scan type                                : Progressive
+ Compression mode                         : Lossy
+ Bits/(Pixel*Frame)                       : 0.158
+ Stream size                              : 599 MiB (86%)
+ Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+ Audio
+ ID                                       : 1
+ Format                                   : MPEG Audio
+ Format version                           : Version 1
+ Format profile                           : Layer 3
+ Mode                                     : Joint stereo
+ Mode extension                           : MS Stereo
+ Codec ID                                 : 55
+ Codec ID/Hint                            : MP3
+ Duration                                 : 1h 38mn
+ Bit rate mode                            : Variable
+ Bit rate                                 : 128 Kbps
+ Channel(s)                               : 2 channels
+ Sampling rate                            : 48.0 KHz
+ Compression mode                         : Lossy
+ Stream size                              : 92.3 MiB (13%)
+ Alignment                                : Aligned on interleaves
+ Interleave, duration                     : 24 ms (0.60 video frame)
+ Interleave, preload duration             : 140 ms
+ Writing library                          : LAME3.90.
+ Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.6 --abr 128

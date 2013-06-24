@@ -1,0 +1,61 @@
+Synopsis:
+
+La famille Cullen est de retour à Forks. Alors que Bella et Edward en sont à leur dernière année de lycée, ils vivent le parfait bonheur après la demande en mariage d'Edward, qui a quelque peu chamboulé Bella, car Edward a accepté de la transformer en vampire à la simple condition que le mariage soit prononcé entre eux deux. Cependant, ils doivent faire face à un obstacle, Jacob Black. Le meilleur ami de Bella en est fou amoureux et refuse de prêter une relation à Bella avec Edward. Parallèlement, une série de crimes, plus affreux les uns que les autres, touche la ville de Seattle. Rivaux ou pas, vampires et loup-garous devront s'unir pour faire cesser ces drames, dont une ennemie assoiffée de vengeance est peut-être à l'origine. Pendant ce temps, Bella se doit de choisir entre l'amour qu'elle éprouve pour Edward ou son amitié fusionnelle avec Jacob.
+
+###################################################################################
+###################################################################################
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Taille du fichier                        : 1,61 Gio
+Durée                                    : 2h 3mn
+Débit global moyen                       : 1 859 Kbps
+Application utilisée                     : VirtualDubMod 1.5.10.2 (build 2540/release)
+Bibliothèque utilisée                    : VirtualDubMod build 2540/release
+
+Vidéo
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Paramètres du format, BVOP               : 1
+Paramètres du format, QPel               : Non
+Paramètres du format, GMC                : Pas de warppoints
+Paramètres du format, Matrice            : Default (H.263)
+Type de muxing                           : Packed bitstream
+Identifiant du codec                     : DX50
+Identifiant du codec/Suggestion          : DivX 5
+Durée                                    : 2h 3mn
+Débit                                    : 1 210 Kbps
+Largeur                                  : 640 pixels
+Hauteur                                  : 272 pixels
+Format à l'écran                         : 2,35:1
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Mode de compression                      : Avec perte
+Bits/(Pixel*Image)                       : 0.290
+Taille du flux                           : 1,05 Gio (65%)
+Bibliothèque utilisée                    : DivX 2682
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Paramètres du format, Endianness         : Big
+Identifiant du codec                     : 2000
+Durée                                    : 2h 3mn
+Type de débit                            : Constant
+Débit                                    : 640 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Délai par rapport Vidéo                  : 1s 0ms
+Taille du flux                           : 567 Mio (34%)
+Alignement                               : Eparpillé à travers les interleaves
+Imbrication, durée                       : 42 ms (1,00 image vidéo)
+Imbrication, d. de pré-chargement        : 500 ms
+

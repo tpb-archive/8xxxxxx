@@ -1,0 +1,9 @@
+Network security has become an important part of corporate IT strategy and safeguarding all the nooks and crannies of your network can be timely and expensive. This book provides information about how to use free Open Source tools to build and manage an Intrusion Detection System. Rehman provides detailed information about using SNORT as an IDS and using Apache, MySQL, PHP and ACID to analyze intrusion data.
+
+The book contains custom scripts, real-life examples for SNORT, and to-the-point information about installing SNORT IDS so readers can build and run their sophisticated intrusion detection systems.SNORT is your network's packet sniffer that monitors network traffic in real time, scrutinizing each packet closely to detect a dangerous payload or suspicious anomalies.NSS Group, a European network security testing organization, tested SNORT along with intrusion detection system (IDS) products from 15 major vendors including Cisco, Computer Associates, and Symantec. According to NSS, SNORT, which was the sole Open Source freeware product tested, clearly outperformed the proprietary products.
+
+Title: Intrusion Detection with SNORT: Advanced IDS Techniques Using SNORT, Apache, MySQL, PHP, and ACID
+Author(s): Rafeeq Ur Rehman
+Paperback: 275 pages
+eBook: PDF, 2.52 MB
+Language: English

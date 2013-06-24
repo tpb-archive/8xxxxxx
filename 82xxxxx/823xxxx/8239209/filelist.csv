@@ -1,0 +1,41 @@
+﻿Filename,Size,Unit
+01- Introduction/001- Welcome.MP4,9.87,M
+01- Introduction/002- What you need to know.MP4,9.15,M
+02- Understanding Databases/003- What are databases.MP4,68.67,M
+02- Understanding Databases/004- Exploring databases and database management systems.MP4,37.19,M
+03- Database Fundamentals/005- The features of a relational database.MP4,36.19,M
+03- Database Fundamentals/006- Exploring unique values and primary keys.MP4,31.88,M
+03- Database Fundamentals/007- Defining table relationships.MP4,49.69,M
+03- Database Fundamentals/008- Describing many-to-many relationships.MP4,58.49,M
+03- Database Fundamentals/009- Transactions and the ACID test.MP4,38.33,M
+03- Database Fundamentals/010- Introduction to Structured Query Language.MP4,33.3,M
+04- Database Modeling - Tables/011- Introduction to database modeling.MP4,23.88,M
+04- Database Modeling - Tables/012- Planning your database.MP4,30.9,M
+04- Database Modeling - Tables/013- Identifying columns and selecting data types.MP4,54.94,M
+04- Database Modeling - Tables/014- Choosing primary keys.MP4,8.57,M
+04- Database Modeling - Tables/015- Using composite keys.MP4,11.88,M
+05- Database Modeling - Relationships/016- Creating relationships.MP4,3.99,M
+05- Database Modeling - Relationships/017- Defining one-to-many relationships.MP4,9.02,M
+05- Database Modeling - Relationships/018- Exploring one-to-one relationships.MP4,4.9,M
+05- Database Modeling - Relationships/019- Exploring many-to-many relationships.MP4,8.59,M
+05- Database Modeling - Relationships/020- Understanding relationship rules and referential integrity.MP4,8.63,M
+06- Database Modeling - Optimization/021- Understanding normalization.MP4,18.38,M
+06- Database Modeling - Optimization/022- First normal form.MP4,34.65,M
+06- Database Modeling - Optimization/023- Second normal form.MP4,22.56,M
+06- Database Modeling - Optimization/024- Third normal form.MP4,18.09,M
+06- Database Modeling - Optimization/025- Database denormalization.MP4,24.52,M
+07- Database Modeling - Querying/026- Creating SQL queries.MP4,7.9,M
+07- Database Modeling - Querying/027- Creating the WHERE clause.MP4,10.01,M
+07- Database Modeling - Querying/028- Sorting query results.MP4,4.71,M
+07- Database Modeling - Querying/029- Using aggregate functions.MP4,7.46,M
+07- Database Modeling - Querying/030- Joining tables.MP4,16.14,M
+"07- Database Modeling - Querying/031- Inserting, updating, and deleting.MP4",10.23,M
+07- Database Modeling - Querying/032- The data definition language.MP4,7.38,M
+08- Database Modeling - Indexing and Optimization/033- Understanding indexes.MP4,15.7,M
+08- Database Modeling - Indexing and Optimization/034- Understanding write conflicts.MP4,16.25,M
+08- Database Modeling - Indexing and Optimization/035- Understanding stored procedures and injection attacks.MP4,12.03,M
+09- Database Options/036- Desktop databases.MP4,10.18,M
+09- Database Options/037- Relational database management systems.MP4,13.89,M
+09- Database Options/038- Object-based and XML-based databases.MP4,6.5,M
+09- Database Options/039- NoSQL databases.MP4,16.49,M
+10- Conclusion/040- Final thoughts.MP4,5.6,M

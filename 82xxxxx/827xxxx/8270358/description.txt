@@ -1,0 +1,36 @@
+This VC Redist Installer installs the following features:
+
+- Visual C++ 2005 x86
+- Visual C++ 2005 x64
+
+- Visual C++ 2008 x86 9.0.30729.7497
+- Visual C++ 2008 x64 9.0.30729.7497
+
+- Visual C++ 2010 x86 10.0.40219.436
+- Visual C++ 2010 x64 10.0.40219.436
+
+- Visual C++ 2012 x86 11.0.51106
+- Visual C++ 2012 x64 11.0.51106
+
+- Microsoft Visual F Runtime 2.0
+
+- Older Microsoft Runtimes for older software
+
+Previous versions will be uninstalled first. All features have the latest hotfixes.
+
+Setup must be run as "Administrator". (Right-click and run as Administrator, if UAC is enabled)
+
+Silent install switch: /VERYSILENT /NORESTART
+
+---
+
+Credit goes to McRip for creating this installer :)
+mcripblog.cesidian.info/2013/02/vc-redist-installer-152.html
+
+---
+
+File: VC_RedistInstaller.exe
+CRC-32: 4f0c35c9
+MD4: cf9d8bb66015430d434d29c0ad962bc3
+MD5: bb58653d68e66b061f1b000083cae384
+SHA-1: 202addd8de74c8ed57f093273f553c7927201ef9

@@ -1,0 +1,55 @@
+[img]http://img132.imageshack.us/img132/1273/ibrg.jpg[/img]
+
+
+Complete name : Stunning Performance Fail.. Because of Beauty.. - Shrivastava - IBRG.mp4
+Format : MPEG-4
+Format profile :
+Codec ID : FACE
+File size : 1.61 MiB
+Duration : 39s 613ms
+Overall bit rate : 340 Kbps
+Encoded date : UTC 2013-03-02 14:21:49
+Tagged date : UTC 2013-03-02 14:21:49
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Baseline@L1.3
+Format settings, CABAC : No
+Format settings, ReFrames : 3 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 39s 400ms
+Bit rate mode : Variable
+Bit rate : 246 Kbps
+Maximum bit rate : 428 Kbps
+Width : 400 pixels
+Height : 224 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.110
+Stream size : 1.15 MiB (72%)
+Writing library : x264 core 116
+
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 39s 613ms
+Bit rate mode : Variable
+Bit rate : 93.3 Kbps
+Maximum bit rate : 107 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 451 KiB (27%)

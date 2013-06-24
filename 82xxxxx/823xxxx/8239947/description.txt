@@ -1,0 +1,59 @@
+Synopsis:
+
+Le tout nouveau bonheur des jeunes mariés Bella Swan et Edward Cullen est contrarié par une série de trahisons et de malheurs menaçant de détruire leur monde. 
+ Après leur mariage, Bella et Edward partent en lune de miel à Rio de Janeiro, où ils cèdent finalement à leur passion. Bella découvre vite qu'elle est enceinte et durant son accouchement presque fatal, Edward accomplit finalement le désir de Bella et la transforme en immortel.
+ Mais l'arrivé de leur fille si particulière, Renesmée, met en route un engrenage périlleux d'événements qui va pousser la famille Cullen et leur alliés à cacher les choses aux Volturi, pour préparer le terrain au combat qui se révèle inévitable
+
+###################################################################################
+###################################################################################
+
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+FileSize/String                  : 1,40 Gio
+Duration/String                  : 1h 57mn
+OverallBitRate/String            : 1 716 Kbps
+
+Vidéo
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Settings_BVOP/String      : 1
+Format_Settings_QPel/String      : Non
+Format_Settings_GMC/String       : Pas de warppoints
+Format_Settings_Matrix/String    : Default (H.263)
+MuxingMode                       : Packed bitstream
+CodecID                          : DX50
+CodecID/Hint                     : DivX 5
+Duration/String                  : 1h 57mn
+BitRate/String                   : 1 387 Kbps
+Width/String                     : 640 pixels
+Height/String                    : 272 pixels
+DisplayAspectRatio/String        : 2,35:1
+FrameRate/String                 : 23,976 Im/s
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressif
+Compression_Mode/String          : Avec perte
+Bits-(Pixel*Frame)               : 0.332
+StreamSize/String                : 1,13 Gio (81%)
+Title                            : Video 
+Encoded_Library/String           : DivX 2682
+
+Audio
+ID/String                        : 1
+Format                           : MPEG Audio
+Format_Version                   : Version 1
+Format_Profile                   : Layer 3
+Format_Settings_Mode             : Joint stereo
+CodecID                          : 55
+CodecID/Hint                     : MP3
+Duration/String                  : 1h 57mn
+BitRate_Mode/String              : Constant
+BitRate/String                   : 320 Kbps
+Channel(s)/String                : 2 canaux
+SamplingRate/String              : 48,0 KHz
+Compression_Mode/String          : Avec perte
+StreamSize/String                : 268 Mio (19%)
+Alignment/String                 : Eparpillé à travers les interleaves
+Interleave_Duration/String       : 42 ms (1,00 image vidéo)
+Interleave_Preload/String        : 500 ms

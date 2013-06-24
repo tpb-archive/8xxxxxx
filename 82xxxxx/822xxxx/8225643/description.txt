@@ -1,0 +1,14 @@
+KMSpico_v4.2_Only_Service, KMSpico_v4.2_OEM and KMSpico_v4.2_Install
+
+Change Log:
+- Service improved.
+
+Note:
+- If you install a Office Retail Version after the installation of KMSpico, then run again
+the shortcut KMSpico to make the convertion, because the Service installed only activate VL.
+
+Recommendations Optional:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to Directory %ProgramFiles%KMSpico in Antivirus.

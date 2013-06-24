@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,nfsmaster,2013-03-01T17:03Z,"You can only use this software, when you are not connected to the internet, otherwise you'll get this message:
+""We are very sorry for the inconvenience, you may be victim of software piracy, please purchase the genuine software, thank you""
+
+To fix this issue go into Windows firewall and block outgoing connection from the application ""windows8manager.exe"" in the yamicsoft folder."
+,bert16,2013-03-03T03:45Z,I installed this and it's really 1.06 which is what I already had. It seemed to update OK and overwrote the existing version. Has anyone installed this and got 1.07?

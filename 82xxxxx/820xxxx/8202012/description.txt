@@ -1,0 +1,68 @@
+
+Title: SamDrivers 13.2
+Publication Type: Drivers with automatic installation
+Purpose: A set of drivers for Windows x86/x64
+Author: www.SamLab.ws / www.DriverOff.net
+Release Date: February 27, 2013
+Platform: Windows 2000/2003/XP/Vista/2008/7/8
+System Type: 32 bits + 64 bits
+Language: Multi-Lang
+Tablet: Not required - free collection
+
+Description:
+Collection of drivers from SamLab.ws for all 32-bit and 64-bit Windows operating systems from Windows 2000 to Windows 8, including server platforms.
+As the shell-installer to auto-detect your hardware and automatically install the necessary drivers to use special programs:
+DriverPack Solution Plus 13.0 Revision 315 / Drivers Installer Assistant 3.12.12 (use version 4.0) / DriverX 3.05 (use version 1.88 and 2.2)
+The collection includes the most current drivers on the release date collected personally SamLab. Do not confuse this package with the driver-packs Bashrat - these drivers are newer and more stable.
+SamLab long been a member of the team Bashrat has the ability to know about all the problems of the other driver packages to create its own set of the most comprehensive and peaceful!
+
+NB: If a driver has not been established, showed up not chosen optimally: for any other questions and mistakes - it is necessary:
+A report, running from the root SysInfo.exe SamDrivers, while in the root directory C: create a file that you need to put SysInfo.7z here
+
+Drivers for touchpads and other input devices of the driver packs DP_Touchpad_HHH installed only under the personal supervision and only envelope DPS
+All of these devices have the same ID - controls what put us on the touchpad and the name of the pack on the notebook vendor in the name of the folder with the drivers
+Still same identifiers found in drivers for sound cards and tuners - install just the drivers what firm your device
+
+Included in collection driver:
+DP_Biometric_13023.7z
+DP_Bluetooth_13024.7z
+DP_CardReader_13025.7z
+DP_Chipset_13025.7z
+DP_LAN_13023.7z
+DP_MassStorage_13024.7z
+DP_Misc_13024.7z
+DP_Modem_13023.7z
+DP_Monitor_13024.7z
+DP_Notebook_13024.7z
+DP_Printer_13003.7z
+DP_Sound_ADI_13023.7z
+DP_Sound_CMedia_13024.7z
+DP_Sound_Conexant_13023.7z
+DP_Sound_Creative_13024.7z
+DP_Sound_IDT_13023.7z
+DP_Sound_Others_13023.7z
+DP_Sound_VIA_13014.7z
+DP_Sounds_HDMI_13024.7z
+DP_Sounds_Realtek_13022.7z
+DP_Telephone_13025.7z
+DP_Touchpad_Alps_13025.7z
+DP_Touchpad_Elan_13014.7z
+DP_Touchpad_Others_13013.7z
+DP_Touchpad_Synaptics_13023.7z
+DP_TV_Aver_13024.7z
+DP_TV_Beholder_13014.7z
+DP_TV_DVB_13021.7z
+DP_TV_Others_13012.7z
+DP_Video_AMD_Desktop_13024.7z
+DP_Video_AMD_Notebook_13023.7z
+DP_Video_AMD_Server_13014.7z
+DP_Video_Hybrid_13012.7z
+DP_Video_Intel_13024.7z
+DP_Video_MacBook_13015.7z
+DP_Video_nVIDIA_Desktop_13025.7z
+DP_Video_nVIDIA_Notebook_13024.7z
+DP_Video_nVIDIA_Server_13023.7z
+DP_Video_Others_13022.7z
+DP_WebCam_13025.7z
+DP_WLAN_13025.7z
+DP_xUSB_13025.7z 

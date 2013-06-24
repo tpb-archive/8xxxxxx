@@ -1,0 +1,108 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-03-09T08:01Z,"ENJOY ENJOY God of War Ascension EUR-Rip Small Size Rip PS3 with all Fixes by XaTaB, Tablet is DUPLEX not COMPLEX, anyways enjoy the Rip and Seed as well!"
+,MonkeyBar,2013-03-09T14:18Z,where can i download emulator ??
+,vezao,2013-03-09T14:36Z,"thanks
+
+please uploud tomb raider patch 1 realesed today please.
+
+thanks"
+[V],-wxm-,2013-03-09T18:17Z,O___O bad time to not have a PS3.
+,jmuckey2,2013-03-09T18:20Z,"I try to write this on the formums/torrents that i see that ask for patches or 3.55 eboots for games if you use the right firmware do a google search you don't need ANY fixes eboot mods 3.55 eboots ARE NOT NEEDED just install firmware latest multiman and boot from internal hdd let multiman patch game param sfo and run with disk in the ps3 this goes with ALL NEW AND OLD PS3 GAMES only difference is some NEED to be run with BD EMU from USB                  AND PLEASE PEOPLE DON'T ASK FOR EMULATORS THERE ISN""T ONE AND LIKELY WONT BE SO PLEASE USE GOOGLE OR A BRAIN AND DO SOME RESEARCH"
+,whasango,2013-03-09T20:16Z,DOESNT WORK !!!! KICKED BACK TO XMB
+,justas.d,2013-03-09T23:00Z,"Can anyone explain what the ""340"" and ""420"" folders are?"
+,Secretz.R.Us,2013-03-10T02:02Z,"Wait, what? Did I read right? This can be used on an external HDD? If so, you are truly my hero, Hero!"
+,ryussf,2013-03-10T12:35Z,Has anyone recently tested this to see if it works?
+,Evi1d33d,2013-03-11T01:12Z,"Doesn't work on 4.30, just shows the DUPLEX logo then goes back to XMB. Unless someone can post settings confirming that it works, I'm calling this a dud."
+,revente,2013-03-11T01:52Z,"Works for me on rogero 4.30
+Had to edit the archives file in usrdir folder with notepad and change the top numberfrom 17 to 15 and I delete 4 lines with filenames not present in that folder. Im writing that from my phone but if i recall properly filenames you have to delete are: extracin1.psarc extracin2.psarc mpresources.psarc and mp-english or something like that"
+,yarrmateys45,2013-03-11T02:16Z,"something wrong with this.
+Using the EBOOT and PARAM.SFO that are in the USRDIR. it doesnt work.
+Just loads the duplex logo and quits to XMB.
+
+I tried switching external data, BD mirror, and direct boot, but didnt work either.
+
+Anyone got this to work on rogero 4.30?
+
+I might try getting the original eboot and param SFO from elsewhere to see if it works."
+,Evi1d33d,2013-03-11T02:34Z,"Alright, got the bloody thing to work. Just like Revente said, modify the ARCHIVE file in USRDIR with notepad."
+,yarrmateys45,2013-03-11T02:41Z,"thanks revente! you're the man.
+I saw your comment after I posted mine.
+
+I did like you said
+
+Edited archives file with notepad in USRDIR
+changed 17 to 15 in the first line, and then removed the following lines
+EXTRASCIN1.PSARC
+EXTRASCIN2.PSARC
+MP-RESOURCES.PSARC
+MULTIPLAYER.PSARC
+
+now works with no issues!"
+,stoffinho17,2013-03-11T02:53Z,"Open the file ARCHIVES in USRDIR with notepad. Remove this lines in the file:
+
+EXTRASCIN1.PSARC
+EXTRASCIN2.PSARC
+MP-RESOURCES.PSARC
+MULTIPLAYER.PSARC
+
+...and change 17 to 15. Now it should work :)"
+,stoffinho17,2013-03-11T02:56Z,RE yarrmateys45: I also saw your comment after I posted mine. I can confirm that it's working.
+,Stubborn_child,2013-03-11T12:15Z,Not WORKING!!! on 3.55 kicked back to XMB
+,bigboss316,2013-03-11T14:42Z,"just follow the instruction above (thanks revente) and make sure you have ps3 disc in your bluray drive, this is not discless folks, i'm using rogero 4.30 btw and latest multiman release (4.20.04) i've been playing for hours now, no glitch or whatsoever, good copy! thanks to the uploader you save me a lot of bandwidth."
+,andy4058,2013-03-15T23:43Z,Just follow stoffinho17's instructions and works like a charm on 3.55
+,MrNaimee,2013-03-17T11:49Z,@andy4058 what fix did you use? can you link it?
+,MrNaimee,2013-03-17T12:02Z,@andy4058 what 3.55 fix did you use can you link it?
+,gaditas007,2013-03-17T19:16Z,How i fix this voices problem? the voices don't work! lol
+,uceramti,2013-03-26T06:24Z,"Works on Kmeaw 3.55 
+To transfer the game over FTP (install a FTP server found on Google, put the FTP file on a USB stick, plug it in the PS3,  the file should have a .pkg ending. Install FileZilla on your PC, google a bit how to make a connection.
+
+
+I did as mentioned above.
+Locate the Archive file in USRDIR
+Open Archive file in Notepad (right click open in Notepad)
+Remove (delete)
+EXTRASCIN1.PSARC
+ EXTRASCIN2.PSARC
+ MP-RESOURCES.PSARC
+ MULTIPLAYER.PSARC
+ Change 17 (in my case it was 19) to 15.
+Save the Archive in.
+
+Transfer the whole game BCES01741 to Hdd0/GAMES folder. it will take a while 15 mins+.
+
+Go to PS3, close the FTP connection after the whole game is transfered.
+
+Start Multiman, you should have the latest version, google it and update it. Same process as installing FTP software on your PS3.
+
+Under Games, you'll see God Of War, press Triangle /_ , choose settings, set permissions. Let it work for 10 seconds.
+Choose INTERNAL on the left menu.
+
+Press Start.
+
+You'll be thrown to XBMC menu, the original PS3 menu.
+
+Game God of War will be visible on the menu.
+
+Start the game.
+
+You'll be asked to install version 1,03, click O to cancel.
+
+The game will start.
+
+Remember, no eboot fixing.
+You need to have a game (any kind of game) in your PS3, it might not be necessary.
+Newest version of Multiman.
+You have to set game to INTERNAL.
+The game must be on your internal HDD (hard disc drive)  Might work on external, haven't tried.
+
+Follow the steps, dont miss anything, worked for me right away.
+
+Ohh, I encountered an other small problem, if you dont have any space left on your HDD, the game will quit automatically due to auto save wont be possible.
+
+Hope this helped the rookies."
+,nikkid33,2013-04-25T03:20Z,"ok sorry everyone i am new to this whole thing, exactly what is 'seeding'? I dont know how to seed, i have been downloading, but looks like it helps when more people 'seed' but just how do i do this? and also what do i do when this game finally downloads to my computer? this is my first game ive downloaded...please someone email me and help me out.....  nikkidevries29@gmail.com    please help thanks everyone"
+,Alexnader78,2013-05-02T19:58Z,"Got it to work with a disc in the drive, installed on HDD, with rogero 4.40 and after modifying the ARCHIVES file.
+
+Is there any way to get it to work without a disc inserted ? with the other EBOOTs or something ?
+
+Other than that, perfect."

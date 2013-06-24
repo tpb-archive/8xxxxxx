@@ -1,0 +1,60 @@
+Synopsis:
+
+Les Cullen déménagent de Forks pour ne pas trahir leur éternelle jeunesse et surtout pour protéger Bella. Après le départ d'Edward, Bella tombe dans un état dépressif sans précédent, mais finit par trouver un réconfort d'abord dans l'adrénaline puis, de fil en aiguille, chez son ami Jacob Black. Elle découvre qu'il est en fait un loup, comme Sam et sa meute. Malheureusement Victoria est de retour pour venger James. Suite à un malentendu, Edward pense que Bella est morte et veut donc mourir à son tour. Il projette de se montrer au grand jour devant des centaines de personnes mais Bella arrive juste à temps pour l'en empêcher. Les Volturi apprennent que Bella connaît l'existence des vampires. Conformément à leurs règles, ils veulent l'obliger à se faire transformer en vampire à son tour... Cela ne lui pose pas de problème, mais Edward est réticent à cette idée...
+
+###################################################################################
+###################################################################################
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Taille du fichier                        : 1,54 Gio
+Durée                                    : 2h 10mn
+Débit global moyen                       : 1 692 Kbps
+Application utilisée                     : VirtualDubMod 1.5.10.2 (build 2540/release)
+Bibliothèque utilisée                    : VirtualDubMod build 2540/release
+
+Vidéo
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Paramètres du format, BVOP               : Oui
+Paramètres du format, QPel               : Non
+Paramètres du format, GMC                : Pas de warppoints
+Paramètres du format, Matrice            : Default (H.263)
+Identifiant du codec                     : DX50
+Identifiant du codec/Suggestion          : DivX 5
+Durée                                    : 2h 10mn
+Débit                                    : 1 043 Kbps
+Largeur                                  : 640 pixels
+Hauteur                                  : 272 pixels
+Format à l'écran                         : 2,35:1
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Mode de compression                      : Avec perte
+Bits/(Pixel*Image)                       : 0.250
+Taille du flux                           : 974 Mio (62%)
+Bibliothèque utilisée                    : DivX 6.8.5 (UTC 2009-08-20)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Paramètres du format, Endianness         : Big
+Identifiant du codec                     : 2000
+Durée                                    : 2h 10mn
+Type de débit                            : Constant
+Débit                                    : 640 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Délai par rapport Vidéo                  : 1s 0ms
+Taille du flux                           : 598 Mio (38%)
+Alignement                               : Eparpillé à travers les interleaves
+Imbrication, durée                       : 42 ms (1,00 image vidéo)
+Imbrication, d. de pré-chargement        : 500 ms
+

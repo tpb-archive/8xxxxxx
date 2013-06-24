@@ -1,0 +1,121 @@
+﻿User Type,Username,Date,Text
+,karlosss999,2013-03-19T19:45Z,"So on the very instant I enter TPB to seek out the newest patch, it pops up here...
+
+I'm scared...
+
+P.S.: F* Yeah!"
+,RndomNinja,2013-03-19T19:47Z,"Haha Karlos, beat me to it ah well We The First! no?"
+,RndomNinja,2013-03-19T19:48Z,"Haha, beat me to it Karlos. Was about to say. Ah well, We the first! Will seed ;)
+Thanks for speedy update :D"
+,Tiageros,2013-03-19T20:06Z,"Unfortunately, it's not being seeded. I really hate it when someone posts a release and then doesn't seed it until it gets out on the network."
+[V],Mr.Stifmeister,2013-03-19T20:19Z,@Tiageros: Its seeding. If you cant get any download speed then check your network/connections or ports.
+,daren1988,2013-03-19T20:38Z,"Hell yeah, so glad this is finally out. Will seed for a while"
+,Piratechnix,2013-03-19T20:41Z,wow....lot of fixes in this patch.....thanks!
+,shinmarwan,2013-03-19T21:25Z,waiting for confirmation that its working and its clean
+,N4irolf,2013-03-19T21:32Z,MSE says steam_api.dll is infected. Wasn't the case for other updates...
+,rxanp,2013-03-19T22:07Z,I have waited weeks... thanks @Mr.stimeister... will post how good it works once its done dling...
+,blakeh,2013-03-19T22:11Z,Do you have to start a new game after installing update?
+,rxanp,2013-03-19T22:14Z,"BUG FIXES-
+
+-General memory and stability improvements
+-Fixed issue with quest scripts that were not shutting down properly
+-Companions will equip better weapons and armor if given to them
+-Fixed rare issue where player is unable to learn the Clear Skies shout during “The Throat of the World”
+-Fixed rare instance where Alduin would become invincible during “Alduin’s Bane”
+-Fixed a rare issue where player could become stuck in Night Mother’s coffin during “Death Incarnate”
+-Fixed rare issue where protected companions could be killed from poison damage
+-Fixed rare issue with certain ash piles left from resurrected NPCs not clearing properly
+-Fixed rare issue with NPCs and creatures respawning improperly after player fast travels
+-Fixed rare crash when entering Dark Brotherhood Sanctuary
+-Fixed rare crash when entering a player owned home
+-Random dragon attacks will no longer occur during “Battle for Whiterun”
+-Fixed a rare crash when attempting to save your game during “Waking Nightmare”
+-Fixed issue where “Glory of the Undead” would not start properly if player is in combat with Eorlund Gray-Mane
+-The white phial is no longer consumed if given to a follower
+-If player marries Aela, the “Totem of Hircine” quest will be available
+-Unused briar hearts can be dropped after finishing “The White Phial”
+-Fixed issue with paying off a crime against the Companions that prevented player from getting Companions quests properly
+-Thieves Guild caches are now properly enabled in the appropriate cities
+-The Dragon Infusion perk now works properly when taking Esbern’s Potion
+-Cragslane Cave properly resets if player receives a radiant quest to clear it out
+-Fixed rare issue with bounty quest objectives not properly clearing after completion
+-Gallus’ Encoded Journal is no longer a quest item after completing the Thieves Guild
+-In “No Stone Unturned” Vex will now accept Unusual Gems if you’ve collected them all before starting the quest
+-Vekel the Man now gives rewards for completing “Toying with The Dead”
+-Fixed rare issue with being unable to turn in stolen items in “The Litany of Larceny”
+-Fixed issue with followers becoming over-encumbered after being repeatedly rehired
+-Fixed rare issue with visiting Kynesgrove on horseback not progressing “A Blade in the Dark” properly
+-Fixed issue with receiving a duplicate radiant quest from a Jarl
+-Fixed conflict with clearing Driftshade Sanctuary before starting “Trouble in Skyrim”
+-Fixed issue with using shouts while in jail and having guards unlock the jail cell
+-Fixed rare issue with quest NPCs not properly moving to quest locations
+-Fixed issue with NPCs not selling master level spells
+-Fixed rare issue where player gets control locked outside the Thalmor Embassy at the start of “Diplomatic Immunity”
+-Fixed rare issue with disappearing containers after upgrades in player owned house
+-Fixed issue with being erroneously attacked while as a werewolf during “Ill Met By Moonlight”
+-The Ebony Blade is now only improved by two handed perks
+-Locked door to Proudspire Manor can now be unlocked by proper key
+-Fixed issue with merchants not receiving the proper additional gold with the Investor perk
+-Fixed a rare issue where the player would be unable to learn a word after leaving for several days during “The Way of The Voice”
+-The Nord Hero Bow can now be improved
+The Purity perk no longer requires the Experimenter perk
+-Fixed rare instance where Lovers Comfort would not be applied properly
+-If you approach Frostmere Crypt from the north, “The Pale Lady” will start properly
+-Fixed rare issue where player could be prevented from speaking with Atub to start “The Cursed Tribe”
+-Fixed rare issue where a dragon could appear in the Mind of a Madman realm and kill the player
+-Fixed instance where player could get stuck in Japhet’s Folly
+-Fixed rare instances where Arngeir would not teach Whirlwind Sprint
+-Fixed issue with “Ill Met By Moonlight” if Sinding dies before the quest starts
+-Gharol can now properly train up to l"
+,bobbythejobby,2013-03-19T22:23Z,AVG says steam.api is a trojan horse removed it and will try using the update 11 steam.api
+,bobbythejobby,2013-03-19T22:34Z,"no good deleteing my comments m8 steam,api is infected instead of trying to hide it by deleting comments you should offer a solution or confirm wether the file is infected or not"
+,ronza149,2013-03-19T22:35Z,"finally,with legendary settings I have reasons to play Skyrim all day once again!:D"
+,Odjebiteus,2013-03-19T23:50Z,"@bobbythejobby
+The download is secure, free of viruses and malware etc.. 
+the fact that it reports to you as a virus is because some files/cracks use simmilar code .
+In other words 98% of cracks your beloved AVG will report as virus and delete it immediately. :)
+
+have fun cracking ^^"
+,dansko2,2013-03-20T00:33Z,is steam.api really infected or just a false positive? or it isn't infected at all?
+,bruno1988,2013-03-20T00:57Z,"This steam_api.dll is NOT a virus, you can exclude it in your anti-virus program."
+,rxanp,2013-03-20T01:32Z,"there is no virus here... This upload is absolutely clean...
+As for the update, it works perfectly fine, been playing for the last 3 hours... now all my expert level lockpicking isn't in vain and the dragonborn expansion has plenty of dungeons and caves...
+have fun people, and again... this is completely clean..."
+,ANIMOSITY74,2013-03-20T02:31Z,"well, I was reserved about downloading this due to the comments. then eset picked up the steam api file as a virus (but it did with an older one too - and the same named file on other games) so I tried it out in a sandbox. Works great. with SKSE and a bunch of mods depending on them being the right files... this is a good torrent, in fact the only one on TPB that i have seen by a trusted member."
+[M],Hero,2013-03-20T03:10Z,bobbythejobby: uploaders can't delete comments.
+,vokvok333,2013-03-20T04:42Z,any news on the 1.9.32.0. release??
+,bobbythejobby,2013-03-20T11:26Z,Thanks for confirming this Odjebitus and sorry m8 seems my comment was not deleted but it was not visible yesterday for some odd reason just installed this update and its working like a charm thank you 
+,crazyegg123,2013-03-20T12:18Z,Do i need previous update ? plz respond :
+,Karlston,2013-03-20T21:32Z,"@crazyegg123
+The updates are getting steadily larger. That's a good sign that each update is cumulative.  That is, each update also contains all previous updates, so no, you don't need to apply all previous updates, just the latest."
+,crazyegg123,2013-03-21T01:04Z,@Karlston thank you.
+,bhangs,2013-03-21T04:08Z,"MSE says
+
+The.Elder.Scrolls.V.Skyrim.Update.12-RELOADEDCracksteam_api.dll
+
+VirTool:Win32/Obfuscator.XZ
+
+install or not?"
+,coltraz,2013-03-21T05:19Z," I'm getting ""Please Update to the Latest Version of Skyrim"" every time I try to launch the game now. "
+,Ign0tus,2013-03-21T05:43Z,"I don't typically download torrents anymore because I'm paranoid of being monitored here in the US now.. However, I did download this update 12 elsewhere. The steam_api.dll that comes with this update is the same dll that I already had, modified 1/31/12, so I just used the one I already had and it worked fine. You can try that if you are paranoid about it being a virus.
+
+I too was/am getting ""update to the latest version of Skyrim"" every time I try to launch it. I suspect this is SKSE (script extender) that is causing it. UESP says that the 1.9.32 patch is a BETA patch on Steam. According to UESP, 1.9.29.0.8 was released to ALL users on March 18, so it is apparently the ""latest"" non beta version. However, the latest SKSE I downloaded says it supports 1.9.32. So either 1.9.32 is not in beta and UESP is wrong/not updated, or the SKSE people, stupidly imo, have SKSE set to detect 1.9.32 as the latest version even though it's still in beta. Some people don't want to run a beta patch. I downloaded the previous SKSE 1.06.11 from their page under ""archived builds"" and it launches fine. I'm going to look around to try to figure out if 1.9.32 is in fact beta or not. Regardless, I don't see 1.9.32 available in cracked form anywhere yet."
+,Ign0tus,2013-03-21T06:02Z,"Just read on Steam forum that 1.9.32 is a live patch, not beta anymore. It wasn't an official post, but it's probably right. So if you are using this update in this torrent, 1.9.29.0.8 then try using SKSE 1.06.11 from the SKSE archived builds. That worked for me. The latest SKSE is for the official 1.9.32 patch, which isn't available in cracked form yet afaik."
+,JustinJNB,2013-03-21T06:13Z,"@Ign0tus
+
+Why does the steam_api.dll detect as a virus?
+
+I downloaded it and everything works fine though."
+,poupipoupipou,2013-03-21T13:59Z,Can someone get access to the legendary difficulty? It's updated to the 1.9.29.08 but nothing else than master...
+,shinmarwan,2013-03-21T14:30Z,"@poupipoupipou
+
+there is legendary in both option diffeculty and skills"
+,poupipoupipou,2013-03-21T15:09Z,"mmm i must have done something wrong, the update is done but nothing new in the options, even without skse..."
+,DPerete,2013-03-21T15:13Z,"Need 1.9.32.0, any news about that??
+Can't use SKSE with this version."
+,DPerete,2013-03-21T15:16Z,"Actually the ""Archived builds"" of the SKSE has version ""1.06.11"", it works with Skyrim 1.9.29, this one. "
+,dullboy88,2013-03-21T15:58Z,anyone not able to select legendary difficulty just change it in the .ini file and it'll work when you load your game. if you dont know its in my documents/my games/skyrim/syrimpref.ini... this worked for me
+,dullboy88,2013-03-21T15:59Z,difficulty=5 in the gameplay section
+,poupipoupipou,2013-03-21T17:55Z,thanks for the tip dullboy
+,dansko2,2013-03-24T01:50Z,that tip didn't work for me :/
+,coco1993,2013-03-28T16:23Z,thanks Mr.Stifmeister.

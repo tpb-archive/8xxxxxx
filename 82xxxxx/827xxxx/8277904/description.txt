@@ -1,0 +1,88 @@
+murphy78 Presents Windows 8 AIO 9in1 UEFI NoFrills en-US
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.
+No Unattended Settings were added to the ISO.
+
+64-bit MSDN Sources:
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_n_x64_dvd_916091.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_x64_dvd_915440.iso
+
+Installation Indexes:
+Windows 8 (Core) 64-bit
+Windows 8 (Core) N 64-bit
+Windows 8 Pro 64-bit
+Windows 8 Pro N 64-bit
+Windows 8 Pro VL 64-bit
+Windows 8 Pro N VL 64-bit
+Windows 8 Pro with Media Center 64-bit
+Windows 8 Enterprise 64-bit
+Windows 8 Enterprise N 64-bit
+
+EI.CFG is set to Retail channel for support, but if you do not
+have a retail key, just press skip button. ProWMC upgrade key
+will not work during setup, you need to restore your activation
+that you previously saved after installing.
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, ProWMC flag, renaming, and export
+dism for mount and /set-edition on ProWMC
+oscdimg for ISO mastering
+
+Release File: Win8AIO-9in1-x64-UEFI-NoFrills-en-US.iso
+Size: 3.71GiB
+CRC32: 194FDC59
+MD5: 09836B5A1B3F55BACAEBFCFB9B267359
+SHA-1: 02E95B6507566BCDCECABD987DE57F3A33F7C15F
+
+I have not deleted the sxs folder as I normally do for people who
+want to add features offline such as netfx3 or hyper-v.
+
+This has no Drivers added, no KB files added, No Features added.
+This is a No Frills release so that people using UEFI to boot
+on a fat32 usb drive can install. My typical releases are so
+large because of all the KB files, that they need to be split
+to be under 4GB, which is the file-size limitation of fat32.
+Splitting large install.wim files causes problems with not being
+able to find licensing information. It only looks in the first
+split file.
+
+To get around this, you need all files to be under that size,
+including the install.wim. I have also added the UEFI boot
+sector to this iso, so you can burn it to a dvd and boot with
+EFI support. It may or may not work on a non-EFI system.
+I did not design it for a non-EFI system.
+
+To install using a fat32 flash drive in UEFI mode, first prep
+the drive using the instructions I have included in:
+UEFI Fat32 USB drive.txt
+
+Then you extract the iso to a directory and copy the contents
+to your USB drive. Do not copy the directory folder that you
+created to extract to. You should have setup.exe, bootmgr,
+and bootmgr.efi, etc in the root directory of your usb drive if
+you have copied the files correctly.
+
+You also need to prep your hard drive during setup if it is
+in MBR instead of GPT mode. Read the text file.
+
+The typical rules apply with regards to anti-virus excluding
+any activators and pre-screening any updates to make sure people
+don't complain about them breaking offline KMS activation.
+
+I personally recommend disabling auto-updates and just installing
+updates in manual mode using wuapp.exe. I also disable smart-screen
+filter, but that's just me. You can do whatever you want.
+
+I tested and verified this working on a fat32 usb drive install
+using UEFI bios settings and GPT conversions.
+
+Enjoy Pirates,
+murphy78-TPB

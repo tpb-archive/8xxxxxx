@@ -1,0 +1,63 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+Requirements: 4.0.3+
+
+DEscription:
+
+Based on XperiaΓäó Home 5.1.S.0.0 from Xperia Z.An advanced XperiaΓäó launcher with added functionality
+
+
+
+Original Features:
+- Arrange, add and remove home screens
+- Organize your apps in the App drawer by placing them in folders (only available when sorting method is "Own order")
+- Search for apps in the App drawer
+- Share apps on social networks
+
+
+Functionalities added:
+- Support for any resolution and any DPI setting
+- User selectable desktop and App drawer grid size (from 3x3 up to 12x12)
+- User assignable swipe, pinch and double tap gestures and button actions
+- Infinite scrolling
+- Hiding apps on the app drawer
+- Support for Go Launcher and Launcher Pro icon packs
+- Personalize individual shortcuts' icon and label
+- Backup & restore launcher settings
+- Adding shortcuts to launcher actions and to any activity
+- Others
+
+Changes from stock 5.1.S.0.0:
+- Installable as normal APK on any Android 4.0.3+ device / ROM
+- Maximum number of home screens increased from 7 to 11
+- The new Xperia Z dock background image also applied for HDPI and MDPI (besides XHDPI)
+- Removed shortcut for selecting Sony color theme (themes do not work on most devices, if your device supports it, you can change the theme in: Settings -&gt; Display -&gt; Theme)
+- App Drawer: The desktop scrolling effect also added to the app drawer
+- App Drawer: Removed the backplate image
+- Slightly decreased stiffness of the scrolling dynamics for the desktop / app drawer 
+
+Information:
+- Very limited customization features in comparison with Xperia Launcher 0.X.X and 1.X.X - to be changed!
+- Full functionality is available only if the app is installed as system app (push to /system/app at set respective permissions - requires root)! - to be changed!
+- If installed as normal app (no root needed), you'll be able to add only Xperia widgets to the desktop - to be changed!
+- The Xperia widgets compatible with Xperia Launcher 1.X.X are also compatible with 2.X.X
+- No support for custom DPI - to be changed!
+
+2.0.5 (Build: 2094) 13.Mar.2013
+- Fixed: Force Close after device reboot
+- Fixed: Random Force Close when the application is running in the background
+- Fixed: Posibility of Force Close on pinch in/out (HTC HD2, possibly other devices too)
+- Fixed: "Keep application in memory" not always switching from ON to OFF and vice versa
+- Added: An option to select color for the color filter for: ClockWidgets, MusicWidget and OnOffTools (Launcher Settings -&gt; APPEARANCE -&gt; XperiaΓäó Advanced Widgets Color Filter)
+- Changed: App drawer button image is changed for LDPI
+
+Link:
+
+If you have any other request then tell me here:   
+https://forum.suprbay.org/member.php?action=profile&uid=330582
+
+TPB URL:   
+https://thepiratebay.se/user/toorentz	

@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-17T05:59Z,"If anyone wants to install both Office 2013 and Office 2010, you need to use the KMS Server Service from MTK and the script in the link I have in the description for activation. AutoKMS and the default activate option in MTK does not support more than one Office install.
+
+It WILL activate more than one Office, but you have to call all the right activation commands. The script covers it."
+,apex2000,2013-03-17T06:30Z,Thanks murph
+,paul-_-scholes,2013-03-17T06:47Z,"First time downloading microsoft office, so I'm not exactly sure how this stuff works.
+First of all, why are there two versions of this torrent? (the 1.12 gb one, and the 900mb one)
+Which version is better? Or are they for different OS's? 
+Also, will this torrent work on Windows 8? Since its office 2013, I assume yes, but still, just making sure. Thanks."
+[V],murphy78,2013-03-17T08:01Z,"x86 versions are 32-bit, x64 versions are 64-bit.
+They will work with any versions of windows AFAIK.
+
+For x64 of course you need a 64-bit OS also."
+,osxp,2013-03-17T15:38Z,"Hi murph, congrats on ur green skull, you deserve it buddy :)"
+,piddyra,2013-03-17T20:01Z,Can I install a danish langauge pack to office 2013 and then it will just change from english to danish ? A used this method in office 2010 - english office version and then danish language pack on top.
+[V],murphy78,2013-03-18T04:07Z,"piddyra, I don't see why not. As long as you install it over the existing files I'm sure it will work just fine with activation and all.
+
+If you want to include the lang pack in the updates folder, you might hunt-around inside any updates and add the da-dk.msp files as well. Just be careful. Some updates contain older versions of msp files that newer updates fix. If you extract them all to the same directory and overwrite them all, you might have an outdated one that overwrote the newer one. I ran into this problem in Office 2010, but haven't had it in 2013 yet."
+,chris4smd,2013-03-18T08:15Z,Congrats on your Green Skull thoroughly deserved!! Keep up the good work and continue with your solid upls. Thanks once more..
+,LifeHunter,2013-03-18T10:56Z,"Thanks murphy!
+
+Could you please put both x86 and x64 Office into one AIO iso file? Just like you put Windows installations in single iso file..."
+[V],murphy78,2013-03-18T16:40Z,"Lifehunter, I could, but it would just force people to download a version they don't want. I have enough problems with leechers without making torrents so large that people seed even less."
+,paul-_-scholes,2013-03-18T18:28Z,"Now that I've downloaded the torrent, I really don't know how to proceed. I'm currently installing the setup from the .iso file, and I'll use the office toolkit to activate office after that. But apart from that, I have no clue what to do. The entire concept of MSP files, and the updates folder, has gone over my head. Perhaps you could explain to me, in simpler terms, what exactly that is? Thank you."
+[V],murphy78,2013-03-18T21:30Z,"The updates folder auto-installs any msp files placed inside it during office setup.
+
+When your setup is completed and you installed an activator and activated with mtk, you're done. Go have fun with Office, it should re-activate infinitely.
+
+You can add msp files to the updates folder if you know what you're doing, but it's not necessary to install. You can always install any patches you need to patch after installation."
+,johnny88k,2013-03-27T19:05Z,"Thanks for the torrent it works perfect but i have 2 questions: 
+Can i log in with my hotmail acount or there is any roblem?
+It works both for win7 and win8?"
+,joegi50,2013-03-28T18:03Z,"Many thanks to Murphy78 for his knowledge, expertise, and making our lives better."
+,Kims333,2013-03-30T01:09Z,"Thanks for all the great torrents. I need a bit of an assistance, how do I remove automatic windows reactivation when activating office? I have legal w8.
+
+''You can delete the line with SLMGR if you don't activate windows with this. It will just attempt to re-activate windows. This is not desirable unless you also need to activate your VL version of windows.''
+
+Could you please what exactly has to be done? Any help greatly appreciated."

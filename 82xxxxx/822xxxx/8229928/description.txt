@@ -1,0 +1,58 @@
+Description
+
+Point your phone towards the sky and see on the live camera screen where the satellites are, any line of sight (LoS) issues by trees or buildings and the look angles. Couldn't be easier to install your dish with this augmented reality satellite finder. As a professional installer said: "Invaluable, gets the job done in half the time"
+
+Works best on the iPhone 3GS and iPhone 4 since they have an internal compass. On the 3G and iPod Touch it works like an inclinometer - see the notes below.
+
+*****************
+See video here:
+or search "DishPointer Youtube"
+*****************
+
+BusinessWeek: "Best iPhone Augmented Reality Apps for Business - Tracking Satellites in Space - DishPointer AR Pro"
+
+Wall Street Journal: "An enterprise app"
+
+Tele-Satellite: "Award winning DishPointer App: It's never been this easy to check satellite reception"
+
+"As a broadcast professional, this app is unvaluable" UplynxSteve, Broadcaster
+
+"I have never had so much value out of a program. I dumped a BB Bold because I needed this app!" 1955jmgs, Professional V-Sat Installer
+
+"Revolutionary product, truly one if not the best app I have ever used for my line of work", Super Canadian, Professional Installer
+
+"Worth every Penny!..It worked just as it says", tnterrapin, DIY-Installer
+
+Features
+========
++ Augmented Reality, see the satellites on the display
++ Works world wide at any location with any satellite
++ Does not require cell signal or internet access
++ Select the satellites to be displayed from a list
++ Add or delete your own satellites to/from the list (PRO)
++ Displays satellite settings (azimuth, elevation, skew) and current magnetic as well as true heading for the screen center
++ Clarke Belt (satellite arc) is shown from east to west - all geostationary satellites are along this arc
++ When moving the iPhone laterally or vertically, the arc and the satellites move in real time with the live image
++ Ability to lock the compass, i.e. the arc won't move laterally anymore
++For 3G users, ability to enter a lateral reference point, such as a manual compass reading or an existing satellite position
++ Ability to enter location
+
+Why get the Pro version?
+==============
++ Add your own satellites to the list, update them whenever you want - complete independence when satellite positions change or new ones appear - no need to wait for an official update. For business critical missions a must.
++Be on the safe side for future updates and new features. Pro version always take priority over the standard version.
+
+Usage instructions
+=========
+3GS/4 users:
+1. Switch it on and tap AR View button
+2. In camera mode, look at the bottom label and rotate iPhone until it heads towards south (true heading = 180┬░). (People located on the southern hemisphere should point the iPhone north).
+3. Lift the iPhone and watch the satellites appear
+4. Move the device laterally and see the satellites moving too
+5. Compass is sensitive to interferences but and works best when device is held flat. You can lock the compass in that position and lift the iPhone up but don't move it laterally then.
+
+3G/iPod Touch users:
+1. As above but set the lateral reference mode first. The app needs to know in which direction you are pointing the iPhone. So either enter a manual compass bearing compensated for magnetic declination or a satellite position if you have already a working satellite or used DishPointer Maps for a reference Point.
+2. Lift the iPhone up and see the arc but don't move the iPhone laterally, as it won't get shifted.
+
+NOTE: The app does not require Cell or internet, works on its own.

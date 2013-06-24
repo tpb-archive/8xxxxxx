@@ -1,0 +1,61 @@
+SPORT: Six Nations Rugby Union - Wales v England
+On: BBC 1 HD
+Date: Saturday 16th March 2013 
+Time: 16:30 to 19:00 
+
+John Inverdale introduces live coverage from Cardiff as Wales take on old foes England on the final weekend of the 2013 Six Nations. England ended a three-game losing streak in Cardiff when they won on their last Six Nations visit to the Millennium Stadium two years ago, but Wales were the victors in last year's clash when they triumphed 19-12 at Twickenham on their way to sealing the Grand Slam. Things did not go quite so well for the Welsh in the rest of 2012, but nothing stokes their fire quite like a visit from England, and a full-blooded encounter can always be expected. Expert analysis comes from Sir Clive Woodward, Jeremy Guscott and Jonathan Davies, with commentary by Eddie Butler and Brian Moore.
+
+
+
+General
+Complete name: 2013.03.16.6N.Wales.v.England.720p.x264.mp4
+Format: MPEG-4
+Format profile: Base Media
+Codec ID: isom
+File size: 3.19 GiB
+Duration: 2h 8mn
+Overall bit rate mode: Variable
+Overall bit rate: 3 553 Kbps
+
+Video
+ID: 1
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: High@L4.1
+Format settings, CABAC: Yes
+Format settings, ReFrames: 4 frames
+Codec ID: avc1
+Codec ID/Info: Advanced Video Coding
+Duration: 2h 8mn
+Bit rate: 3 425 Kbps
+Maximum bit rate: 10.6 Mbps
+Width: 1 280 pixels
+Height: 720 pixels
+Display aspect ratio: 16:9
+Frame rate mode: Constant
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.149
+Stream size: 3.07 GiB (96%)
+Writing library: x264 core 130 r2273 b3065e6
+
+Audio
+ID: 2
+Format: AAC
+Format/Info: Advanced Audio Codec
+Format profile: LC
+Codec ID: 40
+Duration: 2h 8mn
+Bit rate mode: Variable
+Bit rate: 124 Kbps
+Maximum bit rate: 129 Kbps
+Channel(s): 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode: Lossy
+Delay relative to video: 80ms
+Stream size: 114 MiB (3%)
+Language: English

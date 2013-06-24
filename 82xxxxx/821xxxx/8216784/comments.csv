@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-04T00:25Z,AutoKMS is the pre-activated index. Use the other index if you have a different KMS activation solution in mind.
+[V],murphy78,2013-03-04T07:34Z,there's something called rmusbtool (something like that) that has a tool for windows 8 to go. They also have instructions on making it usable for EFI with diskpart instructions on their webpage. I think I found it by searching for windows 8 to go usb partitions or something
+,daspicer,2013-03-05T00:18Z,Awesome Murphy! Thanks!
+,Kevs1,2013-03-05T13:00Z,135 seeds and down load rate 1.2kb wast of time when seeders hit and run 
+[V],murphy78,2013-03-06T01:47Z,"Even more of a problem with OS releases. People always wanna try it out after they finish downloading.
+
+If you guys appreciate this stuff, please help seed something like 1.5 to 1. I only seed these for a day or two before moving on to integrate other things. I cannot integrate while seeding because it causes problems with hard drive errors rarely while using torrent clients.  I have experienced this in the past with iso creation and malformed indexes. I wish I could seed while integrating, but I just cannot."
+,daspicer,2013-03-06T05:28Z,Sad but true. Mine is showing X86 4 days and X64 8 days.
+[V],murphy78,2013-03-06T07:13Z,"I got a beast of an AIO coming. I spent all day making a 36in1. It's my 18in1 AIO except I have added x64 recovery mode, dropped DaRT8 to save space, ran Retail pre-activated indexes through a set-productkey pass, and AutoKMS'ed everything up.
+
+It's basically done, but I have to test it. I'll prolly up it tomorrow if my testing goes well. I'm not going to test every single index, but I'll test a few x86 and a few x64 ones at key dism-script points to make sure I haven't screwed anything up.  I've already eyeballed everything using gimagex info function to make sure the indexes have the required amount of files and directories, but nothing compares to an actual test.
+
+It was a beast of a project, but it should be a pretty damn good release.
+Hang tite for that guys... still gotta test."
+,daspicer,2013-03-06T12:10Z,Wow! More than I need. The x64 Enterprise and Office makes me a happy camper.
+,Cptn_Nemo,2013-03-06T15:56Z,"Hello there.
+I have been using your releases since i found them, and i like them very much, thank you very much for making them. 
+But since i switched to UEFI/GPT format, i cannot use these anymore.
+these uefi installs require a FAT32 formatted boot usb, and i cannot copy that huge install.wim over.
+Would it be possible to split that huge .wim into smaller .swm files for example by imageX or DISM or something? 
+Forever a fan,
+Steve"
+[V],murphy78,2013-03-07T01:05Z,"fat32 formatted wont fit x64 with ANY updates.
+It's possible to split the files, but it's better to just disable EFI or enable legacy support in bios."
+,Cptn_Nemo,2013-03-07T09:51Z,"Thanks. Ended up with an untouched+pico+manual install the rest.
+Probably could have done uefi from booting to PE enviroment for install, or placing the installer to an uefi flash, and the wim onto an ntfs partition and modify the installer to pull the file from there. But i am retarded, would have taken sooo much time for me to learn these.
+But not all of my devides are uefi capable, so i will still grab your releases, since these are the best ones around for ""normal"" installs
+Thank you for making them :)"
+,vikrant47,2013-03-08T13:16Z,"can anyone tell the difference between RETAIL, VOLUME, SELECT, ENTERPRISE, AND PROFESSIONAL EDITIONS. 
+i have ""Office Select Edition 2013 15.0.4420.1017 VL"" . 
+which edition is the best??"
+,Lowe9,2013-03-09T01:53Z,"
+Depends what U need
+
+http://en.wikipedia.org/wiki/Microsoft_Office_2013"
+,daspicer,2013-03-11T05:09Z,"I installed this yesterday and it works like a charm.
+
+I first installed it (3 times) without AutoKMS, my network card was inoperative, and I couldn't get a driver to load. With AutoKMS (4th install) everything was perfect.
+
+Thanks Murphy!"
+[V],murphy78,2013-03-11T13:01Z,"yw guys.
+
+On the office question, VL versions are the only activation methods you can activate without purchasing. So beyond that, just pick a VL version that suits your needs. If you don't want all of the programs in proplus, get a different vl version."
+,ikapman,2013-03-12T15:22Z,"Thank you so much  murphy78,  keep up the good work."
+,pankaj.kr,2013-03-13T14:09Z,hey murphy.. can u please tell me the exact date when will u upload windows 7 updated till march including IE10 final..i have to format my pc but m waiting for ur upload..thanks..
+,TaeWong,2013-04-05T05:10Z,"No censorship on the s-word: It is on A/V program shitlists because it's such a successful, fast, activator. Do not move the program out of the Windows_AutoKMS directory or your Defender will quarantine it. Although it is a false positive in A/V programs, you will need to exclude it in any extra A/V programs that you add to your system. (The comment system allows vulgarity!)"

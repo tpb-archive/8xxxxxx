@@ -1,0 +1,28 @@
+Unofficial The Sims 3 BlackBox update's
+
+DO NOT USE THIS UPDATE UNLESS YOU ARE FAMILIAR AND CONFIDENT ABOUT EDITING AND USING .REG FILES. ALL UPDATES ARE REQUIRED FOR THE GAME TO FUNCTION PROPERLY. USE THESE UPDATES AND .REG FILES AT YOUR OWN RISK.
+
+THOSE WHO HAVE NOT READ THIS WILL NOT RECEIVE A REPLY.
+
+INSTALLATION INSTRUCTIONS:
+
+I: Install the original BlackBox version of The Sims 3
+II: Download and install my previous update.
+III: Install and edit the .reg files, the same way as before.
+
+Previous update:
+ 
+http://thepiratebay.se/torrent/8107421/T...f_Update_I 
+
+Video Tutorial on .reg editing: 
+http://thepiratebay.se/torrent/8125597
+
+
+
+.reg paths to be edited:
+
+"ExePath"="H:\Installed Games\The Sims 3\The Sims 3 University Life\Game\Bin\TS3EP09.exe"
+"Install Dir"="H:\Installed Games\The Sims 3\The Sims 3 University Life"
+
+"ConfigApplicationPath"="H:\Installed Games\The Sims 3\The Sims 3 University Life"
+"ConfigGDFBinaryPath"="H:\Installed Games\The Sims 3\The Sims 3 University Life\Game\Bin\Sims3EP09GDF.dll"

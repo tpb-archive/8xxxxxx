@@ -1,0 +1,58 @@
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 346 MiB
+Duration                         : 1h 30mn
+Overall bit rate                 : 537 Kbps
+Encoded date                     : UTC 2013-03-01 08:01:12
+Tagged date                      : UTC 2013-03-01 08:01:12
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 30mn
+Bit rate mode                    : Variable
+Bit rate                         : 409 Kbps
+Width                            : 720 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 2.000
+Frame rate mode                  : Variable
+Frame rate                       : 30.000 fps
+Minimum frame rate               : 30.000 fps
+Maximum frame rate               : 30.030 fps
+Standard                         : NTSC
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.053
+Stream size                      : 264 MiB (76%)
+Language                         : English
+Encoded date                     : UTC 2013-03-01 08:01:16
+Tagged date                      : UTC 2013-03-01 08:01:16
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 1h 30mn
+Bit rate mode                    : Variable
+Bit rate                         : 126 Kbps
+Maximum bit rate                 : 334 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Stream size                      : 81.0 MiB (23%)
+Language                         : English
+Encoded date                     : UTC 2013-03-01 08:01:16
+Tagged date                      : UTC 2013-03-01 08:01:16
+

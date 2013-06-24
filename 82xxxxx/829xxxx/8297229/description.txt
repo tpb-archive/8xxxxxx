@@ -1,0 +1,124 @@
+
+                                                               ANSi JED
+
+
+            In Their 26th Year Of Glory, FairLight Released #1078
+
+          StarCraft II:Heart of the Swarm (c) Blizzard Entertainment
+
+:   Supplied by: FAIRLIGHT            : : Release Date: 23-03-2013           :
+    Cracked by:  FAIRLIGHT                Game Type:    Strategy
+    Packaged by: FAIRLIGHT                Image Format: ISO
+               -----
+    DISCS: 1 DVD                          Protection: Battle.net
+
+    System Requirements : Zerglings
+
+
+ Game information:
+ =================
+
+ You are Sarah Kerrigan, former Queen  of  Blades.  Once  the  most  feared
+ entity in the galaxy,  you  now  wait  in  a  cell  in  the  depths  of  a
+ high-security research laboratory. Before  the  murderous  forces  of  the
+ Terran Dominion close in, you must plot your escape to the dark reaches of
+ space... and reclaim your  living  empire  at  the  Heart  of  the  Swarm.
+
+
+ Features:
+ =========
+ * Command New Weapons of War
+   Deploy devastating new units across an ever-shifting battlefield.
+   Incinerate advancing foes with the Hellbat, seize air superiority with
+   the Tempest, engulf entrenched enemies with the Swarm Host, and much
+   more.
+ * Unleash Hell
+   Lead Sarah Kerrigan as she embarks on a path of furious vengeance.
+   Evolve your brood for maximum devastation, unlock latent psionic powers,
+   and swarm from planet to planet aboard your moon-sized zerg Leviathan.
+
+
+ Installation Information:
+ =========================
+
+ INFO: This is a standalone release giving access to both Wings of  Liberty
+ as well as Heart of the Swarm
+
+ DISCLAIMER: Since parts of this  solution  requires  online  activity  and
+ updating the game we can't promise  that  this  solution  will  work  with
+ future updates.
+
+
+ HOW TO INSTALL
+
+ 1) Unrar, burn or mount ISO
+ 2) Install the game while online, when  asked  to  Activate  select  "I've
+ Already Activated"
+
+
+ HOW TO TO PLAY OFFLINE
+
+ Run Fairlightflt-sc2hots.exe on the DVD, it must run with  administrator
+ priviledges. (you may need to temporarily disable any anti-virus  software
+ or similar you have)
+
+
+ STEP 1: UPDATE STARCRAFT 2 TO LATEST VERSION
+
+ This step you must execute manually.
+
+ Let the game update to latest version (2.0.6.25180 at the time of  writing
+ this)
+
+ Once game is fully updated (you will see the message 'Game is up to date')
+ you  must  press  'Play'  and  enter  the  game  once  to   complete   the
+ installation, if you forget to do this you WONT be able  to  play  offline
+ afterwards. You dont need to do anything once inside,  just  look  at  the
+ impressive Battle.net login prompt  and  then  exit  by  pressing  Escape.
+
+
+ STEP 2: BLOCK SC2.EXE IN WINDOWS FIREWALL
+
+ We assume you are using Windows Firewall as your firewall  and  of  course
+ also that it is Enabled.
+
+ Hit the Step2-button and the tool will block  'SC2.exe'  in  your  Windows
+ Firewall.
+
+
+ STEP 3: COPY FILES
+
+ Hit the Step3-button and wait for a little while,  this  will  deploy  the
+ battle.net cache files.
+
+
+ STEP 4: GENERATE LICENSE
+
+ Hit the Step4-button and your license is generated  and  deployed  to  the
+ windows registry.
+
+
+ STEP 5: PLAY!
+
+ Hit the Step5-button and the tool will launch StarCraft 2  and  then  shut
+ itself down.
+
+ When you see the 'Connecting  to  streaming  server...'  dialog  just  hit
+ 'Cancel',    this    happens    because    of    the    firewall    block.
+
+ Once inside enter 'flt@trash-mail.com' as your BATTLE.NET ACCOUNT NAME and
+ hit 'CONNECT'.
+
+ The connection will fail but you will be offered to 'PLAY OFFLINE'.
+
+ NOTE:
+ Once you have everything running you  should  consider  making  a  desktop
+ shortcut directtly to SupportSC2Switcher.exe, this seems to  bypass  the
+ Blizzard Launcher and should keep  you  safe  from  potential  fun-ruining
+ future updates.
+
+                                                             /TEAM FAiRLIGHT
+
+
+                    +-+  QUALITY, TRADITION  AND PRIDE +-+
+[/pre]

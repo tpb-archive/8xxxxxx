@@ -1,0 +1,28 @@
+Delve into the world of Amazon Web Services (AWS) with trainer Jeremy Cioara. If youre trying to establish a cloud presence, AWS offers a cost-effective, scalable infrastructure. Jeremy covers what AWS is, how it works, and how you (and your organization) can get started using it.
+
+This series is full of cool technology, but the biggest way-cool factor is the complete shift in the way we think about and handle Information Technology! With AWS, you no longer have to build your own world-wide IT enterprise solution to deliver amazing cloud-based services.
+
+Jeremy walks you through how to sign up for an AWS account, create and use instances, Virtual Private Cloud (VPC), Simple Storage Service (S3), and more. Youll also see a real-life case study on a company called CBT Nuggets that migrated its services to AWS.
+
+Find out how easy it is to use AWS, and how to make the powerful features of AWS work for you.
+
+Course Outline
+
+Amazon Web Services: AWS Foundations  Getting the Most from this Series
+AWS Foundations: How to Build a Cloud Presence
+AWS Foundations: Getting Started with AWS
+EC2: Creating an EC2 Instance AMI Selection
+EC2: Creating an EC2 Instance Pricing
+EC2: Creating an EC2 Instance  Instance Types
+EC2: Creating an EC2 Instance Tags and Key Pairs
+EC2: Creating an EC2 Instance  Security Groups
+EC2: Creating an EC2 Instance  Elastic IPs and ELB
+VPC: Its MY Cloud Now! Understanding AWS Network Management
+VPC: Its MY Cloud Now! Understanding AWS Network Management, Part 2
+VPC: Its MY Cloud Now! Understanding AWS Network Management, Part 3
+S3 Foundations: Getting Started with S3
+S3 Foundations: Working with S3 Storage
+Route 53: DNS Management Made Easy
+IAM: Creating and Managing User Access
+AWS Case Study: CBT Nuggets Move to the Cloud
+AWS: Series Wrap-up

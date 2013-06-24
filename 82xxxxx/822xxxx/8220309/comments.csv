@@ -1,0 +1,71 @@
+﻿User Type,Username,Date,Text
+,Zel-EX,2013-03-09T08:25Z,"Sounds promising. Downloading now!
+
+I have the Razor1911 version of Skyrim. How will I install the DLC? I haven't updated it, installed mods, or anything; It's a fresh, clean copy of Skyrim. I'm new to PC gaming, so forgive (and please, assist) my ignorance."
+,Rift81,2013-03-09T21:43Z,"the instructions are in the description. there is no real istalling, just put them in your skyrim/data folder and make sure they are checked in the data files list from the skyrim launcher"
+,Zel-EX,2013-03-10T18:48Z,Works perfectly! Thank you!
+,Velheru,2013-03-11T22:24Z,"Simple to use, works perfectly. Thanks Rift81"
+,lazyvista,2013-03-13T03:33Z,Does this include the patches or do we need to download those on our own?
+,Velheru,2013-03-13T07:44Z,"You need to sort out the patches out yourself.
+This is just for the 3 upgrades."
+,Bordeath,2013-03-13T15:13Z,"Thank you man!! Works awesome!! Easy to use, good upload."
+,jamesgriffin,2013-04-06T16:59Z,i have the razor1911 skyrim too but when I put the files into The elder scrolls V: skyrim/data folder and then check them in the data files pages at the launcher it crashes the game. i can get it to go to the bethesta start up but after that it cashes before i get to the menu. help please?
+,Rift81,2013-04-06T21:13Z,"to be honest james, that sounds like there is a problem with your load order.  make sure all the dlc from this is at the top of your load order (right under the skyrim one).  then if you have any unoffical patches, load those next.  
+
+do you still get the crashes if you unselect the 3 dlc from this file?"
+,dave66616,2013-04-07T01:38Z,"i have the same crashing problem as @jamesgriffin, and it works fine with the dlc unchecked, but when  I check the dlc, even one at a time , my launcher crashes on the main menu."
+,Rift81,2013-04-07T09:51Z,"That is very interesting to hear. I'm not really sure what to say that i havent already said.  there is nothing in this torrent that should cause problems. they are the exact same files you would get if you bought them on steam, there is no installing or key verification or anything of the sort.
+
+ are you SURE they are being loaded at the top of the load order? right under skyrim.esm and update.esm?
+
+the only other thing i can think of is it might have something to do with the 1.9 patch. but i'm not sure why that would cause problems.
+
+i'm interested to hear if anybody else is having problems with the files.  9 out of 10 times the game crashes when you start it up is due to loadorder errors. that has been true throughout bethesda's history  with elder scrolls and fallout games.
+
+have you tried downloading the DLC from other sources to see if that would change anything?"
+,fanman93,2013-04-12T02:00Z,"Okay, boys, here's why your game is crashing all the time:
+
+Most of the DLC was written to REQUIRE the patches on Steam or otherwise. So if you don't have a MINIMUM of Skyrim 1.8.x, the game will NOT start (at least if you get the Dragonborn DLC.)
+
+So, what's the solution for the pirated copy? There's a torrent with the 1.8 update (the update only, actually) out there that I highly suggest you download. Or, if you have the Steam version, this should work without any problems.
+
+So please, ALWAYS read the requirements for DLC. Then you won't have any problems!"
+,Rift81,2013-04-13T06:14Z,ok that is my mistake.. i did forget to mention/include the 1.8 patch. very very sorry about that!
+,Mongorth,2013-04-25T04:16Z,"i have razor1911 too, files already on skyrim data folder, but i cant select data files in the launcher, i already tried this
+
+- You need to add that line in SkyrimPrefs.ini located in My document/MyGames/Skyrim
+
+Look for the line:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+
+And add it like this:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+
+
+but when i cant save it, it tells me that the file is just for reading, any idea? "
+,dollmasterX,2013-04-29T22:11Z,"If I use update 13 RELOADED, will these DLCs work flawlessly?"
+,marzipan13,2013-05-27T08:57Z,"Works, but
+- You need to add that line in SkyrimPrefs.ini located in My document/MyGames/Skyrim
+
+Look for the line:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+
+And add it like this:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+
+Again, ITS IN DOCUMENTS/MY GAMES/SKYRIM
+-------------------------------------------------------
+NOT the one in Program Files/The Elder Scrolls V Skyrim/Skyrim
+
+They are two different files! XD
+Took me a while to figure that one out."

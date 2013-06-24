@@ -1,0 +1,31 @@
+
+Description:-
+
+Complete protection for everything you do! With AVG Internet Security, our most advanced protection, you get a worry-free online experience every time. This award-winning product gives you unbeatable Internet security by protecting against viruses, spyware, hackers, spam and malicious websites. AVG Internet Security is a reliable and easy-to-use solution for home and small office users which is trusted by millions of users worldwide. AVG Internet SecurityΓÇÖs multiple layers of protection mean you donΓÇÖt have to worry about identity theft, spam or viruses. And itΓÇÖll even prevent you from accidentally visiting harmful sites. ItΓÇÖs faster, smarter security that wonΓÇÖt slow your computer down. With AVG Internet Security you also have access for the first time to AVG Identity Theft Recovery Unit that will help you get your life back in order if you ever become a victim of identity theft ΓÇô online or offline. Unique Internet security thanks to new technology ΓÇô Only AVG gives you real-time protection against malicious websites thanks to our new LinkScanner technology.
+
+
+New features in version 2013:-
+
+    -Improved scanning using enhanced scanning algorithms for faster scanning.
+    -Improved compatibility with a detected 3rd party Firewall.
+    -Refined threshold for browser memory consumption.
+    -Boot accelerator optimizes time needed for boot up.
+    -Fresh and new user interface for easier navigation and better user experience.
+    -AVG 2013 is fully compatible with Windows 8.
+    
+
+ FIXES & IMPROVEMENTS:-
+
+    -Anti-Rootkit: Improved reporting of corrupted sections.
+    -Anti-Spam: Improved configuration of all Anti-Spam components.
+    -DNT: Fixed crash in urlmon.dll in Windows 8.
+    -General: Alert Manager component has been removed.
+    -General: Update selection dialog has been removed.
+    -General: System Tools component has been removed.
+    -Outlook Addin: Fixed possible freeze and compatibility issue with Kerio       Outlook Connector.
+    -Safe Surf: Fixed issue with upload speed while Safe Surf is running.
+    -Safe Surf: Fixed issue with occasional crash when analyzing *.swf content.
+    -Scheduler: Only one scheduled scan can be running at the same time.
+    -Setup: Driver installation logging has been extended to provide enhanced information.
+    -Setup: Search Shield component will not be installed by default, but only after having been selected for installation.
+    -Update: Fixed problem with rollback of failed update.

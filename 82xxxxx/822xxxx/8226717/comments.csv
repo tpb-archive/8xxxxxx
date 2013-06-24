@@ -1,0 +1,116 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-07T01:18Z,"Twas an crazy amount of integration on this one. I tested and retooled the boot options, x64 setup files, and all of the indexes over and over until everything tested flawlessly.  I only tested 9 AutoKMS indexes and used ProWMC for my own personal one, but I went the info parse in gimagex and made sure they all had the correct amount of folders and files.  All should be well."
+,narcarsiss,2013-03-07T01:21Z,"Congrads to the uploader for a fine torrent but one ISSUE!
+
+I have my own CD Key and now most likley i can not download this without pulling it apart to remove the activator :/ Can you confirm."
+,TheEmpathicEar,2013-03-07T04:21Z,Do you have to use the activator built into this?
+[V],murphy78,2013-03-07T05:20Z,"Negative, you can use the ones that are not labeled AutoKMS or R-AutoKMS. The ones where not specified run a setupcomplete without the activator or the activation task. It's the reason I have 2 indexes for each."
+,Sonic_27,2013-03-07T05:39Z,"Thanks for your AWESOME work, your da man!!"
+,Sonic_27,2013-03-07T06:24Z,"Took about 4 hours to get, not to bad...Thanks again murphy78 for your hard perfect work! Will seed for awhile. PEACE OUT =)"
+,russianhornybear,2013-03-07T10:55Z,"Thanks for your work but for most of users will be enough Enterprise edition with all updates plus DART :)
+Can you make 1?"
+[V],murphy78,2013-03-07T12:27Z,"I definitely could, but I'll probably wait till after patch day next Tuesday."
+,katone,2013-03-07T12:27Z,I just registered so I can comment and say thanks murphy78 for your hard work and sharing. I have been a member of MDL for a while now and have followed some of the great talent thats involved. Well done and keep up the great work! You have a lot of fans out there :)
+,asakusa,2013-03-07T14:51Z,"murphy this Windows 8 Pro with Media Center 32-bit R-AutoKMS is enabled/activate with nanokms? But I thought pro windows with windows media center, it was impossible to activate by kms, sorry my english, thank you."
+,pikgadget,2013-03-07T19:10Z,Thank you Murphy78...you're the best...
+[V],murphy78,2013-03-08T00:07Z,"well prowmc actually has a gvlk key, so although it is not supposed to activate, it still can. It does it for only 30 days at a time because it's not supposed to, but it still works."
+,karty,2013-03-08T05:05Z,"First of all, thank you murphy for your hard work.
+
+As you said in your previous comments, that you'll wait for next patch day; from this I'd like to know, is there any schedule from M$ for patches?
+i.e: once in two months on every Tuesday, like that?"
+,livingindoubt,2013-03-08T07:54Z,"I just have to say that I love your AIO releases. They save me so much time when re-installing Windows onto customer machines. Keep doing what you're doing. :)
+
+Also, if you ever need help to speed up the testing process and take some of the load off you, let me know. I would be more than happy to help. I'll check back here in the next few days to see if you've responded."
+[V],murphy78,2013-03-08T10:02Z,"karty, ms releases security patches on the second tuesday of every month."
+[V],RoffeTheCoolMan,2013-03-08T15:29Z,"Hej
+
+Kan någon fixa Emigranten populär 2006 och Emibas 2005??
+
+Båda två är släktforskningprogram!!
+
+Tack på förhand Roffe"
+,einzelhaft,2013-03-08T21:42Z,"The force is strong with this one... ;)
+gratitude!"
+[V],murphy78,2013-03-08T23:06Z,"Roffe, if that software does not work on windows 8, you are asking in the wrong area. Try going to their website and looking on their forum and see if someone lists something about windows 8.
+
+My only suggestion would be to run as administrator the install program."
+,boiazul25,2013-03-08T23:51Z,"thanks murphy78, one the best uploaders on the piratebay congratulations!"
+,yeldandia,2013-03-09T03:17Z,"Thanks murphy78, i'm a noob and looking for instructions on how to install ... can you please help!"
+[V],murphy78,2013-03-09T08:35Z,"If you are trying to do a clean install from boot, just press the boot options key for your system during boot. For most laptops its usually f2 or esc, for most desktops its usally del, f12, or esc.
+
+Change boot order so either your dvd drive or usb drive boots first. Run setup through first round till it reboots, then set it back to your hard drive to boot first. After that it's self-explanatory. 
+
+For upgrade, you just either burn to a dvd, extract to a directory, or run the usb tool. Then navigate to the root directory and run either setup for 32-bit or setup64 for 64-bit.
+
+Remember that you use this stuff at your own risk. If you ruin an OEM activation on your laptop or something by using a different OS, it's on you."
+,murphy82,2013-03-09T09:34Z,"Hello, murphy78. I have been enjoying your torrents as of yet but I am pretty confused with this one. For starters, why would I want to download every single version of windows 8 available when there are individual torrents out there? And why would I need both 32 and 64 bit operating systems when the pc can only run a single operating system at a time?Do you mean to say that there are 36 different operating systems inside the iso you have provided and I get to choose what I want to install?Or is it a heavily modified operating system containing all the features of every single version of windows 8?And, my last question would be does it include wmc?"
+[V],murphy78,2013-03-09T14:37Z,read the installation indexes.
+,leo347,2013-03-10T01:50Z,"@murphy78: um, pardon my silly question, but will I be able to use Windows Update after installing this copy of Windows?
+
+I'm a bit inexperience with this stuff.
+
+Thank you in advance."
+,murphy82,2013-03-11T01:48Z,"the windows key management service (kms) should only be used as last resort by users.the phone activation method is still the best for permanent activation,all you need to do is some searching in forums and other torrents for working serials.i personally activated pro wmc frm this torrent using phone activation and removed the autokms which was detected as a trojan by my av.even if you are having a vl only os like enterprise,i suggest you look for a mak key rather than kms software.thats how i activated my office 2013.heldigards kms nano and pico, codyqx4's ms toolkit and the likes of it in mdl only gives you a mere 180 days.then,to make it permanent,it kerps running everytime you log on ,thereby lengthening boot time.no prob with phone activation or mak keys though"
+[V],murphy78,2013-03-11T03:48Z,"murphy82, if you are lucky enough to work out a permanent solution yourself; by all means use it. Noone is making you use an offline KMS activator.
+
+For 99 out of 100 people, they cannot get a pro wmc phone method working. And if they do it too much, MS will block the keys; so it's NOT a solution. It's a temporary fix. Offline activators are the only solution that will work no matter what Microsoft does.
+
+If you don't like it, don't use it; but don't come in here and crap on something you clearly don't understand the need for."
+[V],murphy78,2013-03-11T03:51Z,"leo347, just use it at your discretion. I personally wouldn't recommend using automatic updates because MS can sneak in a callback fix to block localhost activation methods.
+
+That being said, there are none that I'm aware of at this time. So just pre-screen kb fixes you download and make sure they don't say ""genuine"" or ""validate"" in them. If they don't mention anything like that, I'm sure they are fine to download."
+,murphy82,2013-03-11T07:15Z,"@murphy78
+fine,I get your point,no need to get pissed off about that
+Im just sharing my experience wit others so that people will realise there is an alternative to the kms activation method which you have been advocating
+Having said that,I do acknowledge the fact that few will be able to get their hands on permanent activation serials as microsoft is constantly blocking them.however,there are some very helpful peeps out there who have been constantly updating their serials as they get blocked.thats why I have been recommending phone activation over kms.I too had been using kmspico for both win 8 and office until vry recently when I finally got hold of some working serials.for those unable to find working serials,,the obvious method of activation would be kms.there are some fine activators out there that would do the job for 180 days,like kmspico(which I havent uninstalled just in case anything goes wrong with my existing permanent activation).tq qnd gud luck to all pirates.
+murphy 82@tpb"
+[V],murphy78,2013-03-11T12:58Z,"Yes, I went on a binge a few months ago releasing all sorts of prowmc stuff. I even made a fix for the dec10 non-genuine thing. I then made new versions with instructions on how to do the data.dat swaps.
+
+The serials are neat if you can get them, but they will all be blocked in time. When you are at the mercy of MS to activate your system, they can do whatever they want. That's why offline activation is useful. Not everyone wants to hunt around the entire internet for serials and instructions just to save 2 seconds on boot time.
+
+I've actually worked out integration stuff for CODYQX4's server service, so I'll roll those out tomorrow for patch date. That will reduce the activation time from a couple seconds to almost nothing because it doesn't have the .NET overhead.  It has the benefit of using random epids for future genuine checks. That's been a problem in win7; but it hasn't hit win8 yet.
+
+If you guys wanna convert these AutoKMS versions to random epids, I suggest running mstoolkit 241 and fiddling with the kms settings. It's not necessary at all, but you can do it."
+,neilzzz01,2013-03-12T00:25Z,"DownLoading^^
+The Best Windows 8 AIO
+Thanks Buddy."
+,Sonic_27,2013-03-12T22:19Z,"Can you make a new Windows 8 with the nine new updates in them, maybe just pro and media center not 36 in 1.......Thanks!"
+[V],murphy78,2013-03-13T01:58Z,"sonic this was likely my only win8aio with all pre-activated indexes. I am testing my win8pro right now for the mar patch date with the KMS Server Service.
+
+You'll all be activating the WORLD soon!*
+*Optional. Firewall setting not enabled by default."
+,Sonic_27,2013-03-13T03:30Z,"Cool, one activated and one not would be good like your other torrents. 36IN1 is to much. Pro and media center would be fine or whatever you think. Just make sure it's ENGLISH, x64-x86! Can't wait for you to upload it with new updates. ""YOUR THE BEST""!! Thanks =)"
+,pankaj.kr,2013-03-13T14:10Z,hey murphy.. can u please tell me the exact date when will u upload windows 7 updated till march including IE10 final..i have to format my pc but m waiting for ur upload..thanks....
+,mail3dexter1,2013-03-18T08:04Z,"dude murphy78, Why is your AutoKMS infected with trojan? You could have clean KMSNano...??
+
+http://i.imgur.com/z0kL8bk.png"
+,ShinkirouZero,2013-03-19T06:56Z,"my.. its Okay......
+just include the auto kms in your excluded files on your antivirus...."
+,ShinkirouZero,2013-03-19T08:39Z,SEED PLEASE!!!!!!!!! PLEASE!!!!!
+,ShinkirouZero,2013-03-19T12:57Z,WHAT THE HELLL!!!!!!!!!!!!!! PLEASE SEEEEED PLEASE!!!!
+,eblek41,2013-03-20T16:19Z,"murphy82 is a fucking idiot.this is very handy bcoz u will not need a lot of cd's just to install every version of windows 8.u will just need one.for example u hav 2 computers one is 32bit and one is 64 bit,ur asking why do u need an all in one installer?den if u dont want an all in one installer,u will a need a cd for 32bit and another 1 for 64.dats too much of a hassle,dis torrent says u can choose on any version on this,depends on the version u need.it doesnt say all the features of every version of windows 8is combined to one."
+,eblek41,2013-03-20T16:31Z,of course he's a green skull
+,ShinkirouZero,2013-03-22T08:09Z,WTH SEED!! please
+,Meraklija1992,2013-03-22T10:56Z,"Yo murphy78, im pretty much a noob when it comes to these things, but i rly want to try out win8. So, can u pls tell me one thing. Will it activate automatically right after i install it or..? tnx"
+,Meraklija1992,2013-03-22T10:58Z,And can you tell me what 36in1 means?
+,FlankerB1,2013-03-22T11:34Z,"I've tried the usual method i use to transfer this to usb (making it bootable) using ultraiso (bootable>write disk image>format as ntfs>write)
+but it still ends up as fat32 and only 4000 MB of data on my flash drive.
+WTF!!!"
+,FlankerB1,2013-03-22T13:27Z,"Solved that issue, but I have another question. How can autokms activate pro +wmc version when that version of windows can't be activated via KMS at all (at leas that's what I read on a lot of forums?"
+,ShinkirouZero,2013-03-25T05:08Z,Hey Seed please... !!!!!!!!!!! damn too big file for my slow internet
+,BrdjaniN,2013-03-29T02:34Z,"I've constantly got this message when i try to instal any version of this windows - ""Windows cannot find the Microsoft Software License Terms. Make sure the installation sources are valid and restart the installation."" Some help ?"
+,FlankerB1,2013-03-30T11:33Z,"@BrdjaniN
+Are you trying to do a clean install or you're trying to do an update from existing windows?"
+,BrdjaniN,2013-03-30T14:50Z,@FlankerB1 Clean install... i tried to boot from usb flash and than when its starts with instalation of windows 8 after chosing any of given versions of windows message apears...
+,jeet2k,2013-04-04T13:23Z,"Murphy78, this is an excellent torrent and really helpful. Thanks so very much for making this. I also use your Windows 7 SP1 AIO.
+
+Is there any way you can combine the Windows 7 AIO and Windows 8 AIO into one? It would help me to have a single DVD / USB drive from where I can install any of these editions. "
+,FlankerB1,2013-04-11T23:22Z,"@jeet2k, have you tried an app called sardu. It can be used to make a single usb flashdrive with several versions of linux, windows (xp, vista, 7 and 8), aven winpe versions of windpws xp and 7. The only problem is this iso image is buggy, when ever I tried to use any other program to transfer it to usb, it transfers only half of it (about 4G), only the app that came in this torrent with this iso was able to transfer this 36in1 to usb fully.
+
+PS: I'll try to fix the iso and then use sardu and I'll post instructions later."
+,FlankerB1,2013-04-11T23:26Z,"Sorry for double posting
+
+@homehlg
+Have you noticed that it says it'll expire in 30 days every day. AutoKMS ativates every day. If you intend to use some other antivirus/antimalware you need to add c:windowsautokms folder or autokms.exe file in that folder to your antivirus exceptions list."
+,jayvon,2013-05-10T01:26Z,Hey murphy78 I'm about to install Windows 8 via virtual drive I see the setup and the setupx64 but wheres all of the Windows 8 versions you listed the description? When I hit the setup will I install all those versions of Windows 8? You didn't really give any kind of proper explanation. So can you please elaborate? And also I'm doing an upgrade installation. 
+,jayvon,2013-05-11T18:24Z,"Never mind my previous comment, I have installed the Auto KMS version of windows 8 pro and some of my windows updates won't install it seems that they're blocked. Is this due to the KMS service? "

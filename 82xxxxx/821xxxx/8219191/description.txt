@@ -1,0 +1,37 @@
+Latest XSplit Version, It is still in beta. Im using it and got now problems yet, running just fine.
+
+1- Install 
+2- Copy XSplit.Core.exe and MakaHost.dll into XSplit folder.
+3- Profit!
+
+Updates since 1.2 (Core: 1.2.1301.2501) Released January 25 2013
+
+Improvement: Experimental option for enhanced video renderer
+Improvement: Avermedia Live Gamer Portable device support
+Improvement: 540 P included standard resolution options for new users
+
+Fixed:  Major performance bug causes extra CPU usage
+Fixed: Enhanced resize property for sources does not get saved
+Fixed: Several reported malfunctions with Hotkeys (XSPLIT-146/79/69/68/74) 
+
+Fixed: Read protected memory on D3Ds capture initialization (rare issue on some systems)
+Fixed: Flash/SWF source jitters when chroma key is applied
+Fixed: Show video position in stream does not show on video stream
+Fixed :Local streaming plugin sets vbv-buffer wrong (Ref: XSPLIT-151) 
+Fixed: An exception may popup when XSplit loads with a very old broadcast plugin (Ref:XSPLIT-148)
+Fixed: Dailymotion category dropdown is mislabeled as 'Channel' (Ref:XSPLIT-145)
+Fixed: Unable to "Add Camera" when OS display language is set to "Turkish" (Ref: XSPLIT-125)
+Fixed: Flash/SWF sources do not respond to arrow hotkey key events (Ref: XSPLIT-123
+Fixed: Missing Ustream sign-up link (Ref: XSPLIT-113)
+Fixed: Hover tip of title bar freezes the title bar stats update (Ref: XSPLIT-91)
+Fixed: Installer may produce permission prompt on new logins after install (Ref: XSPLIT-90)
+Fixed: Unescaped "What U Hear" audio device name produces an XML exception for recordings
+Fixed: Inner Exception in Limelight Plugin (XSPLIT-80)
+Fixed: CustomRTMP Channel Properties Description is not saved (XSPLIT-78)
+Fixed: Cannot logout from Announcing to(Ref: XSPLIT-76)
+Fixed: Installer repair function does not work (Ref: XSPLIT-72)
+Fixed: Pressing Apply in the User Settings window makes the window momentarily disappear (Ref: XSPLIT-70)
+Fixed: Having multiple copies of a Broadcast plugin can cause XSplit to prompt for restart repeatedly
+Fixed: BandwidthTester Streams getting recorded on Twitch
+Fixed: Minor text edits Bitrate -&gt; Max Bitrate for VBR
+Fixed: Channel properties can show up as transparent window on dual screen systems which one monitor connected to Intel Integrated GPU and the other monitor connected to a discrete GPU

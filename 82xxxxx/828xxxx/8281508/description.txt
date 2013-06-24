@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+Analyzed: Halestorm / The Strange Case of...
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8        0.00 dB    -9.31 dB      3:11 01-Love Bites (So Do I)
+DR9       -0.48 dB   -10.34 dB      3:22 02-Mz. Hyde
+DR9        0.00 dB   -10.05 dB      3:04 03-I Miss The Misery
+DR9        0.00 dB   -10.31 dB      3:38 04-Freak Like Me
+DR9        0.00 dB   -10.50 dB      3:16 05-Beautiful With You
+DR10       0.00 dB   -12.39 dB      2:47 06-In Your Room
+DR10      -1.09 dB   -13.78 dB      4:45 07-Break In
+DR8       -0.88 dB   -11.13 dB      3:19 08-Rock Show
+DR9        0.00 dB   -10.96 dB      3:55 09-Daughters Of Darkness
+DR9        0.00 dB    -9.99 dB      3:12 10-You Call Me A Bitch Like It's A Bad Thing
+DR9        0.00 dB   -10.49 dB      3:28 11-American Boys
+DR8       -1.75 dB   -12.45 dB      2:58 12-Here's To Us
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2996 kbps
+Codec:             FLAC
+================================================================================

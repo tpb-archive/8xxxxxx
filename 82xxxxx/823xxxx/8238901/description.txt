@@ -1,0 +1,88 @@
+Finbar Furey For One Night Only [RTE Ireland] HQ PDTV x264 AC3 DeViL303
+
+An interview by Gay Byrne with folk musician Finbar Furey, who performs songs including When You Were Sweet Sixteen and The Green Fields of France and explains what inspired him to write them.
+
+
+Complete name                            : Finbar Furey For One Night Only [RTE Ireland] HQ PDTV x264 AC3 DeViL303.mkv
+Format                                   : Matroska
+Format version                           : Version 1
+File size                                : 558 MiB
+Duration                                 : 52mn 7s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 497 Kbps
+Encoded date                             : UTC 2013-03-10 11:42:19
+Writing application                      : mkvmerge v2.5.3 ('Boogie') built on Mar  7 2009 15:00:41
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 52mn 7s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 303 Kbps
+Maximum bit rate                         : 12.0 Mbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 5:4
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.126
+Stream size                              : 475 MiB (85%)
+Writing library                          : x264 core 93 r1542M 5b86182
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:-1:-1 / 
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 52mn 7s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 71.6 MiB (13%)
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : SSA
+Codec ID                                 : S_TEXT/SSA
+Codec ID/Info                            : Sub Station Alpha
+Compression mode                         : Lossless
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1n[00:00:00]
+00:04:44.276                             : en:Chapter 2n[00:04:44]
+00:09:28.552                             : en:Chapter 3n[00:09:28]
+00:14:12.829                             : en:Chapter 4n[00:14:12]
+00:18:57.105                             : en:Chapter 5n[00:18:57]
+00:23:41.381                             : en:Chapter 6n[00:23:41]
+00:28:25.658                             : en:Chapter 7n[00:28:25]
+00:33:09.934                             : en:Chapter 8n[00:33:09]
+00:37:54.210                             : en:Chapter 9n[00:37:54]
+00:42:38.487                             : en:Chapter 10n[00:42:38]
+00:47:22.763                             : en:Chapter 11n[00:47:22]
+00:52:05.040                             : en:Chapter 12n[00:52:05]
+

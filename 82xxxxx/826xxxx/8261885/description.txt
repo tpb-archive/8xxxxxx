@@ -1,0 +1,25 @@
+[REQUEST]
+
+Hotspot Shield Elite VPN, Virtual Private Network, service adds a layer of "must have" protection when connecting your computer to the Internet by establishing a secure tunnel. The secure tunnel uses VPN technology to keep your online identity and information safe from hackers and snoopers. Hotspot Shield Elite allows you to browse the Internet anonymously. As you move around the Internet, your information cannot be tracked. Elite's service exchanges your IP address for an Elite IP address, keeping your information secure and private. Elite's VPN service provides access to Expats and Travelers' favorite sites when away from home. Plus, Elite users enjoy complete malware protection from over 3 million known and suspected web domains including Malware, Illegal or Phishing, Infected and Spam sites and Content Farms. Most trusted consumer VPN, used by more than 10 million users in over 50 countries; Only VPN that allows you to remain 100% anonymous; No username/password required to log into Elite service; Includes Complete Cloud Malware protection; Provides protections from more than 3 million known Malware sites; Dedicated Technical support team.
+
+Info:
+
+1. First go to C:WindowsSystem32driversetc and open hosts file with notepad or editor.
+
+
+2. Now paste the BELOW code just BELOW the last line of hosts file. i.e : 127.0.0.1  localhost
+
+127.0.0.1 anchorfree.net
+127.0.0.1 rss2search.com
+127.0.0.1 techbrowsing.com
+127.0.0.1 box.anchorfree.net
+127.0.0.1 www.mefeedia.com
+127.0.0.3 www.anchorfree.net
+127.0.0.2 www.mefeedia.com
+127.0.0.1 hsselite.com
+127.0.0.1 www.hsselite.com
+
+3. Install and UNCHEK THE OPTION LAUNCH AFTER INSTALLATION & UNCHECK THE TOOLBAR INSTALLING OPTION
+
+4. Restart PC
+               

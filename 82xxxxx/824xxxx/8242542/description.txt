@@ -1,0 +1,3 @@
+If you have a recent model laptop (Tested working on a HP Pavilion DV7 6197-CA Windows 8) that you cannot seem to get the fingerprint reader working on, then download and try this. Extract this to any folder, and launch Device Manager (Start button, type Device manager), select the unknown device corresponding to the fingerprint reader, and tell it to update the software from the "Drivers" Folder. Then install the included software, and everything should work.
+
+Supports Windows 7 32 and 64 bit; Windows 8 32 and 64 bit.

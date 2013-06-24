@@ -1,0 +1,28 @@
+March 7, 2013
+
+Why this torrent?
+
+Because there were some files I couldn't find elsewhere, because I had a hard time downloading others from crappy file lockers like google docs, and because every other torrent has the files preinstalled and/or zipped up into one big file, which leaves the end user flying blind. How can you update any of these rapidly changing mods if you don't even know exactly what you have to begin with? Although the "one big archive" method does save a lot of MegaBytes, which is worthwhile in itself!
+
+Some instructions on the net that are less than a month old even contain wrong information.
+
+So all that confusion is why I felt compelled to make this torrent.
+With the release of the GOG version interest has spiked and updates are about to be released. But I didn't want to wait.
+
+I did make some compromises in the name of package size. I didn't include the game itself, or the SSTool or any of the files it downloads. Those can be gotten elsewhere from well-seeded torrents. I did include the Prima manual, OpenAL 2.1.0.0, and a few other tidbits in the Extras folder.
+
+The updated cutscenes that were released just a few days ago are in here, as is the rebirth cutscene, and these are hard to find.
+
+I numbered the files too so you can have a basic idea about which order they should be extracted in .
+It's something you'll have to learn eventually anyway. The rest of the file name is untouched so you can compare to what you might find or already have.
+
+Nor did I repackage the files, except to change the folder structure of one to make it work. :). That's why you see zips, rars, and 7zips, but you can handle that.
+Another thing I left alone was all the junk in these files, like all the mod.ini files, pictures, readmes and so on. Those were appropriate with mod managers, but are now obsolete with the release of the NewDark patch. SO, IGNORE THOSE. These obsolete instructions will tell you to extract contents into the WRONG place. This is for OLD versions of the game. Nowadays, everything goes into one place, the DataPermMods folder. Nothing goes into the SS2 root. If you see a DataPermanentMods folder, you haven't patched with SSTool yet.
+
+I've included all the so-called Strict/Conservative mods and a few more. Any I left out (and there are not many) are too borderline/WIP to mess with IMO. Besides if you want those you don't need this torrent anyway.
+
+Check the Links.txt for more.
+
+
+If you're new and want to get right to it, check out Connyswaysway's torrent at https://thepiratebay.se/torrent/8155258/System_Shock_2_easy_install_mods.
+It's a smaller file size and everything is setup already.

@@ -1,0 +1,181 @@
+Exact Audio Copy V1.0 beta 2 from 29. April 2011
+
+EAC extraction logfile from 7. March 2013, 12:55
+
+∞åîδàÇ∞ï£δîÇ (Girls' Generation) / The Boys / SMK-0076
+
+Used drive  : HL-DT-STDVDRAM GH22NS50   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:48.66 |         0    |    17165   
+        2  |  3:48.66 |  3:45.42 |     17166    |    34082   
+        3  |  7:34.33 |  3:46.50 |     34083    |    51082   
+        4  | 11:21.08 |  3:15.41 |     51083    |    65748   
+        5  | 14:36.49 |  3:54.63 |     65749    |    83361   
+        6  | 18:31.37 |  3:53.18 |     83362    |   100854   
+        7  | 22:24.55 |  3:23.02 |    100855    |   116081   
+        8  | 25:47.57 |  2:59.06 |    116082    |   129512   
+        9  | 28:46.63 |  3:05.67 |    129513    |   143454   
+       10  | 31:52.55 |  3:50.24 |    143455    |   160728   
+       11  | 35:43.04 |  3:09.09 |    160729    |   174912   
+       12  | 38:52.13 |  3:32.55 |    174913    |   190867   
+
+
+Track  1
+
+     Filename C:Girls Generation - The Boys 1. The Boys.wav
+
+     Peak level 100.0 %
+     Extraction speed 1.8 X
+     Track quality 100.0 %
+     Copy CRC 0863CE95
+     Accurately ripped (confidence 2)  [FBBB279B]  (AR v2)
+     Copy OK
+
+Track  2
+
+     Filename C:Girls Generation - The Boys 2. øàöδáêøîî∞ï£ (Telepathy).wav
+
+     Peak level 100.0 %
+     Extraction speed 2.0 X
+     Track quality 100.0 %
+     Copy CRC 6CF65A1B
+     Accurately ripped (confidence 2)  [72F3ABDE]  (AR v2)
+     Copy OK
+
+Track  3
+
+     Filename C:Girls Generation - The Boys 3. Say Yes.wav
+
+     Peak level 100.0 %
+     Extraction speed 2.1 X
+     Track quality 100.0 %
+     Copy CRC C0624927
+     Accurately ripped (confidence 2)  [21562634]  (AR v2)
+     Copy OK
+
+Track  4
+
+     Filename C:Girls Generation - The Boys 4. TRICK.wav
+
+     Peak level 100.0 %
+     Extraction speed 2.3 X
+     Track quality 99.9 %
+     Copy CRC 2F992B29
+     Accurately ripped (confidence 2)  [FAE1A13C]  (AR v2)
+     Copy OK
+
+Track  5
+
+     Filename C:Girls Generation - The Boys 5. δ┤äδéá (How Great Is Your Love).wav
+
+     Peak level 100.0 %
+     Extraction speed 2.5 X
+     Track quality 100.0 %
+     Copy CRC 785C4E12
+     Accurately ripped (confidence 2)  [5AAF6D4B]  (AR v2)
+     Copy OK
+
+Track  6
+
+     Filename C:Girls Generation - The Boys 6. My J.wav
+
+     Peak level 100.0 %
+     Extraction speed 2.6 X
+     Track quality 100.0 %
+     Copy CRC 53A3B428
+     Accurately ripped (confidence 2)  [34CAFF9E]  (AR v2)
+     Copy OK
+
+Track  7
+
+     Filename C:Girls Generation - The Boys 7. Oscar.wav
+
+     Peak level 100.0 %
+     Extraction speed 2.7 X
+     Track quality 100.0 %
+     Copy CRC 515E5B8C
+     Accurately ripped (confidence 2)  [9B37EF1C]  (AR v2)
+     Copy OK
+
+Track  8
+
+     Filename C:Girls Generation - The Boys 8. Top Secret.wav
+
+     Peak level 100.0 %
+     Extraction speed 2.9 X
+     Track quality 100.0 %
+     Copy CRC 78259991
+     Accurately ripped (confidence 2)  [4EEB5136]  (AR v2)
+     Copy OK
+
+Track  9
+
+     Filename C:Girls Generation - The Boys 9. Lazy Girl (Dolce Far Niente).wav
+
+     Peak level 100.0 %
+     Extraction speed 2.9 X
+     Track quality 99.9 %
+     Copy CRC 8EB9476D
+     Accurately ripped (confidence 2)  [A972C4E5]  (AR v2)
+     Copy OK
+
+Track 10
+
+     Filename C:Girls Generation - The Boys10. ∞á£∞₧Éδª¼Ω▒╕∞¥î (Sunflower).wav
+
+     Peak level 100.0 %
+     Extraction speed 3.0 X
+     Track quality 100.0 %
+     Copy CRC 41B1E25F
+     Accurately ripped (confidence 2)  [3379D677]  (AR v2)
+     Copy OK
+
+Track 11
+
+     Filename C:Girls Generation - The Boys11. δ╣äøâÇδ»╝ (Vitamin).wav
+
+     Peak level 100.0 %
+     Extraction speed 3.1 X
+     Track quality 100.0 %
+     Copy CRC 7F254E8F
+     Accurately ripped (confidence 2)  [5EF40D22]  (AR v2)
+     Copy OK
+
+Track 12
+
+     Filename C:Girls Generation - The Boys12. MR.TAXI [Korean ver.].wav
+
+     Peak level 100.0 %
+     Extraction speed 3.3 X
+     Track quality 100.0 %
+     Copy CRC A094AA81
+     Accurately ripped (confidence 2)  [D06A3627]  (AR v2)
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

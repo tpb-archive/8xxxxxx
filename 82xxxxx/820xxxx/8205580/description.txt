@@ -1,0 +1,48 @@
+BS Player v1.9.149
+APK | 5.83MB | 6.40/s]
+
+This is the full, ad-free version of BSPlayer with additional functionality.
+BSPlayer is the best media player for Android smartphones and tablet PCs (average user rating 4.6/5), supporting hardware accelerated video decoding.
+
+Screenshots:
+ 
+http://removalshastings.co.uk/walls/?attachment_id=228
+ 
+http://removalshastings.co.uk/walls/?attachment_id=229
+ 
+http://removalshastings.co.uk/walls/?attachment_id=230
+ 
+http://removalshastings.co.uk/walls/?attachment_id=231
+ 
+http://removalshastings.co.uk/walls/?attachment_id=232
+
+
+Features:
+
+No advertisements
+Audio pre-amplification
+Hardware accelerated video playback - significantly increases playback speed and reduces battery consumption*
+Support for almost all media files (video and audio player), such as: avi, divx, flv, mkv, mov, mpg, mts, mp4, m4v, rmvb, wmv, 3gp, mp3... and streaming content such as RTMP, RTSP, MMS (tcp, http), HTTP Live stream, HTTP.
+aspect-ratio adjustements and zoom
+Multiple audio streams and subtitles.
+supports gestures for Seek, Jump, Brightness and Volume control
+Playlist support and various playback modes.
+support for audio headsets
+External and embedded subtitles ssa/ass, srt, sub...
+Automatic subtitle search (mobile or wi-fi connection must be enabled to work)
+Playback media files such as videos and mp3's directly via Wi-Fi from your LAN shared drives/folders (such as external USB drives, SMB shares, PC shared folders, NAS servers (Synology and others)) - no need to convert video files and copy media files to SD card anymore!
+Playback files directly from uncompressed RAR files and much more!
+This package includes support for ARMv7 with VFP and NEON. For other CPU types please download appropriate package. Application will notify you which package you need.
+
+NOTE: When reporting error please add info about your smartphone brand and model. Also you can send us more detailed bug report on e-mail android@bsplayer.com. We are trying to improve the player for the users and your feedback is appreciated.
+What's in this version : (Updated : Feb 28, 2013)
+- Added SMB host scan
+- Audio stream is now remembered when going to sleep
+- If pop up video is active device is kept awake
+- Added support for Opus audio codec
+- Sleep timer now also works in background playback
+- In some cases playback was not paused during incoming call, fixed
+- Fixed sorting in LAN mode
+- Some other bug fixes and changes
+
+Required Android O/S : 4.0+

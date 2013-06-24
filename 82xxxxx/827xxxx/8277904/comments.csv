@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+,raysefo666,2013-03-20T16:07Z,"murphy ! i have UEFI and my hdd is gpt format , how can i boot from your iso's ? i try ultraiso power iso but all of them doesnt enable UEFI boot option, only normal boot and in normal boot option cant install anyhing ! if i get a stock iso i am able to boot UEFI! PLS HELP ME  "
+,raysefo666,2013-03-20T16:19Z,"OMG ! now i see dumb of me...""UEFI NoFrills"" ! il try it right now! TY"
+[V],murphy78,2013-03-20T22:31Z,raysefo I have no idea how to set up each individual's bios to boot in uefi mode. Most uefi bioses default to a compatability mode that tries uefi first and legacy second. You can disable the legacy to try to force it to only boot in uefi.
+[V],murphy78,2013-03-22T23:56Z,"frosky, they're not designed to be small. If you want small, buy a download version on the internet. The downside is that it costs money and it has an identifier that MS assigns to you, so if you try to share, they can blacklist your activation.
+
+Those are the smallest versions.
+
+The next step up is an rtm unmodified msdn iso, which is also fairly small, but like this release, has no extra stuff like kb patches integrated.
+
+When you get into AIO territory or start including stuff like .NET 4.5, or 3.5.1, or both x86 and x64, it can get very large very quickly.
+
+You, however, are making a mistake that a lot of people do. The size of the iso, is not the size of the install. Extracted, both the very small download version that uses esd sequential encrypted compression, and the rtms for the same edition both extract to the same size.  The differences are just that with the esd version you cannot integrate anything. It's a completely different compression method. You might be able to install things using an oem folder, but that would be nearly pointless for most kb files.
+
+It is important to note, though, that you do NOT actually need to download kb files or integrate them. Your system will function just fine without them. In fact, your system will be a little faster without them. It just won't be very secure."
+[V],murphy78,2013-03-23T00:01Z,"Oh, forgot the whirring noise issue.
+
+This happens when your system finds a resonant frequency in your cooling fan usually and vibrates against the metal it is connected to. It could also be that it is rubbing against a cord, but since it doesn't seem to happen in linux, I'd assume its the former.
+
+If you are allowed to open your computer without voiding any warrantee, I'd suggest figuring out which fan is causing the problem by running the system with the case open and listening. You could tap the fan with a pencil or something and see if the noise gets disrupted.  If it does, then you should replace the fan as it could have bad bearings or something.
+
+If you are not allowed to open the computer without voiding the warantee, I'd recommend defaulting out the software and send it back to the company and demand they fix the noise.  Systems are NOT designed to make loud fan noises. They are usually flaws.  Most systems, in fact, use excess amounts of fans and just run them slower so that they are not as loud for general air movement.
+
+The whirring noise you describe, though, is typical of a fan that has bad bearings. Even with bad bearings, at the slowest speeds, it might not make noise."
+[V],murphy78,2013-03-24T08:26Z,"To answer your question, yes Windows 8 uses a lot more power and hence puts out a lot more heat, so your cooling fans will have a problem if they are a bit on the low-end."
+,Sheist69,2013-03-31T03:45Z,"Hello Murphy,
+Loving your work, so thank you to start with.  But following your USB instructions, why does trying to make the 4gb flash drive ""active"" tell me this (below), and is there an alternate way to make the flash drive active?
+
+DISKPART> list partition
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+* Partition 1    Primary           3945 MB    64 KB
+
+DISKPART> active
+
+The selected disk is not a fixed MBR disk.
+The ACTIVE command can only be used on fixed MBR disks.
+
+Many thanks.  :)"
+,Sheist69,2013-03-31T04:00Z,"By the way, this is 4gb Kingston DataTraveler Mini.  Perhaps it is just the flash drive, resisting the active partition 1, I don't know.  It is an otherwise functional flash drive."
+[V],murphy78,2013-04-06T18:27Z,"I don't know guys. If my diskpart instructions don't work for you, you need to search the web.
+
+I have personally tested both the usb and HD gpt conversions and they work fine."
+[V],murphy78,2013-04-06T18:31Z,"frosky, you can't upgrade one non-uefi os to a uefi one.
+
+Boot to your uefi setup disc/usb.
+Press shift-f10 to bring up command prompt.
+run diskpart
+list disk
+select disk 0 (usually for your main hd)
+clean
+convert gpt
+exit
+exit
+
+Then point the setup at the empty hd."
+,mrthuvi,2013-04-08T02:38Z,"frosky, i have the exact problem like you. Here is something interesting: old vga+ different psu = no coil whine, different vga + old PSU = no coil whine, old vga+old PSU = coil whine, i have no idea why, maybe they have some vibration frequency like each other. Anyway, replace your PSU should work, not that your components are faulty, they just dont like being with each other."
+,Husain.87,2013-04-08T13:59Z,"sorry for being noob, but what is the difference between win8 pro and pro N, VL ??"
+,wijagels,2013-05-05T18:07Z,I believe VL stands for volume license which is what you get when your company pays for lots of computers.  And N is no windows media player (yay!). 

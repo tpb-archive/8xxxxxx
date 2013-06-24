@@ -1,0 +1,43 @@
+Zygor Guides update v4.0.6106, released March 15th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary but it is here as a reference.
+
+
+***********************************************************************************
+READ ME:
+
+These uploads work just fine; if you are having problems it is on your end. That being said, if there does happen to be a problem with an upload, then fall back to the previous version and NICELY let me know... I'll fix it as soon as I can.
+
+
+Please DO NOT post comments about new updates. I check daily for updates and if I haven't posted a new version yet, I'll get to it when I get to it. 
+***********************************************************************************
+
+
+
+Patch notes:
+
+
+Version: 4.0.6106
+Released on: March 15th, 2013
+
+[B] General
+Added in all previous flight path steps.
+
+[A] Dailies/Reputations
+Edited information for the 5.2 dailies.
+
+* Adjusted Thunder Isle coords to properly (or at least better) show nodes on Pandaria / overworld map
+* Portals from Thunder Isle back to Shado-Pan Garrison are now named properly

@@ -1,0 +1,212 @@
+﻿User Type,Username,Date,Text
+,misha93,2013-03-15T06:15Z,"Xamarin Android/iOS patcher for 4.6.00049/1.0.897.0
+
+https://docs.google.com/file/d/0B1Z2WbtCWsFmVDJBb3N1YTBodmc/edit?usp=sharing
+
+https://www.virustotal.com/es/file/27b9e1a8556ef771b4a1d377874d3e347659dc3d9c6a21f40aa930bda778bf21/analysis/1363324353/
+
+Requires:
+
+- A fresh install of Xamarin Android/iOS  4.6.00049/1.0.897.0 without cracks applied. It doesn't matter if only Android, iOS or both are installed.
+- Win XP+
+
+It can also revert the patch (even if patched with original patching executable of this torrent) to leave the original files in case you decide to buy, are paranoic when updating, decide to crack yourself, etc."
+,misha93,2013-03-15T06:32Z,"Want to download independant installers?
+
+JDK 6 - http://www.oracle.com/technetwork/java/javase/downloads/jdk6downloads-1902814.html
+Android SDK - http://dl.google.com/android/installer_r21.1-windows.exe
+Android NDK - http://dl.google.com/android/ndk/android-ndk-r8d-windows.zip
+GTK# - http://download.xamarin.com/Installer/gtk-sharp-2.12.20.msi
+Xamarin Android - http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.6.00049.msi
+Xamarin iOS - http://download.xamarin.com/MonoTouchforVisualStudio/Windows/mtvs-1.0.897.0.msi
+
+Install them in the same order of the list. You need to previously have:
+
+- Have Visual Studio 2010 Professional edition or higher installed
+
+OR
+
+- Have Visual Studio 2010 Professional edition or higher installed AND Visual Studio 2012 Professional edition or higher installed
+
+OR
+
+- Have Visual Studio 2010 Shell edition or higher installed AND Visual Studio 2012 Professional edition or higher installed
+
+Please note that Xamarin support for Visual Studio 2012 is still experimental and it depends on libraries of Visual Studio 2010 (any version). If Xamarin is intalled when only a Visual Studio 2012 installation exists, it will fail to deploy/debug applications to device/emulator.
+
+Also, Xamarin only works on Professional or higher editions of Visual Studio 2010/2012"
+,misha93,2013-03-15T07:14Z,"And now that I've tested it, and know that works:
+
+Xamarin Studio - http://download.xamarin.com/studio/Windows/XamarinStudio-4.0.msi
+
+It can be installed at any time (before, after, in the middle) of the other Xamarin/Visual Studio things."
+,Xtse,2013-03-15T08:16Z,"@misha93 ""If Xamarin is intalled when only a Visual Studio 2012 installation exists, it will fail to deploy/debug applications to device/emulator.""
+
+Not true my friend. :) I have Visual Studio 2012 SP1 installed on this build and it works fine without a pre-installation of 2010. I've been developing in this environment for awhile now - but there are the occasional bugs that can be 'worked-around' that you get after deployment."
+,misha93,2013-03-15T09:40Z,"@Xtse
+
+Maybe Windows 8 is the culprit then... it doesn't work right for me in there (it's a recently formated installation of 2 days).
+
+Remember that there are other software that installs core VS 2010 funcions (SQL Server 2008 R2+ for example). Specifically Microsoft.VisualStudio.ExtensibilityHost.dll version 10 is the thing that tends to fail."
+,misha93,2013-03-15T09:46Z,"BTW, the toolbar added to Visual Studio called Xamarin Android, the one that says --Prompt for Device-- and has those Little buttons to open the Android SDK, logcat; it doesn't shows Android Emulator on the device list, even more, it only says --Prompt for Device-- with no matter how many Android Emulator devices I run.
+
+Is this only me or is it a generalized trouble?"
+,Xtse,2013-03-16T03:13Z,"That problem I think is indeed Visual Studio 2012 - I always deploy to my device and trace externally.
+I tried the buttons in the toolstrip and sure enough they refuse to run code through the  Mono.VisualStudio.Extension.Commands.VsCommandExtensionAdapter class.
+
+I started a VM and installed VS2010+Xamarin.Android and the buttons work fine.
+
+This will be up to Xamarin to fix of course. :P I don't have the motivation seeing as I don't use these features through the IDE."
+,Xtse,2013-03-16T04:33Z,"Actually I think this might just be a problem with the installation, I've tried a few different scenarios in vm's and in some cases (usually fresh installations) everything works fine.."
+,misha93,2013-03-16T09:48Z,"Hmmm, interesting...
+
+Just 1 question, when a android emulator device shows up in your Visual Studio Xamarin.Android ToolBar, how is exactly shown the name?
+
+I've found the troube, but I don't know the needed format to show up the emulator devices :S"
+,misha93,2013-03-16T11:39Z,"Okay, got the damn solution after so long fight. It works really sexy :D
+
+Its just needed to patch Mono.Android.VisualStudio.dll : Mono.Android.VisualStudio.MonoAndroidDevice.Name.get_Name() = >
+
+    get
+    {
+        if ((this.device.Properties != null) && !this.device.IsEmulator)
+        {
+            return this.device.GetDisplayName();
+        }
+        return this.Id;
+    }
+
+Simple ;)"
+,Xtse,2013-03-16T11:55Z,"(emulator-5554)
+Phone Name and Model (Serial)
+(emulator-5556)
+
+Etc."
+,Xtse,2013-03-16T11:56Z,"What about the buttons, did ya get them to execute the adb commands and show the visual studio related extensions?"
+,misha93,2013-03-17T01:29Z,"Found another trouble (and the solution). The command Compile > Package {Project Name} for Android (.apk) in Visual Studio (any version); isn't enabled (and also can't be clicked).
+
+Solution. In Mono.Android.VisualStudio.dll : Mono.Android.VisualStudio.Commands.ExportPackage.QueryStatus => add command.Enabled = flag; after/before the command.Visible = flag; in the else block.
+
+Mono.Android.VisualStudio.dll with both patches (package command and devices list in the toolbar). Works with VS 2010 and 2012
+
+https://docs.google.com/file/d/0B1Z2WbtCWsFmdDZjZ2FuY20wc2s/edit?usp=sharing
+
+https://www.virustotal.com/es/file/522949f115585a01b81a03d30fc679e64cb26b11a647b34a9a8927b545cfec04/analysis/1363480081/
+
+Xamarin and this thing with bugs... isn't the product testing a vital thing before releasing it?"
+,Xtse,2013-03-17T02:31Z,Thumbs up. :)
+,ferlobo,2013-03-19T04:48Z,"Thanks for your help xtse, misha93. With the upgrade had no need to format my PC or anything like that just run the path and it worked correctly. now I'll try it. Thank you dear friends."
+,marckkh,2013-03-19T19:39Z,"where can i paste Mono.Android.VisualStudio ?
+i cant find the place !!!!"
+,misha93,2013-03-20T04:38Z,"C:Program FilesMicrosoft Visual Studio 11.0Common7IDEExtensionsXamarinXamarin.Android4.6.00049
+
+And/Or
+
+C:Program FilesMicrosoft Visual Studio 10.0Common7IDEExtensionsXamarinXamarin.Android4.6.00049"
+,ste19801,2013-03-20T15:41Z,"Dear Mrs Xtse, misha93
+I pasted your patched Mono.Android.VisualStudio.dll in the folder you mentioned  but now MFA is disabled; I get these 2 messages:
+SetSite failed for package [Mono.Android.VisualStudio.MonoAndroidPackage, Mono.Android.VisualStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null] 
+
+End package load [Mono.Android.VisualStudio.MonoAndroidPackage, Mono.Android.VisualStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null] 
+I must admit I'm noob, please help :)))
+I repaired/reinstalled  MFA 4.6, but the problem persists. The problem is that I didnt backup the original Mono.Android.VisualStudio.dll file.
+What is more, which tool should I use in order to save your proposed changes regarding MonoAndroidDevice.Name ?  Jetbrains dotpeek doesnt make changes.  Netreflector can't even browse MFA libraries, not that I am locked out of MFA in Visual Studio."
+,ste19801,2013-03-20T15:57Z,"Dear Messrs. Misha93, Xtse
+
+I forgot to ask:
+could you also tell us which .net decompilers you use for these reverse engineering ops on MFA dll files?
+Many thanks!"
+,misha93,2013-03-20T22:38Z,"Make a clean install, apply no cracks of any kind, and then install this renewed patch to get all done in one movement:
+
+https://docs.google.com/file/d/0B1Z2WbtCWsFmNEZ4ellWT01vWlU/edit?usp=sharing"
+,ste19801,2013-03-21T21:08Z,"I uninstalled MFA 4.6  by running the uninstall process from the .msi file, but the same  problem persists . any ideas for an even cleaner installation process? I noticed that the old mono.android.dll file had indeed vanished after the uninstall process...
+
+I got the same error messages after having run your new patching .exe :
+
+The 'Mono.Android.VisualStudio.MonoAndroidPackage, Mono.Android.VisualStudio, Version=1.0.0.0, Culture= neutral, PublicKeyToken=null' package did not load correctly.
+The problem may have been caused by a configuration change or by the installation of another extension. 
+
+the error xml log says:
+SetSite failed for package [Mono.Android.VisualStudio.MonoAndroidPackage, Mono.Android.VisualStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]  
+
+End package load 
+[Mono.Android.VisualStudio.MonoAndroidPackage, Mono.Android.VisualStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]   VisualStudio 
+
+Maybe there is some signing crosscheck going on here and the modifications get detected???
+Many thanks again for your solidarity and efforts."
+,Xtse,2013-03-21T23:07Z,"There is indeed a problem with the Mono.Android.VisualStudio.dll that misha93 has provided.
+I will upload a final patcher tonight addressing one of the mentioned bugfixes above (packaging).
+
+In the meantime, if you don't need to sign your apk's for deployment please do not use the Mono.Android.VisualStudio.dll bug-fix by misha93, instead remove then reinstall Xamarin.Android 4.6 and apply the patches provided by the torrent.
+When I upload the next torrent, simply re-apply the new patch (over-top of the previous patch is fine) to update the crack to include the bug-fix Xamarin missed when they released their product lol."
+,Xtse,2013-03-22T09:58Z,http://thepiratebay.sx/torrent/8285974/Xamarin_s_Mono_for_Android__amp_amp__iOS_v4.6_Windows_Patcher_[Final
+,tester3000,2013-03-25T16:14Z,"Thanks Xtse!
+misha93, также спасибо что помог доломать =) "
+,Andrique,2013-05-03T00:22Z,"Hi guys - especially misha93 and Xtse!
+
+I am pleased to join your company. Also interested in having Xamarin Enterprise without paying the damn $2 grands!
+
+So I turned my attention to the issues you discuss here...
+
+I would like to share efforts and create a reliable solution. Like many of you, I spent several evenings with .NET Reflector. I figured out that these DLLs need to be patched:
+
+- Mono.Android.VisualStudio
+- Xamarin.AndroidTools
+- Xamarin.Android.Build.Tasks
+- Xamarin.Components.Ide
+- MonoDevelop.MonoDroid
+- MonoDevelop.Debugger.Soft.MonoDroid
+
+and I actually did patch them, using ILDASM -> notepad -> ILASM. (The last two are for Xamarin Studio only. Not that I needed it much, I just love perfection).
+
+And yes, both IDEs (VS and Xamarin) worked perfectly! I was proud... untill I noticed, when debugging the Android app, the following line in the output:
+
+Xamarin/Android Trial Mode Active.
+
+Yet I don't have a real smartphone (planning to buy one next week or so... waiting for monthly salary to get Galaxy Note 2), so I debugged under emulator.
+
+So my understanding is that, inspite of the IDEs and MSBuild think everything's OK and edition is Priority, the bloody mandrioid.exe somehow finds out that I'm still running trial!
+
+In the light of the above facts, here is what I think:
+'
+All DLLs ultimately depend on mandroid.exe, so there is really no need to spend efforts patching them, instead, need to concentrate on mandroid.exe. And of course, they (Xamarin) are going to release new and new versions, and patch every version's mandroid.exe is going to be hell!
+
+I am thinking of an alternate approach: rename mandroid.exe to something else, and make another .EXE which would be a wrapper. That wrapper is to intercept command line arguments, and if seeing something like:
+
+--activate
+--activated
+--check
+--entitlements
+
+it would do its own processing. If the argument is -d, that is the daemon mode, the wrapper would launch the renamed mandroid.exe, and route stdin, stdout and stderr to/from the daemon, thus allowing it to process correctly.
+
+So, here is my findings and ideas. Like I said, I would like to share efforts, so not to repeat steps that somebody else has done. Now, my question is: did you come to knowing as of how mandroid.exe decides on trial/licensed mode, provided that the above commands do not come to it?
+
+I am looking forward to hearing from you and working together!
+'
+Cheers!"
+,Andrique,2013-05-03T00:37Z,"2 Xtse:
+
+I just downloaded your patcher, and am seeing that you have a patched mandroid.exe inside it.
+
+So I believe you've got some important insights about it.
+
+Whould love to hear your ideas about my thoughts above.
+
+The current version of Xamarin is 4.6.4, so like I said, it would be nice to have a long lasting solution."
+,Andrique,2013-05-03T00:49Z,"2 Xtse:
+
+I just downloaded your patcher, and am seeing that you have a patched mandroid.exe inside it.
+
+However, the entitlements you've generated are still TRIAL!
+
+The Xamarin web site says that applications built it trial mode only work for 24 hours...
+
+??"
+,Andrique,2013-05-03T01:12Z,"So I am suggesting that we really work together. I can provide an SVN repository where we can store the source code.
+
+Xtse, what else do you know about mandroid.exe? Do you have a working (complilable) assembler text? And the same question for mandroid-win.exe"
+,Andrique,2013-05-03T02:01Z,"Ah OK, the entitlements are trial, but somehow the Android executable works after time is shifted more than 24 hrs..."
+,Andrique,2013-05-03T19:41Z,"Today I've implemented my wrapper for mandroid.exe, just to find out the following: this daemon does actually check license file itself, during compilation.
+
+At that shite is unmanaged, so cannot be reliably decompiled (by me, at least)... :(("

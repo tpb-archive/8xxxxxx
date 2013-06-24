@@ -1,0 +1,15 @@
+Wizualizacja natężenia ruchu w trybie 3D, jeszcze lepsze wykorzystanie danych traffic i nowe algorytmy wyznaczania tras dla pojazdów ciężarowych. Nowa AutoMapa dla Windows już do pobrania!
+
+AutoMapa to sprawdzona, posiadająca 10 letnią tradycję najchętniej kupowana i najczęściej nagradzana nawigacja w Polsce. Już w 2009 roku, jako pierwsza nawigacja w Polsce i jedna z pierwszych na świecie wprowadziła system wyznaczania tras w oparciu o aktualne natężenie ruchu drogowego bazujące na najnowocześniejszej technologii IP Traffic, dzięki której informacje o korkach, remontach, zmianach kierunkowości dróg czy nowo otwieranych drogach przekazywane są do AutoMapy poprzez Internet. Warto zaznaczyć, że technologia IP Traffic wykorzystuje ponad tysiąc razy większą liczbę danych, niż stare systemy oparte na technologii TMC.
+
+W najnowszej wersji oznaczonej symbolem 6.12 użytkownicy AutoMapy otrzymują nowe narzędzia pozwalające na jeszcze skuteczniejsze wykorzystanie technologii AutoMapa/Targeo Traffic. Znacznie zwiększono szybkość działania programu oraz jeszcze bardziej zwiększono kompresję danych przesyłanych przez technologię LiveDrive!, co pozwoliło na zmniejszenie wielkości przesyłanych paczek z danymi mimo wzrostu ilości tych danych.
+
+Wprowadzono również nowe mechanizmy zarządzania zmianami kierunkowości ulic, ich czasowego zamykania i otwierania, oraz obsługi blokad i zdarzeń drogowych. Zmiany te objęły również niezwykle popularny serwis Targeo.pl, prezentujący stan zakorkowania poszczególnych miast i tras, oraz prognozy ruchu drogowego na kolejny dzień.
+
+Użytkownicy AutopMapy chętnie korzystają z podglądu natężenia ruchu drogowego w trybie 2D. Chcą wiedzieć, gdzie aktualnie tworzą się korki, czy zator na drodze jest tylko chwilowym spowolnieniem, czy też może konsekwencją wypadku, lub innego zdarzenia drogowego. Z drugiej strony, najczęściej wybieranym trybem nawigacji jest widok 3D z aktywnymi trójwymiarowymi budynkami w ponad 1000 miast Polski i Europy. Dlatego wraz z wersją 6.12 AutoMapa udostępnia połączenie obu tych trybów i w widoku 3D prezentowane są dane traffic. Włączenie tego trybu pozwala użytkownikowi na połączenie wysokiej estetyki map AutoMapy z praktycznością rozwiązania wizualizacji traffic.
+
+Nowa AutoMapa 6.12 to również wiele usprawnień dla kierowców aut ciężarowych. Zmiany w programie pozwoliły na znaczne przyspieszenie obliczania tras uwzględniających specyfikę takiej nawigacji uwzględniającej wymiary pojazdów, ich masę, nośności dróg, mostów i wiaduktów czy wysokości tuneli.
+
+“- Nowe rozwiązania, które udostępniliśmy w AutoMapie dla Windows są oczekiwane zarówno przez profesjonalistów wykorzystujących AutoMapę zawodowo, jak i ludzi ceniących sobie ponadprzeciętną jakość nawigacji. Dzięki nim nawigacja będzie jeszcze sprawniejsza i precyzyjniejsza.” - powiedział Janusz M. Kamiński - szef PR i marketingu AutoMapy.
+
+Jak zwykle, aktualizacja AutoMapy dostępna jest bezpłatnie dla wszystkich użytkowników AutoMapy posiadających ważną subskrypcję. Program można pobrać ze strony www.AutoMapa.pl

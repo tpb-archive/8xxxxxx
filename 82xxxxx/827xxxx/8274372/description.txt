@@ -1,0 +1,66 @@
+Gizmodo: The Gadget Testers
+
+For the first time ever the worldΓÇÖs top gadget site, Gizmodo, blasts its way onto TV with their irreverent technological expertise. GizmodoΓÇÖs team of tech-obsessed hosts test the latest gadgets in outrageous, adrenaline-charged and sometimes dangerous ways.
+
+Whether theyΓÇÖre street luge racing, sumo wrestling or parachuting with their top picks, our team is on a mission to find out which of their picks make the cut ΓÇô and which ones fall to pieces.
+
+General
+Complete name                            : Gizmodo.The.Gadget.Testers.S01E01.720p.HDTV.x264-HERO.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 885 MiB
+Duration                                 : 43mn 18s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 858 Kbps
+Encoded date                             : UTC 2013-03-19 05:59:20
+Writing application                      : HandBrake 4650svn 2012050801
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 43mn 18s
+Bit rate mode                            : Variable
+Bit rate                                 : 2 723 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 30.000 fps
+Minimum frame rate                       : 29.412 fps
+Maximum frame rate                       : 1 000.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.098
+Stream size                              : 844 MiB (95%)
+Writing library                          : x264 core 122
+Encoded date                             : UTC 2013-03-19 05:59:20
+Tagged date                              : UTC 2013-03-19 06:49:33
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 43mn 18s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 170 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 66ms
+Stream size                              : 39.6 MiB (4%)

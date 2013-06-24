@@ -1,0 +1,89 @@
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+\//\//\//\//\/Γûê\//  / /ΓöîΓöÇΓöÉΓöîΓöÇΓöÉΓöîΓöÇΓöÉ\//\//\//\//\//\//\//\//\//\
+//\//\//\//ΓûêΓûÇΓûêΓûêΓûÇΓûêΓûêΓûÇΓûê/ /  ΓöÇΓöñΓö£ΓöÇΓöÉΓöé Γöé//\//\//\//\//\//\//\//\//\//
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓûÇΓûÇΓûÇΓöÇΓûÇΓûÇΓûÇΓöÇΓûÇΓûÇΓûêΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓööΓöÇΓöÿΓööΓöÇΓöÿΓööΓöÇΓöÿΓöÇv1.0.6ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ[http://abgx360.net]ΓöÇΓöÇΓöÇΓöÇ
+                       ΓûÇΓûÇΓûÇ
+Checking for updates to GameNameLookup.csv and abgx360.dat...
+Downloading GameNameLookup.csv
+100% [================================&gt;] 51,953        12.9 KB/s    ETA 00:00
+     GameNameLookup.csv was downloaded successfully
+     Server file abgx360.dat no newer than local file - not retrieving
+
+C:GTA IVXGD2DVD_NTSC.dvd is valid
+
+Checking Game
+     ISO: "C:GTA IVXGD2DVD_NTSC.ISO"
+     Size: 7835492352 bytes
+     Files in ISO: 170, Folders in ISO: 32
+     Total bytes used: 6956031956 (95.31%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  default_us.exe
+     Original PE Timestamp: 2008/03/31 12:40:52
+     Min Kernel Required:   v2.0.6683.0
+     Game Name:             GTA IV
+     Developer:             Rockstar North
+     Publisher:             Rockstar Games
+     Genre:                 Action
+     No Avatar Awards
+     Achievements:          50 Achievements totaling 1000 Gamerscore
+     XEX CRC = C4D032ED
+     XEX Media ID: 028D8FA942152950EF69F580-6AC07221
+
+Grand Theft Auto IV
+
+Region Code: 0x000000FF
+     NTSC/U
+
+Checking SS
+     Timestamp of Authoring: 2008/04/01 00:00:00
+     Timestamp of Mastering: 2008/04/09 21:12:56
+     SS Version: 2 (trusted)
+     SS CRC = D40E322E (RawSS = 28220931)
+     SS Media ID: 028D8FA942152950EF69F580-6AC07221 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2008/04/01 00:00:00 (matches SS)
+     DMI CRC = 28DC330E
+     DMI Media ID: 028D8FA942152950EF69F580-6AC07221 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = A4CFB59C
+PFI matches known data (2nd Wave)
+
+Video partition found
+     Checking L0 Video padding... L0 Video is zero padded
+     Checking L1 Video padding... L1 Video is zero padded
+     Video CRC = 91410773 (V0 = 81DF6964, V1 = E47F6A94)
+Video partition matches known data (2nd Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for D40E322EC4D032ED.ini in the online verified database
+     Server file D40E322EC4D032ED.ini no newer than local file - not retrieving
+
+     Using D40E322EC4D032ED.ini (325 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI   CRC matches
+     SS    CRC matches
+     Xex   CRC matches
+
+Checking Game CRC... (press Q to cancel)
+ Percent  Elapsed  Estimated   Time     Average     Current     Errors    Total
+    Done     Time       Time   Left       Speed       Speed  Recovered  Retries
+    100%    18:50      18:50   0:00    6.2 MB/s   56.5 MB/s
+
+     AnyDVD style corruption was not detected
+     Game CRC = 1F5D817B (matches)
+
+All CRCs match
+Verification was successful!
+
+Press any key to exit . . .

@@ -1,0 +1,102 @@
+Official Web Site:  http://boinx.com/fotomagico
+
+FotoMagico lets you create professional slideshows from your photos and music with just a few, simple mouse clicks. It sports a very clean and intuitive yet powerful user interface. High image quality, fast performance, and user flexibility were some of the design goals for this application.
+
+Create the most spectacular slideshows:
+
+* Scale, move, rotate, zoom or pan around your images to highlight that 
+  part that matters the most.
+
+* Your slides fit together perfectly with the new, gorgeous transitions.
+
+* Provide more meaning with subtle titles here and there.
+
+Perform a breathtaking show:
+
+* Your slideshow uses the best possible resolution of your presentation
+   device.
+
+* Use large displays, HDTV screens and other high resolution devices.
+
+* Even on a VGA projector, your photos will look better with 
+  FotoMagico.
+
+Your audience will want to take it home:
+
+* Burn DVDs of your slideshow with iDVD or Roxio Toast.
+
+* Put your slideshow on the new iPod.
+
+* Export in almost any QuickTime format.
+
+Your audience will never fall asleep again.
+
+What's New:
+
+* Masks in the Stage are now correctly updated as various options like 
+  size, position, zoom, or rotation are changed.
+
+* Assigning masks via the popup menu now works correctly.
+
+* Rotating masks used to be weird in some cases. Now it always
+   behaves correctly.
+
+* The zoom and rotation jog-wheels now behave correctly when
+   working with masks.
+
+* Resizing masks in the Stage by dragging the selection frame handles
+   is now more reliable. Pressing the Shift key keeps a mask centered
+   while resizing it.
+
+* A mask selection frame is now drawn in blue, so it is more easily
+   distinguished from a layer selection frame.
+
+* The background and watermark layers are now once again displayed 
+  correctly during authoring.
+
+* Layout glitches in the Stage when adding or removing layers have
+   been fixed.
+
+* Ducking now respects manual audio fades with custom offsets.
+
+* Ducking for movies now works again.
+
+* Custom audio fades are now fixed when dragging or copying/pasting
+   audio to a different location and those custom audio fades no longer
+   work.
+
+* File size limitations for uploading to YouTube have been removed.
+
+* Make sure that the system doesn't go to sleep while an export is in
+   progress.
+ 
+* Make sure that pressing the spacebar key while we are editing a 
+   numeric value in a textfield, actually starts preview playback instead
+   of causing an invalid value error message.
+
+* Make sure that deleting everything in a numeric textfield doesn't cause 
+  FotoMagico to enter an invalid state. Instead revert to the previous 
+  value.
+
+* Made the file format more efficient for the OS X sandbox
+   environment.
+
+* A bug has been fixed where auto-expanded stacks (slides with 
+  multiple layers) in the Storyboard occasionally failed to collapse again 
+  when the mouse left the stack. Some users mistook this for an
+  application freeze.
+
+* Make sure that a full save is performed when the app is quit without
+   first closing a document.
+
+* The visibility and animation controls now display seconds tick-marks
+   when a single slide is selected. This helps to position the fade-in or
+   fadeout triangles more precisely.
+
+* Various small fixes.
+
+System Requirements: 
+
+Intel Mac OS X.7.4 or later
+
+--- PLEASE SEED ---

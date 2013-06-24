@@ -1,0 +1,15 @@
+Taken from DVD (480i,) up-converted to 1080p and used Adobe After Effects to apply variation on the cartoon effect.  The presets were changed to make the effect less intense.
+Cartoon
+ Render: Fill & Edges
+ Detail Radius: 8
+ Detail Threshold: 10
+Fill
+ Shading Steps: 16
+ Shading Sharpness: 60
+Edge:
+ Threshold: 1.6
+ Width: 1
+ Softness:60
+ Opacity 40%
+ 
+http://www.imdb.com/title/tt0767631/

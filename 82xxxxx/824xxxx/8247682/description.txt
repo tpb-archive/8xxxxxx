@@ -1,0 +1,58 @@
+Grand Opening [RTE Shortscreen Film] 720P HDTV  x264 AAC DeViL303
+
+RTE shortscreen film about the opening of a bar..
+
+File info:
+Complete name                            : Grand Opening [RTE Shortscreen Film] 720P HDTV  x264 AAC DeViL303.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 262 MiB
+Duration                                 : 12mn 43s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 877 Kbps
+Writing application                      : Lavf52.64.2
+Writing library                          : Lavf52.64.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 12mn 43s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 6 000 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 12mn 43s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

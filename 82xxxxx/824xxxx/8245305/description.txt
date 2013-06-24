@@ -1,0 +1,81 @@
+===========================================
+Garry's Mod 13 v159
+===========================================
+
+Features:
+
+* No-steam crack (revEmu)
+* Fully updated and working as of 12/3 2013
+
+
+Gamemodes included:
+
+* TerroristTown (TTT, included by default)
+* ReDead (rev. 76, 20-12-2012)
+* The Stalker (04-01-2013)
+
+
+===========================================
+How to run the game
+===========================================
+
+1. Extract the rar file anywhere you want it
+
+2. Exit Steam
+
+3. Run the game by double-clicking on RUN.bat
+
+4. Don't forget to seed!
+
+
+===========================================
+How to change in-game name
+===========================================
+
+1. Open the file rev.ini in the same dir as this README
+
+2. Search for "Player" (or whatever you're current name is)
+
+3. Replace the old name with the new name
+
+4. Save the file and restart the game
+
+
+===========================================
+How to get content from other games
+===========================================
+
+1. Download/get hold of the game content files
+   (GCF's) for the game you want content from
+
+2. Put the GCF's in the steamapps folder,
+   which is right beside this README
+
+3. Launch GMOD
+
+4. Click the little game-controller to the
+   bottom right
+
+5. Tick the boxes for the games you want to mount
+   (Remember that you can only mount the games you
+    downloaded the files for!)
+
+6. Launch a game and the content is now available
+
+
+===========================================
+How to install addons
+===========================================
+
+1. Download the addon's .gma file
+   (Suggested site below)
+
+2. Put that .gma file in:
+   "Garry's Modgarrysmodaddons"
+
+3. Then it should get mounted automatically
+   when you start the game
+
+is a good site for downloading addons
+
+===========================================

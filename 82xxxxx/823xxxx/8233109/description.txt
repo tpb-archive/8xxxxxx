@@ -1,0 +1,37 @@
+by NIXESS/eidos:
+
+We have just made public a new version of the PC version of Tomb Raider, build 1.0.717.1. This patch will be applied by Steam automatically when you next start the game. If your game does not update, please restart the Steam client.
+
+This is a first update that addresses a variety of issues that we either found out about shortly before release or immediately after.
+
+Fixes include:
+
+- Addressed some stability issues on machines that have both Intel and Nvidia graphics hardware.
+- Various small UI updates.
+- Fix for players being unable to progress related to the boat in the beach area.
+- Some fixes for crashes on startup and when selecting Options.
+- Some improvements to TressFX hair rendering.
+- Fixes for various smaller graphics glitches.
+- Fixes related to the benchmark scene and benchmark mode.
+
+While we expect this patch to be an improvement for everyone. If you do have trouble with this patch and prefer to stay on the old version we made a Beta available on Steam, Build716.5, that can be used to switch back to the previous version.
+
+We expect further patches to follow fairly soon, addressing further issues we see being brought up by players, and are actively monitoring these and other forums looking for issues.
+
+by NIXESS/eidos:
+
+EDIT:
+We have removed this patch again due to issues people are reporting with their profiles being reported as corrupt after installing the patch. This will be investigated before the patch is put live again. 
+
+by iam6UN:
+
+Due to the lack of DRM protection in TR 2013 this patch works pretty fine with SKIDROW (others?) releases:
+
+- Make a backup.
+- Copy files over original ones.
+
+Enjoy.
+
+PS. Personally for me, this patch solves tessellation issues with 4xSSAA enabled. Also, some improvements in FPS/ rendering for tressFX feature.
+
+HACK the PLANET - FREE the WORLD!!! XD

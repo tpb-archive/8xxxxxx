@@ -1,0 +1,57 @@
+ http://imgr.us/images/qz161z104qvnq4qja9r.jpg
+
+Info:
+
+Format : Matroska
+Format version : Version 2
+File size : 710 MiB
+Duration : 2h 24mn
+Overall bit rate : 684 Kbps
+Writing application : HandBrake 0.9.8
+Writing library : libmkv 0.6.5
+
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L2.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 24mn
+Width : 600 pixels
+Height : 240 pixels
+Display aspect ratio : 2.500
+Frame rate mode : Variable
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Writing library : x264 core 120
+Language : English
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+
+Audio
+ID : 2
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Codec ID : A_MPEG/L3
+Codec ID/Hint : MP3
+Duration : 2h 24mn
+Bit rate mode : Variable
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Writing library : LAME3.98
+
+
+Screens: 
+http://imgr.us/images/7r8e7b12qg29dpwgqw.jpg

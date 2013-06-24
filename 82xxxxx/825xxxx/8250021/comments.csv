@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,pankaj.kr,2013-03-13T14:09Z,hey murphy.. can u please tell me the exact date when will u upload windows 7 updated till march including IE10 final..i have to format my pc but m waiting for ur upload..thanks..
+[V],murphy78,2013-03-13T16:19Z,replied on the x64 that you asked in as well.
+,B.Torrents,2013-03-15T05:22Z,"Thanks murphy78 for the March Update...
+Will be loading this on my system, will let u know about its working."
+,rjcurb,2013-03-15T09:27Z,"I previously installed Win 8 from ThumperDC and had a problem with several things. Most importantly to me, I could not get the MTP drivers to install on the PC's for my phone and tablet. Since your version has current updates, can I expect this situation to be resolved?
+
+On another major problem, after downloading several updates, the computers running ThumperDC's  version deleted the KMS Server thing from the system, rolled back activation and actually deleted the file itself as well. How do I know that downloading windows updates on yours will not do the same?
+
+Thank you for your tireless effort on this project."
+[V],murphy78,2013-03-17T04:13Z,"@the update issue... any Windows that you cannot update, has been hacked. I NEVER release anything you cannot update.
+
+On a re-activation issue tho...
+CODYQX4 has confirmed that Windows' built-in re-activation is a bit buggy with this service. I'm guessing there might be some sort of communication that windows normally does with KMS servers with re-activation that isn't coded in for handling. Or perhaps it needs to match PID etc. Who knows. What we do know is that it doesn't seem to re-activate automatically.
+
+I have posted a clean workaround in the MDL forum in the MTK thread:
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products/page348?p=731096&viewfull=1#post731096
+If you do not use that, you will need to re-activate manually before or when your activation runs out.
+
+It's fairly simple, but if you have a problem, pm me there (murphy78) and I'll try and help you."
+[V],murphy78,2013-03-17T10:23Z,"Spoke too soon on the re-activation thing. I think it might just be a problem when you first activate windows with MTK, not necessarily the slmgr call that I used. So you all will probably be ok on the re-activation. You might wanna get that script just in case though."
+[V],murphy78,2013-03-18T04:10Z,"Yah I have done A LOT of testing and confirmed that this service method and the office activation script works perfectly and auto-renews itself.
+
+If you experience any problems, it's most likely something you added to windows like an internet security, or firewall program, or other a/v program.
+
+Just be careful what you add to windows if you want it to keep activating everything correctly."
+,phlebob,2013-03-20T10:38Z,will this work on a pc with AMD processor? I've tried many activators before but none worked (they worked successfully on 2 Intel machines though) 
+,phlebob,2013-03-21T05:52Z,I tested it and it's working! thanks murphy.
+,abhaykv.13,2013-03-30T13:52Z,"@murphy78
+
+I want to install windows 8 pro & office 2013 pro plus, so should I download your January release (windows 8 pro + office 2013 pro plus) or should I download your latest march editions of both, separately.
+Which way will you recommend ??
+
+Please Reply !
+I'm eager to install both the things!"
+,abhaykv.13,2013-03-31T16:52Z,"Hey murphy,
+What's happening buddy, i downloaded this torrent, made a bootable usb with windows 7 usb/dvd tool, started installation but after 25% of installation, setup says ""windows is missing some files or it may be corrupt"". what wrong thing i did ? can you please tell me ! can you plz resolve this issue..
+Please ! I need help !!"
+,abhaykv.13,2013-04-01T07:32Z,"Ok murphy, i found it myself.
+When i made usb with windows 7 usb/dvd tool,the setup failed.
+But when i made usb with Josh Cell Softwares' WinUSB Maker,setup installed the windows correctly.
+Thanks to josh for his awesome app and a specila thanks to you murphy78 for oyur awesome copy of windows 8 !!"
+,gyminii,2013-04-19T02:07Z,There is no Media Center

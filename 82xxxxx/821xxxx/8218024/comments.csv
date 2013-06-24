@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,nitner1,2013-03-04T12:53Z,doesn't activate
+,friendly_tec,2013-03-05T03:07Z,"t seems avg got wise, so this is the way I have AVG Tuneup 2013 to work perfectly (at least for now, on 3rd March 2013) Install the program OFFLINE, as soon as it says “finished” open the crack folder and send these 4 files to c:program files/avg. Next install the following name: Senzati Serial:Q9RAD3-WJQQNR-68NKP0-8WDK62-4MDEJV-JRVWTY Lastly open the program and un check automatic updates. You may NOW connect to the internet. "
+,Ziero_1986,2013-03-05T19:19Z,"Okay everyone, here's how I fixed mine after accidentally letting it check for updates:
+
+First, I completely uninstalled AVG PC TuneUp 2013.
+
+Second, I opened run command (WindowsKey +R), type regedit in the box.
+
+3rd, press Ctrl+F to open the find dialog.  Make sure only the ""Keys"" and ""Match whole string only"" boxes are checked.  The type ""AWL"" (no quotes) in the 'Find What:' box. Press enter.
+
+Regedit will now find only the registry key that match AWL.  AWL is the key for PC TuneUp.  When it finds a key (folder), press delete.  Click yes on the confirmation box.  Now press F3 to automatically find the next key.  (NOTE: Sometimes, regedit will find the AWL key (folder), and underneath it there will be an AWL2012 folder also, delete it too.)
+
+Now, to be sure there is no trace of the program left, restart your PC.  This cleans out temp files that were stored in your RAM.
+
+Now, turn off your internet.  This can be easily achieved by unplugging your internet cable from your modem/router.  Now, install AVG PC TuneUp 2013, and make sure the settings for automatic update are completely disabled.  Next, close AVG PC TuneUp and make sure the icon in the notification area is also closed.  Follow the crack instructions to the letter (put the crack files in the main directory [folder] for AVG PC TuneUp 2013, replacing all). Look for RegWiz.exe in the main directory.  Run it and use whatever name and e-mail you like. After that is finished, run AVG PC TuneUp 2013.  When it asks you to enter usename/product key, use this one:
+
+name: Senzati
+product key: Q9RAD3-WJQQNR-68NKP0-8WDK62-4MDEJV-JRVWTY
+
+AVG PC TuneUp should now start without any problems.  You may now re-enable your internet, plug in the cord, whatever.  This worked for me, and it should work for anyone else also.  I don't know how long the activation will last, or if it will even expire, I just now figured this out and wanted to share it.
+
+Good luck!"
+,arcaneman,2013-03-06T07:46Z,"Ziero_1986
+ thank you
+i followed your directions and it works great"
+,mauriciorinconc,2013-03-06T17:06Z,"I have followed the instructions given by @Ziero_1986. but when i try to run the RegWiz.exe it crashes. Not only this but i haven't been able to forceclose the icon in the notification area, everytime I close it in the task manager it reappears immediately. I have no idea how to stop this thing from doing that. What i do find funny is that after deleting the previous AVG Tuneup, deleting the AWL files, even running my CCleaner to aid me cleaning out any other files.. when I reinstall the program, it would still show me that my version has expired. Can anyone please advice? Thanks"
+,arcaneman,2013-03-07T09:08Z,"mauriciorinconc 
+i simply rebbooted my computer after uninstalling the first time it failed then reinsatlled with my internet diconnected and followed directions of intalling the program then copying the files and replacing them unlicked the automatic updates then entered the info required and after it accepted the info as legit i turned my internet connection back on and it is working great for me still"
+,arcaneman,2013-03-07T22:46Z,"apperantly i no longer have a valid product key 
+Senzati
+Q9RAD3-WJQQNR-68NKP0-8WDK62-4MDEJV-JRVWTY
+ must be blacklisted
+"
+,Farming123,2013-03-31T21:52Z,it works thanks dude :D
+,HooK_43,2013-04-18T07:46Z,"no offense to the up loader as they were not aware about avg pc tune up software please go to this link and find out what this software will do to youre computer before downloading there are serveral complaints in the avg support forum 
+
+http://forums.avg.com/us-en/avg-forums?sec=thread&act=show&id=228005#post_228005"
+,HooK_43,2013-04-18T07:47Z,"no offense to the up loader as they were not aware about avg pc tune up software please go to this link and find out what this software will do to youre computer before downloading there are several complaints in the avg support forum 
+
+http://forums.avg.com/us-en/avg-forums?sec=thread&act=show&id=228005#post_228005"
+,HooK_43,2013-04-18T07:51Z,"do not down load not the up loaders fault read this from avg support forum
+
+http://forums.avg.com/us-en/avg-forums?sec=thread&act=show&id=228005#post_228005"

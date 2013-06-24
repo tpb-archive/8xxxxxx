@@ -1,0 +1,103 @@
+﻿User Type,Username,Date,Text
+[V],Mr.Stifmeister,2013-03-09T19:33Z,"[. RELEASE iNFO .]
+Sword.of.the.Stars.The.Pit-COGENT
+RELEASE DATE .................. 09/03/2013
+DEVElOPER ..................... Kerberos Productions
+GENRE ......................... Strategy/RPG
+LANGUAGE ...................... ENGLISH
+RELEASE TYPE .................. BIN
+SIZE .......................... 49x15 MB
+PROTECTION .................... STEAM API
+...
+Sword of the Stars: The Pit is a fun, fast,
+light-hearted turn-based RPG, where the tradition of
+Rogue and other old school dungeon-diving games meets
+the sci-fi Sword of the Stars universe, where the
+question to ask isn't ""Did you make it to the end?""
+so much as ""How far did you make it into The Pit before
+the monsters got you?""
+http://store.steampowered.com/app/233700/
+
+[. INSTALL NOTES .]
+I. Unrar release, mount .cue, install the game
+II. Copy contents of Crack Directory into install dir
+III. Play the awesome game!
+
+[.GRP GREETiNGS .]
+FAiRLiGHT | RELOADED | JAGUAR | OUTLAWS | VACE
+and all other respectable people in honorable groups"
+,winterswar,2013-03-09T19:49Z,you put all the games tb reviews?
+,Benraid,2013-03-09T20:13Z,thanks for this just saw it on tb's channel and thought i'd pick it up hehe. I will seed all night
+,Arbiter89,2013-03-09T20:39Z,"YES! Thank you! Just saw this on TB's channel, can't wait to play it."
+,Xaenor,2013-03-09T20:51Z,TB is awesome and this game is awesome. Thanks for uploading it!
+,Pikachu_Kid,2013-03-09T22:23Z,i need crack =/
+,DrBalbaid,2013-03-09T22:24Z,Not working for me either.
+,Evenom,2013-03-09T22:47Z,"Thanks for the awesome torrent , works like a charm!
+Idk where they got the minimum system req on steam store , it's completely off xD 512 mb vid card req ? ye right , running this on my laptop which has 128 mb vid card lol. neways i recommend this game to everyone who likes roguelikes or rpgs , it's fun and addicting ^^_."
+,Evenom,2013-03-09T22:48Z,"People who can't run the game - DONT start with the game with the desktop shortcut  !!!!! go in the installation directory and use Thepit.exe and it will work , it didn't start for me with the shortcut as well."
+,Cloister1,2013-03-09T22:53Z,"Not working here. Installed fine, but when I run it, nothing happens. Tried running as administrator, but no luck."
+,Cloister1,2013-03-09T23:04Z,"Nvm, got it to work. Had to go into the _CommonRedist subfolder in the install folder, and install the XNA framework in there. Also ran the DotNet repair in that same folder, even though it probably wasn't needed."
+,Xaenor,2013-03-09T23:14Z,"I confirm that the game runs fine, you have to start it from the installation folder, NOT via the shorcut on your desktop."
+,Arbiter89,2013-03-09T23:20Z,"Installed it and played for about half an hour, everything works fine. Thanks for a quality release."
+,stubbieaussi,2013-03-09T23:26Z,"Windows7 64bit. Games installs and plays fine. Just follow the install notes. And as said before, don't start with the shortcut provided by the install. It wont work. Run directly from the ThePit.exe or create your own shortcut."
+,Pikachu_Kid,2013-03-09T23:56Z,please upload only crack for this game :x
+,PoPDieTy,2013-03-10T01:39Z,"If the game is not launching, even after you have copy pasted the crack to the game folder, try this...
+
+In the game folder (Where you installed it, not the image/CD) there is a folder called CommonRedist, inside it, there is the XNA 4.0 install that and the game should run now. It did for me, doesn't mean it might work but it's something :3 
+
+C:Program Files (x86)PC GamesSword of the Stars - The Pit_CommonRedistXNA4.0xnafx40_redist.exe"
+,djriver,2013-03-10T03:10Z,"This is fantastic and works absolutely perfectly, thank you! "
+,pathofchaos1,2013-03-10T03:38Z,I have installed games by mounting and unraring before... My issue is.. I cant seem to unrar the file.. I try re-downloading it but it keeps saying file is in a format it doesnt know.. when in my Winrar I have every ext. Selected.. I also cant mount the .cue like it states... it states yet another error? Anything im doing wrong?
+,rcords,2013-03-10T04:44Z,"The installer creates a bad shortcut (the ""Start In"" directory doesn't exist).
+
+Create your own and it's fine, it doesn't need to be run as admin."
+,LordTengil,2013-03-10T08:23Z,"For everyone which it is not working for: 
+
+Here is what i did (WIn 7)
+*Installed it into default directory
+*Installed crack per instructions
+*Installed XNA, located under Sword of the Stars - The Pit_CommonRedistXNA
+*Click on thePit.exe in the intall directory, not the shortcut"
+,McVily77,2013-03-10T08:26Z,"Shortcut doesn't work cause its pointing game to start in ""install directorybin""
+
+Just delete ""bin"" part in properties or make another shortcut and it works just fine"
+,McVily77,2013-03-10T08:27Z,"There are backslashes in front of ""bin"", but forgott TPB filters it out :-o"
+,condatis,2013-03-10T09:14Z,"I'm confused, where's the crack? "
+,condatis,2013-03-10T09:22Z,"Please help, I must be retarded but I can't find the crack directory. All there is is cogent.nfo, sotstp-cogent.bin, and sotstp-cogent.cue.
+
+I mounted the .cue and installed successfully but I can't seem to find the crack?
+
+I can't open the archive on either of the other two so I'm kinda confused."
+[V],Mr.Stifmeister,2013-03-10T11:36Z,"CONFIRMED:
+
+If your game doesnt start then you have to install XNA that can be found in your install directory -> _CommonRedist -> XNA -> 4.0 folder and run xnafx40_redist.msi .
+After you installed XNA you can start the game with ThePit.exe in your install directory.
+
+@condatis: After you mount with daemon tools then you will have a disc in Computer, right click and Open and there you have a crack folder."
+,OmniNegro,2013-03-10T18:41Z,The shortcut made by the installer is bad. It has /bin as part of the start directory. Remove that and it will work fine with no extra steps.
+,winterswar,2013-03-12T19:57Z,"If the game is not launching, even after you have copy pasted the crack to the game folder, try this...
+
+In the game folder (Where you installed it, not the image/CD) there is a folder called CommonRedist, inside it, there is the XNA 4.0 install that and the game should run now. It did for me, doesn't mean it might work but it's something :3
+
+C:Program Files (x86)PC GamesSword of the Stars - The Pit_CommonRedistXNA4.0xnafx40_redist.exe  worked for me"
+,Ohshinoz,2013-03-14T04:48Z,"Whenever I start the .exe in the install folder, it just brings up the steam store asking me to purchase it. Sorry if I'm just being stupid."
+,Ohshinoz,2013-03-14T04:55Z,"Ignore the comment, I fixed it lol"
+,jaquiow,2013-03-14T14:09Z,"After mounting the .cue, and trying to get it to autorun in DaemonTools, all I'd get is:
+
+*Internal error: ExtractTemporaryFile: The file""CallbackCtrl.dll"" was not found.*
+
+I'm not sure what causes this, but that's the issue I have.  So, no installation for me."
+,zuperxtreme,2013-03-15T22:13Z,Does anyone have the 1.0.2.0 update?
+,Todek,2013-03-20T14:57Z,"For some reason the game closes on me after a while, anyone know a fix?"
+,sa4w35t,2013-03-20T19:21Z,I'd really appreciate a 1.0.2.0 upload! They added mouse support and a few new items and monsters. Mr.Stifmeister if you could make it happen you are awesome 
+,RaptX,2013-03-23T04:59Z,"I'd really appreciate a 1.0.2.0 upload!
+same here"
+,LeBum22,2013-03-23T07:35Z,"Can we expect the new update? I keep getting crashes halfway through my runs... I can't afford this game till next week. Definitely a must buy, this game is amazing."
+,Scythro,2013-03-23T22:56Z,"http://thepiratebay.sx/torrent/8292478/Sword_of_the_Stars__The_Pit_v1.0.2.0_-_SCYTH3X
+
+I uploaded the updated one"
+,Scythro,2013-03-23T23:06Z,I'm uploading v1.0.2.0 right now..
+,devtech,2013-03-24T05:31Z,Scythro uploaded a fake. Avoid that torrent; he's not seeding it because it's actually darkout.
+,Scythro,2013-03-24T11:41Z,I wasn't seeding it 'cause I was sleeping you fuckface!!!! jeez instead of spreading false rumors why don't you try it huh? and talk shit after that!!!!??
+,JetZeroX,2013-03-31T07:19Z,I just uploaded 1.0.3.0 enjoy i dont know how to edit it but it works if you do pls reupload after you edit it 
+,JetZeroX,2013-03-31T07:21Z,http://thepiratebay.sx/torrent/8322312/Sword.of.the.Stars.The.Pit.Update.v1.0.3.0-violett.rar

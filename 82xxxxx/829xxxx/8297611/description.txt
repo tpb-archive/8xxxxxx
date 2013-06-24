@@ -1,0 +1,44 @@
+3G Manager 2.0.3 FiNaL AnDrOiD - SceneDL
+
+Requirements: Android 2.3+
+
+Description:
+
+3G Manager allow you to save battery and avoid excessive Electromagnetic exposure by automatically disabling mobile data connection when you lock the screen.
+The manager allow you to keep receiving notifications by automatically re-enabling the connection from time to time for some minutes to permit sync.
+You can specify the reconnection interval and other settings.
+
+Features:
+- Automatically disable mobile data on screen-off
+- Automatically enable mobile data on screen unlock or screen on
+- Automatically disable mobile data when WiFi is connected (optional)
+- Delayed disconnection on screen off to allow rapid chatting
+- Periodic reconnection to allow notifications
+- Specify first reconnection time (before periodic reconnection)
+- The manager will be automatically paused while: on WiFi, charging, calling (after 2 minutes), on airplane mode, on Tethering/Hotspot mode and when mobile data are manually disabled
+- Manager on/off widget (1x1)
+- Manager on/off + periodic reconnections on/off widget (2x1)
+- Optionally disable sync on low battery (low-battery level configurable)
+- Run in foreground: always show app icon in the notification bar (optional)
+- Night mode: automatically enable/disable reconnections at specified times
+- Option to auto enable/disable 3G Manager at specified time
+- Temporary pause (from the notification bar or double clicking on the widget): 3G Manager will pause for 20 mins (customizable) and reactivate after that time. Useful while streaming music or waiting for an urgent notification.
+
+Languages: English, Italian, Spanish
+
+Tested on: Nexus S, Galaxy Nexus, Galaxy Note, Xperia U, Galaxy S
+Works also on CM9, CM10 and CM10.1
+
+What's in this version: (Updated : Mar 22, 2013)
+
+-bugfix
+
+This app has no advertisements
+
+More Info:
+ 
+https://play.google.com/store/apps/details?id=com.falsite.ggovernor
+
+By:
+
+SceneDL

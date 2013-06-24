@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+,souperman215,2013-03-23T14:30Z,any idea when there will be a pc upload
+,moedown,2013-03-23T15:07Z,PC upload will show up after release.  Seems the only early leaks are for consoles these days :(
+,PonyMSeed,2013-03-23T16:53Z,"Since Steam disks require online downloads to finish getting files, its not possible to play until after release."
+,Sdarts,2013-03-23T21:23Z,"Guys (and gals), sorry to post a noob question, but Google hasn't really answered a question I have (at least not one I'm happy with), have searched for over 2 days now.
+
+I borrowed a Xbox 360 for approximately 1 month and it is only modded with LT+ 3.0, no JTAG or RGH.
+I have already learned how to pass ISO images to the Xbox 360's HD through the PC, my only problem is that it asks for the disc, even if it isn't original, it still needs the ""clone"" disc to boot the games.
+Most people say it isn't possible without a modchip (hardware modification), which I can't do as the Xbox 360 isn't mine and it's like U$ 100 to do it.
+I really find it hard that in this day and age, March of 2013, no one made a software that you could burn to a DVD and authenticate any and every game's boot or even through the use of a pen drive.
+Even the swapping of discs gets annoying.
+
+So my question is: Is there no other way of playing games from the Xbox 360's HD without a hardware modification? And if there is, how?
+
+PS: I posted here in one of the most popular torrents of the year, because if anyone knows, its your guys."
+,ClipperCigars,2013-03-24T00:10Z,"You either burn the games to a R+ DL disk (which is what LT firmware is for, nothing else) and install to HD from your burned disk leaving the burned disk in to play, or you use drive emulator hardware like the xkey where you install games to an external usb hdd.
+
+Only way what your trying to do can work is if it's been jtaged/reset glitched.
+
+I find it really hard to believe that in this day and age, March of 2013, after all the information that has been made available publicly over the years that people still have no idea how disk authentication of the 360 works and expect the impossible."
+,PonyMSeed,2013-03-24T00:14Z,"@Sdarts: Simply burn the patched ISO to a DVD-9 and insert to Xbox 360 modified DVD drive. Do not install via FTP, but do so with the Xbox itself, or play with only the disk and no install."
+,Sdarts,2013-03-24T00:54Z,"@ClipperCigars
+
+Thanks for the info, after posting I still continued to search and read.
+There is a great site that has hundreds of theories and ideas of people who actually know about how the Xbox 360 authenticate games, its from a discussion in 2008 and they were trying to get a way to bypass the disk check without a hardware modification, but it seems that really can't be done.
+
+As for knowing how the Xbox 360 disc authentication works, today is the first day I have ever played a Xbox 360, and I wasn't exactly searching for how it works, as to how can I bypass/trick it.
+
+Still, thanks for the help.
+
+
+@PonyMSeed
+
+Thanks for the reply, yeah, I got some games borrowed as well, installed to the HD for better performance.
+
+Now if only existed a DVD+RW DL (LOL)."
+,Smallz94,2013-03-24T20:24Z,"Heres my point of view. I tried the Mp3 Trick with usb method. Simple just put in songs in your flash drive and play the songs on your console then play the game. It was working for me until some kind of parade finished and when i was running across the bridge and it just stopped and gives an error saying to clean my disc and of course if you press ok, your console will restart. This got me so pissed of because games like this always end up with a error. I burned with Trucated method with no ihas burner. the previous games that i burned works fine except GEARS Judgment. I actually put the volume of the music all the way to listen to the game and it was going great until i crossed the bridge lol I NEED HELP! unless i will buy the game :///"
+,enyceexdanny,2013-03-25T07:12Z,"@Smallz94
+
+The only way to have proper burns is to use ihas flashed with burnermax. Although truncating has worked for a lot of the xgd3 games, it seems the latest of the games are much more anal about that method."
+,McCregor,2013-03-27T18:19Z,some one knows how to burn the game on mac
+,batto68,2013-04-05T05:20Z,PLEASE SEED PEOPLE! I'm going to die and decompose by the time this finishes. D:
+,cwc75,2013-04-09T18:05Z,"Hi to everyone....A solution has worked out for me but i can't be sure it will for someone else (because i don't even know y it is working lol)....I will describe exactly what the process was. I have a Phat xbox with Lite-on drive (not quite sure which model) and i am using Verbatim DL media (mk001 i think)
+Steps:
+1- Donwloaded the Iso and ran it through Abgx360 (OBS: the CRC was already available at the time on Abgx server).
+2- Burned with ImgBurn using the truncate method.
+3- I was getting from time to time the ""Disk is unreadable"" and the ""Failed to authorize Disk"" errors.
+4- I finally decided to buy the iHAS122-B flashed with Burnermax (I am Brazilian and this was the only compatible model I could find for sale on ""Mercado Livre"" --> It's like an South American Ebay).
+5- I reburned the game with ImgBurn using the new drive.
+6- Tried to play the game from the disk but for my absolute rage i was getting again and again ONLY the ""Disk is unreadable"" error.
+7- SOLUTION!!! ----> Decided as my last try to install the second disk (the one that isn't the truncate one) on the HD and ever since i haven't gotten any errors at all (even with if i stay for long periods of time at vending machines or menus).
+
+Hope it works for more people out there.
+
+By the way....i had a silly queston while I was writing this.....On the context above which one is correct ""disc"" or ""disk""?"
+,Slyther15,2013-04-15T02:18Z,"How do I burn to a CD? im a n00b so yah, some help would be sweet"
+,jojo5831,2013-04-18T13:51Z,"1) Burn the game the regular way and save to hard drive.
+
+2) Use BURNERMAX with IMGBURN to burn another disc.
+
+3) Play the game with the BURNERMAX copy.
+
+No freezes what-so-ever! Great game! HAVE FUN!"

@@ -1,0 +1,149 @@
+﻿User Type,Username,Date,Text
+,PlzLogIn,2013-03-05T19:39Z,"What language is this in please, is it in English? Thank You..."
+,daspicer,2013-03-06T12:15Z,Check the file list.
+,PlzLogIn,2013-03-06T16:22Z,What file list?? So do I have to download this first to find out what language it's in?
+,thegarrett,2013-03-07T10:00Z,"This Version is RTM & not GDR !!!
+
+For those who are looking for GDR version - original version released on October 26, 2012. it is not.
+GDR- General Distribution Release (containing security and critical stability issue fixes)
+the current version of windows 8 Pro x64 bits after updateds and patches is 9200.16424.amd64fre.win8_gdr.120926-1855
+
+But this version is 
+RTM- is short for Release to Manufacturing/Marketing (ready for general availability)
+9200.16384.amd64fre.win8_rtm.120926-1855
+
+Totally wasted my internet bandwidth .... 
+
+and language is English ... "
+,PlzLogIn,2013-03-07T17:12Z,"@ thegarrett
+
+So what does this mean, what is the difference of the actual OS...is the RTM version different then GDR? What difference does it make whether you install either one of those..please help!"
+,daspicer,2013-03-08T05:29Z,"PlzLogIn: It says Files:3, click on the 3."
+,karl6587,2013-03-09T00:03Z,"I successfully installed it and started the ""activator helper x64"" in the ""crack map"". I clicked on ""activate win 8 enterprise""....... but when I go into control panel and press activate it gives me error.......
+
+Please help me. What have I done wrongly? "
+,karl6587,2013-03-09T00:11Z,I get error when I try to activate with the activation helper in the crack folder. Help?
+,amit375,2013-03-09T11:30Z,"i've downloaded this torrent n when i saw the ""install.wim"" file in the ""/sources"" folder, its showing date 26/7/2012. on this date windows 8 wasn't realese either. i think this is the pre windows 8 version not the final retail n ofcource not the updated one either, so download it on their own risk, its wasted my bandwidth. uploader should've think twice before uploading this kind of torrent. there is only 1 windows 8 which is release on 26 oct 2012 download it and update it."
+,thegarrett,2013-03-09T16:10Z,"@ PlzLogIn ... 
+GDR (General Distribution Release) & RTM (Release to Manufacturing/Marketing) are different versions.
+
+GDR contains security and critical stability issue fixes  for improving reliability and performance in battery life, Windows 8 apps, Start screen, audio and video playback, and driver compatibility(very important)
+
+ While using Windows 8 RTM version ... in My computer (AMD Athlon X2 3GHz processor & 4 GB RAM...)
+my computer hangs a lot... first I thought there is some problem with computer hardware ..
+so to check that I installed Win 7 SP1 & it is working flawlessly without hanging .
+then I googled about it & found that RTM version is not final version.
+
+
+How to know the build and Version of your OS?
+
+1. open Registry Editor (to open it please type in search ""REGEDIT"" )
+2. go to search type regedit/u see folder. double click each folder to expand: hkey_local_machine/software/microsoft/windowsnt/currentversion
+3.now in the right pane please look for the following two ValueName:
+BuildLab
+BuildLabEx
+
+these two valueName tell you the build and version of your current OS.
+
+If you are using Win 7 now, check above step & you will find that it's GDR & not RTM .."
+,PlzLogIn,2013-03-09T16:28Z,"Read this people, it clarifies everything up (in other words download this torrent then do the following to make it GDR):
+
+Windows 8 RTM and GDR Meaning:
+
+RTM- is short for Release To Manufacturing/Marketing (ready for general availability)
+GDR- General Distribution Release (containing security and critical stability issue fixes).
+
+
+There is no difference between RTM and Retail Channel release. In fact, the retail channel build was compiled a day before the RTM build.
+
+This is the update (Windows8-RT-KB2756872) which was released on 10th Oct 2012 makes it GDR release.
+
+Further, MS has no plan in future to integrate these updates/patches to the windows 8 ISO to make it one like it was done in Windows 7. all patches and updates will be always available on online.
+the current version of windows 8 Pro x64 bits after updateds and patches is 9200.16424.amd64fre.win8_gdr.120926-1855
+but yes, people are making it one after integrating these updates and patches (customized ISO) using MS Assessment and Deployment Tools.(edited). This means there is no ISO of windows 8 with all the updates including the gdr to dwonload from a microsoft unless some People make a cusomized ISO with updates and Patches.
+
+so either you use RTM or so called retail, makes it no difference.
+
+This Update is huge about 160MB for 64bit and 97MB for 32bit system, contains fixes for improving reliability and performance in battery life, Windows 8 apps, Start screen, audio and video playback, and driver compatibility.(edited)
+
+
+
+
+
+How to know the build and Version of your OS?
+
+
+1. open Registry Editor (to open it please type in search ""REGEDIT"" )
+2. now just expand the following key in sequence ( HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersion and click the last key CurrentVersion.
+3.now in the right pane please look for the following two ValueName:
+BuildLab
+BuildLabEx
+
+these two valueName tell you the build and version of your current OS.
+
+
+
+
+I made this post to all the People who is still confusing from a copy of windows 8 RTM,Leaked last August and the one Released last October.its the same build and its no difference. To make it GDR released u have to install the update i mentioned above .
+
+If still not satisfied from my post re-install windows go to my post . and follow the instruction on how to know your current build and os
+Using "" REGEDIT "" u see like this 
+9200.16424.amd64fre.win8_rt.120725-124 means on 25th July 2012 at 12 hours 47 minutes. this is win8 reach rtm.
+After installing update Windows8-RT-KB2756872-x64 . your build become gdr
+U see like this 9200.16424.amd64fre.win8_gdr.120926-1855
+
+The value above on a red highlight indicate the value the last 10 digits denotes date and time of the build
+120926-1855
+yymmdd-hhmm
+means: 
+12 = year 2012
+09= Month September
+26= date 26
+18= Hours
+55= minutes
+so this build is compiled on
+26th September 2012 at 18 hours 55 minutes. "
+,PlzLogIn,2013-03-09T16:50Z,"@ thegarrett
+
+Actually my Windows 7 says that its GDR and not RTM..."
+,PlzLogIn,2013-03-09T16:59Z,"So do I have to install this using a USB/External HDD, it can't be burnt onto a DVD??"
+,thegarrett,2013-03-09T19:09Z,"@PlzLogIn
+
+you can burn this on DVD.  because it's less than 4.3 GB. 
+use nero or ultraiso to burn this on DVD.
+
+But many people prefer USB installation , because it's having great reading speed as compare to DVD.
+
+use this link & download  - it's microsoft usb tool for usb installation.
+http://images2.store.microsoft.com/prod/clustera/framework/w7udt/1.0/en-us/Windows7-USB-DVD-tool.exe
+
+but use a blank usb because this usb program will format your usb drive & make bootable for installation ."
+,spyforce,2013-03-10T00:02Z,"can't upgrade from windows 7 to windows 8 it says compatibility report saved to desktop and i have to cancel the setup
+can anyone help me?"
+,thegarrett,2013-03-10T13:08Z,"@ spyforce
+go to this Microsoft link
+http://windows.microsoft.com/en-us/windows-8/upgrade-to-windows-8
+
+download & install  Upgrade Assistant .
+Check it's results for your Windows system eligibility for windows 8 upgrade."
+,thegarrett,2013-03-10T13:14Z,"@ spyforce
+go to this Microsoft link
+http://windows.microsoft.com/en-us/windows-8/upgrade-to-windows-8
+
+download & install Upgrade Assistant .
+Check it's results for your Windows system eligibility for windows 8 upgrade. 
+
+it's better to do fresh installation than upgrade."
+,theonenext2you,2013-03-12T12:54Z,"Thanks for the upload.
+
+I just have a question. As far as I know, windows 8 enterprise uses either KMS or MAK as a license and this activator act as the KMS. 
+
+So it would means that I have to use the activator to re-activate windows 8 enterprise every 180 days. correct?"
+,dac1949,2013-03-16T18:23Z,"thegarrett, thx for info!"
+,Tokizo,2013-05-07T08:41Z,"@thegarrett: i installed WINDOWS 8 ENTERPRISE-N RTM X64
+
+But in registry it say i have GDR
+9200.win8_gdr.130306-1502
+9200.16551.amd64fre.win8_gdr.130306-1502
+
+Profit?"

@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,Doomer D. Great,2013-03-05T12:15Z,"When I click ""Options"" on the launcher, it crashed. Any idea as to why?"
+,Moonlit_Wolves,2013-03-05T12:29Z,"What do you mean with:
+
+Sound Language (Russian)
+
+Am I unable to change it to English?
+
+
+I'm confused because above that line you write:
+Language: Russian / English (selectable in the game settings!)
+
+So then how is this exactly?
+
+Sorry, for the question, I'm just unsure.."
+,Azila,2013-03-05T13:32Z,"Moonlit_Wolves @ when u setup ..u will see three button ""Cancel"" ""Option"" ""Next"" ...click next to change language u want to use ...that all"
+,Moonlit_Wolves,2013-03-05T13:46Z,@Azila Thanks :) Then it should be no problem. Loading it now :)
+,dandalis,2013-03-05T13:57Z,was MP ripped ? plz tell cuz i wanna save sum space on HDD.
+,Azila,2013-03-05T14:47Z,dandalis@ no rip ..this is full mp and sp..if u want play mp..just download skidrow mp crack..then enjoy it ...
+,Azila,2013-03-05T14:52Z,this full mp+sp ..just rip some language except eng-rus only ..
+,scudamour,2013-03-05T16:58Z,"Ok, I've installed it and it loads up fine. But the audio language is in Russian. The only thing you can change is the language of the subtitles.
+
+So I don't know what Azila is referring to when he says ""click next to change language u want to use"". I don't see that option anywhere. 
+
+So just to be certain, is there any way to change the audio language to English? Or is this solely for Russians?"
+,darkcobrabws,2013-03-05T17:21Z,"Ok i might just be stupid but when i start the setup i get 3 buttons with gibberish and they act like
+
+""Next"" ""Quit"" ""Flip the tomb raider image and display more gibberish"""
+,darkcobrabws,2013-03-05T17:24Z,It never asks me for language either before installing
+,scudamour,2013-03-05T18:07Z,I'm getting this one instead: http://thepiratebay.sx/torrent/8220175/Tomb_Raider_SE_2013_DLC_RePack_MULTi13-z10yded
+,Moonlit_Wolves,2013-03-05T19:08Z,"ATTENTION: This ""REPACK"" is only in Russian...
+
+The only English is the writing in the menu and the subtitles."
+,Moonlit_Wolves,2013-03-05T19:19Z,"ATTENTION #2
+
+I've fixed it so that the game is in English.
+
+If you want to play the game in English, then all you must do is delete the following 2 files from the installation directory.
+
+1. bigfile_RUSSIAN.000.tiger
+2. title_RUSSIAN.000.tiger
+
+Once you remove them and start a new game, it should be in English. At least for me the opening cinematic is in English. However I don't know if these will lead to any crashes, it does work like this though.
+
+Please give me feedback if this works. Thanks!"
+,martingru,2013-03-05T20:17Z,"I couldt locate langauge selector so im trying to remove some files aswell.
+Will report later.
+Regards"
+,martingru,2013-03-05T20:21Z,"coudnt locate option for chenge language so i removing files aswell.
+Will report back later.
+Regards!"
+,martingru,2013-03-05T21:11Z,"ITs crash when Lara should speak something,tho intro is ok .
+  Will buy full , 25-35 FPS with ultra settings  without hair animation 
+i3 2100 3,1Ghz 
+4GB 
+GTX 550 TI 
+Possibly will upgrade GPU , i like more then 45-50FPS 
+Gretzz"
+,ScrubLife,2013-03-05T22:45Z,"Russian audio only.
+Tried removing files as Moonlit suggested, but it only leads to a crash.
+No setting in the launcher or setup. And in-game is text changes only.
+Either get another release or hope someone uploads language files"
+,EniXBlaze,2013-03-06T08:56Z,"I think I figured out how to get this torrent's audio work in English. Just install the game first then:
+1/ Get this torrent: 
+https://thepiratebay.sx/torrent/8218890/Tomb_Raider_SURVIVAL_EDITION_STEAM_FULL_UNLOCKED
+
+2/ Only download the following files:
+bigfile_ENGLISH.000.tiger
+patch_ENGLISH.000.tiger
+title_ENGLISH.000.tiger
+
+3/ Move the following files in INSTALLED game's folder to another location for backing up purpose:
+bigfile_RUSSIAN.000.tiger
+patch_RUSSIAN.000.tiger
+title_RUSSIAN.000.tiger
+
+4/ Put the newly downloaded files (ones with ""ENGLISH"" in their name) to the installed game's folder.
+
+I'll report soon if this works."
+,gulisa,2013-03-06T13:27Z,"damm god,i hate this fukin russians....they are noobs in every fukin game,and on all fukin sites ,and they tards on this site 2...damm..all fukin games they make them on fukin cave language"
+,EniXBlaze,2013-03-06T16:58Z,"I'd like to report that my method solved the audio problem, have fun!"
+,MrSweDuder,2013-03-15T16:29Z,"Why is my setup in like, special letters? And when i install the game it doesn't start, nothing happens, please help!!"

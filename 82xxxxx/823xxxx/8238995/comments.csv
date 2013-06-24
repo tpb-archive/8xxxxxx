@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,decoy027,2013-03-11T05:55Z,"What your actually installing is Niresh's OS, NOT yours."
+,canag,2013-03-22T05:03Z,@decoy027 he is Niresh you idiot
+,veszely,2013-04-29T13:15Z,^^
+,tpb30,2013-05-01T04:27Z,"is this md5 checksum is confirmed?
+b1fa6370f3f819fc772ff98a2b17f767
+thx :)"
+,mikedongs,2013-06-03T20:20Z,"tpb30: there is no need to verify the MD5 of a file in a torrent. i'm not sure why people even bother with MD5 hashes of a torrent. each chunk of data has already been SHA-1 hashed when the torrent was created. these hashes are saved in the .torrent file as metadata or retrieved from a magnet link. your BT client automatically verifies the hash of every data chunk it downloads. if it doesn't match, that chunk is just discarded. the data is only saved to your drive if it's a match."

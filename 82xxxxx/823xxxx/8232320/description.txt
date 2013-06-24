@@ -1,0 +1,38 @@
+Protocol version 23
+Exe version 1.0.0.76 (cstrike)
+Exe build: 18:14:09 Jan 30 2013 (5198) (240)
+
+To change your name press ` and write in the console setname "name" without " "
+
+If you have problem changing your name please check this :
+    
+http://csmega-bg.com/forum/viewtopic.php?f=24&t=1855&p=19697#p19697
+
+If your game is shutting down by itself please change the name of the main folder and try again.
+
+
+Counter-Strike: Source Update Released
+Product Update - Valve
+An update to Counter-Strike: Source has been released. The update will be applied automatically when you restart Counter-Strike: Source. The major changes include:
+
+    Added mat_viewportupscale and mat_viewportscale to enable rendering the world at a reduced resolution
+        "mat_viewportupscale 1" and "mat_viewportscale 0.5" will downscale world rendering by 50%
+    Added positional audio support for Mumble clients
+    Added a new ConVar mp_mapcycle_empty_timeout_seconds to trigger a changelevel when the server is empty
+    Added a new ConVar sv_shutdown_timeout_minutes
+        Forces a server to shutdown if it has been requested to do so, even if the server is not empty
+    Fixed a ConVar exploit that allowed malformed values to circumvent range checks
+    Fixed a con_logfile ConVar exploit
+    Fixed HTTP downloads on Mac not sending an HTTP referer
+    Fixed a bug that prevented consecutive clicks on scrollbar buttons
+    Fixed a bug that was causing intermittent lag spikes for Linux dedicated servers
+    Fixed a crash while command-tabbing on Mac in fullscreen
+    Fixed a client crash in the sound emitter
+    Fixed an audio problem for Mac users
+    Fixed MOTD sometimes not displaying HTML contents
+    Improved the performance and stability of the libraries used for in-game HTML display
+    Performance and stability improvements
+    Updated to support Big Picture mode	
+
+
+Fix Crashes ,when connection the servers and even when playing with bots !!!	

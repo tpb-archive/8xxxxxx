@@ -1,0 +1,19 @@
+Newest version of Gnomoria as of March 12, 2013
+
+VERSION: 0.8.31
+FIXED:
+Armor that can't be used, remaining on the map after a goblin left. These shouldn't appear anymore and are deleted when loading old saves.
+Crash with smelt jobs where the item was no longer available
+General Kingdom Worth calculation fixes
+Items not reducing Kingdom Worth if a goblin dropped it, picked it back up and then left the map
+Items sometimes adding their value to Kingdom Worth a second time when a gnome dies
+GENERAL:
+Adjusted enemy spawn strength formula such that slightly higher Kingdom Worth is needed for each stage
+Adjusted gnomad formula so that more gnomads arrive earlier and less later
+Automatically generate crafting jobs
+Reduced mant worker spawns by 20%
+Reorder tabs in workshop UI to be consistent with other UI. Default tab is still the crafting tab.
+
+Note: 
+You must have XNA installed to play this.
+You can find it easilly by googling it.

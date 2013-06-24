@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,.Chief,2013-03-15T01:38Z,"Assassins Creed III v1.04 Update info:
+
+ABILITIES
+
+It is no longer possible to get multiple streaks for the same kill or stun.
+It is no longer possible to continuously use a loss streak under certain conditions.
+After a character dies, their smoke bomb ability cooldown is not improperly reset anymore in Domination on Northwest Passage.
+The aiming FX for knives is no longer stuck on the screen if the ability is used while the character is walking in an idle state at the beginning of a session.
+Players can no longer use the Animus Hack when stunned.
+
+MAP SPECIFIC
+
+In Saint Pierre, Martinique characters no longer remain stuck inside the sugar cane field when trying to stun their pursuer under certain conditions.
+In Charlestown, the camera now works as intended when the player hides in a haystack under a roof.
+
+MODE SPECIFIC
+
+In Wolfpack, Players can now kill the final boss even if the last targets (in session 24) are killed with the Animus hack win streak.
+In Wolfpack, fixed a bug where the game could be stuck for a player at the start of a four players Wolfpack session on the night version of the Charlestown map.
+In Wolfpack, the extra objective now refreshes properly if the host leaves the session when the synchronized kill staging starts.
+In Domination, fixed instances where the game could crash at the end of a session.
+In Domination, chase breakers in an enemy base don’t incorrectly open for a player fast walking towards them under certain conditions.
+In Assassinate, the lock is no longer cancelled when the pursuer enters a haystack.
+In Artifact Assault, the player no longer re-spawns with the flag if killed with a gun in mid-air while jumping in the enemy base under certain conditions.
+
+MISC
+
+Players are no longer stuck under certain conditions after performing a contested kill at the base of a crane.
+Several issues which happened when the group leader would back from searching for game sessions have been corrected.
+Weather effects now work properly for all players in a session.
+The variety bonus counter is no longer broken under certain conditions.
+
+PC SPECIFIC
+
+Some user interface overlap problems have been fixed.
+Improvements have been made to the Loyalty feature.
+A quick access to the Abstergo Store has been added. You can now access it from any screen by clicking on the wallet icon in your player profile area in the top right hand corner.
+A new tip about the Abstergo Store has been added."
+,OmarKH,2013-03-15T04:01Z,"- Do I need to install previous updates?
+ - Can I install DLCs with this?
+ - Will it work with BlackBox without losing the save?
+
+ And thanks :) "
+,Kelaro,2013-03-17T10:33Z,I can't find update 1.03 anywhere on it's own - any chance the uploader could release 1.03? I have just downloaded 1.04 but can't use it until I get 1.03 :-(
+,Liman_Bot,2013-03-18T23:27Z,"To make it work with the BlackBox release u'd need to know alot about registry entries and stuff,and it'd be very hard to doo cause you could brake the game at any point,better get the SR version patch it up to 1.04 and install the dlc,and then finally enjoy :D"
+,Furious1964,2013-03-20T17:42Z,"I installed this and the game freezes on my HP M6 gaming laptop. I have the latest drivers, so how can I fix this?"
+,Furious1964,2013-03-20T18:39Z,Can you guys work a on fix for the various freezes I'm having on a HP M^ laptop with an AMD Radeon 7670M Graphics Card?
+,severed1314,2013-03-24T00:17Z,The game doesn't even start now. Thanks
+,CAMILOGOD,2013-05-07T16:48Z,"I INSTALLED SKIDROWS 1.03 ASSASSINS CREED, TRIED TO UPDATE IT WITH THIS AND AM GETTING ""CANNOT FIND INSTALLATION FOLDER"" MESSAGE..."
+,fear_09,2013-06-04T21:51Z,I assume this includes all previous updates?

@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-03-06T10:15Z,ENJOY DMC New and Exclusive DLC works in both Steam-Rip and RELOADED Version by RG-Gameworks!
+,yesmann,2013-03-06T10:30Z,"seed this, please"
+,Azila,2013-03-06T10:50Z,need any update for DmC or not before install this DLC ? bro
+,kuto_makaryo,2013-03-06T11:22Z,seed
+,GamerKP,2013-03-06T11:51Z,thank you
+,hiksez,2013-03-06T12:00Z,crashes after capcom logo. 
+,Machine4578,2013-03-06T12:36Z,"@hiksez
+you need update 2 to play this!! i dont have this RG Gameworks version.. but my version works perfect.."
+,yesmann,2013-03-06T12:42Z,"This works, but if you are using Reloaded you will have to go to where your game is located then Binaries/Win32/steam_rld and open it with notepad and change UserName to RLD! so you don't lose your save files with Dante. You can also set language to english."
+,Mecenass,2013-03-06T15:17Z,Can't start it says XMD.dll is missing....can anyone tell me what i did wrong?
+,fear553,2013-03-06T15:29Z,will this work with the kaos version
+,Mecenass,2013-03-06T15:34Z,I don't know where to copy the steam files anyone help?
+,rodher,2013-03-06T15:49Z,"crashes at capcom logo, I'm using reloaded version... how do i fix it?"
+,rodher,2013-03-06T15:50Z,"crashes at capcom logo, using releaded version... how do i fix it?"
+,faryk,2013-03-06T15:57Z,Thx. It's worked.
+,faryk,2013-03-06T15:59Z,"Thx. It's woked. 
+Mecenass,  installed in the wrong folder."
+,dubai1991,2013-03-06T16:20Z,thanks a lot...
+,adnana989,2013-03-06T16:32Z,"@faryk 
+where do i need to install it then ??
+have the same problem XMD.dll missing "
+,johncanyon2009,2013-03-06T16:44Z,crash at capcom logo any suggestions plz?
+,faryk,2013-03-06T16:49Z,"adnana989, In the same folder as the original game. Make merge folders."
+,Razzak18,2013-03-06T17:23Z,Works but after few minutes it crashes.
+,kruger6,2013-03-06T17:35Z,When I try to run the game it says: steam must be running to play this game. How do I fix this?
+,adnana989,2013-03-06T17:36Z,"@faryk 
+i have the RELOADED version without UPDATE 
+i have DmC in C:Program Files (x86)DmC Devil May Cry"
+,kruger6,2013-03-06T17:44Z,"It says steam needs to be running to play this game, how do I fix this?"
+,omega_jss,2013-03-06T17:48Z,will this work on DmC 1.2 with all pre-order bonuses and dlcs like costumes and bloody palace? i'm i going to lose any of these?
+,mirk892000,2013-03-06T18:38Z,"Can someone who got it working or the uploader explain more detailed which one is the crack,where to apply it and what to do with the files in the steam folder?"
+,maxareuos,2013-03-06T18:49Z,"it doesn't work,
+i did everything possible including updating it to patch 2 with the latest bonus pack.
+i dont know who put this clumsy upload in TPB but if a computer technician and a programmer tried to run it without success - i dont know how the average user would ever be able to..
+
+whoever you are - your intentions were good, just the next time you want to upload something as complex as a computer game - please leave it for someone who knows what he's doing otherwise it will be a waste of time for everyone.."
+,kruger6,2013-03-06T19:15Z,I finally got it to work but now the language has changed to russian. How do I change the language?
+,teranomad,2013-03-06T20:20Z,"To change lang try- 
+DmC Devil May CryBinariesWin32 and open steam_rld and change russian to english and save it"
+,carlito7,2013-03-06T21:11Z,"hey guys just a BIG heads-up in case you fucked up like i did, make sure you install this inside your DMC installation folder, i accidentally installed it in the Program Files directory, and when i used the uninstall option from the DLC, it started uninstalling everything in my Program Files directory (games, drivers, MS office, etc) and you can't cancel it unless you do it from the task manager, and it still takes it's sweet time to stop, i had already scheduled a re-format so i don't really care, just make sure you don't fuck up :)"
+,JonhBR,2013-03-07T02:13Z,I lost my SAVE :S and is no more in english.... WHYYYYYYYYYYYYYY ? 
+,Amario130,2013-03-07T02:52Z,"Guys, I figured it out. Be sure to install Vergil's Downfall into the your DmC folder directory. Once you do, go to NoDVD/Binaries/Win32/ and copy the steam 2 files into your DmC/Binaries/Win32 game folder but before you do, take out the old  steam_rld.ini file and put it on your desktop. Next, open both the new steam_rld.ini and the old one on Notepad. Change the language of the new file to English and type the old username into the new one. Hope this helped!"
+,Amario130,2013-03-07T02:55Z,"Guys, I figured it out. Be sure to install Vergil's Downfall into the your DmC folder directory. Once you do, go to NoDVD/Binaries/Win32/ and copy the steam 2 files into your DmC/Binaries/Win32 game folder but before you do, take out the old  steam_rld.ini file and put it on your desktop. Next, open both the new steam_rld.ini and the old one on Notepad. Change the language of the new file to English and type the old username into the new one. If you don't knowHope this helped!"
+,Amario130,2013-03-07T03:19Z,"If you replaced your old steam_rld.ini, good luck trying to find out your own username. If you did though, try  username=RLD! and DO NOT forget to change your Language=english"
+,Zack182,2013-03-07T04:18Z,"Here the game opens, however after the logo appears CAPCOM game stops working ... any solution for this?"
+,TheDragonReborn26,2013-03-07T04:22Z,"@maxareuos#moron You're an idiot. It works fine. Maybe not for YOU, but you shouldn't go around slamming someone's torrent because YOU are too simpleminded to get it to work. "
+,Razzak18,2013-03-07T06:05Z,"Works.Download Reloaded version,update the game to 1.1,DO NOT Download and update the game to 1.2(It will not work),install Vergils downfall and play."
+,kuto_makaryo,2013-03-07T07:32Z,"it works, tnx heromaster m/"
+,Chronorider,2013-03-07T12:17Z,"This Torrent is nothing but Trash. Did everything I was told, read through all the comments, found out everything I'm supposed to do. then when I finally get it to work, crashes after Capcom logo shows up. Along with that no one is saying weather or not they actually have gotten it to work."
+,rawan007,2013-03-07T16:25Z,how to update to latest patch..
+,Zack182,2013-03-07T18:24Z,would be possible to provide a link to version 1.1 of the game?
+,Mercer99,2013-03-07T22:57Z,"I got this to work just fine, here's everything I did:
+1. I installed Reloaded's version of DmC
+2. Installed Update 1.2 + Bloody arena (Not sure if this is necessary but as I said, just stating everything I did to try to help people)
+3. Downloaded this, set my destination folder to Desktop, it created a folder named Devil May Cry
+4. Copied and pasted everything from that folder into my DmC directory.
+5. Replaced the files with the cracked ones that are contained in NoDVD/Binaries/Win32
+6. In the same folder as your Devil May Cry.exe there will be a file called steam_rld.ini, open that and change username to ""RLD!"" without quotes, and language to ""english"" without quotes
+7. Enjoy!"
+,Crosschop,2013-03-08T14:02Z,the file name directory name or volume label syntax is incorrect what happen???
+,pool_shark,2013-03-08T15:19Z,"I lost all my progre thanks to this torrent.
+Does anyone know how to get it back
+I had already beated son of sparda mode ;_;"

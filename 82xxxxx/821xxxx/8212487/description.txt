@@ -1,0 +1,12 @@
+Overview
+
+Raspbian Server Edition is Raspian with a lot of the GUI and other non-essential utilities stripped out. ItΓÇÖs meant to be used as an easy to deploy base for servers of any kind. It keeps the core of Raspbian with no extra utilities slapped on.
+
+Details
+
+Raspbian Server Edition 2.3 is based on the 2013-02-09 release of Raspbian. Disk usage is down to around 570 megabytes.
+
+IΓÇÖve stripped out approx 283 packages in this release. The full list can be found here.
+
+
+Source: http://sirlagz.net/2013/02/14/raspbian-server-edition-version-2-3/

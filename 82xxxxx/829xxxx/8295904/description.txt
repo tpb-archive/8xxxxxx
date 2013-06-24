@@ -1,0 +1,36 @@
+KMSpico_v4.4_Install, KMSpico OEM and KMSpico Only Service
+
+Important: If you like MS Windows and MS Office please buy legal and original this program help to test this products, but recommend you buy legal. I did this for fun, and now I am done with this. 
+Working in W8 and Office 2013 fresh install and VOLUMEN LICENSE editions.
+Ja mata ne, Farewell, Hejdå, Ciao, Aloha, Zegnaj, Doei
+
+KMSpico v4.4 Setup Edition.
+
+- Requirements: .NET 4.0 or Windows 8/2012.
+- Activate: Windows Vista/7/8  
+			Office 2010/2013 
+			Windows Server 2008/2008R2/2012
+
+0. Disable SmartScreen on Windows 8.
+1. Run KMSpico_Install_v4.4.exe
+2. Install.
+3. Done.
+
+Based off of KMSEmulator of CODYQX4.
+
+Thanks to mikmik38, qad, CODYQX4. All the credits for they.
+Thanks MyDigitalLife.info
+Thanks hui.
+
+Change Log:
+- Add Firewall Rule to Service.
+- Remove old code from KMSELDI.
+
+Note:
+- If you install a Office Retail Version after the installation of KMSpico,then run again the shortcut KMSpico to make the conversion, because the Service
+installed only activate VL.
+
+Recommendations Optional:
+
+- Disable Microsoft Security Updates.
+- Make exceptions to Directory %ProgramFiles%KMSpico in Antivirus.

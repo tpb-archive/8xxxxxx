@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,KotsChopShop,2013-03-23T04:53Z,doesn't work? ..it updated to 1.5.1 and I can't spawn anything via CP ..what's wrong with this thing???
+,LegnaOrez,2013-03-23T11:07Z,"Nice job and works great! Also better than the cracked technic launcher which installs old versions of the mods on an old version of minecraft. A few things I would recommend. (1) Install NotEnoughItems, Remove CraftingGuide since a better crafting guide is integrated into NEI. (2) Install DamageIndicators mod. (3) Disable the generation of extra copper and tin ores from Universal Electricity and Redpower config files (in .minecraft/config/). (4) Pre-installing some form of Optifine would be great too. There are the HD and multi-core versions but since not everyone has powerful machines then even a basic version would be better than none.
+
+Texture packs are a matter of personal preference but also try DokuCraft and tell me if you like it.
+
+I'm compiling a mod pack for my dad thats based on this so this is great because it saves a lot of time! When I am done tinkering around with it i'll tell you all the things I did besides what I listed above."
+,LegnaOrez,2013-03-23T11:09Z,Sorry I meant the GeruDoku texture pack.
+,LegnaOrez,2013-03-25T03:59Z,"Okay evaluated it a bit more. 
+
+It looks like GeruDoku doesnt work very well since there are some missing textures for some of the Mo'creatures items.
+
+There appears to be a bug where the modular power suit items cannot be charged using a batbox or any other IndustrialCraft2 charger (havent tried all the possible chargers, but tried a few). The fix for this requires a more upgraded version of IC2, the latest dev version of IC2 caused crashing but this version worked for me: http://141.28.27.36:8080/job/IC2_lf/229/ -- Places where I disabled ore generations for copper and tin are in the following config files (in the config folder). Galacticraft/core.conf; redpower/redpower.conf; UniversalElectricity/UniversalElectricity.conf.  Furthermore, I also added the 'Iron Chests' mod to increase chest storage capacity since thats the only way I know how to increase chest capacity without installing Equivalentexchange mod. Noticed that horses (I only tested with one) cannot jump and furthermore gain insane speeds when wearing powersuit legs with the running speed upgrade. 
+
+@kotschopshop -- answer: dont upgrade ur minecraft to 1.5 because the mods arent made for 1.5 and there might be some broken things if you upgrade."
+,KotsChopShop,2013-03-30T01:36Z,"thanks for the reply L, but I have continually had no choice - even with 'force update' unticked, it forces updates every single time I run it :/
+
+and who do I sign in as? myself or Draculz (being that I've seen an option a few times to sign in him)"
+,KotsChopShop,2013-03-31T07:46Z,"and then, if I disconnect from the internet so as to keep it from updating, when it runs, it's just a black screen when it should load the game.. wtf dood"
+,LegnaOrez,2013-04-01T02:18Z,"KCS, maybe you are using the wrong launcher? Mine points to ""...AppDataRoaming.minecraftminecraft launcherMinecraft Launcher.exe""
+
+Anyways, i've messed around with trying to get NEI to show all recipes and i've managed to install the NEI plugins that show buildcraft recipes but there was a crash which I managed to fix by downloading the file at the bottom of this page ( https://bitbucket.org/mistaqur/nei_plugins/issue/67/latest-nei-and-nei-plguins ) and putting the files from that download in the appropriate place in my neiplugins jar file.
+
+I tried to install the enderstorage mod but it was causing minecraft to lock up during launch. If I figure out how to fix that then i'll post the installation instructions here."
+,LegnaOrez,2013-04-01T02:19Z,Whoops i dont know why the backslashes got erased in the last comment I posted.
+,LegnaOrez,2013-04-06T07:32Z,"Okay, the TPB comment system has been acting really funny lately; so i'll just post a big long list of things I did.
+
+1) To prevent duplicate ores: disable copper and tin generation from Redpower and Electric Expansion config files (IC2 already generates copper and tin which is compatible with other mods that use it)
+2) Remove Crafting Guide
+3) Install NotEnoughItems (a better replacement for CG) 
+4) Install NEI Addons (the NEI addons file needs the fix from here (https://bitbucket.org/mistaqur/nei_plugins/issue/67/latest-nei-and-nei-plguins) to be compatible with this mod pack)
+5) Remove Syntacraft (it causes crashes/world breakage when placing a dual compressor)
+6) Install Ender Storage (warning, ID conflict! Run minecraft once to generate the cfg file and then open enderstorage.cfg and change the block.id value to 247 or any other unused block id)
+7) Install Iron Chests Mod (more storage capacity is DESPERATELY needed for a mod with this much stuff in it)
+8) Update IndustrialCraft2 mod to resolve issue where IC2 boxes cant charge modular powersuit items (This version works with 1.4.7: http://141.28.27.36:8080/job/IC2_lf/229/)
+9) Install Advanced Machines Mod (rotary macerator) (warning! ID conflict. Generate the cfg and then change the ID of 'AdvancedMachineBlock' to 4050 or other unused block ID)
+10) Install CompactSolars mod (for better solar arrays)
+11) Install Twilight Forest mod.
+
+With that, the mod pack should be nearly on-par with the Tekkit/FTB modpacks. There are some nice things and fixes only available on the 1.5 or so line of MC (like the improvements to twilight forest) but this is a decent start. I haven't looked into forestry or any other of the mods that are on the yogbox but you should only need to install a small handful of mods after this to be completely on par with technic/yogbox."
+,HellCrusher,2013-05-24T09:30Z,Thank you so much man! If u could regularly update this with newere versions it would be great :)

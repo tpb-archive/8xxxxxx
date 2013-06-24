@@ -1,0 +1,29 @@
+What is new in version 5.0.0.44 (Released March 1st, 2013)
+
+- 0006451: [Bug] pal selection non existant in german translation (cedric) - resolved.
+ - 0006462: [Suggestion] in audio tab change text (felicia) - resolved.
+ - 0006463: [Bug] file trp no load in v5, loads in v4 and converts (felicia) - resolved.
+ - 0006456: [Bug] no warning when file not loaded (felicia) - resolved.
+ - 0005993: [Bug] external audio does not play with video in preview (felicia) - resolved.
+ - 0006460: [Feature Request] change general settings to "Default settings" (felicia) - resolved.
+ - 0006348: [Feature Request] Ability to change the priority from the tray icon. (felicia) - resolved.
+ - 0006449: [Bug] ms all by itself in interface in output tab (felicia) - resolved.
+ - Fixed problem of manner in which to import some DVDs
+
+System Requirements
+
+Hardware
+Processor Intel Pentium III / AMD Athlon
+(Intel Pentium 4 / AMD Athlon XP or equivalent recommended)
+512 MB RAM with Windows XP
+1 GB RAM with Windows Vista
+Hard disk drive with at least 4.3 Gbytes free
+DVD Burner
+
+Operating System
+Windows XP SP2/SP3, Windows Vista, Windows 7 & 8
+
+Languages : English, Spanish, French, Italian, Japanese, Chinese, German, Arabic and more.
+
+Homepage :  
+http://www.vso-software.fr/products/convert_x_to_dvd/

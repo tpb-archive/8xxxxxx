@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,Cyb3rSick0,2013-04-16T21:37Z,"@bruss.aka.durka9 
+
+Procname value not found on command line or in rev.ini. Please edit the file"
+[T],bruss.aka.durka9,2013-04-16T22:50Z,"to Cyb3rSick0
+You use old game-build. You must download and install new-generation game-build: http://thepiratebay.sx/torrent/8380094 . Update from older builds not available yet."
+[T],bruss.aka.durka9,2013-04-17T01:32Z,"to Cyb3rSick0
+Or you can run updater, then add to rev.ini (placed in game-dir) strings:
+[Loader]
+ProcName = hl2.exe -steam -game cstrike -appid 240 -novid"

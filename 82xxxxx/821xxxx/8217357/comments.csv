@@ -1,0 +1,97 @@
+﻿User Type,Username,Date,Text
+,moeburn1,2013-03-04T04:32Z,"What's new in Euro Truck Simulator 2 Patch 1.3.1:
+· several safety checks added to improve stability with unofficial game mods created for previous versions of the game
+
+
+
+What's new in Euro Truck Simulator 2 Patch 1.3.0:
+· official licenses from Iveco and Volvo
+· ability to change the company name, logo or preferred brand
+· retarder (automatic or manual)
+· per-profile mod selection (can be overridden using -force_mods command line parameter)
+· support local currencies of each country in the game
+· gearbox accessory selection
+· new online radio stations (now up to 190 stations)
+· physics takes into account different weights for trailers and cargos
+· Renault Premium upgrades
+· Renault Magnum side-skirts are now an optional upgrade
+· hired driver log
+· hired drivers more likely to find suitable cargo on the way back
+· re-hired driver issue fixed
+· ferry fee is not charged to player for quick jobs
+· UK distances in GPS fixed
+· fixed memory leak when playing mp3 files using radio
+· improved handling of corrupted save files
+· improved resiliency to some types of corruptions caused by mod removal
+· fixed cabin blur during rain
+· over 200 map changes and fixes
+· several German roads thoroughly tweaked and prettyfied
+· bump causing damage on German A3 fixed
+· powerline columns in the middle of the road removed
+· gas station in Bremen
+· AI curves fixing on some prefabs
+· increased vertex buffer sizes to improve game stability with more detailed vehicle models
+· Product Key verification step added, only genuine keys in good standing accepted as of version 1.3+ [DONT WORRY ABOUT THIS, doesn't affect cracked game!]
+
+What's new in Euro Truck Simulator 2 Patch 1.2.5.1:
+· DAF - added as new licensed truck brand
+· added command line parameter -nodx9ex which disables extended DX9 interfaces for compatibility with Xfire
+· support for Unicode characters
+· support for Japanese, Korean, Vietnamese, Chinese, and Bulgarian
+· enter your name in profile with non-ASCII characters
+· better automatic save/load system
+· fixes in registration plates for SK, NL, FR, I, S, BE, A
+· recreated lamps illumination of all trucks, trailers and AI vehicles
+· readjusted fatigue simulation
+· new gearboxes for each truck
+· adjusted steering
+· over two hundred individual map fixes and prettyfications, fixed weather areas, added new lamps to prefabs
+· several inaccessible roads removed from navigation system
+· bus added as AI vehicle in traffic
+· improvements of AI handling on prefabs - speed, acceleration, and braking
+· decreased Valiant dashboard brightness
+· route advisor's ""running line"" corrected
+· added extra tier to progress history - progress is shown up to level 150 now
+· skill screen doesn't pop up on level up anymore if there are no skill points available
+· rain probability slider added to Options
+· truck braking intensity slider added to Options
+· subtle improvements in HDR tonemapping
+
+
+
+What's new in Euro Truck Simulator 2 Patch 1.1.3:
+· Improved handling of fatigue.
+· Stopping of advisor lines fixed.
+· Some potentially crashing issues fixed."
+,moeburn1,2013-03-04T04:33Z,"What's new in Euro Truck Simulator 2 Patch 1.1.1:
+· Hazard warning indicators are working with engine off.
+· Improved vehicle maneuverability.
+· Improved HDR tonality.
+· Cruise control disables on any action of the driver.
+· Fixed sunshafts missing with MLAA enabled in some situations.
+· Dynamic force feedback disabled when the game is paused.
+· Truck license plate management corrected.
+· Missing money in UK variant of ""lite"" Route Advisor fixed.
+· Wrong dashboard cruise control symbols corrected.
+· Wrong handling of double click on certain UI elements fixed.
+· Missing AI traffic on some low-end setups fixed.
+· Missing load/save screenshots for long profile names fixed.
+· Random trailer disappearing after truck upgrade fixed.
+· Missing navigation route after truck upgrade fixed.
+· Parking bonus is awarded correctly.
+· Total job distance computation corrected.
+· Fixed sound bursts of the environment-placed sounds.
+· Parking brake stick animation updated after setting value.
+· Map: signs tweaking, AI speed tweaking on some problem spots.
+· Fixed Majestic windshield wipers."
+,xillix666,2013-03-16T17:24Z,"works perfectly, cheers!"
+,JohnnySasaki,2013-03-19T00:57Z,"Works perfectly. Windows 7's security thingy said that the publisher was unknown, but so far the game's running great with no problems. You guys might want to block internet access for the game just in case."
+,AzL79,2013-03-22T22:15Z,Trojan.... :/
+,AzL79,2013-03-22T22:20Z,Works perfectly if y want a trojan...
+,moeburn1,2013-03-24T17:21Z,"it's not a trojan you farktards.  It's detected as a generic heuristic ""trojan"" because of the way the crack accesses memory.  Don't believe me?  Run it in sandboxie and be amazed at how it does nothing but play the game."
+,themadmedic,2013-03-31T19:05Z,"When I try to run it, I get ""The game filesystem failed to initialize, aborted now""
+Can you help? :/"
+,Sierra53,2013-04-01T10:00Z,Doesnt work
+,moeburn1,2013-04-06T08:06Z,"works fine for me, are you sure you are applying it to the right version?"
+,n0iz3d,2013-04-07T02:31Z,Thanks man!
+,Thechangenick,2013-05-31T09:33Z,its not a trojan 

@@ -1,0 +1,81 @@
+::Release Info::
+================
+Release Title: Interlude [1968] Kevin Billington
+Encode date:
+
+::IMDB Info::
+=============
+IMDB Link: http://www.imdb.com/title/tt0063136/
+Storyline: A famous conductor gives an interview to a pretty young reporter. He speaks a bit too frankly and finds he's given himself an unwanted sabbatical from conducting. He begins an affair with the young reporter during his interlude and the accumulation of differences in their ages and background begins to mount up.
+Genre: Drama
+Release date: 02/07/1968
+
+::Actors::
+==========
+Oskar Werner ... Stefan Zelter
+Barbara Ferris ... Sally
+Virginia Maskell ... Antonia
+Donald Sutherland ... Lawrence
+Nora Swinburne ... Mary
+Alan Webb ... Andrew
+Bernard Kay ... George Selworth
+Geraldine Sherman ... Natalie
+Gino Melvazzi ... Mario
+Muguette De Braie ... Mario's Wife
+Robert Lang ... Humphrey Turnbull
+Roslyn DeWinter ... Humphrey's Secretary
+Janet Davies ... Nanny
+Sarah Jane Stratton ... Sarah Jane
+Simon Davis ... Simon
+
+General
+=======
+Unique ID : 298233093109536388912950230744652591049 (0xE05D9ABCC18A72803EA74408C46C2FC9)
+Complete name : Interlude [1968] Kevin Billington.mkv
+Format : Matroska
+Format version : Version 2
+File size : 1.20 GiB
+Duration : 1h 48mn
+Overall bit rate : 1 588 Kbps
+Writing application : Lavf52.94.0
+Writing library : Lavf52.94.0
+COMMENT : www.freemake.com
+
+Video
+=====
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 48mn
+Nominal bit rate : 1 438 Kbps
+Width : 856 pixels
+Height : 480 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.140
+Writing library : x264 core 112 r1834 a51816a
+Language : English
+
+Audio
+=====
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 1h 48mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : 70ms
+Language : English

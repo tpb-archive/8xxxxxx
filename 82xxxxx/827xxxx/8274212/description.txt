@@ -1,0 +1,29 @@
+PublicHD - High-Definition Bittorrent Community
+      
+http://publichd.se/
+
+----------------------------------------------------
+
+Playing.for.Keeps.2012.720p.BluRay.x264-DON [PublicHD]
+ 
+http://www.imdb.com/title/tt1540128
+
+RUNTIME.......: 1:45:37                      
+SIZE..........: 5.33 GB                      
+VIDEO CODEC...: x264, crf 16, L4.1           
+FRAMERATE.....: 23.976 fps                   
+BITRATE.......: Variable ~ 6441 Kbps         
+RESOLUTION....: 1280x534                     
+AUDIO ........: English DD5.1 @ 640 Kbps     
+SUBTITLES.....: English                      
+CHAPTERS......: Included 
+SOURCE .......: Playing for Keeps 2012 1080p Blu-ray AVC DTS-HD MA 5.1-LAZERS (many thanks!)
+
+Note: 
+The source doesn't look great everywhere, so to fix/prevent banding/blocking I used GradFun2DBmod. I checked the encode with mpc-hc and in motion I didn't notice any banding, so I decided not to zone it, because for more accurate results it needs insane bitrate in too many places.
+
+
+x264frame I:1289  Avg QP:15.14  size:118975
+x264frame P:32391 Avg QP:17.06  size: 62516
+x264frame B:118263 Avg QP:19.00  size: 25677
+x264consecutive B-frames:  1.7%  3.1%  5.9% 23.3% 18.4% 32.3%  8.5%  6.9%

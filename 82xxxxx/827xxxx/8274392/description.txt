@@ -1,0 +1,27 @@
+This is a physics game I developed for windows and mac, I would like to place this game on Appstore and GooglePlay however, its very expensive so here I give you free.
+
+If you like the game or what it can become you can support it with just 1 dollar, I dont need $500 this is the minimum limit indiegogo sets. I actually would be happy to get 99 persons to pledge $1 so i can at least get the IOS developer license.
+
+Thank you and share with a friend if you can.
+
+
+Main development Site:http://www.indiedb.com/games/flickit
+//////////////////////////////////////////////////////////
+
+I will like to thank all the persons who downloaded and tested the game. I was surprise to get some many players in a short time and this helped me improved alot of things.
+
+Changes v1.1
+
++improved physics simulation (player now has added momentum from falling when colliding with propelling objects)
+
++added notifications (player is able to get more information about errors when submitting score or registering/longing-in)
+
++added a height indicator (player is able to see how high they are after passing the boundary)
+
++fixed leaderboard Name clipping (I think I forgot to fix the resister/login clipping, next version)
+
++change the background
+
++Added support for proper version profiling by the server ( if the current version is outdated scores will not be uploaded to the server)
+
++Objects appear more randomly spaced apart

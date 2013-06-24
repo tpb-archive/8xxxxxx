@@ -1,0 +1,24 @@
+Active KillDisk allows you to destroy all data on hard and floppy drives completely, excluding any possibility of future recovery of deleted files and folders.
+
+Key Features:
+ New! Parallel erasing/wiping of several disks at the same time
+ New! Erasewipe speed has been significantly increased
+ New! Support for wiping Apple HFS+ & exFAT
+ New! Erasing/Wiping Certificate can be saved as PDF
+ Supports 17 security standards
+ Detects and displays information about all partitions, hard disks and floppy drives currently connected to your computer
+ Wipes out all floppies and hard disk drives completely by secure overwriting data on physical level using [One Pass Zeros] data destruction method
+ Erases partitions, logical drives and even not used disk space
+ Erasing report is created and can be saved as a file
+ File systems (FAT, FAT32, NTFS, etc) on the drive do not matter, detected physical drive is erased using low-level disk access
+
+Active@ KillDisk 7.1 March 20, 2013
+ - PDF certificates can be attached to e-mail notifications
+ - Improved Wipe for corrupted volumes (when disk integrity check fails)
+ - E-mail notifications now have LOG files attached
+ - New lightweight installer
+ - Minor UI & Kernel improvements
+ - Disk Serial Number (S/N) display problem fixed
+- Added Verify Disk S/N' Dialog ΓÇö to change Disk Serial
+
+Homepage: www.lsoft.net/killdisk.aspx

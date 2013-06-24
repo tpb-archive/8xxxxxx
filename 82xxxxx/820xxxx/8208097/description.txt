@@ -1,0 +1,64 @@
+Includes the VSO ConvertXtoDVD v5.0.0.44 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Automatically burn to DVD after conversion. Excellent and fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Create menus & chapters, cut videos, total customization with live preview.
+
+
+Edit your project with the various settings and features listed below:
+  -Create menus with videos and music
+  -Preview window / Integrated video player for live preview
+  -Cut unwanted parts of the video
+  -Add chapters - automatic or custom
+  -Many subtitles formats supported, convert soft or hard-coded
+  -Convert NTSC to PAL and vice-versa
+  -Merge function - like for CD1 + CD2
+  -Rotate video, modify brightness and contrast settings
+  -Compatible with any disks
+  -ISO output available
+  -NTSC + PAL region formats
+  -16:9 widescreen + 4:3 fullscreen
+  -Burn multiple copies
+  -VSO burning engine included
+  -Various SD resolutions available
+  -Custom output size
+  -Burn to DVD/USB key or store on PC
+
+Additional/Advanced features:
+  -2 pass encoding for enhanced quality
+  -Hardware decoding for faster conversion
+  -Video/Audio/Subtitle synchronisation
+  -Various audio output formats
+  -Image resize filters (lanczos, linear, cubic, etc.)
+  -Multiple encoding profiles
+  -Option to shutdown computer when finished
+  -Multi-core processor optimized
+  -Audio amplifier
+  -Padding and cropping
+  -De-interlacing
+  -Batch converter
+  -Multiple conversions processed simultaneously
+  -Quality advisor
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+- 0006451: [Bug] pal selection non existant in german translation (cedric) - resolved.
+- 0006462: [Suggestion] in audio tab change text (felicia) - resolved.
+- 0006463: [Bug] file trp no load in v5, loads in v4 and converts (felicia) - resolved.
+- 0006456: [Bug] no warning when file not loaded (felicia) - resolved.
+- 0005993: [Bug] external audio does not play with video in preview (felicia) - resolved.
+- 0006460: [Feature Request] change general settings to "Default settings" (felicia) - resolved.
+- 0006348: [Feature Request] Ability to change the priority from the tray icon. (felicia) - resolved.
+- 0006449: [Bug] ms all by itself in interface in output tab (felicia) - resolved.
+- Fixed problem of manner in which to import some DVDs

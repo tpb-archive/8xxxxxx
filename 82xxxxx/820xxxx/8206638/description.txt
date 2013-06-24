@@ -1,0 +1,19 @@
+VirtualBox v4.2.8.83876 [Multi]
+ 
+https://www.virtualbox.org/
+
+Technical Data:
+---------------
+270.1 MB | Multilingual including Spanish | Free | WIN, LINUX, MAC
+
+Description:
+------------
+Want to try a program but do not dare in case you damage your operating system? Wish you have another operating system without removing yours? Can you imagine your test Windows Vista from XP?
+All this is possible with VirtualBox, a free utility that creates a virtual computer within your presence with your operating system completely independent.
+This way, you can create 'virtual machines' with different operating systems and thus have at your disposal a Windows 95, a Vista, a 2000 a XP or even Linux. Everything from your current operating system.
+To use it, you first need to get or create your own virtual machine operating system you want, then load the program and ready, start like a new operating system in question. By the way, the program does not take much, but keep in mind that virtual machines usually occupy a lot of space, easily four to six gigabytes.
+
+Virtual Operating Systems
+------------------------------
+Windows (98, NT 4.0, 2000, XP, Server 2003, Vista, Server 2008), DOS / Windows 3.x
+Linux (Kernel 2.4 and 2.6), FreeBSD / OpenBSD, Solaris 10, OS / 2, etc.

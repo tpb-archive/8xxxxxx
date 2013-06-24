@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,92Engine,2013-04-22T21:42Z,"dear yotov. i installed the system from your gho, its working weel, just the das not. when i try to save the code in startkey utilities, it say: cannot save it. what should i do, can u help me pl? thanks in advance"
+,p.yotov,2013-04-22T21:58Z,just reinstall startkey and then enter the new keys from the generators
+,92Engine,2013-04-23T17:41Z,thank you for your quick answer. where from can i reinstall startkey?
+,p.yotov,2013-04-23T20:29Z,"
+inside is prepare.bat
+run, restart, enter new keys whit exp. date 01.01.2020 and should be ok"
+,p.yotov,2013-04-23T20:32Z,h1t1t1p1:1/1/1w1w1w1.1m1e1d1i1a1f1i1r1e1.com/?z811kcq3n6ob15o
+,p.yotov,2013-04-23T20:32Z,"remove the first  "" 1 """
+,92Engine,2013-04-30T18:06Z,"thanks yotov, Das working well, but now i found a problem again. i cannot connect to the internet. (Intel ProWireless 3945ABG) i downloaded many driver, but none of them working. it can connect to the network, get IP, but when i start the IE, nothing. i tried with a USB WiFi Stick, but it didnt working too... do you have any tip? thank in advance :)"
+,dan327,2013-05-03T22:16Z,"Anyone know how to fix ""No access authorization code""? I tried running prepare.bat and entering a new startkey but the error still appears. any help? thanks"
+,p.yotov,2013-05-04T18:42Z,"internet it is not possible when running ""sdnc"" that is the problem. you have to end task ""sdnc"" then disable the card and then enable it again and then connect to network, but if you wish  to  use xentry - reboot ;)"
+,AlbGenius,2013-05-21T16:41Z,Does MB Xentry and wis/das need MB star c4 ?becouse yo dont say (need hardware)

@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,Doc_Grant,2013-03-07T21:52Z,"I used ESET Smart Security 6 to setup a firewall to deny all TCP & UDP connections to and from Program FilesVueScanvuescan.exe
+
+Then I set up web access protection to deny any connections from *hamrick.* (their website). That got it to take the serial and customer number with ""OK"" in all the fields rather than the ""Tsk, tsk :)"" that normally pops up if you try to enter one of these serials without blocking the internet access first.
+
+Then it says it's activated as Professional edition, but when I go to scan something it still layers the watermarks over the image and asks for activation to get rid of them (de-activates itself again). I'm not that familiar with firewalls or how to look at an application's outgoing and incoming internet traffic. 
+
+Anybody get this to work?
+
+Key.txt just says ""First block this app with firewall!"" at the bottom."

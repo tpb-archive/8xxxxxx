@@ -1,0 +1,60 @@
+Wordpress: Widgets Front to Back
+
+Description:
+In this course, weΓÇÖll review the process of building custom WordPress widgets using the WordPress API and advanced development techniques. This course begins at ground zero, and assumes that you have no experience with WordPress widget development. Stick with me for a few hours, and youΓÇÖll learn a lot! LetΓÇÖs get to it.
+
+Note: Was a little hard to find the course but here we are!
+
+Media Info
+
+Video:
+
+Format                                   : MPEG-4
+Overall bit rate                         : 180 Kbps
+Writing application                      : HandBrake 0.9.8 2012071800
+Bit rate                                 : 43.8 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 800 pixels
+
+Audio:
+
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Bit rate                                 : 132 Kbps
+Maximum bit rate                         : 141 Kbps
+Channel(s)                               : 2 channels
+
+
+
+1. Introduction
+
+01.What We're Covering
+
+2.Our Local Development Environment
+
+11.Setting Up MAMP
+12.Creating Our Database and Installing WordPress
+13.Configuring Our IDE
+14.Preparing The Plugin Directory
+15.Configuring CodeKit For LESS and JSLint
+16.A Survey of the Widgets API
+17.Stubbing Out Our Widget Based on the API
+
+3.Creating The Widget
+
+21.Creating The Header Definition
+22.The Constructor, Localization, and Hooks
+23.Adding a Text Field
+24.Data Sanitization
+25.Adding a Textarea
+26.A Brief Introduction To JSLint
+27.Enforcing Constraints Using jQuery
+28.Adding a Select Box
+29.Adding a Checkbox
+210.A Brief Introduction To LESS
+
+4.Releasing The Widget
+
+41.Styling Our Widget Using LESS
+42.What's Required For Release?
+43.Writing The README

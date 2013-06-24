@@ -1,0 +1,14 @@
+
+Discover how a database can benefit both you and your architecture, whatever the programming language, operating system, or application type you use. In this course, explore options that range from personal desktop databases to large-scale geographically distributed database servers and classic relational databases to modern document-oriented systems and data warehousesΓÇöand learn how to choose the best solution for you. Author Simon Allardice covers key terminology and concepts, such as normalization, "deadly embraces" and "dirty reads," ACID and CRUD, referential integrity, deadlocks, and rollbacks. The course also explores data modeling step by step through hands-on examples to design the best system for our data. Plus, learn to juggle the competing demands of storage, access, performance, and securityΓÇömanagement tasks that are critical to your database's success.
+
+Content:
+
+* What is a database?
+* Why do you need a database?
+* Choosing primary keys
+* Identifying columns and selecting data types
+* Defining relationships: one-to-one, one-to-many, and many-to-many
+* Understanding normalization
+* Creating queries to create, insert, update, and delete data
+* Understanding indexing and stored procedures
+* Exploring your data

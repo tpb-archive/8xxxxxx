@@ -1,0 +1,14 @@
+Changes in ConvertXtoDVD 5.0.0.44 (Released 2013-03-01):
+ - 0006451: [Bug] pal selection non existant in german translation (cedric) ΓÇô resolved.
+ - 0006462: [Suggestion] in audio tab change text (felicia) ΓÇô resolved.
+ - 0006463: [Bug] file trp no load in v5, loads in v4 and converts (felicia) ΓÇô resolved.
+ - 0006456: [Bug] no warning when file not loaded (felicia) ΓÇô resolved.
+ - 0005993: [Bug] external audio does not play with video in preview (felicia) ΓÇô resolved.
+ - 0006460: [Feature Request] change general settings to ΓÇ£Default settingsΓÇ¥ (felicia) ΓÇô resolved.
+ - 0006348: [Feature Request] Ability to change the priority from the tray icon. (felicia) ΓÇô resolved.
+ - 0006449: [Bug] ms all by itself in interface in output tab (felicia) ΓÇô resolved.
+ - Fixed problem of manner in which to import some DVDs
+
+OS: Windows XP, Vista, Windows 7, Windows 8 (32-bit & 64-bit)
+
+Home Page www.vso-software.fr

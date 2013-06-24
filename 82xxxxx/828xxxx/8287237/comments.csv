@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,qwwq215,2013-04-15T14:35Z,"Just created a tpb ID to rectify the INSTRUCTIONS given by the uploader. I have the following steps working on my Windows 8 system.
+
+1. Install GmailNotifierPro 4.6.3
+2. After installation and inital run, Exit the app from the tray.
+3. Run keygen and input your credentials, and copy the code.
+4. Go to C:Users\AppDataRoamingGmailNotifierPro. Here you will find ConfigData.xml. Open it with notepad.
+5. Find the line . Select it whole and paste the code copied from the keygen. Remove any whitespaces if any.
+6. Restart GmailNotifierPro."
+,qwwq215,2013-04-15T14:38Z,"Sorry for step 4. It was unintentional.
+Correction. C:\Users\Username\AppData\Roaming\GmailNotifierPro\"
+,deifu,2013-04-17T15:20Z,"I've replaced the  with the generated one but still unable to be verified.
+Please help"
+,Nsint,2013-04-17T16:47Z,"Find what fucking line?!?!?
+
+What line???"
+,deifu,2013-04-17T19:15Z,yes how should I replace?
+,qwwq215,2013-05-08T08:36Z,"Find the fucking line : RegisteredUser, you fucking d1ckhead"

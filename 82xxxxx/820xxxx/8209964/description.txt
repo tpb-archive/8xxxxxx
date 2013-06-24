@@ -1,0 +1,30 @@
+Instant Burp Suite Starter
+
+BOOK DETAILS:
+
+Publisher: Packt Publishing (January 2013) Language: English ISBN-10: 1849695180 ISBN-13: 978-1849695183 Format: PDF, EPUB
+
+BOOK DESCRIPTION:
+
+Web security is more important than ever for protecting the confidentiality, integrity, and availability of web applications. Although there is no silver bullet tool, using the right instruments does play a critical role in any security initiative. Burp Suite is a well-known integrated platform for performing security testing and is considered the de-facto standard for testing web applications. Instant Burp Suite Starter is a practical, hands-on guide that can help you take advantage of the Burp Suite, a powerful web security tool. Thanks to its step-by-step examples, you will quickly learn how to efficiently discover web application vulnerabilities such as SQL Injection and Cross-site scripting. From intercepting your first web request, you will soon be able to inspect parameters, perform tampering, and eventually discover security flaws. You will also learn how to use the numerous tools available in Burp Suite in order to enumerate all web application entry points, perform scans, and automatically detect security flaws. Then test your sites with automated customized attacks, analyze the randomness of application data, decode data in multiple formats, and much more. Instant Burp Suite Starter will teach you everything you need to know to get started with testing your first application using Burp Suite. You will learn helpful tips and tricks on how to discover potentially destructive security flaws in your application. 
+
+What you will learn from this book:
+
+Set up your browser and Burp Suite 
+Intercepting, inspecting, and modifying web traffic between your client and the server 
+Using the Burp Target site map functionality 
+Crawling a web application and discovering resources with Burp Spider 
+Launching a scan with Burp Scanner to automatically detect security vulnerabilities 
+Automating customized attacks with Burp Intruder 
+Manipulating and iterating web requests with Burp Repeater 
+Analyzing the randomness of application data with Burp Sequencer 
+Decoding and encoding data in multiple formats with Burp Decoder 
+Comparing site maps in order to detect authorization bugs 
+
+Approach:
+
+Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks. This starter guide will lead you through the field of application security with everyday examples explained. Build up your skills and your defenses with this hands-on tutorial. 
+
+Who this book is written for:
+
+If you are an application developer with a focus on security then this practical guide is for you. Even with basic knowledge of security you will be able to develop your expertise and make your applications bulletproof. 

@@ -1,0 +1,26 @@
+YouTube Downloader YTD 1.8 FiNaL AnDrOiD - SceneDL
+
+Description:
+
+*Fetching of filesize before downloads now works
+*Choose one and you will be prompted to download the video locally
+*To send the download via SSH to a linux machine via another free Android App: CONNECTBOT. Destination linux-box requirements: Bash and Wg
+*Simply select the sharing button in the YouTube App while watching a video and choose "YouTube downloader".
+*You will be prompted with all the video codecs and qualities available for the video you're on.
+
+Recent Changes:
+
+*new notification icon 
+*landscape orientation support 
+*YT video thumbnail preview 
+*entire row in video list clickable 
+*Turkish translation 
+*Dutch translation
+*extSdCard support 
+*long-press on video list item: 
+*menu to copy/share link 
+*auto update check once a day
+
+By:
+
+SceneDL

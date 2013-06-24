@@ -1,0 +1,33 @@
+If you're looking to bring life to an old PPC, this is it. 12.04 works really great, but I'm really enjoying this 13.04 beta release. 
+
+Anyways, this is the direct torrent from http://cdimage.ubuntu.com/lubuntu/releases/raring/beta-1/ 
+
+I currently have this installed and running on a 14" iBook G4, 1.42 gHz, 512mb ram, 60 gb hard drive, DVD RW drive. Any questions, just ask. It runs much faster than any Windows XP machine out there, and since OSX 10.4.1.1 (which came with the laptop) hasn't been updated in forever, you might like this. 
+
+I suggest burning this to a DVD because it'll be much easier to install than from a USB. It's too big to go on a CD. 
+
+The live cd will boot just fine, but you need to add a boot parameter. (REMEMBER THIS IS BETA SOFTWARE!!!)
+
+when you see the boot: prompt, type in live video=radeonfb:1024x768-32@60 
+
+To get wifi working, download http://mirror2.openwrt.org/sources/broadcom-wl-5.10.56.27.3_mipsel.tar.bz2 on an internet connected computer, and use a flash drive to throw it on the desktop. 
+
+Then do type this in the terminal:
+
+cd Desktop
+tar xfvj broadcom-wl-5.10.56.27.3_mipsel.tar.bz2
+sudo b43-fwcutter -w /lib/firmware broadcom-wl-5.10.56.27.3/driver/wl_apsta/wl_prebuilt.o
+
+
+then this to restart the wifi
+
+sudo modprobe -r b43 bcma
+sudo modprobe -r brcmsmac bcma
+sudo modprobe b43
+
+
+
+I did that so I could download updates while installing Lubuntu 13.04
+
+
+I'll help in any way I can if you want, but I'm just an everyday joe - not a programmer, not anything. I do development release testing though, which is basically my only experience. 

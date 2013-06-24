@@ -1,0 +1,67 @@
+Source : DVD9-MAJESTIC (Thanks)
+ 
+http://www.imdb.com/title/tt2076897/
+
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 701 MiB
+Duration                                 : 1h 47mn
+Overall bit rate                         : 913 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 4
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 47mn
+Bit rate                                 : 775 Kbps
+Width                                    : 640 pixels
+Height                                   : 256 pixels
+Display aspect ratio                     : 2.500
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.189
+Stream size                              : 595 MiB (85%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 47mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 98.2 MiB (14%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 40 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+Writing library                          : LAME3.99r
+Encoding settings                        : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+
+Plot
+Two teenage brothers must face their prejudices head on if they are to survive the perils of being young, British Arabs on the streets of gangland London. 
+
+ 
+http://img341.imageshack.us/img341/2544/dalem.png 
+http://img839.imageshack.us/img839/1937/dale1.png 
+http://img4.imageshack.us/img4/2118/dale2.png 
+http://img138.imageshack.us/img138/8348/dale3.png

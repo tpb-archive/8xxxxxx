@@ -1,0 +1,99 @@
+﻿User Type,Username,Date,Text
+,Insomneac,2013-03-07T23:35Z,"Thanks, does this have an English installer?"
+,BizkitBoy_,2013-03-08T01:18Z,Does this by any chance include N7 Warfare Gear and Reckoner Knight Armor ?
+,modron789,2013-03-08T08:05Z,All the texts in the game are in russian! I unstalled selecting English as GUI language in the install Configuration screen.
+,Shmuel_Finkelstein,2013-03-08T11:25Z,"According to the creator of this release, there was a problem with the English not displaying and he released an update: You can read more in Russian at the official forum: http://bestrepack.net/forum/viewtopic.php?t=10104. I'm not sure if this torrent includes the update or not. "
+,IgnacioJN,2013-03-08T17:46Z,"Since this include Citadel, it's safe to assume it's the last versión, with English subs. fixed.
+From the original russian site:
+""Distribution of updated 07.03.2013. The game has been updated to version 1.5, added DLC Alternate Appearance Pack 1, Omega, Citadel. ""
+""Distributing updated 03/07/2013 at 23:56. Fixed bug with activation of English."""
+,fedeuy,2013-03-08T18:02Z,"This version does not have english subs, could you please upload the correct one NZ?
+Thanks for everything!"
+,shibbyd,2013-03-08T18:49Z,Has anyone been able to get the ingame menus to show in english?
+,VicOVic,2013-03-08T18:50Z,"If you're getting a Russian GUI, go to the link Shmuel_Finkelstein provided:
+http://bestrepack.net/forum/viewtopic.php?t=10104
+
+Register on their site and download the torrent on that page. Use Chrome's translate function if you're having trouble finding your way.
+
+After you've started the torrent download, go to the torrent's Files tab, press Ctrl+A, right click on any file and select Don't Download. Then find autorun.inf and setup.exe and set their download to priority to anything.
+
+After those two files have downloaded, replace them with the ones from this torrent and then launch the setup. Also be sure to check the English GUI under Soft Components in the installer.
+
+This is, of course, if you have already downloaded this torrent and don't feel like downloading all of it again. If you haven't downloaded, then save yourself the trouble and download directly from the link provided.
+
+I first downloaded this torrent and have fixed the Russian GUI by following these steps."
+,forgetit,2013-03-08T20:48Z,Find the file BIOGame_INT.tlk and rename it to BIOGame_RUS.tlk. Fixed it for me. Both menus and subs are in english now.
+,forgetit,2013-03-09T11:11Z,"Apparently it didn't fix everything, some achievements are still in russian. Not important to me, but still."
+,Sabbyneko,2013-03-10T03:44Z,"I have a problem. The game has installed fine and all audio and text is in English, but the DLC doesn't seem to have kicked in :/ There's no new armor or weapons in the Normandy locker. 
+
+Could it be because I've imported a save?"
+,TheCataclysm,2013-03-10T07:41Z,"Sabbyneko, I'm having the same issue. The only armor set I have is the one from the alternate appearance pack and I have none of the other weapons. From the Ashes seems to be working because I got the e-mail about Eden Prime. "
+,Sabbyneko,2013-03-10T11:14Z,"The dog has also shown up inside the hanger, so that one's working as well. I have that Cerberus armor (the one that looks like it's covered in yellow and white bandoliers).
+
+I've checked the DLC folder, and they're all in there. I even compared the file size to Reloaded's individual torrents of the DLC and they check out."
+,VicOVic,2013-03-11T00:43Z,"@Sabbyneko
+Press F12 while you're on a mission or in the Spectre office's firing range and you'll receive all the weapons. It should also work outside a ""weapons-out"" environment, too, but it may cause glitches."
+,TheCataclysm,2013-03-11T02:50Z,"Vic, that only gets the N7 weapons and not the ones from the Firefight pack and Groundside Resistance pack. "
+,Sabbyneko,2013-03-11T05:58Z,"I've finished this game a few times, I only got it again now that all the DLC is out. I don't want to play until I fix this :/ But I tried the F12 thing, and it did work. I'm pretty sure this can't be a rare problem. Someone must have fixed it by now."
+,Fazzi001,2013-03-11T18:03Z,"the launcher shows an american flag on the top left corner, when you select it the launcher changes to English. but once you launch the game its Russian again :/"
+,capnsnoop,2013-03-12T03:51Z,"Fazzi001
+
+Uninstall the Game. 
+When you go to reinstall before you choose install there is an option that says Soft Components on the bottom left. Click that and change the GUI to English. It is set to russian. 
+
+I got that to work for me and game runs great. "
+,Fazzi001,2013-03-12T12:57Z,i actually just did that before reading your comment and its still russian
+,filthypig,2013-03-12T13:41Z,"Everything installed just fine, as far as I can tell... the game opens and runs, except any time I try to open a saved file (any saved file) it freezes on the loading screen. It also freezes on the loading screen if I try to start an entirely new game. Anyone else have this problem?"
+,Fazzi001,2013-03-13T03:50Z,"so i got the thing to work in english finally, but like other comments say, the DLC is not active in game, the extra weapons,omega,leviathan and citadel may be in the folders, but they are not active in game"
+,urith,2013-03-14T00:57Z,"The cerberus computer is not opening, is this supposed to happen?"
+,urith,2013-03-14T01:25Z,"The cerberus computer isn't opening at menu, am I supposed to ignore that or have i done something wrong?"
+,capnsnoop,2013-03-14T02:44Z,"Fazzi001
+
+The DLC was present in mine. I have already played ""From Ashes and Leviathan"" I know Citadel Opens up half way into the game due to story stuff. 
+
+Glad you got the English things sorted out."
+,StankWizThree,2013-03-14T08:55Z,"I can confirm that the english option is busted, but the fixed version from the russian site works fine.
+
+I'll try and upload the fixed version."
+,Sabbyneko,2013-03-15T11:19Z,nothing new on the DLC issue?
+,kablamski,2013-03-21T23:59Z,"All the DLC text (excluding weaponry) is in Russian. Same goes for about a third of the Incinerate upgrades and a few other upgrades for other powers, but those aren't a real big deal. I'd just like to know how to fix the DLC."
+,b1anck,2013-03-29T11:14Z,"Thank you for uploading this it saved me alot of time and space:)
+Have a nice day!"
+,BrohanB,2013-04-04T09:01Z,"So I sorted out to make the game be in English from a ME Language Pack.
+
+I got most of the DLCs activated except the weapons DLCs (N7, Groundside, ect.) & the only DLC armor I have is the Cerberus Ajax Armor.
+
+I tried pressing F12 in the Spectre shooting range but didn't work.
+
+Help?"
+,Sov[T],2013-04-30T20:28Z,"HOW TO INSTALL, PLAY IN ENGLISH
+
+There's some mixed advice on here, and here's the no-extra-download method that's working great for me:
+
+1. Run 'Setup.exe', select English
+2. Click 'Configuration' in the bottom left, then 'Soft and Components'
+3. Under GUI language, select 'English'
+
+THIS MIGHT NOT BE ENOUGH TO PLAY IN ENGLISH. If the game is still launching in Russian, do this:
+
+1. Navigate to the installed directory, Mass Effect 3BIOGameCookedPCConsole
+2. Rename 'BIOGame_RUS.tlk' as something like 'BIOGame_RUS-back.tlk'
+3. Rename 'BIOGame_INT.tlk' to 'BIOGAME_RUS.tlk'
+- This makes it so that any time the game references the Russian language file, it pulls up the 'INTernational' (English) content instead. It's a work-around, and works great."
+,tyrael_plpl,2013-05-03T23:01Z,"Ok here is the thing. I would like to know how to check, very early in the game - 1st time on Normandy where i can look around - check if ALL the DLCs are working? I am not getting the cerberus network info on the start screen (like in MS2) nor do i have DLC option available there. If all the DLCs are inactive how do i fix this? Thx."
+,Fantomnz,2013-06-04T13:20Z,"Hi All
+
+You can just DL the help files if that's all you need from this
+
+ Here again is the package Iv compiled.
+
+http://thepiratebay.sx/torrent/7922139/Mass_Effect_3_-_Install_Pack_-_Walkthrough_s-GuidesArt-Music_amp
+
+ Click on Fantomnz for other ME stuff.
+
+ Lots of info & extras.
+ ----------------------------------
+
+ Good job Thanks.
+
+ (Gamers) "

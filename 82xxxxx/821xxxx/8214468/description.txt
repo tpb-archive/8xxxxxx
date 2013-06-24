@@ -1,0 +1,5 @@
+This project is an item tracker for Diablo III. It is meant to track and notify of in game item drops and display them in a color coded list along with some basic item info. 
+
+The UI also displays some basic stats like, number of drop, time played for a session, % of Ilvl63 items etc etc...
+
+The program let's you start "recording" item drops in game as a session. Each session is saved to an xml file which will be upload-able to a statistic website where players can get advanced statistics on their drops.

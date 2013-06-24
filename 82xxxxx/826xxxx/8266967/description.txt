@@ -1,0 +1,62 @@
+Source :PHD (Thanks)
+
+
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 701 MiB
+Duration : 1h 50mn
+Overall bit rate : 890 Kbps
+Writing library : VirtualDub build 32842/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 4
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 50mn
+Bit rate : 753 Kbps
+Width : 640 pixels
+Height : 272 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.180
+Stream size : 592 MiB (85%)
+Writing library : XviD 64
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 50mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 101 MiB (14%)
+Alignment : Split accross interleaves
+Interleave, duration : 42 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+Writing library : LAME3.99r
+Encoding settings : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+The tale begins with Jonathan Harker, journeying by train and carriage from England to Count Dracula's crumbling, remote castle situated in the Carpathian Mountains on the border of Transylvania. The purpose of his mission is to catalogue the big library of Dracula. At first enticed by Dracula's gracious manner, Harker soon discovers that he has become a prisoner in the castle. He also begins to see disquieting facets of Dracula's nocturnal life. One night while searching for a way out of the castle, and against Dracula's strict admonition not to venture outside his room at night, Harker falls under the spell of three wanton female vampires, the Brides of Dracula.
+ 
+http://www.shotpix.com/images/71371510906781419221.png 
+http://www.shotpix.com/images/64366411469407013200.png 
+http://www.shotpix.com/images/38734841764539456017.png

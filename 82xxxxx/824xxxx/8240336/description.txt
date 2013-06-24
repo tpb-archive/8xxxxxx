@@ -1,0 +1,34 @@
+ http://shop.oreilly.com/product/9780596002541.do 
+http://www.amazon.com/BGP-Iljitsch-Van-Beijnum/dp/0596002548
+
+
+Title:     BGP 
+By:        Iljitsch van Beijnum 
+Publisher: O'Reilly Media 
+Formats:   PDF
+
+Print:    September 2002 
+Ebook:    March 2010 
+Pages:    290 
+
+Print ISBN: 978-0-596-00254-1 | ISBN 10: 0-596-00254-8
+Ebook ISBN: 978-1-4493-8395-4 | ISBN 10: 1-4493-8395-5 
+
+
+Description:
+
+Border Gateway Protocol (BGP) is the routing protocol used to exchange routing information across the Internet. It makes it possible for ISPs to connect to each other and for end-users to connect to more than one ISP. BGP is the only protocol that is designed to deal with a network of the Internet's size, and the only protocol that can deal well with having multiple connections to unrelated routing domains.
+
+This book is a guide to all aspects of BGP: the protocol, its configuration and operation in an Internet environment, and how to troubleshooting it. The book also describes how to secure BGP, and how BGP can be used as a tool in combating Distributed Denial of Service (DDoS) attacks. Although the examples throughout this book are for Cisco routers, the techniques discussed can be applied to any BGP-capable router.
+
+The topics include:
+
+    Requesting an AS number and IP addresses
+    Route filtering by remote ISPs and how to avoid this
+    Configuring the initial BGP setup
+    Balancing the available incoming or outgoing traffic over the available connections
+    Securing and troubleshooting BGP
+    BGP in larger networks: interaction with internal routing protocols, scalability issues
+    BGP in Internet Service Provider networks
+
+The book is filled with numerous configuration examples with more complex case studies at the end of the book to strengthen your understanding. BGP is for anyone interested in creating reliable connectivity to the Internet.

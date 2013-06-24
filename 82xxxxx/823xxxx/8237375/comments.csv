@@ -1,0 +1,181 @@
+﻿User Type,Username,Date,Text
+,jaguar13x,2013-03-10T04:16Z,nice...more seeds plz...thanks OP!
+,richied746,2013-03-10T04:55Z,ahh 32 bit!! woohoo!! needs some more seeders!
+,theskatelife1,2013-03-10T06:21Z,thx 
+,danieldarko,2013-03-10T07:30Z,"I downloaded the 64 bit version of the program and installed it before the 32 bit one came out. I decided to go with the 32 bit version instead because it is more compatible with all my plugins so I am now trying to install the 32 bit version and am getting this error message: 
+
+“Ableton Live 9 Suite” is damaged and can’t be opened. You should move it to the Trash.""
+
+I uninstalled all traces of the 64 bit version and am still getting this error message when trying to install the 32 bit version.
+
+Any advice would be appreciated.
+"
+,jaguar13x,2013-03-10T08:11Z,@danieldarko not shure if this will work but you can try install the 64bit again...then delete just the App...not all the other live stuff...then install the 32 bit...
+,Rocc13,2013-03-10T08:15Z,"I'm having the same problem where I get the message """"The Authorization file is invalid on this computer"".  I think the mistake I made was accidentally double clicking .auz file when it downloaded to the desktop.  Is there someway to undo this?  I tried uninstalling and reinstalling but got the same message.  I even uninstalled Ableton 8 but that didn't work either.  Do we need a new patch?  PLEASE help!  And thank you very much for this crack!!!"
+,danieldarko,2013-03-10T08:16Z,"I figured out what the problem was with that error message. It was the OS not the application. To resolve the issue:
+
+Open System Preferences, go to the Security & Privacy panel, go to the ""general"" panel, and change the ""Allow applications downloaded from:"" setting to ""Anywhere"".
+
+Then the application will launch.
+
+Works perfect now. All good."
+,zarquonp,2013-03-10T09:05Z,"@danieldarko
+What system are you running. I also want to remove the 64 bit version, instsall 32 bit. OS 10.6.8"
+,Rocc13,2013-03-10T17:30Z,"Does anyone have a fix for the error message ""The Authorization file is invalid on this computer""??? I would GREATLY appreciate some help getting this running.  I followed the instructions to a T but I keep getting that error message.  "
+,Rocc13,2013-03-10T17:38Z,"I followed the instructions to a T but I keep getting the error message ""The Authorization file is invalid on this computer"" when I get to the authorization stage.  I tried uninstalling and reinstalling to no avail.  Can anyone help me out?  Anyone know how to fix this???  PLEASE HELP!"
+,Sojio,2013-03-10T17:48Z,people who are having the problem removing the 64bit version should try using appcleaner to completely remove all traces.
+,treydub,2013-03-10T18:28Z,"Thanks for the dl,works great except for not saving or expoerting .need auth.code.any solutions? patch was obviously successful."
+,paddecrew,2013-03-10T21:12Z,can you save and export?? 
+,BenTF,2013-03-10T21:20Z,"@paddlecrew - I am having the same issues as @treydub it seems. Not being able to export or save. Keeps asking me to authorize online at startup. Patch was 'successful' for me too. 
+
+Anyone else having these issues??"
+,BenTF,2013-03-10T21:26Z,Paddecrew & treydub; seems I am having the same issues. Keeps telling me I need to authorize online at startup. Anyone else having these same issues? Can't save or export because of this. .
+,Rocc13,2013-03-10T23:28Z,"@BenTF @paddlecrew @treydub Sounds like we all have the same problem.  We're not able to save and export because the authorization didn't work properly.  Not sure about you guys but I got the error message ""The Authorization file is invalid on this computer"".  @ChingLiu any suggestions?  "
+[V],Ching_Liu,2013-03-11T00:02Z,"* Do not use the installer from Ableton homepage. Download this torrent fully.
+.
+* If you want to uninstall previous version of Ableton, follow these steps :
+-Delete AbletonLive.app in application folder
+-Delete Library/Application folder/Ableton folder (save your library on an external disk before if necessary)
+-Delete Library/Preferences/Ableton folder
+.
+* Restart Computer
+.
+* Install and patch Live 9 :
+-Run Ableton-live-suite-9.0.1.dmg
+-Drag Ableton Live 9 suite.app on desktop
+-Run Livepatch(io).dmg
+-Drag and drop ableton Live 9 suite.app in patch window
+-Run authorized.auz (located on desktop)
+(or drag the Authorize.auz into Ableton Live Suite)"
+,Rocc13,2013-03-11T02:01Z,@Ching_Liu BINGO! That worked! You're the man!!! Thank you so much!  One last question for you.....how do we go about getting Max for live & the glue compressor installed? 
+,BenTF,2013-03-11T02:29Z,"Also, worked like a charm. Thanks sir!"
+,Rocc13,2013-03-11T03:31Z,"@Ching_Liu I actually spoke a little too soon.  It did install & authorize properly, but none of my third party plugins show up.  Any idea why that is and how I can fix it?  "
+,Rocc13,2013-03-11T13:36Z,"@Ching_Liu nevermind regarding the plugins....I'm an idiot....just had to go into the prefs and enable third party plugs.  I also managed to get Max by simply clicking the ""get max"" link on the tab.  I would love to know how to get that glue compressor though.  Any idea?"
+,waelb,2013-03-11T16:42Z,"Thank you so much,you're the MAAAAN :)"
+,richied746,2013-03-11T20:00Z,"@Rocc13
+
+I think the glue compressor should already be under the audio effects tab. it's there on mine, but it might be because i already have the original glue compressor, don't know why that would happen though... you should check to see if it's there"
+,jnewcombq,2013-03-11T21:16Z,"When I try to drag the Ableton Live 9 suite.app from the desktop into the patch window, Finder comes up with an error message that says that the patch cannot be modified, help?!?"
+,jnewcombq,2013-03-11T21:24Z,"When I try to drag the Ableton Live 9 suite.app from the desktop to the patch window, Finder comes up with an error message saying that I can't modify the Patch, help?"
+,paddecrew,2013-03-11T23:26Z,"Maybe a stupid question, but I have never done this before. If i uninstall my ableton 8, does it effect any of my saved projects?? The will open fine with ableton 9 right?"
+,hotsquare,2013-03-12T04:11Z,"the patch crashes on my computer without opening, it's running on Mac Os X 5.8.1. Please help!!! any ideas?"
+,7117,2013-03-12T09:41Z,"@hotsquare 
+where you god damn get this version Mac? this is very unic piece, never been exist.. (in public)"
+,7117,2013-03-12T10:07Z,"@hotsquare
+http://thepiratebay.sx/torrent/8233941/Ableton_Live_9_Suite_9.0.1_[Patch_for_Mac_OS_X]_by_
+
+copy this patch to desktop, right click on it and choose 'get info' ..and then click in info window ''open in 32bt mode''
+this may work for you"
+,7117,2013-03-12T11:05Z,"also i downloaded from 
+http://www.macupdate.com/app/mac/10345/ableton-live
+ newer 9.02 version  and this patch works well also.."
+,hotsquare,2013-03-12T14:14Z,"@chingliu. thanks so much for the answer, but it didn't work.. maybe there's something blocking it? "
+,hotsquare,2013-03-13T01:38Z,"@7117 sorry, thanks to YOU for the answer ;)"
+,hotsquare,2013-03-13T05:48Z,this is the error message i get ( unknown required load command 0x80000022 )
+,7117,2013-03-13T07:53Z,"this is copy/paste: Via ""Ching_Liu"":
+
+* Do not use the installer from Ableton homepage. Download this torrent fully.
+.
+* If you want to uninstall previous version of Ableton, follow these steps :
+-Delete AbletonLive.app in application folder
+-Delete Library/Application folder/Ableton folder (save your library on an external disk before if necessary)
+-Delete Library/Preferences/Ableton folder
+.
+* Restart Computer
+.
+* Install and patch Live 9 :
+-Run Ableton-live-suite-9.0.1.dmg
+-Drag Ableton Live 9 suite.app on desktop
+-Run Livepatch(io).dmg
+-Drag and drop ableton Live 9 suite.app in patch window
+-Run authorized.auz (located on desktop)
+(or drag the Authorize.auz into Ableton Live Suite)
+.
+or better is, if you try download from 
+http://www.macupdate.com/app/mac/10345/ableton-live
+and take at here only patch http://thepiratebay.sx/torrent/8233941/Ableton_Live_9_Suite_9.0.1_[Patch_for_Mac_OS_X]_by_
+i did so and mine works well and activated also.. "
+,7117,2013-03-13T07:59Z,"this is http://www.macupdate.com/app/mac/10345/ableton-live
+
+New version of Ableton Live 9.0.2 
+lots of bux was fixed and some drum pack's are also included and so on..
+and i installed it yesterday and no problems found yet.."
+,Skim42,2013-03-14T03:23Z,"Thanks 7117, i tried all that and still got the app quit unexpectdly thing. Could it be that even though ableton runs on osx 10.5 that the patcher doesnt work with osx 10.5?"
+,danielgomez,2013-03-17T17:50Z,"Ok, I'm running the patch from my desktop, I drag the ableton.dmg (which is also on my desktop) into the patch's console and all i get is ''Incorrect File'', I've tried this with the 32 bit version of this torrent, the 64 bit version and the 9.02 version I dl from macupdate... neither works, anyone know how I can work this out? I'm on Lion 10.7.5 btw"
+,danielgomez,2013-03-17T17:57Z,nevermind -_- didn't read the instructions
+,hotsquare,2013-03-19T00:02Z,"Please help, it was impossible to run the patch.app on Os X 5.8"
+,HeywoodFloyd,2013-03-19T07:17Z,"same as hotsquare here...
+On 10.5.8, the patch crashes even with the 32 bits options ticked in the file info.
+Any idea ?"
+,jcengarle,2013-03-19T17:36Z,"@Ching_Liu @jnewcombq @7117 I'm having the same problem, a window appears that says I can't modify ableton application when I try to drag it to the patch, also the authorization doesnt show up when I try to open the patch within the patch window. I've tried everything from this stream, any other suggestions ?"
+,lulzzz000,2013-03-19T22:05Z,"I swear I'm following instructions. Maybe I'm a complete moron, but I'm doing what the instructions say word for word. I drag both .dmg files to the desktop, then I open the patch, and drag the other .dmg file to the console and it says incorrect file. Help!?"
+,7117,2013-03-19T22:50Z,"@lulzzz
+
+''..I'm doing what the instructions say word for word. I drag both .dmg files to the desktop, then I open the patch'' bis here is ok   ,..  now open .dmg file and drag that app to your application folder and then drag it to 'patcer app'.. (don't drag dmg-file to patching window!) after that you see license file on your desktop. open it (2x clicks) .....done!"
+,lulzzz000,2013-03-20T03:27Z,@7117 Thanks a lot! I got it working.
+,ivurz,2013-03-20T10:48Z,"guys i can't open when clicking the ""get this torrent"", safari tolds me that couldn't open the direction, i really need this live, i was a user for the beta 9 and 3 of my songs are stock because they expired my beta version ):. please help!! "
+,ivurz,2013-03-20T10:52Z,"guys i can't open when clicking the ""get this torrent"", safari tolds me that couldn't open the direction, i was a user of live 9 beta and now 3 of my songs are stock because they expired my beta so i really need this live, help please!!"
+,7117,2013-03-20T11:34Z,"ivurz do you have  a ""torrent client""?"
+,ivurz,2013-03-20T14:19Z,"I needed to update my torrent client, that was very stupid i know... BUT it works perfect!! I intalled and oh yeah man, i recover my songs =D, is that true about the 9.0.2 or it's a bad joke, my ultimate question is if i can use this live online, when im on internet, just for not get fucked up this great torrent, thanks for everything (:"
+,ivurz,2013-03-20T15:44Z,Can i use this ableton live 9 online? connected to internet? Please answer!
+,7117,2013-03-20T16:55Z,"what you exactly mean? for uploading sound/music to soundcloud ..etc 
+or for updating in ableton site, 
+you can download new 9.0.2 version from: http://www.macupdate.com/app/mac/10345/ableton-live
+
+then you must patch it again, thats it.
+....or i have no idea what you mean"
+,7117,2013-03-20T16:58Z,"oops, i forgot to add, yes, you can connect to internet, upload your sound to soundcloud or what ever."
+,Magic4you,2013-03-20T18:35Z,Up and Running with Ableton Live 9 - anyone?
+,ivurz,2013-03-20T22:42Z,"7117 i mean that if can i run ableton live 9 connected to internet without worrying about ableton central detect the cracked version, the 9.0.2 it's on 32 bit? or only on 64bit"
+,ivurz,2013-03-20T23:03Z,"7117 on the link you posted, for version 9.0.2 it looks like it's kind of beta, because i don't see any link for the suite 9.0.2 ): answer please!!"
+,7117,2013-03-20T23:23Z,"32bit is here:
+https://www.ableton.com/en/trial/
+..and patch it same way like before.
+and also don't worry about connecting to internet."
+,ivurz,2013-03-20T23:25Z,"you're awesome man, i'm very glad for all your attention, best for you man and keep it on!"
+,7117,2013-03-20T23:28Z,"no, wait that last post,  it's wrong version.. (it's 9.01)dont download!
+version 9.02.1 and yes it's beta ..read on my macupdate link.."
+,7117,2013-03-20T23:32Z,"anyway, what you mean 'it's beta' ..version 9.01 is also beta too, is it problem for you? i don't think so."
+,7117,2013-03-20T23:52Z,"okay, i don't see my previous comments (TPB page updating very slowly here)
+shortly, i installed that 9.02 version from macupdate page and pathing it well and no problems yet. ofcourse you can stay with stable 9.01 version
+your choice. cheers :)"
+,ivurz,2013-03-21T00:57Z,"yeah i saw that the file it's live 9 beta 9.0.2, i installed and works fine, my impression about 9.0.1 to 9.0.2 is that i guess (maybe i'm lying to my self) 9.0.1 runs more smooth in the workflow but i will use both, I'm really happy because i purchased suit8 two years ago and now i really no have money to pay the update, its about 299 dollars so it's too much for me at this moment, but thanks 7117, by the way, i have like 10 packs (only run on live 9) that i want to share because they have very good sounds, samples, they are official because i downloaded on my account on ableton.com, how can i upload all and share. =D"
+,7117,2013-03-21T01:18Z,"that willbe nice, :)
+here is good tutorial how create torrent and then upload, chechk here:
+https://forum.suprbay.org/wiki/index.php?title=Portal:Uploading_Files"
+,7117,2013-03-21T01:22Z,"..or here, maybe better: https://forum.suprbay.org/showthread.php?tid=25094"
+,ivurz,2013-03-21T01:26Z,"i will do right now, thanks bro!"
+,ivurz,2013-03-21T02:00Z,"There it is man, enjoy http://thepiratebay.sx/torrent/8280962"
+,ambient404,2013-03-24T13:36Z,"Hey, I just tried this twice, i had gotten it to install earlier today but it was the 64-bit version and i need the 32 bit version to work with my plugins. When i tried installing the 32 bit version its saying ""Patched Partially"" and that is the best i got. Has anyone else experienced this yet?  I will try one more time."
+,ambient404,2013-03-24T14:21Z,"Ahhhhhhhhh! Help, I think my Ableton is possessed, ok i finally got the torrent installed and wanted to get max as well so i download max and now the screen keeps popping up that says the folder has been deleated,  its not letting me exit out of preferances or close ableton or even restart my computer."
+,maurechi,2013-03-24T22:27Z,"excuse me, I was able to patch and authorize it, i even shut down my computer and open ableton again and It worked fine. But now, suddenly I opened it and I need to Authorize it again (and of course, I can't)      I already deleted it and installed it a couple of times and authorized it well, but soon or later when I open the app it asks me to authorize AGAIN.    
+I've done what you said (doing everything from the desktop, but still doesn't works)"
+,xangurial,2013-03-28T00:34Z,"Hi, having same problem as Maurechi. I installed and patched and it was working fine for me for the past couple of weeks. Just this week whenever I open it, it asks me to authorize again. The current fix I've done for it is to delete the program and reinstall, then when I open it i turn off my internet, open the program, then once it's open, I turn my internet back on. HOWEVER, that seems to not be working anymore. I got the demo of jbridge for mac and am going to attempt to use the 64-bit version. Has anyone download Ching_Liu's 64-bit and had the same problem? Also, I looked at my current version and it says 9.0.2, so maybe it's just having issues with 9.0.2. I saw ivurs and 7117 talking and i guess 9.0.2 is in beta and unstable compared to 9.0.1. Will have to also try downloading 9.0.1 and seeing if it doesn't create this problem. Let me know if anyone fixed the issue. Cheers"
+,xangurial,2013-03-28T01:35Z,"Alright, I did a little research about the error with Live 9 asking for authorization after a while. I may have found a fix. Looked through the Ableton forums and I guess they are updating 9.0.1 to 9.0.2, and as stated before, 9.0.2 is in beta, therefore it's not corresponding with the patch (obvs.) so someone said to turn off automatic updates in your preferences. 
+
+So basically:
+-Unistall live 9
+-Reinstall a fresh install
+-Run patch and to be on the safe side, turn off your internet in case it updates to 9.0.2 when you first open the program 
+-Open program
+-Turn off automatic updates in preferences by going to licenses/maintenances and turning off ""get software updates""
+
+Then close and reopen and it should still say 9.0.1. I just did it and it works like a charm.  "
+,EmbRi0n,2013-03-31T09:03Z,Thank you!
+,nbmatt,2013-04-02T04:02Z,"I thought it went without saying that your default choice when using pirated software (whether it be via a crack or keygen or initially-legit serial or generated auth file like this) you should make sure to set it to not check for updates automatically, and especially not install them automatically. That's pretty much the first setting I change when I'm done installing software I've downloaded.
+
+I'm not sure exactly what residual software Live leaves behind if you use their uninstaller or just drag the app to trash, but if you find yourself unauthorized for some reason and need to *fully* uninstall it, I suggest using something like AppCleaner to remove all files Live has around your computer. I suppose you can exclude the Library and any Live Sets/media from that (or back it up beforehand and restore that backup after removing everything)."
+,TVidigal,2013-04-19T14:10Z,"Hey guys i'm getting this erros when i'm loading Ableton Live and after them Live crashes and dont open. Anyone can help?
+( I tested 32 and 64 bit versions)
+
+1- The folder “Company Support Dir” was not found.
+2- The document “/Users/TVidigal/Library/Preferences/Ableton/Live 9.0.1/Preferences.cfg” is corrupt.
+
+[Unknown class ""SatisfactionSurveyPreferences"" found]
+
+I'll appreciate so much if someone can help."
+,SickNazi,2013-04-25T04:29Z,"TV, I'm having the same problem man, i cant even download the trial off abletoµ.com now.  Anyone have a solution?"
+,AKASHCHA,2013-05-16T17:00Z,"Thanks. 
+I need a help. can anybody plzzz upload.
+
+Acute email ids production engine [software]. I need this very much. [16.05.2013]"

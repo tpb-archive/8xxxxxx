@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,13victime,2013-03-07T02:16Z,"""failed to create the D3D9 device..""
+
+my DirectX & GPU drivers are all up to date, so need a fix to this missing dll."
+,13victime,2013-03-07T02:37Z,"Edit :
+
+..I found the solution, apparently it was a problem of the display, not a missing dll.
+
+Open : *Instal Dir*EngineConfigBaseEngine.ini 
+and search ResX and ResY and change it to your default display."
+,RobertEST,2013-03-09T12:13Z,"Thank you 13victime!
+You are my hero."
+,Aredyn,2013-03-22T19:27Z,Why is the store not working? can't unlock things nor buy them. Anyone?

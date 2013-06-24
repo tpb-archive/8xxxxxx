@@ -1,0 +1,7 @@
+It seems that some of the releasers are behind schedule this week (especially the micro and XviD releases).
+
+A lot of people have been asking about an XviD of this week's episode of Justified, so I downloaded the x264 release (which for some reason has been released separately by a dozen people, thus fragmenting the swarm) and converted it to XviD.
+
+I haven't actually watched this episode yet (I'm still clearing my tape by making my way through four more hours I recorded last night), but I quickly skimmed through the resultant file and it looks okay.
+
+I encoded it four times with Avidemux, trying to balance quality and filesize and ended up doing a two-pass. I used the highest settings possible for the codec, however because it is a recompress of an already compressed file, the quality will be less than or equal to the original x264. ItΓÇÖs more than adequate for watching and discarding, but if you want it to permanently archive, then you may want to wait until this season comes out on DVD and then buy it if you can afford to, and if not, then rent it or sign it out from your public library and encode it yourself.

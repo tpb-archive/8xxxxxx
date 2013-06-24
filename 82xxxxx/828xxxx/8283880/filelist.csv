@@ -1,0 +1,137 @@
+﻿Filename,Size,Unit
+0. Introduction/98951_00_01_SC03_welcome.mp4,6.39,M
+0. Introduction/98951_00_02_SC11_exercise_files.mp4,1.09,M
+0. Introduction/98951_00_03_SC11_what_you_need.mp4,1023.87,K
+1. Getting Started/98951_01_01_SC01_what_building.mp4,14.95,M
+1. Getting Started/98951_01_02_SC11_downloading.mp4,10.49,M
+1. Getting Started/98951_01_03_SC11_flash_builder.mp4,5.5,M
+1. Getting Started/98951_01_04_SC11_additional_tools.mp4,4.31,M
+1. Getting Started/98951_01_05_SC11_starling_overview.mp4,5.19,M
+2. Project Setup/98951_02_01_SC11_create_project.mp4,7,M
+2. Project Setup/98951_02_02_SC11_starling_scene.mp4,13.33,M
+2. Project Setup/98951_02_03_SC11_game_class.mp4,9.02,M
+3. The Game State Machine/98951_03_01_SC11_IState.mp4,4.5,M
+3. The Game State Machine/98951_03_02_SC11_create_states.mp4,9.5,M
+3. The Game State Machine/98951_03_03_SC11_state_machine.mp4,21.6,M
+4. Preparing and Importing Assets/98951_04_01_SC11_assets_class.mp4,4.97,M
+4. Preparing and Importing Assets/98951_04_02_SC11_images_textures.mp4,7.11,M
+4. Preparing and Importing Assets/98951_04_03_SC11_texture_packer.mp4,18.21,M
+4. Preparing and Importing Assets/98951_04_04_SC11_texture_atlas.mp4,9.32,M
+4. Preparing and Importing Assets/98951_04_05_SC01_bitmap_fonts.mp4,22.67,M
+5. The Menu State/98951_05_01_SC11_background.mp4,16.88,M
+5. The Menu State/98951_05_02_SC11_logo.mp4,8.88,M
+5. The Menu State/98951_05_03_SC11_play_button.mp4,9.11,M
+5. The Menu State/98951_05_04_SC11_destroy.mp4,6.91,M
+6. The Play State/98951_06_01_SC11_background.mp4,3.06,M
+6. The Play State/98951_06_02_SC11_hero.mp4,17.83,M
+6. The Play State/98951_06_03_SC11_bullet.mp4,4.23,M
+6. The Play State/98951_06_04_SC11_bullet_manager.mp4,10.36,M
+6. The Play State/98951_06_05_SC11_starling_pool.mp4,25.85,M
+6. The Play State/98951_06_06_SC11_fire_bullets.mp4,22.43,M
+6. The Play State/98951_06_07_SC11_alien_class.mp4,4.91,M
+6. The Play State/98951_06_08_SC11_alien_manager.mp4,24.78,M
+6. The Play State/98951_06_09_SC11_collision_options.mp4,5.37,M
+6. The Play State/98951_06_10_SC11_manager.mp4,32.1,M
+6. The Play State/98951_06_11_SC11_destroy.mp4,7.39,M
+7. The GameOver State/98951_07_01_SC11_background.mp4,3.48,M
+7. The GameOver State/98951_07_02_SC11_over_text.mp4,8.18,M
+7. The GameOver State/98951_07_03_SC11_try_again.mp4,11.82,M
+8. Adding Particle Effects/98951_08_01_SC11_particle_tools.mp4,13.94,M
+8. Adding Particle Effects/98951_08_02_SC11_smoke.mp4,15.38,M
+8. Adding Particle Effects/98951_08_03_SC11_explosion_class.mp4,6.29,M
+8. Adding Particle Effects/98951_08_04_SC11_explosion_manager.mp4,24.17,M
+9. Finishing Touches/98951_09_01_SC11_cfxr.mp4,9.14,M
+9. Finishing Touches/98951_09_02_SC11_sounds.mp4,11.92,M
+9. Finishing Touches/98951_09_03_SC11_score.mp4,12.8,M
+Conclusion/98951_10_01_SC11_optimizations.mp4,12.35,M
+Conclusion/98951_10_02_SC11_resources.mp4,5.59,M
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/.settings/org.eclipse.core.resources.prefs,85,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien1.png,3.46,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien2.png,3.49,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien3.png,3.48,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien4.png,3.44,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien5.png,2.64,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien6.png,2.67,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien7.png,2.65,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/alien8.png,2.66,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/atlas.png,81.84,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/atlas.xml,1.24,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/bullet.png,1.23,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/explosion.mp3,16.74,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/explosion.pex,1.94,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/explosion.png,8.85,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/hero.png,5.82,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/komika.fnt,6.49,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/komika.png,153.04,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/logo.png,44.76,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/playButton.png,6.76,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/shoot.mp3,9,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/sky.png,377.59,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/smoke.pex,1.95,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/smoke.png,4.17,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/assets/tryAgainButton.png,6.64,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/assets/mini.fnt,24.09,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/assets/mini.png,4.47,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/assets/touch_marker.png,850,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/history/history.css,371,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/history/history.js,24.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/history/historyFrame.html,827,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/playerProductInstall.swf,657,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/Spacer.html,5.64,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/Spacer.swf,832.93,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-debug/swfobject.js,25.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/history/history.css,371,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/history/history.js,24.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/history/historyFrame.html,827,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/playerProductInstall.swf,657,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/Spacer.html,5.64,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/Spacer.swf,601.83,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/bin-release/swfobject.js,25.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/history/history.css,371,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/history/history.js,24.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/history/historyFrame.html,827,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/index.template.html,5.88,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/playerProductInstall.swf,657,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/html-template/swfobject.js,25.73,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/core/Assets.as,1.67,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/core/Game.as,1.13,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/core/Spacer.as,322,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/interfaces/IState.as,106,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/managers/AlienManager.as,1.28,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/managers/BulletManager.as,1.38,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/managers/CollisionManager.as,1.54,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/managers/ExplosionManager.as,1.05,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Alien.as,290,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Background.as,655,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Bullet.as,317,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Explosion.as,295,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Hero.as,911,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/objects/Score.as,424,B
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/states/GameOver.as,1.33,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/states/Menu.as,1.35,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/src/states/Play.as,2.09,K
+Ex Files FlashGames Starling/Exercise Files/Spacer (Completed)/Spacer/.project,558,B
+Ex Files FlashGames Starling/Exercise Files/alien1.png,3.46,K
+Ex Files FlashGames Starling/Exercise Files/alien2.png,3.49,K
+Ex Files FlashGames Starling/Exercise Files/alien3.png,3.48,K
+Ex Files FlashGames Starling/Exercise Files/alien4.png,3.44,K
+Ex Files FlashGames Starling/Exercise Files/alien5.png,2.64,K
+Ex Files FlashGames Starling/Exercise Files/alien6.png,2.67,K
+Ex Files FlashGames Starling/Exercise Files/alien7.png,2.65,K
+Ex Files FlashGames Starling/Exercise Files/alien8.png,2.66,K
+Ex Files FlashGames Starling/Exercise Files/bullet.png,1.23,K
+Ex Files FlashGames Starling/Exercise Files/collision.swf,10.25,K
+Ex Files FlashGames Starling/Exercise Files/distance.swf,9.71,K
+Ex Files FlashGames Starling/Exercise Files/explosion.mp3,11.04,K
+Ex Files FlashGames Starling/Exercise Files/explosion.pex,1.94,K
+Ex Files FlashGames Starling/Exercise Files/explosion.png,8.85,K
+Ex Files FlashGames Starling/Exercise Files/hero.png,5.82,K
+Ex Files FlashGames Starling/Exercise Files/komika.fnt,6.49,K
+Ex Files FlashGames Starling/Exercise Files/komika.png,153.04,K
+Ex Files FlashGames Starling/Exercise Files/logo.png,44.76,K
+Ex Files FlashGames Starling/Exercise Files/playButton.png,6.76,K
+Ex Files FlashGames Starling/Exercise Files/shoot.mp3,9,K
+Ex Files FlashGames Starling/Exercise Files/sky.png,377.59,K
+Ex Files FlashGames Starling/Exercise Files/smoke.pex,1.95,K
+Ex Files FlashGames Starling/Exercise Files/smoke.png,4.17,K
+Ex Files FlashGames Starling/Exercise Files/tryAgainButton.png,6.64,K

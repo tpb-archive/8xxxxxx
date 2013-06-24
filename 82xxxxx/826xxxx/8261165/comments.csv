@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,eroticburps,2013-03-16T00:41Z,"nice upload. btw you had earlier mentioned that you're gonna increase the bitrate of the 6 channel stream from 192 kbps to a higher decibel. any plans implementing it shortly. i really hope and wish that you encode Predator I & II, spider-man 3 and T2 in that bitrate.
+thank you for your encodes. they're simply superb.."
+[V],dhjudasx,2013-03-16T01:05Z,"After thoroughly testing it and analyzing the audio... there isn't any reason to.
+
+The Type of encoding i'm doing for audio is a 2 Pass AAC HE/LC implementation. Basically the audio quality and such is identical to that of a AC3 448-640kbps version.
+
+It's like comparing MPEG2 video encoding to x264.... you can really compress a lot better with x264 and produce equivilent to better quality audio in the end anyways.
+
+Even if i did bump the audio up to say 256kbps which i was thinking about doing... like i said.. testing really didn't show any hard pressed audiophile type improvement worth noting.
+
+My Encodes also use cap breakers.. meaning that while i may have set it for 192kbps as the base value for the encode with VBR.... quite often you'll see that the bitrate will sometimes exceed 250kbps, one encode i did that i noticed it on had hit over 300kbps for the 6 channel audio encode. I very loosely enforce a strick bitrate and try to make sure that if more bitrate is needed to match the source material as closely and as accurately as possible... it will  ""within reason""."
+,eroticburps,2013-03-16T07:19Z,sounds great. that'd do it alright.
+,mbsa,2013-05-12T14:36Z,Thanks!

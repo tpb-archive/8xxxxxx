@@ -1,0 +1,85 @@
+Sniper Elite: Nazi Zombie Army (c) Rebellion
+
+ : Release Date: 01-03-2013           :Game Type:    Action
+   Image Format: ISO                   DISCS: 1 DVD                               Protection: Steam+CEG
+
+ ******************************
+**     **RELEASE NOTES**       **
+ ****************************** 
+
+ Featuring a co-op campaign for 1 to 4  players,  Nazi  Zombie  Army  is  a
+ horrifying new stand-alone expansion of  the  award-winning  Sniper  Elite
+ series.
+ In the dying flames of World War II, a  despairing  Hitler  unleashes  one
+ final, unholy gamble - a legion of undead super soldiers that threatens to
+ overwhelm the whole of Europe.
+ You are Karl Fairburne - the sniper who shaped world history. You are  one
+ of  the  last  living  souls  in  Germany.  You  must  team  up  or   die.
+ American, German,  Russian  -  previous  military  allegiances  no  longer
+ matter. Now it's just the living versus the dead.
+ Only a Sniper Elite with nerves of steel and a steady aim stands a  chance
+ against Hitler's Nazi Zombie Army!
+
+
+ Features:
+
+ * Battle through blood-drenched levels in a Berlin overrun by Hitler's
+   supernatural forces.
+ * Adapt to harrowing new enemies - occult commanders, roof-jumping
+   snipers, undead suicide infantry and worse...
+ * Test your sniping skills under extreme pressure, keep your cool, and
+   keep a boomstick handy - just in case.
+ * For the first time in Sniper Elite history, battle your way through a
+   campaign built for up to four players.
+ * Fight back-to-back with a German officer, a scientist and a Russian
+   soldier.
+ * Work together or face annihilation - plan your positions, set your traps
+   and make your stand.
+ * See every putrid lung burst, every rotten bone shatter with the return
+   of Sniper Elite's acclaimed X-Ray 'kill cam'.
+ * Experience the genre-best sniping ballistics and precise controls that
+   made the series a best-seller.
+ * Take into account gravity, wind, velocity, stability and more under the
+   pressure of the zombie onslaught. You don't want to miss.
+
+
+
+ChangeLog:-
+----------
+ 
+-Fix for some users hanging on a black screen after launching game on steam.
+-Fix for when exiting the game it hangs for a long time before shutting down.
+-Quick Match: Fix allowing clients to ignore current host and search for another lobby.
+-Mission success screen - Various fixes with incorrect messages displayed.
+-Fixed AI colliding with incapacitated players.
+-Improvements to the bullet camera to show more multiple kills.
+-AI targeting improved to distribute target selection amongst multiple players.
+-Bullet camera frequency can now be set to NONE.
+-Fix for Occult General appearing almost invisible post a checkpoint restart.
+-Fixed Super Elite sliding around looking dead on clients.
+-Fix to stop other players from interrupting a resuscitation.
+-Fix to stop score farming on Occult General battle.
+-Fix to stop bullet cameras on resurrecting AI that was causing some t-posing.
+-Labyrinth: Fix to stop AI visibly teleporting into view in some sections.
+-Cathedral: Fix to stop Safe room door from not closing.
+-Cathedral: Fix to remove an invisible damage volume that was affecting players.
+-Subway: Fix to remove infinite spawning Snipers in end battle.
+
+ ***************************** 
+**   **Install Notes:**      **
+ ***************************** 
+-Copy and replace all the files in the root folder,
+-Overwrite when prompted
+-run the "NZA.Update.bat" bat
+-Play and Enjoy
+
+ ******************************** 
+**   **Additional Notes:**      **
+ ******************************** 
+ 
+* Patch is provided by Muffl0n (cs.rin.ru)
+* Used the ali213 crack thanks.
+
+Note:-
+
+Add Steam_API.dll to exclusion list as some antiviruses may show it as a false positive.   

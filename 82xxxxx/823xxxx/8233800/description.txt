@@ -1,0 +1,42 @@
+Zygor Guides v4.0.6051, released March 8th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+
+
+These uploads work just fine; if you are having problems it is on your end and not mine. Thanks!
+
+
+
+
+Patch notes:
+
+Version: 4.0.6051
+Released on: March 8th, 2013
+[B] Achievements
+Added in several achievements
+
+[B] Dailies/Events
+Worked on updating/fixing the 5.2 dailie
+
+[B] Reputations
+Updateing the Outland reputations for horde and alliance
+
+[B] Includes
+updated some includes for the reputations
+
+[Gear]
+Improved the handling of heirloom items. Other items should not get suggested over heirlooms as long as the heirlooms bonus effects are not active (e.g bonus exp).

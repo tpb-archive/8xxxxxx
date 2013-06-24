@@ -1,0 +1,62 @@
+Source : DVDR IGUANA (Thanks)
+  
+http://www.imdb.com/title/tt2009402/
+
+
+File size                                : 699 MiB
+Duration                                 : 1h 18mn
+Overall bit rate                         : 1 239 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 18mn
+Bit rate                                 : 1 101 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.204
+Stream size                              : 622 MiB (89%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 18mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 72.3 MiB (10%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+Writing library                          : LAME3.99r
+Encoding settings                        : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+They say the darkest hour is just before dawn, and at the Sunrise diner it's very late indeed. Four couples find themselves at an out-of-the-way 24-hour diner, but they are not all that they seem.
+  
+http://www.shotpix.com/images/26172089177077584314.png  
+http://www.shotpix.com/images/98410920556525886825.png  
+http://www.shotpix.com/images/35524756460588375485.png	

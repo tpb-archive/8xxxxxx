@@ -1,0 +1,53 @@
+Zygor Guides v4.0.6064, released March 11th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+
+
+These uploads work just fine; if you are having problems it is on your end and not mine. Thanks!
+
+
+
+Patch notes:
+
+
+Version: 4.0.6064
+Released on: March 11th, 2013
+[B] Achievements
+Added info for the Accomplished Angler achievement
+
+[B] General
+Fixed reported lua errors.
+
+[H] Achievements
+Trainer extraordinaire updated.
+
+[A] Reputations
+Updated more reps in outlands
+Version: 4.0.6059
+Released on: March 11th, 2013
+[A] Reputations
+Updated a couple outland reputaitons and object model placement.
+
+[B] Reputations/Dailies
+Minor fixes in the 5.2 dailies guides.
+
+[Travel]
+The Arboretum flight path can now be destination again.
+Lion's Redoubt flight path has been added
+
+[B] Achievements
+Added in our new achievement system, allowing players to access our guides using the in-game achievement menu.

@@ -1,0 +1,9 @@
+- Addressed some stability and startup issues on machines that have both Intel and NVIDIA graphics hardware.
+- Fix for players being unable to progress related to the boat in the beach area.
+- Some fixes for crashes on startup and when selecting Options.
+- Some small improvements to TressFX hair rendering.
+- Fixes for various graphics glitches, including certain effects not being visible in fullscreen mode.
+- Fixed a problem that caused some users to not be able to use exclusive fullscreen.
+- Added support for separate mouse/gamepad inversion for aiming, as well as support for x-axis inversion.
+- Fixes related to the benchmark scene and benchmark mode.
+- Various other small fixes.

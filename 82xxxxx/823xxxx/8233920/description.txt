@@ -1,0 +1,60 @@
+This four-hour DVD offers short, two- to five-minute walkthrough video lessons on the most common Windows 8 tools.
+
+Disc #1 - Basic Windows Mechanics.
+Disc #2 - Saving to Storage Devices.
+Disc #3 - Staying Safe Online.
+Disc #4 - Ten Common Problems and How to Fix Them.  
+
+General  
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 174 MiB
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 020 Kbps  
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding  
+Bit rate mode                            : Variable
+Bit rate                                 : 1 830 Kbps
+Maximum bit rate                         : 7 915 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.177
+Stream size                              : 157 MiB (91%)
+Language                                 : English
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Bit rate mode                            : Variable
+Bit rate                                 : 186 Kbps
+Maximum bit rate                         : 235 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 16.0 MiB (9%)
+Language                                 :English    
+
+SIZE:  512MB

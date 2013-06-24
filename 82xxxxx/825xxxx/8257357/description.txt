@@ -1,0 +1,58 @@
+Source - Parker.2013.TS.XViD-26k (Thumbs Up + Respect)
+
+General
+Complete name                            : Parker 2013 TS x264-SSDD.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 500 MiB
+Duration                                 : 1h 51mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 630 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 51mn
+Bit rate                                 : 576 Kbps
+Maximum bit rate                         : 1 352 Kbps
+Width                                    : 720 pixels
+Height                                   : 336 pixels
+Display aspect ratio                     : 2.143
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.079
+Stream size                              : 457 MiB (91%)
+Writing library                          : x264 core 129 r2245 bc13772
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 51mn
+Bit rate mode                            : Variable
+Bit rate                                 : 48.0 Kbps
+Maximum bit rate                         : 63.2 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 39.7 MiB (8%)
+
+Screens: 
+http://i.imgur.com/o41zj0p.png 
+http://i.imgur.com/6h2Jf4H.png 
+http://i.imgur.com/igNozWL.png 
+http://i.imgur.com/z6ndCRp.png

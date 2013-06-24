@@ -1,0 +1,46 @@
+-- Commercials have not been taken out --
+
+The Rachel Maddow Show - mp4
+March 18 - 2013
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 56mn 57s
+Bit rate mode                    : Variable
+Bit rate                         : 450 Kbps
+Width                            : 512 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 4:3
+Frame rate mode                  : Constant
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.076
+Stream size                      : 183 MiB (79%)
+Writing library                  : x264 core 120
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 56mn 57s
+Bit rate mode                    : Variable
+Bit rate                         : 112 Kbps
+Maximum bit rate                 : 194 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 45.6 MiB (20%)

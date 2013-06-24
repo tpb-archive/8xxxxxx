@@ -1,0 +1,108 @@
+ http://www.shotpix.com/images/78179298485552489906.jpg
+
+Info:
+
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 656 MiB
+Duration : 2h 37mn
+Overall bit rate : 583 Kbps
+Encoded date : UTC 2013-03-22 19:16:44
+Tagged date : UTC 2013-03-22 19:56:24
+Writing application : HandBrake 0.9.8 2012071700
+
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L1.3
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Format settings, GOP : N=1
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 2h 37mn
+Bit rate mode : Variable
+Bit rate : 256 Kbps
+Width : 352 pixels
+Height : 288 pixels
+Display aspect ratio : 2.25:1
+Frame rate mode : Variable
+Frame rate : 29.970 fps
+Minimum frame rate : 2.500 fps
+Maximum frame rate : 30.303 fps
+Standard : PAL
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.084
+Stream size : 287 MiB (44%)
+Writing library : x264 core 120
+Encoded date : UTC 2013-03-22 19:16:44
+Tagged date : UTC 2013-03-22 19:56:24
+Material_Duration : 9429463
+Material_StreamSize : 301463443
+Material_FrameCount : 282580
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+
+Audio #1
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 2h 37mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Maximum bit rate : 202 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 180 MiB (27%)
+Encoded date : UTC 2013-03-22 19:16:44
+Tagged date : UTC 2013-03-22 19:56:24
+Material_Duration : 9428800
+Material_StreamSize : 188556768
+
+
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : ac-3
+Duration : 2h 37mn
+Bit rate mode : Constant
+Bit rate : 160 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 180 MiB (27%)
+Encoded date : UTC 2013-03-22 19:16:44
+Tagged date : UTC 2013-03-22 19:56:24
+Material_Duration : 9428768
+Material_StreamSize : 188575360
+
+
+
+Screens: 
+http://www.shotpix.com/images/09798025072070491035.png 
+http://www.shotpix.com/images/14346774819913989959.png 
+http://www.shotpix.com/images/36569701353589922693.png 
+http://www.shotpix.com/images/98058679144601938401.png 
+http://www.shotpix.com/images/73253553509793034684.png 
+http://www.shotpix.com/images/03172761876904050526.png 
+http://www.shotpix.com/images/51182862223832496752.png

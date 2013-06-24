@@ -1,0 +1,41 @@
+Aqua Mail ΓÇô new email app PRO v1.2.2
+
+Requirements: 2.0+
+
+Overview: Integration AquaMail is a new email app for Android 2.1 and higher.
+
+Easy automatic setup for popular email services (Yahoo, Hotmail, Gmail, and more).
+
+Support for many other email services via standard Internet email protocols: IMAP, POP3, SMTP. This includes many corporate email servers, such as Lotus Notes and Exchange, provided that the administrators enabled IMAP/SMTP.
+
+Push mail (IMAP IDLE, instant incoming email delivery) for those servers that support it (Gmail, GMX and more).
+
+Plays well with other email programs that you may be using to access your IMAP mailbox. Uses existing folder structure, can synchronize drafts, sent, and deleted messages.
+
+Can save attachments on the memory card.
+
+Widgets (message counts, message list).
+
+Integration with Tasker (change settings, trigger mail check).
+
+Integration with Enhanced SMS & Caller ID, Light Flow, Cloud Print.
+
+Lots of settings to configure the application just the way *you* would like. Separate settings for WiFi and mobile connections.
+
+This is the Lite version, which is limited to two accounts, no identities, and adds a promo signature to all outgoing messages with a link to the program's web site.
+
+You can add more than two accounts, use identites, and remove the signature by purchasing the Pro key here on Market at any time.
+
+What's in this version:
+1.2.2 - minor update.
++ Message/attachments pager now fades out on phone sized screens to conserve space.
+Swipe the screen to see the attachments panel (on Android 2.*, swipe from the edge of the screen).
++ "Quick response" when composing messages (see the menu).
++ Support for Tesla Unread (thanks, Kevin!)
++ Two-pane layout for devices like the Galaxy Note 2 (preliminary, requires 4.0 and above, please see the link below).
+Full list of changes:
+ 
+http://www.aqua-mail.com/?cat=3
+
+ 
+https://play.google.com/store/apps/details?id=org.kman.AquaMail

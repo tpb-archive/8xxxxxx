@@ -1,0 +1,17 @@
+Mathworks Matlab R2012a (7.14) Linux/MacOS 
+
+Year / Issue Date: March 2, 2012 
+Version: 2012a (7.14), build 739 
+Developer: Mathworks 
+Bit depth: 32bit & 64bit 
+Language: English 
+Medicine: Present 
+System requirements: Ubuntu 10.04 LTS, 11.04 and 11.10, Red Hat Enterprise Linux 5.x and 6.x, SUSE Linux Enterprise Desktop 11.x, Debian 5.x 
+Mac OS X 10.7 (Lion) or Mac OS X 10.6.4 (Snow Leopard) and above with Apple Java for Mac OS X Update 2 and above
+
+
+To install follow these steps:
+1) choose "install manually without using the internet"		
+2) enter the "file installation key"
+   38699-60149-36808-21840-05491
+3) use "Matlab714License.lic" when asked for license file		

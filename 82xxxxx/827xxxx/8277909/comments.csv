@@ -1,0 +1,112 @@
+﻿User Type,Username,Date,Text
+,Quronja,2013-03-20T08:42Z,Is this torrent with AutoKMS???
+[V],murphy78,2013-03-20T08:47Z,"I've included an activator, but it's not pre-installed."
+,inspironlaptop,2013-03-20T08:49Z,iS THIS fULL OR 180 DAYS........iS IT UPDATEBLE THROUGH WINDOWS UPDATE
+[V],murphy78,2013-03-20T09:21Z,"Depends how you activate it. KMS activation is 180 days at a time. There are some Volume-MAK keys floating around the webs that are permanent, but it's not very necessary. With the KMS Server Service that MTK installs, it activates basically instantly every 7 days... I have included instructions in the zip.
+
+You are welcome to try to hunt around for volume-MAK keys. If you do manage to get one that is not blocked, I highly recommend backing up your activation with Advanced Tokens Manager."
+,petruserectus,2013-03-20T10:52Z,bullshit like all other his win8 torrents
+,Quronja,2013-03-20T12:53Z,"When the boss will be a new version of sustainable torrent???
+
+http://thepiratebay.sx/torrent/8149271/Windows_7_Ultimate_SP1_x64_OEM_Activated_Feb2013
+
+http://thepiratebay.sx/torrent/8149267/Windows_7_Ultimate_SP1_x86_OEM_Activated_Feb2013
+
+For me this is the best ...."
+[V],murphy78,2013-03-20T13:17Z,nothing b/s about my win8 torrents.
+,Azad855,2013-03-20T16:05Z,thank you very much Murphy78
+,raysefo666,2013-03-20T16:12Z,"murphy ! i have UEFI and my hdd is gpt format , how can i boot from your iso's ? i try ultraiso power iso but all of them doesnt enable UEFI boot option, only normal boot and in normal boot option cant install anyhing ! if i get a stock iso i am able to boot UEFI! PLS HELP ME ! sowwy for second comment!"
+,Roaddy,2013-03-20T16:41Z,"I take strong exception to petruserectus's indecent comment about uploads of murphy78 which are always excellent. The guy (petruserectus) is supposed to extend minimum courtesy to murphy78 who is doing a commendable work. Sorry murphy78, for such bad comments. I am as much hurt as you might have been. Please keep the good work going on.
+Thanks! 
+You are the ONE and ONLY ONE.
+All the best. "
+,Quronja,2013-03-20T17:05Z,"Thank you murphy78. I do not think anything bad ..... Thanks, you're the best .."
+,kicsikekincse,2013-03-20T19:32Z,"Thank you Murphy!
+
+I do not use this one, but a previous version and it runs well.
+Will you make a simpler version of this: solo Enterprise or Pro, fully updated and activated? 
+I think that covers the needs of most users, saves space and easy to use. Does anybody really need all 18 versions?
+Thanks!! "
+[V],murphy78,2013-03-20T22:50Z,"I get this sometimes. People act self-absorbed wondering how on earth this could be good for them having 18 versions. It's not just about you. There's no ONE best version of any windows. They all have positives and negatives. For example (core) N is probably the fastest, but doesn't have hyper-v that enterprise has or any media features.
+
+If you just want a simple updated pro every month, I also release those; just click my name. This AIO is meant to help people with ProWMC activation backed up, core people, enterprise people, people who like N versions, etc. It's not all about you."
+,bustre,2013-03-21T00:01Z,"Very well said Murphy
+Thanks for all your hard work"
+,Sonic_27,2013-03-21T02:19Z,"Thank you, I knew you would upload this. THANKS AGAIN!! Works PERFECT!!"
+,kicsikekincse,2013-03-21T18:05Z,"Sure, it is not just about me, I was just wondering. No problem with the version. I was just thinking aloud.
+
+Thanks for the work! 
+
+Will check the release."
+[V],murphy78,2013-03-22T02:20Z,"I'm going to need to demand that you guys seed more. I've been seeding this for over 2 days straight and we only have 42 seeders... Please seed for at least a day after you download this so other people can have it too.
+
+I don't have to make these things, and if you keep doing this selfish behavior of not seeding I can find something else to do."
+,Cascudo,2013-03-22T16:45Z,"
+Perfect work!
+Murphy78 Hello!
+You could make a Windows 7 86 with Office 2010 or 2013!
+Thank you."
+[V],murphy78,2013-03-22T22:02Z,"Guys if you are using these releases with leaked MAK keys or using an old ProWMC activation that uses non-legit methods, you should know that MS knows about it.
+
+The way windows 8 activation works is that when you are online, it will attempt to do things with your tokens occasionally. I believe for me it did like 4-5 things a day at a certain time, depending on when I installed originally.
+
+They currently don't do anything about it, and only time will tell if they have to implement some sort of genuine thing like they did for xp and 7. It's possible that they are collecting information while they decide what to do about it.
+
+Daz, the guy who created the Windows Loader, mentioned that win8 calls home in the thread on mdl:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-and-TOOLS-v-3-0/page799?p=732920&viewfull=1#post732920
+
+I have since confirmed that my retail data.dat swap also tries to call home and errors out in eventvwr.msc. I know people like to put a lot of stock in permanent activations, but just note that they might not be as permanent as you think..."
+,neo9990,2013-03-22T23:43Z,"for me this is super best windows
+Windows 7 xDark Deluxe v5.0 64 Bit RG (October 2012-ENG)"
+,neo9990,2013-03-22T23:45Z,"for me this is super best windows
+Windows 7 xDark Deluxe v5.0 64 Bit RG (October 2012-ENG)
+
+xdark_v5 1 iso Torrent"
+,neo9990,2013-03-22T23:46Z,"for me this is super best windows
+
+Windows 7 xDark Deluxe v5.0 64 Bit RG (October 2012-ENG)
+
+xdark_v5 1 iso Torrent"
+[V],murphy78,2013-03-23T00:03Z,"Yes, some prefer super customized themes with tons of programs installed or whatever. I try to avoid that because not everybody likes them, including myself.
+
+It's just bad form to try to force everyone to use your own personal preferences."
+[V],murphy78,2013-03-23T12:37Z,"Yes, if you read the full description I mentioned that I added x64 recovery and windows upgrade."
+[V],murphy78,2013-03-24T08:32Z,"nexusxxx I added a setup.cmd, sourc64 directory, copied over everything from a sources directory on an x64 install. Then I deleted the sxs folder because  I do that on most of my releases to save space.
+
+I then added a setup from the root directory of a x64 install, hex edited it to point to sourc64 instead of sources (same size so it doesn't mess up the exe and I don't have to re-compile) I then went into the sourc64 directory, hex edited autorun.dll to point at setup.cmd which runs setup.exe (sources version un-modified) calling an /installfrom option. Anyway, I hex edited that and changed that setup.exe to setup.cmd.
+
+The downside to this method is that it gives a brief cmd prompt blip on x64 upgrade and an ugly yellow confirm message on autorun the root setup.exe, but it works fine and it's about as good as I can do without totally messing with re-signing things to match the sha-1.
+
+There is an archive message on MDL boards about how to do this and add the boot sector, but you should perhaps just save yourself the effort and pm me on MDL and I can link you a rar I made of the relevant files."
+[V],murphy78,2013-03-24T08:34Z,"homehlg, it depends which activation method you use. I put suggestions and mtk 241 in the activation zip in this torrent, but you can do whatever you want; you're a big boy."
+,BrdjaniN,2013-03-29T02:40Z,"I've constantly get this message when i try to install any version of this windows - ""Windows cannot find the Microsoft Software License Terms. Make sure the installation sources are valid and restart the installation."" Some help ?"
+,medo_h_e,2013-03-30T15:09Z,"Hey Murphy78 
+can I use my old key ?( that Microsoft sent it to me by email when it was free)
+now I use win 8 with Media Center activated officially with Microsoft 
+is there any thing can I do not to lost my activation ? Upgrade my windows can do it ?
+help me please"
+,shapeshifter910,2013-04-01T05:09Z,"I was not able to activate this with Toshiba oem key.
+So this can't be used for legit clean installs on oem computers.
+Unless I missed something."
+[V],murphy78,2013-04-05T04:23Z,"@brdjanin, That is an error I received when trying to split the wim files. Apparently it looks in the first split to see if it can locate the license.rtf file specified for the oem/retail/vl install you are using. If it cannot find it, it is likely that you have a program with the method of install. If you are using a dvdr dual-layer, you might try a different iso burning program. Perhaps your current method is truncating folder names, etc.
+
+@medo_h_e, it's still possible with phone method and data.dat swap of a legit retail activated data.dat file, but I'm not going to walk you through the method as it is something MS can and probably will fix with a built-in wat update. They already fixed a KMS data.dat method with a wat update on dec10.  You can still install a gVLK for prowmc and use a kms activator if you really want ProWMC.
+
+@shapeshifter910, AFAIK oem method in win8 works a bit differently. They introduced SLP 3, and with it made it so if you want to fix any computer problems, you have to run a built-in restore function. They purposefully designed the oem method in win8 to avoid people abusing the oem process like they did in windows 7 with windows loader.  I am not an expert on getting it to work with an everyday msdn source. You would have to read up on that, and there might be files needed to copy to the source to be able to install on an oem version.
+
+I can speculate that the OEM companies install windows 8, change settings around to satisfy the new oem method, send the hardware ids to microsoft to whitelist the key to match the hardware, and then sysprep/reseal the software for the consumer.  This is from my limited exposure to a few things I've read and I don't know if I have explained it correctly or not. You would, again, need to look it up for yourself, and find out if/how anyone else was able to successfully do it."
+[V],murphy78,2013-04-05T04:32Z,"For next patch day I'm going to see if I cannot slim down each install a few hundred megs by removing the kb file uninstall information. I would not do this if the kb files were not so incredibly huge for win8.
+
+Basically, the way it is, windows installs a packaged update, but backs up the old updates to windows_winsxs_backup directory
+That backup information is completely unnecessary if you don't need to uninstall a kb file. The only kb file I've ever even remotely needed to uninstall was kb971033 for windows7 on a vl version with some of the older methods of kms activation that didn't use different PIDs.  it's really just bloating up the install.
+
+Removing the backup files that uninstall uses, could also slim down the overall dvd size as I think they uses GUID specific information, which may, if I understand correctly, have different hash output. If that is the case, it could be trying to compress each different backup for each index, and deleting the backup information would slim down the install even more.
+
+I'll research things a bit before next Tuesday, when the patch date rolls around."
+,FRID@,2013-04-05T18:10Z,How do I know which version of KMS which is on the iso? cant find the information?
+[V],murphy78,2013-04-06T18:25Z,"I didn't put any kms activator on the ISO this month. I did include an activation.zip, which contains MTK 2.4.1 I believe, but I think I mentioned which version it was."
+,shapeshifter910,2013-04-10T19:57Z,"@murphy78
+I was wrong with my previous comment.
+I didn't get the right oem key.
+After using a different key tool, and getting the right key, I was able to do a clean reinstall and successful activation using your 8in1 Win8 disk.
+Thanks for your good work."

@@ -1,0 +1,20 @@
+Install:
+
+1. extract [2BLADE AND SOUL UPDATE]
+2. extract [Atomix_Blade_and_Soul_Launcher]
+3. copy all [Atomix_Blade_and_Soul_Launcher] on to [2BLADE AND SOUL UPDATE]
+
+4.
+
+
+extract here and copy the data content
+go to the 
+ 2-blade_and_soul_updated_client &gt; B&S &gt; 2-BnS_CBT2_fully_updated &gt; BnS_cbt2 &gt; contents &gt; data
+ and place
+config.dat
+and
+xml.dat
+
+that'll fix it
+
+use contentsFIX error thing. then ur done

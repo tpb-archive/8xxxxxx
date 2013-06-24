@@ -1,0 +1,11 @@
+Australia Victoria BMD historical index
+
+BMD index, Victoria, Australia
+historical Victorian Births/Marriages/Deaths (Australia) stored as CSV data
+index to deaths 1836-1985
+index to births 1836-1920
+index to marriages 1836-1942
+
+births: year, registration number, gender, surname, first names, father, mother, birth place, other information
+marriages: year, registration number, gender, surname, first names, spouse surname, spouse first names, marriage place, other information
+deaths: year, registration number, gender, surname, first names, father, mother, death place, age, other information

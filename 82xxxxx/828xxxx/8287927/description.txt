@@ -1,0 +1,76 @@
+ http://imgr.us/images/8oemkk07v697g75256y.jpg
+
+INFO:
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 495 MiB
+Duration : 1h 43mn
+Overall bit rate : 670 Kbps
+Encoded date : UTC 2013-03-21 18:33:51
+Tagged date : UTC 2013-03-21 19:38:03
+Writing application : HandBrake 0.9.8 2012071700
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Format settings, GOP : N=1
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 1h 43mn
+Bit rate mode : Variable
+Bit rate : 503 Kbps
+Width : 640 pixels
+Height : 288 pixels
+Display aspect ratio : 2.222
+Frame rate mode : Variable
+Frame rate : 29.970 fps
+Minimum frame rate : 3.322 fps
+Maximum frame rate : 30.303 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.091
+Stream size : 371 MiB (75%)
+Writing library : x264 core 120
+Encoded date : UTC 2013-03-21 18:33:51
+Tagged date : UTC 2013-03-21 19:38:03
+Material_Duration : 6193826
+Material_StreamSize : 389394085
+Material_FrameCount : 185615
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 43mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Maximum bit rate : 195 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 118 MiB (24%)
+Encoded date : UTC 2013-03-21 18:33:51
+Tagged date : UTC 2013-03-21 19:38:02
+Material_Duration : 6193323
+Material_StreamSize : 123854443
+
+
+Screens: 
+http://imgr.us/images/rllnyj5rwmmc1p0h5ak3.jpg

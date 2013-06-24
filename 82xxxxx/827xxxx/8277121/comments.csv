@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,ziuber18,2013-03-20T01:04Z,If you want do download it faster click 'get torrent file' and uncheck all 'backup' folders - you most propably won't need them.
+,shanu1195,2013-03-24T18:52Z,hey buddy will it work with ac3 theta repack ?
+,ziuber18,2013-03-25T14:08Z,it only works with eng/rus repacks
+,kussoja,2013-03-25T21:56Z,"Will this work with other dlcs (Benedict Arnold, The hidden secrets pack)?"
+,shanu1195,2013-03-26T04:22Z,buddy it does not work with azaq318's Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack it always says could not retrieve version no . 
+,shanu1195,2013-03-26T04:28Z,buddy could tell usthe instruction on  how to update this one Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack please 
+,ziuber18,2013-03-27T00:47Z,"the installers should work just fine. If not you may try to install updates from backup folders - in this case you need to follow the instructions of the second part of the description.
+
+If the installers can't retrieve version info then try reinstalling the game or try adding these reg keys:
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftWindowsCurrentVersionUninstall{9D15E813-0C26-41E7-ABC5-3EB06FF1B3CF}]
+""DisplayName""=""Assassin's Creed(R) III v1.01""
+""DisplayVersion""=""1.01""
+""Version""=dword:01010000
+""MajorVersion""=dword:00000001
+""MinorVersion""=dword:00000001"
+,sait011,2013-03-29T03:19Z,I can not install update 1.02 required me version 1.01 update
+,ziuber18,2013-03-29T15:42Z,@sait And your version is...?
+,sait011,2013-03-29T20:25Z,I installed Assassin's Creed III - THETA (2012) PC [ENG / RUS] RePack probably 1.01 version
+,ziuber18,2013-03-29T21:59Z,so you version should be 1.01 and update to 1.02 should do just fine. You may try adding the registry keys I've mentioned above.
+,dinosaad,2013-04-13T18:29Z,"Can anybody tell me if this updates solve """"ac3 has stopped working"""" problem or Not...?????"
+,dinosaad,2013-04-13T19:38Z,??????????
+,emrick,2013-04-17T18:34Z,"ok look, i got up this window where everything is on russian, after a couple of minutes following the update guide (thank you zuiber). However now this window comes up like if ur supposing to change to another update or something : Assassin's Creed Rus UpdatesUpdate 1.02Update 1.01"" from here i can browse and so on but the thing is that the text is only questionmarks ""?????  ??    ?????????"" please reply asap "
+,ziuber18,2013-04-17T20:15Z,"@emrick
+If you mean how to navigate through the installers? You just have to quess what it says :/ I had question marks too."
+,Turivol,2013-04-19T21:21Z,"@ziuber18 I installed Assassin's Creed III - THETA (2012) PC [ENG / RUS] RePack, version 1.01, and i got an error trying to install the 1.02 update. It doesn't even open the installer, and i can't add the reg keys you talked about. Could you explain in more details how to add them? Thanks."
+,Turivol,2013-04-19T21:27Z,"Ignore my last comment, i was able to figure it out! Thanks for the upload! You can upload update 1.05 or point to where we can get a compatible update?"
+,kezler32,2013-04-22T05:38Z,"@ziuber18 , when I install the 1.02 update it searches for data2.cab ? I don't know where to find it. need your help. Thanks"
+,kezler32,2013-04-22T05:46Z,"@ziuber18, really need help here"
+,ziuber18,2013-05-02T22:36Z,"Update 1.05 is available here:
+http://www.playerattack.com/file/41039/Assassin039s-Creed-III-v1.05-Patch-Russian/
+
+you will need to follow the second part of this torrent description to get it to work"
+,ziuber18,2013-05-02T22:39Z,"Official Rus Update 1.04 here:
+http://cs521402.vk.me/u78655073/doc/3da8120d608b/Assassin_39_s_Creed_3_Patch_1_04_RUS.rar?dl=1"
+,ziuber18,2013-05-02T23:14Z,"@kezler32
+I'm having the same problem now.
+If anyone knows the solution please share."
+,ziuber18,2013-05-09T21:53Z,"http://thepiratebay.sx/torrent/8457342
+updated torrent. 
+Updates 1.02 to 1.05
+Only 10MB"
+,tulume,2013-05-17T04:23Z,"I am using  Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack. When i try to install any of the updates, it shows a error in some strange language. I tried your instructions of searching ""disk1"" in temp and deleting it. The first time i searched there were 3-4 folders which i deleted, but the second time in the ""run update 1.02 but DON'T HIT INSTALL YET"" part i don't find any ""disk1"" folder in temp. Yet the update shows the same error. Every update shows the same error."
+,tulume,2013-05-17T04:31Z,"Here is a image of the error i get:
+http://i1366.photobucket.com/albums/r779/bebolulu/Untitled_zps0ab9220c.png"
+,tulume,2013-05-17T04:35Z,"I am using  Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack. When i try to install any of the updates, it shows a error in some strange language. I tried your instructions of searching ""disk1"" in temp and deleting it. The first time i searched there were 3-4 folders which i deleted, but the second time in the ""run update 1.02 but DON'T HIT INSTALL YET"" part i don't find any ""disk1"" folder in temp. Yet the update shows the same error. Every update shows the same error.
+
+
+Here is a image of the error i get:
+http://i1366.photobucket.com/albums/r779/bebolulu/Untitled_zps0ab9220c.png"
+,ziuber18,2013-05-17T12:16Z,"@tulume
+You may try reinstalling your game or adding registry key I've mentioned above.
+
+Also, if you try to install international update the message should be in english so you will have better understanding of what is wrong."
+,tulume,2013-05-17T13:33Z,"@ziuber18 I did add the registry key you gave, but still there is no result. :-(  Even tried installing from the backups you gave, but it is showing, i believe, the same error. "
+,tulume,2013-05-17T13:34Z,I will re-install and try.
+,tulume,2013-05-20T00:32Z,"To anyone trying to install The Tyranny of King Washington or these updates on  Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack, i want to tell you it will not work. Reason for this is that  Assassin's Creed III - THETA (2012) PC [ENG/RUS] RePack does not use ubisoft game launcher, which is necessary to install The Tyranny of King Washington or these updates. It will work if it is R.G. Mechanics or Skidrow."
+,ziuber18,2013-05-20T11:23Z,"These updates are originally made for this torrent:
+http://thepiratebay.sx/torrent/7844040/Assassin_s_Creed_III_-_THETA_%282012%29_PC_%5BENG_RUS%5D_RePack"

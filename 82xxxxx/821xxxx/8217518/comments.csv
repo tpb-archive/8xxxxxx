@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,cindy25,2013-03-04T06:35Z,"thanks
+
+1) is there any way u can post Red Widow 102 only? already have 101 web rip
+
+2) what do u use to convert flv to avi?  I am trying to convert the latest Marvin Marvin , and can't get decent quality with either freemake or winx"
+[V],MP4SUX,2013-03-04T08:19Z,"There are two distinct categories of FLV. Old version and New version.
+.
+There's a free program called ""FLVextract"". You run it, and drag and drop FLV onto it.
+.
+If you are using adn ""Old"" FLV, it will convert to AVI and give you a dupe soundtrack in MP3. If you are using a ""New"" FLV, it will demux to two streams - .x264 .AAC. There is no choice, it all depends on the FLV which output you get.
+.
+So, now you've go two streams take note of the frame rate, because next you use MP4muxer to combine the two streams into an MP4 file. It is from that MP4 that you use a program called MP4cam2AVI. This drops the x264 video into an AVI file. You can keep the AAC audio, but it would be compatible to almost nothing. There is the option to convert the AAC to MP3, I recommend that.
+.
+So, now you have an AVI file, with MP3 audio, but the codec is still x264 - if that needs to become XVID, then you're looking at re-encoding with loss of quality. I use VirtualDub and encode 2pass.
+.
+==============
+.
+Or, you can go crude and get a copy of AVC (AnyVideoConverter), set it to XVID / AVI drop your FLV into it and hit ""convert"". The drawback is the you need to get the frame rate right or sound will slowly drift out of sync.
+.
+Let me know,
+.
+AVIGUY
+.
+Haven't had a chance to scrutinize Red Widow."
+[V],MP4SUX,2013-03-04T09:18Z,"Sorry, Episode 2 doesn't come separately.
+.
+AVIGUY"

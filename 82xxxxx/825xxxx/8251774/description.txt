@@ -1,0 +1,109 @@
+      IMDB: http://www.imdb.com/title/tt1754912/
+
+
+       Language: English
+
+       Subs: Finnish. Norwegian. Danish. Swedish
+           
+                 + Swedish srt
+
+
+
+
+General
+
+Complete name                       : Wrath.2011.DVDRip.Multisubs.mkv
+Format                              : Matroska
+Format version                      : Version 4 / Version 2
+File size                           : 701 MiB
+Duration                            : 1h 33mn
+
+
+Video
+ID                                  : 1
+Format                              : AVC
+Format/Info                         : Advanced Video Codec
+Format profile                      : High@L4.1
+Format settings, CABAC              : Yes
+Format settings, ReFrames           : 5 frames
+Codec ID                            : V_MPEG4/ISO/AVC
+Duration                            : 1h 33mn
+Nominal bit rate                    : 972 Kbps
+Width                               : 720 pixels
+Height                              : 304 pixels
+Display aspect ratio                : 2.35:1
+Frame rate mode                     : Constant
+Frame rate                          : 25.000 fps
+Color space                         : YUV
+Chroma subsampling                  : 4:2:0
+Bit depth                           : 8 bits
+Scan type                           : Progressive
+Bits/(Pixel*Frame)                  : 0.178
+Writing library                     : x264 core 129 r2245 bc13772
+Default                             : Yes
+Forced                              : Yes
+Matrix coefficients                 : BT.709
+
+Audio
+ID                                  : 2
+Format                              : AAC
+Format/Info                         : Advanced Audio Codec
+Format profile                      : HE-AAC / LC
+Codec ID                            : A_AAC
+Duration                            : 1h 33mn
+Channel(s)                          : 2 channels
+Channel positions                   : Front: L R
+Sampling rate                       : 48.0 KHz / 24.0 KHz
+Compression mode                    : Lossy
+Delay relative to video             : 37ms
+Language                            : English
+Default                             : Yes
+Forced                              : No
+
+Text #1
+ID                                  : 3
+Format                              : VobSub
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Swedish
+Default                             : No
+Forced                              : No
+
+Text #2
+ID                                  : 4
+Format                              : VobSub
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Norwegian
+Default                             : No
+Forced                              : No
+
+Text #3
+ID                                  : 5
+Format                              : VobSub
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Danish
+Default                             : No
+Forced                              : No
+
+Text #4
+ID                                  : 6
+Format                              : VobSub
+Codec ID                            : S_VOBSUB
+Codec ID/Info                       : The same subtitle format used on DVDs
+Language                            : Finnish
+Default                             : No
+Forced                              : No
+
+Menu
+00:00:00.000                        : en:Chapter 1
+00:11:47.639                        : en:Chapter 2
+00:22:39.680                        : en:Chapter 3
+00:33:47.319                        : en:Chapter 4
+00:43:27.440                        : en:Chapter 5
+00:55:14.320                        : en:Chapter 6
+01:07:01.159                        : en:Chapter 7
+01:31:05.840                        : en:Chapter 8
+01:33:47.640                        : en:Chapter 9
+

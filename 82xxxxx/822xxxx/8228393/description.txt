@@ -1,0 +1,136 @@
+Leoncavallo: Pagliacci / Mascagni: Cavalleria Rusticana
+
+
+Converted the DVD format of these operas available by torrent to MKV media files.
+
+PCM Audio, subtitles and chapters from the DVD; MPEG compressed (gently) to AVC.
+
+
+TMI:
+
+Cavalleria Rusticana.mkv
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 2.04 GiB
+Duration                       : 1h 11mn
+Overall bit rate               : 4 084 Kbps
+Encoded date                   : UTC 2013-03-06 17:02:05
+Writing application            : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 11mn
+Nominal bit rate               : 2 500 Kbps
+Width                          : 640 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Constant
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.272
+Writing library                : x264 core 120
+Language                       : Italian
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : PCM
+Codec ID                       : A_PCM/INT/LIT
+Duration                       : 1h 11mn
+Bit rate mode                  : Constant
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Language                       : Italian
+Default                        : Yes
+Forced                         : No
+
+Text #1
+ID                             : 3
+Format                         : VobSub
+Language                       : Italian
+
+Text #2
+ID                             : 4
+Format                         : VobSub
+Language                       : English
+
+Text #3
+ID                             : 5
+Format                         : VobSub
+Language                       : German
+
+Text #4
+ID                             : 6
+Format                         : VobSub
+Language                       : French
+
+Text #5
+ID                             : 7
+Format                         : VobSub
+Language                       : Spanish
+
+Text #6
+ID                             : 8
+Format                         : VobSub
+Language                       : Chinese
+
+Menu
+00:00:00.000                   : it:1 Preludio
+00:02:44.097                   : it:2 "O Lola ch'ai di latti la cammisa"
+00:08:16.496                   : it:3 Introduzione
+00:09:46.652                   : it:4 "Gli aranci olezzano sui verdi margini"
+00:12:27.079                   : it:5 "Dite, mamma Lucia"
+00:16:37.930                   : it:6 "Il cavallo scalpita"
+00:19:26.165                   : it:7 "Beato voi, compar Alfio"
+00:27:22.240                   : it:8 "Perché m'hai fatto segno di tacere?"
+00:33:11.889                   : it:9 "Tu qui, Santuzza?"
+00:40:30.761                   : it:10 "No, no, Turiddu"
+00:46:06.430                   : it:11 "Oh! il Signore vi manda"
+00:51:37.360                   : it:12 Intermezzo sinfonico
+00:54:57.560                   : it:13 "A casa, amici"
+00:57:53.069                   : it:14 "Viva il vino spumeggiante"
+01:00:42.372                   : it:15 "A voi tutti salute"
+01:06:02.491                   : it:16 "Mamma, quel vino è generoso"
+
+
+
+Pagliacci.mkv
+
+---Same as above---
+
+Menu
+00:00:00.000                   : 17 Opening Credits
+00:00:00.000                   : it:18 Prologo
+00:01:07.708                   : it:18 Introduzione
+00:03:50.804                   : it:19 "Si può? Si può?"
+00:09:03.283                   : it:20 Atto Primo
+00:09:03.283                   : it:20 "Son qua! Ritornano!"
+00:11:49.782                   : it:21 "Un grande spettacolo"
+00:14:38.785                   : it:22 "Un tal gioco, credetemi"
+00:19:12.158                   : it:23 "Don, din, don - suona vespero"
+00:21:39.839                   : it:24 "Quel fiamma avea nel guardo!"
+00:27:11.503                   : it:25 "Sei là?"
+00:32:11.736                   : it:26 "Nedda!" - "Silvio, a quest'ora!"
+00:37:26.317                   : it:27 "E allor perché, di', tu m'hai stregato"
+00:41:22.220                   : it:28 "Cammina adagio"
+00:46:01.832                   : it:29 "Recitar! Mentre preso dal delirio … Vesti la giubba"
+00:50:06.076                   : it:30 Intermezzo
+00:53:34.017                   : it:31 Atto Secondo
+00:53:34.017                   : it:31 "Ohè! Ohè! Presto, affrettiamoci"
+00:57:34.858                   : it:32 "Pagliaccio, mio marito"
+01:01:30.560                   : it:33 "È dessa! Dei, com'è bella!"
+01:05:08.311                   : it:34 "Arlecchin!"
+01:07:37.460                   : it:35 "Coraggio!"
+01:09:41.984                   : it:36 "No! Pagliaccio non son!"

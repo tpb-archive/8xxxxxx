@@ -1,0 +1,42 @@
+
+\Description://
+
+Minecraft is a sandbox construction game, inspired by Infiniminer, and created by Markus Persson, the founder of Mojang Specifications. The game involves players creating and destroying various types of blocks in a three dimensional environment. The player takes an avatar that can destroy or create blocks, forming fantastic structures, creations and artwork across the various multiplayer servers in multiple game modes.
+
+Minecraft is currently in beta, available to players for Γé¼14.95 (~$20). Beta singleplayer and Beta multiplayer, when purchased, can be played in the userΓÇÖs web browser, or using the downloadable client. Minecraft Classic is available to play for free. Minecraft development started around the 10th of May 2009, pre-orders for the full game started being accepted on the 13th of June 2009.
+
+  \Changelog//
+
+    Added Weather (rain, snow, thunder)
+    Added Statistics and Achievements
+    New Items (Detector rail, Powered Rail, Birch and Pine/Spruce Saplings, Web)
+    Holding SHIFT+Click on something in a chest will immediately drag the selected item(s) into your inventory and vice-versa.
+    Birch and Pine/Spruce trees now drop Birch and Pine/Spruce saplings, respectively
+    Performance improvements
+    Crafting a ladder now produces 2 ladders
+    If lightning strikes a pig, it becomes a Zombie Pigman
+    New settings in options:
+    Ability to change GUI size (Small, Normal, Large, Auto)
+    Advanced OpenGL (Occlusion Culling) (For higher-end graphics cards)
+    New Power armor image that looks like electricity (in /armor) This file is used when a mob is hit by lightning
+    Items can now be smelted with Saplings with the same smelting power as Sticks.
+    Dropped items in flowing water move faster than before.
+    Pigs that die by burning now drop cooked porkchops upon death
+    Redstone dust can be placed on Snow (Could have caused the bug where blocks can't be placed on snow)
+    Wolves are more common, even in Non-Taiga/Forest biomes
+    Crops hit with water now drop seeds and wheat, as opposed to just wheat.
+    Chickens now only need to be hit twice without a weapon to die.
+     
+    Bug Fixes;
+    Climbing a ladder with gaps will not work anymore, but moving downwards is still possible.
+    On fancy graphics, the sides of grass blocks are now biome-specific and match the shade on the top.
+    You can now move through flowing water at previous speed.
+    Wolves have a better understanding of doors. (They will go through doors most of the time, but will sometimes get stuck on the 3 pixel thickness of the door. They will eventually back up for another go at the opened door.)
+    The lighting on portals and ice has been fixed (previously had triangles on the blocks) when using Smooth Lighting.
+    On SMP, the health of wolves are now synchronized between server and client, causing wolves to only whimper when low on health, opposed to all of the time.
+     
+    Also, there's one thing that they didn't add yet, but flowers drop flowers! E.g. they have a chance of replanting themselves 
+
+    iNSTALLATiON:
+    1) INSTALL
+    2) PLAY! 

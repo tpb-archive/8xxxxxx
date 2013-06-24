@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,l33tissw00t,2013-03-18T12:44Z,If people can please help seed it would be greatly appreciated.
+,l33tissw00t,2013-03-18T14:59Z,"Regarding which ones to install, it depends on the program you are trying to RUN (not the Windows type).  Therefore, if you are running 64bit Windows, you should install both 32 and 64 bit runtimes, as any program that needs the 32bit runtime will not work with the 64bit runtimes."

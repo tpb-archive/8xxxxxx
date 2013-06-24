@@ -1,0 +1,369 @@
+﻿User Type,Username,Date,Text
+,ultimategtaplayer,2013-03-25T09:13Z,awesome game waiting for bioshock infinite!
+,MST--DJ,2013-03-25T10:28Z,thank
+,PHDIKOULAS,2013-03-25T10:55Z,"seed leeches
+
+
+thnx extremezone"
+,MC26,2013-03-25T11:24Z,"So long.....lol.  Thanks for the upload, just waiting on seeders.  To those already seeding, THANK YOU!"
+,Zemsta,2013-03-25T12:29Z,"Not working.
+Perfectly executed the instructions in the NFO tho. I got i.imgur+com/w3ONQ7U.png thats good, but when I click on ""Play Offline"" I got this: i.imgur+com/1hfbivL.png
+
+I heard somewhere about an AMD-only SC2 cracking bug and I use az A10 APU. This is it?"
+,Zemsta,2013-03-25T12:34Z,"Not working.
+Perfectly executed the instructions in the NFO tho. I got i.imgur+com/w3ONQ7U.png thats good, but when I click on ""Play Offline"" I got this: i.imgur+com/1hfbivL.png
+
+I heard somewhere about an AMD-only SC2 cracking bug and I use az A10 APU. This is it? "
+,iwinz3,2013-03-25T13:28Z,"having same problem as zemsta, getting ""starter edition cannot run offline mode"" running AMD FX and AMD Radeon if that has anything to do with it"
+,agentmi6,2013-03-25T13:37Z,the instal process is so long does someone have the same issue. Im waiting 10 minutes now and im on 0.2% installing.
+,Zemsta,2013-03-25T13:59Z,"My error:
+press connect -> http://i.imgur.com/w3ONQ7U.png -> clicked on ""offline play"" -> http://i.imgur.com/1hfbivL.png
+
+And yes, I have started the game once and the NFO describes.  
+
+Any idea?
+"
+,TUHD,2013-03-25T14:04Z,"@Zemsta: It's I assume the same error that I encountered with the downgrade-trick - there's something within the Bulldozer-chip (the base of the FX-series) that cancels out the generated key in tandem with the SCII-program. Dunno the exact reason, but that's it.
+I assume it has something to do how programs code in the key into the registry. Just speculation here though. Only thing I know AMD FX+SCII key generation doesn't work."
+,TUHD,2013-03-25T14:06Z,@WarE9: Go away you survey fucker
+,lrdgarth,2013-03-25T14:12Z,"If it helps anyone I had to skip step five and use this as written ""Once you have everything running you  should  consider  making  a  desktop
+  shortcut directtly to SupportSC2Switcher.exe, this seems to  bypass  the
+  Blizzard Launcher and should keep  you  safe  from  potential  fun-ruining
+  future updates.""  otherwise it kept trying to update the launcher again."
+,kirov1152,2013-03-25T14:58Z,can someone tell me do i need starcraft II or not i mean is this a expansion or?
+[V],extremezone,2013-03-25T15:19Z,"INFO: This is a standalone release giving access to both Wings of  Liberty
+ as well as Heart of the Swarm"
+,IQ98,2013-03-25T16:02Z,"The game just install 1,8% then it stops. The installation is also very very slow. "
+,JonIre11,2013-03-25T16:03Z,same problem as agentmi6...install freezes at 0.2% and wont proceed. Any ideas?
+,IQ98,2013-03-25T16:05Z,"The installation stucks early. 
+
+It's stuck around 8%. Why do not the game install? I have installed around 300 games and never got this weard problem."
+,Zemsta,2013-03-25T16:24Z,Anyone with AMD Bulldozer chip could get into the offline mode yet?
+,D_A7,2013-03-25T16:49Z,"Install is stuck at 0.0%
+
+btw i already have wings of liberty installed. "
+,D_A7,2013-03-25T17:21Z,Ok so install moved after 10 minutes. Now i get this http://prntscr.com/xsezn . Whats the point in downloading 8gb game when installer downloads another 6gb ?
+,TUHD,2013-03-25T18:37Z,"DA_7, you haven't blocked the .exe from installing updates I guess... hence the huge update."
+,kiason,2013-03-25T18:43Z,so close to being finished ^_^
+,Djuxy,2013-03-25T18:55Z,"Ez if you around respond pls.Does dl of files have to be finished in total (not just until its playable, and Play button gets highlighted) to proceed with steps 2 trough 5.And if so, Is it possible that blizz already updated new patch that updates game further then ver. 2.0.6.25180.
+For the rest of the ppl here,yes it starts off slow but speed depends on your net and Pc coz at the same time while the files are dl`ed, are installed as well. "
+,Crusader2010,2013-03-25T18:57Z,"After a google search, there was a similar error in 2011:
+
+If you are getting the Starter Edition offline error, it could mean you haven't logged in successfully in the last 30 days. They have a piracy protection system that enables offline mode for 30 days upon each successful logon. 
+
+No idea how to bypass it though."
+,D_A7,2013-03-25T19:26Z,Finally installed the game following all the steps in instruction and now i get this http://i.imgur.com/1hfbivL.png :(
+,Djuxy,2013-03-25T20:17Z,"All done.So nwm. what i asked.For others answer is yes.You got to w8 till all files are downloaded.
+It all works fine, just carefully read instructions.
+Main prob. i guess for all ppl having the http://i.imgur.com/1hfbivL.png issue, is that you closed the window after all files where downloaded, and you got the info: ""The Game Is Up to Date""
+The instructions clearly states not to close it.
+If you done this, just uninstalling or deleting files will not help.You have to clear reg data as well.
+So when the download of all files is finished, PRESS The ""PLAY"" Button!!! (To clarify, the installation and the download of all files is Step1 of the instructions) 
+Then you Run ""Fairlightflt-sc2hots.exe"" on the DVD and proceed with steps 2 trough 5."
+,tambu90,2013-03-25T20:24Z,thanks men
+,Isti,2013-03-25T20:28Z,It says that all data files (patches?) must be downloaded to play in offline mode... I assume this method is no longer good?
+,kiason,2013-03-25T20:57Z,installing now ^_^
+,kiason,2013-03-25T21:02Z,11
+,kiason,2013-03-25T21:20Z,do you let the game update after it installs?
+,iwinz3,2013-03-25T22:32Z,"@djuxy no it is a SC2 AMD error mate, it does it with my legit version as well lol its on the blizzard forums, for some reason AMD rigs are erasing the liscence every time it tries to connect,"
+,tribal86,2013-03-25T22:54Z,how to clear reg data??? :P
+,kiason,2013-03-25T23:09Z,i hope i do this right but im curious if you run Fairlightflt-sc2hots.exe after you update and before you follow rest of instructions
+,Zemsta,2013-03-25T23:15Z,"TEH BUG:
+With certain CPUs like Bulldozers, the licence key you register with Step4 button will be automatically deleted upon pressing the ""CONNECT"" button ingame, therefore client will be reverted back to ""Starter Edition"".
+
+Need a hotfix!!"
+,kiason,2013-03-25T23:41Z,this may sound dumb so please forgive me but can someone help me with the instructions...im not sure what it means when it says hit step 3 button and step two button..can someone simplify it please ^_^
+,D_A7,2013-03-26T00:06Z,"The moment you run the game it deletes applied license from FLT and you cant play in offline mode :( ( i checked registry before and after )
+It would be great if someone can confirm if this is only AMD cpu related bug.
+
+My specs are:
+AMD FX-6300
+MSI GTS 450
+8gb 1866Mhz ddr3 ram
+MSI 970a-g46
+500gb HDD"
+,Djuxy,2013-03-26T00:30Z,"@kiason: Fairlightflt-sc2hots.exe is an auto execute prog. that you run after all the game data is dl`ed.
+it actually have buttons on it labelled:
+          Step1
+          Step2... and so on till 5
+So all you need to do after, is literally "" hit step 3 button and step two button.."" as you said.
+As for AMD issue with users.
+I Run:
+AMD Phenom(tm) II X2 550 Procesor 3.10 GHz
+GIGABITE MA 770 UD-3 board 
+ATI Radeon HD 4600 Series
+GeIL DDR2 Gaming Series Black Dragon 4GB 1066MHz C5 Dual Channel Kit
+Win7 Ultimate 64bit.
+And i had no problems."
+,Djuxy,2013-03-26T00:42Z,"O yea` 1 thing that popes in to mind.
+Are you running the game from shortcut on desk coz if you are dont.
+Make, as suggested in instructions shortcut to SC2Switcher.exe that is located in Installation folder of the game.That should be
+C:Program Files (x86)StarCraft IISupport
+for win7 users.
+Hope all this info helps guys.Coz this is an excellent game.
+And once again ""Ez"" thx for upload.Top class as always."
+,Djuxy,2013-03-26T00:46Z,"Sorry wrong copy/paste.This is the exact link.
+""C:Program Files (x86)StarCraft IISupportSC2Switcher.exe"""
+,dany31,2013-03-26T01:58Z,@Djuxy Where i can find the reg data files to clear them ? I use Windows 7 64 bit.I want to uninstall the game and install it again because when i hit the PLAY button it start searching for streaming sever and nothing happens so i must close it.
+,dany31,2013-03-26T02:01Z,I mean connecting to streaming server...
+,melvox,2013-03-26T07:12Z,"Wait, so does this mean I downloaded an 8 Gig ISO file that doesn't have any game data present just a small Blizz downloader and the crack files that are less than 1GB? Was that correct?"
+,melvox,2013-03-26T07:14Z,"I mean, why the humongous ISO size when it's actual size is just 60+MB? Don't get me wrong, I'm thankful to the scene for realeasing this; but 8gb for 60mb wasn't really worth it."
+,iwinz3,2013-03-26T08:31Z,@Djuxy you arnt reading the AMD error ones at all.. your using a phenom.. WE ARE USING BULLDOZERS *FX's and such* it is a confirmed error with BULLDOZER arch
+,Djuxy,2013-03-26T08:33Z,"@kiason, and for others in need of same info.
+to delete register files type in ""regedit"" in search on your PC. and open regedit.exe.
+starcraft files are located in: HKEY_CURRENT_USERSoftwareBlizzard Entertainment.delete whole Blizzard Entertainment folder and restart PC."
+,Djuxy,2013-03-26T09:05Z,"@melvox.
+man...you, and the others, that said the same thing.. want to say clueless much. but seems to harsh.
+The 8gig Iso, ofc its not just to get downloader thats 60mb.You get majority of core game files that includes full Wings of Liberty.Even tho this is a standalone campaign, coz its a blizz/battle net access game its like an expansion in that regard."
+,GigaDegen,2013-03-26T15:46Z,install stuck on 0.2% and not moving for several hours...any advice?
+,ReyGran,2013-03-26T16:05Z,"So the installer is downloading for like 13 hours and it shows 8,7% .. and downloading speed is like 50-300 kb/s . Is there really no way of speeding it up ? Because i think it will take like 2-3 days to download it..."
+,bbenyu,2013-03-26T17:17Z,"I did your steps, but when I connected with your e-mail address, it ask me to write the password. Why not work? :@"
+,dream2160,2013-03-26T17:26Z,"thanks, i dl'ed and installing this right now. this is how to install as i understand (im not 100% sure, plz correct me if im wrong).
+1/Run setup.exe and choose ""I've already activated.""
+2/Wait for the process bar to be completed and press Play then immediately quit.
+3/block sc2.exe from accessing internet (b4 this, it's fine to let the game connect to internet).
+3/Run Fairlightflt-sc2hots.exe and press on-screen buttons as instructions
+4/Done, right??
+is it right?plz help"
+,NikolaTesla1,2013-03-26T17:29Z,Can i instal this game without downloading 6 gb game whit instaler?
+,Hreroth,2013-03-26T19:44Z,"i think i have different than those who dont work, my case is after type in the ftl account then press login, but the connection just loading (not failed) & press play offline, it appear authorization required message. Anyone can help?"
+,mcdar,2013-03-26T21:10Z,so we are downloading this starcraft and starcraft from blizzard too....... now have to wait 10+hr for installation to complete..totally suks
+,stefankk,2013-03-26T22:12Z,"""When you see the 'Connecting  to  streaming  server...'  dialog  just  hit
+ 'Cancel',    this    happens    because    of    the    firewall    block."" so i click cancel and game say i dont  install 100% file ... wtf?"
+,NikolaTesla1,2013-03-26T22:27Z,"Stefan is my name to:)  
+Turn off firewall and anti virus!
+
+I need password plz answer anyone!"
+,Atomsk1,2013-03-27T00:13Z,Is there any version of HotS available that can be installed with extremezone's previously-uploaded Wings of Liberty torrent?
+,teshia,2013-03-27T04:18Z,"If you were able to play the game fine, but then start getting asked for a password when you go back to the game later on, the solution is simple.
+
+Disable your network card in your control panel or just unplug your ethernet cable from the back of your computer.  If you don't have any internet connection, it'll stop asking for a password and start letting you play in Offline Mode again.  Just enable your network card again when you're done playing to go back online."
+,wildpig1234,2013-03-27T04:45Z,"Much appreciated if someone can torrent
+
+Starcraft II Heart of Swarm Bradygame Strategy Guide. 
+
+Thanks"
+,333vuk333,2013-03-27T09:31Z,"I'm stuck at 0.1% for 2 hours! Is this normal? I see it's downloading,but only 2GB in 2 hours."
+,Hreroth,2013-03-27T10:14Z,"@teshia
+
+I try offline, but it keep appear the authorization required to play offline. Any assist?"
+,snowstone,2013-03-27T12:40Z,2 days to download it and 2 more days just to install it rofl lol hope it works
+,miki80pirate,2013-03-27T14:17Z,"1. Save to disk or mount with Daemon Tools. 
+2. Instalirayte game. (When asked, select activation ""I've Already Activated""). If you freeze for 0.8, 3, 5, or any other rate of more than 15 minutes then restart the installation. 
+3. Start the game and leave it to the servers patched to v2.0.6 (When the game is finished you will see the progress goes from red through yellow, green and get to be 100% of the window). Press Play izchakvate game to run in and out of the game when you load without touching anything! 
+4. Staritrayte flt-sc2hots.exe, located in the Fairlight folder on DVD-it (Run as Administrator) 
+5. Block the game in MANUAL Firewall! Follow the instructions in the video HBk60Fl7fzo are starcraft.exe both times outgoing and incoming. 
+6. Step2 Push button 
+7. Step3 Click the button and wait a bit until the process completes. 
+8. Step4 Click the button to generate a license for HOTS the records. 
+9. Step5 Click the button and play! (When the window appears ""Connecting ..."" click cancel 
+10. Once in use the game as a flt@trash-mail.com username and click Connect. 
+11. Wait a bit and you get a option to play in OFFLINE MODE . This delay may be from 5 seconds to 5 minutes. 
+12. StarCraft.exe played by up to four company in this way. luck. People who drove without touching the firewall is very "
+,MultiFreeShit,2013-03-27T14:57Z,"I made a tutorial on this,go to youtube multifreeshit"
+,snowstone,2013-03-27T17:35Z,did everything right then when i get to login it asks for password or if i unplug internet it gives option to play offline but then it says you cannot play offline mode with STARTER EDITION.....
+,edizeus,2013-03-27T18:42Z,"Works great, THX!"
+,Aspadora,2013-03-27T19:59Z,I am getting stuck on the installation at 0.3% max i restarted it like milion times and it doesnt work ... PLS tell me how to fix it
+,tribescribe_123,2013-03-27T21:12Z,"OMG finally! A real starcraft 2 HotS torrent! Benn waiting weeks, checking piratebay every single minute, to see if someone cracked it yet.
+By the way, who is FLT?"
+,hazardose,2013-03-27T22:25Z,"Working for me. After mounting the ISO and installing the game I let it first update itself (it downloaded ~5GB of stuff), and then I followed exactly FLT's guidance. Works perfectly. Beautiful, really well-polished RTS game. Just beautiful:)"
+,Djuxy,2013-03-28T02:33Z,Just finished it....EPIC GAME!!
+,tribescribe_123,2013-03-28T02:40Z,"Fuckin leechers. Can't download this torrent faster than 0.3KB/s.
+Will finish it in ETA: 2 years and 7 months"
+,PhuGame,2013-03-28T02:52Z,"Can someone help me? I had followed completely 100% all the instruction and everything. However, when I go to log in screen, I put flt@trash-mail.com.  And then it's appear the password tab below it, did I do something wrong? I had installed and updating the game to the latest version, open then game then quit it, use the ""flt-sc2hots.exe"" and finished all 5 steps, also I turn off my Norton. Please help me! I want to play this game!!!! You can reply me here or email me as tranthienphu98@yahoo.com
+
+Best Regards,
+PhuGamer"
+,ZloINaopako,2013-03-28T10:13Z,Works just fine. Tnx :)
+,PhuGame,2013-03-28T16:23Z,Still waiting for answer :
+,MB95x,2013-03-28T17:46Z,"I did everything in the description and when i start the game it asks me for the battle.net mail.I type in flt@trash-mail.com and press connect.It fails but it doesn't offer me the ""play offline"" button.The button is grey and when i place my mouse on it,it says that i didn't download all files.Does anybody have a solution to this?? What should i do??"
+,nostiger,2013-03-29T04:06Z,Did all the steps in order and getting To Play in Offline mode you must connect to battle.net once and have at least 1 starcraft 2 character. I did the whole connect to it once and escape so not sure what the issue is. Inless its the registery error with the amds
+,333vuk333,2013-03-29T12:52Z,"@nostiger
+
+you probably copied flt-sc2hots somewhere and then run it from there - that's a mistake. You need to run it from .iso image.
+"
+,DSxHimiko,2013-03-29T15:47Z,"Thank EZ!!! Got it to work, just follow the instructions and the youtube guide!..you'll do fine afterwards. Also, to those who have encountered the password problem after putting flt@trash-mail.com, try TURNING ON your WINDOWS FIREWALL.. That was my problem at first and after I turned my firewall on, it's magic, lols.."
+,RRRt,2013-03-29T17:18Z,"OK, something that worked for me.
+
+On STEP 2 along with the ""StarCraft II.exe"" that is located inside the %gamedir% you have to block the ""SC2.exe"" that is located inside %gamedir%VersionsBase24944
+
+If you don't do it the game will still be able to connect to battle.net
+
+Hope it'll help."
+,tyrael_dark,2013-03-29T19:08Z,Hi guys... I am getting an error when clicking play offline... it says: starcraft starter edition cannot play in offline mode.
+,tyrael_dark,2013-03-29T19:10Z,"@RRRt and it worked? Because I blocked everything, I can even remove my internet cable and the ""starcraft starter edition cannot play in offline mode"" thing persists. "
+,RRRt,2013-03-29T20:44Z,"@ tyrael_dark
+
+AMD processor? They seem to have an issue with the license generator. I can't check it because all my PC are Intel based..."
+,oDragao,2013-03-29T21:59Z,"hello everyone,
+to be able to play the game offline you have to turn off the internet.
+even blocking files in the firewall its not works only turn off the internet.
+great game, go well."
+,blentot,2013-03-29T23:15Z,"NOTE
+
+Once you have everything running you  should  consider  making  a  desktop
+
+shortcut directtly to SupportSC2Switcher.exe, this seems to  bypass  the
+
+Blizzard Launcher and should keep  you  safe  from  potential  fun-ruining
+
+future updates"
+,nostiger,2013-03-29T23:20Z,@333vuk333 no i ran it from inside the iso. Not my first tiem so i followed everything perfectly. Like I said only thing i can think of is the amd bug. It was doing the registry erase thing when i tried the older downgrade way.  Guess i got to wait till someone figures out how to stop it from deleting the registry when u start the game. 
+,08cinek80,2013-03-30T12:03Z," I got exactly the same issue as nostiger - followed steps as instructed and than... bang, doesn't work without legit character.  Any ideas?"
+,Bayaraa,2013-03-30T13:18Z,"Do i have to download 6gb install when i update with bllizziard launcher it needs to download 7.53 gb file do i have to download answer plz my net speed is so slow
+answer plz"
+,KrekSvk,2013-03-30T20:19Z,"I have a problem ... game installed perfectly, everything is running okay, I can play Wings of liberty campaign and custom battle but when I try to start HoTS campaign i get through intro and when its loading PROLOGUE it freezes, every time on the same spot ... before it freezes it says its steeaming data ... can anyone help ?"
+,princify,2013-03-31T21:04Z,seeeeeeeeeed people pls...stuck at 85%...
+,tribescribe_123,2013-04-01T08:57Z,"For future reference, anyone who has not yet completed the torrent download:
+When you finish and start the installation, LET IT DOWNLOAD ALL IT NEEDS THE FIRST TIME, cause if you just open it a few minutes and then pressed ""PLAY"" when that button becomes clickable, and then if you continue with the steps, you won't be able to download the patch anymore, it will just keep giving an error, even if you uninstalled and reinstalled. I made that mistake and now this torrent doesn't work anymore, so I have to go download the 100% offline version torrent now:
+StarCraft.II.Heart.of.the.Swarm.v2.0.6.READNFO-BlackEcho (another extra 13 GB)"
+,Arun1121,2013-04-01T12:00Z,"To all those people to whom the game is giving the error...""Must have logged on atleast once and must have created atleast one SC2 Character"" after following all the instructions correctly....
+Do this to make the game work....
+Step 1 : Goto battlenet.com and create a new account...
+Step 2 : Temporarily  allow the game to connect to the internet (do so by disabling the firewall )
+Step 3 : Login the game using this new account
+Step 4 : Create your Character. Then you can exit the game...
+Note:  There the game will give a nag screen telling about the features you will unlock if you buy the game; when you press exit.
+Step 5 : Open the flt unlocker.... There click the steps 3 and 4...(ie...copy files and generate licence)
+Step 6 : Enable your firewall now. Open the game. Login with the NEW account (not the flttrash@mail.com )
+Step 7 : Play the Game....!
+Note: you must have blocked both “Starcraft II.exe” in the game folder as well as the SC2.exe file in Versions Base24944 folder
+Plz : this was tested by me and it works ....also only go for this method if the original method fails and gives this message” Must have logged on atleast once and must have created atleast one SC2 Character”."
+,Arun1121,2013-04-01T12:02Z,If u do the above correctly.. the nag screen will disappear... Indicating that the game is unlocked
+,khalel000,2013-04-01T17:46Z,Hello there can i ask how large is the size of the patch? thanks to anyone who could help.
+,khalel000,2013-04-01T17:54Z,Hello there can i ask anyone who finished installing it how large is the patch of this game?  thanks
+,AnonymousBasterd,2013-04-01T18:27Z,Just finished downloading and the game installed and works flawlessly. Follow the instructions thoroughly. Already in chapter 2. Offline.
+,kuttsxx0,2013-04-05T10:10Z,"***Unable to download game data from Blizzard's servers. To play offline, 100% of game data must already be downloaded. Please check your internet connection and try again later****
+
+HOW TO SOLVE THIS ISSUE????????
+PLEASE HELP..........HELP.........HELP"
+,kuttsxx0,2013-04-05T10:11Z,"***Unable to download game data from Blizzard's servers. To play offline, 100% of game data must already be downloaded. Please check your internet connection and try again later****
+
+HOW TO SOLVE THIS ISSUE????
+PLEASE HELP..........HELP.........HELP"
+,gabriel23j,2013-04-05T21:54Z,"hola a todos soy de venezuela y escribo este mensaje para comunicar que empezare a jugar yaaa! jajajaj, ok comento para decirles a todos que si funciona perfectamente deben seguir los pasos sencillamente y ya esta. Ojo deben ejecutar todo directamente del dvd no lo copien al pc como pendejamente hice yo en un principio. saludos no se como los gringos tienen tanto peo pa instalarlo y eso q soy malo con el ingles. Simplemente google traductor y ya esta xd"
+,electro cute,2013-04-06T02:17Z,"FOR EVERYONE THAT HAS ""NOT 100% DOWNLOADED PROBLEM""
+
+here's how i've fixed it.
+
+1. i followed every step in the installer and got this message.
+2. i've went in the firewall and deleted every protocol associated to starcraft 2
+3. i've blocked a sc2.exe located in your install directory - versions - base 24944. i've blcoked it through advanced settings - ingoing rules and advanced settings - outgoing rules.
+4. i deleted starcraft 2 folder located in documents directory - not the directory with install but directory that has saves in it.
+5. IT WORKED!!!!
+
+(i've also installed the game in c:starcraft 2. don't know if it helped or not).
+
+be sure to have registry cleaned before the install. enjoy the game!"
+,kuttsxx0,2013-04-06T08:07Z,"***Unable to download game data from Blizzard's servers. To play offline, 100% of game data must already be downloaded. Please check your internet connection and try again later****
+
+HOW TO SOLVE THIS ISSUE?????
+PLEASE HELP..........HELP.........HELP
+
+@electrocute: I tried your steps but still same error......I even disabled my internet connection but keep getting same error!!!!!!!!"
+,kuttsxx0,2013-04-06T08:10Z,"***Unable to download game data from Blizzard's servers. To play offline, 100% of game data must already be downloaded. Please check your internet connection and try again later****
+
+HOW TO SOLVE THIS ISSUE?????
+PLEASE HELP..........HELP.........HELP
+
+@electrocute: I tried your steps but still same error......I even disabled my internet connection but keep getting same error!!!!!!"
+,Chidos,2013-04-07T11:18Z,It says NO ARCHIVES FOUND whenever I try to extract with WINRAR. DAMNNN this is the second one i tried!! DAMNNN
+,itsmeboneslee,2013-04-09T13:51Z,very slow installation :(
+,leffe_83,2013-04-09T23:08Z,"
+hi guys and girls, for the people who downloaded FLT version of Heart of the swarm.
+
+This is the way I got the Heart of the swarm to work with a little tinkering :).
+
+I already had Wings of liberty downloaded with crack but had to reinstall it without cracking it and updating it..
+
+For example:
+http://thepiratebay.sx/torrent/5719719/Starcraft.2.Wings.of.Liberty-LiBERTY
+
+I installed the FLT version before the reloaded was uploaded.
+
+http://thepiratebay.sx/torrent/8297229/StarCraft_II_Heart_of_the_Swarm-FLT
+
+The I updated it with the updater it was alittle over 2,5 Gb.
+
+Then I used the reloaded cracker and it didnt work so I downloaded the US downgrade:
+
+http://thepiratebay.sx/torrent/8258564/Starcraft_2_Heart_of_the_Swarm_US_Downgrade_to_2.0.5
+
+And then search them up in the Starcraft folder and replaced them (made a copy of them first just incase)
+
+so:
+
+1: install Wings of liberty without crack and update.
+2: Install ( FLT version of Heart of the swarm).
+3: update fully. Like 2,5-3 Gb for me.
+4: crack with reloaded crack.
+http://thepiratebay.sx/torrent/8342146/StarCraft.II.Heart.of.the.Swarm.Proper.Crack.Only-RELOADED_
+
+(4b:) I also tried the snify loader also but dont know it did anything in the long hal.
+http://thepiratebay.sx/torrent/8318297/Starcraft_II_Heart_Of_The_Swarm_Loader_Only
+
+5: Downgrade the installation with 2.0.5, because the newer ones dont work, yet.
+
+6: run the crack again just incase.
+
+
+After all this my Starcraft worked :).
+
+cheers.."
+,leffe_83,2013-04-09T23:12Z,"hi guys and girls, for the people who downloaded FLT version of Heart of the swarm.
+
+This is the way I got the Heart of the swarm to work with a little tinkering :).
+
+I already had Wings of liberty downloaded with crack but had to reinstall it without cracking it and updating it..
+
+For example:
+http://thepiratebay.sx/torrent/5719719/Starcraft.2.Wings.of.Liberty-LiBERTY
+
+I installed the FLT version before the reloaded was uploaded.
+
+http://thepiratebay.sx/torrent/8297229/StarCraft_II_Heart_of_the_Swarm-FLT
+
+The I updated it with the updater it was alittle over 2,5 Gb.
+
+Then I used the reloaded cracker and it didnt work so I downloaded the US downgrade:
+
+http://thepiratebay.sx/torrent/8258564/Starcraft_2_Heart_of_the_Swarm_US_Downgrade_to_2.0.5
+
+And then search them up in the Starcraft folder and replaced them (made a copy of them first just incase)
+
+so:
+
+1: install Wings of liberty without crack and update.
+2: Install ( FLT version of Heart of the swarm).
+3: update fully. Like 2,5-3 Gb for me.
+4: crack with reloaded crack.
+http://thepiratebay.sx/torrent/8342146/StarCraft.II.Heart.of.the.Swarm.Proper.Crack.Only-RELOADED_
+
+(4b:) I also tried the snify loader also but dont know it did anything in the long hal.
+http://thepiratebay.sx/torrent/8318297/Starcraft_II_Heart_Of_The_Swarm_Loader_Only
+
+5: Downgrade the installation with 2.0.5, because the newer ones dont work, yet.
+
+6: run the crack again just incase.
+
+
+After all this my Starcraft worked :).
+
+cheers.."
+,mourafall,2013-04-14T03:43Z,"hey guys, for those whith the error ""Unable to download game data from Blizzard's servers. To play offline, 100% of game data must already be downloaded. Please check your internet connection and try again late"", here it goes:
+
+after installing the game, you must run it at last for one time before you block it in the firewall.
+
+So, install it, run it, and THEN you execute the fairlight program.
+
+today it's 13/04/2013 and still running perfect."
+,Th3ArtOfRu1n,2013-04-14T06:24Z,"Been spending the majority of the weekend trying to get this running---used all the cracks I could find on the site, followed all instructions, etc...nothing worked. Thanks for uploading, but I think I'll be waiting for Razor1911 to put something out--hopefully a working crack."
+,nawnwa,2013-04-16T08:52Z,"I dloaded flt release from a diff site,, but the method still WORKS on 2.0,.7 ,, installed it today ."
+,rakin08,2013-04-22T07:32Z,its 100% working for me....just follow the instruction given.... and you have to download the full data during installation...nice torrent..nice speed....nice game...hope enjoy it..tnx
+,karkar88,2013-04-25T18:27Z,why downgrade all this steps works on 2.7 patch just follow all the instruction... well u must log in first then exit then follow the step... 
+,BKcrims,2013-05-20T17:35Z,"Hi there! registered just to say thanks and its WORKING in 2.0.8 Update!!!
+
+As long as you FOLLOWED each step then you're good to go :) Excellent torrent.
+
+btw, does anyone know how to play custom games?b'cause mine keeps saying u have to upgrade D:"
+,badhomaks,2013-05-29T02:16Z,"It works fine with the given instructions. TO extract .001, open it with winrar and extract the iso inside it. The patching takes a while because it's dl'ing 6gb of data. Everything else is straightforward. Thanks FLT!"

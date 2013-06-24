@@ -1,0 +1,82 @@
+ http://www.shotpix.com/images/05586732455286612632.jpg
+
+Info:
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 706 MiB
+Duration : 2h 6mn
+Overall bit rate : 782 Kbps
+Encoded date : UTC 2013-03-10 04:11:52
+Tagged date : UTC 2013-03-10 04:30:16
+Writing application : HandBrake 0.9.8 2012071700
+
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L2.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 2h 6mn
+Bit rate mode : Variable
+Bit rate : 618 Kbps
+Width : 640 pixels
+Height : 272 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Constant
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.142
+Stream size : 558 MiB (79%)
+Writing library : x264 core 120
+Encoded date : UTC 2013-03-10 04:11:52
+Tagged date : UTC 2013-03-10 04:30:16
+Material_Duration : 7572040
+Material_StreamSize : 585261574
+Material_FrameCount : 189301
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 2h 6mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Maximum bit rate : 271 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 144 MiB (20%)
+Encoded date : UTC 2013-03-10 04:11:52
+Tagged date : UTC 2013-03-10 04:30:16
+Material_Duration : 7572053
+Material_StreamSize : 151426188
+
+
+Screens: 
+http://www.shotpix.com/images/62814000088076933887.png 
+http://www.shotpix.com/images/58482021991500729130.png 
+http://www.shotpix.com/images/17085968701727350808.png 
+http://www.shotpix.com/images/31452069407986460381.png 
+http://www.shotpix.com/images/26399154897113323243.png 
+http://www.shotpix.com/images/46559275538361678315.png 
+http://www.shotpix.com/images/84374169992173623378.png 
+http://www.shotpix.com/images/65387517621336408970.png 
+http://www.shotpix.com/images/46500138343322663192.png

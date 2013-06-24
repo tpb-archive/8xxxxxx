@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,bloopton,2013-03-11T22:51Z,"downloading now, thanks if it works"
+,conir,2013-03-12T01:17Z,"sadly it does not work for me... i did everything you wrote but as soon as i want to start the tutorial or a new game, the applications crashes after the loading-screen with an error message.
+
+i am on a macbook pro 2011
+
+any suggestion on what i could do?"
+,ryballs,2013-03-12T01:19Z,no probs.. let me know if everything goes smoothly or if you need any help.
+,ryballs,2013-03-12T01:20Z,conrir whats your graphics card?
+,ryballs,2013-03-12T01:22Z,also what is the error message?
+,conir,2013-03-12T01:30Z,"it is an Intel HD Graphics 3000 with 512 MB
+
+from my experience my machine should be able to run it... the new x-com for example runs fine."
+,conir,2013-03-12T01:46Z,"it is an generic wine error message, something like ""programm GameJABiA.exe has encountered a serious problem and needs to close... blabla""  i cant click on the show more details button because the laptop freezes and i can only quit with cmd+q.
+so... yeah, dont know whats happening.
+i am still on osx 10.7.5 - maybe thats why?"
+,jooj21,2013-03-12T05:28Z,your OS is not the problem im on 10.8.2 and i have the same problem intel HD graphics card 2012 mac book pro
+,ryballs,2013-03-12T07:37Z,Can you try using the ATI wrapper app instead? It may be that intel drivers on mac don't emulate the shaders this game uses.
+,conir,2013-03-12T11:08Z,the very same thing happens when i use the ati wrapper :(
+,MrPooPaLot,2013-04-09T20:57Z,"ooh it is awesome! it works like charm, thanks dude for this game! now i have atleast something to kill time ;)"

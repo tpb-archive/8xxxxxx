@@ -1,0 +1,22 @@
+Instant Wireshark Starter
+
+BOOK DETAILS
+
+Publisher: Packt Publishing (January 2013) Language: English ISBN-10: 1849695644 ISBN-13: 978-1849695640 Format:PDF, EPUB
+
+BOOK DESCRIPTION:
+
+Wireshark is by far the most popular network traffic analyzing tool. It not only provides an interface for traffic capture but also provides a rich platform for an in-depth analysis of the traffic. The GUI provides a very user friendly and interactive media that simplifies the process of network forensics. This concise book provides a perfect start to getting hands-on with packet analysis using Wireshark. Instant Wireshark Starter is the perfect guide for new learners who are willing to dive into the world of computer networks. Walking you through from the very start, it transitions smoothly to cover core topics like filters, decoding packets, command line tools, and more. It covers every inch of Wireshark in a concise and comprehensive manner. Instant Wireshark Starter has been designed keeping basic learners in mind. After initial setup, the book leads you through your first packet capture followed by some core topics like analyzing the captured traffic and understanding filters. You will then be guided through more detailed topics like the decoding of captured packets, generating graphs based on statistics, and name resolution. Finally the book concludes by providing information about further references and official sources to learn more about the tool. 
+
+What you will learn from this book:
+
+Learn how to effectively utilize Wireshark Capture and decode data packets
+Understand protocol representation in Wireshark alongside statistical analysis 
+Implement display and capture filters 
+Import and export capture files 
+
+Approach Get to grips with a new technology, understand what it is and what it can do for you, and then get to work with the most important features and tasks. Written as a practical guide, Wireshark Starter will show you all you need to know to effectively capture and analyze network traffic. 
+
+Who this book is for:
+
+This book is specially designed for new learners who are willing to dive deeper into network analysis using Wireshark. It requires a basic understanding of network protocols and their implementation and is equally handy for network administrators, forensic experts, and network penetration testers. 

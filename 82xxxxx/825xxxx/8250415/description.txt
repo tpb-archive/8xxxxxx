@@ -1,0 +1,52 @@
+Zygor Guides update v4.0.6081, released March 12th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary but it is here as a reference.
+
+
+***********************************************************************************
+READ ME:
+
+These uploads work just fine; if you are having problems it is on your end. That being said, if there does happen to be a problem with an upload, then fall back to the previous version and NICELY let me know... I'll fix it as soon as I can.
+
+
+Please DO NOT post comments about new updates. I check daily for updates and if I haven't posted a new version yet, I'll get to it when I get to it. 
+***********************************************************************************
+
+
+Patch notes:
+
+Version: 4.0.6081
+Released on: March 12th, 2013
+
+[A] Dailies/Reputations
+Updated content for the Kirin Tor Offensive dailies
+
+[H] Dailies/Reputations
+Added missing turn in steps for the Sunreaver Onslaught.
+
+[B] Models
+updated the viewer model to show in the middle of the box
+
+[B] Achievements
+Take Em All On, Trainer Extraordinare, Big City Pet Brawler, Seeds of Doubt now available.
+Added in several achievements to the dungeon section.
+Updated existing Pandaria achievements
+
+[B] Titles/Reputations
+Added in several routers to prevent players from being misdirected when attempting a reputation or title.
+
+[Gear]
+Fixed an issue when trying to suggest with two Unique-Equip rings/trinkets.

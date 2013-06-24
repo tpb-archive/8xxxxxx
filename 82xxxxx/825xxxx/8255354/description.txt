@@ -1,0 +1,32 @@
+MFxPatcher 4.6
+
+Website: http://xamarin.com/
+Protection: Multiple license checks.
+
+INSTRUCTIONS
+
+1. Download and install the Xamarin Installer 2.0 from the Official Website.
+2. Run Patcher.
+3. Click Patch.
+
+Prerequisites & Notes:
+- This patch only supports:
+-- Mono For Android updateinfo.dat = 4776efd4-a061-4c4c-a6bf-50eb08119eb1 1361311264
+
+-- MonoTouch updateinfo.dat = 35CAC8EA-3216-482D-A63D-2396E9033AF6 2010089700
+
+- This patcher requires .NET Framework 4.0 or higher. :) (http://www.microsoft.com/en-us/download/details.aspx?id=17718)
+- If you get any errors, please let me know in the comments.
+- You can install this over the previous patch after upgrading or performing a fresh install.
+
+ENJOY!
+
+If you like the software, buy it!
+
+Cracked with love from New Zealand.
+[DLPC.Xtse]
+ 
+https://www.virustotal.com/en/file/1599db92b238aa791123ed0e2478b1786d6bcd48d84f4e739b0d364a497dc1fc/analysis/1363251504/
+
+I've left the patcher unpacked, unobfuscated & unconfused so you reversers can reverse it and see that there's nothing dodgy. :)
+Also - keep an eye out for misha93's comments, they will be helpful ;)

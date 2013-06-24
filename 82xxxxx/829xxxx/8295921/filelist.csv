@@ -1,0 +1,14 @@
+﻿Filename,Size,Unit
+KMSpico Install/KMSpico_Install_v4.4.exe,1.46,M
+KMSpico Install/ReadMe KMSpico Install.txt,1.14,K
+KMSpico OEM/$OEM$/$$/Setup/Scripts/Clean.cmd,94,B
+KMSpico OEM/$OEM$/$$/Setup/Scripts/KMSpico.exe,1.46,M
+KMSpico OEM/$OEM$/$$/Setup/Scripts/RunOnce.reg,762,B
+KMSpico OEM/$OEM$/$$/Setup/Scripts/SetupComplete.cmd,131,B
+KMSpico OEM/ReadMe KMSpico OEM.txt,1.15,K
+KMSpico Only Service/Check_Activation_All.cmd,84,B
+KMSpico Only Service/Install_Service.cmd,218,B
+KMSpico Only Service/ReadMe KMSpico Service.txt,1008,B
+KMSpico Only Service/Service_KMS.exe,439.5,K
+KMSpico Only Service/TriggerKMS.exe,49.5,K
+KMSpico Only Service/UnInstall_Service.cmd,102,B

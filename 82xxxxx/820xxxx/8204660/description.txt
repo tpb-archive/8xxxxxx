@@ -1,0 +1,58 @@
+This is something kool I came across from across the pond. Thathas some kool educational stuff. I believe you can also find it at http://www.ex.ua/view_storage/419145200705 . Let me know what you think guys
+
+General
+
+Count of video streams           : 1
+Count of audio streams           : 1
+Count of text streams            : 1
+Codecs Video                     : AVC
+Video_Language_List              : English
+Audio codecs                     : AC3
+Audio_Language_List              : English
+Text codecs                      : UTF-8
+Text_Language_List               : English
+File name                        :
+File extension                   : mkv
+Codec                            : Matroska
+File size                        : 1.73 GiB
+Duration                         : 59mn 7s
+Overal bit rate                  : 4193 Kbps
+Writing application              : mkvmerge v3.0.0 ('Hang up your Hang-Ups')
+
+Video
+
+Codec                            : AVC
+Format                           : AVCFormat settings                  : CABAC / 4 Ref Frames
+Duration                         : 59mn 7s
+Bit rate                         : 3825 Kbps
+Width                            : 1280
+Height                           : 720
+Pixel Aspect Ratio               : 1.000
+Display aspect ratio             : 1.778
+Frame rate                       : 25.000 fps
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Interlacement                    : Progressive
+Bits/(Pixel*Frame)               : 0.174
+Writing library                  : x264 - core 80 r1376M 3feaec2
+Language                         : English
+
+Audio
+
+Count of stream of this kind     : 1
+Format                           : AC-3
+Codec ID                         : A_AC3
+Duration                         : 59mn 7s
+Bit rate mode                    : CBR
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz
+Language                         : English
+
+Text
+
+Count of stream of this kind     : 1
+Kind of stream                   : Text
+Format                           : UTF-8
+Language                         : English

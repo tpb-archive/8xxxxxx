@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,.CHARON.,2013-03-17T05:26Z,"Happy to! I want to give a little more info after playing with this for a while;
+The LiveCD doesn't seem to have networking working, but after installing to disk it does. Also, after installing, will have to manually update the sources.list to include the right sources. Please check out fourms.kali.org for more.
+Also must use a wired network at first and do an apt-get update, then apt-get install wicd to get wireless working. Enjoy!"
+,l33tissw00t,2013-03-21T12:27Z,"Anyone having issues with networking, see this thread:
+http://forums.kali.org/showthread.php?306-Experiences-with-Building-KDE-Kali-x86"
+,PirateRom,2013-04-30T06:32Z,What's the minimum hard drive space required? Thanks

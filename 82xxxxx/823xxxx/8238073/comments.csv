@@ -1,0 +1,80 @@
+﻿User Type,Username,Date,Text
+,Lardzor,2013-03-10T07:51Z,"I have not looked at this, but I'm calling BS anyway. If it really is 48fps, I'll bet they just repeat frames, or use a temporal smoother filter."
+,Lardzor,2013-03-10T09:22Z,"And the winner is... Temporal Smoothing Filter !!!
+I looked at the sample.  The added frames are just an average of the before and after frames."
+,Lardzor,2013-03-10T09:50Z,"If the encoder had any competence, he would have used Virtualdub with THIS temporal filter which uses motion tracking instead of just averaging adjacent frames:
+http://www.compression.ru/video/frame_rate_conversion/index_en.html"
+,bboywhat,2013-03-13T08:02Z,"---(NOTES)---- 
+
+*High quality motion-based frame interpolation has been used to recreate the 48fps
+viewing experience of the movie since the BD features only the 24/1001 fps version.
+The frame interpolation is based on a slightly modified version of the well-known
+Interframe() script. Interpolated frames have been also sharpened to match more or
+less the level of sharpness of the original source frames. This is NOT the real
+thing! Frame interpolation is not perfect and will never be! May and will contain
+traces of ghosting and haloing! Don't complain about it, you have been warned! If
+you want the real deal, buy the 48 fps master or go to the cinema!
+
+*The encode runs at 48 fps, so it uses twice the bitrate of a normal 720p encode.
+Due to the frame interpolation, each frame is preceeded and followed by a ""fake""
+frame, which hurts the coherence of the source, thus affecting x264's prediction.
+For related quality considerations, bi-predictive frames have NOT been used. 2pass
+has been used to keep the file size of this long movie in a sane range."
+,marin85,2013-03-18T12:20Z,"@Lardzor: I have seen such poor noob trolls like you everywhere. If you knew what you were talking about instead of pretending to, you would have known:
+1. Interframe uses SVP, which does use motion tracking; averaging is done where it is done in order to minimize artifacts, but is it only PART of the whole process.
+2. Speaking of artifacts, MSU FRC produces so many artifacts that the Hobbit loses all its beauty and just looks plain horrible.
+3. Speaking of MSU FRC, it is so slow and unstable with Avisynth that it is unusable, even if it were any good.
+
+So, next time, before you question the competence of the encoder, get your hands dirty with the source instead of talking BS."
+,sean2e1958,2013-03-20T08:42Z,So the simple answer is its's not 43fps?? would like to know cos I'm downloading one thats 26 gb....
+,Viciously,2013-03-21T22:53Z,"              {_ {_                                                
+           {__     {__{__                       {__     {__{_____    2013
+           {__     {__{__                       {__     {__{__   {__ 
+           {__     {__{__         {__    {_ {___{__     {__{__    {__
+           {__     {__{__ {__   {_   {__  {__   {______ {__{__    {__
+           {__     {__{__   {__{_____ {__ {__   {__     {__{__    {__
+           {__     {__{__   {__{_         {__   {__     {__{__   {__ 
+             {_____   {__ {__    {____   {___   {__     {__{_____    
+
+                                                         The art of encoding!
+
+************************************************************************************
+
+                                    presents 
+
+       >> The Hobbit: An Unexpected Journey 2012 48fps Edition 720p Blu-ray 
+                               x264 DTS-ES 6.1-UberHD"
+,Viciously,2013-03-21T22:57Z,"--(GENERAL)---
+
+File name.......: The.Hobbit.An.Unexpected.Journey.2012.48fps.Edition.720p.Blu-ray.
+                  x264.DTS-ES.6.1-UberHD.mkv
+Release date....: 09.03.2012
+Size............: 17.2 GB
+Duration........: 2:49:37
+Chapters........: Yes (not titled)
+Sample..........: included
+Encoder.........: Marin"
+,Viciously,2013-03-21T22:59Z,"---(VIDEO)----
+
+Codec...........: x264 r2230kMod, L4.1 dxva, P-frames only
+Frame rate......: 48.000 fps (via frame interpolation)
+Resolution......: 1280x534
+Bit rate........: 13.0 Mbps
+Compression.....: ~62.2% from original source
+Source(s).......: US Blu-ray 1080p AVC DTS-HD MA 7.1-CHDBits (thanks!)"
+,Lardzor,2013-03-23T05:39Z,"I would like to apologize.
+
+I was wrong, and I'm not as knowledgeable about encoding algorithms as I'd like to be. 
+
+I just downloaded the sample and looked at several frames and it seemed from the severe ghosting that the interpolated frames were just a blend of the adjacent frames. 
+
+My previous posts were made with that erroneous assumption. I knew there were much better filters available than what I thought I was seeing, and I thought the MSU filter was one of them.
+
+After looking at the samples again, it is clear that there is more being done than just blending adjacent frames.
+
+If the Interframe script was used, then it does call the fvpflow plugin which does calculates motion vectors to generate it's results.
+
+My bad, I was wrong. Sorry."
+,marin85,2013-03-26T16:42Z,"@Lardzor: I am sorry for my harsh reply, too, but it was very discouraging (to put it mildly) to read something like what you wrote before.
+
+Anyhow, I am glad we cleared the matter. No bad feelings."

@@ -1,0 +1,16 @@
+Newest Version of Gnomoria as of March 19, 2013
+
+The first pass on auto crafting was meant to be an all or nothing option to enable certain playstyles. I was expecting many players who are already used to managing the process manually to disable auto crafting. Some of the feedback was that experienced players might use the option if it had some methods for more control.
+
+With this update, there is now an option to toggle automatically crafting missing ingredients per job. For craft jobs in a workshop, the option is in the craft menu alongside ΓÇ£RepeatΓÇ¥ and ΓÇ£Craft ToΓÇ¥. For other jobs (like building furniture, workshops, etc), the option is in the job information window.
+
+The previous option of globally auto crafting, has been changed to be the default setting for new jobs. With the setting on, new jobs will default to generating craft jobs and you can turn it off for specific jobs while the opposite is true when the setting is disabled. Individual Workshops also now have an option to disallow generated jobs from being added to its job queue.
+
+You guys also made it very clear that some undesired Squad behavior was higher priority than I thought. This update should help minimize gnomes rushing into battle without armor or weapons. They will no longer bandage themselves and go back into combat without a weapon. TheyΓÇÖll also no longer strip off armor when an upgrade is available, one that is potentially in the middle of an ongoing battle. Finally, (and less drastic) they will no longer go chasing after wild animals who just want some peace and quiet.
+
+You can check out the full patch notes here:  
+http://forums.gnomoria.com/index.php?topic=3658.0
+
+XNA is required to play this game, you can find it for free by googling XNA.
+
+Thank you for supporting the author by spreading this game through the torrent community and thanks in advance to those of you who purchase the game.

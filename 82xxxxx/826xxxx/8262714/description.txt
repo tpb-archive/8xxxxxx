@@ -1,0 +1,60 @@
+The Russo family and friends are headed to Tuscany, Italy, to meet their long lost relatives... but when Alex tries to prove she's more than a seemingly carefree young Wizard, she inadvertently conjures a spell that creates a Good Alex and an Evil Alex. When Evil Alex gets roped into a charming young wizard's foreboding plan to take over the world, Good Alex must find a way to save her family and humankind, which leads to a monumental battle between the two versions of herself - all atop the Tower of Pisa.
+
+General
+Complete name                            : The.Wizards.Return.Alex.vs.Alex.720p.HDTV.x264-HERO.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 846 MiB
+Duration                                 : 57mn 52s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 044 Kbps
+Encoded date                             : UTC 2013-03-16 05:33:34
+Writing application                      : HandBrake 4650svn 2012050801
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 57mn 52s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 909 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 30.000 fps
+Minimum frame rate                       : 29.412 fps
+Maximum frame rate                       : 30.303 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 790 MiB (93%)
+Writing library                          : x264 core 122
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 57mn 52s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 166 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 66ms
+Stream size                              : 53.0 MiB (6%)

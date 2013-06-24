@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+[T],derew,2013-03-09T16:43Z,"entao gustav, tava pensando nisto, postar os lançamentos com a legenda embutida no mp4, mas pensei assim, pode ser que tire os seeders quando postar a versão dublada, sera q compensa postar os legendados e depois os dublados?? vou tomar esse seu como exemplo, se bastante gente baixar é uma boa né"
+[T],210gustavo,2013-03-09T16:51Z,"@derew
+
+Esse filme eu postei legendado porque simplesmente nao quero postar dublado entende, é um musical e a dublagem provavelmente iria estragar o filme, e ja que muita gente pede pra postar o filme com o audio ingles tambem postei esse só em ingles, mas nao pretendo fazer isso com todos os filmes nao, como vc disse, os seeders iriam diminuir pro dublado e tals...abraço amigo"
+[T],derew,2013-03-09T17:17Z,"eu te mostrei esses dias um user q posta filmes 720p legendado, vc viu? mas ele nao semeia parece!!! e tem altos leachers la!!! mas é foda neh... postar legendado e o pessoal nao baixar dublado!!!"
+[T],210gustavo,2013-03-09T17:47Z,"verdade, mas nao se preocupe amigo, só postei esse legendado porque realmente nao vale a pena ve lo dublado, e mesmo assim, tipo o hobbit por exemplo, tem gente que ainda semeia o de cinemaa, o legendado, dublado, o dual, o blu ray entende, o pessoa semeia tudo hoje em dia,,,nao se preocupe com isso, se vc quiser postar esse dublado vai dar muita mais gente baixando, pode crer...vlw amigo"
+[T],derew,2013-03-09T18:27Z,"pode ser... pior q é... ja vi mais de 2000 seeders no aventuras de pi audio de cinema haha... vu.. pra sincrnizar a legenda com o filme qd nao esta, tem q usar um programa q edita legenda??"
+[T],210gustavo,2013-03-09T18:51Z,"derew
+
+sim amigo, va no google e digite: subs edit simple delay... va no primeiro que aparecer...
+daí vc abre o srt disincronizado com o bloco de notas e aparecerá toda a escrita, copie toda ela e cole no lugar que pede ali no site, daí tem a opção de delay em s, ms, min  etc, daí clique em simple delay e ele baixara a legenda editada, vc testa e se nao fico boa continue tentando...abraço"
+,tofushoyu,2013-03-09T22:43Z,"@210gustavo
+@derew
+
+Melhor programa pra editar legendas: Subtitle Workshop.
+Com ele é possível atrasar ou adiantar a legenda toda de uma só vez.
+Só procurar no Google.
+Abraço!"
+,mingau007,2013-03-10T01:30Z,"Acredito que esse filme não deverá ser lançado no Brasil com dublagem. O filme é praticamente todo cantado, aí ficaria muito complicado dublar as canções.
+
+Parabéns pela ótima postagem!"
+[T],210gustavo,2013-03-10T02:10Z,"@mingau007
+
+Verdade amigo, por isso postei ele legendado...abraço e obrigado por comentar...
+
+Vlw tofushoyu pelo conselho"
+,tofushoyu,2013-03-10T03:01Z,"@210gustavo
+
+Acho que descobri como fazer os arquivos MKV criados com o mkvmerge funcionarem em vários dispositivos, como TV's por exemplo.
+Tem que ir em ""File / Options"" e na aba ""mmg"" marcar a opção ""Disable header removal compression for audio and video tracks by default"".
+Fiz dois arquivos, um com esta opção desmarcada e outro com esta opção marcada. O segundo arquivo rodou na minha TV.
+É isso, vivendo e aprendendo.
+Abraço!"
+,lsf120,2013-03-10T13:14Z,"0la gustavo, eu criei essa conta,ate pq eu nao manjo muito ainda, so p poder te parabenizar pelo seus torrents! so baixo os seus filmes q tem otma qualidade, e gostaria de pedir um filme p vc, coloca o filme do homem de ferro 1 em hd!!"
+[T],210gustavo,2013-03-10T14:05Z,"@lsf120
+
+Sim amigo, em breve estarei postando este com certeza...
+
+@tofushoyu
+
+que bom amigo, voce irá postar filmes em mkv agora?? por que eu nunca mais usei ele, só pra ver se o audio esta sincronizado, daí eu empacoto normal com o mkv pois é mais rapiddo, e se esiver bom, pego as faixas ja sincronizadas e empacoto com o yamb...abraço"
+,ksksks23,2013-03-10T19:53Z,"ae gustavo poderia me ajudar?
+
+eu gostaria de postar filmes tmb em hd, só que como que posso colocar o audio dublado no filme baixado em ingles?
+
+vlw"
+[T],210gustavo,2013-03-10T20:50Z,"@ksksks23
+
+Amigo, use o mkv merge, vc adiciona o video em 720p reduzido, tira o audio ingles e adiciona o avi dublado, com o audio em portugues...e clique em start, ele em poucos minutos irá empacotar num mkv, caso o audio esteja descincronizado, vc vai em format specific options em delay(lembre se, selecione na faixa de audio), e 1000ms o audio -e movido 1 segundo pra frente, -1000ms é movido 1 segundo pra tras...abraço amigo, vlw"
+,leandro-gamerpc,2013-03-11T13:56Z,"esqueçi de lhe agradeçer guguga, intão me desculpa, obrigado por um filme para nos amantes do cinema, vlw thau e tenha um boa dia"
+[T],210gustavo,2013-03-11T14:08Z,"@leandro-gamerpc 
+
+Obrigado leandro kkkk. bom dia tambem"
+,kakaja,2013-03-11T23:25Z,valeu! ja legendado eh tudo de bom :)
+[T],210gustavo,2013-03-11T23:59Z,"@kakaja
+
+Obrigado por comentar amigo, ajude a semear, por favor;"
+,tofushoyu,2013-03-12T12:19Z,"@210gustavo
+
+Ainda não pensei nisso, preciso testar em outros dispositivos pra ver se fica compatível, mesmo quando adiantar ou atrasar o áudio.
+O mkvmerge tem a vantagem de continuar a ser desenvolvido, além de ser mais rápido no empacotamento.
+Talvez eu poste um filme em MKV, se alguém chiar por causa de incompatibilidade eu volto para o MP4, hehe.
+Abraço!"
+[T],210gustavo,2013-03-12T16:26Z,"@tofushoyu
+
+Hehehehehe, ok amigo. abraço"
+,DomJesiel,2013-03-13T23:16Z,Parabéns amigo excelente Trabalho!
+[T],210gustavo,2013-03-13T23:29Z,"@DomJesiel
+
+Muito obrigado amigo, ajude a semear, por favor...abraço;;;"
+,Caiofla,2013-04-27T21:27Z,"Sempre baixo seus videos e semeio tenho 2 pcs, um tenho uns 6 filmes seus baixados e no outro tenho 4, tudo de bom seus filmes, pra ficar melhor vc poderia postar filmes de 1080p ne rsrsrs.
+
+
+mas vlw amigo vc é o cara."
+,Caiofla,2013-04-27T21:30Z,"Eu chorei quando baixei um arquivo  mkv, mas baixei o programa DivX, cara ficou uma maravilha, roda com um audio incrivel e além de roda fullHD, agora só gosto de baixar arquivo mkv."
+[T],210gustavo,2013-04-28T17:01Z,"@Caiofla
+
+Hahahahah, eu gosto de mp4, pois a compatibilidade é melhor do que a do mkv...estava pensando em postar uns 1080p especiais sabe, mas no momento tenho outros na lista...vlw e obg por comentar...abraço."

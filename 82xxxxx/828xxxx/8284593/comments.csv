@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+,axeinc,2013-03-22T13:11Z,Patch contains Trojan backdoor
+,RyanConnor,2013-03-22T14:01Z,I did a avast scan and nothing founded!
+,RyanConnor,2013-03-22T14:02Z,Its a false positive :)
+,sum98,2013-04-01T14:25Z,pls seed...
+,xanat0s,2013-04-04T08:26Z,"@RyanConnor Who gives a shit what one single AV says? Unless you run it thru VirtusTotal, nobody with half a brain is going to touch this shit."
+,xanat0s,2013-04-04T08:43Z,"HA I knew it. Don't trust this piece of shit uploader.
+
+SHA256: 	4132fb3a65ee03a03fe0e65df33278fec85ae5954713fc3cdd9fe146028ec4e2
+File name: 	patch 10.exe
+Detection ratio: 	31 / 46
+Analysis date: 	2013-03-31 12:57:12 UTC ( 3 days, 17 hours ago )
+
+Antivirus 	Result 	Update
+Agnitum 	- 	20130330
+AhnLab-V3 	Packed/Win32.Morphine 	20130331
+AntiVir 	SPR/Tool.Keygen.3226 	20130331
+Antiy-AVL 	Trojan/Win32.Genome.gen 	20130331
+Avast 	Win32:Patcher-AK [PUP] 	20130331
+AVG 	- 	20130331
+BitDefender 	Dropped:Trojan.Generic.8504156 	20130331
+ByteHero 	- 	20130322
+CAT-QuickHeal 	HackTool.Keygen (Not a Virus) 	20130331
+ClamAV 	- 	20130331
+Commtouch 	W32/Trojan.REMW-4286 	20130331
+Comodo 	TrojWare.Win32.Agent.WFN 	20130331
+DrWeb 	Tool.ProcPatch.289 	20130331
+Emsisoft 	Riskware.RiskTool.Win32.Patcher.AMN (A) 	20130331
+eSafe 	- 	20130328
+ESET-NOD32 	a variant of Win32/HackTool.Patcher.AD 	20130331
+F-Prot 	- 	20130330
+F-Secure 	Dropped:Trojan.Generic.8504156 	20130331
+Fortinet 	Riskware/GamePatcher 	20130331
+GData 	Dropped:Trojan.Generic.8504156 	20130331
+Ikarus 	not-a-virus:RiskTool.Win32.Patcher 	20130331
+Jiangmin 	- 	20130331
+K7AntiVirus 	- 	20130330
+Kaspersky 	not-a-virus:RiskTool.Win32.Patcher.dk 	20130331
+Kingsoft 	Win32.Troj.Undef.(kcloud) 	20130325
+Malwarebytes 	PUP.RiskwareTool.CK 	20130331
+McAfee 	RDN/Generic PUP.z!t 	20130331
+McAfee-GW-Edition 	RDN/Generic PUP.z!t 	20130331
+Microsoft 	HackTool:Win32/Keygen 	20130331
+MicroWorld-eScan 	Dropped:Trojan.Generic.8504156 	20130331
+NANO-Antivirus 	- 	20130331
+Norman 	Suspicious_Gen.WV 	20130331
+nProtect 	- 	20130331
+Panda 	Trj/CI.A 	20130331
+PCTools 	Trojan.Gen 	20130331
+Rising 	Malware.UDM!4998 	20130328
+Sophos 	Troj/Agent-WFN 	20130331
+SUPERAntiSpyware 	- 	20130331
+Symantec 	Trojan.Gen.2 	20130331
+TheHacker 	- 	20130330
+TotalDefense 	- 	20130329
+TrendMicro 	TROJ_GEN.R47Z4KU 	20130331
+TrendMicro-HouseCall 	TROJ_GEN.R47Z4KU 	20130331
+VBA32 	- 	20130330
+VIPRE 	Trojan.Win32.Agent.wfn (v) 	20130331
+ViRobot 	- 	20130331 
+
+Go FUCK YOURSELF RyanConnor!"
+,js99912,2013-04-05T18:46Z,"dudes, it's just reconizing that it'll mod other files, it interprets as malicious.  It is ok.
+
+If this is a real virus it does nothing other than install, never phones home, no network activity.
+
+Basically, it is a false positive, or so rogue and renegade that it will crop on one day for doomsday.  I'll take my chances.
+
+I installed and are using ok!
+-JS"

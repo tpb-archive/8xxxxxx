@@ -1,0 +1,39 @@
+                      Sword of the Stars: The Pit v1.0.2.0 - SCYTH3X
+
+
+1.0.2.0
+New Additions
+- Two new monsters
+- Five new recipes
+- Four new items
+- Two new weapons
+
+Critical Fixes
+- Fixed Shrinking Inventory / Dropped Item crash
+- Fixed Projectile crash
+- Fixed equipping/dropped armor crash
+
+Other Fixes
+- Fixed various outlying issues
+- Greek letters on key-card doors no longer display when door destroyed
+- Characters wearing self-contained armor or who are immune to radiation no longer affected when in an irradiated room
+- Play Again remembers Difficulty setting
+- Fixed Hero SotSwich achievement unlocking prematurely
+
+Other changes
+- Added reload value to weapon stats
+- Irradiated rooms now show effect for visual warning
+- Tweaks to auto-save to make it more robust
+- Three auto-save slots, one for each character class (meaning you can now have three different games on the go , one for each character)
+- Added mouse targeting for weapons
+- Increased force field belt duration
+- Added access to SotSDex in main menu
+- Decrypted recipes messages now unlock recipes in SotSDex automatically
+
+
+
+Just install it to the default folder. Enjoy!
+
+
+
+                Sword of the Stars: The Pit v1.0.2.0 - SCYTH3X

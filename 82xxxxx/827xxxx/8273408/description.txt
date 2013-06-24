@@ -1,0 +1,68 @@
+Includes the VSO ConvertXtoDVD v5.0.0.47 BETA installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Automatically burn to DVD after conversion. Excellent and fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Create menus & chapters, cut videos, total customization with live preview.
+
+
+Edit your project with the various settings and features listed below:
+  -Create menus with videos and music
+  -Preview window / Integrated video player for live preview
+  -Cut unwanted parts of the video
+  -Add chapters - automatic or custom
+  -Many subtitles formats supported, convert soft or hard-coded
+  -Convert NTSC to PAL and vice-versa
+  -Merge function - like for CD1 + CD2
+  -Rotate video, modify brightness and contrast settings
+  -Compatible with any disks
+  -ISO output available
+  -NTSC + PAL region formats
+  -16:9 widescreen + 4:3 fullscreen
+  -Burn multiple copies
+  -VSO burning engine included
+  -Various SD resolutions available
+  -Custom output size
+  -Burn to DVD/USB key or store on PC
+
+Additional/Advanced features:
+  -2 pass encoding for enhanced quality
+  -Hardware decoding for faster conversion
+  -Video/Audio/Subtitle synchronisation
+  -Various audio output formats
+  -Image resize filters (lanczos, linear, cubic, etc.)
+  -Multiple encoding profiles
+  -Option to shutdown computer when finished
+  -Multi-core processor optimized
+  -Audio amplifier
+  -Padding and cropping
+  -De-interlacing
+  -Batch converter
+  -Multiple conversions processed simultaneously
+  -Quality advisor
+
+-----------------------------------------------------------------------------------
+
+VARIOUS BUG FIXES SINCE LAST BETA BUILD (v5.0.0.46)
+
+- 0006545: [Suggestion] Set the "No DVD menu preview available" text message more cleaner (cedric) - resolved.
+- 0006454: [Bug] odd cut behavior when merging files (felicia) - resolved.
+- 0006541: [Bug] conversion fails converting vorbis to MPEG Stereo (cedric) - resolved.
+- 0006540: [Bug] taskbar progress not show on windows 8 (cedric) - resolved.
+- 0006539: [Suggestion] Make DVD subtitles more faithful to preview and increase visual quality (cedric) - resolved.
+- 0006535: [Bug] deleting a subtitle stream does not delete the correct one (felicia) - resolved.
+- 0006245: [Bug] wrong subtitle identifier used when deleting a subtitle in interface (felicia) - resolved.
+- 0006534: [Bug] in action menu problem with minimize to tray (felicia) - resolved.
+- 0006531: [Bug] french text cropped in subtitle style editor (felicia) - resolved.
+- 0006532: [Bug] files loaded for the 1st time that need an vsomsl file made do not load (felicia) - resolved.
+- 0006528: [Bug] raw copy does not keep language identifier (cedric) - resolved.
+- 0006527: [Feature Request] tray icon shows percentage of operation (felicia) - resolved.
+- 0006520: [Bug] lost white background in cxd treeview (before file added) (felicia) - resolved.

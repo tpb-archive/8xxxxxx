@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,krumusainski,2013-02-28T11:01Z,"My display is 320 x 480 px, cant find supported app?"
+,psiho_051,2013-04-04T23:14Z,I can not install the NOTE 2
+,psiho_051,2013-04-05T00:24Z,"FOR NOTE 2
+
+CHANGE the contents of a folder
+
+
+This is for Samsung Galaxy S3 and others with 1280x720 resolution. 
+
+
+1. Open data.zip in winzip or another program that can handle zip-files.
+2. Locate the ui_android folder and open multimode.ini.
+3. Change text to:
+
+[modes]
+; mx=WidthMin..WidthMax, HeightMin..HeightMax,Folder
+; OR
+; mx=Width, Height ,Folder
+
+m3=1280..1280,552..800,""800_480""
+m4=720..800,976..1280,""800_480""
+m5=1024..1280,552..800,""1024_768""
+m6=600..800,976..1280,""1024_768""
+
+4. Save and check that all went well.
+5. Move the data.zip file back to the iGO map in the phone."
+,Sizif,2013-05-14T20:41Z,it won't work on samsung galaxy s4
+,lior79,2013-05-26T16:56Z,doesnt work for note 2 with your fix

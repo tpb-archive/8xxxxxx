@@ -1,0 +1,58 @@
+SPORT: Six Nations Rugby Union - Ireland v France
+On: BBC 1 HD
+Date: Saturday 9th March 2013 
+KO Time: 17:00
+
+Live coverage from Dublin as Declan Kidney's Ireland host Philippe Saint-Andre's France. Last year's Six Nations clash between the two nations was a hard-fought 17-17 draw in Paris, a rare stalemate after the initial match had to be postponed because of freezing sub-zero temperatures in the French capital. Ireland have not beaten France since February 2009, and that 31-20 victory is their only triumph against Les Bleus in 13 attempts. Commentary by Eddie Butler and Brian Moore.
+
+
+General
+Complete name: 2013.03.09.6N.Ireland.v.France.720p.x264.mp4
+Format: MPEG-4
+Format profile: Base Media
+Codec ID: isom
+File size: 2.94 GiB
+Duration: 1h 57mn
+Overall bit rate mode: Variable
+Overall bit rate: 3 578 Kbps
+
+Video
+ID: 1
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: High@L4.1
+Format settings, CABAC: Yes
+Format settings, ReFrames: 5 frames
+Codec ID: avc1
+Codec ID/Info: Advanced Video Coding
+Duration: 1h 57mn
+Bit rate: 3 450 Kbps
+Maximum bit rate: 8 982 Kbps
+Width: 1 280 pixels
+Height: 720 pixels
+Display aspect ratio: 16:9
+Frame rate mode: Constant
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.150
+Stream size: 2.84 GiB (96%)
+Writing library: x264 core 130 r2273 b3065e6
+
+Audio
+ID: 2
+Format: AAC
+Format/Info: Advanced Audio Codec
+Format profile: LC
+Codec ID: 40
+Duration: 1h 57mn
+Bit rate mode: Variable
+Bit rate: 124 Kbps
+Maximum bit rate: 128 Kbps
+Channel(s): 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode: Lossy
+Stream size: 104 MiB (3%)

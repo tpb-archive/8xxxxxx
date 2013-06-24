@@ -1,0 +1,15 @@
+The problem of inevitable degradation of the disk subsystem performance caused by misaligned partitions dates back to the nineties. From being a headache for IT administrators who wanted to get the most out of disk arrays, it's become crucial for all of us with appearance of SSD (solid state drive) and ultra high-capacity hard drives. Moreover, the growing popularity of virtualized systems has aggravated the situation even more. Does the problem that bad? Just see it for yourself:
+
+Obviously misalignment of logical partition sectors and actual physical sectors leads to redundant read/write operations, which is critical for overall performance, and with SSD, for its lifespan as well. With our PAT (Paragon Alignment Tool) you can forget about these problems once and for all. It will help you align partitions on physical and virtual disks according to internal device's geometry without affecting the on-disk data.
+
+Why Paragon Alignment Tool?
+ - The only tool that aligns partitions in a single operation
+ - Guarantees safety for the on-disk system and data
+ - Boosts performance of disk subsystems up to 3 times
+ - Significantly increases endurance of SSD drives
+ - Aligns partitions inside virtual containers and the host
+ - Aligns partitions on ultra high-capacity 4K hard disks
+ - All our flagship products include this utility by default
+
+Home Page: http://www.paragon-software.com/business/partition-alignment/
+

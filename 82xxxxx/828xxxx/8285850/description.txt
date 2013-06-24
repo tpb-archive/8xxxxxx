@@ -1,0 +1,36 @@
+PublicHD - High-Definition Bittorrent Community
+    
+http://publichd.se/
+
+----------------------------------------------------
+
+The.Last.Emperor.1987.OAR.720p.BluRay.x264-DON [PublicHD]
+ 
+http://www.imdb.com/title/tt0093389
+
+RUNTIME.......: 2h:42m:56s
+SIZE..........: 9.26 GB
+VIDEO CODEC...: x264, 2pass, L4.1
+FRAMERATE.....: 23.976 fps
+BITRATE.......: Variable ~ 7500 Kbps
+RESOLUTION....: 1280x544 (2.35:1)
+AUDIO.........: English DD 5.1 @ 640 Kbps
+SUBTITLES.....: English, Bulgarian, Czech, Dutch, French, Greek, Hungarian, Polish,
+                Portuguese (Brazilian), Romanian, Slovenian, Spanish, Swedish
+CHAPTERS......: Yes (named)
+SOURCE........: 1080p OAR JPN Blu-ray AVC DTS-HD MA 5.1 (thx jj666)
+
+RELEASE DATE..: 30/03/2013
+
+Notes
+Encode from new superior JPN source which is OAR (it's director's preferred AR).
+Although it's better than the old one, the picture quality of this new source isn't very good and it has no 1080p details.
+FLAC is cca 1 Mbps, so I didn't use DTS core.
+
+
+x264 info
+x264frame I:1459  Avg QP:15.66  size:120916
+x264frame P:47949 Avg QP:18.15  size: 54953
+x264frame B:184975 Avg QP:19.58  size: 34324
+x264consecutive B-frames:  1.4%  2.5%  9.0% 13.1% 15.7% 39.5%  8.9%  5.5%  4.4%
+encoded 234383 frames, 3.81 fps, 7496.44 kb/s

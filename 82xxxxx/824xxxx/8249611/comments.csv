@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,KatamariD,2013-03-13T12:19Z,"getting an error when opening program: 
+
+Error bad argument #1 to 'gsub' (string expected, got nil)
+
+Stack Traceback:
+
+1: ? in function 'stringfind'
+2: ? in function 'generatehostsreport'
+3: ? in function 'onshow'
+4: main - > on show line 4 in main chunk
+"
+,Lightsource1808,2013-03-18T01:28Z,"No problems for me, worked swell - Win 7 32-bit. 
+
+Feedback on the UI:
+The buttons on the left and icons on the right could use some color - on first glance it would appear that all of the options are greyed out."

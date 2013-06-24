@@ -1,0 +1,26 @@
+Digital Design and Computer Architecture (2nd Ed)
+by David Harris and Sarah Harris
+Morgan Kaufmann | August 2012 | ISBN: 0123944244 | PDF | 712 pages | 24.7 mb
+
+Digital Design and Computer Architecture takes a unique and modern approach to digital design. Beginning with digital logic gates and progressing to the design of combinational and sequential circuits, Harris and Harris use these fundamental building blocks as the basis for what follows: the design of an actual MIPS processor. SystemVerilog and VHDL are integrated throughout the text in examples illustrating the methods and techniques for CAD-based circuit design. By the end of this book, readers will be able to build their own microprocessor and will have a top-to-bottom understanding of how it works. Harris and Harris have combined an engaging and humorous writing style with an updated and hands-on approach to digital design.
+This second edition has been updated with new content on I/O systems in the context of general purpose processors found in a PC as well as microcontrollers found almost everywhere. The new edition provides practical examples of how to interface with peripherals using RS232, SPI, motor control, interrupts, wireless, and analog-to-digital conversion. High-level descriptions of I/O interfaces found in PCs include USB, SDRAM, WiFi, PCI Express, and others. In addition to expanded and updated material throughout, SystemVerilog is now featured in the programming and code examples (replacing Verilog), alongside VHDL. This new edition also provides additional exercises and a new appendix on C programming to strengthen the connection between programming and processor architecture.
+
+SECOND Edition Features
+- Covers the fundamentals of digital logic design and reinforces logic concepts through the design of a MIPS microprocessor.
+- Features side-by-side examples of the two most prominent Hardware Description Languages (HDLs)-SystemVerilog and VHDL-which illustrate and compare the ways each can be used in the design of digital systems.
+- Includes examples throughout the text that enhance the reader's understanding and retention of key concepts and techniques.
+- Companion Web site includes links to CAD tools for FPGA design from Altera and Mentor Graphics, lecture slides, laboratory projects, and solutions to exercises.
+
+Updated based on instructor feedback with more exercises and new examples of parallel and advanced architectures, practical I/O applications, embedded systems, and heterogeneous computing
+- Presents digital system design examples in both VHDL and SystemVerilog (updated for the second edition from Verilog), shown side-by-side to compare and contrast their strengths
+- Includes a new chapter on C programming to provide necessary prerequisites and strengthen the connection between programming and processor architecture
+- Companion Web site includes links to Xilinx CAD tools for FPGA design, lecture slides, laboratory projects, and solutions to exercises.
+
+Instructors can also register at textbooks.elsevier.com for access to:
+- Solutions to all exercises (PDF)
+- Lab materials with solutions
+- HDL for textbook examples and exercise solutions
+- Lecture slides (PPT)
+- Sample exams
+- Sample course syllabus
+- Figures from the text (JPG, PPT)

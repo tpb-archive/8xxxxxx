@@ -1,0 +1,22 @@
+v0.19.1
+
+Released 18th March, 2013
+
+(Most 0.19.0 mods should be compatible with this release)
+
+Bug Fixes and Tweaks
+
+  Fixed re-entry shader failing on highly scaled parts
+
+  Corrected an issue that would prevent large rover wheels from applying brakes
+
+  Tweaked braking speed and power on rover wheels
+
+  Adjusted how rover wheels display resource usage
+
+  Changed Ladders on the launchpad ladders to make it easier to climb them.
+
+  Changed the names of launchpad and runway objects to be more descriptive when you
+  crash into them.
+
+Please seed. Enjoy!

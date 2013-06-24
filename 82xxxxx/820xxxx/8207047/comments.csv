@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,dududus,2013-03-01T15:46Z,source: itunes 720p trailer
+,theborgs,2013-03-01T17:03Z,"Lot of artifacts at some times with VLC 2.0.5
+http://i.imgur.com/XgUwSni.jpg"
+,dududus,2013-03-01T17:03Z,"Avatar 48fps Proof of Concept Conversion 720p 
+
+https://thepiratebay.sx/torrent/8207104/Avatar_48fps_Proof_of_Concept_Conversion_720p_"
+,Sunseeker908,2013-03-01T17:08Z,"Good attempt. I watched it with VLC v2.05.  Although the picture and sound clarity is good for the most part, it breaks up at several points. Did anyone else experience this? 
+
+Have you attempted to render it in h.264?
+
+I question why you would want to convert 24fps to 48. If the frames are not in the source then you're not gaining anything in the conversion. 
+
+I think what most people are looking for is an original 48fps version of this movie.  Unfortunately it cannot be obtained from a Blu-Ray copy. So where is one going to obtain the higher framerate version?  Will iTunes release a digital copy in 48fps?"
+,lhacass,2013-03-01T17:12Z,what's the point? you can get even higher fps at live playback with SmoothVideo Project (SVP)... but it will still be just frame interpolation... you don't get the additional detail and sharp motion like the original 48fps in the theatre has... mainly because the 24fps has additional motion blur to compensate..
+,dys16,2013-03-02T03:56Z,"@lhacass, Totally agree. There's no point converting 24fps to 48fps. It's the same as upscaling 720P to 1080P."
+,dududus,2013-03-03T00:34Z,"720p to 1080p is not noticable to 99% of people
+
+this conversion emulates what 48fps looks like
+
+so the 720p / 1080p comparison is stupid
+
+a lot more work went into this than simple automatic interpolation
+
+for more info read:
+
+http://www.fxphd.com/blog/what-might-the-hobbit-look-like-at-48-fps/"
+,sixor,2013-03-12T02:15Z,"thanks to the uploader but this is pointless
+
+by motioninterpolation you can do this, modern tvs does it too, but is not the same as cinema 48fps, so don´t waste your time
+
+try using splash pro video player to get motion interpolation, you need a great cpu and gpu, so noobs stay away"

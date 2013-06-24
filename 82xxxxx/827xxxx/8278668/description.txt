@@ -1,0 +1,61 @@
+SPORT: Six Nations Rugby Highlights
+On: BBC HD
+Date: Monday 18th March 2013
+Time: 00:00 to 00:45 
+
+The best of the action and reaction from the final weekend of the 2013 Six Nations, as Ireland travel to Rome to play Italy, reigning champions Wales take on England at the Millennium Stadium and Scotland face France in Paris.
+
+[1.13Gb, 44mins, 1280x720[16:9], 3549Kbps, x264/mp4/720p; Audio: AAC-LC, 124Kbps]
+
+General
+Complete name: 2013.03.18.6N.Highlights.720p.x264.mp4
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size: 1.13 GiB
+Duration : 44mn 4s
+Overall bit rate mode: Variable
+Overall bit rate : 3 677 Kbps
+
+Video
+ID : 1
+Format : AVC
+Format/Info: Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames: 5 frames
+Codec ID : avc1
+Codec ID/Info: Advanced Video Coding
+Duration : 44mn 4s
+Bit rate : 3 549 Kbps
+Maximum bit rate : 12.1 Mbps
+Width: 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate mode: Constant
+Frame rate : 25.000 fps
+Color space: YUV
+Chroma subsampling : 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame) : 0.154
+Stream size: 1.09 GiB (97%)
+Writing library: x264 core 130 r2273 b3065e6
+
+Audio
+ID : 2
+Format : AAC
+Format/Info: Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 44mn 4s
+Bit rate mode: Variable
+Bit rate : 124 Kbps
+Maximum bit rate : 130 Kbps
+Channel(s) : 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode : Lossy
+Delay relative to video: 80ms
+Stream size: 39.1 MiB (3%)
+Language : English

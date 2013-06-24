@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,purloiner12345,2013-03-13T14:38Z,"If you have the full install CD for v10, then please share a link or upload here.
+
+I installed this using the v9 CD, which seems to work, but a v10 install CD would great!
+
+I've managed to emulate all of the dongle calls and trick the program into believing that a real dongle is attached (check the Key ID under Help).
+
+I also have the registry dumps required if you'd rather use Brain's HASP emulator or Multikey. This way you can use an unpatched file, because I cracked the secret table required to fully emulate the dongle."
+,dougplucker,2013-04-06T23:43Z,"Just extract to c: drive, run MC10.exe and that's it!
+No HASP emulation, registy mods, etc  BS like with version 9."

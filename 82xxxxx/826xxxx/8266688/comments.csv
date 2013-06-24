@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+,bloopton,2013-03-17T16:44Z,is this a reupload of previous far cry torrents?  and does this actually work?  Because those other torrents said it would work and they were just spewing bullshit
+,noobnak,2013-03-17T16:57Z,"it work find on Mac OS X Lion 10.7,
+and i added english pack for it"
+,slinckkey,2013-03-17T19:01Z,not fully uploaded. . .
+,jmzyleman,2013-03-17T19:36Z,stops at 3.7
+,sebolito,2013-03-18T00:46Z,"is this a joke? again the same stupidity, no seeders? come on guys!!"
+,lukaz214,2013-03-18T22:48Z,"no comment
+again ?"
+,dladak,2013-03-19T06:03Z,"Mac OS X 10.6.8 Nvidia 320M: Does not work. Icon jus bounces one then stops. I've been going at it for 25 min, i'll try 15 more and see if I can work it out tomorrow."
+,dladak,2013-03-19T06:05Z,"I keep getting:
+
+dyld: Library not loaded: @executable_path/../lib/libwine.1.dylib
+  Referenced from: /Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/wine
+  Reason: no suitable image found.  Did find:
+	/Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+	/Users/Victor/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+	/Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+
+ If anybody has got a hint on how to fix this ..."
+,dladak,2013-03-19T06:07Z,"I keep getting the following test run log
+
+dyld: Library not loaded: @executable_path/../lib/libwine.1.dylib
+  Referenced from: /Users/Victor/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/wine
+  Reason: no suitable image found.  Did find:
+	/Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+	/Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+	/Users/Dladak/Desktop/Far Cry 3.app/Contents/Frameworks/wswine.bundle/lib/libwine.1.dylib: unknown file type, first eight bytes: 0x6C 0x69 0x62 0x77 0x69 0x6E 0x65 0x2E
+
+
+Anybody got a hint ?"
+,dladak,2013-03-19T06:17Z,"Mac OS X 10.6.8
+Nvidia 320M
+
+Does not work. App bounces once, and getting a crapload of errors in the test run log."
+,lukaz214,2013-03-19T15:22Z,"10.8.3
+not work"
+,lukaz214,2013-03-19T15:56Z,"i'm maneged to run but is works slow
+even on minimum settings"
+,felipeb0gaerts,2013-03-19T23:44Z,stopped at 52.91
+,sebolito,2013-03-20T11:43Z,"white screen at startup, doesn´t work"
+,Kaien213,2013-03-21T12:55Z,Its never give up but guys... We must be realistic... We will never get FC3 for mac
+,bloopton,2013-03-21T20:18Z,as i thought hopeless from the get go
+,GrunnyRiku,2013-04-09T01:34Z,"THIS DOES WORK!!!
+late 2010 mbp
+10.8.3
+2.4 GHz intel core i5
+8gb 1067 MHz DDR3
+
+best thing to do is set the graphics all to low, drop the screen resolution. the colors sometimes glitch where everything will look pink or blue tinted. the other problem is that the cross hairs on scopes and red dots do not work. other than that everything seems to work fine. been playing for 3 days now and am seeding 24/7. if anyone knows how to fix the crosshair problem please let me know... would really like to be able to use a sniper rifle."
+,noobnak,2013-04-13T14:16Z,i uploaded dead space 3 http://thepiratebay.sx/torrent/8293513/dead_space_3[wineskin]_mac
+,GrunnyRiku,2013-04-23T19:19Z,Finished the game. only real fault i found is that i cannot deploy the parachute when using the wing suit.
+,tnsac,2013-05-18T01:16Z,"@noobnak all i get is a white screen 
+
+mac os x 10.7.5 
+mac pro 1.1 , dual 2.26 xeon, 8gb ram, 
+ati radeon hd 5770 1gb ram 
+
+your dead space 3 worked as you said 
+"
+,patwik,2013-05-21T06:34Z,"@noobnak, I have 3.4GHz Intel Core i7 with 8 gig RAM running 10.8.3 and when I click on the Far Cry 3 icon the app starts up but just sits there doing nothing. Is there anything I can do?"
+,noobnak,2013-05-21T15:58Z,un-zip the file with archive utility
+,patwik,2013-05-23T01:30Z,Thanks @noobnak but it isn't the decompression of the file thats the problem but the application itself doesn't run after I have decompressed it

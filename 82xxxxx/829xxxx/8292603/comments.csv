@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,suprax97,2013-03-24T00:01Z,"forgot to add;
+ I know little about how this works, but these are the settings which gave Me success
+
+I used:
+Pete's OpenGL 2.9;
+Internal X Res- 1-high
+internal y res- 1 high
+Stretching- 0-standard
+Render - 0-standard
+
+
+Texture Filtering - 0
+Hi-Res textures -0 
+""use pixel shader for 'psx texture window' eumlation"" un-ticked
+
+FPS limit to 60FPS
+
+Compatibility
+
+off-screen drawing- 1 
+framebuffer effects- 0
+Framebuffer upload- 1
+
+No full-screen filters, flicker fix border 0 pixels
+
+Special Game Fixes- I have ONLY the following checkmark'd currently:
+
+0x0001: Fake low compatibility frameread
+
+0x0010: Disable coord check
+
+0x0400: Fake subtractive blending
+
+
+
+That's all;
+May you enjoy this game as much as I did."

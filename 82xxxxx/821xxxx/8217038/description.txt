@@ -1,0 +1,9 @@
+This is a FLAC rip of River City Extension's debut album "Unmistakable Man".
+I'm trying to get my hands on "Nautical Sabbatical" and "Don't Let the Sun Go Down on Your Anger" as well, in the meantime enjoy this amazing album!
+
+Used output format : User Defined Encoder
+Selected bitrate : 896 kBit/s
+Quality : High
+Add ID3 tag : No
+Command line compressor : C:Program Files (x86)FLACflac.exe
+Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--ta

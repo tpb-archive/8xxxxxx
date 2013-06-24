@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,TheDragonReborn26,2013-03-21T08:05Z,Thanks dude.
+,Diyos,2013-03-22T02:01Z,there is a new build -1.9.32.0.8 can you upload that one?
+,VaultTechy,2013-03-22T06:41Z,"Antiviruses lit up when this finished downloading, deleted it and performing a scan now, just a heads up to anyone taking a look at this.."
+,ivan2012,2013-03-22T06:52Z,"virustotal.com shows steam_api.dll giving a ton of virus hits. check it yourself.
+
+still, thanks for the update files."
+,Megatron6,2013-03-22T14:43Z,"@ValutTechy
+@ivan2012
+
+The *only* files you should use from the crack folder are the SkyrimLauncher.exe and TESV.exe. 
+
+The included steam_api.dll and steam_rld.ini shouldn't be used IMO and I would suggest using the steam_api.dll from Update 9 or 10 and use that. The one i use is 118k in size and works perfectly with this update. The steam_api.dll in this release and the last Reloaded Skyrim update 11 is about 175k and gives off virus warnings. I'm using NOD32 btw.
+
+I even had to swap out/delete the DLL and INI that are included in the crack for The Walking Dead Survival Instinct. It contains the same steam_api.dll and steam_rld.ini files and again, IMO, they shouldn't be used. I swapped my good steam_api.dll from Skyrim and used that and the game loaded right up and works fine.
+
+These recent releases by Reloaded are starting to worry me though. There is no reason to include such a bloated and untrustworthy steam_api.dll or steam_rld.ini. Especially when an old steam_api.dll (118k) works fine and doesn't set off any alarms."

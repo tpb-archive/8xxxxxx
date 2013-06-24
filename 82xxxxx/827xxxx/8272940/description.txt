@@ -1,0 +1,76 @@
+Three stories of undying love from acclaimed Japanese filmmaker Takeshi Kitano. Bound by a long red cord, a young couple wanders in search of something they have forgotten. An aging yakuza returns to the park where he used to meet his long-lost girlfriend. A disfigured pop star confronts the phenomenal devotion of her biggest fan ... Three stories delicately intertwined by the beauty of sadness.
+
+
+___________________________________________
+
+
+Geral
+UniqueID/String                          : 218370349077327527250723229221280585681 (0xA4489973F1F24406ABCA49338BA497D1)
+Nome completo                            : C:UsersjohnVideosDolls.mkv
+Formato                                  : Matroska
+Versão do Formato                        : Version 2
+Tamanho do arquivo                       : 1.64 GiB
+Duração                                  : 1h 54mn
+Taxa de Bits Total                       : 2 060 Kbps
+Data da codificação                      : UTC 2013-03-18 17:05:06
+Programa usado                           : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Biblioteca usada                         : libebml v1.2.3 + libmatroska v1.3.0
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Informações                      : Advanced Video Codec
+Perfil do Formato                        : High@L3.2
+Conf do Formato, CABAC                   : Sim
+Conf do Formato, Quadros de Ref.         : 16 quadros
+Modo de Multiplexação                    : Header stripping
+ID do Codec                              : V_MPEG4/ISO/AVC
+Duração                                  : 1h 54mn
+Taxa de bits                             : 1 571 Kbps
+Largura                                  : 819 pixels
+Altura                                   : 452 pixels
+Proporção da imagem                      : 16:9
+Proporção original da imagem             : 16:9
+Modo de taxa de quadros                  : TConstante
+Taxa de quadros                          : 23.976 fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8 bits
+Tipo de Scan                             : Progressivo
+Bits/(Pixels*Quadros)                    : 0.214
+Tamanho da Faixa                         : 1.25 GiB (76%)
+Biblioteca usada                         : x264 core 115 r1937 aa21558
+Configurações de codificação             : cabac=1 / ref=16 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=7 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=16.6 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.20
+Idioma                                   : Inglês
+Default                                  : Sim
+Forced                                   : Não
+
+Áudio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Informações                      : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Conf do Formato, Endianness              : Big
+Modo de Multiplexação                    : Header stripping
+ID do Codec                              : A_AC3
+Duração                                  : 1h 54mn
+Modo da taxa de bits                     : Constante
+Taxa de bits                             : 448 Kbps
+Nº de canais                             : 6 canais
+Posições dos canais                      : Front: L C R, Side: L R, LFE
+Taxa de amostragem                       : 48.0 KHz
+BitDepth/String                          : 16 bits
+Tamanho da Faixa                         : 365 MiB (22%)
+Idioma                                   : Japonês
+Default                                  : Sim
+Forced                                   : Não
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID do Codec                              : S_TEXT/UTF8
+ID do Codec/Informações                  : UTF-8 Plain Text
+Idioma                                   : Inglês
+Default                                  : Sim
+Forced                                   : Não
+

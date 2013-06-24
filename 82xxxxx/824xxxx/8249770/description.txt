@@ -1,0 +1,81 @@
+General
+UniqueID/String                          : 222261559956858466080937513716348582308 (0xA73604F62269AC5C801D1D894B8379A4)
+Nombre completo                          : Rurouni Kenshin - The Movie [2012][BDrip][720p][Spa-Jap 5.1][Spa Subs].mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 3,20GIB
+Duración                                 : 2h 14min.
+Tasa de bits total                       : 3 413Kbps
+Fecha de codificación                    : UTC 2013-03-13 02:11:01
+Aplicación de codifición                 : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+Attachment                               : Yes / Yes
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High 10@L5.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 14min.
+Ancho                                    : 1 280pixeles
+Alto                                     : 536pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 10bits
+Tipo de exploración                      : Progresivo
+Título                                   : Rurouni Kenshin - The Movie [Live Action]
+Librería de codificación                 : x264 core 128 r2216+688+32 a17ff54 tMod [10-bit@all X86_64]
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 2h 14min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 384Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 369MB (11%)
+Título                                   : 5.1 AC3 384Kbs CBR
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 14min.
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+Título                                   : 5.1 AAC-LC 640Kbs VBR
+Idioma                                   : Japonés
+Default                                  : No
+Forced                                   : No
+
+Texto
+ID                                       : 4
+Formato                                  : ASS
+ID Códec                                 : S_TEXT/ASS
+ID Códec/Info                            : Advanced Sub Station Alpha
+Título                                   : Advanced SubStation Alpha
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+

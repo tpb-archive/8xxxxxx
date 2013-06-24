@@ -1,0 +1,157 @@
+﻿User Type,Username,Date,Text
+,LuxLOL,2013-03-18T00:24Z,"(o) 2013.3.17 Changelog:
+
+* Added all the latest Windows XP Service Pack 3 Updates from 13.2.2012 till 12.3.2013.
+* Removed the Custom Windows XP Theme ""NeoGeniX LS v1.0"".
+* Changed some cosmetic stuff.
+* Updated the Read Me file.
+* Updated K-Lite Mega Codec Pack from ""v9.7.5"" to ""v9.8.0"".
+* Updated Microsoft Visual C++ 2008 SP1 Runtime Libraries from ""v9.0.30729.6313"" to ""v9.0.30729.7497"".
+* Updated Microsoft Silverlight from ""v5.1.10411.0"" to ""v5.1.20125.0"".
+* Updated Flash Player ActiveX Control from ""v11.6.602.168"" to ""v11.6.602.180"".
+* Updated Java SE Runtime Environment (JRE) from ""v7 Update 13"" to ""v9 Update 17"".
+* Updated Tweak ""Suppressing Microsoft Update nagging to install Windows Malicious Software Removal Tool (KB890830)"" from ""v4.17"" to ""v4.18""."
+,Dable1,2013-03-18T05:34Z,This is the best XP that I've used compare to others. Thank you so much for keeping this updated. :-)
+,davotglov,2013-03-18T07:53Z,can it be installed through Bootable usb ? i tried the 17-02-2013 one and got hal.dll error ..  i tried all the options there including editing the boot.ini file .. but no luck
+,LuxLOL,2013-03-18T14:30Z,"You had no luck beaches you did it wrong you have to run the option 1 first and then the option 2 two times or you will run into this error.
+You should also Read the latest Read Me file it is now recommend to use Rufus instead of WinToFlash beaches this one is more user friendly to make an USB Flash Installer."
+,LuxLOL,2013-03-18T14:36Z,"You had no luck beaches you did it wrong you have to run the option 1 first and then the option 2 two times or you will run into this error.
+ You should also Read the latest Read Me file it is now recommend to use Rufus instead of WinToFlash beaches this one is more user friendly to make an USB Flash Installer. "
+,Trueblue1878,2013-03-18T21:54Z,"Sadly can't get this to work on my friends laptop.. he needs XP on it ASAP and don't have time to mess around. 
+I burned it to disc and the computer wouldn't boot from it or detect it as a boot disc. Yes I set BIOS to boot from disc and yes I tested another boot CD an that worked..
+I tried putting it on a USB stick using the Rufus program and directions from the readme.. and I get missing EULA file. I tried 4 different BIOS ID's in Rufus but no luck.
+
+This is far too much messing around to install XP.. glad it works for some people but it shouldn't be this hard. "
+,LuxLOL,2013-03-18T22:12Z,"A Windows XP can not fix peoples PC problems or mistakes and if you had read the last Read Me file then you would found this ->
+
+(o) Troubleshooting:
+
+* If you do a USB Flash installation and you get a message like this ""Setup cannot find the End User Licensing Agreement (EULA)."" then you should do this:
+1. In Rufus click on the ""Format Options"" and then select the option ""Use Rufus MBR with BIOS ID:"" and then try all this options out till it works.
+2. Before start Rufus disconnect all storage devices from your computer except the Windows one and remove all the drive letters from your Partitions except the Windows one (To remove the drive letters got to ""START -> Control Panel -> Administrative Tools -> Computer Management -> Disk Management- > Right-Click the Partition -> Change Driver Letter and Paths... -> Select Volume -> Remove"")."
+,Trueblue1878,2013-03-19T01:35Z,"LuxLOL, I did read the readme.. as I said, I tried 4 different BIOS ID's.
+I didn't try unplugging all my other drives because that would cause me a lot of problems with other programs which depend on those drives being active. 
+As I said, its just too much hassle. I appreciate your work but it shouldn't be this hard to use.
+It doesn't even work when I burn it to CD either.. it doesn't get detected as a boot disk.
+I have gone with another one now ; http://thepiratebay.sx/torrent/4535425/Windows_XP_Professional_SP3_-_Activated
+
+And it seems to be working fine.. I would have liked your version but don't have time to get it working :( I have a couple of hours to get Windows, Security and Office on this laptop before my friends flight leaves so I wanted a quick install. 
+
+But I will definitely try your torrent again when I have more time..
+
+FYI I read some forum posts about Rufus and I think if you place the i386 folder on your C drive (C:i386) it fixes this EULA problem but I didn't have time to try.. but maybe someone else can get it working this way.
+
+Cheers!"
+,Trueblue1878,2013-03-19T01:41Z,"Here is the link to the post about the EULA and a possible fix http://reboot.pro/topic/17902-rufus-v130-has-been-released/?p=164639
+
+Also guys try v1.2 if 1.3+ doesn't work."
+,LuxLOL,2013-03-19T02:14Z,You can try WinToFlash if Rufus doesn't work for you. But way it doesn't boot from the CD is strange because no one every posted a problem like this and I myself install this on a lot of old PC's.
+,Dr.BARTON,2013-03-19T18:34Z,"Nice share, thank you, bro!
+
+Why'd you remove the Custom Windows XP Theme ""NeoGeniX LS v1.0""?"
+,Heromist,2013-03-19T19:39Z,"whether or not i get this to work, i wanted to say, so pretty :3 this is one of my favorite looks on windows XP"
+,kyajibhai2,2013-03-19T20:16Z,"@Luxlol
+
+Dude u r more than a PRINCE.. u r XP_KING.. I haven't come across an xp version as good as this one..
+
+But, if u don't believe me, u urself try to do a usb installation of the 17-2-2013 version.. I tried it on an old Dell Optiplex GX160 and it gave me day-mares..
+
+http://www.computing.net/answers/windows-xp/bsod-stop-0x0000007b-0xf8c8d524-0xc0000034-0x00000000/201848.html
+
+http://answers.microsoft.com/thread/367ca811-b1b9-44ad-a49d-09f8cc8a3486"
+,LuxLOL,2013-03-19T21:19Z,"@Dr.BARTON
+Because few things were too dark to read. ;-)"
+,VictorcolonJR,2013-03-23T04:40Z,Is the a vista version of this ?
+,filmfree,2013-03-23T14:17Z,help me evry timke i innstal this it dosent fitt the screen is to large i have av old dell latitudebut wen i og on the internett ian tryid to canche internett opsion is the vindow to big and a cant press apply---ok help me
+,FattyBoom,2013-03-24T13:06Z,Can it be change to swedish? If so how to.
+,mitrau,2013-03-24T14:08Z,"First of all THANKS!!! This is the BEST version of windows xp 32 bit.
+Second i'm just asking:""Will there be a 64 bit release?"""
+,juanallaro,2013-03-24T19:50Z,"When I am booting to my new Seagate Sata drive, I tried USB, but no luck.  When trying to make a CD, the file size is too big with the added programs for a CDR.  I have Cheetah DVD burner.  Do I need to go under make a bootable Windows XP disk and then have it convert the iso file?  The bios lets me select the CD drive to boot from, but I seem to get a blinking cursor...this is when I try to load a DVD with the extracted files....what is the correct process for a new install on a new hard drive?"
+,LuxLOL,2013-03-24T21:33Z,Use a 700MB data CD and not a 650MB Audio CD.
+,sund4y,2013-03-24T23:07Z,Just wanted to say thanks. I used the older version with a burned cd method and it worked wonders. Trying the new one with rufus and for some reason doesn't work. Going to give Win2flash a shot.
+,sund4y,2013-03-25T03:29Z,"Just an update I guess my motherboard is having a compatibility issue with my flash drive as none of the programs worked. Anyways, good old burning iso to dvd worked."
+,sonnyboy8,2013-03-27T06:55Z,works good thx
+,PKoochie,2013-03-27T19:37Z,"Hi  LuxLOL  
+ I just found out my PC has a 64 Processor so does any one have 64 bit Windows XP Black Edition any help would be great  Thank you"
+,LuxLOL,2013-03-28T08:02Z,"You only need a 64-bit OS if you have more than 3GB of RAM. Installing a 64-bit OS on 3GB or less RAM Computer will only slow your Computer down because a 64-bit OS will take more RAM than a 32-bit OS.
+If you need a 64-bit OS than you should use Win7 64-bit because WinXP 64-bit is not a good 64-bit OS."
+,je25,2013-03-30T09:58Z,super hard this windows! take it with confidence thanks uploader
+,pcamasura,2013-03-31T10:02Z,"excellent version. i have been using the older version of this os (Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.1.31) and i must admit the version the i've got is good, fast and stable my question: is it possible to update to this version with out reformating my pc..thnx :)"
+,LuxLOL,2013-03-31T12:16Z,Use the Windows XP Update option to update your Windows XP.
+,andersoon,2013-04-01T06:32Z,"@LuxLOL Thank you so much!
+This is the most amazing Windows XP version that i ever found.
+I was having some ""hal.dll"" troubles with other versions, and this one saved me...
+Thanks aggain and keep the good work man!
+
+BTW: I installed with USB using Rufus and didnt got any problem."
+,LuxLOL,2013-04-05T00:54Z,"@believeme (Troller)
+Please stop wasting my time with stupid comments like this i have better things to do.
+Here are real proof that this WinXP is clean.
+http://postimg.org/image/kzysvg8bn/
+http://postimg.org/image/leloi3k1j/
+You should better check your Computer and Backup files and Cracks/Keygens for ROOTKITS this WinXP is clean."
+,LuxLOL,2013-04-05T22:49Z,I'm not here to fix your PC i did show proof that this WinXP is clean the only thing you do is trolling. You should ask yourself the question way you the only one in over 2 years complaining about malware.
+,LuxLOL,2013-04-06T09:34Z,"You a troll, i have posted proof and what did you do? yes nothing just trolling around with your TPB fake account you pathetic."
+,LuxLOL,2013-04-06T12:47Z,"Thank you you admin for removing the user ""believeme"" for trolling and spaming."
+,tstanley456,2013-04-06T22:38Z,"LuxLOL
+
+Please can you or anyone please help with the screen resolution. I installed it looks awesome but my screen resolution is 1024 by 768, please any suggestions"
+,jz93,2013-04-07T01:13Z,Does this have spanish?
+,LuxLOL,2013-04-07T09:12Z,"@tstanley456
+Install your computer driver (Read the Read Me file).
+
+@jz93
+All available Windows XP Language Pack are here:
+http://windows.microsoft.com/en-us/windows/language-packs#lptabs=xp"
+,mukeshk,2013-04-07T12:07Z,"@luxlol
+Thanks for that language pack link"
+,gurlluvsbass,2013-04-07T22:13Z,A little new at this. So I extracted the files. Do I just burn all of the files on a CD then choose primary boot to CD drive and it will work? 
+,mukeshk,2013-04-08T03:22Z,"@gurlluvsbass
+only burn the file with "".iso"" extension."
+,LuxLOL,2013-04-08T04:08Z,"@gurlluvsbass
+And read the Read Me file if you never done this before."
+,Chupacabra321,2013-04-08T17:25Z,Can you Install this one in Spanish?
+,PrinceVince_,2013-04-08T22:18Z,Thank you very much. I'll install this on my mother's notebook.
+,cybervdr,2013-04-09T12:44Z,this shit is dope...awesome job LuxLOL.U live upto legends like SKIDROW..keep up d gud work....and for rest of u noobs...u can suck luxlols dick coz it cant get simpler than this bitches for fuck sakes read wat he says n shut d fuck up...n rest of d clowns who spoke bout xp..microsoft can shove vista windows 7 and 8 up their assholes coz we aint buyin it...gamers like us will still use xp coz we LOVE IT!!! it wil take more than that to make us shift from this os...
+,mitrau,2013-04-10T07:28Z,I would like to know what is the administrator password.Thanks.
+,LuxLOL,2013-04-10T13:38Z,There is NO password set.
+,Chupacabra321,2013-04-12T05:03Z,"Cant find Spanish from Latin America on the language pack link, that sucks cause this XP version looks pretty neat."
+,user-x,2013-04-12T21:19Z,"this file worked more than fine for me - thanks a lot!
+
+GUIDE:
+the guide helps all users - also ""idiots"" like me. there is no problem with this file - all clear, all workes fine, all is perfect.
+
+LANGUAGE:
+it's english but multi-lang. - i used the language tool from MS -> perfect!
+
+GOODIES:
+perfect - settings and tools making so much things so easy.
+
+BOOT:
+cd-boot worked perfect
+usb-boot = i'm an idiot and i could not make it happen
+
+AKTIVATE/KEY:
+not needed - all is fine!
+
+thanks a lot to the uploader and the guy/team that make this awesome set."
+,LuxLOL,2013-04-16T08:21Z,"New version is out with the latest slipstreamed updates:
+http://thepiratebay.sx/torrent/8377907/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.4.16"
+,higherleopards,2013-04-18T21:56Z,"Why do people think you can only have just have one version of windows on your PC? Like windows 8 is a perfect solution to every task or something. Ignorant fools. 
+
+""get windows 7 and a better Computer arhahaha, Imma retard""
+
+BTW Thank you for this. Retards aside, this is still very useful. "
+,awedug,2013-04-19T14:43Z,"i seem to be having a two problems, on my laptop which has windows 7 on it,it wont letme download it using deamon tools lite and i tryed using a usb flash drive for it as well and it didnt work. i also seem to have another problem were on my desktop i start to download the operating system and everything is fine till it restartsand it brings me to a screen saying to incert the windows xp professional service pack 3 cd which i obviously dont have"
+,jesuslugo,2013-04-20T17:43Z,"make one of this in SPANISH 
+Thanks!!!!!!!!!"
+,LuxLOL,2013-04-20T22:45Z,"New version is out with the latest slipstreamed updates:
+
+http://thepiratebay.sx/torrent/8377907/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.4.16"
+,MNyb,2013-04-22T00:12Z,Is it possible to change the system to Swedish languages? Now I only succeed to change keybord layout and time/date and not the menus etc. 
+,vrbinmail,2013-05-10T18:36Z,i can't install video drivers on 2 computers with different grafic cards. please HELP!
+,LuxLOL,2013-05-26T21:27Z,"A new version is out with the latest Microsoft Updates:
+http://thepiratebay.sx/torrent/8499294/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.5.22
+
+And there is also a forum for your question:
+www.zone54.com"

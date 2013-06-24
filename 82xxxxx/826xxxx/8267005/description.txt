@@ -1,0 +1,75 @@
+CCNP Routing & Switching Outline :: Runtime 46 hours 37 minutes
+
+642-813 SWITCH Outline
+
+This course will prepare you to plan, implement, and verify the complex LAN switching solutions based on Cisco's Campus Enterprise Architecture. During the 15+ hours of online training, you will learn about switching technologies and integration of VLANs, WLANs, voice, and video into enterprise networksΓÇöwith detailed slides covering each of the technologies.
+
+    Introduction
+    SWITCH :: Campus Network Design
+    SWITCH :: Layer 2 Switching vs. Layer 3 Routing
+    SWITCH :: VLANs
+    SWITCH :: Trunking
+    SWITCH :: DTP, Trunking Allowed Lists & VTP
+    SWITCH :: Spanning Tree Protocol
+    SWITCH :: STP Optimization
+    SWITCH :: Cisco PVST+ Enhancements
+    SWITCH :: Rapid STP & Multiple STP
+    SWITCH :: MST Configuration
+    SWITCH :: STP Features
+    SWITCH :: EtherChannel
+    SWITCH :: Inter-VLAN Routing
+    SWITCH :: High Availability
+    SWITCH :: High Availability Part 2
+    SWITCH :: Layer 2 Security
+    SWITCH :: Layer 2 Voice & Video Support
+    SWITCH :: Wireless
+
+
+642-902 ROUTE Outline
+
+This course will teach you how to implement advanced IP addressing plans and routing protocols in scalable Cisco networks. It will fully prepare you to pass the 642-902 ROUTE exam and is the only training you need, featuring both theoretical topics and practical examples. In addition to the 19+ hours of instructional video, detailed slides are available for download in PDF format covering each of the technologies.
+
+    ROUTE :: IP Routing Overview
+    ROUTE :: EIGRP Overview
+    ROUTE :: EIGRP DUAL Calculation
+    ROUTE :: EIGRP Implementation Examples
+    ROUTE :: EIGRP Features
+    ROUTE :: OSPF Overview
+    ROUTE :: OSPF SPF Calculation
+    ROUTE :: OSPF Media Dependencies
+    ROUTE :: Single Area OSPF Implementation Examples
+    ROUTE :: OSPF Areas & LSA Types
+    ROUTE :: Multi Area OSPF Implementation Examples
+    ROUTE :: OSPF Features
+    ROUTE :: BGP Overview
+    ROUTE :: BGP Implementation Examples
+    ROUTE :: BGP Full Mesh, Route Reflectors, Confederation, Security & NLRI Advertisements
+    ROUTE :: BGP NLRI Aggregation & BGP Attributes
+    ROUTE :: BGP Bestpath Selection
+    ROUTE :: Redistribution Part 1
+    ROUTE :: Redistribution Part 2
+    ROUTE :: Redistribution Part 3
+    ROUTE :: Redistribution Part 4
+    ROUTE :: Policy-Based Routing
+    ROUTE :: IPv6
+
+
+642-832 TSHOOT Outline
+
+This course will prepare you to support complex enterprise networks and give you deep understanding of the ITIL-compliant approach to network troubleshooting. In addition to 10+ hours of theory and command-line interactions, you get detailed slides covering each of the technologies and methods used in troubleshooting.
+
+    TSHOOT :: Troubleshooting Overview
+    TSHOOT :: Exam Demo
+    TSHOOT :: Troubleshooting Tools
+    TSHOOT :: LAN Troubleshooting
+    TSHOOT :: IPv4 IGP Troubleshooting
+    TSHOOT :: EIGRP Troubleshooting
+    TSHOOT :: OSPF Troubleshooting
+    TSHOOT :: BGP Troubleshooting Part 1
+    TSHOOT :: BGP Troubleshooting Part 2
+    TSHOOT :: IPv6 Troubleshooting Part 1
+    TSHOOT :: IPv6 Troubleshooting Part 2
+    TSHOOT :: IP Services Troubleshooting Part 1
+    TSHOOT :: IP Services Troubleshooting Part 2
+
+Preview: http://www.ine.com/all-access-pass/sample/?play=ccnp-rs-exam-course

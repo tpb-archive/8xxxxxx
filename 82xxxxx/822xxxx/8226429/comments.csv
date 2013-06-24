@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,lili9000c,2013-03-09T13:04Z,"I get ""AppId is not configured"" does anyone know how to solve it?"
+,ziffel323,2013-03-10T20:29Z,"same here. ""AppID is not configured"". Game won't start."
+,Razielnapo,2013-03-11T17:32Z,"Anyone can confirm that it works for him? I saw comments mentioning some appid but should i suppose it's smth the rest have figured out or never had a problem to start with? because there are plenty of seeders,an answer would be nice."
+,Razielnapo,2013-03-12T10:29Z,"I downloaded this & when i run setup.exe i get an error ""ShellExecuteEx failed; code 1155"" . If anyone has got a clue on how to fix this please share or otherwise downloaders be aware."
+,Razielnapo,2013-03-12T10:40Z,"ehm...Kinda ashamed i didn't think of this earlier but... Just run setup.exe as Administrator and it'll work fine. Apologies to the uploader for the ""be aware"" comment above"
+,9mAx2,2013-03-12T19:00Z,"@ lili9000c:
+When u will open the skidrow folder in the mounted folder then u will get 3 files named;
+1.SKIDROW
+2.steam_api.dll
+3.Steamclient.dll
+
+copy all these 3 items in ur main installed folder
+it will works for sure."
+,azzunai,2013-03-14T17:38Z,"Try running the setup as administrator, it worked for me."

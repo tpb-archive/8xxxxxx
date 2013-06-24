@@ -1,0 +1,55 @@
+Brutal Legend Update 4 (c) Double Fine Prod
+
+02/2013: RELEASE.DATE .. PROTECTION: Steam
+1: DISC(S) .. GAME.TYPE: Action
+
+******************************
+**     **Game Notes:**        **
+ ****************************** 
+Brutal Legend is an action-adventure that marries visceral action combat
+with open-world freedom. Set in a universe somewhere between Lord of the
+Rings and Spinal Tap, its a fresh take on the action/driving genre, which
+in this case is full of imitation cover bands, demons intent on enslaving
+humanity and Heavy metal tunes. Featuring the talents of comedian, actor
+and musician, Jack Black as super roadie Eddie Riggs, as well as cameos by
+some of the biggest names in metal music it's a wild ride in the belly of
+the beast that is not to be missed by gamers and Metalheads alike
+
+Included as a free bonus in the PC version of Brutal Legend are both the
+Hammer of Infinite Fate and Tears of the Hextadon multiplayer map packs
+
+Change log:-
+----------
+**2/28/13 Patch**
+We have released another patch to the game. We have a lot of big fixes and will continue to work on the remaining issues and listening to the feed back from out community. It is important to us to give you the best experience possible.
+
+Major Fixes
+ΓÇó Fixes bug where players who started playing single player on or after the 28th of February would be unable to continue their save. All of the saved data should be intact. This bug was that the game was falsely reporting that there were no save games and now thatΓÇÖs fixed.
+ΓÇó Interpolated re-enabled with improved logic to avoid the post-pause stutter and to generally be smoother than before.
+ΓÇó Alt+Tab works much better in the albumn cover menu. Backgrounds no longer go black when alt+tabbing. Some UI textures may still exhibit problems elsewhere in the game.
+ΓÇó Matchmaking will allow a much broader range of players to match with one another, fixing some reported problems of players not finding any matches or finding the same person over and over again.
+ΓÇó Steam Cloud support has been added and is working!!!
+
+Major Known Issues
+ΓÇó Alt+Tab still causes graphical issues when used in some menus.
+ΓÇó Game is pretty CPU intensive for some machines, especially laptops and lower-core computers. WeΓÇÖre working on additional optimizations for these systems now.
+ΓÇó Micro-stutters still present at very high framerates. The team is still investigating the root cause of this issue.
+
+ ***************************** 
+**   **Install Notes:**      **
+ ***************************** 
+ 
+-Unpack it into the game folder
+-Run the "Brutal.Legend.Update.4.bat" Bat file 
+-Play and Enjoy!!
+
+ ******************************** 
+**   **Additional Notes:**      **
+ ******************************** 
+ 
+-Credits for the patch goes to demde (cs.rin.ru)
+
+-Thank to JBeckman (cs.rin.ru) for updated files 
+
+-You need to have update 2 and 3 installed so get it from  http://thepiratebay.se/torrent/8198716/Brutal.Legend.Update.2-P2P  http://thepiratebay.se/torrent/8202196/Brutal.Legend.Update.3-P2P
+-another think  Update 2 RELOADED = Update 4 Xdelta.

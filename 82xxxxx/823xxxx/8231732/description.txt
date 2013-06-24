@@ -1,0 +1,69 @@
+General
+Complete name                            : Brothers Karamazov.1958.DVDrip.PAL.x264.AAC.6ch-UBY.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 829 MiB
+Duration                                 : 2h 19mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 828 Kbps
+Encoded date                             : UTC 2013-03-04 14:41:00
+Tagged date                              : UTC 2013-03-04 15:35:21
+Writing application                      : HandBrake 0.9.8 2012071700
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 19mn
+Bit rate mode                            : Variable
+Bit rate                                 : 758 Kbps
+Width                                    : 720 pixels
+Height                                   : 532 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.079
+Stream size                              : 758 MiB (91%)
+Writing library                          : x264 core 120
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 19mn
+Bit rate mode                            : Variable
+Bit rate                                 : 66.2 Kbps
+Maximum bit rate                         : 73.8 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 66.6 MiB (8%)
+Language                                 : English
+
+Text
+ID                                       : 3
+Format                                   : Apple text
+Codec ID                                 : text
+Duration                                 : 2h 19mn
+Bit rate mode                            : Variable
+Bit rate                                 : 0 bps
+Stream size                              : 279 Bytes (0%)
+
+Subtitles: Romanian, in idx/sub files

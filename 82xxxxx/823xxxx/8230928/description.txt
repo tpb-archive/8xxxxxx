@@ -1,0 +1,96 @@
+General
+Complete name                            : The Hunger Games (Portable).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.80 GiB
+Duration                                 : 2h 22mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 806 Kbps
+Movie name                               : The Hunger Games
+Performer                                : Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Stanley Tucci, Elizabeth Banks, Woody Harrelson, Willow Shields, Wes Bentley, Paula Malcomson, Amandla Stenberg, Lenny Kravitz, Alexander Ludwig, Isabelle Fuhrman, Donald Sutherland, Leven Rambin, Sandra Ellis Lafferty, Rhoda Griffis, Raiko Bowman, Toby Jones, Kimiko Gelman, Nelson Ascencio, Dayo Okeniyi, Jack Quaid, Latarsha Rose, Jacqueline Emerson, Sharon Morris, Brooke Bundy
+Genre                                    : Adventure, Thriller, Science Fiction, Family
+Recorded date                            : 2012-03-23
+Encoded date                             : UTC 2013-01-29 00:18:36
+Tagged date                              : UTC 2013-02-17 20:16:23
+Writing application                      : HandBrake 5215svn 2013012801
+Cover                                    : Yes
+desc                                     : Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which ΓÇ£TributesΓÇ¥ must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If sheΓÇÖs ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 633 Kbps
+Width                                    : 960 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.177
+Stream size                              : 1.63 GiB (90%)
+Writing library                          : x264 core 129
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=19.0 / qcomp=0.60 / qpmin=4 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-01-29 00:18:36
+Tagged date                              : UTC 2013-01-29 02:14:26
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Video #2
+ID                                       : 4
+Format                                   : JPEG
+Codec ID                                 : jpeg
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 666 bps
+Width                                    : 640 pixels
+Height                                   : 266 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Variable
+Frame rate                               : 0.002 fps
+Minimum frame rate                       : 0.001 fps
+Maximum frame rate                       : 0.003 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 1.956
+Stream size                              : 651 KiB (0%)
+Language                                 : English
+Encoded date                             : UTC 2013-02-17 20:16:22
+Tagged date                              : UTC 2013-02-17 20:16:22
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 165 Kbps
+Maximum bit rate                         : 263 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 168 MiB (9%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-29 00:18:36
+Tagged date                              : UTC 2013-01-29 02:14:26

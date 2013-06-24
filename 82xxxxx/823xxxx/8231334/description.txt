@@ -1,0 +1,62 @@
+General
+Identifiant unique                       : 211199466532508635400307554834182004692 (0x9EE389A59DD1292C90C8437EDF7F5FD4)
+Nom complet                              : Hitchcock.mkv
+Format                                   : Matroska
+Version du format                        : Version 2
+Taille du fichier                        : 4,08 Gio
+Duree                                    : 1h 38mn
+Type de debit global                     : Variable
+Debit global moyen                       : 5 938 Kbps
+Nom du film                              : Hitchcock par Cuzin83
+Date d'encodage                          : UTC 2013-03-06 11:41:17
+Application utilisee                     : mkvmerge v3.2.0 ('Beginnings') built on Feb 12 2010 16:46:17
+Bibliotheque utilisee                    : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Parametres du format, CABAC              : Oui
+Parametres du format, RefFrames          : 2 images
+Identifiant du codec                     : V_MPEG4/ISO/AVC
+Duree                                    : 1h 38mn
+Type de debit                            : Variable
+Debit                                    : 5 372 Kbps
+Debit maximum                            : 8 232 Kbps
+Largeur                                  : 1 920 pixels
+Hauteur                                  : 800 pixels
+Format a l'ecran                         : 2,40:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-echantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Bits/(Pixel*Image)                       : 0.146
+Taille du flux                           : 3,69 Gio (90%)
+Titre                                    : Hitchcock par Cuzin83
+Default                                  : Oui
+Forced                                   : Non
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Parametres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Duree                                    : 1h 38mn
+Type de debit                            : Constant
+Debit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 315 Mio (8%)
+Titre                                    : Francais AC3 6 canaux
+Langue                                   : Francais
+Default                                  : Oui
+Forced                                   : Non
+

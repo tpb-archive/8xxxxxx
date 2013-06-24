@@ -1,0 +1,32 @@
+*** PESJP Patch 2013 version 3.03 update ***
+
+
+
+This is an update to PESJP Patch 2013 v3.0x
+
+
+
+Apply update ONLY after:
+
+1) first installing v3.0 - http://thepiratebay.se/torrent/8195355/
+
+2) and then installing update 3.02 - http://thepiratebay.se/torrent/8214418/PESJP_Patch_2013_version_3.02_update
+
+
+
+
+*** Update features ***
+- Included update 3.03
+- Fit DLC 4.00 (included)
+- Update lastest player's stats & team formations
+- Update some missing tranfers 
+- Update PSD option file : correct boot for 2000 players
+- Update face, hair, tattoo for some players    
+- Gameplay tool 3.25
+  -- Fixed XP incompatible issue in last version
+  -- Update adboardserver : better quality texture, support 8bit, 24bit, 32bit     color png
+  -- Added stadium & scoreboard preview :
+- New option "Online compatible"
+  -- Allow to use adboardserver, bannerserver, scoreboardserver, stadiumserver, chantserver while playing online
+- Kitserver 13 prefinal
+  -- Update faceserver & kitserver support online playing

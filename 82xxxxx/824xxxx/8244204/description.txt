@@ -1,0 +1,9 @@
+found on the web - thought I would share...
+
+1.download file- then open in ifile
+ΓÇ¿2.unarchive the file then copy/link tapped out.
+3.Go to var/mobile/applications/tapped out/tapped out release row.app
+4.Edit then paste the file in and click overwrite.
+5.Look for the tapped out file and click the blue arrow(still in the tapped out release section)
+6.Change this section to this User-Read, Write, Execute. Group-Read, Write, Execute. World-Read, Execute.
+7.Respring your device and then go on tapped out and place a tree and you have done it		

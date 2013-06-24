@@ -1,0 +1,141 @@
+﻿User Type,Username,Date,Text
+[V],Gh0stNet,2013-03-24T13:27Z,"Update 13:
+
+This patch contains several performance optimizations in the rendering code
+On most machines, the game should run about 20% faster
+
+Update 12:
+
+Major Fixes
+* no more quitting crash
+* Game crashes when opponent disconnects
+* Some people are finding the game is rendering cutscenes and menus far too
+big for their screens, resulting in the screen only showing the top left
+1/4 of the image. - Caused by forcing a resolution under graphics drivers
+* Favored achievement doesn't unlock, as game doesn't correctly track spent
+tributes
+* Tiny spiders don't spawn from bodies in lair
+* Feedback visual effect caused by the amps on the Screaming Wall sometimes
+causes brief screen tearing and artifacts (both in-game and in cutscenes)
+This is more pronounced on the story mission involving it
+* Beer mission extremely hard in high-sim
+* When changing the heads of Mt.Rockmore the UI says to press Esc to exit
+It should really be 'E', Esc only bring up the in-game menu. I believe
+other prompts for this area have been reported as incorrect too
+* Ambient Occlusion visible through grass
+* History/lore background is transparent (shows game screen), instead of
+opaque black
+* Broken Achievements: Overkill and Protector
+* Reward for hunting missions does not unlock
+* Raptor elk (Summoned with call of the wild) don't cast any shadows unless
+Eddie is riding one
+* Deuce has weird ghosting effect during cutscenes on high-sim
+* Some prompts are not appearing, including ""concept art unlocked"" popups
+and bound serpent/motorforge-related popups. Improving, but not yet fixed
+Rewards for getting serpents still missing
+* Sound effects seem to be significantly lower quality than music/VO
+* Late in the game when you return to bladehenge, everything is completely
+black and white Probably related to skies afire bug below
+* When switching from controller to mouse, mouse input registers as extremely
+slow movement, and stops after the pointer hits the edge of the screen
+* Mouse control on radial menus can be tricky to select diagonal options
+sometimes
+* Game not saving properly for some people. Chapters list shows completed
+chapters, but can't load chapter saves or select continue
+* Eddie's ID tags frequently pass through his chest in cutscenes
+* Shadows seem to be drawn in reverse - as you approach, they vanish
+* Skies Afire turns the game to black and white - not the washed out grey/red
+look on consoles, but proper black/white (including the sky)
+* Missing prompts for unlocking songs, changing tracks when in-car
+* Colour correction goes too far during lamprey feeding area (SP), making it
+way less saturated than on consoles. Issue begins shortly after breaking
+through the doors in the car
+* After alt-tabbing, menus are completely black. Loading a multiplayer match
+then leaving resolves this. This can also be triggered by changing anything
+other than brightness under display settings
+* Chrome shader broken, causing many chrome objects to appear black
+(including spiders)
+* Special characters in some languages (French confirmed) are displayed as
+black boxes
+* When using a controller, the mouse cursor is not hidden
+* Default key binds still place the right speaker attack and exit stage
+functions on the same key so you can't use the right speaker
+* Whispering Rock achievement doesn't unlock
+* Map is hard to navigate with keyboard, and can't be used with the mouse
+(may need to delete preferences file for this to take effect
+located in C:\Users\USERNAME\AppData\Roaming\Doublefine
+* Sometimes keyboard stops responding, while mouse continues to function
+* Some users reporting issues with default sound mix
+* Druid chanting in the opening sequence is too loud
+* Career totals aren't always saved correctly, and have been known to get
+stuck or reset
+* ""Leaving map"" warning not present in MP
+* Mouse moves camera while using radial menus
+* MISSING DIALOGUE - Many of Ozzie's comments when buying stuff are not
+played. May only apply when using a mouse
+* Back slot category in the motor forge glitches out
+* Oceans often fail to render on AMD cards
+* Li"
+[V],Gh0stNet,2013-03-24T13:29Z,"* Oceans often fail to render on AMD cards
+* Light of the gods (marker beacon) doesn't appear 80% of the time
+* Feeding area monster has no roar in cutscene
+* Map doesn't let you instantly get out of it after looking at it
+(backspace won't respond again after a few seconds)
+* MISSING CUTSCENE - Doviculus finding Ophelia's knife, after bridge escape
+* Spiral in sky is broken on Feeding Area (probably other maps too)
+* Some menu elements are still not mouse clickable, most notably the
+""difficulty,"" ""invite friends,"" and ""back"" buttons in the AI Practice menu
+as well as the buttons in the confirmation dialogue after hitting back on
+this menu. Other confirmation dialogues are clickable though
+* Lines appearing through unit construction indicators
+* Character animation sometimes plays at a lower framerate than everything
+else
+* After entering the menu, the displayed FPS through Fraps remains at 60
+but it seems to be introducing microstutters which I suspect means it drops
+to 30. To reproduce this, start a new match and fly. Use the mouse to rotate
+the camera at a constant slow speed
+(or better, use a controller's right stick)
+Pause and resume the game, and watch the background
+Everything moves much less smoothly
+* Doviculus doesn't cast a shadow, only his sceptre/staff does
+* Add maps to loading screens (as seen on consoles)
+* Ophelia's wings are solid black sheets, and appear to be missing the wispy
+tendrils they had on consoles
+* Framerate is locked to 30FPS
+* Remove ""Do not turn off power"" message during startup. People don't do that
+* Shadows are completely nonfunctional on some computers now
+* Transparency is broken on some of the UI elements in game
+(such as the completion notice for guitar solos)
+* Some people are getting horzontal lines on the ground in game where there
+are no shadows
+* No option to remap the sprint key (it's called Boost)
+* The Chains of Hell solo from Tainted Coil doesn't seem to be working at all
+* Camera speed has a maximum, so trying to make quick turns with a mouse is
+frustrating (even with sensitivity on maximum)
+* Massive framerate drops at the end of multiplayer matches - appears to be
+linked to Tainted Coil stage collapse
+* Mouse selection in the radial menus is very sluggish and hard to use
+
+Update 11:
+
+Major Fixes
+* Fix for crash when players disconnect
+* Fix for crash when starting a multiplayer game
+* Fix for users getting a loss when opponents quit
+
+Update 10:
+
+Major Fixes
+* Fix for matchmaking
+* Fix for the Tourist and Champion achievements
+* Performance improvements for rendering foliage
+
+Update 9:
+
+Major Fixes
+* Fix for the disconnect crash
+* Fix for the authentication error
+* Authentication errors will no longer count as a loss
+* Fix for the fan geyser leech alignment
+* Fire Tributes earned from mission victories now count toward the 'Favored'
+achievement"

@@ -1,0 +1,16 @@
+Windows Presentation Foundation (WPF) takes the creation of client-side Windows applications to a whole new level. Developers moving from Windows Forms will find that the flexibility and richness of WPF makes it possible to create applications unlike any they could previously create. This course introduces the basics of working with WPF, starting with a tour of the basic controls, through data binding. Than the course moves beyond the basics to cover working through some more advanced controls, more graphic issues including shapes, geometries, brushes, transforms, and animations, through deploying WPF applications.
+
+In this course, you will:
+
+Investigate WPF application templates, designer and controls in Visual Studio 2010
+Work with each of the simple and more complex, WPF controls
+Using styles and resources to create consistent, visually interesting applications
+Take advantage of element-to-element binding
+Extend binding to work with data
+Investigate more of the built-in controls
+Learn to create and use shapes and geometries, and the powerful Path element
+Deploy Silverlight applications
+Work with Expression Blend 4
+Add animation techniques
+Work with the DataGrid control
+Interoperate with Windows Forms

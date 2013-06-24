@@ -1,0 +1,69 @@
+ http://imgr.us/images/p5sdu1yp0mimki39hlx.jpg
+
+Format : Matroska
+Format version : Version 4 / Version 2
+File size : 702 MiB
+Duration : 1h 51mn
+Overall bit rate : 880 Kbps
+Encoded date : UTC 2013-03-08 12:28:41
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L2.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 51mn
+Bit rate : 800 Kbps
+Width : 608 pixels
+Height : 272 pixels
+Display aspect ratio : 2.25:1
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.193
+Stream size : 624 MiB (89%)
+Writing library : x264 core 129 r2245 bc13772
+Language : Hindi
+
+
+
+Audio
+ID : 2
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : A_MPEG/L3
+Codec ID/Hint : MP3
+Duration : 1h 49mn
+Bit rate mode : Variable
+Bit rate : 80.0 Kbps
+Channel(s) : 2 channels
+Sampling rate : 32.0 KHz
+Compression mode : Lossy
+Stream size : 62.7 MiB (9%)
+Writing library : LAME3.99r
+Encoding settings : -m j -V 4 -q 2 -lowpass 13.5 --abr 80
+
+SCREENS: 
+http://www.shotpix.com/images/97446122893780071033.jpg 
+http://www.shotpix.com/images/78214614187101177021.jpg 
+http://www.shotpix.com/images/09250320176901900807.jpg 
+http://www.shotpix.com/images/07178663691913981058.jpg 
+http://www.shotpix.com/images/96434885607764609085.jpg 
+http://www.shotpix.com/images/44616631693328645967.jpg
+
+
+
+
+

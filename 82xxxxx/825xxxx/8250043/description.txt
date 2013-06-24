@@ -1,0 +1,90 @@
+This will NOT fit on a 4.37GiB Single-Layer DVDR
+Use a Dual-Layer DVDR or an 8GB+ USB flash drive.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.*
+No Unattended Settings were added to the ISO.
+*small reg add runonce added to create KMS-SS Service on the
+KMS-SS index. Normal index does not use any reg stuff.
+
+murphy78 presents Windows 8 Pro VL x64 en-US Mar2013
+Contains all KB files to bring current to Mar12 patch date
+
+Added KMS Server Service. Add "KMS Server Service.exe" to any
+A/V programs and Firewall or Internet Security Programs you
+add. I have added exclusion to Windows Defender and Windows
+Firewall for localhost. Instructions included in txt file
+for opening up firewall to other computers. Disabled by
+default for security.
+
+64-bit MSDN Sources:
+en_windows_8_pro_vl_x64_dvd_917699.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Pro 64-bit
+Windows 8 Pro 64-bit KMS-SS
+
+Release File: Win8Pro-VL-x64-en-US-Mar2013.iso
+Size: 5.02GiB
+CRC32: B75FC0C5
+MD5: AB27AEC073E3090C1C2AB21E227956B2
+SHA-1: 52EE307F274A561A100F6D6BEB2A9211883BB221
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, renaming, and export
+dism for MSU KB hotfix integration, mount for
+file copying of scripts, KMSServerService, Info folder
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2751352-v2, KB2753842-v2,
+KB2756872, KB2756923, KB2757638, KB2758246-v2, KB2761094,
+KB2764870, KB2768703, KB2769034, KB2769165, KB2769166,
+KB2770660, KB2770917, KB2771744, KB2771821, KB2777166,
+KB2777294, KB2778171, KB2778344, KB2779562, KB2779768,
+KB2780342, KB2781197, KB2782419, KB2783251, KB2784160,
+KB2785094, KB2785220, KB2788261, KB2788350, KB2789649,
+KB2789650, KB2790655, KB2790907, KB2790920, KB2792009,
+KB2793210, KB2794599, KB2795944, KB2797052, KB2799494,
+KB2800088, KB2803676, KB2805940, KB2807986, KB2809289,
+KB2811660, KB2812829, KB2815769, KB2819372, KB2823233,
+KB2824670
+
+setupcomplete.cmd phase:
+KB890830-x64-v4.18 (Recent Malicious software removal tool)
+mpas-fe (Defender Updates)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe hotfix)
+
+For KMS-SS indexes:
+-Additional reg file import for defender exlusion
+-Settings.xml generated from MTK copied to user folder.
+-Creates the Service using SC CREATE then "regedit /s" MTK's
+service registry settings and restarts task to incorporate
+-Runs Activation using runonce script, removes watermark for
+first logon; may or may not show up on first logon for
+upgrade, but should disappear shortly after.
+
+Changes from recent Windows 8 ProVL releases:
+-Feb was a fluke. Using offline integration for non-office.
+-Added .NET 2-3.5.1 and all hotfixes currently avail.
+-KMS-SS added. Read the included text file for more info
+
+Screens are from x86 testing. Both x86 and x64 versions
+will be tested accordingly.
+
+Activation Proof Screencap from VM testing: 
+http://bayimg.com/naKJjAaEI
+
+All KB files to date screencap of wuapp.exe: 
+http://bayimg.com/nAKJlAAei
+
+Thank you for your AMAZING KMS Server Service CODYQX4!
+Enjoy Pirates,
+murphy78-TPB :)

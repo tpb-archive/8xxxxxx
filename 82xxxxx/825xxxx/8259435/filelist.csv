@@ -1,0 +1,614 @@
+﻿Filename,Size,Unit
+autorun.inf,45,B
+fscommand/acknowledgement.bat,57,B
+fscommand/Adobe8_1.exe,22.37,M
+fscommand/Adobe8_1intel.app/Contents/Info.plist,985,B
+fscommand/Adobe8_1intel.app/Contents/MacOS/NOS Installer,25.93,M
+fscommand/Adobe8_1intel.app/Contents/PkgInfo,8,B
+fscommand/Adobe8_1intel.app/Contents/Resources/adobe_netop.icns,39.61,K
+fscommand/Adobe8_1intel.app/Contents/Resources/en.lproj/Localizable.strings,2.67,K
+fscommand/Adobe8_1intel.app/Contents/Resources/NOS Installer.rsrc,50.38,K
+fscommand/Adobe8_1intel.app/Contents/Resources/res_Adobe.nib/classes.nib,35,B
+fscommand/Adobe8_1intel.app/Contents/Resources/res_Adobe.nib/info.nib,771,B
+fscommand/Adobe8_1intel.app/Contents/Resources/res_Adobe.nib/objects.xib,6.12,K
+fscommand/Adobe8_1ppc.app/Contents/Info.plist,995,B
+fscommand/Adobe8_1ppc.app/Contents/MacOS/NOS Insta_Nosso_error.log,0,B
+fscommand/Adobe8_1ppc.app/Contents/MacOS/NOS Installer,24.11,M
+fscommand/Adobe8_1ppc.app/Contents/PkgInfo,8,B
+fscommand/Adobe8_1ppc.app/Contents/Resources/adobe_netop.icns,39.61,K
+fscommand/Adobe8_1ppc.app/Contents/Resources/en.lproj/Localizable.strings,2.67,K
+fscommand/Adobe8_1ppc.app/Contents/Resources/NOS Installer.rsrc,49.14,K
+fscommand/Adobe8_1ppc.app/Contents/Resources/res_Adobe.nib/classes.nib,230,B
+fscommand/Adobe8_1ppc.app/Contents/Resources/res_Adobe.nib/info.nib,572,B
+fscommand/Adobe8_1ppc.app/Contents/Resources/res_Adobe.nib/objects.xib,6.05,K
+fscommand/answers.bat,49,B
+fscommand/answers_review.bat,56,B
+fscommand/appendix.bat,50,B
+fscommand/assets/xml/master.xml,100,B
+fscommand/ch.01.add.1.1.bat,55,B
+fscommand/ch.01.add.1.2.bat,55,B
+fscommand/ch.01.add.1.3.bat,55,B
+fscommand/ch.01.add.1.4.bat,55,B
+fscommand/ch.01.add.1.5.bat,55,B
+fscommand/ch.01.add.1.6.bat,55,B
+fscommand/ch.01.add.1.7.bat,55,B
+fscommand/ch.01.alt.1.1.bat,55,B
+fscommand/ch.01.alt.1.2.bat,55,B
+fscommand/ch.01.alt.1.3.bat,55,B
+fscommand/ch.01.calcpro.1.1.bat,59,B
+fscommand/ch.01.calcpro.1.2.bat,59,B
+fscommand/ch.01.instruct.1.1.bat,60,B
+fscommand/ch.01.notes.1.1.bat,57,B
+fscommand/ch.01.notes.1.2.bat,57,B
+fscommand/ch.01.notes.1.3.bat,57,B
+fscommand/ch.01.notes.1.4.bat,57,B
+fscommand/ch.01.progress.bat,56,B
+fscommand/ch.01.text.bat,52,B
+fscommand/ch.02.add.2.1.bat,55,B
+fscommand/ch.02.add.2.2.bat,55,B
+fscommand/ch.02.add.2.3.bat,55,B
+fscommand/ch.02.add.2.4.bat,55,B
+fscommand/ch.02.add.2.5.bat,55,B
+fscommand/ch.02.add.2.6.bat,55,B
+fscommand/ch.02.add.2.7.bat,55,B
+fscommand/ch.02.alt.2.1.bat,55,B
+fscommand/ch.02.alt.2.2.bat,55,B
+fscommand/ch.02.notes.2.1.bat,55,B
+fscommand/ch.02.notes.2.2.bat,55,B
+fscommand/ch.02.progress.bat,56,B
+fscommand/ch.02.proofs.2.1.bat,58,B
+fscommand/ch.02.text.bat,52,B
+fscommand/ch.03.add.3.1.bat,55,B
+fscommand/ch.03.add.3.2.bat,55,B
+fscommand/ch.03.add.3.3.bat,55,B
+fscommand/ch.03.add.3.4.bat,55,B
+fscommand/ch.03.add.3.5.bat,55,B
+fscommand/ch.03.add.3.6.bat,55,B
+fscommand/ch.03.add.3.7.bat,55,B
+fscommand/ch.03.instruct.3.1.bat,60,B
+fscommand/ch.03.instruct.3.2.bat,60,B
+fscommand/ch.03.instruct.3.3.bat,60,B
+fscommand/ch.03.instruct.3.4.bat,60,B
+fscommand/ch.03.instruct.3.5.bat,60,B
+fscommand/ch.03.notes.3.1.bat,57,B
+fscommand/ch.03.progress.bat,56,B
+fscommand/ch.03.text.bat,52,B
+fscommand/ch.04.add.4.1.bat,55,B
+fscommand/ch.04.add.4.2.bat,55,B
+fscommand/ch.04.add.4.3.bat,55,B
+fscommand/ch.04.add.4.4.bat,55,B
+fscommand/ch.04.add.4.5.bat,55,B
+fscommand/ch.04.alt.4.1.bat,55,B
+fscommand/ch.04.alt.4.2.bat,55,B
+fscommand/ch.04.alt.4.3.bat,55,B
+fscommand/ch.04.calcpro.4.1.bat,59,B
+fscommand/ch.04.instruct.4.1.bat,60,B
+fscommand/ch.04.instruct.4.2.bat,60,B
+fscommand/ch.04.instruct.4.3.bat,60,B
+fscommand/ch.04.notes.4.1.bat,57,B
+fscommand/ch.04.notes.4.2.bat,57,B
+fscommand/ch.04.notes.4.3.bat,57,B
+fscommand/ch.04.progress.bat,56,B
+fscommand/ch.04.proofs.4.1.bat,58,B
+fscommand/ch.04.proofs.4.2.bat,58,B
+fscommand/ch.04.text.bat,52,B
+fscommand/ch.05.add.5.1.bat,55,B
+fscommand/ch.05.add.5.2.bat,55,B
+fscommand/ch.05.add.5.3.bat,55,B
+fscommand/ch.05.add.5.4.bat,55,B
+fscommand/ch.05.add.5.5.bat,55,B
+fscommand/ch.05.add.5.6.bat,55,B
+fscommand/ch.05.add.5.7.bat,55,B
+fscommand/ch.05.add.5.8.bat,55,B
+fscommand/ch.05.alt.5.1.bat,55,B
+fscommand/ch.05.alt.5.2.bat,55,B
+fscommand/ch.05.alt.5.3.bat,55,B
+fscommand/ch.05.alt.5.4.bat,55,B
+fscommand/ch.05.alt.5.5.bat,55,B
+fscommand/ch.05.alt.5.6.bat,55,B
+fscommand/ch.05.instruct.5.1.bat,60,B
+fscommand/ch.05.instruct.5.2.bat,60,B
+fscommand/ch.05.instruct.5.3.bat,60,B
+fscommand/ch.05.instruct.5.4.bat,60,B
+fscommand/ch.05.instruct.5.5.bat,60,B
+fscommand/ch.05.notes.5.1.bat,57,B
+fscommand/ch.05.notes.5.2.bat,57,B
+fscommand/ch.05.notes.5.3.bat,57,B
+fscommand/ch.05.progress.bat,56,B
+fscommand/ch.05.text.bat,52,B
+fscommand/ch.06.add.6.1.bat,55,B
+fscommand/ch.06.add.6.2.bat,55,B
+fscommand/ch.06.add.6.3.bat,55,B
+fscommand/ch.06.add.6.4.bat,55,B
+fscommand/ch.06.add.6.5.bat,55,B
+fscommand/ch.06.add.6.6.bat,55,B
+fscommand/ch.06.alt.6.1.bat,53,B
+fscommand/ch.06.alt.6.2.bat,53,B
+fscommand/ch.06.alt.6.3.bat,53,B
+fscommand/ch.06.alt.6.4.bat,53,B
+fscommand/ch.06.notes.6.1.bat,57,B
+fscommand/ch.06.notes.6.2.bat,57,B
+fscommand/ch.06.notes.6.3.bat,55,B
+fscommand/ch.06.progress.bat,56,B
+fscommand/ch.06.text.bat,52,B
+fscommand/ch.07.add.7.1.bat,55,B
+fscommand/ch.07.add.7.2.bat,55,B
+fscommand/ch.07.add.7.3.bat,55,B
+fscommand/ch.07.add.7.4.bat,55,B
+fscommand/ch.07.add.7.5.bat,55,B
+fscommand/ch.07.add.7.6.bat,55,B
+fscommand/ch.07.alt.7.1.bat,53,B
+fscommand/ch.07.instruct.7.1.bat,60,B
+fscommand/ch.07.instruct.7.2.bat,60,B
+fscommand/ch.07.notes.7.1.bat,57,B
+fscommand/ch.07.notes.7.2.bat,57,B
+fscommand/ch.07.notes.7.3.bat,57,B
+fscommand/ch.07.notes.7.4.bat,57,B
+fscommand/ch.07.notes.7.5.bat,57,B
+fscommand/ch.07.notes.7.6.bat,57,B
+fscommand/ch.07.progress.bat,56,B
+fscommand/ch.07.text.bat,52,B
+fscommand/ch.08.add.8.1.bat,55,B
+fscommand/ch.08.add.8.2.bat,55,B
+fscommand/ch.08.add.8.3.bat,55,B
+fscommand/ch.08.add.8.4.bat,55,B
+fscommand/ch.08.add.8.5.bat,55,B
+fscommand/ch.08.add.8.6.bat,55,B
+fscommand/ch.08.add.8.7.bat,55,B
+fscommand/ch.08.alt.8.1.bat,55,B
+fscommand/ch.08.alt.8.2.bat,55,B
+fscommand/ch.08.calcpro.8.1.bat,59,B
+fscommand/ch.08.extra.8.1.bat,57,B
+fscommand/ch.08.extra.8.2.bat,57,B
+fscommand/ch.08.extra.8.3.bat,57,B
+fscommand/ch.08.notes.8.1.bat,57,B
+fscommand/ch.08.notes.8.2.bat,57,B
+fscommand/ch.08.notes.8.3.bat,57,B
+fscommand/ch.08.notes.8.4.bat,57,B
+fscommand/ch.08.notes.8.5.bat,57,B
+fscommand/ch.08.notes.8.6.bat,55,B
+fscommand/ch.08.progress.bat,56,B
+fscommand/ch.08.proofs.8.1.bat,58,B
+fscommand/ch.08.proofs.8.2.bat,58,B
+fscommand/ch.08.text.bat,52,B
+fscommand/ch.09.add.9.1.bat,55,B
+fscommand/ch.09.add.9.2.bat,55,B
+fscommand/ch.09.add.9.3.bat,55,B
+fscommand/ch.09.add.9.4.bat,55,B
+fscommand/ch.09.add.9.5.bat,55,B
+fscommand/ch.09.add.9.6.bat,55,B
+fscommand/ch.09.add.9.7.bat,55,B
+fscommand/ch.09.add.9.8.bat,55,B
+fscommand/ch.09.add.9.9.bat,55,B
+fscommand/ch.09.alt.9.1.bat,55,B
+fscommand/ch.09.extra.9.1.bat,57,B
+fscommand/ch.09.extra.9.2.bat,57,B
+fscommand/ch.09.extra.9.3.bat,57,B
+fscommand/ch.09.extra.9.4.bat,57,B
+fscommand/ch.09.instruct.9.1.bat,60,B
+fscommand/ch.09.instruct.9.2.bat,60,B
+fscommand/ch.09.instruct.9.3.bat,60,B
+fscommand/ch.09.notes.9.1.bat,57,B
+fscommand/ch.09.notes.9.2.bat,57,B
+fscommand/ch.09.notes.9.3.bat,57,B
+fscommand/ch.09.notes.9.4.bat,57,B
+fscommand/ch.09.notes.9.5.bat,57,B
+fscommand/ch.09.progress.bat,56,B
+fscommand/ch.09.text.bat,52,B
+fscommand/ch.10.add.10.1.bat,56,B
+fscommand/ch.10.add.10.2.bat,56,B
+fscommand/ch.10.add.10.3.bat,56,B
+fscommand/ch.10.add.10.4.bat,56,B
+fscommand/ch.10.add.10.5.bat,56,B
+fscommand/ch.10.alt.10.1.bat,56,B
+fscommand/ch.10.alt.10.2.bat,56,B
+fscommand/ch.10.alt.10.3.bat,56,B
+fscommand/ch.10.alt.10.4.bat,56,B
+fscommand/ch.10.calcpro.10.1.bat,60,B
+fscommand/ch.10.extra.10.1.bat,58,B
+fscommand/ch.10.extra.10.2.bat,58,B
+fscommand/ch.10.extra.10.3.bat,58,B
+fscommand/ch.10.extra.10.4.bat,58,B
+fscommand/ch.10.extra.10.5.bat,58,B
+fscommand/ch.10.extra.10.6.bat,58,B
+fscommand/ch.10.notes.10.1.bat,58,B
+fscommand/ch.10.notes.10.2.bat,58,B
+fscommand/ch.10.progress.bat,56,B
+fscommand/ch.10.proofs.10.1.bat,59,B
+fscommand/ch.10.proofs.10.2.bat,59,B
+fscommand/ch.10.proofs.10.3.bat,59,B
+fscommand/ch.10.proofs.10.4.bat,59,B
+fscommand/ch.10.proofs.10.5.bat,59,B
+fscommand/ch.10.text.bat,52,B
+fscommand/ch.11.add.11.1.bat,56,B
+fscommand/ch.11.add.11.2.bat,56,B
+fscommand/ch.11.add.11.3.bat,56,B
+fscommand/ch.11.add.11.4.bat,56,B
+fscommand/ch.11.add.11.5.bat,56,B
+fscommand/ch.11.add.11.6.bat,56,B
+fscommand/ch.11.add.11.7.bat,56,B
+fscommand/ch.11.add.11.8.bat,56,B
+fscommand/ch.11.extra.11.1.bat,58,B
+fscommand/ch.11.notes.11.1.bat,58,B
+fscommand/ch.11.text.bat,52,B
+fscommand/ch.12.add.12.1.bat,56,B
+fscommand/ch.12.add.12.2.bat,56,B
+fscommand/ch.12.add.12.3.bat,56,B
+fscommand/ch.12.add.12.4.bat,56,B
+fscommand/ch.12.add.12.5.bat,56,B
+fscommand/ch.12.instruct.12.1.bat,61,B
+fscommand/ch.12.instruct.12.2.bat,61,B
+fscommand/ch.12.notes.12.1.bat,58,B
+fscommand/ch.12.progress.bat,56,B
+fscommand/ch.12.text.bat,52,B
+fscommand/ch.13.add.13.1.bat,56,B
+fscommand/ch.13.add.13.2.bat,56,B
+fscommand/ch.13.add.13.3.bat,56,B
+fscommand/ch.13.add.13.4.bat,56,B
+fscommand/ch.13.add.13.5.bat,56,B
+fscommand/ch.13.instruct.13.1.bat,61,B
+fscommand/ch.13.notes.13.2.bat,58,B
+fscommand/ch.13.proofs.13.1.bat,59,B
+fscommand/ch.13.text.bat,52,B
+fscommand/ch.14.add.14.1.bat,56,B
+fscommand/ch.14.add.14.2.bat,56,B
+fscommand/ch.14.add.14.3.bat,56,B
+fscommand/ch.14.add.14.4.bat,56,B
+fscommand/ch.14.instruct.14.1.bat,61,B
+fscommand/ch.14.notes.14.1.bat,58,B
+fscommand/ch.14.notes.14.2.bat,58,B
+fscommand/ch.14.notes.14.3.bat,58,B
+fscommand/ch.14.text.bat,52,B
+fscommand/ch.15.add.15.1.bat,56,B
+fscommand/ch.15.add.15.2.bat,56,B
+fscommand/ch.15.add.15.3.bat,56,B
+fscommand/ch.15.add.15.4.bat,56,B
+fscommand/ch.15.add.15.5.bat,56,B
+fscommand/ch.15.extra.15.1.bat,58,B
+fscommand/ch.15.instruct.15.1.bat,61,B
+fscommand/ch.15.instruct.15.2.bat,61,B
+fscommand/ch.15.instruct.15.3.bat,61,B
+fscommand/ch.15.text.bat,52,B
+fscommand/ch.16.add.16.1.bat,56,B
+fscommand/ch.16.add.16.2.bat,56,B
+fscommand/ch.16.add.16.3.bat,56,B
+fscommand/ch.16.add.16.4.bat,56,B
+fscommand/ch.16.add.16.5.bat,56,B
+fscommand/ch.16.add.16.6.bat,56,B
+fscommand/ch.16.alt.16.1.bat,56,B
+fscommand/ch.16.alt.16.2.bat,56,B
+fscommand/ch.16.alt.16.3.bat,56,B
+fscommand/ch.16.alt.16.4.bat,56,B
+fscommand/ch.16.alt.16.5.bat,56,B
+fscommand/ch.16.calcpro.16.1.bat,60,B
+fscommand/ch.16.extra.16.1.bat,58,B
+fscommand/ch.16.extra.16.2.bat,56,B
+fscommand/ch.16.extra.16.3.bat,56,B
+fscommand/ch.16.extra.16.4.bat,56,B
+fscommand/ch.16.extra.16.5.bat,58,B
+fscommand/ch.16.notes.16.1.bat,58,B
+fscommand/ch.16.notes.16.2.bat,58,B
+fscommand/ch.16.notes.16.3.bat,58,B
+fscommand/ch.16.text.bat,52,B
+fscommand/ch.17.add.17.1.bat,56,B
+fscommand/ch.17.add.17.2.bat,56,B
+fscommand/ch.17.add.17.3.bat,56,B
+fscommand/ch.17.calcpro.17.1.bat,60,B
+fscommand/ch.17.instruct.17.1.bat,61,B
+fscommand/ch.17.instruct.17.2.bat,61,B
+fscommand/ch.17.instruct.17.3.bat,61,B
+fscommand/ch.17.text.bat,52,B
+fscommand/ch.18.add.18.1.bat,56,B
+fscommand/ch.18.add.18.2.bat,56,B
+fscommand/ch.18.add.18.3.bat,56,B
+fscommand/ch.18.add.18.4.bat,56,B
+fscommand/ch.18.add.18.5.bat,56,B
+fscommand/ch.18.add.18.6.bat,56,B
+fscommand/ch.18.extra.18.1.bat,58,B
+fscommand/ch.18.extra.18.2.bat,56,B
+fscommand/ch.18.extra.18.3.bat,56,B
+fscommand/ch.18.extra.18.4.bat,56,B
+fscommand/ch.18.extra.18.5.bat,58,B
+fscommand/ch.18.instruct.18.1.bat,61,B
+fscommand/ch.18.text.bat,52,B
+fscommand/ch.19.add.19.1.bat,56,B
+fscommand/ch.19.add.19.2.bat,56,B
+fscommand/ch.19.add.19.3.bat,56,B
+fscommand/ch.19.add.19.4.bat,56,B
+fscommand/ch.19.add.19.5.bat,56,B
+fscommand/ch.19.add.19.6.bat,56,B
+fscommand/ch.19.extra.19.1.bat,58,B
+fscommand/ch.19.extra.19.2.bat,56,B
+fscommand/ch.19.extra.19.3.bat,56,B
+fscommand/ch.19.extra.19.4.bat,56,B
+fscommand/ch.19.extra.19.5.bat,58,B
+fscommand/ch.19.proofs.19.1.bat,59,B
+fscommand/ch.19.proofs.19.2.bat,59,B
+fscommand/ch.19.proofs.19.3.bat,59,B
+fscommand/ch.19.proofs.19.4.bat,59,B
+fscommand/ch.19.proofs.19.5.bat,59,B
+fscommand/ch.19.text.bat,52,B
+fscommand/glossary.bat,50,B
+fscommand/index.bat,47,B
+fscommand/install,5.3,M
+fscommand/install.exe,4.73,M
+fscommand/licence.bat,49,B
+fscommand/mac_pdf_problems.bat,58,B
+fscommand/prelims.bat,49,B
+fscommand/software/._.DS_Store,82,B
+fscommand/software/Acrobat/._.DS_Store,82,B
+fscommand/syllabus.bat,50,B
+fscommand/vista_help.bat,52,B
+fscommand/Xtras/._.DS_Store,82,B
+fscommand/Xtras/._Animated GIF Asset,6.1,K
+fscommand/Xtras/._Animated GIF Options,7.35,K
+fscommand/Xtras/._Buddy API OSX Xtra,28.6,K
+fscommand/Xtras/._Cursor Asset,9.75,K
+fscommand/Xtras/._Cursor Options,9.92,K
+fscommand/Xtras/._FileIO PPC Xtra,670,B
+fscommand/Xtras/._Flash Asset PPC,3.48,K
+fscommand/Xtras/._Font Asset Dialog,18.78,K
+fscommand/Xtras/._Font Asset PPC,7.32,K
+fscommand/Xtras/._Font Xtra PPC,1.95,K
+fscommand/Xtras/._InetUrl PPC Xtra,670,B
+fscommand/Xtras/._NetFile PPC Xtra,670,B
+fscommand/Xtras/._NetLingo PPC Xtra,670,B
+fscommand/Xtras/._PrintOMatic MX,161.1,K
+fscommand/Xtras/._QuickTime Asset Options,18.36,K
+fscommand/Xtras/._QuickTime6 Asset,5.41,K
+fscommand/Xtras/._Text Asset Options,6.67,K
+fscommand/Xtras/._TextAsset PPC,2.89,K
+fscommand/Xtras/._TextXtra PPC,669,B
+fscommand/Xtras/ActiveX.x32,120,K
+fscommand/Xtras/Animated GIF Asset,30.66,K
+fscommand/Xtras/Animated GIF Asset.x32,40,K
+fscommand/Xtras/Animated GIF Options,86.13,K
+fscommand/Xtras/AVI Agent.x32,24,K
+fscommand/Xtras/BMP Agent.x32,24,K
+fscommand/Xtras/budapi.x32,280,K
+fscommand/Xtras/Buddy API OSX Xtra,151.22,K
+fscommand/Xtras/Cursor Asset,60.45,K
+fscommand/Xtras/Cursor Asset.x32,64,K
+fscommand/Xtras/Cursor Options,96.04,K
+fscommand/Xtras/DirectSound.x32,32,K
+fscommand/Xtras/DVD Asset.x32,80,K
+fscommand/Xtras/FileIO PPC Xtra,33.37,K
+fscommand/Xtras/FileIo.x32,40,K
+fscommand/Xtras/Flash Asset PPC,1.04,M
+fscommand/Xtras/Flash Asset.x32,716,K
+fscommand/Xtras/Font Asset Dialog,111.77,K
+fscommand/Xtras/Font Asset PPC,71.41,K
+fscommand/Xtras/Font Asset.x32,68,K
+fscommand/Xtras/Font Xtra PPC,385.03,K
+fscommand/Xtras/Font Xtra.x32,276,K
+fscommand/Xtras/GIF Agent.x32,24,K
+fscommand/Xtras/icon.ico,9.44,K
+fscommand/Xtras/iconCast,1.21,K
+fscommand/Xtras/InetUrl PPC Xtra,41.9,K
+fscommand/Xtras/INetURL.x32,48,K
+fscommand/Xtras/JPEG Agent.x32,24,K
+fscommand/Xtras/MacroMix.x32,52,K
+fscommand/Xtras/Mix Services.x32,96,K
+fscommand/Xtras/MPEG 3 Import Export.x32,76,K
+fscommand/Xtras/Mui Dialog.x32,276,K
+fscommand/Xtras/NetFile PPC Xtra,65.64,K
+fscommand/Xtras/NetFile.x32,52,K
+fscommand/Xtras/NetLingo PPC Xtra,49.78,K
+fscommand/Xtras/NetLingo.x32,48,K
+fscommand/Xtras/PICT Agent.x32,24,K
+fscommand/Xtras/PNG Import Export.x32,148,K
+fscommand/Xtras/PrintOMatic MX,258.97,K
+fscommand/Xtras/QT6Asset.x32,124,K
+fscommand/Xtras/QuickTime Agent.x32,24,K
+fscommand/Xtras/QuickTime Asset Options,129.61,K
+fscommand/Xtras/QuickTime6 Asset,116.38,K
+fscommand/Xtras/RealMedia Asset.x32,76,K
+fscommand/Xtras/Shockwave 3d Asset.x32,1.61,M
+fscommand/Xtras/Sound Control.x32,48,K
+fscommand/Xtras/Sound Import Export.x32,88,K
+fscommand/Xtras/Speech.x32,52,K
+fscommand/Xtras/Sun AU Import Export.x32,36,K
+fscommand/Xtras/SWA Import Export.x32,44,K
+fscommand/Xtras/Swadcmpr.x32,68,K
+fscommand/Xtras/Swastrm.x32,56,K
+fscommand/Xtras/Targa Import Export.x32,36.5,K
+fscommand/Xtras/Text Asset Options,81.39,K
+fscommand/Xtras/Text Asset.x32,92,K
+fscommand/Xtras/TextAsset PPC,119.73,K
+fscommand/Xtras/TextXtra PPC,493.14,K
+fscommand/Xtras/TextXtra.x32,336,K
+fscommand/Xtras/TIFF Import Export.x32,208.5,K
+fscommand/Xtras/UIHelper.x32,44,K
+fscommand/Xtras/Windows Media Asset.x32,80,K
+fscommand/Xtras/XMLParser.x32,164,K
+index.app/Contents/Info.plist,3.57,K
+index.app/Contents/MacOS/Flash Player,11.19,M
+index.app/Contents/PkgInfo,8,B
+index.app/Contents/Resources/document.icns,46.9,K
+index.app/Contents/Resources/document_f4a.icns,39.64,K
+index.app/Contents/Resources/document_f4p.icns,45.9,K
+index.app/Contents/Resources/document_f4v.icns,42.52,K
+index.app/Contents/Resources/English.lproj/Localized.rsrc,286,B
+index.app/Contents/Resources/Flash Player.rsrc,144.34,K
+index.app/Contents/Resources/French.lproj/Localized.rsrc,3.97,K
+index.app/Contents/Resources/German.lproj/Localized.rsrc,3.96,K
+index.app/Contents/Resources/icon.icns,32.5,K
+index.app/Contents/Resources/Italian.lproj/Localized.rsrc,3.82,K
+index.app/Contents/Resources/Japanese.lproj/Localized.rsrc,4.87,K
+index.app/Contents/Resources/ko.lproj/Localized.rsrc,4.33,K
+index.app/Contents/Resources/mflv.icns,56.24,K
+index.app/Contents/Resources/movie.swf,1,M
+index.app/Contents/Resources/Spanish.lproj/Localized.rsrc,3.85,K
+index.app/Contents/Resources/zh_CN.lproj/Localized.rsrc,4.01,K
+index.app/Contents/Resources/zh_TW.lproj/Localized.rsrc,4.05,K
+index.app/Icon_,0,B
+index.exe,4.24,M
+media/pdf/_ch.18.instruct.18.1.pdf,80.21,K
+media/pdf/acknowledgement.pdf,165.72,K
+media/pdf/answers.pdf,3.9,M
+media/pdf/answers_review.pdf,1.01,M
+media/pdf/appendix.pdf,235.76,K
+media/pdf/bookmarks.pdf,1.22,M
+media/pdf/ch.01.add.1.1.pdf,59.53,K
+media/pdf/ch.01.add.1.2.pdf,58.48,K
+media/pdf/ch.01.add.1.3.pdf,53.05,K
+media/pdf/ch.01.instruct.1.1.pdf,113.28,K
+media/pdf/ch.01.text.pdf,1.09,M
+media/pdf/ch.02.add.2.1.pdf,74.07,K
+media/pdf/ch.02.add.2.2.pdf,93.3,K
+media/pdf/ch.02.add.2.3.pdf,57.18,K
+media/pdf/ch.02.pdf,1.45,M
+media/pdf/ch.02.text.pdf,1.42,M
+media/pdf/ch.03.add.3.1.pdf,58.24,K
+media/pdf/ch.03.add.3.2.pdf,60.39,K
+media/pdf/ch.03.add.3.3.pdf,55.32,K
+media/pdf/ch.03.add.3.4.pdf,54.49,K
+media/pdf/ch.03.add.3.5.pdf,71.54,K
+media/pdf/ch.03.instruct.3.1.pdf,80.19,K
+media/pdf/ch.03.instruct.3.2.pdf,78.84,K
+media/pdf/ch.03.text.pdf,1.02,M
+media/pdf/ch.04.add.4.1.pdf,72.21,K
+media/pdf/ch.04.add.4.2.pdf,59.08,K
+media/pdf/ch.04.add.4.3.pdf,54.03,K
+media/pdf/ch.04.add.4.4.pdf,52.99,K
+media/pdf/ch.04.extra.4.1.pdf,102.66,K
+media/pdf/ch.04.proofs.4.1.pdf,43.35,K
+media/pdf/ch.04.proofs.4.2.pdf,49.38,K
+media/pdf/ch.04.text.pdf,1.2,M
+media/pdf/ch.05.add.5.1.pdf,858.21,K
+media/pdf/ch.05.add.5.2.pdf,164.56,K
+media/pdf/ch.05.add.5.3.pdf,241.78,K
+media/pdf/ch.05.instruct.5.1.pdf,233.3,K
+media/pdf/ch.05.instruct.5.2.pdf,216.33,K
+media/pdf/ch.05.instruct.5.3.pdf,175.82,K
+media/pdf/ch.05.instruct.5.4.pdf,144.81,K
+media/pdf/ch.05.text.pdf,1.48,M
+media/pdf/ch.06.add.6.1.pdf,413.53,K
+media/pdf/ch.06.add.6.2.pdf,289.69,K
+media/pdf/ch.06.add.6.3.pdf,420.67,K
+media/pdf/ch.06.add.6.4.pdf,366.39,K
+media/pdf/ch.06.add.6.5.pdf,368.95,K
+media/pdf/ch.06.add.6.6.pdf,110.76,K
+media/pdf/ch.06.text.pdf,1.99,M
+media/pdf/ch.07.add.7.1.pdf,174.22,K
+media/pdf/ch.07.add.7.2.pdf,289.08,K
+media/pdf/ch.07.add.7.3.pdf,113.57,K
+media/pdf/ch.07.add.7.4.pdf,139,K
+media/pdf/ch.07.instruct.7.1.pdf,223.63,K
+media/pdf/ch.07.instruct.7.2.pdf,144.24,K
+media/pdf/ch.07.text.pdf,1.46,M
+media/pdf/ch.08.add.8.1.pdf,411.06,K
+media/pdf/ch.08.add.8.2.pdf,160.26,K
+media/pdf/ch.08.add.8.3.pdf,287.54,K
+media/pdf/ch.08.instruct.8.1.pdf,160.25,K
+media/pdf/ch.08.instruct.8.2.pdf,141.83,K
+media/pdf/ch.08.proofs.8.1.pdf,232.5,K
+media/pdf/ch.08.proofs.8.2.pdf,159.33,K
+media/pdf/ch.08.text.pdf,1.03,M
+media/pdf/ch.09.add.9.1.pdf,557.44,K
+media/pdf/ch.09.add.9.2.pdf,207.35,K
+media/pdf/ch.09.add.9.3.pdf,152.41,K
+media/pdf/ch.09.extra.9.1.pdf,71.57,K
+media/pdf/ch.09.extra.9.2.pdf,127.82,K
+media/pdf/ch.09.extra.9.3.pdf,66.13,K
+media/pdf/ch.09.extra.9.4.pdf,131.11,K
+media/pdf/ch.09.text.pdf,1.53,M
+media/pdf/ch.10.add.10.1.pdf,113.81,K
+media/pdf/ch.10.add.10.2.pdf,140.7,K
+media/pdf/ch.10.add.10.3.pdf,144.57,K
+media/pdf/ch.10.extra.10.1.pdf,97.68,K
+media/pdf/ch.10.extra.10.2.pdf,152.08,K
+media/pdf/ch.10.extra.10.3.pdf,154.67,K
+media/pdf/ch.10.extra.10.4.pdf,152.72,K
+media/pdf/ch.10.extra.10.5.pdf,125.11,K
+media/pdf/ch.10.extra.10.6.pdf,98.06,K
+media/pdf/ch.10.proofs.10.1.pdf,62.66,K
+media/pdf/ch.10.proofs.10.2.pdf,151.68,K
+media/pdf/ch.10.proofs.10.3.pdf,159.73,K
+media/pdf/ch.10.proofs.10.4.pdf,207.27,K
+media/pdf/ch.10.proofs.10.5.pdf,214.99,K
+media/pdf/ch.10.text.pdf,1.08,M
+media/pdf/ch.11.add.11.1.pdf,59.78,K
+media/pdf/ch.11.add.11.2.pdf,57.79,K
+media/pdf/ch.11.add.11.3.pdf,58.66,K
+media/pdf/ch.11.extra.11.1.pdf,93,K
+media/pdf/ch.11.text.pdf,956.54,K
+media/pdf/ch.12.add.12.1.pdf,54.75,K
+media/pdf/ch.12.add.12.2.pdf,53.03,K
+media/pdf/ch.12.add.12.3.pdf,55.79,K
+media/pdf/ch.12.instruct.12.1.pdf,78.21,K
+media/pdf/ch.12.instruct.12.2.pdf,132.32,K
+media/pdf/ch.12.text.pdf,1.06,M
+media/pdf/ch.13.add.13.1.pdf,52.77,K
+media/pdf/ch.13.add.13.2.pdf,55.84,K
+media/pdf/ch.13.add.13.3.pdf,53.32,K
+media/pdf/ch.13.add.13.4.pdf,54.65,K
+media/pdf/ch.13.add.13.5.pdf,58.58,K
+media/pdf/ch.13.instruct.13.1.pdf,93.38,K
+media/pdf/ch.13.proofs.13.1.pdf,63.3,K
+media/pdf/ch.13.text.pdf,1.48,M
+media/pdf/ch.14.add.14.1.pdf,59.21,K
+media/pdf/ch.14.add.14.2.pdf,89.69,K
+media/pdf/ch.14.add.14.3.pdf,53.62,K
+media/pdf/ch.14.add.14.4.pdf,61.61,K
+media/pdf/ch.14.instruct.14.1.pdf,134.84,K
+media/pdf/ch.14.notes.14.1.pdf,46.71,K
+media/pdf/ch.14.notes.14.2.pdf,44.94,K
+media/pdf/ch.14.notes.14.3.pdf,45.94,K
+media/pdf/ch.14.text.pdf,1.34,M
+media/pdf/ch.15.add.15.1.pdf,223.22,K
+media/pdf/ch.15.add.15.2.pdf,213.21,K
+media/pdf/ch.15.add.15.3.pdf,143.22,K
+media/pdf/ch.15.add.15.4.pdf,168.98,K
+media/pdf/ch.15.add.15.5.pdf,181.77,K
+media/pdf/ch.15.instruct.15.1.pdf,116.65,K
+media/pdf/ch.15.instruct.15.2.pdf,113.63,K
+media/pdf/ch.15.text.pdf,1.67,M
+media/pdf/ch.16.add.16.1.pdf,52.05,K
+media/pdf/ch.16.add.16.2.pdf,61.98,K
+media/pdf/ch.16.add.16.3.pdf,57.59,K
+media/pdf/ch.16.add.16.4.pdf,55.64,K
+media/pdf/ch.16.extra.16.1.pdf,89.88,K
+media/pdf/ch.16.extra.16.2.pdf,69.11,K
+media/pdf/ch.16.extra.16.3.pdf,66.38,K
+media/pdf/ch.16.extra.16.4.pdf,39.62,K
+media/pdf/ch.16.text.pdf,1.25,M
+media/pdf/ch.17.add.17.1.pdf,299.28,K
+media/pdf/ch.17.add.17.2.pdf,57.39,K
+media/pdf/ch.17.add.17.3.pdf,56.42,K
+media/pdf/ch.17.text.pdf,1.19,M
+media/pdf/ch.18.add.18.1.pdf,71.03,K
+media/pdf/ch.18.add.18.2.pdf,66.82,K
+media/pdf/ch.18.add.18.3.pdf,110.78,K
+media/pdf/ch.18.extra.18.1.pdf,40.47,K
+media/pdf/ch.18.extra.18.2.pdf,42.17,K
+media/pdf/ch.18.extra.18.3.pdf,41.26,K
+media/pdf/ch.18.instruct.18.1.pdf,108.84,K
+media/pdf/ch.18.text.pdf,1.17,M
+media/pdf/ch.19.add.19.1.pdf,58.32,K
+media/pdf/ch.19.add.19.2.pdf,52.02,K
+media/pdf/ch.19.add.19.3.pdf,53.74,K
+media/pdf/ch.19.extra.19.1.pdf,47.07,K
+media/pdf/ch.19.extra.19.2.pdf,41.47,K
+media/pdf/ch.19.extra.19.3.pdf,42.05,K
+media/pdf/ch.19.extra.19.4.pdf,39.45,K
+media/pdf/ch.19.extra.19.5.pdf,38.91,K
+media/pdf/ch.19.proofs.19.1.pdf,48.18,K
+media/pdf/ch.19.proofs.19.2.pdf,42.15,K
+media/pdf/ch.19.proofs.19.3.pdf,52.87,K
+media/pdf/ch.19.proofs.19.4.pdf,47.56,K
+media/pdf/ch.19.proofs.19.5.pdf,51.03,K
+media/pdf/ch.19.text.pdf,963.52,K
+media/pdf/glossary.pdf,1.41,M
+media/pdf/index.pdf,204.97,K
+media/pdf/licence.pdf,79.82,K
+media/pdf/mac_pdf_problems.pdf,371.34,K
+media/pdf/prelims.pdf,900.21,K
+media/pdf/syllabus.doc,295.5,K
+media/pdf/syllabus.pdf,1.09,M
+media/pdf/vista_help.pdf,39.29,K
+pages/help.swf,7.18,K
+pages/icon.ico,9.44,K
+pages/install.swf,13.38,K
+pages/t1.swf,723.57,K
+xml/menu1.xml,23.45,K

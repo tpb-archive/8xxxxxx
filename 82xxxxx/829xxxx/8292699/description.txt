@@ -1,0 +1,45 @@
+The hard to find and tough to emulate game, Hot Wheels: Turbo Racing!
+
+This was one of my favorite playstation games as a kid, and I haven't seen a disc of it since. 
+
+Had one hell of a time finding a Rom and Emulator setup that worked! 
+Nobody with torrents of the ROM would seed, and only old and crappy download sites had them, with all but this one broken in some way. 
+
+I present it to you, along with the emulator and plugins I managed to (finally) run it with!
+
+I know little about how this works, but these are the settings which gave Me success
+
+I used:
+Pete's OpenGL 2.9;
+Internal X Res- 1-high
+internal y res- 1 high
+Stretching- 0-standard
+Render - 0-standard
+
+
+Texture Filtering - 0
+Hi-Res textures -0 
+"use pixel shader for 'psx texture window' eumlation" un-ticked
+
+FPS limit to 60FPS
+
+Compatibility
+
+off-screen drawing- 1 
+framebuffer effects- 0
+Framebuffer upload- 1
+
+No full-screen filters, flicker fix border 0 pixels
+
+Special Game Fixes- I have ONLY the following checkmark'd currently:
+
+0x0001: Fake low compatibility frameread
+
+0x0010: Disable coord check
+
+0x0400: Fake subtractive blending
+
+
+
+That's all;
+May you enjoy this game as much as I did.

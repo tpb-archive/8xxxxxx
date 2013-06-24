@@ -1,0 +1,36 @@
+
+                                      nERv
+
+
+                Brutal Legend Update 2 (c) Double Fine Prod.
+
+         03/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam
+             DOX :.......... DISC(S) .. GAME.TYPE ........: Action
+
+
+Major Fixes:
+~~~~~~~~~~~~
+- Fixes bug where players who started playing single player on or after the
+  28th of February would be unable to continue their save. All of the saved
+  data should be intact. This bug was that the game was falsely reporting
+  that there were no save games and now thats fixed.
+- Interpolated re-enabled with improved logic to avoid the post-pause
+  stutter and to generally be smoother than before.
+-	Alt+Tab works much better in the albumn cover menu. Backgrounds no longer
+  go black when alt+tabbing. Some UI textures may still exhibit problems
+  elsewhere in the game.
+-	Matchmaking will allow a much broader range of players to match with one
+  another, fixing some reported problems of players not finding any matches
+  or finding the same person over and over again.
+-	Steam Cloud support has been added and is working!!!
+
+
+ 1. Unrar.
+ 2. Install the update. Point it to the correct dir if needed.
+    Previous Updates are required to be installed.
+ 3. Copy the content from /Crack directory to the
+     directory of the game, overwriting the existing
+    files.
+ 4. Play the game.
+ 5. Support the software developers. If you like this game, BUY IT!
+[/pre]

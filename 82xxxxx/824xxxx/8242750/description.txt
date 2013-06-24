@@ -1,0 +1,30 @@
+Tomb Raider v1.0.718.4 Update info:
+
+
+This update addresses a variety of issues that we either found out about shortly before release or immediately after.
+
+Fixes include:
+
+- Addressed some stability and startup issues on machines that have both Intel and NVIDIA graphics hardware.
+- Fix for players being unable to progress related to the boat in the beach area.
+- Some fixes for crashes on startup and when selecting Options.
+- Some small improvements to TressFX hair rendering.
+- Fixes for various graphics glitches, including certain effects not being visible in fullscreen mode.
+- Fixed a problem that caused some users to not be able to use exclusive fullscreen.
+- Added support for separate mouse/gamepad inversion for aiming, as well as support for x-axis inversion.
+- Fixes related to the benchmark scene and benchmark mode.
+- Various other small fixes.
+
+While we expect this patch to be an improvement for everyone. If you do have trouble with this patch and prefer to stay on the old version we made a Beta available on Steam, Build716.5, that can be used to switch back to the previous version. Please note however that you can only play multiplayer with people that share your version.
+
+
+
+INSTALL NOTES
+
+1. Run Tomb.Raider.v1.0.718.4.Update.exe
+2. Install
+3. Copy the cracked content from the SKIDROW folder to the main install
+folder and overwrite
+4. Block the game in your firewall and mark our cracked content as
+secure/trusted in your antivirus program
+5. Play the game 

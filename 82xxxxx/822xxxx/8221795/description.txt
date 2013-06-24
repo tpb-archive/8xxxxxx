@@ -1,0 +1,14 @@
+PZIZZ FOR ANDROID 1.1
+
+Contents:
+/com.pzizz.bundle.apk - is your Pzizz 1.1 signed apk
+/TitaniumBackup/com.pzizz.bundle-20120402-165020.properties - Titanium Backup restore
+/TitaniumBackup/com.pzizz.bundle-20120402-165020.tar - Titanium Backup restore
+/TitaniumBackup/com.pzizz.bundle-d50e9c52549b49b85551ddbc7be0fbaa.apk - Titanium Backup restore
+/.pzizz/powernap - is the data directory for the powernap module
+/.pzizz/sleep - is the data directory for the sleep module.
+
+Instructions:
+Install the apk and run it. It should download the pzizz sleep and nap modules automatically.  If the download doesn't work, save the /.pzizz and /TitaniumBackup folders unto your sd card, and then restore the app from Titanium Backup.  (Get Titanium Backup from the Play Store https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup .) 
+ 
+For more info about Pzizz, visit http://www.pzizz.com/ or

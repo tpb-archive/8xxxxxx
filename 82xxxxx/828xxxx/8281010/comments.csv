@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,jmald,2013-03-21T23:01Z,any viruses?
+[T],bruss.aka.durka9,2013-03-21T23:08Z,"to any viruses?
+No viruses! Clean!"
+,nass3k,2013-03-24T16:08Z,how to change clan tag and avatar?
+[T],bruss.aka.durka9,2013-03-24T16:46Z,"to nass3k
+Clan tag: ""Start"" - ""All Programs"" - ""Strogino CS Portal"" - ""Counter-Strike Source"" - ""ClanName Change"".
+Avatar: your avatar in no-steam client may see only you."
+,Vizardgear,2013-03-29T04:25Z,"It wont let me change my name. when i type set name and than the name i want to use it says ""setname"" not valid command"
+[T],bruss.aka.durka9,2013-03-29T13:14Z,"to Vizardgear
+Then run UltimateNameChanger.exe in game dir and change your name."
+,Vizardgear,2013-03-29T17:23Z,Can you walk me through how to get UltimateNameChanger and how to use it? please
+[T],bruss.aka.durka9,2013-03-29T17:40Z,"to Vizardgear
+If you use my game-build this tool placed in game dir."
+,tinho155,2013-04-19T01:51Z,"""ProcName value not found on commandline or in rev.ini.Please edit the file"""
+[T],bruss.aka.durka9,2013-04-19T14:40Z,"to tinho155
+
+If you are updating from previous CS:S version, you must add to rev.ini (placed in game dir) strings:
+
+[Loader]
+ProcName = hl2.exe -steam -game cstrike -appid 240 -novid
+
+And replace this string:
+
+SteamDll = ./bin/Steam/Steam.dll
+
+To this:
+
+SteamDll = ./Steam/Steam.dll
+
+Then turn off antivirus and run updater. Enjoy."
