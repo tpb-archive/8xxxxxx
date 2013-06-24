@@ -1,0 +1,171 @@
+﻿User Type,Username,Date,Text
+,snake4445,2013-05-15T22:26Z,"Fantastic work dzonika and kingashi.  Many, many thanks!"
+,namco-nexgen,2013-05-15T22:27Z,"Thumbs up, thank you!"
+,zlozla,2013-05-15T22:42Z,so i use same crack like for last installer?
+,poutoufjouhe,2013-05-15T23:10Z,thanks
+,fsxCentral17,2013-05-15T23:18Z,"A propos SKIATHOS X ,made by aerosoft just come out. Greek St maarten."
+,Espana25,2013-05-15T23:38Z,"is that any different than the one already available right now to download with a separate crack file? Pilot Edition what does this include please tell thank you,Kingashi bringing unique stuff as always love him for his devoted work and on time availability of Aerosoft Airbus X Extended latest downloads huge fan of him due to that ;)"
+,dzonika,2013-05-16T00:49Z,"@fsxCentral17
+
+upload Skiatos FSX installer  and I will see what can be done regarding that.
+p.s. crack for Dash Q400 is working with V.1.006"
+,namco-nexgen,2013-05-16T01:02Z,"I hate to spoil all the fun, but if you use the original crack with version 1.006, you will get the original once again.
+
+The DLL is the heart of the aircraft, if you replace it with an older version... You'll get an older version.
+
+I suspect the old crack was used with this 1.006 installer, rendering it useless."
+,zlozla,2013-05-16T01:45Z,"Thank you kingashi,woriking!can you upload FSDT Vancouver?on this site you can download installer and update http://fsdreamteam.com/products_cyvr.html
+
+Please "
+,ITALY44,2013-05-16T02:08Z,"congratulations, very good"
+,Airbuspfd,2013-05-16T04:41Z,"@namco-nexgen I think the crack was originally made for this version (v1.006). If you check the file sizes of the gauge you'll see why. V1.005 was about 91mb and v1.006 is 26mb (I speculate some new compression). The cracked gauge would work with the previous version, seeing they are making the same calls to the same files.
+
+Now this is only going by the file size, if the panel itself could give a readout of the version number, then we can confirm. But otherwise, the cracked gauge and the original are the same file size leading me to believe it was meant for v1.006."
+,kingashi,2013-05-16T05:17Z,"Whats fixed in this version 1.006 : 
+
+FDE:
+Aircraft.cfg: updated gear positions for smoother repositions
+Now writing Vertical Speed to the FSX for compatibility with other 3rd party addons
+mjc84.ini : Power Levers set for 0 position at DISC to enable the Reverse, using F2 button
+
+SYSTEMS:
+Secondary bus will be powered by the APU
+
+Sound : modified for Windows 8 usage
+
+Nav: Fixed the DME antenna position
+
+VHFs: Fixed the COM range to include 136.XXX
+
+EFIS : Fixed the incorrect inverse text output
+
+FMS:
+NavManager: Fixed Heading to Altitude procedural navigation
+NavManager: Fixed Course to Altitude procedural navigation
+NavManager: Fixed Course from Fix to Altitude procedural navigation
+TERMINAL navigation, leg termination threshold is now 1.0 nm
+
+MODEL:
+Included the wing and propeller views in the Virtual Cockpit
+Corrected specular component on the night textures
+
+OTHER:
+Fixed the un-installer"
+,kingashi,2013-05-16T05:19Z,"download some liveries here:
+
+http://majesticsoftware.com/forums/discussion/197/user-repaints-links-of-the-mjc8-q400-only"
+,kingashi,2013-05-16T05:37Z,"
+How to switch on TCAS???
+
+Switch on the ARCDU
+
+Click the LSK8 (rightmost bottom key)
+
+Click EXP to go to the expanded page
+Hold the LSK8 for more than 2 seconds : TCAS should be activated
+Click EXP again to return to the main screen"
+,kingashi,2013-05-16T05:40Z,"@ zlozla
+
+what you gonna do with that bro as it is not cracked...it will be a demo for like 2-5 mins.."
+,fenriz747,2013-05-16T06:30Z,"Probably @Airbuspfd is right, in crack ReadMe file posted by @dzonika is written ""Majestic Dash 8 Q-400 (v. 1.006) cracked"""
+,Espana25,2013-05-16T06:30Z,"well i can vouch its working fine no issues nothing working TCAS everything working little bit of changing's than the previous one we had here uploaded ,now the WX radar works once airborne and the FMS is turned off in cold and dark cockpit APU is a must before preparing the cockpit in the previous everything was turned on even without APU running even the WX radar was turning on at ground rather than showing standby."
+,fsxfast,2013-05-16T08:35Z,Thanks heaps guys
+,namco-nexgen,2013-05-16T10:09Z,"Good. I'll check it.
+
+And thanks again for this."
+,zlozla,2013-05-16T12:09Z,Can you or someone else crack FSDT Vancouver?
+,sososo93,2013-05-16T12:47Z,"@zlozla  
+stop dreaming dude sorry !"
+,zlozla,2013-05-16T13:36Z,"@sososo93
+
+Explane me why this is dreaming??!This is really great scenery!"
+,konon9,2013-05-16T15:00Z,I have a problem I can not set attitude and VS in autopilot
+,Squito3,2013-05-16T15:39Z,"URGENT:
+
+Hi all. I downloaded this and i have followed the instructions carefully. When i get to the page where I have to enter any fake Order number, email and name and then copy the crack across and click next, the installer just says NOT RESPONDING.
+
+I am using windows Vista so should I be doing something different? 
+
+Any help will be very much appreciated."
+,Squito3,2013-05-16T15:42Z,"Hi all. I downloaded this and i have followed the instructions carefully. When i get to the page where I have to enter any fake Order number, email and name and then copy the crack across and click next, the installer just says NOT RESPONDING.
+
+I am using windows Vista so should I be doing something different? Any help will be very much appreciated."
+,xxdjxx,2013-05-16T15:47Z,"Ask for AI-Traffic Prog. like : My Traffic X , UT Traffic 2 maybe ?
+
+gz dj"
+,godfitzham7,2013-05-16T19:24Z,"dzonika and kingashi, Thank you for this updated version !!! I have a question...., Do I have to uninstall the previous version, (v1.005) before installing this, v1.006 ??, or can I just install over what's there already."
+,Squito3,2013-05-16T20:16Z,"I really can't get this to work.... I am using windows vista and everyrime I do it the installer hangs and says not responding. 
+
+ANY suggestions or help? Please!"
+,kingashi,2013-05-16T20:19Z,"@ godfitzham7
+
+A clean install is recommended...."
+,kingashi,2013-05-16T20:20Z,"@ Squito3
+
+Sry bro no idea as i am using Win7.. but someone  will surely answer ur question..."
+,GentleGio,2013-05-16T21:30Z,"@ Squito3 If you already installed some Aerosoft cracked product you should know how to do it, but..:
+1) Open the installer and fill the ""Authorization Page"";
+2) Fill it up with random stuff;
+3) Go to :C/Users/""Your PC Name/AppData/Local/Temp;
+4) Search for a folder called "" nsiF2EB.tmp "";
+5) Copy and paste the "" nsidll.dll "" file into that folder;
+6) Proceed with the installation :)"
+,fenriz747,2013-05-16T22:19Z,Name of the folder in Temp may be different for each launch the installer. Just sort folders in temp by date.
+,obionekanobi,2013-05-17T04:02Z,"Thanx so much guys, you're amazing! Works 100%"
+,godfitzham7,2013-05-17T05:34Z,"@kingashi
+
+I appreciate that man, I will uninstall v1.005, and do a clean installof this tomorrow."
+,mamadkalak,2013-05-17T11:03Z,"the crack is not working , , the FMC is off "
+,sososo93,2013-05-17T12:34Z,"@mamadkalak 
+lool set on and work and first go training to take of or start up the plane"
+,ingr.osei,2013-05-17T21:22Z,"My Majestic Software Dash 8-400 bounces like a crazy horse,I've seen a lot of such complaints on the majestic software forum,do you guys happen to have the same problem.Does anyone a twaek to stabilize it please.
+
+Regards."
+,ingr.osei,2013-05-17T21:23Z,"My Majestic Software Dash 8-400 bounces like a crazy horse,I've seen a lot of such complaints on the majestic software forum,do you guys happen to have the same problem.Does anyone have a tweak to fix it please.
+
+Regards. "
+,maddog7777,2013-05-17T21:54Z,"@kingashi-Dzonika! Thanks for this and the crack. I had the luxury of testing out the first release and it was a disappointment to say the least. You guys did great, but Majestic let me down. Their website made this plane out to be all that. The propellers looked fake as hell with not movement at all. Hard starting and the basic views that pretty much come with every plane add on outside of QualityWings. But it was great to test out. I would not spend money for this add on and truthfully it should have been given away for free from the company itself. I rate it a 5 because at least the repaints were somewhat descent. Thanks for sharing as always..."
+,clintferns,2013-05-18T20:33Z,req..voxatc v 6.20 crack..the voxatc dll..should work just fine..if someone can upload the dll..thanks..!!
+,ovracvr,2013-05-18T20:49Z,Awsome.. Thanx kingashi. Works perfect.. I wish someone would UL a pro/training verson :) .. I'm geeting a little too greedy I know :p
+,ovracvr,2013-05-18T21:02Z,"Btw.. I always plan on buying products I really liked and purchase 'em later on. However, $60 for this .. dont think so maybe Pro or add a few more for training version."
+,savioli,2013-05-19T01:24Z,thanks a lot you're number one
+,savioli,2013-05-19T18:20Z,why we can't maintain the runway center and after take off the airplane turn to the left...
+,FL330,2013-05-20T01:52Z,"Can anybody help me. Installed properlly using instructions on a new installed FSX and sp2 windows 7, but whenever I select the aircraft in Fsx it hangs up, and if I remember one time said critical error. Re-installed, cleaned registry etc etc ....same problem."
+,talhamujahid,2013-05-21T03:04Z,REQ: MSK - REMAKE JINNAH INTERNATIONAL AIRPORT KARACHI OPKC
+,Alzwe,2013-05-21T04:52Z,"nice!!! thx!
+I'm also intereted in voxATC 6.20 - would be great dudes!"
+,kingashi,2013-05-21T11:58Z,"@ savioli
+
+Its natural in this kind of aircraft...bcoz of the wind from the engines...."
+,zlozla,2013-05-22T01:30Z,"Problem with taxi,flare and approach lights!?
+When turn taxi then flare or app light taxi go to dome but flare and approach lights dont shows up??
+Can someone help?"
+,zlozla,2013-05-22T02:12Z,problem solved
+,free4last,2013-05-22T19:01Z,Excellent!! thanks..
+,FL330,2013-05-25T22:25Z,"Thanks Kingashi for Super80, Fun to fly,great torrent. On the subject of dash8, installed as required, fsx sp2, but when i select airplane in fsx for loading hangs up and gives critical error. Re-installed clean and same problem. Do not understand why. Can anybody suggest......thanks."
+,rieper45,2013-05-26T20:09Z,"Thank You very much!
+But crashed every time i selectec the plane,any suggestions?thnks"
+,bobbyjj,2013-05-29T03:21Z,NO ORDER FOUND!!!!!!!!!!!! help please?
+,Tipi4k,2013-05-29T14:41Z,Same problem that FL330 and rieper45...
+,Raptor05121,2013-05-30T22:52Z,Req. Carenado TBM850!!!
+,kingashi,2013-05-31T06:55Z,"are you a replacing the given files???
+
+you gotta replace the first file when it asks for order no.
+
+the after installing you gotta replace the file in fsx/simobjects/q400/panel...
+
+its working for all .. do it by instruction"
+,Tipi4k,2013-05-31T14:03Z,"All steps were respected of course.It seems its a product's default wich depends fsx config,settingsetc...I'll expect for another version and thank you anyway :)"
+,kingair90,2013-06-01T17:30Z,"Same issue as others.  Installed EXACTLY as instructed, FSX immediately crashes when i select the aircraft.    Any fix?"
+,PFunk499,2013-06-06T19:10Z,"Installed successfully for me. Not sure if its an issue with FSX stability, or people just being really bad at following install instructions."
+,Dalon,2013-06-06T19:11Z,I'm normally one of those people who hate noobs that don't take the time to read instructions and I'm no stranger to TPB but I cannot get this to work! Followed exactly and it crashes when I select it
+,jamesdude,2013-06-08T07:57Z,I cant install it the file doesnt respond. Any Help?
+,jamesdude,2013-06-08T08:06Z,NEVERMIND THANKS FOR THE HELP lol thanks kingashi... what a beaut
+,harisbaig987,2013-06-10T02:15Z,"Hi Kingashi,
+Thank You for your awesome uploads.
+
+Version 1.007 has been released. Please upload as soon as possible. 
+
+Thank You."
+,side_slip,2013-06-10T19:20Z,I am sure you'll all be running to the support forum for help after this as well........v1.007
+,TYR521,2013-06-13T03:56Z,req: the update V1.007 please!!! waiting now since 2 Days :( i hope they didn't change something bad that it is uncrackable.

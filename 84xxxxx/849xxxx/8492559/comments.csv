@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,netter2k,2013-05-28T23:48Z,"Since I'm the first person to comment, here's what i did to get it working perfectly on Windows 8 64-Bit :
+
+Total time for installation including unpacking of files - 20 minutes
+
+NOTE : Game EXE File version - 1.0.447.0 (latest as of May 29th 2013)
+
+1) Ran EXE and tried to do a benchmark - crashed to desktop
+
+2) Ran EXE and tried to start the game directly - crashed to desktop again
+
+3) Right clicked the desktop shortcut and under ""compatibility"" tab, chose option ""Run as administrator"". Clicked ""Apply"" & ""OK"" and tried to start the game again - SUCCESS !!! :)
+
+Works beautifully on Windows 8 64 Bit. Benchmark gives me 45 FPS average on a Core i3 system with an NVIDIA 660 Ti card at ""MEDIUM"" graphic settings. Game looks quite stunning ! 
+
+Thanks uploader !! "
+,rayhdp,2013-06-02T07:41Z,"HELP ME PLEASE
+When i tried to run the HMA.exe file it says LumaEmu.ini is missing. what should i do?"
+,rayhdp,2013-06-02T07:47Z,"when i started the hma.exe file it doesn't open anything, help me please"
+,b3spirit,2013-06-03T13:31Z,"Assuming it uses the SKIDROW crack i have downloaded this. Now my previous saves are not showing up...............i know where the previous saves are.................can someone help with the location this crack stores the ""saved game"" file ???"
+,BluR9,2013-06-03T16:49Z,"@ netter2k
+This game runs in russian even though i do the installation in english. Can someone help me out?"
+,BluR9,2013-06-03T16:57Z,Help this game is in russian language/audio even though i do the installation in english! Help !!
+,Ksipah843,2013-06-03T19:16Z,"to change language go to skidrow.ini file and then change it to english and it will be english
+
+note: skidrow.ini is where you intstall the game!!"
+,Ksipah843,2013-06-03T19:37Z,my mistake open skidrow.ini then change language to english then it will be english.
+,b3spirit,2013-06-03T21:06Z,"Assuming it uses the SKIDROW crack i have downloaded this. Now my previous saves are not showing up...............i know where the previous saves are.................can someone please help with the location this crack stores the ""saved game"" file ???"
+,netter2k,2013-06-09T08:14Z,"Hey everyone... I've been so focused on the game after i downloaded it that i never came back to check the comments after leaving my initial ones. It's working fine on Windows 8 64-Bit and i have now upped the graphics settings to ""ULTRA"". Get around 40 FPS with Texture Filter kept at ""2X"". The game looks gorgeous indeed!
+
+To answer some questions above:
+
+@rayhdp : That looks like a messed up installation. Uninstall. Restart. Make sure all your DirectX and other OS files are up-to-date and then reinstall. Should work fine.
+
+@b3spirit :  I believe in this version of the game, the save game location is different then in the regualr ""Skidrow"" versions. In this game, I'm pretty certain the file is called ""HM5"" without any extension and it is located at : ""C:Program Files (x86)Hitman Absolution""   (I have Windows 8 64-Bit)"
+,netter2k,2013-06-09T08:17Z,"Oh and add the ""  "" backslash signs between ""Program Files (x86)"" and ""Hitman Absolution"". Don't know why PirateBay won't allow the path to show correctly in the comments... but i guess you understand what i mean"
+,eskimper,2013-06-13T12:20Z,"Friendly reminder: If you get the game in Russian, simply uninstall and re-install. When you start installation again click Next > Components. Switch to English. Great torrent!"

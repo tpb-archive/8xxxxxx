@@ -1,0 +1,240 @@
+Good evening there
+
+Here is our new remastered BDrip version of "Collateral" with Tom Cruise and Jamie lee Foxx...
+Comes in 720p no full screen resolution in mkv h264 for a total size of 14 Gb.
+Status : RC1
+
+Spoken language : English and French
+
+Subtitle : English,French,Spanish,Italian,German,
+Swedish,Norwegian,Finnish,Danish,Dutch
+(some of them are director commentary.)
+
+Principal changes :
+upmixing French sound track from Ac3-5.1/48 Khz/16 bit/640 kbps
+to E-ac3-5.1/48 Khz/32 bit/768 kbps
+Note :
+English sound track is untouched as Dts-hd 5.1/48 Khz/24 bit/1509 kbps
+Very acceptable quality between Video and Audio/Sound anyway.
+Between Normal/Good quality so. 
+
+See imdb right here to learn more about this movie : 
+http://www.imdb.com/title/tt0369339/
+
+More details about our BDrip :
+
+
+    Complete name : COLLATERAL.(2004).(M.Mann).Remastered.H264.720p[)(]E-Ac3§ Dts-hd 5.1-(Fr,En)+Multi.Sub.mkv
+
+    Format : Matroska
+    Format version : Version 2
+    File size : 14.3 GiB
+    Duration : 1h 59mn
+    Overall bit rate mode : Variable
+    Overall bit rate : 17.1 Mbps
+    Encoded date : UTC 2013-04-10 11:10:17
+    Writing application : Lavf55.1.100
+    Writing library : Lavf55.1.100
+  Video #1
+    ID : 1
+    Format : AVC
+    Format/Info : Advanced Video Codec
+    Format profile : High@L4.2
+    Format settings, CABAC : No
+    Format settings, ReFrames : 3 frames
+    Codec ID : V_MPEG4/ISO/AVC
+    Duration : 1h 59mn
+    Bit rate mode : Variable
+    Nominal bit rate : 12.0 Mbps
+    Maximum bit rate : 24.0 Mbps
+    Width : 1 280 pixels
+    Height : 720 pixels
+    Display aspect ratio : 16:9
+    Frame rate mode : Constant
+    Frame rate : 23.976 fps
+    Color space : YUV
+    Chroma subsampling : 4:2:0
+    Bit depth : 8 bits
+    Scan type : Progressive
+    Bits/(Pixel*Frame) : 0.543
+    Writing library : x264 core 130 r2273
+    Encoding settings : cabac=0 / ref=2 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.10 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=1 / constrained_intra=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=1 / keyint=230 / keyint_min=1 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=12000 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+    Default : Yes
+    Forced : No
+
+  Audio #2
+    ID : 2
+    Format : DTS
+    Format/Info : Digital Theater Systems
+    Format profile : MA / Core
+    Mode : 16
+    Format settings, Endianness : Big
+    Codec ID : A_DTS
+    Duration : 1h 59mn
+    Bit rate mode : Variable
+    Bit rate : Unknown / 1 509 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 24 bits
+    Compression mode : Lossless / Lossy
+    Delay relative to video : 42ms
+    Language : English
+    Default : Yes
+    Forced : No
+
+  Audio #3
+    ID : 3
+    Format : E-AC-3
+    Format/Info : Audio Coding 3
+    Format settings, Endianness : Big
+    Codec ID : A_EAC3
+    Duration : 1h 59mn
+    Bit rate mode : Constant
+    Bit rate : 768 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 32 bits
+    Compression mode : Lossy
+    Delay relative to video : 1mn 5s
+    Stream size : 659 MiB (4%)
+    Language : French
+    Default : Yes
+    Forced : No
+
+  Text #4
+    ID : 4
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : English
+    Default : Yes
+    Forced : No
+  Text #5
+    ID : 5
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : English
+    Default : Yes
+    Forced : No
+  Text #6
+    ID : 6
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : French
+    Default : Yes
+    Forced : No
+  Text #7
+    ID : 7
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : German
+    Default : Yes
+    Forced : No
+  Text #8
+    ID : 8
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Italian
+    Default : Yes
+    Forced : No
+  Text #9
+    ID : 9
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Spanish
+    Default : Yes
+    Forced : No
+  Text #10
+    ID : 10
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Dutch
+    Default : Yes
+    Forced : No
+  Text #11
+    ID : 11
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Danish
+    Default : Yes
+    Forced : No
+  Text #12
+    ID : 12
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Finnish
+    Default : Yes
+    Forced : No
+  Text #13
+    ID : 13
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Norwegian
+    Default : Yes
+    Forced : No
+  Text #14
+    ID : 14
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Swedish
+    Default : Yes
+    Forced : No
+  Text #15
+    ID : 15
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : English
+    Default : Yes
+    Forced : No
+  Text #16
+    ID : 16
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : French
+    Default : Yes
+    Forced : No
+  Text #17
+    ID : 17
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : German
+    Default : Yes
+    Forced : No
+  Text #18
+    ID : 18
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Italian
+    Default : Yes
+    Forced : No
+  Text #19
+    ID : 19
+    Format : PGS
+    Codec ID : S_HDMV/PGS
+    Codec ID/Info : The same subtitle format used on BDs/HD-DVDs
+    Language : Spanish
+    Default : Yes
+    Forced : No
+  Menu
+    Chapters : 20 are included in original order without any change.
+
+"Voilà" so enjoy and seed,please,thx.
+
+best regards
+cu around

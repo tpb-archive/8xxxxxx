@@ -1,0 +1,18 @@
+HERE IT IS...THE Sam Broadcaster Alternative..MUCH BETTER THAN SAM!
+
+
+ProppFrexx ONAIR is a comprehensive playlist management and broadcasting tool designed for general On-Air operations (live assist and/or automation), may it be for a large terrestrial radio stations or smaller web radio stations or even DJs performing live. ProppFrexx ONAIR is designed to serve you with the highest audio quality for a real 24 by 7 by 365 operations.
+
+The flexible mixer and routing capabilities, the build in streaming functionalities, the ultimate support for almost any audio format as well as features like embedded playlists, true BWF support, multiple cardwalls, Outlook-like scheduler, full meta data (tag data) support, voice over and insert events, fast search and preview of media entries, automatic recording, extensive song history checking, remote control via GPIO, MIDI, Serial-IO, TCP and many more features make this solution the perfect choice.
+
+The sexy but rock solid user interface of ProppFrexx ONAIR makes it even more fun to work with.
+
+The user interface part of ProppFrexx ONAIR is written in C# (based on the .Net Framework v3.5) whereas the underlying and integrated audio engine is written in C++ to guarantee most reliable and stable playout/recording.
+
+The next goal was highest sound quality as well as totally free mixer layout and routing capabilities. It should be possible to use ProppFrexx ONAIR without any external mixer or it should be possible to integrate ProppFrexx ONAIR into any existing studio environment including any remote operations control (e.g. via GPIOs or MIDI).
+
+In addition ProppFrexx ONAIR comes with an integrated user management and access control which allows you to operate it within a multi user environment even on the same machine.
+
+And last but not least ProppFrexx ONAIR should offer all tools which are needed in your daily radio business (e.g. an on air clock, integrated web browser and RSS news feed reader, super fast media explorer and finder, full streaming server support etc.).
+
+So the combination of the audio engine, the playlist management and the scripting and scheduler engine (which also comes with a fully featured advertising management and overlay system) simply should make your life a lot easier.

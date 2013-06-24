@@ -1,0 +1,48 @@
+Files are named via TheTVDB.com for my XBMC if you don't like it rename them.
+
+My upload speed is slow so give it some time, be patient, and SEED!
+
+Be sure to not limit your upload speed during initial seeding so I don't have to seed much more than 100% to get the torrent self sustaining. It would help me and you out a lot.
+
+I will be encoding this series for here on out as soon as I get untouched ISOs. They might be early or late, Box Set 16 was a few weeks after it came out for instance.
+
+--SERIES--
+Bleach looks like crap to begin with not to mention it has terrible interlacing. These are Very close to the quality that is on the DVDs just like all my encodes and I removed 95% of the interlacing without problem.
+
+Video...
+Source: Personal DVDs or Untouched ISOs
+Format profile: High@L3.0
+Bit rate: ~1,000 Kbps
+Display aspect ratio: 4:3 (Latest Box Set 16 is 16:9)
+
+English Audio...
+Format: AC3
+Bit rate: 224 Kbps
+Channels: 2 (Stereo)
+
+Japanese Audio...
+Format: AC3
+Bit rate: 224 Kbps
+Channels: 2 (Stereo)
+
+English VOB Subs.
+
+--MOVIES--
+Movies are 720p because the Blu-rays are 720p up-scales. I checked some screens myself from untouched Blu-ray and they are virtually identical. Also these are not my encodes. I re-muxed making English default and encoded the audio from 24bit FLAC (if I remember correctly) to 16bit AC3.
+
+Video...
+Format profile: High 4:4:4 Predictive@L5.0 (aka 10bit)
+Bit rate: ~2,000 Kbps
+Display aspect ratio: 1.85:1
+
+English Audio...
+Format: AC3
+Bit rate: 640 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+Japanese Audio...
+Format: AC3
+Bit rate: 640 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+English ASS Styled Subs. Also ASS Styled Songs/Signs

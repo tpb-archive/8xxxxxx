@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,cherrv4u,2013-06-01T10:57Z,This one works! Thanks :)
+,lockd,2013-06-03T21:53Z,"Thanks! :)
+But unfortunately I get problem when I would like to make geometry with the workbench.
+The program always stated ""ansysWBU.exe encountered a problem"" and keep telling that .NET Framework is not installed altough I had installed version 4.0 of the framework.
+Do you know how to fix this issue? I need to develop a model with ansys fluent."

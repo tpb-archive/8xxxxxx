@@ -1,0 +1,62 @@
+What is new in Version 3? 
+
+- New! Batch processing - Instead of stabilizing videos one at a time, users can now load an unlimited number videos into Mercalli V3 SAL for automated batch processing;
+- New! Automatic profile selection ΓÇô Mercalli V3 SAL can analyze a video clip and automatically select the most appropriate stabilization profile, thus streamlining the stabilization process;
+- New! Support for 4K and 2.7K video clips; many NLEs donΓÇÖt even support this yet!
+- New! Export stabilized video in industry standard formats, including MP4!
+- IndustryΓÇÖs only 3-axis (X, Y, Z axis) post-capture video stabilizer ΓÇô delivers the best possible stabilization results;
+- Fully automatic rolling-shutter compensation helps improve skew, wobble, and jitter caused by CMOS camera sensors during fast action;
+- Dynamic Camera Options allow for highly effective stabilization without compromising the original character of the video;
+- SmartBorderΓäó Options greatly reduce the amount of zoom-in needed to stabilize, helping keep the video borders intact;
+- Automatic scene detection allows a single clip with multiple scenes to be optimized with a single pass;
+- Full resolution preview, including side-by-side comparison of original and optimized video before rendering;
+- Exports optimized video in several industry standard formats ready for sharing or importing into a video editor;
+- Native 64-bit and 32-bit Windows stand-alone applications with multi-core/multi-thread optimization and support for unlimited video resolutions.
+
+Import
+From now imported Mercalli V3 SAL:
+mov, mpg, mpeg, mp4, mts, m2t, m2ts, m2v, avi, mxf, vob, vcd, 3gp, jpg, tif
+
+Export
+Mercalli V3 SAL can now export MP4, also in the new formats 4K and 2.7 K (UHD)
+
+Compatibility
+
+Adobe
+
+-Adobe Premiere Elements 8.0, 9.0, 10.0 (WIN)
+-Adobe Premiere CS3, CS4, CS5, CS5.5, CS6 (WIN)
+-Adobe After Effects CS3, CS4, CS5, CS5.5, CS6 (WIN)
+
+Avid
+-Avid Studio 2011
+-Avid MediaComposer 5.x
+-Avid MediaComposer 6.x
+-Avid Symphony
+
+Corel
+-Corel VideoStudio X4
+-Corel VideoStudio X5
+
+Pinnacle Studio
+-Pinnacle Studio 14, 15, 16
+
+Sony
+-Sony Vegas Pro 9 
+-Sony Vegas Pro 10 / 11 / 12 please Note
+
+Please note: Vegas Movie Studio isnΓö¼Γöñt supported
+
+Grass Valley K.K.
+-Canopus NEO 2, 3
+-Canopus Edius 5, 6, 6.5
+
+System requirements:
+
+- Windows Vista, Windows 7, Windows 8 (32 and 64 bit)
+- 2GB-memory, recommended i7+Win7-64bit, 8GB
+
+Language : English
+
+Homepage :  
+http://www.prodad.com/home/products/video_optimization/300580322,l-us.html

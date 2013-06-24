@@ -1,0 +1,124 @@
+﻿User Type,Username,Date,Text
+,KiwiPirate,2013-05-08T17:35Z,"sorry , should have added ENGLISH ONLY ... NO Russian (or any other) language"
+,KiwiPirate,2013-05-10T03:10Z,"the missing files from the game folder 
+download and extract the new torrent before this one and you will have the complete game with no other install or files needed
+http://thepiratebay.sx/torrent/8458206"
+,CTDoctoR,2013-05-11T18:54Z,"Working perfecly.
+Just dont forget to edit the registry entry as it is described in the .nfo file. Put the whole link to install folder and data folder. 
+And for those who r getting black screen an then no artifacts/1 lvl at the end of first lvl put the game in compatability mode( windows 7) (even if u are already running win7)"
+,TraceurEvans,2013-05-12T03:25Z,"You guys seriously won't complain about the game being in FUCKING RUSSIAN? And of course, no pre warning, no help with (I don't even know if it is possible) changing the language. C'mon KiwiPirate.
+Is there ANY way to change its language? I mean, really changing, not downloading another one. Please let me know, even if there is a package to download. Please.
+And if you could send me at least a notification when/if you post it here; 
+My email is ""dquestviii@gmail.com"""
+,KiwiPirate,2013-05-12T04:29Z,"TraceurEvans, read my first comment ... if you have russian language then you are obviously special ... or retarded!!!
+
+NO RUSSIAN LANGUAGE !!!!!!!!!!!!
+
+ENGLISH ONLY !!!!!!!!!!!!
+
+if you think i am stupid enough to give you my email address then i am sorry but your very sadly mistaken ... are you employed by Ubisoft or just a troll?????"
+,TraceurEvans,2013-05-13T00:53Z,"LOL. YOU CLEARLY didn't get what I said. I'm not asking for YOUR email, I asked if you could tell us a way of reversing it, from fucking russian to english. I'm not a fucking troll or a Ubisoft employee, holy hell. Fuck this anyway. Thank you for providing it. You should be a little more patient with less informed people."
+,KiwiPirate,2013-05-13T03:03Z,"if you followed the instructions then it is NOT in Russian ...
+the only way that would have been possible is if you never used the *.reg file and your system language is Russian but i am guessing yours isn't"
+,CTDoctoR,2013-05-14T03:30Z,"Im pretty sure That Homm6 is multilang
+Depends on the system language. If it is russian then change it to english."
+,KiwiPirate,2013-05-14T04:22Z,"TraceurEvans, if you had left your attitude from your first post then you wouldn't have got mine, simple as that!
+
+CTDoctoR, multi-10 from what i can gather, see comment 1
+http://thepiratebay.sx/torrent/8465476/Heroes_VI_Language_Packs_Selector"
+,KiwiPirate,2013-05-14T04:24Z,*multi-11
+,dj500,2013-05-20T22:15Z,"KiwiPirate, i may look stupid but what do i need to edit in the registry? I did everything instructions told me and came to that part. No idea what to change. When i use the exe the game starts updating as does uplay which i think shouldn't happen. What do i do?"
+,KiwiPirate,2013-05-21T00:47Z,"extract "" Patched DLLs.rar "" directly into your game folder. sorry but that was my stuff up as i never added that to instructions because i thought i had already put them in the folder before i archived it. i'm the stupid one :-)"
+,KiwiPirate,2013-05-21T01:03Z,"as for the registry you do not need to edit anything in it, just make sure you double click the required one for your OS. (x86 or x64) - if your unsure of which one you have check this http://support.microsoft.com/kb/827218"
+,jmsbgy1988,2013-05-21T04:44Z,"If i have the catalyst repack installed, i still need the DATAxx.rar right?"
+,KiwiPirate,2013-05-21T06:01Z,"jmsbgy1988, yes that is correct otherwise game will not work"
+,dj500,2013-05-21T15:21Z,"Thanks, it's all right now after copying the .dll files."
+,jmsbgy1988,2013-05-21T18:27Z,thank you..
+,cnulove,2013-05-22T19:33Z,"Hi Kiwi, sorry if i sound really noob. I got a problem here, first i tried to install following your guide, added patched.dll + i double clicked the x86.reg and i got ""system can't find specified file"", so i thought the problem must be in the .reg. So then i uninstall everything, reinstall + added patched.dll but this time without clicking the .reg file and it works, I played the tutorial campaign game, but then after the first one, i got a black screen, so i thought it might be because i didn't activate the reg file, well idk what caused that. I clicked on .reg file and it was ""system can't find specified file"" again. I tried editing the .reg files too, still not working. I wonder what is wrong? can you help me?
+
+btw this is my edited .reg
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoft]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftLauncher]
+""Version""=""954""
+""InstallDir""=""C:Program FilesUbisoftUbisoft Game Launcher""
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI]
+""DataPath""=""D:Might&MagicHeroesVIData""
+""InstallPath""=""D:Might&MagicHeroesVI""
+""Product Version""=""2.1.0""
+""SavePath""=""$WinMyDocumentsPath$\Might & Magic Heroes VI""
+""TempPath""=""$WinAppDataPath$\Might & Magic Heroes VI""
+""Language""=dword:00000409
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.6]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.7]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.7.1]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.8]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VIGameUpdate]
+""execPath""=""D:Might&MagicMight & Magic Heroes VI.exe""
+""installdir""=""D:Might&MagicHeroesVI""
+""info""=""cd3137bee3404acb8d350085a82234b5""
+""language""=""us""
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI - Shades of Darkness]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI - Shades of Darkness2.1.0]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftUbisoft Game Launcher]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftUbisoft Game Launcher1.0.0.0]
+
+"
+,cnulove,2013-05-22T19:36Z,oh btw there are \ on between the path there. I forgot to double typed so it didn't show on the comment
+,KiwiPirate,2013-05-22T20:29Z,"cnulove, to fix the black screen error right click the main "" Might & Magic Heroes VI.exe "" select properties and then compatibility .
+set the compatibility to whatever your OS is
+if you have Win7 then set compatibility to Win7
+if XP then set it to XP ...
+this seams to be a problem with the game and not the crack as legit users have the same problem on the Ubisoft forums
+
+the reg settings look fine, try compatibility and if you get the can't find file error try reinstalling the game but do not use the *.reg file
+just make sure you have the extra version settings
+HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\1.8
+and
+HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI - Shades of Darkness\2.1.0
+plus
+HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\""Product Version""=""2.1.0""
+
+Might & Magic Heroes VI.exe is the exe you use to run the game so make sure any shortcut is correct
+
+also if you have the Catalyst repack installed then you must extract DATAxx.rar into your game file or game will not work, you will only get that missing file error"
+,Kodenamezeus,2013-05-25T23:45Z,"Kiwi, main question: do your cracked execs for on SKIDROW's releases? I patched up his Gold Ed to Shades v.2.1 now this fucking uplay shit won't go away. Will your pill help or not? Thanks and yeah great work nonetheless, terrific."
+,KiwiPirate,2013-05-26T11:13Z,"Kodenamezeus, you need to extract the patched dlls.rar into your game folder
+run Might & Magic Heroes VI.exe to play
+
+the patched files were done by Reloaded
+
+if you installed skid rows gold edition be sure to run the updates in the updates directory on the dvd before extracting the 1.8+SoD archive"
+,akali95,2013-05-31T15:40Z,"Hey KiwiPirate, first of all, thanks for uploading a great torrent, it helped me a lot!
+For those who are experiencing problems with the torrent, there is a slight mistake on his part (if you don't mind me saying so) - the absence of 2 instructions: extracting Patched DLLs.rar directly to your game's folder and another 5MB torrent: http://thepiratebay.sx/torrent/8458206/ (Just to group both problems together). It works.
+Now with that cleared out, only 1 question remains - is a Conflux crack/offline Dynasty crack possible? It would enhance the gameplay dramatically. I've been craving for Dynasty content for quite some time now..."
+,article15,2013-06-03T08:12Z,thank you so much Kiwi...thats just awesome..works perfectly..will keep seeding that perfect release..
+,El_Nazgir,2013-06-04T20:04Z,"I've done everything detailed in the .nfo, also done the dll copy and the other torrent, but I seem to have problems with ""ubiorbitapi_r2_loader.dll""
+My anti-malware software flags it as dangerous, and I seem to have a lot of trouble moving or extracting it. I takes ages before it actually extracts (several minutes, for such a small file) if I actually succeed. If it works and I try to move it, or if it doesn't work extracting it, I get an error claiming I don't have permission, despite being full admin and having access (I checked)."
+,El_Nazgir,2013-06-04T22:43Z,"Forgot to add, when I start it I get the frozen splash screen."
+,KiwiPirate,2013-06-06T04:15Z,"El_Nazgir, 
+all files are originals and safe except the cracked dlls which was done by crack group Reloaded
+they are safe so you can safely add them to your exclusion list in you anti malware program
+
+if you are getting stuck on loadup then right click the *.reg file you used and select 'Edit'
+find these two lines and put the full path to your game
+
+""DataPath""=""..\HeroesVI\Data""
+""InstallPath""=""..\Might&Magic\HeroesVI""
+
+example:
+""DataPath""=""C:\Games\HeroesVI\Data""
+""InstallPath""=""C:\Games\Might&Magic\HeroesVI"""

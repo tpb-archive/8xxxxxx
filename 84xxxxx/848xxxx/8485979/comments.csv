@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,ktwpb,2013-05-26T23:13Z,"First, thanks ChingLiu for providing this software.  
+
+I was able to install the original version (Adobe Acrobat XI Pro 11.0.0 Multilanguage Mac OS X [ChingLiu]) last month, and would like to install the 11.0.3 update. The update failed for me, so I started by deleting the modified lines in my hosts file, then running App Cleaner and deleting Adobe Acrobat and related files (but NOT deleting Adobe Photoshop or Install Manager apps), and finally reinstalling Adobe Acrobat following the instructions.  Once again, I was able to successfully install and activate Acrobat v. 11.0.0.  
+
+Then I tried to install the 11.0.3 update.  I did so three times, both before and after modifying the hosts file (per step 7 in the original instructions), and again after connecting to the internet.  All three times it stalled while ""running package scrips"" and gave this error message:
+
+""Failure while creating /Applications/Adobe/Adobe Acrobat XI Pro/Acrobat Distiller.app/Contents/Frameworks/AcroPDFProcessor.framework/AcroPDFProcessor.
+The state of the application is restored.""
+
+To be clear, it failed to update.  In case it matters I'm using a mid-2011 iMac (12,2) with OS X 10.8.3.
+
+Am I missing something and how can I get this to work?  Any help appreciated. "
+,mrlonnybrooks,2013-06-11T00:44Z,no matter how many serial numbers i generated and tried none of them ever worked

@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,beshonew,2013-04-28T05:15Z,When I try to run it it gives an internal exception: access violation in module lxlcore.dll
+,at.skl,2013-05-11T13:09Z,"The application showing Proteus 8.0 SP0 Build 15417.
+
+Program crashes during every run after two or three minutes."
+,at.skl,2013-05-11T13:11Z,Is there any good version out there? Or at least some patch for this version?
+,Shadow_Nexus,2013-05-11T20:01Z,"This one works like a charm.
+
+For anyone having problems installing this torrent, I suggest you READ that ""ReadMe.txt"" file.
+
+1. Install any pre-requisite software needed before installing proteus 8. (VS 2005-2012, both x86 & x64 if you're using win x64).
+2. Copy files from crack folder into destination folder.
+3. Hit that SP1 update file.
+
+Done!"
+,at.skl,2013-05-13T11:20Z,I tried with every possibility. It crashes even if you do nothing and just run a simulation.
+,kais17,2013-05-14T05:24Z,"hi 
+i can confirm that program crashes and closes unexpectedly. "
+,GuiRitter,2013-05-30T22:36Z,"Thank you! The instructions are missing a few lines though.
+
+
+To make it work, first I installed all that was requested, then I installed Proteus, then I copied the folders, then I installed the SP1 update.
+
+The non polarized capacitors still don't work though. I have to use the animated capacitor to have a working non polarized capacitor."

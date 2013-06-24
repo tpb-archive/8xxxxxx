@@ -1,0 +1,85 @@
+﻿User Type,Username,Date,Text
+,Quronja,2013-05-21T09:15Z,"Thanks Murphy, but the installation of this update really long runs. 
+setupcomplete.cmd phase:
+KB2533552 (online only update)
+dotnetfx45_full_x86_x64.exe (Adds Net4.5 Redist)
+KB2737083, KB2742613, KB2750147, KB2789648, KB2804582,
+KB2805221, KB2805226 (Net45 Hotfixes)
+mpas-fe (Defender Updates)
+KB890830 (Recent Malicious software removal tool)
+
+Yet thanks man ...Everything else is ok ..."
+[V],murphy78,2013-05-21T10:23Z,"Yes, this is win7 with updates... If you want a win7 without updates, go download the digital river iso."
+[H],Devastat0r36,2013-05-21T10:29Z,Hi murphy78 just wanna say im a big fan of your work ! Do you think you could ever make an up to date Windows 8/Sever 2012 Super AIO ?
+,nj98110,2013-05-21T10:36Z,Can we use this on UEFI boot systems?
+[V],murphy78,2013-05-21T12:03Z,"I didn't use a special boot sector for UEFI, but I haven't tested it on dvd mode, so I don't know on that one.
+
+If you use USB, then yes, it should work for UEFI."
+[V],murphy78,2013-05-21T12:09Z,"Thx for the compliment dev. I'm not sure... I guess it depends how much ppl seed... I can't integrate while seeding because it causes hard disk read/write errors rarely while running a torrent program. It also depends on whether or not the indexes are compatible with win8's sources files like win7 is. I couldn't get vista to work using win8's files, and trying to install them from vista's boot.wim is just backward. It would cause more problems than it would solve...
+
+I'll think about it if I have time...
+I still gotta crank out the 4 office versions, 2 updated win8+office2013 versions, and I'd like to get some non-office syspreps done since it's been like 3 months..."
+[H],Devastat0r36,2013-05-21T12:48Z,Ah Okay I see man but thanx for the reply i appreciate it.But i think you would get right im gonna give it a try as soon as my studies are done and i have more time. But keep up the grate work :). I was also thinking an up to date standalone Sever 2012 would also be grate....
+,slav2012,2013-05-21T13:45Z,thx... very
+,ahmedmahdy20,2013-05-21T14:50Z,"Murphy if possible make Windows 7 ultimate 32 with updates and Internet Explorer10 only without adding the net frame work and USB3, and Network DriversAnd also the same version for the 64-bit versionAnd Murphy not add this update 971033 thank you Murphy"
+,ahmedmahdy20,2013-05-21T17:19Z,"Thanks Murphy for the reply
+can you show me the way and the progam to add ubdates to win7 image"
+[V],murphy78,2013-05-22T00:11Z,"ahmed, that's a 2hr conversation... You could start with rt7lite and look thru MDL forum about integrating IE10 and the pre-requisites...
+It's really rather involved to explain everything..."
+,cacce,2013-05-23T07:30Z,"Thank you for this Murphy78.
+Been trying for a while to find a compatible version for bootcamp and my Imac, this one worked.
+Was a bit tweaking and working around, but thats all bootcamps faults.
+In the end it works perfectly."
+[V],murphy78,2013-05-23T16:48Z,I'd be interested to find out if you tried the digital river retail download isos cacce or if there was some sort of usb driver you needed that I've included. I say that because I don't really do anything that would enable it to run on one machine over another. Theoretically this should work on any machine that could install the digital river retail isos.
+,fulronge,2013-05-24T00:09Z,"Thanks for this massive upload murphy, quick question though im downloading this on my macbook pro to make a bootable usb.. in uTorrent the iso file says clearly it's 3.8 gig but once downloaded on my mac the iso file size became 4.17 gigs.. and i cant put it on my 4gb flash drive.. any clues ?"
+,LOQUILLO_,2013-05-24T06:06Z,"Thanks mate.
+All is OK."
+,LOQUILLO_,2013-05-24T06:07Z,"Thanks mate, all is working OK."
+,saulius31,2013-05-24T10:09Z,"Hi murphy78,
+
+great share, but I'm not sure if this copy of Windows is really activated. Under Pystem Properties I still get a message ""2 days until activation. Activate Windows now"" and the number of days of days is going down... If I click on that, it just says that activationkey is invalid. Am I missing something? "
+,mibmib007,2013-05-24T11:30Z,is it just use this and copy iso content to usb and install as usually? my 7 enterprise got out of date =( so will try this one if its the same install options.. and is activator included auto?
+,manzy3000,2013-05-24T20:42Z,"Thank you buddy. your works is awesome in every way...installed, activated and running like a charm. :)"
+,rehansiddiq,2013-05-25T11:30Z,"thanks dear   ;)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+,Dante9898,2013-05-26T00:16Z,"Hey murphy, just discovered your torrents today, was kinda curious to know if you have a blog or something where you explain a little about these isos (What do they include, how to install, etc)
+
+Also what do you mean when you say ""No Programs are added to Windows""?"
+,Dooshbag,2013-05-26T05:07Z,Works perfectly!  Easy install.  Been flawless for over two months now.  Thanks a million
+,cacce,2013-05-28T23:23Z,"Hey Murph 
+I have used this for a week no problem, but today I got ""you must activate windows within 24 days to use all of bla.bla.bla.bla""
+Any tips ? 
+I hope I dont have to re-install .. was a hoot thru bootcamp the first time around ;)
+
+Any update that might have caused this im not aware of or something they released the past days ?
+Thx
+Cacce"
+[V],murphy78,2013-05-30T05:03Z,"cacce, windows loader is probably not compatible with bootcamp...
+
+You might try using a kms-activated index from my AIO I'm about to release..."
+,badikdik,2013-06-01T15:33Z,"can i use this for a current version of ultimate to upgrade?
+i want to thumbs up for murphy works..."
+,mahes3426,2013-06-02T08:36Z,thanks man
+,Soynagera,2013-06-02T10:38Z,"Does this version comes with boot? I got fresh new pc , and i got asus P8Z77-m motherboard , so i only win7 and win8 would work with my ram (8gb)"
+,dr.potato,2013-06-02T23:55Z,"So, if I burn this to a disc I can use this as a regular boot install disc? I saw the comment about uefi... any further word on this?"
+,dist2,2013-06-04T09:52Z,"Hello,
+Installed perfctly and runs great BUT, as Cacce, i'm asked to activate.... bummer...
+
+You talked bout a kms-activated index in your reply but where could it be found ? it's a separate release ?
+tx in advance"
+,Gabarito,2013-06-05T23:09Z,"This file has no .iso to burn on a DVD. And if I try to burn them directly, the software doesn't accept some files."
+,Gabarito,2013-06-05T23:48Z,"sorry, nevermind. RAR tricked me!
+All working. Thanks!"
+,AirheadOz,2013-06-08T18:39Z,"After installing this as a fresh install, Windows may say that this copy is not genuine and that you should ask for a refund. However, after setup is fully completed, you won't see a message informing you that this version of Windows isn't genuine and in ""System"" Windows will be fully activated. Success!
+
+P.S. As a precaution, I would probably disable Windows Update. Who needs it anyway?"
+,Ronade,2013-06-09T14:19Z,"Hey murphy!
+
+Can you give a short info how to install it? Normal boot iso on dvd and go in? I can on windows update or disable it? Its activaded and only i need to install it ?
+Thx for info!"
+,cojon,2013-06-10T22:54Z,"Wow, excellent writeup. Complete and useful. Fast DL, great install, one small problem--my bad-- and fixed. I sincerely thank you for your excellent offering and all the intelligent work you provided. 
+
+Murph, you is absolutely da MAN! "
+,SirScoops,2013-06-11T00:23Z,"Hilarious that so many of these torrents boast ""IE10"" as if anyone gave a flying fuck.... I'd love it if IE was removed!"
+,SirScoops,2013-06-11T00:24Z,"oh, not to sound like a douche... bro im gonna be running the shit out of this for a while... might even name my computer murphy"
+,TheAslan,2013-06-12T21:32Z,When June release is coming?

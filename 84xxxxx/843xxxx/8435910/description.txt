@@ -1,0 +1,32 @@
+foobar2000 1.2.5 / Dynamic Range Meter 1.1.1
+log date: 2013-05-04 00:50:45
+
+--------------------------------------------------------------------------------
+Analyzed: Santana / Abraxas
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -2.39 dB   -17.22 dB      4:51 01-Singing Winds, Crying Beasts
+DR11      -1.41 dB   -15.94 dB      5:20 02-Black Magic Woman/Gypsy Queen
+DR12      -1.59 dB   -15.60 dB      4:18 03-Oye Como Va
+DR10      -1.57 dB   -14.61 dB      5:01 04-Incident At Neshabur
+DR11      -1.77 dB   -14.91 dB      2:52 05-Se A Cabo
+DR11      -0.19 dB   -14.25 dB      4:29 06-Mother's Daughter
+DR10      -2.68 dB   -15.75 dB      4:48 07-Samba Pa Ti
+DR12      -0.66 dB   -15.54 dB      4:12 08-Hope You're Feeling Better
+DR12      -1.57 dB   -18.15 dB      1:43 09-El Nicoya
+DR10      -2.17 dB   -15.38 dB      3:48 10-Se A Cabo
+DR11      -1.99 dB   -14.78 dB      4:53 11-Toussaint L'Overture
+DR10      -1.83 dB   -14.30 dB      4:57 12-Black Magic Woman/Gypsy Queen
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR11
+
+Samplerate:        88200 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3057 kbps
+Codec:             FLAC
+================================================================================

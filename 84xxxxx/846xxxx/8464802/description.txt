@@ -1,0 +1,59 @@
+General
+Nombre completo                          : D:Da Vinci's Demons  S01E05 HDTV x264.mp4
+Formato                                  : MPEG-4
+Formato del perfil                       : Base Media / Version 2
+ID Códec                                 : mp42
+Tamaño del archivo                       : 373MB
+Duración                                 : 58min.
+Modo de tasa de bits                     : Variable
+Tasa de bits total                       : 885Kbps
+Fecha de codificación                    : UTC 2013-05-11 07:35:27
+Fecha de la etiqueta                     : UTC 2013-05-11 08:36:28
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+ID Códec                                 : avc1
+ID Códec/Info                            : Advanced Video Coding
+Duración                                 : 58min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 750Kbps
+Tasa de bits nominal                     : 1 500Kbps
+Ancho                                    : 720pixeles
+Alto                                     : 404pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Variable
+Velocidad de cuadro                      : 29,970fps
+Velocidad de cuadro Original             : 59,940fps
+Velocidad de cuadro Mínima               : 5,994fps
+Velocidad de cuadro Máxima               : 100,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.086
+Tamaño de pista                          : 316MB (85%)
+Librería de codificación                 : x264 core 129 r2230 1cffe9f
+Opciones de codificación                 : cabac=1 / ref=2 / deblock=0:0:0 / analyse=0x3:0x113 / me=dia / subme=7 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=0 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,21 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=2 / b_pyramid=0 / b_adapt=0 / b_bias=0 / direct=0 / weightb=0 / open_gop=0 / weightp=0 / keyint=500 / keyint_min=100 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=1500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=0
+Fecha de codificación                    : UTC 2013-05-11 07:35:28
+Fecha de la etiqueta                     : UTC 2013-05-11 08:36:28
+
+Audio
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : 40
+Duración                                 : 58min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 128Kbps
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz
+Tamaño de pista                          : 54,0MB (14%)
+Fecha de codificación                    : UTC 2013-05-11 07:35:28
+Fecha de la etiqueta                     : UTC 2013-05-11 08:36:28

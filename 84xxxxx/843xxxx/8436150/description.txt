@@ -1,0 +1,66 @@
+Table of Contents
+
+Preface
+Chapter 1: Routing Calls
+Chapter 2: Connecting Telephones and Service Providers
+Chapter 3: Processing Call Detail Records
+Chapter 4: External Control
+Chapter 5: PBX Functionality
+Index
+Preface
+Up
+Chapter 1: Routing Calls
+Introduction
+Internal calls
+Incoming DID calls
+Outgoing calls
+Ringing multiple endpoints simultaneously
+Ringing multiple endpoints sequentially (simple failover)
+Advanced multiple endpoint calling with enterprise originate
+Time of day routing
+Manipulating To: headers on registered endpoints to reflect DID numbers
+Up
+Chapter 2: Connecting Telephones and Service Providers
+Introduction
+Configuring a SIP phone to register with FreeSWITCH
+Connecting audio devices with PortAudio
+Using FreeSWITCH as a softphone
+Configuring a SIP gateway
+Configuring Google Voice
+Codec configuration
+Up
+Chapter 3: Processing Call Detail Records
+Introduction
+Using CSV CDRs
+Using XML CDRs
+Inserting CDRs into a backend database
+Using a web server to handle XML CDRs
+Using the event socket to handle CDRs
+Up
+Chapter 4: External Control
+Introduction
+Getting familiar with the fs_cli interface
+Setting up the event socket library
+Establishing an inbound event socket connection
+Establishing an outbound event socket connection
+Using fs_ivrd to manage outbound connections
+Filtering events
+Launching a call with an inbound event socket connection
+Using the ESL connection object for call control
+Using the built-in web interface
+Up
+Chapter 5: PBX Functionality
+Introduction
+Creating users
+Accessing voicemail
+Company directory
+Using phrase macros to build sound prompts
+Creating XML IVR menus
+Music on hold
+Creating conferences
+Sending faxes
+Receiving faxes
+Basic text-to-speech with mod_flite
+Advanced text-to-speech with mod_tts_commandline
+Listening to live calls with telecast
+Recording calls

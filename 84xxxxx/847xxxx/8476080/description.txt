@@ -1,0 +1,74 @@
+This will NOT fit on a 4.37GiB Single-Layer DVDR
+Use a Dual-Layer DVDR or an 8GB+ USB flash drive.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.*
+No Unattended Settings were added to the ISO.
+
+murphy78 presents Windows 8 Pro VL x64 en-US May2013
+Contains all KB files to bring current to May14-2013 patch date
+
+Added KMS Server Service. Read included text for changelog on
+my KSS integration method and office activation instructions.
+
+64-bit MSDN Sources:
+en_windows_8_pro_vl_x64_dvd_917699.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Pro 64-bit
+Windows 8 Pro 64-bit KMS-Activated
+
+Release File: Win8Pro-VL-x64-en-US-May2013.iso
+Size: 5.34GiB
+CRC32: 320A25E0
+MD5: A2481A18B5F524382623B6B292C1B01A
+SHA-1: A08F2891FB8111CB1F717D76C7A76F7A4B499579
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, renaming, and export
+dism for MSU KB hotfix integration, mount for
+file copying of scripts, KMSServerService, Info folder
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2753842-v2, KB2756872,
+KB2756923, KB2757638, KB2758246-v2, KB2761094, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2769166, KB2770660,
+KB2770917, KB2771744, KB2771821, KB2777166, KB2777294,
+KB2778171, KB2779768, KB2780342, KB2780523, KB2781197-v2,
+KB2781197, KB2782419, KB2783251, KB2784160, KB2785094,
+KB2785220, KB2788350, KB2789649, KB2789650, KB2790655,
+KB2790920, KB2792009, KB2795944, KB2798162, KB2800033,
+KB2800088, KB2803676, KB2804583, KB2804584, KB2805222,
+KB2805227, KB2805966-v3, KB2807986, KB2808735, KB2811660,
+KB2812829, KB2815769, KB2820197, KB2820330, KB2822241,
+KB2823233, KB2829254, KB2829361, KB2829530, KB2830290,
+KB2836988, KB2837385
+
+setupcomplete.cmd phase:
+KB890830 (Recent Malicious software removal tool)
+mpas-fe (Defender Updates)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe hotfix)
+
+For KMS-Activated indexes:
+-Creates the Service using SC CREATE and 2 SC CONFIGs
+-May or may not show up on first logon for Windows
+upgrade, but should disappear shortly after.
+
+Changes from recent Windows 8 ProVL releases:
+-Unmodified Winsxs backup folder.
+(Wasn't saving much room)
+-Added .NET 2-3.5.1 and all hotfixes currently avail.
+-OEM KSS V2 for 2.4.3 added.
+Read the included text file for more info
+
+Thank you for your AMAZING KMS Server Service CODYQX4!
+Enjoy Pirates,
+murphy78-TPB/MDL :)

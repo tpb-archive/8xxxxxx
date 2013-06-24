@@ -1,0 +1,16 @@
+
+Unity 4.1.2
+
+The Unity 4.1.2 release brings you Web Player features and fixes. Read the release notes below for details.
+
+Note that in Unity 4.1.1 an issue was causing Asset Store packages to fail. In 4.1.2, UnityEngine.dll and UnityEditor.dll are no longer signed/strong-named, and compiled assemblies can now reference the UnityEditor and UnityEngine namespaces again.
+
+The Unity 4.1.1 release notes have been combined with the Unity 4.1.2
+
+
+Please note that there is no backwards compatibility from Unity 4.0; projects made in 4.0 will not open in 3.x. However, Unity 4.0 will import and convert 3.x projects. We advise you to back up your project before converting and check the console log for any errors or warnings after importing.
+
+
+Crack Included
+
+

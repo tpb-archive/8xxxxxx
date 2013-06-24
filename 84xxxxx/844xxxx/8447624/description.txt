@@ -1,0 +1,43 @@
+"The Live team is pleased to announce the 7.0,0 release of
+the Live images for the stable distribution Debian 7.0
+(codename "wheezy").
+
+The images come in two sets, regular official images are available for
+download at:
+
+   &lt;http://live.debian.net/cdimage/release/stable/&gt;
+
+and unofficial (non-free enabled, firmware included) ones at:
+
+   &lt;http://live.debian.net/cdimage/release/stable+nonfree/&gt;
+
+and later at:
+
+    &lt;http://cdimage.debian.org/cdimage/release/current-live/&gt;
+
+
+Known Issues
+------------
+
+  * no pre-built netboot images for 7.0.0: Due to a bug discovered with
+    RC2 in the live-build version in wheezy last week, there are
+    initially no prebuilt netboot images available.
+
+  * Other known issues and issues we're are adressing in the next
+    point release are tracked through the debian-live pseudo-package
+    in the BTS at:
+
+      &lt;http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=debian-live&gt;
+
+
+About Debian Live
+-----------------
+The Debian Live project produces the tools used to build official
+Debian Live systems and the official Debian Live images themselves.
+
+
+About Debian
+------------
+The Debian Project is an association of Free Software developers who
+volunteer their time and effort in order to produce the completely free
+operating system Debian."

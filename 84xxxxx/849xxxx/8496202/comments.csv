@@ -1,0 +1,198 @@
+﻿User Type,Username,Date,Text
+,js99912,2013-05-21T16:12Z,"RESET GOOGLE ACCOUNTS
+-----------------------------
+
+This will fix a variety of Google Play, Google Talk related errors, like authentication errors, RFC errors and will reset the primary Google account.
+
+
+Get rid of Primary Account, use ES file explorer,
+Enable Root Explorer and Mount R/W. Go to local, then up to root folder, click the data folder, click the system folder.
+
+Hold down the left click on accounts.db, choose delete.
+
+Go to Settings, Applications, Manage
+Go to the ALL tab at the top.
+
+Scroll down to
+Google Play Services
+Click ""clear data"" button
+
+Go back and repeat for the following:
+Google Play Store
+Google Services Framework
+Talk
+Talkatone
+Download
+
+
+Restart BlueStacks by right-clicking the system tray icon, and choose restart.
+
+Open GMAIL, add your Google account!
+
+Enjoy!"
+,pirutluva,2013-05-21T17:42Z,"More Info Please? Never Used Android On PC Before. How Am I Installing This, Do I Need To Create And Or Format A Partition?"
+,js99912,2013-05-21T20:22Z,"Nothing special needed, no requirements really, just run Setup.exe
+
+Of course the speed of your PC will dictate how well this runs, the Setup script makes a lot of tweaks.
+
+Recommend Windows 7 x86 or x64
+Ability to Support OpenGL 2.0 graphics
+Most do today, Intel drivers are usually the big problem.  And you need 4GB free hard disk.
+
+This also worsk on Windows 8, just ensure to Run Setup.exe as administrator
+
+
+**One installed and running, go into task manager and set priority of HD-Frontend.exe to above normal.  You can play around with other settings, but setting just this gives it a solid 20 percent performance boost!"
+,pirutluva,2013-05-21T22:00Z,Ok Thanks For Quick Response. Almost Done Downloading. Will Leave A Response When Finished With Install And Let Fellow Users How It Went. Thanx Again...
+,js99912,2013-05-22T04:03Z,"INFO
+-----
+Flash Player is as touchy in this as any other Android device as Google has moved away from Flash in favor of HTML 5.
+
+To use Flash Player, you MUST use the Opera Mobile Browser that is included, then MOST flash items play fine so long as User Agent is set to Desktop
+http://bayimg.com/aAMIcAaeN
+
+This Opera is not the same as the play store Opera at all, I do not recommend you remove it.  I will notify here of updates.
+
+Many Devs use this as a tool ,in addition to Eclipse, to test their Apps.  Every time I put out a release, a bunch of updates have seem to come. 
+-js"
+,pirutluva,2013-05-22T05:26Z,"Well I Tried Installing Got As Far As Android For Windows Loading Screen Then Blank Screen? Could See Navigation Icons On Bottom Of Screen But Ticking Them Did Nothing. Doesn't Surprise Me . I Have An HP Piece Of Crap g6 Pavillion. I3 Processor,HD 3000 Graphics Card."
+,js99912,2013-05-22T06:47Z,"ok, your video driver doesn't support open gl 2, here what to do, no worries..
+
+run regedit
+goto
+hkey_local_machine/software/bluestacks/android
+change bootparameters
+
+edit it to say GlMode=0 not 1
+
+http://bayimg.com/famIPAAeN
+
+also
+
+hkey_local_machine/software/bluestacks/android/config
+set GlMode to 0
+
+http://bayimg.com/gamIBaaEN
+
+
+That will get you running, but don't expect the video to be awesome until you get video drivers working in GlMode
+
+let me know
+-js"
+,Ancheta,2013-05-22T06:54Z,"this is very suave now!
+my friend, u r still a hack lol"
+,js99912,2013-05-22T07:03Z,"comments are freaking out again, hope you get this
+
+more support at 
+http://forum.suprbay.org/showthread.php?tid=146134
+------------------------------------------------------------
+
+Ok, your video drivers aren't supporting OpenGl2
+
+Set these two reg keys, run regedit
+hkeylocalmachine/software/bluestacks/android
+open the bootparameters key
+change GlMode=1 to GlMode=0
+
+also set
+hkeylocalmachine/software/bluestacks/android/config
+GlMode=0
+
+screenshots
+http://bayimg.com/gamIBaaEN
+http://bayimg.com/gAMidaaen
+
+enjoy
+-js"
+,js99912,2013-05-22T07:21Z,"Ancheta
+
+? wtf r u seriously regd here?  can't be"
+,Ancheta,2013-05-22T07:30Z,"it's me, I borrowed an email
+-
+99912 remember the crater;)
+
+this is a cool toy, i found myself using it more and more everyday now
+
+potato chips rule
+A3a"
+,js99912,2013-05-22T19:49Z,"Trouble with Intel Driver, you can try these
+
+http://thepiratebay.sx/search/android_for_windows_intel/
+
+the install of these driver will put some hair on your ass!
+-js"
+,js99912,2013-05-22T19:55Z,"DO NOT UPDATE BLUESTACKS!!!!
+------------------------------------
+
+BlueStacks decided to push updates, and they don't work to well, and they unroot, and they choose to unistall certain apps from you even if you paid for them.
+
+So for that, run regedit and delete the following
+
+HKEY_LOCAL_MACHINE/SOFTWARE/BlueStacks/Updater
+
+screenshot
+http://bayimg.com/OAMjKAAeN
+
+-js"
+,cuntoicai,2013-06-02T09:10Z,"This is the best android software that runs on Microsoft Windows that I have ever try. It is appropriate, stable and powerful.Thanks to js99912 for recompile or hack this BlueStacks app. :) 
+
+Total Space only 2.00gb.?
+how I would like to add another Space for my internal storage to 32gb or 64gb? 
+
+Regards.
+"
+,js99912,2013-06-03T22:55Z,"thank you!  one of this issues I am currently working on is expanding the file system.  Adding space is not an issue, but distributing it is.  the sparse system expands then doesn't release free space even if you delete.  Thus my torrent could end up being 20+gb even tho most of that space is empty. 
+
+ It's a challenge I am actively working on, but I can give you something to tinker with
+http://www.hostfile.nl/files/ijse4572ms/1919/sd8data4.zip
+
+this will give you 4GB data an 8GB SD, BUT if you overwrite without doing a backup, you will be at ""factory default"" conditions.  I wouldn't overwrite the /data.just the SD or you will be stuck in Google initialization limbo and it becomes difficult to get everything back running.
+
+ultimately, I am trying to add a second mount that is ntfs and completely readable in the windows environment for ease of copying and solving the space concerns.
+
+Comments, questions, lemme know,
+-js"
+,cuntoicai,2013-06-04T13:38Z,"Yes. you are correct. I've tried this before using the ""Block Device Tool"". so, I hope you prosper produce something interesting about this ""Android for Windows for Android addiction"". :)
+
+I will look forward to the latest developments from you.
+
+Best wishes.."
+,js99912,2013-06-07T06:49Z,"this should hit next week, you kept me up a couple nights, but I got it...
+
+
+js99912-AW2.5
+
+CHANGELOG
+--------------
+added new visual elements
+added group sorting
+ALL Google APPS
+remove old betas
+fix gallery
+fix adw crash
+network tweaks
+apk updates
+gmail black autoload images
+google earth
+hulu plus
+sys config - adult
+foldersync
+
+NEW FILE SYSTEM
+--------------------
+750MB system partition
+4GB data partition
+32GB sdcard
+
+IN PROGRESS
+---------------
+user profiles
+a lock that actually works and doesn't jones
+
+
+-js"
+,cuntoicai,2013-06-07T13:33Z,"Waw! This is good news for all android lovers. Such have been eager for the latest release from you. :)
+
+(js99912) Thank you in the hard work that you gave.
+
+Regards..."

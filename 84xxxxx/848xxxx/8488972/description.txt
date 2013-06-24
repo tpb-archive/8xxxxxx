@@ -1,0 +1,71 @@
+Features
+
+- 133 high quality instruments, drum kits & sliced-loop beats
+- All instruments have FL Studio desktop counterparts for FL Studio desktop import and extension
+- Step sequencer for fast percussion programming and sliced-loop reworking
+- Configurable virtual piano-keyboard
+- Drum pads
+- Browser with preview button and logical sorting into Instruments, Synths, Drum kits & Loops
+- Pan, volume, release and attack time configurable per instrument
+- Pitch bend via accelerometer
+- High quality, battery-friendly audio engine (latency depends on the device)
+- Drum loops and sliced loops ready to start your project with a cool beat
+- Effects include Limiter, Reverb, Delay, EQ, Amp simulator & Filter to enhance your mix.
+- 99 track sequencer and intuitive editing options
+- Per-track mute, solo, effect bus, pan and volume adjustment
+- Edit at the level of tracks, bars or down to individual notes
+- Piano roll editor for manual entry of note & chord sequence data or detailed editing of recorded performances
+- Undo and redo for all editable screens
+- Metronome with tempo & time-signature settings
+- Intuitive positioning of screens with the slide gesture and resize with the pinch gesture
+- Save and load your songs, export to WAV and AAC
+- MIDI file import/export
+- Share your songs via Email or Dropbox
+- In-app user manual
+- Android 2.3.3 required
+- Works with all screen resolutions, but FL Studio Mobile is optimized for 1280x800, 800x480, 960x640 and 480x320 screens.
+
+
+What is new in version
+
+1.0.5:
+- Fixed a crash when loading an instrument from the loops category
+- Fixed pitch bend recording in overdub mode
+- Fixed a crash when opening the user forum from the setup
+- Minor other bug fixes
+
+1.0.3:
+- Fixes a touch bug on devices with full HD or higher resolutions
+1.0.2:
+- Fixes many crashes and freezes
+- Major performance improvements
+1.0.1:
+- Fixed an issue which caused the "Resources not available" error and prevented the download of the instruments bundle
+- Fixed a registration problem where the same serial number was assigned to multiple users
+- Added compatibility for devices with very high screen pixel density like the HTC Droid DNA and the Sony Xperia Z
+
+System Requirements:
+
+* Android 2.3.3 or higher is required
+* FL Studio Mobile is optimized for 1280×800, 800×480, 960×640 and 480×320 screens. It will still work with displays which have a different resolution, but it will maintain the aspect ratio of the closest resolution leaving black bars at either top and bottom or sides of the display.
+
+Devices reported so far:
+- Asus Transformer 101 - Android 4.0.3 - Tested OK
+- Google Nexus 7 - Android 4.2 - Tested OK
+- HTC Flyer 64gb - Android 4.x - Tested OK
+- HTC One - Android 4.1 - Tested OK
+- Huawei Ascend G330 - Android 4.0.4 - Tested OK
+- Kyocera Hydro - Android 4.0 - Tested OK
+- Samsung Galaxy Note - Android 4.1 - Tested OK
+- Samsung Galaxy S3 - Android 4.1.1 - Tested OK
+- Samsung Galaxy Tab 8.9 - Android 4.0.4 - Tested OK
+- Samsung Galaxy Tab 2 7.0 - Android 4.1 - Tested OK (w/ black borders)
+- Sony Tablet S - 4.x - Tested OK
+- Sony Tablet S 16GB - Android 4.0.3 - Tested OK
+- Toshiba T100 - Android 2.x - Reported Unstable
+- Toshiba AT100 - Android 4.0.4 - Tested OK
+- Verizon Galaxy Note 2 - Android 4.x - Tested OK (w/ black borders)
+
+Language : English
+
+Homepage : 

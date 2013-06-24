@@ -1,0 +1,93 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-04-24T14:15Z,"You can get a hold of me on mdl if you need to pm me. I don't check my suprbay acct very often, but I spend quite a bit of time over there reading the latest on activation and kb files and such.
+
+http://www.mydigitallife.info
+
+While you're there, feel free to give CODYQX4 or Daz a ""thanks"" on their MS Toolkit or Windows Loader project threads for their great activation tools."
+[V],murphy78,2013-04-25T02:14Z,"Sorry sepp, I've tried many times to do other languages. They simply do not get enough people seeding them to sustain the torrents. I've since deleted the source isos.  You can try looking on msdn for the german language rtm, then search for the iso name on the net. After that look on mdl for an activator."
+,YodaDaCod,2013-04-25T04:20Z,"Murphy78, I'd just like to say thanks. Your torrents are of exceptional quality and save me so much time when reinstalling.
+
+You're awesome."
+[V],murphy78,2013-04-25T06:24Z,yw bud
+,Bittornado,2013-04-25T16:07Z,"Just wanted to second what Yoda said! Your stuff are always 100% clean functional and fantastic. Also, above all that, you are one of the few people actually giving replies and support to user questions... you are too kind mate :) Thank you for all the hard work!
+
+-B."
+,jeet2k,2013-04-25T17:03Z,"@murphy78 
+
+Noob question! Is it possible to have a single point installation for Windows 7 SP1 AIO and Windows 8 AIO that will fit in a 16GB pen drive?"
+,Sh4dowFury,2013-04-25T20:15Z,Great job as usual
+[V],murphy78,2013-04-26T04:32Z,"jeet, It's possible, but you'd need to use 2 different boot.wim and 2 different install.wim and change the bcd to give a choice between either win7 install or win8 install. Then you would need to use different sources directories similar to how you split an x86 and x64 aio into 2 directories.  Usually the x64 version calls the /installfrom command to point at source64 or sourc64 depending on if you used aio maker or hex edited it.
+
+Although it seems like a good idea, it's really a lot of work to do all those mods.
+
+I may do something like that for vista/7/8 with no kb files or updates just for the tech guys out there, but a lot of end-users would be confused by all the options."
+,qomo8850,2013-04-26T12:38Z,"Many thanks murphy78 for the great collections of winos... right now i'm collecting the win7 series, its AIO and win8 series as well ;) just wanna have them handy when need arises. You're the RELIABLE source"
+,til_roque,2013-04-26T19:22Z,"@jeet2k  and  @murphy78  I think that would be awesome to make a KB-less single-point installation for a USB stick. If you're ever so inclined, I vote for a Win7 version :)"
+,sokhi,2013-04-27T08:15Z,"murphy78's  aio torrent,  like as Microsoft official DVD, Great Torrent.
+ jeet2k yes is possible also make win 7 & win8 modify install.wim
+http://img703.imageshack.us/img703/208/multiox.png
+"
+[V],murphy78,2013-04-27T14:07Z,sokhi you don't want to use a win8 boot.wim for a win7 install.wim. It will mess up your system.
+,sokhi,2013-04-27T20:41Z,"Thanks murphy78 for reply, tested on VMware no probe found. using grub boot disk ""mOBSCENE21's Multi-Boot USB v3.5"""
+,Sh4dowFury,2013-04-27T20:57Z,Difference OEM and Pre activated?
+[V],murphy78,2013-04-28T10:32Z,"Oh I'm sorry I didn't list what OEM-activated actually is. There's a multi-branding activation dealie on MDL that you can put in vitsa/7 that will put images in system windows such as computer properties, the logon screen, desktop default background. OEM computer manufacturers use this to put their logos on things.
+
+If you have an Intel board, it will put intel logo on a few things... Asus will put asus logo, etc.
+
+It also attempts to use your built-in slic for activation by default. If you do not have one installed on your motherboard, it will run windows loader to activate.
+
+You can use oem-loader even if you know you have a problem with windows loader, and just run windows loader after the fact to set advanced options.
+
+It's really a use-at-your-own-risk type of thing though. I'm not extremely familiar with the oem activation stuff it does, I just know it's supposed to work if your bios plays ball.
+
+on the win8 boot.wim thing, it fubar'ed by flash drive and I had to do a diskpart clean and repartition. Just be careful if you mix windows versions."
+,Hholden,2013-04-30T02:08Z,"Hey Murphy. Found your downloads yesterday and so far loving them.
+
+This just downloaded, and usually I use UltraISO to burn ISO's to USB's. It only wrote 4GB of 6.7. I then tried the included WinUSB creator and it has an error and doesn't load.
+
+I've then tried Windows USB Maker, and that wrote it completely, but the Boot loader doesn't detect it. Any ideas?"
+,abhi95sinha,2013-04-30T07:02Z,Hii there murphy78..!! I've got a request to make. Can you upload a torrent winth both 32 and 64 bit versions of win 7 ultimate (and professional too if possible) with latest updates like IE10 within a normal 4.7 GB dvd space range
+[V],murphy78,2013-04-30T07:03Z,"thx for the support guys...
+
+As far as the problem with the iso, it could be many things. It could be a failed hash part that made its way into your file by some sort of miscalculation or perhaps a usb driver or system driver is bad.
+
+Download hashtab and right-click the iso and make sure it has the same hashes as the listed one in the description. Then start task-killing any non-essential running software programs one at a time until it works correctly for you. (Daemon tools, ultra-iso, anti-virus programs, etc)
+
+My supported iso burning method is to simply insert a dual-layer dvdr and then right click the iso and burn to the dvdr using windows' built-in burning tool.  All other custom programs should be used only if you feel confident that they do not have problems with your hardware or blanks."
+[V],murphy78,2013-04-30T07:04Z,"I'm still looking into making a super-AIO for the tech people. I have found a few pages with wild claims and some with instructions, but I will work on it and test extensively before upping."
+,abhi95sinha,2013-04-30T07:35Z,okey dokey..!! Please do try to upload it soon if your free time permits.... :) :)
+[V],murphy78,2013-04-30T13:30Z,"progress is progressing on the win7+8 aio.
+
+Turns out sokhi seems to be right about using win8's boot.wim and having an install.wim with both win7 and win8's indexes.
+
+I'm early in the testing phase, but so far it seems to install windows 7 fine. I still need to put it on a usb drive and make sure it doesn't FUBAR it like my previous testing did."
+[V],murphy78,2013-04-30T14:58Z,"Further testing indicates that much more than the boot.wim is necessary for a successful win7 install using win8's files. I dropped vista indexes to try to make it fit on a dual-layer dvdr, but without serious index cutting, it just won't fit.  So I'm going to re-add them, and just require people use a blu-ray or a 16+gig usb drive.  I'll work everything out, test it about as thoroughly as I can, then up."
+,NaJeEb303,2013-05-01T08:16Z,"Thanx 4 this share...,
+Can u plz make an iso for
+Windows 7 Ultimate both 32 Bit & 64 Bit Pre-activated with all latest stuff . . . ?!
+Thnks..!!!"
+,sokhi,2013-05-01T08:21Z,allredy done win7+8 x32 x64 aio.
+[V],murphy78,2013-05-01T10:18Z,"vista additions on the aio gave errors after install, gonna omit those"
+[V],murphy78,2013-05-02T11:17Z,"yah nexes it's over 9 gigs with the dart8. I forgot to add a prowmc, so I'm going to add that and test a couple indexes again, but everything seems ok."
+,epktres,2013-05-09T20:54Z,"This is the first time I can recall ever posting on this site.  I really wanted to thank you for this download.  I live in the boonies, and the only internet I can get is satellite, which limits your download amount per month.  I work on a lot of computers, and burn up my monthly amount all the time.  This will be an enormous help.  Thanks a lot!"
+,Doubzstep,2013-05-10T04:22Z,"Hello murphy78,
+
+I do not make requests usually and feel a little embarrassed to ask of you, but is there any chance you can do an Office release with both x86 and x64 in one .iso? This would be very convenient like all of your other torrents are.
+
+Thanks from a big fan,
+
+-Doubzstep"
+,Scurbdog,2013-05-14T03:18Z,"I want to thank you for your work. Great stuff without bloat and works great. Question I have is after using your March Windows 7 AIO on several Lenovo laptops with intel wifi cards. The driver was installed on first boot? Did you add those drivers to that realease?
+I ask, because now using your latest April Windows 7 AIO, the wifi drivers are not installed on first boot?"
+[V],murphy78,2013-05-14T15:40Z,"Sadly I forgot to add the network drivers in this release. I re-did my integration script from scratch because I was using a lot of SET variables and it was just too unreadable.
+
+I'm terribly sorry I forgot them this month.
+I will make sure May does indeed have them."
+,Scurbdog,2013-05-15T07:54Z,"@Murphy78
+
+Thanks for the reply. I thought I was losing my mind, not having those network drivers. Can't wait for your May release."
+,eddierex,2013-05-19T16:02Z,"Hi Murphy,
+
+I apologize in advance for the ""noob"" question, but I'd like to know if your work (this download, for example) can be used in cases where I need to do a ""legitimate"" install, where my customer has a product key.  I wouldn't want any issues to arise later when I do installs for paying customers.
+
+Thanks."

@@ -1,0 +1,66 @@
+
+IMDB:  http://www.imdb.com/title/tt2617456/
+
+
+-[NoImage] x264 : frame I:1253  Avg QP:11.27  size: 58453
+-[NoImage] x264 : frame P:25375 Avg QP:13.51  size: 15105
+-[NoImage] x264 : frame B:81589 Avg QP:16.07  size:  3269
+-[NoImage] x264 : consecutive B-frames:  3.1%  4.0%  6.6% 44.4%  9.2% 10.4%  3.1% 10.0%  1.9%  3.7%  3.5%
+encoded 108217 frames, 137.23 fps, 1281.95 kb/s
+
+
+
+
+
+General
+Complete name                            : Superman Unbound 2013 576p WEB-DL x264 AAC-SSN.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 850 MiB
+Duration                                 : 1h 15mn
+Overall bit rate                         : 1 580 Kbps
+Encoded date                             : UTC 2013-05-01 09:08:25
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 15mn
+Nominal bit rate                         : 1 281 Kbps
+Width                                    : 1024 pixels
+Height                                   : 574 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.110
+Writing library                          : x264 core 132 r2309 3b1f1f7
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 15mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No
+

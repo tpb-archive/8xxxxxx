@@ -1,0 +1,124 @@
+﻿User Type,Username,Date,Text
+,nefuraito,2013-05-07T20:50Z,"I am really confused as to what to do.
+
+I downloaded the repack, installed it without any problems. I ran it once, sat through the movie, etc, etc. It said it was at version 1.7.1.
+
+I tried running gu.exe, the official updater, and it didn't work. 
+
+I downloaded your 1.7.1 clean .exe and tried again, it still didn't work.
+
+I tried running the Shades of Darkness updater and it said the game wasn't installed.
+
+I THEN tried your 1.8 version and tried again, this time trying SoD setup, and it says that it can't run because Shades of Darkness isn't installed.
+
+I am at a complete loss as to what to do, do I just wait for a full repack of everything?
+"
+,KiwiPirate,2013-05-07T22:14Z,"nefuraito , you do not use gu.exe
+if you run the game with Might & Magic Heroes VI.exe then it should be fine
+
+load your registry editor (regedit.exe) and go to key HKEY_LOCAL_MACHINESoftwareUbisoftMight & Magic Heroes VI
+check your settings and install path is correct
+
+copy the entire contents below into notepad and save as heroes.reg then right click that file and merge with registry after correcting the path to YOUR installation
+
+my install is E:GamesMight&MagicHeroesVI , yours probably isn't
+
+------------------------------------------
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI]
+""DataPath""=""E:\Games\Might&Magic\HeroesVI\Data""
+""InstallPath""=""E:\Games\Might&Magic\HeroesVI""
+""Product Version""=""1.8""
+""SavePath""=""$WinMyDocumentsPath$\Might & Magic Heroes VI""
+""TempPath""=""$WinAppDataPath$\Might & Magic Heroes VI""
+""Language""=dword:00000409
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.6]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.7]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.7.1]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI1.8]
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VIGameUpdate]
+""execPath""=""E:\Games\Might&Magic\HeroesVI\Might & Magic Heroes VI.exe""
+""installdir""=""E:\Games\Might&Magic\HeroesVI""
+""info""=""1ba3cecde24e4d048015a3a946d2b07f""
+""language""=""us"""
+,KiwiPirate,2013-05-07T22:17Z,"backslashes are missing above , this should be corrected :
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI]
+""DataPath""=""E:\Games\Might&Magic\HeroesVI\Data""
+""InstallPath""=""E:\Games\Might&Magic\HeroesVI""
+""Product Version""=""1.8""
+""SavePath""=""$WinMyDocumentsPath$\Might & Magic Heroes VI""
+""TempPath""=""$WinAppDataPath$\Might & Magic Heroes VI""
+""Language""=dword:00000409
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\1.6]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\1.7]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\UbisoftMight & Magic Heroes VI\1.7.1]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\1.8]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Ubisoft\Might & Magic Heroes VI\GameUpdate]
+""execPath""=""E:\Games\Might&Magic\HeroesVI\Might & Magic Heroes VI.exe""
+""installdir""=""E:\Games\Might&Magic\HeroesVI""
+""info""=""1ba3cecde24e4d048015a3a946d2b07f""
+""language""=""us""
+"
+,nefuraito,2013-05-08T00:39Z,"OK, thank you for your reply. I am retrying it right now after removing everything and deleting things from the registry to get it to all start over. 
+
+Install the Repack, start the game. It lists the version as 1.7.1 and works fine. 
+
+At this point, I try running the SoD 1.8 updater, it says the game isn't installed. 
+
+If I check the registry, the entry for M&M is listed under Wow6432NodeUbisoftMight & Magic Heroes VI ..but that really shouldn't matter, should it?
+
+Either way, the 1.8 updater won't work, so I copy over the 1.7.1 exe, then I also copy the 1.8 exe and all the related files. 
+
+If I try and run the game at this point, it will seem to do some updates and try and use UPlay, so I'm not going to try and run it just yet.
+
+Obviously, the 1.8 updater still won't work, but at this point it shouldn't be necessary... So I run your registry script and add everything, it shows up just fine, but neither Shades of Darkness nor the other patch will seem to recognize that it's there.
+
+Basically it seems like the repack refuses to be a valid type of installation for the purposes of the Shades of Darkness torrent, or anything else for that matter...
+
+Maybe I should just play the game on 1.7.1 and be happy with it. "
+,KiwiPirate,2013-05-08T03:59Z,"I have just checked my registry as i had to download the skid row ISO as this was the only way i could get the original 1.7.1 exe
+
+i have those registry settings under both \software\ubisoft and software\wow6432node\ubisoft in the HKLM setting
+
+i have Win7 Ultimate x64
+
+when i first tried to install it went
+
+i accidentally installed from SoD DVD \support\UplayInstaller
+delete my heroes VI game folder
+install game from skid row ISO and 1.7 + 1.7.1 patch
+backup 1.7.1 exe
+uninstall heroes vi + delete all registry settings
+install catalyst version then load  game
+copy original 1.7.1 exe
+on DVD \update\hmm6_digital_1.8_efgis.exe
+install SoD
+
+I then loaded the might & magic heroes vi.exe and uplay launched and told me i need to login at least once to play offline
+
+so i copy over crack dlls from DVD and get a ""The specified file contains invalid data"" error "
+,KiwiPirate,2013-05-08T08:32Z,reg fix here : http://thepiratebay.sx/torrent/8451018
+,rexen92,2013-05-08T10:11Z,"same problem...got ""The specified file contains invalid data"" error..."
+,KiwiPirate,2013-05-08T16:41Z,"DO NOT DOWNLOAD THIS TORRENT !!!
+
+Full fix here - http://thepiratebay.sx/torrent/8452230"
+,KiwiPirate,2013-05-08T16:47Z,"sorry rexen92 - i just read your comment
+
+please see link above , the only file you will need is the DATAxx.rar
+and then unpatched dll files for any future updates"
+,rexen92,2013-05-08T21:00Z,thank for the reply...i will try it.

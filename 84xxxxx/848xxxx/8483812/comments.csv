@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-05-17T14:44Z,"Screens from x86 testing, but tested both:
+00-IE10-Pre-Integrated:
+http://bayimg.com/Kamffaaem
+
+01-MSE-Free-AV-Prog:
+http://bayimg.com/KaMfgAAEM
+
+02-MS-Office-2013-ProPlus:
+http://bayimg.com/KaMfiAAEm
+
+03-DirectX-Updated:
+http://bayimg.com/KamfJaAEm
+
+04-Activation-Proof:
+http://bayimg.com/KAMfKaAeM
+
+05-Important-Updates-After-Install:
+http://bayimg.com/KAmFLAAeM
+
+06-Optional-Updates-After-Install:
+http://bayimg.com/kAMfnAaeM
+
+07-Uninstall-Info-and-Sysprep-Notes:
+http://bayimg.com/kAmFOAaEm"
+,press2012,2013-05-17T22:07Z,"Thanks for posting.
+
+>If you have had problems with sysprepped images in the past
+
+Before downloading what are the problems that you know of that some people have had with sysprepped images. TIA."
+[V],murphy78,2013-05-18T01:57Z,"I don't know press2012. I've literally never experienced any problems with them. I have, however, gotten a few complaints. A few were from people who liked to run the install.wim through an additional pass of integration, but there were some people who said that it simply crashed during install and wouldn't work.
+
+The first issue makes sense since the updates are installed with windows update and not dism, but I have no idea about the second one.
+
+For those that don't have any problems, a sysprepped image is FAR superior in terms of setup-time to the non-sysprep counterparts.  You won't notice it as much on a fast system with a current hard disk, but on a slower system thats 5+ years old, you will DEFINITELY notice the speed increase of install."
+,chacrE5a,2013-05-18T02:52Z,"Hi Murphy,   I'm curious as to why you are using Enterprise/KMS rather then Pro/Ultimate/Loader?"
+[V],murphy78,2013-05-18T03:54Z,"chacrE5a, Office already requires KMS activation if you don't want to use a key that will likely get banned.  That plus the incompatibility of certain motherboards for using loader makes it a no-brainer.
+
+It's simple math really... One activation method is better than two."
+,xxxxmo,2013-05-18T11:58Z,Good Work
+,pankaj.kr,2013-05-18T12:42Z,"hey murphy i think u have uploaded enterprise edition on place of win 7 ""ultimate""..is it? or u r gonna to upload ultimate too in few days? and wat are the main differences between enterprise and ultimate? thanx...always luv ur work.."
+[V],murphy78,2013-05-18T15:43Z,I'm going to do ultimate without office soon. I had told people I was going to do win7+office...
+,chacrE5a,2013-05-20T00:29Z,"Either way thanks murphy, your work is much appreciated :)
+"
+,chacrE5a,2013-05-20T00:34Z,"murphy,  Just wondering if you would consider doing a XP AIO at some point?  Would be great to have a updated XP disc with all versions  :)"
+,hedns,2013-05-20T10:14Z,Windows Server plz
+,manzy3000,2013-05-20T20:39Z,Thank you man...installed and running smoothly without any problem whatsoever.
+,press2012,2013-05-23T21:07Z,Thanks for posting. Getting ready to burn and read the KSS-V2-2.4.3-Readme and Win7Ent-SP1-Off2013-x64-en-US and became confused. After burning am I able to boot the DVD and simply install or do I need to go back and read the two info files more carefully. TIA.
+,rehansiddiq,2013-05-25T11:35Z,"thanks dear   ;)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+,djk978,2013-05-25T20:36Z,"Hi I quite the noob... I just ran the ISO with KMS and everything worked great, but what to do with msoffice? It asks for the product key, I tried using gVLK? I have been going online but cannot find a working code. Should I reinstall the OS? or install the DaRT8 files?"

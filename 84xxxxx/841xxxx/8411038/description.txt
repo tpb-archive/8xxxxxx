@@ -1,0 +1,13 @@
+To all our regular users (and anyone else stumbling in here :) )
+
+If you have 'upgraded' to Utorrent 3.3 you are not seeding as well as you should. There is a bug which means you will only connect to one seeder/peer at a time instead of several.
+
+This is causing problems for our seeding (and for other uploaders too I would assume) as each torrent takes alot longer to get a life on its own, and thus we have to wait longer betweeen uploads.
+
+So please download this or any of the other Utorrent 3.2.3 builds until V3.3 is fixed.
+
+Thanks
+
+Shallow02 and Merzedes
+
+Cheers :)

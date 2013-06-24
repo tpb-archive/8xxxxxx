@@ -1,0 +1,77 @@
+Central to the new version is the concept of Prisoner Employment, and weΓÇÖve been planning this feature for a long time. Prisoners can now perform a variety of jobs around the prison, saving you money on staff and raising money for you by selling goods manufactured by your work force. Prisoners can work in the kitchen, they can clean the prison, and they can work in the laundry and the workshop, both of which are new in Alpha9. 
+
+We have a brand new laundry system, which is entirely prisoner run. Clean uniforms will be distributed around your prison in laundry baskets, and prisoners will change into these after theyΓÇÖve had their shower. Dirty uniforms will be collected up in laundry baskets and brought back to the laundrette where they are washed. It can take quite a long time to cycle all the laundry in your prison - expect it to take several days to cycle everyone in large prisons. 
+
+We also have workshops. These rooms are used to produce trinkets which you can sell for profit - currently car license plates, which the prisoners make out of sheet metal with a couple of new bench tools. ItΓÇÖs up to you if you wish to exploit your prisoners for cheap labour - it will certainly help with the cashflow, and your prisoners will be learning new skills at the same time. (Actually nobody learns anything in alpha9, but they will in a future update) 
+
+Prison labour is free right now, but eventually (in a future alpha) you will pay your prisoners a small wage, which they will be able to use to buy essential supplies from a prison shop. And all of these rooms - the kitchen, the cleaning cupboard, the laundrette and the workshop, will bring their own particular dangers to the prison if you chose to use them. 
+
+If that wasnΓÇÖt enough, visitation has also been added in alpha9. Most prisoners now have family, and those family will want to come and visit from time to time. (Note: All bios will be re-generated because of this). Click on any prisoner to see his known family members listed in his rap sheet. Build a visitation room and those family members will come to see their loved one in jail, which makes everyone a little bit happier. However you should enjoy the universal goodness of visitation while it lasts, because in a future alpha it will become a major source of smuggled contraband. 
+
+ThereΓÇÖs also a number of visual changes: Most noticeably, the main toolbar icons have all been replaced with cleaner, higher resolution versions. You should also notice the grime and dirt and overgrown grass and pathways around your prison look much better (so to speak) - we used to rely on a single crack graphic for everything! ItΓÇÖs now much more obvious when your prison needs cleaning and gardening, and much more satisfying to watch your janitors and gardeners doing that. And of course you can get your prisoners to do most of the cleaning now anyway, which gets the job done much quicker. 
+
+This was a major update, adding a load of new ΓÇ£mid gameΓÇ¥ content to the game. WeΓÇÖve got big plans for alpha10 as well, which should be another big one. In the mean time, enjoy the latest version. 
+
+Full change list 
+Code:
+
+= Employment 
+    Prisoners can now perform different jobs during a new 'Work' regime activity 
+    Create employment opportunities with the new 'Jobs' button in the Deployment screen      
+    Prisoners not employed during the 'Work' regime treat it as 'Free Time' 
+    Currently available prisoner jobs : Laundry, Cooking, Cleaning, Workshop 
+        Note: The rooms must be accessable, ie Prisoners can't cook if the kitchen is Staff Only 
+        Note: Eventually you will pick who can work, but for now every prisoner is permitted to work 
+    
+= Laundry 
+    New rooms and objects have been added to support creation of a Laundry service within your prison 
+    Clean prisoner uniforms are distributed around the prison in Laundry Baskets 
+    Dirty uniforms are collected up and brought back to the Laundry room, where they are washed in machines 
+    Prisoners now get undressed in their cells before Shower Time, and return to their cell after to re-dress 
+    They will change into a clean uniform if one is available, leaving behind their dirty uniform for laundry. 
+    Prisoners now have a 'Clothing' need that reflects how clean their clothes are 
+        Note: Clean prison uniforms will be stored on any table space, or on the floor, in the Laundry 
+    
+= Workshops 
+    You can now create workshops and use them to convert cheap raw materials into trinkets of value 
+    Raw sheet metal will be dropped off in your workshops 
+    Your Prisoners will use the circular saw and hydraulic press to manufacture car number plates 
+    These will be sold at midnight for a profit 
+        Note: Sheet metal and License plates will be stored on the floor in the workshop. 
+        Build tables if you prefer your rooms to be tidy 
+        
+= Families and Visitation 
+    All Prisoners now have various family members, listed in their Rap Sheet. Some prisoners have no family. 
+    Family members will want to visit an inmate from time to time 
+    You can now create a visitation room, and visitors will start to arrive every day (8am - 8pm) 
+    Prisoners can also take visits from their lawyer 
+        Note: All bios from old save games will be re-generated to support this 
+    
+= Cleaning 
+    - Prisoners can now help out with the cleaning of your prison 
+    - New room : Cleaning Cupboard. This is required to assign Prisoners to the cleaning job. 
+    - Janitors and Prisoners will now clean inside individual jail cells, so long as the cell is open to them 
+    - The rendering of decay has been improved - eg muddy floors, dirty shower cubicles, overgrown pathways etc 
+    - Surfaces will now Decay 50% slower than before    
+
+
+- Food Ingredients will now be stored on the kitchen floor if there is no available fridge space 
+
+- Older prisoners now have older faces, and are less likely to be incarcerated for certain crimes like Joyriding etc 
+
+- Fences now visually join onto walls better 
+
+- Electrical cable and water pipes now come in stacks to prevent flooding your deliveries area 
+
+- Fixed: Workshops no longer award you money per square. 
+
+- Fixed: The deployment system would not always update correctly, leading to a single grey sector 
+
+- Fixed: Crash bug in planning mode when drawing off the edge of the map 
+
+- Fixed: Dead staff members will no longer be paid a daily wage 
+
+- Fixed: The game would not render correctly on Windows Vista or higher when non-standard desktop DPI settings were used 
+
+- Fixed: Prisoners under lockdown in their cells would sometimes leave their cell to go to lunch/yard etc, 
+    only to be chased down immediately by guards and returned 	

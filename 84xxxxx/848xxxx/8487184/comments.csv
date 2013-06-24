@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,pata1982,2013-05-20T00:53Z,thx buddy!
+,yb123,2013-05-23T22:42Z,"I run windows 8, and when i have installed the game and try to run it, it says error:cant find d3dx9_30.dll on your comp, any idea guys??"
+,capricornio,2013-06-07T20:05Z,"@yb123:
+
+If this is the very first DirectX9 game you're installing, it could well be you need to install DirectX 9.0c. A lot of games still need it, just like it happens with Windows 7.
+
+Don't worry, the installer won't touch your DirectX11 files.
+
+HTH"

@@ -1,0 +1,26 @@
+Type of file .................. RAR
+Compression Ratio ............. 89% (very low)
+Number of Files ............... 1
+Number of files archived ...... 6
+Total length .................. 1.7 Mo
+Packed length ................. 1.5 Mo
+
+Install notes and Description
+
+1. Unpack all contents (select "Extract here" (WinRAR)
+2. Go inside the unpacked directory
+3. Install in this order :
+- Copy PCMeter folder into your program file folder (usually C:Program Files (x86))
+- Run PCMeterV0.3.exe
+- Go back into your extracted directory and run all applications
+- Press "Install" when you install a gadget
+4. Verify that all gadgets are currently visible on your desktop (4 total)
+5. You done. Don't forget to configure your gadgets
+
+This gadget set is supposed to have some monitoring on your desktop.
+It doesn't consume a lot of CPU and memory power
+PCMeter will automatically start when Windows start up because it's needed to get the temperatures or video card informations
+
+Please visit&lt;&lt;&lt; My youtube channel
+You can help me buying more bandwidth or hardware components by donating :
+Give just $2 is very helpful for me, as if many people give ! Thank you ! 

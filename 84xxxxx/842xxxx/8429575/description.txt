@@ -1,0 +1,15 @@
+¡Eh!, ¿la programación de sockets te quita el sueño? ¿Todo esto es demasiado complicado para desentrañarlo sólo con las páginas de man? Quieres hacer buenos programas para Internet, pero no tienes tiempo de pelearte con montones de structs para tratar de adivinar si tienes que ejecutar bind() antes que connect() , etc., etc.
+
+Bueno, ¿sabes qué?, ya me he ocupado de todo ese molesto asunto y estoy deseando compartir la información con todo el mundo. Has venido al lugar adecuado. Este documento debería bastar para que un programador en C medianamente competente empiece a trabajar en un entorno de redes.
+
+Este documento se ha escrito a modo de tutorial, y no como una guía de referencia. Probablemente, es de máxima utilidad para personas que están empezando a programar con sockets y buscan donde apoyarse. No es, en absoluto, la guía completa de programación de sockets.
+
+Sin embargo, con suerte será suficiente para que esas páginas de man empiecen a cobrar sentido…
+
+Título: Guía Beej de Programación en Redes
+Autor(es):Brian Beej Hall
+Publicación:2001
+Editorial:Autoedición
+Núm. Páginas:50p.
+Tamaño:171 Kbs (zip)
+Idioma:Español

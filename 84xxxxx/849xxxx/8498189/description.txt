@@ -1,0 +1,40 @@
+MFx Patcher 4.6.6
+--------------------------------------
+Product: Xamarin.Android, Xamarin.iOS & Xamarin Studio
+Website: http://xamarin.com/
+Protection: Multiple license checks.
+--------------------------------------
+
+
+INSTRUCTIONS
+
+1. Download and install the Xamarin Installer 2.0 from the Official Website.
+2. Download and Run MFx Patcher.
+3. Click Patch.
+
+ENJOY! If you like the software, buy it!
+
+
+PREREQUISITES & NOTES
+
+- This patch only supports: [Xamarin.Android 4.6.06000], [Xamarin.iOS 1.0.897] and [Xamarin Studio 4.0.8]
+- You need Visual Studio Professional (2010/2012) or better to use the extensions from Xamarin.
+- The patch will not work if there's installed another version of a supported product.
+- The patch is reversible, just use the unpatch button.
+
+
+INDEPENDENT INSTALLERS
+
+Download and install in the following order:
+
+1. JDK 6 - http://www.oracle.com/technetwork/java/javase/downloads/jdk6downloads-1902814.html
+2. Android SDK - http://dl.google.com/android/installer_r22-windows.exe
+3. Android NDK - http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86.zip
+4. GTK# - http://download.xamarin.com/GTKforWindows/Windows/gtk-sharp-2.12.21.msi
+5. Xamarin.Android - http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.6.06000.msi
+6. Xamarin.iOS - http://download.xamarin.com/MonoTouchforVisualStudio/Windows/mtvs-1.0.897.0.msi
+7. Xamarin Studio - http://download.xamarin.com/studio/Windows/XamarinStudio-4.0.8.msi
+
+Having troubles and going to ask? Give also information about installed products, versions installed, and the complete output text that the patcher gives.
+
+[Team XaMi]

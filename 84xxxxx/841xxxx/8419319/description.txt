@@ -1,0 +1,25 @@
+SOFTWARE:     GPGTools ML1
+DEVELOPER:    GPGTools.org
+YEAR:         2013
+SIZE:         11 MB (11.1 uncompressed)
+FORMAT:       PKG installer
+COMPRESSION:  ZIP archive
+SOURCE:       Non-public preview release
+RELEASE DATE: 2013-03-23
+UPLOAD DATE:  2013-04-28
+
+
+GPGTools is a collection of several softwares, bringing encryption/decryption and signing of e-mails and files, to you on your Mac. (See Gpg4win if you use Windows.) The main goal is to bring OpenPGP - in the form of an easy installer package based on MacGPG - to Apple's OS X.
+
+
+Uploader notes:
+This is free software, see  but the preview release is not public as the developers need donations. You should donate anyway, but fuck the paywall. Free software should be free, not just for people who know how to compile from source. Use this if you can't afford a donation or can't use or don't want to use PayPal.
+
+
+Installation:
+1. Unzip
+2. Close Mail.app
+3. Run PKG
+
+
+Remember to seed, because sharing is caring. Also support your local Pirate Party. Copy freedom!

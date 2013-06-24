@@ -1,0 +1,10 @@
+etro Last Light Update 1 changelog:
+
+-	No idea what's updated!
+
+Metro Last Light Update 2 changelog:
+
+-	Fix for ATI/AMD video cards performance issues 
+-	Fix for shadow visual corruption bug on AMD 7xxx series
+-	Fixes an issue with the game starting only in 3:1 resolution on some TVs.
+-	Added FOV customization. After starting the game up, the user.cfg will be updated with the r_base_fov cvar. File is located in %LOCALAPPDATA%4A GamesMetro LL.

@@ -1,0 +1,76 @@
+﻿User Type,Username,Date,Text
+,chok6663,2013-05-01T05:51Z,the installation guide is in russian so i can't understand how to install..... any english guide of it?
+,zaq63941,2013-05-08T05:11Z,"My Russian is a little rusty, but this is what I make of the instructions:
+
+1. Mount the file ""Образ игры [Image game]DISK1.ISO"" with Daemon tools or similar (I use MagicDisc) and close the autostart box that pops up
+2. Open up the mounted directory and run Startup.exe as administrator under Japanese Locale. Otherwise, install via HF pAppLoc and start up Startup.exe by right-clicking and selecting ""Run with Japnese local as administrator)
+3. You will see the installation menu *if you see the top button able to be clicked (sorry, closest I could come up with - in other words, if the top button is a viable option to click on and is not grayed out), that means that you don't have DirectX9.0c installed. The game will NOT start if you ignore this installation.
+---if the above is not true, then press the second button down to install the game---
+4. Press the button ""N"" twice
+5. IMPORTANT - change the game installation path to C:illusionPPD if you want this game to work
+	They installed this under D:GamesPPD. Important is to use the !angl (no idea what this means - English?) language (you can use numbers) and a simple path to the game folder. The path should NOT have russian letters!
+6. Press the ""N"" key again. In the next window, press the I key and wait for the game to install.
+7. When the installation is about a third of the way done, it will ask for disk 2. Mount disk 2 in the same manner as you did in step 1, and continue installing
+8. Repeat above for disk 3
+9. once it's done installing, close the setup
+10. Install the patch Premium Play Darkness HF Patch.
+11. to launch the game you will have to mount disk1.iso again
+12. Launch via the original executable or via the launcher (the executable should be at C:illusionPPDプレミアムプレイ.exe or wherever you installed the game) and choose ""Run with Japanese local"" if using HF pAppLoc (I do not believe this launches the English version of the game though)
+
+Launchers:
+
+ - English - Installed with the patch mentioned above in step 10. Launch Premium Play Darkness English.exe in the game folder. Either that or you install it via the ""Launchers"" folder.
+
+ - russian - if you can read russian then you don't need this translation
+
+
+
+Notes:
+
+* the patch require 2gb of free space on teh disk where the game is installed
+* no idea wtf the second point says
+* too lazy to traslate the third one, but doesn't look too important (something about bugs in the translation programs)"
+,zaq63941,2013-05-08T06:05Z,"I tried my instructions and it worked - just had to install the discs, install the patch, and unzipped the archive holding the launcher into a folder and just launched the game from there. Of note though, the English translations in ""Story Mode"" are fairly horrific, so I'm not sure if there's another patch or something out there for that..."
+,RiverRaidII,2013-05-09T20:36Z,"The translation of story mode is a machine translation.
+Work on a real translation has started, but will take it's time.
+The included patch isn't the most up to date one. For information, 
+visit the Hongfire forums. Much work and mods included here, 
+are from the fine folks over there."
+,3seven10,2013-05-13T23:19Z,a
+,3seven10,2013-05-13T23:23Z,"
+
+
+Installing the game:
+
+1. Mount Image file ""game [Image game] DISK1.ISO in Daemon Tools Lite (see attached at the root)
+close the Autorun and Installer.
+2. go to image (my computer = > PravKnMyši = > Open image)
+and start the file ""Startup.exe"" with administrator (h/w-click the right mouse button) and the Japanese locale.
+Or pre install HF pAppLoc (see attached at the root) and run ""Startup.exe"" through a click right button-""Run with Japanese locale as administrator.
+3. Setup menu Appears.
+* If you have available for pressing the top button, it means that you do not have DirectX 9.0 c. Game will not start if you ignore this setting.
+Push button 2-install the game.
+4. press the button (N) twice.
+5. important: change the path to the installation C:illusionPPD, if you want to get a working version of the game.
+* I installed the D:GamesPPD. Importantly, use! Eng language (figures) and an easy path to the folder with the game.
+The path to the game should not have Russian letters!
+6. press the button (N) again. In the next window press the button (I) and wait for the installation of the game.
+7. when the bar is filled to 1/3 disk 2, you will be prompted. Mount DISK2.ISO in Daemon Tools Lite, wait a few seconds and click OK.
+8. Mount the 2/3 To DISK3.ISO.
+9. wait for the installation and close the Setup.
+10. Install patch Premium Play Darkness HF Patch.
+11. to start the game you will need to mount your DISK1.iso again.
+12. run through the original shortcut or through launčery (Eng/RUS).
+original label:
+-Click the right button on C:illusionPPDpuremiamupurei.exe file (or a shortcut on the desktop) and select ""Run with Japanese locale"".
+
+
+English: install the Premium Play Darkness HF Patch. Premium Play run English.exe Darkness at the root of the game.
+-Russian: you can select the method of transferring files from the archive PremiumPlus1Rus.rar into the game root folder (the Uploader [Launchers])
+
+"
+,3seven10,2013-05-13T23:28Z,"Ok, I just posted the instructions in english on this forum.  For some odd reason I can not see my comment.  I had to try to post it around 5 times before it worked.
+To translate anything just press Ctrl+A  (copy all) within the document.  Then open a blank word document (I used the 2013 edition, but I think the 2010 version has a translate feature as well).  Right click in the new word document and select ""paste.""  Then under the review tab select the ""translate option.""  Follow the prompts and your good to go."
+,surefire002,2013-05-21T04:07Z,"I cant figure out how to get this, I Mount the first disk, it brings up the installation, I have Directx9.oc installed, and i click second option down and it runs a super quick setup in a foerign language and there is only 1 button I can press which makes it disappear, that happens over and over, there is no place to hit ""n"" twice"
+,Triggerhand,2013-06-06T16:45Z,Go to the website and find the better patch! 1.4
+,shashu666,2013-06-07T18:02Z,why is the file 12gb?? some sites have 5.5gb version (but no torrents)....is the game working ??someone plz reply_/_

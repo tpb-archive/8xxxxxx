@@ -1,0 +1,72 @@
+ https://play.google.com/store/apps/details?id=org.fivefilters.kindleit
+
+sorry, fivefilters, but there is no demo version available on Android Market.
+PIRATES, PLEASE BUY IF YOU LIKE!
+
+----------------------------------------------------------------------
+
+Push to Kindle (previously 'Kindle It') lets you send web articles (news stories, blog posts, Wikipedia entries) to your Kindle (app or device) for a better reading experience.
+
+Once installed you will see 'Push to Kindle' as an option when you choose to share a web page (Share page &gt; Push to Kindle). Select it to send the article to your Kindle.
+
+WHY USE IT?
+
+Γÿà Send long web articles to your Kindle to read later. 
+Γÿà Build up a reading list of articles for offline reading. 
+Γÿà Improve your reading experience (along similar lines to Readability or Instapaper).
+
+SUPPORTED DEVICES
+
+Γÿà Kindle e-reader sold by Amazon
+Γÿà Android Kindle app
+Γÿà iPhone/iPad Kindle app
+
+Watch our video:
+
+TIP!
+
+Γÿà Send to multiple Kindles (enter up to 5 comma separated addresses).
+
+TEST BEFORE BUYING
+
+If you're unsure about the quality of the Kindle documents you'll receive, please test the service by visiting http://fivefilters.org/kindle-it/
+
+REFUNDS
+
+You have the option of returning the app for an automatic refund. See http://www.google.com/support/androidmarket/bin/answer.py?answer=134336
+
+And if you miss the 15 minute refund window, please email us at help@fivefilters.org (we can't reply to comments left on the Android Marketplace).
+
+WHAT'S THE DIFFERENCE BETWEEN THE FREE AND WHISPERNET OPTIONS?
+
+Please read our help page at http://help.fivefilters.org/customer/portal/articles/233766-difference-between-kindle-com-and-free-kindle-com
+
+CAN YOU HELP IF IT DOESN'T EXTRACT THE CORRECT CONTENT?
+
+Yes! If you have trouble with a particular site, please email us a URL: help@fivefilters.org
+
+MORE...
+
+Official page: http://fivefilters.org/kindle-it/
+Questions/support: fivefilters@fivefilters.org 
+Follow us on Twitter:
+
+Chrome users: Look for 'Push to Kindle' in the Chrome web store (it's free!): https://chrome.google.com/webstore/detail/pnaiinchjaonopoejhknmgjingcnaloc
+
+***
+
+PERMISSIONS AND PRIVACY
+
+Explaining the reasons we require certain permissions for this app:
+
+* FULL INTERNET ACCESS - when you invoke Push to Kindle on a web article, we need to send the URL of the article to our web service for processing (to extract the article's contents and convert it to the Kindle format).
+
+* VIEW NETWORK STATE - we use this to make sure there's Internet access before we communicate with our web service.
+
+* MODIFY/DELETE SD CARD CONTENTS - we only use this permission when you choose to have articles stored on the SD card (for reading with Kindle for Android). We do not delete any files (you can do this yourself from Kindle for Android). If you choose to send articles only to your Kindle email address, we do not touch the SD card at all.
+
+General notes on privacy and caching:
+
+If the web page you are viewing does not point to publically accessible content, we will not be able to retrieve it. For example, if you invoke Push to Kindle (by mistake, perhaps) while you're reading an email on GMail, or viewing your bank statement, that content will not be accessible to the Push to Kindle service run by FiveFilters.org nor to Amazon.
+
+Content which is publically accessible and which you process with the Push to Kindle service will be cached on the server for a short period. If you provide email details to enable delivery to your Kindle device, we do not store nor cache the supplied email address on the server once the Kindle document has been sent to Amazon for delivery to your Kindle. The email details will be saved only on your Android device.

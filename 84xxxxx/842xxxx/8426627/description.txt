@@ -1,0 +1,23 @@
+PostgreSQL, Manual básico de administración del gestor de Bases de Datos.
+
+El objetivo general de esta guía es brindar al estudiante los conocimientos necesarios para que sea capaz de gestionar bases de datos utilizando el SGBD Postgresql.
+
+Objetivos Específicos:
+
+Llevar a cabo el proceso de instalación y configuración de Postgresql 8.3.
+Configurar el SGBD de acuerdo con los recursos del equipo.
+Asegurar los datos mediante mecanismos de autenticación de clientes.
+Realizar operaciones básicas de tablas y datos mediante el lenguaje PSQL.
+Administrar gráficamente bases de datos.
+Llevar a cabo rutinas de mantenimiento y monitoreo de las bases de datos.
+Respaldar y recuperar los datos.
+Utilizar algunas características avanzadas del SGBD como lo son dblik, fulltextsearch y particionamiento de tablas.
+Hacer replicación de bases de datos.
+
+Título: Manual Curso Básico de PostgreSQL
+Autor(es):Patricia Araya Obando
+Publicación:2012
+Editorial:Autoedición
+Núm. Páginas:65p.
+Tamaño:980 Kbs (zip)
+Idioma:Español

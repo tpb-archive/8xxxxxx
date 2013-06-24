@@ -1,0 +1,91 @@
+Resplendence SanityCheck Professional
+
+SanityCheck v3 supports Windows 8 and Windows Server 2012.
+
+SanityCheck is an advanced rootkit and malware detection tool for Windows which thoroughly scans the system for threats and irregularities which indicate malware or rootkit behavior. By making use of special deep inventory techniques, this program detects hidden and spoofed processes, hidden threads, hidden drivers and a large number of hooks and hacks which are typically the work of rootkits and malware. It offers a comprehensible report which gives a detailed explanation of any irregularities found and offers suggestions on how to solve or further investigate any situation.
+
+SanityCheck Features
+Currently SanityCheck offers the following features:
+
+Runs on almost all Windows versions
+
+SanityCheck runs on most recent Windows versions including Windows 7, Windows8, Windows Vista and Windows XP. For an exact overview of the Windows versions supported by SanityCheck and the service packs required click here.
+
+Makes use of special deep inventory techniques
+
+SanityCheck makes use of a special Windows feature (a GlobalFlag setting) which allows it to create a deep inventory of drivers, devices, processes, threads and a lot of other information about your system. By making use of this feature in combination with other techniques it is able to create a very thorough scan of irregularities on your system.
+
+Detect hidden processes
+
+SanityCheck goes to incredible lengths to detect processes which hide themselves from the Windows taskmanager and programming interfaces. It uses seven unmentioned safe techniques to reveal hidden processes in both usermode and kernelmode.
+
+Detect obfuscated processes
+
+Sanity Check detects processes which do efforts to obfuscate their names. This is a typical activity associated with malware.
+
+Detect processes attempting to appear as common system processes
+
+Sanity Check detects for processes which appear as a standard Windows process.
+
+Detect processes with obviously deceptive names
+
+Malicious processes which are received as email attachements often try to appear as an innocent document types. An example of such a process name is:
+"foo.txt .exe"
+
+Detect processes without product, company or description information
+
+Although not necessarily evil, SanityCheck checks for processes without a product, company or description resource information.
+
+Verify signatures and checksums of processes and kernel modules
+
+Sanitycheck verifies digital signatures on processes and kernel modules and checks them for validity. It also verifies the validity of checksums.
+
+Detect SSDT hooks
+
+SanityCheck detects kernel modules which hook the system service descriptor table. Although not necessarily the work of malware, SanityCheck will do every effort to detect the modules responsbile for these acts and generate a comprehensible report.
+
+Detect Import Address Table hooks
+
+The program detects kernel modules which hook the entry points of exported kernel routines.
+
+Detect kernel object callout hooks
+
+Although rarely used, kernel object callout hooks are incredibly powerful and have the potential to instrument the complete working of the Windows kernel. Currently we do not know of any security product which detects these hooks.
+
+Detect hidden drivers
+
+SanityCheck detects various forms of kernel modules which are attempting to hide.
+
+Detect hijacked driver entry points
+
+Hijacked dispatch entry points in drivers can be used by rootkits and malware for a wide variety of purposes. SanityCheck detects both drivers which have their entry points hooked as well as the modules reponsible for these actions.
+
+Find the culprit
+
+Note that it is not always possible to make a clear distinction between malware and legitimate products. This is because certain products resort to aggressive controversial techniques as anti-piracy measures, to avoid debugging or even for anti-competitive purposes. Anitivirus or other security software that is installed on your system may be making use of rootkit-like techniques such as a hidden process in an effort to hide itself from malware. Such products may be involved in a controversial race along the lines of "defeat evil with its own weapons".
+
+For this reason SanityCheck does everything possible to pinpoint the modules and processes which are responsbile for these actions while remaining careful in drawing any conclusions.
+
+Comprehensible report
+
+We do not believe in aggressively "fixing" malware with a single click of a button. This is because there is no such thing as a clear distinction line between malware and legitimate products which make of controversial techniques. "Fixing" hooks in the kernel is a very unsafe and despicable act which is only very likely to make your system crash or worse. Instead Sanitycheck leaves your system in an unaltered state while offering comprehensible suggestions on how to proceed in any situation. 
+
+Optional expert mode
+
+Optionally you can switch SanityCheck into expert mode. It will then display a wealth of information on drivers, devices, processes, threads, kernel objects and system routines which can be very useful for further analysis. A lot of the information available in expert mode cannot be obtained by any other existing utility other than a kernel debugger. Because the amount of information can be overwhelming and may be difficult to understand for novice users, it is turned off by default and only a comprehensible report is displayed.
+
+Supported OS:
+
+Win2000/XP/2003/Vista/2012/Win7/Win8
+
+Homepage: http://www.resplendence.com/sanity
+
+Installation Instructions:
+
+- Install program.
+- Already Registered, no need of Key or crack.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

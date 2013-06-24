@@ -1,0 +1,71 @@
+Changes in DVDFab 9.0.3.6 for Windows (April 23, 2013):
+ New: DVDFab Blu-ray Ripper and DVDFab Blu-ray 3D Ripper merged into one option, and renamed to Blu-ray Ripper (3D Plus).
+ New: DVDFab File Transfer is for free now.
+ New: Added support for task queue.
+ New: Added support to clone BDAV discs.
+ New: Added support to decode the source which contains AC3-Plus (E-AC3) audio track.
+ New: Added support to remember the user operation on user interface.
+ New: Added support for WMV 10 output with 5.1 audio tracks.
+ New: Added support for some special DVD discs.
+ New: Added support to modify volume label for Blu-ray/DVD creator.
+ New: Improved ΓÇ£Remove annoying PGCs (like FBI warning)ΓÇ¥.
+New: Updated VSO burning engine.
+ New: Updated language files.
+ New: Updated profiles for new device.
+ New: Some user interface and user experience improvements.
+ Fix: A layout problem when set the display DPI to 125 or 150.
+ Fix: A crash problem when copying with DBCS external subtitle in certain cases.
+ Fix: A crash problem when selecting ASCII as Character sets in certain cases.
+ Fix: A problem that cannot set the Audio track, Subtitle and Chapter settings for multiple angles Blu-ray source.
+ Fix: A problem that cannot burn data source in Clone/Burn mode.
+ Fix: A crash problem opening data source in Split mode.
+ Fix: A problem that cannot create dvdfab.miniso file in certain cases.
+ Fix: A crash problem when burn DVD with VSO burning engine in certain cases.
+ Fix: A problem that cannot select region code for DVD automatically.
+ Fix: A freeze problem when copying Blu-ray disc to BD25, such as: Led Zeppelin Celebration Day.
+ Fix: A problem that should not enable ΓÇ£Convert DTS/PCM to AC3ΓÇ│ when copying Blu-ray to BD50/BD25.
+ Fix: A crash problem when converting Blu-ray to DVD in certain cases, such as: Bad teacher, Battleship, Prometheus, Chris_Botti.iso.
+ Fix: A problem that cannot copy Blu-ray to DVD after DVDFab warns user whether overwrite the existing folder, and user select ΓÇ£NoΓÇ¥.
+Fix: A freeze problem when ripping DVD to 3d.iphone4.h264.aac.
+ Fix: A crash problem when ripping with mpeg4 profiles in 2-pass mode.
+ Fix: A freeze problem when playing the converted result in PS3.
+ Fix: An A/V sync problem when ripping DVD to mkv.remux in certain cases.
+ Fix: A static audio problem when playing file converted by DVD Ripper on Windows Media Player and VLC Player.
+ Fix: A noise problem when ripping to Apple TV3.
+ Fix: A crash problem when ripping to mkv.audiocopy profile with multiple audio tracks.
+ Fix: A crash problem after selected ΓÇ£DeinterlacingΓÇ¥ option during the ripping process.
+ Fix: A problem that the converted .mp4 and .m4v files cannot be played on iTunes and QuickTime.
+ Fix: A graph 0 error problem when ripping Blu-ray to mp4 profiles.
+ Fix: A crash problem when ripping to Apple profiles with special DVD source, such as: TOM_AND_JERRY_VOL1.
+ Fix: A freeze problem when ripping Blu-ray to mkv.audiocopy with DTS-HD audio track.
+ Fix: A problem that should not only have ΓÇ£MonoΓÇ¥ audio selection for DVD PCM-2 audio source in advanced settings dialog.
+ Fix: An A/V sync problem when ripping Blu-ray ΓÇ£The Adventures of TintinΓÇ¥ with mkv.remux profile.
+ Fix: Improved the accuracy of calculation for user customized video output bitrate.
+ Fix: A problem that the location of idx/sub subtitle is not suitable in DVD and Blu-ray Ripper mode.
+ Fix: An A/V sync problem when converting vob file to ipad.1080p.mp4.
+ Fix: A crash problem when creating DVD in certain cases.
+ Fix: A crash problem when deleting source in Convert and Creator in certain cases.
+ Fix: A filter failed problem when converting with .mov files as source.
+ Fix: A problem when setting the color of subtitle, it does not work in DVD Creator.
+ Fix: A problem that cannot create chapter for DVD creator.
+ Fix: A problem that cannot change the Volume Label for Blu-ray Creator.
+ Fix: A problem that the created disc cannot be played by stand-alone player in certain cases.
+
+___________________________________________________
+
+Cracked by ChVL....
+
+ easy install :
+
+1)uninstall any previous version of DVDFab 9 and reboot.
+2)When you will have rebooted,disconnect from internet.
+3)install this new version and as still offline,load it one time only at the end of installation.
+4)close program now.
+5)replace your actual trial exe by the one provided in crack folder to the right path in DVDFab9 folder anyway.
+6)restart program and you should get full retail version.
+7)If all is ok,now,you can reconnect to internet and enjoy of course.
+
+Tested and still working like a charm anyway.
+ enjoy and seed,please.
+Have a nice day
+best regards

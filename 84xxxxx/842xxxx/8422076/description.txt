@@ -1,0 +1,20 @@
+You are Garrett, the master thief. Rarely seen and never caught, Garrett is the best that ever was. Able to sneak past any guard, pick any lock, and break into the most ingeniously secured residences. Garrett steals from the wealthy and gives to himself, making his living in the dark and foreboding City. Here crime and corruption are commonplace, wealthy nobles prey on the poor and each other, and magic and machinery coexist uneasily. World weary and cynical, Garrett wants nothing more than to be left alone to ply his trade. But things never work out that way.
+
+* Cutting-edge Action Stealth Gameplay - Hide in the shadows, sneak past the guards, or ambush them from the darkness!
+* Huge Arsenal of Thieves' Tools - Including lock picks, a blackjack, arrows, wall climbing gloves, oil flasks, flash bombs, and a dagger.
+* An Entire City to Explore - Break into any building, mug nobles on the streets, spend your loot, and earn a reputation. Feel like a real thief in a cityscape of unparalleled responsiveness and interactivity.
+* Advanced Artificial Intelligence - AI guards that see and hear, track evidence and suspiciousness, search for intruders, fight, give chase, and perform lip synching, facial expressions, and hundreds of lines of real-time dialog.
+* Dynamic Lighting and Shadow System - Every character and object casts realistic, dynamic shadows that effect stealth gameplay.
+
+I have updated Thief 3 to Sneaky (unofficial) 1.1.1.1 with widescreen support. Have also pre-installed John P's High Resolution Texture Pack. Ported by me using the latest wineskin and engine.
+
+Installation:
+Unzip, Copy to Applications (optional) and Run.
+
+Setup:
+I recommend nagivating to Options, Audio/Video before starting a new game and change the games resolution to your native res (defaults to 1280x800 for compatibility). If you are getting low fps try turning down multi-sampling in options to 3 or 2 (I have it maxed out at 4 by default). When you start a game the screen will cycle to desktop then back to game, don't worry this is normal.
+
+Advanced Tweaks:
+Now I highly recommend doing this if you can be bothered as it improves gameplay. Firstly run the app once, set your native res and quit. Now open Finder and navigate to '/Users/&lt;yourusername&gt;/Documents/Thief - Deadly Shadows/SaveGames/User Options' and open the SneakyOptions.ini file (in textedit). Change FOVFactor=1.0 to 1.25 and HUDScaleFactor=1.0 to 0.75. This makes the narrow Depth of Field wider (better) and the oversized HUD smaller (better).
+
+Hope you enjoy one of the best stealth games ever made and please seed!

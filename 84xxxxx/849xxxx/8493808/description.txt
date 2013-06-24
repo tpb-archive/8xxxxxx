@@ -1,0 +1,15 @@
+============================================================================================
+Style Installation
+============================================================================================
+
+1) In the ZIP archive 
+
+2) Upload all content in "UPLOAD" folder your main /forum/images directory
+
+3) vB ACP -&gt; Styles & Templates -&gt; Download / Upload Styles -&gt; Import Style XML File
+
+ 3i) Import DiabloIII-style-forum.xml first
+
+If you have vBulletin Suite Version
+ 3ii) Import DiabloIII-style-blog.xml
+ 3iii) Import DiabloIII-style-cms.xml 

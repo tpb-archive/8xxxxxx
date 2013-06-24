@@ -1,0 +1,88 @@
+﻿User Type,Username,Date,Text
+,js99912,2013-05-05T12:14Z,"Demo
+http://animoto.com/play/7eeYPkpuqQYYRfX8WGF5IQ
+
+IMG
+http://bayimg.com/aAmCmAaEj"
+,js99912,2013-05-05T13:24Z,"Comments, Questions?  Go here:
+https://forum.suprbay.org/showthread.php?tid=146134&pid=855988"
+,xXaAr0nXx,2013-05-06T13:19Z,^^^^ LOVE THE BAYIMG LINK...mmm mm mmm ;)
+,js99912,2013-05-06T20:45Z,"Update:
+Latest ES file explorer modded for Android for Windows, android x86
+
+http://thepiratebay.sx/torrent/8440340"
+,js99912,2013-05-07T03:11Z,"link above is wrong
+
+ES file explorer modded here:
+http://thepiratebay.sx/torrent/8445371"
+,js99912,2013-05-08T01:54Z,"To reset Google play
+--------------------
+This will fix a variety of Google Play, Google Talk related errors, like authentication errors, RFC errors and will reset the primary Google account.
+
+
+Get rid of Primary Account, use ES file explorer, 
+Enable Root Explorer and Mount R/W.  Go to local, then up to root folder, click the data folder, click the system folder.
+
+Hold down the left click on accounts.db, choose delete.
+
+Go to Settings, Applications, Manage
+Go to the ALL tab at the top.
+
+Scroll down to
+Google Play Services
+Click ""clear data"" button
+
+Go back and repeat for the following:
+Google Play Store
+Google Services Framework
+Talk
+Talkatone
+Download
+
+
+Restart BlueStacks by right-clicking the system tray icon, and choose restart.
+
+Open GMAIL, add your Google account!
+
+Enjoy!
+-JS "
+,expertman9114,2013-05-08T15:41Z,thank you
+,js99912,2013-05-09T02:35Z,"Need to Mount the SDcards to copy game data???
+
+See here ;)
+
+http://thepiratebay.sx/torrent/8440340"
+,js99912,2013-05-09T02:37Z,"SlamHammerSmith took me for a ride again,
+
+Here's the game data link
+http://thepiratebay.sx/torrent/8453985"
+,ifartyou,2013-05-09T19:39Z,"I have problems with Zenonia 5, asks me to put ID, then a white something appears, then I typed, then I can't press enter."
+,js99912,2013-05-10T04:43Z,"Try using ES task manager and killing all running tasks.  Bluestacks provision 768MB RAM, you need to free some.  You can increase it to 851MB in the by modifying the registry key memory at
+HKEY_LOCAL_MACHINE/SOFTWARE/BlueStacks/Guests/Android
+
+Set the value of MEMORY to decimal 960, then you get 851MB, I dunno why 960, but it works.
+-js"
+,js99912,2013-05-10T04:44Z,"the other thing is be patient loading an app, the ARM translator gets pounded hard by games when loading into RAM, it can be slow"
+,ifartyou,2013-05-10T05:33Z,"Oh okay, thanks... Do you know how to install Freedom for In App Purchases? Thanks"
+,js99912,2013-05-10T08:18Z,"using freedom
+
+get the latest here
+http://system.in-appstore.com/freedom/download.php
+
+INSTRUCTIONS:
+1. Click ""MENÙ"" on your phone and go to ""SETTINGS"".
+2. On ""SETTINGS"" scroll down and go to ""DATE & TIME"".
+3. Uncheck ""AUTOMATIC TIME ZONE"".
+4. Go to ""SELECT TIME ZONE"" and choose ""Moscow GMT+4"".
+5. Go back to the home, run FREEDOM app again, and enjoy!"
+,ifartyou,2013-05-10T14:11Z,"Thanks for all the help, I'll come back if I need more. Haha, I'll be trying this with my Windows 8 tab next week."
+,js99912,2013-05-10T14:38Z,"Windows 8 isn't too bad... Biggest prob with 8 is ensure you have proper rights.  Run everything as administrator for good measure, have fun!
+-js"
+,js99912,2013-05-10T14:49Z,"IMG:
+http://bayimg.com/kaMhkAaek"
+,acrinym,2013-05-12T16:26Z,WOW......super HOT!!
+,acrinym,2013-05-12T17:33Z,"Hey JS, I installed SD version, using the enclosed instructions, but all I get is Bluestacks is Loading, and nothing happens. When I click the icon in the app tray, hit restart, it tries, and says BS cannot start. "
+,js99912,2013-05-13T04:05Z,"hmm, we are not able to recreate that issue..  After loading BlueStacks, go into task manager and kill any HD-whatever processes, and load the addon again.
+
+the SD version has limited app support because of ARM, but what it does run, it's very fast!
+-js"

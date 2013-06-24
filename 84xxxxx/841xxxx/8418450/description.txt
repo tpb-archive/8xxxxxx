@@ -1,0 +1,3 @@
+This is all the mtgox trade data from time zero to 27 Apr 2013 sourced from their API.
+
+The trade data is formatted as a bunch of insert statements that would suit an RDBMS.

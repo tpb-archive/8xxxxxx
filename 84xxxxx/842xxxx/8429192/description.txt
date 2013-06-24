@@ -1,0 +1,53 @@
+General
+Complete name                    : E:Lynch.S02E01.1280x1080i.HDTV.x264.THoRCuATo.mkv
+Format                           : Matroska
+File size                        : 1.61 GiB
+Duration                         : 45mn 38s
+Overall bit rate                 : 5 049 Kbps
+Encoded date                     : UTC 2013-05-01 17:59:32
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Container profile=Unknown@4.0
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 45mn 38s
+Bit rate                         : 4 501 Kbps
+Width                            : 1 280 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : MBAFF
+Bits/(Pixel*Frame)               : 0.109
+Stream size                      : 1.43 GiB (89%)
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 45mn 38s
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Stream size                      : 146 MiB (9%)
+
+----------------------------------------------------------------------------
+
+SOURCE: HDTV
+
+NOTA: EL TAMAÑO DE IMAGEN ES 1280x1080 DESPLEGADO CON RELACION DE ASPECTO 16:9 (ASI VIENE LA SEÑAL HDTV).
+

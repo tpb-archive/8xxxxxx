@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,gatosardina,2013-04-28T22:31Z,"please upload games to the games section, its not being mean or an asshole, but many people miss these games because they are posted on the applications section"
+[H],EverybodyLies,2013-05-01T07:28Z,Moved to games.
+,thortin,2013-05-02T12:17Z,When i download it i get like 10 different .rar files.... what do i do to find the game
+,MrEddy,2013-05-02T15:31Z,"Beats me, not working on my imac with current mountain lion. Just launches and eventually quits. Installed Xquartz of no help. 3.06 Core2, Gforce 8800 GS/512"
+,iappz,2013-05-02T16:30Z,"Unzip Civilization V GOTY.app.zip.001, are 20 parts."
+,iappz,2013-05-02T16:39Z,"A screenshot of tested mbp in which game ran without problem http://postimg.org/image/c3ocod0ot/
+& a screen of the game running http://postimg.org/image/3ro09ddx9/"
+,shovel180,2013-05-03T05:46Z,"how do you change the language to english... after something like five hours spent figuring out how to unzip the file, i'm playing in spanish. where's the /english part?"
+,iappz,2013-05-03T07:25Z,"Excuse me, Try open with TextEdit ~/Documents/My Games/Sid Meier's Civilization 5/config.ini and change 
+""; The currently selected language.
+Language = es_ES
+
+; The currently selected spoken language.
+AudioLanguage = es_ES""
+
+to
+
+""; The currently selected language.
+Language = en_US
+
+; The currently selected spoken language.
+AudioLanguage = en_US""
+
+If not work, Go to Civ App, pull down the Action menu on App, open ""drive_c"" alias, open Program Files/civ/ and with TextEdit replace 'Language = ""spanish""' with ""Language = ""english"""" in 3DMGAME.ini file
+
+Save & You will have the Game in English."
+,shovel180,2013-05-04T21:02Z,"the game crashes after maybe an hour of play for me... is this an issue with wineskin, my computer (MBP i5), or the game?"
+,bookdd3,2013-05-19T22:31Z,"I get an error when trying to run the game:
+Can it be fixed?
+
+Dyld Error Message:
+  Library not loaded: @executable_path/../lib/libwine.1.dylib
+  Referenced from: /Users/USER/Downloads/*/Civilization V GOTY.app/Contents/Frameworks/wswine.bundle/bin/Civilization V GOTY61162840Wine
+  Reason: no suitable image found.  Did find:
+        /Users/[NameRemoved]/Downloads/CiV5 GOTY OSX/Civilization V GOTY.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: file too short
+        /Users/[NameRemoved]/Downloads/CiV5 GOTY OSX/Civilization V GOTY.app/Contents/Frameworks/wswine.bundle/bin/../lib/libwine.1.dylib: file too short
+        /Users/[NameRemoved]/Downloads/CiV5 GOTY OSX/Civilization V GOTY.app/Contents/Frameworks/wswine.bundle/lib/libwine.1.dylib: file too short"

@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+,vivatpb5776,2013-05-18T20:52Z,"For those that care, this is a two-channel audio release. Here are the mediainfo specs:
+
+General
+Unique ID                        : 174650517502981114432541526737015381579 (0x836477555B03331D9B56155A7D2D9E4B)
+Complete name                    : G:QCMoviesThe.Next.Karate.Kid.1994.720p.WEB-DL.H264-CtrlHD [PublicHD]The.Next.Karate.Kid.1994.720p.WEB-DL.AAC2.0.H.264-CtrlHD.mkv
+Format                           : Matroska
+File size                        : 3.11 GiB
+Duration                         : 1h 47mn
+Overall bit rate                 : 4 150 Kbps
+Encoded date                     : UTC 2013-05-05 09:34:58
+Writing application              : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : No
+Format settings, ReFrames        : 2 frames
+Format settings, GOP             : M=2, N=40
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 47mn
+Width                            : 1 278 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Language                         : English
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 1h 47mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Language                         : English
+
+Menu
+00:00:00.000                     : en:Start
+00:04:02.000                     : en:Julie
+00:06:15.000                     : en:Visiting Angel
+00:09:30.000                     : en:Exchange Plan
+00:14:10.000                     : en:A Warning & an Escort
+00:16:14.000                     : en:Discovering Julie's Secret
+00:18:15.000                     : en:Col. Dugan & his Troops
+00:22:32.000                     : en:Julie & Eric
+00:27:26.000                     : en:Leap for Life
+00:32:06.000                     : en:Bartering for Lessons
+00:34:34.000                     : en:Babysitting
+00:37:59.000                     : en:Chased by Alpha Elite
+00:44:16.000                     : en:The Gas Station
+00:47:13.000                     : en:The Monastery
+00:51:55.000                     : en:""Respect all living things.""
+00:56:04.000                     : en:Praying Mantis
+01:04:24.000                     : en:Birthday Cake & Wish
+01:06:20.000                     : en:Zen Archery
+01:10:39.000                     : en:Healing a Broken Wing
+01:15:41.000                     : en:Karate Waltz
+01:21:14.000                     : en:Eric Comes for Julie
+01:25:54.000                     : en:Zen Bowling
+01:27:52.000                     : en:At the Prom
+01:29:39.000                     : en:Bungee Jumping
+01:33:29.000                     : en:At the Docks
+01:36:47.000                     : en:Julie & Miyagi Arrive
+01:38:49.000                     : en:Taking her Best Shot
+01:40:29.000                     : en:Miyagi Finishes the Job"

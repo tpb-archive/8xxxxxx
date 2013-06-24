@@ -1,0 +1,32 @@
+This allows you to mount and modify Sparse data in
+Android for Windows - BlueStacks
+--------------------------------
+
+This is the most common request I have gotten for support, enjoy!
+
+1. Copy the contents of Block Device Tool GUI to 
+c:programdatabluestacksandroid
+
+2. Install OSFmount
+3. Install Ext2 Volume Manager
+
+4. Reboot if asked
+5. Run Block Device Tool GUI Eng.exe
+
+--This will convert the SDcard.sparse AND Data.sparse
+to .fs file systems
+
+6. Run OSFmount and mount your SDcard.fs, copy your shit, unmount
+
+7. Run Block Device Tool GUI Eng.exe again and convert to Sparse
+
+Game Keyboard app just happened to find it's way into this torrent ;)
+
+*you can move the SDcard.sparse and BDT gui to another folder
+using the AW2 included BootToOther.reg  This will greatly
+sped things up.
+
+**not a lot of luck resizing yet!!
+
+
+-js

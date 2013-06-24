@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,velislav25,2013-05-18T19:48Z,Fixed One.Enjoy :)
+,free4last,2013-05-22T19:02Z,Thanks!!!
+,TarekElsakka,2013-06-12T22:04Z,"It works flawlessly. Thank you very much.
+
+By the way, would you happen to have a changelog? I would like to know what changed from 10.8.3 to 10.8.4?
+
+Thanks again."
+,TarekElsakka,2013-06-12T22:08Z,"Never mind, I found one. Here it is if anyone's interested:
+
+Changelog 10.8.4:
+
+The OS X Mountain Lion v10.8.4 Update is recommended for all OS X Mountain Lion users and includes features and fixes that improve the stability, compatibility, and security of your Mac, including the following:
+
+Compatibility improvements when connecting to certain enterprise Wi-Fi networks
+
+Microsoft Exchange compatibility improvements in Calendar
+
+A fix for an issue that prevented FaceTime calls to non-U.S. phone numbers
+
+A fix for an issue that may prevent scheduled sleep after using Boot Camp
+
+Improves VoiceOver compatibility with text in PDF documents
+
+Includes Safari 6.0.5, which improves stability for some websites with chat features and games
+
+A fix for an issue that may cause iMessages to display out of order in Messages
+
+Resolves an issue in which Calendars Birthdays may appear incorrectly in certain time zones
+
+A fix for an issue that may prevent the desktop background picture from being preserved after restart
+
+A fix for an issue that may prevent documents from being saved to a server using SMB
+Addresses an issue that may prevent certain files from opening after copied to a volume named “Home""
+
+A fix for an issue that may prevent changes to files made over NFS from displaying
+
+Resolves an issue saving files to an Xsan volume from certain applications
+
+Improves Active Directory log-in performance, especially for cached accounts or when using a .local domain
+
+Improves OpenDirectory data replication
+
+Improves 802.1X compatibility with ActiveDirectory networks
+
+Improves compatibility when using mobile accounts"

@@ -1,0 +1,18 @@
+Fake APP MAC 
+http://fakeapp.com
+
+--------------------------------------------------------------------------
+
+Fake is a new browser for Mac OS X that makes web automation simple. Fake allows you to drag discrete browser Actions into a graphical Workflow that can be run again and again without human interaction. The Fake Workflows you create can be saved, reopened, and shared.
+
+Inspired by Apple's Automator application, Fake looks like a combination of Safari and Automator that allows you to run (and re-run) "fake" interactions with the web.
+
+
+Power Users will love Fake for automating tedious web tasks like filling out lengthy forms and capturing screenshots. Developers can use Fake for graphically configuring automated tests for their webapps, including assertions, assertion failure handlers, and error handlers.
+
+All of Fake's automation features are powered by Mac OS X's native scripting tool ΓÇô AppleScript. Which means Fake can be used to incorporate web automation into many other OS X scripting tasks.
+
+Fake's browser component is based on the same open source technology behind the popular Mac OS X Site Specific Browser, Fluid. That means Fake has powerful features developers expect from a modern browser like Userscript and Userstyle support. Fake's proprietary secret sauce is in its web automation capabilities ΓÇô the Action Library, and Workflow side pane.
+
+
+--------------------------------------------------------------------------

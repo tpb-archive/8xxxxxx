@@ -1,0 +1,104 @@
+        Join author David Gassner as he explores Java SE (Standard Edition), the language used to build mobile apps for Android devices, enterprise server applications, and more. This course demonstrates how to install both Java and the Eclipse IDE and dives into the particulars of programming. The course also explains the fundamentals of Java, from creating simple variables, assigning values, and declaring methods to working with strings, arrays, and subclasses; reading and writing to text files; and implementing object oriented programming concepts.
+*I included the exercise files :)*
+
+Table of Contents:
+
+
+
+Welcome 1m 3s 
+
+Is this course for you? 5m 35s 
+Using the exercise files 3m 30s  
+1. What Is Java?31m 24s
+
+The history of Java 5m 19s  
+Understanding the principles of Java 8m 28s  
+Java compilation and syntax 8m 54s  
+Choosing a development environment 8m 43s  
+
+2. Installing the Software19m 5s
+Installing Java on Windows 6m 42s 
+Installing Eclipse on Windows 3m 19s 
+Exploring Java on Mac OS X Leopard and Snow Leopard 2m 27s  
+Installing Java on Mac OS X Lion 3m 27s  
+Installing Eclipse on Mac OS X 3m 10s  
+
+3. Getting Started46m 10s
+Creating a Hello World application 11m 7s  
+Exploring the Eclipse IDE 8m 55s  
+Compiling and running from the command line 8m 2s  
+Passing arguments to the application 8m 17s  
+Using the Java API documentation 4m 5s  
+Memory management and garbage collection 5m 44s  
+
+4. Using Primitive Data Types58m 57s
+Everything is an object 5m 59s  
+Declaring and initializing variables 9m 15s  
+Working with numbers 8m 32s  
+Converting numeric values 6m 40s  
+Understanding operators 7m 58s  
+Working with character values 5m 14s  
+Working with boolean values 5m 13s  
+Outputting primitive values as strings 5m 33s  
+Creating a simple calculator application 4m 33s  
+
+5. Exploring Syntax and Flow53m 40s
+Writing conditional code 5m 35s  
+Using the switch statement 8m 50s  
+Repeating code blocks with loops 7m 35s  
+Creating reusable code with methods 6m 31s  
+Declaring methods with arguments 5m 41s  
+Overloading method names with different signatures 5m 53s  
+Passing arguments by reference or by value 5m 35s  
+Creating a more complex calculator application 8m 0s
+  
+6. Working with Complex Objects20m 30s
+Using the String class 5m 44s  
+Building strings with StringBuilder 3m 34s  
+Parsing string values 3m 19s  
+Working with date values 7m 53s  
+
+7. Exception Handling and Debugging20m 44s
+Understanding compile-time vs. runtime errors 4m 5s  
+Handling exceptions with try/catch 4m 55s  
+Throwing exceptions in methods 2m 50s  
+Using the debugger 8m 54s  
+
+8. Using Data Collections32m 22s
+Using simple arrays 4m 47s  
+Using two-dimensional arrays 6m 17s  
+Managing resizable arrays with ArrayList 7m 14s  
+Managing unordered data with HashMap 6m 5s  
+Looping through collections with iterators 7m 59s 
+ 
+9. Creating Custom Classes52m 2s
+Understanding encapsulation 5m 59s  
+Creating and instantiating custom classes 8m 8s  
+Organizing classes with packages 6m 47s  
+Creating and using instance methods 6m 52s  
+Storing data in instance variables 6m 56s  
+Using constructor methods 5m 40s  
+Managing instance data with getter and setter methods 8m 26s  
+Using class variables and Enum classes 3m 14s  
+
+10. Working with Inheritance and Polymorphism41m 15s
+Understanding inheritance and polymorphism 9m 12s  
+Extending custom classes 9m 1s  
+Overriding superclass methods 3m 8s  
+Casting subclass objects 5m 3s  
+Understanding interfaces and implementing classes 4m 2s  
+Creating your own interfaces 4m 14s  
+Using abstract classes and methods 6m 35s 
+ 
+11. Working with Files32m 17s
+Managing files with the core class library 7m 46s  
+Managing files with Apache Commons FileUtils 7m 32s  
+Reading a text file from a networked resource 7m 52s  
+Parsing an XML file with DOM 9m 7s  
+
+12. Preparing an Application for Deployment17m 39s
+Creating your own JAR files 4m 54s  
+Understanding the classpath 5m 2s  
+Documenting code with Javadoc 7m 43s  
+Conclusion47s
+Goodbye 47s  

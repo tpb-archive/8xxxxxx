@@ -1,0 +1,1 @@
+GNOME Partition Editor for creating, reorganizing, and deleting disk partitions. It uses libparted from the parted project to detect and manipulate partition tables. Optional file system tools permit managing file systems not included in libparted.

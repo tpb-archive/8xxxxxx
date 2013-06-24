@@ -1,0 +1,17 @@
+Description:
+
+Create, produce and perform. Create ideas, make changes without stopping, and capture everything as you work.
+
+If youΓÇÖve used music software before, youΓÇÖre already familiar with with one half of Ableton Live. LiveΓÇÖs Arrangement View is a familiar working space: time moves from left to right, while tracks are stacked vertically.
+
+But Live also features the revolutionary Session View: a unique sketchpad for improvising, playing and performing with musical ideas, without the constraints of the timeline. Freely and independently start and stop any number of audio or MIDI loops ΓÇô everything stays in sync. Almost everything in Live works in real-time ΓÇô add, reorder or remove devices, play with LiveΓÇÖs flexible track routing and more ΓÇô all without interrupting your creative flow.
+
+
+Version 9.0.4:
+
+    VST / AU plug-in devices could be inactive after loading a Live set containing a large number of plug-ins (regression in Live 9.0.3).
+    The ΓÇ£grab_controlΓÇ¥ function which allows to gain control over a control surfaceΓÇÖs button matrix via Max for Live would not work anymore (regression in Live 9.0.3).
+    Fixed a bug which could cause the File Manager window to reopen after launching Live.
+
+NOTE: Instructions inside.
+      Pack contain both X32 and X64 !

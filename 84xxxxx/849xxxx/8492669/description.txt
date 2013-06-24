@@ -1,0 +1,71 @@
+General
+Unique ID                                : 230836367003928205840519906346644616091 (0xADA97796EC20D6CABF265EF9F279339B)
+Complete name                            : E:MoviesVantage Point (2008) 1080p BRRip [Dual Audio][EngLish - Hindi] JaGatJeetSanDhu SilverRGVantage Point (2008) 1080p BRRip [Dual Audio][EngLish - Hindi] JaGatJeetSanDhu SilverRG.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.18 GiB
+Duration                                 : 1h 30mn
+Overall bit rate                         : 1 871 Kbps
+Movie name                               : Vantage Point (2008) - JaGatJeetSanDhu
+Encoded date                             : UTC 2013-05-20 06:11:25
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 30mn
+Nominal bit rate                         : 1 639 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.033
+Title                                    : JaGatJeetSanDhu
+Writing library                          : x264 core 79 r1342kMod e8501ef
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:-2:-1 / analyse=0x3:0x133 / me=tesa / subme=10 / psy=1 / psy_rd=1.0:0.2 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=-3 / threads=3 / nr=0 / decimate=1 / mbaff=0 / constrained_intra=0 / bframes=4 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / wpredb=1 / wpredp=2 / keyint=250 / keyint_min=25 / scenecut=40 / rc_lookahead=60 / rc=2pass / mbtree=1 / bitrate=1639 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 30mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Title                                    : JaGatJeetSanDhu
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 30mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Title                                    : JaGatJeetSanDhu
+Language                                 : English
+Default                                  : No
+Forced                                   : No

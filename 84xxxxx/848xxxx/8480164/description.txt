@@ -1,0 +1,14 @@
+Etapes pour l'installation :
+1. Exécuter Autorun.exe
+2. Sélectionner le drapeau français, puis l'icône de gauche (Age of Mythology)
+3. Utiliser comme code d'installation un de ceux spécifiés dans le dossier "Code d'installation" de l'ISO
+4. Poursuivre l'installation. À la fin de celle-ci, refuser le redémarrage de l'ordinateur.
+5. Dans le gestionnaire des tâches, tuer la tâche "Install.exe" (elle vous empêche d'installer Titans avant redémarrage)
+6. Exécuter à nouveau Autorun.exe
+7. Sélectionner à nouveau le drapeau français, puis l'icône de droite (The Titans)
+8. Utiliser comme code d'installation un de ceux spécifiés dans le dossier "Code d'installation" de l'ISO
+9. Poursuivre l'installation. Redémarrer ou non l'ordinateur, mais aucun problème ne devrait être encouru s'il n'y a pas redémarrage (contrairement à ce que stipule l'installeur).
+10. (facultatif) Installer les mises à jour 1.10 (du jeu vanilla) et 1.03 (de Titans). Elles se trouvent dans le dossier "Mises à jour" de l'ISO, sont les dernières en date et sûrement les dernières de manière définitive, le jeu étant âgé de 10 ans maintenant.
+11. Pour jouer au jeu vanilla, vous pouvez extraire sur votre ordinateur l'image disque située dans le dossier "Crack" sous le nom "Age of Mythology - Mini-image.rar". Il suffit de la monter pour pouvoir jouer à AoM.
+Pour jouer à The Titans, il suffit de copier-coller le launcher, situé dans le même dossier, et de le placer dans le répertoire d'installation du jeu. Le lancer lancera The Titans en contournant la protection en place.
+12. Enjoy !

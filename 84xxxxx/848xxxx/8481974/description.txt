@@ -1,0 +1,17 @@
+Arcanum: Of Steamworks and Magick Obscura
+
+About the game:
+
+This is a Wine port of the Good Old Games version of the 2001 PC game Arcanum: Of Steamworks and Magick Obscura developed by Troika, a developer formed from the producer/lead programmer, visual artist, and engine designer of the first Fallout game.  It plays much like Baldur's gate and other RPG's of that era, and is probably the best "Steampunk" RPG around.  It received positive reviews but was somewhat  buggy upon release, but has since received patches and a lot of love from fans in the form of fan patches and mods.  All of the "must-have" mods have been pre-installed.  The game runs in widescreen, the music has been updated to "lossless" full-quality .wav files, and the fan-patch has been applied making the game virtually bug-free.  Artwork, the manual, patches, wallpapers, and a game map are included in the download.  I did not crack the original PC game, so full credit to whoever did.
+
+Issues:
+
+The Wine port is very good.  The only problem I've noticed is a very small amount of screen tearing while scrolling around the game world while playing on a large screen, but that might have nothing to do with Wine, and it isn't noticeable on my laptop.  Also, keep in mind that although the game world is rendered in widescreen, the interface is not.  There is no pretty way around this that I have found, but it looks fine as-is.  The main menu is part of the interface, so it will not be rendered widescreen either.  The in-game movies will also be about half-size due to the high resolution.  Don't let these things discourage you.  The game runs great, but I feel obligated to inform downloaders of any problems. 
+
+Installing:
+
+The file is a little large, but the game is pre-patched and all you need to do is mount the .dmg and then drag/drop the game to install.  The .dmg also includes all the extras. I tested the installer on a separate computer and everything worked fine.  Make sure you read the included text file.  I have the default resolution set to 1920x1080, and if your monitor does not support that resolution, the game will crash on startup.  It isn't hard to change resolutions, and if you know enough to be able to download a torrent, you should be able to change the resolution.  Nevertheless, the text file includes extremely detailed, click-by-click, instructions for changing the resolution.
+
+Cheers!
+
+

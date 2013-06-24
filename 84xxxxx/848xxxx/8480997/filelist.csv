@@ -1,0 +1,176 @@
+﻿Filename,Size,Unit
+00_01_SC13_intro.mp4,9.36,M
+00_02_SC11_know.mp4,1.32,M
+00_03_SC11_exerfiles.mp4,1.08,M
+01_01_SC11_intro.mp4,10.8,M
+01_02_SC11_format.mp4,8.71,M
+01_03_SC11_create.mp4,8.19,M
+01_04_SC11_rec.mp4,7.81,M
+01_05_SC11_pivot.mp4,8.45,M
+01_06_SC11_config.mp4,10.26,M
+01_07_SC11_ext.mp4,6.67,M
+01_08_SC11_consolidate.mp4,17.46,M
+01_09_SC11_manage.mp4,11.89,M
+02_01_SC11_totals.mp4,12.31,M
+02_02_SC11_summary.mp4,17.51,M
+02_03_SC11_many.mp4,6.26,M
+02_04_SC11_calc.mp4,9.51,M
+02_05_SC11_group.mp4,11,M
+02_06_SC11_formula.mp4,11.68,M
+02_07_SC01_drill.mp4,6.62,M
+03_01_SC11_sort.mp4,10.23,M
+03_02_SC11_custom.mp4,13.87,M
+03_03_SC11_selection.mp4,11.17,M
+03_04_SC11_rule.mp4,7.77,M
+03_05_SC11_search.mp4,10.35,M
+03_06_SC11_slicers.mp4,9.73,M
+03_07_SC11_format.mp4,8.2,M
+03_08_SC11_report.mp4,12.15,M
+03_09_SC11_clear.mp4,5.94,M
+04_01_SC11_style.mp4,9.26,M
+04_02_SC11_new.mp4,14.63,M
+04_03_SC11_layout.mp4,15.1,M
+04_04_SC11_number.mp4,8.2,M
+05_01_SC11_rule.mp4,13.84,M
+05_02_SC11_top.mp4,20,M
+05_03_SC11_databars.mp4,11.36,M
+05_04_SC11_colorscale.mp4,10.69,M
+05_05_SC11_icon.mp4,12.98,M
+05_06_SC11_edit.mp4,15.31,M
+05_07_SC11_multiple.mp4,9.97,M
+05_08_SC11_delete.mp4,7.4,M
+06_01_SC11_chart.mp4,8.22,M
+06_02_SC11_pivot.mp4,6.38,M
+06_03_SC11_filter.mp4,7.19,M
+06_04_SC11_format.mp4,10.1,M
+06_05_SC11_layout.mp4,9.39,M
+06_06_SC11_type.mp4,6.59,M
+06_07_SC11_trend.mp4,7.85,M
+07_01_SC11_print.mp4,8.33,M
+07_02_SC11_titles.mp4,10.76,M
+07_03_SC11_item.mp4,9.96,M
+07_04_SC11_chart.mp4,2.83,M
+08_01_SC11_record.mp4,9.28,M
+08_02_SC11_run.mp4,10.16,M
+08_03_SC11_tell.mp4,7.97,M
+09_01_SC11_enable.mp4,4.06,M
+09_02_SC11_intro.mp4,12.56,M
+09_03_SC11_import.mp4,7.21,M
+09_04_SC11_table.mp4,3.28,M
+09_05_SC11_manage.mp4,11.4,M
+09_06_SC11_relate.mp4,11.32,M
+09_07_SC11_pivot.mp4,11.84,M
+09_08_SC11_timeline.mp4,11.32,M
+10_01_SC11_intro.mp4,7.38,M
+10_02_SC11_operators.mp4,11.06,M
+10_03_SC11_functions.mp4,8.22,M
+10_04_SC11_calccol.mp4,6.67,M
+10_05_SC11_calcfield.mp4,8.61,M
+10_06_SC11_agg.mp4,11.52,M
+10_07_SC11_filter.mp4,7.65,M
+11_01_SC11_slight.mp4,5.21,M
+11_02_SC11_start.mp4,6.67,M
+11_03_SC11_tablemx.mp4,9.82,M
+11_04_SC11_card.mp4,7.32,M
+11_05_SC11_tile.mp4,7.01,M
+11_06_SC11_filter.mp4,7.95,M
+11_07_SC11_format.mp4,6.28,M
+12_01_SC11_colbar.mp4,8.76,M
+12_02_SC11_pie.mp4,4.54,M
+12_03_SC11_line.mp4,6.13,M
+12_04_SC11_map.mp4,6.06,M
+12_05_SC11_multi.mp4,5.86,M
+12_06_SC11_multiples.mp4,6.04,M
+13_01_SC11_goodbye.mp4,1.46,M
+Exercise Files/Chapter01/Clear.xlsx,14.31,K
+Exercise Files/Chapter01/Configuring.xlsx,14.2,K
+Exercise Files/Chapter01/Connect.xlsx,7.46,K
+Exercise Files/Chapter01/Consolidating.xlsx,10.48,K
+Exercise Files/Chapter01/Create.xlsx,9.41,K
+Exercise Files/Chapter01/ExternalData.xlsx,16.42,K
+Exercise Files/Chapter01/FormatData.xlsx,8.49,K
+Exercise Files/Chapter01/Introducing.xlsx,14.74,K
+Exercise Files/Chapter01/Managing.xlsx,14.29,K
+Exercise Files/Chapter01/Pivoting.xlsx,13.78,K
+Exercise Files/Chapter01/Recommended.xlsx,9.41,K
+Exercise Files/Chapter02/Calculated.xlsx,15,K
+Exercise Files/Chapter02/DrillDown.xlsx,14.71,K
+Exercise Files/Chapter02/Formula.xlsx,14.83,K
+Exercise Files/Chapter02/Grouping.xlsx,16.87,K
+Exercise Files/Chapter02/MoreThanOne.xlsx,14.78,K
+Exercise Files/Chapter02/Summary.xlsx,14.31,K
+Exercise Files/Chapter02/Totals.xlsx,14.31,K
+Exercise Files/Chapter03/Clear.xlsx,14.53,K
+Exercise Files/Chapter03/Custom.xlsx,15.42,K
+Exercise Files/Chapter03/FilterSummary.xlsx,14.72,K
+Exercise Files/Chapter03/FormatSlicer.xlsx,14.2,K
+Exercise Files/Chapter03/ReportFilter.xlsx,13.88,K
+Exercise Files/Chapter03/Rule.xlsx,14.2,K
+Exercise Files/Chapter03/SearchFilter.xlsx,14.48,K
+Exercise Files/Chapter03/Selection.xlsx,14.71,K
+Exercise Files/Chapter03/Slicer.xlsx,14.2,K
+Exercise Files/Chapter03/Sorting.xlsx,15.6,K
+Exercise Files/Chapter04/ApplyStyle.xlsx,14.6,K
+Exercise Files/Chapter04/DefineStyle.xlsx,14.6,K
+Exercise Files/Chapter04/Layout.xlsx,14.31,K
+Exercise Files/Chapter04/NumberFormat.xlsx,16.01,K
+Exercise Files/Chapter05/ColorScales.xlsx,16,K
+Exercise Files/Chapter05/DataBars.xlsx,16.02,K
+Exercise Files/Chapter05/Delete.xlsx,16.16,K
+Exercise Files/Chapter05/EditingRules.xlsx,16.08,K
+Exercise Files/Chapter05/FormatRule.xlsx,16,K
+Exercise Files/Chapter05/IconSets.xlsx,15.8,K
+Exercise Files/Chapter05/Multiple.xlsx,16.16,K
+Exercise Files/Chapter05/TopValues.xlsx,16,K
+Exercise Files/Chapter06/ChartType.xlsx,19.07,K
+Exercise Files/Chapter06/CreatePivot.xlsx,9.41,K
+Exercise Files/Chapter06/Filtering.xlsx,18.95,K
+Exercise Files/Chapter06/Formatting.xlsx,18.95,K
+Exercise Files/Chapter06/Layout.xlsx,18.95,K
+Exercise Files/Chapter06/Pivoting.xlsx,18.95,K
+Exercise Files/Chapter06/Trendline.xlsx,18.55,K
+Exercise Files/Chapter07/PrintChart.xlsx,19.03,K
+Exercise Files/Chapter07/PrintEachItem.xlsx,20.3,K
+Exercise Files/Chapter07/PrintHeaders.xlsx,20.22,K
+Exercise Files/Chapter07/PrintPivot.xlsx,16.07,K
+Exercise Files/Chapter08/PresentationKit.xlsm,21.31,K
+Exercise Files/Chapter08/PresentationKit.xlsx,15.84,K
+Exercise Files/Chapter08/RecordMacro.xlsx,16.07,K
+Exercise Files/Chapter08/RunMacro.xlsm,20.36,K
+Exercise Files/Chapter09/AddToModel.xlsx,13.41,K
+Exercise Files/Chapter09/CreatePivot.xlsx,203.45,K
+Exercise Files/Chapter09/CreateRelationship.xlsx,203.41,K
+Exercise Files/Chapter09/CustomerInfo.xlsx,19.08,K
+Exercise Files/Chapter09/DataSource.accdb,440,K
+Exercise Files/Chapter09/Import.xlsx,7.46,K
+Exercise Files/Chapter09/Introducing.xlsx,206.84,K
+Exercise Files/Chapter09/ManageColumns.xlsx,158.17,K
+Exercise Files/Chapter09/Sales.xlsx,13.41,K
+Exercise Files/Chapter09/Timeline.xlsx,215.07,K
+Exercise Files/Chapter10/Aggregate.xlsx,127.61,K
+Exercise Files/Chapter10/CalculatedColumn.xlsx,158.12,K
+Exercise Files/Chapter10/CalculatedField.xlsx,171.72,K
+Exercise Files/Chapter10/DAX Operators.pptx,34.6,K
+Exercise Files/Chapter10/Filtered.xlsx,127.61,K
+Exercise Files/Chapter10/Introducing.xlsx,159.11,K
+Exercise Files/Chapter10/Operators.xlsx,158.21,K
+Exercise Files/Chapter10/Survey.xlsx,158.16,K
+Exercise Files/Chapter11/BaseData.csv,2.61,K
+Exercise Files/Chapter11/BaseData.xlsx,12.52,K
+Exercise Files/Chapter11/Card.xlsx,176.2,K
+Exercise Files/Chapter11/Enable.xlsx,10.35,K
+Exercise Files/Chapter11/Filter.xlsx,178.66,K
+Exercise Files/Chapter11/Format.xlsx,178.39,K
+Exercise Files/Chapter11/Table.xlsx,128.27,K
+Exercise Files/Chapter11/Tiles.xlsx,176.26,K
+Exercise Files/Chapter12/BaseData.csv,2.61,K
+Exercise Files/Chapter12/BaseData.xlsx,12.62,K
+Exercise Files/Chapter12/CalculatedColumn.xlsx,13.41,K
+Exercise Files/Chapter12/ColumnAndBar.xlsx,178.35,K
+Exercise Files/Chapter12/Import.xlsx,7.46,K
+Exercise Files/Chapter12/Line.xlsx,178.36,K
+Exercise Files/Chapter12/Map.xlsx,148.29,K
+Exercise Files/Chapter12/MultiSeries.xlsx,139.94,K
+Exercise Files/Chapter12/Multiples.xlsx,140.47,K
+Exercise Files/Chapter12/Pie.xlsx,178.13,K
+Exercise Files/Chapter12/Sales.xlsx,13.41,K

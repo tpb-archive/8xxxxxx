@@ -1,0 +1,160 @@
+Description
+
+Sinopse e detalhes
+
+Em um futuro próximo há pessoas que são o próximo degrau na escada evolucionária humana, os mutantes. Dotados de um fator X em sua carga genética, cada mutante desenvolve um tipo diferente de poder e muitas vezes precisam aprender a controlá-lo, pois só se manifesta na adolescência ou mesmo quando se tornam adultos. Os mutantes sofrem um grande preconceito, pois os humanos em geral não entendem os poderes deles e temem que os mutantes, por serem superiores às pessoas comuns, irão perseguir a raça humana. Do lado dos mutantes, o combate a esse preconceito não acontece de modo uniforme. Alguns mutantes, os X-Men, são liderados pelo Professor Xavier (Patrick Stewart), um telepata, e pretendem vencer o preconceito por meios pacíficos, convencendo o público de que humanos e mutantes podem conviver em paz. No entanto a Irmandade dos Mutantes, comandada pelo temível Magneto (Ian McKellen), que pode alterar e modificar a estrutura dos metais, declarou guerra aos humanos, pois está cansado de tanta perseguição e humilhação. O ódio e o medo que os humanos sentem pelos mutantes está à beira do fanatismo, principalmente por causa de uma campanha antimutantes liderada pelo senador Robert Kelly (Bruce Davison). Particularmente dois mutantes serão envolvidos nesta luta: o primeiro é Wolverine (Hugh Jackman) que, dotado de incrível força, não lembra do seu passado; e o segundo éVampira (Anna Paquim), uma jovem que absorve toda a força vital de qualquer pessoa que ela toque, sendo que se o contato for um pouco prolongado esta pessoa morrerá. Estes dois mutantes são disputados pela Irmandade dos Mutantes e pelos X-Men, pois cada facção quer fortalecer seu lado. A diferença é que Xavier quer os mutantes para também ajudá-los a compreender e controlar seus poderes, enquanto Magneto precisa dos dois, Vampira em especial, para levar a cabo o plano de atingir os líderes mundiais, que pretendem decidir o futuro dos mutantes na Ilha de Ellis, Nova York.
+
+
+
+
+
+
+Format : Matroska
+Format version : Version 2
+File size : 893 MiB
+Duration : 1h 44mn
+Overall bit rate : 1 197 Kbps
+Encoded date : UTC 2013-05-02 13:23:27
+Writing application : mkvmerge v6.1.0 ('Old Devil') built on Mar 2 2013 14:32:37
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 44mn
+Bit rate : 405 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.077
+Stream size : 302 MiB (34%)
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Default : Yes
+Forced : No
+
+Audio #1
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 286 MiB (32%)
+Title : by fantasma
+Language : English
+Default : Yes
+Forced : No
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 143 MiB (16%)
+Title : by fantasma
+Language : Spanish
+Default : No
+Forced : No
+
+Audio #3
+ID : 4
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 143 MiB (16%)
+Title : by fantasma
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #1
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 6
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : Spanish
+Default : No
+Forced : No
+
+Text #3
+ID : 7
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : Portuguese
+Default : No
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:04:14.267 : en:Chapter 02
+00:09:21.168 : en:Chapter 03
+00:17:58.635 : en:Chapter 04
+00:23:55.236 : en:Chapter 05
+00:29:51.470 : en:Chapter 06
+00:36:33.137 : en:Chapter 07
+00:44:09.237 : en:Chapter 08
+00:52:00.737 : en:Chapter 09
+00:59:01.538 : en:Chapter 10
+01:05:56.472 : en:Chapter 11
+01:12:17.340 : en:Chapter 12
+01:17:57.174 : en:Chapter 13
+01:26:51.241 : en:Chapter 14
+01:33:05.341 : en:Chapter 15

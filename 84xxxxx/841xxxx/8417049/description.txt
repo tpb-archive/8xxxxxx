@@ -1,0 +1,77 @@
+ http://www.amazon.com/dp/B0009NSCQM/
+
+Swing Time
+
+
+MPEG Video from the DVD compressed (gently) to AVC.
+Audio copied from the 2 CD torrent.
+Chapter stops from the laser disc.
+
+(My DVD was messed up; all I could pull off it was the video)
+
+TMI:
+
+General
+Complete name                  : 1936 Swing Time.mkv
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 1.35 GiB
+Duration                       : 1h 43mn
+Overall bit rate               : 1 861 Kbps
+Encoded date                   : UTC 2013-04-25 17:03:54
+Writing application            : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 2 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Bit rate                       : 1 632 Kbps
+Width                          : 640 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Variable
+Original frame rate            : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+
+Audio
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 1h 43mn
+Bit rate mode                  : Constant
+Bit rate                       : 192 Kbps
+Channel(s)                     : 1 channel
+Channel positions              : Front: C
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Delay relative to video        : 16ms
+Stream size                    : 142 MiB (10%)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Menu
+00:00:00.000                   : Main Titles
+00:01:18.032                   : "It's not in the cards": The wedding is cancelled
+00:14:16.028                   : Arrival in New York
+00:24:52.024                   : At the dancing school: "Pick Yourself Up" (song)
+00:27:58.480                   : "Pick Yourself Up" (dance)
+00:39:54.756                   : "The Way You Look Tonight"
+00:45:39.389                   : At Raymond's place
+00:51:03.491                   : "Waltz in Swing Time"
+00:57:08.626                   : The snowy countryside
+01:02:11.768                   : "A Fine Romance"
+01:07:10.197                   : The Silver Sandal reopens
+01:12:42.201                   : "Bojangles of Harlem"
+01:25:45.136                   : The "Never Gonna Dance" scene begins
+01:28:01.315                   : "Never Gonna Dance"
+01:34:08.818                   : Toward the all-laughing conclusion
+01:42:17.082                   : The finale in counterpoint

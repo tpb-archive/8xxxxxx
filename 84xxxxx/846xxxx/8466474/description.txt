@@ -1,0 +1,32 @@
+Changes in version 11.0.1: 
+
+Bugfixes:
+
+- bugfixes in pianoroll and playlist 
+- change to sysex for Panorama device 
+- Patcher: fixed bug loading old VST plugin settings 
+- Patcher: fixed bug adding (sub) Patcher preset with open surface tab 
+- Control Surface: fixed loading back links to controllers in FL 
+- Control Surface: fixed response to automation from other internal controller 
+- Control Surface: fixed reporting XY control changes to host 
+- Control Surface: fixed slider handle size when pasting colors 
+- Control Surface: fixed saving / loading XY color 
+- Control Surface: fixed adjusting slider properties to slider size 
+- fixes to Seamless songs 
+- Wrapper: fixed plugin bridge 
+- GMS: fixed various crashing bugs 
+- Effector: small fix 
+- fix to Akai APC support 
+
+FL Studio system requirements:
+
+* 2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) compatible CPU with full SSE2 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo!
+* 32 or 64 Bit versions of Windows 8, Windows 7, Vista, XP (with service pack 3)
+* (or) Intel Mac with Boot Camp / Windows. Running XP (with service pack 3), Vista or Windows 7 (in 32 or 64 Bit)
+* 1 Gb or more RAM recommended
+* 1 Gb free disk space
+* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers)
+
+Language : English
+
+Homepage : 

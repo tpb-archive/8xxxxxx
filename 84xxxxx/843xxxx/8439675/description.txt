@@ -1,0 +1,89 @@
+*******************************************************************************
+                              PSP on PS3 Vol. 03 [51-75] 
+*******************************************************************************
+
+------------------------------------------------------------------------------- 
+                              General Information 
+------------------------------------------------------------------------------- 
+Type.................: PSP PKG Files (ReActPSN NOT Req.) 
+Platform.............: Playstation 3 
+Compression Format...: None 
+Image Format.........: ISO & PSN PKG's 
+Image Created with...: PC & PSN 
+Reader...............: PSP UMD Optical Drive 
+Source...............: UMD Disc & PSN PKG Files 
+
+
+------------------------------------------------------------------------------- 
+                              Post Information 
+------------------------------------------------------------------------------- 
+Posted by............: atreyu187 (http://www.blackcats-games.net/) 
+Posted on............: 4/29/2013 
+
+------------------------------------------------------------------------------- 
+                                Release Notes 
+------------------------------------------------------------------------------- 
+Here we go with another pack for you, some are Remasters and others are Mini's 
+but all work 100%. I tried to use PSP Remastering with all new games first due to 
+the upscaling and full screen capabilites but if that failed I fell back on the old method 
+as it would make some games work unlike the PSP Remaster PKG's. I am trying to do 
+as many request as you guys send to me but some simply do not work. So I will keep 
+trying as methods evole so if you don't see the game you want now there are 73 now 
+you can play (two were repacked but now fixed, sorry. One had to be PSP Remastered 
+the other was a hiccup making the last PKG file) anyhow I am well on my way to pack 4 
+so it will be up soon after this completes. So Till then I hope you enjoy!! Also on Remasters 
+open your XMB duuring a game and go to settings and choose "Game Settings" and turn 
+on the upscaling as well as full screen for Remasters. 
+
+All retain their orignal Content ID given by Sony so 
+no conflicts will happen during install and all can be installed at one time no 
+problems there. Saves work on all games and test using Rebug 4.30.2 CFW but will 
+work on any CFW. 
+
+I have been told however 3.41 & 3.55 saves will not work but 
+any 4.XX CFW they will save just fine. I made this pack as I had so many I 
+needed to catch up and by the time this is seeded hopefull the next pack will be 
+ready. So stick with it and you will get some great games to play on your PS3. 
+
+Akiba's Trip 
+Alien Syndrome 
+Aliens vs. Predator Requiem 
+Burnout Dominator 
+Castlevania The Dracula X Chronicles 
+Corpse Party Book of Shadows 
+Gradius Collection 
+Hellboy The Science of Evil 
+Lumines II 
+Lunar Silver Star Harmony 
+Metal Gear AC!D 2 (3D enabled and working, all proper patches applied) 
+Metal Gear AC!D 
+Metal Gear Solid Portable OPS Plus 
+Monster Hunter Freedom Unite (Ad-Hoc and camera mapped to d-pad. 
+Prinny Can I Really be the Hero 
+Prinny 2 - Operation Panties Dood! 
+Puzzle Bobble Pocket 
+Ratchet & Clank Size Matters 
+Samurai Warriors - State of War 
+Star Ocean First Departure v2 (Confirmed working now, sorry for the last one) 
+Star Wars The Force Unleashed 
+Tales of the World - Radiant Mythology v2 (Saves working now) 
+The 3rd Birthday 
+Tom Clancys End War 
+Ultimate Ghosts'n Goblins 
+
+
+                                              ##Notes## 
+
+Monster Hunter Freedom Unite - PSN PKG used so freeze is gone and all  extra downloads/quest work from game even on banned PS3. 
+
+The 3rd Birthday - Loads to a black screen simply press X button to get into the game and works flawlessly after that. 
+
+Ultimate Ghosts'n Goblins - PSP Remasterd to fix the 2x speed that happens when converted to a Mini. If anything it runs a tad slow and removing full screen option seems to help get it "just right" but hopefully the updates to the emulators in 4,41 OFW will fix a lot of these issues and maybe we could even "inject" into a 4.30 etc. CFW like we do to disable Cinavia. 
+
+Star Ocean First Departure - Still a "Mini" but it does not black screen anymore. Not sure what happened with the re-PKG'ing after updating art as it worked on my PS3. Anyhow it is fixed and working now. 
+
+Metal Gear Games - All have 3D enabled 
+
+Tales of the World - Radiant Mythology - Was converted from a "Mini" to a "Remaster" version and now it works all the way through after character creation. 
+
+Castlevania The Dracula X Chronicles - Has GFX glitching when the level loading signs come up but during actual game play it run flawless. So nothing will effect the actual game play at all. Just a little lag like on the Dreamcast with Echelon's rip of Skies of Arcadia if anyone recalls that. I have also patched out the border when Symphony of the Night is unlocked. This is how it was programmed but thanks to helpful folks I wa sable to patch it out. Now if it works I do not know as I have not had enough time to make it that far but I did decrypt and and re-sign the binary so in theory the two other unlockable games should be just fine. 

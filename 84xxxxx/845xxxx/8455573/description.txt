@@ -1,0 +1,32 @@
+Wireless Reconnaissance in Penetration Testing
+
+Book Details:
+
+Pages: 226 pages
+Publisher: Syngress (October 2012)
+Language: English
+ISBN-10: 1597497312
+ISBN-13: 978-1597497312
+Format: PDF
+
+Book Description:
+
+In many penetration tests, there is a lot of useful information to be gathered from the radios used by organizations. These radios can include two-way radios used by guards, wireless headsets, cordless phones and wireless cameras. Wireless Reconnaissance in Penetration Testing describes the many ways that a penetration tester can gather and apply the information available from radio traffic. Stopping attacks means thinking like an attacker, and understanding all the ways that attackers gather information, or in industry terms profile, specific targets. With information from what equipment to use and how to find frequency information, to tips for reducing radio information leakage, to actual case studies describing how this information can be used to attack computer systems, this book is the go-to resource for penetration testing and radio profiling.
+
+Author Matthew Neely is a respected and well-known expert and speaker on radio reconnaissance and penetration testing
+Includes real-world case studies of actual penetration tests using radio profiling
+Covers data leakage, frequency, attacks, and information gathering
+
+Table of Contents
+Chapter 1. Why Radio Profiling?
+Chapter 2. Basic Radio Theory and Introduction to Radio Systems
+Chapter 3. Targets (Wireless Headsets, Guard Radios, Wireless Cameras, etc.)
+Chapter 4. Offsite Profiling
+Chapter 5. Offsite Profiling Case Study
+Chapter 6. Onsite Profiling
+Chapter 7. Onsite Profiling Case Study
+Chapter 8. How to Use the Information You Gather
+Chapter 9. Basic Overview of Equipment and How It Works
+Chapter 10. Case Study to Pull It All Together
+Chapter 11. New Technology and the Future of Radios in Penetration Testing
+

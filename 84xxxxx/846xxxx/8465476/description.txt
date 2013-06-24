@@ -1,0 +1,64 @@
+I got to playing around after a comment on my Shades of Darkness-Catalyst FIX torrent about it being in Russian (it isn't) but this is the other languages installed with the original game
+
+Only four other spoken languages are included in the game and this is them
+French / German / Polish / Spanish
+
+
+Shades of Darkness IS NOT REQUIRED, only the original Heroes VI and it will work on any install
+
+Once uploaded i will be deleting my copy so please don't just leech ...
+
+
+Instructions:
+
+Extract your desired language (HeroesVI **.rar) directly into the folder your game files are installed to
+
+Open the registry editor (regedit.exe)
+
+go to key:
+
+** x86 - HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI
+** x64 - HKEY_LOCAL_MACHINESOFTWAREWow6432NodeUbisoftMight & Magic Heroes VI
+
+double click on the entry named 'Language' and change to your desired language using the 3 digits on the left
+
+this will give you the language as TEXT ONLY in game (if you don't select one of the four languages archived in this torrent)
+
+I CAN NOT, DO NOT AND WILL NOT GUARANTEE THEY ALL WORK
+
+
+409 = English (United States)
+411 = Japanese
+401 = Arabic (Saudi Arabia)
+42d = Basque
+402 = Bulgarian
+403 = Catalan
+804 = Chinese (PRC)
+404 = Chinese (Taiwan)
+41a = Croatian
+405 = Czech
+406 = Danish
+413 = Dutch (Netherlands)
+40b = Finnish
+c0c = French (Canada)
+40c = French (France)
+407 = German (Germany)
+408 = Greek
+40d = Hebrew
+40e = Hungarian
+421 = Indonesian
+410 = Italian (Italy)
+412 = Korean
+414 = Norwegian (Bokmal)
+415 = Polish
+416 = Portuguese (Brazil)
+816 = Portuguese (Portugal)
+418 = Romanian
+419 = Russian
+c1a = Serbian (Cyrillic)
+41b = Slovak
+424 = Slovenian
+40a = Spanish (Traditional Sort)
+41d = Swedish
+41e = Thai
+41f = Turkish

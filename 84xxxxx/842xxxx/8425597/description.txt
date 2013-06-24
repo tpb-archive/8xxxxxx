@@ -1,0 +1,110 @@
+50 Cent Blood on the Sand xbox 360
+
+Developer:
+Swordfish Studios
+
+Publisher:
+THQ
+
+Genre:
+Shooter
+
+Release:
+US: February 24, 2009
+Europe: February 20, 2009
+
+Region: Region Free
+
+Size: 7,651,848 KB
+
+Abgx360 Result:
+
+-------------------------------------------------------------------------------
+\//\//\//\// _ |_ _  / /_ _ _ \//\//\//\//\//\//\//\//\//\
+//\//\//\//\ (_||_)(_|/ / _||_ | | //\//\//\//\//\//\//\//\//\//
+------------------------_|------_||_||_|--v1.0.6-------[http://abgx360.net]----
+
+Checking for updates to abgx360.dat...
+Server file abgx360.dat no newer than local file - not retrieving
+
+I:50 Cent BotS50 Cent - Blood on the Sand [FREE]50 Cent - Blood on the Sand [FREE].dvd is valid
+
+Checking Game
+ISO: "I:50 Cent BotS50 Cent - Blood on the Sand [FREE]50 Cent - Blood on the Sand [FREE].iso"
+Size: 7835492352 bytes
+Files in ISO: 737, Folders in ISO: 11
+Total bytes used: 6794459976 (93.09%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: C1Game-Release.xex
+Original PE Timestamp: 2008/12/03 09:54:07
+Min Kernel Required: v2.0.6717.0
+Game Name: 50 Cent: BotS
+Developer: Swordfish Studios
+Publisher: THQ Inc.
+Genre: Action Adventure
+No Avatar Awards
+Achievements: 46 Achievements totaling 1000 Gamerscore
+XEX CRC = 589036C8
+XEX Media ID: 864C7526078E4E0DF9B2F37C-6FF4F789
+
+Region Code: 0xFFFFFFFF
+Region Free!
+
+Checking SS
+Timestamp of Authoring: 2008/12/04 00:00:00
+Timestamp of Mastering: 2008/12/16 21:27:51
+SS Version: 1
+SS CRC = 8CFE7A56 (RawSS = D679795D)
+SS Media ID: 864C7526078E4E0DF9B2F37C-6FF4F789 (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2008/12/04 00:00:00 (matches SS)
+DMI CRC = 5B2B5B28
+DMI Media ID: 864C7526078E4E0DF9B2F37C-6FF4F789 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = A4CFB59C
+PFI matches known data (2nd Wave)
+
+Video partition found
+-------------------------------------------------------------------------------
+L0 Video padding contains data but this is normal for XGD2 (The old way of
+putting L1 video on L0). Add command line option --pL0 if you want to blank it
+out (the data hasn't actually been checked that it matches L1 video... it could
+be anything). Note that XGD2 ISOs without L1 video on L0 will appear to have
+bad video data when checked with older versions of abgx360. This version of
+abgx360 doesn't care about L1 video on L0... it will pad L0 video with zeroes
+whenever video is autofixed or manually patched. You can rest assured that only
+old and unsafe custom firmwares will read L1 video from L0; newer ones will
+read it properly from L1. If you're tired of seeing this message then just
+disable "Check/Fix Video padding", as it still makes no difference in terms
+of stealth... this option only exists as a way to make sure ISOs are "clean",
+with no extra data in areas that aren't CRC checked.
+-------------------------------------------------------------------------------
+L1 Video is zero padded
+Video CRC = 91410773 (V0 = 81DF6964, V1 = E47F6A94)
+Video partition matches known data (2nd Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for 8CFE7A56589036C8.ini in the online verified database
+Server file 8CFE7A56589036C8.ini no newer than local file - not retrieving
+
+Using 8CFE7A56589036C8.ini (404 bytes)
+Video CRC matches
+V0 CRC matches
+V1 CRC matches
+PFI CRC matches
+DMI CRC matches
+SS CRC matches
+Xex CRC matches
+AnyDVD style corruption was not detected
+Game CRC = 75C629AC (matches)
+
+All CRCs match
+Verification was successful!

@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+[V],Mr.Stifmeister,2013-05-12T20:16Z,"                      FairLight DOX Division Presents:
+
+                           FEZ v1.05 (c) Trapdoor
+
+:   Cracked by:  FAiRLiGHT            : :  Release Date: 12-05-13            :
+   Packaged by: FAiRLiGHT                 # of Options: N/A
+   Type: [ ] Manual/Reference Card                Type: Crack
+         [ ] CD/Box Covers
+         [ ] Walkthrough
+         [ ] Strategy Guide
+:         [ ] Cheat/Trainer                                                  :
+:         [X] Patch
+   Number of archives: x
+
+
+ Update Notes:
+
+ Version 1.05
+ ------------
+ - Fixed the ""Error initializing audio subsystem"" error
+ - Fixed the bug where ""Continue Game"" is greyed out when reloading a valid
+   save game
+ - Fixed that map icons did not show up on Intel HD Graphics chips
+ - Running the game ""As Administator"" should not necessary anymore
+ - Fixed random crash bug when loading between levels
+ - Tentative fix for transitioning to levels in the background while  using
+   endgame feature
+ - Game now checks for available disc space on start (200Mb required)
+ - Added CLI flag to disable joystick support : --no-gamepad
+ - Added CLI flag to assume/force 60fps : --force-60hz (this is  equivalent
+   to the MonoGame DLL hack that's been going around)
+ - Added CLI flag for  debug  tracing  :  --trace  (please  use  this  when
+   reporting crashes)
+ - Fixed sprite alignment of corner ledge animations
+ - Final cutscene will play even if you glitched your way to more  than  64
+   cubes
+ - Added  tentative  support  for  retroactive  or   glitched/non-unlocked
+   achievements (Steam)
+ - Fixed cloning/duplicate/infinite anti-cube glitch
+ - Game should not force a resolution that is not supported by the  display
+   device on first run
+ - Added slightly broader support for Intel HD cards with outdated drivers
+ - NOTE : The ""Debug Log.txt"" file is now located  in  %APPDATA%FEZ,  the
+   one in the FEZ directory is stale and won't be written to
+
+
+ Instructions:
+
+ - Unrar the update.exe and run it ( point to your installation folder
+   if required )
+
+                                                           /TEAM FAIRLIGHT"
+,Zev747,2013-05-13T00:06Z,"How do I run this?  It's an sfv file and a bunch of numbered files, no exe or rar file exists."
+,Flyinby,2013-05-13T01:39Z,"Use HJSplit or a similar freeware program. point it to the location of the .001 file, it will do the rest."
+,Flyinby,2013-05-13T01:54Z,"Never mind, it doesn't work.  Joined with HJSplit only yields a no-extension file, and if you try to rename and extract with Winrar, it says it needs more rar files.  Nothing in the NF0 about it or how to properly extract or join it.  Waste of time."
+,klord2010,2013-05-13T05:01Z,you guys are hilarious. anyone heard of 7zip? xD
+,Becker_John,2013-05-13T13:24Z,"Winrar and it unpacked just fine.
+
+And for those that don't understand, this is an update. . . "

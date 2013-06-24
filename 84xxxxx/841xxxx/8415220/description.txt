@@ -1,0 +1,47 @@
+QTranslate is a free translator for Windows (Windows 8/7/Vista/XP/2008 Server/2003 Server). With this small utility, you simply select the text you want to translate and then press hot key (Ctrl+Q to show translation in the popup window or Double Ctrl click to show the translation in the main window). The program also has the ability to speak text (Ctrl+E) and perform a dictionary search (Ctrl+Alt+Q). Also, you can open the main window and type text manually.
+
+
+
+ The current version supports the following translation services: 
+Google Translate
+Microsoft Translator
+Promt
+Babylon
+SDL FreeTranslation.com
+╨»╨╜╨┤╨╡╨║╤ü ╨┐╨╡╤Ç╨╡╨▓╨╛╨┤
+ The program has two modes of translation by mouse selection (click on the program icon in the system tray to turn this mode on): 
+Show icon (Select text in any program, the program icon will appear near the cursor. Click on the icon, the popup window with the translation of the selected text will appear);
+Show translation (Select text in any program and the popup window with the translation of the selected text will appear immediately).
+ The main features: 
+Translate text in any application that supports text selection (Google Chrome, Microsoft Word, Microsoft Outlook, Acrobat Reader, Skype, IE and etc.);
+Search in online dictionaries;
+Back translation;
+Replace the selected text with its translation;
+Instant translation;
+Spell checking;
+Text to speech synthesis;
+Word suggestion/autocomplete;
+History of translations;
+Virtual keyboard;
+Portable version.
+
+Changes in 5.0.0:
+New: Ability to select several services for the translation (right mouse click on the service button)
+New: Ability to work only in selected applications (Options &gt; Exceptions &gt; choose Enabled for these programs)
+New: ABBYY Lingvo dictionary service
+New: fanyi.youdao.com translation service (Chinese language)
+New: Dictionary article for the Yandex translation service
+New: Bulgarian, Czech, Romanian and Serbian languages for the Yandex service
+New: Ability to hide the top pane in the main window
+New: Improved the dictionary usability
+New: Caching of the dictionary results
+New: Saving the contents of the main window on exit
+Updated: Application icons
+Updated: Default hot key for the dictionary is Win+Q
+Fixed: Unable to copy text from the popup window using the context menu
+
+Windows XP / Windows Server 2003 / Windows Vista / Windows 7 / Windows Server 2008 / Windows 8
+
+Note! The program translates a text by using online translation services, so you need an Internet connection.
+
+Home :   

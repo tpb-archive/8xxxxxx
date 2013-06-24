@@ -1,0 +1,15 @@
+Mageia is a distribution of free and open source GNU/Linux operating system. It is a completely community driven project supported by a non-profit organisation. It's main desktop is KDE Plasma, but others are also available. Mageia focuses on ease of use on the desktop. It includes all software you need for internet, office, multimedia, and more.
+
+Major new features
+* Updates to RPM (4.11) and urpmi, which has been given a good Mageia turnout and cleanup
+* Linux Kernel 3.8
+* systemd 195
+* GRUB is the default bootloader; GRUB2 is available to test.
+* Revamped package groupings for installation and rpmdrake
+* KDE Software Compilation 4.10.2
+* Libreoffice 4.0.2
+* Steam for Linux
+* Qt 4.8.4 and Qt 5
+
+Release notes: 
+https://wiki.mageia.org/en/Mageia_3_Release_Notes

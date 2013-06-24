@@ -1,0 +1,124 @@
+Microsoft Windows 7 SP1 IE10+ RUS-ENG x86-x64 -18in1- Activated (AIO) (27.04.2013) Russian + English
+
+----|Info|---------------------------------------------------------------
+
+Year: 2013
+Version: 6.1.7601.17514
+Address of. Site: http://www.microsoft.ru
+By assembling: m0nkrus
+Release date assembly: April 27, 2013
+Language: Russian / English
+Operating System: Windows
+Medicine:
+
+System requirements:
+
+* 32-bit (x86) or 64-bit (x64) processor with a clock speed of 1 GHz.
+* 1 GB of RAM.
+* Support for DirectX 9 interface with the driver WDDM, at least 128 MB of graphics memory, Pixel Shader 2.0 in color and 32 bits / pixel.
+Hard disk capacity of 40 GB to 16 GB of free disk space.
+* Drive for DVD-ROM drive.
+* Audio output capability.
+* Internet access.
+
+Description:
+
+This assembly is the successor of the assembly Microsoft Windows 7 SP1 RUS-ENG x86-x64-18in1-Activated (AIO). 
+It is distinguished from its predecessor is that the current assembly includes updates as of April 17, 
+2013, plus some extra chips. Release of this assembly, meanwhile, does not mean that its predecessor lost relevance. 
+For those who prefer to work with assemblies as close as possible to the original distribution, it is still relevant! 
+In developing the same assembly that is presented here, I walked away a little from its principles include the 
+reluctance of the foreign application. On this below ...
+
+So, this assembly includes 9 Russian editions and 9 English editions of Windows 7 SP1 32-bit (x86) and 64-bit (x64) kernel:
+
+- Windows 7 Starter SP1 Russian
+- Windows 7 Starter SP1 English
+- Windows 7 Home Basic SP1 x86 Russian
+- Windows 7 Home Basic SP1 x86 English
+- Windows 7 Home Basic SP1 x64 Russian
+- Windows 7 Home Basic SP1 x64 English
+- Windows 7 Home Premium SP1 x86 Russian
+- Windows 7 Home Premium SP1 x86 English
+- Windows 7 Home Premium SP1 x64 Russian
+- Windows 7 Home Premium SP1 x64 English
+- Windows 7 Professional SP1 x86 Russian
+- Windows 7 Professional SP1 x86 English
+- Windows 7 Professional SP1 x64 Russian
+- Windows 7 Professional SP1 x64 English
+- Windows 7 Ultimate SP1 x86 Russian
+- Windows 7 Ultimate SP1 x86 English
+- Windows 7 Ultimate SP1 x64 Russian
+- Windows 7 Ultimate SP1 x64 English
+
+The efficiency of the assembly as far as possible thoroughly verified.
+After installation, you get a fully registered and activated version of Windows 7 chosen modifications.
+
+Due to the fact that during the assembly operation revealed a number of shortcomings associated with 
+incorrect operation USB3 drivers from Intel and installing the system under UEFI, assembly of 27 April 2013 
+was to rebuild the to eliminate these problems. This so-called "silent update" without changing the version 
+of the assembly. Those who have already downloaded the release, I offer my sincere apology. But I want to 
+note that if the above shortcomings for you are not critical, then release to swing again for you does not make sense. 
+Use the original version!
+
+Some features of the assembly
+
+- The assembly integrates all critical updates available as of April 17, 2013, including Internet Explorer 10.
+- Instead of embedded by default along with the updates Microsoft. NET Firework 4 Client Profile in the assembly 
+of integrated light option. NET Framework 4.5 (draft [Slim]. NET Framework 4.5 Full x86/x64).
+- The assembly integrated into Microsoft Visual C + + 2005, 2008, 2010 and 2012 Redistributable Package latest versions. 
+To avoid duplicating install different applications earlier versions and redirect programs that require these packages 
+to newer versions of libraries, installing older versions locked plugs 
+(project [addon] Microsoft Visual C + + 2005-2008-2010-2012 Redistributable Package Hybrid).
+
+- In the assembly of integrated drivers for USB3 following manufacturers and versions: AMD version 1.0.0.0072, 
+Asmedia version 1.16.4.0, Etron version 1.00.0000.0115, Fresco Logic version 3.5.97.0, Intel and Renesas 
+version 1.0.8.251 version 2.1.39.0. Integration performed in installer and installed in the OS.
+- At a very early stage of the installation is pre-load a menu where you can select the bit of the primary shell, 
+that is what the loader will be used to install, x86 or x64. Because of this, 
+you should not worry that the 64-bit version of the OS can not stand up for RAID, and that users of 64-bit operating systems 
+may be without service recovery system. For the most inquisitive: Do not attempt to install the 32-bit version of the OS 
+from the 64-bit boot - the final stage of the installation boot loader will throw an error and refuses to continue the 
+installation.
+
+- In the System Restore service is triggered from the installation disk, and built into the system, the module is integrated 
+Microsoft Diagnostics and Recovery Toolset (MSDaRT) version 7.0, which greatly expands the possibilities of resuscitation system.
+- If during installation you have entered valid license key in the appropriate field, then the system will be activated by this 
+switch to an entirely legitimate. If the field is left blank, will be used for alternative methods of activation.
+- If you are installing on a computer that has a BIOS'e SLIC-table version 2.1 and above, will involve the standard legal (almost) 
+the means of activation, developed by Microsoft for these computers.
+
+- If you do not have a license key and there is no SLIC-table BIOS'e, the system will activate a built-in assembly activator.
+- If you choose to install Windows 7 Ultimate (maximum), then after installation you will be able to switch the interface language 
+from English to Russian and back standard means Windows 7 Ultimate (maximum). If you have installed any other version that you 
+can use for this purpose utility Vistalizator, a label which is available in the "Start" menu.
+- For technical reasons, the 64-bit version of Windows 7 with this assembly can not be updated for 64-bit version of Windows Vista / 7. 
+However, there is an opportunity to initiate a so-called Custom installation. When you run the installation from 
+DVD / USB-device as a bootable media, it's simple. But to initiate the installation from an already running a 64-bit OS, 
+it is not necessary to start a setup.exe in the root directory with the distribution, and through setup.exe, 
+which is located in the Sources folder distribution.
+
+More about MSDaRT
+A set of tools Microsoft Diagnostics and Recovery Toolset (MSDaRT) to help diagnose and troubleshoot system problems that arise when starting, as well as other problems.
+The kit includes the following tools:
+
+ 
+http://foto-pic.ru/img/2013-04/19/o10qwjeormzg6f1a9zyo5hz0s.jpg 
+http://imageshack.us/a/img823/1829/therain1.png 
+http://imageshack.us/a/img32/4255/therain2.png 
+http://imageshack.us/a/img542/4488/97155557.png 
+http://imageshack.us/a/img401/4651/therain4.png 
+http://imageshack.us/a/img41/4571/therain5.png 
+http://imageshack.us/a/img594/5420/therain6.png 
+http://imageshack.us/a/img19/4765/therain7.png
+
+
+
+
+Install Notes :-
+
+1. Burn Iso with any burner
+2. then reboot your system
+3. then press any key 
+4. format and Install it  
+5. AND INJOY :)

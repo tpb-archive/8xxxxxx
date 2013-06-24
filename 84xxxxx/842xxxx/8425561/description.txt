@@ -1,0 +1,38 @@
+Papers, Please - Beta
+_______________________________________________________________________________
+
+This is a pre-release beta and may contain bugs. It is definitely missing some
+features. For more information about this game, visit http://dukope.com#ppl
+
+Press ALT-ENTER to toggle fullscreen (OPTION-RETURN on Mac).
+
+Please send any bug reports to
+
+_______________________________________________________________________________
+Beta 0.5.13
+
+Bug fixes.
+- No new content.
+- Show helpful error when trying to run without enough OpenGL.
+- Fixed some issues with continuing a game in progress.
+- Fixed "Invalid News0" citation message.
+- Fixed crash when continuing from day 9.
+- Fixed double-detain bug on scripted entrants.
+- Corrected citation penalty amount text.
+- Removed Jorji and made day 3 a much more casual-friendly experience.
+- Just kidding. It seems the last fix worked. No more changes to day 3.
+
+_______________________________________________________________________________
+Command-line parameters
+
+    win           : Force windowed mode
+    savedir [DIR] : Override the save directory (full path, must exist)
+
+    EG: &gt; PapersPlease.exe win savedir "C:/MySaves/PPSaves/"
+        (Run in windowed mode and write savefiles to C:/MySaves/PPSaves/)
+
+_______________________________________________________________________________
+
+Lucas Pope
+@dukope
+dukope.com

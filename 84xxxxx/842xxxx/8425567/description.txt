@@ -1,0 +1,75 @@
+--------------------------------------------
+
+Iron Man 3 2013 CAM XViD - JUSTiCE
+
+SOURCE: Beowulf / MiLLENiUM
+
+Video and audio both cleaned and given justice
+Check sample and see
+
+Video had plenty of faults from movement,glares,colouring bleeding etc
+So opted to rotate and use the perspective filter to find a better balance first off
+will be honest and say due to camera movement it doesn't stay level throughout
+Once sorted i had to crop the odd borders this made ...only 3-5 pixel here and there
+Then to sort the noise out i had to smoother a fair bit ..more than normal,but this
+needed to be done 
+Also lowered the sat right down to almost black and white ...and from there i used the
+rgb eq to rebuild the colours back up
+
+Audio ...MUCH better than the old source,so top work guys 
+Found the audio was oos around 1hr 14mins over my encode so cut and adjusted
+From there we cleaned it in adobe by changing the eq bands aswell as using a hiss removal filter
+
+Video
+ID: 0
+Format: MPEG-4 Visual
+Format profile: Advanced Simple@L5
+Format settings, BVOP: 2
+Format settings, QPel: No
+Format settings, GMC: No warppoints
+Format settings, Matrix: Default (MPEG)
+Muxing mode: Packed bitstream
+Codec ID: XVID
+Codec ID/Hint: XviD
+Duration: 1h 58mn
+Bit rate: 1 540 Kbps
+Width: 720 pixels
+Height: 288 pixels
+Display aspect ratio: 2.500
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Compression mode: Lossy
+Bits/(Pixel*Frame): 0.297
+Stream size: 1.27 GiB (92%)
+Writing library: XviD 64
+
+Audio
+ID: 1
+Format: MPEG Audio
+Format version: Version 1
+Format profile: Layer 3
+Mode: Joint stereo
+Mode extension: MS Stereo
+Codec ID: 55
+Codec ID/Hint: MP3
+Duration: 1h 58mn
+Bit rate mode: Constant
+Bit rate: 128 Kbps
+Channel(s): 2 channels
+Sampling rate: 44.1 KHz
+Compression mode: Lossy
+Stream size: 108 MiB (8%)
+Alignment: Split accross interleaves
+Interleave, duration: 40 ms (1.00 video frame)
+Interleave, preload duration: 500 ms
+screenies below so the tone down on the glare,noise,colour bleeds and also the slight angle change
+
+--------------------------------------------
+
+More at   
+http://publichash.com/
+
+--------------------------------------------

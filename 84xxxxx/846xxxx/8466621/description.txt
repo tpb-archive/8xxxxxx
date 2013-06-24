@@ -1,0 +1,100 @@
+Widespread Panic
+State Theater
+Portland, ME
+April 1, 1995
+
+Source: SBD &gt; DA-P20 @ 48.0khz
+Transfer: Tascam DA-45HR &gt; Audiophile 24/96 USB &gt; Cool Edit Pro &gt; CDWave &gt; FLAC(level 6)
+
+Resampled(48&gt;44.1) and Fades Added in Cool Edit
+Tracked in CDWave
+
+Converted, Edited, and Seeded by D.P. Swint
+
+Disc 1
+Set I
+01. Tie Your Shoes &gt; 
+02. Disco &gt; 
+03. C. Brown &gt; 
+04. Better Off 
+05. WonderinΓÇÖ 
+06. 1 x 1 
+07. Let's Get Down To Business 
+08. Mercy &gt; Jam &gt; 
+09. Makes Sense To Me 
+
+Set II
+10. Pigeons 
+
+Disc 2
+Set II cont.
+01. Raise The Roof 
+02. A of D 
+03. Walkin' 
+04. Space Wrangler 
+05. Low Spark Of High Heeled Boys* 
+06. Chilly Water &gt; 
+07. Drums &gt; 
+08. Chilly Water 
+
+Encore:
+09. Let's Get The Show On The Road &gt; 
+10. Mr. Soul
+
+* with Dan Meyers on saxophone
+['Drums' Sunny solo; From Good Homes opened] 
+
+Notes: Dropout at 4:08 of d1t05 fixed in CEP
+
+Setlist compliments of Everyday Companion
+www.everydaycompanion.com
+
+********************************************************
+FLAC Fingerprints
+
+wsp1995-04-01d1t01.flac:b96e8e10eb0f4bfc8c5599741030ed8d
+wsp1995-04-01d1t02.flac:aa7ecb7623eeb8b37e51f756e8b47ea3
+wsp1995-04-01d1t03.flac:01315327e2c07acb64cc34998f0e9e57
+wsp1995-04-01d1t04.flac:003e21e7e5e93dd0af261abd6ac1b67e
+wsp1995-04-01d1t05.flac:271fdcf776d04da2bef75b08f3a45c72
+wsp1995-04-01d1t06.flac:54bfa739c97a1393187a4645a3a44c16
+wsp1995-04-01d1t07.flac:0ddefbe8b1a0a78977458b26f5186c8a
+wsp1995-04-01d1t08.flac:277ef7a31968515ec5c8b7ff798a02ae
+wsp1995-04-01d1t09.flac:f03bf82fc22235056aefcd0c1508e6a3
+wsp1995-04-01d1t10.flac:efb055f7e46f153eca9bc13ba7e01eac
+wsp1995-04-01d2t01.flac:efa243f405705236c8247bef28a55eb2
+wsp1995-04-01d2t02.flac:d94727788c351622380ce0412f6a3135
+wsp1995-04-01d2t03.flac:5aa955980a401aa93a0913e0123c8551
+wsp1995-04-01d2t04.flac:793a2176255872756402a0e18e35e591
+wsp1995-04-01d2t05.flac:5f6864e0764183c36c741a3e2dbad012
+wsp1995-04-01d2t06.flac:e1401d84fa09cb0853af0fd36fa2740a
+wsp1995-04-01d2t07.flac:91063b9a8a959b5869641ce147a2d4b3
+wsp1995-04-01d2t08.flac:0fa4bd0b4948ab65797d69d723ab3fcb
+wsp1995-04-01d2t09.flac:cb6e99b3bdbfe86c98dcdd7385d9e242
+wsp1995-04-01d2t10.flac:c71f7e9b529163a72ee8701d902c5fe0
+
+*********************************************************************
+SHNtool Output
+
+length     expanded size   cdr  WAVE problems filename
+ 5:13.02       55217948    ---   --   ---xx   wsp1995-04-01d1t01.flac
+ 5:09.40       54601724    ---   --   ---xx   wsp1995-04-01d1t02.flac
+ 6:42.42       71011628    ---   --   ---xx   wsp1995-04-01d1t03.flac
+ 6:06.45       64668284    ---   --   ---xx   wsp1995-04-01d1t04.flac
+ 4:15.00       44982044    ---   --   ---xx   wsp1995-04-01d1t05.flac
+ 6:14.13       66004220    ---   --   ---xx   wsp1995-04-01d1t06.flac
+ 5:06.52       54100748    ---   --   ---xx   wsp1995-04-01d1t07.flac
+12:01.15      127219724    ---   --   ---xx   wsp1995-04-01d1t08.flac
+ 5:06.21       54027836    ---   --   ---xx   wsp1995-04-01d1t09.flac
+10:36.22      112242188    ---   --   ---xx   wsp1995-04-01d1t10.flac
+ 5:03.08       53468060    ---   --   ---xx   wsp1995-04-01d2t01.flac
+ 3:19.46       35211836    ---   --   ---xx   wsp1995-04-01d2t02.flac
+ 5:47.63       61359020    ---   --   ---xx   wsp1995-04-01d2t03.flac
+10:25.18      110292380    ---   --   ---xx   wsp1995-04-01d2t04.flac
+18:51.60      199649564    ---   --   ---xx   wsp1995-04-01d2t05.flac
+ 4:53.52       51807548    ---   --   ---xx   wsp1995-04-01d2t06.flac
+ 5:12.37       55123868    ---   --   ---xx   wsp1995-04-01d2t07.flac
+ 4:32.26       48041996    ---   --   ---xx   wsp1995-04-01d2t08.flac
+ 8:03.41       85297676    ---   --   ---xx   wsp1995-04-01d2t09.flac
+ 5:59.73       63499340    ---   --   ---xx   wsp1995-04-01d2t10.flac
+138:41.01        1399.83 MB                    (totals for 20 files, 0.5906 overall compression ratio)

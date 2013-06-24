@@ -1,0 +1,26 @@
+Description:
+
+CrossOver allows you to install many popular Windows applications on your Mac. Your applications integrate seamlessly in OS X; just click and run. No rebooting, no switching to a virtual machine, and no Windows Operating System license required.
+
+
+Version 12.1.2:
+Application Support:
+
+    Quicken
+    Fixed a bug which caused Quicken to fail to register on Mac OS X.
+    Fixed graphics distortions in some Quicken windows.
+    Fixed a bug which prevented a double-click on a .QFX file in the Mac OS X Finder from importing the file into Quicken.
+    Fixed a bug which caused Office 2007 applications to crash in some circumstances.
+    Fixed a bug which caused Wizard101 to fail to recover after being re-sized.
+    Fixed a bug which caused mailto: links to be broken in Outlook 2003.
+    Fixed a bug which caused .Net 4.0 applications to fail to run.
+
+Mac OS X:
+
+    Drag and drop support in the Mac Driver.
+    Gamma support in the Mac Driver.
+    Reduced window flicker when using the Mac Driver.
+
+Language Support:
+
+    Fixed a bug which sometimes caused Traditional Chinese to be used even when a userΓÇÖs preferences were set to Simplified Chinese.

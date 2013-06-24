@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,chop007,2013-05-22T21:57Z,"DUDE YOUR A LEGEND!!!!THANK YOU!!!Man I could never get sound to work in pdvd 13 when playing VideoTS. All the cracks everywhere on the net could not solve it. Then I happened across your torrent, popped that claud.sim into audio filter and main directory, BANG, it is working, THANK YOU, LEGENDARY."
+,samax92,2013-05-22T23:51Z,"@chop007
+You're most welcome."
+,slamm6,2013-05-23T01:23Z,"Yes, I too tried all the versions out there with no luck.  This sounds promising.  Before I go through all the hassle of uninstalling 12, is this the only file I'll need to replace in the retail version of 13 ?  Thanks in advance."
+,samax92,2013-05-23T19:57Z,"1. Install CL PDVD13
+2. Use any crack you find
+3. Put CLAud.sim in:
+    CyberLinkPowerDVD12
+                 and
+    CyberLinkPowerDVD12CommoAudioFilter
+
+Bongoo..."
+,pirate_pacman,2013-05-24T21:24Z,"Not on Windows 8 x64. First of all, there is no such thing as a ""CyberLinkPowerDVD12"" catalogue in the PDVD13 installation. Secondly, following those prescriptions closely in a CyberLinkPowerDVD13 context does not yield the desired result.
+
+Conclusion, gentlemen: This shit doesn't work on Windows 8 x64."
+,samax92,2013-05-25T00:12Z,"Sorry pirate_pacman,
+
+Look for: CyberLinkPowerDVD13
+and
+CyberLinkPowerDVD13CommoAudioFilter  instead of CyberLinkPowerDVD12
+and
+CyberLinkPowerDVD12CommoAudioFilter   after installing CL-PDVD13
+
+It was my mistake of typing,, surely it will work.. "
+,erdi85,2013-06-05T15:49Z,"thanks, works :)"
+,k00lf11re,2013-06-05T18:25Z,Tested this in exact same way as mentioned and also tried many other permutations/combinations of CLAud.sim / SE_CLAud.sim and PowerDVD.sim but this doesnt work for Windows 8 x64.
+,sdsucks,2013-06-08T09:11Z,"audio works alright, but dvd/blu-ray playback still don't work. tried on win7x64 with so-called retail version of pdvd."

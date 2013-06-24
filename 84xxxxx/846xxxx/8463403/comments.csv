@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,mjchch,2013-05-13T13:15Z,"@noobnak, I have finished download and seeding. The problem is I can't extract it with Archive Utility or WinRAR. It's an error file. Any comment? Thanks"
+,noobnak,2013-05-13T14:04Z,"try to extract with Unarchiver
+here is the link:http://the-unarchiver.en.softonic.com/mac"
+,mjchch,2013-05-13T15:11Z,"@noobnak, the extract works. But when I click the icon, it just pop up and dismiss. Can't play it. I reset my Mac and it still the same problem. How can I solve this?
+
+Macbook Pro 13"" mid-2012, 4GB RAM, Intel HD 4000 512MB"
+,noobnak,2013-05-13T15:52Z,"@mjchch, try to click it many times"
+,noobnak,2013-05-13T16:06Z,"@mjchch, or go back to your torrent client and right click on Tomb Raider torrent and chose 
+FORCE RE-CHECK.
+-un-zip the file with ARCHIVE UTILITY:)"
+,mjchch,2013-05-13T16:50Z,"@noobnak, I have force re-check. I have clicked it many time, but it won't play. As soon I clicked the game, it just directly dismissed. :("
+,noobnak,2013-05-13T17:29Z,"@mjchch
+right click on the game and chose show package contents
+-double click on WINESKIN and chose SET SCREEN OPTIONS
+-enable ""use mac driver instead of X11""(right side)
+-Quit and launch the game"
+,noobnak,2013-05-13T18:10Z,sorry for my english
+,sophie333,2013-05-13T20:27Z,"hello, thanks for the upload, but i'm afraid there are several problems:
+
+1) the game could not be archived with any other program than The Unarchiver (but i finally managed to unzip the game in applications);
+
+2) I changed the screen settings in Wineskin and enabled the following option: ''Use Mac Driver instead of X11'' - nothing happens, the game doesn't even pop up.
+
+3) in case i disable the above mentioned option and enable override, the game pops up, but then a black screen appears and the game crashes.
+
+Therefore, could you please explain the proper screen settings for Wineskin (including override settings - if required, what other options to enable etc.)
+
+thanks again"
+,sophie333,2013-05-13T20:34Z,"noobnak, did you receive my previous comment?"
+,mycophage,2013-05-14T02:12Z,"noobnak, thanks for the directions. They're not working for me, but I'm posting here to see whether others have had similar problems 
+
+As others have indicated, Archive Utility fails to uncompress the archive. 
+
+Unarchiver seems to work, in that it creates a normal-looking application. This app fails to launch. When I attempt to Show Package Contents, the Wineskin app initially indicated that it was corrupted (I can't reproduce the exact error message; now it just bounces and fails to launch).
+
+Anyone else having similar problems? Any idea about how to fix them?
+
+I'll try uncompressing the file again, just to see if that works, but I'm not optimistic."
+,mjchch,2013-05-14T02:48Z,"@noobnak, nothing works for the suggestion. After I clicked the icon, it just dismissed without even bouncing (the icon). I have tried to re-extract the file three times and all can't be played."
+,Quote2106,2013-05-14T15:02Z,"No go 
+MacBook Pro 13"" mid-2010 OS 10.7.5
+NVIDIA GeForce 320M 256 MB"
+,noobnak,2013-05-14T15:21Z,I will try to fix this and re-upload as soon as I can
+,mjchch,2013-05-14T16:55Z,"@noobnak, looking forward for the re-upload version.
+Many thanks."
+,mycophage,2013-05-14T22:22Z,"Indeed - many thanks to noobnak for the initial post, for being so responsive to questions, and (in advance) for the re-upload. You're awesome!"
+,noobnak,2013-05-15T11:21Z,"this will fix the extract problem
+http://thepiratebay.sx/torrent/8476134"

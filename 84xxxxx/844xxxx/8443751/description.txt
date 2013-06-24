@@ -1,0 +1,16 @@
+Hi all,
+
+So after reading all the stories about wallets being stolen etc, i thought i can assist myself and the community in the process
+
+So after giving it some thought, i came up with Safe Wallet, a application that locks your wallet.dat file (or any other selected file) against any form of access. This is still a very early version, so locks and unlocks are going to have to be manual, but alas, I am working on a version where you will just give access to a certain process (eg. C:\program filesbitcoin.exe).
+
+So I present you with the first official version:
+
+Current version :
+Go to settings and select either searched files (by default containing the word "wallet") or manually add a file. Note that searched file keywords can be changed and then hit re-scan.
+
+Once you have files in the watched column, save and then tick them in the main screen to have them blocked. To unblock, just un-tick the box. Fairly straight forward for now, but lots of functionality coming in future releases
+
+This is still technically a Alpha version so for any errors, suggestions or enhancements, please either PM me here or send a mail to me : bitcoin@systemtech.co.za (yes we have developers here in South Africa)
+
+Enjoy

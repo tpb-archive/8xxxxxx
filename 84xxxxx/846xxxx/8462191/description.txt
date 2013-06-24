@@ -1,0 +1,49 @@
+
+
+ Format                                   : MPEG-PS
+ File size                                : 544 MiB
+ Duration                                 : 1h 28mn
+ Overall bit rate mode                    : Variable
+ Overall bit rate                         : 855 Kbps
+
+ Video
+ ID                                       : 224 (0xE0)
+ Format                                   : MPEG Video
+ Format version                           : Version 2
+ Format profile                           : Main@Main
+ Format settings, BVOP                    : Yes
+ Format settings, Matrix                  : Default
+ Format settings, GOP                     : M=3, N=13
+ Duration                                 : 1h 28mn
+ Bit rate mode                            : Variable
+ Bit rate                                 : 710 Kbps
+ Maximum bit rate                         : 9 672 Kbps
+ Width                                    : 352 pixels
+ Height                                   : 288 pixels
+ Display aspect ratio                     : 4:3
+ Frame rate                               : 25.000 fps
+ Standard                                 : PAL
+ Color space                              : YUV
+ Chroma subsampling                       : 4:2:0
+ Bit depth                                : 8 bits
+ Scan type                                : Progressive
+ Compression mode                         : Lossy
+ Bits/(Pixel*Frame)                       : 0.280
+ Stream size                              : 452 MiB (83%)
+[IMG]http://imageshack.us/a/img96/1820/3audio.png[/IMG]
+ Audio
+ ID                                       : 192 (0xC0)
+ Format                                   : MPEG Audio
+ Format version                           : Version 1
+ Format profile                           : Layer 2
+ Duration                                 : 1h 28mn
+ Bit rate mode                            : Constant
+ Bit rate                                 : 128 Kbps
+ Channel(s)                               : 2 channels
+ Sampling rate                            : 48.0 KHz
+ Compression mode                         : Lossy
+ Stream size                              : 81.4 MiB (15%)
+
+Screens......
+ 
+http://imageshack.us/a/img824/4456/2013scamripmpegvobthumb.jpg

@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,Tasslehoff Burrfoot,2013-05-11T02:15Z,"I keep getting errors trying to extract your rars.
+!   C:UsersMeDownloadsHeroes VI - Shades of Darkness.rar: Cannot set HeroesVIEditor.chm security data
+    This security ID may not be assigned as the owner of this object."
+,KiwiPirate,2013-05-11T02:47Z,"that is odd, are you logged in as administrator?
+it extracted OK on the machine i archived it on (7 x64), my laptop (7 x86) the machine i tested it on to ensure game worked (7 x86) and i just extracted it on my XP machine
+
+all machines have administrator rights"
+,KiwiPirate,2013-05-11T03:01Z,"according to this you are logged in only as a user without full access to the folder you are trying to extract into
+http://social.technet.microsoft.com/Forums/en-US/winserverGP/thread/4722cb40-f254-4b13-b8eb-2c6cc99e4f5a
+
+Right click the folder you are trying to extract into and select 'properties'
+click the 'security' tab
+click the 'Edit' button
+click Users (MACHINE NAMEUsers)
+click the select box that says Full Control 'Allow'
+
+Apply - OK - OK
+
+note that 'MACHINE NAME' is the name of your system"
+,Tasslehoff Burrfoot,2013-05-11T13:07Z,"Yeah they're extracting fine just coming up with those errors, any other rar I download from the net extracts fine anywhere on my HD's.  Having probs starting the game though, it's perma loading the splash screen and nothing happening afterwards.  If I try to change the installpath in the registry it starts up uplay which downloads a couple of secs of data  then requests that I have to login at least once to be able to play offline which doesn't seem right, don't wanna enter my real details if I can avoid it unless I'm doing something wrong."
+,Tasslehoff Burrfoot,2013-05-11T13:52Z,"OMG I'm such a noob, had to copy the patched dll's rar to the game directory as well, don't think that step was in the nfo file hehe, all good now.  Cheers!"
+,D.Krayus,2013-05-25T03:03Z,"I'm stuck at the splash screen, any idea of what's causing this?"
+,D.Krayus,2013-05-25T03:26Z,t
+,Tasslehoff Burrfoot,2013-05-26T08:58Z,"If you installed the game to a location other than the default, after you merge kiwi's x86 or x64 registry info it'll perma load the splash and nothing will happen.  You have to mod the registry info to the location you installed the game.  You also need to make sure to extract the patched dll's file from kiwi's main torrent to the install directory to bypass the uplay crap when your reg info is correct.
+
+[HKEY_LOCAL_MACHINESOFTWAREUbisoftMight & Magic Heroes VI]
+""DataPath""=""..\HeroesVI\Data""
+""InstallPath""=""..\Might&Magic\HeroesVI""
+                         ^You'll need to change these paths in the registry to your game install location"
+,Tasslehoff Burrfoot,2013-05-26T09:04Z,"Also 
+HKEY_LOCAL_MACHINESOFTWAREUbisoftLauncher]
+""Version""=""954""
+""InstallDir""=""C:\Program Files\Ubisoft\Ubisoft Game Launcher\""
+Needs changing too if you specified a different install path I think"

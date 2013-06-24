@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,KiwiPirate,2013-05-14T04:20Z,"i opened up the executable and these are the included languages
+
+note that the spanish is different to the one listed in the description however i did just test it and they both seem to work fine
+
+also if you enter a wrong code it seems to default to your system language
+i don't think any of the ones i listed in the description that are not listed here work (i tried 418 and 40b and game stayed as english text)
+
+409 = English (United States)
+804 = Chinese (simplified)
+405 = Czech
+40c = French (France)
+407 = German (Germany)
+40e = Hungarian
+410 = Italian (Italy)
+412 = Korean
+415 = Polish
+419 = Russian
+c0a = Spanish (International Sort)"

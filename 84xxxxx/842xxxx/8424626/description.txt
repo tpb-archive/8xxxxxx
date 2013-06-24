@@ -1,0 +1,16 @@
+RoboForm Pro Desktop and RoboForm2Go v7.8.8.5 ┬⌐2013 with patch by novice2 / RU-Board [brought to you by onttm]
+
+Just install your choice of RoboForm (Desktop vs Portable) and run the patch (read the patch txt file for command-line arguments to patch Portable). No need to close RoboForm before patching; the patch will kill the processes for you.  All you need to do is run the RoboForm TaskBar Icon after patching.
+
+See included screen shots of both RF editions with and without Sync enabled.
+
+Currently working on Windows 7 Ultimate SP1 x64
+
+Enjoy!
+
+NOTE: To date, there is still no universal patch for roboform-x64.dll, so you will have to continue using a 32-bit browser or pay for a legitimate Roboform license to enable 64-bit browser support. (or find another patched roboform-x64.dll for this version of RF)
+
+NOTE 2: I have seen the rare comment that the patch doesn't work after version "blah blah blah" (it's always different).  If at first you don't succeed, try running the patch a 2nd time.
+
+VirusTotal results for the patch reveal 'generic' malware flags (6/46) since it IS a functional patcher.
+Results URL: https://www.virustotal.com/en/file/5663a7ec1fc12f19fc6a582340960bcf8d6f7435f9328d39467081bfd046badf/analysis/1367295054/

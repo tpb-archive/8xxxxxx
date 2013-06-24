@@ -1,0 +1,109 @@
+Description
+SINOPSE
+
+Embarque na trilha dessa jornada cheia de aventuras com Mogli, enquanto ele segue para a Vila dos Homens com Baguera, a sábia pantera. No seu caminho, ele conhece o biruta Rei Lui, a cobra Kaa e o amável urso Balu, que ensina Mogli a sua filosofia de “Somente o necessário” da vida e o verdadeiro significado de amizade.
+
+Format : Matroska
+Format version : Version 2
+File size : 544 MiB
+Duration : 1h 18mn
+Overall bit rate : 967 Kbps
+Encoded date : UTC 2013-05-04 08:42:00
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 18mn
+Bit rate : 756 Kbps
+Width : 720 pixels
+Height : 384 pixels
+Display aspect ratio : 1.85:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.114
+Stream size : 425 MiB (78%)
+Title : Mogli O Menino Lobo ( by fantasma )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 18mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Delay relative to video : 16ms
+Stream size : 108 MiB (20%)
+Title : by fantasma
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text
+ID : 3
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:02:29.934 : en:Chapter 02
+00:04:59.935 : en:Chapter 03
+00:07:29.968 : en:Chapter 04
+00:09:59.969 : en:Chapter 05
+00:12:29.970 : en:Chapter 06
+00:15:00.003 : en:Chapter 07
+00:17:30.004 : en:Chapter 08
+00:20:00.037 : en:Chapter 09
+00:22:30.038 : en:Chapter 10
+00:25:00.039 : en:Chapter 11
+00:27:30.072 : en:Chapter 12
+00:30:00.073 : en:Chapter 13
+00:32:30.074 : en:Chapter 14
+00:35:00.107 : en:Chapter 15
+00:37:30.108 : en:Chapter 16
+00:40:00.141 : en:Chapter 17
+00:42:30.142 : en:Chapter 18
+00:45:00.143 : en:Chapter 19
+00:47:30.176 : en:Chapter 20
+00:50:00.177 : en:Chapter 21
+00:52:30.178 : en:Chapter 22
+00:55:00.211 : en:Chapter 23
+00:57:30.212 : en:Chapter 24
+01:00:00.245 : en:Chapter 25
+01:02:30.246 : en:Chapter 26
+01:05:00.247 : en:Chapter 27
+01:07:30.280 : en:Chapter 28
+01:10:00.281 : en:Chapter 29
+01:12:30.282 : en:Chapter 30
+01:15:00.315 : en:Chapter 31
+01:17:30.316 : en:Chapter 32

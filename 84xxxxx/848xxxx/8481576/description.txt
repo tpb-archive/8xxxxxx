@@ -1,0 +1,34 @@
+===========================================
+Instructions
+===========================================
+
+Extract the rar file to your GMOD v163
+directory and overwrite when prompted.
+
+===========================================
+Changelog v164
+===========================================
+
+FYI this update will reset your username
+and set MountContent to 0
+
+===========================================
+
+NEW New viewmodel arms for the Combine
+NEW Two default SWeps: fists and medkit
+NEW Added a female metrocop player model
+NEW Now colourable: Combine soldiers, Corpse1
+NEW Further LOD optimizations on player models for performance
+NEW Added a slight rimlight effect on player models for readability
+FIXED Fixed NPCs not being able to use AR2 or Pistol
+FIXED Fixed steampipe games not mounting properly on OSX
+FIXED Solved most oddities with the new viewmodels, especially on CS:S weapons
+FIXED Fixed zombie anims twitching when transitioning between states
+FIXED Fixed punching anims being out of alignment
+FIXED Fixed player color Lua errors
+FIXED Fixed missing H.U.G.E. 249 world model
+FIXED Improved look of zombie crouch anims
+LUA Updated dtooltip.lua
+LUA Fixed error spam when disabling a DComboBox
+
+===========================================

@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,ysped,2013-05-08T13:04Z,"thx for the upload, but why are the password on the rar file. and where do I find it ? "
+,aflob,2013-05-09T22:22Z,The password is : flowers
+,elfer_,2013-05-13T20:44Z,"Hi
+How can i open the .txt* file in aspirin folder? or what are the crack intructions?
+thx for the upload btw!"
+,Astriel,2013-06-01T21:56Z,"1. Install (License Manager) skipping license installation.
+
+2. Install program (Cadence SPB 16.6).
+
+3. Copy entire contents of folder ""AspirinCadenceLicenseManager"" to ""C:CadenceLicenseManager"" overwriting existing files. (If copying stops on file in use, stop ""Cadence License Manager"" service in computer management/services)
+
+4. Copy entire contents of folder ""AspirinCadenceSPB_16.6tools"" to C:CadenceSPB_16.6tools"".    Locate and run with administrative rights the ""Tools.cmd"" script in destination folder. 
+   The script runs from 1 to 5 minutes depending on the speed of your computer.
+
+5. In folder ""AspirinCadenceLicGen"", use a text editor to open file ""src.lic"". 
+   Change ""this-host name"" to the real name of your computer. 
+   Save the file.
+
+6. In folder ""AspirinCadenceLicGen"", find and run script ""LicGen.cmd"". This will generate a license file ""license.lic"".
+
+7. Start the license server configuration program: Start -> Programs -> Cadence -> License Manager -> License Server Configuration Utility. Specify the ""license.lic"" file as generated in the previous step. Click Next. You should see message indicating the successful startup of the license server.
+
+8. Enjoy!"
+,marios1508,2013-06-05T14:12Z,"I am getting the following error:
+
+Orcad Capture license was not found.
+License call failer. The license server search path is defined as C:CadenceLicenseManagerlicense.dat
+The FLEXnet error message is as follows,
+Flexnet ERROR(-1. 212. 2): Cannot find license file.Run 'lic error LMF-0100
+
+I would appreciate any help, thanks"

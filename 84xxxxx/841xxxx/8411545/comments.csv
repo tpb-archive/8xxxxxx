@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,treedude,2013-04-27T18:27Z,You should specify if it's the AMD64 version or the Intel64 version.
+,arrelysium,2013-05-11T13:40Z,"AMD 64 and Intel 64 are the same except for Intel Itanium server processors. If you have one of those, you almost certainly know.
+
+This image is exactly the same you get when choosing ubuntu-13.04-desktop-amd64.iso from ubuntu.com
+
+MD5 hash : 8D72E2DB7E72E13813731EAB37A14D26"

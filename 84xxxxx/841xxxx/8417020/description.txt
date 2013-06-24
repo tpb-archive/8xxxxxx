@@ -1,0 +1,63 @@
+ http://veryrare.org/load/0-0-0-0-1
+
+Peter Tosh 74986
+July 16, 1979      
+Montreux Jazz Festival
+Montreux, Switzerland  
+
+SBD &gt; ? &gt; CD-R &gt; EAC &gt; FLAC
+
+01. 400 Years &gt;
+        Stepping Razor
+02. African 
+03. Get Up Stand Up
+04. Don't Look Back
+05. The Toughest
+06. Bush Doctor 
+07. Day The Dollar Die 
+08. Burial &gt; 
+        Buk-In-Ham Palace 
+09. Mystic Man  &gt;
+        Pick Myself Up 
+10. Legalize It
+
+d22701a1d72104051e2e3ac427c36ac1 *tosh1979-07-16t01.flac
+32f7d25009ee6ef6fdcadb46b968fc1f *tosh1979-07-16t02.flac
+02319e6628d9e03d8a6ab44eab408340 *tosh1979-07-16t03.flac
+5beae98f2eb6a86cd9bf3120db15ef56 *tosh1979-07-16t04.flac
+20dd5a991eb81b056dc02bd76a51cd9f *tosh1979-07-16t05.flac
+0b20fbb79a2b2370da945736c682326a *tosh1979-07-16t06.flac
+4852dcf7902e820034f2aaf746f7654a *tosh1979-07-16t07.flac
+467414e50508e72647ee04c2f07b1abe *tosh1979-07-16t08.flac
+3fdc8eb721acdde6bb304b9d7ceb6fe7 *tosh1979-07-16t09.flac
+91a89c84856a95fb8089ed986bdcd655 *tosh1979-07-16t10.flac
+
+tosh1979-07-16t01.flac:8d94411425769c49730d3bc3db808224
+tosh1979-07-16t02.flac:1f230e525396e746f626237a40f4bd66
+tosh1979-07-16t03.flac:878497cc144ea041e50b94e0e7f1f888
+tosh1979-07-16t04.flac:99fa05f299c2536636bf04939b3f9a47
+tosh1979-07-16t05.flac:021a5d2f1029fa5ff99e562c9f191781
+tosh1979-07-16t06.flac:4c1cf6521f6de649a423ab0dc36d587a
+tosh1979-07-16t07.flac:cba5ab9e51f2530e97ab882928596fde
+tosh1979-07-16t08.flac:6776bf4aaf0c54c5c4c7e540e0804778
+tosh1979-07-16t09.flac:9b5a4cfd0314da88df7968cf3da83c33
+tosh1979-07-16t10.flac:976be2d12d34001161972d712d0fcc3c
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+
+G:Peter Tosh - 1979-07-16 - Montreux, Switzerland (flac)&gt;shntool len -u mb *.flac
+    length     expanded size   cdr  WAVE  probs   filename
+     5:01.63      53244620     ---   --    -xx    tosh1979-07-16t01.flac
+     5:32.15      58600124     ---   --    -xx    tosh1979-07-16t02.flac
+     6:57.62      73704668     ---   --    -xx    tosh1979-07-16t03.flac
+     6:47.25      71853644     ---   --    -xx    tosh1979-07-16t04.flac
+     4:36.20      48733484     ---   --    -xx    tosh1979-07-16t05.flac
+     6:00.23      63558140     ---   --    -xx    tosh1979-07-16t06.flac
+     5:58.25      63210044     ---   --    -xx    tosh1979-07-16t07.flac
+     9:30.37     100635068     ---   --    -xx    tosh1979-07-16t08.flac
+    11:05.08     117324860     ---   --    -xx    tosh1979-07-16t09.flac
+     8:14.48      87254540     ---   --    -xx    tosh1979-07-16t10.flac
+    69:44.26        703.93 MB                     (totals for 10 files, 0.6329 overall compression ratio)

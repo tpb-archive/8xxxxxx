@@ -1,0 +1,150 @@
+﻿User Type,Username,Date,Text
+,stuit,2013-05-22T21:35Z,is there any hope for mac version?
+,Xtse,2013-05-23T01:01Z,"In all honesty, rather than giving you all false-hope. I'm waiting for the next 'major' release before I re-crack the iOS files and post them - it takes me a lot longer to reverse the iOS files each time purely because I'm running the Mac in a VM."
+,tomatoman95,2013-05-23T03:50Z,"How do I build ios apps from visual studio -- the indie license doesn't let me, it says I need a business license"
+,stuit,2013-05-23T11:00Z,"I've managed to bypass ""incompatible Xamarin.Shell"" issue, by uninstalling all Xamarin products and then first installed Xamarin.iOS then others. But now I'm having trouble with a patcher, it says that checksum is wrong and fails to patch."
+,stuit,2013-05-23T12:54Z,"Ok, all is installed and patched, just uninstalled and re-installed xamarin products differently, and successfully patched. And now I'm also waiting for Xamarin.iOS patch for the host mac like others. Eagerly waiting for it."
+,ytzhakov,2013-05-23T20:27Z,"Thanks dude
+awesome work.
+
+Waiting for the mac patch =]"
+,horeaper,2013-05-24T09:20Z,You rocks!! Thanks for your hard work.
+,horeaper,2013-05-24T09:22Z,"@stuit You should try uninstall everything and install Xamarin.Android ONLY, patched Xamarin.iOS is not working right now (since the Mac side has not patched yet) so no point installing that."
+,horeaper,2013-05-24T09:29Z,"@Xtse What kind of VM are you running? I'm also running Mac on a VM (a patched VMware), and it's very fast, almost ""native"" fast. My computer is not that high end (2 years old laptop)"
+,biel061,2013-05-24T19:54Z,"@misha93 hi, before all, thank you very much to this crack, it means a lot to me since I don't have condition to pay for the xamarin license.
+I'm having trouble with the checksum when I try to patch. I installed my xamarin tools with the latest Xamarin Installer. Do you have any tip to me? Perhaps it is a bug? I'm running Windows 7 32-bit. Before the Xamarin 2.0 I had the Mono for Android installed, it just updated with the installation."
+,stuit,2013-05-24T20:16Z,"@biel061
+download and install all ""INDEPENDENT INSTALLERS"" in the instruction, and install them in that order which it is written. You may not bother installing Xamarin.iOS for now, cause it doesn't work."
+,biel061,2013-05-24T20:44Z,Worked fine! Thanks alot!
+,Xtse,2013-05-25T06:47Z,"I have a beastly machine, I think it is the setup I have opted for in the VM that's causing a 'slower' experience. Maybe I should disable hardware virtualization in the future - I don't use the Mac VM for anything else so I have little motivation to optimize it lol."
+,ytzhakov,2013-05-25T16:59Z,"@Xtse I'm also using Mac as a VM. It works well
+download ""OS X Mountain Lion 10.8.3 VMware Image w/ AMD Support"" from thepiratebay"
+,horeaper,2013-05-27T08:47Z,"@ytzhakov That image didn't work on my Intel laptop, I don't know why. Actually you don't need this image itself, just the unlock software. search ""vmware unlock"", it's all over the internet. Then create a Mac OS X vm, get a normal OS X image and install it, everything works fine."
+,strelok_aka_vc,2013-05-27T12:28Z,"I found a bug in Xamarin studio  (4.0.8 build2)
+
+Menu Help -> Check for Updates
+Update channel -> Beta:
+Error verifying license. Please contact support.
+
+Any ideas? "
+,misha93,2013-05-27T18:24Z,"@strelok_aka_vc
+
+It's not a bug. The patched version has a license that's not recognized online.
+
+If you want to check for updates successfuly, unpatch Xamarin products. The patcher of this torrent has a ""UnPatch"" button ;)"
+,amfir,2013-05-30T23:00Z,"i've installed all independent installers in right order on a clean system (windows 8), but patcher show this message:
+
+Starting Patch process!
+Xamarin Android/iOS installation found!
+Checking checksum values
+Files checksums doesn't matches!
+Patching failed!
+
+What it may be?"
+,misha93,2013-05-31T01:18Z,"@amfir
+
+Have you used the Xamarin Web Installer?
+
+Which version of Xamarin.Android is reported in Control Panel > Remove programs?
+
+You'd previously installed any Xamarin products?
+
+If it's possible, comment the MD5 hashes of:
+
+%ProgramFiles%Xamarin StudiobinXamarin.Components.Ide.dll
+
+%ProgramFiles%Microsoft Visual Studio 10.0Common7IDEExtensionsXamarinShell1.0.0Xamarin.Components.Ide.dll
+
+%ProgramFiles%Microsoft Visual Studio 11.0Common7IDEExtensionsXamarinShell1.0.0Xamarin.Components.Ide.dll
+
+%ProgramFiles%MSBuildXamarinAndroidmandroid.exe
+
+%ProgramFiles%MSBuildXamarinAndroidXamarin.Android.Build.Tasks.dll
+
+""Files checksums doesn't matches!"" message is given if and only if some or many of the Xamarin products doesn't match with the required versions."
+,amfir,2013-05-31T07:47Z,"@misha93
+
+Have you used the Xamarin Web Installer? - No
+
+Control Panel > Remove programs - Xamarin.Android 4.6.06000
+
+You'd previously installed any Xamarin products? - No
+
+%ProgramFiles%Xamarin StudiobinXamarin.Components.Ide.dll
+CD83153341D9C18A9B047EE9EC3E8457
+
+%ProgramFiles%Microsoft Visual Studio 11.0Common7IDEExtensionsXamarinShell1.0.0Xamarin.Components.Ide.dll
+C7E9D8FD8C455BC447451214BF94AC92
+
+%ProgramFiles%MSBuildXamarinAndroidmandroid.exe
+D1A9FEAC4F4926BCB9A0B6F548B3F334
+
+%ProgramFiles%MSBuildXamarinAndroidXamarin.Android.Build.Tasks.dll
+49092ECC5DE6318BFA2D81117EF2AA98
+
+I've done all by instruction, what's wrong? :("
+,misha93,2013-05-31T09:45Z,"@amfir
+
+Thanks for the patience you've taken!
+
+Everything says that
+
+%ProgramFiles%Microsoft Visual Studio 11.0Common7IDEExtensionsXamarinShell1.0.0Xamarin.Components.Ide.dll
+ C7E9D8FD8C455BC447451214BF94AC92
+
+Is incorrect
+
+The hash for that file should be c965e0156be3a9a70d3cc190bfde93da
+
+What's the MD5 sum of the Xamarin.Android installer that you've downloaded? If it differs from the original one I'll check the Xamarin download link and comment a valid one if the installer at Xamarin servers has been altered."
+,ibys,2013-05-31T10:18Z,"doesn't work anymore with latest Xamarin 
+Xamarin.Android 4.6.7"
+,ibys,2013-05-31T10:19Z,@misha93 @xtse doesn't work with latest Xamarin.Android 4.67
+,ibys,2013-05-31T10:20Z,doesn't work anymore for xamarin android 4.6.7
+,amfir,2013-05-31T15:06Z,"@misha93
+checksum for Xamarin.Android installer is
+7D1D25EAEA885775ECE87338E373E261"
+,amfir,2013-05-31T15:26Z,"@misha93
+is there any chance that if you send me right Xamarin Shell file, patcher will work, and after patch Xamarin will work correctly? :)"
+,misha93,2013-05-31T17:00Z,"@amfir
+
+https://docs.google.com/file/d/0B1Z2WbtCWsFmWGliaE1aSkp3c1U/edit?usp=sharing
+
+That's the real original file.
+
+Your installer MD5 reports the right needed version, something messy happened with your install process.
+
+I would really recommend to uninstall Xamarin Android only, make sure that the bad hash file is deleted, and finally install Xamarin Android again.
+
+@ibys
+
+You can always download the independant installers.
+
+Also, 4.6.7 package is getting some sexy problems like
+
+http://forums.xamarin.com/discussion/4593/visual-studio-2012-extension-no-longer-works-in-4-6-7"
+,ibys,2013-05-31T22:19Z,"@misha93, what do you mean by ""You can always download the independant installers."" ?
+
+I cant find the xamarin for which this patch works.
+if I try to install using setup from website, it will install the latest version for which the patch doesnt work"
+,amfir,2013-05-31T22:51Z,"@ibys
+Download links for independent installers are in description of this torrent
+
+@misha93
+thanks for attention anyway"
+,amfir,2013-05-31T23:04Z,"@misha93
+btw, maybe it's all are because I have x86 VS, and all the xamarin components also been installed in Program Files (x86)..."
+,misha93,2013-06-01T01:25Z,"@ibys
+
+Check description of the torrent, there are the downloads of the independant installers ;)
+
+@amfir
+
+VS only exists for x86 platform, so it doesn't matter if you're using x86 or x86-64, the binaries and dlls of VS and Xamarin will be the same.
+
+The last thing that lefts to suspect is that an active Internet connection did happy stuff during setup...!"
+,stuit,2013-06-03T09:03Z,somebody please crack the Xamarin.iOS
+,asd555555,2013-06-07T07:55Z,"Hello,
+Would be there any problems if i upload application to google market developed by cracked xamarin?"
+,hdwjfy,2013-06-08T20:03Z,"if there is a patcher for mac, it will be a nice day."
+,stuit,2013-06-13T20:39Z,"new iOS7 beta is live and Xamarin.iOS also upgraded... I guess it is a major realse, isn't it? :)"

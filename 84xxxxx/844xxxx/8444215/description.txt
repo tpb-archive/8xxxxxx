@@ -1,0 +1,21 @@
+
+Mupen64Plus, Android Edition (AE) is an N64 emulator for Android. It is currently in Beta testing, which means it is a work in progress. There are still many graphical, lag, and audio problems, even on modern devices. Visit www.paulscode.com to get involved in development and testing, as well as bug-fixes and FAQs.
+
+In order to avoid potential copyright issues related to game screenshots, I've decided to use only public domain games and demos for screenshots. However, if the app gets pulled from the Market again, you will still be able to acquire future updates for free on paulscode.com.
+
+This app is licensed by the GNU GPL v3, and the full source code is available through the public GIT repository at https://github.com/paulscode/mupen64plus-ae If any developers would like write access to the repository, please get in touch with me (Paul) on the support forum. If you need help branching the project, just let me know, and I can help you get set up.
+
+XPERIA PLAY OPTIMIZED
+- Analog input from the touchpad!
+
+What's in this version:
+- Fixed Pokemon Snap camera control bug (must enable cheat)
+- Fixed crash when input plugin disabled
+- Warn user if installation appears to be corrupt
+- Doubled maximum possible touchscreen scale
+- Added support for raphnet GC/N64 controller adapter
+- Updated ODK to version 1.0.2
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=paulscode.android.mupen64plus

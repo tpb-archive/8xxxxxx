@@ -1,0 +1,128 @@
+Description
+
+Sinopse e detalhes
+
+Marcus (50 Cent) é um jovem da periferia que se envolveu em um tiroteio, que por pouco não lhe tirou a vida. Em meio à sua recuperação, ele se lembra de sua vida difícil como órfão nas ruas violentas do Bronx. Sua vida muda após conhecer um ex-condenado, que luta para se tornar uma estrela do rap.
+
+Format : Matroska
+Format version : Version 2
+File size : 738 MiB
+Duration : 1h 56mn
+Overall bit rate : 886 Kbps
+Encoded date : UTC 2013-05-16 20:36:22
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 56mn
+Bit rate : 420 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.080
+Stream size : 350 MiB (47%)
+Title : Fique Rico ou morra Tentando ( by fantasma )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 56mn
+Bit rate mode : Constant
+Bit rate : 448 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 373 MiB (51%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : English - (Caption/Normal Size Char)
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Caption/Normal Size Char)
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #3
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Caption/Normal Size Char)
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #4
+ID : 6
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:06:27.536 : en:Chapter 02
+00:12:47.170 : en:Chapter 03
+00:18:05.871 : en:Chapter 04
+00:22:49.538 : en:Chapter 05
+00:27:59.838 : en:Chapter 06
+00:34:28.839 : en:Chapter 07
+00:41:12.540 : en:Chapter 08
+00:46:16.374 : en:Chapter 09
+00:53:30.374 : en:Chapter 10
+01:00:45.175 : en:Chapter 11
+01:06:43.210 : en:Chapter 12
+01:12:56.678 : en:Chapter 13
+01:18:25.678 : en:Chapter 14
+01:24:02.679 : en:Chapter 15
+01:29:55.347 : en:Chapter 16
+01:35:59.847 : en:Chapter 17
+01:42:50.014 : en:Chapter 18

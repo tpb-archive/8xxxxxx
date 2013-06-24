@@ -1,0 +1,169 @@
+Description
+
+Sinopse e detalhes
+
+El Mariachi (Antonio Banderas) é um ex-músico que chega a uma cidade carregando várias armas dentro da caixa de um violão. Ele está atrás de Bucho (Joaquim de Almeida), que matou sua namorada e ainda atirou em sua mão. Desejando vingança, ele conta com a ajuda de Carolina (Salma Hayek), uma bela mulher que é dona da livraria local.
+
+Format : Matroska
+Format version : Version 2
+File size : 885 MiB
+Duration : 1h 44mn
+Overall bit rate : 1 184 Kbps
+Encoded date : UTC 2013-05-03 06:18:22
+Writing application : mkvmerge v6.1.0 ('Old Devil') built on Mar 2 2013 14:32:37
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 44mn
+Bit rate : 585 Kbps
+Width : 720 pixels
+Height : 400 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.085
+Stream size : 437 MiB (49%)
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Default : Yes
+Forced : No
+
+Audio #1
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 144 MiB (16%)
+Title : by fantasma
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 144 MiB (16%)
+Title : by fantasma
+Language : English
+Default : No
+Forced : No
+
+Audio #3
+ID : 4
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1h 44mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 144 MiB (16%)
+Title : by fantasma
+Language : Spanish
+Default : No
+Forced : No
+
+Text #1
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 6
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : Spanish
+Default : No
+Forced : No
+
+Text #3
+ID : 7
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : by fantasma
+Language : Portuguese
+Default : No
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:08:30.267 : en:Chapter 02
+00:11:52.901 : en:Chapter 03
+00:15:39.301 : en:Chapter 04
+00:18:57.434 : en:Chapter 05
+00:25:06.668 : en:Chapter 06
+00:29:17.735 : en:Chapter 07
+00:41:35.768 : en:Chapter 08
+00:44:43.602 : en:Chapter 09
+00:45:31.470 : en:Chapter 10
+00:48:22.670 : en:Chapter 11
+00:49:52.471 : en:Chapter 12
+00:51:54.905 : en:Chapter 13
+00:53:49.572 : en:Chapter 14
+00:56:13.339 : en:Chapter 15
+00:57:50.606 : en:Chapter 16
+01:00:59.040 : en:Chapter 17
+01:03:46.607 : en:Chapter 18
+01:07:58.274 : en:Chapter 19
+01:12:53.541 : en:Chapter 20
+01:16:10.641 : en:Chapter 21
+01:17:24.908 : en:Chapter 22
+01:19:56.041 : en:Chapter 23
+01:24:45.375 : en:Chapter 24
+01:27:34.775 : en:Chapter 25
+01:32:26.209 : en:Chapter 26
+01:36:19.409 : en:Chapter 27
+01:38:07.876 : en:Chapter 28

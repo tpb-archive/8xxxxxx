@@ -1,0 +1,53 @@
+├ültal├ínos
+Teljes n├⌐v                               : [RhisiartK] Element Hunters - 01 (1280x720 8bit AVC MP3).mkv
+Form├ítum                                 : Matroska
+Form├ítum v├íltozat                        : Version 2
+F├íjlm├⌐ret                                : 387 MiB
+Id┼ætartam                                : 24 perc
+Teljes adatsebess├⌐g                      : 2 210 Kbps
+K├│dol├│ szoftver                          : Lavf51.12.1
+K├│dol├│ k├╢nyvt├ír                          : Lavf51.12.1
+
+K├⌐p
+S├ív sz├íma                                : 1
+Form├ítum                                 : AVC
+Form├ítum/adatok                          : Advanced Video Codec
+Form├ítum profil                          : High@L4.0
+Form├ítum be├íll├¡t├ísok, CABAC              : nem
+Form├ítum be├íll├¡t├ísok, ReFrames           : 8 k├⌐pkocka
+Format_Settings_GOP                      : M=1, N=12
+K├│dek azonos├¡t├│                          : V_MPEG4/ISO/AVC
+Id┼ætartam                                : 24 perc
+Adatsebess├⌐g                             : 1 974 Kbps
+Sz├⌐less├⌐g                                : 1 280 k├⌐ppont
+Magass├íg                                 : 720 k├⌐ppont
+K├⌐par├íny                                 : 16:9
+K├⌐pkockasebess├⌐gi m├│d                    : ├ílland├│
+K├⌐pkockasebess├⌐g                         : 24,000 fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8 bit
+Sorv├ílt├ís t├¡pusa                         : folytonos
+Bit/(k├⌐ppont*k├⌐pkocka)                   : 0.089
+Adatfolyam m├⌐rete                        : 346 MiB (89%)
+Default                                  : igen
+Forced                                   : nem
+
+Hang
+S├ív sz├íma                                : 2
+Form├ítum                                 : MPEG Audio
+Form├ítum v├íltozat                        : Version 1
+Form├ítum profil                          : Layer 3
+Format_Settings_Mode                     : Joint stereo
+Format_Settings_ModeExtension            : MS Stereo
+K├│dek azonos├¡t├│                          : A_MPEG/L3
+K├│dek azonos├¡t├│/Tipp                     : MP3
+Id┼ætartam                                : 24 perc
+Adatsebess├⌐g m├│d                         : ├ílland├│
+Adatsebess├⌐g                             : 192 Kbps
+Csatorn├ík sz├íma                          : 2 csatorna
+Mintav├⌐telez├⌐si gyakoris├íg               : 48,0 KHz
+Adatfolyam m├⌐rete                        : 33,6 MiB (9%)
+K├│dol├│ k├╢nyvt├ír                          : LAME3.97
+Default                                  : igen
+Forced                                   : nem

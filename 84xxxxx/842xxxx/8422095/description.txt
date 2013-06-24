@@ -1,0 +1,22 @@
+Resilient T-SQL code is code that is designed to last, and to be safely reused by others. The goal of defensive database programming, the goal of this book, is to help you to produce resilient T-SQL code that robustly and gracefully handles cases of unintended use, and is resilient to common changes to the database environment.
+
+Too often as developers, we stop work as soon as our code passes a few basic tests to confirm that it produces the 'right result' in a given use case. We do not stop to consider what other possible ways in which the code might be used in the future, or how our code will respond to common changes to the database environment, such as a change in the database language setting, or a change to the nullability of a table column, and so on.
+
+In the short-term, this approach is attractive; we get things done faster. However, if our code is designed to be used for more than just a few months, then it is very likely that such changes can and will occur, and the inevitable result is broken code or, even worse, code that silently starts to behave differently, or produce different results. When this happens, the integrity of our data is threatened, as is the validity of the reports on which critical business decisions are often based. At this point, months or years later, and long after the original developer has left, begins the painstaking process of troubleshooting and fixing the problem.
+
+Would it not be easier to prevent all this troubleshooting from happening? Would it not be better to spend a little more time and effort during original development, to save considerably more time on troubleshooting, bug fixing, retesting, and redeploying?
+
+This is what defensive programming is all about: we learn what can go wrong with our code, and we proactively apply this knowledge during development. This book is filled with practical, realistic examples of the sorts of problems that beset database programs, including:
+
+Changes in database objects, such as tables, constraints, columns, and stored procedures
+Changes to concurrency and isolation levels
+Upgrades to new versions of SQL Server
+Changes in requirements
+Code reuse
+Problems causing loss of data integrity
+Problems with error handling in T-SQL
+In each case, it demonstrates approaches that will help you understand and enforce (or eliminate) the assumptions on which your solution is based, and to improve its robustness. Ultimately, the book teaches you how to think and develop defensively, and how to proactively identify and eliminate potential vulnerabilities in T-SQL code.
+
+About the author
+
+Alex Kuznetsov has been working with databases for more than a decade. Currently he leads database development and optimizes database performance for a trading firm.

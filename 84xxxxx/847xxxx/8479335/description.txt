@@ -1,0 +1,87 @@
+Currently supported devices:
+
+Samsung Galaxy S GT-I9000/B/M
+
+Samsung Galaxy S GT-I9003/L
+
+AT&T/Rogers Captivate SGH-I896/I897
+
+Samsung Galaxy S2 GT-I9100/T/G/m
+
+Samsung Galaxy S2 SHW-M250S/K
+
+Samsung Galaxy S2 SC-02C
+
+AT&T Galaxy S2 SGH-I777
+
+Sprint/Virgin/Boost Epic 4G Touch SPH-D710/VMUB/BST
+
+USCC Galaxy S2 SCH-R760
+
+Samsung Galaxy S3 GT-I9300/T
+
+Samsung Galaxy S3 GT-I9308
+
+AT&T/Canadia Galaxy S3 SGH-I747/M
+
+TMOUS Galaxy S3 SGH-T999
+
+Sprint/C-Spire Galaxy S3 SPH/SCH-L710
+
+VZW Galaxy S3 SCH-I535 (unlock bootloader !)
+
+USCC/Cricket/MetroPCS Galaxy S3 SCH-R530/U/M/C
+
+Samsung Galaxy S3 LTE SHV-E210S
+
+Samsung Galaxy S3 LTE GT-I9305/T/N
+
+Google Galaxy Nexus (GSM) Maguro/Yakju/GT-I9250
+
+Google Galaxy Nexus (CDMA/LTE) Toro/Mysid/SCH-I515 (no cdma radio flashing)
+
+Samsung Galaxy Note GT-N7000
+
+Samsung Galaxy Note GT-I9220
+
+Samsung Galaxy Note GT-N7000B
+
+Samsung Galaxy Note 2 GT-N7100
+
+Samsung Galaxy Note 2 LTE GT-N7105
+
+AT&T/Canadia Galaxy Note 2 SGH-I317/M
+
+TMOUS Galaxy Note 2 SGH-T889
+
+Sprint Galaxy Note 2 SPH-L900
+
+VZW Galaxy Note 2 SCH-I605 (unlock bootloader !)
+
+USCC Galaxy Note 2 SCH-R950
+
+Samsung Galaxy Note 10.1" GT-N8000 
+
+Samsung Galaxy Note 10.1" Wi-Fi GT-N8010/N8013
+
+Samsung Galaxy Tab 7" GT-P1000
+
+Samsung Galaxy Tab 7.0 Plus GT-P6200/L, GT-P6210
+
+Samsung Galaxy Tab 7.7" GT-P6800, GT-P6810
+
+Samsung Galaxy Tab 10.1" GT-P7500, GT-P7510
+
+Samsung Galaxy Tab 2 7" GT-P3100, GT-P3110, GT-P3113
+
+Samsung Galaxy Tab 2 10" GT-P5100, GT-P5110, GT-P5113
+
+Samsung Galaxy 5 GT-I5500/B/L/T/M
+
+Samsung Galaxy 5 GT-I5503/T
+
+Samsung Galaxy 5 GT-I5508
+
+Flashing with Mobile ODIN does NOT increase your custom kernel flash counter or 
+
+make the yellow warning triangle appear.

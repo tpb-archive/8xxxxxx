@@ -1,0 +1,37 @@
+Update Notes:
+
+  Version 1.05
+  ------------
+  - Fixed the "Error initializing audio subsystem" error
+  - Fixed the bug where "Continue Game" is greyed out when reloading a valid
+    save game
+  - Fixed that map icons did not show up on Intel HD Graphics chips
+  - Running the game "As Administator" should not necessary anymore
+  - Fixed random crash bug when loading between levels
+  - Tentative fix for transitioning to levels in the background while  using
+    endgame feature
+  - Game now checks for available disc space on start (200Mb required)
+  - Added CLI flag to disable joystick support : --no-gamepad
+  - Added CLI flag to assume/force 60fps : --force-60hz (this is  equivalent
+    to the MonoGame DLL hack that's been going around)
+  - Added CLI flag for  debug  tracing  :  --trace  (please  use  this  when
+    reporting crashes)
+  - Fixed sprite alignment of corner ledge animations
+  - Final cutscene will play even if you glitched your way to more  than  64
+    cubes
+  - Added  tentative  support  for  retroactive  or   glitched/non-unlocked
+    achievements (Steam)
+  - Fixed cloning/duplicate/infinite anti-cube glitch
+  - Game should not force a resolution that is not supported by the  display
+    device on first run
+  - Added slightly broader support for Intel HD cards with outdated drivers
+  - NOTE : The "Debug Log.txt" file is now located  in  %APPDATA%FEZ,  the
+    one in the FEZ directory is stale and won't be written to
+
+
+  Instructions:
+
+  - Unrar the update.exe and run it ( point to your installation folder
+    if required )
+
+                                                            /TEAM FAIRLIGHT

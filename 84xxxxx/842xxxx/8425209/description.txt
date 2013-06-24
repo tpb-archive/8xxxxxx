@@ -1,0 +1,66 @@
+Young Justice (2010) Tv Series
+
+Season 2
+ 
+http://www.imdb.com/title/tt1641384/
+
+Plot :
+Young Justice focuses on the lives of a group of teenaged sidekicks and protégés attempting to establish themselves as proven superheroes as they deal with normal adolescent issues in their personal lives.
+
+File Info
+
+Format : Matroska
+Format version : Version 2
+File size : 86.8 MiB
+Duration : 21mn 45s
+Overall bit rate mode : Variable
+Overall bit rate : 558 Kbps
+Writing application : HandBrake 4602svn
+Writing library : libmkv 0.6.5
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L5.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 21mn 45s
+Bit rate : 500 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.023
+Stream size : 77.6 MiB (89%)
+Writing library : x264 core 122
+Language : English
+Default : Yes
+Forced : No
+Color primaries : BT.709
+Transfer characteristics : BT.709
+Matrix coefficients : BT.709
+
+Audio
+ID : 2
+Format : Vorbis
+Format settings, Floor : 1
+Codec ID : A_VORBIS
+Duration : 21mn 45s
+Bit rate mode : Variable
+Bit rate : 48.0 Kbps
+Channel(s) : 1 channel
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 7.47 MiB (9%)
+Writing library : aoTuV 20110424 (UTC 2011-04-24)
+Language : English
+Default : Yes
+Forced : No
+Writing application : HandBrake

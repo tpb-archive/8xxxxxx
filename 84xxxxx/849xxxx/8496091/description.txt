@@ -1,0 +1,60 @@
+Windows 7/8 -USB- DVD-tool
+
+ Creates A Usb Way To Install Windows 7/8 Instead Of Burning To Dvd
+
+DIRECTIONS ON HOW TO FORMAT AND MAKE USB DVD:Format USB First:
+
+ 1.Insert a USB flash drive into your computer 
+
+ 2.Start a Command Prompt as an Administrator and type diskpart. 
+
+ This starts the Disk Partition tool which you need to use to format 
+
+ the flash drive. Once you see the DISKPART command prompt, type in 
+
+ the following commands 
+
+ 3. list disk 
+
+ 4. select disk # It Will Be The Size Of Your USB ( Ex ) select disk 1 
+
+ 5. clean 
+
+ 6. create partition primary 
+
+ 7. select partition 1 
+
+ 8. active 
+
+ 9. format FS=NTFS 
+
+ 10. assign 
+
+ 11. exit 
+
+
+ How To Craete USB DVD OF WINDOWS 7/8
+
+ 1.Create an ISO file from the Windows 8 DVD. This is the procedure by which you create a single file, called an ISO image, that contains all the data stored on the Windows 8 setup DVD disc.
+
+ Once you have an ISO image created from your Windows 8 disc, come back here and continue on with this tutorial which will explain how to get that ISO file onto a flash drive.
+
+ Note: If you already know how to create ISO files with your favorite program, often called "ripping," then do so in whatever way you're used to doing it. However, if you've never created an ISO image, or don't have a program installed right now that does it, please see the linked tutorial above for complete instructions on doing so with a free program.2.Download the Windows 7 USB/DVD Download Tool from Microsoft and then install it.
+
+ This free program from Microsoft properly formats your flash drive and then copies the contents of the Windows 8 installation ISO file you have to that flash drive.
+
+ Note: Don't worry that this program has Windows 7 in the title. This program works perfectly well with Windows 8 ISO files and can be installed in Windows 8, Windows 7, Windows Vista, or Windows XP.3.Start the Windows 7 USB DVD Download Tool program. You should be able to find the shortcut on the Desktop, as well as in your Start menu or on your Start screen, depending on which version of Windows you installed the program on.4.Click Browse on the Step 1 of 4: Choose ISO file screen.5.Locate, and then select, your Windows 8 ISO file. Then click or touch Open.
+
+ Note: If you downloaded Windows 8 from Microsoft, check your Downloads folder or your Desktop for the ISO image. If you created an ISO image from your Windows 8 DVD, the ISO file will be wherever you created it to.6.Click or touch Next.7.Choose USB device on the Step 2 of 4: Choose media type screen.
+
+ Note: As you can see here, there is also a DVD option. While it doesn't do us much good in this case, since the end game is to get Windows 8's setup files on a flash drive, you could also use this tool to burn a Windows 8 ISO image to a DVD or BD disc.8.On the Step 3 of 4: Insert USB device screen, choose from the drop-down box the flash drive or USB-connected external hard drive you want to put the Windows 8 setup files onto and then touch or click Begin copying.
+
+ Tip: If you haven't yet plugged in the USB storage device you're planning on using, you can do that now and then touch or click the blue refresh button to make it show up in the list.9.Click or touch Erase USB Device if you're prompted to do so on a Not Enough Free Space window. If you don't see this, don't worry, it just means that your flash drive or external hard disk is already empty.
+
+ Important: If this message didn't make it apparent, you should know that whatever data you might have on this drive is going to be erased as part of the process of getting the Windows 8 setup files copied.10.On Step 4 of 4: Creating bootable USB device, just wait for the Windows 7 USB DVD Download Tool to prepare the drive and copy the Windows 8 installation files to it.
+
+ The first Status you see will be Formatting, which will take anywhere from a few to several seconds, depending on how large the USB drive is that you're using. Next will be Copying files which could take anywhere from 15 to 30 minutes, possibly longer, depending on which Windows 8 ISO file you're working from, as well as on how fast your flash drive, USB connection, and computer is.
+
+ Tip: Don't worry if the percentage indicator jumps ahead quickly but then sits on a single number for a very long time. While it might not make a lot of sense to behave that way, it doesn't necessarily mean anything is wrong.11.Assuming everything went as planned, the next screen should say Bootable USB device created successfully with a Status that says Backup completed.
+
+ You can now close the Windows 7 USB DVD Download Tool program window. The flash drive, or other external USB drive you're using, now has the necessary files on it to install Windows 8 and is also properly configured to be booted from.12.Boot from the USB device that you just created to start the Windows 8 install process.

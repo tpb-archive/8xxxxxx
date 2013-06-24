@@ -1,0 +1,67 @@
+General
+
+Complete name                    : Pom Poko (Heisei Tanuki Gassen Ponpoko) (1994)
+Format                           : Matroska
+File size                        : 336 MiB
+Duration                         : 1h 54mn
+Overall bit rate                 : 410 Kbps
+Movie name                       : Pom Poko (1994) - (Heisei Tanuki Gassen Ponpoko)
+Encoded date                     : UTC 2012-12-24 10:00:51
+
+Video
+
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 54mn
+Bit rate mode                    : Variable
+Nominal bit rate                 : 316 Kbps
+Maximum bit rate                 : 25.0 Mbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.037
+Writing library                  : x264 core 125 r2208 d9d2288
+
+Audio
+
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 54mn
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Language                         : Japanese
+
+Text #1
+ID                               : 3
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Language                         : English
+
+Text #2
+ID                               : 4
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Language                         : English
+
+
+Download & Enjoy...Keep Seeding...

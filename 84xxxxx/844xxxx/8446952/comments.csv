@@ -1,0 +1,77 @@
+﻿User Type,Username,Date,Text
+,VeryC,2013-05-07T09:56Z,"Please Note That there was an error in version files in the package, give it up to 45 mins to upload the fixed version. Until then you will recieve a ""Unable To Launch GameMaker-Studio!"" error."
+,Myoxfermani,2013-05-07T15:06Z,"Dude, great work. I'm using your uploads since the beginning and you're getting better and better. I personally like to use this version until my games make money, then I'll definitely buy the product. Many thanks."
+,jbnlwill,2013-05-07T22:13Z,Still get unable to launch error?
+,VeryC,2013-05-07T23:29Z,"Everything is running perfectly right now, i have been informed my many people that it is now working and have even tested it on my own computer.
+
+Btw comment with any issues, i will also write a comment when im about to upload a update"
+,ninjatakedown,2013-05-08T07:11Z,"Hey dude, Thanks for the upload but I get an error stating ""Unable to prepare download folder""
+
+I have no idea what this means cause I'm kind of an advanced nub."
+,trnstingy,2013-05-08T18:03Z,"Ran this, ended up with the ""Unable To Launch GameMaker-Studio!"" error and an empty GameMaker-Studio folder. :/"
+,trnstingy,2013-05-08T18:09Z,"OH.  After I unchecked ""run GameMaker-Studio"" at the end of the installer downloaded via this torrent, then ran the GameMaker-Studio file located in the GameMaker-Studio folder made by this installer *as an administrator*, it worked."
+,Sokaz,2013-05-08T22:22Z,"Still doesn't work, I have the same problem trnstingy has! "
+,Sokaz,2013-05-09T16:44Z,Will this be fixed?
+,VeryC,2013-05-10T03:24Z,"There is nothing to fix, at least not on my side. The program is either unable to erase a certain folder, or create it. Most likely due to permissions on your computer. 
+
+The folder is: C:Users{USERNAME}AppDataLocalgamemaker_studioUpgradeMSI
+
+See if you can erase that folder if it exists, if not try to create it."
+,Sokaz,2013-05-10T07:32Z,The folder doesn't exist. I guess its having a problem making downloading the files because i get and empty folder with only android sdk
+,VeryC,2013-05-10T16:11Z,Uninstall any versions of GMS that you may have on your computer then run this tool https://gmslauncher.googlecode.com/files/GameMaker-Studio-Cleanup.exe it should only open for a second then close. It will clean up everything GMS related.
+,ankithd,2013-05-10T17:22Z,"This is so frustrating! I ran the cleaner and ran the gamemaker setup file(Both the torrent and the downloader) as admin but still get that ""Unable to launch"" Error. I deleted every possible GMS related install file!"
+,VeryC,2013-05-10T20:30Z,"Go to the same folder i mentioned before, and run the msi in there. This will install it and give you any errors if any related to the actual update package."
+,Sokaz,2013-05-11T07:51Z,"Still not working, Its saying that I don't have access to some dll files or somthing even though I have ran it as admin."
+,ankithd,2013-05-11T09:50Z,"I ran the MSI and it ran fine until the last 20% where it first gave:
+error 1135 data1.cab corrupt or missing,etc..
+I tried to press retry but didnt work, so i ignored after which i got Error 2350 FDI"
+,Sokaz,2013-05-11T10:39Z,Yea Im also getting a crap load of errors also.
+,pbkomek,2013-05-12T04:29Z,"I reported the bug in the last auto updater and this works fine for me. Thanks for fixing it! Not sure why everyone else is having issues. I had issues but then uninstalled GM completely and everything worked fine after a clean reinstall.
+
+Well.. I haven't tested mobile yet but Windows is working fine and that didn't work at all in the original torrent."
+,Sokaz,2013-05-12T08:57Z,"I fixed my problem, I went on Google and downloaded the dll files I needed. Thanks VeryC! Keep up the good work!"
+,ankithd,2013-05-12T12:52Z,"Damn It! it still gives me the same datacab1 corrupted error 1335. I even redownloaded the torrent and deleted every gamemaker related file in appdata/roaming and appdata/local. Sokaz, what dll did you need to download?"
+,Sokaz,2013-05-13T04:03Z,Link me a screen shot of your errors.
+,zucumx,2013-05-13T04:05Z,"I have the ""Unable to launch"" error, there is no gm folder in local, it only creates a folder in C:UsersusernameGameMaker-Studio with an exe who gives that error, i tried to create the folder and run the msi fron there but it does the same thing, please help!"
+,Sokaz,2013-05-13T04:42Z,Make a video and post it to youtube and Ill see what you are doing wrong.
+,zucumx,2013-05-13T05:13Z,"I can't make a vid, please tell me how do you installed it, did you create the C:Users{USERNAME}AppDataLocalgamemaker_studioUpgradeMSI folder? installed it from there? or what did you do? thanks."
+,Sokaz,2013-05-13T06:21Z,"I removed any kind of game maker files that existed on my computer, then I downloaded the program, It installed and then said CANNOT LAUNCH GAMEMAKER or somthing, So I went into the C:Users{USERNAME}AppDataLocalgamemaker_studioUpgradeMSI folder and there was a .msi installer there. I ran the installer and it was asking me if I had permission to acsess some dll files.. I was confused.. I am admin.. I went to see if the dll files even existed and they didnt, so i downloaded them and put them in the folder the program was looking for them in and hit retry and it worked.."
+,Sokaz,2013-05-13T06:34Z,"I removed any kind of game maker files that existed on my computer, then I downloaded the program, It installed and then said CANNOT LAUNCH GAMEMAKER or somthing, So I went into the C:Users{USERNAME}AppDataLocalgamemaker_studioUpgradeMSI folder and there was a .msi installer there. I ran the installer and it was asking me if I had permission to acsess some dll files.. I was confused"
+,Sokaz,2013-05-13T06:35Z," I am admin.. I went to see if the dll files even existed and they didnt, so i downloaded them and put them in the folder the program was looking for them in and hit retry and it worked.."
+,Mzaq,2013-05-13T07:19Z,"I am also getting a ""Unable To Launch GameMaker-Studio!"". I tried to run the installer.msi in my C:UsersuserAppDataLocalgamemaker_studio as suggested but it still did not work. This error still happens when I try running Game-Maker Studio.exe as administrator. Any way to fix this?"
+,Sokaz,2013-05-13T07:49Z,I should be able to help the people who make a video better than I can without a video.
+,zucumx,2013-05-13T07:51Z,"Thanx for the help, now, i removed all the gm files too, the msi only creates a gamemaker studio folder in C:Users/username/GameMaker-Studio with only an exe in it, this exe gives me the  ""Unable To Launch GameMaker-Studio"" error, theres no C:Users{USERNAME}AppDataLocalgamemaker_studioUpgradeMSI folder, i tried everything, creating the folder and installing there, usign the msi file there, all ends in the same damn launch error."
+,Sokaz,2013-05-14T05:55Z,Then I don't know what to tell you.
+,zucumx,2013-05-14T06:24Z,"What is your OS? im on seven x86.
+
+Thanks again for your help."
+,Sokaz,2013-05-15T04:53Z,Same.
+,zucumx,2013-05-16T08:31Z,"Damn, Well thanks for your help Zokas.
+I had GM on steam but is uninstalled, maybe the error is from that?"
+,zucumx,2013-05-16T15:17Z,*Sokaz
+,hydr0holic,2013-05-16T18:00Z,"Hey man this worked great the first time installed when I already had the 1.1.7 installed and then upgraded to 1.1.864 with your upgrade., then when you released this one it asked when I opened GMS if I want to update to 1.1.9 so I did and like I said it worked great. But after reinstalling windows 8 after some windows issues unrelated to GMS. I goto to just install the latest version you released and now it tells me Unable to Launch GameMaker Studio. I even unistalled and installed the old 1.1.7 version you had then upgraded to 1.1.864 like I did before and then when I try to install the latest it tells me Unable to Launch again. Your latest version isn't like any of your others it's just a GMS icon instead of all the files like before with your upgrades? I have literally uninstalled and reinstalled a dozen times and will not work like when I had old version already installed?"
+,hydr0holic,2013-05-16T18:02Z,Other than that Thank You for all your great work I have my game 75% complete and it's all thanks to your great updates....but please help a brother out!
+,toolong12,2013-05-17T04:01Z,"can you post what the dll files you downloaded were? mine wont launch and it doesnt say im missing dll files, so im out of ideas besides download the ones you did and hope"
+,hydr0holic,2013-05-17T07:12Z,This is the only one I can get working right and now the 1.1.865 update that came with it is missing so only have this version working now. :( http://thepiratebay.sx/torrent/8061645/GameMaker-Studio_1.1.785
+,xXxZombinexXx,2013-05-18T06:06Z,Here is a working one with no errors but its an older version: https://thepiratebay.sx/torrent/8480332/Radical_Studios_Torrents_-_GameMaker__Studio_1.1.929
+,hydr0holic,2013-05-18T18:20Z,Thanks Zombine I guess it will have o work until I can get latest to work again.
+,hydr0holic,2013-05-18T18:24Z,There's no errors but the only comment you have on your torrent is about a Error Zombine? Hmmmm no thank you
+,coute,2013-05-19T01:07Z,"Having same problem. I uninstalled all previous versions, ran the GM clean up tool, and ran this installer and everything else as administrator but keep getting the Unable to run Game Maker Studio error. It does not create that folder in Appdata so I don't know what else to try."
+,coute,2013-05-19T01:32Z,Forgot to mention that I also tried creating the folder myself and running the installer from there but it did the same thing. The GameMaker Studio folder under user is empty except for the exe which shows the error when I run it.
+,xhizors,2013-05-19T07:00Z,Doesn't work. Don't bother. Steer clear of anything VeryC.
+,hydr0holic,2013-05-20T02:14Z,"I wouldn't say all that all his stuff has been relevant til this one and this one worked but now it's not d/ling all the files needed. So take it easy there sport, with your statement and give the guy some credit, being a programmer the shit isn't easy specially what he's doing. Thanks Very but we need something done with your newest update."
+,Cracked87,2013-05-21T21:01Z,@VeryC Can you upload a version without using an Auto Updater? 
+,hydr0holic,2013-05-21T21:21Z,Very can you please release the manual patch for 1.1.964 like you did for the 1.1.867 patch. Much appreciated.
+,VeryC,2013-05-26T08:47Z,"Ok I know there are a lot of complaints going about right now, please keep in mind that I got back from Google I/O a few days ago and have not had much time to do much. I will also be going to Microsoft Build next month.
+
+The reason why downloads are not working anymore is because I have exceeded my bandwidth by quite a bit. As in 126 Gigs.
+
+Right now YoYo is going through the odd transition between the 1.1.xxx versions to the 1.2.xxx versions. So I am holding off on releasing the last auto updater.
+
+And there is a lot greater advantage to using a auto updater then manual uploads. The rate that yoyo can release updates is astounding at times. Its just simpler to just create a updater that does all the work for me. I don't have a very fast upload speed, and when you have pure leechers who grab the latest version quickly and aren't decent enough to seed there share. If I am just uploading a new update file to my server whenever there is a update I use less bandwidth and you receive the update faster.
+
+Now for some other news, I will start uploading regular install versions until the auto updater is perfected. I will need people who are willing to help with this as I have no way of telling how the updater will work in your environment.
+
+-VeryC-"
+,goopta,2013-05-31T16:41Z,"Hey VeryC,  can you crack a java software on request please?"
+,VeryC,2013-06-10T07:25Z,"Depends on what software it is, i mainly do software that is beneficial to the community. So if not many people want it, theres a less likely chance that i will waste my time doing it."

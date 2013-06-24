@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,noname578,2013-05-12T02:50Z,Thanks! PS: why only 886 MiB?
+,trace535,2013-05-12T03:16Z,"Because there is currently no scene standards for 720p video.
+
+So it's basically 1GB per hour, give or take 300-400 MB."
+[V],meech,2013-05-12T03:39Z,"It's because encoding is no longer done by setting a certain size or bitrate.  Look up crf encoding for more info.  I believe the ""scene"" uses anywhere from crf-18 to crf-19.  It's constant quality encoding where you set a quality, and the encoder adjusts the size/bitrate to maintain that quality.  Not all video is the same.  Some clips may require more bitrate(size) than others to maintain the same quality.  CRF encoding is superior to the old 350mb/hr (sd) video, as it never wastes a bit, and also uses enough bits.  Crf can be used on both sd and hd.  This is the reason you'll almost never see a file the same size as another one."
+,trace535,2013-05-12T08:01Z,"Actually, the CRF values allowed go from 19 to 24, hence the discrepancies in sizes between the release groups.
+
+http://scenerules.irc.gs/t.html?id=2012_SDTVx264r.nfo"

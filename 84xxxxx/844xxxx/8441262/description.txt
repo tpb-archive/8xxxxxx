@@ -1,0 +1,4 @@
+Organizing websites is highly dynamic and often chaotic. Thus, it is crucial that host web servers manipulate URLs in order to cope with temporarily or permanently relocated resources, prevent attacks by automated worms, and control resource access.
+The Apache mod_rewrite module has long inspired fits of joy because it offers an unparalleled toolset for manipulating URLs. The Definitive Guide to Apache mod_rewrite guides you through configuration and use of the module for a variety of purposes, including basic and conditional rewrites, access control, virtual host maintenance, and proxies.
+
+This book was authored by Rich Bowen, noted Apache expert and Apache Software Foundation member, and draws on his years of experience administering, and regular speaking and writing about, the Apache server.

@@ -1,0 +1,39 @@
+SCREENS:
+ 
+http://imageshack.us/a/img7/9489/80538430.jpg 
+http://imageshack.us/a/img402/8369/17556225.jpg 
+http://imageshack.us/a/img823/767/95934055.jpg
+
+General 
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 120 MiB 
+Writing application : mkvmerge v6.2.0 ('Promised Land')
+Writing library : Lavf54.29.104 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.2 
+Format settings, ReFrames : 7 frames 
+Width : 720 pixels 
+Height : 404 pixels 
+Display aspect ratio : 16:9 
+Frame rate : 23.962 fps 
+Original frame rate : 23.976 fps 
+Writing library : x264 core
+
+Audio 
+ID : 2 
+Format : AAC 
+Duration : 42mn 5s 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 48.0 KHz / 24.0 KHz 
+
+Text 
+ID : 3 
+Format : UTF-8 
+Language : English

@@ -1,0 +1,14 @@
+Sphider-plus is a search engine based on the original Sphider scripts created by Ando Saabas.
+
+In front of original Sphider additional mods, functions, template designs and debugging have been performed. For details about all changes, please notice the chapter Change Log
+
+The names of Sphider-plus folders and scripts are often the same like those of original Sphider. But the scripts are not interchangeable between Sphider and Sphider-plus.
+
+In front of original Sphider several messages have been added in the language files. You are invited to translate your native language and then to share the files with the community. Also mods, improvements and of course bug fixes are very welcome for future releases of Sphider-plus.
+
+Sphider-plus offers a wide range of customizing the index and search procedures. By means of an Admin backend, all settings are presented. As stated above, this search engine uses some PHP libraries and extensions. When opening the Setting interface, the existence off these libraries are tested by software, and in case that a library is not part of the server environment, the according option is not presented in the Settings interface. For example, if the 'rar' extension is not available, it will not be possible to index RAR archives and the belonging checkbox will not be presented in 'Spider Settings'. In order to check the availability of all required libraries and extensions, the Debug mode will present the corresponding messages.
+
+Indexing with a search engine like Sphider-plus is very problematic on a 'Shared Hosting' server. Indexing huge amount of links might be interrupted, because the granted time slice can be finished before index procedure is finished. Especially if you intend to index not only text, but also media content like images, as well as audio and video streams. Sphider-plus tries 3 times to reconnect to the database. But if the server canceled the script, it will become necessary to manually invoke again the index procedure to continue. Sphider-plus will remember the last indexed link and continue the suspended process. Some special functions like e.g. 'cyclical indexing' in any case will fail on a 'Shared Hosting' server.
+
+
+www.ebooks.fivva.net

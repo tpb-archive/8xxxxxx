@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+[V],-wxm-,2013-05-01T01:27Z,"Here, forgot to add this, Cheers!
+
+http://www.pastebay.net/1204049"
+[V],-wxm-,2013-05-01T01:31Z,http://www.pastebay.net/1204049
+[V],-wxm-,2013-05-01T04:25Z,"foobar2000 1.2.3 / Dynamic Range Meter 1.1.1
+log date: 2013-04-30 18:24:52
+
+--------------------------------------------------------------------------------
+Analyzed: Savages / Silence Yourself
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7        0.00 dB    -8.95 dB      4:47 1/11-Shut Up
+DR6        0.00 dB    -8.09 dB      3:20 2/11-I Am Here
+DR6        0.00 dB    -7.89 dB      3:28 3/11-City's Full
+DR6        0.00 dB    -8.24 dB      3:58 4/11-Strife
+DR5        0.00 dB    -9.38 dB      5:26 5/11-Waiting for a Sign
+DR11      -2.34 dB   -18.93 dB      2:05 6/11-Dead Nature
+DR6        0.00 dB    -7.96 dB      3:27 7/11-She Will
+DR6        0.00 dB    -7.83 dB      3:35 8/11-No Face
+DR5        0.00 dB    -6.87 dB      1:41 9/11-Hit Me
+DR6        0.00 dB    -6.91 dB      2:46 10/11-Husbands
+DR8       -0.23 dB   -11.85 dB      4:01 11/11-Marshal Dear
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR7
+
+Samplerate:        48000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1515 kbps
+Codec:             FLAC
+================================================================================
+"

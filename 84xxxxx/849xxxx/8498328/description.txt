@@ -1,0 +1,37 @@
+New Features and FYIΓÇÖs: 
+
+-An Extension Warehouse has been created and integrated with SketchUp. Users can now manage hundreds of extensions installed on their computer via the Extension Warehouse.
+-The word ΓÇ£SketchUpΓÇ¥ now refers to a product family of which there are two members: SketchUp Pro and SketchUp Make.
+-Toolbars for SketchUp on Windows operating systems have been improved. They are now customizable and more reliably stay put once they have been docked.
+-Scene-based animations can now be exported to high-quality video from SketchUp.
+-Toolbars and cursors have been updated and made consistent between SketchUp, LayOut, Style Builder and SketchUp Viewer.
+-We have a new SDK. See the ΓÇ£getting_started.htmlΓÇ¥ and ΓÇ£migration_guide.htmlΓÇ¥ in the SDK package for details.
+-Lots of little tweaks, bugs fixes and improvements were made to existing features.
+-SketchUp no longer will take a long time to open and close with an unstable Internet connection. 
+-(Mac) SketchUp does not support OS X 10.6 and older versions of OS X. Users with these platforms will see an error on launch.
+-(Windows) XP SP3 is now required to run SketchUp on XP.
+
+Extension warehouse/Ruby plugins:
+-We are installing only the following extensions with the product : Advanced Camera Tools, Dynamic Components, Sandbox Tools, Photo Textures. The other SketchUp 8 extensions (Ruby Script Examples, Ocean Modeling, Utilities Tools, Shadow Strings Fix toolbar, Solar North toolbar) are available for download on the Extension Warehouse.
+-The plugins directory on the Mac has moved to ~/Library/Application Support/SketchUp 2013/SketchUp. We no longer install anything into the Macintosh HD/Library/Application Support/SketchUp directory.
+
+SketchUp Toolbars :
+-Toolbars now stay put and you can customize toolbars containing non-Ruby tool icons!
+-The SketchUp 8 ΓÇ£Save toolbar positionsΓÇ¥ menu choice has been removed as it is no longer needed - toolbar settings are saved when exiting SketchUp.
+-View &gt; Toolbars shows just one menu choice now. Customization of toolbars has been moved to one dialog.
+-SketchUp 2013 does not have the ability to create 2 column vertical toolbars (a limitation of the libraries we used as the basis of our new toolbars). If you want to create a setup similar to what is in SketchUp 8, you can either create a few new custom toolbars, docking them side by side to create 2 columns, or you can dock some of our smaller toolbars side by side.
+-To customize non-Ruby toolbars, bring up the View &gt; Toolbars dialog. You can move an icon from one toolbar to another by dragging it or pressing the Alt key. Holding down the Ctrl key allows you to copy an icon. Right clicking on a toolbar gives you some additional functionality.
+
+LayOut:
+-Changes were made to improve overall performance with LayOut.
+-Shapes can now be filled with image-based patterns in addition to solid colors. This is called Pattern Fill. 
+-LayOut now has the ability to create multi-copy arrays, similar to the way SketchUp works.
+-Text leader lines can now be curved.
+-Users can now zoom in to a document up to 10,000%.
+-To better reflect standards, dimensions now have dashes to separate feet from inches. 
+
+OS : Windows XP sp3, Windows Vista, Windows 7, Windows 8 
+
+Language : English
+
+Homepage : http://www.sketchup.com/products/sketchup-pro

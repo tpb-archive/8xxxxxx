@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,IncomePitbull,2013-05-16T06:03Z,"I take all MKV files and change them to MP4 using MKVcleaver and MyMP4Box, using h264 AC3... so I can put them in my shared movies folder and watch them on my xbox... However, this one is out of sync! Is anyone else having an out of sync issue?
+
+My thoughts, was if it plays fine and mkv that it was out of sync and fixed as mkv, but stripped and made as mp4, it loses that sync change (which may be held in the mkv container?).
+
+I am downloading other copies though! I missed this episode tonight and was WAITING on it to get uploaded. I normally catch them on TV, Im a supernatural fan :)"
+[T],teslaman,2013-05-16T07:03Z,"You guessed correctly, it looks like there is a 500ms delay in the MKV container in order to sync it correctly. I had the same out of sync problem with this episode and episode 21 when I went to do my encodes.
+
+In MyMP4Box, select the audio stream and set the ""Delay selected tracks"" setting to 500ms and you should be good. I say ""should"" because I've never personally used that program. ;)"

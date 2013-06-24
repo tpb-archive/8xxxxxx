@@ -1,0 +1,23 @@
+System Requirements:
+- Windows 8/7/Vista/XP(32/64 bit)
+- Pentium II 500 MHz
+- 256 MB of RAM
+- 10 GB of Free Hard Disk Space
+- A DVD-R(W) or DVD+R(W) Drive
+
+Changelog:
+New:Updated decryption keys.
+New: Added support for new Java protections.
+New: Added support for no menu mode in DVD Creator, and added new template for it.
+New: Some minor changes and improvements.
+Fix: Virtual drive of DAEMON Tools doesn't work.
+Fix: A problem that profiles uses too much memory.
+Fix: A crash problem at start-up in certain cases.
+Fix: A problem that cannot reset DMA.
+Fix: A crash problem when installing in certain cases.
+Fix: A problem that the setting of CPU cores is wrong in certain cases.
+Fix: A problem that the copy speed is very slow in DVD Copy.
+Fix: A crash problem when copying Blu-ray 3D disc to BD25 in certain cases, such as: ΓÇ£The Twilight Saga Breaking Dawn Part 2ΓÇ¥.
+Fix: A problem that cannot switch the auido tracks when playing the ripped .mp4 file in Apple TV.
+
+Homepage: www.dvdfab.com

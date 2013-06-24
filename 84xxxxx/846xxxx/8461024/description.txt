@@ -1,0 +1,8 @@
+Description:
+
+Transmit is an excellent FTP (file transfer protocol), SFTP, S3 (Amazon.com file hosting) and iDisk/WebDAV client that allows you to upload, download, and delete files over the internet. With the most Mac-like interface available, Transmit makes FTP as simple, fun, and easy as it can possibly be.
+
+Version 4.4:
+
+    New! The S3 server address can now be modified for non-Amazon S3-compatible servers. (Leave blank for the default.)
+    Fixed an issue with connecting to some Sharepoint servers via WebDAV.

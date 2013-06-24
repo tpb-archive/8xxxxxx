@@ -1,0 +1,85 @@
+This is the story of the quest of the artist Christo to wrap the famous Pont Neuf in France in fabric. It took Christo and his wife ten years to get permission from the Parisian government, and the project created a storm of dialogue throughout Paris. Written by Martin Lewison &lt;MLewison@utk.edu&gt;
+ 
+http://www.imdb.com/title/tt0101581/
+
+General 
+Unique ID : 64326839082955523900452788373863496574 (0x3064E60824CF30F7A2E9EEE47DFF7B7E) 
+Complete name : Christo.in.Paris.1990.DVDRip.x264.mkv 
+Format : Matroska 
+Format version : Version 2 
+File size : 891 MiB 
+Duration : 57mn 55s 
+Overall bit rate : 2 150 Kbps 
+Writing application : HandBrake 0.9.8 
+Writing library : libmkv 0.6.5 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L3.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 11 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 57mn 55s 
+Bit rate : 1 915 Kbps 
+Width : 706 pixels 
+Height : 480 pixels 
+Display aspect ratio : 4:3 
+Original display aspect ratio : 4:3 
+Frame rate mode : Constant 
+Frame rate : 23.976 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.236 
+Stream size : 794 MiB (89%) 
+Writing library : x264 core 120 
+Encoding settings : cabac=1 / ref=11 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=240 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=2:1.00 
+Language : English 
+Default : Yes 
+Forced : No 
+Color primaries : BT.601 NTSC 
+Transfer characteristics : BT.709 
+Matrix coefficients : BT.601 
+
+Audio 
+ID : 2 
+Format : AC-3 
+Format/Info : Audio Coding 3 
+Mode extension : CM (complete main) 
+Format settings, Endianness : Big 
+Codec ID : A_AC3 
+Duration : 57mn 55s 
+Bit rate mode : Constant 
+Bit rate : 192 Kbps 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 48.0 KHz 
+Bit depth : 16 bits 
+Compression mode : Lossy 
+Stream size : 79.5 MiB (9%) 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Text 
+ID : 3 
+Format : VobSub 
+Codec ID : S_VOBSUB 
+Codec ID/Info : The same subtitle format used on DVDs 
+Language : English 
+Default : No 
+Forced : No 
+
+Menu 
+00:00:00.000 : Chapter 1 
+00:07:41.127 : Chapter 2 
+00:12:28.914 : Chapter 3 
+00:22:09.911 : Chapter 4 
+00:29:58.087 : Chapter 5 
+00:34:39.702 : Chapter 6 
+00:42:06.190 : Chapter 7 
+00:56:09.366 : Chapter 8 
+00:57:55.054 : Chapter 9 

@@ -1,0 +1,53 @@
+Hide Folders 2012 v4.1.5.805 Incl Serial - [MUMBAI]
+
+
+Features and benefits
+- Immediate data protection (protect and unprotect commands are execited in no 
+  time).
+- 4 protection methods available: Hide, Lock, Hide & Lock, Read Only
+- NTFS, FAT32, exFAT and FAT volumes are supported.
+- File masks (wildcards) support.
+- Unlimited number of folders can be protected at the same time.
+- No limits on the size of protected data.
+- Trusted processes support - processes which are permitted to access the 
+  protected data.
+- No file system structure modifications will occur.
+- Password protection to prevent unauthorized users from accessing your private 
+  data.
+- Protected uniinstall.
+- Removing Hide Folders application folder from the system will not uncover 
+  hidden folders.
+- Files from hidden folders will not be lost even if someone tries to remove an 
+  upper-level folder.
+- Different wipe tracks options.
+- Crutical folders aware - Hide Folders prevent locking system folders for 
+  stability reasons.
+- Safe mode support - The folders can be hidden even if your computer is 
+  running in safe mode.
+- Hot keys to manage basic Hide Folders functions.
+- Command line support of all main Hide Folders functions.
+- Support of folders named with national language symbols .
+- Multilingual support, its user interface supports different languages and can 
+  be easily translated to new languages.
+- Intuitive and extremely easy-to-use user interface with skins.
+
+
+*Protection modes: Hide folder, Lock folder, Hide & Lock folder, Read Only 
+
+Hide ΓÇö When you enable protection, the protected file or folder will not be visible to a user, but it will be possible to access it if you know the path to the object. This may be helpful when you want to hide application folders but allow to run the applications from these folders. E.g. you may hide Hide Folders application folder so nobody will know about it, but if you type from the command prompt "C:Program FilesHide Folders 2012hf.exe", Hide Folders 2012 will run. 
+
+Lock ΓÇö the protected file or folder will be visible but not accessible. It is similar to built-in protection of Windows NT-based operating systems on NTFS volumes. You can not use this protection method for critical folders, like Windows, WindowsSystem32, C:, Hide Folders application folder...
+
+Hide & Lock ΓÇö The protected file or folder will not be visible to a user and it will not be possible to access them. This protection mode unites Hide and Lock. 
+
+Read only ΓÇö You can access the protected files and folders, but you cannot modify them. If you protect folder contents (using asterisk wildcard), you cannot copy files into the folder. 
+
+No protection ΓÇö If you choose this method, your file or folder will remain unprotected. This method is recommended when you need to unprotect one folder temporarily. If you want to unprotect a folder forever, just remove it from the list.
+
+
+Website - http://fspro.net/
+
+
+By:- MUMBAI
+
+For My Uploads - http://thepiratebay.sx/user/MUMBAI1/

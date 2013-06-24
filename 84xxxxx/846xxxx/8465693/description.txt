@@ -1,0 +1,29 @@
+
+Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.
+
+REVIEWS:
+-----------------
+
+"A masterpiece of design purity." - EDGE, 9/10
+
+"This is the kind of game youΓÇÖre going to pass off to your friends and say, 'YouΓÇÖve gotta check this out.' ItΓÇÖs dangerously addictive." - IGN, 9/10
+
+"Knows exactly what type of game it wants to be and executes on it spectacularly. Merciless difficulty meets brilliant design." - Gamezebo, 5/5
+
+What's in this version:
+Version 1.0.3
+- New improved timing code, which reduces input lag on several devices (including the Nexus 7).
+- Removed the legacy options button.
+- Improved game setup, game should launch faster.
+- General bugfixes.
+Version 1.0.2:
+- Fixed a different music bug that got introduced in 1.0.1. Sorry D:
+Version 1.0.1:
+- Fixed the music bug that affected some Samsung devices.
+- Fixed a screen resolution bug that caused oversized fonts and misplaced buttons on some devices.
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.distractionware.superhexagon
+
+

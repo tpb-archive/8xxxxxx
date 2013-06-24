@@ -1,0 +1,15 @@
+Name: Kon-Boot
+Compatible: Mac OS X
+
+Description: Live CD that when booted to on a Mac, it creates a new account with root access. The username and password for this new account is "kon-boot". Once logged in on this new account, any existing accounts can have their passwords changed via the System Preferences menu.
+
+Torrent by: Repo-Man
+Uploaded by: zonday
+
+Other Information:
+-The CD image can be put on a flash drive (along with the Windows version) with a program called YUMI available from pendrivelinux.com
+-It is recommended to use another program to put the CD image on a flash drive, rather than using the available flash drive files.
+-This program is primarily designed for people who have forgotten their password, so the user is responsible for any legal trouble arising from its use.
+-It comes with a full PDF instructional guide on how to properly use.
+
+kon-boot.com

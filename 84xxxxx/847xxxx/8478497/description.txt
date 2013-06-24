@@ -1,0 +1,29 @@
+
+Water live wallpaper, simulates liquid water ripple effect.
+Adds water drops on your screen!
+
+Features
+- Fluid like, water ripple effects
+- Setting widget (Pro version)
+- Custom background image (Pro version)
+- Water drop settings (Pro version)
+- Use 3D hardware to render images, save battery
+- Support most resolutions including Android tablet
+- Android 4.0 ICS ready
+
+Instruction
+Home -&gt; Menu -&gt; Wallpapers -&gt; Live Wallpapers
+
+Note: It is live wallpaper so you can't open the app, you will need to follow the instruction above in order to set the wallpaper. Also slower/older devices (shipped with Android OS below 2.1) can't run it too, currently it has been tested on Samsung Galaxy S3, Galaxy Nexus and Sony Arc S so any mobile devices that is equivalent to them should run fine.
+
+If you have put the app on SD card and restarted the phone, the wallpaper will reset to default since the system couldn't find the app first.
+
+What's in this version:
+v1.0.6
+- Implemeted image orientation data detection
+- Improved custom image loading time
+- Fixed crashing on 3rd party luncher when switching the screen orientation from preview screen
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.xllusion.livewallpaper.waterpro

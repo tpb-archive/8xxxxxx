@@ -1,0 +1,53 @@
+BubbleUPnP Pro
+
+Play easily your music and videos on your phone and devices on your network (DLNA TVs, XMBC, WMP, ...) from your eQxternal UPnP Media Servers. Play your phone/tablet media to those devices.
+Browse and play your local phone/tablet media from other devices (PS3, ...).
+
+Optional Internet Streaming:
+More than just regular LAN streaming, BubbleUPnP can also stream efficiently your media via the Internet over a mobile or WiFi connection. Internet streaming requires installing server software "BubbleUPnP Server" running on Windows, MacOS X, Linux or a NAS (it is not required for regular LAN streaming, see NOTE below). To learn more about BubbleUPnP Server and Internet streaming visit http://bubbleguuum.free.fr/upnpserver
+
+Features:
+
+    Tablet support
+    stream music and videos from your UPnP/DLNA Media Server (Twonky, Asset UPnP, any NAS with UPnP, ...) to your Android device.
+    Codecs supported for audio: with system decoders: MP3, AAC (without DRM), WMA, Ogg Vorbis. With custom decoders WAV, FLAC, ALAC, LPCM. WMA support is manufacturer and model dependent. Vorbis may not work on Android 2.1/2.2.
+    Video playback is delagated to an external app (VPlayer, MoboPlayer, DicePlayer,...)
+    stream music/videos from your UPnP/DLNA Media Server to your UPnP renderers (software or hardware) on your network with regular playback controls (play, pause, seek, volume, ...). 
+    UPnP Media Server (*** requires Android 2.2+ ***): play your local phone/tablet media to other devices or to your Android device (standalone media player). Browse and play your local phone/tablet media from other devices (PS3, WMP, ...). Able to browse Filesystem (SD Card) in licensed version.
+    UPnP renderer: control audio playback of your android device from another UPnP Control point
+    Internet streaming/downloading over a mobile or WiFi connection with BubbleUPnP Server
+    UPnP tethering with BubbleUPnP Server (makes Media Servers from a LAN visible on another LAN)
+    Download tracks, full albums and videos from your Media Server to your android device (with covers if available), to make them available in your favorite Android music and media player
+    Landscape mode
+    Now Playing screen with regular playback controls
+    Mute / Repeat / Shuffle
+    Editable playlist to queue tracks for playback
+    Load and save playlists
+    Shuffle Playlist
+    Shuffle Library (shuffle tracks from your entire Media Server)
+    Scrobbling support
+    Sleep Timer
+    Display album art
+    Display artist info from Discogs or Last.fm (require Last.fm app)
+    Powerful UPnP Search. Search for tracks, albums, artists and videos (exact support depends on Media Server)
+    Bookmarks. Access quickly albums and folders
+    Random track list generation. Discover forgotten gems in your Library
+    Multiple selection. Anywhere a list of tracks or albums appear you can swipe many of them to apply a Common operation (play, enqueue, remove, download,...).
+    Control Renderer volume with the hardware volume buttons
+
+What's in this version : (Updated : May 9, 2013)
+
+    fixed image viewer crashes
+    fixed Google Drive crash on some devices
+    fixed error 402 playing some file types to WD TV
+    Google Drive support
+    fixed local media server failing to stream mp4 videos to some Samsung TV and WD TV models
+    fixed Ethernet connectivity sometimes not properly detected, leading to no UPnP device discovered
+    fixed issue streaming gaplessly high-res FLAC to local renderer through BubbleUPnP Server
+    fixed obscure bugs and crashes
+
+Required Android O/S : 2.1+
+
+*******************************************************************
+
+Release includes license and servers for your Windows or Linux machines.

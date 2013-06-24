@@ -1,0 +1,85 @@
+These are The remaining 4 Episodes of Puella Magi Madoka Magica they are a DVD rip with the following settings (detailed below.) As such I have not re-sized them from the original DVD (720x480) however the quality is still on the high side so it can easily be watched on a 1080p monitor with only very minor quality degradation. When encoding I used Handbrake with an RF of 14 (9-11) and 15 (only for EP12)
+
+I noticed that there wasn't an English dub/Dual Audio with a quality that met my liking (either low res and/or really low bit rate making it grainy as sand in ya balls.) Hence I decided to Rip a DVD and encode them myself to my own preferences. Because of the high RF factor there is still impressive quality at higher resolutions thanks to the x264 Codec and settings used when encoding.
+
+PLEASE DON'T BE AFRAID TO DOWNLOAD THIS just because it isn't FULL 720p it still looks just as good!!
+
+
+
+
+**WARNING** YOU WILL NEED VLC MEDIA PLAYER OR K-LITE CODEC PACK TO PLAY THESE, PLEASE DON'T BITCH IF YOU HAVEN'T GOT EITHER OF THESE!!
+
+
+
+
+The following A/V specifications should roughly represent the encoding of all the the files in the torrent:
+
+Overall bit rate                         : 1 893 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+Format                                   : AVC
+Duration                                 : 25mn 25s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+Audio #1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+FILE LIST:
+Puella Magi Madoka Magica 09             :344MB
+Puella Magi Madoka Magica 10             :314MB
+Puella Magi Madoka Magica 11             :387MB
+Puella Magi Madoka Magica 12             :275MB	
+
+RIPPED AND ENCODED BY THEATA FOR THE GREATER COMMUNITY, FEEL FREE TO CONTACT ME AND REQUEST COMPLETE SHOWs OR SHOW SEASON TORRENTS AT THEATA_REQUESTS@HOTMAIL.COM. I WILL TRY MY BEST TO EITHER SOURCE AND CREATE A TORRENT OR POINT YOU IN THE DIRECTION OF A TORRENT THAT SUITS YOUR NEEDS!!

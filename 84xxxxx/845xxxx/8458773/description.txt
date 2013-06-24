@@ -1,0 +1,44 @@
+This program records phone calls from the phone line on some phones. Such recording is not usually available out-of-the-box, it needs hardware support in your OS kernel and root access. If you have an HTC device, you're in clover if you've got a custom ROM. Otherwise, please visit the xda site, there're plenty.
+
+Basically any device is supported, provided that it's based on a Qualcomm chip, say, their Snapdragons, etc. If your device has no such support, the program still records phone calls, but you need to select Android API in preferences and the recording will most likely proceed from the mike, not from the line. Please feel free to make any comments or send suggestions.
+
+The list of supported devices
+
+    HTC Desire
+    HTC HD2
+    Google Nexus One
+    HTC Desire HD
+    HTC Desire Z
+    HTC Desire S
+    HTC Incredible S
+    HTC Thunderbolt
+    HTC Sensation
+    HTC EVO 3D (CDMA)
+    HTC Hero
+    HTC Wildfire
+    Acer Liquid mt
+    Dell Streak
+    ZTE Blade
+    HighScreen Cosmo
+    Acer Liquid
+    Sony Ericsson XPERIA ray
+    Sony Ericsson XPERIA arc
+    Samsung Galaxy S II X (SGH-T989)
+
+Requires the kernel with 2-way call recording patch and ROOT permissions
+
+Use standard API for recording (may record from the mic):
+
+    Samsung GT-I9100 Galaxy S II (Doesn't work on Android 4 ICS, Preferences: Audio source - voice uplink, and voice downlink when BT headset is connected(it will record only other side, but it's better then nothing)) 
+
+What's in this version: (Updated : May 4, 2013)
+
+    Sony Xperia T support
+    Translation updates
+    Bug fixes
+
+Required Android O/S : 2.2+
+
+**************************************************************
+
+Appears that phone needs to be rooted!!! Not a very good app in my opinion, click on my name for another call recorder option.

@@ -1,0 +1,47 @@
+Version 5.00 beta 3
+
+   1. Fixed XZ archive support, which did not work in beta 2.
+
+   2. "Convert" command did not allow to use compression dictionaries
+      exceeding 4 MB.
+
+   3. If both encryption password and archive comment were specified
+      when creating RAR archive, archive comment was not added.
+
+   4. "View as Unicode (UTF-8)" command in internal viewer did not work,
+      so UTF-8 files were displayed correctly only if their encoding
+      was detected by viewer automatically.
+
+   5. Maximum compression dictionary size when running in Windows XP x86
+      is reduced to 128 MB. WinRAR cannot allocate enough memory to
+      create archives with 256 MB dictionary in Windows XP x86.
+
+   6. Corrections in relative path processing, such as "..arcname.rar" name
+      in archiving dialog or "WinRAR foldername" in the command line.
+
+
+
+Winrar 5.00 Beta 3 Activated Multi Edition
+
+Only Single Setup Which include 64 and 32 files.
+
+Install 64 bit files on 64 bit operating system
+
+Install 32 bit files on 32 bit operating system
+
+
+Reg Key Already Inserted
+
+
+Now Why You save two different setups for 32 bit and 64 bit
+
+
+Now use this setup which can work for 32 and 64 bit systems
+
+
+Also update version mode
+
+
+with update version checked option it will be a portable winrar no uninstall file 
+
+will created in control panel

@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,McWopper,2013-05-23T01:31Z,"Thanks Yify, you're the best :D"
+,shuttlelife,2013-05-23T03:44Z,am i the only one this didn't work for? it shut down on vlc before 2-3 mins
+,gjc1977,2013-05-23T03:50Z,"A/10
+V/10
+
+Great work again! can u plz upload Goodfellas in 1080p?"
+,firexninja,2013-05-23T05:00Z,thank you!
+,Peaceall,2013-05-23T10:29Z,Why does Yiffy upload the same movies over and over??
+,asimaleem,2013-05-23T13:44Z,"YIFY there is some problem with the file. I can't move forward, it only works from the start. Same with VLC player and KM player"
+,solny79,2013-05-23T17:38Z,Same issue here - can't move forward on tv or PC
+,beatcrusaders,2013-05-24T05:34Z,Its a corrupted file
+,LaFouine2011,2013-05-24T18:51Z,"Hi,
+
+For those with seeking Pb, you can remux the file to mkv :
+- Demux Video & Audio with YAMB
+- Remux with mkvmerge (mmg.exe in the mkvtoolnix), Video Property (AR 2.40 , FPS 24000/1001p), for the Audio property you have to check the ""AAC is SBR/HE-AAC/AAC+"" case before remuxing.
+
+@+"
+,TheRealKeyserSoze,2013-05-24T23:30Z,"Looks like corrupted file.  Only starts from beginning, can't jump forward or back in VLC or Windows Media Player."
+,AznAssassin,2013-05-25T03:41Z,"Yep same here. Cant seek at all or the file freezes completely. 
+
+FIX UP THE FILE PLZ!!!!"
+,imjustwow,2013-05-25T22:11Z,well well...this file does not work like everyone else has been complaining...well YIFY I have loved all your uploads...this one is the only one over the years that has a glitch....it's alright to come out and acknowledge such issue once in a while!!
+,JUST_TRYING_TO_HELP,2013-05-31T12:59Z,For all of you who say its freezing its not the file you can't seek because it's 1080p and your computer can't support that. I run into the same problem every time I download 1080p stuff so I just have to watch it on my wife's much newer and more powerful computer. That's your only problem your Video card doesn't support it.
+,susupgu,2013-06-02T14:59Z,Install CCCP and stop complaining...
+,Robertsx,2013-06-04T21:01Z,"@Peaceall
+
+Yify uploads different file sizes of each movie, so we can choose what quality we want to watch it in."
+,Corruptoz,2013-06-05T04:13Z,"Its not because its 1080p, I watch 1080p releases and have no problem pausing resuming or fast forwarding so its not that, just corrupted"
+,alchiu,2013-06-08T21:00Z,"Thank you, looks and sound awesome"
+,jarrks,2013-06-10T09:06Z,"How to fix the seeking problem:
+
+1. demux file into single tracks (video + audio)
+2. mux together again 
+
+Software: MP4Box, mkvmerge
+
+example:
+step 1.: commandlines 
+MP4Box -raw 1 inputfile.mp4
+MP4Box -raw 2 inputfile.mp4
+
+step 2.: start mmg, add both tracks, mux
+
+Done."

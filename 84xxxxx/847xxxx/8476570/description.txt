@@ -1,0 +1,16 @@
+(also currently available at users.auth.gr/eevstrat/ )
+
+A small game I made in C++ as an exercise in a physicists' basic programming class.
+
+Plus the source code.
+
+"The goal of this game is to 'shoot' as close to the center of the target as
+ you can. You 'shoot' at the position of your cursor (the * symbol) by
+ pressing the spacebar. The cursor will be speeding up on its own, but you can
+ change its speed too, by pressing buttons."
+
+Screenshots:
+ 
+http://bayimg.com/hAmncAael
+ 
+http://bayimg.com/HaMnjaael

@@ -1,0 +1,165 @@
+﻿User Type,Username,Date,Text
+,Xtse,2013-04-23T11:08Z,"For those interested, here is the virus total page:
+
+https://www.virustotal.com/en/file/5dbb1fdf91f3576e31a6388fad52566796d5f8b8de59f61a68cbe9a0669dbd8a/analysis/1366707835/
+
+It is packed and confused so there will be false positives! Any doubts, run it in a VM first! :)"
+,misha93,2013-04-25T04:35Z,"For paranoids, there is a new version of android NDK available, r8e.
+
+Download links:
+
+Win x86
+http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86.zip
+
+Win x86-64
+http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86_64.zip
+
+If registering the path of the Android NDK for its use when compiling for release mode in VS2010/VS2012/Xamarin Studio is wanted, it can be done from Xamarin Studio options. Download link:
+
+http://download.xamarin.com/studio/Windows/XamarinStudio-4.0.3.13.msi"
+,wntrfrt,2013-04-25T05:02Z,"I installed VS2012, then MFx, and finally, I patched, but I can't see it installed in VS2012.
+
+Help?"
+,Xtse,2013-04-25T11:22Z,If you can't create an android project then you'll need to re-install using the installer from Xamarin.
+,pk2xw,2013-05-01T09:22Z,"@Xtse , thanks for the patch, you have mentioned somewhere that you have posted the steps you took to unpack and crack it somewhere on the internet, i have looked really hard, can't find them, can you give a clue?
+why is this one packed and confused?, the previous ones where not"
+,Xtse,2013-05-03T12:07Z,"@pk2xw; that info is old now - it's changed a bit :) same concept, just a little more depth. The hint for the original tutorial is (for shits and giggles):
+
+A russian lab. ;)"
+,Andrique,2013-05-04T22:54Z,"@xtse
+
+Before having found this patcher, I did two attempts to crack Xamarin: 1) by reversing/changing/compiling .NET assemblies, and 2) by making a ""proxy"" program to intercept mandroid.exe's stdin/stdout/stderr. Both times IDE believed I'm using an activated Priority edition. Oops! mandroid.exe was the last barrier I couldn't cross.
+
+I must admit Xamarin developers did good. The compiler (mandroid.exe) really DOES check license when compiling -- and the compiler is unmanaged. It's unfair )))))
+
+You keep saying ""Buy the software if you like it."" I am perfectly OK with the idea, but not with the price. If I needed Xamarin to write programs to sell, to make money -- that'd be fair to charge that much. But right now, I need it to get to know Android, to educate myself, to play with my smartphone and prepare to writing fancy real applications. For this private, non-commercial use, I'm still ready to pay, say, a hundred dollars, just like I did with .NET Reflector for example. BUT NOT THE BLOODY DAMNED TWO GRANDS!!! The INDIE edition is a mockery -- even unable to use Visual Studio !!
+
+So, fuck for a fuck. I'm using the patcher instead of being a legal user. Sad.
+
+However, back to out subject. I am now approaching reversing mandroid.exe, nevertheless it's unmanaged. Well, I'm a 25-years experienced developer, it's a shame to me not to make it done :)) So I got OllyDbg, and preparing myself for a battle. Couple of questions to you XTSE, please...
+
+1) mandroid.exe itself -- is it a packed executable?
+2) Why .NET assemblies mandroid.exe extracts -- don't I see them in Process Monitor? Presumably it unzips them to memory and loads assemblies right from byte[]...
+3) So if mandroid extracts .NET assemblies - does it do anything else? I mean, is it by chance JUST AN EXTRACTOR -- so .NET assemblies do the rest?
+
+I'm looking forward to talk more to you XTSE. Maybe we talk in private? If that's OK with you, here is my Skype: Andrei-Samoylov, and email: Andrei-Samoylov@mail.ru.
+
+Thanks in any case!"
+,asd555555,2013-05-05T19:32Z,"Hi,
+thanks for patcher!!!
+
+anyone patched xamarin monotouch for mac?
+
+i'm trying to use VS to develop ios apps, with virtual machine (mac on it) but when VS tries to connect it gives me an error that mac build host is not activated."
+,Andrique,2013-05-07T01:53Z,"COLLEAGUES,
+
+TODAY I MANAGED TO EXTRACT THE FAMOUS MANDROID-WIN.EXE!
+
+The proof is here: http://postimg.org/image/z1l9viwtp/
+
+That, in fact, is a Mono CIL Linker: http://www.mono-project.com/Linker
+
+GOOD LUCK TO ALL!"
+,Andrique,2013-05-07T02:04Z,"Basically, the commands of mandroid-win.exe directly correspond to those of mandroid.exe in the daemon mode (-d command line option):
+
+    private static void CheckAssemblies(string command);
+    private static void CreatePackage(string command);
+    private static void ExtractResources(string command);
+    public static Action GetCommand(string command);
+    private static void OpenLog(string filename);
+    private static void PrintEcho(string echo);
+    private static void PrintEdition(string ignore);
+    private static IEnumerable ToSequence(string source);"
+,Andrique,2013-05-07T02:16Z,"In fact, internal commands of mandroid-win.exe directly correspond to those of mandroid.exe with option -d (daemon mode):
+
+    private static void CheckAssemblies(string command);
+    private static void CreatePackage(string command);
+    private static void ExtractResources(string command);"
+,Andrique,2013-05-07T02:16Z,"Sorry, there is a delay in adding comments, so the last one was added twice :))"
+,skautroll,2013-05-07T10:35Z,"Like many others, I am wondering if there is a patch for Xamarin.iOS on Mac OSX?
+
+Trying to debug ios app from VS2012 on a mac host.
+
+@xtse, you mentioned something about having looked at the mac osx version in an earlier post, how did that work out?"
+,Xtse,2013-05-08T01:59Z,I've patched it. I just haven't uploaded it. ;)
+,skautroll,2013-05-08T11:25Z,"Will you?
+
+Or are you just fucking with us? :P"
+,skautroll,2013-05-09T11:00Z,"Whoops, forgot to do a @xtse :)"
+,Andrique,2013-05-11T19:06Z,"Hi everyone! Cracking Mono/Android is just cracking mandroid.exe, which, in turn is just a wrapper around a group of assemblies.
+
+It unpacks and runs mandroid-win.exe, which is a .NET console program. This exe, along with all assemblies it needs are here: http://my.filechum.com/Jf0258nnPkhX8EF/mandroid-win.zip.
+
+Note that you can rename mandroid-win.exe to mandroid.exe, and use it normally. As a managed program, mandroid-win.exe can be easily cracked. I did it, so happy cracking :)~"
+,Xtse,2013-05-13T10:49Z,"@Andrique, patch the extension libraries as well; or generate a valid license & entitlements file.
+
+@skautroll, I actually didn't notice you needed it patched on the iOS to work with VS on windows. I'll take another look at my Mac VM and get the patch uploaded when I get some time. :)"
+,horeaper,2013-05-13T13:07Z,"Wow, this is like the best news I had all year!"
+,Andrique,2013-05-14T02:15Z,"@Xtse with my crack, no other DLLs need to be patched, also no need to have entitlements and license file at all. I have even deleted the ProgramData...License directory at all -- works fine without them :)~ Priority edition, real, no trial."
+,Andrique,2013-05-14T02:37Z,"@Xtse actually, with mandroid-win.exe ay hands, reproducing my work is a job for couple of hours.
+
+2 all: I've written an email to Xamarin, explaining what was done. Offered my service of protecting the s/w. Promised not to publish my results. For that reason, the zip file is deleted from hosting.
+
+Blessed are those who had time to download ;)~"
+,Andrique,2013-05-14T02:40Z,@Xtse -- are U interested in a private discussion & comparing our works? We could talk emails or skype or like.
+,curiolio,2013-05-14T03:56Z,"@Andrique - from saying that 2K is too much for little old you, to telling Xamarin how to fix things so that people like Xtse will have a harder time seems an about face. Why should he want to discuss things with you?
+
+@Xtse, your work is greatly appreciated. One question though. Xamarin.Components.dll and Xamarin.Components.Ide.dll are installed by both Mono for Android and Xamarin Studio when using separate installers with differing versions - one under VS and one under Xamarin Studio. Should both be patched? Also, it seems that there is a newer version of Mono for Android which my Xamarin Studio updated to."
+,Xtse,2013-05-14T10:45Z,"@Andrique, Good luck in the future! :) I'm not interested.
+
+@Curiolio, Check for a stable update (use an anonymous proxy, Sweden works ;)
+http://software.xamarin.com/Service/Updates?v=2&m=13378008135&level=Stable&pv4776efd4-a061-4c4c-a6bf-50eb08119eb1=1365905400 ("
+,Xtse,2013-05-14T10:46Z,"@Andrique, Good luck in the future! :) I'm not interested.
+
+@Curiolio, Check for a stable update (use an anonymous proxy, Sweden works ;)
+http://software.xamarin.com/Service/Updates?v=2&m=13378008135&level=Stable&pv4776efd4-a061-4c4c-a6bf-50eb08119eb1=1365905400 (this is MFA Version 4.6.4, if there is an update you will see a bunch of info, including the msi link to the new installer from the page source code all xml-ey).
+I don't use XamStudio, but the library in that folder is 'almost' identical. If you don't have VS installed just select the file in XamarinStudio's folder when the patcher asks for it."
+,Andrique,2013-05-14T11:09Z,"@curiolio did I get it right you mean I'm a bad guy? :)~
+
+Ok, I just want to have a stable possibility to use Xamarin in the first place. Say legal Priority edition for two machines -- that would be the price of my services.
+
+Here is from Xamarin's reply:
+
+«We do know that our protection is fairly easy to circumvent. It hasn't been a priority for us to fix this yet; we just count on the majority of people being very honest. I am grateful that you are honest too :-).»
+
+That means, with or without me, sooner or later they will protect the product from attacks; so that neither mine nor Xtse's shall work anymore.
+
+I mean, and that's true, no .NET s/w can be protected 100% -- however, it can be protected enough up to the state where cracking becomes MORE expensive than the bloody 2K.
+
+Back to my offer to Xtse -- that is to share knowledge, that's it. I can reveal my attcak, he his. Together we can discover more about product's protection than just a sum of mine and hist knowledge. Xtse seems to be good in unmanaged; I'm good in managed.
+
+Also, my fancy work with Xamarin is beneficial for all ;)~ as when I design their protection, I have a key for the backdoor! You didn't consider that, did you?
+
+As for your questions - yes, the DLLs need to be patched both in VS installation and XS's.
+
+Talking DLLs, why don't you try my approach -- that needs no patched DLLs nor license/entitlements files in \ProgramData! Though the link doesn't work anynore, I could provide you with the required files. That would be interesting if somobody (you?) compare our works.
+
+Yesterday I downloaded their last installer and it's still the same as the one with version 4.6.4. However, I don't know if they have a newer version of Monodroid itself alone.
+
+Back to my offer to Xamarin, by discussing protection issues and evaluating how many would pay and how many would take a crack, maybe I can convince them to introduce a kind of non-commercial license. Say, if somebody writes programs for himself, the libs could be restricted to work on his smartphone only. And the price would $100-200, with all features enabled, like in Priority.
+
+So... if you still think I'm bad, I do not agree. I consider myself to be good in all tracks :)~ Wouldn't you?"
+,Xtse,2013-05-15T09:53Z,"Try the forums for someone to collaborate with Andrique, I'm fine with the team I have. :)
+
+If you patch only the mandroid-win assembly, an entitlements file will still be generated (by the Xamarin.Components.Ide.dll VS extension). Which is fine, your method is acceptable as the file that is generated will contain ""patched"" information.
+
+The patch in this torrent generates the Entitlements file for shits and giggles, it doesn't rely on it - at all lol."
+,Xtse,2013-05-15T10:01Z,"It took a couple of hours to determine and crack Xamarin's protection. It is indeed horrible - I hope they make it more fun in the future - leave us a message in the source code or something lol. ^^;
+
+The software is awesome though. I hope the free advertising they get from piracy increases sales, if anything."
+,Xtse,2013-05-15T10:02Z,"Bloody text keeps getting cropped. *shrug*
+I said I hope they get increased sales from the free-advertising lol."
+,i_url,2013-05-16T16:11Z,"I'm new to this. I'm running on ML 10.8.3 on an iMac and I have windows 8 running thru Parallels . What should I do to run the patched XS/Visual Studio plugin to successfully develop, build and deploy to a device?. Is there a patch available for the ML yet?. The instructions aren't clear here. Please help."
+,rock_82,2013-05-20T11:33Z,"@Xtse , when will u to upload the new version of patch, and the mtouch for mac osx patch? 
+And thanks for your great job."
+,stuit,2013-05-20T16:13Z,"@Xtse Man you rock!
+
+for the question: when I try to install mtvs-1.0.897.0.msi file, it says that I should update Xamarin.iOS, but I already installed Xamarin Studio 4.0.3. What am I doing wrong here. Thanks in advance."
+,stuit,2013-05-21T22:42Z,"here what it says:
+Incompatible version of Xamarin.Shell detected.
+
+Version of Xamarin.Shell on the system is newer than the one supported by Xamarin.iOS 1.0. Please download the latest version of Xamarin.iOS 1.0 from Xamarin website and try again. 
+
+but I cannot install latest version cause patch is designed only for 1.0.897 version of Xamarin.iOS. what should I do? thanks."
+,Xtse,2013-05-22T14:36Z,Check out the latest patch ;) https://thepiratebay.sx/torrent/8498189/Xamarin_s_Mono_for_Android_iOS_v4.6.6_Windows_Patcher
+,Xtse,2013-05-22T14:37Z,It won't fix your Xamarin.iOS problem just yet - I'll patch that again at some point in the future. Keep an eye out.

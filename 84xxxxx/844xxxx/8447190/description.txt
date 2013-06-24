@@ -1,0 +1,37 @@
+Optimal Learning (Wiley Series in Probability and Statistics) 
+by Warren B. Powell and Ilya O. Ryzhov
+Wiley | April 2012 | ISBN-10: 0470596694 | PDF | 404 pages | 20.9 mb 
+http://www.amazon.com/Optimal-Learning-Series-Probability-Statistics/dp/0470596694
+
+Learn the science of collecting information to make effective decisions
+
+Everyday decisions are made without the benefit of accurate information. Optimal Learning develops the needed principles for gathering information to make decisions, especially when collecting information is time-consuming and expensive. Designed for readers with an elementary background in probability and statistics, the book presents effective and practical policies illustrated in a wide range of applications, from energy, homeland security, and transportation to engineering, health, and business.
+This book covers the fundamental dimensions of a learning problem and presents a simple method for testing and comparing policies for learning. Special attention is given to the knowledge gradient policy and its use with a wide range of belief models, including lookup table and parametric and for online and offline problems. Three sections develop ideas with increasing levels of sophistication:
+
+-    Fundamentals explores fundamental topics, including adaptive learning, ranking and selection, the knowledge gradient, and bandit problems
+-    Extensions and Applications features coverage of linear belief models, subset selection models, scalar function optimization, optimal bidding, and stopping problems
+-    Advanced Topics explores complex methods including simulation optimization, active learning in mathematical programming, and optimal continuous measurements
+
+Each chapter identifies a specific learning problem, presents the related, practical algorithms for implementation, and concludes with numerous exercises. A related website features additional applications and downloadable software, including MATLAB and the Optimal Learning Calculator, a spreadsheet-based package that provides an introduc┬¡tion to learning and a variety of policies for learning.
+
+CONTENTS
+Preface xv
+Acknowledgments xix
+1 The Challenges of Learning 1
+2 Adaptive Learning 31
+3 The Economics of Information 61
+4 Ranking and Selection 71
+5 The Knowledge Gradient 89
+6 Bandit Problems 139
+7 Elements of a Learning Problem 163
+8 Linear Belief Models 181
+9 Subset Selection Problems 203
+10 Optimizing a Scalar Function  219
+11 Optimal Bidding 231
+12 Stopping Problems 255
+13 Active Learning in Statistics 269
+14 Simulation Optimization 285
+15 Learning in Mathematical Programming 301
+16 Optimizing Over Continuous Measurements 325
+17 Learning With a Physical State 345
+Index 381

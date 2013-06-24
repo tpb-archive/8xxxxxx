@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,puchana,2013-05-07T14:46Z,"I upload this version now because they banned me when i uploaded the smaller .rar.  
+
+Its the same game, only that in this case is bigger.
+
+You DON´T install it. It simply creates the game directory where you can find the executable. No crack nor anything neede.
+
+Enjoy it!"
+,moeburn1,2013-05-07T22:01Z,"""This lady always gets what he wants"" - sexaaaaay...."
+,zanak,2013-05-08T04:22Z,"LAN is indeed not crashing but someone manages do play this game using only hamachi? (not tungle and/or greenluma)
+
+Hamachi is configured and working fine in all games here, even problematic ones like borderlands 2 (with dlcs) and civilization 5
+
+Hamachi is already the ""top priority adapter"", above my ""local connection"". Gateway, cost and metric are fine but zero communication between computers in LAN. When we press f2 we can see some packets ""sent"" but packets ""received"" are always zero (firewall disabled btw)
+
+PS: we can edit ""Options.xml"" (in ""SAVEDATA"")
+
+Anonymous
+
+to change our name"
+,nildur,2013-05-09T00:02Z,"I get error message when trying lunch monaco.exe
+
+Something about missing xinput1_3.dll
+
+Thank you for help"
+,nildur,2013-05-09T00:06Z,"Haha funny I want play this game.
+
+After manually downloading that dll next error
+
+Can't lunch program because didin't find X3DAudio1_7.dll
+
+...."
+,nildur,2013-05-09T00:32Z,"I did download all .dll missing files, game lunched, but I don't have sound..."
+,zanak,2013-05-09T04:39Z,"If someone is having problems with missing dll´s, sound etc maybe these files can help:
+
+dotNetFx40_Full_setup.exe
+dxwebsetup.exe
+vcredist_x86.exe
+xnafx40_redist.msi
+
+PS: Download from www dot microsoft dot com "
+,nildur,2013-05-09T10:02Z,"zanak 
+
+I did downloaded first torrent with Monaco and there is folder ""Redist""
+
+and there is every file what you saying. 
+
+I already have installed everything before, only xnafx40_redist.msi this not. I did installed, reboot system, NO SOUND still. "
+,nildur,2013-05-09T11:48Z,"Ok let try install everything what you suggesting 
+
+First file dotNetFx40_Full_setup
+it is Microsoft .NET framework 4 already I have installed higher version, Can't start installation.
+
+Second file is dxwebsetup
+this is DirectX 
+I have Windows 8 with DirectX 11 already there. But whatever I'm installing! I even don't know what version it is. Now I know it is number 9. From 11 to 9 cool. Nah I wrote in start dxdiag after installation there is still 11.
+
+Ok I have sound! :D
+
+But I don't know, I must past first level to my changes in options saved? We will see, anyway thx"
+,isilox,2013-05-10T10:45Z,"puchana they don't like rars because they can be used for scamming, I guess"
+,puchana,2013-05-10T20:37Z,"Yup, i think thats why.. That sucks because the rar version was 245Mb only.. 66% of this size.."
+,Capnmaf,2013-05-14T04:55Z,Anyone been able to get this game working for LAN using Hamachi or something like zanak stated? Tried with a friend and we couldn't see each other's games.
+,starvinmarvin,2013-05-15T18:40Z,anybody manage to get it work in local lan mode? we dont see each others games no matter what we do.
+,andynm,2013-05-21T23:52Z,"To make the LAN work:
+get steam and greenluma, open greenluma and join you and your friends a group on ""Community"" (you can create one yourself). 
+with greenluma and hamachi it should work (mine does, we played a lot, great game! :) )"

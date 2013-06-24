@@ -1,0 +1,101 @@
+Description: 
+
+ 1-Tap to clean all cache, search histories and calls log. A default cleaner is also included.
+
+ Are you running out of application storage?
+ You now can get more available storage space by clearing apps created cache/data files.
+
+ *** Over 3,000,000 Downloads! ***
+
+ ★ Cache Cleaner
+ ★ History Cleaner
+ ★ Call/Text log Cleaner
+ ★ Default Cleaner
+
+ There are four cleaners included in this app. Cache Cleaner, History Cleaner and Call/Text log Cleaner help you to get more free space for the internal phone storage by clearing apps cached files, data files, or search/navigation history records. If you have selected to launch apps by default for some actions. Default Cleaner helps you to clear the default settings.
+
+
+ Auto or 1-tap to clear all cache, search history, calls log and the best is you don't have to ROOT the phone anymore! This app is crucial to anyone who has memory management issues.
+
+ ★ 1-tap to clear all cached files
+ ★ 1-tap to clear all search and browser navigation history records
+ ★ 1 tap to clear calls log (incoming, outgoing, missed, frequently contacted)
+ ★ list all default apps and clear selected defaults
+ ★ home screen widget shows cache and available size
+ ★ auto clear all cache and history at a specified interval
+ ★ auto clear cache when the device is low on internal storage space
+ ★ clear cache or history for a specified application
+ ★ notify if apps used cache size large than you specified value
+ ★ list applications by either cache, data, code, total size or app name
+ ★ view application on Market
+ ★ uninstall application
+ ★ open application
+ ★ show application details page
+
+ Required permissions:
+ * READ_CONTACTS, WRITE_CONTACTS: show and clear calls log
+ * READ_HISTORY_BOOKMARKS, WRITE_HISTORY_BOOKMARKS: show and clear browser navigation history records
+ * INTERNET: for sending the crash report
+
+ Same functionalities as "1Tap Cleaner Free" app, but Ad removed and more auto clear interval options added.
+
+ For user's manual, FAQ, please tap MENU > Settings > About for details.
+
+ Reviews:
+ ★(Video)
+
+ *** Note for Android 4 (ICS) users ***
+ * Cache cleaner will not work for Android 4.0.1/4.0.2 due to the the Android system bug. Google fixed this problem in 4.0.3
+ * Android 4.0.x does not enable 3rd apps to clear frequently called log. Google fixed this problem in Android 4.1
+ ***
+
+ Re-publish a new version, requested by Google. For aCCleaner Pro users, please purchase "1Tap Cache Cleaner Pro" and email your aCCleaner Pro order number to us for getting the refund. We're sorry for any inconvenience this might cause.
+
+ You have to install this app on the phone storage if you want to use the widget function. It's required by Android.
+
+ We have been selected as a Google I/O 2011 Developer Sandbox partner, for its innovative design and advanced technology.
+
+ Credits:
+ Czech - Michal Fiurášek
+ Danish - Christian Stangegaard Kappelgaard
+ French - Philippe LEROY
+ German - Michael Vollmer
+ Japanese - nnnn
+ Hebrew - אלישיב סבח‎
+Hungarian - RootRulez
+ Italian - Luca Snoriguzzi
+ Korean - 장승훈
+Polish - Grzegorz Jabłoński
+ Romanian - Stelian Balinca
+ Russian - Идрис a.k.a. Мансур (IDris a.k.a. MANsur), Ghost-Unit
+ Serbian - Dusan Trojanovic
+ Slovak - Patrik Žec
+ Spanish - Alfredo Ramos (Abaddon Ormuz)
+ Swedish - Hampus Westin
+ Turkish - Kutay KuFTi
+
+ Let me know if you are interested in translating this app to your native language. Thanks.
+
+ What's New: 
+
+ v2.11
+ ★ also list non-launchable apps
+ ★ fixed: show wrong cache size
+ ★ fixed: hang up problem when clearing all
+ ★ fixed crash errors on some devices
+ ★ bugs fixed
+ v2.10
+ ★ new "Cache checker" function that periodically checks the cache size and notifies you when cache size greater than you specified value
+ ★ added "Clear all" menu item to side menu
+ ★ fixed battery drain issue, also removed WAKE_LOCK permission
+ ★ use Light gray as default theme
+ ★ require Internet permission for sending crash report
+ 
+
+
+ @@@@@
+
+Install notes:
+ 1/ copy the .apk to your android phone
+ 2/ open it & install
+ 3/ Done

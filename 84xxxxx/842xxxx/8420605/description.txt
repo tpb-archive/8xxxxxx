@@ -1,0 +1,33 @@
+This version has the ability to update your game through CSS-Updater.exe-it in the root folder, please use it when the servers upgrade to a newer version.
+
+To change your name press ` and write in the console setname "name" without " "
+
+If you have problem changing your name please check this :
+ 
+http://csmega-bg.com/forum/viewtopic.php?f=24&t=1855&p=19697#p19697
+
+
+Counter-Strike: Source Update Released
+Product Update - Valve
+An update to Counter-Strike: Source has been released. The update will be applied automatically when you restart Counter-Strike: Source. The major changes include:
+
+    Disabled Java for the in-game web browser
+    Added a new ConVar sb_filter_incompatible_versions. This will default to true and hide servers on the Internet tab that are running incompatible versions.
+    Fixed a client crash related to the audio system
+    Fixed a client crash related to rendering models
+    Fixed a client crash related to audio in the web browser
+    Fixed servers crashing with the error message "Overflow error writing string table baseline"
+    Fixed a missing material when setting mat_viewportscale to anything other than 1
+    Fixed a missing material when changing the value of mat_color_projection
+    Fixed a material system client crash for the Linux version
+    Fixed windowed mode under certain window managers for the Linux version
+    Updated controller support for the Linux version
+    Improved performance for the Linux version
+
+
+Protocol version 24
+Exe version 1718178 (cstrike)
+Exe build: 17:24:29 Mar 25 2013 (5252) (240)
+
+
+Enjoy :)

@@ -1,0 +1,90 @@
+Tomb Raider ME PAL XBOX360 ARABIC zZzCRIMNIAL
+
+Platform: Xbox360
+Release date: 5th March 13
+Region: PAL
+Language: English Arabic
+
+Abgx360 Result:
+
+
+-------------------------------------------------------------------------------
+\//\//\//\// _ |_ _  / /_ _ _ \//\//\//\//\//\//\//\//\//\
+//\//\//\//\ (_||_)(_|/ / _||_ | | //\//\//\//\//\//\//\//\//\//
+------------------------_|------_||_||_|--v1.0.6-------[http://abgx360.net]----
+
+Checking for updates to abgx360.dat...
+Server file abgx360.dat no newer than local file - not retrieving
+
+I:Tomb.Raider.XBOX360-P2PTomb.Raider.ME.PAL.XBOX360.ARB-zZzCRIMINALTomb.Raider.ME.PAL.XBOX360.ARB-zZzCRIMINAL.dvd is valid
+
+Checking Game
+ISO: "I:Tomb.Raider.XBOX360-P2PTomb.Raider.ME.PAL.XBOX360.ARB-zZzCRIMINALTomb.Raider.ME.PAL.XBOX360.ARB-zZzCRIMINAL.iso"
+Size: 7838695424 bytes
+Files in ISO: 37, Folders in ISO: 2
+Total bytes used: 7001535171 (95.93%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: IntermediateTRAS.exe
+Original PE Timestamp: 2013/01/30 01:51:35
+Min Kernel Required: v2.0.15574.0
+Game Name: Tomb Raider
+No Avatar Awards
+Achievements: 50 Achievements totaling 1000 Gamerscore
+XEX CRC = A6F8F863
+XEX Media ID: 4C2C4CED04C732CFA0948E13-581E5C96
+
+Region Code: 0x00FF0000
+PAL
+
+Checking SS
+Timestamp of Authoring: 2013/02/01 00:00:00
+Timestamp of Mastering: 2013/02/07 14:38:07
+SS Version: 2 (trusted)
+SS CRC = 9E6BA62B (RawSS = 1570069A)
+SS Media ID: 4C2C4CED04C732CFA0948E13-581E5C96 (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2013/02/01 00:00:00 (matches SS)
+DMI CRC = 1BD8486C
+DMI Media ID: 4C2C4CED04C732CFA0948E13-581E5C96 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = AB25DB47
+PFI matches known data (16th Wave)
+
+Video partition found
+-------------------------------------------------------------------------------
+L0 Video padding contains data but this is normal for XGD2 (The old way of
+putting L1 video on L0). Add command line option --pL0 if you want to blank it
+out (the data hasn't actually been checked that it matches L1 video... it could
+be anything). Note that XGD2 ISOs without L1 video on L0 will appear to have
+bad video data when checked with older versions of abgx360. This version of
+abgx360 doesn't care about L1 video on L0... it will pad L0 video with zeroes
+whenever video is autofixed or manually patched. You can rest assured that only
+old and unsafe custom firmwares will read L1 video from L0; newer ones will
+read it properly from L1. If you're tired of seeing this message then just
+disable "Check/Fix Video padding", as it still makes no difference in terms
+of stealth... this option only exists as a way to make sure ISOs are "clean",
+with no extra data in areas that aren't CRC checked.
+-------------------------------------------------------------------------------
+L1 Video is zero padded
+Video CRC = 58FA256C (V0 = 78AF3C86, V1 = 3D1DF9C4)
+Video partition matches known data (16th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for 9E6BA62BA6F8F863.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+Looking for Xex_A6F8F863.ini in the online verified database
+There is no verified rip of Xex CRC A6F8F863 in the online database
+Failed to find a verified ini file for this Xex
+AutoFix Failed, Stealth is still unverified

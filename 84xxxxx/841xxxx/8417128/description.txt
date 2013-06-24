@@ -1,0 +1,42 @@
+Notable New Features
+
+- Performance mode - Trigger Playlist Clips live using a mouse, touch screen, typing keyboard or MIDI controller. Supports APC20/40, Launchpad, Lemur, Block, Maschine/Mikro, padKONTROL, Traktor Kontrol (and more).
+- Multi-touch support - FL Studio and some plugins now respond to Multi-touch with Microsoft gesture functions supported.
+- Playlist - 199 Playlist tracks, increased from 99.
+- Linking includes MIDI input port - Links now remember the MIDI input port used to avoid conflict between controllers.
+- Playlist & Piano roll - Horizontal & vertical movement locking. Shift is horizontal lock & Ctrl is vertical lock when dragging items.
+- Piano roll - Glue notes, Mouse wheel velocity, Monophonic step entry mode & Chop chords tool.
+- Right-click data entry - Most controls now allow a Right-click option to type in values.
+- Plugin Picker - Right-click to open a plugin and its presets in the Browser. Start typing plugin names to highlight entries.
+- Mixer - Page Up/Down keyboard keys cycle through the current mixer track's plugin windows.
+- Options - Play truncated notes in clips restores notes overlapping slice points in Pattern Clips. Click and hold functions. GUI animation level now selectable from sober to entertaining.
+
+New Plugins
+
+- BassDrum - Deep Kick-Bass percussion synthesizer with sample layering. BassDrum was developed due to strong and loud customer demand for punchy kicks with a big bottom end. Our solution was to take a hybrid synthesis/sample route to provide unlimited customization for the perfect kick sound.
+- GMS (Groove Machine Synth) - Multi-timbral hybrid synthesizer & FX channel lifted from Groove Machine. Another plugin by popular demand.
+- Effector - 12 performance oriented effects: Distortion, Lo-Fi bit reduction, Flanging, Phasing, Filter (low/high pass), Delay, Reverb, Stereo panning & binaural effect, Gating, Granulizer, Vocal formant and Ring modulation effects. Effector was introduced to compliment Performance Mode and is perfect for use with multi-touch displays & controllers.
+- Patcher - Introduced with FL Studio 10 to provide a means of saving and recalling commonly used effects and plugin chains. Itâ™s in the new section as, aside from being overhauled with animated connections and a fresh interface, patcher has gained two, of many more to come, Voice Effects (VFX).
+- VFX Key Mapper - Allows note inputs, live or from the Piano roll, to be transposed, keychanged, chorded or creatively remapped.
+- VFX Color Mapper - Leverages FL Studioâ™s 16 Piano roll note colors that have traditionally mapped to MIDI channels. Now inside Patcher note colors can control 16 independent generators/instruments or groups of generators
+
+Updated Plugins
+
+- FL Flowstone - Flowstone is the successor to the original Synthmaker program. Now including the Ruby high level programming language. Not only can you still create Synths, Effects but also control external hardware with support for USB devices, I/O cards, Wi-Fi, webcams and audio hardware. Itâ™s true… connected to the right robot, FL Studio is the first DAW in the world that can now make you a coffee!
+- Newtone 2 - Has been completely re-written with a new analysis and pitch engine for more accuracy, while also brushing up the workflow. Shortcuts & mouse actions now harmonize with FL Studioâ™s Piano roll and Playlist, where possible. Most exciting are the new Vibrato and Warp editors. The Vibrato editor allows users to create vibrato effects from scratch with controls including start/end amount and frequency. The editor even detects existing vibrato and displays this value so users can match the singers natural tendency, if desired. The Warp editor is designed to work with mono or polyphonic material and is perfect for slicing and re-timing/quantizing drum-loops, vocal performances and is great for sounddesign experimentation. Importantly, Newtone 2 is a free update for existing customers.
+- Harmor - Rising star of the Electro and Dubstep scene, voted in the top 10 plugins of 2013 by MusicRadar readers, now supports Komplexer WT wavetables & 'Map audio regions to keys' for sampler like functionality and auto-dump to score for Slicex like drum handling. The preset count continues to rise too as patches keep flooding in from the thriving user base.
+- ZGameEditor Visualizer - Based on the free open source ZGameEditor that can be used to create 2D & 3D video game style visualization objects for the plugin. ZGE Visualizer can create real-time or rendered HD video effects in automated or automatic sync with FL Studio projects to support live performances or YouTube videos. Under FL Studio 11 the plugin receives a slew of new shadier modules for stunning HD video effects.
+- DirectWave - Added multi-timbral mode to the FL native version so you can load and play more than one patch from note colors in the Piano roll. Thereâ™s also a new live 16 point sincinterpolation mode for lower CPU usage when using DirectWave in multi-timbral mode.
+
+FL Studio system requirements:
+
+* 2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) compatible CPU with full SSE2 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo!
+* 32 or 64 Bit versions of Windows 8, Windows 7, Vista, XP (with service pack 3)
+* (or) Intel Mac with Boot Camp / Windows. Running XP (with service pack 3), Vista or Windows 7 (in 32 or 64 Bit)
+* 1 Gb or more RAM recommended
+* 1 Gb free disk space
+* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers)
+
+Language : English
+
+Homepage : 

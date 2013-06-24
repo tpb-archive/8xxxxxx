@@ -1,0 +1,29 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies! 
+
+Gnomoria v0.8.36
+
+General
+
+-Professions can have a Uniform assigned to them.  If a Gnome is in a Squad, the Squad uniform is used instead
+-A Uniform can be assigned as the Default Uniform for all Professions from the Population Overview menu.  Professions can be assigned to use the Default, No Uniform or a specific Uniform
+-Removed Militia Perk. All Squad members will perform jobs when not on duty
+-Armor decreases the rate at which jobs complete.  Metal slows down more than leather
+-Gnomes not in a Squad will prioritize retreating to stop bleeding over staying and fighting
+-Gnomes not in a Squad will always attempt to run from enemies.  Previously they would fight unarmed goblins or    potentially unarmored goblins with 1 weapon
+-Added import and export options for Military settings
+-Moved Professions import/export buttons to the Pause menu
+-Windows will keep their size and position during a game session
+
+Fixed
+
+-Professions with a space in the name not importing correctly
+-Sometimes not importing the last Profession
+-Market Stall UI not correctly scrolling with the mouse wheel
+-Fix crash when resizing Market Stall UI while a merchant is not present
+-Gnomes sometimes falling asleep when digging down
+-Mant spawns effectively being 1 tier above where they should have been, ie spawning as if you had iron when you had bronze
+
+
+XNA Framework.NET Framework are included in the _CommonRedist Folder. (Install these first.)
+
+You can help the developer and buy the game on steam here: http://store.steampowered.com/app/224500/

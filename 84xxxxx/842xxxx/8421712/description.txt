@@ -1,0 +1,9 @@
+PsyMP3 is an open-source audio media player for Windows and Unix. Sporting a spartan, keyboard-driven interface, it aims to be a fast and thin player in the face of elephantine monstrosities such as iTunes and Windows Media Player.
+
+This is a alpha-quality preview build. It may have issues.
+
+Please see the website for more information: http://code.google.com/p/psymp3
+
+[Note: Even though I am the developer, I won't read any comments you leave below. If there are any issues, email me - segin2005@gmail.com]
+
+This is the 32-bit build. If you are running a 64-bit version of Windows, I highly recommend using the 64-bit version - it uses roughly half the CPU.

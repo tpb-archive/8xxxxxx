@@ -1,0 +1,90 @@
+2012-2013 Patch (v1.3.8) for FIFA 11
+
+Contains (v1.3.5 - v1.3.8):
+[squads] (date: 19/04)
+- V1: online compatible (default)
+- V2: offline:
+* all new heads enabled
+* stadiums links updated: for the 3 new stadiums
+
+[v1.3.5]
+- heads:
+* Updated faces
+* improved haircolours
+* New hairmodels: s. ramos, aguero, lavezzi, robben, ...
+- 19+ new balls: official league balls, ...
+- kits improvements: Ekstraklasa teams, ...
+- sideline people:
+* New generic peoples (part 2)
+* New ballboy
+* New cameraman
+* improved policeman (+ new type police for BC Place Stadium)
+- extra geneneric addboard
+- 4 new banners: for extra teams
+- fix: cutscenes
+
+[v1.3.7]
+- new teams
+* Slavia Praha, Ferencvaros TC, FC Videoton, APOEL Nicosia, AEL Limassol, Universidad Católica
+*national teams : China PR, Saudi Arabia, Uzbekistan, United Arab Emirates, Qatar, Bahrain, Oman, Lebanon, Armenia, Azerbaijan, Moldova, Costa Rica, Macedonia, Canada, Trinidad & Tobago, Faroe Islands, Georgia, Guatemala, Irak, Indonesia, Thailand, Korea DPR (North), Malta
+- 12 new shoes:
+* personal shoe: beckham (adidas Predator LZ - Infrared/White/Black) 
+- Updated shoes for 1510+ players
+- New winter-gloves: black nike
+- improved pitch (turfs):
+* New colours
+* improved patterns
+- new/improved faces
+- updated stadium settings:
+* goalnet-colours: bayern, b dortmund, hamburg
+* New field: BC Place Stadium (yard lines (A. football))
+* police types
+* weather (rain & snow) added: Etihad Stadium, Sheldon Stadium
+* adboard endline-distance changed: Amsterdam ArenA
+- fix: cutscenes
+- improvement: accesoire "knee tutor"
+- CL final - bayern & b dortmund:
+*new faces (Pizarro, Weidenfeller, Piszczek, ...)
+*new home kits (CL version)
+
+[v1.3.8]
+- rebuild database (for max peformance)
+- fix: lag problems due of graphic editor (now disabled by default)
+- New kits:
+* Inter Milan (Kits including 105 years patch and Zanetti armband)
+* Latvia: kit improvements (+ New gk)
+
+- Extra Options included: 
+* Disable: New pitches (turfs)
+* Disable: New pitches (turfs) & New faces
+* Enable: Graphic Editor
+
+
+- list avaible balls
+- list extra teams
+- garanteed compatibility with online mode: no missing textures, ... for other players
+
+
+Install to 2012-13 patch for FIFA 11 V1.3.3  first!
+(v1.3.5 & v1.3.7 included in this patch)
+
+Supported languages: english, Czech, dutch, french, german, hungary, italian, spanish (2X), portuguese, polish, russian
+
+Installation:
+1. extract the data from the archive
+2. copy to FIFA 11 folder (...FIFA 11game )
+3. Start FIFA 11
+4. Create new profile (old squads-savegame dont work anymore)
+5. ENJOY!
+
+
+notes:
+- You need to have FIFA 11 patch 1.01 (from ea) installed
+- your old savegames dont work with the new squads
+- Some new players that are being added may have small problems with their name when you play online
+- career works, only small problems sometimes with transfer (season 2)
+- OFFLINE version: copy "data"-folder in "OFFLINE gameplay"-archive to FIFA 11 folder (...FIFA 11game )
+- Options instalation: copy the files of the option you want to "...FIFA 11game " (wont work if you use regenerator)
+
+
+pls leave your comments if there are any problems

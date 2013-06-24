@@ -1,0 +1,42 @@
+Safe
+
+Whether you need to do two-dimensional finite element computations in plane stress, plane strain, or axial symmetry, Safe takes care of it. The smart geotechnical finite element analysis software identifies pore pressures and effective stresses separately and includes gravitational loads and initial stresses.
+
+Safe Benefits
+
+Fully coupled consolidation included as a standard
+Advanced post processing for plotting, visual results inspection and report outputs
+Extensive range of material models ΓÇô including jointed rock, reinforced soil, BRICK material model, elastic ΓÇô mohr coulomb and many others
+
+Features:
+
+Analysis of plane stress, plane strain or axially symmetric problems. General loading of linear elastic axisymmetric structures can be carried out using a Fourier series technique.
+Linear or non-linear behaviour
+Gravity loading
+Pore pressures and effective stresses are identified separately, allowing computation for drained or undrained conditions, and time dependent consolidation
+Incremental loading and changes of material properties, permitting the formation of excavations, embankments etc.
+Intermediate results can be stored and inspected before the problem is continued further.
+Pressure (distributed) and line loading
+Fixed or spring restraints
+8 noded quadrilateral elements. These can be curvilinear
+Consolidation problems
+Wells
+Seepage and flow
+Extensive graphical input options and in-built mesh generation facility
+Wide range of graphical output and printing facilities
+
+Supported OS:
+
+Windows All
+
+Homepage: http://www.oasys-software.com/
+
+Installation Instructions:
+
+- Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

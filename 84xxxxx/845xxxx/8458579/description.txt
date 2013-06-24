@@ -1,0 +1,44 @@
+1-Tap to clean all cache, search histories and calls log. A default cleaner is also included.
+Are you running out of application storage?
+You now can get more available storage space by clearing apps created cache/data files.
+
+    Cache Cleaner
+    History Cleaner
+    Call/Text log Cleaner
+    Default Cleaner
+
+There are four cleaners included in this app. Cache Cleaner, History Cleaner and Call/Text log Cleaner help you to get more free space for the internal phone storage by clearing apps cached files, data files, or search/navigation history records. If you have selected to launch apps by default for some actions. Default Cleaner helps you to clear the default settings.
+
+Auto or 1-tap to clear all cache, search history, calls log and the best is you don't have to ROOT the phone anymore! This app is crucial to anyone who has memory management issues.
+
+Features:
+
+    1-tap to clear all cached files
+    1-tap to clear all search and browser navigation history records
+    1 tap to clear calls log (incoming, outgoing, missed, frequently contacted)
+    list all default apps and clear selected defaults
+    home screen widget shows cache and available size
+    auto clear all cache and history at a specified interval
+    auto clear cache when the device is low on internal storage space
+    clear cache or history for a specified application
+    notify you on startup if more than 500K bytes cache used
+    list applications by either cache, data, code, total size or app name
+    view application on Market
+    uninstall application
+    open application
+    show application details page
+
+What's in this version : (Updated : May 9, 2013)
+
+    new "Cache checker" function that periodically checks the cache size and notifies you when cache size greater than you specified value
+    added "Clear all" menu item to side menu
+    fixed battery drain issue, also removed WAKE_LOCK permission
+    changed to use "Light gray" as default theme
+    require Internet permission for sending crash report
+    bugs fixed
+
+Required Android O/S : 2.1+
+
+*************************************************************
+
+Just install!

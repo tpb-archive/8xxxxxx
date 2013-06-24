@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+[T],vonRicht,2013-05-17T06:38Z,"Correction:
+
+AUDiO 1.........:  English TrueHD"
+,DWeX4,2013-05-19T06:04Z,"TrueHD ""not supported"" by either media center device or BD player.  Zero audio via my preferred playback method.  Nice picture though :|"
+[T],vonRicht,2013-05-19T23:59Z,"Hmm that's strange. When I bitstream my audio to my reciever I get pure TrueHD.
+
+When I check my file with MediaInfo everything is as it should be with TrueHD audio.
+
+So I don't know about your setup? "
+[T],vonRicht,2013-05-20T00:06Z,"If you try playing the file through VLC you should get audio. But I'm not sure if you will get pure TrueHD audio out of your speakers playing the file that way.
+
+Myself I go this way when I bitstream my audio from PC to my Denon AVR-2310 surround receiver:
+
+http://www.mediasmartserver.net/2010/02/02/guide-setting-up-bitstreaming-with-your-windows-7-htpc-part-i/"
+[T],vonRicht,2013-05-20T00:07Z,Ohh and btw I use MPC HC with my bitstreaming to receiver.
+[T],vonRicht,2013-05-20T00:10Z,test
+[T],vonRicht,2013-05-20T23:05Z,"Hey, just made a test with Powerdvd12.
+
+When Bitstreaming is set to Yes in Powerdvd12's  audio menu I get pure TrueHD audio from my PC to my receiver and in to my speakers. The same goes with some of my mkv rips with DTS-HD MA audio - it works perfectly!"
+,ljusahits,2013-06-03T10:04Z,I dont have sound with Splash Pro EX. With KM Player I have sound. WTF?!

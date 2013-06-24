@@ -1,0 +1,80 @@
+.REVOLT
+
+T H E  D A R K N i G H T  T E M P L A R S
+
+M A I N  I N F O R M A T I O N
+ZENO CLASH * UPDATE 1 *
+CRACKER: TEAM REVOLT
+RELEASE DATE: 03/05/2013
+PACKER: TEAM REVOLT
+DISKS: 17x100MB
+SUPPLiER: TEAM REVOLT
+PROTECTION: STEAM
+
+U P D A T E S  N O T E S
+- New FOV option in the graphic settings menu where you can choose two FOV options: 'Default' or 'Wide'. If the wide settings are not of you're liking we're opening up the FOV values to be edited in the DefaultGame.ini (Note: This changes only the 'Wide' option).
+Here are the values of the wide FOV that can be custom-edited in the DefaultGame.ini
+[ZC2Game.ZC2Player]
+;Regular FOV in the game
+closeCombatFOV=100
+;FOV when punching
+closeCombatClunchedFOV=90
+;FOV when you have a weapon in your hands
+farCombatFOV=100
+;Map FOV
+inventoryFOV=100
+;How much the FOV changes when running
+runFOV_Delta=5
+;FOV when grabbing an enemy
+grabFOV=90
+;FOV when deflect-grabbing an enemy
+deflectGrabFOV=80
+;All weapons have their custom aim FOVs. This number can be used to multiply the FOV values for guns.
+weaponMultFOV=1.1 
+- Fixed non-progression after saving the 2-headed chimera/baboon.
+- Fixed non-progression getting stuck in the prison.
+- Fixed Ally AI navigation bug.
+- Added resolution dependant font scale.
+- Removed radial blur from jogging speed.
+- Fixed Monster Combo Achievement.
+- Fixed voice chat bug.
+- Fixed multiple Deadra and Henae spawning in Coast fight.
+- Fixed Thiloc doors closing when re-entering level.
+- Fixed night music bug in first level.
+- Highlight for main menu 'Tutorial/Prologue'.
+- Increased Ally HP and reduced respawn time.
+- Fixed Titan position not correct for client.
+- Fixed sliding players when in pre-death position during coop.
+- Fixed talk icon over invisible characters.
+- Added quest arrow over chain-owner's head after defeating Oorsi.
+
+/|
+
+I N S T A L L A T i O N
+
+1- Unpack release
+
+2- Run setup.exe and install update
+
+3- Copy cracked content from the folder /REVOLT
+
+4- Play!
+
+
+G R E E T i N G S
+
+WE WOULD LIKE TO GREET EVERY HONORABLE GROUPS AND PERSONS
+
+YOU KNOW WHO YOU ARE
+
+/|
+
+
+C O N T A C T U S: 
+WE WILL SHOW YOU SECRET COOKIES LATER
+
+/|
+
+A N S i: N O R D S T A K E / R V T
+
+(full NFO: http://nfo.sceper.ws/nfo/revolt.png)

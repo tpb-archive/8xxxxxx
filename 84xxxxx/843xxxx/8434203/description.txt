@@ -1,0 +1,18 @@
+Stardock Start8 1.16 Final | 5,46 MB
+
+Microsoft Windows 8 is shipped without the "Start" menu. Stardock heard the cries from Windows 8 users. We put the "Start" menu back in Windows 8. We accurately recreated the most used desktop feature billions of users depend on every day and packed it with additional functionality.
+
+┬á┬á┬á┬áChanges in 1.16:
+Fixes for inconsistencies with right Windows key handling
+Resolved blank share with menu and open with menu not showing all the right items (Open With issue)
+Resolved a problem with jump lists and having a file in the list that was on a network location which was not avail
+Resolved a problem with search where very rapid searches that only produced results in the files section would show no files found sometimes
+Start8Tweak updated with setting to tell Start8 not to search inside files for content
+
+================
+[INSTALL NOTES]
+================
+
+Step 1: unpack rar archive
+Step 2: Use the given patch and details to activate
+Step 3: Enjoy and Support Developers, Buy It, They Deserved It!

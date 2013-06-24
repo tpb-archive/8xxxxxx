@@ -1,0 +1,149 @@
+Book Reports for typical high-school and university literature 
+from sparknotes.com 
+==============================================================
+May 2013
+
+This content was scraped from the site sparknotes.com
+
+Note each book report is in html format.  Unzip everything to the same directory, 
+then open any of the html files in a browser. (The nofear.css file in the same
+directory is also used by the browser). 
+
+Have fun... and please make sharing one of your life's goals. 
+
+Thought for the day:  Crypto Currencies will be issued by Government
+
+Crypto currencies work by having a public record (or log) of all currency 
+transactions. The log is continuously available and updated on the internet. 
+Instead of showing a persons name next to the coin they 
+own, the log shows the public key of the person who owns the coin. 
+Anyone who wants to prove they own the coin simply has to produce
+the matching private key, and its theirs.  Once a coin is spent, the 
+log is updated to show the most recent transaction, and the log shows the 
+person receiving the coin now owns it, since the coin now has a new public
+key with it. In general, users will create a new public and private key for each
+coin they own to ensure nobody inspecting the log can infer that a single person
+owns multiple coins. 
+
+Some crypto currencies are designed to have a fixed amount of currency, such as 
+Bitcoin that caps at 21 million coins.   Ripple uses the opencoin protocol, and 
+has 100 billion coins.  In both cases, it is impossible to change the currency
+limit without consent of all users of the system.
+
+Some crypto currencies are designed to ensure anonymity, some are not. 
+Bitcoin ensures anonymity provided each coin has a unique public and private key. 
+There is literally no way to determine who owns what coin.   The fact that bitcoins
+are anonymous makes them attractive for transactions that are inherently illegal. 
+It also means that governments cannot collect taxes on those transactions. 
+Ripple is different, it provides a tracking database available to government 
+authorities to track all transactions, and see who owns what. 
+
+Bitcoins are bearer notes, meaning they are irrevokable once spent. 
+For a person accepting payment using bitcoins, there is no counterparty-risk, 
+meaning there is no way for a disappointed purchaser to rollback a transaction 
+to get their money back. Once its spent, its spent. 
+
+Bitcoin transactions are much like debit card transactions, except no trusted
+3rd party is involved, thus no bank.   The transaction cost for a bitcoin transaction
+are also negligible, on the order of a hundredth of a penny.  
+
+The fact that accepting bitcoins is very low cost for a seller, with no counter-party
+risk means many vendors will be inclined to accept them.  This is a threat to 
+sovereign governments who lose sales tax revenue, and ultimately lose income tax revenue. 
+With more ways to spend bitcoins, they become more liquid, and this will increase demand
+for them, further increasing their utility as a currency, and further enabling bitcoins to 
+be used to make illicit payments.   In addition, central banks make lots of money by 
+printing currency (at near zero cost), and then lending it out and charging interest.  
+This very profitable aspect of central bank operations is also at risk if an 
+independent crypto currency became a significant part of the money supply of a country.
+
+Thus central governments (who own central banks) will certainly prohibit transactions 
+using bitcoins or any cryptocurrency that they do not issue.
+
+To suppress demand for such independent cryptocurrency, central banks will eventually 
+issue their own, but they will not have a cap on the coins issued, thus allowing 
+them to continue "managing" the money supply.  They will also keep track of who owns 
+each coin, thus discouraging tax evasion and discouraging payment for illicit goods.
+
+The banking sector will lobby against issuing a state sanctioned cryptocurrecy, since it 
+canabalizes their debit card business.  Eventually the banks will establish themselves as the
+prime nodes producing and updating the public log, and for that they will charge a fee 
+that produces enough revenue for them, that they will assist the central bank to roll out 
+the new cryptocurrency. 
+
+-- freeflow123
+
+This release covers... 
+
+A Tale of Two Cities
+A Tree Grows in Brooklyn
+A Very Old Man with Enormous Wings
+A View from the Bridge
+A Wrinkle in Time
+A Yellow Raft in Blue Water
+Tender is the Night
+Tess of the dΓÇÖUrbervilles
+The Taming of the Shrew
+The Tempest
+The Things They Carried
+The Three Musketeers
+The Time Machine
+The Trial
+The Turn of the Screw
+The Two Gentlemen of Verona
+The Two Towers
+The Unbearable Lightness of Being
+The Unvanquished
+The Waves
+The Winter's Tale
+The Woman Warrior
+The Women of Brewster Place
+The Year of Magical Thinking
+The Yellow Wallpaper
+Their Eyes Were Watching God
+Things Fall Apart
+This Boy's Life
+This Side of Paradise
+Three Cups of Tea
+Through the Looking Glass
+Timon of Athens
+Titus Andronicus
+To Kill a Mockingbird
+To the Lighthouse
+Tom Jones
+Tortilla Flat
+Treasure Island
+Tristram Shandy
+Troilus and Cressida
+True West
+Tuesdays with Morrie
+Twelfth Night
+Twilight of the Superheroes
+Typee
+Ulysses
+Uncle TomΓÇÖs Cabin
+Uncle Vanya
+Virgin Suicides
+Volpone
+Waiting for Godot
+Walden Two
+Walden
+Walk Two Moons
+War and Peace
+Warriors DonΓÇÖt Cry
+Watership Down
+What We Talk About When We Talk About Love
+When Heaven and Earth Changed Places
+When the Legends Die
+Where Are You Going, Where Have You Been?
+Where the Red Fern Grows
+White Fang
+White Noise
+Who's Afraid of Virginia Woolf?
+Why I Live at the P.O.
+Wide Sargasso Sea
+Winesburg, Ohio
+Winter Dreams
+Woman at Point Zero
+Wuthering Heights
+Young Goodman Brown

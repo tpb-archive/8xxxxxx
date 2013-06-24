@@ -1,0 +1,114 @@
+good evening there
+
+Here is our remastered edition of "Deliverance" movie by John Boorman from 1972-1973
+Comes in 720 p and can be watchable in full screen resolution anyway.
+This is a second rip from a first bdrip.1080p from BD import but with a different approach for sure.
+
+Principal changes :
+
+Status : preview-Test 1
+
+Video codec used :
+reconverted in mkv.H263 and permits an easy play even on old computers if you use a compatible media player for of course.
+Spoken languages : English and French with English subtitle only.
+720p as cropped that permits a true full screen resolution (1280 x 532 real)
+
+Audio codec used :
+English-&gt;upmixing from Ac3-5.1/48 Khz/16 bit/448 Kbps to Dolby Digital plus aka E-Ac3-5.1/48 Khz/32 bit/512 Kbps
+French-&gt;upmixing from 1 mono channel to DD+ 5.1/48 Khz/32 bit/512 Kbps
+Final size : 5,85 Gb
+Acceptable video and sound quality with a quite good compromise anyway.
+Normal quality so.
+Ok on :
+vlc 2.0.6,2.0.7-git,2.1.0-git
+mpc-hc 1.6.7,1.6.8 latest beta build.
+PowerDVD13
+Daum Pot player recent builds
+DVDFab media player 1.5
+and many others...
+
+See imdb right here : 
+http://www.imdb.com/title/tt0068473/
+
+More details :
+
+    Complete name : Deliverance.(1972).(J.Boorman).Remastered.H263.720p[)(]DD+ 5.1-(En,Fr)+(En.Sub).mkv
+    Format : Matroska
+    Format version : Version 2
+    File size : 5.85 GiB
+    Duration : 1h 49mn
+    Overall bit rate : 7 682 Kbps
+    Encoded date : UTC 2013-05-20 16:41:31
+    Writing application : Lavf55.4.101
+    Writing library : Lavf55.4.101
+
+  Video #1
+    ID : 1
+    Format : H.263
+    Codec ID : V_MS/VFW/FOURCC / H263
+    Duration : 1h 49mn
+    Bit rate : 6 505 Kbps
+    Width : 1 280 pixels
+    Height : 532 pixels
+    Display aspect ratio : 2.40:1
+    Frame rate mode : Constant
+    Frame rate : 23.976 fps
+    Bit depth : 8 bits
+    Compression mode : Lossy
+    Bits/(Pixel*Frame) : 0.398
+    Stream size : 4.96 GiB (85%)
+    Language : English
+    Default : Yes
+    Forced : No
+
+  Audio #2
+    ID : 2
+    Format : E-AC-3
+    Format/Info : Audio Coding 3
+    Format settings, Endianness : Big
+    Codec ID : A_EAC3
+    Duration : 1h 49mn
+    Bit rate mode : Constant
+    Bit rate : 512 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 32 bits
+    Compression mode : Lossy
+    Stream size : 399 MiB (7%)
+    Language : English
+    Default : Yes
+    Forced : No
+
+  Audio #3
+    ID : 3
+    Format : E-AC-3
+    Format/Info : Audio Coding 3
+    Format settings, Endianness : Big
+    Codec ID : A_EAC3
+    Duration : 1h 49mn
+    Bit rate mode : Constant
+    Bit rate : 512 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 32 bits
+    Compression mode : Lossy
+    Stream size : 399 MiB (7%)
+    Language : French
+    Default : Yes
+    Forced : No
+
+  Text #4
+    ID : 4
+    Format : VobSub
+    Codec ID : S_VOBSUB
+    Codec ID/Info : The same subtitle format used on DVDs
+    Language : English
+    Default : Yes
+    Forced : No
+
+we sincerely hope that you will like it so.
+
+enjoy and seed,please.
+Best regards

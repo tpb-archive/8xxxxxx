@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,tstpnwn,2013-04-25T21:10Z,"Legit.
+
+
+
+Size of file: 1265621076 Bytes
+Video resolution: 1280x720
+Total of streams: 2
+
+============= Stream: 1 ===============
+Major type: Video
+Sub type: Unknown ({31564343-0000-0010-8000-00AA00389B71})
+FourCC: CCV1 (Unknown Codec)
+Bit planes: 24
+Dimensions: 1280x720
+AvgTimePerFrame: 400000
+FPS: 25,00
+
+============= Stream: 2 ===============
+Major type: Audio
+Sub type: DOLBY_AC3
+Channels: 6
+Audio tag: 0x0000 (Microsoft Unknown Wave Format)
+Frequence: 48000 Hz"

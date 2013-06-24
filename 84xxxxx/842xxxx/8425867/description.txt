@@ -1,0 +1,160 @@
+Ong Bak Trilogy 2003-2010 1080p Blu-ray Remux AVC VC-1 DTS-HD MA 5.1 - KRaLiMaRKo
+
+
+
+====================================================================================
+
+Ong Bak 2003 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo
+ 
+http://www.imdb.com/title/tt0368909/
+
+When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.
+
+--(GENERAL)---
+
+Container.......: Matroska
+Size............: 16.2 GB
+Duration........: 01:44:36 (h:m:s)
+Source(s).......: ONGBAK 2003 BluRay US 1080p AVC DTS-HD MA5.1-CHDBits
+ONG BAK 2003 1080i FRE Blu-ray AVC DTS-HD HR 5.1-claudio@BTNET
+Ong Bak 2003 DUAL COMPLETE GER BLURAY AVC DTS-HD MA 5.1-FULLSiZE
+Chapters........: Yes (named)
+Compression.....: no zlib, no header stripping
+Release date....: 03.01.2012
+
+---(VIDEO)----
+
+Codec...........: AVC
+Type............: progressive
+Resolution......: 1920x1080
+Bit rate........: 19.2 Mbps
+Frame rate......: 23.976 fps
+
+---(AUDIO)----
+
+Format..........: DTS-HD MA
+Channels........: 5.1
+Bit depth.......: 24 bit
+Sample rate.....: 48 kHz
+Bit rate........: 2889 kbps
+Language........: Thai
+
+-(SUBTITLES)--
+
+Format..........: PGS (original)
+Language(s).....: English (SDH), English, French, German, Spanish
+
+---(NOTES)----
+
+For the video we have used the FRE transfer for its superior PQ over the US/GER BD
+(US and GER BD both have the same audio and video). It features a fake-interlaced
+video stream at 24 fps. However, the FRE BD has only a lossy DTS-HD HR audio, so we
+used the lossless DTS-HD MA 5.1 audio track from the US BD. In order to sync both
+we had to set the video framerate to 24/1001 in mkvmerge.
+
+If your hardware does not support Matroska frame rate flags, your only other option
+would be to re-encode the video stream with AssumeFPS(24000,1001). Speeding up the
+US audio to 24 fps is a no option as it may distort the audio / create undesired
+audio artifacts.
+
+Subtitles from all three sources have been synced and muxed together.
+
+Since the US source does not provide named chapters, the chapters were taken from
+the GER source, translated into English and synced accordingly.
+
+Thanks to the original uploaders for the sources!
+
+====================================================================================
+
+Ong Bak 2 Theatrical Cut 2008 1080p Blu-ray Remux VC-1 DTS-HD MA 5.1 - KRaLiMaRKo
+ 
+http://www.imdb.com/title/tt0785035/
+
+--(GENERAL)---
+
+Container.......: Matroska
+Size............: 17.6 GB
+Duration........: 01:37:35 (h:m:s)
+Source(s).......: Ong Bak 2 2008 1080p CAN Blu-ray VC-1 DTS-HD HR 5.1
+Ong Bak 2 2008 1080p US Blu-ray VC-1 DTS-HD MA 5.1
+Chapters........: Yes (named)
+Compression.....: no zlib, no header stripping
+Release date....: 03.01.2012
+
+---(VIDEO)----
+
+Codec...........: VC-1
+Type............: progressive
+Resolution......: 1920x1080
+Bit rate........: 23.2 Mbps
+Frame rate......: 23.976 fps
+
+---(AUDIO)----
+
+Format..........: DTS-HD MA
+Channels........: 5.1
+Bit depth.......: 24 bit
+Sample rate.....: 48 kHz
+Bit rate........: 2657 kbps
+Language........: Thai
+
+-(SUBTITLES)--
+
+Format..........: PGS (original)
+Language(s).....: English (SDH), English, Spanish
+
+---(NOTES)----
+
+For the video track we have used what we believe to be the CAN Blu-ray source, that
+features 24 fps VC-1 (thanks to RUT!) as it offers slightly better PQ over the US
+VC-1 transfer.
+
+However, the CAN BD uses only a lossy DTS-HD HR audio track, so for audio we used
+the lossless DTS-HD MA 5.1 audio track from the US source. In order to sync video
+and audio we had to set the video track frame rate to 24/1001 in mkvmerge. If your
+hardware does not support Matroska frame rate flags, the other option would be to
+re-encode the video stream with AssumeFPS(24000,1001).
+
+The subtitles have been synced accordingly.
+
+====================================================================================
+
+Ong Bak 3 2010 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo
+ 
+http://www.imdb.com/title/tt1653690/
+
+--(GENERAL)---
+
+Container.......: Matroska
+Size............: 24.2 GB
+Duration........: 01:38:31 (h:m:s)
+Source(s).......: Ong Bak 3 2010 1080p CAN Blu-Ray AVC DTS-HD MA 5.1-tnt@CHDBits
+Chapters........: Yes (named)
+Compression.....: no zlib, no header stripping
+Release date....: 03.01.2012
+
+---(VIDEO)----
+
+Codec...........: AVC
+Type............: progressive
+Resolution......: 1920x1080
+Bit rate........: 30.6 Mbps
+Frame rate......: 24.000 fps
+
+---(AUDIO)----
+
+Format..........: DTS-HD MA
+Channels........: 5.1
+Bit depth.......: 24 bit
+Sample rate.....: 48 kHz
+Bit rate........: 4537 kbps
+Language........: Thai
+
+-(SUBTITLES)--
+
+Format..........: PGS (original)
+Language(s).....: English
+
+---(NOTES)----
+
+Greetings to all our fans and friends!

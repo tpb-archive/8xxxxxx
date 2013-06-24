@@ -1,0 +1,9 @@
+Resource Hacker allows you to bypass the .exe and .dll extensions so that you can view, modify, rename, add, delete and extract resources in Windows executables and resource files.
+
+Key features :
+
+    What can be viewed? This application allows you to view cursor, icon, Bitmap, GIF, AVI and JPG resource images. The following can be viewed as decompiled resource scripts : Menus, Dialogs, MessageTables, StringTables, Accelerators, Delphi Forms, and VersionInfo resources while WAV and MIDI audio resources can be played back.
+    What are the formats to save resources ? The following formats can be used to save the resources : *.ico, *bmp, *.rc, *.res, *.bin.
+    How do you modify resources? There are two methods to do it : replacement of the resource with another one found in another file or by the use of the internal resource compiler.
+    How do you add resources ? You only need to copy resources from external resource files.
+    How do you delete resources ? Applications include resources from compilers and their removal makes your applications smooth. 

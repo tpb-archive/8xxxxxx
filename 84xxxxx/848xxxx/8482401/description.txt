@@ -1,0 +1,42 @@
+I have installed this once on a pentium III server, and it worked well. 
+
+
+
+***********************************************************************************
+Summary:	
+Product enhancements in this release include:
+- Linux 2.4.13 kernel
+- Linux Internationalization (Li18nux) certified
+- KDE 2.2.1
+- Successful participation in the LSB Certification Pilot,
+with commitment to LSB certification
+- Support for Caldera Volution Messaging Server and
+Caldera Volution Manager 1.1. 
+- Samba version 2.2.2 (OpenLinux Server only)
+News	30-Jan-2002 Release v3.1.1
+26-Jun-2001 Release v3.1
+2-Aug-2000 Caldera to acquire SCO server software and Professional services divisions
+***********************************************************************************
+Requirements:	Product	OpenLinux 3.1.1
+	Processor	Any 386 CPU or better
+	RAM	32 MB
+	Drive space 	300 MB minimum, (plus 1 GB for commercial packages)
+	Drives	Runs from hard disk, Prompt available from boot diskette
+	Video	VGA or better
+	File systems 	Ext2, read/write access to FAT
+***********************************************************************************
+Compatibility	Linux programs
+DOS programs (most) 
+***********************************************************************************
+Interface:	Native text based interface. GUI support included with various desktops.
+***********************************************************************************
+Installation:	Can be installed on primary or logical partitions, any drive
+***********************************************************************************
+Variants:	OpenLinux eDesktop
+OpenLinux eBuilder 
+OpenLinux Application Server with Tarantella
+OpenLinux eServer2.3
+Linux Technology Preview
+Server 
+Versions	v3.1 Jun-2001
+v3.1.1 Jan-2002

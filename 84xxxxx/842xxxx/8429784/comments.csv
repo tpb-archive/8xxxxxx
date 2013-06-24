@@ -1,0 +1,106 @@
+﻿User Type,Username,Date,Text
+,sevaz84,2013-05-02T07:02Z,thx man. But any description of what it includes? what updates? expansions? instructions on how to install?
+,revanhan,2013-05-02T08:44Z,"Sacred 2 Gold Edition (c) Ascaron
+
+release date ...: May 2766
+protection .....: Steam
+# of discs .....: 1
+languages ......: EN/FR/DE/IT/ES/PL/RU
+---------------------------------------------------
+
+Experience the world of Ancaria in its full glory
+with Sacred 2: Gold Edition. Containing Sacred 2
+Fallen Angel and the awesome add-on Ice and Blood.
+Defeat countless dangerous enemies capture
+powerful weapons and valuable treasures. Prepare
+yourself for the ultimate battle and become a
+legend.
+
+Sacred 2 Fallen Angel
+
+Poised on the brink of destruction and threatened
+by overwhelming chaos, a mysterious energy source
+is spreading across the world of Ancaria. Leaving
+mutation and terror in its wake, this living
+energy has become the razors edge on which all else
+is balanced. The powers of Light and Shadow are
+destined to collide in an ill fated battle that
+could tear apart the fabric of life itself.
+
+Sacred 2 Ice & Blood
+
+Expanding the world of Ancaria, Ice & Blood
+features two new regions, a new playable character
+and tons of new items, enemy's, weapons and
+missions.
+
+1- Burn or mount
+2- Install the game
+3- Copy the cracked content from PROPHET dir to
+installdirsystem directory
+4- Go To Hell"
+,dp098765,2013-05-02T16:58Z,Thank you revanhan for doing the uploaders job...much appreciated.
+,sevaz84,2013-05-02T17:10Z,thx a lot revanhan!
+,motley666,2013-05-02T21:14Z,21GB? Someone is kidding. I would be bored even to press the button for the torrent to start downloading a file this size.
+,revanhan,2013-05-02T23:22Z,"@motley666
+Because Ascaron had created the largest game world when it first roll out in 2008 and get even bigger with the addition of its expansion? Lol. Fortunately the Elite Texture Pack is not included in the Gold Edition due to bugs and glitches. Else add another 7GBs. The repack version of Sacred 2 Gold is around 11GBs but they are usually Russian only zzz. "
+,revanhan,2013-05-02T23:28Z,"@motley666
+Because Ascaron had created the largest game world when it first roll out in 2008 and get even bigger with the addition of its expansion? Lol. Fortunately the Elite Texture Pack is not included in the Gold Edition due to bugs and glitches. Else add another 7GBs. You can find a repack version of Sacred 2 Gold around 11GBs but they are usually Russian only zzz."
+,Siyano,2013-05-03T14:23Z,need more seed» :(
+,Havendell,2013-05-04T19:44Z,"Really need seeds, please! It's downloading so slowly that I don't even have an ETA on it to complete.... I'm getting .2 - 1.8kB/s if I get any download speed at all!"
+,L.amore,2013-05-04T19:59Z,"Hey guys I could really use some assistance.  DL went fine, took a few days, install all good.  I've dealt with torrents before but the step ""copy the cracked content from PROPHET dir to installdirsystem directory"" is completely lost on me.  Could anyone clear up what exactly I need to do in the third step I've been struggling with this for a while and have reinstalled the game several times.  No matter what I do i keep being taken to the steam store or receiving a message that a file is missing.   I would greatly appreciate any help.  Thank you!"
+,L.amore,2013-05-04T20:14Z,Could someone break down how to do the third step on the install for me?  I'm rather new to PCs (have used many torrents) and spent over an hour trying to figure it out.  I would appreciate any help as in where I find the folders and such.
+,L.amore,2013-05-04T23:49Z,Apologies for the double post - my comments were not appearing and I tried posting again.  Sorry
+,gorgi991,2013-05-05T00:54Z,"@L.amore
+Load the iso with daemon tools
+explore the dvd
+find and open the folder in the dvd called prophet copy all the things in there then go in the insallation diirectory you putted and paste them there "
+,lilke10,2013-05-05T18:28Z,Thank You :)
+,L.amore,2013-05-05T19:08Z,Thanks a lot Gorgi got it to work.  Appreciate the assistance.
+,cstonerton,2013-05-05T22:38Z,I'm having an issue with ti on windows 8. I'm getting a start up error. anyone have any suggestions?
+,cstonerton,2013-05-05T23:51Z,nvm had to uninstall the physicX version i had and install the 1 on the disc and update from there to get it to work properly
+,cstonerton,2013-05-06T23:26Z,"thx for the awesome upload, works perfectly with windows 8 after a little tinkering"
+,DiVinE7,2013-05-08T06:14Z,"How the hell do i get this to work under win8 pro x64? Tried all compatibility settings....nothing i repeat nothing works for me, its quite aggregating after downloading freaking 21 gigs.
+
+It loads up the initial loading screen, then goes black with just the mouse cursor...And nothing happens after that."
+,revanhan,2013-05-09T01:16Z,"First off, Sacred 2 runs fine with both win 8 and win 7 x64, so try the following steps one by one:
+1.make sure your pc hardware supports the game, at least minimum requirement.
+2.make sure your pc is installed with each of the following:
+Visual C++ 2005 (x86) 8.0.61187
+Visual C++ 2005 (x64) 8.0.61186
+Visual C++ 2008 (x86) 9.0.30729.6313
+Visual C++ 2008 (x64)9.0.30729.6313
+Visual C++ 2010 (x86) 10.0.40219.414
+Visual C++ 2010 (x64) 10.0.40219.414
+Visual C++ 2012 (x86) 11.0.51106.1
+Visual C++ 2012 (x64) 11.0.51106.1
+Microsoft Visual F# 2.0 Runtime 10.0.40219
+Microsoft .NET Framework 3.5 sp1(included 2.0/3.0)
+Microsoft .NET Framework 4.0
+Microsoft .NET Framework 4.5(included 4.0, not supporting XP)
+Microsoft XML Core Services 6.0 sp2 x86
+Microsoft XML Core Services 6.0 sp2 x64
+DirectX 9.0c (2010.6) (This should comes included with every win os since vista but sometimes missing certain dx9 dll file)
+NVIDIA PhysX System Software 9.12.1031
+3.get sacred community patch (unofficial but fix lots of bugs and glitches)
+4.run game with admin rights
+5.If you still cannot get it working, then modify the game's shortcut by adding the command "" --nocpubinding --skipopenal"" at the end of TARGET in shortcut properties - like this:
+""C:Program Files (x86)Deep SilverSacred 2 - Fallen Angelsystemsacred2.exe"" --nocpubinding --skipopenal
+p/s: mind the blank space
+5.Sacred 2 shouldn't be needed to run in compatibility mode. It's fully supported in win7 and win8.
+6.If all fails, reinstall the game and try.
+7.If still fails, check if your pc have trouble playing othe games
+8.And lastly, may the force be with you."
+,DiVinE7,2013-05-09T05:07Z,"@revanhan
+
+Well its definitely not my hardware
+I'm running a fx-6300 @ 4.5
+8 gig corsair vengeance @ 1600
+And a gigabyte gtx 460 1gb heavily overclocked.
+
+So yea not a hardware issue lol but i don't have every single application you listed. I have about 70% on the list. I know some games require those programs, its just odd all my other games work flawlessly but this one, even though it worked great on win7 x64. Anyways thanks for taking your time much appreciated."
+,DiVinE7,2013-05-09T06:32Z,"Okay so I installed all said software and repaired if I had it already just in case.
+Checked my gpu driver version and im still running the newest beta update. Even tried the non beta. I had already tried the command line options before that never worked so i tried it again, no good. Even uninstalled the game...rebooted...reinstalled, recrack ect ect.
+
+Still have the same problem....Loads up the initial loading screen where it says your hardware and some funny quotes lol and then it goes black and shows the custom cursor for the game and just hangs...even left it for 10 mins just to see. Any other options? If any? I really dont want to go back to win7 just to play one game. I never had this issue with win7, i just don't get it."
+,DiVinE7,2013-05-09T06:40Z,hate when comments dont show until you comment again...

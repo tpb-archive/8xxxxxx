@@ -1,0 +1,214 @@
+Description
+
+Sinopse e detalhes
+
+Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel.
+
+Format : Matroska
+Format version : Version 2
+File size : 1.68 GiB
+Duration : 2h 58mn
+Overall bit rate : 1 352 Kbps
+Encoded date : UTC 2013-05-02 14:35:28
+Writing application : mkvmerge v6.1.0 ('Old Devil') built on Mar 2 2013 14:32:37
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 58mn
+Bit rate : 493 Kbps
+Width : 720 pixels
+Height : 288 pixels
+Display aspect ratio : 2.500
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.099
+Stream size : 629 MiB (36%)
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Default : Yes
+Forced : No
+
+Audio #1
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 2h 58mn
+Bit rate mode : Constant
+Bit rate : 448 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 571 MiB (33%)
+Title : by fantasma
+Language : English
+Default : Yes
+Forced : No
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 2h 58mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 245 MiB (14%)
+Title : by fantasma
+Language : Portuguese
+Default : No
+Forced : No
+
+Audio #3
+ID : 4
+Format : AC-3
+Format/Info : Audio Coding 3
+Format profile : Dolby Digital
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 2h 58mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 245 MiB (14%)
+Title : by fantasma
+Language : Spanish
+Default : No
+Forced : No
+
+Text #1
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : English - (Caption/Normal Size Char)
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 6
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Caption/Normal Size Char)
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #3
+ID : 7
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Spanish - (Caption/Normal Size Char)
+Language : Spanish
+Default : No
+Forced : No
+
+Text #4
+ID : 8
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : English - (Forced Caption)
+Language : English
+Default : No
+Forced : Yes
+
+Text #5
+ID : 9
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Forced Caption)
+Language : Portuguese
+Default : No
+Forced : Yes
+
+Text #6
+ID : 10
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Spanish - (Forced Caption)
+Language : Spanish
+Default : No
+Forced : Yes
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:07:14.901 : en:Chapter 02
+00:11:34.401 : en:Chapter 03
+00:15:38.735 : en:Chapter 04
+00:20:02.069 : en:Chapter 05
+00:24:26.436 : en:Chapter 06
+00:26:39.736 : en:Chapter 07
+00:29:20.769 : en:Chapter 08
+00:38:27.069 : en:Chapter 09
+00:43:03.703 : en:Chapter 10
+00:46:54.504 : en:Chapter 11
+00:49:11.938 : en:Chapter 12
+00:55:05.272 : en:Chapter 13
+00:58:29.939 : en:Chapter 14
+01:00:12.106 : en:Chapter 15
+01:04:51.273 : en:Chapter 16
+01:07:22.440 : en:Chapter 17
+01:13:34.907 : en:Chapter 18
+01:15:35.775 : en:Chapter 19
+01:19:04.743 : en:Chapter 20
+01:22:37.743 : en:Chapter 21
+01:24:48.943 : en:Chapter 22
+01:26:27.610 : en:Chapter 23
+01:33:24.743 : en:Chapter 24
+01:35:17.943 : en:Chapter 25
+01:38:16.943 : en:Chapter 26
+01:42:58.076 : en:Chapter 27
+01:47:46.076 : en:Chapter 28
+01:52:40.944 : en:Chapter 29
+02:01:37.077 : en:Chapter 30
+02:11:17.611 : en:Chapter 31
+02:17:43.611 : en:Chapter 32
+02:23:11.945 : en:Chapter 33
+02:24:52.078 : en:Chapter 34
+02:25:44.612 : en:Chapter 35
+02:28:29.112 : en:Chapter 36
+02:34:58.946 : en:Chapter 37
+02:41:38.580 : en:Chapter 38
+02:44:12.780 : en:Chapter 39
+02:50:30.813 : en:Chapter 40
+02:58:10.113 : en:Chapter 41

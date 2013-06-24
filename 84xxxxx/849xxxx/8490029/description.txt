@@ -1,0 +1,17 @@
+Version 1.0 RC5 - 28th February, 2013
+
+*** Core Temp Monitor is now available, an Android app to monitor your machines from anywhere in the world! More information can be found here.
+
+- New: Multilingual interface. Core Temp now natively supports adding non-English languages.
+- New: Plugin system - 3rd party developers can now create plugins and extensions for Core Temp, both native code and .Net is supported, please see this for more information.
+- New: Added support for Intel Pentium and AMD K5 and newer processors. (detection only, Temperature by Acpi Thermalzones)
+- New: Added support for VIA processors. (C3 - detection only, Temperature by Acpi Thermalzones)
+- New: Intel Sandy Bridge, Ivy Bridge, AMD Bulldozer, Piledriver and Fusion (Trinity, Llano, Brazos) support.
+- New: Max TDP detection on supporting processors.
+- New: Active power consumption on Intel's Sandy Bridge and Ivy Bridge processors.
+
+- Fix: All of the user reported bugs and many more unreported problems.
+
+- Update: Optimized the startup code, Core Temp should now launch 2 to 4 times faster.
+- Update: Optimized many other aspects of the code, Core Temp should now consume much less CPU time than before.
+- Update: Restored support for older OS: Windows XP is now fully supported, Windows 2000 requires security updates KB935839, KB835732 and GDI+. In some cases hotfix KB816542 may be needed as well.

@@ -1,0 +1,94 @@
+Virtual Flag is a live wallpaper based on cloth physics that simulates a flag blowing in the wind. Visualized with eye pleasing graphics.  
+
+Select a country flag from 50+ included countries or use a custom texture such as your favourite teams logo, a flag from game of thrones or a picture of your best friend..
+
+** NOTE the performance on the youtube video is a bit sluggish due to the screen recording software used for production requireing a lot of juice..
+
+FEATURES:
+A number of positional and background presets is avalible.
+or you can..
+Generate a gradient background from the current textures most occuring colors.
+Move around and rotate the flag freely.
+Wave the flag with the accelerometer.
+Change wind direction/strength, variation speed/size/interval.
+Alter gravity and make the wind move when the flag rotates. 
+Select lighting distance and strength.
+Turn off the lighting completely (good for showing images without any 'disturbances').
+Choose exactly what kind of gradient (or not) background you want.
+Change rendering speed (fps) and select from a number of performance options
+
+v 1.12
+- Added some more country flags based on user response: Chile, Colombia, Costa Rica, Iran, Kazakhstan, Kuwait, Libya, Panama, Sri Lanka, Syria, Thailand
+
+v 1.11
+- ITS FREE!! Some small banners added to the settings instead
+- Some minor tweaks to the accelerometer alternative
+
+v 1.1
+- Wave the flag with the help of the accelerometer (experimental)
+- Finnish flag added
+
+Complete country list:
+Argentina
+Australia
+Austria
+Belgium
+Brazil
+Bulgaria
+Canada
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Czech Republic
+Denmark
+Ecuador
+Egypt
+Finland
+France
+Germany
+Hungary
+Iceland
+India
+Iran
+Iraq
+Ireland
+Italy
+Japan
+Jordan
+Kazakhstan
+Kuwait
+Libya
+Lithuania
+Luxemburg
+Mexico
+Monaco
+Netherlands
+New Zealand
+Norway
+Pakistan
+Panama
+Philippines
+Poland
+Qatar
+Romania
+Russia
+Saudi Arabia
+Serbia
+Singapore
+Slovenia
+South_korea
+Spain
+Sri Lanka
+Ssweden
+Switzerland
+Syria
+Thailand
+Tunisia
+United Kingdom
+United Arab Emirates
+Uruguay
+Usa
+Ussr
+Venezuela

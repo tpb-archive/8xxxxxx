@@ -1,0 +1,34 @@
+Garmin BlueChart g2 Vision Inland Waterways Germany VEU060R v.14.50 UNLOCKED
+
+Detailed coverage of the German North Sea and Baltic coasts and the German inland waterway system including the entirety of the Rhine, the Main River to Bamberg, the Danube River from Kelheim to Passau, the Saar River, the Moselle River to Metz, FR; the Ems River to Papenburg, the Weser River to Minden, the Elbe River to Dresden, the Havel River to Oranienburg, the entirety of the Rhine-Main-Danube Canal, the Oder-Havel Canal, the Elbe-Havel Canal, the Elbe-Seiten Canal, the Kiel Canal, the Mittelland Canal and Lake Constance. 
+
+Based on the standard BlueChart┬« g2 features, BlueChart g2 Vision provides premium mapping and graphics capabilities. Simply by plugging a BlueChart g2 Vision card into your compatible unitΓÇÖs SDΓäó card slot, you can tremendously expand its mapping capabilities. 
+
+Enhance Your Vision
+Chart depictions are enhanced with high-resolution satellite imagery for enhanced situational awareness so you can navigate with a clear moving-map representation of your boatΓÇÖs position. It is the most realistic mapping display Garmin has ever offered in a chartplotter. 
+
+Get the Best View
+With BlueChart g2 Vision data, you can select true 3D MarinerΓÇÖs Eye or Fish Eye navigation perspective for dynamic views both above and below the waterline. ThereΓÇÖs also Auto Guidance technology to suggest the best routes to follow. And aerial photos of ports, harbors, marinas, waterways and coastal roads help you see "the big picture" when youΓÇÖre on the water.
+
+Code:
+/VEU060R-Germany Inland Waters/VEU060R/VEU060R 14.50/GARMIN/GMAPSUPP.IMG, length 1727823872
+Header:   	24.01.2013 17:09:38, DSKIMG, XOR 00, V 14.50, Ms 0
+Mapset:   	VEU060R-Germany Inland Waters v2013.0
+fat:		1000h - 1200h - 28000h, block 32768
+maps:		57, sub-files 58
+
+Sub-file         fat     length
+ MARINAS  MDR   1200h   2377595
+ MARINAS  SRT   1400h       968
+ B0000027 GMP   1600h      2898
+	GMP:  TRE RGN LBL
+	map 1108d16 (17861910)
+	PID 1, FID 2826, region 17,4
+	date 23.01.2013 10:08:05
+	priority 28, parameters 1 6 31 3, locked, transparent
+	N: 54.744873, S: 47.246704, W: 5.608521, E: 15.347900
+	GARMIN G-Map
+	Copyright 1995-2013 by GARMIN Corporation.
+
+
+HOW TO: Just copy the Garmin folder to you SD-card

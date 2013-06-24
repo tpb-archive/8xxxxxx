@@ -1,0 +1,122 @@
+THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; 
+THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This Is A combination of 1,100 + Scripts for Arma 2 or Arma 2 AO or Arma 2 CO that I have searched the web in search for some laughable scripts :') ... you will see haha. With a nice Menu system, that took ages to set up..
+The weapons and vehicles take up most of these scripts..
+
+*IMPORTANT* = Some scripts will not work! Some will only work on Arma 2 CO/OA, Some scripts will stuff up other scripts eg; don't use ESP script, unless you want to not be able to use GOD Mode or invisible!
+
+**DO NOT CHANGE THE NAME OF THE FOLDER/FOLDERS/CONTENTS!**
+**DO NOT CHANGE THE NAME OF THE FOLDER/FOLDERS/CONTENTS!**
+
+HOW TO USE :
+
+The only script you will have to run is "Launcher.sqf"
+I use Cheat Engine, so this is what the String/Code looks like..
+
+First Scan =
+
+private ["_dummy"]; _dummy = [_this,"onload"] execVM "cauiscriptsdedicatedServerInterface.sqf";
+
+Change too =
+
+private ["_dummy"]; _dummy = [_this,"onload"] execVM "RUNLauncher.sqf";
+
+Than close cheat engine after that! And it will work even if you leave that server.
+Until you restart your ARMA 2, than you will need to run the script
+
+To run the script once on a server hold "CONTROL" Than press "P"
+Or 
+Click "M" and go to "Server Controls" or whatever the admin panel is called..
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This Combination, Combines of! : 
+#Help Menus
+#Give weapon ( Every possible weapon, including backpacks, Misc, Grenades + Launchers
+#Spawn Ammunition Crates
+#Remove Self Inventory
+#Add Magazine to Held Weapon
+#Any type of Vehicle (Assorted by Version)
+#Flip Vehicle
+#Repair
+#Constant Repairing
+#Car God Mode
+#Delete Vehicle (Aim cursor at)
+#Static Vehicles
+#CLR Money Scripts (List Of Constant Given Money Every 20 Seconds/Certain Amount)
+#Unlock Near Car
+#Unlock Near Air
+#Spawn Friendly AI
+#Spawn Enemy AI (60M away)
+#God Mode
+#Teleport
+#Respawn Quick
+#GAU-8
+#Invisible
+#Infinite Ammo
+#Auto Admin
+#Kill Yourself &gt;:)
+#Multiplayer ESP (WALLHACK)
+#Vehicle and AI ESP (WALLHACK)
+#FIXFPS
+#Heal
+#Numerous Movement Actions (Fake Death/Dance/Sit Down)
+#Environment Options (Remove Grass)
+#Day/Night (Only for yourself)
+#Multiple screen colour changes
+#Give Other Player Weapons (Only seems to give to AI?)
+#Remove Other Players inventory (^^)
+#Add Magazine to other players Inventory (^^)
+#Spectate Players
+#Make player Sit Down/Dance/Die (Movement Action)
+#Falling LHD's 
+#Parachuting Buses
+#Create Mortal Combat Map
+#Create Battle Dome COD4 Map
+#Create Admin Base
+#Spawn Objects like buildings
+#Nukes
+#List of spawnable vehicles of server
+#Shit More!
+
+My Personal Favourites!
+#Flying Fishing Boat :D 
+#Flying Tank (GTA SA MotherFacker!)
+#Flying LHD (Land Destroyer)
+#Drive - able Static KORD (Moving Heavy MG )
+#Drive - able M119 ( Portable Artillery ) 
+#Drive - able ZU23 ( Portable AA )
+#Drive - able LHD with Tank
+#Drive - able MG42 Nest
+#Monster Tank (APC + 5/6 Tanks? = GAU 8, Close range-Long Range MLR's)
+#Super Speed ! (10,000 SPD In a Black Hawk/1,000 SPD + in a fishing Boat)
+#Control Players
+
+GOT MORE SCRIPTS? Please Email them to me :) cheap_skater@hotmail.com
+The more the better ! I'm still, needing to fix some scripts!
+
+This took me couple days to script together into ONE whole script, some I even had to make up my own, many were just copy and paste from the web.
+So please, enjoy ;) I know you will..
+
+Any problems you know how to make a comment &gt;.&gt;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; 
+THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt; THIS IS NOT A BYPASSER &gt;.&gt;
+
+
+
+
+|KK    KK  II  LL  EEEEEE
+|KK    KK  II  LL  EEEEEE
+|KK    KK      LL  EE
+|KK   KK   II  LL  EE
+|KK  KK    II  LL  EE
+|KKKK      II  LL  EEEE
+|KKKK      II  LL  EEEE
+|KK  KK    II  LL  EE
+|KK   KK   II  LL  EE
+|KK    KK  II  LL  EE
+|KK    KK  II  LL  EEEEEE
+|KK    KK  II  LL  EEEEEE

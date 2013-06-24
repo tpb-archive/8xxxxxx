@@ -1,0 +1,15 @@
+Portable version of COMODO Unite 3.0.2.0.
+
+It comes with 3 executables:
+  # COMODO Unite (run).exe: Makes all changes needed to run COMODO Unite, then run it.
+  # COMODO Unite (clean).exe: Reverts all changes made on the computer by the first executable.
+  # COMODO Unite (run & clean).exe: Makes all changes needed to run COMODO Unite, then run it and clean everything up when COMODO Unite is closed.
+
+The last executable is the most portable of the three, but the first one is faster on subsequent runs.
+
+All of the three executables need administrator permissions to run.
+
+IMPORTANT: It is possible that COMODO Unite 3.0.2.0 Portable WILL CRASH if COMODO Unite is already installed on the machine.
+Please uninstall any installed COMODO Unite before using this.
+
+Also, if you want to use multiple instances of this portable app, never use them simultaneously, and always clean one before using the other.

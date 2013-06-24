@@ -1,0 +1,7 @@
+--From Wikipedia:
+Arch Linux (or Arch) is a Linux-based operating system for i686 and x86-64 computers. It is composed predominantly of free and open source software, and supports community involvement.
+
+The design approach of the development team focuses on simplicity from a developer's standpoint rather than a user's standpoint, elegance, code correctness, and minimalism. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+
+Arch Linux uses a rolling release model, such that a regular system update is all that is needed to obtain the latest Arch software; the installation images released by the Arch team are simply up to date snapshots of the main system components.
+---

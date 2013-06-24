@@ -1,0 +1,120 @@
+Transmição completa gravada ao vivo da tv digital, ótima qualidade.
+
+General
+ID                             : 1511 (0x5E7)
+Format                         : MPEG-TS
+File size                      : 15.4 GiB
+Duration                       : 2h 18mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 15.8 Mbps
+
+Video
+ID                             : 273 (0x111)
+Menu ID                        : 48352 (0xBCE0)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 2 frames
+Format settings, GOP           : M=3, N=15
+Codec ID                       : 27
+Duration                       : 2h 18mn
+Bit rate mode                  : Variable
+Maximum bit rate               : 24.0 Mbps
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : MBAFF
+Scan order                     : Top Field First
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio #1
+ID                             : 274 (0x112)
+Menu ID                        : 48352 (0xBCE0)
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AAC / LC
+Muxing mode                    : LATM
+Codec ID                       : 17
+Duration                       : 2h 18mn
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz / 24.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : -343ms
+Language                       : Portuguese
+
+Audio #2
+ID                             : 275 (0x113)
+Menu ID                        : 48352 (0xBCE0)
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AAC / LC
+Muxing mode                    : LATM
+Codec ID                       : 17
+Duration                       : 2h 18mn
+Bit rate mode                  : Variable
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz / 24.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : -341ms
+Language                       : English
+
+Audio #3
+ID                             : 276 (0x114)
+Menu ID                        : 48352 (0xBCE0)
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Muxing mode                    : LATM
+Codec ID                       : 17
+Duration                       : 2h 18mn
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : -341ms
+Language                       : Portuguese
+
+Audio #4
+ID                             : 277 (0x115)
+Menu ID                        : 48352 (0xBCE0)
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AAC / LC
+Muxing mode                    : LATM
+Codec ID                       : 17
+Duration                       : 2h 18mn
+Bit rate mode                  : Variable
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz / 24.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : -355ms
+Language                       : Portuguese
+
+Text
+ID                             : 278 (0x116)-1
+Menu ID                        : 48352 (0xBCE0)
+Format                         : ARIB STD B24/B37
+Codec ID                       : 6
+Bit rate mode                  : Constant
+Delay relative to video        : -6mn 53s
+Stream size                    : 0.00 Byte (0%)
+Language                       : Portuguese
+
+Menu
+ID                             : 257 (0x101)
+Menu ID                        : 48352 (0xBCE0)
+List                           : 273 (0x111) (AVC) / 274 (0x112) (AAC, Portuguese) / 275 (0x113) (AAC, English) / 278 (0x116) (ARIB STD B24/B37, Portuguese) / 900 (0x384) () / 500 (0x1F4) () / 276 (0x114) (AAC, Portuguese) / 277 (0x115) (AAC, Portuguese)
+Language                       :  / Portuguese / English / Portuguese /  /  / Portuguese / Portuguese
+

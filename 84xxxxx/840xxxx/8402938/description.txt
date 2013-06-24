@@ -1,0 +1,18 @@
+PESJP Patch 2013 Gameplay tool 3.35
+
+
+
+* Change log *
+- Decrease CPU & Memory usage of gameplay tool
+- Improve gameplay tool's stability
+- Update gameplay plugin: minor tweak for AI optimized mode, fixed lag during change gameplan
+- New plugin: color.dll allow to change color of text, loading light, etc
+- Added 7 new scoreboards
+- Added new option: on/off radar 
+- Update sleeve badge server: allow to assign badge via GDB map with infinite slot
+- Fixed crashes when use User data team
+
+
+
+* Requirement *
+- PESJP Patch v3.05 (download here: http://thepiratebay.se/torrent/8280853/PESJP_Patch_2013_version_3.05___version_3.06_update___Mega_Chant ) + v3.09 ( download here: http://thepiratebay.se/torrent/8344166/PESJP_Patch_2013_Major_Update_3.09 )

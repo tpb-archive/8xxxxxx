@@ -1,0 +1,136 @@
+Alien 3 *1992* (Theatrical Cut) [1080p.DTS-HD.MA 5.1.AC3.BluRay.x264-LEON 345]
+==============================================================================
+
+produkcja: USA
+ gatunek: Sci-Fi
+ data premiery: 1992-05-22 (Świat)
+ reżyseria David Fincher
+ scenariusz David Giler, Walter Hill
+ zdjęcia Alex Thomson
+ muzyka Elliot Goldenthal
+
+ Fiorina 161, zakażona przez wszy planeta, na której znajduje się więzienie pod zaostrzonym rygorem dla najgorszych złoczyńców. W tą zdominowaną przez mężczyzn komunę wkracza por. Ripley, a wraz z nią nieprzyjazny gość. Kolejny raz Ripley staje naprzeciw śmiertelnemu wrogowi, ale tym razem pozbawiona wszelkich zdobyczy techniki czy jakakolwiek broni, uzbrojona jedynie w umysł.
+
+ Ogólne
+ UniqueID/String : 246640249245209128633538305094452706120 (0xB98D2F2489438237991CFA4C8EE6FB4
+ Pełna ścieżka : F:FilmyFilmy 3DSzablonWstawkaALIEN3.1992.TC(Leon 345)ALIEN3.1992.Theatrical.Cut.PL(Leon 345).mkv
+ Format : Matroska
+ Wersja formatu : Version 2
+ Rozmiar pliku : 12,5 GB
+ Czas trwania : 1h 54 min.
+ Rodzaj całkowitej przepływności bitów : Zmienna
+ Całkowita przepływność bitów : 15,6 Mb/s
+ Zdekodowana data : UTC 2013-04-16 12:34:24
+ Aplikacja zapisująca : mkvmerge v5.7.0 ('The Whirlwind') built on Jul 8 2012 20:08:51
+ Biblioteka zapisująca : libebml v1.2.3 + libmatroska v1.3.0
+
+ Wideo
+ ID : 1
+ Format : AVC
+ Format/Informacja : Advanced Video Codec
+ Profil formatu : High@L4.1
+ Ustawienia formatu, CABAC : Tak
+ Ustawienia formatu, poklatkowy : 2 klatki
+ ID kodeka : V_MPEG4/ISO/AVC
+ Czas trwania : 1h 54 min.
+ Rodzaj przepływności : Zmienna
+ Przepływność bitów : 11,9 Mb/s
+ Nominalna przepływaność : 10,4 Mb/s
+ Przwpływność maksymalna : 35,0 Mb/s
+ Szerokość : 1.920 pikseli
+ Wysokość : 1.080 pikseli
+ Proporcje obrazu : 16:9
+ Tryb wyświetlania klatek : Stały
+ Szybkość wyświetlania klatek : 23,976 kl/s
+ ColorSpace : YUV
+ ChromaSubsampling : 4:2:0
+ BitDepth/String : 8 bitów
+ Rodzaj skanu : Progresywny
+ bity/(piksele*ramki) : 0.239
+ Rozmiar strumienia : 9,52 GB (76%)
+ Tytuł : Rip by Leon 345 encoding 2 pass
+ Biblioteka zapisująca : x264 core 130 r2273 b3065e6
+ Default : Tak
+ Forced : Nie
+
+ Audio #1
+ ID : 2
+ Format : AC-3
+ Format/Informacja : Audio Coding 3
+ Format_Settings_ModeExtension : CM (complete main)
+ Ustawienia formatu, bez endiana : Big
+ ID kodeka : A_AC3
+ Czas trwania : 1h 54 min.
+ Rodzaj przepływności : Stała
+ Przepływność bitów : 192 Kb/s
+ Kanały : 2 kanały
+ Rozmieszczenie kanałów : Front: L R
+ Częstotliwość próbkowania : 48,0 KHz
+ BitDepth/String : 16 bitów
+ Rozmiar strumienia : 158 MB (1%)
+ Tytuł : AC3 2.0 Lektor PL z wydania DVD
+ Język : Polski
+ Default : Tak
+ Forced : Tak
+
+ Audio #2
+ ID : 3
+ Format : AC-3
+ Format/Informacja : Audio Coding 3
+ Format_Settings_ModeExtension : CM (complete main)
+ Ustawienia formatu, bez endiana : Big
+ ID kodeka : A_AC3
+ Czas trwania : 1h 54 min.
+ Rodzaj przepływności : Stała
+ Przepływność bitów : 640 Kb/s
+ Kanały : 6 kanałów
+ Rozmieszczenie kanałów : Front: L C R, Side: L R, LFE
+ Częstotliwość próbkowania : 48,0 KHz
+ BitDepth/String : 16 bitów
+ Rozmiar strumienia : 526 MB (4%)
+ Tytuł : AC3 5.1 Orginal
+ Język : Angielski
+ Default : Nie
+ Forced : Nie
+
+ Audio #3
+ ID : 4
+ Format : DTS
+ Format/Informacja : Digital Theater Systems
+ Profil formatu : MA / Core
+ ID kodeka : A_DTS
+ Czas trwania : 1h 54 min.
+ Rodzaj przepływności : Zmienna
+ Przepływność bitów : 2.599 Kb/s / 1.510 Kb/s
+ Kanały : 6 kanałów
+ Rozmieszczenie kanałów : Front: L C R, Side: L R, LFE
+ Częstotliwość próbkowania : 48,0 KHz
+ BitDepth/String : 24 bity
+ Compression_Mode/String : / Lossy
+ Tytuł : DTS-HD MA 5.1 Orginal
+ Język : Angielski
+ Default : Nie
+ Forced : Nie
+
+ Tekst #1
+ ID : 5
+ Format : PGS
+ Tryb multipleksowania : zlib
+ ID kodeka : S_HDMV/PGS
+ ID kodeka/Informacja : The same subtitle format used on BDs/HD-DVDs
+ Język : Angielski
+ Default : Nie
+ Forced : Nie
+
+ Tekst #2
+ ID : 6
+ Format : UTF-8
+ ID kodeka : S_TEXT/UTF8
+ ID kodeka/Informacja : UTF-8 Plain Text
+ Język : Polski
+ Default : Nie
+ Forced : Nie
+
+ Source [thx]:
+ A/V- Alien Anthology [2-in-1: Theatrical ; Director's Cut/Special Edition] {6-Disc Edition} (1979/1986/1992/1997) Blu-ray 1080p AVC DTS 5.1"
+ ====================================================

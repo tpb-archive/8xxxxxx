@@ -1,0 +1,43 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 934MB
+Duración                                 : 59min.
+Tasa de bits total                       : 2 197Kbps
+Aplicación de codifición                 : Lavf54.29.104
+Librería de codificación                 : Lavf54.29.104
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 59min.
+Tasa de bits                             : 1 705Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,970fps
+Bits/(Pixel*cuadro)                      : 0.062
+Tamaño de pista                          : 725MB (78%)
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 59min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 1min.
+Tamaño de pista                          : 190MB (20%)
+Default                                  : Si
+Forced                                   : No

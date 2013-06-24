@@ -1,0 +1,37 @@
+                       ___ ___         __                   
+                      |   |   |.--.--.|  |.----.---.-.-----.
+                      |   |   ||  |  ||  ||  __|  _  |     |
+.:....................._____/ |_____||__||____|___._|__|__|.................:.
+||                    Resilience and Reliability on AWS                      ||
+':-::---------------------------------------------------------------------::-:'
+   :: ........... Date : 2013-02-13                                 ..... ::
+   :: ......... Author : %author                                    ..... ::
+   :: ...... Publisher : O'Reilly Media                             ..... ::
+   :: ........... ISBN : 9781449339258                              ..... ::
+   :: ..... Num. pages : 150                                        ..... ::
+   :: ....... Language : English                                    ..... ::
+   :: ..... Categories : Computers                                  ..... ::
+   :: ...... Published : 2013-01-03                                 ..... ::
+   :: ............ URL : http://shop.oreilly.com/product/0636920026839.do ::
+.::**:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**::.
+
+   Cloud services are just as susceptible to network outages as any other    
+   platform. This concise book shows you how to prepare for potentially      
+   devastating interruptions by building your own resilient and reliable     
+   applications in the public cloud. Guided by engineers from 9appsan        
+   independent provider of Amazon Web Services and Eucalyptus cloud          
+   solutionsyoull learn how to combine AWS with open source tools such as    
+   PostgreSQL, MongoDB, and Redis. This isnt a book on theory. With          
+   detailed examples, sample scripts, and solid advice, software engineers   
+   with operations experience will learn specific techniques that 9apps      
+   routinely uses in its cloud infrastructures. Build cloud applications     
+   with the "rip, mix, and burn" approach Get a crash course on Amazon Web   
+   Services Learn the top ten tips for surviving outages in the cloud Use    
+   elasticsearch to build a dependable NoSQL data store Combine AWS and      
+   PostgreSQL to build an RDBMS that scales well Create a highly available   
+   document database with MongoDB Replica Set and SimpleDB Augment Redis     
+   with AWS to provide backup/restore, failover, and monitoring              
+   capabilities Work with CloudFront and Route 53 to safeguard global        
+   content delivery                                                          
+
+'::**:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**::'

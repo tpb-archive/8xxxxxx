@@ -1,0 +1,47 @@
+PROJECT ZOMBOID
+ 
+http://projectzomboid.com/ 
+
+This torrent was inspired by Easipak upload here: http://thepiratebay.sx/torrent/8490828/Project_Zomboid_RC2.9, however it did not include a crack so here is a Pre-Cracked version 
+
+=  )
+
+
+
+Patch Notes:
+
+    Further balances to zombie spawn.
+    Moved all spawn points to lower density side of Muldraugh.
+    Fixed full barricade crash.
+    Stopped unbarricade loop problem.
+    Fixed indoor zombie spawning bug. HURRAY this was a bitch! (thanks DimiDusk and Katalist for the upstairs clue which led us to solution.
+    Fix food cooking (thanks Erasmus ! :D)
+    Tweaked some item weight/cooking time
+    Fixed a tooltip bug
+    Now unequip the item you wear if dropped.
+    New migration system using meta-game events.
+    Up the hot moodle trigger
+    Fixed recipe craft bug
+    Removed the ranger starting items (previous camping mod)
+    Added a modal dialog on the delete save
+    Fixed open/close door context menu
+    Fixed read magazine/books bug
+    Added -safemode param to help getting into game on badly supported graphics cards.
+    Fixed container saving issues.
+    Other stuff we've likely forgot. 
+
+
+NEW ZOMBIE / LOOT DISTRIBUTIONS
+
+1) As mentioned above, all spawns are moved to the lower zombie density parts of town (largely toward the east (down and right). No one should spawn in the midst of a crap ton of zombies.
+
+2) Normal 'background' zombie numbers lowered dramatically, but still scaled by location so near the west highway and all the shops etc it will still have a lot more zombies. Generally you can walk around for longer in the east without spotting many, if any. Unless there's a horde.
+
+3) Zombie density is generally higher on roads.
+
+4) Scaled the chance of randomly placing a horde in a location by the zombie density. This means in the east there will be much less hordes, but if there is a horde then it may still be a big one. Hordes in lower zombie populated areas WILL be smaller than those in high density though.
+
+5) HOWEVER - to encourage you to not stay in the safer zone, we've made loot chances much more strictly follow the zombie densities. Since zombies are largely in the west, where... guess what? All the big stores and restaurants and ahem police station. All the juicy stuff is to the west. Loot will be massively more generous over there than in the east, where it will be significantly more stingy. Chance of finding a fridge full of food there is much reduced. You have (relatively) more safety, but you'll probably want/need to head west to loot, and take a risk with the hordes to have a shot at getting a good cache of supplies. When you return, there should be no more zombies than when you left. Just make sure not to lead them back.
+
+In short, we'll give you a safehouse to feel safe in, but we're gonna make you damn well work for your loot.
+

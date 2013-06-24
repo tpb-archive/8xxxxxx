@@ -1,0 +1,51 @@
+
+
+
+WHY CHOOSE BITCOMET?
+BitTorrent Download
+fast and powerful
+Long-Term Seeding: Speed up downloading and revive dead torrents
+Torrent Share: Exchange torrent while downloading
+Magnet URI: Start BitTorrent download without .torrent file any more, using DHT network.
+Preview while Downloading: Preview of .avi .rmvb .wmv and other video files is available during downloading process.
+Cross Protocol Downloading: Benefit from HTTP/FTP/eMule download sources while BitTorrent downloading.
+Align File to Piece Boundary: Better for making torrent, fully compatible with old versions.
+Intelligent Connection Optimization: Configuration is automatically set to match your connection type.
+Intelligent Disk Cache: Memory cache is used to reduce the read/write frequency of your hard drive, increasing device life.
+Intelligent Disk Allocation: Reduce disk fragmentation.
+DHT network: Start BitTorrent download without connecting to any tracker.
+Auto Config ICF (Internet Connection Firewall) and ICS (Internet Connection Sharing) in Windows.
+Auto Config UPNP port mapping in router (UPnP support is required in router).
+Disabling or Setting Priority of files in torrent: Files can be skipped for downloading, or set to higher / lower priority, allowing you to select which file finish first.
+Also support Multi-tracker, DHT, utf-8 extension, and UDP tracker Protocol v2.
+HTTP/FTP Download
+Innovative P2P Technology
+P2P downloading: BitTorrent technology is integrated into HTTP/FTP download, with which BitComet automatically finds other clients and gets data from them to increase your download speed∩╝îwithout additional bandwidth usage of the HTTP server.
+Intelligent File Rename: Automatic choose the best name for your download file.
+Preview while Downloading: Preview of avi, rmvb, wmv and other video files is available during downloading process.
+Quick Resume: Stopped download tasks can be resumed from where they left off from both HTTP and FTP servers.
+Multi-Mirror download: Mirror servers are automatically found for the file being downloaded. Data from these servers are downloaded at the same time to increase download speed 300% or more.
+Multi-Section download: Files are split into several sections which are downloaded at the same time to increase the download speed up to 500% or more.
+Multi-Language Support: Multi-language web pages and encoded URLs can be correctly handled.
+Download Management
+Customization Available
+Global and Per-Task Speed Limit, for Both Upload and Download.
+Add tags to task, categorize tasks on the fly.
+Bandwidth Scheduler and Automatic Shutdown.
+Easy to Use and Free!
+User-friendly and very easy-to-use, we try to hide every complicated terms behind the interface
+BitComet does not contain any adware or spyware.
+How to support us?
+Support
+Help Wiki: 
+http://wiki.bitcomet.com/
+Support Forum: 
+http://www.cometforums.com/
+
+
+
+
+
+v1.36 2013.5.2
+GUI Bugfix: program crash occasionally when delete task
+Core Improve: support Firefox 20

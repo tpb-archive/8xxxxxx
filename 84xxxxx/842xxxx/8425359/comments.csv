@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,music60,2013-04-30T20:40Z,"Hi Anonymous, 
+Excellent idea the revival of WasatWoodstock & Pags2 - great ups at demonoid. The community thanks you!"
+,WasAtWoodstock,2013-05-02T13:13Z,"Anyone can revive any old Demonoid torrent. All you need is the torrent file and the associated data file unaltered. The Pirate Bay makes it easy.
+
+You need to first set your torrent client to not automatically start torrents. In uTorrent it is Preferences -> UI Settings -> check ""Don't start the download automatically.""
+
+Upload the old torrent file as is to TPB. If there is an ampersand in the title, then copy the title to the next field and change to the word ""and.""
+
+Copy in the info file from the torrent. Edit out any html tags that Demonoid used but TPB doesn't. For links to be hot, they have to start at the beginning of a line or have two spaces in front.
+
+Upload torrent. After TPB has accepted the torrent, delete the old one from your torrent client AND your hard drive.
+
+Download the new torrent. Change its Download Location. In uTorrent right click -> Advanced -> Set Download Location... Point to existing data. Affirm Yes to prompt about overwriting files.
+
+Right click on entry and do a Force Re-Check. Start torrent.
+
+Since these are the same torrent, sometimes other seeders and leechers with partial files will appear and help the seeding get going.
+
+I'm hoping that this newer torrent, with more trackers, will push the Demonoid only one out of the indexes.
+
+I'll send a copy of these instructions to pags2."

@@ -1,0 +1,56 @@
+SYRUP.flv
+
+General
+
+Format                                   : Flash Video
+File size                                : 240 MiB
+Duration                                 : 1h 29mn
+Overall bit rate                         : 372 Kbps
+Tagged date                              : UTC 2013-05-06 09:46:34
+Tagging application                      : inlet media FLVTool2 v1.0.6 - http://www.inlet-media.de/flvtool2
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : 7
+Duration                                 : 1h 29mn
+Bit rate                                 : 284 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.056
+Stream size                              : 184 MiB (77%)
+Writing library                          : x264 core 115
+Encoding settings                        : cabac=1 / ref=3 / 
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 10
+Duration                                 : 1h 29mn
+Bit rate                                 : 80.6 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 42ms
+Stream size                              : 54.3 MiB (23%)
+
+
+Plot
+
+A slacker hatches a million-dollar idea. But, in order to see it through, he has to learn to trust his attractive corporate counterpart .
+
+
+
+* enjoy ...

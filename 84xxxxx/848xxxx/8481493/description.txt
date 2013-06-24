@@ -1,0 +1,12 @@
+This is g0tmi1k's massive composite 18-in-1 wordlist from
+
+It contains various collections from around the web; sorted, cleaned, stripped, blessed, fortified with the calcium and D vitamins of the richest milk, and compiled into a list so comprehensive you wonder if you should even use it.
+
+It contains several lists from tpb, notably Wi-Foo-er's "WPA-PSK WORDLIST 3 Final", and many more listed on his webpage along with content removal statistics regarding duplicate entries. This is NOT only for WPA, as it contains words with less or more than 8 or 16 characters, respectively.
+
+It was compressed with
+cat g0tmi1k-wordlist | 7zr a -m0=lzma -ms=100g -md=64m -mfb=64 -mx=9 -mmt=4 -si ~/Desktop/g0tmi1k-wordlist
+
+It was pretty hard to find, as the dl links on his webpage are dead. I found it eventually atthough they had recompressed it with a password. I dl'ed it and the md5's match! So here it is, recompressed again without a password for all to enjoy.
+
+I will seed as long as it is necessary, but please be patient as my upload is not so fast (~50k).

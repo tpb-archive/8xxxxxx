@@ -1,0 +1,45 @@
+This file originally uploaded by  Ipmark thanks for his great work 
+
+Features highways, interstates, and business and residential roads in metropolitan and rural areas in the U.S. and outlying areas, specifically:
+* Canada
+* Mexico
+* Puerto Rico
+* U.S. Virgin Islands
+* Cayman Islands
+* The Bahamas
+* French Guiana
+* Guadeloupe
+* Martinique
+* Saint Barthélemy
+* Jamaica
+
+instructions for using this file on your Nav unit.
+
+Part A – Internal Memory if you have more than 2GB free
+
+1. Connect your device to the computer.
+2. Go into the Nuvi files located in the Garmin folder and backup the file named “gmapprom.img” to your computer.
+3. Delete the “gmapprom.img” file from the device.
+4. Rename the file you downloaded "gmapsupp.img” to “gmapprom.img”
+5. Copy the unlocked “gmapprom.img” file that you renamed into the device. (these copy proceedures could take up to 45 minutes to accomplish)
+6. Restart your device and check your map info via : Tools>Settings>Map>Map Info.
+Why the renaming?
+This must be done because this is not the primary mapset as it is being used from the SD card. The primary mapset is the one on the GPS’s internal memory.
+
+
+Part B – SD Card
+
+1. Get a 4GB SD card (NOT SDHC for old unit) and format it FAT32
+
+2. Create a folder on the memory card called “Garmin”
+
+3. Copy the downloaded “gmapsupp.img” file into the Garmin folder on your SD card.
+
+4. Insert the SD card into your Garmin GPS, and browse to your map information on your Garmin GPS and you should see the new maps selected. This can be found on the device via : Tools>Settings>Map>Map Info.
+
+5. Deselect the mapset that's out of date.
+
+
+ENJOY!
+
+

@@ -1,0 +1,78 @@
+ http://www.imdb.com/title/tt0813715/episodes?season=3
+
+
+Heroes Season 3 Complete - 25 Episodes
+
+
+
+*** General Parameters ***here
+- Container:  M4V - QuickTime 
+- Creation Date:  2013-05-11 6:20:05 PM 
+- Size:  593 MiB 
+- Duration:  41mn 58s 
+- Bitrate:  1 974 Kbps 
+- Fast start:  No 
+- Encoding Library:  Undefined 
+- Encoding Application:  HandBrake 0.9.8 2012071700 
+
+*** Video Track Parameters ***
+- Format:  H.264/MPEG-4 AVC 
+- Size:  406 MiB (69%) 
+- FourCC:  H264 
+- Track number(s):  0 
+- Bitrate:  Max.: Undefined 
+    Average: 1 353 Kbps 
+    Min.: Undefined 
+- Frame rate (fps):  Max.: 40.614 
+    Average: 25.000 
+    Min.: 25.000 
+- Bitrate mode:  Variable 
+- Encoding profile:  High@L3.0 
+- Resolution:  Undefined 
+- Width (Pixel number):  720 
+- Height (Pixel number):  560 
+- Pixel Aspect Ratio:  Undefined 
+- Display Aspect Ratio:  16:9 
+- Chroma subsampling format:  YUV 4:2:0 
+- Standard:  Undefined 
+- Interlacing:  Progressive 
+- Encoding library:  x264 core 120 
+- Additional Parameters:  CABAC: Yes 
+    Reference Frames: 4 
+    Bits/(Pixel*Frame) ratio: 0.134 
+
+*** Audio Track(s) Parameters ***
+*** Audio Track #1
+- Format:  AAC - MPEG-4 audio 
+- Size:  48.0 MiB (8%) 
+- FourCC:  0x28 
+- Number(s) and language(s):  2: English 
+- Details:  Undefined 
+- Profile:  Low Complexity 
+- Bitrate:  160 Kbps 
+- Bitrate mode:  Variable 
+- Resolution:  Undefined 
+- Rate:  48.0 KHz 
+- Channel(s):  2 (stereo) 
+- Position:  Front: L R 
+- Encoding Library:  Undefined 
+- Additional Parameters:  Not available 
+
+*** Audio Track #2
+- Format:  AAC - MPEG-4 audio 
+- Size:  134 MiB (23%) 
+- FourCC:  ac-3 
+- Number(s) and language(s):  3: English 
+- Details:  Undefined 
+- Profile:  Undefined 
+- Bitrate:  448 Kbps 
+- Bitrate mode:  Constant 
+- Resolution:  16 bits 
+- Rate:  48.0 KHz 
+- Channel(s):  5:1 - 6 channels 
+- Position:  Front: L C R, Side: L R, LFE 
+- Encoding Library:  Undefined 
+- Additional Parameters:  Not available 
+
+*** Miscellaneous ***
+- Subtitle(s):  none

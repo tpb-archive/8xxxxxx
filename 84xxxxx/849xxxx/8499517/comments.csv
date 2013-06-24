@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+[V],extremezone,2013-05-22T21:07Z,if a moderator read this please move it to games category-thanks
+,borges21,2013-05-22T22:09Z,also has portuguese language?
+,zitorix,2013-05-23T14:41Z,"DO NOT DOWNLOAD!
+
+Don't bother downloading, you'll just get this error:
+
+""The application has failed to start because the side by side configuration is incorrect please see the application event log or use the command line sxstrace.exe tool for more detail""
+
+I tried all the solutions for this specific error, none of them work. Nor do I get this error for anything else.
+
+DO NOT DOWNLOAD!"
+,Bunnuh,2013-05-23T16:14Z,"Don't listen to Zitorix. :| Playing it right now and it works fine for me, he just has something wrong with his which he needs to solve."
+,Ixshil,2013-05-23T16:23Z,"***WORKS PERFECTLY***
+
+Zitorix, Did you install the required MISSING redistributables?
+
+This game requires the 3rd one on this list http://www.microsoft.com/en-us/download/details.aspx?id=26347
+Direct link: http://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
+"
+,Dllfile,2013-05-23T23:33Z,"@zitorix sounds like a missing runtime of some sort. Side by Side is a generic Window Vista/7/8 error that means it cannot find something required for the software to run properly. Most commonly it is usually a specific build of Visual Basic/CRT/ATL.. but could also be DX Builds, .NET etc.."
+,Oracle1990,2013-05-24T10:28Z,"DIP! (I downloaded it, installed it, played it.) No problems."
+,Dllfile,2013-05-24T11:25Z,"Visual C* - just woke up, realized I put VB but whatever - point made. Game works at any rate :)"
+,CMS93,2013-05-25T08:24Z,"@zitorix
+
+that's because you didn't install it correctly. you shouldn't be talking shit for nothing man."
+,DaTaicho,2013-05-26T02:44Z,anybody else have trouble copying over the steam_api.dll file?
+,acegikmoq,2013-05-26T23:02Z,The files in the torrent does not include a crack folder. Did this happen to anyone else?
+,tketch,2013-05-28T16:56Z,"The crack is located on the image.
+
+I downloaded from another tracker, but I'm getting a 142 error (application failed to start) even after downloading and installing all the right redistributables (which didn't require [re]installing in the first place)."
+,noekk,2013-05-28T21:53Z,Reloaded's steam_api.dll is being knocked out by Windows Defender. I don't know about this group anymore.
+,thraxx_capiz,2013-05-29T07:53Z,"its working but i don't like the game its kind of boring, just my opinion. works perfectly just follow instruction."
+,TheRad,2013-05-31T08:26Z,"Curious what the steam files are for? Works great!
+Could anyone help me with my question though"
+,madroxDupe,2013-05-31T12:09Z,"good relase works greate ! Thanks RELOADED !!! 
+but this game will need lots of patches. Would be great if guys could add them as they go :) please .. pretty please ^^ "
+,garlicjr,2013-06-03T01:52Z,"good work, fun game, works fine read nfo"
+,W-olf,2013-06-06T08:20Z,"Game keeps crashing mid game, when you autoload it crashes again... Shit they need to fix this.. "
+,Random20,2013-06-07T03:06Z,"This download and install works perfectly. Thanks again for the upload.
+
+I think a patch or two for this got released on steam. I could be mixing this up with the plain old Fallen Enchantress though. Anyone got a link to a patch and crack that we can use for Legendary Heroes?"
+,timrath,2013-06-13T01:03Z,Did anyone get this to run with WinXP? I keep getting a 0xc0000142 error.
+,Flawlessjess,2013-06-14T09:00Z,"Hes not the only one having errors windows 7 latest drivers for everything i get  ""legendary heroes unable to start correctly 0xc00000022"" first time i have had an issue with any game from reloaded."
+,Flawlessjess,2013-06-14T10:12Z,fix here http://www.dll-files.com/dllindex/dll-files.shtml?steam_api

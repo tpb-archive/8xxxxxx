@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,vfmontes,2013-05-22T18:33Z,"Hello, this is only for JeppTC, and JeppFD v2.0.0"
+,flybyware,2013-05-22T18:46Z,PC version?? Please
+,vfmontes,2013-05-22T19:37Z,"It is posible to crack the JeppFD v.2.0.6, and try to install the updates, without problems?, thanks"
+,helitay,2013-05-22T20:03Z,thanks!!!
+,twinpics,2013-05-23T05:35Z,"@vfmontes you can use this on Jeppesen Mobile FD 2.0.6 its working, just copy all the content from TermCharts to: //JeppFD.app/DemoData/TermCharts
+
+and then copy all the content from db_a and db_b (sb1 and store from both, db_a and db_b) and paste it in:
+//JeppFD.app/DemoData/Enroute/Database
+
+
+im using the demo Version of JeppesenFD.."
+,phrca,2013-05-23T10:25Z,"I'm still on version 2.0.0. Is it true that enroute is not working anymore?
+
+Thanks for the upload btw!!!"
+,kenabek,2013-05-23T14:33Z,"@twinpics I can not change /JeppFD.app/DemoData/TermCharts in Jeppesen Mobile FD 2.0.6 this is lock.
+
+Please HELP"
+,vfmontes,2013-05-23T15:53Z,"Hello @twinpics and thanks, but there is true that we cant change /JeppFD.app/DemoData/TermCharts in Jeppesen Mobile FD 2.0.6 because this is lock.
+
+Can you confirm what software did you use, Im using DiskAid and iTools and I have the same problema that @kenabek.
+
+Thanks a lot for the information."
+,twinpics,2013-05-23T23:48Z,"im using i-funbox, jailbroken ipad 2 ios 6.1.2"
+,vfmontes,2013-05-24T03:32Z,Thanks a lot @twinpics
+,V1RotateV2,2013-05-24T10:48Z,"TermCharts work perfectly under JeppTC.
+
+Awaiting JeppView for PC to enable VFR and see if it works the same under JeppFD v.2.0.0."
+,twinpics,2013-05-24T20:17Z,"if any of you copied all the content with the app loaded it may not let you rewrite its content, thats why no charts nor routes will show.. so make sure you kill jeppFD before pasting all the content..."
+,twinpics,2013-05-24T22:50Z,"it seems that if you use ios 6.3 without JAilbreak it will only let you copy files to any folder Named ""documents"" but wont let you create new ones outside of it.. so thats why yo can use mobileTC, it stores its data inside a folder named Documents but in mobile FD its called differently and it prevents you from writting anything to the ipad, but you can extract info.."
+,twinpics,2013-05-24T23:05Z,some Findings: iOS 6 prevents any 3rd party software having write access to the folder “[app_name].app” in all App sandbox from PC/Mac. Other folders like “Documents” and “Library” are still open for write access. No way to fix it shortly.
+,kastacas,2013-05-25T03:12Z,anyone who still have v2.00 could share original itune ipa v2.00 not the cracked one thx in advance
+,twinpics,2013-05-25T03:53Z,"if anyone needs only the europe VFR 1310: 
+http://thepiratebay.sx/torrent/8506930/JeppFD_europe_VFR_1310_ipad"
+,pilotecap10,2013-05-26T08:46Z,could you give it for PC please?
+,Capt_Minus,2013-05-28T19:40Z,"Hi, I could able to get terminal charts working but unable to get enroute data even after transferring db_a and db_b in respective folder, iam using ios6.1.2 jailbreak, jeppfd 2.0.6. Any help?"
+,Despot75,2013-05-31T03:13Z,Thanks very much. Works great.
+,yboubeke,2013-06-01T17:10Z,"hello everyone , to those having trouble in using the enroute charts here is the solution that works only in jepp fd 2.0.0 , the problem is 4 missing files , let's fix them step by step 
+1- go to enroute folder in your pc then db_a then store folder 
+2- select the file named appedoc_store_1.dat , right click copy and paste , 
+3 now you have a new file called appedoc_store_1 copy.dat , rename it as follow appedoc_store_1.lock and ignore the message of changing extention just click ok 
+4- in the same folder select the file appenr_store_1.dat , right click copy and paste then rename the copied file to appenr_store_1.lock , and ignore the message of changing extention just click ok 
+5 - now go to db_b folder then store and do the same procedure as with db_a folder , 
+6 once done you can now copy from your pc to your ipad , go to enroute , db_a , db_1 select all the files then copy them to jeppfd/data-enroute/db_demo/db1 and do the same with db_b/db_1 select all files then copy them to jeppfd/data/enroute/db_demo/db1 and do the same with db_b/db_1 , then go to db_a folder in pc , then store folder select all the files then copy them to jeppfd/data/enroute/db_demo/store and the same with db_b/store folder , copy all the contents to jepp_fd/data/enroute/db_demo/store and the work is done 
+by the way i'm using ipad 3 jailbreak 5.1.1 app sync and jeppfd 2.0.0 , for terminal chart i think it's easy just copy "
+,yboubeke,2013-06-01T17:32Z,"hello everyone , to those having trouble in using the enroute charts here is the solution that works only in jepp fd 2.0.0 , the problem is 4 missing files , let's fix them step by step 
+1- go to enroute folder in your pc then db_a then store folder 
+2- select the file named appedoc_store_1.dat , right click copy and paste , 
+3 now you have a new file called appedoc_store_1 copy.dat , rename it as follow appedoc_store_1.lock and ignore the message of changing extention just click ok 
+4- in the same folder select the file appenr_store_1.dat , right click copy and paste then rename the copied file to appenr_store_1.lock , and ignore the message of changing extention just click ok 
+5 - now go to db_b folder then store and do the same procedure as with db_a folder , 
+6 once done you can now copy from your pc to your ipad , go to enroute , db_a , db_1 select all the files then copy them to jeppfd/data-enroute/db_demo/db1 and do the same with db_b/db_1 select all files then copy them to jeppfd/data/enroute/db_demo/db1 and do the same with db_b/db_1 , then go to db_a folder in pc , then store folder select all the files then copy them to jeppfd/data/enroute/db_demo/store and the same with db_b/store folder , copy all the contents to jepp_fd/data/enroute/db_demo/store and the work is done 
+by the way i'm using ipad 3 jailbreak 5.1.1 app sync and jeppfd 2.0.0 ifunbox, for terminal chart i think it's easy just copy , "
+,twinpics,2013-06-05T06:56Z,enroute is from 1310Cycle....
+,juanbetan86,2013-06-05T16:09Z,"Hi yboubeke!!! Thanks for your procedure to make the enroute charts working!!. It works for me!!! I don't have iPad jailbroken, and even works!"
+,twinpics,2013-06-05T20:17Z,"THIS CYCLE isnt 1311, it is 1310... check the date uploaded and also jeppFD is telling me its 1310..."
+,jeromepp,2013-06-06T22:11Z,"Hi yboubeke
+Any idea how to revert to 2.0.0?
+I've iPad4 with iOs 6.1.3, and FD 2.0.6
+I deleted FD, and reinstalled 2.0.0. But it asks me for an Apple login, doesn't accept mine and closes...
+I can't jailbreak it, as jailbreak doesn't work (yet) with 6.1.3...
+Any idea?"
+,jeromepp,2013-06-06T22:16Z,"Hi yboubeke,
+How to install it on an iPad which already runs iOs 6.1.3. Jailbreak doesn't exists for 6.1.3...
+Any idea?
+I removed FD 2.0.6 and I tried to reinstall 2.0.0, but it asks me an apple login and closes...
+Thanks"
+,el_barto7,2013-06-08T02:15Z,"FYI, new JeppFD 2.0.7 works ok on Demo, with Jailbreak!"
+,yboubeke,2013-06-12T20:25Z,"hi everybody , to those having ios 6.1.3 , i'm sorry i have no idea how to fix that , i'm still using ios 5.1.1 , i wish you a good luck "

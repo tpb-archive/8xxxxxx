@@ -1,0 +1,59 @@
+Zombie Apocalypse is a film by Syfy and The Asylum starring Ving Rhames, Gary Weeks, Johnny Pacar, Robert Blanche, Anya Monzikova, Lesley-Ann Brandt and Taryn Manning.
+
+==plot==
+Months after a zombie plague has wiped out 90 percent of the American population, a small group of survivors fight their way cross-country to a rumored refuge on the island of Catalina.
+
+
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 1 014 MiB
+Duration : 1h 25mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 662 Kbps
+Writing application : HandBrake 0.9.8 2012071700
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L2.2
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 1h 25mn
+Bit rate mode : Variable
+Bit rate : 1 500 Kbps
+Width : 640 pixels
+Height : 352 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Frame rate : 20.000 fps
+Minimum frame rate : 10.000 fps
+Maximum frame rate : 20.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.333
+Stream size : 914 MiB (90%)
+Writing library : x264 core 120
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 25mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Maximum bit rate : 264 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : 150ms
+Stream size : 97.6 MiB (10%)

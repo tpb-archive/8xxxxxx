@@ -1,0 +1,16 @@
+Changes in Rev 1154:
+
+GUI resizing should work in almost all hosts on all platforms!
+In case the data folder isnΓÇÖt found, an error message is shown on the UI instead of a blank gui
+Presets in the bottom of the patch browser can be clicked on their full area now
+Prev/Next preset buttons skip junk now
+Renamed ΓÇ£VoiceΓÇ¥ to ΓÇ£StackVoiceΓÇ¥ in Voice Circuit Modulation Sources. Please test if presets still work!!!
+Reworked MIDI Program Changes (it also displays as midi-activity now)
+VST3 now handles mousewheel and keyboard input correctly
+VST3 support the hostΓÇÖs bypass-function
+Mac installer doesnΓÇÖt contain ΓÇ£Uhbik.vstΓÇ¥
+Patch-Browser scrolls to the right when hitting arrow-right.
+
+
+
+dadalinux.wordpress.com

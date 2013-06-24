@@ -1,0 +1,73 @@
+Description: 
+
+ Light Flow allows you to take control of your notification LED colors and makes them successively flash one color after another.
+
+It also allows you to set repeating sounds on vibration patterns for you notifications. You can also set a "sleep" mode or "on charge" where the lights and/or sounds and vibrations will not be heard or seen. If you've come from a Blackberry device and miss the features of BeBuzz / BerryBuzz then give LightFlow a try!
+
+This program will allow you to control the notification color for the over 550 applications and system events such as:
+* Missed calls
+* Voice mail
+* Calendar reminders
+* gmail
+* email
+
+
+* SMS messages
+* MMS messages
+* Low battery
+* No signal
+* Google talk
+*
+* Twitter
+...and many many more
+
+See our website for a full list of applications supported: 
+http://www.folioflow.com/ff/page/website/lightflow/pageId/1687
+
+It allows the colors to flash in succession, so if you have a new SMS and a missed call it can alternate between the two colors. You can also set which notification type has the highest priority and let it flash in just that one color.
+
+It'll even push notifications out to your pebble smart watch and the DashClock lock screen extension.
+
+
+For a full changelog see here: For a full changelog see here: 
+https://www.folioflow.com/ff/page/website/lightflow/pageId/1693
+
+For a full list of permissions required and why see here: 
+http://www.folioflow.com/ff/page/website/lightflow/pageId/2277
+
+Known issues/Limitations
+-------------------------
+Samsung phones when accessibility is enabled may cause the phone to start talking, warnings about air view and a few other issues. These are confirmed samsung bugs (see here: http://developer.samsung.com/forum/board/thread/view.do?boardName=GeneralB&messageId=204387) but the app can be run without the accessibility service and still work (but with a reduced notification list)
+
+
+Not all phones support all colors.
+For example: Most HTC phones only support 3 colors and require "Rooting" and running the app in "direct mode"
+
+Some phones can only light up the notification while the screen is off.
+
+Some phones cannot have their notification light always on
+
+Some phones cannot have their notification blink and it will always be on
+
+Note that it will take over control of your notifications and you will therefore only get notifications for categories that the app allows.
+
+
+Γÿà We recommend you try the "lite" version first before purchasing to avoid any disappointment if it doesn't work for you. Some phones require root privileges to access the LEDs. Γÿà
+
+Γÿà For the differences between this version and the lite version see here: http://www.folioflow.com/ff/page/website/lightflow/pageId/1687 Γÿà
+
+Γÿà If after updating you have problems we recommend you reboot your phone Γÿà
+
+** Most HTC phones require "direct mode" setting. Most gingerbread builds for HTC phones require root access due to HTC changing the permissions on the LED control files. **
+
+** If upgrading from the "lite" version, please uninstall the lite version first but you can backup and restore settings between versions **
+
+===================================
+
+What's New: 
+
+ Too many changes to fit here, see: http://folioflow.com/ff/page/website/lightflow/pageId/1693
+Loads of DashClock extensions - show traffic delays straight to your lockwhatsapp, system state settings such as wifi, sound etc with direct access to them from the lock screen.
+Support forchatheads, separate notifications for friend requests, invites +more
+Rewritten accessibility service checks, better S4 support. Now not required (but with limited features)
+70 new apps.

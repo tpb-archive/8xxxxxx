@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,D0gmeat,2013-05-05T02:14Z,What's different about this torrent than the other you upped yesterday...?
+[T],bruss.aka.durka9,2013-05-05T08:47Z,"to D0gmeat
+This is final version with complete fixes:
+* language pack fix
+* updater fix
+* launcher fix
+* and newest version 5280 -> 5287"
+,D0gmeat,2013-05-05T10:10Z,Ah ok thanks missed the version# change.
+,DJ_DU2CE,2013-05-06T23:40Z,"When I start the game it says: ""Unable to load ...Filesystem_steam.dll
+
+HELP!"
+[T],bruss.aka.durka9,2013-05-07T00:35Z,"to DJ_DU2CE
+Restart computer --> full off antivirus --> run updater --> run game with administrator privileges."
+,bulldog007,2013-05-07T10:31Z,"Unfortunately the game plays only with full of antivirus :-(
+why??
+i have problem with tool.lamenew file........
+is that file  virus????
+help please!!!"
+[T],bruss.aka.durka9,2013-05-07T10:56Z,"to bulldog007
+No. If you not trust - delete game and download other."
+,bulldog007,2013-05-07T11:41Z,"to bruss
+the problem isn't if i trust or not...........
+just....... pc is unprotected when i play the game 
+because of closed antivirus.
+
+if you have any other suggestions..........i'm all ears"
+[T],bruss.aka.durka9,2013-05-07T11:50Z,"to bulldog007
+Delete this game and download other."
+,DJ_DU2CE,2013-05-08T23:25Z,"Okay, thx bruss, no it works. But one big problem I have! The skins! I put all /materials/models/weapons (and /models/weapons and so on for the skins) in the custom Bruss.Ru folder ... but If I join a server, it loads and loads... but it´s not starting? Why!? And I have also skins for particles and so on, and I also put this folders in /custom/Brussorg.ru 
+The game is starting but when I join a server...  loading loading loading.. after 30 min no changes!"
+[T],bruss.aka.durka9,2013-05-09T01:22Z,"to DJ_DU2CE
+Not all server permit using custom skins and other non standard content.
+First, you must enter sv_pure -1 in console.
+Second, connect to server who have sv_pure -1 or allow your content."

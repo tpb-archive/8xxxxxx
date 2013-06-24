@@ -1,0 +1,67 @@
+Info at http://www.avanquest.com/USA/software/powerdesk-pro-8.5-upgrade-158959
+
+
+read and follow instructions in install.nfo
+
+Patch by FFF (FiGHTiNG FoR FuN)
+
+included the Disk Space Saver which is the only thing added to PD9 apart from many new bugs and would not recommend it
+
+
+
+---------------------------------------------------------------------
+
+
+
+INSTALL OPTION 1 &lt;EASY&gt;
+----------------
+
+Run " PowerDesk 8.5.msi " and install
+
+Double Click " PowerDesk.reg"
+
+Right Click " Blocker.bat " and select RUN AS ADMINISTRATOR
+
+
+
+Run PowerDesk
+
+
+
+INSTALL OPTION 2 &lt;ADVANCED&gt; (if you don't know what your doing then use option 1)
+----------------
+
+Run " PowerDesk 8.5.msi " and install
+
+Copy " x??-patch.exe " into your install folder
+
+Right Click x??-patch.exe and RUN AS ADMINISTRATOR
+
+Click " Crack " and then wait for it to finish and exit
+
+ADD the following THREE Lines into your Hosts file
+
+127.0.0.1 tools.bvrp.com
+127.0.0.1 tools.avanquest.com
+127.0.0.1 217.195.25.72
+
+
+Run PowerDesk
+
+
+NOTE FOR x86 USERS : for some reason x86-patch.exe patches the original pdexpl.exe which wasn't installed on any of my machines (XP Pro/Win7 x86/Win7 x64)
+it now uses PDExploNXP.exe
+to fix this extract the original " pdexplo.exe " from " pdexplo.rar " into your install folder BEFORE you run the patch
+
+
+
+//DO NOT Update
+//DO NOT Register
+//DO NOT allow online
+
+
+** IF PROGRAM EVER ASKS FOR A SERIAL USE THIS ONE : 9135-0271-24DM-7RP0-EPC9-5H3E
+
+
+
+/KiwiPirate

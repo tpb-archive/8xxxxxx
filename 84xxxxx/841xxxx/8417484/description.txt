@@ -1,0 +1,12 @@
+Portable version of VMware Player.
+
+It comes with 3 executables:
+  # VMware Player Portable (run).exe: Makes all changes needed to run VMware Player Portable, then run it.
+  # VMware Player Portable (clean).exe: Reverts all changes made on the computer by the first executable.
+  # VMware Player Portable (run & clean).exe: Makes all changes needed to run VMware Player Portable, then run it and clean everything up when VMware Player is closed.
+
+The last executable is the most portable of the three, but the first one is faster on subsequent runs.
+
+All of the three executables need administrator permissions to run.
+
+To update VMware Player Portable, just put the installer of the newer version on the Update folder, and it will update itself the next time it runs.

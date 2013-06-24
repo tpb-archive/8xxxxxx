@@ -1,0 +1,27 @@
+___________ 
+Changelogs: 
+___________ 
+
+Added: 
+
+git 
+curl 
+aircrack-ng 1.1 
+update airodump 
+reaver 
+ubuntu repo 
+iw 
+inflator 
+
+Upgraded: 
+
+build-essential 
+libssl-dev 
+libpcap-dev 
+sqlite3 
+libsqlite3-dev 
+libpcap0.8-dev 
+
+
+
+For help read the read me file.

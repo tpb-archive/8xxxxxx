@@ -1,0 +1,22 @@
+Crack ONLY!!!
+
+Program: http://download.unity3d.com/download_unity/unity-4.1.2.dmg
+
+Install: 
+
+
+1) locate /Applications/Unity folder
+
+2) RMB on Unity icon and Show package content
+
+3) copy Unity file to /Applications/Unity_41/Unity.app/Contents/MacOS (you can backup old Unity file)
+
+
+4) on selected file chage permissions to be executable (via terminal)
+	chmod +x Unity
+
+5)
+copy Unity_v4.x.ulf to
+/Library/Application Support/Unity
+
+(make dir if there is no Unity under Application Support) 

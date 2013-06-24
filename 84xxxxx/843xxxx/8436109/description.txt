@@ -1,0 +1,26 @@
+Create Cloud-Connected Mobile Apps in a Breeze
+Writing multi-platform mobile applications no longer requires multiple IDEs for server side and client side code. Zend Studio provides visual, drag-and-drop methods for both client-side interface prototyping and RESTful web service creation. Built-in PhoneGap and jQuery integration lets you write, test (using emulator or target device) and package apps that function across all major mobile operating systems, including iOS, Android, Blackberry, Windows Phone and others.
+
+The Zend Server Gateway, included in Zend Studio, takes the work out of connecting mobile devices to a scalable, cloud-based back end. It consists of a lightweight set of PHP APIs that allow communication with a diverse set of client devices, and is integrated with visual, drag-and-drop service creation in Zend Studio. Streamlined deployment processes then let you run these PHP-based RESTful services in the cloud or on-premise with advanced diagnostics and debugging through Zend Server.
+
+
+
+Developing mobile applications
+Maximize Development Productivity
+Zend Studio is the leading IDE (Integrated Development Environment) for professional developers to create business critical PHP applications. You can write and maintain PHP code faster, solve problems more quickly, develop in the cloud and improve team collaboration.
+
+Content assistance lets you immediately understand which methods or variables are currently in scope
+Templates for new classes, traits, etc. take care of basic plumbing for you
+Source control integration helps you work smoothly with SVN, CVS, Git, GitHub, and more
+Unit testing, debugging, and profiling tools help you write top-quality code
+And much moreΓÇª
+Write Zend Framework 2 Code Instantly
+Zend Studio has built in tools that allow you to more efficiently create and work with Zend Framework applications. Create new ZF2 projects with just a few clicks and minimal download time. Create ZF2 modules, view helpers and controllers, get content assist for services, and take advantage of other ZF2 features to make your coding more productive than ever! 
+
+Creating a ZF2 project
+Develop in the Cloud
+Zend Studio allows you to seamlessly deploy code in the cloud using a Zend Server runtime environment designed for developers. Why do that? You'll get a certified and tested PHP stack, app monitoring and advanced debugging, performance tuning, and more.
+Zend Developer Cloud: this free cloud-based PHP stack based on Zend Server is ideal for team collaboration and is agnostic about the cloud or on-premise environment apps are deployed to.
+Red Hat OpenShift: also a free cloud-based PHP stack based on Zend Server, it provides simple snap-in of components like MongoDB and MySQL and provides the power of the OpenShift environment for eventual production deployment.
+
+You can also deploy similarly onto any on-premise Zend Server.

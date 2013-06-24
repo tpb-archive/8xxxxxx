@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,akun91,2013-05-07T17:33Z,"For Mac OS X users :
+You need windows in order to run the keygen.
+You can do so by emulating a windows inside your osX.
+For noobs or people too lazy/busy to install a virtual machine I accept to give you the authorization files.
+Send me your request code to:
+akun@live.co.uk
+// W/ Love "
+,milgax,2013-05-16T21:06Z,"Great, works just fine! 
+One thing tho. To get instruments and Melodyne for example, Studio One requests Presonus username and password connected to the product. 
+
+How to solve this?  It doesn't work creating a new account on their website as it's not connected to the product."
+,milgax,2013-05-16T21:23Z,It seems the product key is licenced to Team AiR (ofc). Is it possible if you put a torrent up with all the instruments and additions you can find under Studio One > Studio One Installations? 
+,akun91,2013-05-17T01:54Z,"Hey bro ! If you want to change the license register name just put whatever you want in the keygen (you can modify it!).
+For the Studio one instruments, well i'm afraid to say that I can't support that feature on this release, sorry.
+But if you want to get the integrated melodyne editor to work here are the instructions :
+
+-Download this one : http://thepiratebay.sx/torrent/7573294/Celemony_Melodyne_Editor_2.1.0.45_Win_(cracked-R2R)_[ChingLiu]
+
+-Run the installer,
+
+CAUTION !
+
+In the first steps select :
+
+*The VST3 (32bit) plugin if you work w/ S1 x86
+and place it to your 32-bit VST folder (if you are on windows 32-bit it is C://Program Files/VstPlugins generally, on windows 64-bit it is C://Program Files(x86)//VstPlugins)
+
+*The VST3 (64-bit) Plugin if you work w/ S1 x64
+and place it to your 64-bit VST folder
+(C://Program Files/VstPlugins)
+
+*Or both
+
+// It should run just fine after that, to use it, run studio one, right click on an (already) recorded audio track (not a midi instrument), then ""audio"", and ""edit with melodyne""
+"
+,skulldragon,2013-05-26T21:30Z,"It doesn't do, what I expected it would do, so it's no use to me. I went thru like 20 different products, different sizes and only products of MAGIX are able to actually work and do what I want..."
+,keibafan,2013-06-03T06:15Z,Thanks again!
+,stratotak,2013-06-05T00:30Z,"It will not show Reason 5.I down loaded demo from site and ran it and ran it in demo mode and Reason 5 didnt show up,"
+,akun91,2013-06-05T01:25Z,"@stratotak
+The demo version of reason doesn't work in rewire (that's a limitation in order that you buy their software)
+If you want to get it working uninstall your demo version, and download and install this one:
+https://thepiratebay.sx/torrent/6337121/Propellerhead_Reason_5_[CRACKED]
+then you'il see it in the rewire peripherals of studio one."
+,stratotak,2013-06-05T04:20Z,"https://thepiratebay.sx/torrent/6337121/Propellerhead_Reason_5_[CRACKED
+
+That is the version of reason I have. It doesnt show up in Studio One with the version in your download.
+I downloaded demo of Studio One to see If it was same as verion in this torrent.
+I dual boot 2 versions od Win7x64.One running bare services.The other stock setup.Thought it might be a service disabled but it does same when I install in stock Win7 x64.Reason is not in Studios vendor section."
+,stratotak,2013-06-05T04:22Z,Also I know its not a Reason issue because Reaper works fine with Rewire and Reason.
+,stratotak,2013-06-05T04:29Z,Reason works with reaper so it is a issue with this release.
+,stratotak,2013-06-05T09:21Z,"Ok .. Reaper works with Reason 5. Studio One shows Reaper as a rewire device and works. I downloaded older version of Reason 4. Same problem.I have tried to install into 2 different locations.  
+Programs(x64)
+Programs
+No dice ...Not sure why S1  doesn't pick up Reason."
+,akun91,2013-06-06T23:14Z,"Hey stratotak !
+As Reason is 32-bit only, make shure that you have installed the 32 bit version of Studio One.
+The daws must be equal in bit depth (32-bit+32bit/64-bit+64-bit).
+Hope it may help you."
+,rWevans,2013-06-07T22:37Z,"Cannot open the keygen, zippeg will not extract the file? "
+,akun91,2013-06-08T00:26Z,look after your antivirus

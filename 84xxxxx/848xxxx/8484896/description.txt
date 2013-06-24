@@ -1,0 +1,19 @@
+
+The Tor software protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.
+The Tor Browser Bundle lets you use Tor across any platform, without needing to install any software.
+
+It can run off a USB flash drive, comes with a pre-configured web browser, and is self-contained.
+Get Tor Browser Bundle and try it for yourself to see just how useful it can actually be in protecting your privacy while you're online!
+Surfing anonymously provides a powerful shield against network surveillance and traffic analysis. Protecting your online privacy can only be achieved by additional software tools that can hide your location and can prevent your online information and browsing habits from being revealed to anyone.
+
+If youΓÇÖre ever in need of such a tool, Tor Browser Bundle is one suggestion you can add to the list. The application relies on a network of virtual servers in order to make your browsing sessions anonymous. Tor makes available a set of rules and algorithms that routes the communications through various servers all over the world. Thus, all the traffic is randomized so tracking the source becomes an almost impossible task.
+
+The download package is a self-extracting archive that includes the Tor application itself, which can be run from command line, a cross platform controller GUI named Vidalia and a custom-made version of Firefox equipped with a set of addons that ensure online anonymity.
+
+We advise the average user to consider using the Vidalia application, because the graphical interface puts you through a lesser ordeal than the command prompt version of Tor. When you first run Vidalia, it automatically connects to the Tor network and if the process is successful, a status will be displayed in the main window.
+
+VidaliaΓÇÖs interface encases a collection of shortcuts that allow you to stop the service, to start setting up the relays, to trigger a global view of the network and most important of all, it sports a button for using a new identity any time you wish. If youΓÇÖre interested in bandwidth usage, Vidalia features a separate utility just for showing a bandwidth graph that measures the receive/send rate of the packets.
+
+The portable Firefox version included in the download package is customized with a few extensions that make the anonymous surfing experience easier. These include: Torbutton - allows you to create a new identity each time you start a browsing session, NoScript ΓÇô blocks scripts from untrusted domains and HTTPS Everywhere - enables you to encrypt the communication with a lot of popular sites.
+
+With all the components it encases, Tor Browser Bundle is one of the most trustworthy anonymous surfing tools out there. It can be configured from command prompt, run from its dedicated GUI controller ΓÇô Vidalia and comes with a pre-configured web browser. Whichever of these methods you choose the result is a safe and controlled Internet browsing experience.

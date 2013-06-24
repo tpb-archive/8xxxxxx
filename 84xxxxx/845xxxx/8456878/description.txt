@@ -1,0 +1,105 @@
+Eagles - Hotel California (1976) 
+http://en.wikipedia.org/wiki/Hotel_California
+
+Tracklist:
+
+01. Eagles - Hotel California (6:30)
+02. Eagles - New Kid in Town (5:04)
+03. Eagles - Life in the Fast Lane (4:46)
+04. Eagles - Wasted Time (4:57)
+05. Eagles - Wasted Time (reprise) (1:23)
+06. Eagles - Victim of Love (4:09)
+07. Eagles - Pretty Maids All in a Row (3:59)
+08. Eagles - Try and Love Again (5:11)
+09. Eagles - The Last Resort (7:28)
+
+EAC LOG:
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 6. May 2013, 0:18
+
+Eagles / Hotel California
+
+Used drive : TSSTcorpCDDVDW TS-L633C Adapter: 0 ID: 0
+
+Read mode : Secure
+Utilize accurate stream : Yes
+Defeat audio cache : Yes
+Make use of C2 pointers : No
+
+Read offset correction : 6
+Overread into Lead-In and Lead-Out : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations : Yes
+Used interface : Native Win32 interface for Win NT & 2000
+
+Used output format : Internal WAV Routines
+Sample format : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+ Track | Start | Length | Start sector | End sector 
+ ---------------------------------------------------------
+ 1 | 0:00.32 | 6:30.00 | 32 | 29281 
+ 2 | 6:30.32 | 5:03.70 | 29282 | 52076 
+ 3 | 11:34.27 | 4:46.00 | 52077 | 73526 
+ 4 | 16:20.27 | 4:57.15 | 73527 | 95816 
+ 5 | 21:17.42 | 1:23.13 | 95817 | 102054 
+ 6 | 22:40.55 | 4:09.07 | 102055 | 120736 
+ 7 | 26:49.62 | 3:58.50 | 120737 | 138636 
+ 8 | 30:48.37 | 5:11.18 | 138637 | 161979 
+ 9 | 35:59.55 | 7:27.42 | 161980 | 195546 
+
+
+Range status and errors
+
+Selected range
+
+ Filename D:Eagles - Hotel CaliforniaEagles - Hotel California.wav
+
+ Peak level 100.0 %
+ Extraction speed 1.9 X
+ Range quality 100.0 %
+ Test CRC DA79FB78
+ Copy CRC DA79FB78
+ Copy OK
+
+No errors occurred
+
+
+AccurateRip summary
+
+Track 1 accurately ripped (confidence 8) [7FD711E8] (AR v2)
+Track 2 accurately ripped (confidence 9) [AC277902] (AR v2)
+Track 3 accurately ripped (confidence 8) [D0EBEBDD] (AR v2)
+Track 4 accurately ripped (confidence 7) [A8426151] (AR v2)
+Track 5 accurately ripped (confidence 9) [6B3AD3F3] (AR v2)
+Track 6 accurately ripped (confidence 9) [E3BF3E19] (AR v2)
+Track 7 accurately ripped (confidence 9) [0C34CB59] (AR v2)
+Track 8 accurately ripped (confidence 9) [34BC6DF4] (AR v2)
+Track 9 accurately ripped (confidence 8) [EB381D59] (AR v2)
+
+All tracks accurately ripped
+
+End of status report
+
+---- CUETools DB Plugin V2.1.4
+
+[CTDB TOCID: 1DgkNAJI4t55vqcJR_Hf98XyxQM-] found
+Submit result: 1DgkNAJI4t55vqcJR_Hf98XyxQM- has been confirmed
+Track | CTDB Status
+ 1 | (1/1) Accurately ripped
+ 2 | (1/1) Accurately ripped
+ 3 | (1/1) Accurately ripped
+ 4 | (1/1) Accurately ripped
+ 5 | (1/1) Accurately ripped
+ 6 | (1/1) Accurately ripped
+ 7 | (1/1) Accurately ripped
+ 8 | (1/1) Accurately ripped
+ 9 | (1/1) Accurately ripped
+
+
+==== Log checksum 25E96DEFB32339D9A20C666C836A6BF38070E33C5B44EFF465722271C70CC9BF ====

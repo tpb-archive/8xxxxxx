@@ -1,0 +1,151 @@
+﻿User Type,Username,Date,Text
+,SymVoid,2013-05-11T00:06Z,My internet speed is not the best so initial download will be slow. Please help by seeding!
+,Taliyuna,2013-05-15T00:49Z,"great torrent dude; thank you for the effort! works great even on my old computer
+i shall drink this dark beer in your name !!! cheers
+!"
+,Triple3J,2013-05-19T01:40Z,"Looks like a great torrent thank you Razor, but please seed. had like 250 kb/s but I'm at 67 % and it has 11 to 0 kb/s ..."
+,SymVoid,2013-05-19T17:58Z,"@Triple
+
+Sorry man I am seeding, but my internet connection is just your average connection lol. Not a very fast connection for uploading."
+,mrthuvi,2013-05-20T14:32Z,I had like 300-500 kBps. I'm seeding it right now with 50 kBps though....
+,nicholaswmk,2013-05-23T01:48Z,"Hey SymVoid, I dled this and its not really working. The version is up to date, I got the MAIN game working, but all the DLC seems to not get detected. I can see that all DLC files are in the data part, but none are working in game...
+It seems the game can't detect the DLCs"
+,missheartseeker,2013-05-23T11:11Z,"I'm having the same issue as nicholaswmk; everything works fantastic (aside from the occasional bug, but those are just normal for skyrim) but the DCL isn't loading at all. I've tried unpacking the .bsa files (it was a recommended troubleshooting step) but that hasn't gotten me anywhere. Any tips?"
+,SymVoid,2013-05-23T16:02Z,"Have you tried to click the ""Skyrim Launcher"" then click ""Data"" and make sure the DLC .esm files are ticked? If not try to get WyreBash or Nexus Mod Manager. Also if that doesn't work, look for 
+
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+
+and change it to:
+
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+
+
+the file is SkyrimPrefs.ini in /my documents/my games/skyrim folder.
+
+then go back into the launcher and tick them again.
+
+Wyre Bash and Nexus Mod Manager will make then work no matter what, but the above fix should work if you don't want to use NMM or WB"
+,6532876,2013-05-24T05:18Z,"I'm having the same issue as the others. When using the Skyrim Launcher the data files button is darkened and unclickable, also whenever clicking play it just closes, gives a window notification, then reopens the launcher. Nexus Mod Manager also just opens the Skyrim launcher when finished and the cycle still repeats."
+,6532876,2013-05-24T05:27Z,"I found a way to make it work using NMM. Just had to create a custom launch command using the ""TESV.exe"" in the game folder. Same .exe that I had been using to run the main game. Just played with it and Dawnguard content was there so I'm assuming it activated the other 2 DLC as well. Thanks for the awesome torrent SymVoid!"
+,SymVoid,2013-05-24T21:04Z,"Ah I think I know what the problem is. When you run the Launcher the only 2 options that should be available are ""Install"" and ""Exit""
+
+You have to click ""Install"" so that the game sets up the right registry files. After that all options should be usable."
+,missheartseeker,2013-05-25T02:45Z,"When I run the launcher, I'm getting Play, Options, a darkened data files, etc. Not sure if I'm looking at the correct launcher or not, I've got two: SkyrimLauncher.exe and TESV.exe. TESV just basically goes to auto play."
+,missheartseeker,2013-05-25T02:47Z,"gonna try NMM and see if that gets me anywhere. I'm super new to tampering with this sort of thing so it may take me a while, thanks for the assistance though! :)"
+,missheartseeker,2013-05-25T03:38Z,"WOOP WOOP! Think I got it. Somehow (don't even ask me how I managed this) i had two folders for Skyrim, one of them containing skyrimpref.ini and a few other miscellaneous files... Using NMM I think I've got the mods working. Thanks for the amazing game :)"
+,SymVoid,2013-05-25T18:48Z,"@ MissHeartSeeker
+
+It sounds like you have FileSelection disabled in your SkyrimPrefs.ini file.
+
+You MUST change the one in /my documents/my games/skyrim folder. The one in the MAIN game folder is a backup of sorts.
+
+open it up and look for [LAUNCHER]
+
+When you find it, add/change this line:
+
+bEnableFileSelection=1"
+,Roalling,2013-05-26T15:20Z,"Everything is working but I've got some CTD when I'm entering inside a house/city and got purple textures for animals & guard's amor..
+Btw, on the Skyrim Launcher, I ticked the 3 Hi-Rest textures packs + 3 DLCs.
+Someone knows how to fix it plz ?"
+,SymVoid,2013-05-26T15:30Z,"@ Roalling
+
+Have you updated your video cards? That can cause a lot of issues. Also what operating system are you using? I know, weird question, but windows 7 32 bit has a 2gb memory cap, even if it says 4. 64bit shouldn't have a problem.
+
+http://forums.nexusmods.com/index.php?/topic/503105-fix-for-ctds-and-missing-textures-32bit-large-memory-access/
+
+Check out that topic. It may help. Also make sure that your computer meets the minimum requirements.
+
+The DLC's are ticked by default, you have to go into Launcher then Data Files (or Data) and double click the tick to unclick it. If you don't have a badass computer I would un-tick the Hi-Res DLC's."
+,brunolm94,2013-05-26T19:52Z,"SKSE not apearing in data files.
+What should i do?"
+,nathan12321,2013-05-27T00:49Z,"Ok so i downloaded and extracted now it says ""Failed ti initialize renderer. Hardware T&L required but not supported by Adapter."" and i'm not sure what to do. Please help"
+,nathan12321,2013-05-27T00:53Z,"Ok so i downloaded it and extracted but when i start the game a box pops up that says ""Failed to initialize renderer. Hardware T&L required but not supported by Adapter"". Please help as soon as possible because i'm not sure what to do."
+,Roalling,2013-05-28T21:08Z,"@SymVoid : Thanks for your concern,
+
+*Yep, my video card (GTX 570) got the last drivers version : 320.18.
+
+*I've actually got a Win 7x32 with 6GB recognized & used by my sys thanks to a Russian tweak (kernel). It's working fine for years now and I had no issue with it so far. I think, it's what your link offers because my boot.ini is already has been already modified by my previous tweak.
+
+*For me, every DLC was unticked by default, and SKSE is not among them (I dunno if it's normal).
+
+Anyway, I turned off all three Hi-Res pack and now, I don't have issue anymore. I'm gonna install win7x64 or win8x64 and try ! Thanks again!"
+,SymVoid,2013-05-29T03:35Z,"@ Roalling
+
+Anytime, the thing is you won't find SKSE inside of the DLC or Data Files. There is an executable inside of the main folder called SKSE_Loader (or SKSE_Launcher).exe 
+
+You have to run the game from that. You won't get the launcher screen, it will just boot up."
+,SanicIsAFaget,2013-05-30T16:40Z,"Hey, Great torrent, I have fucked up my computer soo much trying to find working Sky rim torrents and I find this. However I ran into a bit of a bug where I can't use DLC because when I get into the launcher the ""Data Files"" is faded and I am not able to click it. I just assume that is how you activate DLC's but if not how, Thanks c:"
+,SymVoid,2013-05-30T20:44Z,"@SanicIsAFaget
+
+It sounds like you have FileSelection disabled in your SkyrimPrefs.ini file.
+
+You MUST change the one in /my documents/my games/skyrim folder. The one in the MAIN game folder is a backup of sorts.
+
+open it up and look for [LAUNCHER]
+
+When you find it, add/change this line:
+
+bEnableFileSelection=1 "
+,SanicIsAFaget,2013-05-30T21:19Z,Thanks! That worked. Good work on everything 
+,Shasmisha,2013-06-01T08:09Z,I can't seem to get the DLC's working either ]: I don't understand what unticked means. Whenever I open the launcher data files is grayed out and I already changed [Launcher] to what was specified and it is still not working. I don't know anything about the Nexus Mod Manager. >..< What should I do? 
+,SymVoid,2013-06-02T01:27Z,"@Shasmisha
+
+Which SkyrimPrefs.ini are you changing? There are 2 of them. There is on located in your MAIN game folder (Where skse_loader.exe and tesv.exe is and your /data/ folder)
+
+Then there is one in you c:[username]My DocumentsMy GamesSkyrim folder
+
+You need to change the one in c:[username]My DocumentsMy GamesSkyrim folder for it to work. The one in the MAIN game folder is a backup of sorts. After you change the correct file, run the launcher. If it says ""Install"" instead of play then that is fine, just click it and let it setup registry files. Afterwards you should be good to go. Data Files should be clickable now. (Not gray.) And you should be able to activate the DLC's. If that doesn't work, download Nexus Mod Manager."
+,thisisreallyinconvenient,2013-06-03T06:00Z,"Downloaded this today, and the SRSE doesn't work with it. Tried redownloading SRSE-- didn't work. It thinks I need to update Skyrim. What do you suggest, and did SRSE work for you?"
+,SymVoid,2013-06-03T20:34Z,"@thisisreallyinconvenient
+
+How are you running the game? Are you running through the launcher? Are you starting ""TESV.exe""??
+Or are you running the SKSE_Loader.exe?
+
+In order for SKSE to run you need to launch the game from SKSE_Loader.exe. It WILL NOT WORK if you use the Launcher or TESV.exe."
+,bolderox,2013-06-03T21:45Z,"First off, GREAT CRACK! works great... only thing I am running into is when adding skse it prompted me to update skyrim to the latest version, and the version that it is running in game is Version 1.9.29.0.8 and NOT 1.9.32.0.8... any help?"
+,Number8Forever,2013-06-04T09:24Z,Whenever I try to run the game through any of the launchers(TESV
+,Number8Forever,2013-06-04T09:28Z,"Whenever I try to run the game through any of the launchers(TESV, SkyrimLauncher, or skseloader) It says the program can't start because X3DAudio1-7.dll is missing from your computer. Is there anything I did wrong?"
+,SymVoid,2013-06-04T20:18Z,"@bolderox
+
+I don't understand why it says that. I run this game all the time. I haven't had any problems. It's been the same for others. Did you already have Skyrim installed? Did you replace any files? Did you install any other updates?
+
+@Number8Forever
+
+There are 3 folders located in the MAIN game folder. They are: VCRedist, DirectX10, and DotNetFX
+
+You need to run all of those installation files. Install DotNetFX first. Then install DX10, then finish with VCRedist.
+
+If that doesn't fix your problem then try updating your Sound card Drivers and your Video drivers.
+
+Good luck.
+"
+,hxctonzy,2013-06-05T00:16Z,hey great torrent just having one small problem i did the whole enabling data files and i can see the data file menu its just not showing any dlc and they r in the data file folder pls tell me u have a quick fix for this thanx 
+,Iran4ever,2013-06-05T11:30Z,can i get just skse? i alredy have skyrim?
+,SymVoid,2013-06-05T17:36Z,"You can get SKSE from http://skse.silverlock.org/
+
+It's free."
+,LadyEdith,2013-06-06T02:46Z,"Hello. I'm trying to use this game on my mac. Now before you say hey stupid it doesn't run on mac I should tell you that I'm using parallels. XD
+
+I have it all downloaded and installed to my parallels but when I go to hit play in the launcher it shows me a black screen and crashes. Sometimes it says that the selected resolution is not supported and it says this for every resolution. It either says something to do with resolution or it just crashes. Does anyone have any helpful tips to help me out?
+
+Thanks"
+,Iran4ever,2013-06-06T12:53Z,THIS GAME IS OSOME THNAK U SymVoid UR BEST !
+,SymVoid,2013-06-06T18:48Z,"@LadyEdith
+
+BootCamp seems to be an alternative that people are using with macs. Cider Wrapper also seems to be a talked about source. I would research those 2 topics."
+,LadyEdith,2013-06-06T19:48Z,I have the cider version as well. But it lags and it wont let me use my wireless Xbox 360 controller. So I was trying this hoping it would work on my parallels. :'(
+,Malkavain,2013-06-09T01:07Z,"Hey Symvoid. I really appreciate the upload. I am having an issue with the dlc content tho. Im able to open the data files, but when I do there is nothing there. Also When I launch the game from skse loader, it automatically starts the game. When I start the game with the Skyrim Launcher, it takes me to the lauch menu. Just trying to figure out how to put the dlc in. Thanks a ton!"
+,Malkavain,2013-06-09T01:09Z,"Hey Symvoid. I really appreciate the upload. I am having an issue with the dlc content tho. Im able to open the data files, but when I do there is nothing there. Also When I launch the game from skse loader, it automatically starts the game. When I start the game with the Skyrim Launcher, it takes me to the lauch menu. Just trying to figure out how to put the dlc in. Thanks a ton!"
+,Malkavain,2013-06-09T07:49Z,"When I get th elauncher it just gives me the option to play. Not install. And like i said, when i click data files, its just an empty box. Thanks again"
+,SymVoid,2013-06-09T21:10Z,"@Malkavain
+
+Try download Nexus Mod Manager from skyrim.nexusmods.com
+
+Everything is pretty self explanatory. Just give it a try, see it that works for you."
+,Malkavain,2013-06-10T05:41Z,"Just wanted to say the I installed the mod manager. When I ran it and uploaded the dlc files, then clicked on data files it sill showed empty. At this point I just said screw it and gave up. However I was playing and went to the other place with the green beacon. Can't remember what it's called. So indeed the dlc
+Did install. Thanks again!"

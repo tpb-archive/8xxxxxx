@@ -1,0 +1,35 @@
+Bitcoin blockchain dump up to block 234830
+
+
+This torrent should help reduce some of the bandwidth needed by Bitcoin nodes and spread it across the massive torrent network.
+
+Hopefully if there's enough fast seeders, it will allow for very quick download of the blockchain for new installation of the Bitcoin client.
+
+
+Enjoy!
+
+
+NOTE: You might need to run the command "bitcoind -reindex" in order to reindex and recheck the blockchain.
+
+-----------------------------------------------
+
+adm1n@btc:~/rtorrent$ bitcoind getinfo
+{
+    "version" : 80100,
+    "protocolversion" : 70001,
+    "walletversion" : 60000,
+    "balance" : 0.00000000,
+    "blocks" : 234830,
+    "connections" : 35,
+    "proxy" : "",
+    "difficulty" : 10076292.88341872,
+    "testnet" : false,
+    "keypoololdest" : 1366770642,
+    "keypoolsize" : 101,
+    "paytxfee" : 0.00000000,
+    "errors" : ""
+}
+
+
+bitcoin@btc:~/.bitcoin/blocks$ bitcoind stop
+Bitcoin server stopping

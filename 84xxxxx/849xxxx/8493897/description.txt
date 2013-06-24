@@ -1,0 +1,18 @@
+Format                                   : Flash Video
+File size                                : 102 MiB
+Duration                                 : 31mn 53s
+Overall bit rate                         : 448 Kbps
+httphostheader                           :
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Format settings, GOP                     : M=1, N=30
+Codec ID                                 : 7
+Duration                                 : 31mn 53s
+Bit rate                                 : 311 Kbps
+Width                                    : 480 pixels
+Height                                   : 360 pixels

@@ -1,0 +1,12 @@
+Description:
+
+Compressor adds power and flexibility to Final Cut Pro X export. 
+Customize output settings, work faster with distributed encoding, 
+and tap into a comprehensive set of delivery features.
+
+
+Version 4.0.7:
+
+    Removes 1GB file size limit for uploads to Vimeo
+    Fixes a stability issue when playing back certain MPEG-2 files
+    Fixes a stability issue in Qmaster when processing multiple jobs

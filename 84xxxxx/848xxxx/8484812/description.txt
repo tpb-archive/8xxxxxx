@@ -1,0 +1,62 @@
+W     W DDD           b    l     Y   Y          W     W
+W  W  W D  D ooo u  u bbb  l eee   Y   ooo u  u W  W  W
+ W W W  D  D o o u  u b  b l e e   Y   o o u  u  W W W 
+  W W   DDD  ooo  uuu bbb  l ee    Y   ooo  uuu   W W  
+
+#################################################  
+  
+Release Name: Office.Pro.Plus.2013.and.Visio.Project.x86.and.Microsoft.Toolkit
+Release Type: Software
+Platform: Windows
+Software: Microsoft Office Pro Plus with Visio and Project Professional
+Activation Method: KMS via Microsoft Toolkit 2.4.3
+Language: English (Can be changed with official Microsoft Language packs)
+
+#################################################
+
+Microsoft Toolkit MD5: 1C5A2B27CE7E1A57E34DC5BF2311027F
+
+#################################################
+
+How to install:
+1. Mount, burn, or extract the ISO
+2. Install the Microsoft Office applications you want installed. You don't need to install everything if you don't want to. To install Project and/or Visio, you will have to launch setup again and select it.
+3. Run Microsoft Toolkit 2.4.3 as administrator (it should run as administrator by default)
+4. Click Office icon to enter Office Toolkit
+5. Go to Activation tab
+6. Click EZ-Activator button
+7. Enjoy!
+
+#################################################
+
+FAQs
+Q: Is this activation permanent?
+A: The short answer is Yes. Technically this activates office for 180 days, but since it automatically reactivates it, you shall never have to re-activate. It will activate you for 180 days, then another, and then another, and another, and so on for eternity. There is no user interaction with this constant reactivation process, so rest assured that you won't have to worry about activation ever again. There are three things that can mess this up... 1( your antivirus flags it and quarantines/deletes it, 2( Microsoft somehow flags it and deletes it, or 3( you play around and one day ask yourself, "What's this?", and before you know it you stupidly delete it.
+
+Q: Can I update?
+A: While I cannot guarantee you will not have trouble updating, you generally should be okay installing updates. In simpler terms, yes.
+
+Q: Can I change languages?
+A: Yes. Google is your friend on locating the appropriate language packs.
+
+Q: What is the source of this Office installation?
+A: I took the official retail disk images for Office 2013 Pro Plus, added Visio and Project Professional, and changed the license channel from Retail to Volume.
+
+Q: Is this for 32-bit or 64-bit computers
+A: It will work on both. 32-bit computers require this x86 version. 64-bit computers can use this version or the 64-bit version, as long as there isn't a pre-existing installation of Office that is a 64-bit version.
+
+Q: I'm getting an error that is causing Office activation to fail.
+A: Turn off your antivirus and/or firewall and try again.
+
+Q: May I marry you?
+A: No
+
+#################################################
+
+Credits:
+Microsoft for Microsoft Office
+CODYQX4 for Microsoft Toolkit
+
+#################################################
+
+If you enjoy the software, BUY it. Support software developers!

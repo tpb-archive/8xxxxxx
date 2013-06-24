@@ -1,0 +1,55 @@
+﻿User Type,Username,Date,Text
+,beanrman,2013-04-27T10:07Z,"Works great, If anyone has any kind of problems with the activation goto C:Users(username)AppDataLocalMirillis and open ico_update.png with note pad and just delete everything in it and save and close it. Now right click on ico_update.png and select properties and check read only and save it. It works for any Mirillis app. Thanks Cyclonoid for uploading. "
+,Pituto,2013-04-29T02:37Z,Thanks! It seems to work!!
+,Fu2chN,2013-04-29T15:10Z,The key was put in black list.
+,L4j3c,2013-05-02T11:34Z,The serial number you have entered is blacklisted.
+,Ja_som,2013-05-02T16:20Z,"Hello,
+I can´t get work it, I tried the trick with ico_update.png, but the key is still blocked."
+,plopingo,2013-05-13T13:20Z,"Product activation key blocked:
+1. blocking access to the Internet, the executable file:
+C:  Windows  System32  dwm.exe
+C:  Program Files  Mirillis  Action!  Action.exe
+add to the hosts:
+127.0.0.1 www.mirillis.com
+127.0.0.1 serwer2.paka-service.com  
+2. Delete the file C:  Windows  Windefendam.log (create an empty file and a similar set read only)  
+3.Remove the registry branch HKCU  Software  Mirillis  Action  License
+4. Register the key.
+5. Enjoy ;)"
+,Ja_som,2013-05-13T18:13Z,"Thank you, but I still get key is blacklisted error"
+,whip_lash,2013-05-15T10:26Z,"The included instructions don't work. I did a lot of research and a lot of testing in a VM, and here's some (hopefully) fool-proof directions. Please tell me if it works or not.
+
+Tested on:
+Windows 7 x64
+Windows 8 x64
+
+
+If you've got a ""Licence key blacklisted"" message
+===================================
+1. Delete contents of C:Windowswindefendam.log using your favorite editor, set file as read-only
+2. Delete HKCUSoftwareMirillisActionLicense (in your registry)
+
+If you haven't installed it yet
+===================================
+1. Install program like any other program, DO NOT RUN YET
+
+You have a clean/cleaned install and are ready to activate
+===================================
+1. Download a 3rd party firewall (Try tinywall.pados.hu), you cannot use the built-in Windows firewall (try it if you don't believe me)
+2. Block the following two programs (paths are not important for most firewalls):
+Action.exe
+dwm.exe
+3. Run Action!
+4. Activate with the included serial
+
+They've done a bunch of clever bullshit to prevent activation with a blacklisted serial, but it looks like they missed a spot :)"
+,whip_lash,2013-05-15T10:28Z,"Just in case it wasn't obvious:
+===================================
+C: Windows windefendam.log"
+,whip_lash,2013-05-15T10:29Z,"Grr...
+HKCU Software Mirillis Action License 
+
+It's too bad TPB won't let you delete your own comments..."
+,Ja_som,2013-05-15T18:09Z,"finally, it works, thank you so much... 
+:)"
+,C1hrisin,2013-05-16T19:21Z,Thank you Cyclonoid for this torrent and thanks whip_lash my heroes :D

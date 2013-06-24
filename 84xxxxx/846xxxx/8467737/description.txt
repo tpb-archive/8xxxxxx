@@ -1,0 +1,81 @@
+===========================================
+Garry's Mod 13 v163
+===========================================
+
+Features:
+
+* No-steam crack (LumaEmu)
+* Fully updated and working as of 12/5 2013
+* No need to be admin to run the game
+* Clean release - no bullshit
+
+
+===========================================
+How to run the game
+===========================================
+
+1. Extract the rar file anywhere you want it
+
+2. Exit Steam (will be killed with force otherwise)
+
+3. Run the game by double-clicking on the file called START
+
+4. If you get an error saying that a DLL file is missing,
+   install "vcredist_x86.exe" in the redist folder
+
+5. Don't forget to seed!
+
+
+===========================================
+How to change in-game name
+===========================================
+
+1. Open the file LumaEmu.ini
+
+2. The second row is where you change the name
+
+3. Save the file and restart the game
+
+
+===========================================
+How to get content from other games
+===========================================
+
+1. Download/get hold of the game's content folder
+
+2. Put it beside this README (in the "Garry's Mod" folder)
+
+3. Open LumaEmu.ini
+
+4. Search for the row "MountContent"
+
+5. Set it to 1 and save the file
+
+6. Start the game
+
+7. Click the little game-controller to the
+   bottom right
+
+8. Tick the boxes for the games you want to mount
+   (Remember that you can only mount the games you
+    downloaded the files for!)
+
+9. Launch a game and the content is now available
+
+
+===========================================
+How to install addons
+===========================================
+
+1. Download the addon's .gma file
+   (Suggested site below)
+
+2. Put that .gma file in:
+   "Garry's Modgarrysmodaddonsgma"
+
+3. Done
+
+
+Gaddons.org has the tools for downloading from Steam Workshop
+
+===========================================

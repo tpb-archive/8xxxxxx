@@ -1,0 +1,65 @@
+Blue Diamond is a premium WordPress Theme for your business. ItΓÇÖs clean, minimal, with modern style. This theme also come with ΓÇÿLayer SliderΓÇÖ which allow you to manage each slider element by drag drop module. With Blue Diamond, you can manage each page easily by our awesome tool ΓÇÿPage BuilderΓÇÖ. Moreover, with our admin panel, you can control any elements easily and you can change almost element elements colour via this panel!
+
+==v1.05= 27/03/2013
+- add the stack image option in single-portfolio
+    include/portfolio-option.php
+    include/javascript/post-effect.js
+    include/plugin/portfolio-item.php
+    include/plugin/misc.php
+    style.css
+- fix 'All' translator 
+    include/plugin/page-item.php
+    include/plugin/blog-item.php
+    include/plugin/portfolio-item.php
+    include/plugin/utility.php
+- add the margin size for every elements 
+- add item class
+- fix the social network in responsive size
+    stylesheet/foundation-responsive.css
+    stylesheet/foundation.css
+    include/page-options.php
+    page.php
+    style.css
+    include/plugin/page-item.php
+    include/plugin/utility.php
+- fix author archive title.
+    archive.php
+- include/include-script.php
+    query style-custom at the last
+- exclude gallery from search page
+    include/gallery-option.php
+- add page excerpt
+    include/page-option.php
+- fix page item
+    include/plugin/portfolio-item.php
+    include/goodlayers-option.php
+    style.css
+- add category on popular post widget.
+    include/plugin/custom-widget/popular-post-widget.php
+- improvethumbnail
+    header.php
+- update google font
+    include/plugin/google-font.php
+- import / export color    
+    include/javascript/gdl-panel.js
+    include/goodlayers-option.php
+    include/stylesheet/gdl-panel.css
+- update image resize function
+    include/plugin/filosofo-image/filosofo-custom-image-sizes.php
+    include/meta-template.php
+    include/gallery-option.php
+    include/plugin/utility.php
+    include/plugin/custom-blog-widget.php
+    include/plugin/custom-port-widget.php
+    include/plugin/custom-port-widget2.php
+    include/plugin/personnel-widget.php
+    include/plugin/popular-post-widget.php
+- add sidebar class / id
+    include/function-regist.php
+- fix port ie8 hover icon
+    include/style-custom.php
+- include retweets into twitter widget
+    include/plugin/custom-widget/twitter-widget.php    
+- fix upload cufon
+    include/plugin/fontloader.php
+

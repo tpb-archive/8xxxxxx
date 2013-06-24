@@ -1,0 +1,63 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 933MB
+Duración                                 : 55min.
+Tasa de bits total                       : 2 335Kbps
+Fecha de codificación                    : UTC 2013-05-07 02:12:09
+Aplicación de codifición                 : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Librería de codificación                 : Lavf54.29.104
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 55min.
+Tasa de bits                             : 1 840Kbps
+Tasa de bits nominal                     : 3 758Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,970fps
+Velocidad de cuadro Original             : 59,940fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.067
+Tamaño de pista                          : 735MB (79%)
+Librería de codificación                 : x264 core 129 r2230 1cffe9f
+Opciones de codificación                 : cabac=1 / ref=2 / deblock=0:0:0 / analyse=0x3:0x113 / me=dia / subme=7 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=0 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,21 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=2 / b_pyramid=0 / b_adapt=0 / b_bias=0 / direct=0 / weightb=0 / open_gop=0 / weightp=0 / keyint=500 / keyint_min=100 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=3758 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=0
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 55min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 83ms
+Tamaño de pista                          : 179MB (19%)
+Default                                  : Si
+Forced                                   : No
+
+Texto
+ID                                       : 3
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Default                                  : Si
+Forced                                   : Si

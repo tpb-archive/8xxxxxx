@@ -1,0 +1,67 @@
+screens;
+ 
+http://baypic.net/img-5197d08056fe7.html
+ 
+http://baypic.net/img-5197d0e3370d0.html 
+ 
+http://baypic.net/img-5197d0e492f30.html 
+ 
+http://baypic.net/img-5197d0e5efcc2.html 
+
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 1.17 GiB
+Duration : 2h 52mn
+Overall bit rate mode : Variable
+Overall bit rate : 974 Kbps
+Encoded date : UTC 2013-05-18 05:48:13
+Tagged date : UTC 2013-05-18 05:48:13
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 2h 52mn
+Bit rate : 874 Kbps
+Maximum bit rate : 4 865 Kbps
+Width : 672 pixels
+Height : 378 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.115
+Stream size : 1.05 GiB (90%)
+Encoded date : UTC 2013-05-18 05:14:20
+Tagged date : UTC 2013-05-18 05:48:49
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 2h 52mn
+Bit rate mode : Variable
+Bit rate : 96.0 Kbps
+Maximum bit rate : 162 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Delay relative to video : 67ms
+Stream size : 118 MiB (10%)
+Language : English
+Encoded date : UTC 2013-05-17 12:24:13
+Tagged date : UTC 2013-05-18 05:48:49
+
+

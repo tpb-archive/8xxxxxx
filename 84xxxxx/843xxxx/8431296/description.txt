@@ -1,0 +1,107 @@
+This will NOT fit on a DVDR
+Use a Blu-Ray or an 16GB+ USB flash drive.
+
+No Windows Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.
+No Unattended Settings were added to the ISO.
+
+murphy78 presents Windows 7 and Windows 8 Super AIO
+This has no kb files or extra features, and is intended
+for IT pros. Even without DaRT8, it wouldn't fit on a
+D/L DVDR. I guess if you cut all the N versions, it might
+fit, but I designed this more to be used on a USB drive.
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+(Thank anarchist9027 for this AIO addition)
+
+Win7SP1 64-bit Sources:
+X17-59465.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59337.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x64_dvd_u_677651.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x64fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENXVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+Win7SP1 32-bit Sources:
+X17-59463.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59335.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x86fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+Media Refesh versions are SP1 versions with an ascii fix (KB2534111)
+
+Win8 64-bit MSDN Sources:
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_n_x64_dvd_916091.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_x64_dvd_915440.iso
+
+Win8 32-bit MSDN Sources:
+en_windows_8_enterprise_n_x86_dvd_918707.iso
+en_windows_8_enterprise_x86_dvd_917587.iso
+en_windows_8_n_x86_dvd_916097.iso
+en_windows_8_pro_n_vl_x86_dvd_918877.iso
+en_windows_8_pro_vl_x86_dvd_917830.iso
+en_windows_8_x86_dvd_915417.iso
+
+
+Installation Indexes:
+Windows 7 Starter / N SP1
+Windows 7 Home Basic / N SP1
+Windows 7 Home Premium / N SP1
+Windows 7 Professional / N (R) SP1
+Windows 7 Ultimate / N SP1
+Windows 7 Enterprise / N
+Windows 8 (Core) / N
+Windows 8 Pro / N (R)
+Windows 8 Pro VL / N VL
+Windows 8 Pro with Media Center
+Windows 8 Enterprise / N
+
+(R) versions denote that it is a Retail image with no gVLK set.
+All versions except starter have 64-bit versions. I didn't list
+them all to save space.
+
+EI.CFG is set to Retail channel for compatability. All non-VL
+will ask for key and have a skip button. ProWMC upgrade key
+will not work during setup, you need to restore your activation
+that you previously saved after installing or install a gVLK and
+use KMS Activation.
+
+Release File: Win7-Win8-SuperAIO-40in1-en-US-DaRT8-NoFrills.iso
+Size: 8.92GiB
+CRC32: A234DB9C
+MD5: 4444C456D3ACA363A08471157B551AE9
+SHA-1: A56A543ED4BA4623D11B5786C5C9C140A145B782
+
+Language: en-US (English - United States)
+
+Tools used:
+MS Diagnostics and Recovery Toolset 8 (Thanks anarchist9027)
+imagex for image compression, ProWMC flag, renaming, and export
+dism for ProWMC /set-edition
+oscdimg for ISO mastering
+
+Changes from recent Windows 8 AIO releases:
+-Win7sp1 appears to install using win8's files, but vista sp2 did
+not work correctly, so test this a bit on target systems before
+claiming everything is ok. An example of a problem from using
+win8's setup files is that it could possibly use different boot
+drivers that somehow get copied over. I tested it for a few days,
+but I can only do so much by myself.
+
+This is a standalone release. This is only meant for the IT pros
+to be able to have a single flash drive to install either Win7sp1
+or Win8. This is not updated or altered in any way. Obviously,
+Microsoft does not release a ProWMC, but I have only done the
+WMC flip, I have not altered the image further. You would need to
+run a /set-productkey pass or use an autounattend.xml if you want
+to skip the key entry part.
+
+Enjoy Pirates,
+murphy78-TPB :)

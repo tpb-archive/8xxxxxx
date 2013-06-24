@@ -1,0 +1,154 @@
+ http://imageshack.us/a/img856/1802/priestk.png
+
+
+Priest
+
+
+Titolo originale: Priest
+Lingua originale: Inglese
+Paese di produzione: USA
+Anno: 2011
+Durata: 85 Min
+Rapporto: 2,35 : 1
+Genere: Horror, Azione, Avventura, Thriller
+Regia: Scott Stewart
+
+CAST:
+Paul Bettany: Priest
+Cam Gigandet: Hicks
+Maggie Q: Priestess
+Karl Urban: Black Hat
+Lily Collins: Lucy Pace
+Stephen Moyer: Aaron
+Mädchen Amick: Shannon
+Christopher Plummer: Monsignor Orelas
+Brad Dourif: commesso
+Alan Dale: Monsignor Chamberlain
+
+PLOT
+
+Adattamento del fumetto coreano omonimo, Priest narra di un mondo devastato dalla guerra tra vampiri e umani, che hanno costitutito un ordine religioso di sacerdoti combattenti.
+
+# # #______________________________________________________# # #
+
+Loosely based on Korean comic of the same name, Priest is set in a word devastated by Vampire Wars against humans, who have set a fighting priesthood.
+
+
+
+ 
+http://imageshack.us/a/img809/7782/priest2011bdrip1080pita.jpg[/IMG]
+
+ 
+http://www.imdb.com/title/tt0822847/
+
+
+AVINAPTIC
+
+[ About file ]
+Name: Priest.2011.BDrip.1080p.iTA.ENG.AC3.x264.mkv
+Date: Sun, 28 Apr 2013 17:15:26 +0200
+Size: 7,410,492,884 bytes (7067.196735 MiB)
+
+[ Generic infos ]
+Duration: 01:27:27 (5247.221 s)
+Container: matroska
+Production date: Sun, 28 Apr 2013 17:12:12 +0200
+Total tracks: 3
+Track nr. 1: video (V_MPEG4/ISO/AVC) {eng}
+Track nr. 2: audio (A_AC3) {ita}
+Track nr. 3: audio (A_AC3) {eng}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.0 ('Die Wahre Liebe') built on Sep 25 2011 20:33:49
+
+[ Relevant data ]
+Resolution: VERY HIGH (1920 x 800)
+Width: multiple of 32 (GOOD)
+Height: multiple of 32 (GOOD)
+Average DRF quality: HIGH (21.752071)
+Standard deviation quality: HIGH (0.664924)
+Std. dev. weighted mean: HIGH (0.626847)
+
+[ Video track ]
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 800
+Frame aspect ratio: 12:5 = 2.4
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 12:5 = 2.4
+Framerate: 23.976025 fps
+Stream size: 6,821,371,339 bytes (6505.366649 MiB)
+Duration (bs): 01:27:27 (5247.158416 s)
+Bitrate (bs): 10400.099709 kbps
+Qf: 0.282403
+
+[ Audio track nr. 1 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 293,844,992 bytes (280.232422 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 163,976
+Duration (bs): 01:27:27 (5247.232 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 293,844,992 bytes (280.232422 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 163,976
+Duration (bs): 01:27:27 (5247.232 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 120 | H.264/MPEG-4 AVC codec | Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html | cabac=1 | ref=4 | deblock=1:0:0
+User data: analyse=0x3:0x113 | me=umh | subme=7 | psy=1 | psy_rd=1.00:0.00
+User data: mixed_ref=1 | me_range=16 | chroma_me=1 | trellis=1 | 8x8dct=1
+User data: cqm=0 | deadzone=21,11 | fast_pskip=1 | chroma_qp_offset=-2
+User data: threads=9 | sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=4 | b_pyramid=2
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=50 | rc=2pass | mbtree=1 | bitrate=10400 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=3 | qpmax=69 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4
+  Num ref frames: 4
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 125,806
+Drop/delay frames: 0
+Corrupt frames: 0
+
+[ DRF analysis ]
+average DRF: 21.752071
+standard deviation: 0.664924
+max DRF: 28
+
+DRF<17:     0 (  0.000 %)
+DRF=17:     7 (  0.006 %)
+DRF=18:    33 (  0.026 %)
+DRF=19:  1157 (  0.920 %)
+DRF=20:  1437 (  1.142 %)
+DRF=21: 34909 ( 27.748 %) ######
+DRF=22: 78266 ( 62.212 %) ############
+DRF=23:  9945 (  7.905 %) ##
+DRF=24:     4 (  0.003 %)
+DRF=25:     2 (  0.002 %)
+DRF=26:     1 (  0.001 %)
+DRF=27:     3 (  0.002 %)
+DRF=28:    42 (  0.033 %)
+DRF>28:     0 (  0.000 %)

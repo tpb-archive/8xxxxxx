@@ -1,0 +1,76 @@
+ http://www.imdb.com/title/tt0756648/
+
+
+Biçim                                    :Matroska
+Biçim sürümü                             :Version 4 / Version 2
+Dosya boyutu                             :797 MiB
+Süre                                     :1s 36dk
+Kapsamlı bit oranı                       :1 155 Kbps
+Film adı                                 :Le Renard Et L enfant - Arkadasim Tilki 2007 720p BRRip x264 DUAL AAC-Malkocoglu
+Kodlanma tarihi                          :UTC 2013-05-07 09:09:26
+Yapım uygulaması                         :mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Yapım kütüphanesi                        :libebml v1.3.0 + libmatroska v1.4.0
+
+Görüntü
+ID                                       :1
+Biçim                                    :AVC
+Biçim/Bilgi                              :Advanced Video Codec
+Biçim profili                            :High@L3.1
+Biçim ayarları, CABAC                    :Evet
+Biçim ayarları, ReFrames                 :4 kare
+Kodek ID                                 :V_MPEG4/ISO/AVC
+Süre                                     :1s 36dk
+Düşük bit oranı                          :1 062 Kbps
+Genişlik                                 :1 280 piksel
+Yükseklik                                :544 piksel
+Görüntü en-boy oranı                     :2.35:1
+Kare hız modu                            :Sabit
+Kare hızı                                :24.000 kare/s
+Renk alanı                               :YUV
+Krom altörnekleme                        :4:2:0
+Bit yoğunluğu                            :8 bit
+Tarama türü                              :Aşamalı
+Bit/(Piksel*Kare)                        :0.064
+Yapım kütüphanesi                        :x264 core 130 r2273 b3065e6
+Kodlama ayarları                         :cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=1062 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Default                                  :Evet
+Forced                                   :Hayır
+
+Ses #1
+ID                                       :2
+Biçim                                    :AAC
+Biçim/Bilgi                              :Advanced Audio Codec
+Biçim profili                            :HE-AAC / LC
+Kodek ID                                 :A_AAC
+Süre                                     :1s 36dk
+Kanal                                    :2 kanal
+Kanal konumları                          :Front: L R
+Örnekleme oranı                          :48.0 KHz / 24.0 KHz
+Sıkıştırma kipi                          :Lossy
+Görüntü gecikmesi                        :431ms
+Dil                                      :Türkçe
+Default                                  :Evet
+Forced                                   :Hayır
+
+Ses #2
+ID                                       :3
+Biçim                                    :AAC
+Biçim/Bilgi                              :Advanced Audio Codec
+Biçim profili                            :HE-AAC / LC
+Kodek ID                                 :A_AAC
+Süre                                     :1s 36dk
+Kanal                                    :2 kanal
+Kanal konumları                          :Front: L R
+Örnekleme oranı                          :48.0 KHz / 24.0 KHz
+Sıkıştırma kipi                          :Lossy
+Görüntü gecikmesi                        :31ms
+Dil                                      :Fransızca
+ 
+http://m1305.hizliresim.com/19/7/mujbl.png
+ 
+http://m1305.hizliresim.com/19/7/mujb5.png
+ 
+http://p1305.hizliresim.com/19/7/mujc6.png
+ 
+http://m1305.hizliresim.com/19/7/mujc5.png
+

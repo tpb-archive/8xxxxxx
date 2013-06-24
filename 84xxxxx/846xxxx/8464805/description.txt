@@ -1,0 +1,63 @@
+General
+UniqueID/String                          : 235238475829984372626603188558998006388 (0xB0F9484FC6DF11919F244AE222AFEA74)
+Nombre completo                          : D:Da Vinci's Demons S01E05 HDTV 1080i x264.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 3,78GIB
+Duración                                 : 58min.
+Modo de tasa de bits                     : Variable
+Tasa de bits total                       : 9 175Kbps
+Fecha de codificación                    : UTC 2013-05-11 06:27:56
+Aplicación de codifición                 : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+Format_Settings_GOP                      : M=4, N=32
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 58min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 8 800Kbps
+Tasa de bits máxima                      : 20,0Mbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 1 080pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,940fps
+Velocidad de cuadro Original             : 29,970fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Entrelazado
+Orden de la exploración                  : Campo superior primero
+Bits/(Pixel*cuadro)                      : 0.142
+Tamaño de pista                          : 3,62GIB (96%)
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 58min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 192Kbps
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : -100ms
+Tamaño de pista                          : 81,0MB (2%)
+Default                                  : Si
+Forced                                   : No

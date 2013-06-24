@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-05-02T14:27Z,"I forgot the SP1 on the win7 enterprise index in the description, but everything is correct on the actual image."
+[H],Devastat0r36,2013-05-02T14:42Z,"@murphy78
+WOW man this is amazing I cant wait to play around with this :)"
+,Quronja,2013-05-02T17:48Z,"Perfection, congratulations man ..... Everything is perfect ..."
+,JJIMENEZM,2013-05-02T19:35Z,Excelent! Thanks
+,JJIMENEZM,2013-05-02T21:02Z,I will try to seed at 200mbps for 4 hours.
+,leo65,2013-05-02T21:42Z,murphy78 I was wondering if you were planning on doing another Windows 8 and Office 2013 combo like you did back in march. 
+,ramandhami,2013-05-02T21:47Z,Windows 7 is with IE9 Or IE10. Please confirm.
+,john2004,2013-05-02T23:17Z,I see murph8 using IE8
+,muralha,2013-05-02T23:19Z,"Thanks for the upload man,keep up the good work."
+,muralha,2013-05-02T23:20Z,Does it include the activator?
+,Standenk,2013-05-02T23:32Z,Will you be uploading the same thing as this but with all updates included and internet drivers added aswell?
+,Standenk,2013-05-03T00:00Z,Will u be doing one with all updates included aswell murphy78?
+[V],murphy78,2013-05-03T04:37Z,"Thanks for the kind words fellas.
+
+I'm planning on re-visiting Office sysprepped versions perhaps for win7 and win8, but they are not something I want to do every month. A lot of people have problems using them for some reason, so I try not to use sysprep too much. That being said, for the people that can use them, they are WAY faster than the normal installs.  I think they are worth at least a once every 3 months or so treatment.
+
+Those same people seem to request having DaRT8 on them, so I'll see if I cannot include that in the boot options.
+
+I forgot to mention in the description, but since this is meant for IT pros I took out the autorun and the autorun setup. I left the actual setup in the sources/ folder, but I didn't want to give anyone the impression that this SuperAIO was designed to be used to upgrade TO win7.  The recommended setup for all operating systems is a clean install on a fresh partition/drive using boot setup."
+,rehceel99,2013-05-03T05:26Z,"this is Epic!... (like someone said, best OS uploader)
+looking forward to Win7 SP1 & WIn8.1 AIO :)"
+,rswt,2013-05-03T08:17Z,WOW Murphy you are the best uploader for windows systems. Holy cow man...You have saved me so much money. I repair computers. You are truly One-of-a-kind.  May the force be with you my friend.
+[V],murphy78,2013-05-03T11:59Z,"wow guys, you're gonna make me nerd-blush :P"
+,karated,2013-05-03T15:30Z,"Great, as usual,
+
+
+murphy, thanks mate,
+ I wonder if there is a good working crack for Windows XP. Some older computer still work better with XP. For newer versions of Win, there are Vistaloader, Daz loader, KMSpico...but for XP nothing.
+I tried some 5-7 activators, non of them work properly. Ex, ANTIWPA activates, then almost all antimalware's recognize it and delete it.
+Those  already activated versions with a simple key, are deactivated after the key is blacklisted. 
+
+The only XP that still works is by Goldfish. But it is too old and it has 150 updates, no sata and no drivers. So after installation you have to run for drivers.
+
+I wonder if you could make a Win XP Pro same as Goldfish plus all Sata, video, sound, network...drivers, and udates. So that with one shot installation is complete. No matter the size 3-4 Gig is ok too.
+
+appreciate in advance"
+[V],murphy78,2013-05-04T01:10Z,"karated, back in the day they used client-side verification and you could simply copy over the legitcheckcontrol.dll(sp?) supremophantom famously cracked 1.0.40.0, but I think they've moved to more sophisticated whitelisting. I could be wrong. I only took a brief glance at it.
+
+Anyhow, I had a family member with an old xp laptop that was pretty slow. I upgraded them to win7pro 32bit without problems. Did not seem slow. Ran about as fast as it did with xp. You might try something like that."
+,viggen6666,2013-05-04T13:50Z,"Murphy78, this is excellent, really one solution for all, did you remove the oem branding on Win 7?"
+,Th3-KiLl3R,2013-05-04T20:48Z,is this 32 & 64 bit in one ?
+,Wizardx15,2013-05-04T23:31Z,Before man god created murphy you are the best OS up loader ever  
+[V],murphy78,2013-05-05T02:21Z,"looks like this made its way to rlslog_net.
+thx for not removing credit this time guys :P"
+,charlene17,2013-05-05T14:50Z,"@Karated
+
+You can use Windows.Genuine.Advantage.Validation.1.9.42.0.Patch as it was the last one I applied on my XP sp3 and worked like a charm : getting the latest updates from microsoft was flawless."
+,ahmedmahdy20,2013-05-07T21:45Z,"pl z murphy i want your help.
+How can I get windows 7 updates files and how can marge this files with windows ISO image."
+[V],murphy78,2013-05-07T22:58Z,"You would make a dism command script ahmed...
+... or... you could get gimagex and export all the indexes from my win7aio and the indexes from my win8aio, then replace the install.wim in this iso.
+You could try swapping that file in ultraiso or poweriso if you need a blu-ray, or simply replace it if you use a usb like I designed this for..."
+,chuy18,2013-05-08T02:38Z,"murphy78, thank you so much! Have a good one."
+,ahmedmahdy20,2013-05-08T13:15Z,Thanks murphy for the reply I want to know how to bring the Windows updates from Microsoft website and saved to a file and add that file to the Windows 7 version of I tried to get Windows updates alone but was most successful and thanks again for your cooperation and thank you for your wonderful Windows copies made
+,gkkfalls,2013-05-11T21:28Z,Plz upload only windows 7 ultimate version with x86 & x64 in single iso with latest update & auto activator or preactivated
+,87XL,2013-05-11T22:52Z,Super Job! Thanks murphy78! by far the best uploader of the Windows OS! : )
+,nj98110,2013-05-12T19:18Z,Low speed of the torrent. But by the best uploader. :D
+,nj98110,2013-05-13T09:54Z,Btw is this updated till april updates??
+,Ultrasaurus,2013-05-13T14:37Z,"@nj98110 
+Read the description
+""This is not updated or altered in any way."""
+,nj98110,2013-05-13T17:59Z,"Ohh, then i should stop downloading it then."
+,Scurbdog,2013-05-14T03:35Z,"I want to thank you for your work. Great stuff without bloat and works great. Question I have is after using your March Windows 7 AIO on several Lenovo laptops with intel wifi cards. The driver was installed on first boot? Did you add those drivers to that realease?
+I ask, because now using your latest April Windows 7 AIO, the wifi drivers are not installed on first boot?"
+,Sonic_27,2013-05-15T00:18Z,Can you please upload Windows 8 x64 with new May updates!? Thanks (16 updates)
+[V],murphy78,2013-05-15T05:03Z,"Responded in the appropriate torrent scurb...
+
+Yes sonic... working on them now.
+I like to verify the necessity of each kb file by doing a baseline install, checking windows update, and going through matching each kb file...
+
+That's a bit over-simplified, but you get it...
+Working on it right now"
+,Sonic_27,2013-05-15T06:36Z,"ok, cool. Your the man!!"
+,limegreenclown,2013-05-17T01:29Z,"Hi Murphy78, thank you for this incredible upload. This actually got me interested in creating something similar, but I've run into a snag. Do you know of any way to also add vista .wim files to this and have the windows 8 installer install it. I started with a retail windows 8 .iso, added the win7 and vista indexes to install.wim with imagex. 7 and 8 install just fine but after the first reboot with vista it says ""windows could not start the installation process"". I know you mentioned that you tried with vista SP2, I was wondering if you had any suggestions or had since tried doing this again. Thank you"
+,tastybyte,2013-06-03T20:17Z,"Windows 7 SP1 and Windows 8 SuperAIO 40in1 en-US DaRT8 June-2013?
+
+Please and Thank You!"

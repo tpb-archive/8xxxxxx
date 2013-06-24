@@ -1,0 +1,36 @@
+Microsoft System Center eBooks Mini-Pack [PDF]-OMNiSCiENT
+
+Microsoft System Center is a set of server products aimed specifically at helping corporate IT administrators manage a network of Windows Server and client desktop systems.
+
+.  System Center Advisor: Software as a service offering that helps change or assess the configuration of Microsoft Servers software over the Internet
+.  System Center App Controller: Unified management for public and private clouds, including cloud-based virtual machines and services
+.  System Center Configuration Manager: Configuration management, hardware/software asset management, patch deployment tools for Windows desktops
+.  System Center Data Protection Manager: Continuous data protection and data recovery
+.  System Center Endpoint Protection: Anti-malware and security solutions for Microsoft products
+.  System Center Essentials: Combined features of Operations Manager and Windows Software Update Service (WSUS), aimed at small and medium sized businesses
+.  System Center Mobile Device Manager: Mobile device management (PDAs, smartphones, etc.)
+.  System Center Opalis: Opalis is an automation platform for orchestrating and integrating IT tools to decrease the cost of datacenter operations while improving the reliability of IT processes. It enables IT organizations to automate best practices, such as those found in Microsoft Operations Framework (MOF) and Information Technology Infrastructure Library (ITIL).
+.  System Center Orchestrator (formerly Opalis): For orchestration and automation solutions
+.  System Center Operations Manager: Services and application monitoring
+.  System Center Service Manager: Ties in with SCOM, SCCM for asset tracking as well as incident, problem, change and configuration management (code name: Service Desk)
+.  System Center Virtual Machine Manager 2008 R2: Virtual machine management and datacenter virtualization
+
+
+A PDF collection of 16 eBooks about Microsoft System Center. eBooks are sorted on publisher's name.
+
+Course Technology System Center Configuration Manager 2007 R3 Complete (2012).pdf
+Microsoft Press System Center Configuration Manager 2007, Administrator's Companion (2008).pdf
+Packt Publishing Microsoft System Center 2012 Configuration Manager, Administration Cookbook (2012).pdf
+Packt Publishing Microsoft System Center 2012 Endpoint Protection Cookbook (2012).pdf
+Packt Publishing Microsoft System Center 2012 Service Manager Cookbook (2012).pdf
+Packt Publishing Microsoft System Center Virtual Machine Manager 2012 Cookbook (2013).pdf
+Pearson Education Publishing Microsoft System Center Enterprise Suite Unleashed (2010).pdf
+SAMS Microsoft System Center 2012 Unleashed (2012) (no OCR).pdf
+SAMS Microsoft System Center Enterprise Suite Unleashed (2010).pdf
+SAMS System Center 2012 Configuration Manager Unleashed (2013).pdf
+SAMS System Center Opalis Integration Server 6.3 Unleashed (2012).pdf
+SAMS System Center Operations Manager 2007 R2 Unleashed (2010).pdf
+SAMS System Center Service Manager 2010 Unleashed (2012).pdf
+Sybex Mastering System Center Configuration Manager 2007 R2 (2009).pdf
+Sybex Mastering System Center Operations Manager 2007 (2007).pdf
+Sybex Monitoring Exchange Server 2007 with System Center Operations Manager (2009).pdf

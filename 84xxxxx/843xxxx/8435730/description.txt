@@ -1,0 +1,149 @@
+Description
+
+Sinopse e detalhes
+
+Após um acidente no mar, que causa o naufrágio de um navio na costa da África, um casal inglês acha um modo de ir até a praia com o filho deles, um recém-nascido. Entretanto, os pais são mortos por um leopardo, enquanto que o bebê fica entregue a própria sorte. A criança é achada por uma gorila, Kala (Glenn Close), a companheira de Kerchak (Lance Henriksen), o líder da tribo de macacos. Kerchak é surpreendido pela criança abandonada e quer que ela seja deixada na selva. Por outro lado a natureza materna de Kala é tocada, para não mencionar as suas recordações por ter perdido a própria cria. Kala e Kerchak ficam com o bebê e lhe dão o nome de Tarzan, que é criado junto com os outros macacos. Tarzan cresce até se tornar adulto, até que sua vida é mudada para sempre com a chegada de Archimedes Q. Porter (Nigel Hawthorne), um explorador, juntamente com Jane Porter (Minnie Driver), sua filha, e Clayton (Brian Blessed), um caçador que está servindo de guia. Archimedes e Jane foram até a África para estudar a vida selvagem em seu habitat natural, embora Clayton prefira aprisionar o maior número possível de gorilas, pois cada um vale trezentas libras. Quando os exploradores encontram Tarzan eles pensam no princípio que descobriram o elo perdido, mas logo percebem que ele é tão humano quanto eles. Tarzan se vê dividido entre o desejo de estar com gente da sua espécie, além das emoções novas e pouco conhecidas que sente em relação a Jane, e a lealdade dele para a família de gorilas que o criou, especialmente quando Clayton não vê os macacos como amigos mas sim como presas.
+
+Format : Matroska
+Format version : Version 2
+File size : 937 MiB
+Duration : 1h 28mn
+Overall bit rate : 1 483 Kbps
+Encoded date : UTC 2013-05-03 21:03:02
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 28mn
+Bit rate : 621 Kbps
+Width : 720 pixels
+Height : 416 pixels
+Display aspect ratio : 1.731
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.087
+Stream size : 393 MiB (42%)
+Title : Tarzan ( by fantasma )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio #1
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 28mn
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 5 channels
+Channel positions : Front: L C R, Side: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Delay relative to video : 24ms
+Stream size : 243 MiB (26%)
+Title : by fantasma
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 28mn
+Bit rate mode : Constant
+Bit rate : 448 Kbps
+Channel(s) : 5 channels
+Channel positions : Front: L C R, Side: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Delay relative to video : 24ms
+Stream size : 283 MiB (30%)
+Title : by fantasma
+Language : English
+Default : No
+Forced : No
+
+Text #1
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Caption/Normal Size Char)
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #2
+ID : 5
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:03:22.168 : en:Chapter 02
+00:06:08.703 : en:Chapter 03
+00:08:17.504 : en:Chapter 04
+00:11:01.539 : en:Chapter 05
+00:12:38.672 : en:Chapter 06
+00:14:20.006 : en:Chapter 07
+00:16:45.840 : en:Chapter 08
+00:18:01.840 : en:Chapter 09
+00:18:59.007 : en:Chapter 10
+00:20:39.508 : en:Chapter 11
+00:22:39.675 : en:Chapter 12
+00:25:26.709 : en:Chapter 13
+00:26:20.376 : en:Chapter 14
+00:30:40.210 : en:Chapter 15
+00:33:48.377 : en:Chapter 16
+00:34:49.711 : en:Chapter 17
+00:37:27.012 : en:Chapter 18
+00:41:32.846 : en:Chapter 19
+00:45:37.013 : en:Chapter 20
+00:46:46.513 : en:Chapter 21
+00:48:31.947 : en:Chapter 22
+00:50:12.781 : en:Chapter 23
+00:54:06.648 : en:Chapter 24
+00:56:49.948 : en:Chapter 25
+00:57:51.116 : en:Chapter 26
+01:01:27.783 : en:Chapter 27
+01:03:20.983 : en:Chapter 28
+01:07:11.317 : en:Chapter 29
+01:09:16.951 : en:Chapter 30
+01:11:39.151 : en:Chapter 31
+01:14:52.318 : en:Chapter 32
+01:16:34.285 : en:Chapter 33
+01:19:04.652 : en:Chapter 34
+01:21:26.986 : en:Chapter 35
+01:22:18.121 : en:Chapter 36
+01:28:18.287 : en:Chapter 37

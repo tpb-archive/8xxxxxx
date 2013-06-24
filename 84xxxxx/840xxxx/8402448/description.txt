@@ -1,0 +1,66 @@
+[img]http://img541.imageshack.us/img541/8684/pimpo.png[/img]
+
+[img]http://i.imgbox.com/achcZ2z5.png[/img]
+
+
+
+
+[code]
+General
+Complete name                                                   :Cliffhanger 1993 BRRip-ViVeKRaNa(PimpRG).mkv
+Format                                                                      : Matroska
+Format version                                                      : Version 4 / Version 2
+File size                                                                     : 335 MiB
+Duration                                                                    : 1h 53mn
+Overall bit rate                                                       : 415 Kbps
+Encoded date                                                          : UTC 2010-02-22 21:41:31
+Writing application                                               : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 
+                                                                                         2013 15:37:01
+Writing library                                                        : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                                                                  : 2
+Format                                                                        : AVC
+Format/Info                                                              : Advanced Video Codec
+Format profile                                                         : Main@L3.0
+Format settings, CABAC                                       : Yes
+Format settings, ReFrames                                : 4 frames
+Muxing mode                                                          : Header stripping
+Codec ID                                                                    : V_MPEG4/ISO/AVC
+Bit rate                                                                       : 350 Kbps
+Width                                                                         : 720 pixels
+Height                                                                        : 304 pixels
+Display aspect ratio                                             : 2.40:1
+Frame rate mode                                                 : Variable
+Color space                                                             : YUV
+Chroma subsampling                                         : 4:2:0
+Bit depth                                                                 : 8 bits
+Scan type                                                                : Progressive
+Title                                                                          : ViVeKRaNa(PimpRG)
+Writing library                                                      : x264 core 120
+Language                                                                : English
+Default                                                                    : Yes
+Forced                                                                     : No
+Color primaries                                                   : BT.709
+Transfer characteristics                                   : BT.709
+Matrix coefficients                                           : BT.709
+
+Audio
+ID                                                                              : 1
+Format                                                                   : AC-3
+Format/Info                                                        : Audio Coding 3
+Mode extension                                               : CM (complete main)
+Format settings, Endianness                      : Big
+Muxing mode                                                   : Header stripping
+Codec ID                                                             : A_AC3
+Duration                                                             : 1h 53mn
+Bit rate mode                                                   : Constant
+Bit rate                                                                : 64.0 Kbps
+Channel(s)                                                        : 2 channels
+Channel positions                                         : Front: L R
+Sampling rate                                                 : 48.0 KHz
+Bit depth                                                          : 16 bits
+Compression mode                                     : Lossy
+Stream size                                                     : 51.7 MiB (15%)
+Default                                                             : Yes
+Forced                                                   

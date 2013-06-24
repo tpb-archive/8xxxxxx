@@ -1,0 +1,89 @@
+﻿User Type,Username,Date,Text
+,artizeny,2013-05-20T17:17Z,"""Different torrent site"" - like H33t maybe? Yeah, it was a fake there too. I'm not knocking you, I'm sure you did what you said - but those batch files? No way there ever be a scene release with some home-made installer crap.
+
+And the fact that NONE of the binaries have valid Digital Signatures -should be a dead-giveaway.
+
+Go ahead - check - no digital signatures - somebody went to a lot of work to hack the v8.x binaries to ""report"" it as v9.01 - but its not. And the moment you change ONE BYTE - it invalidates the DS - that's why we have them!
+
+Want more proof? Go here: http://www.avanquest.com/USA/software/powerdesk-pro-9-500373
+
+If your screens don't look look like those screens - well that's because you don't have v9.01 - Sorry old chum, you've been had.
+
+PS: If there ever is a v9.01 ""Proper"" - it will be done by CORE."
+,KiwiPirate,2013-05-20T18:20Z,i really probably should have put 'fixed' rather than proper ... nothing to do with a scene release ... the new screens are new to 9.5 as old screens were still in version 9.0 which was just a rush job to make it compatible with Win8 ... it is not *fake*
+,KiwiPirate,2013-05-20T18:22Z,scroll right to the bottom ... be quick before they update it and don't miss 'whats new in version 9' just above the screens ... ignore what your title bar says http://www.avanqueststore.com/powerdesk.html
+,KiwiPirate,2013-05-21T12:35Z,"""\PowerDesk\DiskSpaceSaver\DiskSpaceSaverApp.exe"" (NEW to PD9)
+
+PD9 is way too buggy and only *new* feature DSS (and some new bugs)
+
+I have gone back to 8.5 and as it isn't on PB yet i have uploaded it because it is way more stable than 9
+Avanquest are only about thumping new versions out to generate revenue rather than fixing their bugs
+http://thepiratebay.sx/torrent/8495777
+
+The Blocker.exe does NOT work either ..."
+,artizeny,2013-05-21T14:21Z,"Dude, the more you type the deeper you pile the doo-doo.
+
+You now claim that PowerDesk is at v9.5 - probably should tell Avanquest so they can get the update from *YOU*.
+
+The screens at Avanquest are for v9.01 - because THAT is the current version.
+
+What I said stands - your torrent is a hacked *FAKE* version, the binaries have no digital signatures. The installer is some homebrew batch-file mess.
+
+I posted the first time because I thought you made an honest mistake. But now you insist on defending somebody elves' trickery - no respect for that.
+
+Man up, move on."
+,KiwiPirate,2013-05-21T14:30Z,"the screens are for disk space saver and if you load that you will see it is included in the original torrent and is not part of any previous version ... it is new to powerdesk 9
+
+yeah , that was a bad about 9.5 but like i said ... the screens are for disk space saver which you will find the the \diskpacesaver dir ...
+
+or you can get that from the torrent i posted the link to in my last torrent
+
+if you go here and on the left of the screen click on the pic where it says ""screenshots"" then you will see that the rest of powerdesk looks just like PD 8 & PD8.5
+http://www.bitsdujour.com/software/powerdesk-pro-9"
+,KiwiPirate,2013-05-22T06:06Z,"artizeny, *if* this isn't version 9 then please tell me what version it is ?
+
+i have now checked the files against all versions i have of 8.x and well some of the files match the main exe as well as other files vary significantly and therefore it is not any of the 8.x versions i have
+
+it would be very odd if someone installed v9 to get the disk space saver and then waste time hacking version 8.x just to change version numbers AND file sizes when they had to install v9 to get the DSS
+it is also a v9 serial (which i know works on the 8.5 i uploaded)"
+,brankoje,2013-06-03T15:04Z,"How to completely remove pd 9, ie making clean install? I always get message: ""It appears that the serial number ... you selected when installing PowerDesk was already used or you have reached the maximum of installation allowed. Therefore, this software cannot run wit this serial number. ...""
+Please help."
+,KiwiPirate,2013-06-04T02:30Z,"brankoje, search you hard drive for files/folders named (delete them all)
+*avanquest* and *BVRP*
+also delete the program files\powerdesk folder
+
+load up regedit.exe and delete the following entries (x64 also do software\wow6432node)
+\HKCU\Software\avanquest
+\HKCU\Software\BVRP
+\HKLM\Software\avanquest
+\HKLM\Software\BVRP
+
+install 8.5
+http://thepiratebay.sx/torrent/8495777"
+,brankoje,2013-06-04T16:16Z,"KiwiPirate,
+thank you for advice, I did it exactly as you mentioned. No luck. Problem remained the same.
+Even ven I run portable version, problem stays.
+Next?"
+,KiwiPirate,2013-06-06T04:05Z,"brankoje, what version are you trying ?
+
+well i don't think this is any hacked v8 as suggested by artizeny above the files are missing their digital signatures so it is possible that it has been modified by a third party, it is also possibly an internal leak by the developers that was set to time bomb to try and get more people to buy a serial
+
+i have also read on various websites complaints by people who have brought v9 that it is full of bugs and not very stable. it was only a rush job to make it Win8 compatible
+
+unless you are running Win8 i would suggest 8.5 
+if you are running Win8 then upgrade to Win7 ;-)
+
+also the blocker included in this torrent does NOT work to stop program phoning home
+read the description on this torrent about blocking via hosts file
+http://thepiratebay.sx/torrent/8495777"
+,bellarmine,2013-06-10T18:28Z,"Hi KiwiPirate,
+
+Does this torrent run under XP SP3?  I keep getting weird error messages like: ""Application has failed to start because the application configuration is incorrect"" and ""The procedure entry point shcreateitemfromparsingname could not be located in the dynamic link library SHELL32.dll"".
+
+If not, do you know of a download that will work in XP?  Avanquest doesn't even offer a demo anymore, I have yet to see this program in action to try out....:^)
+
+Thanks for the upload anyway KiwiPirate!
+
+Bellarmine
+
+P.S. Try my upload of ExplorerPlus 6.2 - near perfect PowerDesk 6 equivalent by the original programmer, faster and less bugs in XP!"

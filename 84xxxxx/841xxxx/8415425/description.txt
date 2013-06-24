@@ -1,0 +1,16 @@
+Torrentex is lightweight bittorrent client for Android. It provides easy torrent downloads anywhere with your mobile device.
+Features:
+- No speed limits
+- Magnet link support
+- Multiple torrent download
+- Download to external and internal memory
+- File selection
+- Ad free
+
+Required Android O/S : 4.0
+
+Version 0.4
+- Added: download to extrenal memory
+- Added: Share torrent as magnet link
+- Fixed: download torrent file from kickass torrents
+- Fixed: magnet link error on some sites

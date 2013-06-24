@@ -1,0 +1,105 @@
+﻿User Type,Username,Date,Text
+,patwik,2013-05-16T08:10Z,"noobnak, if this works you are a legend. thanks in advance for the fix"
+,firefox90,2013-05-16T18:24Z,"the game works for me, but the image on the screen is messed up. can u help me"
+,noobnak,2013-05-16T18:27Z,please seed!!!
+,faisalhani,2013-05-16T20:45Z,i have the same problem with firefox90 
+,firefox90,2013-05-16T21:14Z,should i change something in the wineskin
+,Shadow_Walker,2013-05-16T23:39Z,"WORKS FANTASTIC for me, I have no issue with image quality either"
+,Scipio323,2013-05-17T08:25Z,"much too slow to be playable for me, sorry... damn shame too."
+,noobnak,2013-05-17T08:32Z,"@firefox90
+you don't need to change anything"
+,faisalhani,2013-05-17T11:56Z," noobnak 
+there is a problem in the main menu and when i play, the screen becomes black and i can't see"
+,firefox90,2013-05-17T20:28Z,so it is what it is ?? any way to fix this. i wanna play it so bad.
+,firefox90,2013-05-17T20:30Z,i have version 10.8.3
+,faisalhani,2013-05-17T23:58Z,"noobnak 
+Can you fix the problem ?
+if you can, please fix it"
+,noobnak,2013-05-18T01:38Z,"@firefox90
+Can you give me a screenshot of the issue"
+,firefox90,2013-05-18T02:09Z,"yea sure, but how am i going to do that"
+,firefox90,2013-05-18T02:09Z,u have a email
+,firefox90,2013-05-18T02:16Z,"the screen has colorful shapes on it. and the words are scrabbled all over the screen. 
+
+in game play just about everything is dark shaded."
+,noobnak,2013-05-18T05:02Z,"@firefox
+vuthedat2000@gmail.com"
+,mjchch,2013-05-18T05:14Z,"Macbook Pro 13"" mid-2012 2.5 GHz i5 RAM 4GB Intel HD 4000 512MB OSX 10.8.3
+
+Working so fantastic.
+@noobnak, thanks man! Awesome!
+@firefox90 & faisalhani, maybe ur mac doesn't support this game. I have no issue at all though."
+,firefox90,2013-05-18T06:07Z,mj i have the same thing as u but my intel core is i7. 
+,noobnak,2013-05-18T13:26Z,@firefox-try to update your game version with      1.01.743.0 patch
+,AdrianaB2,2013-05-18T14:05Z,"Thank you! It works for me! Sometimes the textures are missing and you get a completly black tree, but I can live with that! "
+,floklein,2013-05-18T15:43Z,"A lot of triangles of different colors on the game menu... They doesn't stop appearing and disappearing. What can I do please?
+(MBPR 15"" under 10.8.3)"
+,firefox90,2013-05-18T16:48Z,"im sorry, how  do i update it. do i gotta download the patch"
+,rswr,2013-05-18T16:52Z,"i can't even open it. i'm using MBP 13'' early 2011 with OS 10.8.3.
+
+i have never tried playing a game with this wineskin. could someone help me?"
+,noobnak,2013-05-18T17:10Z,"@rswr
+-right click on the game and chose ""show package contents""
+-click on ""wineskin"" and chose ""set screen options""
+-on the right side uncheck ""use mac driver instead of x11"" and quit"
+,noobnak,2013-05-18T17:29Z,"@firefox90
+try the same way with rswr"
+,firefox90,2013-05-18T18:21Z,didnt work for me. i give up. to much for my brain. thanks though noobnak
+,noobnak,2013-05-18T18:33Z,sorry to hear that
+,cri23cri,2013-05-18T20:22Z,shit dont even work on new iMac... 
+,joaolonas,2013-05-18T22:52Z,"I played this game on my brother PC. Its amazing. Really the best Tomb Raider ever.
+
+Now.. I cant even open the DMG file.
+
+On a  MacBook late 2011 HD3000
+
+Thanks noobnak "
+,mjchch,2013-05-19T08:01Z,"@noobnak, how to update 1.01.743.0 patch anyway? Isn't it fix already from DMG file?"
+,noobnak,2013-05-19T10:37Z,"@mjchch
+You don't have to update it unless you have the garbled menu like firefox90.Anyway here's the link http://sebmania.info/download-tomb-raider-update-v1-01-743-0-bat"
+,wytwolf,2013-05-19T13:54Z,Yeah it won't work on my a late 2011 15.4 inch MBP either. Figured the AMD card should get good FPS if it worked on a intel HD3000.
+,Neperbear,2013-05-19T18:27Z,"When I try to open it with stuffit expander, it says that it is damaged, and when I try with archiver utility, it says that it cannot be opened.
+If anyone has any idea, please let me know :)
+I tried this game on PS3, and really want to play it, tks noobnak anyway ;)"
+,noobnak,2013-05-20T00:50Z,"@Neperbear
+it is not a .zip file , you must move the game inside the dmg file to you desktop "
+,patwik,2013-05-20T04:15Z,"@noonnak, how do I apply the update to a mac? The file includes battery.nfo,  crack folder (steam_api.dll and steam_api.ini) and update folder (changelog.txt and Tomb.Raider.Update.v1.01.743.0.exe)"
+,noobnak,2013-05-20T11:05Z,"@patwik
+-right click the game and show ""package content""
+-double click wineskin and chose ""install software"" and click ""choose setup executable""
+-find the update (tomb.raider.update.v.01.743.0-Bat) folder.
+-choose tomb.raider.updatee.s1.01.743.0.exe
+-click browse and find the folder nam ""Tomb raider"" and click extract
+-open the crack folder and copy the files inside
+-paste it inside the ""tomb raider"" folder and click applied to all (if it don't have a replace files option then it is the wrong folder)
+-sorry for my english"
+,noobnak,2013-05-20T11:06Z,-then quit all and play
+,joaolonas,2013-05-20T15:30Z,"noobnak thank you so much. Its working! 
+
+at first the icon bounced from the dock and disapeared but then it came to life!
+
+and automatically set itself to minimum settings.
+
+MaC HD 3000 "
+,noobnak,2013-05-20T15:45Z,why mac is always forgotten...
+,Neperbear,2013-05-20T23:11Z,"Sorry,
+I had a zip file from the other post you made. I downloaded this one, had te dmg file.
+To make it work, I went to set screen options, unchecked ""use mac driver instead of X11"", et checked ""override"", and chose fullscreen. It worked like a charm, if this can help anyone :)"
+,patwik,2013-05-21T04:35Z,"@noobnak, thanks for the instructions for the update but the menus are still gibberish"
+,mjchch,2013-05-21T08:19Z,"@noobnak, what's the difference for the game about checked or unchecked ""use mac driver instead of X11"" ? "
+,noobnak,2013-05-21T10:42Z,"@mjchch, Mac X11 lets you run applications that were developed on UNIX computers using the X11 system seamlessly on a Mac. It is installed with Mac OS X in the Utilities folder within the Applications folder. Most of the games on wineskin use X11. Not much difference between Mac driver and x11 but sometimes mac driver run some games better than x11."
+,dschazam,2013-05-26T10:46Z,"@noobnak
+
+I have some graphic issues and can't fix it.
+
+Screenshot: http://imageshack.us/photo/my-images/843/bildschirmfoto20130526u.png/
+
+I unchecked ""use mac driver instead of X11"" and tried multiple graphic options but nothing seems to remove the glitches."
+,eman87,2013-05-27T03:03Z,"@noobnak, its really slow for me... and its very strange, i have i7 quad core, 8gb ram, amd radeon 1gb... and ssd, some idea?
+thanks anyway"
+,Briantbriant,2013-06-05T00:59Z,"Hey dude, excellent working torrent. I had to install the update but that wasn't too hard.
+
+One thing though, I can't seem to get my xbox controller working properly. The buttons are all messed up. I have the same controller working with 5 or 6 other games perfectly. Ideas?"
+,w213,2013-06-06T12:53Z,PLEEEEASE seed!!!  I would love to play this game but I am stuck at 10.81% :(
+,zachary34,2013-06-11T14:30Z,hey i've been playing this game for a while now and its been bugging me that its pretty slow. is there anyway to fix this problem? i have a 8 GB 1600 MHz DDR3  HD4000 10.8.3
+,iNor6er,2013-06-11T19:58Z,"Work Fine with some lags sometimes in Mid 2010 Corei3, 4Gb  ram, 1 TB, Radeon HD 5670 512 mb Mountain Lion 10.8.3, to open the game, open first the app Wineskin, do not close it, and execute the TR2013, close the game and reopen and thats all"

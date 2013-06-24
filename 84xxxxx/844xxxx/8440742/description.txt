@@ -1,0 +1,68 @@
+Pro ASP.NET Web API Security
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Face_book Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+ASP.NET Web API is a key part of ASP.NET MVC 4 and the platform of choice for building RESTful services that can be accessed by a wide range of devices. Everything from JavaScript libraries to RIA plugins, RFID readers to smart phones can consume your services using platform-agnostic HTTP.
+
+With such wide accessibility, securingyour code effectively needs to be a top priority. You will quickly find that the WCF security protocols youΓÇÖre familiar with from .NET (WS-* and similar)are less suitable than they once were in this new environment; proving themselves cumbersome and limited in terms of the standards they can work with.
+
+Fortunately, ASP.NET Web API provides asimple robust security solution of its own that fits neatly within the ASP.NET MVC programming model and secures your code without the need for SOAP meaningthat there is no limit to the range of devices that it can work with ΓÇô if it can understand HTTP then it can be secured by Web API. These SOAP-less security techniques are the focus of this book.
+
+What youΓÇÖll learn
+- Identity management and cryptography
+- HTTP basic and digest authentication and Windows authentication
+- HTTP advanced concepts such as web caching, ETag, and CORS
+- Ownership factors of API keys, client X.509 certificates, and SAML tokens
+- Simple Web Token (SWT) and signed and encrypted JSON Web Token (JWT)
+- OAuth 2.0 from the ground up using JWT as the bearer token
+- OAuth 2.0 authorization codes and implicit grants using DotNetOpenAuth
+- Two-factor authentication using Google Authenticator
+- OWASP Top Ten risks for 2013
+
+Who this book is for
+No prior experience of .NET-security is needed to read this book. All security related concepts will be introduced from first-principles and developed to the point where you can use them confidently in a professional environment. A goodworking knowledge and experience of C# and the .NET framework are the onlypre-requisites to benefit from this book.
+
+Table of Contents
+Chapter 1. Welcome to ASP.NET Web API
+Chapter 2. Building RESTful Services
+Chapter 3. Extensibility Points
+Chapter 4. HTTP Anatomy and Security
+Chapter 5. Identity Management
+Chapter 6. Encryption and Signing
+Chapter 7. Custom STS through WIF
+Chapter 8. Knowledge Factors
+Chapter 9. Ownership Factors
+Chapter 10. Web Tokens
+Chapter 11. OAuth 2.0 Using Live Connect API
+Chapter 12. OAuth 2.0 from the Ground Up
+Chapter 13. OAuth 2.0 Using DotNetOpenAuth
+Chapter 14. Two-Factor Authentication
+Chapter 15. Security Vulnerabilities
+Appendix. ASP.NET Web API Security Distilled
+
+Book Details
+Paperback: 416 pages
+Publisher: Apress (March 2013)
+Language: English
+ISBN-10: 1430257822
+ISBN-13: 978-1430257820

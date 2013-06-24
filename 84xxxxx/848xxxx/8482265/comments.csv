@@ -1,0 +1,136 @@
+﻿User Type,Username,Date,Text
+,Tegra3,2013-05-17T04:58Z,"Thank You, I was waiting for this."
+,IzayaOrihara,2013-05-17T05:53Z,"So how is this game? Sounded pretty interesting. 
+Is it good?"
+,skyfish19,2013-05-17T08:59Z,"At last, download.....download....DOWNLOAD!!!!"
+,ZtorkX86,2013-05-17T09:07Z,"Five seconds ago I played the first two parts in the tutorial and it's a very charming game, I think it becomes more interesting down the line but it was a very good start. Recommended and if you like the game, support the creators!"
+,flaillo,2013-05-17T13:26Z,"For some reason, at least for me, it CTDs as soon as the intro movie is done playing. Anyone know why? Admin, win7, more than enough space/memory/ram/graphics/cpu/whatever. Anyone able to confirm or deny? "
+,flaillo,2013-05-17T13:36Z,"Got some crash logs. Maybe someone could give their opinion on what I've done wrong, if anything.
+
+
+Version: 1.0.3.0
+Thread: Main
+
+System.Exception: Font could not be found
+   at SpaceTech.Font.FreeTypeManager.OpenWindowsFont(String searchedFaceName, FontStyle fontStyle)
+   at SpaceTech.Font.FreeTypeManager.OpenFont(String searchedFaceName, FontStyle fontStyle)
+   at SpaceTech.Font.Font.Initialize(String fontFace, Single size, FontStyle style)
+   at SpaceTech.Font.Font..ctor(GraphicsDevice graphicsDevice, String fontFace, Single size, FontStyle style)
+   at SpaceTech.UI.Rendering.UIRenderer.InitializeFonts()
+   at SpaceTech.UI.Rendering.UIRenderer.GetFont(String name)
+   at SpaceTech.UI.Controls.TextBlock.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.ContentControl.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.StackPanel.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.StackPanel.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at Reus.View.UI.ScalePanel.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at Reus.MainMenu.VirtualScreenCollection.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIScreen.OnMeasure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.Measure(Vector2 availableSize)
+   at SpaceTech.UI.Controls.UIControl.UpdateLayout()
+   at SpaceTech.UI.Controls.UIScreen.UpdateLayout()
+   at Reus.MainMenu.MainMenuComponent.Draw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Draw(GameTime gameTime)
+   at Reus.Application.Draw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.DrawFrame()
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Reus.Program.ActualMain()
+   at Reus.Program.Main(String[] args)
+
+0x01d3 SpaceTech.Font.dll->SpaceTech.Font.FreeTypeManager.OpenWindowsFont
+0x0000 SpaceTech.Font.dll->SpaceTech.Font.FreeTypeManager.OpenFont
+0x001d SpaceTech.Font.dll->SpaceTech.Font.Font.Initialize
+0x001a SpaceTech.Font.dll->SpaceTech.Font.Font..ctor
+0x0094 SpaceTech.UI.dll->SpaceTech.UI.Rendering.UIRenderer.InitializeFonts
+0x0019 SpaceTech.UI.dll->SpaceTech.UI.Rendering.UIRenderer.GetFont
+0x016e SpaceTech.UI.dll->SpaceTech.UI.Controls.TextBlock.OnMeasure
+0x00cc SpaceTech.UI.dll->SpaceTech.UI.Controls.UIControl.Measure
+0x010c SpaceTech.UI.dll->SpaceTech.UI.Controls.ContentControl.OnMeasure
+0x00cc SpaceTech.UI.dll->SpaceTech.UI.Controls.UIControl.Measure
+0x012e SpaceTech.UI.dll->SpaceTech.UI.Controls.StackPanel.OnMeasure
+0x00cc SpaceTech.UI.dll->SpaceTech.UI.Controls.UIControl.Measure
+0x012e SpaceTech.UI.dll->SpaceTech.UI.Controls.StackPanel.OnMeasure
+0x00cc SpaceTech.UI.dll->SpaceTech.UI.Controls.UIControl.Measure
+0x0041 Reus.View.UI.dll->Reus.View.UI.ScalePanel.OnMeasure
+0x00cc SpaceTech.UI"
+,Fluid56,2013-05-17T17:11Z,make sure you have XNA installed.
+,thaghost1,2013-05-17T20:52Z,"@Fluid56 Thanks, That got my game running."
+,Sagezu,2013-05-18T09:55Z,When I try to open it game doesn't run :S
+,frankidou,2013-05-18T18:05Z,"Version: 1.0.3.0
+Thread: Main
+
+System.BadImageFormatException: Impossible de charger le fichier ou l'assembly 'Microsoft.Xna.Framework.dll' ou une de ses dépendances.  n’est pas une application Win32 valide. (Exception de HRESULT : 0x800700C1)
+Nom de fichier : 'Microsoft.Xna.Framework.dll'
+   à Reus.Application..ctor()
+   à Reus.Program.ActualMain()
+   à Reus.Program.Main(String[] args)
+
+
+
+0xffffffff Reus.exe->Reus.Application..ctor
+0x0005 Reus.exe->Reus.Program.ActualMain
+0x003c Reus.exe->Reus.Program.Main"
+,gerdon,2013-05-18T18:51Z,Is this safe my antivirus says something about malware and for some reason setup just wont close i ended its process and still nothing. http://s5.postimg.org/rcnw1hbxj/Untitled.png
+,dubesor,2013-05-18T22:03Z,"Had to install twice to get it to work but it did. Game is really complicated though, not my type."
+,Chuckroll,2013-05-20T04:38Z,"hello it seems i have this error whenever i launch the game could someone please find why and how to fix the error(no suitable graphics card found
+could not find a direct3d device that supports XNA framework Hidef profile
+verify that a suitable graphic card is installed
+make sure the desktop is not locked, and that no other application is running in full screen mode
+avoid running under remote desktop or as window service
+check the display properties to make sure hardware acceleration is set to full)
+some help please i have a radeon x1600 graphic card"
+,theraythe,2013-05-20T21:31Z,@chuckroll maybe update your video card.......its 7 years old
+,tenlaven,2013-05-20T23:18Z,Any chance we could get the 1.0.4.0 patch?
+,Chuckroll,2013-05-21T00:42Z,i am so hyped up over this game too bad i cannot play it :(
+,Babality,2013-05-21T15:21Z,"Works 100 % , win 7 /64x ! Ty a lot HeroMaster , keep up the good work ;)"
+,n0ne0ther,2013-05-23T00:29Z,"Not working over here. .Net Framework bullshit. Anyone have a solution?
+
+Version: 1.0.3.0
+Thread: Main
+
+System.IO.FileLoadException: Could not load file or assembly 'Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553' or one of its dependencies. Access is denied.
+File name: 'Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553'
+   at Reus.Program.ActualMain()
+   at Reus.Program.Main(String[] args)
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLMSoftwareMicrosoftFusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLMSoftwareMicrosoftFusion!EnableLog].
+
+
+0xffffffff Reus.exe->Reus.Program.ActualMain
+0x003c Reus.exe->Reus.Program.Main"
+,klip1,2013-05-27T07:41Z,"works like a charm, thanks for the up. definatley is something different and somewhat simple. :-)"
+,lords43,2013-05-28T11:55Z,"shit game, would not pirate (again)"
+,haopure,2013-05-29T10:30Z,"Could you please upload the 1.04 patch,thanks~"
+,ZtorkX86,2013-05-30T04:23Z,"Yes, please, upload the patch if you find it!"
+,fankalol,2013-06-03T12:39Z,"i got tis error message ""no suitable graphics card found,could not find a direct3d device that supports XNA framework Hidef profile""
+
+Anyone cna help ?"
+,ptlk,2013-06-04T16:45Z,added both patches today to my acc
+,RaptorGear,2013-06-05T22:40Z,"kick ass torrent
+ can you upload this one too?
+ive only found isos of it
+http://www.gog.com/gamecard/uplink_hacker_elite
+"
+,Dasdaman,2013-06-08T01:44Z,"@RaptorGear
+I recommend using a tool like PowerIso. As many games and movies come in .iso format (a virtual CD, in essence), many people compact a torrent further by putting nothing but an .iso in the file.
+
+There should be instructions somewhere on the web about ""virtual drive safety"" or some-such, but you really need one extra virtual drive to mount a single .iso at a time."

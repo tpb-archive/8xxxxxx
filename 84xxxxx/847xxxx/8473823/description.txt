@@ -1,0 +1,223 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 23. May 2010, 16:46
+
+Charice / Charice (Deluxe Edition)
+
+Used drive  : ATAPI   iHAP322   8   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:Program FilesExact Audio CopyFlacflac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:56.44 |         0    |    17743   
+        2  |  3:56.44 |  4:22.57 |     17744    |    37450   
+        3  |  8:19.26 |  3:36.18 |     37451    |    53668   
+        4  | 11:55.44 |  3:38.63 |     53669    |    70081   
+        5  | 15:34.32 |  4:17.69 |     70082    |    89425   
+        6  | 19:52.26 |  3:05.27 |     89426    |   103327   
+        7  | 22:57.53 |  4:09.71 |    103328    |   122073   
+        8  | 27:07.49 |  4:06.57 |    122074    |   140580   
+        9  | 31:14.31 |  3:52.07 |    140581    |   157987   
+       10  | 35:06.38 |  3:23.49 |    157988    |   173261   
+       11  | 38:30.12 |  3:43.39 |    173262    |   190025   
+       12  | 42:13.51 |  4:00.41 |    190026    |   208066   
+       13  | 46:14.17 |  3:16.16 |    208067    |   222782   
+       14  | 49:30.33 |  3:54.57 |    222783    |   240389   
+
+
+Track  1
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 1 - Pyramid (Feat. Iyaz).wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 176B3A9E
+     Copy CRC 176B3A9E
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 2 - Reset.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 7CCF06AB
+     Copy CRC 7CCF06AB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 3 - In This Song.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 26DFC49A
+     Copy CRC 26DFC49A
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 4 - Nobody's Singin' To Me.wav
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Test CRC D987F3F6
+     Copy CRC D987F3F6
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 5 - Thank You.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC D03F90FB
+     Copy CRC D03F90FB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 6 - I Love You.wav
+
+     Pre-gap length  0:00:01.56
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 7D0903BF
+     Copy CRC 7D0903BF
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 7 - In Love So Deep.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 58FC3457
+     Copy CRC 58FC3457
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 8 - All That I Need To Survive.wav
+
+     Pre-gap length  0:00:01.36
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC A8AEF00C
+     Copy CRC A8AEF00C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition) 9 - Nothing.wav
+
+     Pre-gap length  0:00:01.78
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Test CRC E67BA0C5
+     Copy CRC E67BA0C5
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition)10 - The Truth Is.wav
+
+     Pre-gap length  0:00:01.90
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 52A7B510
+     Copy CRC 52A7B510
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition)11 - Did It For You.wav
+
+     Pre-gap length  0:00:01.29
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 56D9994D
+     Copy CRC 56D9994D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 12
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition)12 - Note To God.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 07AF5DB4
+     Copy CRC 07AF5DB4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 13
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition)13 - Breathe You Out.wav
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Test CRC 947EE587
+     Copy CRC 947EE587
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 14
+
+     Filename F:My MusicCharice - 2010 - Charice (Deluxe Edition)14 - Are We Over.wav
+
+     Pre-gap length  0:00:01.80
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Test CRC EF6DD352
+     Copy CRC EF6DD352
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

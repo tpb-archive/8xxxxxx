@@ -1,0 +1,23 @@
+Thanks go to DerMicha
+
+GameBase is what's known by the emulation community as an "Emulator Frontend". It is basically a program that makes
+running games on various emulators very easy, so that you don't have to remember lots of command line parameters and
+config settings. GameBase is also the Official Frontend for the GB64 Collection of Commodore 64 games!
+Once you've downloaded the GB64 database and screenshots, you can use GameBase to view all the games, listen to sid
+music and even launch games themselves in various C64 emulators.
+
+Each game in a GameBase database can store more than just a game or rom file. It can also store a music file, game docs,
+screenshots, and really any other files you wish (these are referred to in GameBase as Extras). For example, in the GB64
+database, each game-entry in the database stores not just the game file, but also a sid-music file. You can add such extras
+as game docs, a magazine review, a cover scan, an mp3 remix, a link to a web site... the list goes on.
+All these Extras are conveniently accessible in GameBase via a simple drop-down menu directly under a game's screenshot.
+
+This torrent contains:
+Database Installer: (repacked to fit the rules) gb64v10.7z (this can be downloaded from website too)
+Screenshots package: gb64v10s.7z (this can be downloaded from website too)
+Games package: gb64v10g.7z
+Original games package: gb64v10o.7z
+Missing games package: gb64v10m.7z
+Cover package: gb64v10c.7z
+Docs & tips package: gb64v10d.7z
+Adverts: gb64v10a.7z (this is the same as in GB64v09)

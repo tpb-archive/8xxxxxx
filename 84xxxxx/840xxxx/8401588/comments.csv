@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,SpaceCadet6969754,2013-04-25T01:39Z,"Can not import reg file error accessing registry the info in the reg file tries to create another hkey_users entry.
+[HKEY_USERSS-1-5-21-363904404-1626071828-3064205599-1000SoftwareVS Revo GroupRevo Uninstaller ProGeneral]
+""RegUN""=""SceneDL"""
+,Plasros,2013-04-25T18:51Z,"@SpaceCadet6969754, Read the instructions, it tells you specifically that you can use the patch instead. Great torrent working 100% :) Get it!"
+,ZeroSupremo,2013-04-29T03:51Z,Backdoor
+,TheMaskedVillan,2013-04-30T01:11Z,"This is a great program, probably the best uninstaller out there. I had been using version 2.5.9. Thanks for the upgrade, and in 64 bit no less. Give your self a big pat on the back from all of us. As always, I will keep seeding until I reach 250%, or ten days. Everyone should, to keep these torrents alive.
+Regards,
+TMV"
+,MJimM,2013-05-01T20:08Z,Thanks for the up!! Works like a charm on Win8 x64
+,MJimM,2013-05-01T20:09Z,"Thanks SceneDL, this works 100% on Win8 x64"
+,ankmiike,2013-05-08T09:18Z,"I am having the same Reg-File problem as SpaceCadet6969754
+
+@Plasros & SceneDL
+Where the hell is the patch? I don't see any patch in the torrent. And, the instructions ask us to use the patch if the Crack doesn't work, it works fine for me. It's the Reg-File that doesn't work. What am I suppose to with that?"
+,greenjade,2013-05-09T01:56Z,the reg-file doesnt work
+,sycamore77,2013-05-16T16:48Z,"To those who have problems with the reg file - do the following:
+
+1] Open the registry
+2] Navigate to HKEY_USERS and expand it
+3] Right Mouse Button at the first long named subkey, should look like S-1-5-21-1565858243-1679669690-528531773-1000 or something like that, then choose Copy Key Name
+4] Open the .reg file with a text editor like Notepad
+5] Paste your subkey name, so it looks like
+
+[HKEY_USERSyour_long_named_subkeySoftwareVS Revo GroupRevo Uninstaller ProGeneral]
+
+6] Save the .reg file, don't change the file extension if prompted, and then close the file.
+7] Run the edited .reg file and enjoy!"
+,eliel77,2013-05-18T19:39Z,"What a messy info and torrent
+first we have the main folder with the RevoUninProSetup.exe to install it (around 9 MB). But we also have two folders (32 bit and 64 Bit) with the RevoUninPro.exe, at first I thought they were 2 different installs for 32 bits or 64 bits, but thinking better now I can only imagine they are the so called ""crack"". So for anyone wondering first you install the RevoUninProSetup.exe. for people with 32 bits system you enter the folder 32 bits and copy RevoUninPro.exe. Now go to the folder you have installed the program (usually C:Program FilesVS Revo Group) and paste the file , replacing the other RevoUninPro.exe. Now enter the folder Reg-File Folder and open the SceneDL.reg, confirm everything and I think thats it. For people using 64 bits you dont need to replace the RevoUninPro.exe. Just install it and than run patch in revo.uninstaller.pro.3.x.(x64)-patch.rar . A prompt with no information will pop. Just write any name there and the program will be registered to that name you just wrote."
+,armchair.53,2013-05-21T09:16Z,I have vista 32 bit.  It installed fine.  I then copied the file in the 32 bit directory into the program file location (as per instructions).  It seems to be working fine.  I did not need to use the registry patch.
+,tainist,2013-05-24T09:19Z,@sycamore77 Thank you!

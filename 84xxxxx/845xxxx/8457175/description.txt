@@ -1,0 +1,24 @@
+Flickit is fun 2d physics arcade style game where you try to gain the highest score possible. Simply flick the player an watch as it collides with different objects, some of which will propel your player further or stop it completely.
+
+If you like the game or what it can become you can support it with just 1 dollar, I dont need $500 this is the minimum limit indiegogo sets. I actually would be happy to get 99 persons to pledge $1 so i can at least get the IOS developer license.
+
+Thank you and share with a friend if you can.
+
+
+Main development Site:http://www.indiedb.com/games/flickit
+
+Donate Here:
+
+Changelog RC V1.2
+
++ updated graphics SD to Full HD
++ removed leaderboard option and replaced with stats options which now covers all leaderboards for each platform,  also view your own score records
++ added a new feature 'Store' where items can be purchased using cash obtained from playing 
++ added a new feature 'Forum'
++ added in-game power-ups, used to help obtain a higher-score or cash 
++ added cash Object
++ added floating Bomb Balloon 
++ added GameOver layer which shows some useful information and allows quick movement between scenes
++ fixed bugs, added some technical features to improve social gameplay and physics. 
+
+The game now supports, MAC, WINDOWS, IOS, ANDROID		

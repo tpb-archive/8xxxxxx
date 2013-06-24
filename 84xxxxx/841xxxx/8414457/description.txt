@@ -1,0 +1,35 @@
+Zygor Guides update v4.0.6387, released April 24th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary
+
+
+Changelog:
+
+-------
+
+[B] Achievements
+Added missing Cooking achievements or missing sections to our guide.
+Added correct id's to Pandaren Gourmet Achievement
+
+[A] Professions
+Fixed all material numbering and issues in the Blacksmithing guide.
+
+[A] Professions
+Began organization of the recipe guides.
+
+[H] Dailies
+Updated Horde dailies with Pre-quests and dailies together.
+Combined guides that do not need to be seperated and taking guides out that do not need to be in.

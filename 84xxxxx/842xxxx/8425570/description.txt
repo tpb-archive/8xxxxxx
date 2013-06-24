@@ -1,0 +1,58 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 697 MiB
+Duration                                 : 1h 35mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 025 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 35mn
+Bit rate mode                            : Variable
+Bit rate                                 : 958 Kbps
+Maximum bit rate                         : 2 856 Kbps
+Width                                    : 720 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.098
+Stream size                              : 652 MiB (93%)
+Language                                 : English
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 35mn
+Bit rate mode                            : Variable
+Bit rate                                 : 61.9 Kbps
+Maximum bit rate                         : 67.8 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 42.2 MiB (6%)
+Title                                    : MP3 2-ch 48KHz
+Language                                 : English
+
+Screens  http://bayimg.com/gamAgaAeh
+
+         http://bayimg.com/gamAiaaeH
+
+Enjoy.

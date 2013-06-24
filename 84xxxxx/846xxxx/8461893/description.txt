@@ -1,0 +1,21 @@
+Format                  :Matroska
+File size               :23 files total 2.9 Gigity bytes
+Duration                :varies(21-23 minutes each)
+
+
+        Video
+
+Codec ID                : V_MPEG4/ISO/AVC
+Width                   : 1 280 pixels
+Height                  : 720 pixels
+Display aspect ratio    : 16:9
+Frame rate mode         : Variable
+Frame rate              : 29.976 fps
+
+        Audio
+Format                  : AC-3
+Codec ID                : A_AC3
+Bit rate mode           : Constant 
+Channel(s)              : 6 channels(5.1)
+Channel positions       : 3 Front,2 Rear,1 LFE
+Sampling rate           : 384 kbps

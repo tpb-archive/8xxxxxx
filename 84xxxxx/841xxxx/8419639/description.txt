@@ -1,0 +1,46 @@
+What's new in Ableton Live 9.0.3: (April 19th, 2013)
+
+Improvements and feature changes:
+┬╖ Added a new skin: "Disco".
+┬╖ Added a new option to the "Record/Warp/Launch" preferences pane: "Start Transport with Record". If activated, the transport will start immediately when clicking on the Session- or Arrangement-Record buttons. If deactivated, it prepares for recording as in Live 8, so you have to launch a clip in Session View or click the 'Play' button. You can hold down the Shift modifier key when clicking on the record buttons to invert the behavior temporarily.
+┬╖ When recording automation on top of an existing automation envelope, and quickly clicking on different positions in parameters like sliders, X/Y pads, etc., Live now records a latching automation envelope instead of jumping back to the previous value.
+┬╖ The Compressor device does not clip input signals at +20 dB anymore.
+┬╖ Added control surface support for Novation Launchkey series.
+┬╖ Added control surface support for M-Audio Axiom Air Mini 32.
+┬╖ Added a user satisfaction survey. After several hours of usage, Live will ask you to rate the software on the next startup. You can submit a star rating or simply dismiss the survey.
+┬╖ Updated manual, lessons and translations.
+
+Bugfixes:
+┬╖ The Trial version of Live 9.0.2 could hang on startup.
+┬╖ Live would not work as a ReWire slave on Windows.
+┬╖ The performance of the Ableton Index process has been improved, especially on OS X.
+┬╖ The Ableton Index process would sometimes not scan all folders after adding them to the sidebar.
+┬╖ The Ableton Index process could block the GUI during saving and exporting of Live sets, presets or clips.
+┬╖ Scanning folders containing a huge amount of files could take longer than necessary.
+┬╖ The Browser would not update its content pane after a change in the file system if the selection was somewhere outside of the Browser.
+┬╖ Expanding the Audio Unit folder in the browser's "Plug-ins" label could be slow for users which have a lot of library content installed.
+┬╖ Live would not save a clip self-contained after dragging it to the Browser and confirming the name of the new clip by clicking anywhere outside of the Browser.
+┬╖ The Session Record button would not turn off if the recording was aborted, e.g. by stopping or deleting the currently recording clip, disarming a track, etc.
+┬╖ Under certain conditions, MIDI notes would not get recorded into a clip slot after deleting a previous clip.
+┬╖ Overdubbing into MIDI clips could unnecessarily bloat the undo history file.
+┬╖ Fixed a graphical glitch which could occur in the representation of the filter curve in EQ Eight's Frequency Display.
+┬╖ Several MIDI control surfaces would not correctly shut down after quitting Live, e.g. motorfaders on the Mackie Control would not return to zero, Axiom Pro devices would not exit Hypercontrol mode, etc.
+┬╖ The "Project Mix IO" control surface would not work.
+┬╖ The channel strip buttons on the Mackie Control XT would not work.
+┬╖ Fixed a bug where the key navigation in track headers would not work properly when certain control surfaces are selected.
+┬╖ When using control surface scripts, the blue hand would sometimes not map to any device, e.g. after creating a device and then deleting it by using undo.
+┬╖ Live could sometimes crash on quit in case a faulty MIDI remote script throws an exception in the Python console.
+┬╖ Fixed a crash which could occur in Live Intro when right-clicking on a drum rack chain.
+
+System requirements
+
+- Windows XP (64 bit), Windows Vista (64 bit), Windows 7 (64 bit) or Windows 8 (64 bit)
+- Multicore processor
+- 2 GB RAM
+-1024x768 display
+-3GB free disk space
+
+Languages : English, French, German, Italian, Japanese, Spanish
+
+Homepage :  
+https://www.ableton.com/

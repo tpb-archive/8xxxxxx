@@ -1,0 +1,13 @@
+Description:
+
+iFFmpeg is a graphical front-end for FFmpeg, a command-line tool used to convert multimedia files between formats. The command line instructions can be very hard to master/understand, so iFFmpeg does all the hard work for you. This allows you to use FFmpeg without detailed command-line knowledge.
+
+Version 3.6.8:
+
+    Added FFmpeg option ΓÇÿdialnormΓÇÖ for AC3 encoding.
+    Dolby Prologic II now also works for AAC audio streams.
+    Fixed issue with encoding to mpeg2video.
+
+Notes:
+
+Pre-cracked courtesy of i/o.

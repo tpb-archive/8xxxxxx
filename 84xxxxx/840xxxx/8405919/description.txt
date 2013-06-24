@@ -1,0 +1,33 @@
+Name: Beamer
+Version: - 1.6.2
+
+Mac Platform: Intel
+Includes: K
+
+
+Link for more information: http://beamer-app.com/
+
+Pre-patched courtesy of Special [K]'s included patcher
+
+* Patcher included for those that would rather patch their own or updates.
+
+Beamer: Drag, Drop, Watch!
+
+* Drag any movie file onto Beamer and it will start streaming wirelessly to your TV with Apple TV instantly. No jailbreak required.
+* No Conversion Needed
+* Beamer plays all (OK, almost all) movie files, so you don't need to convert your videos. AVI, MOV, MKV, WMV and FLV files will play just fine.
+
+Requirements
+* Intel, 64-bit processor
+* OS X 10.6 or later
+* Apple TV (2nd or 3rd generation)
+
+What's New
+Version 1.6.2:
+* Fixed an issue where audio would sometimes be muted for the remainder of the movie.
+* Fixed an issue where some subtitles would be parsed incorrectly.
+* Fixed an issue where some movie files would not open (since version 1.6).
+* Added the ability to report movie files that cannot be opened.
+* Added support for MPL2 subtitles.
+* Added support for audio-only movie files.
+* Various performance, stability and cosmetic improvements.

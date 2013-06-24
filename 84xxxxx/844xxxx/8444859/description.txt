@@ -1,0 +1,70 @@
+Oracle SQL Tuning With Oracle SQLTXPLAIN
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Face_book Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+Oracle SQL Tuning with SQLTXPLAIN is a practical guide to SQL tuning the way OracleΓÇÖs own experts do it, using a freely downloadable tool called SQLTXPLAIN. Using this simple tool youΓÇÖll learn how to tune even the most complex SQL, and youΓÇÖll learn to do it quickly, without the huge learning curve usually associated with tuning as a whole.
+
+Firmly based in real world problems, this book helps you reclaim system resources and avoid the most common bottleneck in overall performance, badly tuned SQL.  YouΓÇÖll learn how the optimizer works, how to take advantage of its latest features, and when itΓÇÖs better to turn them off.
+
+- Quickly tune any SQL statement no matter how complex.
+- Build and tune test cases without affecting production.
+- Use the latest tuning features with confidence.
+
+What youΓÇÖll learn
+- How and why complex SQL goes wrong
+- When statistics are crucial and when they are not
+- How and when the tuning facilities of the database can help or hinder
+- When to tune and when not to tune
+- Which steps in an execution plan are crucial to performance
+- How the optimizer works out the execution plan
+
+Who this book is for
+Oracle SQL Tuning with SQLTXPLAIN is ideal for everyone who deals with SQL and SQL tuning.  Both developers and DBAΓÇÖs will benefit from learning how to use the SQLTXPLAIN tool along with the problem solving approach described in this book.
+
+Table of Contents
+Chapter 1. Introduction to SQLTXPLAIN
+Chapter 2. The Cost-Based Optimizer Environment
+Chapter 3. How Object Statistics Can Make Your Execution Plan Wrong
+Chapter 4. How Skewness Can Make Your Execution Times Variable
+Chapter 5. Troubleshooting Query Transformations
+Chapter 6. Forcing Execution Plans Through Profiles
+Chapter 7. Adaptive Cursor Sharing
+Chapter 8. Dynamic Sampling and Cardinality Feedback
+Chapter 9. Using SQLTXPLAIN with Data Guard Physical Standby Databases
+Chapter 10. Comparing Execution Plans
+Chapter 11. Building Good Test Cases
+Chapter 12. Using XPLORE to Investigate Unexpected Plan Changes
+Chapter 13. Trace Files, TRCANLZR and Modifying SQLT behavior
+Chapter 14. Running a Health Check
+Chapter 15. The Final Word
+
+Appendix A. Installing SQLTXPLAIN
+Appendix B. The CBO Parameters (11.2.0.1)
+Appendix C. Tool Configuration Parameters
+
+Book Details
+Paperback: 317 pages
+Publisher: Apress (March 2013)
+Language: English
+ISBN-10: 1430248092
+ISBN-13: 978-1430248095

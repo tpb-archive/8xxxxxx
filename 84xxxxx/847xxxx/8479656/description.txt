@@ -1,0 +1,53 @@
+
+Absolute OpenBSD: UNIX for the Practical Paranoid, 2nd Edition 
+
+Book Details:
+
+Pages: 536 
+Publisher: No Starch Press; 2nd Edition (April 2013)
+Language: English
+ISBN-10: 1593274769
+ISBN-13: 978-1593274764
+Format: PDF, EPUB
+
+Book Description:
+
+The definitive book on OpenBSD gets a long-overdue refresh.
+
+OpenBSD, the elegant, highly secure Unix-like operating system, is widely used as the basis for critical DNS servers, routers, firewalls, and more. This long-awaited second edition of Absolute OpenBSD maintains author Michael Lucass trademark straightforward and practical approach that readers have enjoyed for years. You will learn the intricacies of the platform, the technical details behind certain design decisions, and best practices, with bits of humor sprinkled throughout. This edition has been completely updated for OpenBSD 5.3, including new coverage of OpenBSDs boot system, security features like W^X and ProPolice, and advanced networking techniques.
+
+You will learn how to:
+
+Manage network traffic with VLANs, trunks, IPv6, and the PF packet filter
+Make software management quick and effective using the ports and packages system
+Give users only the access they need with groups, sudo, and chroots
+Configure OpenBSDΓÇÖs secure implementations of SNMP, DHCP, NTP, hardware sensors, and more
+Customize the installation and upgrade processes for your network and hardware, or build a custom OpenBSD release
+
+Whether you are a new user looking for a complete introduction to OpenBSD or an experienced sysadmin looking for a refresher, Absolute OpenBSD, 2nd Edition will give you everything you need to master the intricacies of the worlds most secure operating system.
+
+Table of Contents:
+
+Chapter 1. Getting Additional Help
+Chapter 2. Installation Preparations
+Chapter 3. Installation Walk-Through
+Chapter 4. Post-Install Setup
+Chapter 5. The Boot Process
+Chapter 6. User Management
+Chapter 7. Root, and How to Avoid It
+Chapter 8. Disks and Filesystems (PDF)
+Chapter 9. More Filesystems
+Chapter 10. Securing Your System
+Chapter 11. Overview of TCP/IP
+Chapter 12. Connecting to the Network
+Chapter 13. Software Management
+Chapter 14. Everything /etc
+Chapter 15. System Maintenance
+Chapter 16. Network Servers
+Chapter 17. Desktop OpenBSD
+Chapter 18. Kernel Configuration
+Chapter 19. Building Custom Kernels
+Chapter 20. Upgrading
+Chapter 21. Packet Filtering
+Chapter 22. Advanced PF
+Chapter 23. Customizing OpenBSD

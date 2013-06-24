@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,chop007,2013-05-01T16:30Z,"Awesome wolverine, thanks bro, this version rocks. Finally, blue ray playback."
+,rayr_2,2013-05-01T23:15Z,Thank you. It installs ok and works on Win 7-64. Tested with a Blue Ray disk.
+,Wolverine_Xman,2013-05-02T03:26Z,It rocks........ for sure chop007 
+,dontlikefake,2013-05-03T02:25Z,thanks
+,stingrayopp,2013-05-03T18:33Z,"@wolverine_Xman  please tell us, does it work on windows xp properly ?!"
+,Wolverine_Xman,2013-05-03T23:13Z,I don't know if it works on XP properly. This would have to be your personal test. If you decide to install it on XP use compatability mode. if available on your PC. It was designed to be a Windows 8 Player.
+,Wolverine_Xman,2013-05-03T23:18Z,I am not sure if it works on XP. I didn't test it on XP.  
+,Robert1170,2013-05-04T05:29Z,is this a trial version and it will expire after 30 days?
+,sdsucks,2013-05-05T03:42Z,This one stops working after 1 month or so.
+,Wolverine_Xman,2013-05-05T09:28Z,Not a trial buddy.
+,Wolverine_Xman,2013-05-07T01:54Z,No does not expire in 30 days and is not a trial.... it is a full version.  ...... 
+,sdsucks,2013-05-07T06:51Z,This is fully functional but it does expire! I tried on a clean pc. It even uses the same cd-key as pdvd12!
+,Wolverine_Xman,2013-05-08T23:06Z,And which key is that sdsucks can you paste it here I will compare my own keys here.
+,sdsucks,2013-05-09T08:10Z,6L3V5-2ZTK9-4BV4M-V4FR2-4E7HS-EP3MZ
+,volkermetal,2013-05-10T04:19Z,"Excelente aporte funciona prefecto,..!!!"
+,xarinl,2013-05-11T17:01Z,Does this software play DVD's any better ? I am currently using windows media player of windows 7 or VLC player to play my DVDs.
+,saleemmy,2013-05-11T18:49Z,for some reason... some mp4 files doesn't display video... just black screen with audio... any help??
+,chop007,2013-05-12T14:03Z,Yeh unfortunately it expires
+,Wolverine_Xman,2013-05-13T20:24Z,If you install it on your pc make sure you never click the random cybelinks ad window update window that pops up random advising you of newer versions and other products  it reverts your copy to trial when validates. You'd be better of going to cyberlinks website by opening the browser first and ignoring the ad window
+,chop007,2013-05-14T15:07Z,"Yeh I tried that, then tried uninstalling and reinstalling but no luck. Any idea which registry keys it uses to keep track of trial expiration? If I can find those and delete them, your version will work magic. Anyways thanks for the awesome software and for taking the time to answer, Legend."
+,Wolverine_Xman,2013-05-15T02:29Z,"Uninstall than delete the folder in C://Program Files/Cyberlink/PowerDVD 13. Reboot, clean registry, reboot again and re install should work. "
+,chop007,2013-05-16T17:45Z,"Yeh, thanks wolf, still no luck I am afraid. I don't know where they are hiding the file/code that disables it if you have used it for over a month. Either that, although I have cleaned registry, or somehow they have attached a key to hardware device drivers because some of the cracks work but then one cannot hear sound when playing back a dvd from hard drive, unsupported audio or something, but 12 plays it fine. Oh well, thanks for your time and effort I appreciate it immensely.   "
+,Aishatler,2013-05-17T02:49Z,Nice!!! Works perfectly!
+,chop007,2013-05-17T15:57Z,"Sheesh your lucky man, that pdvd13 was so awesome."
+,Wolverine_Xman,2013-05-17T20:08Z,I am using ESET Smart Security 6.0 the Hips feature in it lets me know if a program tries to make changes. I get the option to allow changes and add new rules to my PC . This may be something you guys may want to consider having to prevent programs from reverting to trial on their own. 
+,Wolverine_Xman,2013-05-17T20:11Z,My copy continues to work well without any issues.
+,chop007,2013-05-18T21:34Z,"Yeh thanks wolf, the picture is working stunningly when playing back dvd, just no sound at all. All my codecs work perfect for pdvd 11+12, but strangely when trying to play video_ts from hard drive, just no sound, unsupported audio. I have tried everything but it has not reverted to trial at least. Every other format plays perfect except video_ts. Awesome, no worries friend I am sure something will come right."
+,chop007,2013-05-22T21:59Z,"YES IS GOT IT. Finally, what I did was download the Claud.sim file, placed that into powerdvd 13 audio filter and main program path, NOW, Finally got sound when playing back video ts from hard drive. Maybe your crack/patch deletes that claud.sim file. WORKING, AWESOME NOW!!!!!Thanks for you help friend."
+,Wolverine_Xman,2013-05-23T18:28Z,Awesome glad you figured out the solution.  Cheers 
+,superdupahorn,2013-05-24T15:59Z,"I'm not sure if anyone else has this problem.
+But when I try and play a blu-ray disc I get unspecified error 80004005.
+
+The player works great apart from that. Any solutions?"
+,pirate_pacman,2013-05-24T21:28Z,"@chop007: Sweet it Works for you. You don't list your system prerequisites, so it's a hard one to track Down really. Perhaps especially if you are on Windows 8 x64.
+
+This procedure doesn't Work on Windows 8 x64 (to my experience so far)."
+,pirate_pacman,2013-05-25T15:28Z,"Let me correct myself. Just made a clean install of Windows 8 (x64) as my registry was seemingly compromised.
+
+Couldn't help trying PowerDVD from this clean state, and what do you know .. the thing works simply by following the instructions laid out here.
+
+Thank you, Wolverine_Xman, for a fine piece of upload. (And sorry for my idiotic outburst)."
+,Wolverine_Xman,2013-05-28T00:53Z,"If your copy of PowerDVD stopped and can not open or if it reverts to trial here is the patch to fix it.
+Cyberlinks PowerDVD Ultra V13.02720.57 Patch {fix } http://thepiratebay.sx/torrent/8515026
+
+
+This torrent instructions are only run and select patch. You should be good to go."
+,roccococo82,2013-06-03T19:24Z,"Unfortunatelly program just dont start after a few days working. Uninstall, clear register and new installation doesnt help.
+This fix file also dont help.
+Anyone know how to fix it ?"

@@ -1,0 +1,7 @@
+The Parted Magic OS employs core programs of GParted and Parted to handle partitioning tasks with ease, while featuring other useful software (e.g. Partimage, TestDisk, Truecrypt, Clonezilla, G4L, SuperGrubDisk, ddrescue, etc...) and an excellent set of info to benefit the user. Parted Magic is licensed under the GPL, so an extensive collection of file system tools are also included, as Parted Magic supports the following: btrfs, exfat, ext2, ext3, ext4, fat16, fat32, hfs, hfs+, jfs, linux-swap, ntfs, reiserfs, reiser4, xfs, and zfs. Parted Magic requires at least a i686 processor and 312MB of RAM to operate or 175MB in "Live" mode.
+
+Features
+
+Format internal and external hard drives. Move, copy, create, delete, expand and shrink hard drive partitions. Clone your hard drive, to create a full backup. Test hard drives for impending failure. Test memory for bad sectors. Benchmark your computer for a performance rating. Securely erase your entire hard drive, wiping it clean from all data. Gives access to non-booting systems allowing you to rescue important data. Runs from the CD, no install required.
+ 
+http://partedmagic.com

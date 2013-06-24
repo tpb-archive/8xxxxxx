@@ -1,0 +1,35 @@
+==========================================================================
+ ____ ____  ____  _  _   _____ ____  _____ _____ 
+|  _ ___ |  _ | || | |  ___|  _ | ____| ____|
+| |_) |__) | |_) | || |_| |_  | |_) |  _| |  _|  
+|  __// __/|  __/|__   _|  _| |  _ &lt;| |___| |___ 
+|_|  |_____|_|      |_| |_|   |_| ______|_____|
+
+==========================================================================
+VIDEO:  [H264]  1280x720  0bpp  59.940 fps    0.0 kbps ( 0.0 kbyte/s)
+ID_FILENAME=Locked.Up.Abroad.S07E05.720p.HDTV.x264.P2P4FREE.mkv
+ID_DEMUXER=lavfpref
+ID_VIDEO_FORMAT=H264
+ID_VIDEO_BITRATE=0
+ID_VIDEO_WIDTH=1280
+ID_VIDEO_HEIGHT=720
+ID_VIDEO_FPS=59.940
+ID_VIDEO_ASPECT=1.7778
+ID_AUDIO_FORMAT=8192
+ID_AUDIO_BITRATE=128000
+ID_AUDIO_RATE=48000
+ID_AUDIO_NCH=6
+ID_START_TIME=0.00
+ID_LENGTH=2659.92
+ID_SEEKABLE=1
+ID_CHAPTERS=0
+==========================================================================
+AUDIO: 48000 Hz, 2 ch, s16le, 128.0 kbit/8.33% (ratio: 16000-&gt;192000)
+ID_AUDIO_BITRATE=128000
+ID_AUDIO_RATE=48000
+ID_AUDIO_NCH=2
+Selected audio codec: [ffac3] afm: ffmpeg (FFmpeg AC-3)
+==========================================================================
+AO: [null] 48000Hz 2ch s16le (2 bytes per sample)
+ID_AUDIO_CODEC=ffac3
+==========================================================================

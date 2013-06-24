@@ -1,0 +1,53 @@
+General
+Nombre completo                          : El hombre de las sombras[Castellano] 2012 [HDRip]dela .avi
+Formato                                  : AVI
+Formato/Info                             : Audio Video Interleave
+Tamaño del archivo                       : 1,37GIB
+Duración                                 : 1h 45min.
+Tasa de bits total                       : 1 851Kbps
+Aplicación de codifición                 : VirtualDubMod 1.5.10.2 (build 2542/release)
+Librería de codificación                 : VirtualDubMod build 2542/release
+
+Video
+ID                                       : 0
+Formato                                  : MPEG-4 Visual
+Formato del perfil                       : Advanced Simple@L5
+Ajustes del formato, BVOP                : 2
+Ajustes del formato, Qpel                : No
+Ajustes del formato, GMC                 : No warppoints
+Ajustes del formato, Matrix              : Default (H.263)
+ID Códec                                 : XVID
+ID Códec/Pista                           : XviD
+Duración                                 : 1h 45min.
+Tasa de bits                             : 1 458Kbps
+Ancho                                    : 720pixeles
+Alto                                     : 304pixeles
+Relación de aspecto                      : 2,35:1
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.278
+Tamaño de pista                          : 1,08GIB (79%)
+Librería de codificación                 : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : 2000
+Duración                                 : 1h 45min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 384Kbps
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 20ms
+Tamaño de pista                          : 290MB (21%)
+Alineación                               : Dividir a través entrelazado
+Entrelazado, duración                    : 42 ms (1,00fotograma de video)
+Entrelazado, duración de precarga        : 500 ms

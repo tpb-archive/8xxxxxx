@@ -1,0 +1,324 @@
+﻿Filename,Size,Unit
+0 - Resources/3firmExample.xls.xls,107.5,K
+0 - Resources/_index.webarchive,63.15,K
+0 - Resources/An Introduction to R.pdf,607.64,K
+0 - Resources/bootStrap.r,7.63,K
+0 - Resources/cerExample.csv.csv,2.2,K
+0 - Resources/cerModelExamples.r,18.5,K
+0 - Resources/Descriptive Statistics Examples for Daily Data.pdf,572.06,K
+0 - Resources/descriptiveStatistics.r,15.34,K
+0 - Resources/econ424lab1.r,5.31,K
+0 - Resources/hypothesisTestingCER.r,9.27,K
+0 - Resources/IntroPortfolioTheory.xls.xls,191.5,K
+0 - Resources/lab3.r,1.11,K
+0 - Resources/lab4.r,2.26,K
+0 - Resources/lab5.r,7.56,K
+0 - Resources/lab7.r,13.05,K
+0 - Resources/lab8.r,5.41,K
+0 - Resources/lab8returns.csv.csv,3.17,K
+0 - Resources/lab9.r,3.17,K
+0 - Resources/lab9returns.csv.csv,3.32,K
+0 - Resources/matrixReview.r,3.8,K
+0 - Resources/matrixReview.xlsx.xlsx,9.97,K
+0 - Resources/PerformanceAnalytics Charts and Tables Reference.pdf,298.95,K
+0 - Resources/Portfolio Theory Examples.pdf,210.3,K
+0 - Resources/Portfolio Theory with Matrices Examples.pdf,325.16,K
+0 - Resources/portfolio.r,13.01,K
+0 - Resources/portfolio_noshorts.r,14.94,K
+0 - Resources/portfolioTheoryNoShortSales.r,2.95,K
+0 - Resources/probReview.r,13.59,K
+0 - Resources/probReview.xls.xls,238,K
+0 - Resources/R Bootstrap Examples.pdf,98.49,K
+0 - Resources/R CER Model Examples.pdf,250.62,K
+0 - Resources/R Descriptive Statistics Examples.pdf,575.33,K
+0 - Resources/R Examples for Portfolio Functions with no short sales.pdf,78.06,K
+0 - Resources/R for Beginners.pdf,529.69,K
+0 - Resources/R Hypothesis Testing Examples.pdf,130.26,K
+0 - Resources/R Introduction.pdf,4.02,M
+0 - Resources/R Matrix Examples.pdf,36.99,K
+0 - Resources/R Portfolio Functions.pdf,52.31,K
+0 - Resources/R Probability Examples.pdf,125,K
+0 - Resources/R Time Series Examples.pdf,90.26,K
+0 - Resources/Return Calculations Examples.xls,165.5,K
+0 - Resources/Return Calulations in R.pdf,59.19,K
+0 - Resources/returnCalculations.r,5.94,K
+0 - Resources/RIntro.r,16.74,K
+0 - Resources/rollingPortfolios.r,4.11,K
+0 - Resources/Single Index Model Examples.pdf,415.21,K
+0 - Resources/singleIndex.r,9.44,K
+0 - Resources/singleIndexPrices.xls.xls,22,K
+0 - Resources/Statistical Analysis of Efficient Portfolios.pdf,115.99,K
+0 - Resources/testport.r,4.52,K
+0 - Resources/timeSeriesConcepts.r,5.45,K
+0 - Resources/Using mvtnorm.pdf,267.91,K
+0 - Resources/Week 10_ Estimating the Single Index Model.pdf,110.9,K
+0 - Resources/Week 10_ Portfolio Risk Budgeting.pdf,125.99,K
+0 - Resources/Week 10_ Single Index Model.pdf,76.44,K
+0 - Resources/Week 1_ Return Calculations (Updated 9 11 2012).pdf,123.44,K
+0 - Resources/Week 2_ Probability Review.pdf,154.02,K
+0 - Resources/Week 3_ Matrix Review.pdf,119.49,K
+0 - Resources/Week 3_ Probability Review Continued.pdf,99.2,K
+0 - Resources/Week 4_ Time Series Concepts.pdf,73.65,K
+0 - Resources/Week 5_ Descriptive Statistics.pdf,91.79,K
+0 - Resources/Week 6_ Constant Expected Return Model.pdf,138.78,K
+0 - Resources/Week 7_ Bootstrapping.pdf,64.44,K
+0 - Resources/Week 7_ Hypothesis Testing.pdf,112.98,K
+0 - Resources/Week 8_ Introduction to Portfolio Theory.pdf,118.66,K
+0 - Resources/Week 8_ Portfolio Theory with Matrices.pdf,140.57,K
+0 - Resources/Week 9_ Portfolio Theory with No Short Sales.pdf,69.62,K
+0 - Resources/Week 9_ Statistical Analysis of Efficient Portfolios.pdf,58.58,K
+0 - Resources/xts_ Extensible Time Series.pdf,200.88,K
+0 - Resources/zoo Quick Reference.pdf,71.08,K
+0 - Resources/zoo_ An S3 Class and Methods for Indexed Totally Ordered Observations..pdf,225.66,K
+1 - 1 - Welcome to Introduction to Computational Finance and Financial Econometrics (1314).mp4,24.44,M
+10 - 1 - 4.0 Week 4 Introduction (211).mp4,7.48,M
+10 - 1 - 4.0 Week 4 Introduction (211).srt,3.22,K
+10 - 2 - 4.1 Matrix Algebra Portfolio Math (2114).mp4,52.61,M
+10 - 2 - 4.1 Matrix Algebra Portfolio Math (2114).srt,22.47,K
+10 - 3 - 4.2 Matrix Algebra Bivariate Normal (726).mp4,21.61,M
+10 - 3 - 4.2 Matrix Algebra Bivariate Normal (726).srt,8.22,K
+11 - 1 - 4.3 Time Series Concepts (1648).mp4,45.52,M
+11 - 1 - 4.3 Time Series Concepts (1648).srt,20.16,K
+11 - 2 - 4.4 Autocorrelation (914).mp4,24.18,M
+11 - 2 - 4.4 Autocorrelation (914).srt,10.52,K
+11 - 3 - 4.5 White Noise Processes (1231).mp4,38.73,M
+11 - 3 - 4.5 White Noise Processes (1231).srt,15.59,K
+11 - 4 - 4.6 Nonstationary Processes (1729).mp4,47.63,M
+11 - 4 - 4.6 Nonstationary Processes (1729).srt,20.74,K
+11 - 5 - 4.7 Moving Average Processes (2545).mp4,65.44,M
+11 - 5 - 4.7 Moving Average Processes (2545).srt,27.8,K
+11 - 6 - 4.8 Autoregressive Processes Part 1 (319).mp4,9.25,M
+11 - 6 - 4.8 Autoregressive Processes Part 1 (319).srt,3.97,K
+11 - 7 - 4.9 Autoregressive Processes Part 2 (2819).mp4,77.56,M
+11 - 7 - 4.9 Autoregressive Processes Part 2 (2819).srt,31.9,K
+12 - 1 - 5.0 Week 5 Introduction.mp4,11.79,M
+12 - 2 - 5.1 Covariance Stationarity (1128).mp4,37.82,M
+12 - 2 - 5.1 Covariance Stationarity (1128).srt,15.89,K
+12 - 3 - 5.2 Histograms (1133).mp4,35.24,M
+12 - 3 - 5.2 Histograms (1133).srt,15.1,K
+12 - 4 - 5.3 Sample Statistics (1524).mp4,46.76,M
+12 - 4 - 5.3 Sample Statistics (1524).srt,21.13,K
+12 - 5 - 5.4 Empirical CDF and QQ plots (1200).mp4,38.07,M
+12 - 5 - 5.4 Empirical CDF and QQ plots (1200).srt,14.86,K
+12 - 6 - 5.5 Outliers Part 1 (715).mp4,74.73,M
+12 - 6 - 5.5 Outliers Part 1 (715).srt,9.65,K
+12 - 7 - 5.6 Outliers Part 2 (739).mp4,22.47,M
+12 - 7 - 5.6 Outliers Part 2 (739).srt,10.41,K
+12 - 8 - 5.7 Graphical Measures (2317).mp4,70.26,M
+12 - 8 - 5.7 Graphical Measures (2317).srt,30.73,K
+12 - 9 - 5.8 Descriptive Statistics for Daily Data (2417).mp4,76.14,M
+12 - 9 - 5.8 Descriptive Statistics for Daily Data (2417).srt,32.19,K
+13 - 1 - 6.0 Week 6 Introduction.mp4,12.81,M
+13 - 10 - 6.9 Confidence Intervals (1247).mp4,40.19,M
+13 - 10 - 6.9 Confidence Intervals (1247).srt,16.76,K
+13 - 11 - 6.10 Monte Carlo Simulation (1527).mp4,43.86,M
+13 - 11 - 6.10 Monte Carlo Simulation (1527).srt,21.53,K
+13 - 12 - 6.11 Value at Risk in CER model (736).mp4,22.13,M
+13 - 12 - 6.11 Value at Risk in CER model (736).srt,9.47,K
+13 - 2 - 6.1 Constant Expected Return Model (1407).mp4,39.95,M
+13 - 2 - 6.1 Constant Expected Return Model (1407).srt,16.24,K
+13 - 3 - 6.2 Simulating Data (1214).mp4,32.95,M
+13 - 3 - 6.2 Simulating Data (1214).srt,15.45,K
+13 - 4 - 6.3 Random Walk Model (538).mp4,16.54,M
+13 - 4 - 6.3 Random Walk Model (538).srt,7.03,K
+13 - 5 - 6.4 Estimating Parameters of CER (1859).mp4,56.99,M
+13 - 5 - 6.4 Estimating Parameters of CER (1859).srt,25.08,K
+13 - 6 - 6.5 Bias and Precision (1302).mp4,33.55,M
+13 - 6 - 6.5 Bias and Precision (1302).srt,14.39,K
+13 - 7 - 6.6 Mean Squared Error (122).mp4,3.26,M
+13 - 7 - 6.6 Mean Squared Error (122).srt,1.58,K
+13 - 8 - 6.7 Standard Errors (2212).mp4,69.2,M
+13 - 8 - 6.7 Standard Errors (2212).srt,27.9,K
+13 - 9 - 6.8 Asymptotic Properties of Estimators (1411) .mp4,41.68,M
+13 - 9 - 6.8 Asymptotic Properties of Estimators (1411) .srt,17.84,K
+14 - 1 - 7.0 Week 7 Introduction (243).mp4,8.31,M
+14 - 1 - 7.0 Week 7 Introduction (243).srt,4.02,K
+14 - 2 - 7.1 Bootstrap (2606).mp4,81.19,M
+14 - 2 - 7.1 Bootstrap (2606).srt,34.72,K
+14 - 3 - 7.2 Performing the Bootstrap in R (1810).mp4,54.95,M
+14 - 3 - 7.2 Performing the Bootstrap in R (1810).srt,21.42,K
+14 - 4 - 7.3 Boostrapping VaR (844).mp4,27.43,M
+14 - 4 - 7.3 Boostrapping VaR (844).srt,10.35,K
+15 - 1 - 7.4 Hypothesis Testing Introduction (829).mp4,25.92,M
+15 - 1 - 7.4 Hypothesis Testing Introduction (829).srt,12.23,K
+15 - 2 - 7.5 Hypothesis Testing Overview (906).mp4,26.65,M
+15 - 2 - 7.5 Hypothesis Testing Overview (906).srt,12.43,K
+15 - 3 - 7.6 Hypothesis Testing CER Model (1047).mp4,31.63,M
+15 - 3 - 7.6 Hypothesis Testing CER Model (1047).srt,15.35,K
+15 - 4 - 7.7 Chi-square and Students t distributions (516).mp4,14.11,M
+15 - 4 - 7.7 Chi-square and Students t distributions (516).srt,6.8,K
+15 - 5 - 7.8 Test of Specific Coefficient Value (2607).mp4,77.22,M
+15 - 5 - 7.8 Test of Specific Coefficient Value (2607).srt,32.71,K
+15 - 6 - 7.9 Test for Normal Distribution (836).mp4,24.55,M
+15 - 6 - 7.9 Test for Normal Distribution (836).srt,11.09,K
+15 - 7 - 7.10 Test for No Autocorrelation (536).mp4,16.51,M
+15 - 7 - 7.10 Test for No Autocorrelation (536).srt,6.81,K
+15 - 8 - 7.11 Diagnostics for Constant Parameters (2221).mp4,73.51,M
+15 - 8 - 7.11 Diagnostics for Constant Parameters (2221).srt,27.51,K
+16 - 1 - 8.0 Week 8 Introduction (257).mp4,8.4,M
+16 - 1 - 8.0 Week 8 Introduction (257).srt,4.02,K
+16 - 10 - 8.9 Tangency Portfolio (1733).mp4,35.78,M
+16 - 10 - 8.9 Tangency Portfolio (1733).srt,21.53,K
+16 - 11 - 8.10 Examples (1011).mp4,19.22,M
+16 - 11 - 8.10 Examples (1011).srt,12.86,K
+16 - 12 - 8.11 Portfolio Theory with Matrix Algebra Part 1 (1526).mp4,29.95,M
+16 - 12 - 8.11 Portfolio Theory with Matrix Algebra Part 1 (1526).srt,21.37,K
+16 - 13 - 8.12 Portfolio Theory with Matrix Algebra Part 2 (1554).mp4,31.64,M
+16 - 13 - 8.12 Portfolio Theory with Matrix Algebra Part 2 (1554).srt,20.59,K
+16 - 14 - 8.13 Portfolio Theory with Matrix Algebra Part 3 (1634).mp4,33.93,M
+16 - 14 - 8.13 Portfolio Theory with Matrix Algebra Part 3 (1634).srt,21.23,K
+16 - 15 - Brief Comment about Excel Solver Add-in (212).mp4,5.44,M
+16 - 15 - Brief Comment about Excel Solver Add-in (212).srt,2.96,K
+16 - 2 - 8.1 Introduction to Portfolio Theory (1435).mp4,26.56,M
+16 - 2 - 8.1 Introduction to Portfolio Theory (1435).srt,20.95,K
+16 - 3 - 8.2 Portfolio Examples (608).mp4,12.89,M
+16 - 3 - 8.2 Portfolio Examples (608).srt,8.38,K
+16 - 4 - 8.3 Portfolio Value-at-Risk (611).mp4,12.73,M
+16 - 4 - 8.3 Portfolio Value-at-Risk (611).srt,7.82,K
+16 - 5 - 8.4 Portfolio Frontier (1028).mp4,20.35,M
+16 - 5 - 8.4 Portfolio Frontier (1028).srt,13.99,K
+16 - 6 - 8.5 Efficient Portfolios (1000).mp4,18.84,M
+16 - 6 - 8.5 Efficient Portfolios (1000).srt,11.83,K
+16 - 7 - 8.6 Minimum Variance Portfolio (1243).mp4,23.95,M
+16 - 7 - 8.6 Minimum Variance Portfolio (1243).srt,17.47,K
+16 - 8 - 8.7 Portfolios with a Risk Free Asset Part 1 (724).mp4,11.94,M
+16 - 8 - 8.7 Portfolios with a Risk Free Asset Part 1 (724).srt,9.56,K
+16 - 9 - 8.8 Portfolios with a Risk Free Asset Part 2 (1832).mp4,36.47,M
+16 - 9 - 8.8 Portfolios with a Risk Free Asset Part 2 (1832).srt,24.56,K
+17 - 1 - 9.0 Week 9 Introduction (359).mp4,10.97,M
+17 - 2 - 9.1 Computing the Portfolio Frontier (2653).mp4,51.61,M
+17 - 2 - 9.1 Computing the Portfolio Frontier (2653).srt,36.19,K
+17 - 3 - 9.2 Computing the Tangency Portfolio (2211).mp4,46.19,M
+17 - 3 - 9.2 Computing the Tangency Portfolio (2211).srt,25.27,K
+17 - 4 - 9.3 Mutual Fund Separation Theorem and Examples (1104).mp4,21.64,M
+17 - 4 - 9.3 Mutual Fund Separation Theorem and Examples (1104).srt,13.86,K
+17 - 5 - 9.4 Portfolio Analysis in R (843).mp4,21.37,M
+17 - 5 - 9.4 Portfolio Analysis in R (843).srt,12.69,K
+17 - 6 - 9.5 Portfolio Analysis in Excel Part 1 (1314).mp4,39.93,M
+17 - 6 - 9.5 Portfolio Analysis in Excel Part 1 (1314).srt,17.82,K
+17 - 7 - 9.6 Portfolio Analysis in Excel Part 2 (854).mp4,28.05,M
+17 - 7 - 9.6 Portfolio Analysis in Excel Part 2 (854).srt,10.27,K
+18 - 1 - 9.7 Portfolio Theory with No Short Sales (1315).mp4,32.82,M
+18 - 1 - 9.7 Portfolio Theory with No Short Sales (1315).srt,17.36,K
+18 - 2 - 9.8 R packages for Portfolio Theory (643).mp4,18.13,M
+18 - 2 - 9.8 R packages for Portfolio Theory (643).srt,8.93,K
+18 - 3 - 9.9 Using Solve.QP() in R (1019).mp4,23.52,M
+18 - 3 - 9.9 Using Solve.QP() in R (1019).srt,12.52,K
+18 - 4 - 9.10 Global minimum variance (816).mp4,21.69,M
+18 - 4 - 9.10 Global minimum variance (816).srt,11.02,K
+18 - 5 - 9.11 Efficient Frontier (856).mp4,23.1,M
+18 - 5 - 9.11 Efficient Frontier (856).srt,11.53,K
+19 - 1 - 9.12 Statistical Analysis of Efficient Portfolios (835).mp4,20.68,M
+19 - 1 - 9.12 Statistical Analysis of Efficient Portfolios (835).srt,12.67,K
+19 - 2 - 9.13 Bootstrapping Efficient Portfolios (2201).mp4,51.99,M
+19 - 2 - 9.13 Bootstrapping Efficient Portfolios (2201).srt,28.77,K
+19 - 3 - 9.14 Efficient Portfolios Over Time (1801).mp4,42.91,M
+19 - 3 - 9.14 Efficient Portfolios Over Time (1801).srt,25.2,K
+2 - 1 - 1.0 Week 1 Introduction (058).mp4,2.22,M
+20 - 1 - 10.0 Week 10 Introduction (150).mp4,4.97,M
+20 - 1 - 10.0 Week 10 Introduction (150).srt,2.29,K
+20 - 2 - 10.1 Portfolio Risk Budgeting (1059).mp4,23.85,M
+20 - 2 - 10.1 Portfolio Risk Budgeting (1059).srt,14.47,K
+20 - 3 - 10.2 Eulers Theorem and Risk Decomposition (1720).mp4,33.38,M
+20 - 3 - 10.2 Eulers Theorem and Risk Decomposition (1720).srt,22.95,K
+20 - 4 - 10.3 Risk Decomposition for Portfolio Volatility (912).mp4,18.77,M
+20 - 4 - 10.3 Risk Decomposition for Portfolio Volatility (912).srt,12.46,K
+20 - 5 - 10.4 Using and Interpreting Marginal Contribution to Risk (1211).mp4,23.36,M
+20 - 5 - 10.4 Using and Interpreting Marginal Contribution to Risk (1211).srt,16.46,K
+20 - 6 - 10.5 Beta (1914).mp4,34.29,M
+20 - 6 - 10.5 Beta (1914).srt,23.55,K
+21 - 1 - 10.6 Sharpes Single Index Model (1048).mp4,20.38,M
+21 - 1 - 10.6 Sharpes Single Index Model (1048).srt,14.84,K
+21 - 10 - 10.15 A Single Index Model Portfolio Example (554).mp4,12.55,M
+21 - 10 - 10.15 A Single Index Model Portfolio Example (554).srt,7.56,K
+21 - 11 - 10.16 Estimating the Single Index Model Covariance Matrix (456).mp4,11.66,M
+21 - 11 - 10.16 Estimating the Single Index Model Covariance Matrix (456).srt,6.57,K
+21 - 12 - 10.17 Hypothesis Testing in the Single Index Model (1334).mp4,27.2,M
+21 - 12 - 10.17 Hypothesis Testing in the Single Index Model (1334).srt,17.26,K
+21 - 2 - 10.7 Statistical Properties of the Single Index Model (1220).mp4,23.47,M
+21 - 2 - 10.7 Statistical Properties of the Single Index Model (1220).srt,15.92,K
+21 - 3 - 10.8 Decomposition of Total Variance (942).mp4,18.26,M
+21 - 3 - 10.8 Decomposition of Total Variance (942).srt,12.45,K
+21 - 4 - 10.9 The Single Index Model and Portfolios (751).mp4,14.42,M
+21 - 4 - 10.9 The Single Index Model and Portfolios (751).srt,9.33,K
+21 - 5 - 10.10 Estimating the Single Index Model (1233).mp4,25.05,M
+21 - 5 - 10.10 Estimating the Single Index Model (1233).srt,17.37,K
+21 - 6 - 10.11 Examples with the Single Index Model (1803).mp4,38.42,M
+21 - 6 - 10.11 Examples with the Single Index Model (1803).srt,23.7,K
+21 - 7 - 10.12 Least Squares Estimation of Single Index Model Parameters (2106).mp4,43.86,M
+21 - 7 - 10.12 Least Squares Estimation of Single Index Model Parameters (2106).srt,28.71,K
+21 - 8 - 10.13 Statistical Properties of Least Square Estimates (831).mp4,17.96,M
+21 - 8 - 10.13 Statistical Properties of Least Square Estimates (831).srt,11.23,K
+21 - 9 - 10.14 Using Matrix Algebra with the Single Index Model (356).mp4,7.35,M
+21 - 9 - 10.14 Using Matrix Algebra with the Single Index Model (356).srt,4.83,K
+3 - 1 - 1.1 Future Value Present Value and Compounding (1702).mp4,53.51,M
+3 - 1 - 1.1 Future Value Present Value and Compounding (1702).srt,21.46,K
+3 - 2 - 1.2 Asset Returns (1653).mp4,48.67,M
+3 - 2 - 1.2 Asset Returns (1653).srt,19.4,K
+3 - 3 - 1.3 Portfolio Returns (912).mp4,26.82,M
+3 - 3 - 1.3 Portfolio Returns (912).srt,11.34,K
+3 - 4 - 1.4 Dividends (400).mp4,12.1,M
+3 - 4 - 1.4 Dividends (400).srt,5.17,K
+3 - 5 - 1.5 Inflation (457).mp4,13.21,M
+3 - 5 - 1.5 Inflation (457).srt,5.77,K
+3 - 6 - 1.6 Annualizing Returns (532).mp4,14.42,M
+3 - 6 - 1.6 Annualizing Returns (532).srt,6,K
+4 - 1 - 1.7 Continuously Compounded Returns (1555).mp4,42.46,M
+4 - 1 - 1.7 Continuously Compounded Returns (1555).srt,19.97,K
+4 - 2 - 1.8 CC Portfolio Returns and Inflation (550).mp4,16.54,M
+4 - 2 - 1.8 CC Portfolio Returns and Inflation (550).srt,6.53,K
+5 - 1 - 1.9 Simple Returns (401).mp4,11.6,M
+5 - 1 - 1.9 Simple Returns (401).srt,4.73,K
+5 - 2 - 1.10 Getting Financial Data from Yahoo (1026).mp4,27.2,M
+5 - 2 - 1.10 Getting Financial Data from Yahoo (1026).srt,13.33,K
+5 - 3 - 1.11 Return Calculations (621).mp4,17.48,M
+5 - 3 - 1.11 Return Calculations (621).srt,7.87,K
+5 - 4 - 1.12 Growth of 1 (658).mp4,17.28,M
+5 - 4 - 1.12 Growth of 1 (658).srt,7.45,K
+6 - 1 - 2.0 Week 2 Introduction (106).mp4,2.58,M
+6 - 1 - 2.0 Week 2 Introduction (106).srt,1.59,K
+6 - 10 - 2.9 Skewness and Kurtosis (1539).mp4,41.43,M
+6 - 10 - 2.9 Skewness and Kurtosis (1539).srt,18.27,K
+6 - 11 - 2.10 Students-t Distribution (552).mp4,14.38,M
+6 - 11 - 2.10 Students-t Distribution (552).srt,7.54,K
+6 - 12 - 2.11 Linear Functions of Random Variables (1113).mp4,28.32,M
+6 - 12 - 2.11 Linear Functions of Random Variables (1113).srt,11.94,K
+6 - 2 - 2.1 Univariate Random Variables (2011).mp4,54.41,M
+6 - 2 - 2.1 Univariate Random Variables (2011).srt,25.72,K
+6 - 3 - 2.2 Cumulative Distribution Function (842).mp4,23.33,M
+6 - 3 - 2.2 Cumulative Distribution Function (842).srt,9.75,K
+6 - 4 - 2.3 Quantiles (750).mp4,20.15,M
+6 - 4 - 2.3 Quantiles (750).srt,8.72,K
+6 - 5 - 2.4 Standard Normal Distribution (1602).mp4,43.61,M
+6 - 5 - 2.4 Standard Normal Distribution (1602).srt,20.29,K
+6 - 6 - 2.5 Expected Value and Standard Deviation (1958).mp4,53.74,M
+6 - 6 - 2.5 Expected Value and Standard Deviation (1958).srt,27.69,K
+6 - 7 - 2.6 General Normal Distribution (623).mp4,15.92,M
+6 - 7 - 2.6 General Normal Distribution (623).srt,8.03,K
+6 - 8 - 2.7 Standard Deviation as a Measure of Risk (434).mp4,12.19,M
+6 - 8 - 2.7 Standard Deviation as a Measure of Risk (434).srt,5.68,K
+6 - 9 - 2.8 Normal Distribution Appropriate for simple returns (1422).mp4,36.55,M
+6 - 9 - 2.8 Normal Distribution Appropriate for simple returns (1422).srt,19.03,K
+7 - 1 - 2.12 Value at Risk (1948).mp4,53.74,M
+7 - 1 - 2.12 Value at Risk (1948).srt,25.03,K
+8 - 1 - 3.0 Week 3 Introduction (104).mp4,3.56,M
+8 - 1 - 3.0 Week 3 Introduction (104).srt,1.68,K
+8 - 2 - 3.1 Location-scale Model (1215).mp4,28.81,M
+8 - 2 - 3.1 Location-scale Model (1215).srt,12.25,K
+8 - 3 - 3.2 Bivariate Discrete Distributions (1418).mp4,45.6,M
+8 - 3 - 3.2 Bivariate Discrete Distributions (1418).srt,18.53,K
+8 - 4 - 3.3 Bivariate Continuous Distributions (1415).mp4,42.33,M
+8 - 4 - 3.3 Bivariate Continuous Distributions (1415).srt,16.69,K
+8 - 5 - 3.4 Covariance (1916).mp4,53.47,M
+8 - 5 - 3.4 Covariance (1916).srt,22.56,K
+8 - 6 - 3.5 Correlation and the Bivariate Normal Distribution (1159).mp4,37.91,M
+8 - 6 - 3.5 Correlation and the Bivariate Normal Distribution (1159).srt,14.13,K
+8 - 7 - 3.6 Linear Combination of 2 Random Variables (1109).mp4,28.74,M
+8 - 7 - 3.6 Linear Combination of 2 Random Variables (1109).srt,11.42,K
+8 - 8 - 3.7 Portfolio Example (1920).mp4,55.89,M
+8 - 8 - 3.7 Portfolio Example (1920).srt,24.96,K
+9 - 1 - 3.8 Matrix Algebra Review Part 1 (1702).mp4,44.99,M
+9 - 1 - 3.8 Matrix Algebra Review Part 1 (1702).srt,21.84,K
+9 - 2 - 3.9 Matrix Algebra Review Part 2 (2010).mp4,56.51,M
+9 - 2 - 3.9 Matrix Algebra Review Part 2 (2010).srt,24.46,K
+_index.webarchive,137.44,K

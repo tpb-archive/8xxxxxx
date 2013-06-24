@@ -1,0 +1,23 @@
+Killetsoft SEVENPAR
+
+SEVENPAR is a tool for the calculation of highly exact transformation parameters for the Spatial Helmert and Molodensky Transformation, which make possible precise coordinate transformations from one reference system into another. The determined transformation parameters can be entered directly into suitable transformation software, e.g. TRANSDAT Coordinate Transformations, or into the calculation software of GPS receivers to do exact coordinate transformations.
+The seven or three transformation parameters are computed with a set of individual identical points. Those are points with known coordinates in both reference systems (geodetic datum). Cartesian coordinates, geographical coordinates or UTM coordinates with or wihtout ellipsoidal height using the ellipsoid dimensions are suitable. Identical measuring points of higher order can be usually inquired or referred by the official institutions for measurement. The necessary ellipsoid half-axes and flattenings are available in the program for the selection from lists.
+The coordinates of the identical points are tested intensively on outliers and deviations by different statistic procedures. The quality of the computed parameters is documented by a residual matrix and by the computation of the middle, maximum and root mean square (RMS) deviations.
+The seven parameters of the Spatial Helmert Transformation are calculated in the three standards "Coordinate Frame Rotation", "Position Vector Transformation" and "European Standard ISO 19111". The three parameters for Molodenky parameter sets are calculated using the "Standard Molodensky Transformation".
+The program has a user-selectable multi language interface and comes with extensive online help. The program can be run on most common networks and it is possible to use Terminal Services on WINDOWS Servers. In case of a network installation the clients are installed automatically by the program.
+
+Supported OS:
+
+Windows xp/vista/7
+
+Homepage: http://www.killetsoft.com
+
+Installation Instructions:
+
+- Un-zip and Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

@@ -1,0 +1,19 @@
+Windows Server 2003 est un système d'exploitation orienté serveur développé par Microsoft. Présenté le 24 avril 2003 comme le successeur de Windows Server 2000, il est considéré par Microsoft comme étant la pierre angulaire de la ligne de produits serveurs professionnels Windows Server System. Une version évoluée intitulée Windows Server 2003 R2 a été finalisée le 6 décembre 2005. Son successeur, Windows Server 2008 est sorti le 4 février 2008.
+
+********************************************************************************
+
+ Nouveautés et fonctionnalités mises à niveau
+
+
+    Internet Information Services (IIS) v6.0 - Une version améliorée de façon significative de IIS.
+    Augmentation du niveau de sécurité par défaut vis-à-vis des anciennes versions, grâce au pare-feu intégré par défaut et au fait que la plupart des services sont désactivés par défaut.
+    Améliorations significatives du Message Queuing.
+    Gérer son serveur - Un outil de gestion administrative des rôles qui permet à un administrateur de choisir quelles sont les fonctionnalités à rendre disponible sur le serveur.
+    Améliorations de l'Active Directory, comme la possibilité de désactiver une classe d'objet dans le Schéma, ou bien le fait de pouvoir exécuter plusieurs instance du serveur d'annuaire (ADAM).
+    Améliorations de l'administration et de la gestion des stratégies de groupes.
+    Améliorations de la gestion des disques, incluant la possibilité d'effectuer une sauvegarde depuis une copie fantôme (Shadow copy) de fichiers, permettant ainsi la sauvegarde de fichiers ouverts.
+    Améliorations du scripting et des outils en ligne de commande qui font partie de l'initiative de Microsoft d'apporter un Shell de commandes complet aux prochaines versions de Windows.
+    Support du matériel basé sur la technologie watchdog timer qui permet un redémarrage automatique du serveur si le système d'exploitation ne répond pas après un certain temps.
+
+***********************************************************************************          ***************************************************************
+                     ****************************************

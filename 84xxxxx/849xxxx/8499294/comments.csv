@@ -1,0 +1,74 @@
+﻿User Type,Username,Date,Text
+,Dable1,2013-05-23T02:54Z,"Thanks for uploading this.
+Finally a Windows XP without the Remote Desktop Connection start bug and with the Recovery Console.
+
+Keep up the good work."
+,viggen6666,2013-05-23T09:46Z,"If the remote desktop bug is gone, and as always the author gives us the choice of installing or not the additional apps, this is the best XP on the net, but the only thing I didn't like on April release was the fact that it installed three keyboard layouts on default (Luxemburg, and two more I don't recall), we should had the choice to choose"
+,LuxLOL,2013-05-23T10:41Z,"The 3 keyboard layout are an example you can delete them and only use the one you choose.
+
+There is also a Patch out for the April release to fix the Microsoft bug.
+http://www.zone54.com/downloads/viewdownload/18/122"
+,bandido00,2013-05-23T19:30Z,If I create a new account... Owner´s account will be hide ? Despite all thanks a lot
+,LuxLOL,2013-05-24T05:30Z,No it will not be hidden but you can delete it or rename it.
+,webtrix,2013-05-24T08:35Z,Will there be a iso image after i extract the zip file
+,LuxLOL,2013-05-24T09:09Z,"Yes there is an ""*.iso"" file in it."
+,km11,2013-05-26T10:34Z,please i need directx 10 for windows xp
+,LuxLOL,2013-05-26T11:23Z,"DirectX 9 was the last DirectX that Microsoft released for Windows XP.
+But you can try you luck with the unofficial DirectX 10 for Windows XP:
+http://www.softpedia.com/get/System/OS-Enhancements/DirectX-10-for-Windows-XP.shtml"
+,kakashiomar1,2013-05-26T18:56Z,I installed this today it's cool but I had to reinstall drives but the real problem about it is that my cursor will not move anymore it was working fine until i reseted my pc. But sometimes it starts working after I turn off then turn on my pc
+,LuxLOL,2013-05-26T21:17Z,You need to make sure you installed all the Up-to-Date drivers and that your backup files are malware free.
+,kakashiomar1,2013-05-27T04:01Z,I did update the drivers but it still does it
+,CanonDev,2013-05-27T21:48Z,How do I update drives and should I decompress the file on my desktop before I use it to install to my pc? Which files do I decompress?
+,Juggalo1775,2013-05-30T06:02Z,"@LuxLOL or whoever
+
+Hey man great download very complete!! I have an old PC I'm cleaning out totally to reinstall Windows clean but the only thing is I do not have a working optic drive. Can I install this file from a USB directly? Do I need to do some kind of set up on the USB like with WintoFlash or use Magic ISO? And lastly, If you can't give instruction here, any link that gives good instructions on hoe to do it?
+
+Again thanks for the great download and any help is appreciated."
+,SIverS21,2013-05-30T08:32Z,Do I need to boot it or can I only mount it with DAEMON Tools Lite?
+,LuxLOL,2013-05-30T13:21Z,"Guys this WinXP_BE works like a normal WinXP so if you want to make an USB installation or want to install it from a ISO mounting tool then simply google for the WinXP tutorials to do this the internet is full with it. There is even a USB installation tutorial in this WinXP_BE Read ME file itself.
+
+But don't forget to always first test your work in a Virtual Machine like VirtualBox or VMware before reinstalling your PC."
+,jesterehc,2013-05-30T14:33Z,Will this work on a dell?
+,LuxLOL,2013-05-31T13:49Z,Yes it should depending on the SATA driver you DELL computer has. Simply use VirtualBox to test it and Read the Read Me file.
+,Everblood,2013-06-01T00:37Z,So this a really good copy? nobody got any malware or virus's?
+,LuxLOL,2013-06-01T01:37Z,"My account wouldn't be over 2 years old if i would upload malware.
+
+If you don't trust me then install VirtualBox or VMware and run a antivirus check."
+,zwoelebende,2013-06-05T02:55Z,"Thanks LuxLOL - works great, love the extras, very much appreciated!"
+,TexHex,2013-06-09T22:59Z,"Much appreciated the 32-bit edition, already, by many thankful friends. Is there a 64-bit one out there, already?-haven't found it yet- or would you be so kind to make one, as well?"
+,menda_3,2013-06-10T20:51Z,"Hey man, 
+As I saw from the comments and from your description this have to be a nice torrent!
+
+Question
+I wonder if I can use normal winxp theme, as I don't like winxpBE that much!!"
+,SirScoops,2013-06-10T21:33Z,"MAN! I'm glad this is still being updated, although I've moved on to Windows 7... *sigh* I remember when I started up black edition like 2 years ago... computer had much more space, was much faster, and had an awesome pirate symbol when I booted... any plans to make a Windows 7 version?"
+,LuxLOL,2013-06-10T23:37Z,"@menda_3
+Of course you can switch back to the default Theme.
+
+@SirScoops
+I'm still working on it. I try to find a way to replace the new files from the HotFixes directly into Win7 like i did it in WinXP. But for now i found only the option to add the HotFixes .exe files into Win7 that means the Win7 ISO file size will grow about 1GB and after the normal Win7 installation the HotFixes would be installed one by one and that sucks because it's like you would run the Windows Update."
+,menda_3,2013-06-11T02:00Z,"Thanx for uploading such a good torrent. I've just installed this windows xp and it seems to be working all good.
+Something I'd like to mention is that themes of windows 7 have still windows xp icons (my computer,documents etc.) I think you can make them like in black edition theme :)
+
+ I'd like to ask you or anyone if I can change the name op this C:Documents and SettingsOwner as I saw that I can't create an account on windows setup during installation.
+
+Thanx again.
+Keep it real :)"
+,menda_3,2013-06-11T02:05Z,"Thanx for uploading such a good torrent. I've just installed this windows xp and it seems to be working all good.
+Something I'd like to mention is that themes of windows 7 have still windows xp icons (my computer,documents etc.) I think you can make them like in black edition theme :)
+
+ I'd like to ask you or anyone if I can change the name op this C:Documents and SettingsOwner as I saw that I can't create an account on windows setup during installation.
+
+Thanx again.
+Keep it real :)"
+,LuxLOL,2013-06-11T02:59Z,"@menda_3
+The easiest two way to do this is:
+1. Edit the NLITE.IN_ file in the ISO (Read the Read Me file for more infos).
+2. Create a new Windows Account and delete the old one."
+,TexHex,2013-06-12T12:27Z,is there or will there ever be a Windows XP 64-bit edition?
+,LuxLOL,2013-06-12T14:03Z,"As i said 100's of times you only need a 64-bit OS if you have more than 3 GB of RAM.
+If you are using a 64-bit OS on a computer that has less then 3GB of RAM then you will wast 20%-30% of your RAM because 64-bit OS needs more RAM then a 32-bit OS.
+And if you have more then 3GB of RAM then you should use Windows 7."
+,TexHex,2013-06-12T15:52Z,"I know the mechanics , and I've still got my reasons for windows 64-bit. But I guess I've got my answer."
+,TexHex,2013-06-12T15:55Z,*Windows XP 64-bit

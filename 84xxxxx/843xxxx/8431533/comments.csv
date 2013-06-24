@@ -1,0 +1,99 @@
+﻿User Type,Username,Date,Text
+[V],Mr.Stifmeister,2013-05-02T16:39Z,"Age of Empires II HD Patch v2.3 (c) Microsoft Studios
+
+05/2013 :..... RELEASE.DATE .. PROTECTION .......: SteamCEG
+ - :.......... DISC(S) .. GAME.TYPE ........: Strategy
+
+Note
+
+This time we labled the release after how it's presented on Steam forums
+
+Check the included text file for a list of what's new
+
+In Age of Empires II: HD Edition, fans of the original game and new players
+ alike will fall in love with the classic Age of Empires II experience
+ Explore all the original single player campaigns from both Age of Kings and
+ The Conquerors expansion, choose from 18 civilizations spanning over a
+ thousand years of history, and head online to challenge other Steam players
+ in your quest for world domination throughout the ages.  Originally developed
+ by Ensemble Studios and reimagined in high definition by Hidden Path
+ Entertainment, Microsoft Studios is proud to bring Age of Empires II: HD
+ Edition to Steam
+
+1. Unrar
+ 2. Install the update into your game install directory
+ 3. Play the game
+ 4. Support the software developers. If you like this game, BUY IT"
+[V],HeroMaster,2013-05-02T16:57Z,"Here you go all, changes in the update:
+
+New Options:
+Object Shadows Anti-aliasing (Enabled by default in builds prior to 2.2 for the improved shadows). Disabling may help improve performance & allow for expanded GPU support with some older Shader model versions.
+Enable VSYNC option (can help reduce load on higher end GPUs)
+Clamp mouse to window when in foreground
+Quick match speed default to normal but can be changed to fast
+Display mode options from main menu: Windowed, Fullscreen, Fullscreen Desktop (for multi-monitor)
+Fullscreen desktop requires monitors to have matching vertical resolutions. Mismatched resolutions resulted in truncated UI and was disabled. You can still drag the game in windowed mode across multiple monitors.
+Gameplay Modification:
+Added nine additional grouping hotkeys and made group creation / selection keys modifiable.
+After getting the patch you may be forced to re-create your hotkey file.
+Group hotkeys can be changed by accessing options -> Hotkeys -> Game Commands.
+Group Selection hotkeys cannot be modified by alt or shift keys, as these keys have special meaning in game (eg alt + group selection key = select and center on)
+If multiple buildings of the same type are selected, unit training will sequentially be divided amongst buildings (Multiple building unit queues)
+Bugfixes:
+Missing grey background behind some tooltip text resolved (to improve text clarity)
+Localization fixes
+Unlocalized Launcher Buttons
+Missing campaign text
+Unlocalized Russian UI
+Additional various localization fixes
+Additional Achievement fixes
+Trebuchet attack range fixes
+Various campaign crashes due to string length overflows
+Game 'win' counter should increment correctly
+Quickmatch Map Size properly filters based on map size chosen
+Performance warning typo fixes
+Fixed AI files not being unpacked properly from workshop mods
+Fixed workshop downloading only one update per launch of the game
+Other:
+When getting booted from the game, you will return to the main menu. This is by design due to the gameflow and how the title processes game information.
+Gameplay version changed to 2.3
+Matchmaking settings changed to the 'widest' setting permitted by Steam's system.
+Users may see different game lists for several reasons including:
+User location (the system should return games that present a better play experience first)
+Game legitimacy
+Steam account standing
+Filters
+Please note when joining games that high pings may result in poor gameplay experiences."
+,rsjssssdgshs,2013-05-03T00:11Z,"cpu 3.20
+64x win7
+8 ram
+lag in single player , i dont use steam 
+why is so slow?????????????????????????????????????????????????????????????"
+,whatthefuckpassword,2013-05-06T07:05Z,"---------------------------
+AoK HD.exe - Application Error
+---------------------------
+The application failed to initialize properly (0xc0000142). Click on OK to terminate the application. 
+---------------------------"
+,whatthefuckpassword,2013-05-06T07:17Z,"Still not working with XP
+---------------------------
+AoK HD.exe - Application Error
+---------------------------
+The application failed to initialize properly (0xc0000142). Click on OK to terminate the application. 
+---------------------------"
+,arash70,2013-05-06T12:13Z,"works perfectly , and fixes the first version of reloaded ."
+,josef256,2013-05-12T11:45Z,XP users wanna try this... a fixx plzzzz
+,STONEDSTONER,2013-05-14T00:19Z,"STILL not working on XP, what a shit port"
+,josef256,2013-05-15T22:15Z,"how to play on Xp :
+1)dl steam and green luma( last version)
+2)download and copie the multiplayer crackfix
+3)download and copie the v2.3 patch (do not copy the .dll file)
+4)lunch aoe.exe using green luma "
+,whatthefuckpassword,2013-05-18T15:17Z,Fuck steam and green luma.
+,kipkapkup,2013-05-19T09:05Z,"If you get error (0xc0000142), try to right click AoK HD.exe and change compatibility to Windows XP SP3.
+I'm on Win8 64-bit."
+,whatthefuckpassword,2013-05-19T22:02Z,"I'm using XP SP3, but I'm getting that error."
+,Vioner,2013-05-27T19:18Z,"[MANUAL] How to play online (except lan) [STEAM NEEDED]
+1. Download Skidrow/Reloaded AoEHD2
+2. Download and apply patch: age-of-empires-ii-hd-multiplayer-fix-crack-included-lan-internet-steam-t7312560
+3. Download and apply THIS v2.3 RELOADED patch EXCEPT THE STEAM_API.DLL FILE.
+4. E'VOILA u can now play multiplayer AoE 2 HD v2.3 with loads of bugs fixed."

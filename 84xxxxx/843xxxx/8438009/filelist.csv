@@ -1,0 +1,16 @@
+﻿Filename,Size,Unit
+data1.bin,3.65,G
+Redist/PhysX.msi,25.49,M
+data2.bin,11.01,M
+setup.exe,1.58,M
+Redist/DirectX/dsetup32.dll,1.49,M
+Redist/DirectX/DXSETUP.exe,505.84,K
+Redist/DirectX/dxupdate.cab,94.88,K
+Redist/DirectX/APR2007_xinput_x64.cab,94.55,K
+Redist/DirectX/DSETUP.dll,93.34,K
+Redist/DirectX/APR2007_xinput_x86.cab,52.05,K
+Redist/DirectX/NOV2007_X3DAudio_x64.cab,45.06,K
+Redist/DirectX/dxdllreg_x86.cab,43.58,K
+Redist/DirectX/NOV2007_X3DAudio_x86.cab,18.06,K
+Icon.ico,3.55,K
+autorun.inf,59,B

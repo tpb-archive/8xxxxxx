@@ -1,0 +1,59 @@
+IrfanView Version 4.35
+
+
+is a very fast, small, compact and innovative FREEWARE (for non-commercial use) graphic viewer for Windows 9x, ME, NT, 2000, XP, 2003 , 2008, Vista, Windows 7, Windows 8. 
+
+
+
+#Grecomendado
+
+
+
+Más info acerca de las novedades de esta version, que para mi el mejor programa de visualizacion de fotos, rapido y liviano. se puede bajar de la pagina oficial. es freeware. 
+
+pagina: http://www.irfanview.net/
+
+link de descarga: http://www.irfanview.net/main_download_engl.htm
+
+
+Version 4.35 ( - CURRENT VERSION - ) (Release date: 2012-11-07)
+
+New Add Text dialog features: No selection needed, Preview, Effects etc.
+Option to save profiles (Add-Text, JPG-Save and Color Correction dialog)
+New capture dialog option: Capture fixed screen rectangle; Stop timer
+New transparency save option: Use main window color (GIF, PNG, ICO)
+New file handling option: Remove sidecar files (Properties->File Handling)
+New options in Watermark dialog: Preview, Click to preview
+New folder browsing options in: Properties->Browsing (stop on folder end)
+The EXIF-Thumbnail will be updated during saving as JPG
+New (Freeware) PlugIn for DXF format - thanks to BabaCAD-Software guys!
+New RAW format options in Properties->PlugIns
+New menu: View->Multipage images->Auto show page thumbnails dialog
+New print option for multipage images: Print specific pages
+Option to Set selection rectangle color (Properties->Editing)
+Context menu for video player (Copy frame, change volume)
+New display menu option: Apply Sharpen after Resample
+New button in Batch dialog: Save filenames as TXT file
+New Thumbnail menus: Start Multipage TIF/PDF dialog with selected files
+Thumbnails folder tree: CTRL + click = Load thumbs from all subfolders
+New option for FLV files: Play in main window (Properties->Video)
+New options in Batch rename dialog (create duplicate files)
+Option to save custom dimensions in Resize and Custom-Selection dialog
+Updated TIF loader
+Updated DJVU PlugIn, thanks to guys from Caminova!
+Command line: wildcards support for /multitif and /panorama (see i_options.txt)
+Command line switch for /info: /shortinfo (write just file index and name)
+Command line option for EXE Slideshow: /clearmonitors (clear other monitors)
+Command line option "/append" can be now also used with "/scan"
+New placeholder: $Q (get "correct" file extension, if possible)
+New placeholder: $P (print size, from image->info dialog)
+New fullscreen/slideshow hotkey: C = center image, On/Off
+F8 key now allowed in slideshow mode: copy current file
+Some TIF/GIF/CLP loading bugs fixed (thanks to Codenomicon Fuzz-o-Matic guys!)
+PCX/XCF/ECW loading bug fixed (reported by FuzzMyApp, thanks!)
+FPX/RLE/TTF/DJVU bug fixed (by Francis Provencher via Secunia SVCRP, thanks!)
+JLS (CharLS) loading bug fixed (reported by Joseph Sheridan, thanks!)
+PIC format removed (Softimage PICT, loading bugs)
+NLM format removed (Nokia LogoManager formats, loading bugs)
+Several PlugIns are changed/updated, please install the newest versions 
+http://www.irfanview.com/plugins.htm

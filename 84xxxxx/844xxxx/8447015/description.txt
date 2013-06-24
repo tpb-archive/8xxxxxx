@@ -1,0 +1,46 @@
+Includes the BurnAware Professional v6.2 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+BurnAware Professional is a powerful CD, DVD and Blu-ray Disc burning and copying software intended for users who need maximum control over every aspect of the burning process and use multiple burners for mass-production of various discs and quick creation of disc-to-disc copies.
+
+
+FEATURES:
+
+-Burn, backup or copy your files to CD, DVD or Blu-ray Discs.
+-Append or update Multisession discs.
+-Burn standard or boot disc images.
+-Create Bootable CD or DVD.
+-Create Audio CDs.
+-Create DVD-Video discs and MP3 CDs/DVDs.
+-Make standard or boot disc images.
+-Copy disc to ISO image.
+-Copy CD, DVD or Blu-ray Discs.
+-Erase.
+-Verify.
+-Recover files.
+-Multiburn.
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+-Added an option to set priority for any file or folder
+-Added a new file manager into the main window
+
+-Improved the process of burning and copying
+-Preserve date and time of files and directories during import
+-Modified the method of adding and processing the data
+-"Browse for Folder" dialogs have been updated
+-Updated user interface and translations
+
+-Fixed the bug with locking the program while erasing RW discs
+-Resolved compatibility problems with emulation software (Daemon Tools, Alcohol 120% etc.)
+-Fixed the bug with incorrectly detection the sector size of an ISO image file
+-Fixed the bug with timestamps of directories in UDF compilations
+-Fixed the bug with detection of source drive while direct copying

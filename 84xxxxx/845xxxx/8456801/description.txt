@@ -1,0 +1,81 @@
+George Harrison - Living In The Material World - 1973 (2006, Remastered) 
+http://en.wikipedia.org/wiki/Living_in_the_Material_World
+
+Tracklist:
+
+01. George Harrison - Give Me Love (Give Me Peace On Earth) (3:37)
+02. George Harrison - Sue Me, Sue You Blues (4:48)
+03. George Harrison - The Light That Has Lighted The World (3:31)
+04. George Harrison - Don't Let Me Wait Too Long (2:58)
+05. George Harrison - Who Can See It (3:52)
+06. George Harrison - Living In The Material World (5:31)
+07. George Harrison - The Lord Loves The One (That Loves The Lord) (4:35)
+08. George Harrison - Be Here Now (4:10)
+09. George Harrison - Try Some Buy Some (4:10)
+10. George Harrison - The Day The World Gets 'Round (2:54)
+11. George Harrison - That Is All (3:44)
+12. George Harrison - Deep Blue (3:47)
+13. George Harrison - Miss O'Dell (2:30)
+
+EAC LOG:
+
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 9. March 2008, 0:36
+
+George Harrison / Living In The Material World (2006 Remaster)
+
+Used drive : BENQ DVD DD DW1640 Adapter: 1 ID: 1
+
+Read mode : Secure
+Utilize accurate stream : Yes
+Defeat audio cache : Yes
+Make use of C2 pointers : No
+
+Read offset correction : 618
+Overread into Lead-In and Lead-Out : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks : No
+Null samples used in CRC calculations : Yes
+Used interface : Installed external ASPI interface
+
+Used output format : User Defined Encoder
+Selected bitrate : 1024 kBit/s
+Quality : High
+Add ID3 tag : Yes
+Command line compressor : C:Program FilesFLACflac.exe
+Additional command line options : -6 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=%e" %s -o %d
+Use compression offset : 0
+
+
+TOC of the extracted CD
+
+ Track | Start | Length | Start sector | End sector 
+ ---------------------------------------------------------
+ 1 | 0:00.00 | 3:37.33 | 0 | 16307 
+ 2 | 3:37.33 | 4:48.13 | 16308 | 37920 
+ 3 | 8:25.46 | 3:31.10 | 37921 | 53755 
+ 4 | 11:56.56 | 2:58.29 | 53756 | 67134 
+ 5 | 14:55.10 | 3:51.60 | 67135 | 84519 
+ 6 | 18:46.70 | 5:30.72 | 84520 | 109341 
+ 7 | 24:17.67 | 4:35.15 | 109342 | 129981 
+ 8 | 28:53.07 | 4:10.35 | 129982 | 148766 
+ 9 | 33:03.42 | 4:09.74 | 148767 | 167515 
+ 10 | 37:13.41 | 2:53.51 | 167516 | 180541 
+ 11 | 40:07.17 | 3:44.18 | 180542 | 197359 
+ 12 | 43:51.35 | 3:46.73 | 197360 | 214382 
+ 13 | 47:38.33 | 2:30.08 | 214383 | 225640 
+
+
+Range status and errors
+
+Selected range
+
+ Filename C:Music LosslessGeorge Harrison - Living In The Material World (2006 Remaster)George Harrison - Living In The Material World (2006 Remaster).wav
+
+ Peak level 98.6 %
+ Range quality 100.0 %
+ Copy CRC 84B8FB53
+ Copy OK
+
+No errors occurred

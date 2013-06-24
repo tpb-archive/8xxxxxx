@@ -1,0 +1,7 @@
+Release history
+Version 6.2.4 (2013-03-27)
+General: Program icon image not extracted if exceeded a size
+General: Exported items are now sorted
+General: Some translations updated
+Installed programs: Extra validations for programs install location. Wrong declared install locations could cause unwanted grouped programs.
+Monitored programs: Import from version 5 will include the groups

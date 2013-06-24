@@ -1,0 +1,7 @@
+Project Byzantium, a working group of HacDC (http://hacdc.org/) is proud to announce the release of v0.3.2 alpha of Byzantium Linux, a live distribution of Linux which makes it fast and easy to construct an ad-hoc wireless mesh network which can augment or replace the current telecommunications infrastructure in the event that it is knocked offline (for example, due to a natural disaster) or rendered untrustworthy (through widespread surveillance or disconnection by hostile entities).  Byzantium Linux is designed to run on any x86 computer with at least one 802.11 a/b/g/n wireless interface.  Byzantium can be burned to optical disk (the .iso image is around 330 megabytes in size), booted from an external hard drive, or can even be installed in parallel with an existing operating system without risk to the user's data and software.  Byzantium Linux will create a mesh node, automatically configure itself, and then connect to other mesh nodes where it acts as an access point for wifi-enabled devices.
+
+This release builds upon the advances made in previous releases and adds much-requested support for Intel-based Macbooks.
+
+If you are a Mac user, we recommend downloading this hybrid ISO image.  Write it to a USB key with the 'dd' command and reboot while holding down the Option key.  Select the 'Windows' device to boot Byzantium Linux.
+
+For more information, please visit our homepage at http://project-byzantium.org/.

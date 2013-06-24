@@ -1,0 +1,82 @@
+Welcome to Android for Windows 2.0
+----------------------------------
+
+COMMERCIAL 1:
+
+This is a complete Android 2.3.4 running environment that runs on Microsoft Windows.  We have taken the hard work of the developers, simplified things and implemented all of tips and tricks in one robust, powerful and fully 
+complete operating system.  We at Trip9d0zen are proud to pass on all of that development to the end-user.
+
+COMMERCIAL 2:
+
+Features
+--------
+..Unlimited Calling in US/Canada, your own call-in number
+(with Google voice and talkatone)
+..Full GAPPS and Google Play support
+..Instagram and Webcam cell-cam integration
+..F a c e b 0 0 k / Twitter
+..Data, Application, File and Contact Syncing
+..Box/Dropbox/SkyDrive/Google Drive
+..Full ROOT /system RW, SU, BusyBox, FLASH, Lucky Patcher
+
+Installation
+------------
+
+HD
+--
+Install BlueStacks_HD_AppPlayerPro_setup_0.7.8.829_REL.msi
+*If you get a graphics error, upgrade your video drivers, or go to SD installation
+
+When the ΓÇ£stockΓÇ¥ BlueStacks launches close it. In the system tray, in the bottom right down by the clock, Right Click on the BlueStacks Icon and choose Rotate Portrait Apps, ENABLED.  
+
+Right Click on it again and QUIT.
+
+Install AW20HD-js99912-addon.exe
+
+run toolscopyimgs.bat
+
+SD
+--
+Install BlueStacks_AppPlayerPro_setup_0.7.4.793_REL.msi
+*If you get a graphics error, ITS OK, it will continue. 
+IMPORTANT, if asked to upgrade, ALWAYS say LATER. DO NOT UPGRADE.
+
+When the ΓÇ£stockΓÇ¥ BlueStacks launches close it. In the system tray, in the bottom right down by the clock, Right Click on the BlueStacks Icon and QUIT.
+
+Install AW20SD-js99912-addon.exe
+
+Run UpdateRemover.reg
+
+run toolscopyimgs.bat
+
+
+Account Setup
+-------------
+..Sign up for a Google account and Voice number by googling /google voice/.  You will get to pick out a phone number pretty much anywhere in the US. If you wish to create a brand new Google ID, this would be the time.  The biggest pain is remembering ones many Usernames/Passwords and signing everything in.  
+..Launch Android for Windows, Sign in to everything, it does run
+better after your accounts have synced and settled down.
+..Sing in to Google Play, GMAIL, FB/Twitter
+..Create accounts/Sign in to Dropbox, box, Google drive and SkyDrive
+
+Icons
+-----
+Quit BlueStacks.  To get the More realistic Android Icons for Home, Back, etc, got to the TOOLSImages folder, Select all and copy.  Go to C drive , programfilesx86 or just programfiles if you donΓÇÖt have one. Right click on BlueStacks and Paste, when asked to Overwrite and at permission say yes.
+
+Virtual Keyboard and X-Mouse included in tools.
+
+
+Support
+------- 
+http://thepiratebay.sx/user/js99912
+
+
+
+DRAWBACKS
+---------
+This is not a good Video Player.  Youtube works OK but you may have to 
+UNCLICK HD everytime. Play Videos in the Windows environment, 
+COPY/PASTE links in and out of android using SlamHammerSmith.exe.  
+Best of both worlds, sort of the beauty of it.
+
+Enjoy
+-js

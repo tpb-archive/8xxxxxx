@@ -1,0 +1,68 @@
+We are all interconnected. Our lives are invisibly tied to those whose destinies touch ours.
+
+Starring Emmy and Golden Globe winner Kiefer Sutherland, and returning for a sophomore season, TOUCH is the uplifting global hit drama from creator and writer Tim Kring (ΓÇ£Heroes,ΓÇ¥ ΓÇ£Crossing JordanΓÇ¥) and executive producers Peter Chernin (NEW GIRL, BEN AND KATE) and Katherine Pope (NEW GIRL, BEN AND KATE). 
+
+Blending science, spirituality and emotion, the series follows seemingly unrelated people from across the world, all of whose lives impact each other in ways seen and unseen, known and unknown. At the center of the story is MARTIN BOHM (Sutherland), a widower and single father who struggles to communicate and connect with his emotionally challenged 12-year-old son, JAKE (David Mazouz). Determined, thoughtful and caring, Martin continues to try anything ΓÇô and everything ΓÇô to reach his son. But Jake still hasnΓÇÖt spoken.
+
+Season One unfolded with Martin realizing that Jake possessed an extraordinary gift ΓÇô the ability to perceive the seemingly hidden patterns that connect every life on the planet. It was up to Martin to decipher these numbers and put the pieces together in order to help people all over the world whose lives touched one another ΓÇô whether they knew it or not. 
+
+In Season Two, the action shifts dramatically from New York to Los Angeles, where Martin and Jake find themselves at the center of a global conspiracy involving a mother in search of her missing teenage daughter; a mathematical genius; and a religious zealot assassinating others with abilities like JakeΓÇÖs. Joining the cast this season are Maria Bello (ΓÇ£ERΓÇ¥), Lukas Haas (ΓÇ£24ΓÇ¥), Said Taghmaoui (ΓÇ£G.I. Joe: The Rise of The CobraΓÇ¥) and newcomer Saxon Sharbino.
+
+Last seasonΓÇÖs unprecedented global launch of TOUCH in more than 100 countries was a tremendous success. Internationally, the series ranked No. 1 or No. 2 in its time period throughout the season and increased foreign channelsΓÇÖ primetime average by double or triple digit percentage points. TOUCH is the first U.S. broadcast series to immediately establish such a notable global audience
+
+
+Γê⌐ΓòùΓöÉGeneral
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 762 Kbps
+Encoded date                             : UTC 2013-04-25 21:31:26
+Tagged date                              : UTC 2013-04-25 21:31:26
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Bit rate                                 : 666 Kbps
+Maximum bit rate                         : 2 887 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.024
+Stream size                              : (86%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=1 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=666 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2013-04-25 21:31:26
+Tagged date                              : UTC 2013-04-25 21:31:38
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Bit rate mode                            : Variable
+Bit rate                                 : 98.6 Kbps
+Maximum bit rate                         : 106 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : (13%)
+Encoded date                             : UTC 2013-04-25 21:31:37
+Tagged date                              : UTC 2013-04-25 21:31:38
+
+

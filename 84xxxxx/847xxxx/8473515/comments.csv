@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,funtua,2013-05-15T00:27Z,"Please how can I get my FD to show all the routes and airways like before? I have reinstalled the 2.0 and refused to upgrade to the latest one.
+
+Please help."
+,mikecky666,2013-05-15T05:59Z,"Hi funtua,
+
+Pls help on how you managed to reinstall the v2.0. I too have accidentally updated to v2.0.6 and now i'm screwed..."
+,dalsimpilot,2013-05-15T06:07Z,Could you make fd2.0.6 fold structure?
+,funtua,2013-05-15T18:16Z,"Mikecky666
+Just search Jeppview on TPB and look for this post...Jeppview JeppFD iPad v2.0.0 ipa 
+
+All the details are in there.
+
+All the best."
+,slackerlt,2013-05-15T20:10Z,as funtua mentioned the problem the same in my fd also no airways no route just charts working any idea?
+,slackerlt,2013-05-15T20:10Z,"for 2.0.6 cycle install instructions : 
+1. Copy files from the folder TermChats from the new base and add into the same folder at your iPad. New directory is JeppFD/JeppFD.app/DemoData/TermChats.
+2. Copy 2 folders ""db1"" and ""store"" from the new base from directory Enroute/db_a and add into the JeppFD/JeppFD.app/DemoData/Enroute/Database. The next copy the same 2 files BUT from the Enroute/db_b and add to the same directory the JeppFD/JeppFD.app/DemoData/Enroute/Database. Good luck!!!"
+,JAB69,2013-05-15T23:03Z,slackerlt your instructions do not work on latest ios as those folders on the ipad are locked
+,mikecky666,2013-05-16T11:09Z,"Thx funtua. 
+
+Have tried it but unable cos my ipad not jailbroken as mentioned by the instructions. Any kind soul with other ideas or new data base for v.2.0.6?"
+,antoniomg,2013-05-16T17:19Z,Does this version for IPad include VFR aerodromes charts?
+,NiceLittleRabbit,2013-05-16T19:58Z,"First of all, thank you to afil-fr for this torrent
+
+@slackerlt: I do not understand your last step, where you propose to copy the same two files from Enroute/db_b into JeppFD/JeppFD.app/DemoData/Enroute/Database: in this case, the two files having the same names as the preceeding ones, if we save them in the same folder they will simply replace the ones we just copied?
+
+Could you please clarify this point?"
+,flybyware,2013-05-17T02:19Z,PC Version please
+,ninobat,2013-05-17T03:18Z,PC VERSION PLEASE !
+,RodrigoAviation,2013-05-18T01:00Z,"I successfully installed this into Jeppesen TC, but I'm also having troubles with JeppFD, once I did what ""slackerlt"" said and it didn't work... Thanks anyway! So, any ideas? Thanks for the great torrent! "
+,parepe,2013-05-18T17:11Z,"I have installed it on 2.0.0 FD, but only works for airport charts. No route available and no information on maps. 
+
+Any one with the same problem?
+
+Any help on that?
+"
+,V1RotateV2,2013-05-24T10:47Z,"Both TermCharts and Enroute charts work perfectly under JeppFD v2.0.0, even with VFR enabled."
+,redhill69,2013-05-24T12:01Z,Hi!! How can i downgrade my JeppFD! I have the 2.0.6 version and i would install V2.0 to be able to have en-route working! I'm not jailbreak! Thx!

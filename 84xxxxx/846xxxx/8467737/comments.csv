@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,eXoflow,2013-05-13T16:59Z,"In case you have a problem with locales missing (the menu says ""new_game"", ""find_mp_game"" etc.) do this:
+
+1. Start the game with MountContent = 1
+2. The locales will be missing
+3. Go to the flag to the bottom right and click on it
+4. Only hungarian (I think it is) will be available
+5. Click it
+6. The menu and all strings are now in Hungarian
+7. Click the flag symbol again
+8. All the locales will now be visible
+9. Select your preferred locale, even English will work
+10.All the strings will now be in that locale"
+,eXoflow,2013-05-13T22:50Z,Patch is out: /torrent/8471062/
+,ansonking,2013-05-14T08:51Z,how would i know if the locale is missing?
+,eXoflow,2013-05-14T17:03Z,"Trust me, you would notice."
+,eXoflow,2013-05-14T17:12Z,"Trust me, you would know ;)"
+,ansonking,2013-05-15T10:16Z,no more toybox right?
+,eXoflow,2013-05-15T17:28Z,Nope it's steam workshop now
+,risint96,2013-05-16T12:05Z,Anyone knows of servers to join?
+,asafor6,2013-05-18T15:08Z,"not working.. nothing happens when i click on START.bat file, it opens the cmd window, exits it and nothing happens."
+,asafor6,2013-05-18T16:13Z,"fixed it
+now it says no steamuser"
+,eXoflow,2013-05-19T10:01Z,@asafor6 Where and when does it say that?
+,wolfos360,2013-05-24T20:27Z,whenever i click on start.bat it pops up then dies. what do i do?
+,eXoflow,2013-05-28T18:37Z,"@wolfos360
+
+Open the START.bat file in notepad, remove everything above hl2.exe line."
+,shroomblood,2013-06-01T06:55Z,Careful there is a trojan in hl2.exe
+,shroomblood,2013-06-02T22:41Z,Did you create this release eXoFlow?
+,eXoflow,2013-06-02T23:41Z,@shroomblood No there is no trojan in hl2.exe (it is the same exe that you downloads from Steam)

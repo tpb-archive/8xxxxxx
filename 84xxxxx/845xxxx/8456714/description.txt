@@ -1,0 +1,40 @@
+Description:
+
+Fission can crop and trim audio, paste in or join files, or just rapidly split one long file into many. ItΓÇÖs streamlined for fast editing. Plus, it works without the quality loss caused by other editors, so you can get perfect quality audio even when editing MP3 and AAC files.
+
+If you need to convert formats, Fission can do that too! You can rapidly export or batch convert files to the MP3, AAC, Apple Lossless, FLAC, AIFF, and WAV formats.
+
+
+Features:
+
+    Edit MP3, AAC, Apple Lossless, and AIFF files with no quality loss
+    Quickly split a long audio file into smaller files
+    Remove unwanted content, such as commercials, from your audio file
+    Re-arrange audio in a single file, copy audio from one file to another, or merge with a quick drag and drop
+    Create great-sounding MP3 or AAC ringtones for your cell phone.
+
+
+Version 2.1.3:
+
+    The Batch Converter has been updated to properly handle all Windows Media files, as well as ALAC-encoded CAF files, and more.
+    A crash where the App Store version of Fission could crash when inserting silence has been corrected.
+    Fission now handles .m4a_partial files, to recover corrupted AAC files.
+    Several additional VoiceOver improvements have been made, with labels on previously unlabeled controls. WeΓÇÖre always working to improve this.
+    The Channels selector now properly appears for mono files (if Stereo is selected, the mono channel is simply cloned).
+    Clip tabs now always show the clip name.
+    An issue where some FLAC files wouldnΓÇÖt properly open has been corrected.
+    FissionΓÇÖs looping now properly updates when you change the selection.
+    FissionΓÇÖs time wells now properly update when undoing.
+    Fission Progress Indicator now properly remembers its position.
+    Fission now retains the Inspector state between launches and file opens.
+    The Batch ConverterΓÇÖs Convert button now properly deactivates after a conversion finishes.
+    Keyboard shortcuts now loop through Inspector tabs.
+    Smart SplitΓÇÖs ΓÇ£Insert SplitsΓÇ¥ button now properly accepts Return.
+    Artwork wells now illuminate when an image is hovered over them.
+    Removing or cropping a whole file no longer gives a dumb error.
+    Fission now better illustrates when a fileΓÇÖs audio is clipping. Thanks, Kirk!
+    A drawing issue when moving the playhead backwards has been corrected.
+    Improvements have been made to prevent already-rare deadlocks and crashes in PTWorkerThread.
+    Fission now better handles UTF-8 in ID3 tags.
+    Simply moving the playhead no longer dirties a file.
+    Fission had a problem with overusing the CPU when all windows were closed. That problem has been eradicated.

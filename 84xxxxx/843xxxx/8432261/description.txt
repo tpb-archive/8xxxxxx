@@ -1,0 +1,63 @@
+Source:HDCAM AVC 1080P AC3 MURDER  Thanks
+Sample:Never
+Encoder:Tony
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 1 000 MiB
+Duration                                 : 1h 58mn
+Overall bit rate                         : 1 183 Kbps
+Writing application                      : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                          : VirtualDubMod build 2540/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 1
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 58mn
+Bit rate                                 : 1 013 Kbps
+Width                                    : 640 pixels
+Height                                   : 248 pixels
+Display aspect ratio                     : 2.581
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.255
+Stream size                              : 857 MiB (86%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : 2000
+Duration                                 : 1h 58mn
+Bit rate mode                            : Constant
+Bit rate                                 : 160 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 135 MiB (14%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 40 ms (1.00 video frame)
+Interleave, preload duration             : 512 ms
+
+Screens:
+ 
+http://i.imgur.com/sLMK9s6.png 
+http://i.imgur.com/RSPNO0W.png 
+http://i.imgur.com/vMzrH7U.png 
+http://i.imgur.com/lnblCwN.png 
+http://i.imgur.com/dNFqopr.png

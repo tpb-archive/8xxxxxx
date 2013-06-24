@@ -1,0 +1,36 @@
+Garmin Bluechart g2 HEU018R The Netherlands v.14.50 UNLOCKED
+
+Continental coverage: from Spiekeroog, Germany to Calais, France, including The Netherlands and Belgium coast entirely. Great Britain coverage: from Whitstable to Folkestone.
+
+ΓÇóShaded depth contours, coastlines, spot soundings, navaids, port plans, wrecks, obstructions, intertidal zones, restricted areas and IALA symbols.
+ΓÇóSeamless transitions between zoom levels and more continuity across chart boundaries.
+ΓÇóStandard 2-D direct overhead or 3-D ΓÇ£over the bowΓÇ¥ map perspective for easy chart reading and orientation.
+ΓÇóSafety Shading* enables contour shading for all depth contours shallower than your defined safe depths.
+ΓÇóFishing Charts* to scope out bottom contours and depth soundings with less visual clutter on the display.
+
+Code: 
+https://buy.garmin.com/en-US/US/maps/on-the-water-maps/bluechart-g2/heu018r-the-netherlands/prod34785_010-C0775-20.html
+Code:
+GMAPSUPP.IMG, length 75196416
+Header:   	25.01.2013 11:05:00, DSKIMG, XOR 00, V 14.50, Ms 0
+Mapset:   	HXEU018R-The Netherlands v2013
+fat:		1000h - 1200h - 1B800h, block 2048
+maps:		25, sub-files 72
+
+Sub-file         fat     length
+ MARINAS  MDR   1200h      4014
+ MARINAS  SRT   1400h       968
+ F0000023 RGN   1600h    688041
+ F0000023 LBL   1A00h       711
+	CP 1252, Western European
+ F0000023 TRE   1C00h      6432
+	map 11066dc (17852124)
+	PID 1, FID 2817, region 2,24
+	date 18.01.2013 10:42:21
+	priority 28, parameters 1 6 29 19, locked, transparent
+	N: 53.898110, S: 52.298312, W: 6.245298, E: 8.000021
+	GARMIN G-Map
+	Copyright 1995-2013 by GARMIN Corporation.
+
+
+HOW TO: Just copy the Garmin folder to you SD-card

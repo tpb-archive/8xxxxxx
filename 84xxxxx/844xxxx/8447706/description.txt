@@ -1,0 +1,98 @@
+EasyBCD 2.2-Windows 8 dual-booting and more!
+
+ 
+https://neosmart.net/EasyBCD/
+
+Dual-boot with anything you could want.
+
+
+
+What is EasyBCD Anyway?
+
+EasyBCD is NeoSmart Technologies 100% free Windows bootloader (BCD) modification tool.It all depends on who you ask or what you want to get done, but
+
+    A way to get your Windows Vista or Windows 7 working with Linux, BSD, Mac OS X, and dozens more operating systems without a headache!
+    An IT Guy's number 1 bootloader-troubleshooting tool.
+    A multiple award-winning application, used and recommended by the folks at Microsoft, PC World and more!
+    The easiest way of booting from virtual disks, ISO images, network devices, or USB disks!
+    The best way to do just about anything with Windows Vista/7 before it even turns on!
+
+
+You're probably itching to get started, so we won't hold you back any longer. Just pick an OS you want to dual-boot into, and be on your way!
+
+    Legacy Windows Versions
+    Windows 2000
+    Windows XP
+    Windows Vista
+    Windows 7
+    Windows 8
+    Linux
+    Mac OS X
+    BSD
+    OS-2
+
+
+    Boot anything:
+
+    Windows, Linux, Mac, & BSD! Boot both from and into USB drives, ISO images, virtual disks, and more.
+
+
+    Boot anywhere:
+
+    Create bootable USB sticks with repair utilities that you can take with you anywhere.
+
+
+    Protect against disaster:
+
+    Create entries to boot into recovery utilities or safe mode to prepare for a rainy day.
+
+
+    Painless editing:
+
+    Add, rename, remove, configure, and reorder entries at whim.
+
+
+    Solve difficult problems:
+
+    Use EasyBCD to troubleshoot Windows, back up and repair the bootloader, and more.
+
+
+    Powerful scripting with NeoGrub:
+
+    You'll have the power to hide partitions, change active flags, and create complex boot scenarios. 
+
+
+
+
+
+Changelog for EasyBCD
+
+EasyBCD 2.2
+
+    [EBCD-046] - New: EasyBCD Multi-Language Localization Support
+    [EBCD-499] - New: Windows 8 support
+    [EBCD-490] - New: Automatically create backup of BCD store the first time EasyBCD is run
+    [EBCD-495] - New: Add VHDX support to EasyBCD
+    [EBCD-504] - New: Volume licensing option for commercial edition
+    [EBCD-493] - Fixed: EasyBCD doesn't detect any entries if EFI bootmgr is installed
+    [EBCD-494] - Fixed: EasyBCD does not properly interpret pae=yes or pae=no
+    [EBCD-498] - Fixed: EasyBCD can't exit when closing after unsafe removal of loaded USB
+    [EBCD-499] - Fixed: EasyBCD hangs on Windows 8 w/ .NET 4
+    [EBCD-500] - Fixed: Setting locale for VHD entry causes entry corruption
+    [EBCD-502] - Fixed: Setting advanced settings for WinPE entry after creation corrupts entry
+    [EBCD-485] - Separate the update info URIs for the commercial and community editions
+    [EBCD-487] - EasyBCD picture in setup welcome screen
+    [EBCD-488] - Use new EasyBCD and NeoSmart Technologies logos.
+    [EBCD-491] - Date format in default EasyBCD backup filenames is YYYY-MM-DD regardless of locale for sort reasons
+    [EBCD-492] - Append (#) to default EasyBCD backup name if already exists
+    [EBCD-496] - Support High-Contrast Theme
+    [EBCD-497] - High DPI support w/ translation UI
+    [EBCD-501] - Faster enumeration of installed languages
+    [EBCD-503] - Commercial version support for auto-updating
+    [EBCD-505] - Support Gentoo Grub2
+    [EBCD-506] - Support Fedora 17, Gentoo, and ArchLinux GRUB2 changes
+    [EBCD-507] - EasyBCD can limit up to 99,999MiB of memory
+
+
+
+Enjoy!! 

@@ -1,0 +1,65 @@
+
+
+After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. When he returns home to Starling City, his devoted mother Moira, much-beloved sister Thea, and best friend Tommy welcome him home, but they sense Oliver has been changed by his ordeal on the island. While Oliver hides the truth about the man he's become, he desperately wants to make amends for the actions he took as the boy he was. Most particularly, he seeks reconciliation with his former girlfriend, Laurel Lance. As Oliver reconnects with those closest to him, he secretly creates the persona of Arrow - a vigilante ΓÇô to right the wrongs of his family, fight the ills of society, and restore Starling City to its former glory. By day, Oliver plays the role of a wealthy, carefree and careless philanderer he used to be - flanked by his devoted chauffeur/bodyguard, John Diggle - while carefully concealing the secret identity he turns to under cover of darkness. However, Laurel's father, Detective Quentin Lance, is determined to arrest the vigilante operating in his city. Meanwhile, Oliver's own mother, Moira, knows much more about the deadly shipwreck than she has let on ΓÇô and is more ruthless than he could ever imagine.
+
+The series stars Stephen Amell as Oliver Queen, Colin Donnell as Tommy, Katie Cassidy as Laurel Lance, David Ramsey as John Diggle, Willa Holland as Thea Queen, with Susanna Thompson as Moira Queen and Paul Blackthorne as Detective Quentin Lance.
+
+Based on characters appearing in comic books and graphic novels published by DC Comics, ARROW is from Bonanza Productions Inc. in association with Berlanti Productions and Warner Bros. Television, with executive producers Greg Berlanti ("Green Lantern," "Brothers & Sisters"), Marc Guggenheim ("FlashForward," "Eli Stone"), Andrew Kreisberg ("Warehouse 13," "The Vampire Diaries") and David Nutter ("Smallville," "Supernatural," "Game of Thrones"). Melissa Kellner Berman ("Eli Stone," "Dirty Sexy Money") is co-executive producer. The pilot was directed by David Nutter from a teleplay by Andrew Kreisberg & Marc Guggenheim, story by Greg Berlanti & Marc Guggenheim.
+
+
+Γê⌐ΓòùΓöÉGeneral
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 797 Kbps
+Encoded date                             : UTC 2013-05-14 07:58:16
+Tagged date                              : UTC 2013-05-14 07:58:16
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Bit rate                                 : 666 Kbps
+Maximum bit rate                         : 3 677 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.024
+Stream size                              : (83%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=1 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=666 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2013-05-14 07:58:16
+Tagged date                              : UTC 2013-05-14 07:58:30
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : 40
+Bit rate mode                            : Variable
+Bit rate                                 : 129 Kbps
+Maximum bit rate                         : 140 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Stream size                              : (16%)
+Encoded date                             : UTC 2013-05-14 07:58:29
+Tagged date                              : UTC 2013-05-14 07:58:30
+
+
+

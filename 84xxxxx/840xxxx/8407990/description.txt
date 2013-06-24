@@ -1,0 +1,44 @@
+Diamond Cut DC8
+
+DC8 contains the latest in signal processing technology for the most demanding Audio Restoration needs.
+
+DC8 includes features like a Big Click Filter which will automatically repair the extremely large clicks created by a cracked or badly gouged record.
+
+It has a Direct Spectral Editor which provides you with the ability to manually attenuate or interpolate very long-lived noise events found on live recordings like coughs, whistling, chair movement and other unwanted spurious signals.
+
+DC8 includes two very useful restoration effects called the Sub-Harmonic and the Overtone Synthesizer. These new effects help re-create the lost lower and upper octaves of a recording adding more life to your restorations. File support has now been extended to Broadcast Wave (BWF), FLAC, and Ogg Vorbis.
+
+The built in CD burner now supports Disc-at-Once (gapless) CD creation along with CD text support. DC8 also supports Data Disc burning capability. The DC Tune Library has expanded capability allowing you to use the Multifilter and all of its effects and presets on files being played. The DC Tune Library also now includes shuffle play and repeat play modes.
+
+Changelog:
+
+DC8.15 Release Date 4/19/13
+New Features
+Added the ability to normalize left channel or right channel independently. This appeard to work before but really did not, nor was it supposed to. It would alays use the overall peak value regardless of channel.
+Bug Fixes
+Fixed bug with resample function saving 8 bit files as 16bits
+Fixed the feature to save temp files in same directory as audio files. It was not able to be turned off.
+Fixed Track Spin control on the MP3 encoder dialog
+Fixed Spectrum analyzer when switching between files of different sample rates.
+Fixed bug in batch editor when creating VBR mp3 files. It now uses the default settings from the preferences dialogs
+Fixed bug using spectral interpolate function. Some times it could crash on complex music
+Fixed Big Click filter bypass function
+Fixed bug opening an MP3 or other non-wave file from the command line
+Fixed bug in the click filters on mono files using solo mode. The bug would cause bad replacements in the audio
+
+Supported OS:
+
+Windows XP SP2, Windows Vista or Windows 7 (any version)
+
+Homepage: http://www.diamondcut.com
+
+Installation Instructions:
+
+1.) Install Program.
+2.) Use Given name and serial for application registration.
+3.) When asked for a Activation put activation code and choose method phone/email.
+4.) Done,Enjoy!
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

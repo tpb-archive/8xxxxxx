@@ -1,0 +1,23 @@
+Virtua Tennis: World Tour is the PlayStation-Portable incarnation of Sega's Virtua Tennis series. You can play as one of many professional tennis players, such as Roger Federer or Maria Sharapova, on courts around the world. In addition to Exhibition and Tournament modes, you can create a custom player and play through World Tour mode. Virtua Tennis: World Tour also lets you play stat-building minigames and challenge up to four other players in Versus mode.
+
+
+
+Just install and Enjoy :) 
+
+
+---------------------------------------------------------------------------------
+
+
+
+Solving Saving Issue on Converted PSP Title
+
+After installing .PKG on PS3
+
+- Connect PS3 to PC -&gt; FTP and go in dev_hdd0:
+- Make 3 empty folders in dev_hdd0:/game/GAMENAME/USRDIR/...
+
+open_tmp
+load_tmp
+save_tmp
+
+This should fix saving issues.

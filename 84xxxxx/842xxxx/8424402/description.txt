@@ -1,0 +1,8 @@
+Book Description
+Publication Date: September 15, 2010 | ISBN-10: 1597494860 | ISBN-13: 978-1597494861 | Edition: 1
+The number of security countermeasures against user-land exploitation is on the rise. Because of this, kernel exploitation is becoming much more popular among exploit writers and attackers. Playing with the heart of the operating system can be a dangerous game: This book covers the theoretical techniques and approaches needed to develop reliable and effective kernel-level exploits and applies them to different operating systems (Linux, Solaris, Mac OS X, and Windows). Kernel exploits require both art and science to achieve. Every OS has its quirks and so every exploit must be molded to fully exploit its target. This book discusses the most popular OS families-UNIX derivatives, Mac OS X, and Windows-and how to gain complete control over them. Concepts and tactics are presented categorically so that even when a specifically detailed exploit has been patched, the foundational information that you have read will help you to write a newer, better attack or a more concrete design and defensive structure.
+
+Covers a range of operating system families - UNIX derivatives, Mac OS X, Windows
+Details common scenarios such as generic memory corruption (stack overflow, heap overflow, etc.) issues, logical bugs and race conditions
+Delivers the reader from user-land exploitation to the world of kernel-land (OS) exploits/attacks, with a particular focus on the steps that lead to the creation of successful techniques, in order to give to the reader something more than just a set of tricks
+ 

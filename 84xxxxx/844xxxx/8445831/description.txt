@@ -1,0 +1,31 @@
+
+Dark Quest is a turn based fantasy role playing adventure game where players assume the role of a mighty barbarian on his epic quest to destroy the forces of the evil sorcerer and save the land from evil.
+
+ΓÇóFeaturesΓÇó
+Enter a world of fantasy and adventure: Explore twisted mazes, find hidden doors and fight bloodthirsy orcs!
+
+ΓÇó Roll the skull of fate and reveal your twisted fate: The evil sorcerer will torment your soul for his own amusment, he will summon you in the sphere of judgement where you will be forced to play a twisted game of death, can you survive his magic?
+
+ΓÇó Slaughter endless hordes of orcs & undead: Your strength, courage and strategy will be key into wining every battle.
+
+ΓÇó Trade with the people in the village: Spend the gold you find in your adventures in the village to buy new potions, weapons and spells for your characters.
+
+ΓÇó Control a party of up to 3 characters each with their own unique abilities: Use the unique strengths of each character and work together to defeat the minions of the evil sorcerer.
+
+ΓÇóCharactersΓÇó
+ΓÇóThe Barbarian: A powerful character who can bring terror and destruction to all his enemies with his destructive force and skill of sword.
+
+ΓÇóThe Wizard: This character is very weak in close combat but his highly potent spells are capable of altering the outcome of any battle to your favor. Use his powers wisely and you may stand a chance against the hordes of the evil sorcerer.
+
+What's in this version:
+- Fixed an exploit where it would let you keep any gold you found when returning to village.
+- Fixed a bug that would keep showing the tutorial skeleton hand on top of dwarf.
+- Village item prices have been further reduced
+- When a hero can't attack a monster due to range or sight it now sais so
+- Fixed a bug where large monster would sometimes not be able to attack you.
+- Reduced gold price of resting in tavern.
+- Improved stability by using lower res assets on devices with less than 300 MB RAM
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.brainseal.azkallor

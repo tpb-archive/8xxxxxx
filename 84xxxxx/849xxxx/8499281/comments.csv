@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,Chaquator,2013-05-23T00:18Z,Serial is blacklisted.
+,papayrus,2013-05-23T00:24Z,Why bother uploading this at all. It's not that good and no one ever makes a crack for it and it's always black listed.
+,and_cac,2013-05-23T16:26Z,"@papayrus
+v.12 crack work for me (win7 pro x64)"
+,whip_lash,2013-05-26T23:19Z,"May as well copy the directions from 1.14.0.0, since nothing's changed in the protection scheme, other than them blacklisting that older version's serial internally. Please tell me if these directions work or not.
+
+Tested on:
+Windows 7 x64
+Windows 8 x64
+
+
+If you've got a ""Licence key blacklisted"" message
+===================================
+1. Delete contents of C: Windows windefendam.log using your favorite editor, set file as read-only
+2. Delete HKCU Software Mirillis Action License (in your registry)
+
+If you haven't installed it yet
+===================================
+1. Install program like any other program, DO NOT RUN YET
+
+You have a clean/cleaned install and are ready to activate
+===================================
+1. Download a 3rd party firewall (Try tinywall.pados.hu), you cannot use the built-in Windows firewall (try it if you don't believe me)
+2. Block the following two programs (paths are not important for most firewalls):
+Action.exe
+dwm.exe
+3. Run Action!
+4. Activate with the included serial
+
+A few things that'll make living with tinywall more bearable:
+===================================
+1. Change the mode to ""Allow outgoing""
+2. Unblock LAN traffic
+3. (Advanced) Create a task in the task scheduler to run the tinywall controller, invoke this task at startup (so you don't have to click through the UAC prompt every time you start up your PC)"
+,whip_lash,2013-05-29T20:48Z,"Okay, turns out in this version you CAN use the built-in windows firewall. But you still can't in v1.14.0.0. Strange!"
+,zzastava,2013-06-09T10:17Z,Not work in WIN7 64 bit.

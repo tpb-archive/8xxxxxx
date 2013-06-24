@@ -1,0 +1,18 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies! 
+
+Gnomoria v0.8.37
+
+Art
+
+-Added workshop table, saw bench, crate with logs, crate with planks, saw horse, chisel, butcher knife, kitchen knife, cloth rolls, scissors, jewelry pile, vise, blueprint, paper, kiln, hammer, market stall, crossbow bolt pile and musket round pile tiles
+-Updated tool stand, tools, saw table, weapon stand, water trough tiles
+-Updated Sawmill, Carpenter, Woodcarver, Stonecutter, Stonemason, Stonecarver, Loom, Tailor, Butcher Shop, Kitchen, Gemcutter, Jeweler, Forge, Furnace, Smelter, Blacksmith, Metalworker, Armorer, Weaponsmith, Tinker Bench, Engineer, Machine Shop, Leatherworker, Market Stall and Bone Carver workshops
+
+Fixed
+
+-Pickaxe and Felling axe not correctly giving material options in the Uniform
+-Brick blocks auto-queueing at Stonecutter instead of Kiln
+
+XNA Framework.NET Framework are included in the _CommonRedist Folder. (Install these first.)
+
+You can help the developer and buy the game on steam here: http://store.steampowered.com/app/224500/

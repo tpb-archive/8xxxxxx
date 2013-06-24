@@ -1,0 +1,75 @@
+***This will not fit on a 4.37GiB DVDR***
+*Use a Dual-Layer DVDR or an 8+GB Flash Drive*
+
+murphy78 presents:
+Windows 7 Enterprise SP1 Office 2013 x86 en-US DaRT8 May2013
+
+Hotfixes included bring install current to May14-2013 patch date
+Internet Exporer 10, USB3, and Network Drivers Added!!!
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Non-Microsoft Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+32-bit Source:
+en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso
+Media Refesh - ascii fix (KB2534111)
+
+Installation Indexes:
+Win7Ent SP1 Off2013 32-bit
+Win7Ent SP1 Off2013 32-bit KMS-Activated
+
+Release File: Win7Ent-SP1-Off2013-x86-en-US-DaRT8-May2013.iso
+Size: 5.18GiB
+CRC32: 0F1F6BB8
+MD5: 356E905A55F57A9B5A92020566892689
+SHA-1: E244D57F134E660CBEA3B6F20BA08B75D95242F0
+
+Language: en-US (English - United States)
+
+Tools used:
+Microsoft DaRT8 (Thx anarchist9027)
+gimagex v2 for capture
+imagex for naming and exports
+dism for image mount
+oscdimg for ISO mastering
+Added Info folder to Windows Setup sub-directory
+
+setupcomplete.cmd phase:
+-None in non-activated index.
+-KMS-Activated Index uses my v2 for MTK 2.4.3 KSS method.
+I have included the readme from that method, but you don't need
+to understand it. It is just for reference.
+
+Integration procedure:
+1-Prepped Enterprise dvd with drivers and copy over DaRT8 files
+2-Shrunk C-Drive Partition
+3-Installed prepped image on unpartitioned space
+4-Ran Audit-Mode by pressing ctrl-shift-f3 at user creation
+5-Ran DX Web Runtimes
+6-Ran .NET 4.5 web installer
+7-Ran IE10 Installer
+8-Reboot to finalize IE10 and updates
+9-Installed Office 2013 ProPlus VL channel
+10-Installed Microsoft Security Essentials
+11-Ran wuapp to download hotfixes for Windows and Office
+12-Reboot and repeat wuapp till no more updates
+13-Delete Windows Update downloaded files folder
+14-Ran cleanmgr to clean up error logs, icons, etc
+15-Ran sysprep / generalize and reboot to my normal system
+16-Capture with gimagex v2
+17-Export Image with imagex and mount original with dism
+18-Copy over KMS-Activation files to KMS-Activated index
+19-Commit changes and export second index to first
+20-Replace install.wim exported to overwrite original
+21-Create ISO with oscdimg from Waik4 (ADK)
+22-Test everything and do some screencaps for the kiddies
+
+-This is an audit-mode / sysprep capture image.
+If you have had problems with sysprepped images in the past,
+you might want to use a different Windows.
+
+(Thanks to CODYQX4 for his Awesome KMS Server Service Activator)
+Enjoy Pirates,
+murphy78-TPB / MDL :)

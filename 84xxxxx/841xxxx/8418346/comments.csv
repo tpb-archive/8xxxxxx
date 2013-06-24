@@ -1,0 +1,110 @@
+﻿User Type,Username,Date,Text
+,KianRap,2013-04-28T05:09Z,Someone seed PLEASE !!!
+,hagehun,2013-04-28T12:48Z,What elite edition means?
+,chong-ky,2013-04-28T19:18Z,Does this work?
+,dante142,2013-04-28T20:44Z,"ELITE EDITION:
+Originally announced in February, XCOM: Enemy Unknown for Mac comes packaged as part of a special Elite Edition, which includes additional add-on content like the Slingshot Pack, the Elite Soldier Pack, the Second Wave update and the game's soundtrack. "
+,hagehun,2013-04-28T23:51Z,"@dante142 thank you for the answer!
+I asked, because there was a release modded, so the wounded soldiers were in hospital for like 80-100 days... You made my day :)"
+,ryballs,2013-04-29T09:50Z,wow nice a native version.. thx for the up
+,Scipio323,2013-04-29T19:20Z,"It started to open fine, but then crashed right after the logos went by. Anyone else seeing this?
+
+Also: I don't really know too much about graphics cards, but my computer, (2011 15"" macbook pro running on 10.7.5, 4GB RAM) has two cards, an Intel HD Graphics 3000, which it says is built in, and an AMD Radeon HD 6490M, which it says is PCIe. I've never installed any hardware on this computer, so I don't actually know what PCIe means, but it appears that the intel card, which shouldn't work for this game, is the default card it uses, and I don't know how to switch it over to the AMD, which I gather should work fine. So yeah, help would be appreciated. I really want to be an XCommie!"
+,Scipio323,2013-04-29T19:22Z,"well, crap, it just worked now after three tries of it doing the same thing. don't I feel stupid now :/"
+,ofermod,2013-05-01T08:57Z,"NO FUNCIONA. NO PERDAIS EL TIEMPO:
+
+Tras copiar el contenido del dmg a la carpeta aplicaciones, sale un mensaje que dice ""EL ARCHIVO ESTA DAÑADO Y DEBERIA ENVIARSE A LA PAPELERA"""
+,mxmbulat,2013-05-01T15:42Z,"thanks, runs smoother than the one done within wrappers."
+,quarkme,2013-05-01T20:30Z,"runs great, thanks"
+,denbronco,2013-05-01T22:15Z,"XCOM: Enemy Unknown - Elite Edition is damaged and can not be opened.
+
+What am I doing wrong?"
+,denbronco,2013-05-01T22:24Z,"XCOM: Enemy Unknown - Elite Edition is damaged and cannot be openend...
+What am I doing wrong???"
+,Tegra3,2013-05-02T02:07Z,"Retina Display 15' / 512 SSD, This game works Flawless. Thank You thenoobish...."
+,jherm,2013-05-02T05:59Z,"@denbronco
+
+You need to ""Allow applications downloaded from: Anywhere"" in System Preferences -> Security & Privacy -> General tab
+
+I had the same issue and started messing around with the files, then tried this solution. You can also change that setting back to a different option after you run the app once...
+
+See also: http://www.yourkit.com/download/mountain_lion.html"
+,denbronco,2013-05-02T11:17Z,"Excellent! Thanks.
+
+Didn't think of that one..."
+,DevFayah,2013-05-04T15:47Z,"Says 'Disk Image won't Mount' tried jherm's trick, didn't fix the problem. Suggestions?"
+,kocierondo34,2013-05-04T16:14Z,"Hey thenoobish!  Dropped by to say how much I appreciate your great work on uploading great mac games, and this one was one of the greatest.  You will always be remembered."
+,abdulrahman4,2013-05-04T18:38Z,it's work fine then after a while of playing it suddenly crash.it's like i can't play more than ten minutes. i dunno if this for me only. please help 
+,Bara1234,2013-05-05T21:07Z,Does this work on 10.6.8?
+,pacoquinha,2013-05-06T17:13Z,"That is amazing. It worked just fine, even on a 2009 macbook.
+
+Played for several hours, no crashes so far. :D"
+,jimsghost,2013-05-07T12:12Z,"Thanks thenoobish! As always an excellent upload, seriously fine work.
+
+I am running a reasonably specced up Mac Pro (mid 2010).
+2 x 2.4 Quad-Core Intel Xeon
+12 GB 1066 DDR3
+ATI Radeon HD 5770 1024mb
+OSX 10.8.3
+
+I have intermittent crashes when running XCOM. I have turned down the graphics settings in game and it definitely happens less frequently, but still occasionally.
+Seems to be mainly when a cut-scene / action sequence runs.
+
+Rad game, and rad upload though.
+
+I'm going to attempt to run it on my MBP (mid 2010).
+
+Does anyone know where the save-game files are stored??"
+,pitch_mod,2013-05-09T13:39Z,"The game runs almost perfectly, although I am experiencing the intermittent crashes others have mentioned, but not very often.  Has anybody found a solution or the cause?
+
+2012 iMac
+OS X v10.8.3
+Processor: 2.9GHz Intel
+Memory: 8gb
+Graphics: GeForce GT 650M 512MB
+
+Also, @thenoobish, thanks for all the fantastic uploads.  You're a savior to mac gamers.
+"
+,pitch_mod,2013-05-09T14:21Z,"@jimsghost  There are two ways to find the saved files.  
+
+First Way
+1. Open a new Finder window
+2. Click on Go in the Menu bar, which will show the hidden Library folder.
+3. Click on Library in the Go menu, and your Finder window will open to the hidden Library folder within your user folder
+4. Navigate from there to ~/Library/Application Support/Feral Interactive/XCOM Enemy Unknown - Elite Edition/Save Data
+
+Second Way
+1. Open a new terminal window
+2. Copy/Paste this:  defaults write com.apple.finder AppleShowAllFiles -bool true
+3. Copy/Paste this:  killall Finder
+4.  Navigate to the same hidden library folder which will be shown now
+5.  After you're done, Copy/Paste this in the Terminal:  defaults write com.apple.finder AppleShowAllFiles -bool false
+6.  Copy/Paste this:  killall Finder
+7.  And you're done.
+
+Cheers!"
+,pitch_mod,2013-05-09T23:14Z,"Ok, so I've played around with graphical settings like jimsghost suggested, but I'm still getting crashes.  Like he said, it's always after a cut-scene.  I have the crash reports if anybody out there can interpret them.  The game runs absolutely perfectly otherwise, and I'm enjoying it quite a bit: so much that I'll probably just buy it off the app store to avoid the crashes since I usually end up doing that with games I like anyway to get updates and multiplayer."
+,crazyhu,2013-05-11T11:23Z,"same here, game frezes and shuts down... also my saves were deleted..! is there a patch or something? hope you can fix it, thanks"
+,Im2Derk,2013-05-11T23:41Z,"Will this work on 10.6.8,  2.53 GHz intel core 2 duo
+4 gigs of ram, Nvidia 9400M Geforce, 256MB of Vram."
+,cuertiuiop,2013-05-14T05:02Z,"Works surprisingly well on a MacBook Pro 13-inch (early 2011), 2,3GHz Intel i5, 4GB RAM, Intel HD 3000 (384MB), OS X 10.8.3, so it will run great even on a potato.
+
+Stop passing if it will work, noobs… it's native, it will work. And if you want to know if it will run in your system, there are millions of websites that can tell you that."
+,jimsghost,2013-05-15T11:18Z,"Thanks for the info pitch_mod.
+I am now playing it on my MBP.
+Late 2010 10.8.3
+
+The crashes are less but they still occur.
+
+This game is the business. I am definitely going to buy it, i'm just hoping the crashes are only related to the crack copy.
+
+Thanks again thenoobish and MONEY, love your work."
+,wwcsyty,2013-05-15T19:43Z,it was working fine for me untill i had to interrogate an alien. Game crashes every time i try to do that. Anyone has that issue?
+,arnario,2013-05-16T00:56Z,There's a crack-fix available here http://scenerelease.co/xcom-enemy-unknown-elite-edition-crack-fix-macosx-money/ - it's supposed to fix the crashes.
+,wwcsyty,2013-05-16T21:35Z,"unfortunately it is not fixing the issue for me. Seems like new patch has been released, i cant download it though, it is supposed to fix game crashes for polish and russian language."
+,wwcsyty,2013-05-17T12:40Z,if anyone finds a crack for 1.0.1 version please post the link here
+,wwcsyty,2013-05-17T21:29Z,"ok, it seems the problem is with a polish version. I started the game once again, this time using english language, and the problem with crashing while interogation did not occured."
+,pitch_mod,2013-05-18T00:25Z,"For anybody wondering about the crack fix, it didn't work for me.  Still getting crashes.  I'm running OS X 10.8.3 with a GeForce GT 650M 512MB."
+,wallpaprr,2013-05-24T01:15Z,will the 1.01 update work without a new crack?
+,zagenator,2013-05-24T14:21Z,"unfortunatelly, not.
+does anybody have a new crack?"

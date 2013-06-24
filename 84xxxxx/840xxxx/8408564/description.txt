@@ -1,0 +1,78 @@
+SOURCE: DVD5
+ 
+http://www.imdb.com/title/tt0119565/
+
+
+-SAMPLE: Yes
+
+-SUBTITLES: No
+
+-LANGUAGE: English
+
+
+DIRECTOR: Mika Kaurismäki
+
+
+CAST:
+-----------
+David Tennant, Julie Delpy, Vincent Gallo, Vinessa Shaw, James Le Gros, Johnny Depp, Amanda Plummer
+
+
+PLOT:
+--------
+An "aspiring Hollywood actress" (Vinessa Shaw), on a visit to a charming North England town, has a brief fling with the town undertaker (David Tennant), who also writes obituaries for the local paper. Returning home, where she works as a waitress at a Japanese restaurant, she tells everyone about the handsome "writer" she met on her trip. Unfortunately, he decides to follow her back to Hollywood, setting up the expected light romantic comedy with asides as the newcomer gains experience about the goings on in Hollywood.
+
+
+General
+------------
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 900 MiB
+Duration : 1h 42mn
+Overall bit rate : 1227 Kbps
+
+Video
+----------
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 1
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Custom
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 42mn
+Bit rate : 1092 Kbps
+Width : 720 pixels
+Height : 416 pixels
+Display aspect ratio : 1.731
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.146
+Stream size : 800 MiB (89%)
+Writing library : XviD 64
+
+Audio
+----------
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 42mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 93.8 MiB (10%)
+Alignment : Aligned on interleaves
+Interleave, duration : 80 ms (2.00 video frames)
+Interleave, preload duration : 504 ms
+Writing library : LAME3.99r

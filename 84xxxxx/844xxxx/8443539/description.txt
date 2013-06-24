@@ -1,0 +1,87 @@
+General
+
+Added a new playthrough called Ultimate Vault Hunter Mode, unlocked for a character once they have completed the main story missions in True Vault Hunter Mode and reached level 50!
+
+       In this mode, you will always start in Southern Shelf at Cleaning Up the Berg and may reset your playthrough progress as often as you like without losing any items, levels, or stats. All enemies are significantly more difficult in this playthrough, but the loot quality has increased accordingly. Rumor has it there is an entirely new rarity of loot out there for high-level players.
+
+   Added new items to the Black Market:
+
+       One additional ammo upgrade for each ammo type, at 50 Eridium each.
+
+       Two more backpack storage space upgrades, at 50 and 100 Eridium respectively.
+
+       Two more bank storage space upgrades, at 50 and 100 Eridium respectively.
+
+   Increased the maximum amount of Eridium players can hold from 99 to 500.
+
+   Fixed a bug that was causing some users to crash on startup or when loading into a level after choosing their character.
+
+   Fixed a bug that could cause hosts to become invulnerable if they were being revived by a client who disconnected mid-revive.
+
+   Fixed an issue that could cause players to crash or freeze when fighting BNK-3R.
+
+   Fixed a bug that could cause Deathtrap's Robot Rampage audio to not stop playing after killing an enemy until Deathtrap despawned.
+
+   Fixed a bug that could stop the Gunzerker's Keep It Piping Hot skill from functioning as intended.
+
+   Covered an area of the world near Claptrap's ship where the player could fall in and be unable to get out.
+
+   Fixed an issue where a Siren could revive a player and make another player invulnerable under specific circumstances.
+
+   Addressed instances of audio distortion tied to Axton's turret and kill skills.
+
+   (Mr. Torgue DLC) Critical hits against Midgets now register properly.
+
+   (Mr. Torgue DLC) Rat Thief enemies are no longer allowed in PeteΓÇÖs Bar due to patron concerns regarding excessive theft.
+
+   (Captain Scarlett DLC) Fixed an issue with the "Shady Dealings" challenge where a purchase could sometimes not count toward its completion.
+
+Missions
+
+Fixed an issue where players could be unable to interact with the menu when a mission that granted experience but not items was completed and not handled by the player before saving and quitting.
+
+   Fixed an issue where players could cause the round to not fail in a Slaughter mission if a surviving player disconnects while all others are out.
+
+   (Sir Hammerlock DLC) Thermitage is now friendlier and will no longer refuse to come play with some players.
+
+   Fixed issues with the following missions that could cause players to get stuck or not be able to complete them:
+
+       Wildlife Preservation
+
+       Medical Mystery
+
+       (Captain Scarlett DLC) Let There Be Light
+
+       (Mr. Torgue DLC) Eat Cookies and Crap Thunder
+
+Equipment
+
+Fixed a bug where players were able to do far more damage than intended by exploiting a buff from the Evil Smasher.
+
+   Clients are now able to see explosions caused by Norfleets in multiplayer.
+
+   Fixed an issue causing Relics to sometimes not show the Favorite indicator.
+
+   Fixed an issue that caused E-tech weapons to not be able to hit the Mechromancer's 'One Two Boom' orb.
+
+   Seraph Gear from Captain Scarlett and Mr. Torgue DLC re-balanced to be more powerful.
+
+   Fixed class mods that increase the skill grade of Axton's Metal Storm, Onslaught and Quick Charge skills to function as intended.
+
+   Fixed an exploit involving Vladof rocket launchers that could result in having infinite ammo for any weapon.
+
+   Fixed an issue where weapon cards would sometimes not display how many bullets they consumed per shot.
+
+   Mechromancer's Prodigy class mod now correctly increases reload speed.
+
+   Fixed an issue causing impact sounds from users with The Bee shield to not be audible on clients.
+
+   Adjusted MechromancerΓÇÖs Sweetheart class mod to correctly increase team health.
+
+   AssassinΓÇÖs ΓÇ£Slayer of TerramorphousΓÇ¥ class mod no longer includes Gunzerker skill bonus.
+
+   (Mr. Torgue DLC) Torgue vending machines can now stock legendary weapons above level 48.
+
+   Chere-amie sniper rifle and transfusion grenades no longer cause audio distortion.
+
+   Assigned price to Anshin 'Evolution' shield so that players can sell it for money if desired.

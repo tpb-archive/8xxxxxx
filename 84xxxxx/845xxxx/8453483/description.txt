@@ -1,0 +1,32 @@
+
+An advanced Scientific Calculator with Graph Plotter
+This is a fully featured calculator which supports matrix, complex numbers and equation solver.
+
+Features:
+* No ads
+* Large input/output display
+* Dedicated Graph Plotter
+* Advanced Unit Converter
+* Complex number
+* Full Matrix Support upto order of 9x9
+* Simultaneous linear equation solver upto 9 variables
+* Polynomial equation solver - gives both real and complex soln.
+* Landscape Mode
+* Calculation History
+* All Trigonometric operations
+* Degree, Radian, Grade
+* Binary, Decimal, Octal, Hexadecimal operation
+* Bitwise operations
+* Ten memory locations
+* Results history feature
+* Constants Table
+* In built help (accessible via options menu)
+
+What's in this version:
+* History now supports both the result and input expression.
+* Added logarithm for any base.
+* Fixed a memory related bug.
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.scientificCalculatorPro

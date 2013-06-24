@@ -1,0 +1,48 @@
+Cadence Design Systems, Inc. announce that hotfix version 6 for 16.60 release available. A hot fix is a software maintenance package containing a small number of code fixes, designed to fix a small number of critical problems. A hot fix enables a customer to receive fixes for urgent problems, without having to wait for the next service pack.
+
+
+Cadence Design Systems, Inc., a leader in global electronic design innovation, launched the Cadence OrCAD 16.6 design solution with new features, enhanced customization 
+
+capabilities, and 20 percent simulation performance improvements that provide customers a shorter, more predictable path to product creation.
+
+This latest release offers numerous improvements to tool usability and performance, but at the heart of 16.6 are three key benefits: enhanced miniaturization 
+
+capabilities, timing-aware physical implementation and verification for faster timing closure, and the industry-s first electrical CAD team collaboration environment 
+
+for PCB design using Microsoft SharePoint technology.
+
+Cadence enables global electronic design innovation and plays an essential role in the creation of today's integrated circuits and electronics. Customers use Cadence 
+
+software, hardware, IP, and services to design and verify advanced semiconductors, consumer electronics, networking and telecommunications equipment, and computer 
+
+systems. The company is headquartered in San Jose, Calif., with sales offices, design centers, and research facilities around the world to serve the global electronics 
+
+industry.
+
+DATE: 04-26-2013 HOTFIX VERSION: 008
+
+CCRID PRODUCT PRODUCTLEVEL2 TITLE
+
+876711 ALLEGRO_EDITOR GRAPHICS Mouse wheel will only zoom out using Win7 64 bit
+1080386 CONCEPT_HDL CORE Unable to highlight netclass on every schematic page using Global Navigation
+1082587 FSP FPGA_SUPPORT Support of Xilinx's Zync device
+1105286 FSP DE-HDL_SCHEMATIC FSP crashes while creating board in Schgen if it does not find any available license.
+1105461 ALLEGRO_EDITOR DRAFTING Dimension Enviroment deletes Diameter symbol whenever we add anything to Text section
+1105504 PCB_LIBRARIAN CORE PDV on Linux Move pins by arrows does not stop when release arrow key but keeps on running
+1110126 ALLEGRO_EDITOR GRAPHICS Display Hole displays strange color.
+1113518 CIS DESIGN_VARIANT Incorrect Variant information in Variant View Mode for multi-section parts with occurrence
+1117580 SCM OTHER DSMAIN-335: Dia file(s) error has occurred.
+1117845 FSP DE-HDL_SCHEMATIC Schematic Generation fails without a reason
+1119864 FSP TERMINATIONS Auto-increment the pin number while mapping terminations.
+1120250 ALLEGRO_EDITOR MANUFACT Why is the parameter File altered?
+1120414 ADW LRM TDO Cache design issue
+1121044 SIP_LAYOUT SKILL axlDBAssignNet returns t even when no net name is assigned to via
+1121148 ALLEGRO_EDITOR PLACEMENT Ratsnests turns off when moving symbols with Net Groups
+1122440 ALLEGRO_EDITOR DATABASE Cannot unlock database using the password used to lock it
+1122449 ALLEGRO_EDITOR DRC_CONSTR Uncoupled length DRC for diff pair shows different actual length value between show element and CM.
+1122990 ALLEGRO_EDITOR INTERACTIV RF PCB Symbol which is part of Reuse Module cannot be replaced
+1123083 ALLEGRO_EDITOR PLACEMENT Saving after mirroring a Place replicate mdd create a .SAV board file.
+1123257 SIG_INTEGRITY SIMULATION some of the data signals at the receiver are not simulatable
+1123764 CONSTRAINT_MGR OTHER Allegro crash while importing DCF file
+1123816 CAPTURE PART_EDITOR Movement of pin in part editor
+1124183 ALLEGRO_EDITOR EXTRACT Output from EXTRACTA gets corrupted with refdes 50

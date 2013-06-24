@@ -1,0 +1,12 @@
+Easily create, open and preview popular archive files like ZIP, RAR, 7z, TGZ and more ( 30+ formats supported ). Entropy has been designed specifically for your Mac. It supports OS X specific technologies like extended file attributes and resource forks, which are often missing in other archives. Entropy directly reads and writes archives, unlike most other archivers for Mac which are simply "front-ends". The end result is that Entropy is often discernibly faster.
+
+What's new v1.5.4:
+Bug fixes, including:
+
+- Fixed a bug affecting lzma tarballs.
+- Fixed a bug that could prevent Entropy from auto-quitting (particularly if invoked via Apple Script).
+- Fixed a bug that could cause Entropy to crash under certain specific conditions.
+- Fixed rendering issue on Retina displays.
+
+REQUIREMENTS
+Intel, Mac OS X 10.6 or later

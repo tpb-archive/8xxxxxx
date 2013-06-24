@@ -1,0 +1,26 @@
+U-Design is a very powerful theme which suits both, users with no programming background as well as advanced developers. It will help you build your site in no time to your liking with minimal effort. It empowers you to set any color to elements such as backgrounds, links, text, menu links, etc. You can completely change the look and feel of your site in seconds. You can also choose from over 500 fonts, including Google Font Directory and Cufón fonts. This number will grow with time since many new fonts are being added to the Google fonts library. The theme also features 6 (six) Home page sliders for you to choose from.
+
+SEO (Search Engine Optimization) has been made a priority when designing the U-Design theme. In the code hierarchy, the main content block is placed before the sidebar regardless of the sidebar position, so it is crawled first by search engines. Another very powerful SEO feature has been implemented regarding Heading (h1, h2, h3,...) tags in that on the Home page the ‘h1’ tag is assigned to the site name and the rest of pages/posts/archives etc., the main Title has been assigned an ‘h1’ tag.
+Read a review by TopHatRank.com
+
+Responsive & Mobile Ready!!! U-Design theme has a fully responsive layout. It fits perfectly on various displays and resolutions from regular desktop screens to tablets,iPads,iPhones and small mobile devices. Feel free to try it out! The theme offers two responsive menus, additionally you have the option to assign a different logo to be used for the mobile version of your site and more. A note for those who do not require responsive layout, it is optional so they can disable it if they wish to.
+
+In the theme’s SHOWCASE I’ve demonstrated a small fraction of what can be accomplished with the U-Design theme.
+
+
+================================================================================
+
+
+UPDATES HISTORY:
+Version 2.0.0 – Updated: 23.04.2013
+
+    Added : Responsive Layout support
+    Updated : Revolution Slider update to latest version
+    Updated : “U-Design WooCommerce Integration” plugin
+    Updated : “U-Design Shortcode Insert Button” plugin
+    Updated : Performance improvements (JavaScripts now placed before closing body tag)
+    Updated : Rewrite of theme’s custom image frames markup
+    Updated : Isotope script to latest version
+    Updated : French Translation
+    Updated : WPML support for Revolution Slider translation
+    Fixed : Compatibility issue with Portfolio Sorting by Tags only if PHP < 2.5.9

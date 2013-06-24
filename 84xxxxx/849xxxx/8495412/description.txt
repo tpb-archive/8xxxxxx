@@ -1,0 +1,58 @@
+ΓÇ£Bates Motel,ΓÇ¥ serves as a contemporary prequel to the genre-defining film, ΓÇ£Psycho,ΓÇ¥ and promises to give viewers an intimate portrayal of how Norman BatesΓÇÖ psyche unravels through his teenage years.
+
+Fans will have access to the dark, twisted backstory and learn first hand just how deeply intricate his relationship with his mother, Norma, truly is and how she helped forge the most famous serial killer of them all.
+
+ΓÇ£Bates MotelΓÇ¥ is produced by Universal Television for A&E Network. Carlton Cuse ("Lost") and Kerry Ehrin ("Friday Night Lights") serve as executive producers for Carlton Cuse Productions and Kerry Ehrin Productions respectively.
+
+
+
+General
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 902 Kbps
+Encoded date                             : UTC 2013-05-05 06:56:17
+Tagged date                              : UTC 2013-05-05 06:56:17
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Bit rate                                 : 777 Kbps
+Maximum bit rate                         : 2 428 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.028
+Stream size                              : (85%)
+Writing library                          : x264 core 130 r2273 b3065e6
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : 40
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 139 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Stream size                              : (14%)
+
+

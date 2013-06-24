@@ -1,0 +1,22 @@
+This archive contains a fully patched and cracked version of Age of Mythology. Just extract and run. Includes all the sound and music but NOT the videos to conserve space.
+
+The game itself is untouched. Multiplayer via Hamachi doesn't always work perfectly. I recommend portforwarding and using external IP's.
+
+---
+
+1. Extract
+
+2. Go to startupuser.cfg
+
+3. Change your resolution at the xres= and yres= entries
+f.e. if your resolution is 1366x768, apply:
+xres=1366
+yres=768
+
+4. If you're going to play multiplayer, 
+enter your external or Hamachi IP in the OverrideAddress entry 
+between the "".
+
+5. Enjoy!
+
+NOTE: Every time you change the settings in-game your resolution will change. Restart AoM to fix this.

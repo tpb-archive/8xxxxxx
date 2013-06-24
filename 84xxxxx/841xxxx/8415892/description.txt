@@ -1,0 +1,13 @@
+FL Studio Mobile 1.0.1 for AndroidOS
+
+1. Enable Install from Unknown sources
+2. Tranfer apk to your device
+3. Open Apk and install
+4. Copy the com.imageline.FLM folder in the download/archive to the OBB folder on your android device the path will be yourdevice/Android/obb (replace yourdevice with sd or sdcard# your root storage path)
+
+If this folder does not exist, you must create it.
+
+
+Required Android O/S : 2.3.3+
+
+Enjoy

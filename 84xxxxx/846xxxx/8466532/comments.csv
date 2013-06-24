@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,fullbanner,2013-05-15T16:16Z,"Here's how to do:
+
+Install ""Call.of.Duty.Black.Ops-SKIDROW""
+Copy the crack from skidrow folder to install folder, replace all files.
+Start the game, when you are on main screen quit the game.
+Copy the contents of this torrent to install folder, replace all files.
+And now the game will start correctly."
+,NewTimeUser,2013-05-16T03:47Z,"I never comment,,, but this deserves my praise.  I half expected a virus, half expected it to corrupt my game files... but it works xD  it actually works.. thank you so much.  Been waiting for this for soooo damn long.
+
+Hopefully someone will find a way to do the same for Black ops 2 in the future, i know its harder cuz u have to connect to the internet but im sure theres a way... anyways thanks again!!! 
+
+I'm off to the moooooooon.."
+,xBreadx,2013-05-16T13:44Z,how did you do this fullbanner?? i did it like in your instruction but then when i start the game nothing happens and in the folder a ''steamstart'' file get created. Pls help :( 
+,fullbanner,2013-05-17T07:14Z,"Before replacing the skidrow install with this torrent, copy the crack from the skidrow folder to the install folder and start the game so the config.cfg file gets created. Exit the game, then replace the files with the files from this torrent. After that you will be able to start the game, and enjoy zombies in solo mode.
+
+If you already replaced, uninstall blackops and delete the folder C:Program Files(x86)ActivisionCall of Duty - Black Ops
+
+Install the black ops skidrow again and follow these instructions from the beginning"
+,NewTimeUser,2013-05-18T05:12Z,"Hey FullBanner, I ran into a problem, maybe you could help?  When playing today, I quit in game and instead of returning to the main screen it shut the program completely, now black ops won't start at all.
+
+I've tried re install, no luck...  the game will run without this dlc file, but when i try to quit in game it locks up black screen and cursor in the middle.
+
+When i add this dlc file black ops wont start at all
+
+I know its not your responsibility but could you help if you have any idea whats wrong? 
+
+Did my computer somehow get fucked up? lol Shouldn't re install fix any problem?"
+,fullbanner,2013-05-18T19:36Z,"NewTimeUser try to delete the folder C:-Users--AppData-Local-VirtualStore-Program Files (x86)-Activision-Call of Duty - Black Ops
+
+If you're running the application as administrator, try to delete the folder players inside install folder
+
+That will delete the configuration file.
+Install the game again and see if it works."
+,NewTimeUser,2013-05-19T21:54Z,"Thanks for the quick response FullBanner, that did the trick.  I'm obviously still an amature at this so thanks again for the detailed yet simple instructions.  Hats off to you sir."
+,corgykong,2013-06-02T19:01Z,i had something like this before on my craptop but now i want it on my new rig so my fingers are crossed and let the downloads begin!
+,playbogdi5,2013-06-07T18:27Z,"Fullbanner, I'm in the same situation as xBreadx... when I run the game I get a steamstart file created in the game installation folder then... well a minute of waiting, the game launches and exits immediately. I did reinstall Black Ops Skidrow (5 times to be precise) and did the thing from the beginnig but to no avail. I can haz helpz?"

@@ -1,0 +1,43 @@
+SIPNOSIS
+
+Narra la historia de Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana. Sophie decide pedir ayuda al mago Howl, que vive en un castillo ambulante. Pero tal vez sea Howl quién necesite la ayuda de Sophie.
+
+
+
+DATOS TECNICOS
+
+
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 2.49 GiB
+Duration                                 : 1h 59mn
+Overall bit rate                         : 2 996 Kbps
+
+
+Video
+ID                                       : 1
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 59mn
+Nominal bit rate                         : 2 500 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 032 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.274 fps
+
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 59mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Title                                    : Español Latino
+Language                                 : Latin
+Default                                  : Yes
+Forced                                   : No

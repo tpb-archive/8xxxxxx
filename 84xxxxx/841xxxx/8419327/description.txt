@@ -1,0 +1,26 @@
+SOFTWARE:     GPGMail v2.05b ML3
+DEVELOPER:    GPGTools.org
+YEAR:         2013
+SIZE:         3.3 MB
+FORMAT:       PKG installer
+COMPRESSION:  ZIP archive
+SOURCE:       Non-public preview release
+RELEASE DATE: 2013-03-23
+UPLOAD DATE:  2013-04-28
+
+
+GPGMail is an open source plugin for Apple Mail. It brings the functionality to sign, verify, encrypt and decrypt mails using the OpenPGP standard.
+
+
+Uploader notes:
+This is free software, see  but the preview release is not public as the developers need donations. You should donate anyway, but fuck the paywall. Free software should be free, not just for people who know how to compile from source. Use this if you can't afford a donation or can't use or don't want to use PayPal.
+
+
+Installation:
+0. (Optional): Get the latest GPGTools suite from https://gpgtools.org
+1. Unzip
+2. Close Mail.app
+3. Run PKG (you can safely overwrite the 10.7 Lion GPGMail with this one if you use GPGTools)
+
+
+Remember to seed, because sharing is caring. Also support your local Pirate Party. Copy freedom!

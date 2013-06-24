@@ -1,0 +1,66 @@
+ http://beeimg.com/images/m76524429561.gif
+
+Ultimate Boot CD 5.2.3 - SceneDL
+
+A bootable CD including a collection of software utilities
+
+Ultimate Boot CD description
+
+Ultimate Boot CD will help you quickly and easily run floppy-based diagnostic utilities from CDROM drives, free yourself from the slow loading speed of the floppy drive, or consolidate as many diagnostic programs as possible into one bootable CD.
+
+You need the Ultimate Boot CD if you want to:
+┬╖ Run floppy-based diagnostic tools from CDROM drives. More and more PCs are shipped without floppy drives these days, and it is such a royal pain when you need to run diagnostic tools on them.
+┬╖ Free yourself from the slow loading speed of the floppy drive. Even if you do have a floppy drive, it is still much much faster to run your diagnostic tools from the CDROM drive, rather than wait for the tool to load from the floppy drive.
+┬╖ Consolidate as many diagnostic tools as possible into one bootable CD. Wouldn't you like to avoid digging into the dusty box to look for the right floppy disk, but simply run them all from a single CD? Then the Ultimate Boot CD is for you!
+┬╖ Run Ultimate Boot CD from your USB memory stick. A script on the CD prepares your USB memory stick so that it can be used on newer machines that supports booting from USB devices. You can access the same tools as you would from the CD version.
+
+What's New in This Release:
+
+┬╖ Fixed ubcd/menus/syslinux/pmagic1.txt.
+┬╖ Removed ramdisk_size=12000 from all CPUStress entries.
+┬╖ Added CPUburn V1.4a (in CPUStress V2.3.1).
+┬╖ Added Intel Optimized LINPACK Benchmark V11.0.3 (in CPUStress V2.3.1).
+┬╖ Added System Stability Tester V1.5.1 (in CPUStress V2.3.1).
+┬╖ Updated CPUStress to V2.3.1.
+┬╖ Fixed tabs in ubcd/menus/syslinux/pmagic1.txt.
+┬╖ Updated Parted Magic to 2013_02_28_i586.
+
+Info:
+
+Download format : ISO image
+
+Size	: 501MB
+
+Checksums :
+
+[MD5 ] 86fdf54eb7b02e08170f21e7f397aa8a 
+[SHA1 ] d8269d1dff6dc6d2316b759cac753153ee417ba4 
+[SHA-256] 3e8f1e35158dbead65c183284f0ea77e98b6ca57483a4aec1767e7cfef35b849
+
+Install Notes :
+
+After you have download the ISO image file, verify the integrity of the image by comparing the MD5/SHA1 checksum of the image with the values above. 
+
+Now you need to burn the ISO image to CD. This is another topic that frequently trips up newbies who are not familiar with their CD recording software, such as Nero or Easy CD Creator. Some of you end up burning the ISO file itself to the CD, or some other weird results.
+
+The easiest way to burn the ISO file to CD is to use a small specialized freeware such as BurnCDCC, Imgburn or Active@ ISO Burner. Where possible, experiment with CDRW discs instead of CDR discs so that you can start over if something goes wrong, instead of churning out coasters.
+
+After you have burnt the ISO image to CD, you should see the following structure on the CD if you have done it correctly:
+
+c:ubcd-extracted
+ boot
+ pmagic
+ ubcd
+ autorun.inf
+ license.txt
+
+
+To run UBCD, leave the CD in the CDROM drive and reboot your computer. If you have problems booting the CD, you may need to adjust your BIOS settings to boot from the CDROM drive ahead of your hard disk. Some BIOS have the option of choosing the boot device on startup by pressing a function key.
+
+OS : Windows All
+
+Home Page : http://www.ultimatebootcd.com/
+
+By:
+
+SceneDL

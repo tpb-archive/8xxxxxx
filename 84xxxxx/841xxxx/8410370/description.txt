@@ -1,0 +1,205 @@
+ http://img20.imageshack.us/img20/1213/please2k.gif
+
+
+Priest [BDrip 720p ITA-ENG sub ITA-ENG]
+ 
+http://imageshack.us/a/img198/386/priestka.png 
+http://www.imdb.com/title/tt0822847/
+
+
+Titolo : Priest
+Anno : 2011
+Genere : Action - Horror - Sci-Fi
+Lingua : ITA-ENG sub ITA-ENG-ENG (DEAF)
+Qualità : BDrip
+
+
+[code]
+About file
+
+Name: Priest [EC360AA9].mkv
+Date: Tue, 23 Apr 2013 09:04:40 +0200
+Size: 2,349,783,348 bytes (2240.928 MiB)
+
+Magic
+
+Tipo file: data
+
+Generic infos
+
+Duration: 01:27:27 (5247.264 s)
+Container: matroska
+Production date: Tue, 23 Apr 2013 09:03:44 +0200
+Total tracks: 8
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Priest] {eng}
+Track nr. 2: audio (A_AC3) [ITA AC3 5.1 448kbps] {ita}
+Track nr. 3: audio (A_AC3) [ENG AC3 5.1 448kbps] {eng}
+Track nr. 4: subtitle (S_TEXT/UTF8 ) [ITA (Cartelli) - SRT] {ita}
+Track nr. 5: subtitle (S_VOBSUB) [ITA (Cartelli) - SUB] {ita}
+Track nr. 6: subtitle (S_VOBSUB) [ITA - SUB] {ita}
+Track nr. 7: subtitle (S_VOBSUB) [ENG - SUB] {eng}
+Track nr. 8: subtitle (S_VOBSUB) [ENG (DEAF) - SUB] {eng}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.1 ('Es ist Sommer') built on Oct  9 2011 11:55:43
+
+Relevant data
+
+Resolution: 1280 x 534
+Width: multiple of 32
+Height: multiple of 2
+Average DRF: 17.133
+Standard deviation: 3.168
+Std. dev. weighted mean: 3.147
+
+x264 log
+
+frame I:   932 (  0.741 %)
+frame B: 94461 ( 75.084 %) ###############
+frame P: 30414 ( 24.175 %) #####
+frame I avg QP: 14.76
+frame B avg QP: 19.22
+frame P avg QP: 17.32
+Avg QP: 18.728
+
+Video track
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1280 x 534
+Frame aspect ratio: 640:267 = 2.397
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 640:267 = 2.397
+Framerate: 23.976 fps
+Stream size: 1,755,545,608 bytes (1674.219 MiB)
+Duration (bs): 01:27:27 (5247.2 s)
+Bitrate (bs): 2676.544 kbps
+Qf: 0.163
+
+Audio track nr. 1
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 293,846,784 bytes (280.234 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 163,977
+Duration (bs): 01:27:27 (5247.264 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+Audio track nr. 2
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 293,846,784 bytes (280.234 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 163,977
+Duration (bs): 01:27:27 (5247.264 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+Video bitstream
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 130 r2273 b3065e6 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2013 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=9 | deblock=1:-1:-1 | analyse=0x3:0x133 | me=umh | subme=7
+User data: psy=1 | psy_rd=0.85:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=0
+User data: chroma_qp_offset=-3 | threads=9 | lookahead_threads=4
+User data: sliced_threads=0 | slices=4 | nr=0 | decimate=0 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=16 | b_pyramid=1
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=80 | rc=2pass | mbtree=1 | bitrate=2677 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=10 | qpmax=51 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | vbv_maxrate=40000 | vbv_bufsize=30000 | nal_hrd=none
+User data: ip_ratio=1.30 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 8
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 125,807
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 30414 ( 24.175 %) #####
+B-slices: 94461 ( 75.084 %) ###############
+I-slices:   932 (  0.741 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+DRF analysis
+
+average DRF: 17.133
+standard deviation: 3.168
+max DRF: 31
+
+DRF31:     0 (  0.000 %)
+
+P-slices average DRF: 16.68
+P-slices std. deviation: 3.032
+P-slices max DRF: 30
+
+B-slices average DRF: 17.306
+B-slices std. deviation: 3.189
+B-slices max DRF: 31
+
+I-slices average DRF: 14.48
+I-slices std. deviation: 2.658
+I-slices max DRF: 25
+
+Edition entry
+
+UID: 3967361961
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:04:20,885: Chapter 01 {eng}
+00:04:20,885-00:10:34,967: Chapter 02 {eng}
+00:10:34,967-00:14:21,652: Chapter 03 {eng}
+00:14:21,652-00:19:09,314: Chapter 04 {eng}
+00:19:09,314-00:24:47,110: Chapter 05 {eng}
+00:24:47,110-00:29:03,992: Chapter 06 {eng}
+00:29:03,992-00:35:08,564: Chapter 07 {eng}
+00:35:08,564-00:40:40,729: Chapter 08 {eng}
+00:40:40,729-00:45:47,202: Chapter 09 {eng}
+00:45:47,202-00:51:14,613: Chapter 10 {eng}
+00:51:14,613-00:56:55,161: Chapter 11 {eng}
+00:56:55,161-01:01:53,376: Chapter 12 {eng}
+01:01:53,376-01:04:39,750: Chapter 13 {eng}
+01:04:39,750-01:10:01,238: Chapter 14 {eng}
+01:10:01,238-01:13:56,849: Chapter 15 {eng}
+01:13:56,849-01:20:08,976: Chapter 16 {eng}
+01:20:08,976-01:27:27,264: Chapter 17 {eng}
+
+This report was created by AVInaptic (25-07-2011) on 23-04-2013 09:05:54
+[/code]
+
+
+ 
+http://imageshack.us/a/img24/3639/priest01t.jpg 
+http://imageshack.us/a/img825/2475/priest02.jpg 
+http://imageshack.us/a/img28/7802/priest03.jpg 
+http://imageshack.us/a/img62/5616/priest04s.jpg 
+http://imageshack.us/a/img542/8008/priest05.jpg
+
+
+
+PLEASE: don't rename file, don't limit upload, keep seeding and if you like it: BUY IT!
+
+PER FAVORE: non rinominate i file, non limitate l'upload, rimanete in seed e se vi piace: COMPRATELO!
+
+
+

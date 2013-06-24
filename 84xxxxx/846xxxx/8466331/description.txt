@@ -1,0 +1,59 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+
+DESCRIPTION:
+
+Icon Themer allows you to use Nova/Apex/ADW/Go etc. icon packs on your device.
+
+
+
+
+You can now use any launcher you prefer and still have the power to customize how your application icons look like.
+
+(Note: If your launcher is replacing the icons with their own theme, Icon Themer would appear to be not working)
+
+Icon Themer is also more consistent because the icon theme is applied throughout your device and not just confined your launcher!
+See the screenshots to believe!
+
+Features:
+Γÿà More than 100 icon packs available in Play Store ready to be applied to Icon Themer
+Γÿà Works with Paid Icon Packs
+Γÿà Works with Odex/Deodexed ROMs
+Γÿà More features to come!
+
+Requirements:
+Γÿà Android 4.0+ and ROOT
+Γÿà Not Compatible with MIUI
+Γÿà Xposed Framework (Icon Themer will prompt you to install if not found)
+
+You can read Xposed Framework FAQ to understand more about compatibility: http://forum.xda-developers.com/showpost.php?p=24267823&postcount=2
+
+Install Instructions:
+(You only need to follow this if the in-built guide fails)
+1. Install Xposed Installer
+2. Install Xposed Framework (from the Xposed Installer app)
+3. Activate the module in Xposed Installer app
+4. Download Icon Packs from Play Store and apply through Icon Themer
+
+Tested on Galaxy S3, Galaxy Note 2, Xperia T/TX/V, HTC One X
+- Tested in Apex, Action, Buzz, Next, Nova, TSF Launcher
+- Works partially with 360 Launcher
+
+What's in this version:
+v1.4:
+- New: Folder Organizer Compatibility
+- New: Faster Icon Packs Loading
+- New: Send debug log directly from app
+- New: Disable Icon Mask on demand
+- New: Improved caching mechanism
+- Fixed: Some icon not themed due to package alias
+
+
+If you have any other request then tell me here:   
+https://forum.suprbay.org/member.php?action=profile&uid=330582
+
+TPB URL:   
+https://thepiratebay.se/user/toorentz	

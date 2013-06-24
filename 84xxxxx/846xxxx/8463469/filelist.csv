@@ -1,0 +1,525 @@
+﻿Filename,Size,Unit
+01. Introduction/01. Welcome!.mov,4.72,M
+01. Introduction/02. Is This Course for You.mov,5.36,M
+01. Introduction/03. Using The Exercise Files.mov,5.42,M
+02. What is Java/01. The History of Java.mov,5.06,M
+02. What is Java/02. Understanding The Principles of Java.mov,8.48,M
+02. What is Java/03. Java Compilation and Syntax.mov,9.37,M
+02. What is Java/04. Choosing a Development Environment.mov,8.62,M
+03. Installing Software/01. Installing Java on Windows.mov,11.14,M
+03. Installing Software/02. Installing Eclipse on Windows.mov,5.63,M
+03. Installing Software/03. Exploring Java on Mac OS X Leopard and Snow Leopard.mov,3.62,M
+03. Installing Software/04. Installing Java on Mac OS X Lion.mov,3.91,M
+03. Installing Software/05. Installing Eclipse on Mac OS X.mov,5.03,M
+04. Getting Started/01. Creating a Hello World Application.mov,15.04,M
+04. Getting Started/02. Exploring The Eclipse IDE.mov,11.83,M
+04. Getting Started/03. Compiling and Running From The Command Line.mov,10.31,M
+04. Getting Started/04. Passing Arguments to the Application.mov,10.04,M
+04. Getting Started/05. Using The Java API Documentation.mov,10.11,M
+04. Getting Started/06. Memory Management and Garbage Collection.mov,6.09,M
+05. Using Primitive Data Types/01. Everything is an Object.mov,6.3,M
+05. Using Primitive Data Types/02. Declaring and Initializing Variables.mov,9.11,M
+05. Using Primitive Data Types/03. Working With Numbers.mov,8.75,M
+05. Using Primitive Data Types/04. Converting Numeric Values.mov,6.54,M
+05. Using Primitive Data Types/05. Understanding Operators.mov,8.04,M
+05. Using Primitive Data Types/06. Working With Character Values.mov,8.99,M
+05. Using Primitive Data Types/07. Working With Boolean Values.mov,7.59,M
+05. Using Primitive Data Types/08. Using Primitive Values as Strings.mov,9.5,M
+05. Using Primitive Data Types/09. Creating a Simple Calculator Application.mov,6.11,M
+06. Exploring Syntax and Program Flow/01. Writing Conditional Code.mov,7.58,M
+06. Exploring Syntax and Program Flow/02. Using the Switch Statement.mov,11.86,M
+06. Exploring Syntax and Program Flow/03. Repeating Code Blocks With Loops.mov,10.28,M
+06. Exploring Syntax and Program Flow/04. Creating Reusable Code With Methods.mov,8.25,M
+06. Exploring Syntax and Program Flow/05. Declaring Methods With Arguments.mov,9.54,M
+06. Exploring Syntax and Program Flow/06. Overloading Method names With Different Signatures.mov,8.04,M
+06. Exploring Syntax and Program Flow/07. Passing Arguments by Referencee or by Value.mov,6,M
+06. Exploring Syntax and Program Flow/08. Creating a More Complex Calculator Application.mov,13.52,M
+07. Working With Complex Objects/01. Using The String Class.mov,8.81,M
+07. Working With Complex Objects/02. Building Strings With String Builder.mov,4.34,M
+07. Working With Complex Objects/03. Parsing String Values.mov,5.99,M
+07. Working With Complex Objects/04. Working With Date Values.mov,10.44,M
+08. Exception Handling and Debugging/01. Understanding Compile-Time vs. Runtime Errors.mov,4.72,M
+08. Exception Handling and Debugging/02. Handling Exceptions With Try-Catch.mov,6.66,M
+08. Exception Handling and Debugging/03. Throwing Exceptions in Methods.mov,4.13,M
+08. Exception Handling and Debugging/04. Using The Debugger.mov,12.07,M
+09. Using Data Collections/01. Using Simple Arrays.mov,6.24,M
+09. Using Data Collections/02. Using 2D Arrays.mov,8.21,M
+09. Using Data Collections/03. Managing Resizable Arrays With ArrayList.mov,10.29,M
+09. Using Data Collections/04. Managing Unordered Data With HashMap.mov,8.64,M
+09. Using Data Collections/05. Looping Through Collections With Iterators.mov,12.22,M
+10. Creating Custom Classes/01. Understanding Encapsulation.mov,6.3,M
+10. Creating Custom Classes/02. Creating and Instantiating Custom Classes.mov,15.67,M
+10. Creating Custom Classes/03. Organizing Classes With Packages.mov,11.55,M
+10. Creating Custom Classes/04. Creating and using Instance Methods.mov,8.24,M
+10. Creating Custom Classes/05. Storing Data in Instance Variables.mov,9.7,M
+10. Creating Custom Classes/06. Using Constructor Methods.mov,8.43,M
+10. Creating Custom Classes/07. Managing Instance Data With Getter and Setter Methods.mov,12.37,M
+10. Creating Custom Classes/08. Using Class Variables and Enum Classes.mov,4.45,M
+11. Working with Inheritance and Polymorphism/01. Understanding Inheritance and Polymorphism.mov,9.34,M
+11. Working with Inheritance and Polymorphism/02. Extending Custom Classes.mov,14.47,M
+11. Working with Inheritance and Polymorphism/03. Overriding SuperClass Methods.mov,4.97,M
+11. Working with Inheritance and Polymorphism/04. Casting SuperClass Methods.mov,6.91,M
+11. Working with Inheritance and Polymorphism/05. Creating your own Interfaces.mov,7.46,M
+11. Working with Inheritance and Polymorphism/06. Using Abstract Classes and Methods.mov,6.47,M
+12. Working With Files/01. Managing Files With The Core Class Library.mov,11,M
+12. Working With Files/02. Managing Files With Apache Commons FileUtils.mov,17.77,M
+12. Working With Files/03. Reading a Text File From a Networked Resource.mov,13.4,M
+12. Working With Files/04. Parsing and XML File with DOM.mov,15.13,M
+13. Preparing an Application for Development/01. Creating Your Own JAR Files.mov,7.38,M
+13. Preparing an Application for Development/02. Understanding the Classpath.mov,6.85,M
+13. Preparing an Application for Development/03. Documenting Code with JavaDoc.mov,13.8,M
+14. Conclusion/Goodbye =D.mov,825.42,K
+Exercise Files/03_GettingStarted/APIDocs/bin/Main.class,750,B
+Exercise Files/03_GettingStarted/APIDocs/src/Main.java,210,B
+Exercise Files/03_GettingStarted/Arguments/bin/Main.class,355,B
+Exercise Files/03_GettingStarted/Arguments/src/Main.java,73,B
+Exercise Files/03_GettingStarted/CommandLine/bin/Main.class,430,B
+Exercise Files/03_GettingStarted/CommandLine/src/Main.java,124,B
+Exercise Files/03_GettingStarted/ExploreEclipse/bin/HelloWorld.class,536,B
+Exercise Files/03_GettingStarted/ExploreEclipse/src/HelloWorld.java,124,B
+Exercise Files/04_Primitives/Booleans/bin/Main.class,355,B
+Exercise Files/04_Primitives/Booleans/src/Main.java,81,B
+Exercise Files/04_Primitives/Characters/bin/Main.class,355,B
+Exercise Files/04_Primitives/Characters/src/Main.java,79,B
+Exercise Files/04_Primitives/SimpleCalc/bin/Calculator.class,1.35,K
+Exercise Files/04_Primitives/SimpleCalc/src/Calculator.java,483,B
+Exercise Files/04_Primitives/StringOutput/bin/Main.class,593,B
+Exercise Files/04_Primitives/StringOutput/src/Main.java,259,B
+Exercise Files/05_SyntaxAndFlow/Calculator2/bin/Calculator2.class,1.61,K
+Exercise Files/05_SyntaxAndFlow/Calculator2/src/Calculator2.java,679,B
+Exercise Files/05_SyntaxAndFlow/Conditional/bin/Main.class,355,B
+Exercise Files/05_SyntaxAndFlow/Conditional/src/Main.java,71,B
+Exercise Files/05_SyntaxAndFlow/Loops/bin/Main.class,355,B
+Exercise Files/05_SyntaxAndFlow/Loops/src/Main.java,249,B
+Exercise Files/05_SyntaxAndFlow/MethodOverloading/bin/Main.class,355,B
+Exercise Files/05_SyntaxAndFlow/MethodOverloading/src/Main.java,79,B
+Exercise Files/05_SyntaxAndFlow/Methods/bin/Main.class,1.13,K
+Exercise Files/05_SyntaxAndFlow/Methods/src/Main.java,71,B
+Exercise Files/05_SyntaxAndFlow/MethodsWithArgs/bin/Calculator.class,1.61,K
+Exercise Files/05_SyntaxAndFlow/MethodsWithArgs/src/Calculator.java,678,B
+Exercise Files/05_SyntaxAndFlow/SimpleCalc/bin/Calculator.class,1.61,K
+Exercise Files/05_SyntaxAndFlow/SimpleCalc/src/Calculator.java,678,B
+Exercise Files/05_SyntaxAndFlow/Switch/bin/SwitchWithEnums.class,732,B
+Exercise Files/05_SyntaxAndFlow/Switch/bin/SwitchWithInts.class,1.28,K
+Exercise Files/05_SyntaxAndFlow/Switch/bin/SwitchWithString.class,391,B
+Exercise Files/05_SyntaxAndFlow/Switch/src/SwitchWithEnums.java,315,B
+Exercise Files/05_SyntaxAndFlow/Switch/src/SwitchWithInts.java,442,B
+Exercise Files/05_SyntaxAndFlow/Switch/src/SwitchWithString.java,446,B
+Exercise Files/06_ComplexObjects/Dates/bin/Main.class,355,B
+Exercise Files/06_ComplexObjects/Dates/src/Main.java,79,B
+Exercise Files/06_ComplexObjects/ParsingStrings/bin/Main.class,355,B
+Exercise Files/06_ComplexObjects/ParsingStrings/src/Main.java,79,B
+Exercise Files/06_ComplexObjects/StringBuilder/bin/Main.class,1003,B
+Exercise Files/06_ComplexObjects/StringBuilder/src/Main.java,103,B
+Exercise Files/06_ComplexObjects/Strings/bin/Main.class,355,B
+Exercise Files/06_ComplexObjects/Strings/src/Main.java,80,B
+Exercise Files/07_Debugging/Debugger/bin/Main.class,355,B
+Exercise Files/07_Debugging/Debugger/src/Main.java,80,B
+Exercise Files/07_Debugging/Errors/bin/Main.class,621,B
+Exercise Files/07_Debugging/Errors/src/Main.java,79,B
+Exercise Files/07_Debugging/Exceptions/bin/Main.class,569,B
+Exercise Files/07_Debugging/Exceptions/src/Main.java,148,B
+Exercise Files/07_Debugging/ThrowingExceptions/bin/Main.class,569,B
+Exercise Files/07_Debugging/ThrowingExceptions/src/Main.java,154,B
+Exercise Files/08_Collections/2DArrays/bin/Main.class,1.04,K
+Exercise Files/08_Collections/2DArrays/src/Main.java,73,B
+Exercise Files/08_Collections/ArrayList/bin/Main.class,355,B
+Exercise Files/08_Collections/ArrayList/src/Main.java,73,B
+Exercise Files/08_Collections/HashMap/bin/Main.class,355,B
+Exercise Files/08_Collections/HashMap/src/Main.java,71,B
+Exercise Files/08_Collections/Iterators/bin/Main.class,1.07,K
+Exercise Files/08_Collections/Iterators/src/Main.java,484,B
+Exercise Files/08_Collections/SimpleArrays/bin/Main.class,355,B
+Exercise Files/08_Collections/SimpleArrays/src/Main.java,72,B
+Exercise Files/09_CustomClasses/ClassVariables/bin/com/lynda/olivepress/Main.class,1.5,K
+Exercise Files/09_CustomClasses/ClassVariables/bin/com/lynda/olivepress/olives/Olive.class,1.19,K
+Exercise Files/09_CustomClasses/ClassVariables/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/09_CustomClasses/ClassVariables/src/com/lynda/olivepress/Main.java,829,B
+Exercise Files/09_CustomClasses/ClassVariables/src/com/lynda/olivepress/olives/Olive.java,502,B
+Exercise Files/09_CustomClasses/ClassVariables/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/09_CustomClasses/Constructors/bin/com/lynda/olivepress/Main.class,1.15,K
+Exercise Files/09_CustomClasses/Constructors/bin/com/lynda/olivepress/olives/Olive.class,724,B
+Exercise Files/09_CustomClasses/Constructors/bin/com/lynda/olivepress/press/OlivePress.class,1.38,K
+Exercise Files/09_CustomClasses/Constructors/src/com/lynda/olivepress/Main.java,631,B
+Exercise Files/09_CustomClasses/Constructors/src/com/lynda/olivepress/olives/Olive.java,272,B
+Exercise Files/09_CustomClasses/Constructors/src/com/lynda/olivepress/press/OlivePress.java,347,B
+Exercise Files/09_CustomClasses/CustomClasses/bin/Calculator2.class,2.63,K
+Exercise Files/09_CustomClasses/CustomClasses/src/Calculator2.java,1.8,K
+Exercise Files/09_CustomClasses/GettersAndSetters/bin/com/lynda/olivepress/Main.class,1.17,K
+Exercise Files/09_CustomClasses/GettersAndSetters/bin/com/lynda/olivepress/olives/Olive.class,1.03,K
+Exercise Files/09_CustomClasses/GettersAndSetters/bin/com/lynda/olivepress/press/OlivePress.class,1.39,K
+Exercise Files/09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/Main.java,634,B
+Exercise Files/09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/olives/Olive.java,403,B
+Exercise Files/09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/press/OlivePress.java,381,B
+Exercise Files/09_CustomClasses/InstanceMethods/bin/com/lynda/olivepress/Main.class,397,B
+Exercise Files/09_CustomClasses/InstanceMethods/bin/com/lynda/olivepress/olives/Olive.class,296,B
+Exercise Files/09_CustomClasses/InstanceMethods/bin/com/lynda/olivepress/press/OlivePress.class,309,B
+Exercise Files/09_CustomClasses/InstanceMethods/src/com/lynda/olivepress/Main.java,108,B
+Exercise Files/09_CustomClasses/InstanceMethods/src/com/lynda/olivepress/olives/Olive.java,68,B
+Exercise Files/09_CustomClasses/InstanceMethods/src/com/lynda/olivepress/press/OlivePress.java,71,B
+Exercise Files/09_CustomClasses/InstanceVariables/bin/com/lynda/olivepress/Main.class,728,B
+Exercise Files/09_CustomClasses/InstanceVariables/bin/com/lynda/olivepress/olives/Olive.class,515,B
+Exercise Files/09_CustomClasses/InstanceVariables/bin/com/lynda/olivepress/press/OlivePress.class,677,B
+Exercise Files/09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/Main.java,334,B
+Exercise Files/09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/olives/Olive.java,130,B
+Exercise Files/09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/press/OlivePress.java,213,B
+Exercise Files/09_CustomClasses/Packages/bin/Calculator2.class,1.43,K
+Exercise Files/09_CustomClasses/Packages/bin/InputHelper.class,1.15,K
+Exercise Files/09_CustomClasses/Packages/bin/MathHelper.class,1.03,K
+Exercise Files/09_CustomClasses/Packages/src/Calculator2.java,801,B
+Exercise Files/09_CustomClasses/Packages/src/InputHelper.java,408,B
+Exercise Files/09_CustomClasses/Packages/src/MathHelper.java,829,B
+Exercise Files/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/Main.class,1.46,K
+Exercise Files/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/10_Inheritance/CastingObjects/src/com/lynda/olivepress/Main.java,822,B
+Exercise Files/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Kalamata.java,321,B
+Exercise Files/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/10_Inheritance/CastingObjects/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/Main.class,1.64,K
+Exercise Files/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/Main.java,936,B
+Exercise Files/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Kalamata.java,378,B
+Exercise Files/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/Main.class,1.5,K
+Exercise Files/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/olives/Olive.class,1.19,K
+Exercise Files/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/Main.java,829,B
+Exercise Files/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/olives/Olive.java,502,B
+Exercise Files/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/Main.class,1.5,K
+Exercise Files/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/olives/Olive.class,1.19,K
+Exercise Files/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/Main.java,927,B
+Exercise Files/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Kalamata.java,208,B
+Exercise Files/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Olive.java,598,B
+Exercise Files/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/Main.class,1.64,K
+Exercise Files/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/Main.java,936,B
+Exercise Files/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Kalamata.java,378,B
+Exercise Files/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/11_Files/ApacheFileUtils/bin/com/lynda/files/Main.class,1.39,K
+Exercise Files/11_Files/ApacheFileUtils/loremipsum.txt,1.05,K
+Exercise Files/11_Files/ApacheFileUtils/src/com/lynda/files/Main.java,921,B
+Exercise Files/11_Files/FileManagement/bin/com/lynda/files/CopyFile.class,399,B
+Exercise Files/11_Files/FileManagement/loremipsum.txt,1.05,K
+Exercise Files/11_Files/FileManagement/src/com/lynda/files/CopyFile.java,107,B
+Exercise Files/11_Files/NetworkFiles/bin/com/lynda/files/ReadNetworkFile.class,420,B
+Exercise Files/11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java,107,B
+Exercise Files/11_Files/ParseXML/bin/com/lynda/files/ReadXML.class,396,B
+Exercise Files/11_Files/ParseXML/src/com/lynda/files/ReadXML.java,100,B
+Exercise Files/12_Deployment/ClassPath/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/12_Deployment/ClassPath/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/12_Deployment/ClassPath/OlivePressApp.jar,3.93,K
+Exercise Files/12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java,942,B
+Exercise Files/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Kalamata.java,265,B
+Exercise Files/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Olive.java,665,B
+Exercise Files/12_Deployment/ClassPath/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/12_Deployment/CreateJAR/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/12_Deployment/CreateJAR/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/12_Deployment/CreateJAR/src/com/lynda/olivepress/Main.java,942,B
+Exercise Files/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Kalamata.java,265,B
+Exercise Files/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Olive.java,665,B
+Exercise Files/12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/12_Deployment/JavaDocs/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/12_Deployment/JavaDocs/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/12_Deployment/JavaDocs/OlivePressApp.jar,3.93,K
+Exercise Files/12_Deployment/JavaDocs/src/com/lynda/olivepress/Main.java,942,B
+Exercise Files/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Kalamata.java,269,B
+Exercise Files/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Olive.java,665,B
+Exercise Files/12_Deployment/JavaDocs/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/03_GettingStarted/APIDocs/bin/Main.class,750,B
+Exercise Files/Solutions/03_GettingStarted/APIDocs/src/Main.java,210,B
+Exercise Files/Solutions/03_GettingStarted/Arguments/bin/Main.class,750,B
+Exercise Files/Solutions/03_GettingStarted/Arguments/src/Main.java,210,B
+Exercise Files/Solutions/03_GettingStarted/CommandLine/bin/Main.class,532,B
+Exercise Files/Solutions/03_GettingStarted/CommandLine/src/Main.class,430,B
+Exercise Files/Solutions/03_GettingStarted/CommandLine/src/Main.java,124,B
+Exercise Files/Solutions/03_GettingStarted/ExploreEclipse/bin/HelloWorld.class,536,B
+Exercise Files/Solutions/03_GettingStarted/ExploreEclipse/src/HelloWorld.java,124,B
+Exercise Files/Solutions/04_Primitives/Booleans/bin/Main.class,1.17,K
+Exercise Files/Solutions/04_Primitives/Booleans/src/Main.java,521,B
+Exercise Files/Solutions/04_Primitives/Characters/bin/Main.class,799,B
+Exercise Files/Solutions/04_Primitives/Characters/src/Main.java,475,B
+Exercise Files/Solutions/04_Primitives/ConvertingPrimitives/bin/Main.class,1.1,K
+Exercise Files/Solutions/04_Primitives/ConvertingPrimitives/src/Main.java,506,B
+Exercise Files/Solutions/04_Primitives/NumericTypes/bin/Main.class,1.27,K
+Exercise Files/Solutions/04_Primitives/NumericTypes/bin/PrimitiveLiterals.class,1.17,K
+Exercise Files/Solutions/04_Primitives/NumericTypes/src/Main.java,774,B
+Exercise Files/Solutions/04_Primitives/NumericTypes/src/PrimitiveLiterals.java,433,B
+Exercise Files/Solutions/04_Primitives/SimpleCalc/bin/Calculator.class,1.61,K
+Exercise Files/Solutions/04_Primitives/SimpleCalc/src/Calculator.java,678,B
+Exercise Files/Solutions/04_Primitives/StringOutput/bin/Main.class,1.43,K
+Exercise Files/Solutions/04_Primitives/StringOutput/src/Main.java,692,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Calculator2/bin/Calculator2.class,2.63,K
+Exercise Files/Solutions/05_SyntaxAndFlow/Calculator2/src/Calculator2.java,1.8,K
+Exercise Files/Solutions/05_SyntaxAndFlow/Comments/bin/Main.class,849,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Comments/src/Main.java,588,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Conditional/bin/CompareStrings.class,724,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Conditional/bin/Main.class,719,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Conditional/src/CompareStrings.java,211,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Conditional/src/Main.java,372,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Loops/bin/Main.class,925,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Loops/src/Main.java,651,B
+Exercise Files/Solutions/05_SyntaxAndFlow/MethodOverloading/bin/Main.class,1.35,K
+Exercise Files/Solutions/05_SyntaxAndFlow/MethodOverloading/src/Main.java,755,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Methods/bin/Main.class,952,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Methods/src/Main.java,334,B
+Exercise Files/Solutions/05_SyntaxAndFlow/MethodsWithArgs/bin/Calculator.class,2.14,K
+Exercise Files/Solutions/05_SyntaxAndFlow/MethodsWithArgs/src/Calculator.java,1.09,K
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/bin/Month.class,920,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithEnums.class,1.13,K
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithInts.class,1.69,K
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithString.class,391,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/src/Month.java,54,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithEnums.java,368,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithInts.java,841,B
+Exercise Files/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithString.java,446,B
+Exercise Files/Solutions/06_ComplexObjects/Dates/bin/Main.class,1.04,K
+Exercise Files/Solutions/06_ComplexObjects/Dates/src/Main.java,480,B
+Exercise Files/Solutions/06_ComplexObjects/ParsingStrings/bin/Main.class,1.15,K
+Exercise Files/Solutions/06_ComplexObjects/ParsingStrings/src/Main.java,511,B
+Exercise Files/Solutions/06_ComplexObjects/StringBuilder/bin/Main.class,771,B
+Exercise Files/Solutions/06_ComplexObjects/StringBuilder/src/Main.java,216,B
+Exercise Files/Solutions/06_ComplexObjects/Strings/bin/Main.class,1003,B
+Exercise Files/Solutions/06_ComplexObjects/Strings/src/Main.java,438,B
+Exercise Files/Solutions/07_Debugging/Debugger/bin/Main.class,801,B
+Exercise Files/Solutions/07_Debugging/Debugger/src/Main.java,326,B
+Exercise Files/Solutions/07_Debugging/Errors/bin/Main.class,621,B
+Exercise Files/Solutions/07_Debugging/Errors/src/Main.java,202,B
+Exercise Files/Solutions/07_Debugging/Exceptions/bin/Main.class,806,B
+Exercise Files/Solutions/07_Debugging/Exceptions/src/Main.java,355,B
+Exercise Files/Solutions/07_Debugging/ThrowingExceptions/bin/Main.class,867,B
+Exercise Files/Solutions/07_Debugging/ThrowingExceptions/src/Main.java,378,B
+Exercise Files/Solutions/08_Collections/2DArrays/bin/Main.class,1.04,K
+Exercise Files/Solutions/08_Collections/2DArrays/src/Main.java,599,B
+Exercise Files/Solutions/08_Collections/ArrayList/bin/Main.class,1.35,K
+Exercise Files/Solutions/08_Collections/ArrayList/src/Main.java,542,B
+Exercise Files/Solutions/08_Collections/HashMap/bin/Main.class,1.3,K
+Exercise Files/Solutions/08_Collections/HashMap/src/Main.java,510,B
+Exercise Files/Solutions/08_Collections/Iterators/bin/Main.class,2.14,K
+Exercise Files/Solutions/08_Collections/Iterators/src/Main.java,961,B
+Exercise Files/Solutions/08_Collections/SimpleArrays/bin/Main.class,1020,B
+Exercise Files/Solutions/08_Collections/SimpleArrays/src/Main.java,447,B
+Exercise Files/Solutions/09_Classes/ClassVariables/bin/com/lynda/olivepress/Main.class,1.5,K
+Exercise Files/Solutions/09_Classes/ClassVariables/bin/com/lynda/olivepress/olives/Olive.class,1.27,K
+Exercise Files/Solutions/09_Classes/ClassVariables/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/Solutions/09_Classes/ClassVariables/src/com/lynda/olivepress/Main.java,829,B
+Exercise Files/Solutions/09_Classes/ClassVariables/src/com/lynda/olivepress/olives/Olive.java,598,B
+Exercise Files/Solutions/09_Classes/ClassVariables/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/Solutions/09_Classes/Constructors/bin/com/lynda/olivepress/Main.class,1.17,K
+Exercise Files/Solutions/09_Classes/Constructors/bin/com/lynda/olivepress/olives/Olive.class,1.03,K
+Exercise Files/Solutions/09_Classes/Constructors/bin/com/lynda/olivepress/press/OlivePress.class,1.39,K
+Exercise Files/Solutions/09_Classes/Constructors/src/com/lynda/olivepress/Main.java,634,B
+Exercise Files/Solutions/09_Classes/Constructors/src/com/lynda/olivepress/olives/Olive.java,403,B
+Exercise Files/Solutions/09_Classes/Constructors/src/com/lynda/olivepress/press/OlivePress.java,381,B
+Exercise Files/Solutions/09_Classes/CustomClasses/bin/Calculator2.class,1.43,K
+Exercise Files/Solutions/09_Classes/CustomClasses/bin/InputHelper.class,1.15,K
+Exercise Files/Solutions/09_Classes/CustomClasses/bin/MathHelper.class,1.03,K
+Exercise Files/Solutions/09_Classes/CustomClasses/src/Calculator2.java,801,B
+Exercise Files/Solutions/09_Classes/CustomClasses/src/InputHelper.java,408,B
+Exercise Files/Solutions/09_Classes/CustomClasses/src/MathHelper.java,829,B
+Exercise Files/Solutions/09_Classes/GettersAndSetters/bin/com/lynda/olivepress/Main.class,1.5,K
+Exercise Files/Solutions/09_Classes/GettersAndSetters/bin/com/lynda/olivepress/olives/Olive.class,1.19,K
+Exercise Files/Solutions/09_Classes/GettersAndSetters/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/Solutions/09_Classes/GettersAndSetters/src/com/lynda/olivepress/Main.java,829,B
+Exercise Files/Solutions/09_Classes/GettersAndSetters/src/com/lynda/olivepress/olives/Olive.java,502,B
+Exercise Files/Solutions/09_Classes/GettersAndSetters/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/bin/com/lynda/olivepress/Main.class,728,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/bin/com/lynda/olivepress/olives/Olive.class,515,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/bin/com/lynda/olivepress/press/OlivePress.class,677,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/src/com/lynda/olivepress/Main.java,334,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/src/com/lynda/olivepress/olives/Olive.java,130,B
+Exercise Files/Solutions/09_Classes/InstanceMethods/src/com/lynda/olivepress/press/OlivePress.java,213,B
+Exercise Files/Solutions/09_Classes/InstanceVariables/bin/com/lynda/olivepress/Main.class,1.15,K
+Exercise Files/Solutions/09_Classes/InstanceVariables/bin/com/lynda/olivepress/olives/Olive.class,724,B
+Exercise Files/Solutions/09_Classes/InstanceVariables/bin/com/lynda/olivepress/press/OlivePress.class,1.38,K
+Exercise Files/Solutions/09_Classes/InstanceVariables/src/com/lynda/olivepress/Main.java,631,B
+Exercise Files/Solutions/09_Classes/InstanceVariables/src/com/lynda/olivepress/olives/Olive.java,272,B
+Exercise Files/Solutions/09_Classes/InstanceVariables/src/com/lynda/olivepress/press/OlivePress.java,347,B
+Exercise Files/Solutions/09_Classes/Packages/bin/com/lynda/calc/Calculator2.class,1.51,K
+Exercise Files/Solutions/09_Classes/Packages/bin/com/lynda/calc/helpers/InputHelper.class,1.2,K
+Exercise Files/Solutions/09_Classes/Packages/bin/com/lynda/calc/helpers/MathHelper.class,1.07,K
+Exercise Files/Solutions/09_Classes/Packages/src/com/lynda/calc/Calculator2.java,915,B
+Exercise Files/Solutions/09_Classes/Packages/src/com/lynda/calc/helpers/InputHelper.java,441,B
+Exercise Files/Solutions/09_Classes/Packages/src/com/lynda/calc/helpers/MathHelper.java,862,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/Main.class,1.64,K
+Exercise Files/Solutions/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/Solutions/10_Inheritance/CastingObjects/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/Solutions/10_Inheritance/CastingObjects/src/com/lynda/olivepress/Main.java,936,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Kalamata.java,378,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/Solutions/10_Inheritance/CastingObjects/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/Main.class,1.64,K
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/press/OlivePress2.class,861,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/bin/com/lynda/olivepress/press/Press.class,305,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/Main.java,936,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Kalamata.java,378,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/press/OlivePress2.java,471,B
+Exercise Files/Solutions/10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/press/Press.java,262,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/Main.class,1.58,K
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/olives/Kalamata.class,468,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/olives/Olive.class,1.27,K
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/Main.java,927,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/olives/Kalamata.java,208,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/olives/Olive.java,598,B
+Exercise Files/Solutions/10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/Main.class,1.58,K
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/olives/Kalamata.class,721,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/bin/com/lynda/olivepress/press/OlivePress.class,1.24,K
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/Main.java,927,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Kalamata.java,321,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/Solutions/10_Inheritance/OverridingMethods/src/com/lynda/olivepress/press/OlivePress.java,508,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/Main.class,1.64,K
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Kalamata.class,827,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Ligurian.class,731,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/olives/Olive.class,1.33,K
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/Main.java,936,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Kalamata.java,378,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Ligurian.java,317,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/olives/Olive.java,649,B
+Exercise Files/Solutions/10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/11_Files/ApacheFileUtils/bin/com/lynda/files/Main.class,1.02,K
+Exercise Files/Solutions/11_Files/ApacheFileUtils/lib/commons-io-2.1.jar,159.33,K
+Exercise Files/Solutions/11_Files/ApacheFileUtils/loremipsum.txt,1.05,K
+Exercise Files/Solutions/11_Files/ApacheFileUtils/src/com/lynda/files/Main.java,534,B
+Exercise Files/Solutions/11_Files/ApacheFileUtils/target.txt,1.05,K
+Exercise Files/Solutions/11_Files/FileManagement/bin/com/lynda/files/CopyFile.class,1.4,K
+Exercise Files/Solutions/11_Files/FileManagement/loremipsum.txt,1.05,K
+Exercise Files/Solutions/11_Files/FileManagement/src/com/lynda/files/CopyFile.java,925,B
+Exercise Files/Solutions/11_Files/FileManagement/target.txt,1.05,K
+Exercise Files/Solutions/11_Files/NetworkFiles/bin/com/lynda/files/ReadNetworkFile.class,1.47,K
+Exercise Files/Solutions/11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java,795,B
+Exercise Files/Solutions/11_Files/ParseXML/bin/com/lynda/files/ReadXML.class,2.21,K
+Exercise Files/Solutions/11_Files/ParseXML/src/com/lynda/files/ReadXML.java,1.07,K
+Exercise Files/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/12_Deployment/ClassPath/OlivePressApp.jar,3.93,K
+Exercise Files/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java,942,B
+Exercise Files/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Kalamata.java,265,B
+Exercise Files/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Olive.java,665,B
+Exercise Files/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy.zip,3.93,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/META-INF/MANIFEST.MF,25,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/OlivePressApp.jar,3.93,K
+Exercise Files/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/Main.java,942,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Kalamata.java,265,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Olive.java,665,B
+Exercise Files/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/Main.class,1.66,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Kalamata.class,574,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Ligurian.class,478,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Olive.class,1.36,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/press/OlivePress.class,1.25,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/allclasses-frame.html,1.26,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/allclasses-noframe.html,1.16,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/class-use/Main.html,5.75,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/Main.html,9.29,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Kalamata.html,5.91,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Ligurian.html,5.91,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Olive.html,9.64,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Kalamata.html,11.98,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Ligurian.html,11.35,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Olive.html,14.49,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-frame.html,1.11,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-summary.html,6.72,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-tree.html,6.46,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-use.html,7.7,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-frame.html,884,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-summary.html,6.04,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-tree.html,5.86,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-use.html,5.49,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/class-use/OlivePress.html,5.92,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/OlivePress.html,10.08,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-frame.html,926,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-summary.html,6.12,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-tree.html,5.97,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-use.html,5.57,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/constant-values.html,6.49,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/deprecated-list.html,5.12,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/help-doc.html,9.72,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-1.html,6.01,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-10.html,6,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-2.html,6.75,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-3.html,6.05,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-4.html,7.19,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-5.html,6.31,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-6.html,6.31,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-7.html,6.5,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-8.html,6.05,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index-files/index-9.html,7.08,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/index.html,1.42,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/overview-frame.html,1.28,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/overview-summary.html,5.81,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/overview-tree.html,6.22,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/package-list,79,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/resources/inherit.gif,57,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/doc/stylesheet.css,1.39,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/OlivePressApp.jar,3.93,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/Main.java,1,K
+Exercise Files/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Kalamata.java,334,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Ligurian.java,207,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Olive.java,855,B
+Exercise Files/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/press/OlivePress.java,510,B
+Exercise Files/Solutions/HelloWorld/bin/HelloWorld.class,536,B
+Exercise Files/Solutions/HelloWorld/src/HelloWorld.java,124,B

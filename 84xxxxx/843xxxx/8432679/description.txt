@@ -1,0 +1,35 @@
+Pinpoint is the next generation of WordPress themes. Clean, modern, and superbly slick. Featuring the incredible Swift Page Builder, you can now create content the way you want, with ease. Trust us when we say that youΓÇÖre going to love using Pinpoint for your next WordPress project.
+
+Demo -- http://dreamthemedesign.com/themes/u-design/
+
+Update history 
+    - Added included child theme
+    - Added Yoast breadcrumb support
+    - Added font weight support for Google Web Fonts
+    - Added Roboto & Roboto Condensed Google Web Fonts
+    - Added RSS Social Icon
+    - Improved theme options font selector for better usability
+    - Fixed issue with love it pro widget
+    - Fixed issue with archive/category styling
+    - Fixed toggle page builder asset width output
+    - Fixed issue with the sub menu hover colour
+    - Fixed bug with portfolio pagination on front page
+    - Fixed dual sidebar archive styling
+    - Fixed footer column output for styles 6/7
+    - Fixed blank editor issue within Page Builder
+    - Fixed retina styling media query
+
+    CHANGED FILES
+
+    - /includes/plugins/love-it-pro/
+    - /css/custom-styles.css.php
+    - /css/layout.css
+    - /includes/page-builder/
+    - /includes/options/
+    - /includes/shortcodes.php
+    - /images/
+    - archive.php
+    - category.php
+    - footer.php
+    - header.php
+    - style.css

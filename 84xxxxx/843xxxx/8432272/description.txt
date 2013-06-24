@@ -1,0 +1,25 @@
+Description:
+
+Submerge is the easiest way to add hardcoded subtitles to your movies and tv-shows.
+
+With Submerge you can easily add hardcoded subtitles to your movies and tv-shows. The subtitled movie will play on almost anything, like your computer, smartphone, portable device or game console. Submerge supports many text-based subtitle formats as input and you can export the subtitled movie for the most common devices in just one click. Submerge also has a built-in subtitle search and download tool that makes finding the right subtitles really easy. It also has a fullscreen player built-in, so you can watch the subtitled movie directly within Submerge.
+
+Features:
+
+    Create subtitled movies that are playable on your computer, smartphone, portable device or game console.
+    Add subtitles to almost any visual format like mov, avi, mkv, mp4 etc.
+    Supports the major subtitle file formats like SubRip (.srt), SubViewer 1 & 2 (.sub), SubStation Alpha (.ssa/.ass) and MicroDVD.
+    Find subtitle files easily using the built-in subtitle search tool.
+    Exporter presets for iPhone, iPod, iPad, Apple TV, Cellphone, PSP, PS3, Wii and Xbox 360.
+    Force aspect ratio to 16:9, 4:3 or 3:2 to use your monitor space more efficiently.
+    Watch subtitled movies in fullscreen without leaving the application.
+    Merge multiple movies together using simple copy and paste.
+    Localized in English, Italian, French, Finnish, Spanish, Greek, Portuguese/Brazilian, Dutch, German, Slovak, Russian, Polish, Traditional Chinese and Swedish.
+
+Version 2.1:
+
+    FFMPEG encoding for super-fast exports.
+    Now defaults to FFMPEG encoding. Change in PreferencesΓÇª if you still want QuickTime.
+    PS3 1080p preset.
+    Removed the Save to .mov functionality since it didnΓÇÖt actually hard-code the subtitles.
+    [BUGFIX] Average fps information for completed exports now more accurate.

@@ -1,0 +1,26 @@
+Coursera
+
+Introduction to Computational Finance and Financial Econometrics 
+
+by Eric Zivot
+
+University of Washington
+ 
+https://class.coursera.org/compfinance-003/class/index
+
+This course is an introduction to data analysis and econometric modeling using applications in finance. Equivalently, this course is an introduction to computational finance and financial econometrics. As such, the course uses concepts from microeconomics, finance, mathematical optimization, data analysis, probability models, statistical analysis, and econometrics.
+
+Eric Zivot is the Robert Richards Chaired Professor in the Economics Department, Adjunct Professor of Statistics, Adjunct Professor of Finance, and Adjunct Professor of Applied Mathematics. He is co-director of the Master of Science Program in Computational Finance and Risk Management in the Department of Applied Mathematics at UW. He is also a risk management consultant to BlackRock Alternative Advisors. He is co-author of Modeling Financial Time Series with S-PLUS and co-developer of S+FinMetrics, and has consulted on the use of S-PLUS and R in the finance industry. He regularly teaches courses on econometric theory, financial econometrics and time series econometrics, and is the recipient of the Henry T. Buechel Award for Outstanding Teaching. His current research focuses on the econometric analysis of high frequency financial data and the measurement of financial risk. He has published extensively in the leading econometrics and empirical finance journals. He holds the Ph.D. in Economics from Yale University, and the BS in Economics and Statistics from the University of California Berkeley.
+
+The course will emphasize the transition from an economic model of asset return behavior to an econometric model using real data. This transition involves (1) specification of an economic model; (2) estimation of an econometric model; (3) testing of the assumptions of the econometric model; (4) testing the implications of the economic model; (5) forecasting from the econometric model. The modeling process requires the use of economic theory, probability models, optimization techniques, and statistical analysis.
+
+By the end of this course, you will be able to
+perform asset return calculations;
+measure risk; and
+construct optimized portfolios using the open source R programming language and Microsoft Excel.
+
+You will learn how to
+build probability models for asset returns;
+apply statistical techniques to evaluate if asset returns are normally distributed;
+use Monte Carlo simulation and bootstrapping techniques to evaluate statistical models; and
+use optimization methods to construct efficient portfolios.

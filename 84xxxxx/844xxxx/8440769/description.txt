@@ -1,0 +1,13 @@
+How to Change Language (For Windows 7)
+
+&gt; Install The Game
+&gt; Click "START" Button and type "regedit" in search bar
+&gt; Click "regedit.exe"
+&gt; Go to "HKEY_LOCAL_MACHINE"
+&gt; Go to "SOFTWARE"
+&gt; Go to "Wow6432Node"
+&gt; Go to " Aspyr"
+&gt; Go to "Star Wars The Force Unleashed
+&gt; In the Left Window List
+&gt; Right Click on file "Language" and click "Modify"
+&gt; Change the value data from "ru" to "en"

@@ -1,0 +1,18 @@
+This is the Windows version of the DOS game 'Crash' from 1997.
+
+Running on Win7 x86 without problems.
+
+
+1. 	Install
+
+2.	Register using the key #12345 - 6789ABC
+
+	or any other serial matching the pattern 
+
+	#xxxxx - yyyyy
+
+	(x = random char, y = optional random char)
+
+3.      Take a look at CRASH_disassembly.txt if you're interested in how the serial 
+
+        check works.

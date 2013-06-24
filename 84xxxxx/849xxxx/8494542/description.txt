@@ -1,0 +1,83 @@
+ http://www.imdb.com/title/tt0813715/episodes?season=4
+
+
+Heroes Season 4 Complete - 18 Episodes
+
+
+***** Analyzed File Results *****
+
+
+*** Video Track Parameters ***
+- Format:  H.264/MPEG-4 AVC 
+- Size:  303 MiB (62%) 
+- FourCC:  H264 
+- Track number(s):  0 
+- Bitrate:  Max.: Undefined 
+    Average: 1 021 Kbps 
+    Min.: Undefined 
+- Frame rate (fps):  Max.: 25.000 
+    Average: 25.000 
+    Min.: 8.333 
+- Bitrate mode:  Variable 
+- Encoding profile:  High@L3.0 
+- Resolution:  Undefined 
+- Width (Pixel number):  720 
+- Height (Pixel number):  576 
+- Pixel Aspect Ratio:  Undefined 
+- Display Aspect Ratio:  16:9 
+- Chroma subsampling format:  YUV 4:2:0 
+- Standard:  PAL 
+- Interlacing:  Progressive 
+- Encoding library:  x264 core 120 
+- Additional Parameters:  CABAC: Yes 
+    Reference Frames: 4 
+    Bits/(Pixel*Frame) ratio: 0.098 
+
+*** Audio Track(s) Parameters ***
+*** Audio Track #1
+- Format:  AAC - MPEG-4 audio 
+- Size:  47.4 MiB (10%) 
+- FourCC:  0x28 
+- Number(s) and language(s):  2: English 
+- Details:  Undefined 
+- Profile:  Low Complexity 
+- Bitrate:  160 Kbps 
+- Bitrate mode:  Variable 
+- Resolution:  Undefined 
+- Rate:  48.0 KHz 
+- Channel(s):  2 (stereo) 
+- Position:  Front: L R 
+- Encoding Library:  Undefined 
+- Additional Parameters:  Not available 
+
+*** Audio Track #2
+- Format:  AAC - MPEG-4 audio 
+- Size:  133 MiB (27%) 
+- FourCC:  ac-3 
+- Number(s) and language(s):  3: English 
+- Details:  Undefined 
+- Profile:  Undefined 
+- Bitrate:  448 Kbps 
+- Bitrate mode:  Constant 
+- Resolution:  16 bits 
+- Rate:  48.0 KHz 
+- Channel(s):  5:1 - 6 channels 
+- Position:  Front: L C R, Side: L R, LFE 
+- Encoding Library:  Undefined 
+- Additional Parameters:  Not available 
+
+*** Miscellaneous ***
+- Subtitle(s):  #1 : mp4s - English 
+    #2 : Apple text - English 
+- Metadata:  Album: Undefined 
+    Part number:  Undefined 
+    Track name: Undefined 
+    Track name number:  Undefined 
+    Performer: Undefined 
+    Screenplayer/Writer: Undefined 
+    Genre: Undefined 
+    Encoded date: UTC 2013-05-14 06:58:31 
+    Comment: Undefined 
+    Album artist: Undefined 
+    Grouping: Undefined 
+    Copyright: Undefined 

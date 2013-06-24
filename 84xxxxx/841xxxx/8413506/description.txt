@@ -1,0 +1,3 @@
+I prepared a 16GB SD Image with LAMP (Linux, Apache2, MySQL and PHP). I included phpMyAdmin, FTP Server, SSH and VNC Server if you for some reason need to VNC into RP. The image is made from the 2013-02-09-wheezy-raspbian image. I also configured it for WIFI with static IP, encrypted with WPA. The only thing you need to do, is edit interfaces
+
+If you want to know more. Visit http://www.hannawerner.com

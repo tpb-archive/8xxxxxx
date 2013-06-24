@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,Cracked87,2013-05-18T16:40Z,"When I try to compile my game, It doesn't work. It just freezes. Do you know how to fix this issue?"
+,xXxZombinexXx,2013-05-19T09:22Z,"@Cracked87: What OS (Operating System) are you running on? And if you try to compile it to a single runtime executable, it will either freeze or show an error.
+
+If you are trying to compile it to a single runtime executable , try another type such as Windows NSIS Installer or Compressed Applications zip.
+
+I have no problems using this on Windows XP Professional."
+,Cracked87,2013-05-19T22:38Z,"@xXxZombinexXx
+
+I have Windows 7 Ultimate. You're right. When I tried to compile on single runtime executable, it freezes but when I tried the other options, it worked. Thanks xXxZombinexXx! Keep it up!"
+,xXxZombinexXx,2013-05-20T05:47Z,@Cracked87: No problem bro. Always here to help!
+,Patrick_Shar,2013-05-24T14:15Z,"wow thanks this works well, the others dont."
+,joaovbf,2013-05-27T01:29Z,@xXxZombinexXx Can i reupload a Portuguese version of these with credits to you? :D
+,xXxZombinexXx,2013-05-29T15:31Z,@joaovbf: Sure.
+,saurabhk,2013-06-08T12:11Z,"Hey, which version is this?....is this the free version?....its written only standard but there are three standard versions GameMaker: Studio™, Studio™ Standard, Studio™ Professional"

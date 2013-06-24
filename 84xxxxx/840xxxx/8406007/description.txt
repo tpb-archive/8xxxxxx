@@ -1,0 +1,128 @@
+Moonacre
+I Segreti dell'Ultima Luna
+
+DATA:
+
+Titolo originale: The Secret of Moonacre
+Lingua originale: inglese
+Paese di produzione: Regno Unito, Francia, Ungheria
+Anno: 2008
+Durata: 103 min
+Genere: avventura, fantastico
+Regia: Gábor Csupó
+
+CAST:
+Dakota Blue Richards: Maria Merryweather
+Ioan Gruffudd: Sir Benjamin Merryweather
+Tim Curry: Coeur De Noir
+Natascha McElhone: Loveday
+Juliet Stevenson: Miss Heliotrope
+Augustus Prew: Robin De Noir
+Andy Linden: Marmaduke Scarlet
+
+PLOT:
+
+1842. In seguito alla morte del padre e della madre, la tredicenne Maria Merryweather va a vivere da suo zio che abita nella vallata di Moonacre.
+Leggendo un libro lasciatole in eredità dal padre, "Le antiche cronache della valle di Moonacre", Maria scopre che la valle è stata maledetta e di essere la prescelta per salvarla...
+# # #______________________________________________________# # #
+
+After the death of her parents, young Maria Merryweather is sent to live with her uncle who llives at Moonacre's valley.
+Reading a book left in heritance by her father, "The Ancient Chronicles of Moonacre Valley", she discovers that the Valley has been cursed, and she's the only one able to save...
+
+ 
+http://www.imdb.com/title/tt0396707/
+
+AVINAPTIC:
+
+[ About file ]
+Name: Moonacre.2008.BDrip.1080p.iTA.ENG.AC3.x264.mkv
+Date: Mon, 15 Apr 2013 19:31:52 +0200
+Size: 8,417,773,229 bytes (8027.81413 MiB)
+
+[ Generic infos ]
+Duration: 01:42:57 (6177.171 s)
+Container: matroska
+Total tracks: 3
+Track nr. 1: video (V_MPEG4/ISO/AVC) {eng}
+Track nr. 2: audio (A_AC3) {und}
+Track nr. 3: audio (A_AC3) {und}
+Muxing library: libmkv 0.6.5
+Writing application: HandBrake 0.9.8
+
+[ Relevant data ]
+Resolution: 1920 x 816
+Width: multiple of 32
+Height: multiple of 16
+Average DRF: 24.568182
+Standard deviation: 0.619501
+Std. dev. weighted mean: 0.565578
+
+[ Video track ]
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 816
+Frame aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Framerate: 23.976025 fps
+Stream size: 7,719,778,107 bytes (7362.154109 MiB)
+Duration (bs): 01:42:57 (6177.170803 s)
+Bitrate (bs): 9997.817258 kbps
+Qf: 0.266156
+
+[ Audio track nr. 1 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 345,924,096 bytes (329.898926 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 193,038
+Duration (bs): 01:42:57 (6177.216 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 345,924,096 bytes (329.898926 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 193,038
+Duration (bs): 01:42:57 (6177.216 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 120 | H.264/MPEG-4 AVC codec | Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html | cabac=1 | ref=4 | deblock=1:0:0
+User data: analyse=0x3:0x113 | me=umh | subme=7 | psy=1 | psy_rd=1.00:0.00
+User data: mixed_ref=1 | me_range=16 | chroma_me=1 | trellis=1 | 8x8dct=1
+User data: cqm=0 | deadzone=21,11 | fast_pskip=1 | chroma_qp_offset=-2
+User data: threads=9 | sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=4 | b_pyramid=2
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=50 | rc=2pass | mbtree=1 | bitrate=10000 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=3 | qpmax=69 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4
+  Num ref frames: 4
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 148,104
+Drop/delay frames: 0
+Corrupt frames: 0
+
+[ DRF analysis ]
+average DRF: 24.568182
+standard deviation: 0.619501
+max DRF: 25

@@ -1,0 +1,48 @@
+General
+Complete name                            : czech-streets-38-720x576-2000kbps.wmv
+Format                                   : Windows Media
+File size                                : 334 MiB
+Duration                                 : 22mn 19s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 2 093 Kbps
+Maximum Overall bit rate                 : 2 115 Kbps
+Encoded date                             : UTC 2011-07-26 12:53:47.320
+
+Video
+ID                                       : 1
+Format                                   : VC-1
+Format profile                           : MP@ML
+Codec ID                                 : WMV3
+Codec ID/Info                            : Windows Media Video 9
+Codec ID/Hint                            : WMV3
+Description of the codec                 : Windows Media Video 9 - Professional
+Duration                                 : 22mn 19s
+Bit rate mode                            : Constant
+Bit rate                                 : 2 000 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.193
+Stream size                              : 319 MiB (96%)
+Language                                 : Czech
+
+Audio
+ID                                       : 2
+Format                                   : WMA
+Format version                           : Version 2
+Codec ID                                 : 161
+Codec ID/Info                            : Windows Media Audio
+Description of the codec                 : Windows Media Audio 9.2 -  96 kbps, 44 kHz, stereo 1-pass CBR
+Duration                                 : 22mn 19s
+Bit rate mode                            : Constant
+Bit rate                                 : 96.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Bit depth                                : 16 bits
+Stream size                              : 15.3 MiB (5%)
+Language                                 : Czech

@@ -1,0 +1,13 @@
+SQLyog is a GUI tool for the RDBMS MySQL. It is developed by Webyog, Inc.
+
+
+Changes (as compared to 11.1) include:
+
+Bug fixes:
+* Enum field drop down was not available in table data or result tab when http connections were used ΓÇô introduced in v10.0
+* Schema sync could generate an incorrect alter table statement for addition of foreign keys ΓÇô introduced in v11.0
+* SQLyog was not decoding the dsn password and the ssh passphrase/password after reading it from the xml file. ΓÇô introduced in v11.1
+* SQLyog 64 bit was extremely slow on some systems.
+
+
+Info: https://www.webyog.com/product/sqlyog

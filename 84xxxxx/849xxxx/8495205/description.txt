@@ -1,0 +1,116 @@
+  Complete name: Steam Edition 2013 
+ Windows 7 Ultimate SP1 X64
+  Author       : WhiteDeath
+  Code Name    : Steam Edition2013
+  OS Name      : Windows 7 ULTIMATE
+  Architecture : 64-bit(x64)
+  Version      : 6.1.7601.17514
+  Service Pack : 1
+  Applications : 18 New Apps included
+  Tested       : Tested 3-4 times on vmware 
+  OS Size      : 4.32 GB
+  License      : 30 day evaluation CopyWindows
+list softwares all silents except:one
+Adobe.Flash.Player.ActiveX.11.7.700.169
+Adobe.Flash.Player.Plugin.11.7.700.169
+Adobe.Shockwave.Player.12.0.2.122
+Dot.Net.Framework.4.5.AIO.x64withLastUpdatesNet
+Java.Runtime.AIO.7.0.210.11.x64
+Microsoft.Silverlight.5.1.20125.0.x64
+VBCFJRedist_AIO_x86_x64
+SteamSilentInstall
+
+Addons Softwares allready installed:
+7.Zip.9.30.Windows7.or.8.AddOn
+CCleaner.4.01.4093.shell.ext.only.x64.Windows7AddOn
+CmdOpen.2.1.0.0.x64.Windows7AddOn
+Defraggler.2.12.628.x64.Windows7AddOn
+Gimp.2.8.4.Windows7AddOn
+VLC.Media.Player.2.0.6.0.x64.Windows7.AddOn
+Waterfox.18.0.1.x64.Windows7AddOn
+WinRar.4.20.x64.Windows7AddOn
+uTorrent1.8.4AddOn
+
+News Of Steam Edition:
+Control Panel Add"
+Registry=Add
+Group Policy=Add
+Control panel view=Small icon
+Desktop Adds/Shotcurs
+
+Added:Desktop Wait to Application TimeOut=5000
+Show run on start menu=Enable
+Use small icons=Enable
+Show start menu Administrative tools=Enable
+
+Explorer.Shotcurs:
+Administrative Tools=Enable
+Run=Enable
+Add Device Manager=Enable
+Add Group Policy=Enable
+Add MS-Config=Enable
+Add Services=Enable
+God Mode=Enable
+Registry Editor=Enable
+Administrative Tools=Enable
+God Mode=Enable
+Registry Editors=Enable
+Task Scheduler=Enable
+Copy To=Enable
+Move To=Enable
+Open With Notepad=Enable
+
+Explorer Views:Show Hidden Files and Folders=Enable
+
+System:
+UXTheme patch=Enable
+Command Window Background Colour=Blue
+Command Window Text Colour=Red
+Set Mouse Pointer Speed Maximum=Enable
+Hibernation=Disable
+Low disk space warning=Disable
+
+Un-Attended:
+Skip product key=True
+Skip Auto Activation=True
+Accept EULA=True
+Setup Language=en-US
+Logon count=1
+Network location=Home
+Protect your computer=Default
+Keyboard=United States
+Currency and date format=English (United States)
+UI Language=en-US
+Timezone=(UTC-08:00) Pacific Time (US & Canada)
+
+News Personalize:2 Beatifull themes(Second Themes have and cursors)
+new Start Button 
+New Sounds log in /log off
+New Icon Packs
+New Visual Styles
+New ExplorerFrame
+New log /log off Background pictures
+Disable:
+Gagdets
+Games
+And Tablet PC compoments
+picks here:
+[URL=http://imageshack.us/photo/my-images/822/windows7x64201305191640.png/][IMG]http://img822.imageshack.us/img822/5903/windows7x64201305191640.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/153/windows7x64201305191640.png/][IMG]http://img153.imageshack.us/img153/5903/windows7x64201305191640.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/29/windows7x64201305191641.png/][IMG]http://img29.imageshack.us/img29/4861/windows7x64201305191641.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/547/windows7x64201305191653.png/][IMG]http://img547.imageshack.us/img547/8708/windows7x64201305191653.png[/IMG][/URL]
+
+[img][URL=http://imageshack.us/photo/my-images/534/windows7x64201305191657.png/][IMG]http://img534.imageshack.us/img534/5871/windows7x64201305191657.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/90/windows7x64201305191713.png/][IMG]http://img90.imageshack.us/img90/4310/windows7x64201305191713.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/20/windows7x64201305191713.png/][IMG]http://img20.imageshack.us/img20/4310/windows7x64201305191713.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/51/windows7x64201305191714.png/][IMG]http://img51.imageshack.us/img51/2346/windows7x64201305191714.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/198/windows7x64201305191714.png/][IMG]http://img198.imageshack.us/img198/2346/windows7x64201305191714.png[/IMG][/URL]
+
+[URL=http://imageshack.us/photo/my-images/716/windows7x64201305191715.png/][IMG]http://img716.imageshack.us/img716/1605/windows7x64201305191715.png[/IMG][/URL]

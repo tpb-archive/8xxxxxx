@@ -1,0 +1,62 @@
+Active Undelete - Data Recovery is a powerful data recovery software that helps you to recover deleted files, lost and formatted data from hard drives, floppy disks, basic and dynamic volumes, hardware or software RAID- Software supports: NTFS, FAT32, FAT16, NTFS5, NTFS+EFS file systems and works under all Windows family operating systems: Windows 95, Windows 98, Windows ME, Windows NT, Windows 2000, Windows 2003 Server, Windows XP and Windows VISTA- Besides hard disk drives program supports recovery from removable devices like Secure Digital, Compact Flash, SmartMedia, SONY Memory Stick, ZIP drives, USB Hard drives etc ---
+
+Here are some key features of "Active@ UNDELETE":
+
+Functionality:
+ - Vista-based bootable CD / DVD / USB to recover data from unbootable PC
+ - Undelete deleted or damaged NTFS / FAT32 / FAT16 / FAT12 partitions being detected after scan
+ - Recover deleted files on IDE / ATA / SATA / SCSI hard disk drives
+ - Undelete files on removable devices (SmartMedia, Secure Digital, MemoryStick, etc-)
+ - Supports external ZIP drives and USB Hard drives
+ - Recovers files from deleted, damaged, formatted or reformatted partitions
+ - Burns recovered files to CD/DVD media or creates backup ISO images
+ - Supports large (more than 500 GB) size hard drives
+ - Supports FAT, FAT16, FAT32, NTFS, NTFS5 , NTFS + EFS file systems
+ - Supports Basic and Dynamic Volumes
+ - Supports localized and long filenames
+ - Supports recovery of compressed, fragmented and encrypted files on NTFS
+ - Recognizes file signatures when no file records exist, for most data types (Office docs, MP3, AVI, JPG, etc)
+ - Scans partitions damaged by virus or with damaged MBR
+ - Advanced search by file name, file date, mask, size range, attributes
+ - Visible representation of file/folder recoverability
+ - Ability to preview file contents before recovery
+ - Disk Hex Editor displays and allows to edit content of any sector on the drive
+ - Two types of drive and device scan: Basic (Fast) and Thorough (Slow)
+ - Ability to look for a particular partition type (FAT, NTFS) in the Advanced Device Scan
+ - Files and folders can be recovered to any (local or network) drive accessible by operating system
+ - Ability to create and work with raw and Compressed Disk Images - representing whole drive in one file
+ - Virtual Editing of any drive's parameters to perform data recovery in manual mode
+ - Save and Load Advanced scan results
+ - Ability to modify properties of existing, found or virtual partitions
+
+RAID Features:
+ - Virtually re-creates Spanned, Mirrored (RAID-1), Stripped (RAID-0) and RAID-5 Volumes
+ - Supports Hardware and Software RAID
+ - Different Types of RAID5 are supported (Left Sync, Left Async, Right Sync, Right Async)
+
+Program Installation:
+ - Uninstaller is included
+ - Installation is signed with Authenticode signature and thus protected
+ - Immediately after purchase personalized software package including registration info can be downloaded
+
+User Interface:
+ - Easy to use explorer style user interface
+ - Multiple Data Views for different purposes
+ - Search Bar simplifies locating of deleted data
+ - RAID and Disk Image Wizards help to perform tasks more efficiently
+ - Recovery Toolbox simplifies recovery of multiple files located in different folders
+ - Context Help and Menus
+ - Complete interactive help file includes "How to---" and "Concepts---" sections
+ - E-mailing to technical support for problems resolution is available directly from the program-
+
+Version 8-5 released on Jan 24, 2013
+ New UFS and Ext4fs file system support in addition to NTFS/FAT32/FAT/exFAT/HFS+/Ext2fs/Ext3fs-
+ User defined file signatures - user can set his own file signature (template) for advanced disk scan-
+ Integrated dynamic help based on CHM architecture- Downloadable PDF documentation-
+ Simultaneous scan of several disks or volumes (logical drives)-
+ Performance tune-ups and improvements-
+ Enhanced scan algorithm and scan results post-processing schema;
+ Improved Disk Editor, more templates, HFS+ file system support-
+ Many GUI tweaks and enhancements, floating tool views, output console-
+
+Homepage: lsoft-net

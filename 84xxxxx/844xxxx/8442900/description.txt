@@ -1,0 +1,47 @@
+Virtual Audio Cable 4.12 
+http://software.muzychenko.net/eng/vac.htm
+------------------------
+
+Virtual Audio Cable software allows you to transfer audio (wave) streams between applications and/or devices.
+
+It creates a set of virtual audio devices named "Virtual Cables", each of them consists of a pair of the waveform input/output devices. Any application can send audio stream to an output side of a cable, and any other application can receive this stream from an input side. All transfers are made digitally, providing NO sound quality loss (a bitperfect streaming).
+
+VAC behavior is similar to "What You Hear" (or "What U Hear", "Stereo Mix") feature of Sound Blaster Live! and Audigy cards. But it is only similar, not equivalent. If you simply need a function like "Stereo Mix" under Vista/Win7, there could be better to try to enable it in your audio adapter.
+
+If more than one applications are sending audio to Virtual Cable device, VAC mixes all streams together. If more than one applications are receiving audio from Virtual Cable device, VAC distributes the same audio data among all targets.
+
+
+
+Features
+--------
+
+Local (console) session only (does not work via Remote Desktop or Terminal Services).
+Windows 5.x and 6.x platforms (32-bit and 64-bit). May work in Win2000 but not tested.
+Up to 256 virtual cable devices (some systems limit number of MME devices).
+1..20 milliseconds per interrupt/event.
+1..100 pin instances.
+Almost any of fixed point PCM audio formats (1000..1000000 samples per second, 8..32 bits per sample, 1..8 channels). Floating point formats are not supported.
+Almost no sound latency with maximal interrupt/event frequency.
+Unlimited number of clients connected to each port.
+Signal mixing (with saturation) between output port clients.
+PCM format conversion (sampling rate, bits per sample, number of channels).
+Volume control features (both attenuation and boost).
+Channel scattering/gathering mode.
+Watermark control technique to improve stream stability with unstable applications.
+Control Panel application to configure cables and watch their state.
+Audio Repeater application that transfers from any recording to any playback device.
+
+
+Version 4.12 (01.04.12)
+----------------------
+
+Fixed RtAudio buffer processing bug in Audio Repeater KS.
+Added clock rate display to Audio Repeater.
+Changed number of worker threads limit to a number of logical CPUs.
+
+
+
+****************************************
+Virustotal Report: 
+https://www.virustotal.com/en/file/2389923ca5fe43fafe9aa63cc915f23741fb93c5ca26ad1dc9f56c0263a7750c/analysis/1367806845/
+0/46 -Clean

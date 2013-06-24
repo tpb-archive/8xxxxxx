@@ -1,0 +1,5 @@
+EMCO MSI Package Builder is an MSI authoring tool created to help administrators prepare installations for an unattended remote deployment. It features a specially designed installation capturing technology that makes it possible to convert EXE to MSI automatically with no effort. EXE to MSI repackaging features are available in the application editions listed below.
+Professional Edition includes the Live Monitoring technology used to capture installation changes and generate an MSI package from the captured results. This edition allows performing EXE to MSI repackaging of basic legacy installations.
+Enterprise Edition offers extended EXE to MSI converting features. It is designed to capture file system and registry changes, and monitor installation of services and modification of environment variables. This edition can be used to repackage complex legacy installations from the EXE to MSI format to prepare them for a remote deployment.
+ 
+http://emcosoftware.com/msi-package-builder/convert-exe-to-msi

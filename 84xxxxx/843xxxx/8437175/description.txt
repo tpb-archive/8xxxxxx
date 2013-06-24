@@ -1,0 +1,79 @@
+SOURCE: DVDSCR
+ 
+http://www.imdb.com/title/tt1817273/
+
+
+SCREENS
+--------- 
+http://someimage.com/KE1ZcSq
+
+
+-LANGUAGE: English
+
+-SAMPLE: Yes
+
+-SUBTITLE: No
+
+
+DIRECTOR: Derek Cianfrance
+
+
+CAST:
+--------
+Ryan Gosling, Eva Mendes, Bradley Cooper, Ray Liotta, Ben Mendelsohn, Bruce Greenwood, Rose Byrne
+
+
+PLOT:
+------
+A mysterious and mythical motorcycle racer, Luke, (Ryan Gosling) drives out of a traveling carnival globe of death and whizzes through the backstreets of Schenectady, New York, desperately trying to connect with a former lover, Romina, (Eva Mendes) who recently and secretly gave birth to the stunt rider's son. In an attempt to provide for his new family, Luke quits the carnival life and commits a series of bank robberies aided by his superior riding ability. The stakes rise as Luke is put on a collision course with an ambitious police officer, Avery Cross, (Bradley Cooper) looking to quickly move up the ranks in a police department riddled with corruption. The sweeping drama unfolds over fifteen years as the sins of the past haunt the present days lives of two high school boys wrestling with the legacy they've inherited. The only refuge is found in the place beyond the pines.
+
+
+General
+---------
+Format : Matroska
+Format version : Version 4 / Version 2
+File size : 650 MiB
+Duration : 2h 20mn
+Overall bit rate : 648 Kbps
+Encoded date : UTC 2013-05-04 09:46:17
+Writing application : mkvmerge
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+---------
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Codec ID : V_MPEG4/ISO/AVC
+Nominal bit rate : 534 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Variable
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Writing library : x264 core 120
+Language : English
+Default : Yes
+Forced : No
+Color primaries : BT.601 NTSC
+Transfer characteristics : BT.709
+Matrix coefficients : BT.601
+
+Audio
+-----------
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 2h 20mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Default : Yes
+Forced : No

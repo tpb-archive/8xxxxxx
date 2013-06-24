@@ -1,0 +1,94 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-05-21T12:37Z,"Last but not least Repack, enjoy all and have fun Playing."
+[T],[D],2013-05-21T14:27Z,"Funny. Basically, they could have released the game as 1.2 gb, which is how much the actual packed game uses. The rest of 4.5 gb is just prerendered cutscenes which compress very little (and they could have been not prerendered, for the better)."
+[T],[D],2013-05-21T14:29Z,"I'm talking 'they could have released it', meaning the makers of the game, not the repackers.
+Of course, having in this day and age a 1.2 gb game, it wouldn't sell at all."
+,filhodaputa,2013-05-21T15:14Z,Game developers nowadays are stupid
+,chris_Roberts,2013-05-21T15:30Z,Thank you! Can that so called raid mode that I keep hearing about be played or is that for steam only?
+,Pharmit24,2013-05-21T16:38Z,PLEASE SEED! BY SEEDING YOU A HELPING OTHER PC GAMERS TO PLAY THIS GAME & YOU WILL GET BLESSING FROM GOD. THANKS. :)
+[T],[D],2013-05-21T17:26Z,You can play raid mode solo with this.
+,lowlife89,2013-05-21T17:42Z,If you want to download then seed aswell...don't be pussy's guys.
+,PauFitl2008,2013-05-21T18:15Z,"Gidday HeroMaster, on behalf of thousands of PB users, just a very big thanks for the efforts you put into releasing/sharing, I always seed your stuff on my mates seedbox to help out!
+
+Second, am after a program titled
+
+Atomic Whois Explorer
+http://www.massmailsoftware.com/whois/
+
+Trying to get ahold of a reg'ed version, if you might be able to have a search with your contacts would be much appreciated my friend, thankyou"
+,omgzelda,2013-05-21T18:42Z,does this version have the save issues? 
+,puppeteer666,2013-05-21T19:50Z,Anyone else getting fail to install? Seems installer may be broken. Win8x64 setup.
+,meatwadz,2013-05-21T21:07Z,I can't install either. Also running Win8x64.
+,[AU]StarScream,2013-05-21T22:33Z,This working with Win7?
+,Bakemonosama,2013-05-21T22:46Z,"Works fine for me. Havn't checked about saves yet though.
+
+I'm using Win7"
+,parsimony3,2013-05-21T23:43Z,I'm running Windows 7 64 bit. I successfully installed but it says I'm missing steam_api.dll. I copied and pasted the file from one of my steam games and it would start but cancel itself out. Do I need to re-install??
+,Silvak,2013-05-22T03:03Z,"Got the game installed and it loads but it's in a resolution my monitor doesn't support.  I cannot find the .ini file to edit so I can manually change it myself.  Anybody know where I can find it or a way to change it so I can see the game?
+
+Alt+Enter isn't allowing me to force the game to go into windowed mode either."
+,anab0lix,2013-05-22T03:09Z,"parsimony3
+
+You had a anti-virus program running while downloading the torrent.
+You must turn it all off and redownload the torrent."
+,parsimony3,2013-05-22T04:51Z,"Yeah I figured it out, I downloaded Skidrow's steam_api.dll and copied / pasted it. Do not install with anti-virus on, my AV instantly quarantined the .dll file but now it works! Great re-package, thank you very much HeroMaster."
+,Odyssey01,2013-05-22T20:11Z,"For anyone what has the game crash before the Main Menu, simply plug in your speaker/headphones. It need's audio to work like gta4....."
+,Y3LLOWSH4RK,2013-05-22T20:43Z,i got failed open file. C:/games/resident evil revelations/nativePC/sound/stream/event/event_ESP.stqr 2            anyone can help me please!! thanks
+,Bakemonosama,2013-05-22T21:30Z,"Also verifying that saves works fine.
+
+Flawless torrent, thanks!"
+,pedoncho,2013-05-22T21:35Z,"""event_ESP.stqr 2"" error too, any help?"
+,ryuustein,2013-05-22T23:00Z,"IT DOESN'T WORK YOU SHIT
+
+event_ESP.stqr 2 error as well
+
+you can get to the fucking menu YEAH but try starting a new game"
+,pedoncho,2013-05-22T23:56Z,"I think its because game detected spanish anguage and tries to load that shit, already set my pc to english, but retarded game still loading that spanish save, thing is, where the fuck is that stupid save folder, cant find it yet."
+,pep7272,2013-05-23T00:51Z,"To those having problems with event_ESP.stqr 2
+
+It has to do with your windows language settings, if the game starts in spanish it will try to find the spanish audio and since it's not there it will crash.
+
+1- Go to the control panel, ""control, language and region"" section.
+
+2- Click regional and language options.
+
+3- In the ""format"" tab, select English (country) instead of spanish or whatever you have, apply.
+
+4- Now go to c:/Programdata/Steam (programdata is a hidden folder) and delete the SEYTER folder, because if you have tried to open the game earlier it will switch the language back and it will crash again.
+
+5- Now it will work, feel free to change the text language inside the game to spanish or any other language but not the voices, and change windows 7 language settings back to normal."
+,parsimony3,2013-05-23T02:13Z,I have another question. I couldn't help but notice that there are DLC files when you click on the dat folder. Is there anyway to unlock the costumes? I beat the campaign already and started playing it again on New Game+ with the option of alternate costumes. 
+,DeathNimrod,2013-05-23T07:19Z,"rerev.exe has stopped working
+
+when trying to launch. Fix?"
+,Bakemonosama,2013-05-23T13:32Z,"@DeathNimrod
+
+Test disabling your antivirus."
+,berserkers,2013-05-23T17:10Z,"Had trouble with that shit too  , with something like event_ESP.stqr 2 mentioned in Pep post .
+
+First thing i did was what Pep7272 said in his first 3 step
+
+1- Go to the control panel, ""control, language and region"" section.
+
+2- Click regional and language options.
+
+3- In the ""format"" tab, select English (country) instead of spanish or whatever you have, apply.
+
+
+After i could nt find seyter file ( might have downloaded another repack ) so i found the file they ask for in resident evil folder ( will have  ENG instead of FRA/ITA or whatever language you re PC was set to )  , changed ENG to FRA  and it worked after i did it to the other 2 file they said later i did nt have  .
+
+Forgot to say that i created a FRA folder below the ENG ( in RE  revelation one and copy pasted the file they ask for in there before changing eng part to fra .
+
+Hopefully you found Seyter file , deleted it and it worked after :p"
+,berserkers,2013-05-23T17:11Z,@DeathNimrod Maybe try running the exe as administrator .
+,parsimony3,2013-05-23T21:03Z,Can anyone confirm that stage two in RAID mode doesn't work past when you get the Old Key? It's the shore stage. 
+,parsimony3,2013-05-23T22:36Z,"Just wanted to edit my last post, restarted the game and it worked. "
+,arceros,2013-05-23T23:01Z,can this release split into 2 DVD5?
+,toddy05,2013-05-25T17:04Z,"I am having a problem with the 11_010_0_ENG.sngw file, can anyone help me with this?"
+,franky1991,2013-05-28T01:03Z,"Thanks, pep7272! But it goes back to 'normal' when I change the settings in control panel."
+,POPO_BAWA,2013-05-28T01:58Z,"Works after disabling AVG antivirus. This download cuts out the Japanese voice acting, now I have to download another goddamn torrent of the same game."
+,jexx00,2013-05-30T15:15Z,"game works fine, but failed to save.. HELP!!"
+,mrfreebird,2013-05-31T20:01Z,60% so far!! can't wait to try this out! thx for the upload and thx everyone that has verified the game as legitimate!
+,hiegara,2013-06-04T11:21Z,"Hey guys can some1 give me a link with file FIX_pol.arc ? It is in Resident Evil RevelationsnativePCarchivemsg  I just wanna play in PL, thx a lot."
+,ZetaBit,2013-06-07T04:57Z,"This is the complete version or ""full RIP""(without music and cutscenes)?
+Sorry my bad english (:"

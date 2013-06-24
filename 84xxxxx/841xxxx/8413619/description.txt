@@ -1,0 +1,11 @@
+AUDIO FIX for Doctor.Who.2005.S07E09.Hide.720p.WEB.DL.DD5.1.H.264.ECI.mkv
+
+For anyone who has downloaded
+Doctor.Who.2005.S07E09.Hide.720p.WEB.DL.DD5.1.H.264.ECI.mkv
+you will know that this audio is full of static.
+
+This AC3/DD5.1 file was extracted from
+Doctor.Who.s07e10.Hide.HD720p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv
+and syncs perfectly with the ECI release.
+
+Just use MKVtoolnix/MKVMerge to mux the audio to the ECI release, and you're good to go.

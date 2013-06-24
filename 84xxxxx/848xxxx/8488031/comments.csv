@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,Tegra3,2013-05-19T01:46Z,"Wow now that was fast, Thank you."
+,rezjarda,2013-05-19T08:02Z,thanks nice!
+,Nikkigardens,2013-05-19T09:11Z,Thanks stif 
+,iambrandoom,2013-05-19T21:39Z,"
+Starting Verification
+     Looking for 438CF1811F7DA21D.ini in the online verified database
+     There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed
+
+Starting AutoFix
+     Looking for Xex_1F7DA21D.ini in the online verified database
+     There is no verified rip of Xex CRC 1F7DA21D in the online database
+Failed to find a verified ini file for this Xex
+AutoFix Failed, Stealth is still unverified"
+,Monstar79,2013-05-19T23:39Z,I've made 3 coasters trying to burn this game... I have made hundreds of games and this is the only one that has given me any problems.
+,Assassinprofessor,2013-05-20T00:01Z,"#Monstar79 
+ke on trying bro, the game works perfectly :)
+btw, im on LT 2.0"
+,bruno5379,2013-05-20T00:32Z,"''Access denied'' whenever trying to insert L3.0 to L2.0 topology , great just great"
+,jakenator,2013-05-20T05:08Z,@Monstar79: On almost every 360 game torrent there is always one person who says they never had problems with a game till now. My suggestion is to invest some money and get a RGH. It only cost me $65 and now I never have to burn another game.
+,samengo,2013-05-20T16:02Z,Speed is awesome-game not tested yet
+[V],Mr.Stifmeister,2013-05-20T19:49Z,"@_whoa_: This is real iMARS release, but already unpacked for you. If you want with rar files, look on private trackers. "
+,samengo,2013-05-20T20:18Z,Don´t work
+,yllibi,2013-05-20T20:43Z,"For those still on LT 2.0 - dashboard 15574 or above    
+(using imgburn 2.5.7.0 version as default iso/image burner)
+
+The method below has worked on all xgd3 games so far.
+
+1) inject topology 2.0 with xbox backup creator
+2) use the dvd file that comes witht the iso, this opens imgburn 
+3) go to tools/seetings/write/user specified/ and set layerbreak on 2086912
+4) click burn image, a message pops-up and you must select truncate method
+5) another message says (do you want to use calculate optimal) you must to click NO
+6) the final message says do you want ""to continue anyaway"" you click YES
+
+then wait for the burn and try the game.
+
+P.S. I haven't downloaded the game yet, but I'm pretty sure it will work. "
+,samengo,2013-05-20T21:06Z,"Sorry,my fault-it works 100% !"
+,vinnievic86,2013-05-21T07:20Z,Works great thanks for the up.. game is lame though.
+,smerfff,2013-05-21T21:20Z,So will this work on RGH?
+,aisac007,2013-05-24T21:08Z,everything works on RGH including this torrent
+,yllibi,2013-05-24T22:41Z,"the game works on lt 2.0, 
+
+thanks Mr. Stifmeister"
+,quinnarty,2013-05-28T18:17Z,"If you google ""quinnarty burning"", my full burning backups guide is posted there on the first link"
+,abdul86,2013-06-01T05:00Z,"In the meantime,
+Failed to find a verified ini file for this Xex/SS combination
+Verification failed"
+,Hikaku,2013-06-04T23:30Z,So this works on LT 2.0 without changing anything to the file?
+,leo080681,2013-06-06T02:25Z,"How do i burn this with what program?
+and what settings? Thanks!
+I just need help burning it 
+thats it."

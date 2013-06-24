@@ -1,0 +1,71 @@
+            Kaspersky Anti-Virus 2013 365 Fully Licensed - 2010kaiser
+            =========================================================
+
+
+Kaspersky have a partnership with hardware manufacturer ASUS and provides its Anti-Virus 2013 free for 1 year to owners of the high end Asus ROG (Republic of Gamers) range of motherboards. Although not the Internet Security package with Firewall etc, this version does have other crucial advantages over the CBE edition. Firstly itΓÇÖs available outside of Germany so you donΓÇÖt need to edit the languages, English is default. Secondly, Kaspersky Antivirus 2013 ROG edition is available worldwide so thereΓÇÖs no need to use VPNΓÇÖs and proxies from your country to try and activate it!
+
+If you do not own an ASUS ROG motherboard, attempting to install Kaspersky Anti-Virus 2013 using their setup installer will fail with the error message ΓÇ£Error has Occurred. Application was not installed. Digital signature of installation files is missingΓÇ¥. After a bit of time and research weΓÇÖve come up with a way to install and activate the ROG edition using the standard antivirus package for ALL users, not just those who have Asus ROG motherboards. This isnΓÇÖt done using cracks or keygenerators, just common sense and logic. HereΓÇÖs the steps how to do it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+I've simplified the process/steps outlined from the source webpage.  I've done the extractions and created the directories outlined by the source to make your life easier.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1. Copy/Paste the No1 folder inside Program directory, normally located at:
+
+
+
+x64bit operating systems:
+=================
+
+
+C:Program Files (x86)
+
+
+x86(x32bit) operating systems:
+====================
+
+
+C:Program Files
+
+
+
+2. Now Copy/Paste the No2 folder into your ProgramData directory, located at:
+
+C:ProgramData
+
+
+N.B. The ProgramData directory is normally a hidden directory. To make it "visable". Go to:
+
+Start/Computer/Documents/Organize/Folder and search options
+
+Now click the "View" TAB and click on "Show hidden files, folders and drives". Then click on "Apply" and then click on "OK".
+
+3. Now open the No3 folder. Right click on it's contents and select "Run As Administrator".
+
+When install has completed, your licensed for 365 days and fully up-dateable.
+
+
+2010kaiser home page at The Pirate Bay link below:
+
+  
+http://thepiratebay.se/user/2010kaiser/
+
+
+Check out the new PirateWiki! Where knowledge is shared ;-)
+
+           
+https://forum.suprbay.org/wiki/index.php?title=Portal:Main_Page
+
+
+For re-seed requests, help, support or anything else relating to The Pirate Bay. You'll find it all, and more, at suprbay. The official support forum of The Pirate Bay. Visit it at the link below:
+
+  
+https://forum.suprbay.org/ 
+
+
+ENJOY AND SEED!!!

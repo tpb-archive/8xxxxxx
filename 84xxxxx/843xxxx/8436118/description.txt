@@ -1,0 +1,277 @@
+Table of Contents
+
+Preface
+Chapter 1: Introduction to SIP
+Chapter 2: Introduction to OpenSIPS
+Chapter 3: OpenSIPS Installation
+Chapter 4: Script and Routing Basics
+Chapter 5: Adding Authentication with MySQL
+Chapter 6: Graphical User Interfaces for OpenSIPS
+Chapter 7: Connectivity to the PSTN
+Chapter 8: Media Services Integration
+Chapter 9: SIP NAT Traversal
+Chapter 10: OpenSIPS Accounting and Billing
+Chapter 11: Monitoring Tools
+Index
+Preface
+Up
+Chapter 1: Introduction to SIP
+SIP basics
+SIP operation theory
+SIP registering process
+Server operating as a SIP proxy
+Server operating as a SIP redirect
+Basic messages
+SIP dialog flow
+SIP transactions and dialogs
+The RTP protocol
+Codecs
+DTMF relay
+Real Time Control Protocol (RTCP)
+Session Description Protocol (SDP)
+The SIP protocol and the OSI model
+VoIP provider, the big picture
+SIP proxy
+User administration and provisioning portal
+PSTN gateway
+Media server
+Media Proxy or RTP Proxy for NAT traversal
+Accounting and CDR generation
+Monitoring tools
+Where you can find more information
+Summary
+Up
+Chapter 2: Introduction to OpenSIPS
+Where we are
+What is OpenSIPS?
+OpenSIPS history
+Main characteristics
+Speed
+Flexibility
+OpenSIPS is extendable
+Portability
+Small footprint
+Usage scenarios
+OpenSIPS configuration file
+Core and modules
+Sections of the opensips.cfg file
+Sessions, dialogs, and transactions
+Message processing in the opensips.cfg
+SIP proxyΓÇöexpected behavior
+Stateful operation
+Summary
+Up
+Chapter 3: OpenSIPS Installation
+Hardware requirements
+Software requirements
+LabΓÇöinstalling Linux for OpenSIPS
+Downloading and installing OpenSIPS v1.6.x
+OpenSIPS console
+LabΓÇörunning OpenSIPS at the Linux boot
+OpenSIPS v1.6.x directory structure
+Configuration files (etc/opensips)
+Modules (/lib/opensips/modules)
+Binaries (/sbin)
+Log files
+Redirecting OpenSIPS log files
+Startup options
+Summary
+Up
+Chapter 4: Script and Routing Basics
+Where we are
+Scripting OpenSIPS
+Global parameters
+Listen interfaces
+Logging
+Number of processes
+Daemon options
+SIP identity
+Miscellaneous
+Standard script for global parameters
+Modules and their parameters
+Standard configuration for modules and parameters
+Scripting basics
+Core functions
+Core values
+Core keywords
+Pseudo-variables
+Script variables
+Attribute-Value Pair (AVP) overview
+Flags
+The module GFLAGS
+Statements
+if-else
+Switch
+Subroutes
+Routing basics
+Routing requests and replies
+Initial and sequential requests
+Sample route script
+Using the standard configuration
+Common issues
+Daemon does not start
+Client unable to register
+Too many connections
+Summary
+Up
+Chapter 5: Adding Authentication with MySQL
+Where we are
+The AUTH_DB module
+The REGISTER authentication sequence
+Register sequence
+Register sequence code snippet
+The INVITE authentication sequence
+INVITE sequence packet capture
+INVITE code snippet
+Digest authentication
+WWW-Authenticate response header
+The Authorization request header
+QOPΓÇöQuality Of Protection
+Plaintext or hashed passwords
+Installing MySQL support
+Analysis of the opensips.cfg file
+Register requests
+Non-Register requests
+The opensipsctl shell script
+The resource fileΓÇöopensipsctlrc
+The opensipsctlrc file
+Using OpenSIPS with authentication
+Enhancing the script
+Managing multiple domains
+Using aliases
+Handling CANCEL request and retransmissions
+Full script with all the resources above
+LabΓÇömulti-domain support
+LabΓÇöusing aliases
+Summary
+Up
+Chapter 6: Graphical User Interfaces for OpenSIPS
+OpenSIPS Control Panel
+Installation of opensips-cp
+Installing Monit
+Configuring OpenSIPS Control Panel
+SerMyAdmin
+LabΓÇöinstalling SerMyAdmin
+SerMyAdmin configuration
+Basic tasks
+Registering a new user
+Approving a new user
+User management
+Domain management
+Interface customization
+Comparing OpenSIPS-CP and SerMyAdmin
+Summary
+Up
+Chapter 7: Connectivity to the PSTN
+The big picture
+Requests sent to the gateway
+The GROUP module
+Requests coming from the gateways
+The module permissions
+Example
+Inspection of the opensips.cfg file
+Using Asterisk as a PSTN gateway
+Asterisk gateway (sip.conf)
+Cisco 2601 gateway
+Dynamic routing
+Most relevant parameters
+Sort order
+Blacklist
+Force_dns
+Drouting tables
+Case study for dynamic routing
+DIALPLAN transformations
+DIALPLAN example
+Inspection of the file opensips.cfg
+Blacklists and "473/Filtered Destination" messages
+Summary
+Up
+Chapter 8: Media Services Integration
+Playing announcements
+Example: playing demo-thanks
+Voicemail
+How to integrate Asterisk Real Time with OpenSIPS
+Call forwarding
+Implementing blind call forwarding
+AVPOPS module loading and parameters
+LabΓÇöimplementing blind call forwarding
+Implementing call forward on busy or unanswered
+Inspecting the configuration file
+LabΓÇötesting the call forward feature
+Summary
+Up
+Chapter 9: SIP NAT Traversal
+Why NAT breaks SIP
+Where NAT breaks SIP
+NAT types
+Full cone
+Restricted cone
+Port restricted cone
+Symmetric
+Why symmetric NAT is hard to traverse
+NAT firewall table
+Solving the SIP NAT traversal challenge
+Implementing a near-end NAT solution
+Why STUN does not work with symmetric NAT devices
+Implementing a far-end NAT solution
+The RFC3581 and the force_rport() function
+Solving the traversal of the RTP packets
+RTP Proxy installation and configuration
+Analysis of the file opensips.cfg
+Modules loading
+Modules parameters
+Determining if the client is behind NAT
+Handling REGISTER requests behind NAT
+Handling INVITE messages behind NAT
+Handling the responses
+Handling RE-INVITE messages
+Routing script
+Invite diagram
+Packet sequence
+LabΓÇöusing the RTP Proxy for NAT traversal
+Comparing STUN with TURN (MRS)
+Application layer gateways (ALGs)
+Interactive Connectivity Establishment (ICE)
+Summary
+Up
+Chapter 10: OpenSIPS Accounting and Billing
+Objectives
+Where we are
+VoIP provider architecture
+Accounting configuration
+Automatic accounting
+Multi-leg accounting
+LabΓÇöaccounting using MySQL
+Analysis of the opensips.cfg file
+Generating the CDRs
+LabΓÇögenerating Call Detail Records
+Accounting using RADIUS
+LabΓÇöaccounting using a FreeRADIUS server
+Package and dependencies
+FreeRADIUS client and server configuration
+Configure OpenSIPS server
+Solving the problem with missing BYEs
+Account in the gateway instead of the proxy
+Use SIP session timers
+Use RTP proxy timeout
+Use Media Proxy timeout
+Prepaid and postpaid billing
+Summary
+Up
+Chapter 11: Monitoring Tools
+Where we are
+Built-in tools
+Trace tools
+SIPTRACE
+Configuring the SIPTRACE
+Stress testing tools
+SIPSAK
+SIPp
+Installing SIPp
+Stress testΓÇöthe SIP signaling
+Stress testΓÇöthe RTP signaling
+Wireshark
+Monitoring tools
+Summary
+Up
+Index

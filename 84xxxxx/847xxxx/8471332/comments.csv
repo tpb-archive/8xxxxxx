@@ -1,0 +1,146 @@
+﻿User Type,Username,Date,Text
+[V],2010kaiser,2013-05-14T00:24Z,"PLEASE NOTE!!!
+
+When i say.. No1, No2. I mean the contents of both of those folders. NOT THE No1 and No2 folders themselves.
+It's the contents of each of those 2 folders."
+,karty,2013-05-14T04:07Z,"Thank you for this useful torrent..!!!
+
+Can anyone confirm whether this works perfectly? "
+[V],2010kaiser,2013-05-14T18:37Z,"@karty
+
+http://i.imgur.com/uYjONkf.png"
+,Tiberiusduck,2013-05-15T18:08Z,"I cannot copy and replace the cbi.dll file. It keeps saying I need permission. 
+
+A little help please."
+[V],2010kaiser,2013-05-15T18:43Z,"@Tiberiusduck
+
+You need elevated permissions to do it. Obviously you don't have that. Follow the steps below:
+
+1. Open Command Prompts as Administrator and type the following EXACTLY:
+
+net user administrator /active:yes
+
+2. Now hit ENTER/RETURN
+3. Now type:
+
+exit
+
+4. Re-boot your PC and log into the newly created Administrator account and do the install from that account.
+
+5. When finished with the install, open Command Prompt again as Administrator and type the following command EXACTLY:
+
+net user administrator /active:no
+
+6. Now hit ENTER/RETURN
+7. Now type:
+
+exit
+
+8. Re-boot and log into your account as normal.
+
+JOB DONE!!!"
+,Tiberiusduck,2013-05-15T19:23Z,"Sorry ""2010kaiser"",... my bad.
+I had an old version of Kaspersky with remnants still on my computer. I used Kaspersky uninstaller to totally remove it and then followed your supplied instructions to the letter. I now have 365 days of coverage. Thank you sooo much for this torrent ""2010kaiser"". 
+Very much appreciated my friend.
+This works like a charm folks"
+[V],2010kaiser,2013-05-15T19:53Z,"@Tiberiusduck
+
+No problem. Glad you got it working and your happy with it ;-)"
+,RebelRick,2013-05-16T00:59Z,Thanks for making this so easy and sharing. You are very kind and we all appreciate it.This torrent rules!
+[V],2010kaiser,2013-05-16T04:02Z,"@RebelRick
+
+Your welcome. 
+
+ENJOY!!!"
+,its_YONAS,2013-05-16T04:33Z,"I'm getting a funky error as well. It doesn't even allow me to do the cmd.exe net user. I go and type the net user administrator / active:yes says System 5 error Access is Denied. I can't put cbi.dll file in the Kaspersky Anti-virus 2013 folder. Please help, much appreciated. "
+,its_YONAS,2013-05-16T04:45Z,"2010kaiser, can you help me please?"
+,James_WB,2013-05-16T13:48Z,No credit to Raymond.cc ?
+,James_WB,2013-05-16T13:51Z,"its_YONAS, try turning off kaspersky temporarily and moving the file"
+,its_YONAS,2013-05-16T14:55Z,"Fixed it, all good. Thanks anyways and great upload. :)"
+[V],2010kaiser,2013-05-16T15:55Z,"@James_WB
+
+just to keep you happy ;-)
+
+http://www.raymond.cc/blog/activate-free-kaspersky-antivirus-2013-rog-1-year-license/"
+,Chainsaw007,2013-05-17T12:16Z,"Great Torrent!! I followed your installation note as instructed and it installed to Windows 8 x64bit system. However my computer was rebooted (automatically) after installations, it asked for a key  or option to select the link for a 30 trial. ""Did I do something wrong here""?"
+,Chainsaw007,2013-05-17T12:19Z,"Great Torrent!! I followed your installation note as instructed. However my computer was rebooted (automatically) after installations, it asked for a key  or option to select the link for a 30 trial. ""Did I do something wrong here""?"
+,dinosquash2,2013-05-18T03:15Z,"Can we Run Update with this? Plz Answer soon, cause i really need to know. Thnx"
+[V],2010kaiser,2013-05-18T03:19Z,"@dinosquash2
+
+Yes"
+,Malcolm90210,2013-05-18T16:34Z,Works like a charm! Used for a day and its stable...Its fully update-able! Thank you very much 2010kaiser!
+,RebelRick,2013-05-22T01:12Z,"Tried installing on a second pc today and the license was disabled because of too many installations on this license key. It's still active on my other machine though since 5/16/2013 so I waited too long to try it again. Looks like Kaspersky shut this one down. That's OK,because I have a key for 3 pc's I purchased from Amazon for $6.50 for my 3 other machines!"
+[V],2010kaiser,2013-05-23T03:21Z,"@RebelRick
+
+  We've just re-tested it. It's not ""flagged"" by Kasspesky or anything else.
+
+It's a full install which now gives 363 days and not 365 days.
+
+If your going to post comments. please do your homework first  ;-)"
+,Tiberiusduck,2013-05-23T16:07Z,"No offense to the uploader but this anti-virus is the worst anti-virus ever. I have 16 gigs of ram on my computer and Kaspersky is using nearly all of it during scans. All other functions and software on my computer are completely useless till scans are complete. A side note is also that there has been a tremendous overall drop in my computers speed even when Kaspersky isn't scanning. If anyone thinks that  I'm the only one having this problem then check out the comments on Softpedia. An endless stream of consistent negative comments about this memory hog software.  Sorry ""2010Kaiser"" but this was indeed my nightmare experience with this product."
+,varungoyalca,2013-05-23T18:52Z,"brother i tried installing with the exact method on 2 different machines but they are not working at all , i even rebooted  my  pc. it display me the activation screen , whether i want it with trial version or enter the serial key ...plzzz help need this badly , thanks "
+,RandomBS,2013-05-24T03:24Z,"Works like a charm, 1 year license. Thanks a lot Kaiser.
+
+-------------------------------
+For the ones that are having problems: just follow exactly the instructions on the description, I'll try to make it easier:
+
+1- Copy the contents of the No1 file to C:Program Files (x86) //or the one without the (x86) if you have a 32 bits OS.
+It should then be a file like this:
+C:Program Files (x86)Kaspersky LabKaspersky Anti-Virus 2013  **and inside it should be the cbi.dll.
+
+2- Copy the contents of the No2 file to C:ProgramData  // if you can't find it, just type C:ProgramData in the bar like you do with websites.
+Then it should be a file like this:
+C:ProgramDataKaspersky LabAVP13Data *** and inside it should be the _1AA7CD13.key file
+
+3- Just intall it normally and run it, it won't ask for any key. When you run it you'll see that you have a 365 days license.
+
+If you have problems after this try to completely unnistall and try again, try running as ADM and disconnect from the internet. If it still don't work either your PC is incompatible (IDK, OS or another antivirus?) or you are a moron that can't follow 3 steps.
+
+Again, thanks for the torrent Kaiser."
+,varungoyalca,2013-05-24T11:16Z,"@random 85 , thanks for the info but nothing is working, i have made a word file of screen shots of what i have done , please email me ur email id so that i can send u the screenshots and u can spot my mistake . thanks 
+my id -varungoyalca@yahoo.in "
+,RandomBS,2013-05-24T12:18Z,"@varungoyalca Sorry man, I'm not a pro or something, just a random guy passing by, I can't really help you more than simpliflying the steps. But I guess that if you did the correct steps and still couldn't intall it, maybe you still have the remnants of a older version ( try to delete anything related to Kasperky in your pc). Hell, maybe even that Windows Defender crap is fucking with you. 
+Post your operating system details here and what exactly is happening, you can't install or you can't license it?
+Maybe someone that really understands the issue can help you."
+,RebelRick,2013-05-24T16:51Z,"Did some homework on this. When I installed on my laptop,key was active 365 days,then ran update and rebooted it shows  KEY STATUS:BLOCKED  LICENSE PROBLEM DETECTED  YOU HAVE EXCEEDED THE MAXIMUM NUMBER OF COMPUTERS ON WHICH KASPERSKY ANTI-VIRUS CAN BE INSTALLED UNDER YOUR LICENSE.PROTECTION IS DISABLED.TO RESUME PROTECTION OF YOUR COMPUTER ENTER A NEW ACTIVATION CODE"
+[V],2010kaiser,2013-05-25T02:54Z,"@RebelRick
+
+Tried to replicate your error but can't mate. Did you make sure you un-ticked the box on the initial start-up install screen:  ""I want to participate in Kaspersky Security Network (KSN)...............""??
+
+This test re-install has been done on the original test machine from when we posted the torrent:
+
+2013-05-14 00:15:31 GMT
+
+Results below (Time and date on bottom right of screen shot):
+
+http://i.imgur.com/gSH2IYb.png
+"
+[V],2010kaiser,2013-05-25T02:58Z,"@RebelRick
+
+Use a VPN for your new installs as Kaspersky may be logging the IP address of your installs. Just a suggestion. Like i said. We can't replicate the error your getting  ;-)"
+[V],2010kaiser,2013-05-25T04:07Z,"http://i.imgur.com/iKKm61n.png
+
+http://i.imgur.com/17i7FbV.png
+
+http://i.imgur.com/9AYogWL.png"
+,varungoyalca,2013-05-25T09:59Z,"thanks random85 ,,, appeciate your help :)"
+,RebelRick,2013-05-27T16:35Z,It appears that Kaspersky allows only one installation per household since I am unable to activate on any other of my machines.Key keeps getting blocked but it's still active on this one I am using now. 
+[V],2010kaiser,2013-05-29T23:35Z,"@RebelRick 
+
+Look at my comment above. There's no restriction on the number of machines.
+It's on the IP address.
+
+Try it on your friends ISP connection. One who doesn't have it installed and you'll see it's still very much active and installable  ;-)"
+,thepiratebayaashish,2013-06-02T08:51Z,Thanks matey! Works fine! Updating now..hope no problems will pop up after the updates!
+,saifullahraza,2013-06-08T00:44Z,It took 3 minutes to get 365 days activation. you always provide the best. thank you sir
+,Royalwitcheeez,2013-06-11T09:42Z,"Thx as always Kaiser.
+
+As noted, use a VPN to install on a secondary machine.
+
+But, anyone who has an XBOX /Media Center network , DO NOT INSTALL 2013! 
+
+There is a major issue that is/has been unresolved with 2013 that is blocking any Media Center activity (Google before you try) 
+
+Thx again.Kaiser"
+,Ifraa,2013-06-11T14:25Z,"Thank you Kaiser. Got 365 days activated. Working great even after update. Great work!
+"

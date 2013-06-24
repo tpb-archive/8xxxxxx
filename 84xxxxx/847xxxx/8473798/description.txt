@@ -1,0 +1,69 @@
+This is the official GOG.com release of FEZ.
+
+--
+
+Description from GOG.com:
+
+
+What's cool about it:
+
+Explore a magical 3D world without conflict or enemies, rich with ambiance, a pleasant place to spend time in.
+Go anywhere you please as there is no one path, no right or wrong way to play.
+Rotate your perspective to navigate the complex environments, solve puzzles, and find secrets!
+
+Overview:
+
+Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception, in this phenomenal puzzle-platformer!
+
+Changelog:
+
+Version 1.06
+------------
+- Fixed stuck doors for the weightswitch, owl and waterfall puzzle doors
+- Fixed that the New Game+ state would get cleared after exiting the game without starting a New Game+
+- Fixed bug where the save selection would show the red save icon but not progress to the main menu
+- Fixed bug related to music streaming and threading lock usage
+- Added CLI flag to address threaded content loading issues : --singlethreaded
+- Fixed stuck dot dialog when getting hurt by a bomb while she's talking
+- Added back the missing falling "text" during the hexahedron encounter cutscene
+- Added error messages for unsupported Intel driver versions
+- When setting an unsupported resolution, the game now falls back to the current/native one
+- Tentative fix for bugs related to not-a-number floating point errors in the camera math
+- Default menu highlight is on Start New Game+ when it's available, to reduce accidental save file clearing
+- Added a controller vibration toggle in game options
+- Fixed rare bug related to the tuning fork puzzles
+- Fixed bug where the application data directory is written to before being created
+
+Version 1.05
+------------
+- Fixed the "Error initializing audio subsystem" error
+- Fixed the bug where "Continue Game" is greyed out when reloading a valid save game
+- Fixed that map icons did not show up on Intel HD Graphics chips
+- Running the game "As Administator" should not necessary anymore
+- Fixed random crash bug when loading between levels
+- Tentative fix for transitioning to levels in the background while using endgame feature
+- Game now checks for available disc space on start (200Mb required)
+- Added CLI flag to disable joystick support : --no-gamepad
+- Added CLI flag to assume/force 60fps : --force-60hz (this is equivalent to the MonoGame DLL hack that's been going around)
+- Added CLI flag for debug tracing : --trace (please use this when reporting crashes)
+- Fixed sprite alignment of corner ledge animations
+- Final cutscene will play even if you glitched your way to more than 64 cubes
+- Added tentative support for retroactive or glitched/non-unlocked achievements (Steam)
+- Fixed cloning/duplicate/infinite anti-cube glitch
+- Game should not force a resolution that is not supported by the display device on first run
+- Added slightly broader support for Intel HD cards with outdated drivers
+- NOTE : The "Debug Log.txt" file is now located in %APPDATA%FEZ, the one in the FEZ directory is stale and won't be written to
+
+Version 1.04
+------------
+- Tentative fix for missing world map icons on Intel HD Graphics 3000 and 4000 cards
+- Added experimental CLI flag for variable timestep (--variable-time-step), may break game physics, try at your own risk!
+- Fixed possible crash during loading screens
+- Fixed window scaling problem when using higher Windows DPI settings
+- Fixed leaderboard crash with unmapped characters in usernames
+- Game no longer forces 1280x720 resolution on first run if it's not supported
+- Sound effect volume setting now applied when starting game
+- Fixed possible crash with music buffering
+- Fixed problem where doors would remain closed forever after exiting or crashing out of a level
+- Tentative fix for invisible pages in tome
+- Number of anti-cubes now capped at 32, if you somehow manage to find 33!

@@ -1,0 +1,102 @@
+
+[ Info sul file ]
+Nome: Adele.e.l.Enigma.del.Faraone.2010.BDrip.1080p.iTA.FRA.AC3.mkv
+Data: Thu, 09 May 2013 10:40:17 +0200
+Dimensione: 5,291,143,725 bytes (5046.027875 MiB)
+
+[ Info generiche ]
+Durata: 01:47:43 (6463.488 s)
+Contenitore: matroska
+Production date: Thu, 09 May 2013 10:39:00 +0200
+Totale tracce: 3
+Traccia n. 1: video (V_MPEG4/ISO/AVC) {eng}
+Traccia n. 2: audio (A_AC3) [AC3 5.1 (448)] {ita}
+Traccia n. 3: audio (A_AC3) [AC3 5.1 (448)] {fre}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.0 ('Die Wahre Liebe') built on Sep 25 2011 20:33:49
+
+[ Dati rilevanti ]
+Risoluzione: 1918 x 816
+Larghezza: multipla di 2
+Altezza: multipla di 16
+DRF medio: 20.182851
+Deviazione standard: 3.901469
+Media pesata dev. std.: 3.836823
+
+[ Traccia video ]
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1918 x 816
+Frame aspect ratio: 959:408 = 2.35049 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 959:408 = 2.35049 (~2.35:1)
+Framerate: 23.976025 fps
+Dimensione stream: 4,565,575,608 bytes (4354.072197 MiB)
+Durata: 01:47:43 (6463.456793 s)
+Bitrate (bs): 5650.939742 kbps
+Qf: 0.150593
+
+[ Traccia audio nr. 1 ]
+Codec ID: A_AC3
+Freq. campionamento: 48000 Hz
+Canali: 6
+Dimensione stream: 361,955,328 bytes (345.1875 MiB)
+Tipo di bitstream (bs): AC3
+Frames (bs): 201,984
+Durata: 01:47:43 (6463.488 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 448 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): 3 front, 2 rear, 1 LFE
+
+[ Traccia audio nr. 2 ]
+Codec ID: A_AC3
+Freq. campionamento: 48000 Hz
+Canali: 6
+Dimensione stream: 361,955,328 bytes (345.1875 MiB)
+Tipo di bitstream (bs): AC3
+Frames (bs): 201,984
+Durata: 01:47:43 (6463.488 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 448 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): 3 front, 2 rear, 1 LFE
+
+[ Bitstream video ]
+Tipo di bitstream: MPEG-4 Part 10
+User data: x264 | core 130 | H.264/MPEG-4 AVC codec | Copyleft 2003-2013
+User data: http://www.videolan.org/x264.html | cabac=0 | ref=4
+User data: deblock=1:-1:-1 | analyse=0x3:0x133 | me=umh | subme=10 | psy=1
+User data: psy_rd=1.00:0.15 | mixed_ref=1 | me_range=48 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-3 | threads=9 | lookahead_threads=1
+User data: sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=8 | b_pyramid=1
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=0 | open_gop=0 | weightp=0
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=60 | rc=crf | mbtree=1 | crf=20.0 | qcomp=0.60
+User data: qpmin=0 | qpmax=69 | qpstep=4 | vbv_maxrate=62500
+User data: vbv_bufsize=78125 | crf_max=0.0 | nal_hrd=none | ip_ratio=1.40
+User data: aq=1:1.00
+SPS id: 0
+Profile: High@L4.1
+Num ref frames: 3
+Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+Tipo di codifica entropica: CAVLC
+Weighted prediction: No
+Weighted bipred idc: No
+8x8dct: Sì
+Totale frames: 154,968
+Drop/delay frames: 0
+Frames corrotti: 0
+
+P-slices: 29766 ( 19.208 %) ####
+B-slices: 123626 ( 79.775 %) ################
+I-slices: 1576 ( 1.017 %)
+SP-slices: 0 ( 0.000 %)
+SI-slices: 0 ( 0.000 %)
+
+[ Analisi DRF ]
+DRF medio: 20.182851
+deviazione standard: 3.901469
+max DRF: 32

@@ -1,0 +1,24 @@
+Game Dev Tycoon v1.3.9
+
+FULL, official release, without piracy bankrupt bug! Virus and other sh!t free!
+
+
+Torrent contains one file.. GameDevTycoon-139.exe
+
+
+ENJOY!	
+
+If you like it - BUY IT, support the developers
+
+
+CHANGELOG:
+
+v1.3.9 09 May. 2013 (only released for native version)
+- Fixed: DOM Exception errors because open file descriptors limit is reached. (Mac)
+- Fixed: Game would crash when hiring a fifth female staff. (so sorry :/)
+- Fixed: Staff list is not displayed correctly on Mac and Linux.
+- Fixed: Feature selection doesnΓÇÖt show up if engine name has a space before or after the name.
+- Fixed: Engine development could result in negative remaining points left.
+- Fixed: Saving late-game can cause a quota exceeded exception.
+- Fixed: Game is still paused when exiting game history with ESC key.
+- Improved: Removed delay between loading a level and loading the character from the hot-fix workaround in version 1.3.7+ (Mac and Linux)

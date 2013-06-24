@@ -1,0 +1,21 @@
+Los sistemas de gestión de bases de datos (en inglés database management system, abreviado DBMS) son un tipo de software muy específico, dedicado a servir de interfaz entre la base de datos, el usuario y las aplicaciones que la utilizan.
+
+El propósito general de los sistemas de gestión es el de manejar de manera clara, sencilla y ordenada un conjunto de datos que posteriormente se convertirán en información relevante para una organización.
+
+Existen distintos objetivos que deben cumplir los SGBD:
+
+Abstracción de la información. Los SGBD ahorran a los usuarios detalles acerca del almacenamiento físico de los datos.
+Independencia. La independencia de los datos consiste en la capacidad de modificar el esquema (físico o lógico) de una base de datos sin tener que realizar cambios en las aplicaciones que se sirven de ella.
+Consistencia. En aquellos casos en los que no se ha logrado eliminar la redundancia, será necesario vigilar que aquella información que aparece repetida se actualice de forma coherente, es decir, que todos los datos repetidos se actualicen de forma simultánea.
+Seguridad. La información almacenada en una base de datos puede llegar a tener un gran valor. Los SGBD deben garantizar que esta información se encuentra segura de permisos a usuarios y grupos de usuarios, que permiten otorgar diversas categorías de permisos.
+Manejo de transacciones. Una transacción es un programa que se ejecuta como una sola operación. Esto quiere decir que luego de una ejecución en la que se produce una falla es el mismo que se obtendría si el programa no se hubiera ejecutado.
+Tiempo de respuesta. Lógicamente, es deseable minimizar el tiempo que el SGBD demora en proporcionar la información solicitada y en almacenar los cambios realizados.
+En este manual se revisarán gran parte los puntos anteriores desde la óptica más reciente.
+
+Título: Sistemas gestores de Bases de Datos
+Autor(es):Jorge Sánchez
+Publicación:2009
+Editorial:Jorge Sánchez
+Núm. Páginas:182p.
+Tamaño:3.4Mb (Zip)
+Idioma:Español

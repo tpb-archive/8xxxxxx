@@ -1,0 +1,41 @@
+Important: If you like MS Windows and MS Office please buy legal and original
+ this program help to test this products, but recommend you buy legal.
+ I did this for fun, and now I am done with this. 
+ Working in W8 and Office 2013 fresh install and VOLUMEN LICENSE editions.
+ Ja mata ne, Farewell, Hejdå, Ciao, Aloha, Zegnaj, Doei
+
+ KMSpico v5.2.1 Service Edition
+
+ - Requirements: .NET 4.0 or Windows 8/2012.
+ - Activate: Windows Vista/7/8 
+ Office 2010/2013 
+ Windows Server 2008/2008R2/2012
+
+ 0. Disable SmartScreen.
+ 1. Run Install_Service.cmd
+ 2. Done.
+
+ Based off of KMSEmulator of deagles and Hotbird64.
+
+ Thanks to Hotbird64, deagles, mikmik38, qad, CODYQX4, xinso. All the credits for they.
+ Thanks MyDigitalLife.info
+ Thanks hui.
+
+ Change Log:
+ - Add AutoPico that use Hotbird64 dll (embedded).
+ - Improved service.
+
+ - Note:
+ This service only activate VL editions, for Retail use the KMSpico v5.2.1 Install Edition or v4.5.
+
+ Recommendations Optional:
+
+ - Disable Microsoft Security Updates.
+ - Make exceptions to Directory %ProgramFiles%KMSpico in Antivirus.
+
+ How This Program Works:
+
+ 1. Install Service KMSELDI
+ 1.1. Every windows start the service reactivate for 180 days (reset the count) with a random kms emulator.
+ 1.2. Close emulator.
+ 2. Service KMSELDI = "permanent". 

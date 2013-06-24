@@ -1,0 +1,16 @@
+Learn how to study, analyze, select, and design a successful mechatronic product
+
+This innovative, cutting-edge publication presents the essential nature of mechatronics, a field at the crossroads of information technology and mechanical and electrical engineering. Readers learn how to blend mechanisms, electronics, sensors, control strategies, and software into a functional design. Given the breadth that the field of mechatronics draws upon, this publication provides a critical service to readers by paring down the topics to the most essential ones.
+
+A common thread throughout the publication is tailoring performance to the actual needs of the user, rather than designing "by the book." Practical methods clarify engineering trade-offs needed to design and manufacture competitive state-of-the-art products and systems.
+
+Key features include:
+* Easy-to-construct set of laboratory experiments to give readers practice in controlling difficult systems using discrete-time algorithms
+* Essentials of control theory, concentrating on state-space and easily constructed simulations in JavaScript, including typical mechatronic systems with gross nonlinearities where linear methods give the "wrong answer"
+* Hot topics that include advances in the automotive, multimedia, robotics, defense, medical, and consumer industries
+* Author-provided Web site at www.EssMech.com offers additional resources, including videos, dynamic simulation examples, software tools, and downloads
+
+
+There are hundreds of choices involved in all but the simplest of mechatronic design tasks. Using this publication as a reference, electrical, mechanical, and computer designers and engineers can find the most efficient, cost-effective methods to transform their goals into successful commercial products. With its use of laboratory experiments, this publication is also recommended as a graduate-level textbook.
+
+Author Web site located at www.EssMech.com provides in-depth support material that includes links to simulations for modeling dynamic systems with real-time interactions, image processing examples, and 3D robot modeling software, enabling readers to "construct" and manipulate their own mechanism as well as other useful links.

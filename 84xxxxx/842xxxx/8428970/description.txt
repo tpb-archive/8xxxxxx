@@ -1,0 +1,107 @@
+Hi there
+
+Here is our remastered version from Jack reacker Bdrip movie.
+
+Video codec used : mkv h263 (Video reencoding Bitrate : 15000)
+Audio codec used : E-AC3 aka AC3 plus or also called as Dolby Digital plus.
+
+Status : PreRC1
+VQ and SQ are very acceptable but not perfect anyway indeed. 
+(15-16/20) Normal/Good quality
+Tested sucessfully on Pot Player,PowerDVD 13,DVDFab Media Player and MPC BE 1.1.3.0
+Btw,we strongely recommend you to install first : ac3 filter 2.60b Full for best experience and compatibility with our famous E-AC3 audio codec used.
+
+Principal changes :
+
+Reconverted h264 to mkv h263 with a different bitrate.
+Changed French soundtrack by upmixing original Ac3 5.1/640 kbps/16 bit/48 Khz
+to E-AC3 5.1/1536 kbps/32 bit/48 Khz
+Full screen resolution cropped image for attempting to get a sort of HD.1080p.
+Forms and personnages get a little deformation but stay still acceptable to watch for eyes anyway.
+
+Available spoken language : French and English
+Sub : none
+Note : English soundtrack has been reconverted/Downmixed from DTS-HD MA 7.1 to simple DTS 5.1 single Core by removing HD audio part as Master audio for a smaler size result so.
+
+See imdb right here : 
+http://www.imdb.com/title/tt0790724/
+
+More details about our remastered movie :
+
+
+    Complete name : 
+Jack_Reacher.(2012).(C.McQuarrie).Remastered.H263.1080p[)(]E-Ac3 & Dts 5.1-(Fr,En)-PreRC-1.mkv
+
+    Format : Matroska
+    Format version : Version 2
+    File size : 14.0 GiB
+    Duration : 2h 10mn
+    Overall bit rate : 15.4 Mbps
+    Encoded date : UTC 2013-05-01 11:45:00
+    Writing application : Lavf55.3.100
+    Writing library : Lavf55.3.100
+
+  Video #1
+    ID : 1
+    Format : H.263
+    Codec ID : V_MS/VFW/FOURCC / H263
+    Duration : 2h 10mn
+    Bit rate : 12.1 Mbps
+    Width : 1 920 pixels
+    Height : 816 pixels
+    Display aspect ratio : 2.35:1
+    Frame rate mode : Constant
+    Frame rate : 23.976 fps
+    Bit depth : 8 bits
+    Compression mode : Lossy
+    Bits/(Pixel*Frame) : 0.321
+    Stream size : 11.0 GiB (78%)
+    Language : English
+    Default : Yes
+    Forced : No
+
+  Audio #2
+    ID : 2
+    Format : E-AC-3
+    Format/Info : Audio Coding 3
+    Format settings, Endianness : Big
+    Codec ID : A_EAC3
+    Duration : 2h 10mn
+    Bit rate mode : Constant
+    Bit rate : 1 536 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 32 bits
+    Compression mode : Lossy
+    Stream size : 1.40 GiB (10%)
+    Language : French
+    Default : Yes
+    Forced : No
+
+  Audio #3
+    ID : 3
+    Format : DTS
+    Format/Info : Digital Theater Systems
+    Mode : 16
+    Format settings, Endianness : Big
+    Codec ID : A_DTS
+    Duration : 2h 10mn
+    Bit rate mode : Constant
+    Bit rate : 1 509 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 24 bits
+    Compression mode : Lossy
+    Stream size : 1.37 GiB (10%)
+    Language : English
+    Default : Yes
+    Forced : No
+  
+A few screenshots will be available asap where you know as usual.
+
+Enjoy and seed,please.
+Have a nice day
+
+Best regards

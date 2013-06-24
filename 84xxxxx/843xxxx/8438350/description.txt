@@ -1,0 +1,23 @@
+Xcode 4.6.2:
+  Release version of the complete Xcode developer toolset for Mac,
+  iPhone, iPod touch and iPad. It includes the iOS 6 SDK and OS X 10.8
+  SDK. Xcode 4.6.2 requires OS X Mountain Lion or OS X Lion.
+
+Command Line Tools (OS X Mountain Lion) for Xcode - April 2013
+  This package enables UNIX-style development via Terminal by
+  installing command line developer tools, as well as Mac OS X SDK
+  frameworks and headers. Many useful tools are included, such as
+  the Apple LLVM compiler, linker and Make. If you use Xcode, these
+  tools are also embedded within the Xcode IDE, and can be installed
+  on your system using the Downloads preferences pane within Xcode.
+
+Command Line Tools (OS X Lion) for Xcode - April 2013
+  This package enables UNIX-style development via Terminal by
+  installing command line developer tools, as well as Mac OS X SDK
+  frameworks and headers. Many useful tools are included, such as
+  the Apple LLVM compiler, linker and Make. If you use Xcode, these
+  tools are also embedded within the Xcode IDE, and can be installed
+  on your system using the Downloads preferences pane within Xcode.
+  This package requires Mac OS X 10.7.4 or later.
+ 
+https://developer.apple.com/xcode/

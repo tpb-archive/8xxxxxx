@@ -1,0 +1,34 @@
+No need to put serials and cracks to get the full version, (already done it for you).
+No unnecessary registry changes. 
+No boring installation of tool-bars in your browser or other unwanted things.
+You can even run this torrent from USB-Stick.
+Easy Uninstall with the Windows control panel.
+These are a few things that makes a '1-click run' version a, better version.
+
+Description:
+
+Start your own game development company and replay the history of gaming in this business simulation game. Start your business in a garage in the 80s. Research new technologies and create best selling games. Hire and train staff. Move into bigger offices and unlock secret labs. Become the leader of the market and gain worldwide fans.
+
+Features:
+
+  *  Start your own game development company in the 80s
+  *  Design and create your own games
+  *  Research new technologies
+  *  Create your own custom game engine
+  *  Move into bigger offices
+  *  Forge a world-class development team
+  *  Unlock secret labs
+  *  Conduct industry changing products
+  *  Unlock achievements
+
+CHANGELOG:
+
+v1.3.9 09 May. 2013 (only released for native version)
+- Fixed: DOM Exception errors because open file descriptors limit is reached. (Mac)
+- Fixed: Game would crash when hiring a fifth female staff. (so sorry :/)
+- Fixed: Staff list is not displayed correctly on Mac and Linux.
+- Fixed: Feature selection doesn?ÇÖt show up if engine name has a space before or after the name.
+- Fixed: Engine development could result in negative remaining points left.
+- Fixed: Saving late-game can cause a quota exceeded exception.
+- Fixed: Game is still paused when exiting game history with ESC key.
+- Improved: Removed delay between loading a level and loading the character from the hot-fix workaround in version 1.3.7+ (Mac and Linux)

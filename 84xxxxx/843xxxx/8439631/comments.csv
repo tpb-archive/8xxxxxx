@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+[T],trialNerror,2013-05-06T03:03Z,"Please don't ask for this in .avi format.
+
+Please learn to convert formats for yourselves.
+
+http://paranormal-tv-shows-forum.2302825.n4.nabble.com/Convert-to-AVI-Using-MeGUI-s-One-Click-td4640800.html
+
+Go there. Follow the instructions. Make the .avi yourself. Learn something. Feel accomplished. Ask me if you have any questions. "
+,AaarMatey,2013-05-07T03:47Z,"I like Emicsoft for Mac. 
+Thankee for paranormals!"
+[T],trialNerror,2013-05-10T10:58Z,"Someone mentioned audio issues for this season.
+
+I didn't have any issues. All video files played fine with audio on the PC (vlc, media player classic, itunes, and quicktime tested), on the PS3 (streaming and via thumb drive tested), and on a cheap no name handheld media player.
+
+However, after a little bit of tinkering, the files won't successfully convert to any other format using the typical programs because there seems something strange with the audio tracks. I used the audio from the original YouTube FLV files and honestly don't know what the deal is. Since I don't know what the deal is I can't help anyone with it. Sorry.
+
+I guess I could try ConvertXtoDVD to see if that'll convert and keep the audio, but if Avidemux and MeGUI can't convert the audio I don't see how CX2DVD can.
+
+Feel free to try it and post the results. I would myself, but I already spent enough time testing and have a lot of other things to do."
+[T],trialNerror,2013-05-11T03:05Z,"I presume nobody else was willing to toy with these in ConvertX so I did and as suspected no success.
+
+Not sure if it's just the 480p files with wonky audio that doesn't convert or not and honestly I don't feel up to downloading all of the 360p versions to test those audio tracks. Plus I HATE enlarging video because it instantly creates tiling, artifacts, and blur.
+
+At least this problem isn't for everyone. If you have no audio during playback be sure you're using VLC or a decent codec pack with Media Player Classic. Works fine on the PS3. Would appreciate anyone with X360 letting us know if it plays fine on that. If you're having no success on a tablet or mobile device - too bad? Shit happens? This aint a perfect world? Worst case scenario people can just watch the videos on YouTube."
+[T],trialNerror,2013-05-12T16:04Z,"A random thought for anyone not having audio - I have no clue if the 2 people that mentioned no audio are saying so for the PC or some other device, but here's a solution that *might* get audio to play on your hardware - turn the mp4 to mkv.
+
+Very simple to do.
+Get MKVmerge from videohelp dot com.
+Install.
+Run.
+Drop a mp4 in.
+Leave all track settings alone.
+Mux - Done in seconds.
+Try playing the mkv version for audio.
+Report back to me with results.
+
+;D"

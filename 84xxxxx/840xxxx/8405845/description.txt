@@ -1,0 +1,30 @@
+Ophcrack Live CD 3.4.0 [MULTi]
+
+Category: Software
+Language: Multilingual including Spanish
+OS: Windows: XP/Vista/7
+Size: 931 MB
+Format: 2 ISO
+Isos Compressed with WinRar, unzip and ready, then burn the Isos.
+
+Description:
+-------------
+Ophcrack is a tool for obtaining the password of Windows based on a time-memory trade-off using tables. This is a new variant of the original Hellman trade-off, with better performance. Recovers 99.9% of alphanumeric passwords in seconds.
+
+Features:
+----------------
+Cracks LM and NTLM hashes Windows
+Available for Windows XP, Vista and 7
+Brute force module for simple passwords
+Audit mode and CSV export
+Real-time graphs to analyze the passwords
+LiveCD available to simplify the cracking
+Loads hashes from encrypted SAM recovered from the Windows partition
+
+Instructions:
+---------------
+1. Burn the ISO to a DVD
+Two. Insert the DVD into the desired drive team who need the password
+Three. Set BIOS to boot from CD / DVD
+April. Press Enter when asked to boot from CD (if you do not ask for what you need to change the boot order in the computer CD drive to be higher than the HDD)
+May. Enjoy!

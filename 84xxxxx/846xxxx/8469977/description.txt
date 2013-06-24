@@ -1,0 +1,21 @@
+LinuxCBT HTTPD Edition
+=-------------------------------=
+
+Focus: Introduction to the Apache HTTPD Web Server Administration
+
+Duration: 8 Hours
+
+Introduction - Apache - Features
+URL | File-System Mappings
+Content Redirection
+Apache HTTPD Server - Bindings
+Virtual Hosts
+HTACCESS - Files-Based Directives Control
+Content Negotiation
+Content Restrictions - Filtration
+Mod Rewrite - Introduction
+Mod Rewrite - Backreferences
+Mod Rewrite - Rewrite Condition
+Mod Rewrite - Query String
+Mod Rewrite - Logging | Debugging
+Mod Rewrite - Force SSL

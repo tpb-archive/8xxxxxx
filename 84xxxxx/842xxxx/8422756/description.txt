@@ -1,0 +1,64 @@
+
+
+The HISTORY┬« original series Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok (Travis Fimmel), a Viking warrior and farmer who yearns to exploreΓÇöand raidΓÇöthe distant shores across the ocean. His ambition puts him at odds with local chieftain Earl Haraldson (Gabriel Byrne), who insists on sending his raiders to the impoverished east rather than the uncharted west. When Ragnar teams up with his boat builder friend Floki (Gustaf Skarsgard) to craft a new generation of intrepid ships capable of conquering the rough northern seas, the stage is set for conflict.
+
+But for all its warfare and bloodshed, Vikings is also a story of family and brotherhood, capturing the love and affection between Ragnar and his wife, Lagertha (Katheryn Winnick), a respected warrior in her own right. It is the tale of RagnarΓÇÖs brother Rollo (Clive Standen), a fierce fighter who simmers with jealously; of Earl HaraldsonΓÇÖs wife Siggy (Jessalyn Gilsig), a dutiful beauty who may be less than loyal; and of the monk Athelstan (George Blagden), whose Christian morals clash with the VikingsΓÇÖ pagan society. As ambition and innovation rattle a civilization, these characters will be put to the testΓÇöand their way of life will never be the same again.
+
+Vikings was created and written by Michael Hirst (Elizabeth, The Tudors).
+
+
+
+Γê⌐ΓòùΓöÉGeneral
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 753 Kbps
+Encoded date                             : UTC 2013-04-23 18:16:00
+Tagged date                              : UTC 2013-04-23 18:16:00
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Bit rate                                 : 655 Kbps
+Maximum bit rate                         : 2 860 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.024
+Stream size                              : 207 MiB (86%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=1 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=655 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2013-04-23 18:16:00
+Tagged date                              : UTC 2013-04-23 18:16:12
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Bit rate mode                            : Variable
+Bit rate                                 : 98.6 Kbps
+Maximum bit rate                         : 106 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 31.4 MiB (13%)
+Encoded date                             : UTC 2013-04-23 18:16:10
+Tagged date                              : UTC 2013-04-23 18:16:12
+
+

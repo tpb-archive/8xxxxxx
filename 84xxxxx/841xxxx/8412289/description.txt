@@ -1,0 +1,59 @@
+Audio: English, Russian,
+
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 709 MiB
+Duration                                 : 1h 30mn
+Overall bit rate                         : 1 100 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 30mn
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 30mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+
+Pease note their is no runtime of 100 minutes for this movie
+
+Storyline
+
+In a post-apocalyptic future mankind is lives in a prehistoric manner. After killing his father for sexually assaulting his girlfriend, the son of a tribal leader runs away with a group of his teenage friends. They are taken in by Neil and Judith who introduce them to the vices outlawed by their tribes namely sex and drugs.Neil and Judith, however, are genetically altered indestructible mutants who have their own plans for the future of the human race. 

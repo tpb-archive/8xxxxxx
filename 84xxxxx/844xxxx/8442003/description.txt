@@ -1,0 +1,34 @@
+VB.Net to C# Converter
+
+There are a number of VB .NET ΓÇô&gt; C# converters out there, but we ultimately decided to use the VBConversions VB .NET to C# Converter because it offered the fastest, easiest, and highest quality conversion of any of the tools that we evaluated. 
+
+Are you ready to convert your VB.Net code to C? All versions of Visual Basic.Net are supported: 2003, 2005, 2008, 2010, 2012 as well as all project types (Win Forms, Web, Class Library, Compact Framework, Silverlight, etc.).
+
+There is support for the latest VB.Net language features, including VB2012 await/async support, VB2010 enhancements like Implicit Line Continuation and Multiline Lambdas, and VB2008 features such as LINQ and inline XML.
+
+Key Features
+
+Support for the latest Visual Studio features - The latest VB.Net / C# features are supported, including Await/Async, Implicit Line Continuation, Multiline Lambdas, Nullable Optional Parameters, LINQ, XML, WPF, Lambda expressions, and extension methods.
+Support for All Project Types - Win Forms, Web, Class Library, Compact Framework, Console, etc.
+High Accuracy - This release was stress tested on thousands of sample programs. Tested were hundreds of Microsoft sample projects (Visual Studio SDK samples, DirectX SDK projects, Windows 7 SDK samples, etc.), in house and customer projects, third party control samples (Infragistics, ComponentOne, Telerik, etc.), and open source projects from SourceForge and CodePlex.
+Ease of Use - While the conversion logic itself is complex, using the converter isn't. You are guided through each step of the process with easy, clear instructions.
+Customization - Not every project is the same. With dozens of conversion options to choose from, you are in control of the conversion process.
+Convert Single Projects or Groups of Projects - You can create lists of programs and convert them with one click. There's also a command line version included.
+Comprehensive Reporting - There are reports showing potential trouble spots in your code, interesting things which happened during the conversion process, and any C# compiler errors which need to be fixed.
+
+Supported OS:
+
+Windows 7/vista/xp
+All versions: Visual Studio 2003, 2005, 2008, 2010, and 2012.
+
+Homepage: http://vbconversions.net/
+
+Installation Instructions:[/b]
+
+- Install program.
+- Run "Regme" and merge it to system registry.
+- Done, Enjoy.
+
+[b]Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+[V],Gh0stNet,2013-05-04T16:01Z,"Version 1.04
+------------
+- Tentative fix for missing world map icons on Intel HD Graphics 3000 and 4000 cards
+- Added experimental CLI flag for variable timestep (--variable-time-step), may break game physics, try at your own risk!
+- Fixed possible crash during loading screens
+- Fixed window scaling problem when using higher Windows DPI settings
+- Fixed leaderboard crash with unmapped characters in usernames
+- Game no longer forces 1280x720 resolution on first run if it's not supported
+- Sound effect volume setting now applied when starting game
+- Fixed possible crash with music buffering
+- Fixed problem where doors would remain closed forever after exiting or crashing out of a level
+- Tentative fix for invisible pages in tome
+- Number of anti-cubes now capped at 32, if you somehow manage to find 33!
+
+Version 1.03
+------------
+- Fixed crash-on-load errors for systems with Turkish regional settings
+- Fixed possible crash when accessing video settings
+- Fixed wrong letterboxing when going fullscreen with some 16:9 resolutions
+
+Version 1.02
+------------
+- Fixed memory leak for OpenAL buffers and sources
+- Fixed music-related crash in all puzzle rooms with the ""Knowledge"" music track
+- Fixed ""invalid entry point"" error when changing resolution or exiting the game with older OpenGL GPUs
+
+Version 1.01
+------------
+- Fixed random crash issue when starting a new game
+
+Version 1.0
+-----------
+- Initial release"
+,darmar79,2013-05-04T18:51Z,"Works fine,thanks uploader! ;)"
+,Ehsan_danger4,2013-05-05T11:20Z,the game still crashes!! please help
+,LarndeSolen,2013-05-06T04:32Z,This completely fixed the crash I was getting every time I went into one room in the starting village. Thanks very much!
+,miked2138,2013-05-07T11:59Z,"dont know about this one, game did work, wont even start after this update"

@@ -1,0 +1,63 @@
+Source : CtrlHD(Thanks)
+ 
+http://www.imdb.com/title/tt2072134/
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 698 MiB
+Duration                                 : 1h 20mn
+Overall bit rate                         : 1 214 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 20mn
+Bit rate                                 : 1 076 Kbps
+Width                                    : 640 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.258
+Stream size                              : 619 MiB (89%)
+Writing library                          : XviD 1.2.0.dev47 (UTC 2006-11-01)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 20mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 73.6 MiB (11%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+Writing library                          : LAME3.99r
+Encoding settings                        : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+When a father and son become stranded in the wild, they must confront the horrors of their past to escape 
+ 
+http://img844.imageshack.us/img844/3447/daleo.png 
+http://img805.imageshack.us/img805/1937/dale1.png 
+http://img11.imageshack.us/img11/2118/dale2.png

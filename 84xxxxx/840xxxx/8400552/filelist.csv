@@ -1,0 +1,14 @@
+﻿Filename,Size,Unit
+CD_ISO/konboot.iso,1.41,M
+COPYING,17.57,K
+EFI/boot/KonMacDxe.efi,11.47,K
+EFI/boot/bootx64.efi,10.47,K
+USBFILES/grldr,209.9,K
+USBFILES/menu.lst,170,B
+USB_INSTALL.vbs,2.5,K
+USB_INSTALL_DIFF.vbs,3.19,K
+eula.txt,7.55,K
+grubinst.exe,60.3,K
+konbootMAC_guide.pdf,254.11,K
+usb_install1_NEEDADMIN.bat,77,B
+usb_install2_NEEDADMIN.bat,82,B

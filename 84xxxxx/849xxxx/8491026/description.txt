@@ -1,0 +1,11 @@
+You have no idea what I've gone through to get this book in PDF format. Hope you make good use of it! 
+
+Book Description
+
+This text offers a comprehensive treatment of VHDL and its applications to the design and simulation of real, industry-standard circuits. It focuses on the use of VHDL rather than solely on the language, showing why and how certain types of circuits are inferred from the language constructs and how any of the four simulation categories can be implemented. It makes a rigorous distinction between VHDL for synthesis and VHDL for simulation. The VHDL codes in all design examples are complete, and circuit diagrams, physical synthesis in FPGAs, simulation results, and explanatory comments are included with the designs. The text reviews fundamental concepts of digital electronics and design and includes a series of appendixes that offer tutorials on important design tools including ISE, Quartus II, and ModelSim, as well as descriptions of programmable logic devices in which the designs are implemented, the DE2 development board, standard VHDL packages, and other features. All four VHDL editions (1987, 1993, 2002, and 2008) are covered. This expanded second edition is the first textbook on VHDL to include a detailed analysis of circuit simulation with VHDL testbenches in all four categories (nonautomated, fully automated, functional, and timing simulations), accompanied by complete practical examples. Chapters 1--9 have been updated, with new design examples and new details on such topics as data types and code statements. Chapter 10 is entirely new and deals exclusively with simulation. Chapters 11--17 are also entirely new, presenting extended and advanced designs with theoretical and practical coverage of serial data communications circuits, video circuits, and other topics. There are many more illustrations, and the exercises have been updated and their number more than doubled.
+
+About the Author
+
+Volnei A. Pedroni received his PhD in Electrical Engineering from the California Institute of Technology. He is Professor of Electronics Engineering at Brazil's Federal University of Technology.
+
+Amazon link: http://www.amazon.com/Circuit-Design-Simulation-Volnei-Pedroni/dp/0262014335

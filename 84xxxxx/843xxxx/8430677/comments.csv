@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+[T],teslaman,2013-05-02T08:02Z,"I have to repack this one. :( The audio played fine on my usual player (VLC), but it's out of sync on everything else, including my standalone DivX player and VLC on another PC. Arg!
+
+Still trying to nail the problem down, hopefully it won't take too long."
+[T],teslaman,2013-05-02T09:05Z,"Delay the audio by 500ms in your player, or download the repack.
+
+Sorry about that guys and gals. :( The issue is in the 720p source. My usual methods to fix the messed up MKV didn't work this time, but at least the audio delay was able to fix it."
+,steve8852,2013-05-02T14:57Z,Yep. AFG was off on sync. They usually do a great job. I pulled the 620P and did a 1-pass with VDub and it came out fine. Weird.
+,steve8852,2013-05-02T14:57Z,Yep. AFG was off on sync. They usually do a great job. I pulled the 720P and did a 1-pass with VDub and it came out fine. Weird.
+[T],teslaman,2013-05-09T06:56Z,"Ah, yeah I think they set something in the MKV container to offset it by 500ms on playback. Because if you demux the video/audio streams, then remux them into a new MKV, the audio is out of sync.
+
+So maybe VDub was able to read that info when you tried it that way. I don't do it direct in VDub like that because I need to drop the audio to 256kbps for higher video quality and VDub doesn't like working with 5.1 AC3. So I demux and uncompress to 5.1 channel WAV, which would lose that offset in the MKV."

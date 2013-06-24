@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,retro_vs_techno,2013-05-08T19:02Z,"Is this legit? There's no version 4.0.6 
+
+The official site says ""Latest version: Alpha 4.05. Released 17th April, 2013""
+"
+,bigasian,2013-05-09T21:45Z,"Yes this is legit taken strait from underthegarden.com proboards for paid customers like myself.
+
+""4/17/2013 - There were a few serious crashes with 4.05 (released yesterday), so I'm doing a small extra build. The changes are:
+
+
+* Fixed crashing bug
+* Fixed cached all game objects
+* Fixed update layer crash
+* Fixed joint crash
+* Reverted the old random generation system
+* Streamlined set parent system
+* Fixed bug placing items in fireplace
+* Fixed velocity crashing bug
+* Fixed crafting bug with chimney
+* Fixed the hail being black
+* Fixed error reporting
+* Fixed stacked properties
+"""

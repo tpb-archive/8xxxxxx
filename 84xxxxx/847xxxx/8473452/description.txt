@@ -1,0 +1,89 @@
+CHRIS HADFIELD SINGS SPACE ODDITY IN SPACE!
+-------------------------------------------
+
+Media Information
+-----------------
+Notes:
+------
+- The video file was downloaded from the official highest quality 720p WebM YouTube video by Chris Hadfield
+- The audio file is simply the Vorbis audio extracted from the above WebM YouTube video using the following command $ffmpeg -i ./input.webm -vn -acodec copy ./output.ogg
+- The video subtiles file is taken from an English for the Hearing Impaired captions from Amara, other subtitles may be added by to this video by volunteers over time: http://www.amara.org/en/videos/nkW59XfYEH0r/info/space-oddity/
+- The image file is from the official David Bowiepost about Chris Hadfield's version of his song
+
+-------------------------------------------------------------------------------
+
+General
+Unique ID                                : 119476383956145158798830191706543701787 (0x59E250866720E16457D551A0E57B3F1B)
+Complete name                            : Cmdr_Chris_Hadfield_ISS-Space_Oddity-Original_Release_(2013)Cmdr_Chris_Hadfield_ISS-Space_Oddity-Original_Release_(2013).webm
+Format                                   : WebM
+Format version                           : Version 2
+File size                                : 88.8 MiB
+Duration                                 : 5mn 30s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 253 Kbps
+Writing application                      : Google
+Writing library                          : Google
+
+Video
+ID                                       : 1
+Format                                   : VP8
+Codec ID                                 : V_VP8
+Bit rate                                 : 1 963 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : Vorbis
+Format settings, Floor                   : 1
+Codec ID                                 : A_VORBIS
+Duration                                 : 5mn 30s
+Bit rate mode                            : Variable
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -25ms
+Stream size                              : 7.56 MiB (9%)
+Default                                  : Yes
+Forced                                   : No
+Writing application                      : Google
+-------------------------------------------------------------------
+
+Video information
+-----------------
+
+Chris Hadfield ?@Cmdr_Hadfield
+
+With deference to the genius of David Bowie, here's Space Oddity, recorded on Station. A last glimpse of the World.
+
+10:00 PM - 12 May 13
+---------------------
+
+
+ΓÇ£Hallo Spaceboy...ΓÇ¥
+
+Commander Chris Hadfield, currently on board the International Space Station, has just tweeted his version of David BowieΓÇÖs Space Oddity.
+
+HereΓÇÖs what his Tweet said:
+
++ - + - + - + - + - + - + - + - + - + - + - + -
+
+A revised version of David Bowie's Space Oddity, recorded by Commander Chris Hadfield on board the International Space Station.
+With thanks to Emm Gryner, Joe Corcoran, Andrew Tidby and Evan Hadfield for all their hard work.
+
++ - + - + - + - + - + - + - + - + - + - + - + -
+
+ItΓÇÖs possibly the most poignant version of the song ever created and you may recognise the name of one of those involved in its creation.
+
+WeΓÇÖre talking about Chris's fellow Canadian, the lovely Emm Gryner, who was a part of the Bowie live band in 1999/2000. HereΓÇÖs what she said on her blog (http://smarturl.it/EmmBlog) regarding her involvement:
+
+ΓÇ£The task was in front of me. I came up with a piano part. i then enlisted my friend, producer and fellow Canadian Joe Corcoran to take my piano idea and Chris' vocal and blow it up into a fully produced song. Drums! mellotrons! fuzz bass! We also incorporated into the track ambient space station noises which Chris had put on his Soundcloud. I was mostly blown away by how pure and earnest Chris' singing is on this track. Like weightlessness and his voice agreed to agree.
+And voila! And astronaut sings Space Oddity in space! I was so honoured to be asked to be a part of this. You wouldn't get too many chances to make a recording like this and not only that, to make music with someone who - through his vibrant communications with kids in schools to his breathtaking photos to his always patient and good-humoured demeanour - has done more for science and space than anyone else this generation. Planet earth IS blue, and there's nothing left for Chris Hadfield to do. Right. Safe travels home Commander! ΓÇ¥
+
+You can view the breathtaking video and hear Chris's beautiful rendition here on YouTube: http://smarturl.it/ChrisHadfieldSO

@@ -1,0 +1,23 @@
+Internet Download Accelerator lets you to noticeably increase the speed of file download from the Internet using HTTP, HTTPS and FTP protocols. The acceleration is achieved by splitting a file being downloaded into several parts and downloading these parts at the same time. Internet Download Accelerator resumes broken downloads from where they left off from both HTTP, HTTPS and FTP servers.
+
+To increase usability Internet Download Accelerator integrates with Internet Explorer, Chrome, Firefox, Mozilla, Opera, Nescape, Safari, Yandex.Browser and others, replacing the standard download modules.
+
+Changelog:
+
+ Added Firefox plug-in for easy video and music download from any sites;
+ Ability to download all videos from users, channels and play-lists on YouTube;
+ Ability to automatically download new videos from the selected channels and play-lists (by adding a channel/play-list to Autoupdate category);
+ File names of .mp3 files can be automatically created using the contained tags;
+ Fixed IDA hanging up when starting big downloads saved to NTFS drives (when the 'Reserve space on disk for the whole file' option is disabled);
+ In addition to shortcuts added a menu item "Force start [Shift+Ctrl+S]" to start a queued download immediately.
+ Improved switching to Sleep and Hibernate modes on Windows 7 and Windows 8;
+ Restored the ability to download from YouTube;
+ Updated plug-in and IDABar for Firefox;
+ Improved Google Chrome integration;
+ Minor bugs fixed.
+
+OS : Microsoft┬⌐ Windows 8/7/Vista/XP/2012/2008/2003/2000/NT
+
+Language : English, German, French, Dutch, Spanish, Portuguese, Czech, Russian, Ukranian, Hungarian, Croatian, Polish, Danish, Japanese, Italian, Slovenian, Greek, Arabic, Belarusian, Serbian, Turkish, Chinese, Persian, Lithuanian, Bulgarian, Bosnian, Korean, Hebrew and more
+
+More:     http://westbyte.com/index.phtml?page=news&lng=English

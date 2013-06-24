@@ -1,0 +1,20 @@
+Released:2013 
+Pages:76 
+ISBN: 1449332684 
+Format:PDF 
+Size:10 MB
+Category:Study
+Author:Boris Smus 
+ 
+http://auctions.eliteturnkey.com/jan/89/description.gif
+
+Go beyond HTML5ΓÇÖs Audio tag and boost the audio capabilities of your web application with the Web Audio API. Packed with lots of code examples, crisp descriptions, and useful illustrations, this concise guide shows you how to use this JavaScript API to make the sounds and music of your games and interactive applications come alive.
+
+You need little or no digital audio expertise to get started. Author Boris Smus introduces you to digital audio concepts, then shows you how the Web Audio API solves specific application audio problems. YouΓÇÖll not only learn how to synthesize and process digital audio, youΓÇÖll also explore audio analysis and visualization with this API.
+
+Learn Web Audio API, including audio graphs and the audio nodes
+Provide quick feedback to user actions by scheduling sounds with the APIΓÇÖs precise timing model
+Control gain, volume, and loudness, and dive into clipping and crossfading
+Understand pitch and frequency: use tools to manipulate soundforms directly with JavaScript
+Generate synthetic sound effects and learn how to spatialize sound in 3D space
+Use Web Audio API with the Audio tag, getUserMedia, and the Page Visibility API

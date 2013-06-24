@@ -1,0 +1,80 @@
+::Release Info::
+================
+Release Title: The Man In The Gray Flannel Suit [1956] Nunnally Johnson
+Encode date:
+
+::IMDB and TMDB Info::
+======================
+TMDB Link: http://www.themoviedb.org/movie/28290
+IMDB Link: http://www.imdb.com/title/tt0049474
+Storyline: Tom Rath lives in Connecticut and commutes to work every day in Manhattan. He's happily married and has a loving wife and three children. Money is a bit tight and when the opportunity arises, he applies for a public relations job with a major television network. During his long commute to work everyday, Tom reminisces about the war. Although 10 years have gone by, he is still haunted by the violence and the men he killed. He also thinks of Maria, an Italian girl with whom he had an affair while stationed in Rome. At his new job, the head of the network Ralph Hopkins takes an immediate liking to him. Tom soon realizes that he will have to choose between becoming a wholly dedicated company man or maintaining a healthy work-life balance. When he learns that Maria gave birth to his son after he left Italy, he decides to let his wife know and ensure that the boy is cared for.
+Genre: Drama | War
+Release date: 08/05/1956
+
+::Actors::
+==========
+Gregory Peck ... Tom Rath
+Jennifer Jones ... Betsy Rath
+Fredric March ... Ralph Hopkins
+Marisa Pavan ... Maria Montagne
+Lee J. Cobb ... Judge Bernstein
+Ann Harding ... Helen Hopkins
+Keenan Wynn ... Sgt. Caesar Gardella
+Gene Lockhart ... Bill Hawthorne
+Gigi Perreau ... Susan Hopkins
+Portland Mason ... Janey Rath
+Arthur O'Connell ... Gordon Walker
+Henry Daniell ... Bill Ogden
+
+General
+=======
+Complete name : The Man In The Gray Flannel Suit [1956] Nunnally Johnson.mp4
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 2.02 GiB
+Duration : 2h 33mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 890 Kbps
+Writing application : Lavf52.94.0
+
+Video
+=====
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 2h 33mn
+Bit rate : 1 723 Kbps
+Width : 856 pixels
+Height : 480 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.140
+Stream size : 1.84 GiB (91%)
+Writing library : x264 core 112 r1834 a51816a
+
+Audio
+=====
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 2h 33mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 175 MiB (8%)

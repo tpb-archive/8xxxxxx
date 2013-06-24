@@ -1,0 +1,147 @@
+Description
+
+Sinopse e detalhes
+
+A malvada madrasta (Susan Blakeslee) consegue se apoderar da varinha mágica da fada-madrinha (Russy Taylor), fazendo com que o tempo volte ao passado. Agora Cinderela (Jennifer Hale) precisa mais uma vez encontrar o príncipe encantado (Christopher Daniel Barnes) e quebrar o novo feitiço.
+
+Format : Matroska
+Format version : Version 2
+File size : 457 MiB
+Duration : 1h 13mn
+Overall bit rate : 864 Kbps
+Encoded date : UTC 2013-05-21 14:41:41
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 13mn
+Bit rate : 463 Kbps
+Width : 720 pixels
+Height : 400 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.067
+Stream size : 245 MiB (54%)
+Title : Cinderella3 ( by fantasma )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 13mn
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 203 MiB (44%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : English - (Caption/Normal Size Char)
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Spanish - (Caption/Normal Size Char)
+Language : Spanish
+Default : No
+Forced : No
+
+Text #3
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : Portuguese - (Caption/Normal Size Char)
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #4
+ID : 6
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Spanish
+Default : No
+Forced : No
+
+Text #5
+ID : 7
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #6
+ID : 8
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:04:15.334 : en:Chapter 02
+00:07:59.868 : en:Chapter 03
+00:13:43.502 : en:Chapter 04
+00:17:51.535 : en:Chapter 05
+00:20:54.835 : en:Chapter 06
+00:25:42.868 : en:Chapter 07
+00:28:18.001 : en:Chapter 08
+00:33:11.835 : en:Chapter 09
+00:36:38.835 : en:Chapter 10
+00:41:36.335 : en:Chapter 11
+00:45:56.002 : en:Chapter 12
+00:51:29.502 : en:Chapter 13
+00:54:47.669 : en:Chapter 14
+01:00:52.370 : en:Chapter 15
+01:05:16.338 : en:Chapter 16
+01:13:51.338 : en:Chapter 17

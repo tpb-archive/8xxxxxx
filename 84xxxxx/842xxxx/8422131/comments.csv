@@ -1,0 +1,55 @@
+﻿User Type,Username,Date,Text
+,akun91,2013-04-29T10:30Z,"Thanks bro, as your previous upload worked fine I trust you, and encourage people to download ""your"" release"
+,waves_user,2013-04-29T10:44Z,"@akun91
+
+Thanks for that, I don't want to waste my or your time uploading garbage. I test these releases from:
+
+http://audioz.info/audio-software/pc/52426-download_waves-all-plugins-bundle-v9r11-r2r.html
+
+Before I upload here. Big thanks to R2R and everyone who upload these cracks!"
+,Ericandy,2013-04-29T17:13Z,"33.46 Mbs???????    This should be around 1 Gb.  Attention ALL:  Proceed with caution.  Better yet, don't proceed at all."
+,waves_user,2013-04-30T00:16Z,"@Eriandy
+I am not going to upload a 1GB file, it would just take to long for me to seed. If you want to complete file, feel free to get that from the link I posted in the previous comment. The description clearly says what you are downloading, its no a fake its just the crack!"
+,spockdaz,2013-04-30T09:59Z,"Hi waves user, long time no see, how u been.
+Not interested in the waves stuff but I went to that audioz site and found a few things I would like to try.
+Could you please tell me how to download from that site, what is the best link to download from and how do you do it, thanks."
+,waves_user,2013-04-30T11:40Z,"@spockdaz
+
+Good to hear from you again!. In most cases the links provided are limited to a download limit. You don't need to register for audioz. They offten have a description and then you will see a peeplink url open that up (its safe to open, its just a list of urls) choose a site and thats it....."
+,waves_user,2013-04-30T12:02Z,...Uploaded.com is reliable (limited to 50kbps or register for free and get an extra 20kbps) you can change the default language in the lower right corner....
+,spockdaz,2013-05-01T09:07Z,"OK thanks WU, cheers."
+,polymerized,2013-05-15T06:20Z,"Hey waves_user, I imagine how much you have been getting this, but I tried everything imaginable and I still couldn't bypass the ""waves_lib is missing from your computer"" problem. I know it's probably something related to the instalation paths. When you tested this with FL 11 can you please tell me which instalation paths were you using? Thank you!"
+,waves_user,2013-05-15T09:33Z,"@polymerized
+
+Did you try searching for the file? All waveslib files reside in the program files(x86) waves/plugins folder. This may become an issue when you have older waves installs on your pc or do custom install locations. Before installing delete ALL waves related content (uninstall in control panel and my computer/search computer/waves. You will see all waves related files go through them and right click trash them but be sure they are waves related) and then run the exe, choose the bundles and then run the crack. Let the installer install on the default locations. Watch where the vst plugins get placed (not steinberg/vst) but program files(x86)/vstplugins (otherwise FL wont see the plugins)"
+,bostonrake,2013-05-17T01:54Z,"waves_user... I downloaded the full from the link provided in your comment.  When I went to install, it says it is the ""Complete"" installer... not Mercury.  However, I know you can select to install Mercury.  It is just a little confusing and I'm wondering if all the plugins are actually there.  Thanks!"
+,waves_user,2013-05-17T07:37Z,"@Bostonrake
+
+Yup its a complete installer meaning exe, crack and vstshell app along with r2r info. Mercury includes all of the current waves plugins including new plugins that waves announces except the SSL collection and the kings microphone (don't know why)"
+,polymerized,2013-05-18T01:19Z,"@waves_user 
+
+I'm sorry: I guess I'm just plain dumb. I installed it many times and never got it to work until instead of selecting the plugin itself (say, C1), I selected wave_shell and then opened the desired plugin through the menu. I had mercury running before i switched pc's and I could select the plugins individually, but now It seems that I cannot. Did this happen to you too? Anyway, thank you for your answer and for these amazing releases. Thank you, thank you, thank you!"
+,waves_user,2013-05-18T09:51Z,"@Polymerized
+By default they get installed that way, where in FL you scan and load the waveshell through the mixer inserts, I didnt like that method because if I wanted to switch a plugin I would have to reload the waveshell. I always had problems with the waveshells crashing or ""loosing connection"" with jbridge in FL Studio, in Pro Tools its never been an issue since each plugin shows up individually. I used the vstshell app included in this torrent to create the individual plugins(sort of an unpacking method) which works flawlessly in FL Studio now, running the 64-bit versions."
+,bostonrake,2013-05-22T04:24Z,"waves_user...
+Sorry to be a pain.  I understand the ""complete"" thing now and did my homework, so I'm now good... thanks!  However, I did a scan with EMISOFT and it found trojans.  Again I downloaded from the link you provided.  Here is the log...
+C:Program Files (x86)WavesPlug-InsAPI-560.bundleContentsWin32GenericWinProcess.dll 	detected: Trojan.Win32.Agent.tvge.AMN (A)
+C:Program Files (x86)WavesPlug-InsArtistDLLV9.11381388866.bundleContentsWin32GenericMultiCoreProcessor.dll 	detected: Trojan.Win32.Agent.tulg.AMN (A)
+C:Program Files (x86)WavesPlug-InsJJP-Guitars.bundleContentsWin32GenericWinProcess.dll 	detected: Trojan.Win32.Agent.ufap.AMN (A)
+C:Program Files (x86)WavesPlug-InsRVerb.bundleContentsWin32GenericMultiCoreProcessor.dll 	detected: Trojan.Win32.Agent.tulg.AMN (A)
+C:UsersDudeDocumentsPlugin Shita-sd223Keygen.exe 	detected: Trojan.Generic.4097217 (B)
+
+Now I understand sometimes there are false positives.  Usually that is keygens and such.  The fact these are dll files has me a bit concerned.  Have you found any problems or know of any virus potential?  Thanks!"
+,waves_user,2013-05-23T00:32Z,"@Bostonrake
+I or other users here or at audioz.info never experienceed virus issues, you are correct about false positives, but that last file usersdudeplugins, not sure if that is a waves related file/folder(I mean the exe). I have had previous infections but from the internet and not the torrents I download. I had an iTunes exe infected that came from Apple's website, its possible you have gotten it from something else and its spread around your pc. But I assure you that there are no viruses in what I post or recommend. Your only downloading a crack with apps(but I can see your concern) at least from here, and the exe from waves. I constantly download from audioz and I never run into any issues. I trust r2r and other teams as well as the uploaders. I also scan with avast(I know it sucks) before I install or upload, I also read comments on the uploads. "
+,bostonrake,2013-05-31T04:50Z,"waves_user...
+Do you know why I can't find anything about this release on audioz.info anymore?  Is it because there was something wrong with it?  
+
+Thanks!"
+,bostonrake,2013-05-31T04:52Z,"waves_user
+Any idea why this is no longer on audioz.info?  I noticed it along with others are all gone.  Is it because there is something wrong?  Seems to work.  Thanks!"
+,waves_user,2013-05-31T10:45Z,"@Bostonrake
+
+Not sure why everything got pulled, but my guess is Waves anti-piracy campaign"
+,bostonrake,2013-05-31T19:25Z,"waves_user...
+Thanks!  Sorry for all the posts... it didn't look like it submitted so I did it again.  Anyway, thanks for replying back.  "

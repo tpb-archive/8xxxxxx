@@ -1,0 +1,39 @@
+NEW FEATURES
+
+- Added world position pass.
+- Added scene relink.
+- Added replace model option.
+- Added a subsampling mode for post effects.
+- Added planar and polygon mapping types.
+- Added render order.
+- Added group nulls.
+- Added generate 3D position null.
+- Added shape order animation mode.
+- Improved automatic relinking.
+- Fix: issue with baked animation in different groups.
+- Fix: crash due to path aspect ratio fix.
+- Fix: occlusion map was rendering below diffuse.
+- Fix: masks with different aspect ratio than layer.
+- Fix: baked animation wasn't working with 3D object replicator shape.
+- Fix: rendering issues on OSX.
+- Fix: crash when rendering empty scene with missing assets.
+- Fix: licensing popup on Windows when opening old projects.
+
+Compatibility
+
+Operating System:
+Mac 10.6.8+  (64 bit)
+
+After Effects Version:
+Element supports Adobe After Effects CS3, CS4, CS5, CS5.5 and CS6
+
+Supported Graphics Cards:
+A 512 MB Graphics card, and 1GB or more is recommended for large scenes.
+Geforce 8800 or better. Including Quadro 4000 or better and ATI Radeon 3870 or better.
+
+* NOTE: Be sure to keep your graphics card drivers up to date for best performance.
+
+Language : English
+
+Homepage :  
+https://www.videocopilot.net/products/element/
