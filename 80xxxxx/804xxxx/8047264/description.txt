@@ -1,0 +1,121 @@
+A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's much-younger wife, all the while becoming dangerously obsessed with her.
+ 
+http://www.imdb.com/title/tt0052357/
+
+General
+Unique ID                                : 215814495497486832562853548586182217514 (0xA25C5C247289CA90A86A5CEF85758F2A)
+Complete name                            : Vertigo.1958.REPACK.BluRay.720p.DD5.1.x264-DON.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 9.84 GiB
+Duration                                 : 2h 8mn
+Overall bit rate                         : 11.0 Mbps
+Encoded date                             : UTC 2012-11-17 15:49:53
+Writing application                      : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 9 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 8mn
+Bit rate                                 : 9 913 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 694 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.465
+Stream size                              : 8.90 GiB (90%)
+Title                                    : Vertigo.1958.REPACK.BluRay.720p.DD5.1.x264-DON
+Writing library                          : x264 core 125 r2200 999b753
+Encoding settings                        : cabac=1 / ref=9 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=0.80:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=16.8 / qcomp=0.80 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:0.80 / zones=4925,7230,b=1.5/24275,26660,b=1.2/29727,30251,b=1.3/31085,31280,b=1.3/32757,33519,b=1.2/39198,39757,b=1.2/42170,42230,b=1.2/42285,42410,b=1.2/42523,45772,b=1.2/48832,51849,b=1.1/51850,52645,b=1.3/53104,55110,b=1.4/55111,58025,b=1.1/61174,62866,b=0.9/64428,65227,b=1.2/66545,75674,b=1.1/75675,76400,b=1.3/84000,89300,b=1.2/98717,99120,b=1.4/109780,110829,b=1.2/110855,111255,b=1.2/111347,112061,b=1.2/120869,122864,b=1.2/147274,147839,b=1.2/148340,151710,b=1.3/171890,184210,b=1.3
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 8mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 588 MiB (6%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 8mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 176 MiB (2%)
+Title                                    : Commentary with William Friedkin
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1-#2: English
+
+Menu
+00:00:00.000                             : :00:00:00.000
+00:03:24.996                             : :00:03:24.996
+00:05:00.258                             : :00:05:00.258
+00:11:20.305                             : :00:11:20.305
+00:16:53.304                             : :00:16:53.304
+00:22:13.791                             : :00:22:13.791
+00:25:42.499                             : :00:25:42.499
+00:27:45.789                             : :00:27:45.789
+00:33:52.822                             : :00:33:52.822
+00:38:19.589                             : :00:38:19.589
+00:40:18.374                             : :00:40:18.374
+00:42:56.574                             : :00:42:56.574
+00:43:56.008                             : :00:43:56.008
+00:53:07.976                             : :00:53:07.976
+00:58:23.625                             : :00:58:23.625
+01:02:05.180                             : :01:02:05.180
+01:05:31.302                             : :01:05:31.302
+01:08:35.653                             : :01:08:35.653
+01:12:30.638                             : :01:12:30.638
+01:16:00.222                             : :01:16:00.222
+01:18:17.651                             : :01:18:17.651
+01:23:47.814                             : :01:23:47.814
+01:25:26.413                             : :01:25:26.413
+01:29:02.629                             : :01:29:02.629
+01:31:39.160                             : :01:31:39.160
+01:38:07.173                             : :01:38:07.173
+01:42:22.762                             : :01:42:22.762
+01:45:28.739                             : :01:45:28.739
+01:49:15.340                             : :01:49:15.340
+01:52:06.178                             : :01:52:06.178
+01:57:30.502                             : :01:57:30.502
+01:59:29.371                             : :01:59:29.371
+02:02:06.069                             : :02:02:06.069
+02:05:58.092                             : :02:05:58.092

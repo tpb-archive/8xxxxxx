@@ -1,0 +1,105 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-10T14:44Z,"Note that Windows Loader may cause problems with Office 2013 activation. It fools the Windows Activation Tech, but that might also cause a problem when trying to activate Office 2013.  The only method of activating Office 2013 that I'm aware of is KMS, and I'm not sure if you can even use that on versions of windows that don't support KMS activation, such as Ultimate.
+
+The good news is that Enterprise does support KMS activation, and is basically a Volume clone of Ultimate's retail features.  So, if you plan on using Windows 7 and Office 2013, you might want to wait for my Jan2013 AIO and install either Pro or Enterprise.  With that you can just use the kmsnano program I've been upping everywhere. That will activate both Windows and Office.
+
+That's just a heads up for you Office 2013 fans."
+,TopOFThePro,2013-01-10T14:53Z,"One of the best uploaders i ever seen,your staff is very good.Tnx:)"
+[V],murphy78,2013-01-11T01:01Z,"Thanks for complimenting my ""staff"".  Husain.87 on my x86 mentioned that kmsnano activated office2013 just fine on his win7ult.  Just note that MS could come out with some sort of update that messes with retail activations activated with KMS servers.  I was a little worried about the mismatch, but that's good news all..."
+,KOLAVERI,2013-01-11T09:24Z,hey bro great work mate :) i got a question for you :) am currently running on Win7ultix64. Can i use this iso to just update it to SP1? if so how should i do that pls help :)
+,gxadam,2013-01-11T11:34Z,Please seed to 100/1 U/D or higher.
+,shukree,2013-01-11T13:01Z,"hi murphy78
+
+again and again good work friend.
+i added to your setupcomplete.cmd , the latest (dotNetFx40_Full_x86_x64_SlimSetup) from 	ricktendo, and it worked perfectly."
+,TheRealKeyserSoze,2013-01-11T19:03Z,"murphy78 man, you have to know that all your hard work is deeply appreciated.  I used to do all this patch-slipstreaming myself a few years back but just can't afford the time anymore.  You saved me tons and tons of time and headache, thank you very much."
+[V],murphy78,2013-01-11T20:57Z,"Thanks for the kind words fellas. On the upgrade within win7 question. I have answered on the x86 version which was also asked, but I'll answer it here.
+
+I don't believe you can upgrade win7 to win7sp1 versions. Note that you don't have to. You can simply download the sp1 and all updates from windows update.  I just save people the time of adding all of the time of downloading extra kb files every time they install.  I don't customize the setup.
+
+On the net4 I'm glad you were able to get it going for you well.  I don't personally add any user-made modifications to existing Microsoft installs.  I know there are much trimmer versions of some of the programs out there.  On my Vista release I know there's a MUCH smaller version of the net3.5.1 redist that you can get, but it's user-made.  I don't have any personal problems with any of these programs, I just try to keep things made from Microsoft in my releases.
+
+On the net4.5 I ran into a kb file that was released for win7sp1 in exe format, as they all seem to be for win7. This particular exe file was 60mb, which is larger than the net4.5 install, and did not register correctly with windows to stop windows update from wanting to re-download it.
+
+If I cannot find appropriate patches for things, I am not going to add the windows feature.  I just won't add something and then ask people to go download stuff from windows update because there is a problem with the version I installed.  It just seems wrong to me, so I didn't do it.
+
+In the future months, if they fix the loop, I of course will re-include net4.5.  I will also include IE10 instead of IE9 if they ever final it."
+,xxpandorxx,2013-01-11T22:50Z,@murphy78.... excellent torrent. Your work is appreciated thank you...
+,chacrE5a,2013-01-12T02:29Z,"What happened to the x86/x64 AIO murphy?
+
+I asked this before but cant find torrent I asked it on so dont know if there was a reply.
+
+Any chance you could come up with a AIO again?"
+,MerolaC2029,2013-01-12T03:57Z,"Murphy, I want to thank you for these amazing Windows mods of yours! They rock!
+I've been using them since November 2012 and honestly they are the best ones yet.
+
+Thank you buddy!"
+[V],murphy78,2013-01-12T05:21Z,"It's coming chacrE5a, I have been looking at info on the internet.  I have been trying to find more info about using the ei.cfg set to retail channel on volume versions like pro vl or enterprise. I am concerned that setting those versions to retail during install has a slight impact on how you activate them after setup.
+
+For instance, the built in service license manager is not very picky when dealing with kms server activations on pro and enterprise, but newer emulated kms programs like kmsnano don't have wide-open tolerances for inconsistencies like a volume edition of windows set to retail during setup. It leaves an invalid data trail that some programs have a hard time working with.
+
+So, I was working on deciding things like that, and if I want to add more versions from digital river isos like Professional N, Enterprise N, Professional E, Enterprise E, the list goes way on. Then there are things like whether or not I will just add a folder for activation programs on the dvd or make a bunch of different indexes with default and pre-activated like I did on this edition.
+
+There's a lot of things to consider that I think about before modifying scripts and running them, because the integrations take over an hour for each version of windows.  If I make something like an 18-in-1, that's quite a long time. Then if something isn't right with the way I did it, I have to either try to fix it or redo it from scratch.
+
+So yah... I'm working on stuff, it's just gonna come when its ready."
+,hhavok,2013-01-13T19:13Z,Real slow download :/
+,kwabenaamoo,2013-01-13T22:05Z,Hey Murphy78 fan of your work and I just wanted to know if I have the green light to update through winUpdates? Thanks for your time bro.
+,suprchargedriot,2013-01-14T01:32Z,"   Hey i'm not going to act like i know everything but i wouldn't have attempted this if i didn't know anything (and have my brothers computer a a guinea pig). So I'll go over what I've already done and where i'm stuck. First off this is the first torrent I've seen that has gotten this many great reviews and i'm not here to be ""THAT GUY"" I just want to clear up a hiccup or two that i'm having.
+      I originally downloaded the torrent on to my HP, not wanting to down my school computer right before the semester starts I told my brother I'll fix his for free if I can take the extra time to use it to test your torrent. Which based off your comments it seems to have already worked for other people so it must be something I'm doing. 
+  Okay, so after the torrent finished I not only Extracted everything out of the .iso file but i also used the windows 7 USB DVD tool to make a disc. After running up to Walmart to get an actual blank DVD i proceeded to write the .iso to the disc. I would have used the flash chip that I had but my brothers Fujitsu laptop can't boot off of it.
+     After the disc was made i poped it into the Fujitsu drive and booted off the disc. cleared the hard drive, did the partition and started the install for windows. I selected the pre-activated one at first and it got through the ""Copying Windows files"" and is now stuck on ""Expanding Windows Files"" it came up with a message saying that the files had been corrupted or something and said it couldn't continue. I tried going through it again and instead of selecting ""Pre-activated"" I selected ""Default"". And Still no progress has been. Would you mind helping me out with what i might be doing wrong?"
+,suprchargedriot,2013-01-14T01:46Z,hey i download this torrent and burned the .iso file to a dvd disc. i'm currently using said disc to install windows 7 onto my brothers laptop but it keeps getting stuck while trying to expand the windows files could you tell me whats i could be doing wrong?
+[V],murphy78,2013-01-14T10:29Z,"superchargedriot, you might be using a program that is causing problems burning your iso to dvd.
+
+My recommendation is to first get hashtab to verify that the crc and hashes match the ones listed here and in the text file that are in the torrent.  Once they are verified as the same, just right click the iso file and burn to dvd with the built-in operating system burn dvd tool.
+
+If you have the iso file extension set to something, just open with, and try selecting the image burning tool.
+
+When you install from the newly burned dvd, make sure you don't have anything overclocked and that you don't have any extra flash drives or anything attached that you don't need to have.  Windows 8 (I know it's not 7) has a weird issue where if there are 2 setups available it will sometimes read from the wrong one.  I don't know how much the windows 7 setup is like windows 8.
+
+That's all the advice I have for now.  If you still can't get it going after that, please come back and I'm sure some of us can help."
+[V],murphy78,2013-01-14T10:30Z,"I finally found a dotnet4.5 redist that didn't have the same crc as my rtm redist in a microsoft page.  I'm going to try to get that going for my AIO release.  I just finished a fairly serious integrating session for my win8aio versions, but win7 will only have one release as it has an AIO tool that supports x64 recovery and update.
+
+It should be good if I can get it working without the update loop.
+
+Cross your fingers ladies and gents..."
+,nadiman,2013-01-14T19:21Z,Thanks for this murphy! Great work :)
+,suprchargedriot,2013-01-15T18:57Z,"hey murphy, 
+I got it to work on my HP Pavilion (previously Vista), what I ended up doing is, using the windows 7 usb dvd tool, i wrote it to a 16gig sd card and opened the setup application and did the upgrade. worked flawlessly (thank you very much). My HP is now running windows 7 ultimate 64 bit fully activated and I'm loving it. What i was running into on my brothers fujitsu laptop was it was running windows xp (factory was vista) and it couldn't open the setup application. So, i went to do a fresh OS install. Since the Fujitsu can't boot through the built in card reader (unlike my HP) I had to make a boot disc, which i made on my HP using the windows 7 USB DVD tool. On the fujitsu it booted off the disc fine, allowed me to delete the existing partition and repartition the drive. which is what i wanted to do. It started the set up and what i noticed on the Fujitsu as appose to my HP is it immediately checked off the copying folders and started on the extracting files and that's where it seemed to just stop. you mentioned in your message to check the crc and hashes. I'm unfamiliar with this. What program should i use to check these because there seems to be quite a few online for checking the hashes and what file(s) would i be checking and can this be done in windows XP. If you need any more information to help you, well, help me. I will do my best to frequently check the comments for your reply."
+,suprchargedriot,2013-01-15T19:31Z,"oh and i forgot to add i went to go do a fresh install with the hp too as a test and again it allowed me to partition the drive (my hp has two so i used the second to test it) and repartition it. it started the setup and immediately checked off ""copying files"" and started the extracting and just like on the Fujitsu, it just seemed to stop. don't know whether this will help but it tells me it might that it might be the DVD boot disc (and i tried it the same way with the sd card with the same result) i made or some programming thing. i'm not baggin on you in any way. i just don't know if the programming you did was only intended to work through doing the upgrade process or maybe it's something i might be doing. again on both the sd card and the dvd disc i used the windows 7 usb dvd tool you included to write both."
+,suprchargedriot,2013-01-16T04:12Z,never mind murphy i got it now. made a new boot cd and threw it into my brothers fujitsu. it skipped by the copying files again but i got distracted and ended up leaving it for a while when i came back it was 80% done with the install. now both computers are happily running windows 7 ultimate all thanks to you dude. keep up the good work man!!
+,Ov3rd0s3X,2013-01-16T23:33Z,I'm having a problem here...it says that the torrent is already in the torrent list but I deleted all torrents and no torrent appears anywhere... I am using uTorrent...any advice?
+,coala_saint,2013-01-20T20:17Z,"Hi
+I just downloaded this file and installed it. Many thanks! But I´m asked for a serial number. I cant find it. Am I doing something wrong?"
+,coala_saint,2013-01-20T20:26Z,What happened to my comment? :/
+,ChaoticMuffin,2013-01-21T02:47Z,"Hi. Just tried using this instead of my normal Win 7 copy with bloatware. I tried the ""preactivated"" one but for some reason when I started it up, it asked for a product key and gave me 30 days. Is there something extra you have to do when you select the preactivated version? Thanks in advance, and great download regardless of this problem."
+,Adam1438,2013-01-25T17:41Z,"So, my Acer laptop came with Win7 Home premium (think its OEM-got a sticker underneath ) and i wanted to change it to ultimate(through formatting). Should i use this version?"
+,sib0,2013-01-26T06:30Z,"@murphy78 May I have your attention please
+
+   By the meaning of ""PreActivation"" it simply means it is activated, and it will not further ask for any activation ? 
+
+2) ""INCL JAN2013"" means all updates that come out since WIN7 begin to this day, are included when we install this ? What i mean is we don't install manually those updates right ?
+
+I guess it is but Reply anyway pls..
+
+And 3) god bless you for your good hard work :) I appreciate it !"
+,Ryall,2013-01-30T22:34Z,"Thanks murphy78!
+
+I can confirm that this works with Boot Camp to create a USB install disk to install windows from.
+
+I'll seed to 6.0 in appreciation."
+,Dlurker,2013-01-31T01:38Z,"Thank you for the torrent and wow you provide a nice nfo.
+ Your quality work is very well appreciated.
+
+ Until 2013 i was using your build and now i'm doing mine using your KB files list as reference.
+
+Thumbs up
+
+
+Later, time for me to have fun,  x86 -> x64 "
+,limneos,2013-02-12T09:44Z,wow.... just what i needed! gonna install it right now
+,rafscallian,2013-02-14T18:45Z,"hey man, thanks for the upload.
+been having an issue tho, if i create a bootable dvd or if i use win usb to make the bootable usb, i get the same error each time, right after language selection, i dont change it, it pops up with cannot copy setup files error, on both mediums...any ideas?"
+,bondnokia,2013-02-24T19:52Z,"I have a problem, Internet Explorer loads a website to microsoft and fail to remove or to reset it, have any suggestions?"
+,vtecboom,2013-03-27T08:09Z,"I keep getting the error 0x8007050, I've tried several different Windows 7 torrents. They all stop somewhere while expanding the files..help??"

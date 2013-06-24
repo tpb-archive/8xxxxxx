@@ -1,0 +1,208 @@
+﻿User Type,Username,Date,Text
+,Packedcash,2013-01-15T11:53Z,"Hello, I've got an issue with installation. This happens both with x32 and x64. Okay.. So I choose to install windows on my main hard drive it all installs perfectly until the green progress bar reaches about 90% of the completing installation stage. then I get a message pop up saying ""windows could not configure one or more system components. To install windows, restart the computer and then restart the installation. I hve tried installing again but same error always. Please help me I just cleared my old windows 7 hoping for a fresh installation and now I can't do anything and I'm writing this from my iPhone."
+[V],2010kaiser,2013-01-15T14:01Z,"@Packedcash
+
+It could be one of a number of reasons.
+
+1) Are you booting off a disk or USB.
+2)try writing the .ISO to disk at the slowest speed possible or if your using a USB to boot off. Write it to the USB again.
+
+3) When your trying to install and you get to the window where you select the drive to put Windows 7 onto:
+
+1) Highlight the drive in the window and select 'Drive options'.
+2) Then select 'Format'.
+3) then select 'Delete'.
+4) Then select 'New'.
+5) Then select 'Apply'.
+6) Then select 'Install'."
+,Packedcash,2013-01-15T14:47Z,"@2010, All good now just used my sister's computer and reinstalled onto the usb and it now works fine. Thanks"
+[V],2010kaiser,2013-01-15T16:54Z,I'll be uploading the same torrent in a while but with the updates not incorporated. They'll be in 2 separate SFX files for users to install if they want.
+,RealPirate69,2013-01-16T07:31Z,Sorry bad english! Does this work the same as the original and doesn't slow down pc performance???
+[V],2010kaiser,2013-01-16T14:35Z,"@RealPirate69
+
+Yes it works fine and doesn't slow your PC."
+,padde84,2013-01-16T17:24Z,"I got the USB to work after 2nd try. So now Im in the windows installation, but it stopped during the setup, and now Im getting BSOD all the time!"
+,padde84,2013-01-16T18:00Z,"Hmm, after first restart, should I remove the usb or keep it in and do another install?"
+,padde84,2013-01-16T18:13Z,"BSOD are gone, but having the same problem as ""packedcash"" where it says ""Windows could not configure one or more system components. To install windows, restart the computer and then restart the installation"""
+,b_addy,2013-01-19T09:41Z,Is it ok if I remove the $oem$ folder in order to fit a singe layer DVD? Thanks.
+,greg3r,2013-01-20T14:23Z,@2010kaiser will this fit on a DVD+R 4.7gb cd?? or would you recommend DVD-R dual layer 8gb?
+,AnsarA,2013-01-20T14:46Z,@2010kaiser : Whats the difference between your this upload and your previos upload in December...except size...plz reply with all the differences...Thank u in advance
+,gkkfalls,2013-01-21T04:34Z,"@greg3r
+it not fit in single layer dvd u need dual layer dvd, better to use pendrive to install"
+,bish33,2013-01-21T12:10Z,2010kaiser Have i to active the windows after formating or is actived itself
+,bish33,2013-01-21T12:11Z,"2010kaiser Have i to active the windows after formating or is actived itself 
+
+THNX"
+,AnsarA,2013-01-21T12:20Z,"And why is there another new upload of the same previous size i.e.,  4.9 GB?"
+,bish33,2013-01-21T12:28Z,DID I HAVE TO ACTIVE GENUINE AFTER FORMATING OR ACTIVET ITSELF
+,bish33,2013-01-21T12:30Z,DID I HAVE TO ACTIVE GENUINE AFTER FORMATING OR ACTIVET ITSELF.
+,bish33,2013-01-21T12:33Z,did i have to active genuine after formating pc  or activet itself
+[V],2010kaiser,2013-01-21T17:47Z,"@AnsarA and @bish33
+
+This .ISO of windows is pre-activated. You don't need to do any activation post install as the activation is doing during the actual install.
+
+If you remove the $OEM$ folder the .ISO will no longer be activated during install as it contains the Loader, and command script etc.
+
+Should you decide, and i can't see why you would, to remove the $OEM$ folder. You can activate this copy of Windows 7, post install with DAZ Loader. You can download it from the link below:
+
+http://thepiratebay.sx/torrent/7968119/DAZ_Loader_v2.1.9_-_2010kaiser"
+[V],2010kaiser,2013-01-21T17:49Z,Forgot to mention also. If you remove the $OEM$ folder it will no longer be branded either.
+,AnsarA,2013-01-21T18:57Z,"Thanks for replying uploader...
+
+But why the previous ISO was of 4.9 GB and this is 500 MB less...
+
+Answer ASAP....
+
+Whats missing and whats added???"
+[V],2010kaiser,2013-01-21T23:33Z,"@AnsarA
+
+Which other upload are you referring to? Then i can tell you why the difference in size."
+,AnsarA,2013-01-22T02:27Z,"Look first you uploaded this torrent of size 4.9 GB on 13th December
+
+http://thepiratebay.sx/torrent/7915854/Windows_7_All_Editions__32bit_and_64bit__Activated
+
+which was 4.63 GB...
+
+and now this one (updated one) which is 4.4 GB...
+
+and after this another upload on 15 January
+
+http://thepiratebay.sx/torrent/8024587/Windows_7_Ultimate_32bit_64bit_SP1_Updates_Activated_Branded
+
+which is 4.99 GB
+
+Thanks for replying and uploading
+
+Keep up the good work"
+[V],2010kaiser,2013-01-22T13:38Z,"@AnsarA
+
+The 1st .ISO at the link below Is Windows 7 Ultimate x86(32bit) + 64bit. It has SP1 'Slip Streamed' into it. It's also branded and per-activated. On this one though, all updates are in separate SFX files for each architecture. The reason for this is to give the downloader the choice of what to install and download.
+
+http://thepiratebay.sx/torrent/8024587/Windows_7_Ultimate_32bit_64bit_SP1_Updates_Activated_Branded
+
+The 2nd .ISO Is Windows 7 ALL Editions x86(32bit) + 64bit. SP1 is 'slip Streamed' into both architectures but it's not branded and there are no updates either 'Slip Streamed' or provided seperately.
+
+If your unsure of any other .ISO's i've uploaded of Windows 7. Just read the torrent description and you'll see that there a variations in the content which explains the disparity in torrent size.
+
+http://thepiratebay.sx/torrent/7915854/Windows_7_All_Editions__32bit_and_64bit__Activated"
+,AnsarA,2013-01-22T14:09Z,"^^ Thanks a lot uploader...
+
+That helped me greatly"
+,led_zeppelin_2009,2013-01-23T09:20Z,"Dear Kaiser. I would like to express my gratitude & appreciation towards you for your dedication & contribution of providing impeccable services to PirateBay and all its members over the years.
+However, I was wondering if it could be possible for you to create Windows 7(32/64) Bit along with few necessary Softwares included & most importantly drivers. Although the main concern would be the size that it would overall take. Please can you make Bootable Windows 7 but it should be less than 4.4 GB in size since it would facilitate most of us otherwise it is difficult to burn in DVD. By the way my name is also KAISER :) Thanks beforehand"
+[V],2010kaiser,2013-01-23T12:06Z,"@led_zeppelin_2009
+
+I could make that Windows 7 .ISO but it would be difficult if not impossible to keep it under 4.7GB.
+
+Even if i made a Windows 7 'LITE' by removing a lot of Windows components, the addition of drivers, updates etc significantly increases the overall size of the finished .ISO.
+
+What i'd suggest is to buy a cheap 8GB USB and copy whichever Windows 7 download you require onto that and install Windows directly off the USB rather than a dual layer DVD.
+
+WinUSB Maker from JOSH CELL does this transfer to USB flawlessly and can be downloaded from the link below:
+
+http://www.joshcellsoftwares.com/2012/06/WinUSBMaker.html"
+,bhavinis,2013-01-23T17:46Z,"in win 7 dvd tool it is giving error as wrong iso file, what to do,i tried in xp and win 7."
+,bhavinis,2013-01-23T17:53Z,"win 7 usb toolshowing invalid .iso file, tried from win xp and also win 7"
+[V],2010kaiser,2013-01-23T19:34Z,"@bhavinis
+
+Use the tool below:
+
+http://www.joshcellsoftwares.com/2012/06/WinUSBMaker.html"
+,arseno,2013-01-27T23:49Z,"Thank you 2010kaiser, I am sure this is a great version to setup and work!
+But I have one question - is it possible for this copy of Windows to have genuinity issues with the Microsoft Security Essentials? Can MSE catch it and make the black wallpaper stuff? I hate it and don't want to setup the whole apps before I surely know."
+,CamoQueen2006,2013-01-28T02:13Z,Thank you so much!
+,andream,2013-01-29T15:33Z,"First i boot from the usb and after i choose upgrade i am told to boot normally and start setup. After ive done that and chosen install i get an error popup saying ""The procedure entry point ??0WString2@@QAE@XZ could not be located in the dynamic link library X:windowssystem32wbemfastprox.dll."". After that i choose to not install updates and i choose 64 bit. But when i press ""upgrade"" i get an error saying ""You can’t do a typical upgrade using an installation disc that’s different from the language installed on your computer. Go online to see how to install Windows 7 and keep your files and settings. "" and i have to stop the installation. 
+
+Any ideas? I'm trying to downgrade from windows 8 pro if that is any help."
+,hotsparks,2013-01-29T16:31Z,"Hi Thanks for this torrent but i have problem.
+
+ I'm upgrading from Windows Vista 32-bit to this windows 7 64-bit. When I install i keep getting the ""Windows could not configure one or more system components...etc"" This happens at about 90% of installation.
+
+I have tried putting the file into USB over and over again and into CD-R as you said. I have done this at least 4x for each method and i have wasted 12 hours of my life to no avail.
+
+PLEASE reply ASAP as to what I am supposed to do to make this work. :( I am desperate :( 
+
+I'm hoping for your fast reply, Thanks."
+,walid_97,2013-01-29T22:50Z,"Im having the same problem that PackedCash is having..and when i start the installation there is no option for formatting the drive it only says ""REFRESH"" and ""ADD DRIVERS"" and nothing else please help quickly! :/"
+,Naptap,2013-02-01T21:43Z,"Hello, kaiser.
+I tried installing this from my USB key to no avail. At first I did it from boot and it did not continue for upgrade, which I would prefer doing rather than a clean install.
+When I ran it from my current Windows 7 Home Premium, which is 64-bit, it ran fine for the beginning of the 64-bit setup until I got this message.
+http://i.imgur.com/4hh0TsQ.jpg
+My computer is running a 64-bit OS as it is, so I do not understand why I'm getting this message. If you may reply whenever is convenient for you, I would appreciate it.
+Thanks."
+,fullgratification,2013-02-03T16:31Z,Will it be possible to create installer separately for 32 bit and 64 bit?
+,kenshinro,2013-02-03T18:19Z,"when completing installation I got this error message saying ""Windows could not configure one or more system components. To install windows restart the computer and then restart the installation."" How could I fix this problem? please reply asap."
+,kenshinro,2013-02-04T16:13Z,"I got this error message after my pc restarts ""Windows could not configure one or more system components. To install windows, restart the computer and then restart the installation"".
+I already did this but still nothing changed.
+1) Are you booting off a disk or USB.
+2)try writing the .ISO to disk at the slowest speed possible or if your using a USB to boot off. Write it to the USB again.
+
+3) When your trying to install and you get to the window where you select the drive to put Windows 7 onto:
+
+1) Highlight the drive in the window and select 'Drive options'.
+2) Then select 'Format'.
+3) then select 'Delete'.
+4) Then select 'New'.
+5) Then select 'Apply'.
+6) Then select 'Install'. """
+,will_gore,2013-02-05T05:37Z,"I am not getting complete the installation when using the flash drive, I've tried disconnecting all extra peripherals, and nothing helped, still giving the following error message: ""Windows Could not configure one or more system components. To install windows, restart the computer and then restart the installation """
+,will_gore,2013-02-05T07:36Z,"something seems strange, that opened the ISO torrent and down there PowerISO informs that the ISO is not a bootable image. I tried to open an older ISO and had PowerISO says it is a bootable image, http://i.imgur.com/JHEMOIt.jpg , maybe the torrent was downloaded wrong? I've tried burn using PowerISO and at boot time it says ""bootmgr is missing"""
+[V],2010kaiser,2013-02-06T22:44Z,"@will_gore
+
+The torrent is an .ISO. Not a bootable .ISO.  That's a common misconception. You need to make the .ISO ""bootable"". It doesn't come pre-made as bootable.
+
+Hope this clears it up for you ;-)"
+,MalikeW,2013-02-07T17:58Z,"Thanks for this upload, Kaiser.  Do you know if this will activate if run in Parallels? If not, do you know a version that will?  Thanks again."
+[V],2010kaiser,2013-02-07T23:04Z,"For anyone having trouble making a bootable .ISO. I've upload a small utility which makes a bootable Windows 7, vista or XP image in just a couple of clicks. just follow the instructions in the torrent description and also in the README.nfo file contained in the torrent. Download link below:
+
+http://thepiratebay.sx/torrent/8114944/WBICreator_-_2010kaiser"
+,gerberlocs,2013-02-09T06:42Z,hello im trying to use your winusb maker to move the IOS to and i was wondering how long it should take cuz it isnt showing any upload signs so im wondering if its working
+,sph21,2013-02-10T09:33Z,"I tried to install this iso using virtualbox but it's not bootable. So, I exported a bootable file from other win7 bootable iso using ultraiso to create this iso bootable. Here's how to make this iso bootable:
+
+1. Open other windows 7 bootable iso using ultraiso.
+2. Select bootable --> save boot file
+3. open ""Windows_7_Ultimate_x86_x64_SP1_Updated_Activated_Branded_2010kaiser.iso"" using ultraiso then click bootable --> load boot file (from previous saved boot file)
+4. lastly, save the iso. it's now a bootable iso.
+
+good luck."
+,Thumser,2013-02-12T05:28Z,Is this windows updatable?
+,limneos,2013-02-12T09:23Z,fuuuuu.... cant burn it on a dvd.  Exceed 17mb
+,Thumser,2013-02-12T17:27Z,"Only 32bit or 64bit version would be nice, so we can boot it to DVD."
+,grappler2,2013-02-14T19:30Z,"System files missing error message and cant complete installation like several other have reported.. I have followed the instructions the best I can.. Using your program that u posted to make a bootable USB... But this dont work... I choose the 64 bit version..
+
+What is the problem .. Pls some1 help.."
+,txczshooter,2013-02-16T00:24Z,I'm having exact same issue as grappler2
+,ukp_85,2013-02-17T14:27Z,"i used windows tool for making bootable usb, but it doesn't work; popup shows ""select proper image file"". and i cant download your suggesting program for making bootable usb. thank you"
+,MikeVoz,2013-02-27T18:04Z,"Aghhh...!!!
+
+I'm confused about which of your Torrents to Download Kaiser.  I'm a noob with PCs, so should I get this one or this one:
+
+http://thepiratebay.sx/torrent/7915854/Windows_7_All_Editions__32bit_and_64bit__Activated
+
+Thanks!!!!"
+,MikeVoz,2013-03-02T17:42Z,"OK, I downloaded this and made a boot-able Flashdrive with the program the uploader recommend in the read me.
+
+I tried installing x64 but I'm getting the same problem as a few others are reporting here, ""Windows could not configure one or more system components.""
+
+This pops up after it starts installing and the PC reboots during installation, like normal, but when it boots it brings that error.
+
+Why isn't 2010Kaiser helping with this error, many here are mentioning it and he responds to other questions, but not this one...What do I do?!?!"
+,evildraconis,2013-03-16T00:29Z,I'm getting the same error as everyone else. Windows could not configure one or more system components. happens right after the reboot. does anyone have a fix to this or what? 
+,cjtro,2013-03-17T18:27Z,after trying 4 different kaiser windows 7 downloads from kaiser i have the same problem as many others they keep coming out with errors or corrupted files. wasted alot of time with these does anyone know of a windows 7 activated download that actually will work. please i'm desperate and can't aford to buy it again to reload my laptop 
+,cjtro,2013-03-18T15:05Z,Greetings kaiser. I was just reading the comments from the people who use your downloads and i first need to apologize. My post appears to be ungrateful and thats not what i intended. for some reason i have been having trouble with the installing of some of these files. I am aware of the procedure and haave succesfully used vista and xxp downloads from you. but am experiencing difficulty with win 7.  If you could would you indicate one of the windows 7 files that has good success for dummies. and again I thank you for your input and your time you put into helping others obtain costly but needed files. thanx again
+,the_one93,2013-04-04T08:17Z,"""windows could not configure one or more system components. error [SOLVED]
+
+After you get the error 
+
+Press ""Shift + F10"" to bring up the console, then proceed to run ""system32oobemsoobe.exe"" to finalize the setup procedure. After doing this, the PC rebooted a couple of times and eventually the desktop appeared."
+,the_one93,2013-04-04T08:18Z,"[SOLVED] ""windows could not configure one or more system components. error [SOLVED]
+
+After you get the error 
+
+Press ""Shift + F10"" to bring up the console, then proceed to run ""system32 oobe msoobe.exe"" to finalize the setup procedure. After doing this, the PC rebooted a couple of times and eventually the desktop appeared."
+,MikeVoz,2013-04-04T17:24Z,"If my friends Laptop has Vista already on it, can I just upgrade with this torrent or does it have to be a fresh install?
+
+Thanks! "
+,rodsvart,2013-04-05T13:17Z,"the_one93, tnx a lot, man!"
+,dragonsiver,2013-04-09T20:40Z,"i've had a issue it says ""Failure configuring Windows Updates Reverting changes Do not turn off your computer"" and nothing happens Some Ideas? ... anyway Thnks the_one93 for"" windows could not configure one or more system components error
+Sorry for my bad English"

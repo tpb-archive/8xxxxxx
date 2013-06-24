@@ -1,0 +1,44 @@
+Includes the VSO DVD Converter Ultimate v2.1.1.27 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+-Convert DVD to AVI, DVD, MKV, PS3, DIVX, Mpeg2, Mpeg4, H264, Xvid, iPad, iPhone, iPod, etc.
+-Copy DVD to DVD
+-Multiple audio + subtitles tracks supported
+-Video player included for easy audio and subtitle track selection
+-Supports ISO images as input files
+-Special mkv and avi remux profiles included
+-Chapter support
+-Quality helper guides you for your custom settings to get the best quality
+-Live preview
+-Uses Advanced Image Filter for best image quality
+-Processes simultaneous conversions
+-Optimized for multi-core processors meaning you get even faster conversions
+-Use Hardware encoding NVIDIA CUDA convert 3x's faster
+-DXVA2 hardware decoding: NVIDIA CUDA, Intel, ATI technology
+-2 pass encoding for enhanced quality
+-Multiple simultaneous conversions possible
+-Rip DVD main movie or episodes
+-Files displayed in a clear straightforward manner
+-Multiple angles films supported
+-Forced subtitles supported
+-Choice of various video codecs H264, Mpeg4, Xvid, AC3, AAC, DTS
+-Create your own custom profiles with your favorite codecs, resolutions, and bitrates
+-Padding and cropping options
+-Many outputs supported in VSO DVD converter
+-Standard and High Definition output possible
+-Burning engine included: burn your converted file to DVD, compatible with any burner and DVDs
+-Create Menus when converting to DVD output
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+- 0006222: [Bug] access violation on start/ launch of application (cedric) - resolved.
+- 0006221: [Bug] AV and crash caused by log file (cedric) - resolved.
+- 0006218: [Bug] When converting to DVD format, audio is not detected properly (bad channel count detected) (cedric) - resolved.

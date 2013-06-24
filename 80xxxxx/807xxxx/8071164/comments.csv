@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,antricama,2013-01-27T17:18Z,"I have Windows 8 Pro and I'm trying to activate Office 2013 using the following command: 
+KMSELDI /qemu /log /noWin /no2010
+But qemu DOES NOT START!!! Any explanation and solution? Thanks."

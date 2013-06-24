@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,AsifAkheir,2013-01-19T20:19Z,"Thanks aoloffline [PublicHD]
+A10
+V10
+I have the original French soundtrack that I'd like to mux onto this. Unfortunately it's set for 25 fps and i'd need to change it to 23.976 fps.
+
+Any suggestions?"
+,AsifAkheir,2013-02-02T03:05Z,"@ Shaman72
+Thanks.  With mkvmerge, I unmuxed the audio from the French video and remuxed it onto the higher quality English video. I made a dual audio video with the 25/23976 stretch, as you suggested. The timing is perfect but there is a serious stutter. I guess i'll just have to keep both and put up with the extra use of 2.5 GB of drive-space - unless mkvmerge is the wrong application for this task. Any other suggestions ?"
+,kukki2,2013-02-02T13:52Z,"@AsifAkheir
+
+If you have audio on dvd, demux it with dvd decrypter (load dvd, choose ifo mode, select stream processing and tick audio and select demux). Then you have audio after in .ac3 file get eac3to tool and extract it to same folder where audio is, then use this command. eac3to theaudioyouripped.ac3 yournewaudio.ac3 -slowdown
+
+...and you will have 25 fps audio in 23.976."
+,AsifAkheir,2013-02-03T15:19Z,"@ kukki2
+It is already in .ac3 extension. I downloaded eac3to and got a malware toolbar, ""mixi dj"" - from cnet no less ! After several hours of swearing and hair pulling, I think I finally got rid of it. Anyway when I got around to trying your suggestion I found I am more mystified than ever. I am not a computerish sort of person and command line instructions as well as extractions are over my head. Is there something with a GUI interface out there? Thanks for trying, though.
+Asif."

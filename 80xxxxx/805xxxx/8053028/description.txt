@@ -1,0 +1,77 @@
+
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 448 MiB
+Duration                                 : 1h 25mn
+Overall bit rate                         : 731 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 25mn
+Nominal bit rate                         : 619 Kbps
+Width                                    : 714 pixels
+Height                                   : 302 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.115
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 25mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper Ganool (Thanks)
+
+IMDB Info:
+
+Four couples meet for Sunday brunch only to discover they are stuck in a house together as the world may be about to end.
+
+Director: Todd Berger
+Writer: Todd Berger
+Stars: Julia Stiles, David Cross and America Ferrera
+
+Genres: Comedy
+ 
+http://www.imdb.com/title/tt1995341/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/85619215383741588389.png 
+http://www.shotpix.com/images/04631729931874188779.png 
+http://www.shotpix.com/images/07579054110091428074.png 
+http://www.shotpix.com/images/56577572546502543461.png

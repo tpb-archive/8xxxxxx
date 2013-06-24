@@ -1,0 +1,81 @@
+
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 555 MiB
+Duration                                 : 2h 1mn
+Overall bit rate                         : 637 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 1mn
+Bit rate                                 : 507 Kbps
+Width                                    : 720 pixels
+Height                                   : 300 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.078
+Stream size                              : 433 MiB (78%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Muxing mode                              : Header stripping
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 2h 1mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 112 MiB (20%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Source:
+credit to original movie ripper EDAW2013 (Thanks)
+
+IMDB Info:
+
+After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.
+
+Director: David O. Russell
+Writers: David O. Russell (screenplay), Matthew Quick (novel)
+Stars: Bradley Cooper, Jennifer Lawrence and Robert De Niro
+
+Genres: Comedy | Drama | Romance
+ 
+http://www.imdb.com/title/tt1045658/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/57438973856533388900.png 
+http://www.shotpix.com/images/59874339909603939096.png 
+http://www.shotpix.com/images/14476319887909864326.png 
+http://www.shotpix.com/images/77226201886896723805.png 
+http://www.shotpix.com/images/30164117233266216182.png 
+http://www.shotpix.com/images/77792677119243303436.png

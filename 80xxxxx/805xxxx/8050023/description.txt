@@ -1,0 +1,69 @@
+ http://picaddhost.com/images/85qdkhvi2r4gikbklb4a.jpg
+ 
+http://picaddhost.com/images/xlhc4i1ssk7nyrclf6.png 
+http://picaddhost.com/images/qya24c7dyo5w831hv9n.png 
+http://picaddhost.com/images/ept50ntinojs1iwlfnu.png 
+http://picaddhost.com/images/q4bikt9g3k1a5e3d5edf.png
+
+
+
+
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 708 MiB
+Duration                       : 1h 37mn
+Overall bit rate               : 1 019 Kbps
+
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.2
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 37mn
+Width                          : 1 536 pixels
+Height                         : 640 pixels
+Display aspect ratio           : 2.40:1
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 1h 37mn
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+                     
+
+Text #1
+ID                             : 3
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Language                       : English
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 4
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Language                       : Dutch
+Default                        : No
+Forced                         : No
+
+Text #3
+ID                             : 5
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Language                       : Greek
+Default                        : No
+Forced                         : No
+

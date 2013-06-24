@@ -1,0 +1,121 @@
+﻿User Type,Username,Date,Text
+,clone04,2013-01-26T16:57Z,whats the password and what am I supposed to do with these files?
+,5z53uykj,2013-01-26T17:50Z,The key will be released if Anonymous' demands are not met. You can use this to read the files when it is released.
+,zrool21,2013-01-26T17:59Z,"Thanks for the upload! We are supposed to merge the files in the following order: Scalia Kennedy Thomas Ginsburg Breyer Roberts Alito Sotomayor Kagan.
+
+But I think the files Kennedy.Warhead1, Roberts.Warhead1 and Sotomayor.Warhead1 are incomplete. Here's why:
+All the files are supposed to merge nicely into a base64-encoded file. Note it's made of ascii lines with 64 chars per line. For instance, the last line of the file Thomas.Warhead1 is
+QMIYRWaSfVsohy3wprV4
+and the first line of the file Ginsburg.Warhead1 is 
+F+tAyZDBx/8K6uo/dBXGjKdkyozYDT4qXgUvUwh6lKGf
+so when you merge the two, you get a complete 64 chars line.
+
+However, merging kennedy with thomas, roberts with alitos, and sotomayor with kagan doesn't make a 64 chars line. Considering all the files size are 157286400 bytes except kennedy, roberts, and alitos which are smaller, I highly suspect those three are incomplete. (And I think kagan is smaller just because it's the last file.)
+
+If I guessed right, then it's not really the uploader's fault because it's just how the files are on the last working mirror. Anonymous, what the hell..."
+,5z53uykj,2013-01-26T18:45Z,I had correct file sizes verified by other anons before uploading this torrent as I too had the same belief. These files are certainly full copies of what was on the mirrors. The only thing we could come up with was that possibly part of the decryption package fills in the missing parts of said files. This would make sense as a solid prevention method to stop the decryption of the files before the release of the key.
+,clone04,2013-01-26T18:56Z,Whats the point of holding hostage a govt that does not negotiate?  
+,OhNoesSpaghettios,2013-01-26T20:50Z,"By threatening to disrupt their source of power, the people, via informing them."
+,ChiliBean2000,2013-01-26T20:51Z,"Didn't the youtube video say the files are ""heavily redacted"" ?? Also, any chance that these files may be uploaded to a binary newsgroup?  Have a nice day. :D"
+,Jessguy240,2013-01-26T21:30Z,This is probably a really stupid question but what exactly is this and is it legal to download it (some files on the pirate bay are legal ex. Katawa Shoujo)
+,clone04,2013-01-26T22:13Z,"In 1963 John F Kennedy stated ""the word secrecy is repugnant in a free and open society"" If you are a american taxpayer it is your right to download these files. If any of your work or capital goes to the federal govt and they allocate it to prosecute citizens without due process you are entitled to this information. It is your duty to restore your rights from the unconstitutional federal govt. Live Free or Die."
+,Kayto,2013-01-27T08:02Z,"The keys to the warheads are:
+
+Alito :: TDMzVEg0WDNOWkJSVUg=
+Breyer :: RzAwRExVQ0tQSDRHRzBU
+Ginsburg :: WU9VV09OVEJFQUJMRVRPQ1JBQ0tUSElT
+Kagan :: QkVDQVVTRVlPVVJFQURVTUJCSVRDSA==
+Kennedy :: SEFWRUZVTlRIT1VHSEJFQ0FVU0VJVFdBU0ZVTkZPUk1F
+Roberts :: VEgzUjMxWk4wU1AwME4=
+Scalia :: MTMzN0hBWEVOWkZUVw==
+Sotomayor :: SFRUUDovL1dXVy5NRUFUU1BJTi5DT00=
+Thomas :: SFRUUDovL1dXVy5TUEVDSUFMRlJJRURSSUNFLk5FVA=="
+,s5822607,2013-01-27T10:23Z,"zrool21 might be correct. Something doesn't add up. I downloaded another torrent on TPB (http://thepiratebay.sx/torrent/8070181/Warhead-US-DOJ-LEA-2013.AES256) and it has all the same size files except for the last file, Kagan.Warhead1
+
+So either this Anonymous Warheads - Operation Last Resort.rar has 3 corrupt files or this is how it was made...
+
+I guess the good thing is, some people will have a copy of both files so if the ""key/password"" gets released, we should be able to decrypt it either way but it would be nice to only seed the proper version so that we don't waste a bunch of time/bandwidth.
+
+I downloaded the Roberts.Warhead1 off one of the mirrors and it was ~150MB, not 23.9MB , so I think whoever created this torrent might of mis-downloaded 3 of the files...
+
+-------------------------------------------
+
+http://thepiratebay.sx/torrent/8070181/Warhead-US-DOJ-LEA-2013.AES256
+
+anon@OpLastResort:~/Downloads/Warhead$ ls -l
+total 3156048
+-rw-rw-r-- 1 anon anon  157286400  Alito.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Breyer.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Ginsburg.Warhead1
+-rw-rw-r-- 1 anon anon  139172380  Kagan.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Kennedy.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Roberts.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Scalia.Warhead1
+-rw-rw-r-- 1 anon anon             743  sha256sums
+-rw-rw-r-- 1 anon anon  157286400  Sotomayor.Warhead1
+-rw-rw-r-- 1 anon anon  157286400  Thomas.Warhead1
+-rw-rw-r-- 1 anon anon 1554749980  Warhead-US-DOJ-LEA-2013.aes256
+
+anon@OpLastResort:~/Downloads/Warhead$ cat sha256sums
+16f477a6e9c3f694fde1089f0b8505dd8eea68de8bd80dc5c30a4c39802e375b *Alito.Warhead1
+7964d93eaff4683236d440455cecd02cdc4451153b7605a4bd8f548dce00158b *Breyer.Warhead1
+6b5f831fb0de89ee1673aa6a319458245558e8ca442260c7c6bf8b51554fcb8b *Ginsburg.Warhead1
+41da44274388517543497ea39365bd28f73e688378bf4ed0f90cf3966946fcfd *Kagan.Warhead1
+d66d05ddf1ddc4321c7203d875247f3e59d0e2635ab111b7b27cf5c7d25bdf35 *Kennedy.Warhead1
+0143c2df061b79955e12b24e8d41eba18de4c932988f83a83a71cad6860d7416 *Roberts.Warhead1
+8eabbdb6efa63ce39a63dee5e3ea75104c204fd5a72983b1b75f24cacc273cbf *Scalia.Warhead1
+152bb181bce756f0e31388f3bf9dfd54d3bc2e67c01484f515f7d5ebc00a28e0 *Sotomayor.Warhead1
+94f5c254f2dcaadd06b40c7b10da8c83fa3ffcce381147a45dcb051957aab666 *Thomas.Warhead1
+
+anon@OpLastResort:~/Downloads/Warhead$ sha256sum -c sha256sums
+Alito.Warhead1: OK
+Breyer.Warhead1: OK
+Ginsburg.Warhead1: OK
+Kagan.Warhead1: OK
+Kennedy.Warhead1: OK
+Roberts.Warhead1: OK
+Scalia.Warhead1: OK
+Sotomayor.Warhead1: OK
+Thomas.Warhead1: OK
+
+anon@OpLastResort:~/Downloads/Warhead$ cat Scalia* Kennedy* Thomas* Ginsburg* Breyer* Roberts* Alito* Sotomayor* Kagan* > Warhead-US-DOJ-LEA-2013.aes256
+
+anon@OpLastResort:~/Downloads/Warhead$ sha256sum Warhead-US-DOJ-LEA-2013.aes256 
+ecbba575a8c09c486f72c4f535e419a933131f4719c70bd4e2cc7b17f40fa565  Warhead-US-DOJ-LEA-2013.aes256
+
+I have no idea if this is really from anonymous or if it's a government false flag attack to try and discredit anonymous as an ""EVIL"" group of hackers.
+Either way, I like the idea and we shall see what happens if the demands aren't met. I remember Wikileaks releasing an ""insurance.aes256"" file a while back, not sure if the key was ever released but that file might of kept ""Julian Assange"" from getting assassinated or sent to Guantánamo where he would maybe disappear forever."
+,zrool21,2013-01-27T10:54Z,"Ah nice! Thanks for the info, s5822607. Eventually everyone should stop seeding this incomplete torrent and grab https://thepiratebay.sx/torrent/8070181 instead."
+,s5822607,2013-01-27T11:34Z,"zrool21, can you verify the other torrent (https://thepiratebay.sx/torrent/8070181) and see if there's those ascii lines with 64 chars per line (base64-encoded).
+
+To save bandwidth, you can extract the files from this torrent into a folder called Warhead, then download the other torrent and point it to the the folder that Warhead is in.
+
+Ex: Downloads/Warhead (point the other torrent to Downloads)
+
+You should be able to verify the files and it should download only the missing data instead of all the files.
+
+And yes, we should probably stop seeding this torrent as I'm pretty sure it's corrupt/incomplete."
+,s5822607,2013-01-27T11:41Z,"Yes, we should probably stop seeding this one because I'm pretty sure it's incomplete.
+
+Could you verify that there's 64 chars per line on the other torrent?
+
+Also, to save on bandwidth, you can extract these files in a folder called Warhead and download the other torrent and then it will resume the download on the 3 corrupt files, rather then re-downloading the whole thing again."
+,zrool21,2013-01-27T13:10Z,"I confirm that in the other torrent (https://thepiratebay.sx/torrent/8070181), the lines on all the split points have 64 chars. The other torrent is the right thing to download.
+
+You can run the following unix command to print the lines on the split points:
+for file in Scalia* Kennedy* Thomas* Ginsburg* Breyer* Roberts* Alito* Sotomayor* Kagan*; do head -n 1 $file; tail -n 1 $file; done
+All the lines that gets printed (except the last one) should have the same 64-chars length."
+,s5822607,2013-01-28T00:06Z,"@zrool21, I just tried your command and it worked perfectly on my end... Got 64 chars per line and the last line was "" O2XqwBHzoLUo+S0yN9GRCKqHfe1ps0wF77XtApI1ubI= ""
+
+Well I stopped seeding this torrent, hopefully other people will realize it's incomplete and stop also."
+,ChloeBlue,2013-02-05T00:37Z,"http://dt.smzfcg.gov.cn/UpFiles/oops-we-did-it-again.html
+
+4,000+ names of banking execs...login, hashed passwords, emails, phone numbers....wow...anonymous went crazeeeeeeeeeeee"
+,xrayman37,2013-02-22T01:44Z,i want them to release it i kno there is no more justice in this country. who was it that said people shouldnt be afraid of their country their country should be afraid of their people? i see that revolutions happen all over the world and its not perfect but they are not the worst either. when they killed dorner they knew they had shit to hide
+,ChloeBlue,2013-03-28T23:32Z,"xrayman37 --->    AGREED!
+
+I also wish ANONYMOUS would do something about Agenda 21....it's lurking in every city under ""other"" names like....smart growth & sustainable development etc.
+
+Call your city hall and ask to see any new city funded building plans.  It's all public information.  You'll find the insidious ""agenda21"" tactics in EVERY new building going up.
+
+They use the environment as an excuse and the ""global warming LIE"" to exert communist type control over us and it's happening right in front of our face at warp speeds...they've been planning to herd in the sheeple for a LONG time.   If you've ever visited Russia, this is what we are facing if we don't fight back!   "

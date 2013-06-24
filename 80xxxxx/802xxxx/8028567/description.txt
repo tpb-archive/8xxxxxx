@@ -1,0 +1,77 @@
+ http://www.imdb.com/title/tt0290641/
+
+
+Synopsis
+
+Seamus and Ciaran are childhood friends with a shared commitment
+to Ireland's independence from British rule, a commitment which 
+puts a sudden end to their teenage kicks and lands them a lengthy
+ sentence behind bars. Soon the friends' passion spreads to other
+ political prisoners who join them in a 66 day hunger strike.
+
+The hunger strike of May 1981 was a revival of the hunger
+protest of late 1980, when seven strikers abandoned their 
+fast, misled into believing that the government was about
+to give in to their demands. Until 1976, IRA political prisoners
+had virtual "prisoner of war" status. Then a policy of 
+"criminalisation" of terrorists came into force. The prisoners
+refused to wear convict garb and began the "blanket" and the 
+"dirty" campaign. McKeown, who was sentenced to life for the
+attempted murder of an RUC officer and "causing explosions",
+was 18 when he was arrested. He began his hunger strike at the
+age of 25.
+
+ File Name: H3.avi
+File Size (Bytes): 272,631,466
+
+[Format]
+Format (Short Name): avi
+Format (Long Name): AVI format
+Duration: 01:46:21.06
+Duration (Microseconds): 6,381,061,224
+Bit Rate (bits/sec): 341,800
+Number of Streams: 2
+
+[Metadata]
+encoder: Lavf51.12.1
+
+[Stream #0]
+Type: Video
+Codec (Short Name): mpeg4
+Codec (Long Name): MPEG-4 part 2
+Codec Tag: 0x30355844
+Codec Tag (String): DX50
+Codec Time Base: 1/25
+Time Base: 1/25
+Real Base Frame Rate: 25/1
+Average Frame Rate: 0/0
+Duration: 00:00:00.06
+Duration (Microseconds): 159,522
+Bit Rate (bits/sec): N/A
+Number of Frames: 159,522
+
+Width: 320
+Height: 240
+Pixel Aspect Ratio: 1:1
+Display Aspect Ratio: 4:3
+Pixel Format: yuv420p
+Has B Frames: No
+
+[Stream #1]
+Type: Audio
+Codec (Short Name): mp3
+Codec (Long Name): MP3 (MPEG audio layer 3)
+Codec Tag: 0x00000055
+Codec Tag (String): U[0][0][0]
+Codec Time Base: 0/1
+Time Base: 32/1225
+Real Base Frame Rate: 0/0
+Average Frame Rate: 0/0
+Duration: 00:00:00.06
+Duration (Microseconds): 244,275
+Bit Rate (bits/sec): 128,000
+Number of Frames: 244,275
+
+Channels: 2
+Sample Rate (Hz): 44,100
+Bit Rate: 16 bits (Integer)

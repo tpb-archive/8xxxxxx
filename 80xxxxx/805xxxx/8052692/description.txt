@@ -1,0 +1,8 @@
+Installation instructions:
+* Extract to desktop
+* Edit config.php.new located in /includes/
+* Rename config.php.new to config.php located in /includes/
+* Upload everything within the upload folder
+* Go to www.yourdomain.com/install/index.php
+
+Have fun with your new vBulletin board!

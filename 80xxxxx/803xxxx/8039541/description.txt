@@ -1,0 +1,10 @@
+Andorid Sygic navigation 11.2.6 with current maps downloaded separately directly from sygic servers.
+
+
+1. Download the maps you want using SygicDownloader_1.9.exe.
+2. Install sygic_navigator_11_2_6.apk on phone - do NOT run application.
+3. Copy the downloaded Aura folder to the root of your SD card.
+4. Run Sygic. The downloader on phone will appear. Download something small like Andora map 2MB and exit. 
+5. Sygic main program should start.
+
+Enjoy.

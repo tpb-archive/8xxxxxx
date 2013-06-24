@@ -1,0 +1,5 @@
+1. install application, at the end of the application it will ask you to load the registration file, click cancel.
+2. uncheck the run application checkbox at the end of the installer
+3. copy dvbviewer.exe and reg.reg to the installation directory and overwrite the existing dvbviewer.exe
+4. run reg.reg
+5. done!

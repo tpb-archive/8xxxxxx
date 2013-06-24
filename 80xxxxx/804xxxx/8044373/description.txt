@@ -1,0 +1,83 @@
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 638 MiB
+Duration                                 : 1h 24mn
+Overall bit rate                         : 1 050 Kbps
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 24mn
+Bit rate                                 : 921 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.042
+Stream size                              : 548 MiB (86%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Muxing mode                              : Header stripping
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 24mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 77.8 MiB (12%)
+Writing library                          : LAME3.98.2
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+Source:
+credit to original movie ripper Ganool (Thanks)
+
+IMDB Info:
+
+Follows two unlikely heroes who stumble upon a mysterious crate, washed ashore. The locals find that the contents make a rather addictive herbal tea that turns the villagers into crazy zombies.
+
+Director: David Ryan Keith
+Writers: David Ryan Keith (story), Alisdair Cook, 
+Stars: Calum Booth, Steve Worsley and Claire McCulloch
+
+Genres: Comedy | Horror
+ 
+http://www.imdb.com/title/tt1948521/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/95672733271880875194.png 
+http://www.shotpix.com/images/25629933469444610395.png 
+http://www.shotpix.com/images/52360538348463096829.png 
+http://www.shotpix.com/images/28362435003716493513.png 
+http://www.shotpix.com/images/85726428343599078313.png 
+http://www.shotpix.com/images/07330939855947071539.png

@@ -1,0 +1,45 @@
+Thankz to original uploader Ivankehayov.
+
+WINDOWS 7 ULT 32-BIT
+It's bootable image based on en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso
+
+This Windows is updateable through Windows Update (language packs cannot be installed).
+
+There is no any software or updates added except newer Internet Explorer 9.
+
+Windows 7 will be activated if SLIC 2.1 is found in BIOS.
+
+Reminder: Note that almost all the drivers are removed and you should have your computer drivers ready before installation.
+
+If you are regular user you will not notice any difference using my lite version compared to full-featured Windows 7.
+
+An autoattended.xml file is inserted in the image to automate the installation (Language: EN, name: Administrator, PC name: IK-PC, time: UTC+2h.
+All can be changed after setup). You need only to point a partition for installation and in 5-10 min Windows should be installed.
+
+WINDOWS 7 ULT 64-BIT.
+What has been removed:
+
+All the languages except English (keyboards layouts are intact). *Language Packs cannot be installed*.
+
+Drivers -&gt; video cards, modems, printers, scanners, TV tunners, fax machines, some storage controller.
+
+Following gadgets are not here -&gt; Currency, MediaCenter, PicturePuzzle, RSSFeeds, SlideShow & Weather.
+
+All the games -&gt; card games, Chess, Mahjong, Backgammon, Checkers, Spades, Minesweeper & Purble Place.
+
+Hardware support for the following devices -&gt; iSCSI devices, Microsoft Multi-Path Bus and Smart cards.
+
+Multimedia -&gt; Media Center, music and video samples, except these needed for Windows Experience Index,
+all sample pictures, all screensavers, all sounds, all the desktop themes except the default aero one.
+
+Network -&gt; Internet Information Services, Remote Desktop & Assistance (Remote Desktop Connection here)
+RIP Listener, Simple Network Management Protocol (SNMP), Telnet Client, Telnet Server and TFTP Client.
+.
+Services -&gt; Distributed Transaction Coordinator (DTC), Error Reporting service, Offline Files, Quality
+Windows Audio Video Experience, Windows Search (Indexing service only but not built-in search option).
+
+System -&gt; most of Tablet PC components, BitLocker Drive Encryption, Manual Install and Upgrade option,
+Help, Windows Easy Transfer, Sync Center, Subsystem for UNIX-based Applications (SUA), Welcome Center,
+Windows Defender, Accessibility, Speech Support & Narrator, Windows Journal, Migwizard, Microsoft IME,
+Jet Database Engine, Microsoft Message Queue (MSMQ), Parental Controls, System Recovery disc creation,
+Natural Language, Microsoft Client for NFS, Software Quality Management, built CD/DVD burning support.

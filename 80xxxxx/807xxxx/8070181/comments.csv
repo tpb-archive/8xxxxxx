@@ -1,0 +1,181 @@
+﻿User Type,Username,Date,Text
+,s5822607,2013-01-27T07:57Z,"The file sizes don't add up...
+
+File names (and sizes): 1115 MB total
+
+  Scalia.Warhead1 (150 MB)
+  Kennedy.Warhead1 (108 MB)
+  Thomas.Warhead1 (150 MB)
+  Ginsburg.Warhead1 (150 MB)
+  Breyer.Warhead1 (150 MB)
+  Roberts.Warhead1 (23 MB)
+  Alito.Warhead1 (150 MB)
+  Sotomayor.Warhead1 (101 MB)
+  Kagan.Warhead1 (133 MB)"
+,s5822607,2013-01-27T10:26Z,"The file sizes don't match but I believe this is the PROPER copy... I believe whoever wrote those file sizes might of mis-downloaded the files and thought they were complete.
+
+anon@OpLastResort:~/Downloads/Warhead$ ls -l
+total 3156048
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 02:57 Alito.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 02:57 Breyer.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 03:00 Ginsburg.Warhead1
+-rw-rw-r-- 1 anon anon  139172380 Jan 27 02:35 Kagan.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 26 17:32 Kennedy.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 03:02 Roberts.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 02:35 Scalia.Warhead1
+-rw-rw-r-- 1 anon anon        743 Jan 27 02:32 sha256sums
+-rw-rw-r-- 1 anon anon  157286400 Jan 26 17:32 Sotomayor.Warhead1
+-rw-rw-r-- 1 anon anon  157286400 Jan 27 03:04 Thomas.Warhead1
+-rw-rw-r-- 1 anon anon 1554749980 Jan 27 03:14 Warhead-US-DOJ-LEA-2013.aes256
+
+anon@OpLastResort:~/Downloads/Warhead$ cat sha256sums
+16f477a6e9c3f694fde1089f0b8505dd8eea68de8bd80dc5c30a4c39802e375b *Alito.Warhead1
+7964d93eaff4683236d440455cecd02cdc4451153b7605a4bd8f548dce00158b *Breyer.Warhead1
+6b5f831fb0de89ee1673aa6a319458245558e8ca442260c7c6bf8b51554fcb8b *Ginsburg.Warhead1
+41da44274388517543497ea39365bd28f73e688378bf4ed0f90cf3966946fcfd *Kagan.Warhead1
+d66d05ddf1ddc4321c7203d875247f3e59d0e2635ab111b7b27cf5c7d25bdf35 *Kennedy.Warhead1
+0143c2df061b79955e12b24e8d41eba18de4c932988f83a83a71cad6860d7416 *Roberts.Warhead1
+8eabbdb6efa63ce39a63dee5e3ea75104c204fd5a72983b1b75f24cacc273cbf *Scalia.Warhead1
+152bb181bce756f0e31388f3bf9dfd54d3bc2e67c01484f515f7d5ebc00a28e0 *Sotomayor.Warhead1
+94f5c254f2dcaadd06b40c7b10da8c83fa3ffcce381147a45dcb051957aab666 *Thomas.Warhead1
+
+anon@OpLastResort:~/Downloads/Warhead$ sha256sum -c sha256sums
+Alito.Warhead1: OK
+Breyer.Warhead1: OK
+Ginsburg.Warhead1: OK
+Kagan.Warhead1: OK
+Kennedy.Warhead1: OK
+Roberts.Warhead1: OK
+Scalia.Warhead1: OK
+Sotomayor.Warhead1: OK
+Thomas.Warhead1: OK
+
+anon@OpLastResort:~/Downloads/Warhead$ cat Scalia* Kennedy* Thomas* Ginsburg* Breyer* Roberts* Alito* Sotomayor* Kagan* > Warhead-US-DOJ-LEA-2013.aes256
+
+anon@OpLastResort:~/Downloads/Warhead$ sha256sum Warhead-US-DOJ-LEA-2013.aes256 
+ecbba575a8c09c486f72c4f535e419a933131f4719c70bd4e2cc7b17f40fa565  Warhead-US-DOJ-LEA-2013.aes256
+"
+,LRTS593701,2013-01-27T12:11Z,"@s5822607 That's strange. The files are all 150M on my machine, except Kagan.Warhead1, which is 133M:
+
+LRTS593701@oplastresort:~/Warhead$ ls -lhS
+total 1.4G
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:10 Alito.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:10 Breyer.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:10 Ginsburg.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:11 Kennedy.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:11 Roberts.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:11 Scalia.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:11 Sotomayor.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 150M 2013-01-27 02:12 Thomas.Warhead1
+-rw-r--r-- 1 LRTS593701 LRTS593701 133M 2013-01-27 02:10 Kagan.Warhead1
+
+md5sum for Warhead-US-DOJ-LEA-2013.AES256:
+dc811c69894e46cd12c150918678ee16  Warhead-US-DOJ-LEA-2013.AES256
+
+sha256sum for Warhead-US-DOJ-LEA-2013.AES256:
+5694c837f3b246a08d1d10889e37b89d9c235048254768f217f3898df474141d  Warhead-US-DOJ-LEA-2013.AES256"
+,Amaroq64,2013-01-27T13:16Z,"Notice how almost every file is exactly 150mb. The files I got from the mirror had only five files that were 150mb, while the rest were smaller. (Roberts was 22.7mb.)
+
+I was initially alarmed when a few checksums between my mirror files and the pirate bay files didn't match. In the cases of these mis-matches, The Pirate Bay's files are 150mb while mine were smaller.
+
+But there is still one file that is not exactly 150mb, and that is Kagan. Kagan is 132mb.
+
+It's possible that there's still a 150mb Kagan out there somewhere. But Kagan is also the last in the order of concatenation, so Kagan could've just been what was left over after 150mb splits. No way to tell which right now."
+,LRTS593701,2013-01-27T13:42Z,"I cross-checked Kagan on other working mirrors (the rest were too slow to download fully, I just checked the size) and it's 133M (actually 132.72M) on all working servers, so I guess that's what remained after the 150M splits.
+
+NOTICE!!!!
+
+THE ACTUAL sha256sum FOR Warhead-US-DOJ-LEA-2013.aes256 IS:
+
+439050be84caa5d80a37d08a3d7a7f4e28f729dd9502f02bb0051d065ea372ab
+
+THE ACTUAL md5sum FOR Warhead-US-DOJ-LEA-2013.aes256 IS:
+
+9f7bb4f7bf6de8ceccf2f7e4536f1ef6
+
+The sums from my previous comment are wrong, the concatenation order was not right there!"
+,zrool21,2013-01-27T13:57Z,"@LRTS593701: s5822607's first comment mentions files size that were reported by someone else who got the wrong files. s5822607 initially thought the right files were the wrong ones and vice versa.
+
+@Amaroq64: I think Kagan.Warhead1 is complete because its content ends with '=', which is a typical end for base64. See http://en.wikipedia.org/wiki/Base64#Padding Once again I'm just guessing; imho it's a shame the Anonymous did not provide checksums nor made a torrent in the first place."
+,s5822607,2013-01-28T00:22Z,"@LRTS593701, Yeah, my files were all 150MB except for the last one which is normally when doing an archive of multiple files, the last file is normally smaller then the other ones.
+
+I ran a checksum on my files,
+anon@OpLastResort:~/Downloads/Warhead$ sha256sum Warhead-US-DOJ-LEA-2013.aes256
+439050be84caa5d80a37d08a3d7a7f4e28f729dd9502f02bb0051d065ea372ab  Warhead-US-DOJ-LEA-2013.aes256
+
+anon@OpLastResort:~/Downloads/Warhead$ md5sum Warhead-US-DOJ-LEA-2013.aes256 
+9f7bb4f7bf6de8ceccf2f7e4536f1ef6  Warhead-US-DOJ-LEA-2013.aes256
+
+Everything matches, even ran the individual files and also match.
+
+@zrool21, I agree, if this was really done by Anonymous and not our corrupt government, Anonymous did a shitty job at spreading the Warhead. They could of done the same thing they did but post the checksum file or create a torrent like you said. Would of saved us all a lot of headaches and time. lol
+Now all we need is the damn key/password to see how good this Warhead really is..."
+,atod539,2013-01-28T03:14Z,"/Documents/Warhead $ ls -l
+total 1364748
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Alito.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Breyer.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Ginsburg.Warhead1
+-rw-r--r-- 1 bob bob 139172380 Jan 28 09:58 Kagan.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Kennedy.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Roberts.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Scalia.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Sotomayor.Warhead1
+-rw-r--r-- 1 bob bob 157286400 Jan 28 09:58 Thomas.Warhead1
+
+/Documents/Warhead $ sha256sum *
+16f477a6e9c3f694fde1089f0b8505dd8eea68de8bd80dc5c30a4c39802e375b  Alito.Warhead1
+7964d93eaff4683236d440455cecd02cdc4451153b7605a4bd8f548dce00158b  Breyer.Warhead1
+6b5f831fb0de89ee1673aa6a319458245558e8ca442260c7c6bf8b51554fcb8b  Ginsburg.Warhead1
+41da44274388517543497ea39365bd28f73e688378bf4ed0f90cf3966946fcfd  Kagan.Warhead1
+d66d05ddf1ddc4321c7203d875247f3e59d0e2635ab111b7b27cf5c7d25bdf35  Kennedy.Warhead1
+0143c2df061b79955e12b24e8d41eba18de4c932988f83a83a71cad6860d7416  Roberts.Warhead1
+8eabbdb6efa63ce39a63dee5e3ea75104c204fd5a72983b1b75f24cacc273cbf  Scalia.Warhead1
+152bb181bce756f0e31388f3bf9dfd54d3bc2e67c01484f515f7d5ebc00a28e0  Sotomayor.Warhead1
+94f5c254f2dcaadd06b40c7b10da8c83fa3ffcce381147a45dcb051957aab666  Thomas.Warhead1
+
+/Documents/Warhead $ md5sum *
+14965755e21467d13ac807031f97e2bc  Alito.Warhead1
+c243e81a44fc42bc8e6821e9b05650da  Breyer.Warhead1
+26e93c731515b4941e10a400e402787c  Ginsburg.Warhead1
+199cbbaacbad4e48152dc7d9da153674  Kagan.Warhead1
+ee385def3e79c72ecbea42a287ec0396  Kennedy.Warhead1
+29da80651797cf30a9594ec97901d8a6  Roberts.Warhead1
+af5ab26b222be2c853ebc8460a533f61  Scalia.Warhead1
+06917dfe9038640b76d2d83cb3661b3c  Sotomayor.Warhead1
+1321fbd5d52d7ea270e50885b0fbf8ae  Thomas.Warhead1"
+,ChloeBlue,2013-01-28T20:41Z,"Has anyone used these keys with success???
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+The keys to the warheads are:
+
+Alito :: TDMzVEg0WDNOWkJSVUg=
+Breyer :: RzAwRExVQ0tQSDRHRzBU
+Ginsburg :: WU9VV09OVEJFQUJMRVRPQ1JBQ0tUSElT
+Kagan :: QkVDQVVTRVlPVVJFQURVTUJCSVRDSA==
+Kennedy :: SEFWRUZVTlRIT1VHSEJFQ0FVU0VJVFdBU0ZVTkZPUk1F
+Roberts :: VEgzUjMxWk4wU1AwME4=
+Scalia :: MTMzN0hBWEVOWkZUVw==
+Sotomayor :: SFRUUDovL1dXVy5NRUFUU1BJTi5DT00=
+Thomas :: SFRUUDovL1dXVy5TUEVDSUFMRlJJRURSSUNFLk5FVA== "
+,steelllynx,2013-01-31T02:55Z,ChloeBlue: more than one key doesn't make sense as this is obviously one file split into nine.
+,BillyMoses,2013-01-31T09:18Z,"I'm not even being asked for a password. In what program, when the password is issued, shall I open the files in?"
+,ChloeBlue,2013-01-31T23:22Z,"Steelllynx -- I see what you mean.  I guess I thought it was one password for each file.  I haven't downloaded this yet.  I didn't want to bother if I didn't have the correct way to open it.  I copied and pasted those keys from another site, but I cannot find any information about whether anyone out there has actually opened these files.  
+
+Of course, like everyone else, I'd like to know when anonymous plans to release the info if demands are not met.  It's all very interesting to me and I'm actually hoping laws get changed because of this.  Although, I'm very sure the gummint will use this all as an excuse to exert even more control.  ugh.
+
+Also, are you saying that we have to know how to combine these files before they are read?"
+,ChloeBlue,2013-01-31T23:29Z,"Also, please see this article.....I'd like to know what all of you think:
+
+http://www.dailydot.com/news/anonymous-warhead-encryption-keys-trolling/"
+,ChloeBlue,2013-02-05T00:38Z,"http://dt.smzfcg.gov.cn/UpFiles/oops-we-did-it-again.html
+
+4,000+ names of banking execs...login, hashed passwords, emails, phone numbers....wow...anonymous went crazeeeeeeeeeeee"
+[T],cclloyd,2013-02-07T22:28Z,"So, is it possible to decrypt and compile these now?  How?"
+,ChloeBlue,2013-02-10T23:33Z,"cclloyd - I wish knew that also.  I don't think there are many people responding to comments here.  Also, I'd like to see updates on the Anonymous leaks in these comments too.
+"
+,anonymiss72,2013-02-21T03:12Z,"Guys...I seriously think this was a false flag by an operative of some kind (government related no doubt) I believe this is to make ANONYMOUS seem unreliable and dumb...however, you can fool some of the people some of the time but, not all of the people all of the time!"
+,ChloeBlue,2013-03-07T01:48Z,"Anonymiss72 >>> I think that might be possible!  I've stopped checking back here since I just can't find any updates.  I wanted their demands to be met.....even if I never got to see what was in these files.  I wanted justice more than anything and I'm still hopeful that can happen.   All these computer geniuses are seriously a force to be reckoned with.
+
+No matter how many times the government or elitist corporations try to screw us, there will always be a hacker, with the right stuff, that will happily screw them right back.  In my view, computers give this generation a very unique leverage against the almighty ""rulers"" of the world.  Leverage that the masses have never existed before in history.  So, as long as the 'gummint' and the bankers and corporations are reliant upon computers, they will always be vulnerable.  And that thought makes me happy.   "
+,Nanovirus13,2013-03-19T20:28Z,"There is no nuclear warhead. There's nothing but trash here. The SCOTUS names are just eye candy. You better get in with a good platoon or battalion because when martial law is enacted we probably won't have a stable power grid and the US internet will be locked-down. It's only a matter of time before China or Russia develop/copy the Tesla Peace-Ray. That is the reason the F-22 program was halted, the JSF is in full swing, and the USAF is converting to unmanned aircraft. The only 2 ways to take out a laser defense network are either attrition via air armada or ground/naval armored assault. The lasers cannot effectively penetrate armor, but to what degree is still unknown. Besides everything else, IF there was a nuclear detonation, martial law would immediately go into effect with the militias not staged and communications being locked down. If Anonymous claimed it, then anyone without a badge or BDU would be blind and isolated; easy pickings for any organized force."

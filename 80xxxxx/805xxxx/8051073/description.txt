@@ -1,0 +1,99 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+
+Release File: LaNanov15.zip
+Size: 29.1MB
+CRC32: 3F91C13D
+MD5: 417C4740D5371F31DC7FC4CF0BEE1A5A
+SHA-1: EB01726E9C89ED42CD0229DB37CC14C14B583209
+
+KMSNano is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. I have personally activated KMSNano without
+having my lan drivers even installed on a fresh install of Windows 7.
+
+This is v15.  There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise N/VL
+Windows 7 Pro/Enterprise N/VL
+Windows 8 Pro/Enterprise N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+Retail-Only Versions of windows that will NOT activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate
+7 Starter/Homebasic/Homepremium/Ultimate
+8 core/ProWMC
+
+N and E versions use same methods, and will NOT activate.
+I am unaware of activation methods, besides purchase, for those versions.
+
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Prescan file and then shut down Security Programs and any other running programs.
+(Torrent program caused problem for me)
+2. Extract the zip file. (Optional - I ran from within zip)
+3. Run KMSnano.exe
+4. Wait about 60-80secs while the files run in the background.
+(It doesn't let you know when it's done, you can check task manager or just wait)
+5. Run the Check_Activation.cmd to verify your activation status.
+6. Go about your business. You can get the Win8 watermark to go away by
+auto-hiding the taskbar or similar system stuff. (WindowsKey+D works also)
+
+To fix any botched activations from other "hacktivators" or activation problems
+in general, you can run admin command prompt command "SFC /SCANNOW"
+I very much recommend running that command on older systems with stale system files
+that may have a lot of inconsistencies.
+
+To see if your currect activation is working, run the included script:
+Check_Activation.cmd inside the zip file. That will list Windows and Office
+activations. Read the included text file for more info.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+Get an actual release if you want to activate. (RTM or Retail)
+
+For people trying to activate just Office, extract kmsnano.exe to a directory
+using 7-zip or Winrar. heldigard mentions editing Manual_Silend.cmd
+He mentions to find the line with kmseldi.exe and add /noWin and /no2010 to
+just attempt to activate Office 2013. Save that file and right-click and run
+as administrator. If it does not activate Office, try running admin command
+prompt command "SFC /SCANNOW" then repeating the command.
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from v14:
+Haven't seen heldigard's official changes yet, but I have noticed that the
+tools are updated. TriggerKMS.exe lists version 7 now. I'm fairly sure that
+this one will likely have the speed increase that v14 has, as far as KMSNano.exe
+is concerned.
+
+(Extract LaNanov15.zip to a directory. Run the "Run Trigger.cmd" to set the
+trigger to check activation every time you boot and activate if less than 30
+days left on the 180day KMS activation. You can edit "Run Trigger.cmd" to change
+how many days activation will have before expiration before the TriggerKMS runs
+kmsnano.exe *CHEER*)*
+
+*Note that you will probably need to turn off smart screen filter for
+applications and potentially allow the TriggerKMS.exe and KMSNano.exe
+through any sort of firewall setups and security programs.
+
+-heldigard mentioned that he thought there was no more work to be done on this.
+Time will tell if the legendary heldigard participates further or if someone else
+starts running with the baton to help fix problems with small details.
+heldigard, on behalf of the rest of the people out here who appreciate your work,
+thank you very much.
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Enjoy Pirates,
+murphy78-TPB

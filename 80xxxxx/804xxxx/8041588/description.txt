@@ -1,0 +1,51 @@
+ http://www.piczend.com/image/1358611107_vlcsnap-2013-01-19-08h57m22s170.png 
+http://www.piczend.com/image/1358611107_vlcsnap-2013-01-19-08h57m31s5.png 
+http://www.piczend.com/image/1358611102_vlcsnap-2013-01-19-08h57m36s58.png 
+http://www.piczend.com/image/1358611105_vlcsnap-2013-01-19-08h57m42s109.png 
+http://www.piczend.com/image/1358611104_vlcsnap-2013-01-19-08h57m50s194.png
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 2
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 55mn
+Bit rate : 680 Kbps
+Width : 640 pixels
+Height : 266 pixels
+Display aspect ratio : 2.40:1
+Frame rate : 20.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.200
+Stream size : 563 MiB (60%)
+Writing library : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID : 1
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : 2000
+Duration : 1h 55mn
+Bit rate mode : Constant
+Bit rate : 448 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 370 MiB (39%)
+Alignment : Aligned on interleaves
+Interleave, duration : 32 ms (0.64 video frame)
+

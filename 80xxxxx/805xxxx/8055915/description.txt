@@ -1,0 +1,77 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+
+Release File: LaNanov15.1.zip
+Size: 29.2MB
+CRC32: CADB0544
+MD5: F7C79938613180D412932C432EB6921E
+SHA-1: 247757E235491BF2F75B58BB9D861172811D8C9D
+
+KMSNano is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. I have personally activated KMSNano without
+having my lan drivers even installed on a fresh install of Windows 7.
+
+This is v15.1.  There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+Retail-Only Versions of windows that will *NOT* activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Prescan file and then shut down Security Programs and any other running programs.
+(Torrent program caused problem for me)
+2. Extract the zip file. (Optional - I ran from within zip)
+3. Run KMSnano.exe
+4. Wait about 60-80secs while the files run in the background.
+(It doesn't let you know when it's done, you can check task manager or just wait)
+5. Run the Check_Activation_all.cmd to verify your activation status.
+6. Go about your business. You can get the Win8 watermark to go away by
+auto-hiding the taskbar or similar system stuff. (WindowsKey+D works also)
+
+To fix any botched activations from other "hacktivators" or activation problems
+in general, you can run admin command prompt command "SFC /SCANNOW"
+I very much recommend running that command on older systems with stale system files
+that may have a lot of inconsistencies.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+Get an actual release if you want to activate. (RTM or Retail)
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from v15:
+- Detect Office 2013 Grace Edition.
+- Fixed bug when Firewall service is off.
+- Add TriggerKMS v8.
+
+(Use my custom "Run Trigger.cmd" for win8 trigger setting. It will run when 30
+days left on kms activation or less. You can edit to run sooner or later. Once you
+run the "Run Trigger.cmd", don't move or delete either the kmsnano.exe or
+triggerkms.exe)
+
+To remove the trigger task, go into task scheduler and look for triggerkms on the
+list of tasks. Double click it to open the settings, then click the delete button.
+(May be slightly different on non-win8 systems)
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Enjoy Pirates,
+murphy78-TPB

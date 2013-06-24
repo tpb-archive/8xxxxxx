@@ -1,0 +1,9 @@
+Linux Lite is a linux based operating system suitable for people who are new to Linux and for people who want a lightweight desktop environment. Based on Ubuntu 12.04.1 LTS, XFCE 4.8
+
+Linux Lite 1.0.4 CFV (community feedback version) for 32bit with Pae support has been released. Since this release implements many significant changes, to facilitate feedback this will be the last release before the 1.0.4 final. It's more a beta than a RC.
+
+Distrowatch listing here: http://distrowatch.com/table.php?distribution=lite
+
+The following software is included: GParted, LibreOffice Writer, LibreOffice Calc, XFBurn CD/DVD Burner, VLC Media Player, Firefox Web Browser with Flash, OpenJDK Java v6, Mumble Voice Chat, Thunderbird Email, XChat IRC Client, Gimp Image Editor, Leafpad Text Editor, Xarchiver.
+
+Live user is: root, there is no password (hit enter) 

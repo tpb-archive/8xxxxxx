@@ -1,0 +1,80 @@
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 695 MiB
+Duration                                 : 1h 17mn
+Overall bit rate                         : 1 250 Kbps
+
+Video
+ID                                       : 1
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : Yes
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : V_MS/VFW/FOURCC / XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 17mn
+Bit rate                                 : 777 Kbps
+Width                                    : 640 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.179
+Stream size                              : 432 MiB (62%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_AC3
+Duration                                 : 1h 17mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 249 MiB (36%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper TASTE (Thanks)
+
+IMDB Info:
+
+Seven friends on a road trip to Las Vegas break down near a rest-stop motel, where they encounter a seemingly helpful group of people. Convinced to stay overnight, the friends wake up in their rooms to a gruesome and bloody terror.
+
+Director: Chris Stokes
+Stars: Kristen Quintrall, Denyce Lawton and Christopher Jones 
+
+Genres: Horror
+ 
+http://www.imdb.com/title/tt1854582/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/51622785461306550746.png 
+http://www.shotpix.com/images/59039887386124336330.png 
+http://www.shotpix.com/images/51420865542217973236.png 
+http://www.shotpix.com/images/42103922712123796483.png

@@ -1,0 +1,28 @@
+REARE
+
+ 
+http://load.linkinpark-fans.ir/images/3vcgsa837e8e2wu54fek.jpg
+
+
+[Used Filter List]
+(1) MP4 Source
+(2) Audio Codec/Transform
+(3) DirectSound Audio Renderer
+(4) Video Codec/Transform
+(5) Enhanced Video Renderer(Custom Present)
+
+[Video Information]
+Video Codec:avc1 - FFmpeg Decoder
+Input type:avc1(24)
+Input size:1920 x 1080(1.78:1)
+Output type:YUY2(16)
+Output Size:1920 x 1080(1.78:1)
+Frame Rate:24.00
+
+
+[Audio Info]
+Audio Codec:AAC(0xff) - Default Decoder
+Sample rate:44100
+Bit rate:16
+Channels:2
+

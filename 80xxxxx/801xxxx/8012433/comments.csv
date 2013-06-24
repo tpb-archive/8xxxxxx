@@ -1,0 +1,133 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-01-12T20:26Z,"Very Fast Release bro, great work indeed :)"
+[V],azaq318,2013-01-12T20:38Z,Thank you :) Cheers!
+,Ears14U,2013-01-12T21:50Z,"Thank you again azaq318 !! Funny as I got to 3.3% transfer rate, I was already at 1.5 % as my share ratio. Hell, some of these ungrateful snappers cannot even seed for a couple of hours? Tacky Tacky people.....it's real simple.....share......"
+,tatootheearth,2013-01-12T23:32Z,"Getting the following error:the procedure entry point create interface could not be located in the dynamic link library c:GamesFieldRunners 2steam_api.dll
+
+ Doesn't seem to work on WIN8 64bit"
+,tatootheearth,2013-01-12T23:39Z,getting the following error on win8 64bit: the procedure entry point create interface could not be located in the dynamic link library c:GamesFieldRunners 2steam_api.dll
+,PseudoPositive,2013-01-12T23:53Z,"Thanks azaq318, works well, nice clean upload, +1, cheers"
+,Mr_Ceiling_Cat,2013-01-13T00:28Z,leechers are the enemy
+,PseudoPositive,2013-01-13T01:13Z,"@tatoo, is the file there but not recognised?, it should at least be there, here's my install dir:
+
+http://bayimg.com/CaIchAaei
+
+If it's not there, do a google for it, DL & place it into that folder, don't know what else to say, hope you get it going.
+"
+,tatootheearth,2013-01-13T08:07Z,"@PseudoPositive the file is there, and i have tried replacing it. i guess that it just doesn't work on win8"
+,tinygiant,2013-01-13T11:13Z,"I get the same error as tatootheearth, also running win 8 x64. I tried replacing the dll with one from Rocksmith and the error changes to say: ""the procedure entry point SKIDROW could not be located"". "
+,Ajax121,2013-01-14T00:47Z,"hey well first thanks to the uploader for this awesome torrent, and second i cant play the game cuz of some error .... so help would be greatly appreciated .... i really wanna play this game !!!!  ... thanks !!!!!!! http://img405.imageshack.us/img405/9317/fr2s.jpg and http://img266.imageshack.us/img266/539/fr22.jpg are the errors"
+,tuyugi007,2013-01-14T05:01Z,"fuck off
+
+Os x32 can't play
+
+this's work on 64bit only"
+[T],prodallasosoft,2013-01-14T07:37Z,"No such thing as 64bit only, try using the compatibility wizard if the game installed but wont play. Right click on desktop icon, run compatibility wiz. Why anyone without a touchscreen is running windows 8 is beyond me. True gamers wouldnt touch win 8 unless game is designed for it."
+,Ears14U,2013-01-15T01:33Z,This game is really fun. Thanks again azaq318 ! Somebody flip me a fish! I've seeded already to 21.50% share ratio! lol............
+,crisj73,2013-01-15T02:21Z,Does not work on Win8 x64 (same 'procedure entry point' error as those with problems above). Also tried using several different settings in compatibility mode with no resolution. I will try this in a WinXp VM to confirm whether or not this game works.
+,crisj73,2013-01-15T02:45Z,I can confirm this additionally does not work on WinXp (32bit) as well. Can anyone confirm that this does in fact work in any environment?
+,bfs_dark,2013-01-15T05:57Z,"Working well in Win 7 32bit, Thx!"
+,bobmania,2013-01-19T10:29Z,"Cant save my progress! every time i start the game im back at the tutos, no stars no tokens"
+,tico17,2013-01-19T22:48Z,"i cant play this D= error...
+
+i use (windows 8 32bits)"
+,Wankbot31,2013-01-22T17:26Z,"if your using win 8 don't even bother complaining if it doesn't work that's just the way win 8 is, so save us time and shut up"
+,NNobre,2013-01-25T03:39Z,"Hey, guys. I'll post here a solution for people whom as me use windows 8 32bit. 
+1) Create an acoount on steam and download any free game 
+2) Copy steam_api.dll and steam_appid.ini from the GAME folder to Fieldrunners 2 folder 
+3) Copy steamclient.dll from Steam Folder to FieldRunners 2 folder 
+4) Edit steam_appid.ini on notepad and use the 215710 instead of any code written there. 
+5) Open and log in on steam 
+6) Play the game. It's worked for me and i'm sure it will work for you. 
+7) Pass foward the information"
+,NNobre,2013-01-25T03:39Z,You'll always need the steam opened to play
+,NNobre,2013-01-25T03:40Z,"Hey, guys. I'll post here a solution for people whom as me use windows 8 32bit. 1) Create an acoount on steam and download any free game 2) Copy steam_api.dll and steam_appid.ini from the GAME folder to Fieldrunners 2 folder 3) Copy steamclient.dll from Steam Folder to FieldRunners 2 folder 4) Edit steam_appid.ini and use the 215710 instead of any code there's there. 5) Open and log in on steam 6) Play the game. It's worked for me and i'm sure it will work for you. 7) Pass foward the information"
+,tinygiant,2013-02-05T04:53Z,"Has anyone figured out how to copy the game save between PCs? I installed on one system and played a lot, unlocking half the game. Now I want to play on another PC, but copying the save files doesn't work. I copied the entire game dir and the whole userdata folder with the game's ID (215710), but starting the game just overwrites the save file with a new one, starting the game over with no progress."
+,EslaMx7,2013-02-22T07:47Z,"for anyone who faced this error on Win8 64-bit : ""the procedure entry point create interface could not be located in the dynamic link library c:GamesFieldRunners 2steam_api.dll""
+
+1) install latest version of steam and login with your account : http://store.steampowered.com/about/
+2) goto the steam app folder : C:Program Files (x86)Steam , and copy all DLL files and paste them in the game folder next to the .exe file and overwrite any exists file , that's WORKS PERFECT for me !"
+,amitag,2013-02-24T14:05Z,"i am runnung windows 7 32 bit and the app crash at start with error
+
+Problem signature:
+  Problem Event Name:	APPCRASH
+  Application Name:	Fieldrunners2.exe
+  Application Version:	0.0.0.0
+  Application Timestamp:	50ef84ef
+  Fault Module Name:	StackHash_0a9e
+  Fault Module Version:	0.0.0.0
+  Fault Module Timestamp:	00000000
+  Exception Code:	c0000005
+  Exception Offset:	00000000
+  OS Version:	6.1.7601.2.1.0.256.1
+  Locale ID:	1033
+  Additional Information 1:	0a9e
+  Additional Information 2:	0a9e372d3b4ad19135b953a78882e789
+  Additional Information 3:	0a9e
+  Additional Information 4:	0a9e372d3b4ad19135b953a78882e789
+
+Read our privacy statement online:
+http://go.microsoft.com/fwlink/?linkid=104288&clcid=0x0409
+
+If the online privacy statement is not available, please read our privacy statement offline:
+  C:Windowssystem32en-USerofflps.txt
+
+
+help me sort it out"
+,zeroxxx2,2013-03-01T06:20Z,Use the SteamApi from Steam directly. No longer crashing on start up on Windows 8 x64.
+,cailloup,2013-03-01T08:29Z,"1/ Could you be more specific zeroxxx2 ?
+What have you done exactly? Why did it crash before and not anymore?
+I'm on W8 64, I tried to copy steam_api, steam_api64 steamclient, steamclient64,  I have the good steam_appid, but game still crashes :(
+
+2/ tinygiant, did you manage to copy the game save between pc's?
+
+Thanks"
+,Jenson100,2013-03-05T22:32Z,"I can get this running on windows 8 x64, but don't count on it keeping your saves.Restarts you back to the beginning every time."
+,cailloup,2013-03-10T18:45Z,"Finally found a solution
+see here:
+http://steamcommunity.com/app/215710/discussions/1/864956555063225407/#p4
+
+I copy the part that helped me:
+Open the Device Manager, navigate to your video card, right click and select Update driver software. ""Search on my computer for driver software"" then - ""choose from a list of device drivers on my computer"" - ""data media"" - seeking the Explorer to the previously loaded down the latest drivers are installed. For me this is ""C:  AMD  Support  13-1_vista_win7_win8_64_dd_ccc_whql  Packages  Drivers  Display  W86A_INF""
+
+finish the driver installation. Restart the PC and then it goes with me. I hope I could help. if not add me on Steam or post here.""
+
+Hope that will work too for those with an AMD graphic card"
+,najor66,2013-03-16T10:21Z,"Thanks for the app.
+Installed, played, no problem.
+I'm running Windows 7 64-bit SP1."
+,tssk,2013-03-18T18:16Z,wtf uploader.....cant u check the game before u upload it....it doesnt fuckin work
+,bonyvalles,2013-04-01T02:37Z,"Work great following the instructions of NNobre.
+Just copy the steam_api.dll, steam_appi.nl, steamclient.dll on your steam folder and paste to the game folder of fieldrunners and change the number on steam_appi.nl to 215710!
+Cheers!"
+,medo_h_e,2013-04-07T16:09Z,"hey all to fix game crash steam_api.dll 
+copy steam_api.dll  from any game have this file to the game folder FIELDRUNNERS 
+it worked to me WIN 8 Pro with MC 64x"
+,frozenen,2013-04-23T14:20Z,technucky.com
+,netter2k,2013-05-18T11:10Z,"It works fine in Windows 8 64-Bit after following ""EslaMx7""'s instructions. Let me repeat his steps:
+
+""For anyone who faced this error on Win8 64-bit : ""the procedure entry point create interface could not be located in the dynamic link library c:GamesFieldRunners 2steam_api.dll"" just do the following
+
+1) Install latest version of steam and login with your account : http://store.steampowered.com/about/   (if you don't have an account make a free one!)
+
+2) Go to the steam app folder : C:Program Files(x86)Steam , and copy all DLL files and paste them in the game folder next to the .exe file and overwrite any existing file if it prompts you to do so. ""
+
+It's a fun game, and works fine now! 
+
+@ Wankbot31 : I really get annoyed by people like you who complain about other users facing difficutlies in Windows 8. It's a new OS and things work a bit differently. If people need help, then it's fine for them to ask for it. Please don't act like an @sshole and shout at them. The torrent community is supposed to help others with advice and comments. Windows 8 is an amazing OS and far better than any previous versions MS has released. It just takes time to get used to it. (I've been assembling PCs for the last 16 years, so trust me, I know!)"
+,cailloup,2013-05-19T15:49Z,"With W8 64b, after solving the dll issue, there is another problem: exiting steam = loosing game save
+
+@netter2k: do you have this issue? did you solve it?"
+,netter2k,2013-05-20T21:11Z,"@cailloup : One thing I've noticed about Windows 8 (at least with 64-bit edition since that is what i use) is that it doesn't like accepting files which are altered other than through an actual installation. This is a sort of security procedure i presume and is probably beneficial if we all live in an ideal world of buying genuine software which is cheap and affordable. And thus doesn't need to be run with patched files and pirated data. As that is not the case with our world anyway, here's the solution:
+
+Install the game (and any other similar games you may have in the future) to another partiiton other than the primary one on which Windows-8 OS is installed. I have a ""GAMES"" folder in my ""D"" drive for all these ""patched-and-pasted-over"" things, while my entire C drive is used for Windows-8. This allows me to have all same game files intact.
+
+Not just with this game, but so many others as well. "
+,netter2k,2013-05-21T11:37Z,"@ cailloup : This might also be another answer. I can't paste the direct link to steam forums as PirateBay doesn't allow it. So I'm gona copy and paste the person's tip here  : 
+
+"" I lost all 5 or so achievements i had gotten yesterday and everything was locked again. Browsing on some forums, about this, i found out that the solution is simple: Go to fieldrunners' installation path (right-click on the game on steam>local files tab>browse local files), right click on Fieldrunners.exe and hit properties, go to the ""compatibility"" tab and check ""Run this program as administrator"", click Apply, done. 
+
+Now all progress will be saved like it should. Hope it helped!""
+
+
+"

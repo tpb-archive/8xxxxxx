@@ -1,0 +1,66 @@
+﻿User Type,Username,Date,Text
+,glounk,2013-01-21T13:11Z,"hello, please a link to cycle 1302 for windows PCs. thank you for your efforts.
+merci beaucoup."
+,CosminRadulescu,2013-01-21T13:14Z,I have only this version
+,dementie,2013-01-21T14:56Z,Thanks..............................
+,Air59,2013-01-21T17:52Z,"Hello, 
+
+Many thanks for this cycle wich works perfectly ! Just one problem,  i am unable to get METAR/TAF (it's written that updates require Internet connexion). But i am wifi connected and i can get other weather (wind aloft, icing...). Do tou have an idea ?"
+,ph1179,2013-01-21T18:01Z,great job thank you for so instant copy
+,ph1179,2013-01-21T18:04Z,"to Air59
+
+metars tafs - you can have it only online only for selected airports on awy page - flight from to and alternates"
+,Air59,2013-01-21T18:07Z,Thnks!
+,Air59,2013-01-21T18:11Z,"I must miss something. I am online (wifi), have defined a route with dep and arr airports but no wx (metar taf) available. Surprising because i have weather such as icing, wind aloft and so on..."
+,AN-124,2013-01-22T06:48Z,thanksssss
+,precursor1188,2013-01-22T11:46Z,Thank You
+,pasa001,2013-01-22T22:37Z,"Thank you , you're the man!!!"
+,theBelthazor,2013-01-23T00:05Z,Can this be made to work with Jeppview Mobile TC for Android?
+,PA46T,2013-01-23T11:04Z,"somebody have an IPA old version mobile FD/TC (working with ios 4) ??
+Please"
+,DAviator,2013-01-23T11:38Z,Link for PC version????
+,V1RotateV2,2013-01-24T11:54Z,Thanks a lor CR!!! Now awaiting for PC version!! =)
+,b_boy31,2013-01-25T13:56Z,Will this still req 1213 for Enroute charts to work or does everything work with this edition.. Thank you for uploading
+,B747800,2013-01-28T09:43Z,"Works simply GREAT!!! PERFECT!!!.
+
+Thank you very much."
+,capcacho,2013-01-29T01:22Z,"Hello, may you help me, in the enroute section i can not activate a new route function, i don´t have waypoints, airways, navaids and airspace data, what can i do?, Tks."
+,profodes,2013-01-31T17:19Z,"First of all, Thanks for the upload!!
+
+I'm experiencing the following problem:
+When I try to open a chart in Jeppesen FD I can find the field which I want to see. For example EHGG.
+But then I get the this message:
+""Chart Library Problem - The requested chart is nog in the library.""
+Does someone know how I can fix this problem?
+
+BTW... I can open the charts in Jeppesen TC.
+But because I like the highlight function in the new version of FD I would like to open them in FD too.
+
+Thanks in advance,
+Profodes"
+[T],_SnakEye,2013-02-03T19:27Z,"""V1RotateV2"" published a method which I am basing mines on, making ""Enroute (latest version) work on your iPad Device. This less complicated and/or without the need to re copy ""Enroute"" folder twice on your iPad Device.
+I've been able to make run 1302 FULLY, under IOS 6.1 and JeppViewFD v2.0
+- download JeppView from APPLE store.
+- Open it once, without having updated anything.
+- Close it completely (with X)
+- Copy only TermCharts from 1301.
+- Erase 'Enroute' Charts folder (if exists)
+- On your PC, Copy the following files from 1213 into your 1302 at the same tree structure:
+	* Enroute/db_a/store/appedoc_store_1.lock
+	* Enroute/db_a/store/appenr_store_1.lock
+	* Enroute/db_b/store/appedoc_store_1.lock
+	* Enroute/db_b/store/appenr_store_1.lock
+- Now, just copy the 1302 Enroute folder onto your iPad device 
+- If you want to enable VFR Terminal Charts, create your own airportlist.bin file (need jepp.exe application and JeppView for Windows)
+- Overwrite the older airportlist.bin with newer one in TermCharts
+- Copy FROM ""C:ProgramData/Jeppesen/Common/TerminalCharts"" TO your IPAD folder ""JeppFD/Documents/data/TermCharts""
+these files: vfrcharts.bin, vfrchrts.dbf, vfrntms.dbf and vfrntms.dbt.
+
+* Note 1: This procedure is not absolute to v1302, this can be done on later versions to come as well.
+* Note 2: vfrcharts.bin must be writen in LOWERCASE letters, NOT IN CAPITALS.
+* Note 3: Google to find jepp.exe application and it's manual.
+
+Voila! FULL JeppFD ;-)"
+[T],_SnakEye,2013-02-04T12:32Z,BTW - I just tested the same procedure on JeppFD Cycle 1303 and it works fine. 
+,JWRBlack,2013-02-05T06:27Z,1303 torrent can be found here: rutracker dot org/forum/viewtopic.php?t=4337751
+,V1RotateV2,2013-02-05T14:42Z,"Hi Snake, I'l try your method with the next release!! Thanks =)"

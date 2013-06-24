@@ -1,0 +1,27 @@
+DLTCAD 2010 + Emulacion Dongle
+
+Descripcion:
+
+Es un poderoso software de Diseño de Líneas de Transmisión de Energía Eléctrica muy utilizado en el Perú y varios países de Latinoamérica lo que nos da una gran proyección a nivel internacional, permite el diseño de Líneas Trasmisión de Media, Alta y Muy Alta Tensión. La versión más reciente disponible en el mercado es DLTCAD 2010.
+
+DLTCAD 2010, es el software de diseño de líneas de transmisión más versatil y amigable de nuestro medio. Con esta nueva versión DLTCAD reafirma su liderazgo como el primer Software en Latinoamérica para el diseño de Líneas de Transmisión de Potencia.
+
+Su interfase gráfica asociada a las herramientas de diseño permiten al usuario seguir una secuencia lógica simple y consistente. DLTCAD se convierte así en una herramienta sencilla y muy potente para el desarrollo de cálculos y obtención de resultados.
+
+A la par de los requerimientos de la ingeniería moderna, incorpora nuevos modelos de cálculo y herramientas de usuario mas simples que lo hacen mas ventajoso, superando ampliamente los alcances de la Versión 2006. La versatilidad y fortaleza del software permiten su aplicación en líneas de todo nivel de tensión en nuestro medio, desde Líneas de Media Tensión (MT) con un conductor por fase hasta Líneas de muy Alta Tensión (MAT) con múltiples conductores por fase.
+
+DLTCAD esta basado en una plataforma de trabajo en vista de perfil y planta con un entorno gráfico muy amigable y la posibilidad de trabajar con múltiples archivos.
+
+
+Website: http://absingenieros.com/portal/productos/dltcad
+
+
+Instalacion:
+1) Ejecutar el instalador del programa (setupdlt2010f_hk.exe)
+2) Cuando el instalador lo solicite, ingresar los siguientes datos:
+    Usuario: CUALQUIERA
+    Compania: CUALQUIERA
+    Codigo de producto: DLT10127C148381
+3) Una vez instalado el programa, ir a la carpeta donde se instalo (normalmente c:archivos de programaDLTCAD2010)
+4) Renombrar el archivo hkey-w32.dll a hkey-w32.dll.BAK.
+5) Copiar el archivo hkey-w32.dll provisto, en la carpeta donde esta instalado DLTCAD2010.

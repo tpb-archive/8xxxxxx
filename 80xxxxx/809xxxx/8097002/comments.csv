@@ -1,0 +1,98 @@
+﻿User Type,Username,Date,Text
+,waspo,2013-02-03T04:17Z,If you found this upload then you were lucky. Pirate bay stuffed up the title so makes it near impossible to find!!
+,waspo,2013-02-03T13:43Z,"It worked after some effort (I have Windows 7 Ultimate-64bit). Here is how I did it:
+
+ 1)  Double click on ""3dsmax9.exe"" and extract to a new folder on your desktop (this is what I did and it worked like that).
+
+ 2)  Now Install 3DS Max 9
+
+ 3)  Launch 3DS Max 9 (For this to work properly you will need to select task as system administrator and set compatibility to ""Windows XP Service Pack 3"", you can do       this by right clicking on the 3DS icon, then go to properties --> compatibility etc)
+     However, mine worked fine without having to do this.
+
+ 4)  Select ""Activate"" product
+
+ 5)  Select your ""Country""
+
+ 6)  In the serial key boxes enter this 666 12345678
+
+ 7)  Write anything into the activation code box.(You only need to fill a couple of boxes.)
+
+ 8)  click next, you will be told it was invalid.
+
+ 9)  close 3DS Max, then relaunch it
+
+ 10) Select ""Activate"" product
+
+ 11) You will now see at the top the serial is 666 12345678 and the request code will be there.
+
+ 12) Launch the keygen
+
+ 13) !IMPORTANT! TYPE IN THE REQUEST CODE THAT IS DISPLAYED. IF YOU COPY AND PASTE, THE LAST SECTION WILL BE MISSED OFF GIVING YOU AND ERROR IN THE KEYGEN!,                 click calculate
+
+ 14) Copy the Auth code the keygen gives you and paste it into the registration code box provided in 3DS Max 9. Click next.
+
+ 15) Now, it will open. But, will likely come up with ""Error 998"". If not, your version is fine.
+
+     If it does, just install the 'Autodesk 3ds Max 9 Service Pack 2'provided (Run set-up.exe in 3dsmax9_sp2_32bit folder).
+
+     NOTE: This will change your Windows color scheme but don't be alarmed, it will change back when 3DS max 9 has shutdown.
+
+
+     Congratulations!! You now have a working copy of 3DS Max 9 ^__^
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+     If you're having trouble with your Material Library being blank, go to:
+
+     C:/Program Files/Autodesk/3ds Max 9/MaterialLibraries
+
+     and copy/paste all those files to:
+
+     C:/Documents and Settings/USER NAME/My Documents/3dsmax/MaterialLibraries
+
+     Then restart 3D Studio Max and all the materials will be there. 
+
+     (I think you can also assign to a new Material Library folder from within the program, but this way was simple and it worked for me so I thought I'd pass it on.) "
+,waspo,2013-02-03T13:44Z,"It worked after some effort (I have Windows 7 Ultimate-64bit). Here is how I did it:
+
+ 1)  Double click on ""3dsmax9.exe"" and extract to a new folder on your desktop (this is what I did and it worked like that).
+
+ 2)  Now Install 3DS Max 9
+
+ 3)  Launch 3DS Max 9 (For this to work properly you will need to select task as system administrator and set compatibility to ""Windows XP Service Pack 3"", you can do       this by right clicking on the 3DS icon, then go to properties --> compatibility etc)
+     However, mine worked fine without having to do this.
+
+ 4)  Select ""Activate"" product
+
+ 5)  Select your ""Country""
+
+ 6)  In the serial key boxes enter this 666 12345678
+
+ 7)  Write anything into the activation code box.(You only need to fill a couple of boxes.)
+
+ 8)  click next, you will be told it was invalid.
+
+ 9)  close 3DS Max, then relaunch it
+
+ 10) Select ""Activate"" product
+
+ 11) You will now see at the top the serial is 666 12345678 and the request code will be there.
+
+ 12) Launch the keygen
+
+ 13) !IMPORTANT! TYPE IN THE REQUEST CODE THAT IS DISPLAYED. IF YOU COPY AND PASTE, THE LAST SECTION WILL BE MISSED OFF GIVING YOU AND ERROR IN THE KEYGEN!,                 click calculate
+
+ 14) Copy the Auth code the keygen gives you and paste it into the registration code box provided in 3DS Max 9. Click next.
+
+ 15) Now, it will open. But, it will likely come up with ""Error 998"". If not, your version is fine.
+
+     If it does, just install the 'Autodesk 3ds Max 9 Service Pack 2'provided (Run set-up.exe in 3dsmax9_sp2_32bit folder).
+
+     NOTE: This will change your Windows color scheme but don't be alarmed, it will change back when 3DS max 9 has shutdown.
+
+
+     Congratulations!! You now have a working copy of 3DS Max 9 ^__^"
+,MattyPRacerX,2013-03-01T00:32Z,"Followed the instructions to a ""T"" and had no issues, installed and working fine on Windows 8 Pro x64
+
+Many thanks!"

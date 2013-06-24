@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+[T],crwildman,2013-01-18T02:14Z,"on a fresh installation i having problem.
+
+I checked kmsnano.log and it says this near end
+
+Error: 0xC004F074 The Software Licensing Service reported that the computer could not be activated. No Key Management Service (KMS) could be contacted. Please see the Application Event Log for additional information.
+Error Connection Windows
+Windows NO Activated
+Process Finished
+Time Finish: 1/17/2013 4:52:28 PM
+Total Time: 299 seconds"
+[V],murphy78,2013-01-18T03:04Z,what version of windows are you using? It won't do anything on non-volume versions
+,lamportyx,2013-01-18T05:32Z,tnx man it's great and its working on both Windows 8 pro vl 64 bit and MS Office 2013 Pro VL 64bit.
+[T],crwildman,2013-01-18T07:49Z,I was trying to activate on Windows 2012 Standard server gui with VLK
+[V],murphy78,2013-01-18T07:55Z,It didn't work for me when I was running a torrent program. I shut the program down and then it worked fine.  Make sure you don't have any security programs or other programs running.
+,chris4smd,2013-01-18T08:13Z,Thank you for your highly detailed and extremelely well assembled uploads! Each and every one is in a class of its own! Top tier software! Everything I used was flawless in every aspect! Much obliged pirate!
+,igrgic,2013-01-18T11:45Z,Cannot activate Windows 8 Pro with Media Center
+,igrgic,2013-01-18T11:46Z,Cannot activate Windows 8 Pro with Media Center.
+,lamportyx,2013-01-18T12:04Z,Windows 8 Pro VL
+[V],murphy78,2013-01-18T12:43Z,"pro wmc is retail only. KMS is volume activation, so you need normal pro, pro N, pro vl, pro N vl, enterprise, or enterprise N...
+
+It says so right in the description..."
+,mitulv,2013-01-18T19:32Z,thanks for this! will try.. but does it unlock the personalization settings? can we change wallpapers etc.?
+,mitulv,2013-01-18T19:49Z,does this activate personalization settings?
+[V],murphy78,2013-01-18T21:55Z,You can do everything you would normally do with windows. This program does not hack system files.
+,alsta,2013-01-19T02:15Z,"ou must know, that MS deactivated my Windows 8 pro and Office 2013 this morning. There was the message that I did used software to activate Windows. Installation key was removed.  Tried to use KMSnano once more, but it not worked. 
+Earlier used KMSnano about 4 times to increase lease time. It was experimental installation. :)"
+[T],crwildman,2013-01-19T03:22Z,"@murphy78  Why was a new version released so soon after this one?   
+
+You said it didn't work when you had a torrent program running.  That is probably the only thing i had running on that fresh installation lol.
+
+Oh well, I uninstalled it... Ill give it another go eventually."

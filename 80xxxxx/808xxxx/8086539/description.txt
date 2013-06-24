@@ -1,0 +1,81 @@
+Tool - Lateralus - Custom Remaster by MC Lurken
+
+
+1 - The Grudge
+2 - Eon Blue Apocalypse
+3 - The Patient
+4 - Mantra
+5 - Schism
+6 - Parabol
+7 - Parabola
+8 - Ticks & Leeches
+9 - Lateralus
+10 - Disposition
+11 - Reflection
+12 - Triad
+13 - Faaip de Oiad
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 24-bit/44.1kHz files HDCD joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (5.510db recording gain)
+
+
+As reported in Wavelab:
+-Original 24-bit/44.1kHz: Apparent Bit Resolution = 20, Peak = -6.021db
+-With DC Offset Removed: Apparent Bit Resolution = 20, Peak = -6.020db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0.226db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.2.1 / Dynamic Range Meter 1.1.1
+log date: 2013-01-29 22:34:14
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -0.21 dB   -11.58 dB      8:36 ?-01 - The Grudge
+DR17      -8.01 dB   -30.15 dB      1:05 ?-02 - Eon Blue Apocalypse
+DR9       -0.34 dB   -13.11 dB      7:14 ?-03 - The Patient
+DR11      -9.13 dB   -23.32 dB      1:13 ?-04 - Mantra
+DR9       -0.05 dB   -12.32 dB      6:48 ?-05 - Schism
+DR9       -2.78 dB   -22.17 dB      3:04 ?-06 - Parabol
+DR9       -0.26 dB   -11.36 dB      6:04 ?-07 - Parabola
+DR9       -0.23 dB   -12.32 dB      8:10 ?-08 - Ticks & Leeches
+DR9       -0.24 dB   -11.62 dB      9:24 ?-09 - Lateralus
+DR12      -3.03 dB   -19.18 dB      4:46 ?-10 - Disposition
+DR10      -0.48 dB   -12.73 dB     11:08 ?-11 - Reflection
+DR9       -0.21 dB   -13.10 dB      8:47 ?-12 - Triad
+DR10      -0.32 dB   -14.79 dB      2:39 ?-13 - Faaip de Oiad
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

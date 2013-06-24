@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,maxijonson,2013-01-14T04:15Z,"no comments yet? 
+cmon please leave a review we need people to tell others what you think about it cuz you're the only ones who can convince them to download it!"
+,torr43,2013-01-14T05:39Z,Didn't work for me.  Once I clicked on it I got a message saying it is corrupted.   Trashed it all. 
+,macomaniac,2013-01-15T06:13Z,"Stuff working, maxijonson. Fast download (2' for me) and file opening without trouble. Just having to patch the app. using the tool extending the trial period toward something like '2070' or so, before launching CrossOver. 
+
+Great app. allowing to run Windows softwares without Windows installed. Using «Wine» in background instead. Not any Windows program though. Give a look at the 'Codeweavers' site : there is a list of 'Supported Apps' (for which a special work of writing the 'Wine Compliance', if I may say, has been done), that run fairly well on CrossOver basis inside 'bottles' (of 'wine' -lol- of course). And a list of 'Apps. Supported by the Community' (which means users have reported from their own experience they can run without any writing-work done to allow their 'Wine-Compliance').
+
+Any one wanting to try installing an un-supported app (beyond the so-called 'Community-Supported' app.), i.e. an un-listed Windows software, has just to check, at the bottom of the 'List of Apps.' unfolded in the installation window of CrossOver, the line : 'OTHER APPLICATION', and point the path to a '.exe-installer' or a Windows 'software-folder' on the Mac Desktop before trying the installation (not so long job). Easy to see by oneself if it works or not in the end.
+
+To give an example, I have tried to install a great specialized app. [un-labelled 'Supported' by CrossOver] to be found here : http://thepiratebay.sx/torrent/6760583/Real_Anatomy_Software_DVD_v1.0_Win__amp_amp__Mac_OSX_ISO and, surprisingly enough, the app. works 'like a charm' on CrossOver basis, as many like to say."
+,macomaniac,2013-01-15T07:15Z,"[Edit. Point not explicit about my sample. «Real Anatomy» is a software going with two installers, one for Mac, the other for Windows. 
+
+The trouble coming from the fact the app. installed from the Mac installer is 'PPC-ONLY'. Un-supported on Intel Platforms. Demanding one runs Snow Leopard in a virtual machine motorized by 'Vmware Fusion' or 'Parallels Desktop', into which the emulator 'Rosetta' present in Mac OS 10.6 is able to 'read' the PPC code to translate it to Intel. Said 'Rosetta' dropped down by Lion and Mountain Lion.
+
+But, in lack of such virtual machine, if you ask CrossOver to install the app. from the .exe installer, as a Windows program that is to say, then it runs finely on a Mac Intel platform (Mountain Lion eg.) from a 'Wine Bottle'. That's it.]"
+,maxijonson,2013-01-19T03:51Z,It is normal that you might not be able to run every windows apps even me I cant and even with the real one I don't think you can because I've seen other comments about it saying that some games don't work so on the website they put a list of compatible games at codeweavers.com
+,berlichman,2013-02-04T05:54Z,Worked fine with Media Monkey but seems that this is a 6 day trial version?
+,thundercleeze,2013-02-15T15:41Z,"For those who received a corrupted file message and were advised to trash Crossover: turn your ""allow downloaded applications from"" setting to ""anywhere"" in Security and Privacy"
+,RathVictory,2013-02-25T15:31Z,"I've tested it, it worked, it opened exe files. Thanks!
+
+(Any Questions? I can help!)"
+,rocket_mang,2013-02-27T01:25Z,Is this the full version? or is it also a trial?
+,maxijonson,2013-03-05T04:52Z,I know this could seem dumb but I am asking you a question on my own torrent: Do you think that if I would download Far Cry 3 on the PC then I could run it with crossover?
+,nbmatt,2013-04-13T01:50Z,@maxijonson: I highly doubt it. 

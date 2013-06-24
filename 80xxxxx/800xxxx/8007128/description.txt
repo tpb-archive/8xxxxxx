@@ -1,0 +1,70 @@
+Wave Repair
+
+Wave Repair is a shareware editor specifically designed for the restoration of WAV files that were recorded from vinyl records. It can also be used to process recordings made from tapes, but its restoration features are intended mainly for records. The name is perhaps a little unfortunate. You might think that Wave Repair is a program for fixing broken WAV files (eg. with invalid headers), which it isn't. In hindsight, I should have chosen a different name, but I'm stuck with it now.
+
+It is a 32 bit program that runs on all versions of Windows from Windows 98 onwards. Note that from release 4.9.1, it no longer runs on Windows 95. This is because it was necessary to change the program help to a CHM file in order to maintain compatibility with Windows Vista, and CHM files are not supported by Windows 95.
+
+Wave Repair is not a general purpose digital audio editor (in particular, it does not includes arbitrary copy/cut/paste editing of WAV files). Rather, Wave Repair eases many of the tasks that are required during restoration of music recorded from vinyl records, and which are often difficult using general purpose tools. I wrote it because I was unable to find an affordable WAV file editor which performed these tasks easily.
+
+Features...
+
+Restoration Facilities:
+- Direct to disk recording
+- Manually redraw waveforms at any level of zoom
+- Linear and Bezier interpolation
+- Spectral replacement
+- Fade-in and fade-out
+- Removal of unwanted segments
+- Waveform smoothing
+- Muting
+- Various block copying facilities
+- Reduction of vinyl hash ("decrackling")
+- Broadband noise reduction
+- Automatic click detection and repair with realtime preview
+- Manual review of detected clicks
+- Equalisation with realtime preview
+- Filters with realtime preview
+- Channel Mixer with realtime preview
+
+CDR Preparation Facilities:
+
+- Normalisation
+- Compression and Volume Adjustment with realtime preview
+- Automatically find track split points
+- Split tracks on CD block boundaries
+- Create CDRWin-style cue sheets (supports tracks and indexes)
+
+User Interface:
+
+- Waveform and Spectral display modes
+- Zoom to any level on both axes (time and amplitude)
+- Unlimited levels of Undo and Redo
+- Macro facility
+- Batch mode
+- User-configurable colours and menu shortcuts
+- Interface to the clipboard
+
+General File Handling:
+
+- Supports large WAV files (up to 4GB)
+- Works only with 16 bit stereo WAV files (44.1 or 48 kHz)
+
+System Requirements:
+
+PC running any version of Windows from Windows 98 onwards
+Display set to 800x600 or greater.
+Soundcard capable of CD standard (44.1kHz/16bit/stereo) playback/recording.
+Reasonably fast hard disk. Any hard disk less than about 10 years old is almost certain to be fast enough.
+200MHz Pentium or faster CPU recommended. Wave Repair will run on slower systems (even a 486), but some of the real-time preview functions may not work on slower machines.
+
+Homepage: http://www.delback.co.uk/wavrep/
+
+Installation Instructions:
+
+- Install program
+- Register with given name and key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

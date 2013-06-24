@@ -1,0 +1,65 @@
+NOTES
+
+- Includes all other Updates and hotfix
+- Includes only the new DLC, no previous DLC
+- Playable online via LAN and Steamworks
+- SKIDROW mislabeled their release: v1.3.2 is not released on 10-01-2012
+- Install Borderlands.2.Mr.Torgues.Campaign.of.Carnage.DLC.Proper-SKIDROW before this release to get all DLC
+- If you have any problems, run "PLAY ONLINE & TROUBLESHOOTING.ink"
+- For more information about the fixes, read "README_FIXES.txt"
+
+
+
+FEATURES
+
+- Update 1.3.1 Hotfix - Thanks to sam2k8
+- The New DLC - Thanks to :IamAWESOME:
+- SteamEmu Crack - Thanks to sam2k8 & SKIDROW
+- Name Changer - Thanks to supraspecies
+- Language Changer - Thanks to SKIDROW
+- LAN online fix - Thanks to Tunngle & sam2k8
+- No-Intro Fix - Thanks to SENSEMAN
+- SteamInstall Fix - Thanks to WretchedStain
+- Steamworks Fix - Thanks to sam2k8
+- Windows 8 Fix - Thanks to Nighthawk441
+
+
+
+INSTRUCTIONS
+
+1. Copy the contents of the "Update 1.3.1 Hotfix + DLC" Folder and the "Crack" Folder to your Borderlands 2 Game Folder
+(E.g. C:Program Files (x86)2k GamesBorderlands 2)
+2. (Optional) Use the fixes
+3. Start Game:
+- For Hammerlock DLC: Go to Hunter's Grotto with fast travel to start the Sir Hammerlock's Big Game Hunt DLC
+4. Your Done, have Fun!
+
+
+GREETINGS
+
+To the CS.RIN.RU community and all honorable groups!
+
+
+
+CHANGELOG
+
+- = Official notes | * = Unofficial notes
+
+
+Borderlands 2 Update v1.3.0:
+- Fixed the "use" description text on the HUD getting cut off prematurely when binding "use" to certain keys.
+- Fixed a bug that could cause the critical hit bonus to inconsistently be included on the item card of weapons that modify this stat like Miss Moxxi's Bad Touch.
+- Fixed a bug causing decals to not be displayed when the framerate was set to 30FPS Capped.
+- Fixed a bug causing head customizations from the Mr. Torgue DLC to not unlock properly for Sirens and Mechromancers.
+- Fixed a bug where profiles would refuse to save when they were already corrupted on startup.
+- Fixed a bug where profile restoration code would sometimes trigger inappropriately.
+
+Borderlands 2 Update v1.3.1:
+- Added support for text input using the gamepad for Steam's Big Picture mode.
+- Fixed a bug causing players to sometimes get stuck in the "Whoops" mission of the Captain Scarlett DLC.
+- Deathtrap can no longer restore an enemy's shields, even though it was hilarious.
+- Fixed a bug that caused off-hand weapons to sometimes deal improper damage while Gunzerking.
+- Addressed an issue where shotguns did not receive full damage boosts from skills and gear.
+
+Borderlands 2 Update v1.3.1 Hotfix:
+* Fixed update 1.3.1 and LAN 

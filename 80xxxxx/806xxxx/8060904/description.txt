@@ -1,0 +1,72 @@
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 446 MiB
+Duration                                 : 1h 40mn
+Overall bit rate                         : 621 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Nominal bit rate                         : 511 Kbps
+Width                                    : 624 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 40mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+Source:
+credit to original movie ripper ROVERS (Thanks)
+
+IMDB Info:
+
+Four women band together to get revenge on four young successful players because the guys mistreated them in some way.
+
+Director: Monica Mingo
+Writers: Terrell Suggs, Monica Mingo
+Stars: Adrienne Bailon, Jackée Harry and J.R. Ramirez
+
+Genres: Comedy | Romance
+ 
+http://www.imdb.com/title/tt2040537/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/34682039888290514467.png 
+http://www.shotpix.com/images/72915864107551552626.png 
+http://www.shotpix.com/images/60205963660498324154.png 
+http://www.shotpix.com/images/63545980624998820183.png

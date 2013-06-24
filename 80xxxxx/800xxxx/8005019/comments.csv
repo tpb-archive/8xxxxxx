@@ -1,0 +1,124 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-11T01:22Z,"Thanks OnionRex / Arkenstone. You've been very helpful keeping an eye out for heldigard's work by scanning the kmshost forum for newer info.
+
+We all appreciate it bud, 
+thanks you."
+,Maou-JP,2013-01-11T14:48Z,"Works fine, thanks."
+,anarchist9027,2013-01-11T15:06Z,Murphy78 with the pink skull for the WIN!!
+,brianxxx,2013-01-11T21:22Z,Agreed and thanks!
+,psychogenesis,2013-01-11T21:35Z,"Has anyone got Visio 2013(x64)-RTM to activate with this? It worked fine with the RTM version of Project 2013(x64).
+
+After running KMSNano for a LONG period of time, I run Visio and it prompts me to log on with a MS Live account.  When I do, it says ""THE PRODUCTS WE FOUND IN YOUR ACCOUNT CAN'T BE USED TO ACTIVATE VISIO.""
+
+What gives?
+"
+,psychogenesis,2013-01-11T21:52Z,"Has anyone got Visio 2013(x64)-RTM to activate with this? It worked fine with the RTM version of Project 2013(x64).
+
+After running KMSNano for a LONG period of time, I run Visio and it prompts me to log on with a MS Live account.  When I do, it says ""THE PRODUCTS WE FOUND IN YOUR ACCOUNT CAN'T BE USED TO ACTIVATE VISIO.""
+
+What gives?"
+[V],murphy78,2013-01-11T23:37Z,"psycho I'm not sure about visio.
+You can extract kmsnano to a subdirectory ex: kmsnano_v11
+
+You could then run the Activate_Office2013.cmd as administrator.  I have no idea if this will fix your problem, or if visio just simply starting requiring people to register things online.  You're not going to have any problems doing such a thing unless you run a large business and are trying to pirate all office versions. Then you could run into trouble, but I don't see MS taking everyone to small claims court over office activation fees."
+,vidyarathne,2013-01-12T04:01Z,"I installed office 2013 32 bit edition on win 7 x64 OS.so for me kms nano activator not working.please help 
+
+i get these 2 errors !
+
+http://bayimg.com/OaIMHAAEH
+http://bayimg.com/oAImiAAEH
+
+please help"
+,vidyarathne,2013-01-12T04:04Z,"i installed office 2013 pro plus 32bit on win 7 64 bit SP1
+=======
+SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138.ISO
+"
+[V],murphy78,2013-01-12T07:45Z,"You guys are definitely getting me curious about Office 2013.
+
+On the office issue vidyarathe, can you please tell me which operating system you are using? win7 32bit or win8 32bit? Ultimate? Pro? Home Basic? stuff like that...
+
+Also what method are you using to try to activate? Your picture shows kmseldi in the background. Are you running the activate_office2013 script as admin? Please give me more info as the screens you show just give error messages that operating systems give and I don't know how you are trying to activate.
+
+In the meantime, I can recommend doing an admin command ""SFC /SCANNOW"" that will clean up any bogus system files.
+
+Also, what activation methods are you using? Did you use Windows Loader for windows activation? Did you use removewat?"
+,Azdod,2013-01-12T13:41Z,Can I use this activator another time in 11-07-2013 to have another 6 months of activation ?? 
+,Azdod,2013-01-12T13:46Z,Can I use this activator another time to have another 6 monts of activation ??
+,Azdod,2013-01-12T13:46Z,Can I use this activator another time to have another 6 monts of activation ?? thank you Murphy ! 
+,Azdod,2013-01-12T13:57Z,"Can I use this activator another time to have another 6 monts of activation ?? thank you Murphy ! 
+..............."
+,Azdod,2013-01-12T13:57Z,Can I use this activator another time to have another 6 monts of activation ?? thank you Murphy ! 
+,Azdod,2013-01-12T14:05Z,Sorry ! IE 10 Bug :(
+,vidyarathne,2013-01-13T06:18Z,"@murphy78  ... thank you very much for replying
+
+I installed office 2013 on my notebook. I'm using windows 7 professional x64 SP1 and i installed office 2013 32 bit pro plus.
+
+I'm running 'Manual.cmd' because 'KMSnano.exe' does nothing for me.
+
+I'm using windows loader to activate windows 7.
+
+One special thing : i bought notebook form my friend.he installed office 2010 x64 and office 2013 pro plus x64 same time and didn't activate that.so both were expired.After that i uninstalled both and i reinstalled again office 2013 pro plus 32 bit version because i can't find x64 setup again. 
+
+thanks"
+,vidyarathne,2013-01-13T06:22Z,"I'm just double clicking and opened 'Manual.cmd' and then it asks to run as admin.
+
+then i tried run as admin.but result was the same."
+,vidyarathne,2013-01-13T15:51Z,"Here is full text that KMSnano shows me
+
+http://www.pastebay.net/1173676"
+[V],murphy78,2013-01-14T03:29Z,"firebender, I don't think that the oem pre-installed 3.0 licenses work the same way. I'm pretty sure Daz has said that he won't pursue a windows 8 version using the oem loading method.
+
+For Office people, try running admin command prompt command ""SFC /SCANNOW"" and then try starting qemu with that manual start and then try running the kmseldi program and just activate office 2013. Make sure the IP address for the emulated system matches... should be either 127.0.0.1 or 127.0.0.3
+
+I am not the guy who released this software. The guy is heldigard and his work is based on someone else's over at MDL forums.  I wish I knew as much as those guys do about office activation stuff.
+
+I bet there's some sort of office licensing script like there is for windows that you can set to the default office volume key and point it at an online kms server and just activate with a few commands.  I just don't know what it is though...  I have a few more all-in-1 windows releases to work on, but then I'll start messing with office kms activation to help people with better advice.
+
+As far as re-activation.  You don't need to wait to re-activate windows.  You can re-activate at any time, as many times as you want.  If you use microsoft servers or online kms servers they will start to block the keys, but kmsnano doesn't save any settings.  It resets the key charge lists every time you start the program."
+[V],murphy78,2013-01-14T03:33Z,"vidya, the pastebay file you listed does not mention any Office product key.  Did you try entering one from some sort of keygen or something when you installed?  I mention this because all KMS activation uses the exact same keys and if you set it to something else, and the office activation thing doesn't reset it, it won't activate your non-kms key.
+
+I think maybe you should try running the script inside kmsnano for Activate_Office2013 as administrator.  That, I believe, will set the key for you before it activates."
+,vidyarathne,2013-01-14T09:14Z,"@murphy78 ..... yes.you're correct.product key is different.it won't change even if I'm uninstall and reinstall office 2013. 'Activate_Office2013' also not work for me.i try to change product key from add remove .but it also not working.
+
+please help me to clean office 2013 existing key and install office as trial or with the key that uses KMSnano
+
+thanks"
+[V],murphy78,2013-01-14T10:44Z,"vidya I believe I read somewhere that for office, you have to remove the registry keys and such after it is uninstalled because it won't remove them by default.  There are some programs out there that can clean up the registry and other files orphaned when you uninstall things.  I know windows 7 and windows 8 manager have great uninstall features that search for extra bits and registry keys left behind.  You might try getting the appropriate one of those and remove office, then let it clean up the junk files and old registry keys.
+
+When that is done, try installing without setting a key. Or if that isn't possible, search for the kms key for office 2013 (It's always the same key for kms)
+
+I believe the key might be in the activate_office2013.cmd script
+Just edit that and look for the key.
+You should not need to do that unless it absolutely requires a key to install. I haven't used it yet as I am very busy, so I'm a bit new about it still.
+
+Hope that helps bud"
+,vidyarathne,2013-01-14T11:40Z,"@Arkenstone... it's not ask for product key when it install ! i'm using this iso
+
+SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138.ISO
+
+Today i installed same version on my desktop computer and it activated using KMSnano 11 well for 179 days.
+
+but i can't activate office 2013 pro plus on my notebook. :(
+
+i cleaned registry and my notebook also now shows Last 5 characters of installed product key: GVGXT
+
+but now after loading QEMU emulater activator shows start time and freezes.
+
+if you want to see log file i can post.and tell me how to post log file
+
+thanks"
+[V],murphy78,2013-01-14T22:30Z,"vidya please defer to arken on this one, he has upped a 2013 office vl version and he has obviously been keeping up with all the kms activation stuff.  If anyone can help you, it's him"
+,vidyarathne,2013-01-15T04:31Z,"@Arkenstone and @murphy78 ...
+
+online activation method worked for me.now it's activated for 179 days.Thanks
+
+still offline KMS activator not working.i tried using 11.1 version."
+,vidyarathne,2013-01-15T16:03Z,I think Virtual kms server not running properly in my computer.that's why it fails to activate office 2013
+,se7enipadd,2013-01-16T06:24Z,"THANKS murphy78!
+
+
+KEEP sharing!"
+[V],murphy78,2013-01-16T23:43Z,"Thanks for the heads up guys, I had mine buried in the sand working on my AIO releases..
+
+11.2 is uploaded at:
+http://thepiratebay.sx/torrent/8029532/KMSNano_v11.2_Office_and_Windows_KMS_Activator"

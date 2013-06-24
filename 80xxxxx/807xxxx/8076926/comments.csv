@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-28T19:07Z,"I love how heldigard spells ""convertion"" haha. /love heldi"
+,japser12,2013-01-28T19:44Z,"So if I am correct, this activator had no need to rerun every 180 days?
+
+Will it also 'survive' future changes from MS on the KMS protocol? "
+,r_moor,2013-01-28T21:54Z,"Excerpt from Readme-file : Run ""Run Trigger.cmd"" to install, or just KMSNano.exe for single activation
+(TriggerKMS will run every boot, and if you have 30 days left or less, it will
+re-run the activator)
+/ r_moor"
+,colthars,2013-01-29T01:25Z,great! thanks!!!
+[V],murphy78,2013-01-29T01:36Z,"jasper, this generates fairly official kms activation files, so I think it's far more likely that MS would try to put this on their malware list as a hacktool.
+
+If you allow the program through the protection, the number of ways that MS could stop this activation method goes down dramatically.  They could make an anti-piracy KB file like they did for win7 kb971033, but I'm not sure it would stop these guys forever. I mean, they did it with Daz's Windows Loader, and he created a custom encryption so that the kb file couldn't find it.
+
+It's really hard to say at this point what they could or could not do. I think it's likely they will start with the hacktool malware listing. It's not really true... This doesn't hack any system files. But, I could see why someone would want to call it a hacktool as it bypasses activation in a clever way."
+[V],murphy78,2013-01-29T01:38Z,"That reminds me. Arkenstone has the proplus vl versions of office 2013 that work perfectly with this activator... Go check out his stuff:
+http://thepiratebay.sx/user/Arkenstone"
+,w4r3zh4ck,2013-01-29T06:22Z,"TFK is a complete loooser !!! hahahaha
+BTW you guys are doing great job bringing us this masterpiece xd"
+,rupankur,2013-01-29T09:34Z,"@murphy78
+Your KMSNano v15.1 to KMSNano v19 activate following Microsoft_Office_2013_ProPlus_VL_(x86_and_x64) in 8 no different PC
+http://thepiratebay.sx/torrent/7817263/Microsoft_Office_2013_ProPlus_VL_(x86_and_x64)_EN____KMSmicro_Ac
+
+My quesion:
+ Is these KMSNano may harm to ""Original/gennuine Windows 8 activasion"" during activate, Microsoft Office 2013 ProPlus VL(x86_and_x64) by your KMSNano ?"
+[V],murphy78,2013-01-29T10:35Z,"Yes rupankur. It does all the activation commands simultaneously and it does not currently bypass the conversion from retail to volume on already activated retail versions.
+
+You can backup activation with Advanced Tokens Manager before using it and just restore if you ever need to, or perhaps try another kms activation solution.
+
+It runs all of the commands automatically with the kmseldi program, so you cannot exactly pick it apart.
+
+KMS Toolkit might have single office activation options. I don't know.
+
+You're not going to lose much by using kms activation over your purchased retail activation. It literally only runs the program for about 2 minutes a year."
+[V],murphy78,2013-01-29T13:19Z,"A guy over in the MDL forum was testing out the retail office 2013 activation. He said it completed successfully but that it takes like 12 minutes for the full process. I guess when it converts from Retail to VL, it installs licenses for every little program in Office. To save yourself the headache, I highly recommend getting a VL version instead of Retail. You are NOT going to be able to activate the Retail unless you purchase it, which only leaves the long conversion process.
+
+Again, check the above link to Arkenstone's stuff as he upped VL versions that work perfectly with this activator.
+
+My total time activating Win 8 Enterprise x64 with Office 2013 ProPlus VL x64 was 42 seconds. That's much better than 12 minutes."
+,kaalki,2013-01-29T14:49Z,the wmc key method of permanent activation is still working today I activated 2 pc's with phone activation it is working till 31 jan hurry up 
+,and_cac,2013-01-29T16:48Z,"pl_office_professional_plus_2013_x86_x64_dvd_1340079 (retail)  work perfectly with LaNanov11.2 and 15
+
+Activating on activated Win 8 Pro WMC x64 was less than 2 minutes. "
+[V],murphy78,2013-01-29T23:29Z,"The log I read that took 12 minutes installed all of the little licenses, so it's possible those older kmsnano that didn't take very long did not do that."
+,hardm2001,2013-01-30T09:52Z,"Worked like a charm on W7 Ent
+1000 thanks @murphy78 !"
+,rupankur,2013-01-30T10:03Z,"@murphy78
+There are no problem/harm in ""original Windows activasion"" during the activasion of Microsoft_Office_2013_ProPlus_VL_(x86_and_x64) by KMSNano v19 in 3 nos PC today. "
+[V],murphy78,2013-01-30T17:43Z,"If you are saying that it did not harm your legit activation, that's good news."
+,vidyarathne,2013-01-30T18:35Z,"still getting this error on win 7 professional x64 service pack 1
+-------------------------------------------------------
+http://www.pastebay.net/1178906"
+,vidyarathne,2013-01-30T18:37Z,"i tried ""SFC /SCANNOW"" command.but nothing hapeens.but thanks"
+[V],murphy78,2013-01-30T19:22Z,"I would just recommend using x64 version of office 2013 for an x64 operating system, instead of the x86 you are using."
+,designeran,2013-01-30T21:02Z,"Thanks for the great activator Mr. murphy78, I tried it again and it seems to work great.
+
+Before I told him not served, Thanks!
+"
+,rupankur,2013-01-31T09:56Z,"No activating error of KMSNano v19 at MS Office 2013 Vl x86/64bit version.
+I success in 2 nos older laptop."

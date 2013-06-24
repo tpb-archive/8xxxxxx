@@ -1,0 +1,45 @@
+KMSnano v15 By Heldigard Integrated KMSELDI 8.1 **fixed version**
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.
+
+Based off of Ratiborus's KMSmicro v3.10.
+
+To see the Log file check: 
+	%Temp%KmsNano.log
+
+Should you run into trouble:
+	Decompress KMSnano.exe with 7-Zip and run "Manual.cmd"
+
+If you used a hacktivation on your installation before:
+	Decompress KMSnano.exe with 7-Zip and run "Fix hacktivations.cmd"
+
+In case you used a retail key and you want convert to Windows VL:
+	Decompress KMSnano.exe with 7-Zip and run "Convert_Windows_Retail2VL.cmd"
+
+In case you dont want activate one product use the arguments: /noWin, /no2010 and /no2013 arguments to KMSELDI.exe
+and edit the Manual_Silent.cmd	
+	
+In case you want do everything manually, check the *.cmd scripts inside; they work without .NET Framework 4.0.
+
+FAQ for KMSnano:
+   
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page582?p=707556#post707556
+
+Change Log:
+- Optimized for W7 and Office 2010 with KMSELDI v8.
+- Automatic convert non activated support Windows versions to VL.
+- Automatic skip permanent activated Windows versions.
+- Automatic convert non activated support Office versions to VL.
+- Automatic skip permanent activated Office versions.
+- New KMS Client with simultaneous request.
+- Add TriggerKMS v7: Support W7 and Office 2010.
+- Clear KMS server name after installation.	

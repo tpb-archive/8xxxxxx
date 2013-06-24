@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,Stefanovics,2013-01-27T09:54Z,"you have to put it on the
+DevilGame folder, and you DON'T have to start a new game, but the dlcs are USELESS if you don't write the steam_rld.ini
+
+AppId=220440
+DLC001=223790 
+
+in binaries/win32"
+,DougAndWan,2013-01-27T15:31Z,"sorry, after download the DLCs
+download this
+
+/rar/6hygbJh_/DmC_Devil_May_Cry_-_SkidRow_-_.html
+
+and paste in binaries/win32
+should works perfect"
+,DougAndWan,2013-01-27T15:32Z,"/ complete this using
+
+4share.com"
+,Lithuex,2013-01-28T17:20Z,So how do I install this? You guys aren't really making much sense.
+,cacakuris,2013-01-28T20:29Z,Goddam spammers!!!
+,DougAndWan,2013-01-28T22:17Z,"use the crack above, then paste the realese folder inside the DevilGame.. and play the game"
+,kaz29,2013-01-29T20:59Z,"whats DLCs are incluses??
+just Dante skin?"
+,sati777,2013-01-29T21:43Z,"doesn't work, black screen after intro, last time I download from non-skull uploaders"
+,frisko316,2013-02-01T05:58Z,These directions broke my game too. Black screen after intro. Now I have to reinstall. Thanks.
+,frisko316,2013-02-01T05:59Z,Broke my game also. Thanks.
+,name4832,2013-02-01T10:12Z,"I think I figured it out relatively. If you go to the folder with all the loose files and the Localization folder. On Windows 7 64-bit: Put the localization where its supposed to go, not sure about that one but its probably the one in Devil Game. All the texture files and stuff in ""C:Program Files (x86)DMC Devi May CryDevilGameCookedPCConsole"": and the two .ini files in ""C:UsersStevenDocumentsMy GamesUnrealEngine3DevilGameConfig"". I'm testing that out now, I'll see if it works. :D"
+,name4832,2013-02-01T10:16Z,"No good, still get a black screen with quiet dubstep....: i'm wondering which file is actually causing that. Lemme look at the .InI's and see. I manually made that steam_rld.ini file by the wya so I wouldn't have to download it as per Stefanovics comment. Don't thing that would cause it. Put that in the binaries/win32 of the MyGames folder in Documents."
+,name4832,2013-02-01T10:23Z,"Okay, the directions are wrong, and when you put every file in the way its supposed to allegedly, by searching where the vanilla files are in their directlies, be them the install folder, or documents/MyGames, it still blackscreens. I've put ini files back that are vanilla backups instead of cooked files and still blackscreen. So all that is left are the Localization files, and hte Texture files and such that go into CookedPCConsole. If I'm correct, the Localization is the language, audio files, subtitles and all that. I think it MAY be the other files, but I wouldn't put it past the Localization files to be incorrect or something, since the uploader didn't seem to care about constructing a folder architecture for where everything goes so we could install the files correctly. But we've got the issue narrowed down at least."
+,name4832,2013-02-01T10:27Z,"Replaced the Localization folder in DevilGame with my backup, it appears something about the Localization subdirectory, probably one or more of the files, is causing it to mess up, my game is running normally now. Wonder why the Localisation folder provided would do that..."
+,name4832,2013-02-01T10:33Z,"This is my last comment, DLC won't work without that Localization folder it seems, of course. I'ts gonna take someone smarter or more educated in this type of thing, than me to get that working. All the folders afaik have the files they should have, it could be that they are modified and someone did something so that they now don't work right, intentionally or unintentionally, these ""unforseen side-effects"" will be the cause of the game not working, and these files are necessary to get the DLC working afaik. Oh well, I'm just gonna play the game. Peace out guys. :)"

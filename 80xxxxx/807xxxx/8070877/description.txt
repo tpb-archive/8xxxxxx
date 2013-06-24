@@ -1,0 +1,24 @@
+Zygor Guides update v4.0.5726, released January 25th, 2013. (Horde and Alliance)
+
+
+NOTE:  This is the full, complete version. Anything you see on Zygor's website is in this download.
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+[B] Pets/Mounts
+Fixed a reported error with the Miniwing pet guide
+Fixed an error that was preventing the Pandaren Spirit pet guides from parsing
+
+[B] Reputations/Dailies
+Fixed multiple bugs in the Golden Lotus guide
+
+[A] Reputations/Dailies
+Fixed an error that was causing players to see The Isle of Thunder King dailies until the content has been released on live servers
+Fixed a reported error in the Honor Hold guide

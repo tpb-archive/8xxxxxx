@@ -1,0 +1,197 @@
+﻿User Type,Username,Date,Text
+,mitko290,2013-01-31T18:33Z,Well not really a fix :D
+,mitko290,2013-01-31T18:39Z,"It is showing me the same error as always, I tryed to repair it everythink but the patcher again force close and my version of the MFA is exactly the same."
+,Namek911,2013-01-31T19:40Z,"For me, this fixed version works fine :)."
+,mitko290,2013-01-31T20:11Z,Well I decompiled the code and debug the whole patch and I found my error after a quick fix I was able to patch it finally :)
+,Xtse,2013-02-01T03:11Z,"What was the fix you needed mitko, if I know I can apply it to the next release for you :)"
+,mitko290,2013-02-01T23:02Z,"Well I just changed the path where the file to save because saving directly to C: threw a program even with administrator privilege give me a error, so actually that was my fix. :)"
+,ji31j45,2013-02-02T05:04Z,"Hi Xtse!
+Thanks for your crack
+
+somehow my crack sometimes suddenly fails and I have to reboot my computer(logout is invalid) and it can works again. can you fix this?
+(it may occur after several build.)"
+,Xtse,2013-02-02T07:31Z,"@ji31j45: I'm unable to replicate this, I've built multiple projects and deployed them on my device dozens of times and have had no problems.
+
+Anything else you can tell me about the problem? Are there any exceptions in adb or visual studio/monodevelop?"
+,misha93,2013-02-05T01:49Z,"@ji31j45
+
+Got done a heavily modified program-logic, available in https://docs.google.com/file/d/0B1Z2WbtCWsFmbGxlTzV4c0hhYzQ/edit?usp=sharing
+
+It's done with .NET 4 full version, so, .NET 4 full version NEEDS to be installed previously!!!
+
+This version *should* be more compatible in 32 bit and 64 bit environments. Please read the log file if patching doesn't works!"
+,misha93,2013-02-05T01:56Z,"And just in case....
+
+https://www.virustotal.com/file/e35ba52ebd7f3630f6579d4a1fbab0c2efb7460664e017ffa3dbfdc4e9d57b7a/analysis/1360025566/"
+,Xtse,2013-02-05T06:50Z,Lol .. you must be bored misha93. Good luck with your future patches! :)
+,misha93,2013-02-05T20:14Z,"Went there and here, did thefting for sources, and got a patcher made in .NET version 2, no dependences, no referenced dll's other than the .NET ones. This surely got more compatible xD!
+
+SmartAssembly was used to ensure integrity of the file by not allowing any modifications.
+
+MD5: ae220d823b8bb031c346f0b08376608c
+
+SHA256: dd2b5f265a2ca243238867225302eee1dce8f8cce072dc71bebc4f68d06713ff
+
+Windows XP users have to be 100% sure that .NET version 2 is installed. Windows 8 users also. Any other Windows version should not have troubles.
+
+Results are here:
+
+https://docs.google.com/file/d/0B1Z2WbtCWsFmUTNzOWdzR1V2Tms/edit?usp=sharing
+
+@Xtse
+
+Damn yeah, thanks! :D
+
+@Anyone
+
+If sources are wanted, just leave a comment and a email to deliver"
+,ji31j45,2013-02-06T11:57Z,"@Xtse
+Thanks for your reply!!
+There is no any exception.
+When I build my project, it shows a dialog to let me select the target devices with this message: ""Trial version only supports the emulator"" and an ""Activate"" button. I have no idea how it happens.
+
+This occurs especially when I open two project or more and build several times.
+And only I can do is reboot my computer. 
+
+@misha93
+Your version has the same problem (I have modify the mandroid.exe to the original one and use your patcher)"
+,misha93,2013-02-06T17:21Z,"@ji31j45
+
+Go to the properties of your project, and in Mono Android Options > Linking, check Sdk and User Assemblies, then see what happens. Usually this gives me more stability.
+
+And, could you post your mandroid.exe MD5 that's in program files>msbuild>novell>mandroid.exe ??? That way, all here can be sure that it's patched correctly :D"
+,ji31j45,2013-02-07T18:29Z,"@misha93
+CRC32: 5D29A2C8
+MD5: 2DD43130D3ED2A95B8C9B3C07078C0F6
+SHA-1: AEA500796BE6B74E319C57E0A6851C904A8E9C05"
+,misha93,2013-02-07T19:05Z,"@ji31j45
+
+Ok, then it's a puzzle xD!
+
+You've the rigth hashes, they're the same no matter if you use Xtse's patch or the one I posted, the output EXE will have the same hashes.
+
+In conclusion, the patch is aplied in the right way, the problem must be something in your environment. You can try using another VS version (2010, 2012, ultimate, professional, etc.), uninstall any complements or plug-ins, etc; or finally, make a clean install from zero."
+,vasyatko,2013-02-10T08:33Z,"hello, Xtse and misha.
+Is there any chance one of you could provide MFA (and/or MonoTouch) crack for MAC?
+And maybe one of you could release sources?"
+,Xtse,2013-02-10T09:00Z,"I have a working crack for MonoTouch - I've yet to upload it - I will upload it when I'm ready. misha93 doesn't crack MFA, I do. He just wanted to make his own version of a patcher using my resources for whatever reason :)"
+,misha93,2013-02-11T17:22Z,"@vasyatko
+
+Just leave me your e-mail and I'll drop VS2012 sources in there :D
+
+And it's right, I'm using Xtse work made in the patch file (md.patch containted as resource), just that. If Xtse starts obfuscating and encrypting resources I'll have no job left xD!
+
+All the other things I made is just to get a simpler app with much less dependences, it only has 3 dependences and them are to the MS .Net Framework v2; all which *should* guarantee more compatibility."
+,vasyatko,2013-02-11T19:10Z,"Misha, please drop sources to poligshar-at-narodru. Thanks.
+
+Xtse, if you do not want to upload MonoTouch binary now could you please send it to me to poligshar-at-narodru ? If not, thanks anyway for MFA."
+,vasyatko,2013-02-11T19:12Z,"poligshar-at-narod dot ru
+spam filter eats dots"
+,piratefrs,2013-02-21T17:42Z,"Xtse, can you describe the method to unpack the files from mandroid.exe? im trying to debug it with ollydbg with no luck.
+thanks"
+,biel061,2013-03-06T15:07Z,"@Xtse or @misha93
+Have you cracked the new 4.6 version yet? Can you upload it please or send to my e-mail?
+
+If possible, I need the crack of MonoTouch for Mac mainly, the license is too expensive to me.
+
+The email is: eu at gabrielf dot com"
+,ie5x,2013-03-06T15:50Z,"Can you please crack 4.6.0 (latest version)? Or please upload the installer for 4.4.55 since it is no longer available on xamarin website, making this crack unusable for new users.
+
+Thanks!"
+,misha93,2013-03-06T18:10Z,"In the meantime:
+
+http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.4.55.104956787.msi
+
+@ALL
+
+I don't crack this thing, all credits for cracking are 100% Xtse's.
+
+The ONLY thing I do is re-pack it and make it dependant of less DLL references. In simpler words, better compatibility with old systems (Win XP for example)."
+,ie5x,2013-03-07T03:57Z,Thanks for the msi misha93! And my request was to xtse :).
+,misha93,2013-03-07T04:59Z,"@Xtse
+
+Been playing a Little with IDA from weeks ago. So far I've found the decompress sub in Xamarin Android 4.6, it's ""sub_5B76AB"". From there and forward I'm in unknown terrain.
+
+Which I'm able to is re-sign all the .NET assemblies included in the install package and make the InterlasVisibleTo attribute changes. Now Xamarin Android ships with Stong Named signed Assemblies!
+
+Xamarin Android 4.6:
+
+http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.6.00049.msi
+
+Hope it helps :D"
+,ie5x,2013-03-07T14:36Z,Thanks @misha93 for taking interest in this. I hope @xtse gets time to help out as well. For now I am good with 4.4.55. You guys rock!
+,Xtse,2013-03-08T05:50Z,I'll crack and upload the patch tonight as soon as I get a chance! :)
+,Xtse,2013-03-08T12:18Z,"@misha93, patch ProcessOptions() in mandroid-win.exe and the *Ide.dll extensions for MonoDevelop / Visual Studio and you're done. :) I'll upload patch after some more testing."
+,misha93,2013-03-08T20:33Z,"@Xtse
+
+I'm getting nuts with IDA. This far the most complex thing that I've got done is debugging, breakpoints and memory snapshots.
+
+I've done several memory dumps of mandroid.exe after the decompressing sub is called (they're 60 MB+ usually), but still can't figure out how to get all the decompressed files from the snapshots in a elegant-easy way. I've been killing myself with a Hex editor and the snapshot to see all the PE exes and dlls, but heh, its a titans work xD!
+
+Also, I'm bad with injecting process (to put back the patched files in the mandroid.exe). I've no clue how to get that... ???
+
+Anyway, will have to get more taining with IDA and another stuff!
+
+Those *Ide.dll files are included into the mandroid.exe file or are independant files?
+
+BTW, what debugger would you recommend to use with IDA? I've no clue of the advantages/disadvantages I can get by using another debugger...
+
+Sorry for long post and sounding like a kid wanting cookies"
+,Xtse,2013-03-11T03:40Z,http://www.pastebay.net/1188305 the password is your username :)
+,misha93,2013-03-11T04:52Z,"@Xtse
+
+Much appreciated. Huge thanks!
+
+Will do my best to accomplish all that without bothering you.
+
+And now that I remeber, shouldn't there be more changes because of the License Types (Starter, Enterprise, Business and something else) ??
+
+Again thanks!"
+,misha93,2013-03-11T06:44Z,"@Xtse
+
+Okay, was going to cry beacuse Zlib wasn't decompressing the last 8192 bytes... anyway, got mandroid-win executable and I'm seeing all the stuff in Net Reflector, including the interesting namespace Xamarin.Licensing.
+
+Couldn't get the injection part for now, but... what happens if Xamarin.Licensing.PlatformActivation.level variable is made read-only and set to 4 ??? Consequently all the methods that try to change it should have deleted the setting instruction
+
+Also have seen interesting things with Xamarin.Licensing.PlatformActivation.Trial property, in my tests the activation screen that appears on VS seems to have something to do with this property returning true... maybe same thing is happening in your scenario?
+
+Going to study this thing and the *Ide DLL's with patience and deeply, I've no words to keep saying thanks, thanks, thanks, at last I've that damn thing uncompressed xD!"
+,misha93,2013-03-11T08:05Z,"Did some playing with VS Ide DLL (Xamarin.Components.Ide.dll).
+
+Found that Xamarin.Components.Ide.Activation.CheckLicenses(CancellationToken) gets called, it calls mandroid.exe with --check parameter reads output and does funny stuff.
+
+On the mandroid-win.exe side, Xamarin.Licensing.Check() gets called, which can end calling Xamarin.Licensing.Activate(UserData) or Xamarin.Licensing.VerifyLicense(). Those two finally-called methods are independant from ProcessOptions() method, because of that it's useless to edit only that method.
+
+Two solutions come to my mind:
+
+Patch Xamarin.Licensing.Check() and Xamarin.Licensing.VerifyLicense() on mandroid-win.exe
+
+OR
+
+Patch Xamarin.Components.Ide.Activation.CheckLicenses(CancellationToken) in Xamarin.Components.Ide.dll
+
+First option seems more sexy because only one file remains changed (mandroid.exe).
+
+If you preffer another way of communication for this kind of messages, just let me know the way of communication you want :D"
+,Xtse,2013-03-11T09:59Z,Send me a message on suprbay. :)
+,Xtse,2013-03-11T13:53Z,Finished : That was more work than necessary.. Will upload tomorrow.
+,misha93,2013-03-11T16:57Z,"@Xtse
+
+Great!
+
+I'll guess that you user name in suprbay is Xtse. Mine is mishamosherg."
+,ferlobo,2013-03-11T22:04Z,"Dear friend, thank you for your contributions, I wonder if you could share a crack updated to the latest version http://download.xamarin.com/MonoforAndroid/Mac/mono-android-4.6.00047.msi , I'd be very grateful if you could help me as I want to learn how to develop for android using this tool but the license is too expensive. Thanks and greetings from South America."
+,ferlobo,2013-03-11T22:10Z,"Sorry copied the wrong link, I need the version of Windows and not Mac.
+
+http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.6.00049.msi"
+,Xtse,2013-03-12T11:39Z,@ferlobo: http://thepiratebay.sx/torrent/8247178/Mono_for_Android_4.6_Windows_Patcher
+,ste19801,2013-03-12T19:17Z,"Greetings from Greece and many thanks, dear Mr. Xtse!
+We are grateful for your work!
+Just one question please:
+I have already installed Xamarin Mono for Android Installer (V.3.0.0) and MFA 4.4.55(Windows), cracked by your Mono for Android 4.4.55 Windows Patcher.
+Should I first uninstall MFA 4.4.55(Windows) and then install MFA 4.6, or is it ok to install mfa 4.6 on top of this?
+Should I also uninstall Xamarin Mono for Android Installer v3, first ? Do we need to find some newer version than v3 for Xamarin Mono for Android Installer, in order to install MFA 4.6?"
+,ferlobo,2013-03-14T23:07Z,"Mr Ztse, the link  http://thepiratebay.sx/torrent/8247178/Mono_for_Android_4.6_Windows_Patcher is broken. :C"
+,Xtse,2013-03-16T01:32Z,"An update was made to fix the licensing issues: https://thepiratebay.sx/torrent/8255354/Xamarin_s_Mono_for_Android__amp_amp__iOS_v4.6_Windows_Patcher
+
+:)"

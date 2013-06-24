@@ -1,0 +1,66 @@
+[i]From the creator of Micro XP Pro,
+DarkReverser Presents: [/i]
+
+[b]Micro XP Pro 1.11b[/b]
+
+Description: The slimmest most functional, fastest, most secure copy of XP you can find on the planet. 
+
+[b]-Fastest install, 10 minutes on modern systems including:[/b]
+WMP 11, IE 8, DirectX 9.0C + Managed Code, .Net 2.0, Visual C++ 2005, 2008, 2010 Runtimes, General Runtimes (To support all applications and games)
+INTEL (11.2.0.1006), AMD and ASMEDIA sata drivers (So you can install XP on modern hardware)
+USB 3.0 drivers 
+6 Themes (+Luna)
+Over 150 neatly organised utilities 
+NtBackup,System Restore, Windows Firewall, Recovery Console
+No Activation, No serial Needed, 100% Genuine, 100% Software compatibility 
+
+[b]-Smaller ISO: 336MB ISO [/b]
+
+
+[b]What's New / Notes[/b]
+
+1.11b
+-Removed Language Files (Kept keyboard layouts) Wasn't working, I will therefore direct people to use a language pack that does work
+-Added Terminal Services  
+-Added Option to Install Recovery Console ( run i.e., d:i386winnt32.exe /cmdcons ) You must be connected to the internet.
+-Added SysTracer 2.6 
+
+1.11
+- Complete rebuild to support all languages, eliminate many bugs and past issues, and achieve a cleaner more polished extra stable build
+- Updated scripts/drivers/security updates
+
+[b]Instructions[/b]
+
+Extract with Winrar 4.20.
+
+Let's customize the ISO to you.
+Are you going to be sharing files or printers in a network, if so choose the workgroup tweak or no tweaks.
+Do you require everything to work "out of the box", or are you a beginner, if so choose no tweaks.
+Is this purely a gaming system, you desire upmost performance and security and know what services are in XP, if so choose the regular tweaks.
+Now that you've made your choice, go ahead and open the Iso with MagicISO or UltraISO.
+Go into i386, now go back to your download folder and select the tweak file you picked, now drag it over, it will for overwrite now say yes.  Click Save.
+
+Time to burn
+Burn with imgburn or you're favorite burning software with the verification option checked.
+
+Configure your BIOS
+Restart your computer, keep pressing repeadedly the del button, this will get you into bios.
+Find the boot options, and pick whatever optical drive Micro XP Pro is in.
+
+Choose your partition and the rest of the setup is automatic.
+Note you do not need to activate Micro XP Pro; no I did not crack it, I removed the activation component.
+Note, despite this Microsoft will recognise Micro XP Pro as genuine, and it will work all Microsoft software such as Microsoft Office, Security Essentials etc.
+
+[b]Languages[/b]
+Please use the following language pack:
+Please download this language pack for additional languages:
+Create a system restore point before use, oherwise you may not be able to go back to your original language.
+It's a clean, but stuborn language pack; the language you choose will stick :)
+
+[b]Warranty[/b]
+Micro XP Pro will install with "easy install" from VMware, but much of what makes this release great will not be installed.  Google "easy install vmware" for more information.
+No warranty is offered to those who modify this ISO.  
+Micro XP Pro works great in virtual machines, but drivers in this environment are often not stable; virtual machines are imperfect emulators.
+In Virtual Machines, software like Alcohol 120% and Daemon Tools which install drivers will not function properly.
+Make sure you pick the tweak file that is for you, see "Let's customize the ISO to you"
+It is recommend to use Windows Update via Internet Explorer 8

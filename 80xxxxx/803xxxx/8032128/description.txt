@@ -1,0 +1,67 @@
+Zygor Guides update v4.0.5670, released January 15th, 2013. (Horde and Alliance)
+
+NOTE:  This is the full, complete version. Anything you see on Zygor's website is in this download.
+
+Sorry about the slow uploads, been busy. I may not upload every single version, as Zygor has been on a roll lately, but I'll upload the major ones as fast as I can.
+
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+
+Patch notes:
+
+
+Version: 4.0.5670
+Released on: January 15th, 2013
+[B] Professions
+Updated Enchanting list for both Alliance and Horde (completed)
+
+[A] Professions
+Fixed typo in alliance cooking w/ fishing
+
+[H] Professions
+Added content to cooking w/ fishing
+
+[B] Achievements
+Fixed minor issues throughout Cataclysm and all previous versions
+Version: 4.0.5664
+Released on: January 14th, 2013
+[B] Achievements
+Fixed an error causing 'Amber is the Color of my Energy' to fail to parse.
+
+[B] Reputations/Dailies
+Fixed an error with the Anglers pre-quest.
+
+[A] Reputations/Dailies
+Operation Sheildwall fixes.
+
+[H] Reputations/Dailies
+Fixed an error with the Dominance Offensive guide.
+
+[B] Professions
+Updated Enchanting to level 340.
+
+[A] Professions
+Finished the cooking with fishing guides.
+
+[B] General
+Cleanup and maintenance (removed old tags, cleaned up some guide files).
+
+[B] Gear
+Fixed an issue which could rarely cause strange suggestions at low levels.
+
+[B] Travel
+Ruins of Korune now has correct data for entering and exiting the cave.
+Mage portals to Vale of Eternal Blossoms should now be suggested correctly.
+
+[B] Misc. Bugs
+LibRover now slows down all calculations when in combat, to prevent any sudden lag spikes.
+Regular Travel update time up from 30sec to 2min - hitting intermediary points or moving 100yd away from the target triggers recalcs.
+Fixed a Lua error when there's (strangely) no continent data in a waypoint.

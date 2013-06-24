@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,sushparab,2013-01-20T12:12Z,"ihttp://thepiratebay.sx/torrent/8023835/McAfee_VirusScan_Enterprise___Antispyware_8.8_patch_3#s it working,,,,???"
+,sushparab,2013-01-20T12:13Z,is this working for lifetime???
+,maur0,2013-01-20T13:35Z,"yes sushparab
+work perfect and is full updatable not expire patch 3 is now compatible to win 8 and 2012"
+,Sunuvagun,2013-01-21T20:39Z,"So, this is the complete application? I ran setup, and it says that I already have VirusScan installed (which I do), and that I have to uninstall the current version in order to proceed.  I was hoping to get just the patch..."
+,maur0,2013-01-22T16:23Z,yea this a complete version 
+,Sunuvagun,2013-01-23T00:52Z,"OK, thanks for confirming this for me - and thanks for the upload.  :)"
+,193800,2013-03-27T20:11Z,"maur0 i uploaded the file 2 virustotal to check, and it came back with 2/39 is this ok? i had to zip it because it just got a little out of the upload limit.
+
+https://www.virustotal.com/en/file/7494eb6364b5dbab3da355dde32bcb42a2667dbcfabc435e999fe7c413518fd2/analysis/1364407604/"
+,maur0,2013-03-28T23:08Z,193800 false positive :) my anti viru not contain spyware and virus and notting 100% clear :) 
+,193800,2013-03-29T10:06Z,"thanks for the reply, gona try to get it install now after the reasurance"
+,Xhs09,2013-04-01T07:01Z,"Error 1303. The installer has insufficient privileges to access the directory: C:Program FilesMcafeeVirusScan Enterprise. The installation cannot continue. Log on as administrator or contact your system administrator. And I run as administrator but the installation still have error! help pls,."
+,maur0,2013-04-04T13:02Z,"run administrator login 
+
+START run UAC disable all
+
+install mcafee"

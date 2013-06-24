@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,bintelecom1,2013-01-09T19:29Z,hmmmmmmmmmmmmmmm. I was waiting for this release..thanks
+,fire3k,2013-01-09T20:43Z,is this updated (include all updates till date)?
+,km11,2013-01-10T09:21Z,im waiting for windows xp that support directx 10...
+,DesignQuirks,2013-01-13T21:23Z,"Thanks for this. I have an old (as dirt) laptop that I'm trying to 'make go' for a kid, and Win7 just makes it crawl. Much appreciated."
+,susterz1,2013-01-13T22:43Z,"ovaj windows xp sp3 radi, automacki se otključava, jedino ako znaš napraviti boot cd.
+Hvala! Thanks!"
+[V],2010kaiser,2013-01-14T00:09Z,"@susterz1
+
+How to make a bootable Windows XP CD:
+
+http://computernetworkingnotes.com/xp-tips-and-trick/windows-xp-bootable-cd.html"
+,TPBcomments,2013-01-15T10:49Z,"thanks much appreciated.
+
+had a 2012 version which was working fine and working fine means for me, that u can update it.
+
+but they blacklisted the key used in there.
+so when this is new and updateable its beast.
+
+thank you sir"
+,TPBcomments,2013-01-15T10:50Z,i will seed this !
+,km11,2013-01-16T01:59Z,2010kaiser is this support directx 10..or give the screenshots of this...
+,murknow,2013-01-16T03:44Z,is this 32 bit or 64 bit??
+,edgefactor,2013-01-17T02:44Z,"Done everything as mentioned disc boots, windows starts but still ask for product key any hints"
+,km11,2013-01-18T07:40Z,search in I386 folder..and find WINTTF.SIF and open it with notepad
+,km11,2013-01-18T07:43Z,"here's the simple step ...product key here:
+
+ProductKey= V2C47-MK7JD-3R89F-D2KXW-VPK3J"
+,jgabbco,2013-01-19T20:37Z,"getting prompt to find asms file, and then stops w/ fatal error?"
+,daren1988,2013-01-21T08:01Z,"Don't waste your time, this shit doesn't work. Burned the ISO 3 times with 3 different programs and I got the same fatal error during installation, so just download a different one. "
+,extracube,2013-01-21T15:12Z,"Burned this to CD using UltraISO, installed to my old and slow Acer netbook, it never asked for a key, and it seems to be working normally.
+
+Thanks."
+,jscalez225,2013-01-21T20:37Z,CAN SOMEONE SEED THIS? LIKE NOW?
+,bleargh,2013-01-22T15:45Z,"This is working great for me in VirtualBox on my 64-bit Win7 machine. In VirtualBox I created a VM that has a CD-ROM drive configured to automatically mount a ""CD"" which is actually this ISO file. It booted right into it. During the setup, I was not prompted to enter a product key. The only weird thing was that Automatic Updates was enabled even though I chose not to enable it. I disabled it first thing, then ran Windows Update myself. The product key must be working, because after Windows Update updated itself, I got a big list of High Priority updates. It's getting all the high priority and optional updates now, so I'm quite happy.
+
+Actually, one of the updates is a non-security one to install a WGA validation tool, so if you are like me, you probably want to uncheck and disable that! This is the reason I disabled Automatic Updates; I don't want a future ""high priority update"" to install something that's going to deactivate the OS. However, I get the impression all these unofficial XP distros are on borrowed time, no matter what you do..."
+,sphinksy,2013-01-28T21:08Z,"@bleargh
+That's why I usually just download the latest win XP which at the moment should be working and update it fully and then i disable automatic updates. Then I just use this for some time (usually like a year) and then I download another new version and rinse/repeat :)"
+[V],2010kaiser,2013-02-07T23:05Z,"For anyone having trouble making a bootable .ISO. I've upload a small utility which makes a bootable Windows 7, vista or XP image in just a couple of clicks. just follow the instructions in the torrent description and also in the README.nfo file contained in the torrent. Download link below:
+
+http://thepiratebay.sx/torrent/8114944/WBICreator_-_2010kaiser"
+,vayven10,2013-02-11T02:33Z,Thanks mate lol 
+,m3rlz,2013-02-12T08:46Z,installed smoothly and works perfectly; burnt with PowerISO - thx kaiser
+,let357,2013-02-24T13:32Z,"followed http://thepiratebay.sx/torrent/8114944/WBICreator_-_2010kaiser to make cd bootable, but while booting up pc, getting error: cd boot: can't find bootmgr and pc turns on old os. (sorry for my bad grammar )"
+,__Hops__,2013-02-24T19:10Z,Downloaded and installed with out a problem but when i try to put in my flash drive in any port pc reboots any idea on how to fix? 
+,__Hops__,2013-02-24T19:23Z,burned and installed no prob but any time i put my flash drive in it reboots
+,nishar,2013-02-26T17:49Z,"It pass MS genuine validation,works perfect,
+But problum is wen i goto install nokia suite..
+It cannot install & and says your computer needs a windows certificate.....
+""The windows authentification certificate(very sign primary intermidiate)is missing from your computer""
+
+Please adwise me how can i solve this problum"
+[V],2010kaiser,2013-03-05T17:13Z,"XP Pro Product Keys:
+
+H689T-BFM2F-R6GF8-9WPYM-B6378
+MR49R-DRJXX-M6PX2-V96BF-8CKBJ
+"
+[V],2010kaiser,2013-03-06T21:25Z,"Use the tool below to make a bootable USB of XP:
+
+http://thepiratebay.sx/torrent/8226261"
+[V],2010kaiser,2013-03-06T23:19Z,"Ignore the post above as i've had the tool removed. Here's the new download link:
+
+http://thepiratebay.sx/torrent/8226501"
+,talbot_sk,2013-03-09T16:21Z,Hi. What is the language version of this installation? Thx.
+,horrorcow,2013-03-15T15:57Z,thanks so much!
+,davotglov,2013-03-18T07:58Z,is it possible to make a bootable usb of it ? earlier i downloaded another xp and got the hall.dll error .. even i tried moding the boot.ini file .. but no luck i am installing it on dell d800 laptop
+,mleo1,2013-03-30T21:31Z,Thanks. I love this.
+,reduxx,2013-04-05T08:41Z,Thanks man!!
+,jojo899,2013-04-08T17:59Z,when i click on the install buton it wont start because its marked like black and all other options are blue like they suppost to be any 1 have the same prob? please leave me a note thk in advance :)
+,Pakosan,2013-04-11T07:46Z,thnx
+,keilaniswk,2013-04-23T23:21Z,Is the download link working? The download link is not working for me.
+,Biliah,2013-05-08T22:50Z,"during instalation it shows me a blue screen so i had to restart and then when i tryed to instal again it says me instalation cant find hard drive, press f3 to exit... what i have to do_?"

@@ -1,0 +1,96 @@
+KMSnano v16 Automatic
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.
+
+To see the Log file check: 
+	%Temp%KmsNano.log
+
+Should you run into trouble:
+	Decompress KMSnano.exe with 7-Zip and run "Manual.cmd"
+
+If you used a hacktivation on your installation before:
+	Decompress KMSnano.exe with 7-Zip and run "Fix hacktivations.cmd"
+
+In case you used a retail key and you want convert to Windows VL:
+	Decompress KMSnano.exe with 7-Zip and run "Convert_Windows_Retail2VL.cmd"
+
+In case you dont want activate one product use the arguments: /noWin, /no2010 and /no2013 arguments to KMSELDI.exe
+and edit the Manual_Silent.cmd	
+	
+In case you want do everything manually, check the *.cmd scripts inside; they work without .NET Framework 4.0.
+
+Change Log:
+- Detect Office 2013 in W7.
+- Fixed Convertion from Retail Office 2013 to Volumen License.
+- Add TriggerKMS v9.
+
+
+FAQ for KMSnano by heldigard 
+
+Q: It needs Internet Connection?
+A: No, It works with the local time and date.
+
+Q: It will broke my Retail activation of W8?
+A: No, as soon the app detect the RETAIL flag in W7/8 will skip the process.
+
+Q: It will work in a Win or Office with the Grace Time expired? (Year 2090 when the machines rules the world)
+A: Yes. 
+
+Q: How much RAM memory I need?
+A: It has a method of RAM detections of the machine and divide that amount by 2 and use that amount, if you have problem with allocation of memory, the unzipp the KMSnano.exe modified the 00-Start_Qemu.cmd, change the amount of memory and when run succesfull the Qemu, use the Manual.cmd script.
+
+Q: What KMSnano program really does?
+A: Good question: 
+
+Run Qemu.
+Detect VL products Windows 7/8 Enterprise/Pro/N. Automatically convert non activated supported Windows versions to VL.
+Detect VL Office 2013/2010. Automatically convert non activated supported Office versions to VL.
+Set kms server address to the regedit.
+Try to activate using slmgr.vbs and/or ospp.vbs (simultaneous requests with new KMS Client). Automatically skip permanently activated Windows versions (Retail) and automatically skip permanently activated Office versions.
+Check errors and take appropriate actions, retry to activate (20 times).
+Clear kms server address.
+Close Qemu
+
+
+Q: How to use KMSnano?
+A: You have the choice to run:
+
+KMSnano.exe to activate Windows 8 or Office 2013 for 180 days
+TriggerKMS.exe to run KMSnano.exe (or any other activator) only if grace period fall below specified value. Note that the /install option will add an entry to the Task Scheduler so that TriggerKMS.exe is executed each time a userΓÇÖs session is open (i.e. auto-activate).
+"Run Trigger.cmd" batch file that will execute TriggerKMS.exe using parameters specified.
+
+
+Q: What is TriggerKMS.exe minDays Activator [options]
+A: TriggerKMS.exe is just a little program that check the grace time days remaining in Windows 7/8 and/or Office 2010/2013 and run KMSnano (or any other activator specified) if needed.
+
+TriggerKMS has two mandatory arguments:
+
+minDays: If remaining days of Windows and/or Office grace period is below minDays Activator program is run
+Activator: Program called to Activate Windows and/or Office, usually KMSnano.
+
+
+TriggerKMS can use the following options:
+
+/install adds an entry to the Task Scheduler that will run TriggerKMS.exe each time a userΓÇÖs session is started (to remove this functionality delete TriggerKMS line in the Task Scheduler). When this option is used the directory that contains TriggerKMS.exe and KMSnano.exe should not be moved as the path is recorded in the Windows scheduler.
+/battery (only useful with the /install option) add the battery option in Windows Task Schedule entry (task not executed if computer is running on a battery).
+/pause will open a Window with Remaining and Minimum days information.
+/log execution information is stored in %temp%/TriggerKMS.log file
+
+
+Q: How to schedule auto-re-activation in detail?
+A: You can trigger next activation attempt by running Trigger KMS in the background.
+
+Q: What happend if I activated with a early version and run again KMSnano?
+A: Reset the 180 days count.
+
+Q: Why every day a new version come out?
+A: Because people report bugs of special cases, mostly no fresh installs of W. Other times people make good suggestions. Other times just improvements.

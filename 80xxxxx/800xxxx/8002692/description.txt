@@ -1,0 +1,67 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 3.14 GiB
+Duration                                 : 2h 22mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 147 Kbps
+Writing application                      : Lavf54.4.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=1, N=3
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 22mn
+Bit rate                                 : 3 000 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.060
+Stream size                              : 2.97 GiB (95%)
+Writing library                          : x264 core 123
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 165 Kbps
+Maximum bit rate                         : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 169 MiB (5%)
+
+Storyline
+
+Nick Fury is director of S.H.I.E.L.D, an international peace keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.
+
+
+
+ENGLISH SUBTITLES HARDCODED FOR FOREIGN PARTS
+
+ 
+http://s1.postimage.org/aevk7rr4f/image.jpg
+
+ 
+http://s1.postimage.org/rgoe9v5zj/image.jpg
+
+ 
+http://s1.postimage.org/4t953pqfj/image.jpg

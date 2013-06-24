@@ -1,0 +1,1 @@
+In this short production Rob Conery hacks into Microsoft's "Scripter Framework" and builds the foundations of a dynamic Web Framework using C#4, Razor, and Microsoft Web Pages. Along the way you can see how Massive was built, along with Manatee (simple Migration framework) and Quixote (high-level testing framework).

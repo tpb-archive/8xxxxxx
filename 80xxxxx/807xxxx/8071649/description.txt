@@ -1,0 +1,34 @@
+New features:
+1. Fully support for Windows 8 and Windows server 2012
+Driver Genius 12 now can fully support for official Windows 8 and Windows Server 2012. Driver Genius can offer the most recent version drivers for Windows 8 system.
+2. Enhanced hardware information inventory
+Enhanced Hardware Info can support for the newest Intel/AMD CPU and GPU including nVidia Quadro K1000M, K2000M, K3000M, K4000M, K5000M, GeForce GTX 650M ,GeForce GTX 680M, nVidia GeForce GTX 660 Ti, GeForce GTX 650 and Tesla K10, Quadro K2000, K2000D, K600, NVS 510, K5000, VGX K1, VGX K2  / AMD FirePro V3900, V4900, V5900, W600, W5000, W7000, W8000, W9000. It can support for more hardware sensors and offer more accurate hardware temperature. Optimized hardware detection speed---increase 40%.
+3. System health monitoring
+The High temperature will reduce the stability and performance of hardware devices, even damaged.
+Driver Genius 12 can monitor the temperature of CPU, Video card, HDD est. in real time to prevent system damage from overheat in advance.
+
+Improvement:
+1. New driver download manager
+The new Driver download manager has increased download speed---12% faster and fixed the download window flash problem.
+2. Optimized memory usage
+Driver Genius 12 takes up few system resources than Driver Genius does---reduce 50%-60% memory usage normally, but works faster.
+3. Support 80,000 plus hardware devices.
+Optimized database structure makes driver update scan faster and more accurately. Driver Genius now can support for over 80,000 hardware devices and the number is still increasing. It is very important to keep drivers updating. Not only for enhancing the stability of system, but also for bringing full hardware performance.
+4. Optimized driver backup
+The speed of back-up drivers now has increased 50%. It only takes less than 1 minute to backup all drivers. Added driver package integrity scan, fixed the ΓÇÿcat fileΓÇÖ missing and no signature driver warning problem when restoring drivers.
+5. Optimized driver uninstaller
+Improved uninstall driver module. Now the Uninstall driver program will delete the old drivers from ΓÇÿDriver StoreΓÇÖ entirely.
+
+Bug Fixed∩╝Ü
+1. Fixed system can't be rebooted when running Driver Genius if the Minimize main window to system tray option is enabled.
+2. Fixed some drivers can't be backuped completely.
+
+1. Install the program.
+
+2. Run the program.
+
+3. Update database with the Live Updater and close it after.
+
+4. Replace the original DriverGenius.exe with cracked one.
+
+5. Now you can update and install your out-to-dated drivers

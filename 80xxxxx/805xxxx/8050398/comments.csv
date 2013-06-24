@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,nekoknytt,2013-01-22T15:44Z,the key isnt working for me D:  ive tried other methods and it still wont work =/  can you help me?
+,slimorath,2013-02-02T23:44Z,"Works fine for me, thx a lot"
+,TruSinner,2013-02-19T22:01Z,WORKED 100% 4 ME THANX DUDE! =)
+,ChillyCrossFoot,2013-02-23T03:34Z,It does not work. It worked fine for a while but now it's black listed. Uninstalling and Reinstalling did not work. Blocking in Firewall also did not work! Any Advice?
+,ChillyCrossFoot,2013-02-24T09:34Z,"This POS program should be removed from this site as it DOES NOT work. This program HIDES a key in the Windows Registry which is impossible to find and remove. It then uses this key to BLACKLIST the License Code provided with this program. If you Uninstall the program, it does not remove this registry key. Meaning it stays in your Windows Registry forever. This constitutes a violation of your rights because it is not a documented function. Also, this key Exhibits random behavior because it seems to work on 1 computer but not one another. So if you block it in firewall in your FIRST installation, then Keep it blocked, you will be able to register. If you run this program without a Firewall, you will NEVER be able to register it again. I understand they want to sell this software to make money, but they are SNEAKY about it. Good luck finding the License in your registry to remove this POS for good.
+NTFS does not really need defragging anyway because its all Hog Wash B.S. modern hard drives do not need."
+,ethan5432,2013-02-25T07:56Z,"Stopped working this morning, was working perfectly till last night."
+,ChillyCrossFoot,2013-02-26T10:47Z,"@ethan5432
+Same thing happened to me. So I uninstalled it, and also looked for Registry keys to atleast get the Trial Version back but you cannot even install the Trial version. The program is good but the creators are sneaky bastards. There's a key somewhere in the registry that should reset the trial. I liked this program so much I was going to offer to donate to the company that makes it just days before this happened. The Hell with them now. If you find this registry key so I can remove this POS COMPLETELY from my PC that will be great."
+,vonwisdom,2013-03-19T18:34Z,Worked for me tks.
+,KILL-BILL-SUPERNATURAL,2013-04-20T12:18Z,"i found the registry key to successfully revert back 30 days of the program ... NOT to activate it for long time ...
+You must delete a specific registry key so the program create it back again (with 30 days) when it launches ....
+
+HKEY_CLASSES_ROOTCLSID{E796F0BE-5A3D-96F3-8D01-F3E2B30CD154}
+
+DELETE that ....it is not a spam ...i found it with software that monitor system changes...(sys tracer) !!"
+,KILL-BILL-SUPERNATURAL,2013-04-20T12:19Z,"@ChillyCrossFoot
+
+check my comment"
+,KILL-BILL-SUPERNATURAL,2013-04-20T12:21Z,"@ChillyCrossFoot
+
+Feel free to ask for help if you cannot find the registry key !! hope i helped !!"
+,ChillyCrossFoot,2013-05-02T02:06Z,"KILL BILL SUPERNATURAL --- Thank you bro. I don't normally come back to read posts, but I hope you get mine. I will post back to you when I find this key. Right now I've managed to screw up my registry and I can't even uninstall it. Do you know how to manually Uninstall it? I know the Program Files and AppData folder, but I do not know all the registry keys it creates besides the one you told me. Thanks!"
+,ChillyCrossFoot,2013-05-02T02:12Z,KILL BILL - I checked and this registry does not exist for me.

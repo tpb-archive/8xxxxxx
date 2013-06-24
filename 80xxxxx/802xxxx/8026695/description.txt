@@ -1,0 +1,51 @@
+Songs List:
+ 
+http://i.imgbox.com/adchgrBw.png
+
+Source                                   : DDR 
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+Overall bit rate                         : 19.5 Mbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 12 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Bit rate                                 : 18.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 816 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+
+Audio
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Mode                                     : 16
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_DTS
+Bit rate mode                            : Constant
+Bit rate                                 : 1 509 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 24 bits
+ 
+http://i.imgbox.com/acpfvEeR.png
+ 
+http://i.imgbox.com/abxIhmjB.png
+ 
+http://i.imgbox.com/adyrzSoK.png
+ 
+http://i.imgbox.com/acdP8eCC.png
+ 
+http://i.imgbox.com/adq99MII.png
+ 
+http://i.imgbox.com/abqrFgKI.png

@@ -1,0 +1,42 @@
+KMSnano v11.1 Automatic
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+Important: Better disable the automatic windows update, we never know.
+
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.
+
+
+Based off of Ratiborus's KMSmicro v3.10.
+
+
+Thanks to MyDigitalLife.info and their members.
+Thanks to Ru-Board.com and their members.
+Thanks to PC-Beta.com and their members.
+
+To see the Log file check: 
+	%Temp%KmsNano.log
+
+Should you run into trouble:
+	Decompress KMSnano.exe with 7-Zip and run "Manual.cmd"
+
+If you used a hacktivation on your installation before:
+	Decompress KMSnano.exe with 7-Zip and run "Fix hacktivations.cmd"
+
+In case you used a retail key and you want convert to Windows VL:
+	Decompress KMSnano.exe with 7-Zip and run "Convert_Windows_Retail2VL.cmd"
+
+In case you want do everything manually, check the *.cmd scripts inside; they work without .NET Framework 4.0.
+
+Thanks to MyDigitallife,CODYQX4,Ratiborus
+
+Change Log:
+- Clear host name after activation done.

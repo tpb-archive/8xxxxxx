@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,Daci225,2013-01-31T21:02Z,Seed Please!!!
+,wongjoewee,2013-02-01T01:41Z,is this include all dlcs like bone pack and gold pack?
+,WeirdoXP,2013-02-02T10:50Z,This update contains nothing but a few fixes to the game (I assume) so...
+,Ryuuseiz,2013-02-04T14:00Z,any change log... cuz i dont wanna get fuk up again
+,Karnadas,2013-02-04T17:55Z,"Ryuuseiz, the update is
+
+Game Balance
+-Demon evade provides less of a damage and style boost.
+-Evades have a shorter invulnerability window.
+-Green orbs no longer spawn procedurally when Dante's health is already high. He must now have less than 1/2 his HP for them to spawn.
+-SSS and SS ranks will now decay back down to S rank with inactivity. 
+-Weakest enemies now do more damage. 
+-You can no longer climb infinitely using Fireworks.
+
+Gameplay
+-Mission 20: Vergil health reset bug fixed. 
+-Secret Missions: Quitting Secret Missions in the middle of a falling attack no longer impairs camera movement.
+
+Controls
+-Entering Angel or Demon mode in the same frame as pressing an attack button will now apply that mode to the attack.
+
+UI
+-Refresh rate now correctly displays current value.
+
+Sound
+-Sound bug during Kicker move when game is running at 75+ FPS has been addressed.
+
+I'm just gonna go ahead and not get this update :P"
+,T3chEra,2013-02-10T02:32Z,"Is this really the only way to fix the health reset bug? I'm always hesitant to update more than necessary because of the possibility of causing more bugs, but dammit I can't beat Vergil. 
+
+Despite being almost 1:1, it's slow as hell, taking 5hrs with optimal torrent settings. 5 times as long as it took to download the actual game, for half the GiB!
+
+Please, is there any other way to fix Vergil's health reset? What causes the bug in the first place?"
+,T3chEra,2013-02-10T19:54Z,"Alright, this update works perfectly, solves the Vergil health glitch and I'm assuming changes all the other things listed in the change log above as well (I didn't thoroughly check), but it didn't mess up my game which is the RELOADED version and doesn't seem to have caused any bugs.
+
+Nice and simple, copy and paste everything in the update folder into your game directory and it should function smoothly."
+,advent.rior,2013-02-12T05:19Z,"Doesn't work, it says that XMD.dll is missing, also there is no ""Update"" folder, am I missing something?"
+,Reiyichi,2013-02-17T17:28Z,"@T3chEra, I got the annoying health reset bug too, and couldn't defeat Virgil for a while, till I figured out during the fight that you were supposed to be in Angel/Demon mode for the final blow, makes sense, Virgil's ""clone"" drops TONS of Demon Orbs when hit while it is protecting Virgil."
+,saboture,2013-02-23T06:16Z,"... you guys do know that when the bug hits virgil, all you do is run up to him and devil trigger and you kill him.. right? >_> "

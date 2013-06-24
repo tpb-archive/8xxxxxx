@@ -1,0 +1,13 @@
+Google Calendar Sync connects your Google Calendar with your Microsoft Outlook calendar.
+
+Unfortunately Google discontinued support for the free Google Calendar Sync on December 14 2012, forcing anyone who needs this functionality to pay 5$/month by subscribing to Google Apps for Business.
+
+Google Apps for Business users use a different utility, which also synchronizes task lists and contact with Gmail. This utility only synchronizes Calendar.
+
+Until January 30 2013 you can still install and connect this utility, but Google has removed the installer from their distribution site.
+
+This installer is for version 0.9.4.1 which is compatible with Microsoft Outlook 2010
+
+Keep in mind that after January 30 you will no longer be able to use this installer, as new connections will no longer be accepted by Google, so don't uninstall after that date, or you won't be able to get it running again.
+
+This is the corrected torrent, with apologies for the previous, incorrect one.

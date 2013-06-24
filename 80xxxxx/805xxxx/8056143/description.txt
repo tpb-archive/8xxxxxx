@@ -1,0 +1,105 @@
+General
+Complete name                            : Starship Troopers - Invasion (HD 1080p).m4v
+Format                                   : MPEG-4
+Codec ID                                 : M4V 
+File size                                : 7.90 GiB
+Duration                                 : 1h 28mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 12.7 Mbps
+Movie name                               : Starship Troopers: Invasion
+Performer                                : Luci Christian, Justin Doran, David Matranga, David Wald, Emily Neves, Andrew Love, Sam Roman, Jovan Jackson, Kalob Martinez
+Genre                                    : Animation, Action, Thriller, Science Fiction, Foreign
+Recorded date                            : 2012-08-28
+Encoded date                             : UTC 2012-08-29 00:32:14
+Tagged date                              : UTC 2012-08-29 04:10:28
+Cover                                    : Yes
+desc                                     : A distant Federation outpost Fort Casey comes under attack by bugs. The team on the fast attack ship Alesia is assigned to help the Starship John A. Warden stationed in Fort Casey evacuate along with the survivors and bring military intelligence safely back to Earth. Carl Jenkins, now ministry of Paranormal Warfare, takes the starship on a clandestine mission before its rendezvous with the Alesia and goes missing in the nebula. Now, the battle-hardened troopers are charged with a rescue mission that may lead to a much more sinister consequence than they ever could have imagined....
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Container profile=Main@3.1
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 28mn
+Bit rate mode                            : Variable
+Bit rate                                 : 12.5 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 24.390 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.252
+Stream size                              : 7.77 GiB (98%)
+Writing library                          : x264 core 120 r2146 bcd41db
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=10 / psy=1 / psy_rd=1.05:0.10 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=8 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=12533 / ratetol=1.0 / qcomp=0.70 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=2:1.00
+Language                                 : English
+Encoded date                             : UTC 2012-08-29 00:32:14
+Tagged date                              : UTC 2012-08-29 00:43:30
+
+Video #2
+ID                                       : 4
+Format                                   : JPEG
+Codec ID                                 : jpeg
+Duration                                 : 1h 28mn
+Duration_LastFrame                       : -1mn 11s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 167 bps
+Width                                    : 640 pixels
+Height                                   : 360 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 0.003 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 1.688
+Stream size                              : 855 KiB (0%)
+Language                                 : English
+Encoded date                             : UTC 2012-08-29 00:44:14
+Tagged date                              : UTC 2012-08-29 00:44:15
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 28mn
+Bit rate mode                            : Variable
+Bit rate                                 : 197 Kbps
+Maximum bit rate                         : 312 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 84ms
+Stream size                              : 125 MiB (2%)
+Language                                 : English
+Encoded date                             : UTC 2012-08-29 00:32:14
+Tagged date                              : UTC 2012-08-29 00:43:30
+
+Text
+ID                                       : 3
+Format                                   : Apple text
+Codec ID                                 : text
+Duration                                 : 1h 28mn
+Duration_LastFrame                       : -1mn 11s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 bps
+Delay relative to video                  : 84ms
+Stream size                              : 423 Bytes (0%)
+Language                                 : English
+Encoded date                             : UTC 2012-08-29 00:43:30
+Tagged date                              : UTC 2012-08-29 00:43:30

@@ -1,0 +1,27 @@
+Size: 7.57 GB
+Format: QuickTime/MPEG-4/Motion JPEG 2000 format
+Stream count: 3
+Type: video
+Codec: h264
+Codec profile: Main
+FourCC: avc1
+Duration: 01:42:42
+Width: 1920
+Height: 1080
+Sample aspect ratio: 1:1
+Display aspect ratio: 16:9
+Pixel format: yuv420p
+Frame rate: 23.98 fps
+Bit rate: 9964 kb/s
+Type: audio
+Codec: aac
+FourCC: mp4a
+Duration: 01:42:42
+Bit rate: 125 kb/s
+Sample rate: 48000 Hz
+Sample format: s16
+Channel: 2
+Meta info:
+    handler_name: Apple Sound Media Handler
+    creation_time: 2011-10-28 11:52:47
+    language: cat

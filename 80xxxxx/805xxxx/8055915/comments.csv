@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-23T18:31Z,"I have gotten a win8pro setup pre-integrated using kmsnano in the setupcomplete.cmd.
+
+I'm working with the guys on mdl to see if we can get the TriggerKMS running during setup, or use a runonce or something. It doesn't seem to work during setupcomplete.cmd by default. It may have some sort of service that isn't loaded yet at that point during setup, or perhaps some other reason.
+
+For people who already have win8 installed and want to trigger it to detect the time left on your kms activation every time you boot and re-run kmsnano.exe if it's less than 30 days, you can extract my custom.zip file and overwrite the one from lananov15.1.zip.
+
+It executes the same commands, but windows 8 has a problem with the triggerkms.exe if you don't have the %~dp0 prefix.
+
+I would release my pre-activated version, but we're really very close to getting the trigger to work, and that would mean permanent free activation.  We're sorting this stuff out right now guys... Should be any day now for free permanent offline kms activation pre-integrated. Right now you can settle for doing it yourself. Enjoy v15.1, and heldigard if you are out there bud... /salute"
+[V],murphy78,2013-01-23T18:47Z,"heldigard is working on some sort of xml import of the scheduled trigger task to try to get the trigger installed by default.  I've been up many many hours past when I should have slept. I can't stay awake anymore to try to finish my epic pre-activated win8 project. I could release just a 180day preactivated, but I really want the trigger for permanent."
+,bigorna12,2013-01-23T18:59Z,Is a forthcoming permanent activation?
+,cool_guy_77,2013-01-23T19:00Z,"
+Looking forward to a Permanent activation.
+
+Thanks in advance."
+,osxp,2013-01-23T22:45Z,"""free permanent offline kms activation"" lol,let's Bill some Gates ;p
+Thanx murphy78 & MDL"
+,brianxxx,2013-01-24T01:31Z,Uhhhhhhhhhhhh THAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANKS!!!!!!!!!!!!!!!! lol
+[V],murphy78,2013-01-24T07:24Z,"I have integrated the kmsnano and triggerkms from this release into Win8Pro VL versions.
+Click my name and find the Perm Re-Activation releases."
+,dominhan,2013-01-24T18:36Z,"Thanks so much!
+Keep posting and seeding!"
+,bigjohnman,2013-01-24T21:14Z,This one asks for an IP address or name. What do I put in those fields?
+,bigjohnman,2013-01-24T21:18Z,"This one asks for an IP address or name. What do I put in those fields?
+I actually choose name, put the name of this computer, and clicked the red button. Windows is activated. We will see upon reboot if it stuck."
+[V],murphy78,2013-01-25T08:09Z,"bigjohnman, you've extracted the kmsnano.exe
+
+If you want to activate, just run the kmsnano.exe, don't extract it.
+
+You CAN run it under admin command prompt with the command 'kmseldi /qemu' and then click the big ""EL"" button to activate when it's all started, but kmsnano.exe automates all that for you."
+,cool1919,2013-01-25T14:54Z,works.thanks
+,VezRoth,2013-02-24T08:10Z,"Silly question, and on an older file no less, but Murphy I've got a version of 8 Pro that I got from Halloweenpsycho on here... it took some brute forcing to do whatever insanity he did to that version but I'm wondering what I need to do with this file. I've got it running and it's been about 10-15 minutes now running in the background. I did the check command and it appears that everything is kosher, I'm just wondering why the file would be running for so long."

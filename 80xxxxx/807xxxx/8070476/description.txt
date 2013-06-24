@@ -1,0 +1,79 @@
+---------------------
+Erotic Tales Box Set
+
+Conceived by one of Germany’s most successful producers, Regina Ziegler, Erotic Tales is a series of short films by prolific international directors, including Bob Rafelson (USA), Paul Cox (Australia) and Nicholas Roeg (UK), who were given carte blanche to create films that captured their vision of the erotic in their cultures.
+---------------------
+Volume 1:
+---------------------
+01.The Dutch Master (USA) by Susan Seidelman
+02.Wet (USA) by Bob Rafelson
+03.Vroom, Vroom, Vroom! (USA) by Melvin Van Peebles
+04.The Cloud Door (India) by Mani Kaul
+05.The Insatiable Mrs. Kirsch (UK) by Ken Russell
+06.Touch Me (Australia) by Paul Cox
+07.Sweeties (Italy) by Cinzia Th. Torrini
+08.Hotel Paradise (UK) by Nicholas Roeg
+09.Devilish Education (Poland) by Janusz Majewski
+10.Sambolico (Finland/Brazil) by Mika Kaurismäki
+11.Elephants Never Forget (Germany) by Detlev Buck
+12.The Waiting Room (The Netherlands) by Jos Stelling
+13.Georgian Grapes (Georgia) by Georgi Shengelaya
+14.Dream a Little Dream of Me (Greece) by Antonis Kokkinos
+15.Can I Be Your Bratwurst, Please? (Germany) by Rosa von Praunheim
+----------------------
+non-english eps have hard coded eng subs - from source.
+----------------------
+General
+Unique ID                                : 88927886217078293215273342631186086567 (0x42E6E34D2128C5032AEE537D59ED3AA7)
+Complete name                            : /home/boss/Videos/Erotic.Tales.[Regina.Ziegler].Box.Vol.1/01.The.Dutch.Master.AAC.x264.loolagb5.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 482 MiB
+Duration                                 : 26mn 25s
+Overall bit rate                         : 2 549 Kbps
+Writing application                      : HandBrake rev20121007
+Writing library                          : libmkv 0.6.5.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 26mn 25s
+Width                                    : 702 pixels
+Height                                   : 574 pixels
+Display aspect ratio                     : 4:3
+Original display aspect ratio            : 4:3
+Frame rate mode                          : Variable
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 129
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.470-6 System B, BT.470-6 System G, BT.601-6 625, BT.1358 625, BT.1700 625 PAL, BT.1700 625 SECAM
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 26mn 25s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+[T],Hyperdrive25,2013-01-11T07:07Z,"It's very important that you disable Windows Updates and Windows Security Centre. 
+
+You do this by going to Control Panel -> Administrative Tools -> Sevices. Then right-click and disable these processes in the list.
+
+You should also see the KMService (software license) process service which should be running in automatic mode.
+"
+[T],Hyperdrive25,2013-01-11T07:14Z,"What you want exactly is for your computer NOT to communicate with the Microsoft servers. This happens when Automatic Updates are enabled.
+
+Also disable the constant NAGS by Security Centre by disabling it once and for all. "
+,w4r3zh4ck,2013-01-11T13:58Z,"Not to offend your reputation nor the reputation of this torrent but just to spread the truth to the masses: There is no such thing as ""permanent"". Get over it."
+,Taix4,2013-01-11T21:47Z,"there wasnt win 7 permanent activator until year after aswell
+there will be one surely"
+[T],Hyperdrive25,2013-01-12T20:42Z,"@w4r3zh4ck, Taix4: Explain 2 me in simple English what problem you have with this app.
+
+I already said to disable auto updates & security centre. If you'll try to enable auto updates by default, then the security updates will override the activation and you'll just have to re-apply the activation. If you're smart, just download the needed updates and apply them manually.  
+"
+[T],Hyperdrive25,2013-01-12T20:50Z,"I have even noticed that with MS Office 2010/13
+the trial period is 180 days after which you'll have to reset the trial period with KMS activator. 
+
+With MS office 10/13 there is no permanent activator.
+
+To test this Windows 8 activator, just play with the date and time settings by forwarding to 2014/15 and then restarting your laptop/desktop. But make sure internet is disable from resetting  your clock.
+Then see if there is anything wrong.  If there is any nag screen, then the OS is just out of trial period and you need to re-apply the fix.
+"
+,Gizmonoid,2013-01-13T19:51Z,Does it replace any system files? 
+,w4r3zh4ck,2013-01-13T22:25Z,"Hyperdrive25
+
+Have you ever used Microsoft Toolkit 2.4 ? Are you aware that it activates offline ms office 2010 and 2013 under windows 7 ? But you know WHY i like the M$ Toolkit ? Because there is the AutoKMS tool !!! AutoKMS is created as a scheduled task and runs on every reboot and activates the software hassle-free. Sorry but KMSNano still doesn't create a scheduled task for auto activation after reboot. Won't use until it supports this exact or similar solution."
+[T],Hyperdrive25,2013-01-14T18:35Z,"Those of you try KMS activator at your own risk.
+
+I used it once only for MS Office 10, and it installed a trojan into the memory, which was detected and quarantined by ESET.  Since then because of all the activation hassle by MSO 10, I removed it and installed a pre-cracked mod of MS Office enterprise. I might upload this hassle free version of office when I up my internet connection. 
+"
+[T],Hyperdrive25,2013-01-14T19:01Z,"Have a range of OS: from Windows XP SP3 - Vista - Windows 7. I even have Windows 95/98//ME and Windows NT as well as the freeware Linux based Ubuntu OS.
+
+So you can switch to any one of them if you have trouble with Windows 8. And don't worry it is not a big deal to downgrade from Windows 8 to Windows 7. If you are using 32bit Windows 8 Pro you can downgrade to 32 bit Windows 7 Pro.
+Your  Windows.old folder will countain your old OS and documents will be preserved. You just need to re-install the drivers and apps and you're set to go!
+"
+[T],Hyperdrive25,2013-01-14T19:03Z,"It helps to have 2 PC's. One laptop and one desktop. Have your desktop running Windows 7 and your laptop running Windows 8. 
+"
+[T],Hyperdrive25,2013-01-17T19:28Z,"@Arkenstone
+The KMSNANO activator does not activate MSOFFICE10/13, but resets the trial period to 180 days, after which you will have to reset it again. It is not a PERMANENT LIFETIME solution.
+Software companies are becoming really cautious about online piracy and so they are taking stringent methods to protect their software. In the long run I fear programs that will be virtually UNCRACKABLE or have MULTIPLE TRIGGERS that render the program useless.
+
+Only hope: Companies like OPEN OFFICE.
+
+http://www.openoffice.org/
+
+Referbished core2duo 3.0 GhzHP's cost 150 dollars. I also hear there are 150 Dollar laptops as well on the internet. 
+
+http://thetechjournal.com/electronics/laptop/buy-the-best-100-dollar-netbook-in-market.xhtml
+
+Refurbished HP Core2duo 2.6Ghz HP, DVD-RW, BLUETOOTH, WIFI, WEBCAM=255 dollars. 
+
+(In refurbished I mean sold as a re-seller. Computers that are recalled to HP, repaired and re-sold.) As you see not too expensive as far as desktops go. Slightly more expensive for laptops.  
+
+"
+[T],Hyperdrive25,2013-01-18T07:49Z,"
+@Arkenstone:
+I am quoting you ""it is common knowledge that a one-time activation via KMS (whether it be activating against an online server or a local, emulated server i.e. KMSnano) is for 6 MONTHS AT A TIME.""
+
+That sez it all (HAH HAH HAH!). Don't trip over your own shoelaces pal!
+
+Its seems you're just jealous of others. There are zillions of people on the internet, why don't you bug them. As for paying you... what sort of gullible idiot do you take me for? "
+,lamportyx,2013-01-18T11:18Z,Hacktivator that does not pass on Windows Update I was onced fooled by this crap hacktivator and now I realize that this is not good in activating Windows It really Disgusting that I have to fix this Hactivator by using the one that Arkenstone posted on my torrent!
+,ExtasyPlay,2013-01-19T17:10Z,"Why there are so many file in this activator??
+
+even HD TUNE !!!"
+,SheldorTheConqueror,2013-01-21T07:22Z,"Hyperdrive,
+Respectfully, you sound confused or misinformed.
+
+Further, claiming that software will become ""uncrackable"" is naive at best."
+[V],murphy78,2013-02-19T10:27Z,"Quote from Daz, the guy who made Windows Loader, the most successful activation hacktool in history:
+
+""I've seen a few developers that clearly don't have a clue what they're creating as they'll call their hacktivator a ""loader"". A loader is a type of boot loader, something that's run before Windows. So the only reason I can see them calling their software a loader is for it to try to get more attention due to the success of Windows Loader.
+
+There won't ever be a loader for Windows 8. Heck, there won't even be a permanent activator for Windows 8. There is, however, MS Toolkit which is the cleanest method, and it's almost permanent if you run it as a service.""
+
+source:
+http://forums.mydigitallife.info/threads/42916-Advanced-token-managaer-bakup-license
+
+Don't believe in permanent activators friends... they don't work. Just type ""SLMGR /DLV"" in command prompt and you'll find out exactly how permanent it is."
+,pleotoo,2013-03-27T02:28Z,that works for me...thanks :D

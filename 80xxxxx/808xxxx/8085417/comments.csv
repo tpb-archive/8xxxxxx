@@ -1,0 +1,68 @@
+﻿User Type,Username,Date,Text
+,designeran,2013-01-31T04:38Z,"Thanks, as it progresses,,"
+,vidyarathne,2013-01-31T04:47Z,This version is perfectly working for me ! +1
+,sxmen1234,2013-01-31T05:11Z,"thank you so much, I have a question is it possible  for you to make a windows 8 pro with this and office 2013 slipstream that activates every 30 days ?"
+[V],murphy78,2013-01-31T06:05Z,"It's definitely possible, but with pre-integrating something like office, there's too much that can go wrong. Everything can look perfect and still cause problems later because it doesn't use the exact install procedures that the setup program uses.
+
+To get the desired effect of what you are talking about, you can grab my pro vl jan2013 release, grab office proplus vl from Arkenstone:
+http://thepiratebay.sx/user/murphy78
+http://thepiratebay.sx/user/Arkenstone
+
+Then extract lafinalnanov19.1.zip to a directory from this release and edit RunTrigger.cmd
+change the mindays line to 151 and save it.
+Then Install pro vl, then office proplus vl, then run the RunTrigger.cmd
+
+Doing all that will get you the legit kms activation and re-activation every 30 days with no future problems from installing Office 2013 incorrectly."
+[V],murphy78,2013-01-31T06:08Z,"The TriggerKMS install that RunTrigger.cmd runs will correctly overwrite any trigger from my releases because it uses the same Scheduled Task name and forces install to overwrite, so If you are just wanting to have a more current version of kmsnano, it is 100% compatible."
+,heldigard,2013-01-31T06:15Z,"murphy78, it is possible, I already did the slipstream of the Office 2013 in  W8, if you want I can give you my version to you, but you will need translate in english both of them: W8 and Office, because I did it just for me and it is in spanish."
+,nikhilmalisetty,2013-01-31T06:48Z,Wonderful torrent dude
+[V],murphy78,2013-01-31T07:19Z,"Alright heldigard, if you think it's ok, I'll do it. If there's anyone I'd take advice from, it's you.
+
+This guy not only did this kmsnano program, but he also did a pretty awesome job on gdism, which is a graphical frontend to dism commands.  My scripting is a bit more involved, and I often like to just run it at night, so it's not usually what I would use for my releases, but it's not that it can't do those things, just not as you can do them with a long dism cmd-script.
+
+You can check that project of his out at:
+http://forums.mydigitallife.info/threads/22614-GDism-ELDI-v6-2
+
+Very cool.
+Anyway, I guess I'll look into the windows and office thingy since they make such a nice pair now that kmsnano is so awesome. Maybe i'll replace the pro vl with the non-working trigger..."
+[V],murphy78,2013-01-31T09:34Z,"I did up a lil script to automate the install on this thing.  You guys can check it out at:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page632?p=712393&viewfull=1#post712393
+
+I'm not gonna post the dl link here. It's really not necessary, just automates things a bit."
+,van62,2013-01-31T13:49Z,"Dear murphy78,i have windows 8 pro activated since November with KJ activator. I run the sfc/scannow and have corrected the changed windows files,so I tried to activate them with your KMS nano 19.1 and the older version but it is impossible and I always take error because of windows non core edition!!!!! Pls do you have any idea what to do to activate them with KMS nano??? Thanks"
+,brianxxx,2013-01-31T22:34Z,Thanks Murph for keeping this up to date here at TPB !
+,oscar_fdo,2013-02-01T04:42Z,https://thepiratebay.sx/torrent/8057951/Windows_8_Pro_VL_x64_Perm_Re-Activation_Jan2013 @Murphy Ur torrent is freaking awesome compare to other useless windows 8 torrents and activators.. this torrent working flawlessly on my dell notebook.. simply awesome thanks murphy pls keep release new torrents.. u r technically great man >>:)
+[V],murphy78,2013-02-01T06:34Z,"van62, I'm not 100% but you can try to run ""SLMGR /REARM"" note that it will cancel out any settings to your system's activation and restore the default grace period.  If you are still getting the non-core edition after that, try running a windows refresh. It's a new feature in Win8 that acts a lot like ""SFC /SCANNOW"", but it removes any user-settings as well. It's similar to the sysprep tool that oem integrators use if they do a sysprep /generalize.
+
+To run it, open charms bar with winkey+c then click the Search button. Type ""refresh"" in the box and click the settings button just below the box. On the very left you will see a ""Refresh your PC"" button and a ""Remove everything and re-install windows"" button.
+
+You can try starting with the refresh button, then if that doesn't work, try the re-install.
+Note that you will remove all your settings on refresh, and all programs in the re-install option.
+
+These should be considered last resorts, but sometimes bad hacks can leave you no choice.
+
+Note that if you are using ProWMC, it's different than normal Pro. Normal Pro can be activated with KMS, ProKMS cannot."
+[V],murphy78,2013-02-01T06:35Z,"ProWMC cannot* -- typo
+
+There's no such thing as ProKMS"
+,van62,2013-02-01T12:59Z,"Dear murphy78, thanks a lot for your help.Yes I am running windows 8 PRO with WMC, so the KMS nano does not work for me...
+OS Name	Microsoft Windows 8 Media Center Edition...this is what I have.
+Anyway thank you very much."
+[V],murphy78,2013-02-02T07:14Z,"Yep, sorry you wasted your time. I mentioned it in the description...
+Retail-Only Versions of windows that will *NOT* activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC"
+,Wahid.Ovi,2013-02-02T08:40Z,"Thanks murphy78 
+
+Does it Works on 64 bit (x64) OS..
+
+YOu should Give Some ScreenShots.."
+[V],murphy78,2013-02-02T10:25Z,"I am really starting to get annoyed at all the people that doubt my stuff. Half the time I write up a big long description. Half the time I post a ton of pictures of all the features, and I still get stupid-ass requests.
+
+Either download it or don't, I got more important things to do."
+[V],murphy78,2013-02-02T10:27Z,"van62, there is a way to downgrade from wmc to normal pro if you are particularly attached to your files. If not just get a better OS and re-install.
+
+You can search around on the MDL forums for proWMC to Pro downgrade info. I'm sorry I don't have the info offhand."
+[V],murphy78,2013-02-02T15:13Z,MS is starting to dmca bomb file hosting sites that are carrying this.
+,van62,2013-02-03T05:19Z,"Dear murphy78, ok I will see what I have to do to downgrade or reinstall... Thanks a lot for your time."

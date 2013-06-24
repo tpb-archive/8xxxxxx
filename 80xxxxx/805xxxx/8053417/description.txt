@@ -1,0 +1,19 @@
+This is a set of PSP tools & utilities which functions range from compression/decompression and ISO modification.
+
+The utilities included are the following:
+
+*UMDGen
+*CTFTool
+*Sky Tools - Console File Scanner
+*Puyo Tools
+*Quick BMS
+
+
+- UMDGen recognizes, extracts and gives detailed information about PSP ISOs;
+- CTFTool creates and converts themes for your PSP;
+- Console File Scanner recognizes and extracts binary files inside your ISOs;
+- Puyo Tools does a variety of tasks such as file compression/decompression and image encoding/decoding;
+- Quick BMS is an alternative to Console File Scanner which uses BMS protocls (a.k.a. MexScript) to recognize and extract binary files inside your ISOs.
+
+
+Cheers!

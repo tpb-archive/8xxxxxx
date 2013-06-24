@@ -1,0 +1,22 @@
+NBov v3 media player Firmware 03-05-2012, (3.05) and primary (3.00)
+
+
+Steps to Upgrade NBOX V3 Firmware:
+
+1. Unzip, copy app_APOLLO.img and amlboot into the root of USB Thumb Drive. Insert it into the V3 USB Port. (Please don't put those 2 files into any folder)
+
+2. Connect NBOX V3 with TV through AV cable (Red/Yellow/White). The system reset to the original configuration, so the use of other input results in no image after reboot, which can cause confusion.
+
+3. Go to Setup (the 7th option on the right side), then select Upgrade. The upgrade will start automatically and complete in 1-2 minutes.
+
+
+errors during the procedure, such as lack of energy, can seriously compromise your NBOX, I do not take responsibility for any damage caused, do it by your on risk.
+
+Changes:
+I never found an official list of changes, but by my experience:
+-better support to many codecs, expecialy MKV
+-special characters (á,é,í.. etc)
+
+
+
+Have fun

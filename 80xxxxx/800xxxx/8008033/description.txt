@@ -1,0 +1,43 @@
+This is a Ubuntu Server 12.04 LTS Virtual Box Image (http://VirtualBoxImages.com/GettingStarted)
+
+for using the open source content management system Contao-3.0.3 
+https://contao.org/en/ 
+https://de.wikipedia.org/wiki/Contao
+
+you can reach the Contao admin section over http://__VirtualMachineIpAddress__/contao/contao
+
+Ubuntu Server 12.04 LTS (login=ubuntu pw=reverse) 
+MySQL (login=root pw=reverse) 
+Contao (login=ubuntu pw=reverse ContaoInsallPW: contaoreverse)
+
+
+the Contao root folder is reachable over:
+
+SSH - ssh://ubuntu@__VirtualMachineIpAddress__/var/www/contao
+FTP - ftp://ubuntu@__VirtualMachineIpAddress__/var/www/contao
+SMB - smb://ubuntu@__VirtualMachineIpAddress__
+
+if you want to install extension for Contao  
+http://__VirtualMachineIpAddress__/contao/contao/main.php?do=repository_manager&install=extension
+
+you will find a list here 
+http://de.contaowiki.org/Kategorie:Extensions
+
+
+
+If you want to use Contao in your group/LAN, change the network mode to "Bridge Mode" here:  
+ 
+http://media.cdn.ubuntu-de.org/wiki/attachments/39/03/Bildschirmfoto_am_2012-01-18_220315.png
+
+If you have done this, you need to connect all services over localhost and the ports you chose in the VirtualBox config.
+
+i.e.:  
+http://127.0.0.1:8080
+ssh://127.0.0.1:2222  
+ftp://127.0.0.1:212
+
+Plz help seed
+
+- Peponi -	
+
+

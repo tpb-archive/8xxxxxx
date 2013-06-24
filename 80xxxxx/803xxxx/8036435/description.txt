@@ -1,0 +1,26 @@
+ConvertXtoDVD, video conversion software, you can convert and burn all your videos and convert Avi to DVD! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player. All in one conversion and burning software. This award-winning divx to dvd video converter software supports most video and audio formats for video conversion (avi, mpg, mov, wmv, mkv, ogm and more) and even handles DVD to DVD copy! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player.
+
+
+ConvertXtoDVD - 5.0.0.37 [ View Issues ] 
+==============================================
+- 0006283: [Bug] thumbnails not moving in chapter menu (cedric) - resolved.
+- 0006341: [Bug] 5.0.0.35 resize problems (cedric) - resolved.
+- 0006365: [Bug] Pad/crop user values always rounded up to the next multiple of 8 (cedric) - resolved.
+- 0006350: [Feature Request] make cxd 5 load faster (when launched) (cedric) - resolved.
+- 0006355: [Bug] b in exe file name no longer writes "beta" in installer (cedric) - resolved.
+- 0006364: [Suggestion] 2 pass encoding seems to give same video quality as one pass encoding (cedric) - resolved.
+- 0006361: [Bug] Enabling "Maximize bitrate" option gives bad video quality on output (cedric) - resolved.
+- 0006017: [Bug] Sounds Events do not play when I hit the Play Button in the settings. (cedric) - resolved.
+- 0006363: [Bug] Some ASS subtitle files (containing multiple styles) are not displayed/encoded (cedric) - resolved.
+- 0006344: [Information] pulldown in log when none used? (cedric) - resolved.
+- 0006346: [Feature Request] Log doesn't auto-scroll (cedric) - resolved.
+- 0006360: [Bug] srt subs work in v4 but not v5 (cedric) - resolved.
+- 0006359: [Bug] sound events do not play - path file not complete for sound events xp sp2 (cedric) - resolved.
+- 0006358: [Bug] subtitles do not display on output ass subtitles ( they do show in cxd preview) (cedric) - resolved.
+- 0006284: [Feature Request] add back "apply to all titlesets" as was in version 4 (felicia) - resolved.
+- 0006357: [Bug] theme not remembered (cedric) - resolved.
+- 0006320: [Bug] interface problems if user is in font view 125% medium (felicia) - resolved.
+- 0006296: [Feature Request] link vso batcher in action menu of cxd (felicia) - resolved.
+[18 issues]
+
+Home Page www.vso-software.fr

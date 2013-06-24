@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,keymakh,2013-03-26T23:12Z,"I keep getting this error when uploading files.
+
+Fatal error: UploadAutoloader::autoload() ['function.require']: Failed opening required '/shareit/app/vendor/Upload/../finfo.php' (include_path='.:/usr/local/lib/php:/usr/local/php5/lib/pear') in /shareit/app/vendor/Upload/Autoloader.php on line 75
+
+What's the problem?"

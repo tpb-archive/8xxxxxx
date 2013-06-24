@@ -1,0 +1,64 @@
+Donizetti's L'Elisir d'Amore - Met 2012
+ 
+http://www.pbs.org/wnet/gperf/episodes/gp-at-the-met-l%E2%80%99elisir-d%E2%80%99amore/about-the-opera/1465/
+
+January 2013 PBS HD broadcast of the Met's 2012 season opening opera.
+
+Hard English subtitles and a hard local station logo.
+
+Audio from the broadcast; broadcast MPEG compressed to AVC.
+
+
+TMI:
+General
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+Overall bit rate                 : 4 222 Kbps
+Movie name                       : Met - L'Elisir d'Amore 2012
+Encoded date                     : UTC 2013-01-21 13:25:13
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Bit rate                         : 3 818 Kbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.061
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 4ms
+Language                         : English
+
+Text
+ID                               : 3
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : TV closed-captioning
+Language                         : English

@@ -1,0 +1,122 @@
+﻿User Type,Username,Date,Text
+,riker92,2013-01-18T19:39Z,"What settings do we need to use in BatchMod?
+.
+.
+.
+Are you sure of that the correct place for ""Waveshell 9.2"" is the /Library/Audio/Components folder?
+
+On my system (10.8.2) my previous Waves install shows ""Waveshell 9.0."" in the following locations:
+
+LibraryAudioPlug-InsComponents
+LibraryAudioPlug-InsVST
+LibraryAudioPlug-InsVST3"
+,riker92,2013-01-18T19:42Z,"CORRECTION (I didn't know that TPB does some character substitution when you post a comment).
+
+What settings do we need to use in BatchMod?
+.
+.
+.
+Are you sure of that the correct place for ""Waveshell 9.2"" is the /Library/Audio/Components folder?
+
+On my system (10.8.2) my previous Waves install shows ""Waveshell 9.0."" in the following locations:
+
+/Library/Audio/Plug-Ins/Components
+/Library/Audio/Plug-Ins/VST
+/Library/Audio/Plug-Ins/VST3
+.
+."
+,geekmacdaddy,2013-01-19T15:32Z,"Yes. What settings on batch mod please?
+
+Thanks"
+,PinkestFloyd,2013-01-19T18:17Z,"If you are going to upload a torrent, how about providing proper documentation? Your instructions ""as is"" serve no purpose at all. The batch mod instructions you provide don't say what settings to use. And you don't have the right folders to copy shells over too. 
+
+On top of that, in mountain lion you can't even run the Waves Reg Utility to get the plugins into logic pro. 
+
+Either be helpful, or don't upload. What is the point? "
+,waves_user,2013-01-20T00:01Z,"If you are trying to troubleshoot visit
+http://audioz.info/audio-software/mac/49034-download_waves-all-plugins-bundle-v9r8-macosx-r2r.html"
+,Dr. Howard,2013-01-20T00:33Z,"These vague direction did work for me...
+1) I BatChmodded the entire Waves folder
+I used Root, Admin, checked Apply to enclosed folders, checked Change Ownership/Priv, & unlock
+2) I copied each plugin to is correct location (au, dpm, vst, vst3)
+3)And, then I ran the Waves AU Reg Utility, in the Waves->Waveshells folder
+
+Hope this helps!!!"
+,Dr. Howard,2013-01-20T00:42Z,"To Clarify, the plug-ins I copied are the ones in the Waveshells folder ONLY!"
+,PinkestFloyd,2013-01-20T07:00Z,"@Dr. Howard
+
+THANK YOU! That worked perfectly! I can follow directions when I have them : )   lol
+
+You the man!"
+,zarquonp,2013-01-21T23:00Z,"Worked for me. It works in DP7 & Snow Leopard.
+Thx to the seeder"
+,Vader_1,2013-01-26T22:06Z,"You dont need to Copy Anything just run the Batchmod on The Application/Waves Folder and then once done, go into waves/waveshell folder run ""Waves AU Reg Utility 9.2.app"" and Boom! She's all good! 
+You have to run the batchmod to change permissions on the au reg tool, or else it doesn't run! Copying Anything else after seemed irrelevant once the reg tool was working :P "
+,frankdatanktx,2013-01-27T07:58Z,just make sure you check lil box thing in batchmod change ownership and privileges/unlock/ apply to enclosed folders and files..... you dont have to copy nothing 
+,jwr24,2013-01-29T00:04Z,still having trouble after following the instructions --- when i run Waves AU Reg Utility 9.2.app i'm still getting a message that says it can't find the Waveshell 9.2 component file in the component folder. i copied and pasted the Waveshell 9.2 component file into library/audio/plug-ins/components and i STILL get that message. can anyone help??
+,jwr24,2013-01-29T00:10Z,"could it be something wrong with my batchmod settings? all the r w x boxes have checks in them by default. the owner is ""root,"" the group is ""admin,"" then i checked ""change ownership and privileges,"" ""unlock,"" and ""apply to enclosed folders and files,"" which is what i thought was correct"
+,jwr24,2013-01-29T00:14Z,ok now i dont see my comments on this thread anymore what gives
+,jwr24,2013-01-29T00:17Z,fuckin a they're back....i'm frustrated obviously...any help would be greatly appreciated!!
+,seebee46,2013-02-02T06:42Z,Works great in Mountain Lion with ProTools 10 and Logic Pro 9. I just had to move the Waveshell AU 9.2 component from the Library>Audio>Plungins>AU Folder to the Library>Audio>Plugins>Components  folder. Then the Waves AU Reg Utility worked. Also if you have a version of Waves 8 and Protools 10 when Protools loads it will ask to locate a Waves 8 plugin folder. Cancel then it will ask to locate a Waves 9 folder. Locate and it's all gravy.
+,midi13,2013-02-05T05:29Z,"So I followed the steps seen here:
+
+downloaded, ran BatChmod, clicked the Waves folder, clicked root, admin, change ownership, unlock, apply to enclosed folders, clicked apply.
+
+Now all the files that were in the Waves folder turned into r2r-0564.r00 and so on. Their icon was a Terminal icon. Do I select these and drag them somewhere? Clicking on them doesn't help. I've deleted the files from Library/Audio/Plugins/Components. Now what?"
+,omoolomo,2013-02-06T01:43Z,Thanks LiquidError.. Works great!!
+,Laucha84,2013-02-20T01:08Z,"Ok, I've done this and worked:
+
+BatChMod all the waves folder (aplications--> waves) with owner root (R W X) group admin (R    X) and everyone (R    X). Checkbox on ""change owner and permissions"", checkbox on ""apply on subfolders and files"", and GO (for some reason, I couldn't check the ""unlock""... no prob, read for more).
+
+Then moved the Waveshell AU 9.2 component from the Library>Audio>Plungins>AU Folder to the Library>Audio>Plugins>Components folder (just like @seebee46 said). Password prompt will popup to validate the operation. At this point, I'm not sure this step is significant...
+
+The last thing, since the ""Waves AU Reg Utility 9.2"" won't open cause it were locked, is to making it unlock by entering the ""more info"" right-click menu (or click the file then command+i ). Then down to the right is the lock icon. When clicked, another password prompt will certify the operation.
+
+
+Run the utilty, witch asked me for the plugins folder (applications/waves/waves plug-ins) and DONE. Confirmation of the counting of your new 135 plugins will come, and your happiness for saving thousands of dollars will let you eat pie and buy more food for your cat :)"
+,dolodolo,2013-02-22T19:09Z,"Please help
+do i have to batchmod the 17 RaR FILE OR DO I HAVE TO EXTRACT THE PKG FiRST AND BATCHMOD That file, please im confused,
+please send me an email or comment,
+dolodolo856@gmail.com,"
+,Okenrailrop,2013-02-25T14:55Z,"When I open Logic, it scans the new plug ins and then says ""Logic Pro will now test 383 audio unit plugins to maximize system stability...etc"", then I hit okay and it says ""API does not have a license. Please check that you have a valid license, then click 'Rescan Licenses'""
+
+How do I get them authorized? Did I screw something up while moving the folders around? "
+,Smoothbassman,2013-03-13T14:42Z,"Ok here is a walkthrough of exactly what you need to do to install this software on Mountain Lion OS 10.8.2
+
+Make sure you download BatChmod before starting this walkthrough as well as a Rar file extractor that is highlighted in step one.
+
+Step 1
+Download a Rar Extractor to extract your files, I use UnRarX 2.2 but the choice is yours, there are plenty of offerings out there.
+
+http://unrarx.en.softonic.com/mac/download#downloading
+
+Load the r2r-0564.rar file into the Rar extractor and it should combine all of the files for you and create a package file
+Waves All Plugins Bundle v9r8.pkg
+
+Step 2
+Run the Waves All Plugins Bundle pkg file.  Everything should install into your Applications Folder
+
+Step 3
+Run the BatChmod Application
+Select the entire Waves folder to unlock.  (Applications/Waves)
+
+Choose Owner Root ( R W X), group Admin(R W X), and Everyone (R W X)  Checkbox on ""change owner and permissions"", Checkbox on ""apply on subfolders and files,""
+
+Step 4
+Copy the WaveShell-AU 9.2.component file from from the Applications/Waves/Waveshells folder to the Library/Audio/Plugins/Components folder.  You might be prompted for a password to do this.
+
+Step 5 
+Copy the remainder of the plugins for VST and VST3 from the Applications/Waveshells into the respective folders on your hard disk.  (Library/Audio/Plugins/***********)
+
+Step 6
+Run the Waves AU Reg Utility 9.2 and select the Applications/Waves/Waves Plug-Ins Folder
+
+You should get confirmation that 135 plugins have been installed.
+"
+,Smoothbassman,2013-03-14T12:06Z,"Fully Tested on Pro Tools 10.  All Plug-Ins work if you followed all of the steps above.
+
+When asked to select the plug in folder select the folder that is located in: Applications/Waves/Waves Plug ins to link up the plug ins with the WaveShell application for RTAS applications.
+
+AU and VST plug ins are already authorized from the steps outlined above."
+,Jambo922,2013-04-05T17:15Z,"@Jwr24, did u find out about your problem with the au registry tool not finding the component in the component folder when u have it in there ? any thoughts guys? have done everything right but it wont find the component even if i copy it manually from the original file to components etc,thanks!"
+,ivonna24,2013-06-03T07:46Z,Does this version have the SSL 4000 Collection? I downloaded the previous version last week v8r3 and it had it.

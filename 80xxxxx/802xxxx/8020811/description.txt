@@ -1,0 +1,41 @@
+Movies : Drama : VHS Rip : English, 69mins, complete, very hard to find.
+Please Note: fair-low good condition.
+This is a redo of my torrent to reduce file size, new format mkv.
+
+For the fan who has not seen it.
+
+Junior Army - 1942
+
+Featuring Billy Halop & Freddie Bartholomew, w/ Huntz Hall & Bobby Jordan. A young Peter Lawford also.
+  
+http://www.imdb.com/title/tt0036061/
+
+Huntz plays a very different type character, dangerous even, oh Glimpy! ;)
+
+[20:20:56] starting job
+[20:20:56] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[20:20:56] job configuration:
+[20:20:56]  * source
+[20:20:56]    + E:Junior Army
+[20:20:56]    + title 1, chapter(s) 1 to 1
+[20:20:56]  * destination
+[20:20:56]    + C:Documents and SettingsDead End KidsMy DocumentsJunior Army.mkv
+[20:20:56]    + container: Matroska (.mkv)
+[20:20:56]      + chapter markers
+[20:20:56]  * video track
+[20:20:56]    + decoder: mpeg2
+[20:20:56]      + bitrate 8000 kbps
+[20:20:56]    + frame rate: same as source (around 23.976 fps)
+[20:20:56]    + strict anamorphic
+[20:20:56]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[20:20:56]      + pixel aspect ratio: 8 / 9
+[20:20:56]      + display dimensions: 640 * 480
+[20:20:56]    + encoder: x264
+[20:20:56]      + options: ref=2:bframes=2:me=umh
+[20:20:56]      + bitrate: 396 kbps, pass: 2
+[20:20:56]  * audio track 0
+[20:20:56]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[20:20:56]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[20:20:56]    + mixdown: Stereo
+[20:20:56]    + encoder: faac
+[20:20:56]      + bitrate: 160 kbps, samplerate: 48000 Hz

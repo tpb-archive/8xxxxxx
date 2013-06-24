@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,aposhig,2013-01-25T22:31Z,"Sir,Please Upload Atomic Email Hunter version 8 or higher please,I Would Greatly Appreciate It!"
+,lolipopus,2013-01-26T23:51Z,Thanks alot!
+,altoiddealer,2013-01-30T05:21Z,Hoping this fixes the start-up crash issue that I experienced with the previous version.  Thanks Ching! You are AWESOME.
+,altoiddealer,2013-01-31T05:23Z,"Well, I'm still experiencing the same issue... however I'm finding a correlation.  Powerdirector is crashing on me ONLY when I'm connected to the internet.
+
+I followed the steps verbatim for installation:
+-Turned internet OFF
+-Installed program
+-Ran program, skipped registration (checked ever remind me)
+-Installed update
+-Ran program again, disabled automatic updates
+-Blocked PDR11.exe in my Firewall
+
+At this point I opened a few projects and was pleased that it was no longer crashing after 30 seconds.  However once I turned the internet back on it... crashed after about 30 seconds! I the went back and forth, turning the internet on/off, and I'm concluding that it is definitely the root of the issue."
+,danno27,2013-02-01T19:26Z,Is this available for 32bit sys ?
+,tpirates,2013-02-04T00:19Z,"@altoiddealer. You have to uninstall your PowerDirector and delete every registry key associated with it. In other words you must clean
+off every Powerdirector path from your regedit.
+
+I had the same problem as you with this one when I was connected to the Internet. My window will say Powerdirector has stopped working and it will shut off completely. But now that I have cleaned my registry, my PD11 has never let me down literally when connected or offline on the internet. I think it has something to do with the version before this one... "
+,tpirates,2013-02-04T00:29Z,"Note the following steps if you experience crash: 1)Uninstall any version of PowerDirector. 
+
+2)Restart your computer.
+
+3)Go to run, type Regedit, and delete each and every file associated with PowerDirector (use find from the window and type Powerdirector). If you find a file which your not sure whether it's an associate of the program then the best option is to leave it alone and skip over it. 
+
+4) Once your done deleting all this then go back to Ching Liu torrent and install PD11. It should stop crashing whether your on the internet or offline.
+
+This is how I got it to stop. I also acknowledge that this may not be the resolution for any other computer. Im using Windows 8 64 bit so yeah.  "
+,altoiddealer,2013-02-10T03:08Z,"What I said is that:
+-I experienced the crashing issue with a clean installation of the previous version of PD, on my last computer.
+-Since then I built a brand new computer with all new parts and installed this version, and experienced the exact same crashing issue.
+-The only common factor is that I am running Windows 7 SP1 x64 which I updated completely before installation. Its the disc image uploaded by thethingy, patched with Loader by Daz"
+,tpirates,2013-02-10T23:58Z,"what a waste of time trying to help this ungreatful altosaxophone guy.
+
+-No comment of yours has said anything about you building a new computer until your last moment of ungreatfulness. 
+
+-I was letting you know that I had the same issue with my desktop and likewise had solved the problem using the method which I stated.
+
+-Other than the problem before you lied about building a new computer, there is no common factor. If your system was Windows 7 SP1 prior to updating then there must be components inside your tower (such as motherboard & etc.) that are still congruent to that Windows Version. Now, I assume that your processor is an i7, however, im also aware that many Windows 7 model computers are infact i5 core processors. If for any reason your computer is this then that can also be an issue.
+
+But anyways im done trying to help your ungreatful miserable @$$. Have a good day with your instant replay of your 'windows shut down powerdirector.' Lol it seems like your the only person with this problem now since no one else is saying anything about it."
+,AtomskThePirate,2013-02-11T21:10Z,"I keep getting an error with this version and all the others I try.  
+
+The error reads ""The process cannot continue because the (Microsoft Visual C++ 2008 Redisputable Package SP1(x64)) install was unsuccessful. Please contact Microsoft technical support for assistance. The installation will now abort.""
+
+Any clues on what to do? Cuz I'm lost."
+,altoiddealer,2013-02-13T02:56Z,"@tpirates My appologies.  I made the comment that I am referring to in the previous version's torrent http://thepiratebay.sx/torrent/7968508/CyberLink_PowerDirector_11_Ultra_11.0.0.2418_Multilingual_[Ching
+
+I appreciate your help, I'm sorry to sound ungrateful"
+,commandowolf,2013-02-15T14:06Z,Hi i am not able to install the update! Pls help me! Cannot open C:Users***DocumentsμTorrentCyberLink PowerDirector 11 Ultra 11.0.0.2516 Multilingual [ChingLiu]UpdateCL.2516_GM4.5_Patc_VDE130107-01.exe
+,johnnyjrocks,2013-02-21T02:14Z,"hey ching liu i need som assistance with a software but i dont know how to contact u, can u send me an email address if thats ok to johnnyjrocks@hotmail.com"
+,maynorfolk,2013-03-11T03:20Z,"Brilliant upload, thanx :)"
+,Tony2Much,2013-03-23T21:40Z,Running Win 7 Ultimate x64 flawless install and patch install. Followed instruction's thnx Ching_Liu

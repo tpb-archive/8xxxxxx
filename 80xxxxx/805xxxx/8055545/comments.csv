@@ -1,0 +1,115 @@
+﻿User Type,Username,Date,Text
+,yoshinatsu,2013-01-24T08:58Z,"Rip Log:
+
+X Lossless Decoder version 20121222 (142.2)
+
+XLD extraction logfile from 2013-01-22 18:33:23 +0200
+
+Helloween / Straight Out Of Hell
+
+Used drive : OPTIARC DVD RW AD-5670S (revision 2AHH)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : YES
+Read offset correction  : 48
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector
+    ---------------------------------------------------------
+        1  | 00:00:00 | 07:03:20 |         0    |    31744
+        2  | 07:03:20 | 04:58:11 |     31745    |    54105
+        3  | 12:01:31 | 03:11:44 |     54106    |    68474
+        4  | 15:13:00 | 04:43:72 |     68475    |    89771
+        5  | 19:56:72 | 05:35:18 |     89772    |   114914
+        6  | 25:32:15 | 03:55:13 |    114915    |   132552
+        7  | 29:27:28 | 05:12:09 |    132553    |   155961
+        8  | 34:39:37 | 02:02:24 |    155962    |   165135
+        9  | 36:41:61 | 04:35:36 |    165136    |   185796
+       10  | 41:17:22 | 04:11:07 |    185797    |   204628
+       11  | 45:28:29 | 04:24:36 |    204629    |   224464
+       12  | 49:52:65 | 04:24:58 |    224465    |   244322
+       13  | 54:17:48 | 06:09:65 |    244323    |   272062
+       14  | 60:27:38 | 05:13:04 |    272063    |   295541
+       15  | 65:40:42 | 05:34:13 |    295542    |   320604
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/Yoshinatsu/Desktop/01 Nabataea.flac
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 6D0AF33A
+    CRC32 hash (skip zero)   : 4E96267C
+    AccurateRip v1 signature : 17E1FCE9
+    AccurateRip v2 signature : 7DB99C8E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/Yoshinatsu/Desktop/02 World Of War.flac
+    Pre-gap length : 00:00:51
+
+    CRC32 hash               : 7D5FA5D1
+    CRC32 hash (skip zero)   : 5C5E4D77
+    AccurateRip v1 signature : 2F0E7C04
+    AccurateRip v2 signature : 41A1EBAE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/Yoshinatsu/Desktop/03 Live Now.flac
+    Pre-gap length : 00:01:49
+
+    CRC32 hash               : 6E7E027C
+    CRC32 hash (skip zero)   : 2E65CD58
+    AccurateRip v1 signature : C6BC3E0D
+    AccurateRip v2 signature : 8B531DF3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/Yoshinatsu/Desktop/04 Far From The Stars.flac
+    Pre-gap length : 00:00:48
+
+    CRC32 hash               : A7614008
+    CRC32 hash (skip zero)   : E98A12F4
+    AccurateRip v1 signature : ABC65722
+    AccurateRip v2 signature : 2963AC15
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/Yoshinatsu/Desktop/05 Burning Sun.flac
+    Pre-gap length : 00:01:49
+
+    CRC32 hash               : FAC2B394
+    CRC32 hash (skip zero)   : FECF9875
+    AccurateRip v1 "

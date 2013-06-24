@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,LuxLOL,2013-01-23T07:29Z,"(o) 2013.1.22 Changelog:
+
+* Added all the latest Windows XP Service Pack 3 Updates from 12.12.2012 till 14.1.2013.
+* Added a new WinXP_BE ""Read Me"" file.
+* Added a new WinXP_BE ""Options Selector"" menu.
+* Added Microsoft .NET Framework v1.1SP1, v2.0SP2, v3.0SP2 v3.5SP1, v4.
+* Removed WLAN Drivers because with .NET Frameworks it exceeds the 700 MB (CD-ROM) limit.
+* Changed Windows Genuine Advantage Validation Crack from ""Setup"" to ""Slipstreamed"".
+* Updated SumatraPDF from ""v2.1.1"" to ""v2.2.1"".
+* Updated K-Lite Mega Codec Pack from ""v9.6.0"" to ""v9.7.0"".
+* Updated Flash Player ActiveX Control from ""v11.5.502.135"" to ""v11.5.502.146"".
+* Updated Java SE Runtime Environment (JRE) from ""v7 Update 10"" to ""v9 Update 11"".
+* Updated Microsoft Visual C++ 2010 SP1 Runtime Libraries from ""v10.0.40219.414"" to ""v10.0.40219.434"".
+* Updated Tweak ""Suppressing Microsoft Update nagging to install Windows Malicious Software Removal Tool (KB890830)"" from ""v4.15"" to ""v4.16""."
+,corpsegrinding,2013-01-23T20:56Z,"i would like to ask you, if I download this and burn it to a disk, am I going to need to also download the drivers im going to need for my wifi and audio and burn those to a disk, because last time I downloaded an os from this site and installed it, all my drivers and utilities poof, disappeared."
+,LuxLOL,2013-01-23T22:54Z,You should always BACKUP your files and downalod the up-to-date drivers befour doing a new installation.
+,stingrayopp,2013-01-24T06:53Z,"dear LuxLOL brother, we do honestly & really appreciate your great stuff work of windows xp . Well, in the previous version I had downloaded & written on bootable Cd according to your instructions, but strangely, I did not get important set up option "" Windows Xp Recovery Console"" ?! Hadn't you integrated this useful option on windows xp black edition or did you repair this option in this current version of your Black edition ?! Anyway , many thanks again for your excellent updated windows xp black edition .     "
+,LuxLOL,2013-01-24T07:51Z,All original WinXP_BE versions have the Recovery Console and the Prompt Repair option. ;-)
+,TheSsagarBedi,2013-01-27T06:21Z,"LuxLOL I'm Big Fan Of Your Work Since v.4.12 May Be But Why u Don't Include .NetFrameworks
+
+AnyWay ThX Good Work KeepItUp ♥"
+,LuxLOL,2013-01-27T17:37Z,This one has .NET Frameworks included the previous once hadn't because of an Miscrosoft bug that could cause some .NET Frameworks update problems.
+,patski99,2013-01-28T19:27Z,You're the best!  Tanx....
+,canukhed,2013-01-29T19:02Z,"Excellent as always.  Thank you for this, it is great for my older 32-bit PC's.
+
+What is a comparable 64 bit version of XP Pro SP3 with similar additions/fixes and updates?"
+,sdfbjklu,2013-01-30T04:50Z,"Thanks LuxLOL, I've used the black edition from you with success before, but am now having an issue. During the install after I format my hdd and setup copys the files setup prompts for a restart.  After the machine restarts however, setup does not resume it begins all over again.  The older copies of black edition that you posted never did this, any ideas why I am having this issue? Thanks"
+,LuxLOL,2013-01-30T07:34Z,"You might double check your BIOS boot priority setting. Make sure that the HDD that you are installing Windows XP to is listed as the second boot device after the CD/DVD drive. If you only have the CD/DVD drive listed, then that would cause it to only boot from the CD/DVD like that."
+,Ryall,2013-01-31T11:45Z,Thank you LuxLOL
+,ss010991,2013-02-01T07:45Z,how do i open this .22 file??
+,LuxLOL,2013-02-01T10:14Z,"There is no .22 file only ONE ""*.zip"" file that you can open with a File Archiver like 7-Zip or your build-in Windows Zip File Archiver."
+,LuxLOL,2013-02-01T14:25Z,"New version Patched version:
+http://thepiratebay.sx/torrent/8091223/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.1.31
+
+Standalone Patch:
+http://www.zone54.com/file-repository/viewdownload/18-patches/109-winxp-32-bit-be-v2013122-patch-v10"
+,ahkilinc,2013-02-12T10:36Z,"Great work. Been a fan since 2010 and you've saved me hundreds of hours of time with your slip-streamed updates.
+
+One question, why haven't you switched to .NET 4.5 yet?
+
+http://www.wincert.net/forum/topic/10480-slim-net-framework-45-full-x86x64-1-08-2013/"
+,dragon070809,2013-02-22T09:46Z,"Kudos man, thanks, will be installing later :D"

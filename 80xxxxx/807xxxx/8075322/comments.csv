@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,sebolito,2013-01-29T13:05Z,dont work on mountain lion
+,Xertio,2013-01-29T23:20Z,"@sebolito, to fix this. 
+rightclick on the game -> 
+Show package content -> 
+Wineskin -> 
+Advanced -> 
+Options -> 
+and the check the box that says 
+""force use of system istalled XQuarts instead of WineskinX11"""
+,patwik,2013-01-31T01:27Z,"Xertio, followed your instructions and still didnt work"
+,ryballs,2013-01-31T09:19Z,I'm on mountain lion and it works fine..
+,alawymashakel,2013-01-31T19:02Z,sorry but there are about 100 errors during unarchiving
+,sebolito,2013-02-01T14:20Z,"doesnt work with XQuarts also... :( im in mountain lion, AMD Radeon 512mb, i5."
+,alawymashakel,2013-02-01T23:50Z,workiiiiiiiiiiiiiiiiiiiiiiiing 
+,sebolito,2013-02-02T00:56Z,"Xertio, send u the crash report. Maybe u can help me. thanks! http://www.alfinaldelaescalera.com/files/backtrace.txt"
+,Craigface3696,2013-02-13T11:28Z,"I'm running Lion 10.7.5, and when i open it the icon just bounces continuously, and then does nothing."
+,semone.aziz,2013-03-06T02:59Z,SEEDS PLEASE!
+,shelleyq,2013-04-01T03:36Z,"I have a mac and everytime i try and open it, it says it has a serious problem and closes!!! please help"
+,HR1954,2013-05-20T03:56Z,This torrent is as worthless as the tits on a borehog!! DOES NOT WORK Suggestion:Download windows version and wrap it in wineskin yourself!
+,aragornlam,2013-05-26T10:07Z,"this is why you guys have the x11 problem on MLion:
+
+http://support.apple.com/kb/ht5293
+
+Just go http://xquartz.macosforge.org/ and install xquartz ;)"

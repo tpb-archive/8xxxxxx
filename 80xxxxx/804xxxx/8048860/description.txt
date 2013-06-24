@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Comedy : DVD Rip : English, 8mins 55secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1932 His Honor - Penrod
+
+The 5th entry in the series.
+  
+http://www.imdb.com/title/tt0439202/fullcredits#cast
+
+[15:16:53] starting job
+[15:16:53] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[15:16:53] job configuration:
+[15:16:53]  * source
+[15:16:53]    + C:Penrod & Sam
+[15:16:53]    + title 5, chapter(s) 1 to 2
+[15:16:53]  * destination
+[15:16:53]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam 1932 His Honor - Penrod.mkv
+[15:16:53]    + container: Matroska (.mkv)
+[15:16:53]      + chapter markers
+[15:16:53]  * video track
+[15:16:53]    + decoder: mpeg2
+[15:16:53]      + bitrate 9558 kbps
+[15:16:53]    + frame rate: same as source (around 29.970 fps)
+[15:16:53]    + strict anamorphic
+[15:16:53]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[15:16:53]      + pixel aspect ratio: 10 / 11
+[15:16:53]      + display dimensions: 638 * 480
+[15:16:53]    + encoder: x264
+[15:16:53]      + options: ref=2:bframes=2:me=umh
+[15:16:53]      + bitrate: 400 kbps, pass: 2
+[15:16:53]  * audio track 0
+[15:16:53]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[15:16:53]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[15:16:53]    + mixdown: Stereo
+[15:16:53]    + encoder: faac
+[15:16:53]      + bitrate: 160 kbps, samplerate: 48000 Hz

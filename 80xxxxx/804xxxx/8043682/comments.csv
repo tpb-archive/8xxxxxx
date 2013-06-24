@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,Ranger629,2013-01-20T16:31Z,"Thanks for the upload mate. Cheers
+
+Um, is it possible for you to seed for this torrent mate? http://thepiratebay.sx/torrent/6119693/Cyber_Update_Jan.2011-------WP-11915__IsisLove_EmmaHaize it seems that I'm stuck. Thank you"
+,Serenifly,2013-01-20T16:40Z,"@Ranger
+There seems to be some bug with BT that sometimes for some reason when you re-check a file it only verifies to 99% even though the entire file is present. If there are seeds you will re-download those parts for no reason, but if you are the only one seeding it won't complete.
+
+There may be a re-upload of that one soon"
+,Serenifly,2013-01-20T16:56Z,"Ok, I did some research and I may have found the reason for this. If you look at the Info tab in BT, you'll see that the pictures come first in the list of chunks. It's possible that one chunk contains part of the last picture and the video file. So if someone only seeds the video, it can never be fully uploaded because part of that chunk is missing. 
+
+This seems to be a design flaw in BitTorrent. Combining multiple files into several chunks is good for many small files, but a smaller chunk size would be a better solution.
+
+I also read that it's possible to accidentally include the Windows thumbnail file in the sharing folder. In that case the hash check can fail too."
+,fbird55,2013-01-21T09:49Z,Thanks!

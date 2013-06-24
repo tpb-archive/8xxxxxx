@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,Eagle1011,2013-02-03T11:11Z,"Can't find the Swedish subtitles, seems like they have been removed? Sugestions"
+[V],HighCode,2013-02-03T11:32Z,"@Eagle1011
+Lol, they didn't like them all in one pack so they splited them so you need to download them separately. 
+The links are those blue numbers
+""Subtitles was splitted to - 4785930 - 4785931 - 4785932 - 4785933 - 4785934 - 4785935 - 4785936 - 4785937 - 4785938 - 4785939 - 4785940 - 4785941 - 4785942 - 4785943 - 4785944 - 4785945 - 4785946 - 4785947 - 4785948 - 4785949 - 4785950 - 4785951 - 4785952 - 4785953"" I tried to make it easier but some admins don't like it when it is too easy for us."
+,CapnShiner,2013-02-17T08:15Z,"This needs more seeders. At the current rate my uTorrent estimates the ETA at 43 weeks 3 days. Seed, people, seed!"
+[V],HighCode,2013-02-18T13:57Z,"@CapnShiner
+You're very welcome. Can you make a snap shot of your client showing your ratio? Not?, then stop wining."
+,CapnShiner,2013-02-21T11:51Z,"Thank you for sharing this, HighCode. I dind't mean to sound ungrateful. Here's a screenshot: http://imageshack.us/photo/my-images/163/screenshotkjr.png/ I have no limits set on my upload at all. I'm uploading at over 300kbps but only downloading at about 3kbps. For brief moments at a time, I'll get over 100kbps but it doesn't last long. I think I am justified in whining if I want to."
+[V],HighCode,2013-02-26T08:25Z,"@CapnShiner
+very bad picture, 
+chicky of you not showing the 'Ratio' and 'Upoaded' columns.
+You closed all other torrents when you made the screen, you want me to believe that all that time you had only this torrent active? lol
+To get the max dl speed you limit the general upload speed to 90% of your band. So if your internet is 500 KBps (upload) set limit to 450 KBps then you'll get surely more then 200 KB/s dl. Part-seeding from 2 seedboxes and initial -seeding from home:
+http://imgbox.com/g/IMYoGKaH6n
+Why don't those guys comment who dl with over 1 MB/s?
+One server already seeded over 30 ratio, the other over 40 ratio then deleted the pack. But seeding just 6 movies right now."
+[V],HighCode,2013-02-26T08:33Z,Besides your ratio share is 1.1 (61GB/62GB) so don't  come with the 3KBps dl/ 300 KBps ul bullshit story. pathetic.
+,CapnShiner,2013-02-26T10:20Z,"@HighCode
+Again, I have no restrictions on my upload. My story is not bullshit and I uploaded a screenshot to prove it. I don't know what my ratio really has to do with it anyway, considering that it has been consistently over 1, which means I have been uploading at least as much as I have been downloading and am definitely not leeching. My ratio is up to 1.533 now, if that makes any difference. Most likely, that is because I'm still downloading and am at about 81% complete now. uTorrent shows average speeds at 149.5kbps down and 229.2kbps up. The swarm has improved. But, because of your accusations against me, I probably won't bother to keep seeding for more than a day after my download finishes. That's really a shame. I'm grateful that you shared the videos with everyone but you're a dick and I will be avoiding your torrents going forward."
+,CapnShiner,2013-02-26T10:34Z,"@HighCode
+The screenshot shows every bit of information. What columns are you talking about? I cannot find any other columns or any setting to show additional columns. This is the only torrent I have running right now. I do most of my torrenting on another computer but it didn't have enough hard drive space for this. Currently, there are no torrents active on my other computer either. Not only do I want this one to download as fast as possible but there isn't anything else I want to download right now. "
+,CapnShiner,2013-02-26T10:45Z,"@HighCode
+I almost forgot...you obviously don't know what the hell you're talking about if you think that limiting my upload speed will have any effect on my download speed. I am using a residential internet connection through a cable provider. The ISP caps the download and upload speeds and they use different channels, so one will never affect the other. My download is capped at 25Mbps and my upload is capped at 5Mbps by my ISP. I think they throttle the connection if I go over 250Gb in a month but I doubt I've reached that limit."
+[V],HighCode,2013-02-26T16:02Z,"""Again, I have no restrictions on my upload. My story is not bullshit and I uploaded a screenshot to prove it.""
+
+I said you should limit the upload speed, in utorrent Bandwidth/Max Upload rate...
+And learn to make proper screenshot because one can't see what's on that picture, I had to download and zoom it to see vaguely some detail.
+And yes, it proved that you had 1.1 ratio which is good but not so generous, there are folks (Nordic, ROM, NED, RUS etc)  who are well over 2.0 ratio. That's the whole point. 
+Secondly we're on open tracker here and your wining won't improve the speed because nobody gives a damn, most people do H&R. Right now the client shows 79 completed but only 19 seeders. You wanted a 136 GB torrent then be patient.
+Since I proved you that others download with over 1 MB/s your comments are irrelevant.
+Also you can see in your peer list under ""Peer dl."" column the dl speed of those peers."
+,Diegotimmy,2013-03-14T15:42Z,"Thanks for this upload!
+
+A question, perhaps more a general one.
+
+Why is it the case that when ripping these discs, only the dts core is being ripped?
+
+For those of us who enjoy full quality downloads, would it be an idea also to include the original audio?"
+[V],HighCode,2013-03-17T01:24Z,"@Diegotimmy
+DTS 768 are about 700 MB.
+DTS-HD are about 2.5 GB. so 1.8 GB bigger.
+""would it be an idea also to include the original audio?""
+R: I don't think so. 1.8 GB * 25= 45 GB
+I don't think folks would be happy if the torrent would be 180 GB, then how much sound quality would it gain?  Have you ever tested on your system switching between 2 tracks: DTS 768 & DTS-HD?"
+,Diegotimmy,2013-03-19T16:04Z,"@HighCode
+
+Yes, there is a considerable difference, even between a core DTS track of 1.5 and DTS-HD audio.
+
+These are ripped at approx half what a standard DTS track would have in bitrate, kind of negating the point of having a HD capable AVR.
+
+Perhaps it would be an idea to also provide a version with the DTS HD/MA audio in English only then?
+
+Its a bit of a blow for me to have full quality HD picture, but not audio.
+
+Don't get me wrong, I am grateful for your upload."
+,asmodeus130,2013-03-29T21:56Z,"1.5 years left to download and no sign of speeding up? What's the fucking point? May as well just get the YIFY ones, this torrent is fucked by lack of seeding"
+,asmodeus130,2013-03-29T21:57Z,"Oooh wait, I'm down to 5 months now!!!11"
+[V],HighCode,2013-04-05T14:18Z,"@Diegotimmy
+No problem, download other torrent(s) or buy the BD-s, problem solved. Nobody forces you to download it. Seeing the number of peers it seems many are happy with this as it is.
+
+@asmodeus130
+Can you post a screen showing your ""Ratio"" and ""Downloaded"" and ""Uploaded"" columns in your bittorrent-client? 
+Oooh wait, some folks download with preatty nice speed   http://imgbox.com/g/IMYoGKaH6n
+ explain it to me how is that possible?
+Complaining about speed at a 136 GB torrent on open trackers is just pointless and stupid. "
+[V],HighCode,2013-04-05T14:40Z,"Stargate Atlantis Complete BDRip 720p HighCode-PHD is much bigger (195.54 GiB) and nobody complained so far, even though they download at lower speed according to ""Peer dl."" column, connected to 40 peers.
+Well then, I deleted this torrent from my seed-box and will never re-seed it again, I'll help seeding ""Stargate..."" torrent instead. 
+I'm fed up with you guys complaining all the time.
+When you'll encode 25 movies to 1080 (and trans-code 25 DTS-s) and upload like 50 ratio etc you'll understand.
+You're very welcome, enjoy the free movies! "
+,hairymonkeynuts,2013-04-06T22:03Z,gotta say thanks for this. great quality. and since i don';t have a BR drive or player this is next best thing. came down in a few days too (136GB for fucks sake!)
+,CassacK,2013-04-20T22:09Z,"if more would seed, ill help when done dowloading them"
+,sfbe,2013-05-07T23:40Z,"I am a big fan and I really need this, thanks for share it man, but unfortunatelly my download doesn't begin. uTorrent says ""connecting to peers""..."
+,Mostlygoodfeedback,2013-05-08T03:01Z,"Why cant people use torrents anymore? 
+
+The golden rule: ""Download and seed untill at least 1 in ratio""
+
+The world would be so much better.. But unfortunatly there are so many lowfuckz with networks that only got DL speed, and not UL speed... 25/5 is not a internet connection.. Its a trolling wire going in the ground... If you are going to download and keep to the pirate code, get at least 100/100mbit fiber optic network connection.. If you is not even close to that kind of connection.. Then you dont deserve to download pirated material!
+
+Happy pirating for qualified people! "

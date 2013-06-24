@@ -1,0 +1,32 @@
+Apprendre SQL par l'exemple
+
+Tout particulièrement destiné aux débutants et aux étudiants, cet ouvrage permet d'acquérir les notions essentielles d'Oracle, leader des systèmes de gestion de bases de données. Concis et de difficulté progressive, il est émaillé de nombreux exemples et de 50 exercices corrigés qui illustrent tous les aspects fondamentaux de SQL. Couvrant les versions 9i à 11 gR2 d'Oracle, il permet de se familiariser avec ses principales fonctionnalités, ainsi qu'avec les API les plus utilisées (JBDC, PHP et XML). Mise à jour et augmentée (pivots, transpositions, requêtes pipe line et CTE), la quatrième édition de cet ouvrage consacre un chapitre entier à l'optimisation des requêtes et des schémas relationnels. Y sont étudiés l'optimiseur, les statistiques, la mesure des performances et l'emploi de la boîte à outils : contraintes, index, clusters, tables organisées en index, partitionnement, vues matérialisées et dénormalisation.
+À qui s'adresse cet ouvrage ?
+
+    À tous ceux qui souhaitent s'initier à SQL, à Oracle ou à la gestion de bases de données
+    Aux développeurs C, C++, Java, PHP et XML qui souhaitent stocker leurs données
+
+Installez vous-même Oracle !
+
+Cet ouvrage décrit en détail les procédures d'installation de toutes les versions d'Oracle : 9i, 10g, Express, 11 gRl et 11 gR2. Ces versions peuvent être téléchargées gratuitement sur le site d'Oracle : destinées à des fins non commerciales, elles sont complètes et sans limitation de durée.
+Au sommaire
+
+    Introduction
+    SQL de base
+        Définition des données
+        Manipulation des données
+        Évolution d'un schéma
+        Interrogation des données
+        Contrôle des données
+    PL/SQL
+        Bases du PL/SQL
+        Programmation avancée
+    SQL avancé
+        Le précompilateur Pro*C/C++
+        L'interface JDBC
+        L'approche SQLJ
+        Procédures stockées et externes
+        Oracle et le Web
+        Oracle XML DB
+        Optimisations
+    Annexe 1 : Bibliographie et webographie

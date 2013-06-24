@@ -1,0 +1,67 @@
+General
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 7.77 MiB
+Duration                                 : 1mn 15s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 869 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 16 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1mn 15s
+Nominal bit rate                         : 650 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 496 pixels
+Display aspect ratio                     : 2.581
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.043
+Writing library                          : x264 core 120
+Language                                 : English
+
+Matrix coefficients                      : BT.709
+
+Audio #1
+
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1mn 15s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1mn 15s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : No
+Forced                                   : No

@@ -1,0 +1,58 @@
+Screens :  
+http://www.piczend.com/image/1358737047_vlcsnap-2013-01-20-17h06m31s173.png 
+http://www.piczend.com/image/1358737048_vlcsnap-2013-01-20-17h06m35s209.png 
+http://www.piczend.com/image/1358737045_vlcsnap-2013-01-20-17h06m39s2.png 
+http://www.piczend.com/image/1358737046_vlcsnap-2013-01-20-17h06m49s93.pnge/1358737047_vlcsnap-2013-01-20-17h06m56s163.png 
+http://www.piczend.com/image/1358737044_vlcsnap-2013-01-20-17h07m13s86.png
+
+info :
+ideo
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 31mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 010 Kbps
+Width                                    : 720 pixels
+Height                                   : 390 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.974 fps
+Maximum frame rate                       : 90.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.150
+Stream size                              : 663 MiB (94%)
+Writing library                          : x264 core
+Encoded date                             : UTC 2013-01-20 21:25:21
+Tagged date                              : UTC 2013-01-20 21:42:20
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 69
+Duration                                 : 1h 31mn
+Bit rate mode                            : Constant
+Bit rate                                 : 64.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 42.0 MiB (6%)
+Writing library                          : LAME3.98.4
+Encoded date                             : UTC 2013-01-20 21:25:21
+Tagged date                              : UTC 2013-01-20 21:42:11

@@ -1,0 +1,23 @@
+Abarrotes PDV v2.12 versión Monocaja
+
+eleventa (antes llamado Abarrotes Punto de Venta) es un sistema de punto de venta que te pone al par de la competencia, diseñado para reemplazar tu caja registradora (o tu calculadora y papel) económicamente y sin necesidad de requerir de amplios conocimientos en computación.
+
+- Puedes manejar todos los productos de tu negocio para que no tengas que recordar ni un solo precio de nuevo (Incluso tenemos clientes con mas de 10,000 productos).
+- Utiliza un lector de código de barras, cajón de dinero, impresora de tickets y báscula electrónica para reducir el tiempo en que atiendes a tus clientes.
+- Puedes usar el control de inventarios para llevar una mejor administración de tus productos además de mantener un registro de todos los movimientos.
+- Aplica promociones especiales o maneja un precio de mayoreo para tus clientes importantes.
+- Puedes otorgar crédito a tus clientes, manejar sus estados de cuenta, registrar abonos, etc.
+- Conoce mejor tu negocio a través de los reportes de productos vendidos por semana o periodo, productos bajos en inventario, reporte de inventario en cantidad y monto (conoce cuánto dinero tienes en mercancía).
+- Ahorra muchísimo tiempo al dar de alta tus productos, ya que incluye una base de datos precargada de más de 7500 productos de abarrotes, papelerías y farmacias.
+- Puedes comenzar a utilizar el software de punto de venta a la brevedad ya que incluye un asistente de bienvenida que te ayuda a configurarlo para que comiences a trabajar en menos de 5 minutos.
+
+WebSite: http://www.eleventa.com/
+
+
+Instrucciones:
+
+1.- Instalar el programa Abarrotes punto de venta y NO INICIARLO
+2.- copiar y pegar los archivos oem.dat y gds32.dll dentro de la carpeta donde se instalo el programa de version 2.12
+3.- correr el programa (Abarrotes.exe) original normalmente
+
+NOTA: solo es para la version 2.12 Monocaja. No sirve para otras versiones.

@@ -1,0 +1,76 @@
+ WARNING!!! English audio track is external. You have to load english audio to your player, if you want to watch it in english. If you don't know how to do it - ask google.
+
+
+Plot: It has been five years since the disappearance of Katie and Hunter, and a suburban family witness strange events in their neighborhood when a woman and a mysterious child move in.
+
+Directors: Henry Joost, Ariel Schulman
+Writers: Christopher Landon (screenplay), Chad Feehan (story)
+Stars: Kathryn Newton, Katie Featherston and Alexondra Lee
+
+MediaInfo 0.7.61:
+General
+Unique ID                                : 201885502098568029103319320615218134703 (0x97E1BBBEFBCD0E73B672932478E53EAF)
+Complete name                            : D:111111╨ƒ╨░╤Ç╨░╨╜╨╛╤Ç╨╝╨░╨╗╤î╨╜╨╛╨╡ ╤Å╨▓╨╗╨╡╨╜╨╕╨╡ 4╨ƒ╨░╤Ç╨░╨╜╨╛╤Ç╨╝╨░╨╗╤î╨╜╨╛╨╡ ╤Å╨▓╨╗╨╡╨╜╨╕╨╡ 4.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 723 MiB
+Duration                                 : 1h 27mn
+Overall bit rate                         : 1 160 Kbps
+Encoded date                             : UTC 2013-01-27 19:18:09
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 27mn
+Nominal bit rate                         : 1 069 Kbps
+Width                                    : 768 pixels
+Height                                   : 432 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.134
+Writing library                          : x264 core 125 r2208 d9d2288
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=1069 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 27mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Title                                    : Russian
+Language                                 : Russian
+Default                                  : Yes
+Forced                                   : Yes
+
+Menu
+00:00:00.059                             : en:00:00:00.059
+
+Screenshots: 
+http://img191.imageshack.us/img191/7195/4mkv20130127225412001.png 
+http://img708.imageshack.us/img708/709/4mkv20130127225413452.png 
+http://img197.imageshack.us/img197/4720/4mkv20130127225415199.png 
+http://img651.imageshack.us/img651/9311/4mkv20130127225401003.png 
+http://img21.imageshack.us/img21/6074/4mkv20130127225404951.png 
+http://img819.imageshack.us/img819/2729/4mkv20130127225407555.png 
+http://img248.imageshack.us/img248/6559/4mkv20130127225409865.png 
+http://img138.imageshack.us/img138/9006/4mkv20130127225410113.png

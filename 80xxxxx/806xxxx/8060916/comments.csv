@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,sofinsicc,2013-01-25T04:57Z,"To create a bootable UEFI USB drive Press Windows Key + R .. type in cmd to open command prompt..Now type in ""diskpart"" then ""list disk""..
+
+Now type these commands in the following order
+
+select disk # (replace ""#"" with the disk number of the usb drive from disk list)
+
+clean
+create partition primary
+format fs fat32 quick
+active
+assign
+list volume
+exit
+
+You're Done!"
+,sofinsicc,2013-01-25T05:06Z,"ALL VERSIONS BUT x86 (32-Bit Only)
+
+I should note that this is for this cane be used to restore any computer ... with that said by all versions i mean 32bit only since its for the Acer W510 "
+,sofinsicc,2013-01-26T07:10Z,"A couple things I forgot to mention.. I was told that in order to restore the W510 it had to be a 4gb thumbdrive. However, I used an 8gb and it worked fine. 
+
+In order to boot from the USB, you must first shut down your Tablet (Acer W510). Hold the Volume Down + Power On buttons until it boots to BIOS. 
+
+Create a Supervisor password and then disable secure boot
+
+Now set the boot order to USB first in the list."
+,sofinsicc,2013-01-26T22:34Z,ACTIVATION INCLUDED!!! Just right click and run as admin let it reboot and your golden!

@@ -1,0 +1,182 @@
+Medium - Stagione 5 [DvdRip.Ita][A.C.U.M.]
+ 
+http://img23.imageshack.us/img23/5568/mediumstagione5.jpg
+
+Trama :
+
+Medium racconta le vicende di Allison Dubois, una donna di Phoenix che ha la capacità di vivere esperienze soprannaturali.
+
+Queste esperienze, che si manifestano per lo più con sogni premonitori ed apparizioni, le consentono di capire come sono accaduti crimini ed efferati delitti avvenuti nella sua città, e di scoprire l'identità dei colpevoli; questo la porta a collaborare a stretto contatto con il Procuratore Distrettuale Manuel Devalos e con il Detective Lee Scanlon per indagare su casi di omicidio, scomparsa, rapimento...
+
+Fonte: http://it.wikipedia.org/wiki/Medium_%28serie_televisiva%29
+
+Screenshots :
+ 
+http://img823.imageshack.us/img823/8931/2pyow.jpg
+ 
+http://img41.imageshack.us/img41/1235/dq0b9.jpg
+ 
+http://img171.imageshack.us/img171/3206/gnrzo.jpg
+
+Scheda tecnica :
+
+Titolo italiano : Medium
+
+Titolo originale : Medium
+
+Anno : 2009
+
+Genere : drammatico - poliziesco
+
+Paese : USA 
+
+Lingua : Italiano
+
+Numero episodi stagione 5 : 19
+
+Link IMDb : http://www.imdb.com/title/tt0412175/
+
+Analisi AVInaptic di un episodio a caso :
+
+[ About file ]
+
+Name: Medium -5x01- Anima superstite [DvdRip by Pitt@Sk8].mkv
+Date: Tue, 22 Jan 2013 02:34:03 +0100
+Size: 522,687,350 bytes (498.474 MiB)
+
+[ Magic ]
+
+Tipo file: data
+
+[ Generic infos ]
+
+Duration: 00:40:34 (2434.24 s)
+Container: matroska
+Production date: Tue, 22 Jan 2013 02:33:59 +0100
+Total tracks: 2
+Track nr. 1: video (V_MPEG4/ISO/AVC) [DvdRip by Pitt@Sk8 [5x01]] {ita}
+Track nr. 2: audio (A_AC3) [Italiano AC3 2.0 192 kbps - Pitt@Sk8] {ita}
+Muxing library: libebml v1.2.3 + libmatroska v1.3.0
+Writing application: mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+
+[ Relevant data ]
+
+Resolution: 704 x 396
+Width: multiple of 32
+Height: multiple of 4
+Average DRF: 17.012
+Standard deviation: 3.268
+Std. dev. weighted mean: 3.135
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 704 x 396
+Frame aspect ratio: 16:9 = 1.778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.778
+Framerate: 25 fps
+Stream size: 463,740,024 bytes (442.257 MiB)
+Duration (bs): 00:40:34 (2434.24 s)
+Bitrate (bs): 1524.057 kbps
+Qf: 0.219
+
+[ Audio track ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 58,413,312 bytes (55.707 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 76,059
+Duration (bs): 00:40:34 (2433.888 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 192 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): dolby
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 129 r2230 1cffe9f | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2012 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=5 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=0
+User data: chroma_qp_offset=-2 | threads=12 | lookahead_threads=2
+User data: sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=3 | b_pyramid=2
+User data: b_adapt=2 | b_bias=0 | direct=1 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=250 | keyint_min=25 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=40 | rc=2pass | mbtree=1 | bitrate=1524 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=10 | qpmax=51 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 5
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 60,856
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 16597 ( 27.273 %) #####
+B-slices: 43719 ( 71.840 %) ##############
+I-slices:   540 (  0.887 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 17.012
+standard deviation: 3.268
+max DRF: 27
+
+DRF<10:    0 (  0.000 %)
+DRF=10: 1929 (  3.170 %) #
+DRF=11:  436 (  0.716 %)
+DRF=12: 1802 (  2.961 %) #
+DRF=13: 5102 (  8.384 %) ##
+DRF=14: 3779 (  6.210 %) #
+DRF=15: 7094 ( 11.657 %) ##
+DRF=16: 8084 ( 13.284 %) ###
+DRF=17: 6478 ( 10.645 %) ##
+DRF=18: 7576 ( 12.449 %) ##
+DRF=19: 4982 (  8.187 %) ##
+DRF=20: 4187 (  6.880 %) #
+DRF=21: 3108 (  5.107 %) #
+DRF=22: 2712 (  4.456 %) #
+DRF=23: 1874 (  3.079 %) #
+DRF=24: 1233 (  2.026 %)
+DRF=25:  398 (  0.654 %)
+DRF=26:   81 (  0.133 %)
+DRF=27:    1 (  0.002 %)
+DRF>27:    0 (  0.000 %)
+
+P-slices average DRF: 15.737
+P-slices std. deviation: 2.624
+P-slices max DRF: 26
+
+B-slices average DRF: 17.539
+B-slices std. deviation: 3.338
+B-slices max DRF: 27
+
+I-slices average DRF: 13.567
+I-slices std. deviation: 2.405
+I-slices max DRF: 21
+
+[ Profile compliancy ]
+
+Selected profile: MTK PAL 6000
+Resolution: Ok
+Framerate: Ok
+Min buffer fill: 81%
+
+This report was created by AVInaptic (08-07-2011) on 22-01-2013 02:38:31
+ 
+http://i196.photobucket.com/albums/aa19/maxneb/seedordie5wmwe5.gif

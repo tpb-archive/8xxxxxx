@@ -1,0 +1,35 @@
+AnySpliter
+
+AnySpliter is a simple and easy to use file split software, it's a green software with both file split function and file conjoin function, it's widely used and very helpful in scenarios that need to split large file into smaller parts.
+
+The File Split Function:
+
+1. Support splitting for any type of files (txt, doc, xls, ppt, exe, wav, mp3, avi, vob, etc).
+2. Can split file into any number of parts, even can save only 1 bye for a splitted file.
+3. The format of splitted file name is like: original-filename_sequence-number.xst, for example:
+mylargefile.exe_1.xst
+mylargefile.exe_2.xst
+mylargefile.exe_3.xst
+4. Show progress bar during file splitting.
+
+The File Conjoin Function:
+
+1. Conjoin the splitted parts back to the original file by simply locating the first splitted part.
+2. Can delete the splitted parts after file conjoin completed.
+3. Show progress bar during file conjoining.
+
+Supported OS:
+
+Windows All
+
+Homepage: http://www.ttsuu.com/index.html
+
+Installation Instructions:
+
+- No need of Installation, Keep program anywhere and just run.
+- Register program with given name and key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

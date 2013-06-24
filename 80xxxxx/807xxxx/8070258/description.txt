@@ -1,0 +1,39 @@
+Formato                                  : Flash Video
+Tamaño del archivo                       : 149MB
+Duración                                 : 46min.
+Tasa de bits total                       : 449Kbps
+httphostheader                           :
+
+Video
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L2.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 3marcos
+ID Códec                                 : 7
+Duración                                 : 46min.
+Tasa de bits                             : 312Kbps
+Ancho                                    : 512pixeles
+Alto                                     : 288pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 25,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.085
+Tamaño de pista                          : 104MB (69%)
+
+Audio
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : 10
+Duración                                 : 46min.
+Tasa de bits                             : 129Kbps
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 44,1KHz
+Tamaño de pista                          : 42,9MB (29%)
+

@@ -1,0 +1,7 @@
+ScummVM  http://scummvm.org/
+
+Play a whole bunch of pointy-clicky adventure games on your homebrewed PS3!  http://scummvm.org/compatibility/1.5.0/  GAMES NOT INCLUDED.
+
+Of course this package won't work on OFW. You need a CFW firmware to install the package.
+
+The original 1.5.0 package on ScummVM/SourceForge website is not signed correctly and will only work with 3.55 CFW. This package has been resigned and will work with all CFW versions as of Rogero/Rebug/Cobra 4.30

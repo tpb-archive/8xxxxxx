@@ -1,0 +1,57 @@
+Norton 2013 Trial Reset 1.1.5 by babelpatcher:
+
+
+This program is mainly for Norton AV/IS/360 2013 Product
+
+  Changelog :
+
+Changes in 1.1.5:
+1. fixed: fatal false code in NTR2013v1.1.4 caused by coding in a hurry. Sorry.
+
+2. fixed: problem detecting Norton 2013 in xp
+
+3. Update: purge file and registry. becarefull with this feature.
+
+ 
+
+Changes in 1.1.4:
+1. fixed: problem detecting Norton 2013 in xp.
+
+FAILED. Fatal false code caused by coding in a hurry. Sorry.
+
+ 
+
+Changes in 1.1.3:
+1. code structure
+
+ 
+
+Changes in 1.1.2:
+1. code structure
+
+ 
+
+Changes in 1.1.1:
+1. re-use NTR2013 v1.0.6 code
+
+Changes in 1.1.0:
+1. major code update
+2. fixed: reset/convert norton where ever it installed (not just if installed in C drive) - Tested
+-----------------------------------------------------------------------------------
+
+
+                   :Instructions:
+
+1. If Norton is installed and [expired], then [Uninstall] Norton. (If Norton is installed but has not expired, then skip to Step 4)
+2. Restart your computer and run the NTR and choose [ Purge Norton ]
+3. Install Norton.
+4. Disable [ Norton Product Tamper Protection ]
+5. if Norton is scanning or updating, then stop it.
+6a. Choose [ A. Normal Reset ] to RESET your norton to its default trial days
+or
+6b. Choose [ B. Convert to 180 days ] to CONVERT :
+NAV to 180 days
+N360 to 180 days
+NIS to 180 days
+
+(+) Apply NTR in Safe Mode ONLY IF you want to convert norton to 180 trial days

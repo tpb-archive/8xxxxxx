@@ -1,0 +1,29 @@
+ANNO 1404 - Venice - Patch Notes 3.1
+
+
+The most important changes in overview:
+- A bug in the save routine could prevent games from being saved correctly on some systems or system configurations. Related Designs would like to thank the community at this pointfor their outstanding support, without which we could never have repaired this error. In particular, we would like to thank "Matt McCorman" for his active support, as well as all the users from the community who voluntarily contributed both their PC's and their time. We were finally able to localize and correct the error. As a result, no more faulty saves should be generated.
+
+- A warning is generated when the physical memory (RAM) has reached a critical fill or defragmentation status. The instructions in the text message should be followed. If the message appears frequently, lowering the texture and object quality in the game options can often lead to a significant improvement.
+
+
+
+Further changes:
+- Until now, players were able to avoid having to pay for the extension of the Corsair Pact by proposing fraternization. This option was removed, so now the player must now either pay, or deal with the consequences.
+- Fixed a bug that prevented the launch of user-scenario savegames on other computers.
+-     Selecting a portrait exclusive to the ANNO 1404 - Venice AddOn could lead to errors when playing ANNO 1404. This bug has been corrected.
+- Effective immediately, Lord Richard Northburgh now offers more suitable items once all human players have achieved the highest level of prestige in the orient.
+
+
+
+Achievements:
+-     The probability of receiving the items "Excellent Hanseatic League Master Builder" or "Imperial Cathedral Master Builder" has been increased.
+-     The "Shouldn't we be going to war soon" achievement is now correctly unlocked once players have played 10 hours of a multi-player game.
+-     The "Actions speak louder than words" achievement is now correctly unlocked once players have played 3 hours of a multi-player game without chatting. This makes it possible to attain the "A shut mouth catches no flies" achievement.
+-     The "I work best under pressure" achievement is now correctly unlocked as soon as the "Incognito" scenario is completed with a travel time of 30 minutes (or more).
+-     The "I could turn myself in" achievement is now correctly unlocked as soon as the player has achieved a bounty of 80,000 gold coins (or more) in the "Scourge of the Seas" scenario. This makes it possible to attain the "Like a proper Corsair" and "I'm the best" achievements.
+-     The "Master detective" achievement is now correctly unlocked as soon as the player has completed the "In the trap" and "Unknown cargo" quests. This makes it possible to also attain the "I'm the best" achievement.
+-     The "Urgent business II" quest is no longer withdrawn as soon as it's posted. This allows the quest chain to be completed properly, making it possible to attain the "Masquerade", "New challenges" and "Well done" achievements.
+-     The "The disloyal Assistant III" quest didn't spawn any blockade ships. This prevented completion of the quest chain, preventing players from attaining the "Everything has it's price" achievement. This bug has been corrected.
+-     Hekata was not offering the "The fourth sister (I-III)" quest chain. This prevented completion of the quest chain, preventing players from attaining the "The might of the three" achievement. This bug has been corrected.
+-     Marie d'Artois was not offering the "Journey into the past (I-IV)" quest chain. This prevented completion of the quest chain, preventing players from attaining the "You all owe me a favor" achievement. This bug has been corrected.

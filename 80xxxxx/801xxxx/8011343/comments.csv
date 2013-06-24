@@ -1,0 +1,52 @@
+﻿User Type,Username,Date,Text
+,RexRexroth,2013-01-13T07:02Z,PLEASE state specifically if the Dutch subs are hard-coded or optional. Please do this in the description of all of your uploads in the futrure.  Thank you.
+,jammerking,2013-01-14T22:20Z,"RexRexroth Tip just download the ifo for the main movie 
+
+mediainfo shows  
+ DVDScr NTSC DD5.1 NL Subs/VIDEO_TS/VTS_01_0.IFO 
+...........
+Text #1
+ID                                       : 32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Bit depth                                : 2 bits
+Language                                 : Dutch
+Language, more info                      : Normal
+
+Text #2
+ID                                       : 33 (0x21)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Bit depth                                : 2 bits
+Language                                 : Dutch
+Language, more info                      : Normal
+
+To confirm then 
+By downloading just the first VTS_0x_1.VOB for main movie (selecting prioriting first and last piece/chunk) after a few piecies are downloaded then 
+MediaInfo  for first VOB shows subtitles are contained in the VOB
+ 2012) DVDScr NTSC DD5.1 NL Subs/VIDEO_TS/VTS_01_1.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Overall bit rate mode                    : Variable
+
+Video
+Bit rate mode                            : Variable
+Maximum bit rate                         : 8 816 Kbps
+Standard                                 : NTSC
+Scan type                                : Progressive
+
+Audio
+Format                                   : AC-3
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+
+Text #1
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Delay relative to video                  : 33ms
+
+Text #2
+ID                                       : 189 (0xBD)-33 (0x21)
+"

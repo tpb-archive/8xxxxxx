@@ -1,0 +1,74 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+
+Release File: LaNanov13.zip
+Size: 21.5MB
+CRC32: A5498DF7
+MD5: A38C4BEC8733068D44F4B0923AFA5797
+SHA-1: 5BFA5FB0C46516244078276425FC4FCCE58A09F5
+
+This is v13.  There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+I have personally tested this as working with my Windows 8 Pro Jan2013 release.
+
+KMSnano - is the ideal tool to activate the final version of Windows 7/8 and
+Office 2010/2013. Activator does not require user intervention, the entire
+activation process takes place in the background, just run the activator
+and a couple of minutes to check the activation status of Windows and / or Office.
+
+--------------------------------------------------------------------------------
+Activates: Windows Vista/7/8 Business/Pro/Ent/N/VL and
+Windows Server Std/Data 2008/2008R2/2012, as well as Office 2010/2013.
+--------------------------------------------------------------------------------
+Retail-Only Versions of windows that will NOT activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate
+7 Starter/Homebasic/Homepremium/Ultimate
+8 core/ProWMC
+
+N and E versions use same methods, and will NOT activate.
+I am unaware of activation methods, besides purchase, for those versions.
+
+Activating Office when using an unsupported OS can be tricky and many users
+report problems when trying to activate Office 2013 when using a retail OS.
+I recommend using a volume OS if you really want the Office activation.
+
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Prescan file and then shut down Security Programs and any other running programs.
+(Torrent program caused problem for me)
+2. Extract the zip file. (Optional - I ran from within zip)
+3. Run KMSnano.exe
+4. Wait about 120secs while the files run in the background.
+(It doesn't let you know when it's done, you can check task manager or just wait)
+5. Run the Check_Activation.cmd to verify your activation status.
+6. Run admin command prompt command "SLMGR -CKMS" to re-enable office updates.
+7. Go about your business. You can get the Win8 watermark to go away by
+auto-hiding the taskbar or similar system stuff. (WindowsKey+D works also)
+
+To fix any botched activations from other "hacktivators" or activation problems
+in general, you can run admin command prompt command "SFC /SCANNOW"
+
+To see if your currect activation is working, run the included script:
+Check_Activation.cmd inside the zip file. That will list Windows and Office
+activations. Read the included text file for more info.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+Get an actual release if you want to activate. (RTM or Retail)
+
+Why use this program over any other activation method?
+It does not modify any of your system files.
+Because it's not a crack or a hack.
+Because it's the only way to get legit activation without using legit servers.
+Did I mention it activates ALL KMS activation software?
+
+Change Log from 12:
+- Lot of Code remake in KMSELDI v6
+- Add TriggerKMS v2
+
+(Big Salute to heldigard and Ratiborus if you are reading this)
+Enjoy Pirates,
+murphy78-TPB

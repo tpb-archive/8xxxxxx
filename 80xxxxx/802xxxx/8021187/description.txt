@@ -1,0 +1,32 @@
+TV : Other : TV quality : English, 10mins 38secs, good condition.
+This is a redo of my torrent to reduce file size, new format mkv.
+
+The Robert Klein Time show, August 1987. This segment is an interview with Gabriel Dell & Huntz Hall.
+ 
+[23:10:45] starting job
+[23:10:45] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[23:10:45] job configuration:
+[23:10:45]  * source
+[23:10:45]    + C:VIDEO_TSRobert Klein Time
+[23:10:45]    + title 1, chapter(s) 1 to 1
+[23:10:45]  * destination
+[23:10:45]    + C:Documents and SettingsDead End KidsMy DocumentsRobert Klein Time.mkv
+[23:10:45]    + container: Matroska (.mkv)
+[23:10:45]      + chapter markers
+[23:10:45]  * video track
+[23:10:45]    + decoder: mpeg2
+[23:10:45]      + bitrate 8000 kbps
+[23:10:45]    + frame rate: same as source (around 29.970 fps)
+[23:10:45]    + strict anamorphic
+[23:10:45]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[23:10:45]      + pixel aspect ratio: 8 / 9
+[23:10:45]      + display dimensions: 640 * 480
+[23:10:45]    + encoder: x264
+[23:10:45]      + options: ref=2:bframes=2:me=umh
+[23:10:45]      + bitrate: 400 kbps, pass: 2
+[23:10:45]  * audio track 0
+[23:10:45]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[23:10:45]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[23:10:45]    + mixdown: Stereo
+[23:10:45]    + encoder: faac
+[23:10:45]      + bitrate: 160 kbps, samplerate: 48000 Hz

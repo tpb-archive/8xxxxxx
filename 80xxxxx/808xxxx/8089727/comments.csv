@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,bjornagainswede,2013-02-01T23:39Z,"BEWARE... This game will NOT work on Mountain Lion (at least on my machine it will no) IT dus however run on 10.6.8 on the same machine. I have the latest wrapper and engine and have even rebuilt the game from the ground up and patched it to sr 2 using the Skidrow patches. Game launches to a black screen only on ML and not the french and english screens that preceed the Arkane Studios... total lock out! Game plays okay on SL but loses mouse mapping at times and can be laggy!
+
+Great Game though - GOTY in y book and best game I've ever played,,,, Love it, even if I am butchering everything on sight!"
+,bjornagainswede,2013-02-02T00:03Z,...forgot to say that even after an hour...regardless of resolution settings.... still sits there nice and Coalpit!
+,thortin,2013-02-02T02:16Z,I have mountain lion myself and the game runs fine. I have my graphic settings at near best it can have and i encounter no lag. Are you sure you downloaded it with no interruptions?
+,bjornagainswede,2013-02-02T08:29Z,"Tes! As mentioned it runs fine on Snow Leopard. Same machine Multi Boot!.
+
+I even set up a new user account in Mountain Lion,,, and still the same... Launched... black screen, white screen,,,, and where you should get the French writing followed by English then the Arkane screen,,, its just black... and it stays black!
+
+I have the latest xQuartz, Latest Wineskin, latest engine and even patches installed... Nothing! ML seriously broke Wineskin but the latest wrapper fixed a lot of my games... This is the only one that's still bugging me!"
+,rpgfanold,2013-02-03T03:08Z,"bjornagainswede, strange as it works perfectly fine on my imac which has mountain lion installed.   I do have the lastest version of x-cdoe, 4.6.  "
+,kasperkid,2013-02-03T18:26Z,Help! I have a black screen when  i get off the bridge. Dont know what to do
+,bjornagainswede,2013-02-03T22:09Z,"Am wondering if this may have something to do with dual monitors? I know there was a lot of noise about this when ML launched but they wese supposed to have fixed the issues. Gamers in particular had issues with this around the launch of Skyrim, I too had issues with skyrim launching only in the lower quarter of the main monitor. Editing the sys.ini file in the %Userprofile% folder however sorted this issue out!
+Unlike Skyrim though - dishonoured simply wont draw the graphics on ML... not here anyway so it must have to do with the dual monitor set up! No problem with the game or Wineskin as it runs fine on SL and it cannot be my user account as I have also  troubleshot the issue by creation a new account and launching the game in it!"
+,bjornagainswede,2013-02-03T22:18Z,"@rpgfanold
+
+BTW it's not XCode you need... its XQuartz (latest version 2.7.4)
+
+XQuartz provides the X11 windows environment which Apple dropped for some utterly bizarre reason only known to them in the creation of Mountain Lion.
+
+Wine depends on the X11 environment to run!
+
+As things are not as seemless as they used to be it's no surprise at all that there are issues cropping up all over the place, particularly in the gaming world! As far as I'm concerned iOS and all this mobile BS is the death of computing... Been sating it even since before Lion came into being! Apple are apple, they don't listen to the consumer so they never fix things! (Just take a look at the interactive backgrounds in Photobooth for example... still totally useless! Can you step out of the way and back in in less than a second???): Preview also totally massacred... they got rid of the hand for moving around, default behaviour... now you either have to have a trackpad or use cmd + scroll or Cmd + Shift + Scroll to move about! Damned nuisance!"
+,rpgfanold,2013-02-08T01:32Z,"Yeah, I got them confused.  None the less, it works on my I-mac with mountain lion."
+,Uncharted3Fan8,2013-02-10T16:35Z,same thing as other torrent! still black screen! how do u get rid of it!
+,higgpiggy,2013-02-11T15:04Z,omaygod SEEEEED!!!!!!!!!!!
+,pussyfoot,2013-02-13T05:36Z,"The game had been working perfectly for me until I stopped at The Royal Physician. When I try to reopen the game, the game icon sits on the dock but no screen shows up. Tried it a few times"
+,thebelt24,2013-05-05T23:43Z,"When I try copying it to my applications folder I get 
+
+""The operation can’t be completed because you don’t have permission to access some of the items."""
+,cmcminey,2013-05-11T02:48Z,the game starts up perfectly but when i start the characters have holograms over them and it go black in dark places..HELP!!!!!
+,mycophage,2013-05-13T02:35Z,"I'm having the same problem as cmcminey with strange graphics features.
+
+The game launches fine (after installation of the newest XQuartz; thanks to bjornagainswede for that advice). 
+
+However, once game play starts, some of the characters look like they have ""holograms"" of themselves sticking out of their eyes, and indeed the game screen goes completely black (as though the character is in the dark) in some locations. The first problem is mostly annoying, but the second makes the game unplayable.
+
+Has anyone else had these problems and then solved them?"
+,DevFayah,2013-05-21T03:42Z,Mine freezes in the loading screen immediately after the queen is assassinated in the beginning. Any suggestions?

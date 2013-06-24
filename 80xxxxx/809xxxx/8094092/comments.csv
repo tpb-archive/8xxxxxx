@@ -1,0 +1,131 @@
+﻿User Type,Username,Date,Text
+,xenoFLASH,2013-02-02T08:08Z,Thank you!
+,cozy8,2013-02-02T08:11Z,thx!
+,abacus23,2013-02-02T08:17Z,"any word, of when the MAIN SHOW, will be uploaded?  there are already 2 torrents with overtime now..
+
+It is much appreciated.. but tons of people are waiting for the main show"
+,hijazi23,2013-02-02T08:29Z,thank you!!
+,Buxaroo,2013-02-02T08:31Z,Any chance for the full show? I always see people upload the overtime bit first then several hours later the main show. Why is that btw?
+,clockworkgirl21,2013-02-02T08:34Z,"It's just overtime, if someone was expecting the show."
+,jcdugger,2013-02-02T09:08Z,"This pisses me off! Gay as hell! I thought when Barack was elected, things were gonna change around here?! Where the fuck's the main show?!"
+,heynow07,2013-02-02T09:10Z,"@jcdugger
+
+Just like in space, on the Internet no one can hear you scream."
+[V],MP4SUX,2013-02-02T09:19Z,"xenoFLASH:
+cozy8:
+hijazi23:
+
+You are all quite welcome.
+---------------------------------
+clockworkgirl21:
+
+Let's hope that not too many blinded by desire mistake this for the ""FullShow"", which is how I label it when it bacomes available.
+----------------------------------
+Buxaroo:
+abacus23:
+
+I'll start with the short answer - ""FullShow"" and ""OverTime"" are two completely different products from two completely different sources.
+
+It's true that anyone (within the legal limits of the US) can get a copy of ""Replay Media Capture"" or some competitor's product, go to the HBO web site and spend hours clicking on ""Overtime"", seeing ""the live show has ended"", hitting the browser back button and doing it again and again until that magic moment when they finally make the OverTime available.
+
+As for the ""FullShow"", that's not the internet - that's someone paying for the premium cable channel that HBO is, recording it to DVR, transferring it to computer, encoding it in the new-fangled x264 format and then releasing it.This is done by usually one RG (ReleaseGroup) 2HD. There are lots of RGs, but they are NOT in competition - they are all part of the same monopoly known collectively as ""The Scene"".
+
+Usually 2HD is one of the better RGs within the Scene (fixes mistakes by ASAP & LOL all the time). So, why the Friday night delay? Possibly after a hard week of pirating media far and wide, they like to go out to a nice dinner and a club on Friday nights. Other's have surmised that since it's a fairly liberal show, maybe 2HD is getting our goat a bit on purpose. I personally doubt that.
+
+Anyway, with a couple of exceptions (KarMa & the guy who puts out a really tiny MKV / OGG version), all roads lead to ""The Scene"".
+
+Anybody got cable? willing to pay for HBO? willing to shell out a bit for a quality DVR and some basic insurance via a good VPN (yes on pia, NO on ipVanish) and willing to give up quality family time to feed the rampaging addict that I call my loyal viewers ...
+
+You are desperately needed to thwart the sloth that comes from a monopoly such as ""The Scene"" when it's been the better part of a decade of NO COMPETITION.
+
+Be a hero to millions and if you cna get it out before us petty OT noodges post, you will be truly beloved.
+
+Until then, it's just waiting for the inevitable at it's own slow turtle like pace.
+
+AVIGUY
+
+p.s. - you may be wondering why I, the AVIGUY, AFG, MSD and a number of others don't just take it all over. Well, the sad truth is in the single phrase ""re-encoder"" and we can do nothing until the all powerful RGs from the Scene give us our raw material to work with.
+
+"
+[V],MP4SUX,2013-02-02T09:23Z,"jcdugger:
+
+You bring up a really sad addendum.
+
+The Democrats all want to put the lot of us behind bars and take away our lovely little media toys.
+
+It's those ""leave me alone to do what I dam well please"" Republicans who want to put a gun in our hands to protect this basic Pirate right.
+
+Sigh ...
+
+AVIGUY"
+,JD911,2013-02-02T09:29Z,"Anyone else noticd the irony that ""MP4SUX"" is uploading this in MP4? lol"
+,Buxaroo,2013-02-02T10:06Z,"I would gladly pay HBO and Showtime for a streaming sub, I canceled Comcast cable TV and went straight to streaming netflix/amazon. I am willing to pay, but I am not willing to pay for cable companies' monopolies just to get 500 channels of scrub tv that I will never, ever watch. I would gladly pay HBO and Showtime each $8 just to stream whatever they have. But the cable companies have them by the balls. Fuck the old tech, streaming is where it's at. Cable companies are monopolies like Ma Bell in the 80's. Too bad congress (aka majority GOP) is in the backpocket of big content. "
+[V],MP4SUX,2013-02-02T12:14Z,"JD911:
+:::: Anyone else noticd the irony that ""MP4SUX"" is uploading this in MP4? lol
+
+Believe it or don't, I wrestled with just that irony and came down on the side of common sense.
+
+First, MP4SUX is my legacy and even if I could, I would not let it go. But almost everyone has surely noticed that I'm much more AVIGUY nowadays.
+
+So, here's how it happened and if I wanted to avoid this irony, I could very easily have done so.
+
+I pretty much invented CC2AVI (Container Change to AVI), which isn't too surprising as it seems to have been a purely cosmetic gimmick. That is, I can pout x264 / AAC directly into an AVI container with zero loss of audio or video quality. The problem, of course is that anything that can't play an MP4 also cannot play x264 / AAC, even in an AVI container.
+
+It'sstill a darn useful process internally for me - VirtualDub can encode x264 / AC3 just fine, as long as it's in an AVI container. And lucky me - the magic of the SourceForge project 'MP4cam2AVI' includes the ability to convert AAC directly to MP3.
+
+Anyway, back to the irony thing ... What I did for a long while (nor on purpose, just didn't stop to think) was ...
+
+Wait, one more step. HBO provides OverTime as an FLV. Turns out there are two distinct flavors of FLV. And there's this nifty 'FLVextract' utility that can handle both. The old FLV would be converteddirectly to XVID / AVI with MP3 audio (it was that way internally).
+
+But then they came out with a new and improved FLV that was comprised of an x264 video stream and a matching AAC audio stream. FLV extract does what MKVextract or MP4 demuxer does - it pulls out the two data streams intact. So, all that needs be done is use mp4muxer to combine them again in an MP4 container.
+
+And here's why I gladly accept the irony - I used to go one step further and convert the FLV to MP4 and then toAVI ... until one day I decided it was silly to go that extra step just to deprive all of you the format you really wanted - mp4. So, I ate my pride and stopped a step early and everybody's much happie.
+
+I know you are - you must've got quite a giggle when the whole irony thing dawned on you. I wouldn't take such fun from you on a bet. You got to needle me, everybody gets the pristine HBO original wothout tampering and all is right in this fine Pirate Universe of Mine.
+
+Now pardon me while i post a pair of minis (FullShow and OverTime) and then it's ...
+
+Nighty-Night all,
+
+AVIGUY"
+,iamralph,2013-02-02T12:50Z,"@mp4sux: one thing I'd like to correct  the scene are actually in competition with each other, they just have been slack in recent years.  It is still a race to get out the first encode, but as is pretty evident they don't really care anymore."
+,iamralph,2013-02-02T12:56Z,"on top of that, they hate p2p and with lovely comments like those above from abacus, jcdugger, etc, noone can guess why (no actually that has nothing to do with it, but it wouldn't surprise me if a few of them keep their eyes on shit like this and have a laugh)"
+[V],MP4SUX,2013-02-02T15:55Z,"iamralph:
+
+Thank you for chiming in. Perspective is important and just talking with someone who understands the landscape is refreshing. I do suspect, however that you'll find it difficult to maintain mutually exclusive views like ""they are in competitiion"" and ""they just don't care anymore"".
+
+Yes, there is still the ghost of caring when 2HD swoops in to repack a damaged ASAP 'Daily Show', but I suspect that like most monopolistic tyrants well past their prime, all we need is a good stiff wind to blow down what's left of their house of cards. I can't help but notice that while 2HD is decidedly my favorite, they sure did come alive with ""REal Time"" within the hour (52min) of err0001 coming through for the rest of us. It's like a bad wife who says ""you can't get it from me and you better not get it from anywhere else.""
+
+And then, of course, there is the whole matter of what brought me here to do what I do in the first place. I just am ashamed of every level of our little inbred community that would allow LOL to continue getting away with issuing such demonstrably damaged goods on daily basis. It's one thing to talk about quality and my 768 fetish is certainly fair game. As is the basic concept of an MP4 container as standard. But quality as a smooth continuum to be debated is one thing, but to put out (deliberately?) damaged goods is, well, heinous. in the extreme. Many seconds long full screen Gross Pixelation is not just bad form, it actively interferes with people's desire to stream these shows from one device to another. No matter how good your equipment is in theory, you cannot travel to different planets if you pretend the spaceshop's door isn't popping off it's hinges mid flight.
+
+While I've been (correctly) admonished about attacking the piles of damage at the point of distro - I've still been collecting data. So far I've documentd 158 individual instances of ""Gross Pixelation Errors"" in LOL / DIM encodes. It's slowed down some as I've completely given up hope on sevveral shows. What good does it do to document the same damn Pixelaton error in virtually every episode of SVU within 30 seconds after the opening credits? Nobody's providing repacks or WEB-DLs of SVU, Mike & Molly and 30 Rock is a joke - Same error in the smae place in every episode. It's very much like LOL needs to do somehthing  CPU intensive while trying to encode SVU / GoOn and several other shows. 
+
+Sorry, haven't taken to rant for shile and it was overdue. But someone should say ""do it right or don't do it at all"".. It's like they want to hold control but not use it much at all..  People don't even spot check their work to catch the obvious errors. AFG is something of a mystery to me. It's almost like they picked the cousin who needed a job to maintain parole and said ""go ahead, nobody cares if you screw it up"" Just keep to the 1024K / 350MB file size and nobody will care about sync or errors or damage. Just something to keep the ex-con busy until the next parole hearing.
+
+So, I'll end this for now with the most perplexing question I can muster..If they don't care anymore about getting the new x264 encodes damage free, why exactly do they care so much tat all are forbidden from reverting to XVID / AVI? There's a hunger for error free encoding and there's a hunger to provide XVID alongside x264. Just reading the comments for my re-encodes is enough to certify that. And what happened to standards? Elementary has dropped its bit rate down to 500K, half of what they deemed mandatory under XVID / AVI. Quality in general and damage in particular has made a joke of any respect ""The Scene"" may once have had. In fact, they are so far removed that I get people misundertanding so much that they think TvTeam / EZTV / ettv / PublicHD are the producers of the media because that's all they see. The Scene may not care anyomre, but it's clear that very few even know who it is they are supposed to care about.
+
+I wws there almost a decade ago when they decided to make their IRC channel private invite-only. Big mistake, if you ask me. They used to hob-nob with those"
+[V],MP4SUX,2013-02-02T16:15Z,"iamralph:
+
+Continued ... (never seen it cut off like that before - usually just gives a ""database error"".)
+
+They used to hob-nob with those who loved them so and they just have decided that spitting in the face of those who love you is somehow not the dysfunction it's so obviously become. Sigh ...
+
+And if XVID / AVI was so terrible, where's the narmal migration that should precede a system wide overhaul of mandates? Very few are deciding ""hey that MP4 is so good, I'm gonna do all my DVDrops that way from now on. It just isn't happening, no movement, not even a snail's pace to show for their delusion of ""progress"".
+
+Something stinks to high heaven and I wish I knew what the implicit hidden corruption was really about. Why did LOL go from 20% of XVID / AVI encoding to like 70% of x264 / MP4 encoding - so overburdened that damge was inevitable. Seems like everyone else just lost interest and quietly faded away. It seems that nobody can come to grips with a wagon that the wheels have fallen off of. Who's forcing the destruction of ""The Scene""'s cohesiveness and why does nobody care that FQM and a few others are hardly ever seen anymore. It's Like one rat full of himslef has control of top-site bandwidth and everybody falls in line or gets ex-communicated.
+
+I don't do much, but I certainnly don't need a top-site well hidden within the bowels of some dolt of a corporation to allow such goings on to do good. Maybe things aren't that bad and we just need to wait for one arrogant fart to die off or retire. before someone with sense and vision that *cares* and can take the reigns of that once proud organization and set things to right. It's not about control or monopoly, it's about competition and caring about what one dioes. Yes, I've been at it a scant 8 months and maybe I'll burn out - but i'm having fun for the moment and people are enjoying what I do and that should be good enough for fullfillment in the near term as I see it.
+
+AVIGUY
+
+
+
+"
+,dmxoneluv,2013-02-03T10:40Z,"thanks AVIGUY.  i have had you in my favorites for a while..  whenever i find a screne mp4 release thats bad, i can always count on you.  
+
+i too wonder why after so long they still keep releasing videos that are obviously not using the same criteria as others.  i may be biased b/c i own a ps3 and use it as my media device, but i find it a pain to have to re-dowload a video in the 720 format just to convert it to a proper mp4 file that plays perfectly on the ps3. 
+
+thanks again for your work
+
+i got some stand up (dvdrips in mp4) uploaded if you click my username.  trying to give back where i can."

@@ -1,0 +1,51 @@
+Zygor Guides update v4.0.5693, released January 18th, 2013. (Horde and Alliance)
+
+
+NOTE:  This is the full, complete version. Anything you see on Zygor's website is in this download.
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+
+Patch notes since last upload:
+
+Version: 4.0.5693
+Released on: January 18th, 2013
+[B] Reputations/Dailies
+Fixed minor issues and bugs
+
+[H] Reputations/Dailies
+Fixed all known issues with the Dominance Offensive
+
+[H] Leveling
+Fixed reported issues with quest objectives
+
+[A] Leveling
+Added in two additional quests to Northrend
+
+[B] Pet Battle
+The Pet Battle Window should now stay in place between sessions.Added cooking list to both A and H guides
+
+Version: 4.0.5687
+Released on: January 18th, 2013
+* Fix for the "LibRover line 293: attempt to compare number with nil" error. This was caused by addition of 5.2 map nodes. They now get killed on load time.
+Version: 4.0.5685
+Released on: January 17th, 2013
+[A] Reputations/Dailies
+Updates to Operation: Shieldwall
+
+[H] Reputations/Dailies
+Fixed NPC locations and item locations in the Dominance offensive
+
+[A] Professions
+Fixed an issue with the cooking guides
+
+[H] Professions
+Added Cooking and updated to level 525
+Cooking w/ Fishing updated

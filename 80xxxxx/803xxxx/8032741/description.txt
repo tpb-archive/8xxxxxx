@@ -1,0 +1,83 @@
+This is my own rip.
+
+General
+Unique ID                        : 176206259959423366586511186553704671205 (0x8490175BCB91DA918A771370A62DE7E5)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.56 GiB
+Duration                         : 1h 46mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 3 423 Kbps
+Encoded date                     : UTC 2010-02-22 21:41:31
+Writing application              : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 46mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 971 Kbps
+Maximum bit rate                 : 13.1 Mbps
+Width                            : 1 280 pixels
+Height                           : 692 pixels
+Display aspect ratio             : 1.850
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.140
+Stream size                      : 2.22 GiB (87%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 46mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 294 MiB (11%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Intro/Main Titles
+00:02:53.507                     : Sure Thing
+00:07:10.430                     : Yale Graduation
+00:11:23.266                     : A Small Favor
+00:17:44.480                     : A Pleasant Flight
+00:26:22.831                     : "Please Let Me Go Home!"
+00:29:09.873                     : Lung Ta
+00:35:26.416                     : Getting Started
+00:40:45.318                     : Tom Tuttle Is Trapped
+00:44:52.106                     : Chung Me
+00:51:50.274                     : A Bourne Leader
+00:55:41.088                     : Brainwashed by the People
+00:58:30.841                     : The Easy Way
+01:03:43.570                     : Lawrence's
+01:08:24.642                     : Johnny's Back
+01:12:59.959                     : PARTY!
+01:17:10.960                     : Lucille
+01:20:55.748                     : The Rescue
+01:30:27.088                     : Tuttle Talks
+01:36:45.508                     : Blow Up the Bridge!
+01:43:04.261                     : The End
+01:43:56.127                     : End Credits

@@ -1,0 +1,21 @@
+VPNs Illustrated: Tunnels, VPNs, and IPsec
+
+Publication Date: November 5, 2005 | ISBN-10: 032124544X | ISBN-13: 978-0321245441 | Edition: 1 |Format: CHM
+
+Virtual private networks (VPNs) based on the Internet instead of the traditional leased lines offer organizations of all sizes the promise of a low-cost, secure electronic network. However, using the Internet to carry sensitive information can present serious privacy and security problems. By explaining how VPNs actually work, networking expert Jon Snader shows software engineers and network administrators how to use tunneling, authentication, and encryption to create safe, effective VPNs for any environment.
+
+Using an example-driven approach, VPNs Illustrated explores how tunnels and VPNs function by observing their behavior on the wire. By learning to read and interpret various network traces, such as those produced by tcpdump, readers will be able to better understand and troubleshoot VPN and network behavior.
+
+Specific topics covered include:
+
+Block and stream symmetric ciphers, such as AES and RC4; and asymmetric ciphers, such as RSA and EIGamal
+Message authentication codes, including HMACs
+Tunneling technologies based on gtunnel
+SSL protocol for building network-to-network VPNs
+SSH protocols as drop-in replacements for telnet, ftp, and the BSD r-commands
+Lightweight VPNs, including VTun, CIPE, tinc, and OpenVPN
+IPsec, including its Authentication Header (AH) protocol, Encapsulating Security Payload (ESP), and IKE (the key management protocol)
+Packed with details, the text can be used as a handbook describing the functions of the protocols and the message formats that they use. Source code is available for download, and an appendix covers publicly available software that can be used to build tunnels and analyze traffic flow.
+
+VPNs Illustrated gives you the knowledge of tunneling and VPN technology you need to understand existing VPN implementations and successfully create your own.
+

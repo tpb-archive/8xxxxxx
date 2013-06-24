@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,Prabath1234,2013-01-27T05:01Z,Thanks bro
+,underdog73,2013-01-27T05:19Z,Thanks a bunch!!!
+[V],SecTPB,2013-01-27T05:29Z,Enjoy
+,aza-lenko,2013-01-27T05:29Z,over 5G for 4 fights... *vomit*
+,Tesser4ct,2013-01-27T05:40Z,Thanks for the basically instant upload of this torrent.  You're the man.
+,Prabath1234,2013-01-27T05:41Z,"@aza-lenko  then fuck off from this torrent,This is 60fps you noob.Best quality out there.Go to a indian forum and watch some low quality daily-motion streams.
+Btw they also get this and encode."
+,Xanthium111111,2013-01-27T06:00Z,I remember the days back before Secludedly arrived on the scene... they weren't as good. Quality + fast upload = what more could you ask for? 
+,BTMas2k,2013-01-27T06:22Z,...prelims.  I could ask for prelims.
+,BTMas2k,2013-01-27T06:23Z,assuming they aren't 20gb ;)
+,bigmamajay,2013-01-27T06:45Z,Stupid file size but the effort and upload is very appreciated. I'm gonna wait until morning to get a 1.¿GiB file. Thanks!
+[V],SecTPB,2013-01-27T07:27Z,"@bigmamajay
+It was uploaded more than a half hour before your post on this torrent."
+,James R. Bath,2013-01-27T07:38Z,"@SecTPB 
+What is the FPS of the source you rip from?"
+,saffronsghost,2013-01-27T07:43Z,"Sec deals in quality.  Don't like it, don't speak and try youtubing it on something, that should be the quality you like.
+
+Thanks Sec, you're the man...as always."
+[V],SecTPB,2013-01-27T08:23Z,"@James R. Bath
+The source is this file."
+,James R. Bath,2013-01-27T11:21Z,"@SecTPB
+So you're not ripping and encoding from a broadcast?  Why all the commercials?"
+[V],SecTPB,2013-01-27T12:28Z,"@James R. Bath
+I'm ripping, but not encoding. This is the actual transport stream file, though I lowered the broadcast bitrate a bit to not make it TOO large. I then use it as my source to encode the 400p versions. Broadcasts on FiOS in my area run 480p and 720p in 60FPS in a modified MPEG-2 container that utilizes AVC. There's a lot of companies making the transition to this format since it is more efficient than MPEG-2 transport streams. Uses less data, increases broadcast quality, and bitrate can be adjusted with the right equipment. This is literally the exact broadcast with a 3500kbps reduction in bitrate. Instead of spending the time encoding it after ripping it, I simply cut the commercials from the stream and repack it, leaving only the event sequences with a H.264 TS Cutter."
+[V],SecTPB,2013-01-27T12:37Z,"^This saves time, meaning I can release instantly after broadcast, and if someone wants to re-encode it themselves, they have that option as the quality is near flawless with my minor bitrate reduction. Nothing beats a stream naturally 60FPS though. The smoothness is unreal if you've never tried it, but it CAN be difficult for many computers to process all 60FPS at once without dropped frames, causing a lag or stutter. That's why i encode a compact 400p version with everything I release, so those unfortunate enough to not be able to properly playback this file can still watch it, and I use very specific x264 settings during my 400p encodes to make them VERY watchable on even a large 1080p screen without much of an issue. "
+,icdmize,2013-01-27T14:22Z,Is it just me or does the audio cut out on this at 1:08:28?  I've tried both VLC and MPC.
+,scolios,2013-01-27T17:12Z,"@icdmize - Just you.
+
+Thanks so much for this, amazing quality!"
+,MustafaHH,2013-01-27T22:27Z,"You realy need to do something about this slow speed. Either you open your own closed tracker or use one, so that everyone seed and not just download with limiting their upload."
+,ABoxingGox,2013-01-27T22:30Z,Thanks! I thankful for the quality. 
+,James R. Bath,2013-01-28T06:12Z,"@SecTPB
+ahhh, the answers I wanted and then some.  XD  Thanks.  Definitely anything involving quickness and short distances needs high FPS to capture all the movements.  My concern was that you might be encoding at a higher FPS than the broadcast."
+[V],SecTPB,2013-01-28T09:47Z,"@James R. Bath
+No, no, no. I don't duplicate framerates. Though not all TV broadcasts fully support 60FPS, For example, The Ultimate Fighter. Even on TV it's not aired as smooth as you'd expect. Last season though was different. This season... no idea what happened. Hoping it was just the first episode. "

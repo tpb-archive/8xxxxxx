@@ -1,0 +1,76 @@
+﻿User Type,Username,Date,Text
+[V],alekow1,2013-01-19T12:49Z,Many thanks for this!
+,garlor,2013-01-19T16:31Z,your serial number is incorrect. please reinstall chrome
+[T],FuCtUpPuNk,2013-01-20T04:28Z,try running as admin.
+,garlor,2013-01-20T18:51Z,same
+,garlor,2013-01-20T19:14Z,"same, your serial number is incorrect. please reinstall chrome"
+,PseudoPositive,2013-01-21T08:07Z,"I see this is extract & Play, is there a registry value  included with this?, you do need one for this game; if not export any reg file and right click then go to edit, then wipe all the data off, then copy & paste this:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWARETechland]
+
+[HKEY_LOCAL_MACHINESOFTWARETechlandChrome]
+""SerialNumber""=""XTITY-92Y9L-MGPVA-KJ4Z6""
+""DestinationDir""=""C:\Program Files\Gathering\Chrome\""
+
+Now you have to fill in the missing backslashes TPB takes out, so make it look like this:
+
+http://bayimg.com/MaiOGAaeM
+
+Note: change the DIR line to suit the games DIR, you will remove the word Gathering unless that's the name of the folder that the game is in. Make sure you enter the new reg value. Hope it helps."
+,ANISANIS,2013-01-21T18:09Z,"TNX FOR PseudoPositive
+---------------------------
+WORK FINE AFTER THAT REGESTRY
+
+AND I WANT TO SAY YOU MUST EXTRACT THE GAME TO 
+C:Program FilesGatheringChrome
+TO WORK OR CHANGE THE PLACE IN REGESTRY"
+[T],FuCtUpPuNk,2013-01-22T01:30Z,"opps yeah, my bad gonna upload reg file now. thanks PseudoPositive and ANISANIS"
+[T],FuCtUpPuNk,2013-01-22T01:41Z,http://thepiratebay.sx/torrent/8049071/Chrome_%28v1.2.0.0%29_%28Direct_Play%29_%28REGISTRY_FIX_ONLY%29 here is the fix. my bad.
+,Delia666,2013-01-22T05:01Z,Still get serial error T_T
+,PseudoPositive,2013-01-22T05:59Z,"@Delia666, what OS are you using?, if you have Win7 64 bit, change the reg value to:
+
+C:Program Files (x86)GatheringChrome""
+
+just make sure the game is in there."
+,Delia666,2013-01-22T07:16Z,"edited the registry but i still get that error ...
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWARETechland]
+
+[HKEY_LOCAL_MACHINESOFTWARETechlandChrome]
+""SerialNumber""=""XTITY-92Y9L-MGPVA-KJ4Z6""
+""DestinationDir""=""C:\Program Files (x86)\Gathering\Chrome\""
+
+
+
+Chrome - Serial Number Error
+---------------------------
+Your Serial Number is incorrect. Please reinstall Chrome.
+---------------------------
+OK   
+---------------------------"
+,PseudoPositive,2013-01-22T07:56Z,"Ok, my last effort to help, edit the regkey by using one of these keys in place of the old one.
+
+8M2HU-9Z7IN-JIYLS-5VU53
+
+8FAYB-KZR8I-3NS79-GRYTH
+
+36T9H-2TRAX-SBW55-CNIST
+
+E7REW-NYZ64-AS3LC-7J84Z
+
+Good luck."
+[T],FuCtUpPuNk,2013-01-22T23:44Z,"oh on 64 bit os place the game in programs (x86) folder rather than programs
+
+C:Program Files (x86)GatheringChrome also change the reg value.
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Techland]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Techland\Chrome]
+""SerialNumber""=""XTITY-92Y9L-MGPVA-KJ4Z6""
+""DestinationDir""=""C:\Program Files (x86)\Gathering\Chrome\"""

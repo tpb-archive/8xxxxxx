@@ -1,0 +1,55 @@
+mIRC
+
+mIRC is a full featured Internet Relay Chat client for Windows that can be used to communicate, share, play or work with others on IRC networks around the world, either in multi-user group conferences or in one-to-one private discussions.
+
+It has a clean, practical interface that is highly configurable and supports features such as buddy lists, file transfers, multi-server connections, IPv6, SSL encryption, proxy support, UTF-8 display, UPnP, customizable sounds, spoken messages, tray notifications, message logging, and more.
+
+mIRC also has a powerful scripting language that can be used both to automate mIRC and to create applications that perform a wide range of functions from network communications to playing games.
+
+mIRC has been in development for over a decade and is constantly being improved and updated with new technologies. 
+
+Changes:
+
+mIRC 7.29 has been released! (January 16th 2013) 
+This is a small update that addresses a number of issues reported by users since the last release. It includes improvements, changes and fixes to a number of features, including:
+SSL certificate hashes are now stored in the servers.ini file for all certificates and a warning is displayed if a certificate has changed since the last connection.
+
+An issue with the /help command not displaying the correct location of a search term has been fixed.
+
+The /run command has been changed to improve backward compatibility with older scripts.
+
+The way the Escape key works has been changed so that it clears the contents of the current editbox if the "Escape key minimizes window" option is not enabled.
+
+A /hotlink bug that prevented hotlink popup menus from being displayed has been fixed.
+
+The maximized window position is now saved correctly when the "on startup minimize mIRC to tray" option is enabled.
+
+Urls in your own messages are now once again saved to the urls list.
+
+An issue with the "Hide tips when locked" option, that caused tips to flicker briefly in view, has been fixed.
+
+The editbox buffer feature has been improved and should now work more reliably in different contexts.
+
+The /vol -v command now correctly sets the master volume on newer versions of Windows.
+
+Other changes and bug fixes.
+In total there have been around 21 changes to this version and although most of them are only small fixes and tweaks, we hope that they result in a more useful and stable mIRC for you.
+
+Supported OS:
+
+Windows 2000/XP/Vista/7/8 
+
+Not compatible with Windows 95/98/ME/NT
+
+Homepage: http://www.mirc.com/
+
+Installation Instructions:
+
+- Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Run "Regme" and merge it to registry.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

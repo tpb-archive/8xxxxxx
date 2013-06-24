@@ -1,0 +1,106 @@
+Self-centered TV meteorologist Phil Connors (Murray), news producer Rita (MacDowell) and cameraman Larry (Elliott) from Pittsburgh television station WPBH-TV9 travel to Punxsutawney, Pennsylvania, to cover the annual Groundhog Day festivities with Punxsutawney Phil. Having grown tired of this assignment, Phil grudgingly gives his report and attempts to return to Pittsburgh when a blizzard shuts down the roads. Phil and his team are forced to return to Punxsutawney and stay in town overnight.
+
+Phil wakes up to find that he is reliving February 2. The day plays out exactly as it did before, with no one else aware of the time loop, and only Phil aware of past events. At first he is confused, but, when the phenomenon continues on subsequent days, he decides to take advantage of the situation with no fear of long-term consequences: he learns secrets from the town's residents, seduces women, steals money, drives recklessly, and gets thrown in jail. However, his attempts to get closer to Rita repeatedly fail.
+ 
+http://www.imdb.com/title/tt0107048/
+
+Screens:
+ 
+http://imageshack.us/a/img200/5233/vlcsnap2013020213h01m44.png 
+http://imageshack.us/a/img833/6365/vlcsnap2013020213h02m30.png 
+http://imageshack.us/a/img716/1886/vlcsnap2013020213h02m51.png 
+http://imageshack.us/a/img16/1200/vlcsnap2013020213h03m02.png 
+http://imageshack.us/a/img248/5118/vlcsnap2013020213h02m45.png
+
+Video:
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 41mn
+Bit rate mode                            : Variable
+Bit rate                                 : 980 Kbps
+Width                                    : 708 pixels
+Height                                   : 470 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.974 fps
+Maximum frame rate                       : 90 000.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.123
+Stream size                              : 708 MiB (83%)
+Writing library                          : x264 core 120
+
+Audio:
+
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Format profile                           : Dolby Digital
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 1h 41mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 139 MiB (16%)
+Language                                 : English
+Encoded date                             : UTC 2013-02-02 18:20:50
+Tagged date                              : UTC 2013-02-02 19:44:26
+
+Text #1
+ID                                       : 3
+Format                                   : mp4s
+Codec ID                                 : E0
+Duration                                 : 1h 37mn
+Bit rate mode                            : Variable
+Bit rate                                 : 3 287 bps
+Maximum bit rate                         : 4 218 Mbps
+Delay relative to video                  : 83ms
+Stream size                              : 2.30 MiB (0%)
+Language                                 : English
+Encoded date                             : UTC 2013-02-02 18:20:50
+Tagged date                              : UTC 2013-02-02 19:42:46
+
+Text #2
+ID                                       : 4
+Format                                   : mp4s
+Codec ID                                 : E0
+Duration                                 : 1h 41mn
+Bit rate mode                            : Variable
+Bit rate                                 : 3 089 bps
+Maximum bit rate                         : 4 268 Mbps
+Delay relative to video                  : 83ms
+Stream size                              : 2.23 MiB (0%)
+Language                                 : Spanish
+Encoded date                             : UTC 2013-02-02 18:20:50
+Tagged date                              : UTC 2013-02-02 19:44:26
+
+Text #3
+ID                                       : 5
+Format                                   : mp4s
+Codec ID                                 : E0
+Duration                                 : 1h 41mn
+Bit rate mode                            : Variable
+Bit rate                                 : 2 833 bps
+Maximum bit rate                         : 4 282 Mbps
+Delay relative to video                  : 83ms
+Stream size                              : 2.05 MiB (0%)
+Language                                 : French
+Encoded date                             : UTC 2013-02-02 18:20:50
+Tagged date                              : UTC 2013-02-02 19:44:26

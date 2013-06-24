@@ -1,0 +1,10 @@
+Kon-Boot is an application which will silently bypass the authentication process of Windows based operating systems. Without overwriting your old password! Easy to use and excellent for tech repairs, data recovery and security audits.
+
+Commercial Kon-Boot version works with both 64-bit and 32-bit Microsoft Windows operating systems and also include privilege escalation and sticky keys feature.
+
+What's new in version V2.1?
+- Windows 8 support (only standard BIOS, no EFI support)
+- Sticky keys feature* (see our new video)
+- To stay up to date follow us on twitter (@theLEAD82) 
+
+* - this is a new Kon-Boot escalation feature which allows user to spawn a console window with system admin rights before the user is logged in. Kon-Boot allows you to get console window while the Windows login screen is still active

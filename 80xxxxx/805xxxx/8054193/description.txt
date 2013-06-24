@@ -1,0 +1,36 @@
+
+Summary
+
+Compressor version 4.0.6 is an update to Compressor 4. The update is recommended for all users of Compressor 4.
+Products Affected
+
+Compressor 4
+
+Compressor version 4.0.6
+
+This update improves overall stability and performance including:
+
+    Fixes an issue with uploading clips larger than 1 GB to Vimeo.
+
+ 
+
+For more information visit www.apple.com/finalcutpro/compressor.
+ 
+ 
+Compressor version 4.0.5
+ 
+This update improves overall stability and performance including:
+
+    Improved cluster setup eliminates the need to have Compressor open on all cluster nodes.
+    Ability to use encoding clusters without administrator authentication.
+    Addresses an issue related to third-party QuickTime components that could prevent Compressor from opening.
+
+ 
+
+Compressor 4.0.4
+
+Compressor version 4.0.4 improves overall stability and performance including:
+
+    Enhancements to Share Monitor for MacBook Pro (Retina, Mid 2012).
+    Resolves a stability issue that could occur when selecting the Publish to YouTube job action from the Inspector
+

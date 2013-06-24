@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,yfjfrj,2013-01-18T20:47Z,"MediaInfo:
+Общее
+Уникальный идентификатор                 : 210571966301480197529435655471064765640 (0x9E6AAF7F3649E426AC07565F1C0954C8)
+Полное имя                               : C:UsersIvanDesktoptempDollman_1991Dollman_1991.mkv
+Формат                                   : Matroska
+Версия формата                           : Version 2
+Размер файла                             : 1,37 Гбайт
+Продолжительность                        : 1 ч. 23 м.
+Общий поток                              : 2341 Кбит/сек
+Дата кодирования                         : UTC 2013-01-17 14:50:24
+Программа кодирования                    : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Библиотека кодирования                   : libebml v1.2.3 + libmatroska v1.3.0
+
+Видео
+Идентификатор                            : 1
+Формат                                   : AVC
+Формат/Информация                        : Advanced Video Codec
+Профиль формата                          : High@L3.0
+Параметр CABAC формата                   : Да
+Параметр ReFrames формата                : 4 кадра
+Идентификатор кодека                     : V_MPEG4/ISO/AVC
+Продолжительность                        : 1 ч. 23 м.
+Номинальный битрейт                      : 2211 Кбит/сек
+Ширина                                   : 704 пикселя
+Высота                                   : 576 пикселей
+Соотношение сторон                       : 1,299
+Соотношение сторон в оригинале           : 4:3
+Режим частоты кадров                     : Постоянный
+Частота кадров                           : 25,000 кадров/сек
+Стандарт вещания                         : PAL
+Цветовое пространство                    : YUV
+Субдискретизация насыщенности            : 4:2:0
+Битовая глубина                          : 8 бит
+Тип развёртки                            : Прогрессивная
+Бит/(Пиксели*Кадры)                      : 0.218
+Библиотека кодирования                   : x264 core 129 r2230 1cffe9f
+Настройки программы                      : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=2211 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Язык                                     : English
+Default                                  : Да
+Forced                                   : Нет
+
+Аудио
+Идентификатор                            : 2
+Формат                                   : AAC
+Формат/Информация                        : Advanced Audio Codec
+Профиль формата                          : LC
+Идентификатор кодека                     : A_AAC
+Продолжительность                        : 1 ч. 23 м.
+Каналы                                   : 2 канала
+Расположение каналов                     : Front: L R
+Частота                                  : 48,0 КГц
+Метод сжатия                             : С потерями
+З"

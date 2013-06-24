@@ -1,0 +1,139 @@
+murphy78 presents Windows 8 AIO 18in1 x64 x86 en-US Jan2013
+This AIO supports x86 Boot recovery and Windows Upgrade
+x64 Boot recovery mode and Windows Upgrade not supported
+on this hybrid 18in1. Use x64 9in1 for those features.
+Hotfixes included bring install current to Jan8 patch date
+NETFX2-3.5.1 IS BACK!!!
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Versions you can activate with KMS are:
+Windows 8 Pro, Windows 8 Pro N, Windows 8 Pro VL,
+Windows 8 Pro N VL, Windows 8 Enterprise,
+Windows 8 Enterprise N
+
+Versions that cannot be activated with KMS are:
+Windows 8, Windows 8 N, Windows 8 Pro with Media Center
+
+There is no known crack for non-kms retail versions. Use them
+only if you have a backed up activation from a previous
+loophole or if you have purchased a key for said version.
+
+For said Volume versions, use the KMSNano activation
+program included, or get a newer version of kmsnano or
+kmsmicro.
+
+LaNanov11.zip contains the release by heldigard.
+I have tested this release by running kmsnano.exe
+directly from the zip file. Takes about 110-120 secs.
+Every kms activation activated the first try.
+
+Test did not require volume pre-conversion.
+Upgrading from another windows may require fixing system
+files. You can do this by running admin command prompt
+command "SFC /SCANNOW"  This will fix any duplicate files
+or inconsistencies.
+
+More info on how to manually set up different activation
+methods are included in the lananov11.zip file.
+Read the enclosed text file for more information
+
+64-bit MSDN Sources:
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_n_x64_dvd_916091.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_x64_dvd_915440.iso
+
+32-bit MSDN Sources:
+en_windows_8_enterprise_n_x86_dvd_918707.iso
+en_windows_8_enterprise_x86_dvd_917587.iso
+en_windows_8_n_x86_dvd_916097.iso
+en_windows_8_pro_n_vl_x86_dvd_918877.iso
+en_windows_8_pro_vl_x86_dvd_917830.iso
+en_windows_8_x86_dvd_915417.iso
+
+Thess RTM Sources are the final Build 9200
+
+Installation Indexes:
+Windows 8 (x86)
+Windows 8 N (x86)
+Windows 8 Pro (x86)
+Windows 8 Pro N (x86)
+Windows 8 Pro VL (x86)
+Windows 8 Pro N VL (x86)
+Windows 8 Enterprise (x86)
+Windows 8 Enterprise N (x86)
+Windows 8 Pro with Media Center (x86)
+Windows 8 (x64)
+Windows 8 N (x64)
+Windows 8 Pro (x64)
+Windows 8 Pro N (x64)
+Windows 8 Pro VL (x64)
+Windows 8 Pro N VL (x64)
+Windows 8 Enterprise (x64)
+Windows 8 Enterprise N (x64)
+Windows 8 Pro with Media Center (x64)
+
+Release File:
+Win8AIO-18in1-x64-x86-en-US-Jan2013.iso
+Size: 6.86GiB
+CRC32: FE656AAF
+MD5: 2C8E9646D3B3FC4BCAB926E2C88A2853
+SHA-1: DBBA008BCEF407D48432EC28858DFE715FC3C60C
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU KB hotfix integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2751352-v2, KB2753842-v2,
+KB2756872, KB2756923, KB2757638, KB2758246-v2, KB2761094,
+KB2761465, KB2764462, KB2764870, KB2768703, KB2769034,
+KB2769165, KB2769166, KB2770660, KB2770917, KB2771744,
+KB2771821, KB2777166, KB2777294, KB2778171, KB2778930,
+KB2779562, KB2779768, KB2780342, KB2780523, KB2780541,
+KB2782419, KB2783251, KB2784160, KB2785094, KB2785220,
+KB2788350, KB2790920, KB2792009, KB2796096
+
+x86-only kb files added via add-package dism:
+KB2788261
+
+KB Files added during setupcomplete.cmd phase:
+KB890830-v4.16 (Recent Malicious software removal tool)
+KB2758694 (xml4 exe only hotfix)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe only hotfix)
+
+Use the included Advanced Tokens Manager 3.5b3 to backup your
+Activation. Newer versions don't support KMS activation.
+For ProWMC users, you can use whatevever version you used
+when backing up your original activation.
+
+Changes from recent Windows 8 x64 and x86 releases:
+-Added IE security, but moved to offline install.
+Reboot is not needed during setupcomplete.cmd phase.
+-Added .NET 2-3.5.1
+Offline hotfixes used for netfx3
+-ei.cfg changed to retail channel.
+Volume channel was being problematic even though
+the only known activation method that works is KMS.
+Every single install tested perfectly on activating KMS
+or restoring backup in ProWMC with Tokens Manager
+Enterprise gives incorrect pre-release eula because of
+being set to retail, but it does not affect the install.
+Once you activate with kms, it correctly sets to volumekms.
+I may add an accepteula line to unattend.xml for future
+AIO versions.
+
+Enjoy Pirates,
+murphy78-TPB :)

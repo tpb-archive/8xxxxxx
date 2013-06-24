@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,greenwheel,2013-01-23T04:32Z,bless u sir!
+,nm3ez,2013-01-23T04:51Z,got anything smaller ?
+,Hoirc88,2013-01-23T04:58Z,Thanks dude I'm excited for this new season. It feels like season 16 just ended yesterday lol..
+,Hoirc88,2013-01-23T04:59Z,"@ nm3ez
+
+He is probably working on the smaller version right now. It's usually up shortly after the 720p one, so just hang tight if you don't want this one."
+,Angelton,2013-01-23T05:03Z,Thank ya kindly for getting this up so quickly.
+,jehanalov,2013-01-23T05:04Z,"I'm trying to figure out why these torrents always seem to skip(drop frames) for me, especially when the action picks up.  My drive, cpu and gpu don't come anywhere close to maxing out, so I'm wondering whether I need a different codec, or need to look for a bottleneck somewhere else.  Any ideas?"
+,Hoirc88,2013-01-23T05:45Z,"I just have the DivX codec pack and use KMPlayer or VLC, works great."
+[V],SecTPB,2013-01-23T05:46Z,"@jehanalov
+CPU and RAM doesn't have to max out for it to not be able to keep up. The video processes the frames, and the CPU deciphers it. What matters is the speed of your CPU clock. It needs to keep up with the 60FPS, which is quite a bit to process. I also don't know what system you're running so I can't give advice in detail, but if you're running on Windows, I'd make sure to utilize the LAV video and audio codecs on your system. The Shark007 codec pack is the best and most efficient pack of codecs for Win7/Win8. For a player, I highly suggest trying Windows Media Player, since it seems to be the best at handling transport streams in general, even though it's a lousy player. Personally, I use Media Player Classic Home Cinema with LAV Video/Audio codecs inserted, and have a quadcore i7 clocked at 3.8GHz and I sometimes get lagged up(If I'm running my TV software, or encoding video all at the same time usually), and switching to WMP actually fixes my issue. It's a very good native player if you allow it to utilize LAV. Give Shark007 pack a try with WMP and see what happens."
+,Fitchhh,2013-01-23T14:44Z,Thank yawwww
+,SubJunk,2013-01-24T10:38Z,"Hi Secludedly, thanks for the release, you're the best!
+I usually get your releases for the 60FPS but this release is not 60FPS; the file is encoded at 60FPS but the episode itself is 23.976. If you go frame-by-frame you will see that 3 out of every 5 frames is a duplicate.
+If they keep airing it at that framerate it would be better to release it at 24p because then at least our TVs can smooth it out; with the duplicate frames it will be juddery on any hardware.
+Thanks again for the great releases, I'm a huge fan!"
+,chaiyont2,2013-01-24T13:05Z,"Thank you for the effort, but jitter is very bad. "
+,Ares-The-Wreckless,2013-01-25T07:27Z,@nm3ez & Angelton - THATS WHAT SHE SAID! lol
+[V],SecTPB,2013-01-25T14:44Z,"@SubJunk
+Well, SubJunk, that's one of the many reasons I also upload a standard encoded version, because even if it's captured at a framerate that doesn't match how the signal picks it up, I still re-encode it to 29.970, though to be honest, TUF airs with a very unique way of emanating frames and framerate. It's not just the file, but while watching it on TV I noticed just a gentle stutter to it. It's also apparent in this TS rip of it since it's the same thing. And oddly, not every frame is duplicated. Some are single-framed, some doubled, some tripled. It's as if they RECORDED the show in a variable frame rate, while the BROADCAST streams it to TV at a constant framerate. That's my guess at least. The same jitter effect is present even in the 29.970 version, so it's not the framerate of my files. Still, I rip the 720p60fps because it's smaller in size and I can upload it immediately, and the smoothness is beautiful, but with this show I am thinking about taking an alternate route and capping it in full quality 1080i and then just re-encode with the exact broadcast framerate of 29.970, but downscaled and deinterlaced into 720p. Though that means there will be no immediate releases after airing. Releases of the show will be delayed by about 45 minutes to an hour, or more. We'll see. Maybe I'll just do 3 versions: 720p60fps after airing/capping, then encode the 720p30fps, then the 400p30fps. I'll figure it out.  "
+,dagsbouch,2013-01-25T15:00Z,Can anyone tell me why Dana would say that the 21 year old in this episode was the youngest in TUF history when there was a 19 year old in the AUS V UK ? 
+,SubJunk,2013-01-26T23:18Z,"@SecTPB: Darn, I hate it when they do framerate weirdness, I'm dealing with an unpredictable framerate encode too and it's so frustrating! Thanks :)"
+,saguinus,2013-01-30T00:56Z,"Thank You for the UP sir. 
+
+I have found that Win Media Player plays the .TS files just fine, where VLC and WMP Classic crap out.  Thanks again."

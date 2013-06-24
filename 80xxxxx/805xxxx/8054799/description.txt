@@ -1,0 +1,37 @@
+.ISO file containing the game, 3 expansions and a patch to translate the game o english. 
+
+The patch can be found here: 
+http://thepiratebay.se/torrent/8054796
+
+
+INSTALLATION:
+
+1. Open the .ISO and install the following files on the same folder:
+2. Install RBOSetup.exe (you don't have to mark any checkboxes)
+3. Install RBOex1setup.exe
+4. Install RBOex2setup.exe
+5. Install RBOex3setup.exe
+6. Put the files found on RBOPatch009 on the folder where the game was installed
+
+now the game is installed, now you have to configure it before playing:
+
+CONFIGURATION:
+
+Open RBOEx3Config.exe and configure the controls to your liking
+
+Open rbo_ex1.exe and a window will pop up asking you do link to the diretory where the Ex1 was installed. After you linked them to the folder where you installed everything, do the same thing for the other expansions: rbo_ex2.exe and rbo_ex3.exe
+
+After linking everything, use rbo_ex3.exe to play the game, if you use other executable the game will crash because of the translation patch you installed.
+
+CONTROLS:
+
+A weak attack
+B strong attack
+C block
+D special
+
+More information about skills, combos and characters can be found on the wiki: 
+http://rbo.wikia.com/wiki/Ragnarok_Battle_Offline_Wiki
+
+Have fun!
+

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,tasawuf,2013-01-26T15:41Z,"Pertamax!
+Nice share bro murphy78 
+i like win 8 that included NET. Framework 3.5 like this os"
+,anarchist9027,2013-01-26T16:01Z,"Damn Murphy78, where the hell is your Green Skull already??"
+,shukree,2013-01-27T01:58Z,"thanks murphy78
+can i ask about  missing ""Add Features to Windows 8"" when trying to add WMC to this W8Pro ?
+just for curiosity."
+,nisgos,2013-01-27T07:47Z,"Murphy i saw a 32bit version here that also include ofice preactivated , can u do one too , the dvd is already more than 4.37"
+[V],murphy78,2013-01-27T07:51Z,"You can only add that to Retail Pro. It is disabled in PRO VL. You won't be able to upgrade to prowmc and actually activate it, even if you have the free upgrade key. MS shut down the KMS activation workaround.  First they blocked the KMS, then they blocked the workaround for data.dat swap. I believe they also blocked the phone method swap, though I haven't personally tested it.
+
+If you actually bought Windows 8, just use my normal Jan2013 pro retail version or the one from the AIO."
+[V],murphy78,2013-01-27T07:53Z,"nisgos, I probably could, but I won't.
+If you want to have no problems with activation in Office 2013, get a VL operating system and a VL version of Office, preferably with the same processor architecture (x86, x64)."
+,nisgos,2013-01-27T12:02Z,Murphy can u please point me a easy activation to office 2013 to use with this torrent
+,nisgos,2013-01-27T12:15Z,"Murphy can u please point me a easy activation to office 2013 to use with this torrent , And where is ur green skull."
+[V],murphy78,2013-01-27T22:39Z,"either just run the one from inside the windows_setup_kmsnano folder, or click my name and get the latest version to activate your office. It could be that the trigger already checks office activation on boot, you might just need to reboot."
+,swimtwobirds,2013-01-28T22:19Z,Hi Spud - Please reseed this - I am not getting any peers - Thanks!
+,swimtwobirds,2013-01-28T22:26Z,"Murphy78 - what is wrong with this DL?  TPB list over 500 leechers and 129 seeders, but I am getting no peers - is there some kind of password required?"
+,dubblix,2013-01-29T01:26Z,"Hey Murphy, excellent work.
+
+One question: I'm noticing higher boot times than I expected. Is there any chance the trigger is running every time instead of checking for time remaining and running when needed? I assume the trigger would cause longer boot times, as well. However, I'm clueless when it comes to the ins and outs of how this actually works."
+[V],murphy78,2013-01-29T01:56Z,"swimtwobirds, try allowing encryption?
+
+dubblix, nope, the trigger check takes like a tenth of a second at the most. Your comp is slow for another reason."
+[V],murphy78,2013-01-29T12:50Z,full-packs_com libertycity...
+,philmont,2013-01-29T18:32Z,"OK, I downloaded but cannot put on DVD.  I realize that your comments reflect that, but just what is the workaround (for dummies like me). Thanks for the upload."
+[V],murphy78,2013-01-29T23:30Z,"philmont, dual-layer dvdr or usb flash drive"
+,zippy1947,2013-01-30T06:13Z,"cannot get this to burn properly on dual layer dvd...using imgburn, at slow speed... tried twice and both times, times out at synchronizing the closing cache... anyone else have this problem?"
+[V],murphy78,2013-01-30T17:45Z,"Right click the file and burn with the built-in iso burning tool that's been in windows since forever.
+DVD burning programs are garbage. The one that comes with the operating systems have never failed me, ever."
+[V],murphy78,2013-01-30T19:23Z,I don't include kb files that aren't requested by windows update.
+[V],murphy78,2013-01-30T19:29Z,"libertycity, read up on dism. It's been included in windows since windows 7 came out. It was basically a combination of a few tools like pkgmgr and imagex that integration gui frontends were based on.
+
+My process is roughly as follows on the kb files.  First I do a fresh install from the rtm. Then I check windows update. I copy all the msu hotfixes from my old kbfiles folder and download any new ones I need directly from ms download center.
+
+For the Integration I basically mount the image with dism, run the dism /add-package command pointed at my updated kbfiles folder, then unmount with the /commit.
+
+As far as not trusting full-packs, you don't have to. Compare the sha-1 from msdn with the one you create by extracting the rars.
+You do this by getting something like hashtab."
+,jrsfalcons,2013-02-01T06:38Z,Please excuse me if this is a dumb question. Am I able to upgrade with this? Or is this just for a fresh install?Thanks!
+,_OoO_,2013-02-07T14:25Z,"@murphy78
+Thanks man 
+downloaded and installed
+working like a charm
+
+thanks again bro"

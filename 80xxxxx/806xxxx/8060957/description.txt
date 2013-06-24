@@ -1,0 +1,76 @@
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 443 MiB
+Duration                                 : 1h 22mn
+Overall bit rate                         : 751 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 22mn
+Nominal bit rate                         : 647 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.120
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 22mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper ETRG (Thanks)
+
+IMDB Info:
+
+Four children in their attic hideaway make up a fantastic story, while downstairs their parents weave a drunken intrigue of their own.
+
+Director: Julia Dyer
+Writer: Gretchen Dyer
+Stars: John Hawkes, Molly Parker and Cody Linley
+
+Genres: Drama
+ 
+http://www.imdb.com/title/tt1815998/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/33702857671542889453.png 
+http://www.shotpix.com/images/99811741846269920647.png 
+http://www.shotpix.com/images/71726845564403042540.png 
+http://www.shotpix.com/images/60026276722620010585.png

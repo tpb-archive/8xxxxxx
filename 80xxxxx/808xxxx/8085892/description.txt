@@ -1,0 +1,34 @@
+Please read:
+I'm not uploading the patched executables any more as my account got flagged for posting 'infected' content, MFA shows up as having a suspicious infection on virustotal lol. So deal with it - I'm more than happy to help resolve any problems with the patcher! Please post in the comments below if you have any trouble. :)
+----------------
+
+Mono for Android 4.4.55 Executable Patcher (4.4.55.104956787)
+
+Website: http://xamarin.com/monoforandroid
+Protection: Packed .NET Executable with license verification.
+
+INSTRUCTIONS
+
+1. Download & Install MFA 4.4.55 from the Official Website.
+2. Run Patcher.
+3. Click Patch.
+
+--
+Prerequisites & Notes:
+- The patcher requires .NET Framework 4.0 or higher. :) (http://www.microsoft.com/en-us/download/details.aspx?id=17718)
+- The patcher will only work with version 4.4.55.104956787
+- The required assemblies and patch data are packed into the patcher. (There was a problem with the name of the namespace in my last upload, my bad - fixed now)
+- If you get any errors, please let me know in the comments.
+- If the patcher says "Patching failed, target executable does not match expected MD5." then delete mandroid.exe from "C:\Program Files (x86)\MSBuild\Novell\" (no (x86) if you are using a 32-bit system) then run the installer again and repair the installation.
+
+
+ENJOY!
+
+If you like the software, buy it!
+
+Cracked with love from New Zealand.
+[DLPC.Xtse]
+ 
+https://www.virustotal.com/file/638359ad30a9245c5d148651ce2435250e99c43da0bb137fdfd170f4c4cd4819/analysis/
+
+I've left the patcher unpacked, unobfuscated & unconfused so you reversers can reverse it and see that there's nothing dodgy. :)

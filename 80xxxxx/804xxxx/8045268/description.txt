@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Comedy : DVD Rip : English, 10mins 19secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1931 Snakes Alive
+
+Bobby Jordan at 8yrs old, four years before starting the play Dead End, in one of his first film appearances.
+  
+http://www.imdb.com/title/tt0439297/	
+
+[12:51:31] starting job
+[12:51:31] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[12:51:31] job configuration:
+[12:51:31]  * source
+[12:51:31]    + C:Penrod & Sam
+[12:51:31]    + title 1, chapter(s) 1 to 2
+[12:51:31]  * destination
+[12:51:31]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam Snakes Alive.mkv
+[12:51:31]    + container: Matroska (.mkv)
+[12:51:31]      + chapter markers
+[12:51:31]  * video track
+[12:51:31]    + decoder: mpeg2
+[12:51:31]      + bitrate 9558 kbps
+[12:51:31]    + frame rate: same as source (around 29.970 fps)
+[12:51:31]    + strict anamorphic
+[12:51:31]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[12:51:31]      + pixel aspect ratio: 10 / 11
+[12:51:31]      + display dimensions: 638 * 480
+[12:51:31]    + encoder: x264
+[12:51:31]      + options: ref=2:bframes=2:me=umh
+[12:51:31]      + bitrate: 398 kbps, pass: 2
+[12:51:31]  * audio track 0
+[12:51:31]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[12:51:31]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[12:51:31]    + mixdown: Stereo
+[12:51:31]    + encoder: faac
+[12:51:31]      + bitrate: 160 kbps, samplerate: 48000 Hz

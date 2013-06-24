@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,danitebal,2013-01-15T22:16Z,"Works great !!! I have Win 7, 64-bit. Manually Installation of certificate. 
+TKS uploader !!!"
+,tajammata,2013-01-16T04:59Z,"@danitebal
+Kindly leave some feedback if this installation leaves a bad legacy. No reflection on TorDigger but past experience has shown that this is a hard nut to crack. Thanks."
+,danitebal,2013-01-17T20:01Z,"@tajammata
+Unfortunately you were right. the program connected to internet and stealthily invalidated certificate :(((((."
+,slipnerd,2013-01-19T07:48Z,Thanks! Working fine.. Just don't forget to block the programs with firewall before going online.
+,foxman05,2013-01-25T04:07Z,"It's a solid torrent but I screwed up and didn't block it in firewall on one computer (FU%@#$!!). Does anyone know how to remove the license ban? 
+
+I tried system restore to no avail. There are instructions of how to clear the ban for Dopus 9 but I think they've changed or added more registry keys to enforce the ban."
+,brikeh24,2013-01-25T12:54Z,"here is a link to rest the trial
+http://thepiratebay.sx/torrent/8027916/Directory_Opus_10.x_Trial_Reset_by_Ehsan
+
+If you got blacklist already, uninstall, reboot and do the following commands.
+Try to change some paths that match with your system.
+
+del /A ""%programfiles%GPSoftwareDirectory Opusdopus.dat""
+del /A ""%programfiles%Directory Opusdopus.dat""
+del /A ""%appdata%GPSoftwareDirectory Opusdopus.dat""
+del /A %windir%xpcc37.log
+del /A %windir%system32argtmp39.dll
+del /A %windir%system32inf32*
+
+attrib -s -h -r ""C:UsersAll UsersGPSoftwareDirectory Opusdopus.cert""
+del /A ""C:UsersAll UsersGPSoftwareDirectory Opusdopus.cert""
+
+REG DELETE ""HKEY_CURRENT_USERControl PanelInternationalTime""
+REG DELETE ""HKEY_CURRENT_USERSoftwareMicrosoftClock""
+REG DELETE ""HKEY_CURRENT_USERSoftwareMicrosoftFile ManagerSettings""
+REG DELETE ""HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerBitBucketTrashInfo""
+REG DELETE ""HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerComDlg32DlgInfo""
+REG DELETE ""HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsCurrentVersionApp ManagementAppDataBucket""
+REG DELETE ""HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionExplorerDesktopInterfaceMethod""
+REG DELETE ""HKEY_CLASSES_ROOTCLSID{CBE4B0D2-C4FC-45E3-976C-7D2E951DD34B}""
+REG DELETE ""HKEY_LOCAL_MACHINESOFTWAREClassesCLSID{CBE4B0D2-C4FC-45E3-976C-7D2E951DD34B}""
+
+REG ADD ""HKEY_CURRENT_USERControl PanelInternationalTime""
+REG ADD ""HKEY_CURRENT_USERSoftwareMicrosoftClock""
+REG ADD ""HKEY_CURRENT_USERSoftwareMicrosoftFile ManagerSettings""
+REG ADD ""HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerBitBucketTrashInfo""
+REG ADD ""HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerComDlg32DlgInfo""
+REG ADD ""HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsCurrentVersionApp ManagementAppDataBucket""
+REG ADD ""HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionExplorerDesktopInterfaceMethod""
+this worked for 10.0.2.4269 ver I don't know about the 10.2
+I hope this helps, Opus is a great program if you like it buy it, so that the company that makes it want go down. "
+,alex0008,2013-01-27T23:51Z,"I can't comment on how strong the anti-crack force is with this version, but i can verify that the certificate works with the Dopus i just now downloaded from the Dopus website:  v10.2.0.0 build 4654 (x64)"
+,brikeh24,2013-01-31T13:05Z,"Every one is having trouble with the certification after installing the certification, you can not be on the internet when you install Opus pro 10, after installing and adding the copying the certification   you have to un-check the check for news and update program from the from the Setting -> preference -> internet -> update. If you go on the black list follow my instructions how to reinstall the program you want be able to with out it not even pro uninstallers work with it."
+,SunMessiah,2013-02-01T16:11Z,"I disconnected from the Internet and successfully installed DO yesterday afternoon. After installing and adding the certification I went into Setting > preference > internet > update and un-checked the Box for news and updates to the program. Finally, I set my firewall to warn me when any new program tries to connect to the Internet.
+
+This morning I got a pop-up indicating that GP Software and Directory Opus where trying to make connections. I set the firewall to block all connections. Directory Opus worked fine for several more hours. 15 minutes ago I closed DO and relaunched it only to get the following message:
+
+"" The installed Program Certificate has expired.
+
+The Program Certificate validates your license to use Directory Opus. A valid Program Certificate must be installed before Directory Opus will run. (2001D)"" "
+,scijam,2013-02-18T01:46Z,"Possible found an easy way to block updates. Just enable proxy server, put in a fake server address and port number. Uncheck Authentication if you want. So for it seems to work. I even tried to manually update and it did not go thru."

@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+[T],Heartofthorns,2013-01-30T10:19Z,Enjoy :)
+,lolzob,2013-02-06T19:02Z,thx
+[T],Heartofthorns,2013-02-08T16:07Z,"@ lolzob
+You're welcome :)"
+,dominevski,2013-02-19T03:19Z,"Adware, Trojan TROJ_GEN.RCBCFB4"
+[T],Heartofthorns,2013-02-20T16:05Z,"@ dominevski
+It's obviously a false positive."
+,DataBill,2013-02-21T18:36Z,"Hello all, Dose DAS loader install these 2 files
+
+C:WindowsInstaller59abc.msi:ISSetupFile.SetupFile2
+
+C:WindowsInstaller59abc.msi:ISSetupFile.SetupFile1
+
+If DAS dose Install these programs do I need them after activation??
+
+My virus program is showing them as a Trojan horse Agent_r.BTU"";""Infected
+
+Can someone please help me with this... thanks"
+,DataBill,2013-02-21T19:19Z,"lol Ok I can't spell, Dose DAZ loader install the 2 files listed above .."
+[T],Heartofthorns,2013-02-22T21:19Z,"@ DataBill
+I searched my comp, I don't have that C:/Windows/Installer folder. Where did you download your Windows 7 from? All Daz loader does is insert a SLIC when your Windows boots. 
+For more information see here : http://forums.mydigitallife.info/forums/39-Windows-Loader"
+[T],Heartofthorns,2013-02-22T21:26Z,"@ DataBill
+Oops sorry I rechecked, I do have that folder. Wasn't in hidden folders so thought it wasn't there. Had to manually type that into address bar.
+Try uninstalling the loader and then scanning. Does it give the same message? If yes, then the problem isn't with Daz loader. Some other software installer probably has something infected. "
+,antbriel,2013-03-09T04:34Z,"Hey @Heartofthorns, I used this to activate Windows 7 on my Dell (which was great, it worked flawlessly) but when I tried on my Gateway laptop it failed. What should I do? Thanks in advance!"
+[T],Heartofthorns,2013-03-10T07:41Z,"@ antbriel
+Check the ""Read me"" file included in the torrent. See if any of the solutions given there help solve your problem."
+,jashamara,2013-04-01T11:48Z,"installed this in feb, everything was good, windows 7 build 7600 was activated... got updates and stuff.
+now today, my windows 7 build has been updated to 7601 and NOW IM GETTING THE MESSAGE, THIS COPY OF WINDOWS ISNT GENUINE.
+tried to reinstal windows loader, but no help.
+
+now what?!?!?!??!?!"
+[T],Heartofthorns,2013-04-02T03:10Z,"@ jashamara
+I have build 7601 and have had no problems yet mate after activating. Maybe you installed update KB971033 (Windows Genuine related update). Go to Windows Update and check if it's installed in ""View Update History"". If it is, search google for ""How to remove/uninstall KB971033"". There's many solutions there. 
+Also, you might want to select ""Check for updates but let me choose whether to download and install them"" in Windows Update settings. So you can manually see if KB971033 update is there. Don't install it. If you find KB971033 update, right click it and select ""Hide Update"".
+If you still have the problem, post here or on piratebay forums (  https://forum.suprbay.org ). Many people there will be able to help you."

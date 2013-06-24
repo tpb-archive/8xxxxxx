@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,GObonzo,2013-01-16T18:49Z,paste changelog.txt so we can read b4 dload
+[T],Totenkruez,2013-01-16T20:50Z,"
+Baldurs Gate Enhanced Edition v1.0.2011 Update info:
+
+
+Crash Fixes:
+
+- Fixed crash when changing areas
+- Fixed crash when clicking outside of the map
+
+Features:
+
+- New movie for resting in dungeon and inn
+- Adjusted introduction video due to customer feedback and Coriander's threats of violence (You may have thought that complaining about the Nietzsche quote was pointless...)
+- Various UI screens touched up
+
+Bug Fixes:
+
+- Thieves and bards XP cap has been modified
+- Monks and clerics XP cap has been modified (Black Pits)
+- Quest/Journal log fixes
+- Damage Modifier display has been retooled
+- Taerom no longer drops Ankheg Shells
+- Fixed issues with Dorn's dialogue and alignment
+- Fixed issues with Neera's dialogue
+- Neera's encounter with Edwin has been touched up
+- Minsc joining issues have been resolved
+- Switching to default soundset works
+- Quasit Familiar can now cast blur
+- Trolls in Cloud Peaks now give XP
+- Kryll's skeletons now give XP
+- Wild Surge text has been corrected
+- Auto-save date and time error resolved
+- Delainy/Durlyle flower quest has been fixed
+- Some items now show the proper ground icons
+- Silke responds correctly to player's actions
+- Red Sheaf Inn displays the proper rumors
+- Gnoll duel works correctly
+- Summoning Flame Blades no longer causes a penalty
+- Killing Dorn before his encounter has been fixed
+- The Great Gazib will no longer spawn more than one orge
+- Algernon and Nimbul's dialogue issues fixed
+- Reevor's quest can always be completed
+- Jospeh's Ring quest is now completable
+- Certain area lightmaps have been updated
+- No reputation loss when fighting certain characters
+- Detect Evil's description has been corrected
+- Creatures decreased in South Beregost Road's cave
+- Tutorial items no longer sellable when exported to main game
+- Shandalar's Cloak no longer equip-able by monks
+- Certain quest items can no longer be pick-pocketed
+- Interaction with Shaella has been improved
+- Phlydia speaks the proper lines after her quest
+- Marl will approach player even after resting
+- Coran takes player's NPC Reaction into account and join level modified
+- Cursed Ring of Slight Monsterism now changes character's appearance to zombie
+- Nadarin's quest now pays the corrects amount of gold"
+,GObonzo,2013-01-18T13:36Z,thank you
+,a982121,2013-01-27T00:49Z,Please help!! Can anyone tell me how to enable the add item cheats? Regular install had a .ini that could be edited. This one doesn't.
+,MixHa,2013-02-02T15:10Z,"When I run the game, it starts with black screen and crashes. Many people have this problem with original too, not found ANY working solution to this problem.
+Any new ideas?"

@@ -1,0 +1,27 @@
+Aula 01: Nesta aula de introdução, aprenderemos os conceitos de Internet e HTML, nivelando os conhecimentos necessários para o curso.
+Aula 02: Configuraremos um servidor local para rodar as nossas aplicações em PHP e aprenderemos o que é um servidor de forma prática.
+Aula 03: Construiremos o nosso primeiro script PHP e aprenderemos como funciona o mecanismo que interpreta essa linguagem.
+Aula 04: Aprenderemos como funcionam as variáveis em PHP desde sua noção básica e sua utilização.
+Aula 05: Aprenderemos como funcionam os operadores em PHP onde faremos como exemplo um script que efetua operações matemáticas e as apresenta ao usuário, também instalaremos o PHP Editor.
+Aula 06: Aprenderemos como a passagem de variáveis entre página no PHP. Nesta web aula exploraremos a passagem de variáveis através de URL.
+Aula 07: Criaremos um formulário utilizando HTML e entremos como é feita a passagem de variáveis via POST.
+Aula 08: Nesta web aula faremos o download do Dreamweaver e configuraremos o mesmo para trabalhar localmente com o servidor.Criaremos um formulário de contato em HTML utilizando o Dreamweaver.
+Aula 09: Nesta web aula aprenderemos a criar um formulário de contato utilizando as funções de e-mail do PHP onde faremos verificações básicas e chamaremos a funçãos de envio de e-mail.
+Aula 10: Nesta web aula complementaremos nosso formulário de contato e utilizaremos a estrutura IF e algumas funções de Strings para verificar se o e-mail digitado é válido.
+Aula 11: Nesta web aula aprenderemos os conceitos básicos de array e como implementar em PHP.
+Aula 12: Nesta web aula aprenderemos como implementar loops em PHP utilizando FOR, WHILE e Do-WHILE.
+Aula 13: Nesta web aula começaremos a tratar sobre funções, fazendo uma introdução formal ao assunto e aprenderemos como chamar funções.
+Aula 14: Nesta web aula daremos continuidade ao assunto funções, onde aprenderemos como criar nossas próprias funções passando parâmetros e recebendo retornos das mesmas.
+Aula 15: Nesta web aula abordaremos as variáveis de ambiente, que nos fornecem várias informações sobre o usuário.
+Aula 16: Nesta web aula aprenderemos o que são e como utilizar os famosos cookies.
+Aula 17: Nesta web aula aprenderemos o que são e como utilizar as sessões do PHP.
+Aula 18: Nesta web aula aprenderemos como trabalhar com arquivos de texto, desenvolvendo um simples contador de acessos.
+Aula 19: Nesta web aula aprenderemos como trabalhar com diretórios, onde aplicaremos permissões, criaremos e excluiremos diretórios utilizando PHP.
+Aula 20: Nesta web aula aprenderemos como enviar arquivos para um servidor criando um script de upload de arquivos.
+Aula 21: Nesta web aula faremos uma introdução ao uso de banco de dados, onde irei tentar explicar os conceitos básicos e como devemos imaginar a utilização de banco de dados.
+Aula 22: Nesta aula aprenderemos como acessar e utilizar o phpMyAdmin.
+Aula 23: Utilizando apenas PHP aprenderemos como conectar no banco de dados, executar SQL e fechar a nossa conexão.
+Aula 24: Revisaremos os conceitos de conexão e aprenderemos a criar nossa primeira tabela em SQL e PHP.
+Aula 25: Criaremos nossas conexões e aprenderemos como inserir informações em nossa tabela, revisando os conceitos de registros e colunas.
+Aula 26: Aprenderemos como atualizar os registros e apagar os mesmos em nosso banco, dando ênfase a utilização do WHERE.
+Aula 27: Faremos consultas no nosso banco de dados, onde criaremos uma tabela contendo todos os registros cadastrados até o momento.

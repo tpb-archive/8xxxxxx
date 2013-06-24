@@ -1,0 +1,96 @@
+﻿User Type,Username,Date,Text
+,wil2200,2013-01-21T21:49Z,"Can't get it to work. I removed the previous version. Installed this. Used the 'keygen' but it says it can't find the file.
+Then I tried just exporting the license key - but every time Start8 starts up, it deletes the key...
+Not sure what the deal is...."
+,VÃ­vek,2013-01-22T13:43Z,not working for me. any guide for this.?
+,mizar,2013-01-22T17:21Z,Thank you! This is a very nice start button to Windows 8.
+,JosePetrOFF,2013-01-22T18:16Z,"Doesn't work for me either on Win 8 Pro x64 with an expired Start8 trial app (and yes,I followed the instructions to the letter)... any ideas?"
+,VÃ­vek,2013-01-25T15:23Z,not working!
+,morph3x,2013-01-25T16:10Z,"i found these 
+INSTALL NOTES:
+Install the Application
+Reboot your PC
+Go to the Desktop
+Start the Keymaker (as admin)
+Start the Task Manager
+Click on More Details
+Kill Start8
+Kill Start8 Configuration
+Kill Stardock Start8 Service
+Kill Windows Explorer
+Click ‘Patch’ in Keygen
+Save the License
+Reboot one last time
+Enjoy…
+
+after that i can patch the Start8 file."
+,morph3x,2013-01-25T16:12Z,"try this:
+INSTALL NOTES:
+Install the Application
+Reboot your PC
+Go to the Desktop
+Start the Keymaker (as admin)
+Start the Task Manager
+Click on More Details
+Kill Start8
+Kill Start8 Configuration
+Kill Stardock Start8 Service
+Kill Windows Explorer
+Click ‘Patch’ in Keygen
+Save the License
+Reboot one last time
+Enjoy…"
+,JosePetrOFF,2013-01-25T19:19Z,"Nope,still not working on a 8x64 Pro - 'can't open file' "
+,JosePetrOFF,2013-01-25T19:25Z,Ignore my last - my problem appears to be Windows-related and not patch related - I followed the instructions on  my other laptop and it worked the first time around :)
+,SunnyBay,2013-01-26T14:18Z,"This is sure to work for everyone:
+
+Install Start8 by running start8-setup.exe
+- Close the trial start window
+
+Open Task Manager
+-End all Start8/Stardock tasks
+-Restart Explorer.exe
+
+*IMPORTANT*: After restarting explorer.exe the Start8 Menu should disappear from the left corner toolbar
+
+Run keygen.exe
+
+-Save license to folder C:ProgramDataStardockRegistrations
+-The license key will be named like 'start8sig1234.bin'
+
+- Apply patch to Start8.exe in this folder C:Program Files (x86)StardockStart8
+
+- After a few seconds you will see a message popup ""Yep ! File Successfully Patched""
+
+Restart the Operating System
+- Done !"
+,jpmcnown,2013-02-03T00:51Z,"I can confirm that NONE of the instructions above work with Windows 8 Pro 32 bit. Ya get a ""Error =( Can't open file"""
+,Panzer_IV,2013-02-06T07:29Z,"I just uninstalled my expired Trial, reinstalled latest version and it still said expired as I expected.. then I followed exactly the instruction from (SunnyBay) just above my comment and it worked flawlessly.
+
+Obviously it won't be able to overwrite if you don't kill the application/service first (-_-) cmon guys it's really easy."
+[T],geloso,2013-02-07T01:26Z,"Os cuento como lo he hecho yo y me ha funcionado:
+-Desinstalar la version anterior
+-Cerrar y volver a abrir el explorador de windows y borrar el directorio c:Archivos de Programa(x86)Stardock
+-Instalar Start8 y cerrar la ventana de activacion.
+-Ejecutar el keygen como admin. y guardar la licencia (No cerrar el keygen)
+-Ctrl+Alt+Sup: Administrador de tareas: Finalizar todas las tareas Start8 en procesos
+-Finalizar tarea explorer.exe en la pestaña Detalles.
+-Aplicar ""patch"" del keygen
+-Reiniciar el sistema
+
+I tell you as I have done and it has worked:
+-Uninstall the previous version
+-Close and reopen Windows Explorer and delete the C: Program Files (x86)  Stardock
+-Install and close the window Start8 activation.
+-Run the keygen as admin. and save the license (not close the keygen)
+-Ctrl + Alt + Sup: Task Manager: End all tasks in processes Start8
+-End Task explorer.exe on the Details tab.
+-Apply ""patch"" the keygen
+-Reboot"
+,h3atz_br,2013-02-07T09:29Z,Don't forget to execute keygen with administrative privileges or he can't path the start8.exe file
+,voltron0,2013-02-21T14:20Z,"I kept getting the ""Error =( Can't open file""  no matter what I did, I finally copied the entire start8 directory to my desktop, then patched it and volla it worked... I then just deleted the old dir and copied in the one from my desktop. I hope this helps some people"
+,q2323,2013-02-28T16:42Z,"AVG says Trojan, MSE says nothing, anyways, doesnt work with the instructions provided. 
+
+Instrucitons from morph3x may work."
+,Fahkeye,2013-03-03T03:16Z,"this works on 32 bit win 8,  i had everything done but when i patched it said cant open file, i read geloso instruction and the thing i missed was killing explorer. once i did that the keygen worked  thanks to all. "
+,mizar,2013-03-03T22:25Z,I followed the instructions from SunnyBay and it worked flawlessly. Don´t forget to kill windows explorer in task manager. Thanks to all of you! This is file sharing!

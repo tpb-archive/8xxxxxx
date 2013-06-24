@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,karan.pant,2013-02-16T15:38Z,"This .zip file does not work.
+
+Tried extracting the files with 7 zip but shows error>
+
+Unsupported compression method and tried with winzip but no luck.
+
+Don't Download"
+,karan.pant,2013-02-16T16:05Z,"Hey iRlegend,
+
+I looked at your other uploads and really liked the response you gave to other people.
+So, I thought you wouldn't post some invalid files.
+
+I searched on Internet and yes 7-zip and winzip didn't work for me.
+After searching, I found that the zip file does not include ZIP Standards.
+
+So i searched for the solution and found uniextract, which worked for me.
+
+So thanks and sorry for my previous comment."

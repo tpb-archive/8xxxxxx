@@ -1,0 +1,43 @@
+                     Spring Security 3.1 - 2010kaiser
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+'Spring Security 3.1' is an incremental guide that will teach you how to protect your application from malicious users. You will learn how to cleanly integrate Spring Security into your application using the latest technologies and frameworks with the help of detailed examples.
+This book is centred around a security audit of an insecure application and then modifying the sample to resolve the issues found in the audit.
+The book starts by integrating a variety of authentication mechanisms. It then demonstrates how to properly restrict access to your application. It concludes with tips on integrating with some of the more popular web frameworks. An example of how Spring Security defends against session fixation, moves into concurrency control, and how you can utilize session management for administrative functions is also included.
+"Spring Security 3.1" will ensure that integrating with Spring Security is seamless from start to finish.
+
+What you will learn from this book:
+
+- Understand common security vulnerabilities and how to resolve them
+- Implement authentication and authorization
+- Learn to utilize existing corporate infrastructure such as LDAP, Active Directory, Kerberos, and CAS
+- Integrate with popular frameworks such as Spring, JSF, GWT, Maven, and Spring Roo
+- Architect solutions that leverage the full power of Spring Security while remaining loosely coupled
+- Implement common scenarios such as supporting existing user stores, user sign up, and supporting AJAX requests
+
+Title: Spring Security 3.1
+Author: Robert Winch, Peter Mularien
+Publisher: Packt Publishing
+Year: 2012 (December)
+Format: PDF
+
+2010kaiser home page at The Pirate Bay link below:
+
+  
+http://thepiratebay.se/user/2010kaiser/
+
+
+Check out the new PirateWiki! Where knowledge is shared ;-)
+
+           
+https://forum.suprbay.org/wiki/index.php?title=Portal:Main_Page
+
+
+For re-seed requests, help, support or anything else relating to The Pirate Bay. You'll find it all, and more, at suprbay. The official support forum of The Pirate Bay. Visit it at the link below:
+
+  
+https://forum.suprbay.org/ 
+
+
+ENJOY AND SEED!!!

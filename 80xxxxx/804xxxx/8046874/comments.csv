@@ -1,0 +1,55 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-21T12:37Z,"I couldn't get kmsnano to work on business, but luckily business supports OEM activation, and windows loader uses said OEM Activation. I think it's just a problem between kmsnano and vista. Online kms servers would probably work just fine on business, if you cannot get windows loader to work no matter what you try.  I have no idea why you would resort to Vista to do this, but to each his own.
+
+searchengine's OEM branding project:
+http://forums.mydigitallife.info/threads/15733-Windows-7-DVD-%28Multi-Brand-Multi-Edition%29-Activation
+daz's windows loader current release page:
+http://forums.mydigitallife.info/threads/24901-Windows-Loader-Current-release-information
+
+Mosy on over and give them a ""thanks"""
+[V],murphy78,2013-01-21T12:38Z,Again with the kb file added mistake in vista... I used vlite for package addition on these images. Just to be clear...
+,anarchist9027,2013-01-21T17:29Z,"Thanks Murphy78. I do look forward to having this on hand for when I reformat a clients computer and they dont want to play for an upgrade :)
+
+Thanks again, anarchist9027"
+,viggen6666,2013-01-21T21:26Z,:) what is the meaning of this drawing up above?
+[V],murphy78,2013-01-22T00:05Z,"You, of all people, are most welcome anarchist9027.
+
+The drawing accurately represents vista artistically.  You'll notice the three layers of poop with the lil upturn at the top.  The bottom layer is the system file handling process, which is a huge pile of crap in Vista. The middle layer is the file explorer that only seems to default you into personal folders you never use.  The top layer is the ""Run your hard drive into the ground"" policy that vista seems to have. If I could find a poo swirl graphic that had extra crap sprinkles, I'd use that.  I just really don't like vista very much."
+,SasideGR,2013-01-22T01:17Z,"Yoo murph78. You're the man.
+
+May i ask please the difference between those two ?
+
+A)http://thepiratebay.sx/torrent/8029825/Windows_8_AIO_18in1_en-US_DaRT8_Jan2013
+
+B)http://thepiratebay.sx/torrent/8017568/Windows_8_AIO_18in1_x64_x86_en-us_Jan2013
+
+Volume or Retail ? Main difference only the Dart ?"
+[V],murphy78,2013-01-22T03:52Z,"saside, the DaRT8 version just adds DaRT8.  Without it, the win8aio has no way to do recovery on 64bit versions of windows from boot. Not a huge deal if you love to reformat, but it has some other useful things you can use to avoid having to reformat.  You can scan system files, remove kb files from offline mode, restore a system backup, etc.  It's really a perfect tool for the job and it's by Microsoft."
+[V],murphy78,2013-01-22T03:56Z,"Oh... on the vl question, for win8 I'd personally recommend using ProVL for most people since kms is the only way to get activated these days.  It could be that in the future someone gets a leak from MS about the missing data algorithm for the activation coding.  Until that happens though, VL is the way to go. It's easy, doesn't ask for a key, and has a lot less chance of having problems activating with kms than normal pro; although they both work fine from fresh installs.  Old systems with a bunch of crap installed tend to add problems to activation, and VL specific system is a way of minimizing that."
+[V],murphy78,2013-01-22T05:16Z,"Oh man poor girl... Well I'm glad I helped you out, but I feel sorry for that person.  At least it's as non-crappy as I can make Vista."
+[V],murphy78,2013-01-22T12:31Z,"I meant to include a pic of the oem branding in my description that I made during my integration testing.  This is kind-of what you can expect, even if the oem-branding doesn't activate without loader:
+http://bayimg.com/AaiMdaaEN"
+,SasideGR,2013-01-22T22:27Z,"Murphy78 thanks for the reply.
+
+But these distros (AIO) from you are VL or Retail ?
+
+I saw somthing in a .txt file about Retail. That's i'm asking
+"
+,Bradyok,2013-01-22T22:56Z,Hate to hijack your torrent but do you know where I can get MSDaRT 7? I see this has MSDaRT 8 which is great for Windows 8.
+,anarchist9027,2013-01-23T01:00Z,"You dont need MS DaRT 7, 8 is backwards compatible all the way down to Vista and 7 is out dated."
+,anarchist9027,2013-01-23T04:51Z,Also I really feel like I'm the only person who enjoyed Windows Vista when it was released. I still reminisce when using Vista in VMware. I thought it was rock solid when I used it on my Dell Inspiron E1405 with 4GB of ram and an Intel Core Duo 1.6 Good times.....
+[V],murphy78,2013-01-23T05:53Z,"SasideGr all of the indexes on this release are oem/retail. I did not include the VL or Enterprise versions because I could not activate them with an offline activator. You could technically use kms servers that boneheads have left online, but to release something that relies on careless IT people, is just a bad idea.
+
+My policy for well established Operating Systems is that if I cannot activate it, I won't include it.  Windows 8 is a special case because it is so new, but if nobody cracks it within the next half a year or so, I will stop integrating those also.
+
+On the DaRT8 issue, anarchist would know better than anyone, being as he is the one who helped me out with the winpe.wim and winpex64.wim in the first place.  You guys can check out easybcd to create a custom bcd file if you want to extract some of these images and make a x64 or x86 only version with DaRT8. Just copy the edited bcd file to the boot directory of the image and the winpe.wim or winpex64.wim to the sources directory.
+
+Remember to give anarchist9027 credit if you use his work. Lets not be a T.F.K"
+[V],murphy78,2013-01-23T05:56Z,"Ironically, I liked vista when it came out too anarchist9027.  It's just that the more I used it, the more it bothered me with its slowness. I remember the first time I installed Vista back when the hard drive stuff was even slower. I kept looking at my HD LED and going ""WTF ARE YOU DOING VISTA???"""
+,SasideGR,2013-01-23T14:28Z,"Many thanks to both of you.
+
+murphy78 and anarchist9027 for your time and your effort.
+"
+,Panda47,2013-03-29T07:48Z,"Thanks for this. Even though I hate Vista, I still run into a stubborn customer every now and then, and money talks, so bullSHIT walks.
+
+(PS: why is there no + or - rating links?)"

@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,CrimCap,2013-01-31T00:13Z,Forgot to mention!  Works with Mountain Lion!
+,Kebablol,2013-02-02T18:16Z,Everything works fine except that you can't see through the portals wich makes it alot more frustrating to play..
+,CrimCap,2013-02-03T16:44Z,"@Kebablol - Try changing the ""Portal Render Depth"" setting in the options."
+,Kebablol,2013-02-03T22:24Z,"@Craimcap - I tried changing it from 0-9, but it still looked the same :/"
+,CrimCap,2013-02-04T03:31Z,"@Kebablol, if you're running on PC, try running as an administrator if you aren't already."
+,CrimCap,2013-02-04T03:32Z,"Also, possibly try unzipping the .zip file with a different program.  It runs perfectly fine when I unzip with ""The Unarchiver"" on Mac, as oppose to the default ""Archive Utility."""
+,Kebablol,2013-02-04T16:12Z,"@CrimCap - I'm on a mac :P Thanks, will try unzipping it again later"
+,Kebablol,2013-02-04T16:58Z,Still doesn't work ):
+,jakedilla,2013-02-22T21:47Z,"For anyone having issues getting this to work on PC: The shortcut that was provided does not work because the directory is a place on the uploader's hard drive.
+
+If you go into Contents/Resources/transgaming/c_drive you will find the .exe and make your own shortcut."

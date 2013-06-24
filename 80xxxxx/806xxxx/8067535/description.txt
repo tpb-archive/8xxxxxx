@@ -1,0 +1,4 @@
+
+
+
+Probabilistic robotics is a new and growing area in robotics, concerned with perception and control in the face of uncertainty. Building on the field of mathematical statistics,probabilistic robotics endows robots with a new level of robustness in real-world situations. This book introduces the reader to a wealth of techniques and algorithms in the field. All algorithms are based on a single overarching mathematical foundation. Each chapter provides example implementation sin pseudo code, detailed mathematical derivations, discussions from a practitioner's perspective,and extensive lists of exercises and class projects. The book's Web site,http://www.probabilistic-robotics.org, has additional material. The book is relevant for anyone involved in robotic software development and scientific research. It will also be of interest to applied statisticians and engineers dealing with real-world sensor data.

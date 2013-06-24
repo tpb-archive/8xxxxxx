@@ -1,0 +1,46 @@
+               _____        ____  _ _____  
+   /         |  __       / __ (_)  __ 
+  /     _ __ | |  | |_ __| |  | |_| |  | |
+ / /  |  _ | |  | |  __| |  | | | |  | |
+/ ____ | | | | |__| | |  | |__| | | |__| |
+/_/    __| |_|_____/|_|   ____/|_|_____/
+                     
+                     
+
+
+ 
+ZPlayer v3.6.3
+
+Requirements: Android 2.1 and up
+
+Windows Phone 7 / Zune themed media player for Android OS.
+
+
+ 
+
+you might need to uninstall the application before upgrading to version 3.x some database changes have made the application crash after upgrading, but a new installation (or clearing application data) should fix the issue.
+
+Welcome to ZPlayer a Windows Phone 7 / Zune themed player, a better richer and more interactive media player.
+Get album reviews, artist biographi
+
+Now with more widgets, fast forward and rewind controls, headset controls home screen customization, equalizer, audio effects. You can start with your own media, and learn about other artists, other tracks and what other people are listening too. Pair this media player with a last fm account and submit likes, now playing status, and scrobble tracks.
+
+*note The Application uses android framework Audio Effect API, this API was introduced since android 2.3. Therefore only devices that have at least Android version 2.3 will be able to take advantage of this feature.
+
+++ if you use a third party equalizer that controls the output mix for all media playing on the device, disable it before using this application. This application needs to control its own audio effects.
+
+-audio effects implemented include Equalizer, Bassboost and Virtualizer based on Android 2.3
+
+What's in this version:
+split Genres to display albums and tracks under chosen genre
+fixed issue where "empty" genres appeared in genres
+fixed Podcast downloads and auto delete (2.3+)
+fixed Podcast Notifications
+added Radio sub-genres
+-- the below are in not fully developed --
+added File browser xtra (4.0+)
+added Events xtra (4.0+)
+
+More Info:
+ 
+https://play.google.com/store/apps/details?id=app.odesanmi.and.wpmusic

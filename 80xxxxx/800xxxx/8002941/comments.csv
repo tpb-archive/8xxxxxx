@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,flyer320,2013-01-10T12:46Z,"Great!
+
+Thanks!
+
+:)"
+,precursor1188,2013-01-10T13:50Z,Thank You Sir
+,olympica,2013-01-11T07:07Z,THANKS
+,V1RotateV2,2013-01-13T00:49Z,"HEY GUYS! Finally I've been able to make run 1301 FULLY, VFR-enabled, under IOS 6.0.1 and app v2.0, using Diskaid v5.43!
+
+- Erase JEPP FD application and download it from APPLE store.
+- Open it once, without having updated anything.
+- Close it completely (with X)
+- Copy only TermCharts from 1301.
+- Erase 'Enroute' Charts folder (whatever you find in Documents)
+- Copy 'Enroute' Charts folder from 1213.
+- Copy OVER PREVIOUS FOLDER, Enroute Charts from 1301.
+- If you want to enable VFR Terminal Charts, create your own airportlist.bin file (need jepp.exe application and JeppView for Windows)
+- Overwrite the older airportlist.bin with newer one in TermCharts
+- Copy FROM ""C:ProgramData/Jeppesen/Common/TerminalCharts"" TO your IPAD folder ""JeppFD/Documents/data/TermCharts""
+theese files: vfrcharts.bin, vfrchrts.dbf, vfrntms.dbf and vfrntms.dbt.
+
+* Note 1: vfrcharts.bin must be writen in LOWERCASE letters, NOT IN CAPITALS.
+* Note 2: Google to find jepp.exe application and it's manual.
+
+Voila! FULL JeppFD ;-) "
+,sgamd87,2013-01-13T01:56Z,airportlist.bin for vfr http://thepiratebay.sx/torrent/8013171/airportlist.bin
+,AN-124,2013-01-13T17:11Z,    thanksssss
+,afx79,2013-01-15T01:48Z,Did anybody able to enable aircraft's position showing on this applications?
+,V1RotateV2,2013-01-16T01:13Z,"To activate own airplane, you have to enter SETTINGS in IPAD general menu, then go to JEPPFD, and search the option ""display own aircraft"" to activate it."
+,cya320,2013-01-16T13:24Z,"I seem to be having a problem with the enroute charts. They are not working. When I re-install the previous cycle, the enroute charts are back. I have tried 4 cycles and they all work except this one. The terminal charts work fine. "
+,JoetheBest1970,2013-05-03T16:00Z,How do I get 'Enroute' Charts folder from 1213.as described below ? is this an extra torrent ?

@@ -1,0 +1,20 @@
+File     : LaNanov13.zip
+Size     : 21,57 MB
+CRC32    : a5498df7
+MD5      : a38c4bec8733068d44f4b0923afa5797
+SHA1     : 5bfa5fb0c46516244078276425fc4fcce58a09f5Code:
+Change Log:
+- Lot of Code remake in KMSELDI v6
+- Add TriggerKMS v2
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+	Important: Better disable the automatic windows update, we never know.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.

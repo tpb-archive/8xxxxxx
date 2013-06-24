@@ -1,0 +1,42 @@
+HoneyDrive is a virtual appliance (OVA) with Xubuntu Desktop 12.04 32-bit edition installed. It contains various honeypot software packages such as Kippo SSH honeypot, Dionaea malware honeypot, Honeyd low-interaction honeypot, Glastopf web honeypot along with Wordpot, Thug honeyclient and more. Additionally it includes useful pre-configured scripts and utilities to analyze, visualize and process the data it can capture, such as Kippo-Graph, Honeyd-Viz, and much more. Lastly, many other helpful security, forensics and malware related tools are also present in the distribution.
+
+ Features
+
+ΓÇóVirtual appliance based on Xubuntu 12.04 Desktop.
+ΓÇóDistributed as a single OVA file, ready to be imported.
+ΓÇóFull LAMP stack installed (Apache 2, MySQL 5), plus tools such as phpMyAdmin.
+ΓÇóKippo SSH honeypot, plus Kippo-Graph, Kippo2MySQL and other helpful scripts.
+ΓÇóDionaea malware honeypot, plus DionaeaFR and other helpful scripts.
+ΓÇóAmun malware honeypot, plus helpful scripts.
+ΓÇóKojoney SSH honeypot, plus helpful scripts.
+ΓÇóGlastopf web honeypot, along with Wordpot Wordpress honeypot.
+ΓÇóHoneyd low-interaction honeypot, plus Honeyd2MySQL, Honeyd-Viz and other helpful scripts.
+ΓÇóLaBrea sticky honeypot, Tiny Honeypot, IIS Emulator and INetSim.
+ΓÇóThug honeyclient for client-side attacks analysis, along with mwcrawler malware collector.
+ΓÇóA full suite of security, forensics and anti-malware tools for network monitoring, malicious shellcode and PDF analysis, such as ntop, p0f, EtherApe, nmap, DFF, Wireshark, ClamAV, ettercap, Automater, UPX, pdftk, Flasm, pdf-parser, Pyew, dex2jar and more.
+ΓÇóFirefox plugins pre-installed, plus extra helpful software such as GParted, Terminator, Adminer, VYM, Xpdf and more.
+
+ {!!!UPDATES IN VERSION 0.2!!!}
+
+ 1.Installed Kippo2Wordlist, a tool to create wordlists based on passwords used by attackers against Kippo SSH honeypot.
+ 2.Installed DionaeaFR , a visualization tool which was recently presented in a previous post.
+ 3.Added Kojoney SSH honeypot, patched version (updated scripts, new features, etc).
+ 4.Added Amun malware honeypot, along with useful scripts.
+ 5.Added Glastopf web honeypot, along with Wordpot WordPress honeypot.
+ 6.Installed mwcrawler, a script that parses malicious URL lists and downloads malware files (video).
+ 7.Added Thug, a honeyclient written in Python aimed at mimicking the behavior of a web browser in order to detect and emulate malicious contents.
+ 8.Added the following tools: Pipal, John the Ripper, IRCD-Hybrid, Origami, dsniff, hping, Scapy, Tcpreplay, tcptrace, sslstrip, libemu, Adminer.
+ 9.Added the Open Penetration Testing Bookmarks Collection to Firefox.
+
+ (This is the official description as on the Sourceforge page for HoneyDrive and from the creator's website for the changes list.)
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ I, the uploader (not the creator), recommend using VirtualBox to run this virtual appliance, though any hypervisor you wish to use should be able to run it. I say this without any guarantee of it working under anything else.
+
+ I uploaded this torrent to provide an alternate download method to the direct HTTP download through Sourceforge and to "replace" the old torrent of version 0.1 (Santa edition). I will still keep the old torrent alive for a few weeks, though after that I will stop seeding the old one. I hope that you find this useful and enjoy!
+
+ Yours Truly,
+
+YeWalrus, ThePirateBay
+YeGreatWalrus, Kickass Torrents

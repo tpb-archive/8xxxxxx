@@ -1,0 +1,147 @@
+murphy78 presents Windows 7 AIO 24in1 x64 x86 en-US DaRT8 Jan2013
+This AIO supports Windows Upgrade from previous Windows Versions.
+
+Hotfixes included bring install current to Jan8 patch date
+NETFX4.5 IS BACK!!!
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+(Thank anarchist9027 for this AIO addition)
+
+Versions you can activate with Volume-KMS are:
+Windows 7 Pro, Windows 7 Pro N,
+Windows 7 Enterprise, Windows 7 Enterprise N
+
+LaNanov12.zip contains the kmsnano.exe activator for the volume
+versions.
+
+64-bit Sources:
+X17-59465.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59337.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x64_dvd_u_677651.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x64fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENXVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+32-bit Sources:
+X17-59463.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59335.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x86fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+Media Refesh versions are SP1 versions with an ascii fix (KB2534111)
+
+Installation Indexes:
+Windows 7 Starter SP1 (x86)
+Windows 7 Starter SP1 (x86) Pre-Activated
+Windows 7 Home Basic SP1 (x86)
+Windows 7 Home Basic SP1 (x86) Pre-Activated
+Windows 7 Home Premium SP1 (x86)
+Windows 7 Home Premium SP1 (x86) Pre-Activated
+Windows 7 Professional SP1 (x86)
+Windows 7 Professional SP1 (x86) Pre-Activated
+Windows 7 Professional N SP1 (x86)
+Windows 7 Ultimate SP1 (x86)
+Windows 7 Ultimate SP1 (x86) Pre-Activated (for real this time)
+Windows 7 Enterprise SP1 (x86)
+Windows 7 Enterprise N SP1 (x86)
+Windows 7 Home Basic SP1 (x64)
+Windows 7 Home Basic SP1 (x64) Pre-Activated
+Windows 7 Home Premium SP1 (x64)
+Windows 7 Home Premium SP1 (x64) Pre-Activated
+Windows 7 Professional SP1 (x64)
+Windows 7 Professional SP1 (x64) Pre-Activated
+Windows 7 Professional N SP1 (x64)
+Windows 7 Ultimate SP1 (x64)
+Windows 7 Ultimate SP1 (x64) Pre-Activated
+Windows 7 Enterprise SP1 (x64)
+Windows 7 Enterprise N SP1 (x64)
+
+Release File:
+Win7SP1-AIO-24in1-x64-x86-en-US-DaRT8-Jan2013.iso
+Size: 6.22GiB
+CRC32: 1D90626B
+MD5: 047C947A4DFCED412C5645FDBA62976E
+SHA-1: 0A83DB538B28E7CEE868C40768EBCDAA57A9165E
+
+Language: en-US (English - United States)
+
+Tools used:
+Josh Cell Softwares AIO Maker 1.3 for sources split Windows Upgrade
+MS Diagnostics and Recovery Toolset 8 (Thanks anarchist9027)
+imagex for image compression and export
+dism for MSU KB hotfix integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+x64 KB Files added via add-package dism:
+IE9-win7, IE9-KB2761465, KB2479943, KB2484033, KB2488113,
+KB2491683, KB2503665, KB2505438, KB2506014, KB2506212,
+KB2506928-v2, KB2509553, KB2511250, KB2511455, KB2515325,
+KB2522422, KB2529073, KB2532531, KB2536275, KB2536276-v2,
+KB2541014, KB2544893, KB2545698, KB2547666, KB2552343,
+KB2560656, KB2563227, KB2564958, KB2570947, KB2574819,
+KB2579686, KB2584146, KB2585542, KB2592687, KB2603229,
+KB2604115, KB2618451, KB2619339, KB2620704, KB2620712,
+KB2621440, KB2631813, KB2640148-v2, KB2644615, KB2645640,
+KB2647753-v4, KB2653956, KB2654428, KB2655992, KB2656356,
+KB2656373-v2, KB2656411, KB2658846, KB2659262, KB2660075,
+KB2660649, KB2661254, KB2667402-v2, KB2676562, KB2679255-v2,
+KB2685811, KB2685813, KB2685939, KB2686831, KB2688338,
+KB2690533, KB2691442, KB2698365, KB2699779-v2, KB2705219-v2,
+KB2709630, KB2709981-v2, KB2712808, KB2718704, KB2719857,
+KB2719985, KB2724197, KB2726535, KB2727528, KB2729094-v2,
+KB2729452, KB2732059-v5, KB2732487-v2, KB2732500-v2, KB2735855,
+KB2736233, KB2736422, KB2739159, KB2741355, KB2742599,
+KB2743555, KB2749655, KB2750841, KB2753842-v2, KB2756921,
+KB2757638, KB2758857, KB2761217, KB2762895, KB2763523,
+KB2769369, KB2770660, KB2773072, KB2778930, KB2779562,
+KB2785220, KB2786081, KB2786400, KB982018-v3
+
+x86 KB files added via add-package dism:
+IE9-win7, IE9-KB2761465, KB2479943, KB2484033, KB2488113,
+KB2491683, KB2502285, KB2503665, KB2505438, KB2506212,
+KB2506928-v2, KB2509553, KB2511250, KB2511455, KB2515325,
+KB2522422, KB2529073, KB2532531, KB2536275, KB2536276-v2,
+KB2541014, KB2544893, KB2545698, KB2547666, KB2552343,
+KB2560656, KB2563227, KB2564958, KB2570947, KB2574819,
+KB2579686, KB2584146, KB2585542, KB2592687, KB2604115,
+KB2618451, KB2619339, KB2620704, KB2620712, KB2621440,
+KB2631813, KB2640148-v2, KB2644615, KB2647753-v4, KB2653956,
+KB2654428, KB2655992, KB2656356, KB2656373-v2, KB2656411,
+KB2658846, KB2659262, KB2660075, KB2660649, KB2661254,
+KB2667402-v2, KB2676562, KB2679255-v2, KB2685811, KB2685813,
+KB2685939, KB2686831, KB2688338, KB2690533, KB2691442,
+KB2698365, KB2699779-v2, KB2705219-v2, KB2709630, KB2709981-v2,
+KB2712808, KB2718704, KB2719857, KB2719985, KB2724197,
+KB2726535, KB2727528, KB2729094-v2, KB2729452, KB2732059-v5,
+KB2732487-v2, KB2732500-v2, KB2735855, KB2736233, KB2736422,
+KB2739159, KB2741355, KB2742599, KB2743555, KB2749655,
+KB2750841, KB2753842-v2, KB2756921, KB2757638, KB2758857,
+KB2761217, KB2762895, KB2763523, KB2769369, KB2770660,
+KB2773072, KB2778930, KB2779562, KB2785220, KB2786081,
+KB2786400, KB982018-v3
+
+setupcomplete.cmd phase:
+dotnetfx45_full_x86_x64 (Adds Net4.5 Post-Oct9 Redist)
+KB2737083 (Net4.5 hotfix)
+KB2742613 (Net4.5 hotfix)
+KB2750147 (Net4.5 hotfix)
+KB890830-v4.16 (Recent Malicious software removal tool)
+KB2758694 (xml4 exe only hotfix)
+KB2533552 (online only update)
+KB2506143 (Windows Management Framework 3.0 - Net4 dependent)
+
+Changes from recent Windows 7 x64 and x86 releases:
+-Added IE security, but moved to offline install.
+-Added .NET 4.5 and online .NET 4.5 hotfixes
+
+Enjoy Pirates,
+murphy78-TPB :)
+*description shortened to upload, read txt

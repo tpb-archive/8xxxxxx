@@ -1,0 +1,36 @@
+TV : Western : TV quality : English, 25mins24secs
+This is a redo of my torrent to reduce file size, new format mkv.
+
+The Cisco Kid 1953 The Fugitive
+
+Dead End Kid Billy Halop appears. Rich color.
+  
+http://www.imdb.com/title/tt0541909/	
+
+[13:20:35] starting job
+[13:20:35] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:20:35] job configuration:
+[13:20:35]  * source
+[13:20:35]    + C:VIDEO_TSThe Cisco Kid 1953 The Fugitive Dead End Kids Billy HalopVIDEO_TS
+[13:20:35]    + title 1, chapter(s) 1 to 1
+[13:20:35]  * destination
+[13:20:35]    + C:Documents and SettingsDead End KidsMy DocumentsThe Cisco Kid 1953 The Fugitive Dead End Kids Billy Halop.mkv
+[13:20:35]    + container: Matroska (.mkv)
+[13:20:35]      + chapter markers
+[13:20:35]  * video track
+[13:20:35]    + decoder: mpeg2
+[13:20:35]      + bitrate 8000 kbps
+[13:20:35]    + frame rate: same as source (around 29.970 fps)
+[13:20:35]    + strict anamorphic
+[13:20:35]      + storage dimensions: 704 * 480 -&gt; 704 * 480, crop 0/0/0/0
+[13:20:35]      + pixel aspect ratio: 10 / 11
+[13:20:35]      + display dimensions: 640 * 480
+[13:20:35]    + encoder: x264
+[13:20:35]      + options: ref=2:bframes=2:me=umh
+[13:20:35]      + bitrate: 397 kbps, pass: 2
+[13:20:35]  * audio track 0
+[13:20:35]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:20:35]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:20:35]    + mixdown: Stereo
+[13:20:35]    + encoder: faac
+[13:20:35]      + bitrate: 160 kbps, samplerate: 48000 Hz

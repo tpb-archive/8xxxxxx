@@ -1,0 +1,40 @@
+Skyfall.2012.CUSTOM.NORDIC.PAL.DVDR-LEvEL
+
+iMDB.........: http://www.imdb.com/title/tt1074638/ 
+Genre........: Action | Adventure | Crime
+Release Date.: 30-01-2013
+Runtime......: 137 min
+
+TV system....: PAL 16:9 (see notes)
+Video........: CCE @6pass avg.bitrate 3971 kbps
+Audio........: English DD 5.1
+
+Subtitles:
+English HI, Custom: Danish, Finnish, Norwegian, Swedish
+
+Menu.........: authored
+Extras.......: N/A
+
+Video Source:
+007 Skyfall 2012 R1 NTSC DVD9-OAGF
+
+Subtitle source:
+English...: Retail
+Danish....: by Ajes
+Finnish...: by horge
+Norwegian.: by Fredrik Dokken
+Swedish...: by SSG - Simontax, Macchiavelli and Incubator
+
+Big thanks to all of you
+
+NOTES:
+Those avisynth-fiters is used to convert NTSC to PAL:
+Indicated field with AssumeTFF.
+Decomb-filters, Telecide and Decimate
+to inverse IVTC and inverse pulldown to 23.976fps.
+AssumeFPS to speed-Up frame rate from 23.976 to 25 fps
+LanczosResize to resize from 720x480 to 720x576
+eac3to to speed-up audio
+
+Greetings to:
+CSG... TheLonelyOne... TFTT-team... SweSUB.nu... divXsweden.net

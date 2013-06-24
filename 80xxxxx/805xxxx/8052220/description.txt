@@ -1,0 +1,37 @@
+Drive SnapShot
+
+SnapShot is disk imaging software that enables the user to back up, restore and view backed up hard disk data, easily and safely. Snapshot Backup is aimed at the backup/disaster recovery market. There is little use for on the fly disk image creation, if you want to deploy hundreds or thousands of workstations. We think however, that the possibility to do on the fly backup is very important for the end user to regularly protect his data. At least, this was our reason to create Snapshot. No need to shut down and boot from floppy, no need to create network disks, and no need to wait half an hour for the backup process - we think that's nice. Snapshot View is a very easy and powerful method to explore disk images. This technique could be easily adapted to disk images created by other disk imaging programs.
+
+Features:
+
+"Creating a backup disk image while running Windows
+"The ability to perform other tasks on your PC during image creation
+"Using the latest technology for backup
+"Easily restore or use of individual files or directories
+"Creating a virtual image of the disk
+"The use for the virtual disk in any file manager
+"Full recovery disk in case of loss of data
+"Restoring a system partition requires the use of DOS, the restoration of the remaining sections may under Windows
+"Supporting the work with the file systems FAT16, FAT32, NTFS
+"Compatible with all types of RAID-arrays
+"Easy and comprehensive interface with command line
+"The ability to automate frequently performed tasks
+
+System Requirements:
+
+Windows NT 4.0 Service pack 3, 2000, XP, 2003 Server, Vista, 2008, 7, 2008 R2, PE, Windows-X64
+2 MB disk space + space to save the disk images.
+8MB RAM if active, 0 MB if not active.
+You need administrative rights to execute Drive Snapshot
+
+Homepage: http://www.drivesnapshot.de/en/index.htm
+
+Installation Instructions:
+
+- Install program.
+- Register application with given information in key.txt file.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

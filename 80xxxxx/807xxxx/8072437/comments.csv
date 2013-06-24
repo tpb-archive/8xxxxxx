@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,_Plutus,2013-01-27T16:35Z,multilanguage patch from gamecopyworld dot com
+,MorphzreaZ,2013-01-30T21:18Z,Download stuck @ 97%... an it allready took like 2 days to get to 97%...   -1
+,Wairudo,2013-01-30T23:53Z,"Doesnt work for me. Installed, patched, exe and dll overwritten with appropiate version from gamecopyworld, then asks ingame for Relic Online Account Creation, and after doing that it asks for the Tales of Valor DVD to be inserted. There might be a working mini-image solution out there, but i didnt find it."
+,Wairudo,2013-01-31T00:56Z,"After a bit of messing around i got the original CoH and Tales of Valor Campaigns to work. No luck so far with the 2 Opposing Fronts Campaigns
+
+after installing and patching you need to kill your inet, and have Daemon Tools installed (virtual clonedrive doesnt work -.- ) to mount 3 Mini-Images. Find them on gamecopyworld (CoH: Tales of Valor [ENGLISH] No-DVD/Fixed Image) 
+
+For opposing fronts it detects emulation software for some reason. No idea how to get around that. The uploader also wrote something about multilanguage patches in the description, but that didnt work also. I installed all the German Patches but everything is still english.
+Ive got all the CoH games on steam but im trying to get it running in german for a bro... this game sucks to pirate lol"
+,_Plutus,2013-01-31T01:13Z,"When Relic Online Account Creation comes up just press Cancel.
+
+When it asks to insert the CD just press ok the game will run."
+,Wairudo,2013-01-31T02:06Z,"when relic account creation comes up there is no option to cancel, only exit to windows or login, everything else is greyed out. Turning off the inet connection bypasses the login screen and goes to the main menu where you can choose/unlock a campaign.
+And when it asks for the Disc, its after entering a serial to unlock that campaign. Just pressing ok results in a message that you need a valid disc . 
+The included iso isnt being detected as valid for CoH Original and Opposing Fronts, just for Tales of Valor. I only got CoH Original unlocked by using the mini images from gcw (that you should include in this torrent imo.)
+
+Still no luck with those 2 Opposing Fronts Campaigns :(
+
+Im glad for you if whatever you did, just works, but it doesnt here."
+,MorphzreaZ,2013-01-31T02:54Z,"okay,downloading took ages like i said...but beside that,all is good....all campaigns work perfectly.. thanks -1 becomes +1"
+,jlee66,2013-02-02T07:50Z,"I can mount the image fine, but when I try to install, I get ""Exception EAccessViolation in module gameInst.exe at 001DB284.  Access violation at address 005DB284 in module 'gameInst.exe'.  Read of address 0000000.""
+
+I have tried it usind Daemon Tools Lite and Alcohol 120."
+,zeca.pt,2013-04-05T02:39Z,"thanks uploader and seeders
+
+Instructions:
+
+1)	Run installation and use this serial 3333-4444-1111-2222-ce13
+
+2)	Install updates in order ( it will be faster to download the updates from here http://cohpatch.relic.com/ )
+
+	I.	EN_2500_2501_Patch
+	II.	EN_2501_2502_Patch
+	III.	EN_2502_2600_Patch
+	IV.	EN_2600_2601_Patch
+	V.	EN_2601_2602_Patch
+
+3) DONT FORGET (1 exe file and a folder!!) Copy cracked content over to game install directory
+
+4) Play!
+
+The other campaigns should already be activated. If not, click on one of the padlocks and enter the key 0000-0000-0000-0000-0000. This should permanently unlock all of them!"

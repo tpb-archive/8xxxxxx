@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,nathan.kearns,2013-03-27T13:15Z,"Has anyone downloaded this one? I know Ipmark is great with this stuff, just wanted any feedback from the previous downloaders..."
+,nathan.kearns,2013-03-29T06:08Z,Hey Ipmark - Thanks for the download. I have installed Map source and can see the maps. Just not sure how to get them onto my Nuvo...? Any help would be great!
+,Ipmark,2013-03-30T10:16Z,"What kind of help you need?
+If you don't want install the package on the PC simply format a 2GB SD with FAT32 filesystem, create a folder named Garmin and decompress in there the unlocked IMG map.
+(Garmingmapsupp.img)
+
+The additional files can be used depending in your GPS Garmin model."
+,nathan.kearns,2013-04-01T13:08Z,"Sorry, when I downloaded your previous version it was simple to load the map onto the Fat32 SD card. With this download I have installed Basecamp, loaded the maps, but can't copy the maps across to the SD card. I have tried searching the net for a tutorial, but no luck. Just need to know what I am missing in getting the map data onto the SD card using Basecamp? Thanks again for your help!"
+,nathan.kearns,2013-04-01T13:11Z,"Hello Again, for all those wondering, i simply went into the download package, opened the MapSource Application and exported. It was simple, I was just using the wrong application. :-/
+
+Thanks so much Ipmark!!!"
+,IAmTorrenter,2013-04-02T02:55Z,"updated my garmin i think... not sure if it used the correct map.
+tried to follow nathan.kearns instructions but i cant find how you ''imported'' the maps from the folders, in to MapSource??
+
+or has it done it automatically somehow?"
+,Ipmark,2013-04-02T03:39Z,"Install the map.
+Install Mapsource and patch it.
+Start Mapsource, select the CNAUNZNT 2013.40 release, crop the country you desire with the selection tool (near lens), give a proper name to the project and send the map to the device (GPS or SD).
+
+Or copy the unlocked map in the Garmin folder (GPS or SD)"

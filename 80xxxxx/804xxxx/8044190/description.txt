@@ -1,0 +1,29 @@
+===Release Title===
+
+Android Applications [01-18-13]
+
+===Release Instructions===
+
+here is a superb file manager for your android device:  
+https://play.google.com/store/apps/details?id=com.rhmsoft.fm  
+https://play.google.com/store/apps/details?id=com.rhmsoft.fm.hd
+
+any included SD DATA folders (starting with "com") go in /Android/obb or /Android/data (for non-OBB files). if these directories do not exist, create them.
+SD DATA not in opaque binary blob (OBB) format is compressed in an RAR archive.
+this is because of the large amount of files contained within, it makes
+transferring the SD DATA much easier. as a general rule these will go in
+/Android/data, then the RAR must be decompressed with an android archive extraction utility. do not copy the SD DATA itself to the folders previously specified, copy the provided folder containing the SD DATA to these folders in every case.
+
+if an application does not function correctly, attempt to patch with Lucky Patcher by ChelpuS
+or Google Play Store Modded by ChelpuS. these tools are for rooted devices only! 
+ 
+http://lucky-patcher.netbew.com/  
+http://chelpus.defcon5.biz/
+
+if an application comes with an unlocker or add-ons/expansions, install them after the main apk. if an application still does function on your non-rooted phone, do not ask for a working non-root cracked version! find instructions to root your device!
+
+===Release Information===
+
+to view information about all your android applications, generate a qr code to transfer to your phone over a local network, or generate a link to the applicable google play store page for even more information, use this tool for Windows:
+  
+http://www.breezie.be/dev/localapk/index.htm 

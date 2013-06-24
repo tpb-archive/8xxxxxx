@@ -1,0 +1,47 @@
+This is a fully working version. 
+If you like it then leave a a comment and seed longer.. Thank you 
+
+            * * By Toorentz * *
+
+About This App:
+
+Updated:
+December 28, 2012
+
+Current Version:
+4.6.2
+
+Requires Android:
+1.6 and up
+
+Category:
+Tools
+
+Description:
+
+ The one and only rotation control app that can REALLY LOCK your screen in ANY orientation and also FORCE the automatic orientation to override app specific settings. 
+
+The "Forced Auto" mode for example is very handy on tablets where some apps force portrait mode while you are holding the screen "upside down". It also allows using the launchers of for example the HTC (One X/One S) Sense 4, Samsung Galaxy S3 Touchwiz and Google Nexus 7 in landscape mode.
+
+This 7-day trial version allows you to fully evaluate the app before having to buy it.
+
+Features:
+- True orientation lock
+- Forced automatic rotation
+- Per application settings
+- Two widgets and a status bar notification with shortcut buttons for easily changing your rotation preference
+- Ability to create shortcuts to specific modes
+- Optimized for Android 1.6 (Donut) all the way to Android 4.1 (Jelly Bean)
+- Can act as Tasker / Locale plugin to automate your screen orientation setting
+
+Supported modes:
+- Auto: normal automatic mode, not overriding app preferences
+- Forced Auto: automatic mode, but overriding other app preferences!
+- Lock: truly locks the screen in the current orientation
+- Portrait: truly lock the screen in portrait
+- Landscape: truly lock the screen in landscape
+- Reverse Portrait: truly lock the screen in reverse portrait
+- Reverse Landscape: truly lock the screen in reverse landscape
+- Auto Portrait: automatically select between portrait and reverse portrait
+- Auto Landscaoe: automatically select between landscape and reverse landscape
+- Manual: normal manual mode, not overriding app preferences

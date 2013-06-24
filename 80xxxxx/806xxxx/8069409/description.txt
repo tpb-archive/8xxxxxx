@@ -1,0 +1,52 @@
+IPv6 by Keith Barker
+Concepts, implementation and verification of IPv6 
+https://secure.cbtnuggets.com/it-training-videos/upcoming/series/cbtn_ipv6
+
+
+Ready or not, IPv6 is here! Learn all about it in this training from Keith Barker.
+
+IPv6 was developed more than a decade ago, but now is being implemented by both service providers and companies alike primarily due to the lack of IPv4 addresses. In this series, Keith walks you step-by-step through the concepts, implementation and verification of IPv6 in a Cisco infrastructure, with various clients attached as hosts including Windows, Linux and Mac. The same logic and knowledge of how IPv6 is implemented can also be applied to other vendors.
+
+Internet Protocol version 6 (IPv6) is the latest version of the Internet Protocol that allows us to communicate over networks, such as the Internet. Each device on a network needs an IP address (similar to a street number and house number). The current version (IPv4) has virtually run out of addresses, and there are still millions of new devices to connect, each and every year. One solution that has extended the life of the older IPv4 is a process of hiding thousands of network devices behind a single global IPv4 address using a technique called Port Address Translation (PAT). This has extended the live of IPv4 for at least a decade.
+
+Another solution to the lack of available addresses in IPv4 is to use IPv6, which solves the problem by using a longer 128-bit IPv6 address (instead of IPv4's 32-bit addresses), which provides room for about 340 undecillion (340 trillion trillion trillion) IPv6 addresses. That is a lot! ;)
+
+This series encourages you to practice alongside Keith. Many of the topology diagrams, startup configuration files and commands used in the videos are included for the more detailed labs. Live gear, GNS3 or a simulator that support the commands relevant to the video you are viewing could be used for practice. If you are implementing an IPv6 network, or have plans within the next few months to roll out either a test or production IPv6 network (or simply need to understand how it works), this video series will be very valuable to you.
+
+If you are looking for a straightforward, fast-track to mastering IPv6, this is the series for you. Let's begin!
+
+Content:
+01 - Welcome to IPv6
+02 - 128bits, Masks, Hex and You
+03 - Multiple IP address types
+04 - Build the Network, Now
+05 - Solicited Node and Link Local Multicast
+06 - RIPng Routing Protocol
+07 - OSPFv3 Part 1 of 2
+08 - OSPFv3 Part 2 of 2
+09 - EIGRP
+10 - Route Summarization
+11 - BGP Fundamentals
+12 - BGP Configuration and Verification
+13 - Stateless Address Auto Configuration
+14 - IS-IS
+15 - HSRP
+16 - GLBP
+17 - NDP
+18 - DHCP and DNS
+19 - RAs and the MO bits
+20 - DHCP Relay Agent
+21 - Prefix Delegation
+22 - SSH and ACLs
+23 - Context Based Access Control
+24 - Zoned Based Firewall on an IOS Router
+25 - Multicast Routing Concepts
+26 - Multicast Routing Configuration
+27 - BSR and Embedded RP
+28 - Tunneling with GRE and Auto 6to4
+29 - Tunnel Brokers
+30 - MPLS Fundamentals
+31 - AToM
+32 - MPLS L3 VPNs (6VPE) Concepts
+33 - Implementing 6VPE
+34 - AnyCast Addresses

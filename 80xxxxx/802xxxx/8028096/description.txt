@@ -1,0 +1,10 @@
+GoneIn60s is a tiny, but interesting application that lets you recover applications that were mistakenly closed in the last 60 seconds. You can easily restore closed applications by using its system tray icon.
+
+
+
+Description:
+
+We've all done it: You inadvertently exit the wrong application or press the wrong keystroke and you quit the application you're currently working on. In the best case, you just have to re-open the file or restart the application. Worst case, you lose important changes. Freeware application GoneIn60s recovers recently closed applications within a certain timeframe (60 seconds, by default) so neither scenario will happen. It does so by hiding the window when you close itΓÇöbut not entirely closing it until the 60 seconds are up. That means if you close an application by mistake, you can just recover it through the GoneIn60s system tray icon before it actually closes. Essentially, then, GoneIn60s just hides your app and sets a delay to close it later, which isΓÇöfranklyΓÇöbrilliant. GoneIn60s is donationware, Windows only.
+
+
+License : Free

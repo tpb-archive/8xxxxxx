@@ -1,0 +1,242 @@
+
+Activation: Check Activation Folder
+
+
+File: en-us_w8_srv2012.iso
+
+
+
+CRC-32: 6b73c894
+MD4: b8748f4cc155877b5823959efc3cc688
+MD5: fbef6d761713c212799091d5432a9596
+SHA-1: 97461c8da7123f7b59a3b4e8fe2756ab1cd6d55b
+
+****************************************************************
+
+This release has been made from MSDN/TN original releases. No Install key required.
+
+
+Language (en-US)
+
+
+
+Version's Included in this ISO are:
+
+Windows 8
+
+x86 :
+
+Professional
+Professional Core
+Professional N
+Professional N Core
+Enterprise
+
+x64 :
+
+Professional
+Professional Core
+Professional N
+Professional N Core
+Enterprise
+
+Windows Server 2012
+
+x64 Only :
+
+Hyper-V
+Foundation
+Storage Server Standard
+Storage Server Workgroup
+
+Standard Core
+Standard (with GUI)
+
+Datacentre Core
+Datacentre (with GUI)
+
+Essentials
+
+****************************************************************
+
+
+WIM Information:
+---------------------
+GUID: {7BBB017E-6467-41E7-88C5-CCF399917FF8}
+Image Count: 19
+Compression: LZX
+Part Number: 1/1
+Boot Index: 19
+Attributes: 0x8
+RP_FIX
+
+Image Index: 1
+-------------------
+Name: Windows 8 Pro
+Description: Windows 8 Pro
+Flags: Professional
+Files: 61541
+Folders: 13011
+Expanded Size: 8029 MB
+
+Image Index: 2
+-------------------
+Name: Windows 8
+Description: Windows 8
+Flags: Core
+Files: 61019
+Folders: 12934
+Expanded Size: 7992 MB
+
+Image Index: 3
+-------------------
+Name: Windows 8 Pro
+Description: Windows 8 Pro
+Flags: Professional
+Files: 81050
+Folders: 17732
+Expanded Size: 11951 MB
+
+Image Index: 4
+-------------------
+Name: Windows 8
+Description: Windows 8
+Flags: Core
+Files: 80376
+Folders: 17610
+Expanded Size: 11889 MB
+
+Image Index: 5
+-------------------
+Name: Windows 8 Pro N
+Description: Windows 8 Pro N
+Flags: ProfessionalN
+Files: 57926
+Folders: 12528
+Expanded Size: 7661 MB
+
+Image Index: 6
+-------------------
+Name: Windows 8 N
+Description: Windows 8 N
+Flags: CoreN
+Files: 57427
+Folders: 12455
+Expanded Size: 7626 MB
+
+Image Index: 7
+-------------------
+Name: Windows 8 Pro N
+Description: Windows 8 Pro N
+Flags: ProfessionalN
+Files: 76806
+Folders: 17086
+Expanded Size: 11398 MB
+
+Image Index: 8
+-------------------
+Name: Windows 8 N
+Description: Windows 8 N
+Flags: CoreN
+Files: 76155
+Folders: 16968
+Expanded Size: 11337 MB
+
+Image Index: 9
+-------------------
+Name: Windows 8 Enterprise
+Description: Windows 8 Enterprise
+Flags: Enterprise
+Files: 61359
+Folders: 12899
+Expanded Size: 7942 MB
+
+Image Index: 10
+-------------------
+Name: Windows 8 Enterprise
+Description: Windows 8 Enterprise
+Flags: Enterprise
+Files: 80850
+Folders: 17608
+Expanded Size: 11859 MB
+
+Image Index: 11
+-------------------
+Name: Hyper-V Server 2012 SERVERHYPERCORE
+Description: Hyper-V Server 2012 SERVERHYPERCORE
+Flags: ServerHyperCore
+Files: 36956
+Folders: 8905
+Expanded Size: 4915 MB
+
+Image Index: 12
+-------------------
+Name: Windows Server 2012 SERVERWINFOUNDATION
+Description: Windows Server 2012 SERVERWINFOUNDATION
+Flags: ServerWinFoundation
+Files: 66534
+Folders: 15867
+Expanded Size: 11029 MB
+
+Image Index: 13
+-------------------
+Name: Windows Server 2012 SERVERSTORAGESTANDARD
+Description: Windows Server 2012 SERVERSTORAGESTANDARD
+Flags: ServerStorageStandard
+Files: 65914
+Folders: 15795
+Expanded Size: 11032 MB
+
+Image Index: 14
+-------------------
+Name: Windows Server 2012 SERVERSTORAGEWORKGROUP
+Description: Windows Server 2012 SERVERSTORAGEWORKGROUP
+Flags: ServerStorageWorkgroup
+Files: 64953
+Folders: 15580
+Expanded Size: 10919 MB
+
+Image Index: 15
+-------------------
+Name: Windows Server 2012 SERVERSTANDARDCORE
+Description: Windows Server 2012 SERVERSTANDARDCORE
+Flags: ServerStandardCore
+Files: 55833
+Folders: 11687
+Expanded Size: 6862 MB
+
+Image Index: 16
+-------------------
+Name: Windows Server 2012 SERVERSTANDARD
+Description: Windows Server 2012 SERVERSTANDARD
+Flags: ServerStandard
+Files: 70801
+Folders: 16520
+Expanded Size: 11443 MB
+
+Image Index: 17
+-------------------
+Name: Windows Server 2012 SERVERDATACENTERCORE
+Description: Windows Server 2012 SERVERDATACENTERCORE
+Flags: ServerDataCenterCore
+Files: 55719
+Folders: 11664
+Expanded Size: 6843 MB
+
+Image Index: 18
+-------------------
+Name: Windows Server 2012 SERVERDATACENTER
+Description: Windows Server 2012 SERVERDATACENTER
+Flags: ServerDataCenter
+Files: 70684
+Folders: 16497
+Expanded Size: 11439 MB
+
+Image Index: 19
+-------------------
+Name: Windows Server 2012 Essentials
+Description: Windows Server 2012 Essentials
+Flags: ServerSolution
+Files: 77701
+Folders: 17773
+Expanded Size: 13461 MB

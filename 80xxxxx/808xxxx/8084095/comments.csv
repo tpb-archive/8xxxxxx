@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,m3nt4t,2013-02-05T17:36Z,"Yes, you can also get this free program on its original site: http://www.joshcellsoftwares.com/2011/09/AdvancedTokensManager.html
+
+Thanks Halloweenpsycho, I managed to permanently activate my KMSnano-activated Win 8 Pro even after installing the WMC upgrade, even though many said it can't be done ;P."
+,Halloweenpsycho,2013-02-06T10:47Z,Thanks for providing the link :) and i am glad all went well...
+,nitsy15,2013-02-15T16:05Z,"i activated by phone, now when i am taking backup of activation it is sayig SORRY THE PRODUCT KEY DETECTED DID NOT MATCH WITH YOUR INSTALLED LICENCE PLEASE INPUT EXACT PRODUCT KEY INTO BOX ***HELP**"
+,videostore,2013-02-21T04:38Z,"Hi, I have downloaded this program used it to back up my activation and when I tried to restore it, failure says to read the readme file, I read it and it says that the backup is only good on a one key one use activation somehow it checks I had to restore my activation through the phone just some info to pass on sorry for being negative"
+,Halloweenpsycho,2013-02-21T07:49Z,"yes with this backup restore method you will need to input the same serial you used when you backed up your activation. Now depending. If you are just reactivating normal windows pro 8 then you will only need to first get your code..which can be found in your backup folder under configuration open config file in note pad and your key will  be in there. Then simply use your windows 8 desktop go to bottom left corner, as the start pops up right click it, and select command prompt {Admin} use this command
+Slui 3
+which will allow you to enter the serial, press activate ignore error, then run the activation back up program again, and it will re activate, if it asks for the serial you will already have it, and will only need to paste and enter.
+Now if you are trying to activate Windows 8 pro wmc you will first need to follow the above instructions to reactivate windows 8 pro first. then again on the start select Command prompt {admin]
+then Hold the windows key + r and type slui 3  this will allow you to enter the wmc code..which again can be found in the windows wmc back up you made..Please note: for windows 8 pro re act only..you need only to backup the windows 8 and need only 1 folder..if you are using windows 8 with wmc you will need to back up your windows 8 pro activation and then also after you activate wmc you will need back this up as well..and just follow instructions from above..if you need more help..please ask.."
+,videostore,2013-02-21T21:35Z,"Thanks for your help, I now see the keys, I just tried  to restore the media center edition that is why I received the error, next time I will know better first I will restore the windows 8 I did make 2 backups before and after and with office also keep up the good work you really try to help us poor people"
+,pain-1349,2013-05-04T00:46Z,"Advanced Tokens Manager says Sorry, the product key detected not match your installed license.. please input exact... etc. 
+
+What happened?"
+,Halloweenpsycho,2013-05-24T09:27Z,"@pain-1349
+Please see the above description on how to locate the original serial used when you made your back up activation. Then simply go through the activation procedure as normal, when it says that there was a error activating over the internet, then simply close that window then run your back up manager. :) Hope this helps let me know if it does not"

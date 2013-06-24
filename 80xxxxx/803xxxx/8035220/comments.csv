@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+[T],maizena,2013-01-18T11:29Z,"General
+UniqueID/String                          : 228842943024616321670547073098208944311 (0xAC298C330163BD9F94C943E8BB42A0B7)
+Nombre completo                          : C:The Omega Man.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 3,27GIB
+Duración                                 : 1h 37min.
+Tasa de bits total                       : 4 778Kbps
+Película                                 : The Omega Man 
+Fecha de codificación                    : UTC 2010-02-22 21:41:31
+Aplicación de codifición                 : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 37min.
+Tasa de bits                             : 4 107Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 802pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.111
+Tamaño de pista                          : 2,81GIB (86%)
+Título                                   : The Omega Man 
+Librería de codificación                 : x264 core
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_AC3
+Duración                                 : 1h 37min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 192Kbps
+Canal(es)                                : 1canal
+Posiciones del canal                     : Front: C
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 135MB (4%)
+Título                                   : Ac3 2.0 Ingles 
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_AC3
+Duración                                 : 1h 37min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 192Kbps
+Canal(es)                                : 1canal
+Posiciones del canal                     : Front: C
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 135MB (4%)
+Título                                   : A"

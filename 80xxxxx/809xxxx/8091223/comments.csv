@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,LuxLOL,2013-02-01T14:03Z,"(o) 2013.1.31 Changelog:
+
+* Fixed an incorrect SFC/WFP registry key entry.
+* Changed the RunOnce Startup Process."
+,semizeu007,2013-02-07T17:40Z,"man this version sucks  no audio working
+is full with bugs   not recomend"
+,LuxLOL,2013-02-08T07:22Z,"@semizeu007
+THERE IS NO PATCH AGAINST STUPIDITY.
+Install your audio driver. There is even a help section in the ""Read Me"" file on how you can get them."
+,LodiLapp,2013-02-11T17:51Z,"LuxLOL, i need to know if this os will load up to a laptop that only says ""disc read error"" on start up, the laptop originally came with xp professional. thanks for any info you may have. "
+,LuxLOL,2013-02-12T05:28Z,"That's hard to say, try to run Check Disk and try to make a test Installation (Read Me file)."
+,ahkilinc,2013-02-12T10:31Z,"I've been using your images since 2010. Very good work, saved me hundreds of hours.
+
+One request, why not integrate .NET 4.5? It has officially replaced .NET 4.0
+
+http://www.wincert.net/forum/topic/10480-slim-net-framework-45-full-x86x64-1-08-2013/"
+,ahkilinc,2013-02-12T10:35Z,"Great work. Been a fan since 2010 and you've saved me hundreds of hours of time with your slip-streamed updates.
+
+One question, why haven't you switched to .NET 4.5 yet?
+
+http://www.wincert.net/forum/topic/10480-slim-net-framework-45-full-x86x64-1-08-2013/"
+,LuxLOL,2013-02-12T12:05Z,.NET 4.5 is not for Windows XP. ;-)
+,DrJoni,2013-02-14T03:52Z,can i boot this from USB?
+,LuxLOL,2013-02-14T09:45Z,If you know how yes. It's no different than a normal Windows XP.
+,enri181181,2013-02-15T22:14Z,"It works great... Thanks man!
+Me funcionó perfectamente, lo recomiendo!"
+,LuxLOL,2013-02-18T02:50Z,"New version is out:
+http://thepiratebay.sx/torrent/8155572/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2013.2.17"
+,ayelbiapb,2013-02-18T04:47Z,"i tried to install it with usb,but during the installation it says can't copy file setuporg.exe and presetup.cmd,how to solve this problem?"
+,LuxLOL,2013-02-18T18:41Z,Download the latest version i added a new USB Flash installer instauration in the Read Me file.

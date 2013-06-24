@@ -1,0 +1,89 @@
+--This will NOT fit on a 4.37GiB Single-Layer DVDR--
+--Use a Dual-Layer DVDR or a USB Flash Drive--
+
+murphy78 proudly presents:
+Windows 8 PRO VL Office 2013 ProPlus VL x64 en-US Jan2013
+
+x64 Windows 8 Pro VL Build 9200 MSDN Source:
+en_windows_8_pro_vl_x64_dvd_917699.iso
+
+Office 2013 ProPlus VL x64 Source
+SW_DVD5_Office_Professional_Plus_2013_64Bit_English_MLF_X18-55297.ISO
+
+Installation Indexes:
+Win8Pro VL - Office 2013 PPVL (x64)
+Win8Pro VL - Office 2013 PPVL KMS-Activated (x64)
+
+Release File:
+Win8ProVL-Office2013-x64-en-US-Jan2013.iso
+Size: 6.48GiB
+CRC32: 2945C032
+MD5: FCE4B6C28D8E993D0C5FC2C9869617C4
+SHA-1: 21E00354D705AEF4B2A2176A263264D1221686FF
+
+Language: en-US (English - United States)
+
+Tools used:
+gimagex for image capture
+dism for image mount on Info Folder and Activation setupcomplete
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+This release differs greatly in my integration method because
+it uses sysprep and audit mode instead of just mounting the install.wim
+and using dism to integrate kb msu files.
+
+This is the main method that OEM manufacturers use to install
+Drivers and other programs before sysprepping and letting you log on
+and set up your user info. The Sysprep /generalize option removes all
+user info and runs a disk cleanup before shutting down the system.
+You then capture the image by booting into a different install on a
+different partition.
+
+I downloaded all Security and KB file updates from Microsoft Update for
+Windows 8 and Office 2013. There were roughly 1000megs of updates for x64
+and roughly 700megs for x86 version. The footprint is larger because of
+backup files and compression differences between wim files and update files.
+
+I did not download any device drivers or other optional software.
+The only program that I added to Windows, besides the activator, is Office.
+
+--------For KMS Pre-Activation index
+KMSNano.exe
+schtasks triggerkms xml import
+reg add runonce for triggerkms /install redundancy
+
+Changes from recent Windows 8 x64 releases:
+-Used Audit Mode - Sysprep /Generalize - Capture Image method
+-Office 2013 ProPlus VL x64 Slipstreamed
+-Reboot is not needed during setupcomplete.cmd phase.
+-Added .NET 2-3.5.1
+-Obviously the KMS Pre-Activation
+
+01-Right-Click-On-Start 
+http://bayimg.com/cAjpAaAEC
+
+02-Right-Click-And-Pin-to-Start 
+http://bayimg.com/CAJPBAaEC
+
+03-Winkey-Return-to-Start 
+http://bayimg.com/cAjpcaAEC
+
+04-Pre-Activation-Proof 
+http://bayimg.com/CaJpEaAEC
+
+05-Re-Activation Trigger 
+http://bayimg.com/CAjpHAAeC
+
+06-Enable Office Updates 
+http://bayimg.com/cajPIaAEC
+
+07-Important Updates After Install 
+http://bayimg.com/cAJpjAaeC
+
+08-Optional Updates After Install 
+http://bayimg.com/CAjplaaEC
+
+(Big Salute to heldigard who made the activator)
+Enjoy Pirates,
+murphy78-TPB :)

@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,Ghostv33,2013-01-25T06:53Z,is this really working????
+[V],murphy78,2013-01-25T07:12Z,Tested on my win8provl-x64 today.
+,osxp,2013-01-25T07:19Z,"@Ghostv33.......I guess it should!The other 15+ did.
+Thanx hurph & MDL."
+,osxp,2013-01-25T07:24Z,"That shouldha been ""murph""sorry : 0 , I think anarchist got even now lol"
+[V],murphy78,2013-01-25T08:05Z,"Yah, I've been going around rubber stamping all those ridiculous Korean permanent activators with my ""Don't use this stuff, it doesn't work"" stamp today. It's hard not to tell people that it totally f's up your computer. I mean, I want to be respectful of other peoples' torrents, but that program is just GARBAGE."
+,fandibataineh,2013-01-25T09:40Z,how long shall i wait please ?
+,Ghostv33,2013-01-25T11:04Z,wont this not mess up the metro screen?
+[V],murphy78,2013-01-25T12:16Z,This will not hack any file ghost.
+[V],murphy78,2013-01-25T14:01Z,"fandi, it takes roughly 45 secs on most desktops, maybe more on laptops, depending on how good they are.
+
+you can check your activations with the Check_Activation_all.cmd I listed in the description.
+You might need to right click it and run as administrator, I'm not certain. It wouldn't hurt."
+[V],murphy78,2013-01-25T14:25Z,"I have done a lot of testing about the trigger stuff. and I must say that my trigger fix advice was sadly pre-mature.
+
+Apparently the problem is that I was always running the ""Run Trigger.cmd"" as administrator.
+You can simply ignore all of the advice in the special trigger fix thing for win8, and just run ""Run Trigger.cmd"" normally without right clicking and running as admin.
+
+If you run normally it will install and overwrite any errors if necessary.
+
+You can check the trigger by editing the ""Run Trigger.cmd"" and setting the days to 181 instead of 30, re-running normally (not admin) and rebooting. It will run the kmsnano program.
+
+Don't forget to set the days back to 30 (or whatever is comfortable, but less than 179 for sure) and rerun the script normally (again, not as admin)."
+,antricama,2013-01-25T17:36Z,I have just bought a laptop with Windows 8 activated (legal copy). When I tried activate a copy of Office 13 (downloaded from torrent) the Windows activation was gone!!! Those Office 2013 activators interfer with Windows legal activation!!!
+,siki20,2013-01-25T22:18Z,Not working.(Hungaryan offise 2013)
+[V],murphy78,2013-01-26T03:54Z,"Office 2013 stuff still has issues atm. They are working out the kinks as best they can.
+
+For those having problems with office 2013, try running the .net Repair tool from microsoft.
+
+If that doesn't work, try extracting kmsnano.exe to a directory and run ""kmseldi /nowin /no2010 /log"" When it is up and running click the big ""EL"" button and it will try to activate office 2013.
+
+If that doesn't work, nothing will work for you except online activation, and I'm not sure exactly how to do that. something like running ospp commands pointed at an online kms server."
+[V],murphy78,2013-01-26T03:55Z,fireholy you are an idiot. I don't post fake stuff.
+,dominhan,2013-01-26T05:11Z,"Thanks, so fast!"
+[V],Anacondaz,2013-01-26T06:55Z,"for office u can use this also
+http://thepiratebay.sx/torrent/8018347/Microsoft_Toolkit_2.4_BETA_8"
+,gkkfalls,2013-01-26T08:18Z,"Hi murphy
+can u tell me waht is difference b/w KMSNano & Korean permanent activators, as kms activate for 180days while other one is really permanent?"
+,FireIsHot,2013-01-26T10:21Z,"For those with WMC already activated, use the one in the link below. ignore the instructions about a serial key (it's only for during install)
+
+using murphy78's x64 pro 9200 build, now updated with WMC (Meh) :)
+
+http://thepiratebay.sx/torrent/8047360/Windows_8_Pro_100__activation"
+[V],murphy78,2013-01-26T13:59Z,"Do NOT use  the Korean activator. It does not activate, it just performs sloppy surgery on your system files. First it mixes some messed up versions of system files, I honestly don't know exactly which files it replaces because I avoid it like the plague ever since I tried it once.
+
+Then it hacks some dll files to DISPLAY false activation information on the activation page of pc info. If you type ""slmgr /dlv"" in your command prompt you will see that it is NOT activated. It won't behave like it is activated, because you cannot download any windows updates with the Korean activator.  If you even attempt to use it on a version of windows like this one that has all the updated kb files, it will blue screen of death you, and the only way you will be able to fix it is to boot from your dvd or usb and run the system restore from before you used it.
+
+That FireIsHot guy who linked a 2meg activator isn't fooling anybody. If you fall for that after being warned, you deserve what follows.
+
+I don't have to sell the usefulness of this kms offline activator, the other crap doesn't work."
+,icetech,2013-01-26T23:13Z,"Any KMS that works with proWMC? im using that keyless install that worked with the free wmc key, but didnt activate in time:("
+,designeran,2013-01-27T00:25Z,"NO FUNCIONA!, al hacer sfc /scannow y eso quiere decir que no activo.
+
+Mejor esté: WT8 KMS v1.1 The best!"
+,designeran,2013-01-27T00:26Z,"DOES NOT WORK!, To do sfc / scannow and that means inactive.
+
+Best is: WT8 KMS v1.1 The best!"
+[V],murphy78,2013-01-27T06:58Z,"I have no idea what the WT8 KMS 1.1 is, but it sounds like an online kms activator. That's great and all, but keys will get blocked the more you use them. That's why this offline activator is so desirable.
+
+As far as ProWMC, they closed all the loopholes, there's no way to activate it without either purchasing it or restoring a previously activated tokens backup."
+,icetech,2013-01-27T17:59Z,thanks murph... looks like a reformat.. hate resetting up:)

@@ -1,0 +1,55 @@
+    Harry Potter and the Philosopher's Stone
+
+   [FORMAT]:........[ MP4 x264 VBR 2,250 kb/s
+   [FILE SIZE]:.....[ 2.70GB
+   [RESOLUTION]:....[ 1920x800
+   [FRAME RATE]:....[ 23.976 fps
+   [AUDIO STREAM 1]:[ AAC 2.0 Stereo 96 kb/s 
+   [AUDIO STREAM 2]:[ AAC 5.1 Surround 192 kb/s
+   [LANGUAGE]:......[ English
+   [SUBTITLES]:.....[ English (SRT File)
+   [RUNTIME]:.......[ 2Hr 32Min
+   [SOURCE].........[ 1080p Physical Blu-ray
+
+
+Compliant with Xbox360/PS3/iPads/Mobile Devices/etc. devices that require the primary Audio stream to be AAC Stereo (many do not accept/work with AAC 5.1 format). Audio Stream 2 available to those that also wish to experience great 5.1 sound that goes right alongside great picture quality.
+
+For those experiencing LOW VOLUME issues, try to playback the 2nd Audio stream in stereo mode, this should improve audio quality and increase the volume substantially.
+
+If you wish to experience 5.1 audio on the original PS3 or Newer PS3, Just select the audio options and ensure the 5.1 stream/track is selected.
+
+PC Users will have to use something like VLC that allows you to choose the 2nd Audio stream/track, Depending on your configuration, vlc should automatically enable 5.1 playback after the track change, but double check by selecting AUDIO ~ Audio Device ~ 5.1
+
+
+Screenshot Previews:
+   
+http://img27.imageshack.us/img27/1747/vlcsnap2013020115h49m00.png 
+http://img41.imageshack.us/img41/6141/vlcsnap2013020115h49m48.png 
+http://img802.imageshack.us/img802/4646/vlcsnap2013020115h50m04.png 
+http://img827.imageshack.us/img827/8118/vlcsnap2013020115h50m20.png 
+http://img824.imageshack.us/img824/1170/vlcsnap2013020115h51m07.png 
+http://img6.imageshack.us/img6/4944/vlcsnap2013020115h51m39.png 
+http://img801.imageshack.us/img801/1059/vlcsnap2013020115h52m04.png 
+http://img5.imageshack.us/img5/585/vlcsnap2013020115h52m41.png 
+http://img837.imageshack.us/img837/6503/vlcsnap2013020115h53m07.png 
+http://img855.imageshack.us/img855/7404/vlcsnap2013020115h53m23.png
+
+
+For those want to sir up the "this movie isn't the Philosopher's stone, it's SORCERER'S STONE... get it right" controversy... I present to you the following:
+
+A: http://img46.imageshack.us/img46/389/vlcsnap2013020115h46m07.png
+
+B: http://img51.imageshack.us/img51/7229/vlcsnap2013020115h46m41.png
+
+
+Please, be patient with seeding...
+
+Enjoy ;)
+
+Feel free to leave a + vote and a comment, Thank You!
+
+Judas's Note:
+
+Those that are noticing that there is "minimal" black bars on either side of the image is the way the bluray appears. It is not an encoding error. I choose to keep them in so that there isn't a "resize" stretching errors the involves splitting of pixels to fit the screen (this causes blur and other issues when there is a pixel shift always occuring... it's like being just a hair out of focus on the camera... not horrible but comparing side by side would be very noticeable if it's not 1:1 ratio)
+
+I've also had people ask me why i occasionally have that "slight" hair size bar above or below, why not crop it 100% perfect? The reason is that breaking away from the 16 pixel block height results in a disadvantage in the encoding process. The moment you break the 16 pixel height tile/block it actually results in slight decrease in accuracy for the compression used. It's the difference in a 1920x800 that has a 50 block count (800/16=50) vs 1920x798 which is 49.875 block count. Things just "fit" and work out better overall.

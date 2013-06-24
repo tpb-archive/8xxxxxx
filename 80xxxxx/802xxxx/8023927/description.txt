@@ -1,0 +1,75 @@
+Tool - Undertow - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+1 - Intolerance
+2 - Prison Sex
+3 - Sober
+4 - Bottom
+5 - Crawl Away
+6 - Swamp Song
+7 - Undertow
+8 - 4 Degrees
+9 - Flood
+69 - Disgustipated
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 21, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 45, Peak = 0.836db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2013-01-14 00:14:43
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10       0.00 dB   -12.47 dB      4:55 ?-01 - Intolerance
+DR11       0.00 dB   -12.93 dB      4:56 ?-02 - Prison Sex
+DR12       0.00 dB   -14.57 dB      5:07 ?-03 - Sober
+DR12       0.00 dB   -13.49 dB      7:14 ?-04 - Bottom
+DR11       0.00 dB   -13.35 dB      5:30 ?-05 - Crawl Away
+DR11       0.00 dB   -13.47 dB      5:32 ?-06 - Swamp Song
+DR11       0.00 dB   -13.23 dB      5:22 ?-07 - Undertow
+DR12       0.00 dB   -14.03 dB      6:03 ?-08 - 4 Degrees
+DR13       0.00 dB   -15.25 dB      7:46 ?-09 - Flood
+DR15       0.00 dB   -23.35 dB     15:47 ?-69 - Disgustipated
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR12
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

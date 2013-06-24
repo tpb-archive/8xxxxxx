@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-16T23:29Z,"Now that qemu calls for firewall access, future versions may possibly run on taskscheduler.  Note that it would be very preliminary, and that with extracting the files to a directory and running the kmseldi program with certain arguments, you can already do that.
+
+I personally would like to see it extract the files to memory like with a small ramdisk every time it runs, because I believe it doesn't delete it's extracted temp files.
+
+I would also like to see it run a ""slmgr -ckms"" command to clear kms and allow office updates again.  This work is still pretty new though, and it's really amazing what they've already done."
+[V],murphy78,2013-01-16T23:32Z,"It might be obvious with any sort of exe file that you should run your virus scans first, and then TURN OFF your virus and firewall protection programs while running.  If they interfere with the data sent back and forth to the emulated program, there's no way it can activate."
+[V],murphy78,2013-01-16T23:47Z,"Hmm, I should update my instructions next time and perhaps remove the part about allowing through firewall.
+
+Anyway, I ran 11 offline and it activated windows 7 pro N. I tested it while I was doing my AIO.  It activated perfectly, with no internet access. I didn't even have my lan drivers installed.
+
+srsly:
+http://bayimg.com/KaimAaaeK"
+,ipoturicnetamishr,2013-01-17T00:08Z,"Mr. murphy78, I have Windows 8 Pro with WMC. Is KMSNano 11.2 help about activation in this case?"
+,lamportyx,2013-01-17T00:56Z,"this KMSnano will work only on windows 8 pro vl and n I tried this on windows 8 pro with wmc it did'nt work the application itself does not recognize windows but when i change my windows 8 to VL automatically i got activated for 180 days, then you can run again activation after 180 days."
+[V],murphy78,2013-01-17T01:01Z,"pro WMC is retail only. It does not support pro WMC because pro WMC does not allow KMS activation keys.
+
+There is a method to downgrade to normal pro out there, but I'm not sure of it.  You can try to hunt around on the mydigitallife forums"
+,kevdog9069,2013-01-17T06:43Z,"thanks for all work hard work murphy   question  i am new to this so after i use this activator, windows is unlocked.  i can run the live updates and everything will be normal or do i have to keep running this activator every now and then"
+[V],murphy78,2013-01-17T10:39Z,"yes kev, it's actually better than even windows loader because it generates the legit activation key.
+
+I think in the future, people might make a program that generates custom encryption and schedules itself in task manager to run every few months, but neither of those are really neccessary.  180 each time you run the program is actually a pretty long time. By the time even one 180day period runs out they'll probably have cracked retail."
+,sapto123,2013-01-17T17:20Z,"When I get online and try and activate it says:
+
+""Windows can't be activated right now. Try activating Windows later. If this issue persists, contact your administrator or technical support department for assistance.""
+
+Windows (windows 8) not Activated
+"
+[V],promodsharma,2013-01-17T18:28Z,"Thanks a lot :) I am sure that in the near future you will be counted as one of the legends of TPB.
+
+One question though - Where do you look for an update for ""KMSNano - The Ultimate Activator by heldigard"" ?"
+[V],murphy78,2013-01-17T23:30Z,"Indeed. at the link for the kms setup and charge, the first page has a long list of technical stuff, but at the bottom, it lists downloads.  There you find recent KMSNano downloads, as well as KMSMicro mods that people are doing to help race against kmsnano and try to keep reducing the size.  The other programs are nearly identical, but they have slight differences like deleting files from the temp folder after running, or perhaps slightly faster scripts.
+
+Those guys are damn internet heroes in my book.  Feel free to register and give them a ""thanks"" on that link:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0"
+[V],promodsharma,2013-01-18T07:51Z,"Thanks for the info ""murphy78"" ^_^"
+[V],promodsharma,2013-01-18T14:24Z,@ 'libertycity' Thanks for your input mate ^_^

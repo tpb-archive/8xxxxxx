@@ -1,0 +1,94 @@
+Clean. Simple. Powerful.
+ 
+
+        Streamlined social news feeds:
+
+        Trillian 5's Facebook, Twitter and LinkedIn support is fast,
+        uniform and integrated.
+        Γòû Comprehensive: More types of feeds, like Facebook events and
+          Twitter searches.
+        Γòû Flexible: Store feeds in your contact list and/or system tray.
+        Γòû Quick: Instant updates to all services are just one click away.
+        Γòû Interactive: View likes and read/write comments directly within
+          Trillian.
+        Γòû Detailed: Links and pictures are expanded automatically to
+          avoid opening the web browser.
+ 
+        Designed for Windows 7
+        Γòû Trillian 5 feels right at home in all versions of Windows. Our
+          clean and pleasant user interface has been carefully designed
+          to smoothly integrate with the operating system.
+ 
+        Synchronized chat history
+        Γòû Never miss a message again with Trillian 5's fully
+          synchronized chat history. The power of the Trillian network
+          ensures your contact list, accounts, and chat history are
+          automatically shared between your desktops and phones!
+ 
+        Foursquare with GPS support
+        Γòû Our newly-supported Foursquare plugin lets you meet up with
+          new friends and discover new places! Powered by the GPS support
+          in Windows 7, you can even check-in right from Trillian!
+ 
+        A truly compact interface
+        Γòû Stuck on a netbook with a tiny screen? No problem. Switching
+          between our full and compact user interfaces is only a click
+          away in Trillian 5. No need to change skins, no need to wait,
+          and no need to worry about Trillian hogging your desktop.
+          Compact, slim and fast.
+
+
+
+        What is Trillian?
+ 
+        Connect to your IM, mail, and social networks in one place
+        Γòû Trillian can connect to AIM, Windows Live, Yahoo!, Google,
+          Facebook Chat, Jabber, Skype and a lot more. Trillian 5
+          introduces improved Facebook Chat via XMPP and support for
+          Foursquare, LinkedIn, and studiVZ / meinVZ / schuelerVZ chat!
+ 
+        Fully customizable and extensible
+        Γòû With a multitude of options and a comprehensive library of
+          plugins, skins and skin packs, you can extend and customize
+          Trillian in any way imaginable. Show RSS feeds or even play
+          music while chugging along with a contact list right out of
+          Terminator 5.
+ 
+        Optimized for Windows
+        Γòû Trillian is built directly in C++ using native Windows APIs.
+          Not relying on third-party runtimes or toolkits means lower
+          memory consumption and direct access to native Windows
+          features as soon as they're made available to developers.
+          Trillian 5 for Windows is the smoothest and fastest version
+          of Trillian ever!
+
+
+        Whats New In v5.3.0.12?:
+
+        ======================================
+        Trillian for Windows Changelog
+        5.3 Build 11 -&gt; 5.3 Build 12
+        January 2, 2013 to January 15, 2013
+        ======================================
+
+        ======
+        FIXED:
+        ======
+
+        + FIXED	[Contact List] Some states may not ellipsis the name
+        + FIXED	[Contact List] Updated service icon mode to show always
+                               if setting is on and brings back
+                               metacontact service icon enumeration
+        + FIXED	[Game] Added a few more items to the internal blacklist
+        + FIXED	[Message Window] History menu in insert may overflow if
+                                 the last thing you typed is too long
+        + FIXED	[Trillian] Unable to rename trillian.exe without a crash
+        + FIXED	[Trillian] Updated a link within license agreement to the
+                           proper spot
+
+        + FIXED	[XMPP] Issue connecting to certain Jabber servers
+
+
+
+        For More Info on Trillian 5 Pro for Windows Visit:
+        http://www.trillian.im/learn/tour-trillian5.html

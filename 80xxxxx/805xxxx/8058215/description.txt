@@ -1,0 +1,135 @@
+Astro Boy
+
+Trama del film:
+Ambientato in una futuristica Metro City, Astro Boy racconta la storia di un giovane robot con un incredibile potere, creato da un brillante scienziato di nome Tenma, secondo le caratteristiche fisiche e cerebrali di suo figlio Tobio, morto a causa di un incidente stradale.
+Astro Boy è alimentato da energia blu, è dotato di una super forza e di vista ai raggi X, ha un'incredibile velocità ed è capace di volare.
+Un giorno s'imbarcherà in un viaggio intorno al globo per scoprire i suoi poteri, imparando le gioie e le emozionie dell'essere umano.
+Quando scoprirà che la sua famiglia ed i suoi amici sono in pericolo, Astro Boy utilizzerà tutti i suoi poteri per tornare a Metro City e salvare tutto ciò a cui tiene...
+
+Tech info:
+
+Source..........: Astro.Boy.2009.1080p.BluRay.DTS.x264-EbP THX
+
+
+Quota:
+Formato                                 : Matroska
+Versione formato                        : Version 4 / Version 2
+Dimensione                              : 5,06 GiB
+Durata                                  : 1o 34min
+Bitrate totale                          : 7.662 Kbps
+Data codifica                           : UTC 2010-02-22 21:41:31
+Creato con                              : mkvmerge v5.9.0 ('On The Loose'wink.gif built on Dec  9 2012 15:37:01
+Compressore                             : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                      : 1
+Formato                                 : AVC
+Formato/Informazioni                    : Advanced Video Codec
+Profilo formato                         : High@L4.1
+Impostazioni formato, CABAC             : Si
+Impostazioni formato, ReFrames          : 5 frame
+Modo muxing                             : Header stripping
+ID codec                                : V_MPEG4/ISO/AVC
+Durata                                  : 1o 34min
+Bitrate                                 : 6.832 Kbps
+Larghezza                               : 1.920 pixel
+Altezza                                 : 818 pixel
+Rapporto aspetto visualizzazione        : 2,35:1
+Modalità frame rate                     : Costante
+Frame rate                              : 23,976 fps
+Spazio colore                           : YUV
+Croma subsampling                       : 4:2:0
+Profondità bit                          : 8 bit
+Tipo scansione                          : Progressivo
+Bit/(pixel*frame)                       : 0.181
+Dimensione della traccia                : 4,36 GiB (86%)
+Titolo                                  : Astro Boy-animazione '09
+Compressore                             : x264 core 88 r1471 1144615
+Impostazioni compressione               : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.10 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-3 / threads=12 / sliced_threads=0 / nr=0 / decimate=0 / mbaff=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / wpredb=1 / wpredp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=6832 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+Lingua                                  : Italiano
+Default                                 : Si
+Forced                                  : Si
+
+Audio #1
+ID                                      : 2
+Formato                                 : AC-3
+Formato/Informazioni                    : Audio Coding 3
+Estensione modo                         : CM (complete main)
+Impostazioni formato, Endianness        : Big
+Modo muxing                             : Header stripping
+ID codec                                : A_AC3
+Durata                                  : 1o 34min
+Modalità bitrate                        : Costante
+Bitrate                                 : 448 Kbps
+Canali                                  : 6 canali
+Posizione canali                        : Front: L C R, Side: L R, LFE
+Sampling rate                           : 48,0 KHz
+Profondità bit                          : 16 bit
+Modo compressione                       : Con perdita
+Dimensione della traccia                : 303MiB (6%)
+Titolo                                  : 5.1 AC3
+Lingua                                  : Italiano
+Default                                 : Si
+Forced                                  : Si
+
+Audio #2
+ID                                      : 3
+Formato                                 : AC-3
+Formato/Informazioni                    : Audio Coding 3
+Estensione modo                         : CM (complete main)
+Impostazioni formato, Endianness        : Big
+Modo muxing                             : Header stripping
+ID codec                                : A_AC3
+Durata                                  : 1o 34min
+Modalità bitrate                        : Costante
+Bitrate                                 : 448 Kbps
+Canali                                  : 6 canali
+Posizione canali                        : Front: L C R, Side: L R, LFE
+Sampling rate                           : 48,0 KHz
+Profondità bit                          : 16 bit
+Modo compressione                       : Con perdita
+Dimensione della traccia                : 303MiB (6%)
+Titolo                                  : 5.1 AC3
+Lingua                                  : Ungherese
+Default                                 : No
+Forced                                  : No
+
+Testo #1
+ID                                      : 4
+Formato                                 : UTF-8
+ID codec                                : S_TEXT/UTF8
+ID codec/Informazioni                   : UTF-8 Plain Text
+Titolo                                  : Full
+Lingua                                  : Italiano
+Default                                 : Si
+Forced                                  : No
+
+Testo #2
+ID                                      : 5
+Formato                                 : UTF-8
+ID codec                                : S_TEXT/UTF8
+ID codec/Informazioni                   : UTF-8 Plain Text
+Titolo                                  : Full
+Lingua                                  : Ungherese
+Default                                 : No
+Forced                                  : No
+
+Menu
+00:00:00.000                            : en:Our Friends, the Robots
+00:05:26.493                            : en:Ministry of Science
+00:12:40.510                            : en:A Perfect Replica
+00:17:41.602                            : en:Home Schooling
+00:22:41.151                            : en:This Is So Cool
+00:26:56.490                            : en:Everyone Has Their Destiny
+00:29:30.394                            : en:Collect the Core
+00:33:34.763                            : en:You're One of Us Now
+00:37:24.784                            : en:Call Me Astro
+00:42:14.240                            : en:This Is Home to Us
+00:47:46.322                            : en:Walking Up Zog
+00:52:19.053                            : en:Hidden Talents
+00:57:24.358                            : en:The Secret Weapon
+01:00:14.611                            : en:Robot Games
+01:06:49.005                            : en:The Experiment Is Over
+01:13:00.960                            : en:Help the Humans
+01:18:20.029                            : en:This Is My Destiny
+01:22:15.347                            : en:I Was Made Ready

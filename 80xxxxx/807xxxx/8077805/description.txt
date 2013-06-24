@@ -1,0 +1,43 @@
+The new Final Cut Studio over a hundred new features and innovative technology for the film industry, through which you can work faster, collaborate more efficiently and achieve superior results. Build updated 06/28/2012. Year: 2012
+Developer: Apple Inc.
+Language: English only
+Tablet: Not required
+Version: Final Cut Pro X 10.0.5, Motion 5.0.4, Compressor 4.0.4
+System requirements:
+Version of OS X: 10.6.8 or higher
+Intel Core 2 Duo or better
+RAM: 2Gb
+Video Memory: 256
+
+Extras. Information:
+- Improved image quality and efficiency of monitoring events with compatible third-party PCIe and Thunderbolt I / O devices;
+- Improved performance of the multi-synchronization and editing;
+- Added support for "simplified" Chinese language;
+- Added option to Share for 1080p video on compatible iOS-devices;
+- Audio channels are configured by default for new projects in stereo;
+- Adds support for multikamerny export XML metadata into projects;
+- Fixed bug where the video was superimposed on the background, and an alpha channel to appear in the Viewer differently before and after imaging;
+- Fixed problem where some items are displayed after each re-run the application;
+- Added support for Retina + some minor improvements.
+
+Motion Update improves stability and performance, including:
+- Improved overall performance and stability;
+- Improved loading time projects;
+- Improved performance of text editing in Canvas;
+- Fixed problems Fill Opaque (opaque shading) for converting images to Drop Zones;
+- Solved the problem with stability, which occurred when deleting all characters using the tools Transform Glyph;
+- Fixed pixel display aspect ratio in the clips Anamorphic;
+- Improved speed of saving the current frame (Save Current Frame);
+- Solved the problem with the stability control when you set the blur effect in the Project Properties Inspector;
+- Solved the problem with stability when the media during Motion in the background.
+
+Examples mlooks
+
+Compressor 4.0.4 update improves overall stability and performance, including:
+- Added enhanced functionality and overall performance;
+- An opportunity to launch a site Compressor encoding on a Mac without a monitor;
+- Fixed problem with exporting, which took place at the entrance to the system as user Open Directory;
+- Improved performance when encoding mp4 files, and AVI.
+
+MLooks throws in a folder HD&gt; user&gt; Movies&gt; MotionTemplates&gt; Effects
+mLooks2 put out of the pack

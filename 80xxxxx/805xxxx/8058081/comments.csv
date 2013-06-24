@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,snakedark,2013-01-24T17:56Z,"THX,man!"
+,clayjobob,2013-01-26T03:16Z,Thanks I will leave more comments after I install it.
+,Myk1985,2013-01-27T07:38Z,This is by far the best copy of Windows 7 yet. Great Upload
+,ballparkfranks23,2013-03-01T03:51Z,"having some trouble with installing onto a freshly built pc. I put the setup file on a disc along with the source folder and the windows loader, but it keeps saying to please insert a boot media and push a key to restart. Sorry never installed a OS."
+,Halloweenpsycho,2013-03-06T00:46Z,"@ballparkfranks23
+Np..:)
+Best to use this if it is a first time
+https://thepiratebay.sx/torrent/8154656/Windows-USB-DVD-tool
+
+to make your dvd..Now if for some reason it says the iso is invalid..then what you will need to do is download Power iso.
+Once you open it, and drag the iso into the window, you will want to go to image settings and make sure to check the udf box and then Just click Save as and make sure you choose iso and not daa then let it build the iso. Now with the iso you just built you now run the tool i first mentioned and it should recognize everything just fine, and should create your bootable disc with no issue :) if you need any further help..just shout..SOrry for sucha  delay in response..been busy,,"
+,monkeyxxx,2013-03-12T17:31Z,"HaloweenPsycho ! Damn All Torrents Are Easy To Understand Lets say i am a beginer in this stuff but know iam easily boot all stuff and reinstall my wind xp to 7 up to 8 ! 
+
+Everything is amazing 
+
+SO SEED ALL ! :) 
+
+GZZ !!! 
+
+Dont Think - JUST DO IT :) "
+,monkeyxxx,2013-03-12T17:38Z,Halloween this is amazing :) thx hope for more extremlly cool torrz :) 
+,UraharaZR,2013-05-15T19:19Z,"When making a bootable win7 with Windows 7 USB Tool it says that ""selected file is not a ISO file"".
+
+When trying the same with Rufus, all goes well until you get to the driver selection screen where there is noting."
+,Halloweenpsycho,2013-05-25T09:25Z,"@UraharaZR
+there should be know issues using the Windows 7 usb/dvd tool to make the ISO. But if you are running into issues you can down load Power ISO, which if you down this from me you will simply need to go to the power ISO website and download it and use one of my serials to make it a full version.
+https://thepiratebay.sx/torrent/8501267/Power_Iso
+Once you have power ISO installed, you will need to use the ISO you downloaded from me, First make a new folder on your desktop and right click on it and select extract to the new folder you just made. Now pull the extracted files to Power ISO. Select file image properties and make sure all 3 top boxes are checked especially the UDF. Now go to action, boot and select to add boot information. Now at the bottom it will be showing only certain files, simply select all files. Now point your boot info to the folder on your desktop, open the Folder Boot, and select the file ending in .com . Now click Save or Save as, Make sure to change the default Daa to ISO and name your file and save it. Now all should be fine with Windows 7 usb/Dvd tool :) All though there should not be a  issue with making a bootable version from the ISO included with windows 7 usb/Dvd tool as All proper info should be correct. Any way i hope this helps. :)"

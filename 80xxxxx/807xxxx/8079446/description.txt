@@ -1,0 +1,17 @@
+4 projects made by me (starting programming all by myself, using online e-books, videos and other stuff).
+ They're all finished and published in their folder. For some reason Visual Studio (2012 Ultimate) won't allow me to publish them "to a file path", so I had to publish them as for CDs (with installer).
+The projects have the code commented by me, also, for starting users to understand what's going on there. 
+Projects are:
+1) "Age- Cases"
+Consists on showing what Cases (a type of conditionals) do in a very simple project which asks the user to put in a number and then shows a MessageBox with text.
+
+2) "Conditionals"
+Shows how "If... Then... Else... End If" sentences work by asking the user to write a number between 10 and 20.
+
+3) "For Loop"
+Shows how the For Loop works.
+
+4) "Multipliers -For Loop"
+This one shows how the "For Loop" works showing that it can also multiply. In this one the user is asked to put a StarterNumber, an EnderNumber and a Multiplier, then shows in the ListBox the result for each multiplication.
+
+Well, that was all. If you like this comment it here and I'll add more as I learn. I hope you'll pardon me if you see any grammar mistake, I'm not a natural english speaker, even though I go to classes.

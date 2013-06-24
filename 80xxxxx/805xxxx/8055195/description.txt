@@ -1,0 +1,72 @@
+
+Complete name                            : Superman 1978 720 BrRip 264 dual Audio [Hindi-English] bittoo 1986.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1 015 MiB
+Duration                                 : 2h 23mn
+Overall bit rate                         : 991 Kbps
+Encoded date                             : UTC 2013-01-08 14:52:56
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Nominal bit rate                         : 702 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 534 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Variable
+Original frame rate                      : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.043
+Title                                    : Superman 1978 !!bittoo 1986!!
+Writing library                          : x264 core 114 r1924 08d04a4
+
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 23mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Title                                    : bittoo 1986
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_AC3
+Duration                                 : 2h 23mn
+Bit rate mode                            : Constant
+Bit rate                                 : 256 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 303ms
+Stream size                              : 262 MiB (26%)
+Title                                    : bittoo 1986
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,prebenzz,2013-01-30T04:46Z,"Dags att lägga ner XviD, jämför kvalitén med denna och SLYNA som använder x264 codec. Deras är endast 427MB och ändå piskar dom denna releasen. http://imgur.com/a/F38Eo#0"
+[T],314r,2013-01-30T05:12Z,Visst är x264 överlägset xvid om det används rätt men än så finns det mycket hårdvara och mjukvara som inte klarar det så bra. Dvd med mpeg2 verkar ju kunna leva kvar hur länge som helst.
+,korpen,2013-01-30T05:16Z,"Jag föredrar fortfarande Xvid, då min gamla stationära DVD-spelare inte spelar x264, så tack! :)"
+[T],314r,2013-01-30T09:35Z,"Jag tittade på det och jag tycker nog att den här versionen är något bättre, den har ju också en högre upplösning med 720 pixlars bredd. Den piskas i alla fall inte. Sedan tar ju enbart det 6-kanaliga DD-ljudet (Ac3) 303mb. Men det är imponerande att få x264-versionen så liten, prebenzz.
+http://i.imgur.com/TEusYEv.gif
+Två urklipp ur filmerna ovanpå varandra, xvid överst och x264 underst.  "
+,prebenzz,2013-01-30T19:10Z,"Jo visst är det så, jag själv hoppas att svenska scenen släpper stadard-regler för SD snart. SLYNA följer de polska SD reglerna vilket är jävligt bra. Men som du säger så finns det ju inte många DVD-spelare som stödjer x264 dock tror jag nog att 80% av alla som laddar hem XviD kör den på datorn och inte DVD-Spelare. Svensson måste fatta att x264 är så mycket bättre men det är inte många som gör det."
+[V],RosaMannen,2013-01-30T19:35Z,Håller med båda lägren. Men x264-bitraten kanske kan höjas något för det syns verkligen på kvaliteten att den är lite väl snålt tilltagen. Funkar dock kanon att se i mobilen.
+,prebenzz,2013-01-30T20:33Z,Går väl inte göra så mycket med bitraten när man kör CRF?
+,prebenzz,2013-01-30T20:42Z,@314r Ang upplösningen så har du ju letterbox och med 720x400 blir det 1.2333% på AR. SLYNA har endast 0.1937% på 684x288 utan letterbox så egentligen har dom bättre upplösning. Men reglerna säger max 4% så det är ingen stor skillnad.
+[T],314r,2013-01-30T23:04Z,"Ja, det var onödigt att göra letterbox, gjorde det av vana eftersom jag brukar bränna in texter också. Jag har en 1Tb-hårddisk/mediespelare som inte tar x264 och där undertextfiler blir fula men den är bra att ha på resor. Skulle vara intressant att se de polska SD-reglerna, var kan man hitta dem?"
+,prebenzz,2013-01-31T01:03Z,"De polska reglerna hittar du här: http://scenerules.irc.gs/t.html?id=2012_PL_SDx264.nfo
+
+Och här hittar du alla andra regler: http://scenerules.irc.gs/"
+[T],314r,2013-01-31T10:11Z,"Tack så hemskt mycket, prebenzz."
+,prebenzz,2013-02-01T09:14Z,"Jag vet inte vilket program du använder men jag gör iaf egna Avisynth script, samma som scenen när jag gör mina XviD-rippar. Dom godkänner inga 1-click-program. Samma när jag gör x264 och CUSTOM DVDR.
+
+Vilka program använder du?
+
+Avisyth + VirtualDubMod tycker jag är helt klart böst när man ska göra XviD."
+[T],314r,2013-02-01T13:24Z,"Jag använder virtualdub eller virtualdubmod för bilden men jag brukar inte skriva script. För ljudet är det lite olika beroende på vilken källa jag har men jag brukar vilja ha en blueray som källa för bilden, det tar lite längre tid men blir mycket bättre bild. Använder jag samma källa för ljudet blir det ofta MKV AudioConverter och sedan separerar jag ljudkällan innan jag lägger in den till videoconverteringen. Jag tycker att det blir exaktare slutstorlek på avi-filen på det sättet. En helt annan sak som händer hos mig i alla fall är att det vid varje konvertering till xvid så får jag bilden med en aning mindre kontrast och en aning ljusare, så jag brukar göra en liten kompensering. Just den här avi-filen gjorde jag lite snabbt och var inte så hemskt noga."
+,prebenzz,2013-02-03T17:23Z,"Du kan pröva att göra script med hjälp av Gordian Knot. Här har du en bra guide: http://www.doom9.org/index.html?/gknot-main4.htm
+
+När du kört G-Knot ett tag så lär du dig ganska fort hur scripten och Avisynth fungerar. Man har mycket mer kontroll på rippen när man kör egna script.
+
+När det gäller ljud så brukar jag köra TFM Audio Tool, men det är bara när jag gör DVDR osv. Brukar sällan göra AC3 XviD rippar, känns så onödigt då XviD inte har så hög kvalité. Då kan man lika väl köra LAME så bilden får lite högre kvalité."

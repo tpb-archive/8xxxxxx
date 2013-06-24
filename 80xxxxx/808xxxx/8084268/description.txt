@@ -1,0 +1,10 @@
+	Subject: MS Office 2011 Volume license
+Attachments: MS Office 2011 Volume license.zip
+
+Microsoft Office 2011 v14 [VL Fix - PLIST]
+
+This is basically a PLST file taken from a English volume license installed version of MS Office 2011 v14 which can be used to turn any non-volume licensed into a volume licensed copy
+
+The instructions are very simple and straight forward. Just make sure to exit all MS Office 2011 apps. I even created a symlink where the file goes on the disk image too;
+
+Just copy the com.microsoft.office.licensing.plist file into the /Library/Preferences/ folder

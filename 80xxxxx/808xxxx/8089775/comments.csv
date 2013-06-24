@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,C41337,2013-02-01T23:29Z,dun work on mountain lion
+,AppRipper,2013-02-02T03:25Z,"@C41337
+
+What seems to be the problem? Does it run and close, does it not recognize command, errors? I need some info to troubleshoot and see what the problem may be."
+,haydenhayden011,2013-02-02T04:57Z,I can't figure out how to get the installer to work.
+,C41337,2013-02-02T11:07Z,"Well it starts up the installer normally, I then waited ten minutes and it wasn't installed yet, so I checked the details bar and it said cannot find xaos.jar"
+,AppRipper,2013-02-02T14:45Z,"@C41337
+
+Right-click on the .app, Click ""Show Package Contents"", Contents > Resources, Then verify that ""twnz.zip"" is located there, if it is delete the file ""delete_me_to_reinstall.txt"" then start the application up and it should re-install the unnecessary files."
+,AppRipper,2013-02-02T14:47Z,"@haydenhayden011
+
+I need some more info before I can see what the problem is."
+,C41337,2013-02-02T15:44Z,I did as you said the only problem was that all I got in the resources folder was: appIcon.icns appsettings.plist mainmenu.nib and script
+,Kallderick,2013-02-04T20:43Z,Hello! Can you do same for windows? Thx!
+,Megapauloap,2013-02-09T18:03Z,Did you have to Windows? All of they are standing to play this. Thx!
+,sabellan,2013-02-11T08:17Z,"Thanks Man it worked on my Mid 2012 13"" MacBook Pro with Intel core i7 and 8 GB of Ram"
+,LastKossack,2013-02-11T18:09Z,windows please!!!!
+,frenchiveruti,2013-02-13T08:14Z,Y U NO For Windows
+,jimmyfeign,2013-02-15T21:33Z,Won't install. Details box says: Unable to access lib/xaos.jar
+,Cendar,2013-04-21T15:44Z,"Thanks for your torrent AppRipper!
+
+By any chance, do you have the last version of Towns for mac? (v12)"
+,AfroSatan,2013-05-23T17:41Z,"Uhm. When I try to launch the game it says this in the details
+
+""
+Preparing to Launch
+Have Fun! Might be errors in this box, don't worry.
+Unable to access jarfile lib/xaos.jar
+If you like the game, support the Devs!""
+
+And it won't launch."

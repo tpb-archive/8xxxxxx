@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,heinsler,2013-01-28T04:16Z,"Thanks.
+This is an excellent software but it only works for a couple of days. Then suddenly it starts inserting watermarks into pdf files when you create a pdf file or when you add or remove pages from an existing one. 
+I tried several things:
+There is a folder called: C:Program FilesTracker SoftwareLive Update. I removed the file LiveUpdate.exe from it. After a few days the file appears there and the watermarks appear. 
+Next I blocked the LiveUpdate.exe with firewall. Still the problem appeared again after a few days.
+Can anybody help me with this?"

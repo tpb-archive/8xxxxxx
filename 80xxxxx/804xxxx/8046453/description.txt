@@ -1,0 +1,47 @@
+ http://i12.servimg.com/u/f12/17/34/91/86/window10.jpg
+
+Windows Firewall Control is a nifty little application which extends the functionality of the Windows Firewall and provides quick access to the most frequent options of Windows Firewall. It runs in the system tray and allows user to control the native firewall easily without having to waste time by navigating to the specific part of the firewall. This is the best tool to manage the native firewall from Windows 8, Windows 7 and Windows Vista.
+
+Windows Firewall Control offers four filtering modes which can be switched with just a mouse click:
+No Filtering ΓÇô Windows Firewall is turned off. Avoid using this setting unless you have another firewall running on your computer.
+High Filtering ΓÇô All outgoing connections are blocked. This setting blocks all attempts to connect to and from your computer.
+Medium Filtering ΓÇô Outgoing connections that do not match a rule are blocked. Only programs you allow can initiate outgoing connections.
+Low Filtering ΓÇô Outgoing connections that do not match a rule are allowed. You can block the programs you do not want to initiate outgoing connections.
+
+Program Features:
+=================
+ΓÇó Just one small executable file. All features are packed in the same file.
+ΓÇó Full support for executing tasks from standard user accounts.
+ΓÇó Intuitive and easy accessible interface in the system tray.
+ΓÇó Allow or block a program to connect to the internet with just one mouse click.
+ΓÇó Shell integration into the right click context menu of the executable files.
+ΓÇó Search for invalid rules with the possibility to delete them.
+ΓÇó Quick access to edit Windows Firewall rules directly from the program interface.
+ΓÇó Choose if you want the program to start at user logon.
+ΓÇó Import and export the policy of the program.
+ΓÇó Protection to unauthorized uninstallation.
+ΓÇó Possibility to restore previous settings at uninstallation.
+ΓÇó Check for a new version from the program interface.
+ΓÇó And many moreΓÇª Just give it a try.
+ΓÇó Learning Mode which provides notifications for blocked outgoing connections.
+ΓÇó Search for executable files in a user defined folder and create new rules for the selected ones from the result list.
+
+System Requirements:
+=====================
+ΓÇó Microsoft .NET Framework version 4.0
+ΓÇó Compatible with all 32bit and 64bit versions of Windows 8, Windows 7 and Windows Vista.
+
+Changes in 3.8.1.1:
+====================
+New: Added support to new strings to be translated, especially for the Activation process.
+Fixed: The language file is not loaded if the program is started from the shortcut because the startup folder is not the same as the program folder. This was fixed.
+Fixed: On uninstallation, after the user presses on the Uninstall button, the checkboxes remain enabled and the user can change the options and can break the uninstall process.
+
+INSTALL NOTES
+================
+Run the setup and install.
+Then used Keygen.exe
+
+Enjoy
+ 
+http://kastatic.com/i2/users/8ee82d025127bddd71bd81fa9d4a155d.gif

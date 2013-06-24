@@ -1,0 +1,104 @@
+ANSi JED&lt;ACiD&gt;
+
+In Their 26th Year Of Glory, FairLight Released #1063
+
+Test Drive Ferrari Legends (c) Slightly Mad Studios
+
+Supplied by: FAIRLIGHT            : : Release Date: 21-01-2013
+Cracked by:  FAIRLIGHT                Game Type:    Racing
+Packaged by: FAIRLIGHT                Image Format: ISO
+
+DISCS: 1 DVD                          Protection: Steam+G4WL
+
+System Requirements : (S)-1-phenylpropan-2-amine
+
+PROPER NOTES:
+
+Test.Drive.Ferrari.Racing.Legends-SKIDROW was released with a "Loader"  and
+not a cracked exe.  This is  why  you  see  the  original  exe  renamed  to
+"TDFerrari_o.exe".  As this is not allowed and in  this  case  considerably
+slows down the game with Xlive messages  while  starting  and  playing  the
+game, you can see why we have included a proper cracked.  SKIDROW  use  the
+loader to bypass the steam "bind" stub to  not  have  to  bypass  the  G4WL
+integrity checks and hence leaving the drm intact.  Our crack is completely
+null of these issues with SKIDROW's loader approach.  The  game  starts  up
+quite considerably faster and has no mention of  xlive  problems  with  our
+crack being used.
+We have also included a source code of how Skidrow's pathetic  approach  to
+this game was implemented.
+For those interested in viewing this its included here:
+#include &lt;windows.h&gt;
+static LPVOID address = 0x0DAC2EE;
+static STARTUPINFOA si = {0};
+static PROCESS_INFORMATION pi = {0};
+static DWORD dwOldProtect = 0;
+static SIZE_T numberOfBytesWritten = 0;
+static DWORD dwPatch1 = 0xC69259E9, dwPatch2 = 0xEC8B55FF;
+static DWORD dwOrig1 = 0x56525153, dwOrig2 = 0xEC8B5557;
+int __declspec( naked ) WinMainCRTStartup()
+
+/* opens TDFerrari_O.exe by memory. */
+CreateProcessA("TDFerrari_o.exe", NULL, NULL, NULL, FALSE, 0x4080414, NULL, NULL, &si, &pi);
+VirtualProtectEx(pi.hProcess, &address, 8, PAGE_EXECUTE_READWRITE, &dwOldProtect);
+/* opens TDFerrari_O.exe by memory. */
+WriteProcessMemory(pi.hProcess, (LPVOID)0xDAC2EE, &dwPatch1, 4, &numberOfBytesWritten);
+/* Offset 0xDAC2F2 to be patched with bytes
+WriteProcessMemory(pi.hProcess, (LPVOID)0xDAC2F2, &dwPatch2, 4, &numberOfBytesWritten);
+VirtualProtectEx(pi.hProcess, &address, 8, dwOldProtect, &dwOldProtect);
+/* Process runs */
+ResumeThread(pi.hThread);
+/* waits for window name "Test Drive: Ferrari Racing Legends" */
+while (!OpenMutexA(MUTEX_ALL_ACCESS, FALSE, "Test Drive: Ferrari Racing Legends"))
+Sleep(1);
+/* Suspends process */
+SuspendThread(pi.hThread);
+VirtualProtectEx(pi.hProcess, &address, 8, PAGE_EXECUTE_READWRITE, &dwOldProtect);
+/* Offset 0xDAC2EE to be patched with bytes
+WriteProcessMemory(pi.hProcess, (LPVOID)0xDAC2EE, &dwOrig1, 4, &numberOfBytesWritten);
+/* Offset 0xDAC2F2 to be patched with bytes
+WriteProcessMemory(pi.hProcess, (LPVOID)0xDAC2F2, &dwOrig2, 4, &numberOfBytesWritten);
+VirtualProtectEx(pi.hProcess, &address, 8, dwOldProtect, &dwOldProtect);
+/* Process resumes */
+ResumeThread(pi.hThread);
+/* Loader closes /*
+ExitProcess(0);
+
+Game information:
+
+Test Drive: Ferrari is the ultimate driving  experience  for  fans  of  the
+Ferrari brand. Detailed physics underpin a huge variety of  challenges  set
+throughout the history  of  this  landmark  automotive  brand.  Painstaking
+detailed cars and tracks reflect visceral damage as races wear on, an acute
+sense of speed communicates the power of these highly  tuned  vehicles,  as
+advanced AI challenges even the most experienced driver.
+Features:
+
+* Multiple Race Types - A variety of race types challenges
+including rally, GT, and Formula 1.
+* Extensive Online Competition - Single and Multiplayer
+integration with a selection of racing styles. Up to
+8 players can join a single race.
+* 36 circuits, including variations - GP circuits, test circuits,
+and bonus circuits; a wide variety of driving environments.
+Tracks from the past and present.
+* 52 stunningly detailed cars - The greatest modern and classic Ferrari
+models are lovingly rendered inside and out - including working
+switchgear and visible engines. Car dynamics include
+realistic deflating tires and blow-outs.
+* Campaign Mode - Players experience the rich history of the Ferrari
+brand as they unlock tracks and cars throughout Ferrari's history.
+Circuits unlocked during the campaign can be raced subsequently
+using any available cars.
+
+Installation Information:
+
+* Burn or mount
+* Install
+* Copy the cracked content from the Fairlight folder
+to your game installation
+* Play the game
+
+NOTE: As usual, block the game exe in your firewall.
+/TEAM FAiRLIGHT
+
+QUALITY, TRADITION  AND PRIDE

@@ -1,0 +1,17 @@
+﻿Filename,Size,Unit
+data1.bin,953.66,M
+data2.bin,696.14,M
+data3.bin,345.08,M
+data4.bin,3.61,M
+setup.exe,1.84,M
+Redist/DirectX/AUG2007_d3dx9_35_x64.cab,1.72,M
+Redist/DirectX/AUG2007_d3dx9_35_x86.cab,1.63,M
+Redist/DirectX/dsetup32.dll,1.49,M
+Redist/DirectX/DXSETUP.exe,505.84,K
+Redist/DirectX/dxupdate.cab,94.88,K
+Redist/DirectX/APR2007_xinput_x64.cab,94.55,K
+Redist/DirectX/DSETUP.dll,93.34,K
+Redist/DirectX/APR2007_xinput_x86.cab,52.05,K
+Redist/DirectX/dxdllreg_x86.cab,43.58,K
+icon.ico,3.19,K
+autorun.inf,59,B

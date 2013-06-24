@@ -1,0 +1,85 @@
+
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 699 MiB
+Duration                                 : 1h 34mn
+Overall bit rate                         : 1 039 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 34mn
+Nominal bit rate                         : 974 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.044
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 34mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Language                                 : French
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper Ganool (Thanks)
+
+IMDB Info:
+
+A hotel clerk searches all over Le Havre for the fairy who made two of his three wishes come true before disappearing.
+
+Directors: Dominique Abel, Fiona Gordon,
+Writers: Dominique Abel (screenplay), Fiona Gordon (screenplay), 
+Stars: Dominique Abel, Fiona Gordon and Bruno Romy
+
+Genres: Comedy | Drama 
+ 
+http://www.imdb.com/title/tt1922645/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/58295626921008073950.png 
+http://www.shotpix.com/images/57701022674709660860.png 
+http://www.shotpix.com/images/91788593627108475151.png 
+http://www.shotpix.com/images/30574492257299672183.png 
+http://www.shotpix.com/images/65695093489606204671.png 
+http://www.shotpix.com/images/84592489147392041119.png

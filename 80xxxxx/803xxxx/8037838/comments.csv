@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-18T23:38Z,"Ultimate sp1 x86 pre-activated index from previous upload wasn't correct. It was a default Ultimate N sp1 with no kb hotfixes.  My tested ultsp1x86 pre-activated was mounted, pre-activated scripts folder was redone, ie9-kb2761465 was added to offline.  install.wim was commited and  all indexes were re-exported for indexing and compression.  New install.wim was copied over old one, and the iso was remastered.  I added kmsnano v12 instead of 11, changed the description a for size, hash, small other changes.
+
+Apologies for the inconvenience folks, my source and scripts really are perfect, but I must have either manually done something, or there's an index error that I'm not seeing somewhere in my scripts.  I'll go over everything with a fine-tooth comb next month.
+
+Also, thanks to anarchist9027's help and searchengine over at MDL, I'm going to try this oem pre-install next month:
+http://forums.mydigitallife.info/threads/15733-Windows-7-DVD-%28Multi-Brand-Multi-Edition%29-Activation
+
+anarchist9027 help me piece together a script to check activation and run windows loader if it's not activated using the oem pre-activation.  It's not perfect and it won't solve everyone's problems, but it's worth trying for most everyone.  Know that even if none of that works, you can still use volume versions and kmsnano.  I've included it this month, and I'll probably include it next month."
+,absalom,2013-01-19T04:43Z,"Downloading as i type this, will put this on a dedicated 16gb Usb stick, looking forward to your  future projects!"
+,absalom,2013-01-19T04:43Z,"Downloading as i type this, will put this on a dedicated 16gb usb stick, looking forward to your  future projects!"
+[V],murphy78,2013-01-19T06:28Z,Thanks for the support bud...
+[V],murphy78,2013-01-19T09:33Z,"sorry sepp, that would totally not be worth the effort.  the only torrents that seem to have any lasting power are ones that have english"
+[V],murphy78,2013-01-19T11:15Z,"You could get the aio maker at josh cell softwares and a buncha german rtms from fullpacks_com and piece together an aio in german.  It wouldn't have the kb files, or the pre-activation, but those aren't technically that hard to integrate.  First you print out the kb file list from one of my latest releases.  Then you go to ms download center and download them all. Then you read up on how to integrate them. The MS Assessment and Development Kit or ADK seems really intimidating at first, but I bet that if you read a couple how-to things, you could figure out how to add all the kb files to each install index.
+
+I really wish I could help you out and do it for you, but that would mean half a month of downloading stuff from fullpacks and a bunch of integration and testing for maybe 100 people to download.  Sadly, every time I do integration for non-english stuff, people never seem to seed them enough.  It's technically just as bad with the English stuff, but they're just popular enough to sustain themselves."
+,Fukuari,2013-01-19T12:56Z,"hi murphy78, im still a newbie, after i downloaded this, what will i remove so it will fit to a 4.7 GIB dvd? i dont need the win 7 starter and win 7 enterprise anyway. if not possible, how will i save this on a 16 gib usb?"
+,SasideGR,2013-01-19T16:11Z,"Hey murphy78. 
+
+I have a ready script with multibrand/OEM 
+
+Which i got from another release and i installed it in one of YOUR PREVIOUS WIN7 AIO release.
+
+If you want gladly i can't send it to you by email or something.
+"
+,SasideGR,2013-01-19T16:23Z,"Specifically i integrated the multibrand in this release of yours Windows 7 SP1 (NO SRV2008) AIO 11in1 x64 x86 IE9 .NET 4.5 Oct10 2012 (WORKING). I made 4-5 installations to test.
+
+Maybe it's more usefull for you to compile the script again. Since MAGIC (Respect LORD DAZ) loader works fine any installation is activated except Enterprise. 
+
+Though i would like to work (but i don't know how) one AIO package that includes server2008 for WIN7 and Server2012 for WIN8. I'm talking to have one USB stick with 7 AIO plus SRV2008 and one USB stick with WIN8 plus SRV2012
+
+
+Greetings from bankrupted and TAXFACKED Greece."
+,viggen6666,2013-01-19T17:41Z,"SasideGR, sorry to hear that you are from Greece, the problem is corruption.
+
+Murphy78, thanks once again for your true dedication for this cause, I hope this release if bug free, and working flawlessly "
+[V],murphy78,2013-01-19T22:30Z,"Indeed sasideGR, apparently the oobe.cmd scripting is set for the oem pre-installed license method, but I have a bit of coding that anarchist9027 helped me out with for searchengine's deal.  It detects if windows is already installed with the pre-installed oem method, or if not, to run windows loader.
+
+Fukuari, you can get gimagex and export the images you want to a new install.wim, then take an appropriate digital river iso and export to say c:_win7
+go into c:_win7_sources and delete the ei.cfg.
+replace the install.wim in the sources directory with the one you created.
+
+Note that it won't be less than 4.37GiB unless you stick to only x64 or x86, in which case, you should use the appropriate digital river iso. I.E. Use x64 for x64only install.wim
+
+To recreate the iso you want to get oscdimg. It's in the ADK for windows 8, and you download and install it very quickly. Tell it not to download the winpe stuff.
+
+Once you get the ADK installed, open admin command prompt and navigate to the folder with oscdimg. You have to run this program from admin command prompt.
+now run the iso creation command:
+oscdimg -bc:_win7_boot_etfsboot.com -u2 -h -m -lWin7AIO c:_win7_ c:_MyWin7AIO.iso
+
+Replace the underscores with backslashes. Comment filter won't allow"
+,pchmsl,2013-01-20T18:24Z,"Thanks murphy78, all is working now. And DaRT is a really useful addition."
+,yobdab33,2013-01-21T10:15Z,"Mr Murphy78, i really apreciate the work u and ur team... really happy with ur job... 1 question and sorry im not that much into computer knowledge... but which one of ur versions does have a workin .NET on? or is there a known way to have a .NET workin on? i have ur updated preactivated jan windows 7 version... im going crazy about this .net can barely install some games, just bought this used pc and i really wish to have .net workin since i need it for the reasons i bought this pc... hope u answer someday :D... and again, love ur job, congrats!"
+[V],murphy78,2013-01-23T18:43Z,"Every one of the versions of windows in this install have .Netfx 2 through 4.5 installed by default.
+
+Very very rarely you will come across a game that uses net 1.1, like dnd online. That is not installed by default, but I believe its in one of the folders on the dvd."
+,Adam1438,2013-01-25T17:35Z,Do the editions activate itself during install
+,kwabenaamoo,2013-01-27T09:11Z,2.1mb/s F'ing Ridiculous anyway great work murphy
+,chrono_br,2013-01-29T00:38Z,"how can I install the updates murphy78?? I got this message opening the file setup64.exe... "" the file autorun.dll could be not loaded or is corrupted. Setup can not continue."" do I have to download it again?? sorry for asking..."
+,suprchargedriot,2013-01-31T01:29Z,okay so to my understanding this is an .iso to install any of the said operating systems pre-activated? all on one .iso?
+,tastybyte,2013-02-18T18:01Z,"Great torrent thank you!
+
+ran into a snag though. I installed 7pro64 and used my own key on 2 different lenovo products. can't update any of them. error: 80072F8F (and the clock is correct) any idea?"
+,m0a2t4t,2013-03-29T18:31Z,Have you tried doing an upgrade install? The 64-bit installer will not work. Only way to repair installation is to run from inside Windows and upgrade. 32-bit installer works and you can select 64-bit images but you will get an error during the installation.thanks for up.

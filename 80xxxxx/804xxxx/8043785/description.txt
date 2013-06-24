@@ -1,0 +1,46 @@
+ http://www.piczend.com/image/1358697201_vlcsnap-2013-01-20-08h51m24s59.png 
+http://www.piczend.com/image/1358697202_vlcsnap-2013-01-20-08h51m41s236.png 
+http://www.piczend.com/image/1358697196_vlcsnap-2013-01-20-08h51m52s85.png 
+http://www.piczend.com/image/1358697203_vlcsnap-2013-01-20-08h51m55s120.png 
+http://www.piczend.com/image/1358697200_vlcsnap-2013-01-20-08h52m21s118.png
+info : 
+Video
+ID                                       : 1
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L1
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : 20
+Duration                                 : 2h 3mn
+Bit rate mode                            : Constant
+Bit rate                                 : 785 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 552 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.046
+Stream size                              : 692 MiB (83%)
+Writing library                          : Lavc53.36.0
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 3mn
+Bit rate mode                            : Constant
+Bit rate                                 : 160 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 141 MiB (17%)

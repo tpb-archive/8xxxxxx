@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-02-02T09:59Z,ENJOY ENJOY ENJOY ENJOY Retrovirus V1.0 Steam-Rip CRACKED New PC Game by RG GameWorks!
+,hollisb,2013-02-02T10:02Z,"Holy shit, you're on a roll, HeroMaster. Thank you!"
+,Friendlyx,2013-02-02T13:37Z,Thank you so much!
+,demmydemon,2013-02-02T18:49Z,"Not working for me, but the crash seems to be somewhere in XNA, placing the blame squarely on my system and not the torrent/crack.
+
+At least that's my current theory.
+
+Anyone else getting the ""Start Retrovirus.exe, nothing happens"" problem?  I discovered it's actually compiling a crash report where I found the XNA-related issues I'm currently poking at.
+
+If anyone else has similar issues, perhaps we can figure it out?  If this is fixed in the patch I just might buy this blindly rather than downloading first to try out...  Looks so cool!"
+,demmydemon,2013-02-02T20:01Z,"Fixed it, but not sure what did it:
+- Changed display device
+- Updated .NetFX
+- Disabled error reporting
+
+(Ordered from most to least likely to be the fix)"
+,ingway,2013-02-03T16:24Z,"Thanks so much! Been looking for this since I saw the promo video on steam.
+
+NO PROBLEMS ON INSTALL OR PLAY.
+
+The default display device was set to my secondary monitor ... be sure to run RetrovirusLauncher.exe and set your display to your primary.
+
+If you are running Windows 7 (32 or 64) you do not need to manually install XMA framework as it is inclusive to the OS.
+
+If you are running an earlier version of windows, you need to download and install this:
+
+http://www.microsoft.com/en-us/download/details.aspx?id=20914
+
+again - once doing that you should make sure your settings are properly configured.
+
+Good Luck!"
+,JDFS22,2013-02-09T09:22Z,Retrovirus has stopped working... classic!
+,Sabre_of_Pain,2013-02-20T01:29Z,"Doesn't work, says it stopped working immediately after running the exe"
+,Sabre_of_Pain,2013-02-21T00:04Z,"Installed microsoft XNA 4.0 and the game started working, it's included with the game in the folder C:Program Files (x86)SteamsteamappscommonRetrovirusRedistributables"
+,thcfreak666,2013-03-08T00:20Z,"No Fullscreen support, only borderless window with massive gpu usage (near 100%) Unplayable with hd4890, playable with GTX570 (anisotropy on 2X, AA off). UPDATE PLEASE !!!"
+,mindcrasher,2013-03-11T03:44Z,thank you so much this will work for my computer lol 

@@ -1,0 +1,14 @@
+Programación en C, Metodología, Algoritmos y Estructura de datos
+
+Segunda edición.
+
+Luis Joyanes Aguilar
+
+
+
+-*- Descripción -*-
+
+Esta obra se ha escrito como libro de referencia y guia de estudio en un curso de introducción a la programación, con una segunda parte que puede utilizarse en cursos de introducción a las estructuras de datos y a la programación orientada a objetos; en todos estos cursos hay que utilizar C++ como lenguaje de programación. Los objetivos fundamentales de la obra son:Énfasis fuerte en el análisis, construcción y diseño de programas.Resolución de problemas mediante técnicas de programación.Introducción a la informática y a las ciencias de la computación utilizando C++ como herramienta de programación.Por ello, el libro se ha diseñado para enseñar a programar utilizando C++, aunque también pretende enseñar C++. Así, se tratará de enseñar las técnicas clásicas y avanzadas de programación estructurada, junto con técnicas orientadas a objetos.La obra pretende enseñar a programar utilizando tres conceptos fundamentales:Algoritmos. Conjunto de instrucciones programadas para resolver una tarea específica.Datos. Una colección de datos que se proporcionan a los algoritmos que se han de ejecutar para encontrar una solución: los datos se organizan en estructuras de datos. Objetos. Conjuntos de datos y algoritmos que los manipulan, encapsulados en un tipo de dato nuevo conocido como objeto.Así, pues, los objetivos fundamentales de la obra son: introducción a la programación estructurada, estructuras de datos y programación orientada a objetos con el lenguaje estándar C++ ANSI/ISO.
+
+
+

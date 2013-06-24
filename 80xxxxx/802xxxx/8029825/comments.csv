@@ -1,0 +1,75 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-17T01:05Z,Tested the release even though I didn't change any install indexes and I got Enterprise activated with KMSNano v11.2 just fine.  Smartscreen filter tried to block it but it's my fault for leaving it on.
+,absalom,2013-01-17T01:37Z,Keep em Coming!
+[V],murphy78,2013-01-17T02:39Z,"...included in the lananov11.zip file.*
+should be LaNanov11.2.zip"
+,mrmagoo25,2013-01-17T06:22Z,"How is this one different than the last one a few days ago, I just finished DL the last one?"
+[V],murphy78,2013-01-17T10:44Z,"mrmagoo, the indexes are the same because there have been no new hotfixes.  The only change is the addition of the DaRT8 boot options.
+
+The tools you can run from DaRT are many that you can only run from windows, and some that people would run from bood cds.  It is included because this is an AIO. Smaller releases will not have DaRT, only the hybrid x64/x86 ones."
+,ShagZ-TPB,2013-01-17T21:34Z,"Coming from win7pro 64bit. What version should i install to try out win8?  Will there be activation issues? Some apps that will not work? I read that some torrents have that issue?
+
+Thank you for your time."
+,knur003,2013-01-17T21:42Z,"Hi, how do you integrate .net framework 3.5.1 on windows 8 iso? Please tell me, i can't find any tutorial"
+[V],murphy78,2013-01-18T03:15Z,"shag, if you are intending to upgrade from win7x64, then you should probably use my x64 aio as this hybrid only supports x86 upgrading.  If you plan on doing a fresh install from boot, this will work perfectly for you.
+
+I'd recommend win8 pro for most everyone.  enterprise has slightly more features, but they're all business related, and most people won't use them.
+
+As far as torrents not working, windows 8 has built in virus protection and program files protection, so as long as you can install any program in a non-program files directory, it should be fine. Ex: make a c:_games folder for torrents that use custom setups like cracked steam games. Its really a non-issue once you get used to doing it.
+
+Win8 tests slightly faster on 3d software like games and such but the overall operating system is slightly slower.  It's barely noticeable.
+
+For the net framework question, I use a dism command pointed at the sxs folder that comes in the rtm iso.
+ex:
+dism /mount-wim /wimfile:c:_win8_sources_install.wim /index:1 /mountdir:c:_win8mount
+dism /image:c:_win8mount /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:c:_win8_sources_sxs
+dism /unmount-wim /mountdir:c:_win8mount /commit
+
+replace the underscores with backslashes on that, and point it at the appropriate files."
+[V],murphy78,2013-01-18T03:19Z,"oh sorry shag forgot the activation question. Right now only kms activation is viable for windows 8. All other activation methods do not mix with windows updates and cause big system problems if you try.  I got a nasty blue screen o death trying kjactivator and the onthreeseas activator just kept resetting explorer.  The reason is that they aren't meant for the updated versions of the files, only the non-updated versions.
+
+For activation, use a volume version of windows 8 such as pro or enterprise, then run the kmsnano program.  If you run into any problems run a 'sfc /scannow' from admin command prompt and try again."
+,anarchist9027,2013-01-18T03:26Z,"Hey Murphy78 and everyone else out on thepiratebay, there is no legitimate activator for Windows 8 and there may never be. KJ Activator uses files from the CP or RP and jacks your system up and makes it a Frankenbuild. Stay away from ANY Windows 8 activator besides KMS activators."
+[V],murphy78,2013-01-18T07:58Z,"Yah, pretty much any activator that requires a reboot is bad news.  If you ever use one by accident, before rebooting run a ""sfc /scannow"" and fix it."
+,knur003,2013-01-18T14:18Z,"Hi, when i want to integrate .net framework into windows 8 dvd, its error 0x800f0830 - The specifed image is no longer serviceable and may be corrupted. Discrad the modified image and start again.
+What should i do?"
+,ShagZ-TPB,2013-01-18T14:34Z,"@Murphy78
+Thanks, i was going to do a fresh install. I never upgrade the OS. Looks like M$ is getting better at making pirates work more to use hacked copies. Looks like i need a USB drive to install this. Only have a DVD burner. Is there a copy of 8 that can fit on a DVD?"
+,anarchist9027,2013-01-18T19:11Z,"@ShagZ-TPB
+Burn it with a Dual Layer DVD"
+[V],murphy78,2013-01-18T22:04Z,"knur you might want to re-get your rtm.  Make sure your sha-1 matches. For en-us RTM you want:
+en_windows_8_x86_dvd_915417.iso
+22D680EC53336BEE8A5B276A972CEBA104787F62
+
+en_windows_8_x64_dvd_915440.iso
+1CE53AD5F60419CF04A715CF3233F247E48BEEC4
+
+en_windows_8_enterprise_x86_dvd_917587.iso
+FEFCE3E64FB9EC1CC7977165328890CCC9A10656
+
+en_windows_8_enterprise_x64_dvd_917522.iso
+4EADFE83E736621234C63E8465986F0AF6AA3C82
+
+Also, adding netfx3 has to be the first step in your integration process.  Adding languages patch some of the added files. I'm unsure, but I think some non-netfx3 kb files may patch netfx3.
+
+So, before you add anything else, integrate netfx3."
+[V],murphy78,2013-01-18T22:07Z,"shag, this release is definitely worth a dual-layer dvd burn, but my normal jan2013 releases will fit on a single layer. This is the last month that x64 will fit on a single layer, so if you're cheap, now's the time to d/l it.
+
+Just click my name and scroll to it"
+,jnx_r,2013-01-19T09:03Z,"Murphy, these would probably be the most noob questions you've been asked, but need to know this mate to avoid a fuckup later...
+-Is it safe to use windows update after the activation using the phone method? Will updating void my activation by any chance?
+-And finally, WHAT would certainly void my activation, which I must avoid doing?"
+,jnx_r,2013-01-19T09:07Z,"Oh, I forgot to add the version which I was using.
+I'm currently on your x64 win 8 pro release from 9th Jan which was the last one to fit on a single DVD
+
+Thanks in for all your work...You're my hero :)"
+,ShagZ-TPB,2013-01-20T15:17Z,"+++ stupid me, i have not used a DVD in so long, i forgot about the DL DVD's..Thanks all :) 
+
+Anyone know how to add media center to x64 pro n vl? if you cannot with the activation, no big.
+
+Thanks again all"
+,viggen6666,2013-01-21T21:45Z,"murphy78, just a remak your md5 code does not match with the iso"
+,Wizardx15,2013-01-29T04:30Z,"murphy78 i really enjoy your work but this is the first AIO from you that is Actually infected by a (Trojan horse) scanned it with Eset Smart Security 5 & 6, every one should always scan their files after download, oh and good job with the 
+kmsnano v19   "
+,rahu78,2013-01-30T06:12Z,can  we turn on windows updates once the kms activation has been applied !! ?? or is it better to keep it turned off??
+,Splooey,2013-02-10T06:14Z,"Belated-- d/l and installed two & a half weeks ago; works great, activated, but haven't turned on Windows Update because i am unsure of consequences. "

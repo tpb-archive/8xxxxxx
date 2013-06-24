@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,tbastra,2013-01-20T22:03Z,how well has it worked??
+,zentrix99,2013-01-25T06:00Z,Great Game!!!!!!! Works fine for me just installed nvidia physx and it runs like hell!!!!!!!!!!!!!! Thanx beso140!!!!!!!!
+,Tharindu42,2013-02-03T18:14Z,Does this work?
+,LocoCraz,2013-02-09T04:59Z,It worked the first time i played but now it wont play. any idea how to fix this? when I hit resume game it starts to load but then force closes.
+,x1xaw,2013-02-20T07:54Z,it asks for a product key. where is it?
+,x1xaw,2013-02-27T11:46Z,when u try to load the game after having saved it freezes
+,Jimm121,2013-03-30T21:28Z,"I have a same problem as x1xaw, any way to fix this?"
+,Doski9,2013-03-31T16:03Z,The same problem. When running the game again after saving it freezes. Any ideas? Thanks.
+,rousseaupatrick94,2013-04-19T12:44Z,This torrent is BS. It asks for a product key. DO NOT DOWNLOAD 
+,rousseaupatrick94,2013-04-19T14:18Z,"Okay I fixed the product key problem, NOW the game won't work if I try load a saved game. f*ck this sh1t "
+,CyberPlague,2013-05-12T16:41Z,"to change the laguage. Find the launcher file in BmGame-config-launcher. Then
+
+- Edit Launcher.ini located in batmanBmGameConfig folder
+- Search for [Launcher.CultureMap] section
+- Put a semi-colon before each line in this section except ""default=Int"" and ""en=Int"". This section should now looks like:
+Code:
+default=Int
+en=Int
+;fr=Fra
+;it=Ita
+;de=Deu
+;es=Esn
+;es-MX=Esm
+;pl=Pol
+;ru=Rus
+;pt=Por
+- Save the file
+
+Now your launcher and the game are in english.
+
+
+
+Also change UserEngine.ini, open, change RUS to, Int"
+,CyberPlague,2013-05-13T18:49Z,"Disregard what I said before.
+Do This To Change Language To ENGLISH
+
+
+Windows 7
+
+C:Users(UserName)DocumentsWB GamesBatman Arkham CityBmGameConfig
+Open UserEngine.ini 
+change Language=Rus to Language=Int
+"
+,kiddlew,2013-05-18T21:18Z,"YO! Whats the product key! anyone please!
+
+OR is there any other way to get passed that to play the game? 
+
+somebody please help.."

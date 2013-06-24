@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,looseyjuice,2013-01-22T04:20Z,"Maybe I'm just stupid, but I cannot figure out how to enable fullscreen. Works great otherwise, but this eludes me."
+,Xertio,2013-01-23T10:05Z,"@looseyjuice
+You can't enable fullscreen, the screen starts to flicker then. Sorry."
+,no_light,2013-01-26T05:25Z,"help? i clicked on the game but it doesnt start up, nothing actually happens... is anyone else having this problem?"
+,indespark,2013-01-27T17:53Z,This worked perfect for me.. but at one point on the game the game goes blank and crashes (early in the game) 
+,madmanmuffbuffer69er,2013-01-28T22:14Z,"LOOK THIS GAME WORKS ON MAC 10.8.2 !!!!!,,,you have to change setting to use the xquartz instead of x11 in options ,, allso will run in fullscreen if you set screen options to fullscreen and tick the use these setting !!! ((( PLZ NOTE TO NOOBS THIS IS DONE IN THE WRAPPER SETTING )))"
+,Xertio,2013-01-30T08:41Z,"To make it work with 10.8.2:
+
+rightclick on the game -> 
+Show package content -> 
+Wineskin -> 
+Advanced -> 
+Options -> 
+and the check the box that says 
+""force use of system istalled XQuarts instead of WineskinX11"""
+,indespark,2013-02-06T20:35Z,How can I make it work with snow leopard 10.6.8??? I really want to play this game but it crashes when I go to the basement at the beginning of the game :C
+,dyl055,2013-03-05T17:33Z,Hello I have problems when I get to the basement like indespark. Anyone know how to fix?
+,nixor222,2013-03-31T13:04Z,My game crashes at the beginning when I switch on the lamp in the room in the basement. Any advice anyone?
+,neautiful,2013-04-26T18:33Z,"It crashes in the basement early in the game as mentioned by indespark, dyl055 and nixor222. This after doing the tip with forcing XQuartz instead of WineskinX11 (mentioned by madmanmuffbuffer69er and xertio). I'm running OSX 
+10.6.8. 
+
+Picture here:
+http://bayimg.com/namAIAaEf
+
+Not gonna post the whole log here, but I guess that anyone that has some Wine- and debugging skills (I definitely have not) could do some test runs and figure out what goes wrong:
+
+Highlights from the log:
+-----------------------------------
+- Firstly, LastRunWine.log gives many errors with several fonts. 
+- Then some error with ""Video 4 Linux"", 
+- Then ""QuickTime not able to handle media type"" with much info on that.
+- Then an error with the file mpegsplit.c:
+Assertion failed: (hr == S_OK), function FillBuffer, file mpegsplit.c, line 176.
+
+Thanks in advance!"

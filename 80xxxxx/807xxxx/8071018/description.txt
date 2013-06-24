@@ -1,0 +1,85 @@
+Dr T and the Women (2000)
+-------------------------
+Dr. Sullivan Travis "Dr. T." is a wealthy Dallas gynecologist for some of the wealthiest women in Texas who finds his idealist life beginning to fall apart starting when his wife, Kate, suffers a nervous breakdown and is commited to the state mental hospital. Dr. T's eldest daughter, Dee Dee, is planing to go through with her approaching wedding despite the secret that she is a lesbian and romantically involved with Marilyn, the maid of honor. Dr T's youngest daughter, Connie, is a conspiracy theorist freak who has her own agenda to everything, while Dr. T's loyal secretary, Carolyn, has romantic feelings for him, which are not mutual. Dr. T's sister-in-law, Peggy, meddles in every situation she stumbles into, while one woman, Bree, a golf instructor, is the only one who offers him any comfort and salvation
+--------------------------------------------
+General
+Unique ID                                : 322709026589108830312239273765407156891 (0xF2C77F6D68C256619B8703B2CFC9EA9B)
+Complete name                            : /home/boss/Videos/Dr.T.and.the.Women.2000.AAC.sub.x264.loolagb5.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.21 GiB
+Duration                                 : 1h 56mn
+Overall bit rate                         : 1 477 Kbps
+Writing application                      : HandBrake rev20121007
+Writing library                          : libmkv 0.6.5.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 56mn
+Width                                    : 716 pixels
+Height                                   : 430 pixels
+Display aspect ratio                     : 2.35:1
+Original display aspect ratio            : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 129
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.470-6 System B, BT.470-6 System G, BT.601-6 625, BT.1358 625, BT.1700 625 PAL, BT.1700 625 SECAM
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 56mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : Hindi
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+

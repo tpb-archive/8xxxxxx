@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-28T08:54Z,"I tested this one on Win8Entx64, but most of the code work that was done in this was for win7 and Office 2013 support. So, you guys will need to try it for yourself on that.
+
+The trigger from is v9.1 from the nano 16.1 release. I have tested it as working on win8entx64. It will correctly update any old trigger with a new directory or filename if you edit the ""Run Trigger.cmd"". I humbly request that you don't be a douche like thumperdc and rename the file and strip credit and version numbers."
+,maxjasper,2013-01-28T09:25Z,Thanks a lot bro.
+[V],murphy78,2013-01-28T13:26Z,"This works with the proplus vl office 2013 and win8ent version of windows. Just tested it.
+
+Arkenstone has the proplus vl office 2013 versions
+http://thepiratebay.sx/user/Arkenstone
+
+It even activated when I rebooted from the trigger that is installed. So if you get office 2013 after you already activate, just reboot and it will run program. (provided you actually ran the ""Run Trigger.cmd"")"
+,StarR10,2013-01-28T13:56Z,"How does ths exactly work ? After i install a verison of windows 8, i just run this and i am done? "
+[V],murphy78,2013-01-28T14:33Z,Read the description and try to parse the information. I know it looks confusing at first.
+,cltj2439,2013-01-28T14:48Z,I have already installed one of your pre-activated Win8 torrents that is using an earlier version of KMSNano. Question. Can I just install a newer version of KMSNano over the old one or do I have to uninstall anything?
+[V],murphy78,2013-01-28T15:31Z,"Yes, just run the ""Run Trigger.cmd"" it uses the same task name in the task scheduler so it will update correctly to whatever directory you run it from. You can delete the old ones from the windows_setup_scripts directory or windows_setup_kmsnano directory if you want.
+
+Also, people are STILL reporting problems activating office 2013 in windows 7. I have noticed something in the logs that might possibly be set incorrectly and have let heldigard know.
+
+For people who are STILL having issues with office 2013, you can try the kms toolkit or kmsmicro.
+arkenstone has the kms toolkit. see link above.
+for kmsmicro try looking on the mdl page that is hosting all this kms stuff:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+
+scroll down a bit on the first post and you'll get to the downloads"

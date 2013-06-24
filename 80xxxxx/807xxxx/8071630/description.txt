@@ -1,0 +1,59 @@
+Windows Firewall Control is a nifty little application which extends the functionality of the Windows Firewall and provides quick access to the most frequent options of Windows Firewall. It runs in the system tray and allows user to control the native firewall easily without having to waste time by navigating to the specific part of the firewall. This is the best tool to manage the native firewall from Windows 8, Windows 7 and Windows Vista. Windows Firewall Control offers four filtering modes which can be switched with just a mouse click:
+
+High Filtering - All outbound and inbound connections are blocked. This setting blocks all attempts to connect to and from your computer.
+Medium Filtering - Outbound connections that do not match a rule are blocked. Only programs you allow can initiate outbound connections.
+Low Filtering - Outbound connections that do not match a rule are allowed. The user can block the programs he don't want to initiate outbound connections.
+No Filtering - Windows Firewall is turned off. Avoid using this setting unless you have another firewall running on your computer. 
+
+
+Program Features
+ Just one small executable file. All features are packed in the same file.
+ Intuitive and easy accessible interface in the system tray.
+ Full support with standard user accounts.
+ Possibility to create temporary rules.
+ Disable the ability of other programs to add Windows Firewall rules.
+ Multiple and easier ways of creating new rules in Windows Firewall.
+ Full support of creating, modifying and deleting Window Firewall rules.
+ Lock feature which can disable the access to the settings of the program.
+ Shell integration into the right click context menu of the executable files.
+ Search for invalid rules with the possibility to delete them.
+ Search for executable files through folders and create new rules in seconds.
+ Choose if you want the program to start at user logon.
+ Import and export the settings of the program.
+ Protection to unauthorized uninstallation.
+ Possibility to restore previous settings at uninstallation.
+ And many more. Just try it out.
+
+Registered Users Features
+
+
+Learning Mode which provides notifications for outgoing blocked connections. Four modes are available:
+High - Display notifications for all outgoing connections that were blocked by Windows Firewall, including System and Svchost.exe.
+Medium - Display notifications only for regular programs, without notifications for System and Svchost.exe.
+Low - Automatically allow digitally signed programs without notifications, but show notifications for unsigned programs.
+Disabled - Notifications are disabled.
+
+
+System Requirements :
+
+ Microsoft .NET Framework version 4.0
+ Compatible with all 32bit and 64bit versions of Windows 8, Windows 7, Windows Vista, Windows Server 2008. Windows XP is not supported.
+ Windows Firewall service is required to be enabled for Windows Firewall Control to run.
+ DNS Client service is required to be enabled for the notifications to work properly. 
+
+
+Instructions :
+
+1. Install Windows Firewall Control 3.8.0.4 Old version first
+
+2. Use Keymaker. Enter installation id to get a valid key.
+
+3. Type/Copy The key from DOS prompt and Activate it
+
+4. Now Exit from taskbar and Install The New version 3.8.2.2 over it
+
+5. Your new version will be automatically activated
+
+Tested on Windows 7 Ultimate SP1 X64 Working !
+
+Proof : http://i.imgur.com/9wKUDIz.png

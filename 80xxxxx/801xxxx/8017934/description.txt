@@ -1,0 +1,18 @@
+Bamt with CGMiner for Crashoveride
+
+Read Me
+
+
+BAMT v0.5c
+
+Please see  http://bamter.org  for documentation and support information.
+
+In a nutshell:
+
+1. write the .img directly to any 2GB or larger usb key.
+2. boot your miner with it.
+3. use menu items, editor, ssh, whatever to edit /etc/bamt/bamt.conf and /etc/bamt/pools
+4. use menu item to restart mining, or command 'mine restart'.
+
+Congrats, you're done.  Try to leave the thing alone now.
+

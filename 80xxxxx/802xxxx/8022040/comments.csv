@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,dududus,2013-01-16T00:32Z,"MULTIMAN SUPPORTS NTFS!!
+
+How to install large (4GB+) PKG files:
+
+1. copy .pkg onto a NTFS USB stick or HDD and plug into PS3
+
+2. in multiman, click "" toggle FAT32 / NTFS "" under PFS DRIVER (on left menu next to settings)
+
+3. click File Manager / mmOS
+
+4. find the .pkg on the NTFS drive
+
+5. double-click it (press X twice)
+
+6. it will copy the pkg and exit to XMB where it is ready to be installed (in a bubble)
+
+7. install from XMB as usual
+
+8. profit!
+
+
+so forget about FTP and splitting files.. this way is the quickest and ridiculously simple! "

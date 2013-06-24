@@ -1,0 +1,9 @@
+Unrar mezzmo2710.rar
+
+run mezzmo-setup
+
+unrar mezzmo.rar
+
+copy patch mezzmo to C:Program Files (x86)ConceivaMezzmo **or where you chose to install it**
+
+run patch mezzmo as administrator -&gt; "Patch" 

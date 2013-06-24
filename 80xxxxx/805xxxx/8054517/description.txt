@@ -1,0 +1,128 @@
+General
+Complete name                            : Princess Mononoke (HD 720p).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 2.74 GiB
+Duration                                 : 2h 13mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 940 Kbps
+Movie name                               : Princess Mononoke
+Performer                                : Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Kaoru Kobayashi, Masahiko Nishimura, Tsunehiko Kamijô, Sumi Shimamoto, Tetsu Watanabe, Mitsuru Satô, Akira Nagoya, Akihiro Miwa, Mitsuko Mori, Hisaya Morishige, Takako Fuji, Billy Crudup, Billy Bob Thornton, Minnie Driver, John Di Maggio, Claire Danes, John DeMita, Jada Pinkett Smith, Gillian Anderson, Keith David
+Genre                                    : Adventure, Fantasy, Animation, Science Fiction, Foreign
+Recorded date                            : 1999-10-07
+Encoded date                             : UTC 2012-05-26 01:24:54
+Tagged date                              : UTC 2012-08-14 00:26:25
+Writing application                      : HandBrake 0.9.6 2012022800
+Cover                                    : Yes
+desc                                     : Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 13mn
+Bit rate mode                            : Variable
+Bit rate                                 : 2 383 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 24.390 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.108
+Stream size                              : 2.22 GiB (81%)
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2012-05-26 01:24:54
+Tagged date                              : UTC 2012-05-26 02:20:48
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Video #2
+ID                                       : 5
+Format                                   : JPEG
+Codec ID                                 : jpeg
+Duration                                 : 2h 13mn
+Duration_LastFrame                       : -1mn 22s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 287 bps
+Width                                    : 640 pixels
+Height                                   : 360 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 0.003 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 1.862
+Stream size                              : 1.38 MiB (0%)
+Encoded date                             : UTC 2012-08-14 00:26:14
+Tagged date                              : UTC 2012-08-14 00:26:15
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 13mn
+Bit rate mode                            : Variable
+Bit rate                                 : 164 Kbps
+Maximum bit rate                         : 261 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 157 MiB (6%)
+Language                                 : English
+Encoded date                             : UTC 2012-05-26 01:24:54
+Tagged date                              : UTC 2012-05-26 02:20:48
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 2h 13mn
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 367 MiB (13%)
+Language                                 : English
+Encoded date                             : UTC 2012-05-26 01:24:54
+Tagged date                              : UTC 2012-05-26 02:20:48
+
+Text
+ID                                       : 4
+Format                                   : Apple text
+Codec ID                                 : text
+Duration                                 : 2h 13mn
+Duration_LastFrame                       : -1mn 22s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 bps
+Delay relative to video                  : 83ms
+Stream size                              : 639 Bytes (0%)
+Language                                 : English
+Encoded date                             : UTC 2012-08-14 00:26:04
+Tagged date                              : UTC 2012-08-14 00:26:04

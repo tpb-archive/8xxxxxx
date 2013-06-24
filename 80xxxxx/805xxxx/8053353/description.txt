@@ -1,0 +1,73 @@
+Includes the VSO ConvertXtoDVD v5.0.0.39 BETA installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Burn automatically to DVD after video conversion. Excellentand fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Edit your project with the various settings and features listed below:
+-Create menus with videos and music
+-Preview window
+-Add chapters - automatic or custom
+-Subtitle files supported
+-Convert NTSC to PAL and vice-versa
+-Merge function - like for CD1 + CD2
+-2 pass encoding
+-Multiple encoding profiles
+-Video/Audio/Subtitle synchronisation
+-Various audio output formats
+-Image resize filters (lanczos, linear, cubic, etc . . .)
+-Quality advisor
+-Multi-core processor optimized
+-Audio amplifier
+-Padding and cropping
+-De-interlacing
+-Batch converter
+
+Additional features:
+-Compatible with any disks 
+-ISO output available
+-NTSC + PAL region formats
+-16:9 widescreen + 4:3 fullscreen
+-Burn multiple copies
+-VSO burning engine included
+-Various SD resolutions available
+-Custom output size
+
+-----------------------------------------------------------------------------------
+
+VARIOUS BUG FIXES SINCE LAST FINAL BUILD (v5.0.0.37)
+
+- 0006397: [Bug] Some .wmv files doesn't convert under Windows 8 (but convert fine on Windows 7) (cedric) - resolved.
+- 0006385: [Bug] Click on cancel to stop the conversion process, but ConvertXtoDVD is still converting (cedric) - resolved.
+- 0006392: [Bug] with 2 pass and SP for long movie output is bigger than target size (cedric) - resolved.
+- 0006357: [Bug] theme not remembered (cedric) - resolved.
+- 0006393: [Bug] bitrate that is shown for second pass is illogically high (cedric) - resolved.
+- 0006395: [Bug] .TS4 not support, did work in v4 (felicia) - resolved.
+- 0006314: [Bug] drive list does not display properly if user is in font view 125% medium (felicia) - resolved.
+- 0006380: [Feature Request] I would to have all the "Video_Source_Files.vsomsl" deleted after the conversion. (felicia) - resolved.
+- 0006378: [Feature Request] new way to do merge in cxd (felicia) - resolved.
+- 0006386: [Feature Request] option to "save as" for projects (felicia) - resolved.
+- 0006375: [Feature Request] use of batcher from cxd : if installed launch batcher, if not open forum link (felicia) - resolved.
+- 0006388: [Bug] Chapter thumbnail start date cannot exceed 48:10 (felicia) - resolved.
+- 0006384: [Bug] hangs after first of two passes - odd behavior (cedric) - resolved.
+- 0006381: [Feature Request] Remove "Maximize bitrate" option and replace with "motion estimation" method (cedric) - resolved.
+- 0006383: [Feature Request] When using double pass option, optimize bitrate distribution between titlesets before starting the second pass (cedric) - resolved.
+- 0006382: [Suggestion] Add an option to increase the output video quality (by using another motion estimation method) (cedric) - resolved.
+- 0006230: [Bug] subtitles out of sync (wesson) - resolved.
+- 0006190: [Bug] no audio after conversion + image stutter (wesson) - resolved.
+- 0006161: [Bug] video converted in fastforward (wesson) - resolved.
+- 0006117: [Bug] file no load mp4 (wesson) - resolved.
+- 0006379: [Bug] seeking in 2nd file merged does not work (wesson) - resolved.
+- 0002887: [Bug] Wrong run time of M2Vs (wesson) - resolved.
+- 0003080: [Unsupported file/stream format] v4.0.7.318 flv file "input file contains no image and no sound. Maybe the file is corrupted or unsupported." (wesson) - resolved.
+- 0003117: [Bug] offset not working for subtitles in ts files (wesson) - resolved.
+- 0006308: [Bug] cxd batcher 1.0.1.12 - menu template selection does not work (felicia) - resolved.
+- 0006309: [Bug] cxd batcher 1.0.1.12 - action after everything is done: close batcher, does not work (felicia) - resolved.
+- 0006367: [Bug] text cropped - in output tab in FR (felicia) - resolved.

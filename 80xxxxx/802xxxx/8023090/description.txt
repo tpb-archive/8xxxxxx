@@ -1,0 +1,11 @@
+This torrent contains several dictionaries which can be used in goldendict dictionary. After downloading, run goldendict and click on the Dictionaries in the Edit menu (or press F3), then add the downloaded directory to the files tab of sources of dictionaries. These dictionaries will be activated after Rescan dictionary (a button in that tab) and Press Apply and then Ok.
+
+Download torrent and store downloaded files in a directory, eg "pdict".
+Run goldendict
+Press F3 (or select dictionaries in the edit menu)
+Click on "Add" button on the files tab on the sources tab in the opened window.
+Select the directory of downloaded files "pdict"
+Click on "Rescan now" button.
+Click on "Apply" button.
+Click on "Ok" button.
+Now, the dictionaries are ready to use.

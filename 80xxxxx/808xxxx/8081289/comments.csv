@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,teh-amazing,2013-01-30T00:42Z,"Amazing quality on all of your uploads, thanks a ton! Quick question tough, sorry if its a stupid one, how do you switch to the 2nd stream audio for the 5.1? or does it automatically? i am unsure of how this works, thank you"
+[V],dhjudasx,2013-01-30T01:04Z,"You need a player such as VLC or a device that has the ability to do so.
+
+In VLC Player, all you do is right click the video while it's playing.... select audio ~> Audio Track ~> Track 2
+
+then make sure 5.1 is working (ONLY IF YOU HAVE 5.1 AUDIO System, otherwise leave alone) by going audio~>audio Device ~> 5.1"
+,teh-amazing,2013-01-30T01:14Z,"Ok cool, thanks so much for your reply! I read the bit about playing it on a PS3 as well(Going to use both PC/PS3) - So I am able to change the sound there to the 2nd stream, correct? How exactly do you do that? Thanks again"
+[V],dhjudasx,2013-01-30T03:08Z,"on the ps3 you need to start the movie playback... then use the controller to access the various play options ( I believe it's the triangle button).. from there.. locate the sound option... I believe it appears as the music symbol.
+
+At which point all you should have to do is select this symbol until it shows 5.1 audio being enabled.
+
+Now initially when you FIRST start playing the movie it may only give you 2 left 2 right instead of 5.1.... be patient, I think on average it was only about 30 seconds... that is when the 2 left 2 right switched to 5.1. If you wait that period before switching... when you switch it should spit out 5.1 as the option to select.
+
+Not entirely sure why the ps3 does that.. but that is tested using the newest slim via an HDMI connection outputting directly into a 7.2 HDMI Receiver which then spits out the video to the tv. The 7.2 receiver reads that the ps3 is decoding the aac5.1 prior to sending the audio to the receiver.. the receiver shows it's receiving LPCM audio, so the audio quality should be fantastic (no need to bitstream)"
+,pro346pro,2013-01-30T07:03Z,Why do people bother using ps3 as a media player so many problems and limited codec support just get a cheapo wd HD media player or similar and never have any problems again!

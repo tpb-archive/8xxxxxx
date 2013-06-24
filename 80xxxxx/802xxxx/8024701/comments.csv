@@ -1,0 +1,2 @@
+﻿User Type,Username,Date,Text
+,tonytiger01,2013-01-17T18:23Z,In order to initially seed successfully you should limit the amount of downloaders to no more than 10 at one time. This will prevent the large number of incomplete downloads waiting to finish.

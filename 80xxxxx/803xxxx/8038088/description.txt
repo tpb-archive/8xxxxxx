@@ -1,0 +1,61 @@
+Storyline
+
+The evil vampire villain Radu returns to his hometown Prejnar, after spending years in exile. He steals the precious blood stone which is said to be bleeding from all saints, from his father and kills him. Meanwhile two American schoolgirls team up with a local girl for work on Romanian culture. Radu becomes attracted to them but runs into trouble when his brother Stephan helps the girls
+
+ 
+http://s13.postimage.org/yarawca87/image.jpg
+
+ 
+http://s13.postimage.org/axt9dtu4n/image.jpg
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.83 GiB
+Duration                                 : 1h 23mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 157 Kbps
+Writing application                      : Lavf54.4.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 23mn
+Bit rate                                 : 3 000 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.048
+Stream size                              : 1.73 GiB (94%)
+Writing library                          : x264 core 123
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 23mn
+Bit rate mode                            : Variable
+Bit rate                                 : 165 Kbps
+Maximum bit rate                         : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 98.3 MiB (5%)
+

@@ -1,0 +1,23 @@
+Introduction to Windows Server 2012 Installing and Configuring
+
+The Install and Configure Servers domain originates from the 70-410 exam. Unlike that exam, the 70-417 upgrade exam avoids basic installation concepts that arenΓÇÖt new to Windows Server 2012. Instead, youΓÇÖll see questions about only new features related to the initial configuration of Windows Server (such as Features on Demand, full installation/Server Core convertibility, and the remote deployment of server roles) or to server hardware (such as NIC teaming and Storage Spaces).
+What these new features have in common is that they represent key improvements to Windows Server. As a result, you should expect them to be heavily tested on the 70-417 exam.  This training guide is intended for information technology (IT) professionals who need
+to upgrade their skills to support Windows Server 2012 in their workplace. The primary
+focus of the book is on job-role training for system administrators and IT support staff
+in midsize to large environments. The book contains detailed technical information and
+hands-on practice exercises to help you prepare for deploying, managing, and maintaining
+servers running Windows Server 2012.
+ 
+ 
+1	Exam Ref 70-410 Installing and Configuring Windows Server 2012
+
+2	Exam Ref 70-413 Designing and Implementing a Server Infrastructure Opsylum
+
+3	Installing and Configuring Windows Server 2012
+
+4	Installing And Configuring Windows Server 70-410 V413HAV
+
+5	Upgrading Your Skills To MCSA Windows Server 2012 70-417 V413HAV
+
+
+ENJOY

@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,km11,2013-01-18T10:46Z,upload sp3..
+,lamportyx,2013-01-18T14:12Z,you will be using keys on the installation SP3 does not need keys!
+,army1959,2013-03-10T17:42Z,"this is what i get
+
+ERROR REPORT ( 03/10/2013 11:16:06 )
+Please submit this error report to developer.
+Operating System version  :Microsoft Windows NT 5.1.2600 Service Pack 3
+.NET Framework version    :4.0.30319.269
+Error Message            :
+Could not load file or assembly 'PGK.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f93e897f802ddcb7' or one of its dependencies. The system cannot find the file specified.
+StackTrace               :
+   at A.V.D()
+   at A.V.D(ImageItemBase , ProcessLog )
+   at A.KB.D()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean ignoreSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()"
+,kituljak,2013-03-11T16:52Z,"No CD Key here! (tried so far a lot of different keys, none is working)"
+,darksiders666,2013-03-13T23:34Z,dud good windows?tested??
+,iWumbo,2013-05-01T02:52Z,"Good torrent. I was able to boot and installation was successful. Unfortunately my old comp, which I use on the HDTV now, only works with SP2, I get many errors with SP3. Therefore, this was very useful, and I will seed. Oh, and for those who need the serial because the uploader did not provide them, ill give it out, from what I saw in another torrent:    
+
+J6T2H-YBT26-FWXGY-2HVXJ-TTBDY
+
+This works as of when this comment was posted. So use it before it does not work anymore."

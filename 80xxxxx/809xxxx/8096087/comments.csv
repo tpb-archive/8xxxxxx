@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,AsifAkheir,2013-02-03T18:10Z,"Thanks HighCode
+A10
+V10
+
+For some reason the subtitles don't work. I opened it up in mkvmerge and the subtitle files are there - they just don't show up on the screen. Anybody else have the same problem?"
+[V],HighCode,2013-02-05T08:18Z,"@AsifAkheir
+Probably because you watch it on super wide screen so you don't see the black bars..
+These subs are scaled for 16/9 (1920/1080) monitors to show on lower black bar.
+If you got the VobSub_2.23 I suggest to uninstall it, I have a feeling that's the cause.
+If you can't re-scale it in player use the default style for subtitles. Or in Subtitle edit 3.2.8 File/Import subtitle from matroska/save as srt. 
+Next time give more info what player you use etc.
+Use MPC (klite + ac3 filter + CoreAVC Professional & CUDA + surcode external filter for dts...). It's a pain in the arse to make a perfect configuration but it's worth it. I play everything via hdmi (10 M long cable) to Hi-Fi receiver.
+Thanks for the feedback."
+,Bloksee,2013-02-05T22:23Z,"First of all thank you HighCode, the movie itself is great and the rip video and audio are also great. But the subtitles probleme I also couldn't figure out how to fix. I have k-lite installed and I tried both MPC and VLC media player. So, except for subtitles, this is 10."
+[V],HighCode,2013-02-06T02:43Z,"l-lite is too sophisticated with it's tons of codecs. 
+Try MPC from CCCP ( http://www.cccp-project.net/download.php?type=cccp ), it  will show the subs nicely  http://i.imgbox.com/abvslgeG.jpg"
+,AsifAkheir,2013-02-08T08:56Z,"@ HighCode
+Sorry I didn't mention that I'm using VLC to play the file and displaying it through hdmi cable on a 39 inch TV. As far as I know VLC automatically updates its codecs, so I shouldn't be missing one. I am using the default scale, but nothing shows up on the lower black bar. No idea what the VobSub_2.23 is. I'm guessing it's a codec that I shouldn't have?
+
+I have solved my specific problem by downloading subtitles from here:
+http://www.opensubtitles.org/en/subtitles/3294570/youth-without-youth-en
+
+and resyncing them (adv -20sec) here:
+http://subshifter.bitsnbites.eu/
+
+Thanks for you response even though most of it is over my head."
+,AsifAkheir,2013-02-08T09:18Z,"I watched more carefully and I noticed occasionally there are little black bars and dots at the bottom of the image. I think they may be the very tops of the subtitles - the problem may be black lettering on the black background of the lower black bar. If the color of the letters can be changed then it might solve everything.
+Just trying to help. English subs are OK, but I love the idea of multilingual subs."

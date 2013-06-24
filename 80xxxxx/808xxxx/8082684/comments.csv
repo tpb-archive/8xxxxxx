@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+[V],rr-ne,2013-01-30T10:00Z,"What is the difference between having an .avi or an .mp4?
+
+There all the same."
+[V],psspss,2013-01-30T10:16Z,"lol no.. mp4 is higher quality but requires better hardware to decode them cos of the way compression works in them
+
+mp4 is also better quality as it doesnt group pixels like 4 to 1 like avi does.. i believe it instead compresses the colour information
+
+divx devices can play xvids as they are similar in structure but not all devices can play mp4s but most can play xvids.."
+[V],psspss,2013-01-30T10:18Z,"so avi have pixelization.. if get close to a tv can see the blobs and mp4s you wont see loss
+
+why avi is called lossy format and mp4 called a lossless format
+
+google for more info"
+[T],MrUnpopular,2013-01-30T21:12Z,x264 > XviD ;)
+[V],rr-ne,2013-01-31T01:43Z,"well with that said i would say .mp4 is my favorite video format.
+
+i hate mkv and flv (doesn't have video thumbnails and they don't play on the ps3)"
+[V],psspss,2013-01-31T03:36Z,"mkv and flv are containers not a format
+
+think of them like a header.. in the header it says what formats /streams are used for video and audio
+
+so a mkv can have avi or mp4  and any type of audio and subtitles in its container
+
+mp4 is still not everyones choice.. some things dont compress well as xvid will always compress as it alters the screen pixels down.. which is called quantizing.. also mp4 arent always smaller and can glitch on playback if the hardware is not fast enough or bandwidth.. 
+
+generally I find mkv are ok until they go over 1gb then the device can struggle.. epsc if using wifi connections on a media server..
+unless its transcoded down to MPEG
+
+mpeg is what is used on dvds as its lossless format so media servers can uncompress mp4s and mkvs to mpeg before sending/streaming since the decoder wont need to think much and can put the video up on screen without much effort and be glitch free.. but then thats more work on media server end.. so you need a good processor on your NAS box or laptop you use for the media server"
+[V],psspss,2013-01-31T03:42Z,"to get mkv thumbs you can install shark007 codecs then a program called Icaros_v2.1.5-Make MKV thumbs work in win7
+theres also a way to get flv to show I think above may even do it but I general convert flv to xvid or mp4 anyhow which show a thumbs
+
+never mix codec packs.. if got k-lite installed or the windows vista codec pack uninstall and replace with latest sharks.. solves alot of issue I find and things not playing (in MS media player atleast) VLC has its own built in why it players on any machine with on codec packs install. ideal for non tech people when you lend a dvd to a friend with no pc know how)"
+[V],psspss,2013-01-31T03:43Z,"
+:O"

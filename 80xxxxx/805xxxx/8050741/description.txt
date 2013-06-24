@@ -1,0 +1,22 @@
+For XVID AVI with MP3 audio, Since the Mayan screwup, we can assume:
+V=7.13
+A=7
+.
+I have no idea what "The Scene" is up to. x264 can only claim better quality,
+if they keep the bit rate up and it's dropping like a stone along with file size.
+Used to be they had a standard "bitrate=1024K, filesize is 175/233/350/533".
+Now their codec is secure, but their standard is quicksand, it would appear.
+I've decided to test reduced bit rate vs a full MINI, which is this:
+.
+========= IMDB.com/title/tt0115147/
+KAgmLAaei
+Release Name: The.Daily.Show.2013.01.21.Sonia.Sotomayor.MINI.272p.XVID-AVIGUY.avi
+.
+From AVIGUY:
+Release Date.: 20130121
+Release Size: 67 Mb
+Run Time.......: 21:28
+Resolution.....: 480x272
+Video Codec...: XVID AVI
+Video Bitrate..: 384 Kbps
+Audio: MP3 48 Kbps 22KHz CBR

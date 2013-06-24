@@ -1,0 +1,123 @@
+﻿User Type,Username,Date,Text
+,Ferouk,2013-01-24T09:37Z,Thanks alot dude ! Great share
+,Ugo4brain,2013-01-24T13:37Z,"Great Torrent.
+Thanks For Sharing.
+BTW, Those That Have Completed the Download Should Please Seed."
+,hikar0o,2013-01-24T22:04Z,"Thx, But I checked adobe download center and I found last update is 13.0.1.1 not the one you put here, Can u explain what's this version ?
+I trust u always bro :)"
+,pvbers,2013-01-24T22:42Z,The 13.1.2 update says it is not for this version.
+[V],Ching_Liu,2013-01-25T04:20Z,"@hikar0o - Please check the link below :
+http://blogs.adobe.com/crawlspace/2013/01/photoshop-13-0-413-1-2-updates-now-available.html
+
+@pvbers - Please read the instructions included again."
+,brodyzero,2013-01-25T06:20Z,I'm having difficulties installing. It won't accept any serial numbers as valid ones. Help?
+,mizar,2013-01-25T08:14Z,"Ching Liu,
+Thanks for the upload. Everything is working. However, I can´t  find all of the languages stated in the description. Only a few of them and no Swedish language."
+,AntraxYato,2013-01-25T08:23Z,Gracias tio funciona :D =D Saludos
+,D255,2013-01-25T15:50Z,"ching liu;
+
+Thanks for sharing"
+,ntdpro,2013-01-26T05:15Z,"Hi, ChingLiu. I want to install Adobe Presenter 8.0.1. It has a update, 8.0.2, but it say it is not for me. So how i can do to install this update. I do the same your way, patch ApplicationManager6.2 but it not work. Do you can help me. Thank"
+,MattyPRacerX,2013-01-28T04:56Z,"Downloaded, seeded, installed, and works perfectly. Thank you! Been wanting CS6 since it came out!"
+,figkikeron,2013-01-28T15:43Z,hzaving the same problem as bodyzero. won't accept any serial number... need help.
+,deifu,2013-01-28T23:19Z,"I can't install application manager. I'm using win 8 Pro WMC x64
+Please help"
+,fatand50,2013-01-29T07:30Z,Thank you a lot ChingLiu.
+,dipsss,2013-01-30T23:13Z,The Type setting seems to only have East Asian and Middle Eastern available which results in periods being placed at the beginning of sentences when writing text. Is there a way around this? Thank you for the torrent btw.
+,koala26011990,2013-02-03T12:46Z,"Hello, 
+
+I have a problem with intallation :
+
+The patch doesn't work : 
+
+---START PATCHING---
+
+[OFFSET PATCH]
+loading file:
+Crogram FilesCommon FilesAdobeOOBEPDAppDECoreDE6Setup.dll
+Filesize OK!
+CRC32 check failed!
+nothing patched!
+PE CheckSum Fix : OK
+Restore original file time : OK
+
+EXIT PATCHING
+---PATCHING DONE---
+
+Why ??"
+,faaip,2013-02-04T01:11Z,ok i didi everything to the letter and when i enter Ps   i get that annoying message that i have seven days to validate my software so will this annoy me or in seven days my ps will not work??
+,nozo123,2013-02-04T18:11Z,serial number don't work
+,WICKED-MIND,2013-02-06T09:28Z,Thank you sooo much! it works great
+,papatazaa,2013-02-06T13:12Z,Database error
+,papatazaa,2013-02-06T13:14Z,Hi! Everything went well till the step 3c. Than I received a notification that the ser.num. isn't valid?! Please help? (Just installed Windows7 x64 sp1)
+,Thooty,2013-02-06T18:34Z,"@Ching_Liu
+I have same problem as @pvbers
+I read instructions and did everything what I had to do, but it still shows that is not for my version.
+
+Maybe there is a problem with destination folder where is Photoshop installed? Cause I have it installed on my D: disk, not C: but I don't know :-)"
+,flankers,2013-02-09T12:29Z,@Thooty - just put 1330 in first input field...rest doesnot matter ^^ 1330 is specific for recognizing photoshop
+,vaticanjew,2013-02-11T13:57Z,"Hello, I, like @papatazaa, also got stuck on step 3c..
+My serial number isn't valid and I'm running it as administrator.. 
+It's no use typing in a random string of numbers either, so..
+Any ideas?"
+,smirnoff9969,2013-02-13T17:10Z,dude it doesn`t work with Win7 64!!!
+,roumor2,2013-02-14T00:11Z,"WIN8x64 FAIL
+
+Installed both 32x  and 64x versions of cs6.
+AdobePatchInstaller.exe said: This patch is not applicable for you."
+,Dr.BARTON,2013-02-25T10:03Z,"@roumor2
+
+If the updates wouldn't apply then it seems that the first step from the ""nfo"" file was not done properly.
+
+The reason (in my case anyway): a newer version of the ""ApplicationManager"" is present in the system. And this would prevent ""aam-patch.painter"" from accomplishing its purpose: patching the updater.
+
+Solution: Get rid of the existing ""ApplicationManager"". It seems to be located in the ""C:Program FilesCommon FilesAdobeOOBE..."". I just went ahead and ""shift-deleted"" the ""OOBE"" folder (skipped everything that wouldn't be deleted, though I'm sure there is a more appropriate way to do it). After that I did the first step from ""nfo"" again and voila - the updates applied flawlessly :)"
+,techo95,2013-02-25T13:20Z,please help...it shows that serial number isn't valid
+,ahl0t,2013-02-26T01:14Z,"Thanks Ching_liu its work for me
+The only problem can solved this is the internet connection :D
+1.first need to disconect the internet
+2.open the ""aam-patch.painter"" ang pacth it :D
+3.run the ""ApplicationManager6.2_all 
+4.install Photoshop_13_LS6 & put the serial nmber 123456789etcc.....
+5copy the crack files into the installed location on adobe photoshop cs6 :D
+"
+,Dr.BARTON,2013-02-27T07:14Z,"@techo95
+
+Try 11111 11111 11111 11111 11111...."
+,XtraZoom,2013-02-28T10:40Z,"""C : Users  Username  AppData Local Adobe  OOBE""
+""C :  Program Files (x86) Common Files  Adobe  OOBE""
+
+OOBE is located at 2 locations for Win 8 64 bit. My problem is despite finally patching Adobe App Manager when install CS6 it says it cannot connect to internet and it will disable the software after 7 days or something similar. I also have Fireworks CS6 in my system. I hope in future there is all - in - 1 method to install both Adobe products easier."
+,nice_guy75,2013-03-10T03:29Z,"I have followed each step still getting ""Invalid Serial"" msg.
+
+Any suggestions?"
+,Saveus_asap,2013-03-12T18:33Z,"""Ching Liu (the man who knows how)""
+Ching Liu should be a synonym to the word ""consistent""
+
+The software works fine so far.
+
+Although after installing it, it said i've go to validate within 7 days or it'll stop working.
+When I launched it today(the 6th day), it said serial number was invalid so I cancelled, and launched it again and the validation message dd'nt pop up. 
+
+In other words the download was successful.
+
+Thanks Ching Liu and of course my fellow seeders :)"
+,ensayofr,2013-03-30T09:07Z,"I may sound stupid but where is the ""amm-path.painter.exe"" patch? after installing ""Application6.2_all.exe"" I don't get the first file anywhere... I do not have it in the ""1.Application manager - Patch painter"" folder either..."
+,MasonD680,2013-04-02T00:37Z,"Hi, I've been having some issues with this.  Step 3c: ""... and enter any serial.""
+No set of numbers I've tried works.  Every time I get told that the serial number is invalid.  A couple of suggestions here in the comments say use 1111's, others say start with 1330.  I've tried these, but with no success.
+Can anyone help?"
+[T],Xichael,2013-04-12T00:08Z,"Do not run aam-patch.painter.exe. It's malware:
+
+https://www.virustotal.com/en/file/56f76a93e96f41071336dbe719d2e88810b67ab35c8b8f99e14d1406efc3175a/analysis/"
+,TW63684,2013-04-20T05:11Z,I'm going to guess this one works just as smoothly as your dreamweaver .tor thanks man.
+,TONPumper,2013-04-22T00:47Z,I'm getting an error that says that the update is not applicable for me. Any suggestions?
+,TW63684,2013-04-22T09:07Z,"installed and runs great, no virus, I don't know what the guy above was talking about"
+,BogPojkin,2013-05-01T20:35Z,"Finally got i working.
+Firstly, for the serial number. The serial number must start with ""1330"". If it's not working anyway, you probably need to re-install Adobe Application Manager and re-use the crack.
+Tip: After you've used the crack and it says [Complete], or something like that, scroll up and read everything. It it says something with ""failed"", then Adobe Application Manager probably isn't installed or updated properly.
+Restart your computer.
+If the UPDATER (AdobePatchInstaller.exe) fails, you should know that you need to re-install any previous versions of Photoshop CS6 and use the one on this torrent.
+If you know that and it's still not working. Try restarting your computer. Still not working? Install both 64-bit and 32-bit version, restart, update. You can also try re-installing Adobe Application manager and re-crack it (with aam-patch.painter.exe).
+Thanks to Adobe, ChinLiu and Painter, and whoever cracked the dlls.
+
+Also, it is NOT a virus. My F-secure tried to block the patcher too, but I guess anti-virus software just hates keygens and patchers."

@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,supanut2000,2013-01-29T11:46Z,Why is the file so big?
+,supanut2000,2013-01-29T12:03Z,Also how can I crack Jaws 14 on Windows 8?
+,bbsshawn,2013-03-03T11:07Z,This crack doesn't even work. I tried it on computers running Windows 7 and XP and the crack doesn't work on any of them. Do not download this torrent. It's a big waste of time.
+,bbsshawn,2013-03-03T11:09Z,"This crack doesn't even work. I tried it on computers running Windows 7 and XP and the crack doesn't work on any of them. Do not download this torrent. It's a big waste of time.
+
+
+
+
+
+
+
+"
+,pp20,2013-03-04T12:58Z,"This crack don't even work, I've tried it on windows 8, I tried turning off windows smart screan, Setting my antivirus to run the jfw file, turned off UAC and my god it don't work. does anyone have a cereal number to make it a bit easier?"
+,fourfootpickle,2013-05-16T08:36Z,"I figured it out on Windows 7.  The crack works fine, you just have to make a few other rather irritating adjustments to Windows.  It's a pain in the ass, but it beats paying $1100 to a bunch of jack offs preying on the blind.
+
+After you copy BOTH crack files to the program directory (On Windows 7 it's ""C:program filesfreedom scientificJAWS14.0"") you then have to follow the instructions on this link,
+
+http://www.ghacks.net/2010/07/08/get-rid-of-uac-prompts-with-microsofts-application-compatibility-toolkit/
+
+, through the parts about the  Microsoft Application Compatibility Toolkit (ACT).  The 'Program file location' will be the above directory with ""jfw.exe"" on the end of it.  Follow the instructions on the above mentioned walk-through, down to the letter, all the way through the whole process.  During the test phase of this process, it initiates the configuration wizard within JAWS.  Go ahead and get that done.  There's more...
+
+Once you get all that done, open up the program directory through 'My Computer', right click on ""jfw.exe"" and then click on ""Troubleshoot compatability.""  It will try to detect a problem automatically, ignore that bit.  Then it will give you three options to describe the problem you're having, click the one that says ""It worked in an older version of Windows.""  It will then ask you which version it worked in, click ""Windows Vista"" without any of the Service Packs on it...just plain old Vista.  Click ""Next"", click the test button, click ""next"" again, and save the changes.  After all this, the program should work just fine. 
+
+I'm sure there is an even easier way to make this work, but I don't really feel like screwing with it anymore.  If anyone knows which corners we can cut out, or if you have any more trouble, make a comment.  However, this works on my machine, it should work on yours too as long as you're running 7, you're all welcome, and thank you a million times over again kvark112 for the upload.  You rock buddy."
+,fourfootpickle,2013-05-16T08:40Z,"For some reason, it took the slashes out of that directory.  I'll put it here again with underscores instead.  Just remember to use RIGHT SLASHES if you type it in wherever the underscores are at in my example:
+
+C:_program files_freedom scientific_JAWS_14.0"
+,fourfootpickle,2013-05-16T20:30Z,"Don't forget, you also have to turn off your UAC controller.  That thing is a pain in the ass anyway.  Go to the control panel, search for ""UAC"", slide the little selector thingy all the way to the bottom, click ""Okay"", restart your computer, live happily ever after. "
+,j.cury,2013-05-26T01:04Z,"First of all, thanks so much kvark112, you kick ass bro. Ignore the people who say doesn't work, you idiots don't know how to use and complain.
+This works perfect. 
+thanks to fourfootpickle based on who's work I was able to find a shorter way of getting it to work.
+1: install jaws
+2: close jaws
+3: copy files from crack folder to
+jaws installation folder, E.G 
+C:Program FilesFreedom ScientificJAWS14.0
+4: right click on jaws.exe file and go to compatibility mode, check the check box for  run this program in compatibility mode choos vista, and tick the box run as administrator.
+5: come back and thank the uploader
+
+"
+,j.cury,2013-05-26T01:06Z,"o shit i forgot, UAC must be turned off before starting anything."
+,Melangell,2013-05-30T19:56Z,"Thanks so much for uploading this torrent! I'm using Windows 8 and when I try to run the .exe files, (it doesn't matter which one) in this package it says something like ""application has failed to start because its side-by-side configuration is incorrect"" and then check event log for more information. Can anyone help? I've set UAC to 0 but can't think of anything else to do to troubleshoot. "
+,j.cury,2013-06-02T00:53Z,"Melangell,
+
+I do not run 8, but I will try it out on my friends pc and get back to you."

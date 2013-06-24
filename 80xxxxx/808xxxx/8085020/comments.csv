@@ -1,0 +1,94 @@
+﻿User Type,Username,Date,Text
+[V],MP4SUX,2013-01-31T03:00Z,"Sorry, not a WEB-DL - regular broadcast HDTV source.
+
+AVIGUY"
+[V],MP4SUX,2013-01-31T14:26Z,"LOL / DIM (the source for this) has fooled me.
+Never before a pixelation error in this show.
+.
+But now I discover to my great chagrin:
+.
+Gross Pixelation Errors @ 16:21
+.
+I will be on the lookout for the true WEB-DL to replace this.
+.
+Fingers crossed,
+.
+AVIGUY"
+,BoyoBoss,2013-02-01T01:21Z,"AVI Guy...thanks for the heads-up. Hoping that youre successful in hunting down a Web version.
+
+Would you be able to share the name of the program you are using to encode these AVIs? If not, no problem...just hoping to expand my education. :)
+
+Keep up the graet job!"
+[V],MP4SUX,2013-02-01T23:30Z,"BoyoBoss:
+
+Do I mind? I live for such questions.
+
+Lots to say in this small space, so I'll just start with 'what' and you can ask 'how' when you get that far.
+
+======================== MP4 -=> AVI
+
+Get MP4cam2AVI from SourceForge.
+
+'Pour's unchanged x264 into an AVI container.
+Recommend converting from AAC to MP3 at this time.
+
+Having a good x264 codec (avoid the old Nero mpeg 1/2/4), you then need:
+
+VirtualDub for which I'll highly recommend 2pass encoding.
+I use filters to resize from 720x404 to 624x352 (sometimes 480x272).
+The smaller the resolution, the lower the bitrate you can use.
+
+Standard XVID / AVI is 1024Kbps Vid, 128Kbps Aud.
+I use 768Kbps Vid, 160Kbps Aud. Experimant to taste.
+
+======================== MKV -=> AVI
+
+If this had been an actual 'WEB-DL' (which I've now released) or just MKV:
+There is a pair of tools: 'MKVToolNix' and 'MKVExtractGUI2' they come as a package
+Which will easily demux MKV into x264 / AC3 (sometimes AAC) streams.
+'mp4muxer-0.9.3' will remux to an MP4, but 'MP4cam2AVI won't see AC3 audio,
+So just mux only the video track and then run it through MP4cam2AVI to get silent AVI
+When you start mp4muxer, carefully note setting the frame rate. Default is 25fps.
+
+MeGui has an AVI muxer (tools - mux - AVI) with which to combine the AC3 and AVI.
+
+Then back to VirtualDub to re-encode to XVID / MP3 (or keep the AC3 if you want).
+
+======================== Shopping List:
+
+MP4cam2AVI
+MKVToolNix
+MKVExtractGUI2
+mp4muxer-0.9.3
+MeGui
+VirtualDub 1.9.11
+
+Codecs: XVID x264 AAC AC3 MP3
+
+======================== self contained alternatives:
+
+I've heard that VLC (VideoLan) can do standalone encoding, but I find it confusing.
+
+MeGui can do it all, but it confuses the heck out of me.
+
+I actually got started when MKV was young with the first program that could convert it:
+AVC (AnyVideoConverter). It only does single pass AVI.
+The biggest headache is tat you have to explicitly set the frame rate,
+which can be a bother as programs that can encode MKV direct
+tend to add just enough frames to slowly throw the sound out of sync.
+Or maybe that was due to my faulty Nero Digital x264 codec.
+
+Well, you now have enough info the become completely confused.
+
+Good Luck,
+
+AVIGUY"
+[V],MP4SUX,2013-02-26T21:42Z,"Oddly, I do come back to old comments from time to time and everyone after this point will have an easier time with some of this. The real headache all along has been getting audio from its form in the source to MP3 in the destination.
+.
+Well, I now rely hevily on ""M4a to MP3"" because it does so much more than that. I demux an MKV and I feed the "".AC3"" into it and I first had it convert to WAV, because that's the highest no-compression quality path - not needed, but it makes me feel better about multiple audio encoding. VirtualDub can snage a WAV file under ""Audio-Audio from another file"", but better to just convert AC3 to AAC and mux it into the MP4 early and then you're just encoding a single file rather than have to remember the video I want is here, the audio is over there. Recently posted a ""Whitney"" with the wrong soundtrack by not paying close enough atntion. So, keep it simple s... (KISS). MKV to x264 / AC3 to AAC muxed with x264 to MP4 to AVI / x264 / MP3, which encodes nicely in VirtualDub.
+.
+Att first my only route was to le AVC encode the MKV and that would include the MP3 that I could re-encode into the final AVI.
+.
+Peace to all who take up the banner of ""hey, I can do that too!"".
+.
+AVIGUY"

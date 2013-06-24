@@ -1,0 +1,372 @@
+﻿User Type,Username,Date,Text
+,Knindza95,2013-01-10T22:59Z,"Who is test it, activator is working ?"
+,Knindza95,2013-01-11T16:50Z,"Sorry, i using 2010 and i don't need to download 2013, my connection is 1.5 Mbps (slow), i can't trust you and i wait someone who need 2013 to test it.... "
+,zoksy,2013-01-11T23:02Z,"@Arkenstone, you're right, 100%.."
+,Knindza95,2013-01-12T00:05Z,"Sorry, i tried so far activators for this product, none worked !
+
+I don't need to slow down my internet connection one more time some hours if this dont work,
+I can download only activator and i have on HDD instalation of office 2013 x32 can i try this activator on this already downloaded version ?"
+,nzraj,2013-01-13T18:32Z,Been waiting for this! Thank you so much! Clean and perfect.
+,Newb787,2013-01-13T22:56Z,"Fail! Activation is only 29 days. You *may* improve your chances by hacking and tinkering further in the KMSano readme.
+
+Also, a file is added that keeps your CPU running high: qemu-system-i386.
+
+I suggest waiting until we have better activators and or the MSDN or Blue version. "
+,Newb787,2013-01-13T22:59Z,"btw, i suggest everyone run a virus scan after you uninstall this version."
+,Knindza95,2013-01-14T01:15Z,"OMG  ! 
+Does anyone have a real fucking office activator for 2013!?"
+[V],murphy78,2013-01-14T10:59Z,"Arkenstone has helped me out quite a lot on my windows 8 kms activation stuff, and with kmsnano there are a few things you should know...
+
+Firstly, it is sometimes picky with activation, but mostly because it doesn't have very many checks.  It's a very small program with a compressed hard drive taking up most of the file.
+
+For those having issues installing this, I recommend uninstalling, running a system cleanup utility for uninstalls, and then re-install.
+
+MS is notorious for leaving registry settings for activation and such after uninstalling, and if it has the wrong product key in your system, or has some sort of issue stopping it from activating to volumekms, it won't work.
+
+Normal online kms servers aren't nearly as picky, but that's because they don't use exactly the same software as a super tiny emulated machine in a zip file.
+
+Feel free to figure out how to activate office using slmgr and ospp commands if you want to use normal kms servers.  There are no cracks as far as I am aware.
+
+/salute arken"
+[V],murphy78,2013-01-14T22:36Z,"running admin command prompt command ""sfc /scannow"" can fix some activation problems.  Many people assume that it just fixes overwritten system files, but it does also fix inconsistencies in your activation.  I think the majority of problems people have with office activation are also on windows setups that are a bit fubar and haven't been scanned.
+
+Just a tip for you Officeites, scan it if you can't get activation to work."
+,scofty,2013-01-15T11:38Z,"ERROR CODE: 0x8007007B
+ERROR DESCRIPTION: Run the following cscript ospp.vbs/ddescr:0x8007007B
+
+can any one help me with this error??
+
+i have a pirated win 7 x64 and i've tried everything Arkenstone (The uploader) said"
+,sadzai,2013-01-16T07:38Z,"I been trying to activate this on my Windows 7 for Office 2013. 
+
+First I ran KMS and nothing happened for almost 1 hour. It was still running in the background and nothing worked. 
+
+Then I extracted KMS to view the other files just like Arkenstone said and nothing worked. Any other ideas guys?"
+,nzraj,2013-01-16T08:51Z,"here is what I did:
+I ran KMS and checked the status of my Office. It was still not activated and KMS was still running in the background. I kill the process from task manager and ran the KMS again. It was not in the Process list after 4-5 seconds. I check the status of Office 2013 and it was activated.
+Hope it will help."
+,lamportyx,2013-01-17T00:28Z,hey friend try to upload Visio and Project pro plus!
+,lamportyx,2013-01-17T00:34Z,for me this was easy! first i run the kms nano application. then simply it will disappear then i extract the kms nano application with winrar. into a new folder so that the content will not be scattered anywhere else. this time i click on manual cmd file then i wait for about less than a minute. the script just pops out stating that both my windows 8 and office 2013 are activated for 180 days.
+,foglhsfdkgshjfklgv,2013-01-17T23:27Z,"Hello Arkenstone i don´t speak english very well but i will try.
+
+when i run the check activation i get a message saying that i have an error: the system can´t find the key or the specified register value.
+
+i hope you can understand and help me.
+thanks"
+,tuurdsfuh,2013-01-17T23:54Z,"I had to mess with this a lot to get it to work. This is exactly what I did and the only way I could get it to work.
+
+Extracted the LaNanov11.zip
+Then extracted the KMSnano.exe (right click to extract, don't launch it) into the same spot.
+
+I ran in cmd:
+cdProgram FilesMicrosoft OfficeOffice15
+cscript ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript ospp.vbs /sethst:kms.shmtu.edu.cn
+cscript ospp.vbs /act
+
+Ran KMSnano.exe
+Ran manual.cmd and input kms.shmtu.edu.cn instead of IP.
+
+I don't know if the cmd part was necessary but that's what I did and it worked."
+,SteinerKD,2013-01-18T19:33Z,"Actually installed fine and activated on a retail win 8 pro copy, running the check activation gives a warning, but programs run and shows as fully activated. (i.e. no need to convert a legit copy of Win 8 Pro to VL to use it)."
+,wptest123,2013-01-19T10:33Z,"please help me with my activation,  when i start MS office 2013 i get a message pop up saying , ""microsoft office cannot verify the license for this product . . . . "" when i run Check_Activation.cmd it says license status:--licensed--.
+
+
+hope someone can help me. thanks"
+[V],murphy78,2013-01-22T00:25Z,"For those with win7 having a problem activating just office, heldigard has info in the text file regarding skipping trying to activate windows.
+
+The actual quote is:
+""In case you dont want activate one product use the arguments: /noWin, /no2010 and /no2013 arguments to KMSELDI.exe and edit the Manual_Silent.cmd""
+
+So add the /noWin and /no2010 arguments to the kmseldi line in Manual_Silent.cmd and try running said cmd.  If that doesn't work you probably need to run a command prompt ""sfc /scannow""  That will check all of your system files, including activation files.  If it bugs out your windows loader, just re-install it."
+[V],murphy78,2013-01-22T00:27Z,kmsnano v14 is out. Support your boy Arkenstone and get it from him. :)
+,AlexanderMitruzaev,2013-01-26T04:39Z,"Александр Митрузаев (Alexander Mitruzaev), the white nigga from Microsoft, proudly presents!!!
+Windows 8 Pro / Office 2013 (Standard and Pro) / Vision 2013 / Project 2013 MAK Keys
+with LIVE and GENUINE ONLINE activation!
+
+Product Key: PKQ6T-N8GMC-VXYX4-HWMTH-8HRDP
+Profile: NT 6.2
+Validity: Valid
+Advanced ID: XXXXX-01785-000-000456-03-1049-9200.0000-0232013
+Activation ID: 949d6b86-bfa7-4ff1-b4df-17e67bb6320d
+Edition Type: Professional;ProfessionalN;Enterprise;EnterpriseN
+Description: Win 8 RTM Professional;ProfessionalN;Enterprise;EnterpriseN Volume:MAK
+Edition ID: X18-15521
+Key Type: Volume:MAK
+EULA: Volume
+Crypto ID: 1785
+Activation Count: 18194
+
+Product Key	: 9MBNG-4VQ2Q-WQ2VF-X9MV2-MPXKV
+Profile: Office 15
+Validity: Valid
+Product ID: 00216-53040-12389-AA631
+Advanced ID: XXXXX-02165-304-012389-03-1049-7601.0000-0262013
+Activation ID: 2b88c4f2-ea8f-43cd-805e-4d41346e18a7
+Edition Type: ProPlusVolume
+Description	: Office15_ProPlusVL_MAK
+Edition ID: X18-32644
+Key Type: Volume:MAK
+EULA: ltMAK
+Crypto ID: 2165
+Activation Count: 7746
+
+Product Key: MMJ3T-PMNFC-69XFC-VDVM2-TMQ7T
+Profile: Office 15
+Validity: Valid
+Advanced ID: XXXXX-02180-249-012213-03-1049-7601.0000-0242013
+Activation ID: a24cca51-3d54-4c41-8a76-4031f5338cb2
+Edition Type: StandardVolume
+Description: Office15_StandardVL_MAK
+Edition ID: X18-33253
+Key Type: Volume:MAK
+EULA: ltMAK
+Crypto ID: 2180
+Activation Count: 455
+
+Product Key: NY4DR-QX8CP-YJQT8-Y68DT-V6BJF
+Profile: Office 15
+Validity: Valid
+Product ID: 00219-56840-12272-AA600
+Advanced ID: XXXXX-02195-684-012272-03-1049-7601.0000-0242013
+Activation ID: 3e4294dd-a765-49bc-8dbd-cf8b62a4bd3d
+Edition Type: VisioProVolume
+Description: Office15_VisioProVL_MAK
+Edition ID: X18-33297
+Key Type: Volume:MAK
+EULA: ltMAK
+Crypto ID: 2195
+Activation Count: 4429
+
+Product Key: 6PJTB-NCTVG-3T2GH-PCVM3-9D42M
+Profile: Office 15
+Validity: Valid
+Product ID: 00214-40000-12272-AA495
+Advanced ID: XXXXX-02144-000-012272-03-1049-7601.0000-0242013
+Activation ID: ed34dc89-1c27-4ecd-8b2f-63d0f4cedc32
+Edition Type: ProjectProVolume
+Description: Office15_ProjectProVL_MAK
+Edition ID: X18-32795
+Key Type: Volume:MAK
+EULA: ltMAK
+Crypto ID: 2144
+Activation Count: 4618
+
+Public KMS Server for Server 2012 / Office 2013 activation
+with NEW non-banned GOLD KMS-host keys!
+****************
+* 98.212.2.163 *
+****************
+
+Run this commands from command prompt with Administrative
+privileges to activate Server 2012:
+88
+slmgr.vbs /skms 98.212.2.163
+slmgr.vbs /ato
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x64)
+88
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /act
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x86)
+88
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /act
+88"
+[V],DeGun,2013-01-29T22:32Z,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KEY for OFFICE 2013 :  !!! N E W !!!
+N9JFJ-44VW2-X3J33-BXX9K-P3429 
+
+KEY for OFFICE 2010 :
+VR6XF-V9RPB-XW3PX-Y3WKV-HF9DJ "
+,BerserkLeon,2013-01-30T04:47Z,"Thanks! My main gripe with 'metro' is that they all have to be fullscreen, so the fact that these don't have to be, is very nice.
+
+Even better, this doesn't infect your system with malware... gonna grab your x86 torrent too :)"
+,iHelper0,2013-01-31T02:04Z,"Whenever I run KMSNano, I get this error: http://flic.kr/p/dR5hef"
+,mybbni,2013-02-03T21:15Z,"Maybe sounds like a dumb question, but I am only somewhat computer literate . Never installed like this before. Will I have any problems with install if im running vista ? Please help, really need this program. "
+,anbu13,2013-02-06T18:58Z,"Running this off a legit retail Windows 8 Pro copy. 
+
+1)Is KMSnano permanently required to run Office every time afterwards? 
+
+2) Will it possibly effect any other programs?"
+,hsmwilz,2013-02-07T14:09Z,"thx mate,
+u got urself a +1"
+,monstaslaya,2013-02-08T14:10Z,"To run this application, you first must install one of the following versions of the .NET framework: 
+
+v4.0.30319
+
+Get that error when trying to run KMS...
+
+Also, all the programs work on trail mode EXCEPT Microsoft Word which says 'failed to start in safe mode...' and 'setup could not find install location'or something like that.
+
+Any help?"
+,anga23,2013-02-08T15:52Z,"Tried installing it but when I run the setup.exe file a message saying ""Setup cannot continue because a required file is either corrupted or not available"" not sure what im doing wrong.
+I have Windows 8 and extracted the files.
+Any help would be great"
+,rage6410,2013-02-10T17:44Z,I get an error 25004 in the setup saying the The product key you entered cannot be used on this machine how do i bypass this
+,Vebb22,2013-02-12T14:07Z,Big THX.
+,latejoe,2013-02-13T01:32Z,"I was able to activate using this activator http://thepiratebay.sx/torrent/7829228/Office_2013_KMSmicro_Activator_vK.12-CODE3H, just follow the included video's instructions. "
+,rec123,2013-02-13T20:40Z,"1. Install Microsoft Office 2013 x86 or x64 of your choice. Recommended to use
+Volume License
+
+From here you can download required versions
+http://forum.wportal.org/forum/8-windows-applications/
+
+2. Extract ""KmsMicroK12.rar"" on to your desktop and Run ""KmsActivator.cmd"" as Admin
+
+3. Wait for the activator to load KMSmicro Server (it may take little time, depends on your PC)
+Do not close any window which are generated by the activator.
+
+4. On the first interaction screen : Select a Menu
+A> Ratioborus Menu
+B> my Menu
+
+Hit ""B"" and then enter to load the New (vK.12) activator 
+
+5. On the second interaction screen : Windows KMS Micro Options
+T> Run NetTime
+Z> Set Time
+
+Hit ""T"" and then enter to sync time with NetTime
+
+Once the time sync is completed - Press any key to continue
+
+6. KMSmicro screen -> T
+Yes to all. (It will synchro your timer)
+LEFT IT OPEN
+
+-----
+
+Go to activator (you can get it in retail or RTM version)
+Office: IP 127.0.0.2
+Clear Office KMS
+Wait to finish
+
+------
+
+On Activator go to Charger Tab
+Charge Office 2013 -> Wait to finish (3 success messages)
+
+------
+
+Go to Office tab again and press Activate Office 2013
+
+Now the activation process starts automatically, you have nothing to do.
+Just wait for windows CMD to pop out with the activation status and then
+a Windows Script Host
+
+Thats it ! your Office 2013 got activated for next 180Days ! Enjoy !
+
+7. On the second interaction screen : Windows KMS Micro Options
+R> Restart
+S> Shutdown
+
+Hit ""S"" and then ENTER to shutdown KMS Server
+
+8. By Step 6, your Office 2013 got activated. now you can check the status
+
+Open WordDocument >> File >> Account >> Here you can see the Activaton Status
+OR
+Open CMD and type
+> CD C:Program FilesMicrosoft OfficeOffice15
+> C:Program FilesMicrosoft OfficeOffice15>
+> C:Program FilesMicrosoft OfficeOffice15>cscript ospp.vbs /dstatus
+
+Now it show the status with number of day left.
+
+Works well on my machine OS7. Thanks to Gh0stNet, cooldude187 & Arkenstone. 
+
+You can get all the programs here,
+Activator from following:
+http://thepiratebay.sx/torrent/7920223/Microsoft_Office_Pro_Plus_2013_RTM_%28x86_x64%29___Activate_Method_
+
+Office x64 VL (use only main setup, don't use KMSnano):
+
+http://thepiratebay.sx/torrent/8003630/Microsoft_Office_ProPlus_2013_VL_x64__KMSnano_v11
+
+Finally KMS micro activator (as described in earlier post):
+
+http://thepiratebay.sx/torrent/7829228/Office_2013_KMSmicro_Activator_vK.12-CODE3H
+
+All credit goes to cooldude187, Arkenstone & Gh0stNet.
+
+Some1 pls make a new torrent out of it!!! Enjoy "
+,Ranubis,2013-02-20T02:13Z,"I'm using a brand new computer, I'm running Windows 8, after I extract from zip and mount it I click ""setup.exe"" and get the following error message ""the specified module could not be found"" any help? "
+,lamportyx,2013-02-20T09:59Z,this is great you have just reach 1104 seeders! 
+,xavi3r666,2013-02-22T05:04Z,"Hi everybody!
+
+I came here to share this activation method which helped me to activate both office 2010 and 2013.
+
+1. U need to have both office 2010 and 2013, u can get it here obviously :)
+
+2. First of all, install and activate office 2010, then open any file in order to save the configurations about updates ( I usually don`t install updates).
+
+3. After doing this, go to your folder where u have office 2013 and install it. 
+It will ask you if u wanna update, just click ""OK"" or ""continue"". Wait until the installation finish.
+
+4. After the office 2013 installation has finished, it will ask you to reboot. After rebooting,  try to open any office file, just to be sure the installation is correct.
+
+5. Another reboot might be necessary after u open your office file.
+
+6. Once again after reboot open the office file, go to: 
+File>Office account>About Microsoft office. There you can notice your office is already activated. 
+
+7. Enjoy it. 
+
+IMPORTANT: I didn't logged in with my office account (and I would never) so I am not sure if this makes any important change in order to activate your office. But u are welcome to try this on your own risk.
+
+As I said b4, this helped me to activate office 2010, but i started to install office 2007 first and then made the upgrade to office 2010 following the same method.
+
+Hope this can help to everybody
+
+Long live TPB "
+,xavi3r666,2013-02-22T05:04Z,"Thanks to Arkenstone!
+Great torrent"
+,xavi3r666,2013-02-23T07:48Z,"Por osadia no puse la traduccion de mi metodo de activacion, pero les paso este link, lo cual les da la misma info. en español. Saludos
+
+http://www.taringa.net/posts/hazlo-tu-mismo/16402014/Activar-office-2013-sin-programas.html"
+,Corleone-Hacker,2013-02-27T10:41Z,"what version of this ms office pro plus 2013 have?
+15.0.4454.1511 or not?
+i already have the 15.0.4420.1017 version"
+,r41n1sm,2013-02-27T16:14Z,"Just installed windows 8, and during the phone call, there was a phone activation option for all office versions, would it be theoretically possible to activate via phone for this? Just curious."
+,DerpThing,2013-03-04T04:34Z,"Thankyou so much all of the other torrents and its activation methods didn't work, unlike this one it works great "
+,vikrant47,2013-03-08T13:20Z,"can anyone tell the difference between RETAIL, VOLUME, SELECT, ENTERPRISE, AND PROFESSIONAL EDITIONS. 
+i have ""Office Select Edition 2013 15.0.4420.1017 VL"" . 
+which edition is the best?"
+,guccicar,2013-03-13T01:54Z,Post keys!!! Its better than anything else.
+,mizar,2013-03-15T12:28Z,"Many thanks to Arkenstone! 
+This is a great torrent."
+,Dr.DivZ,2013-03-17T19:48Z,Working great and activated. Very Nice!
+,Methodical-Beast,2013-03-22T03:13Z,"@anbu13
+
+Why the fuck do you still have Vista? Download Windows 7 or Windows 8."
+,Newb787,2013-03-27T03:30Z,I don't like these....I may just have to goto 2010 or 2017. These activators mess up my legit windows and tells me that it is not legit even though it is. 
+,killadom,2013-04-08T12:21Z,"Is it safe to update
+and 
+if you get .NET framework error just follow instructions in the KMSnano README"
+,SouqlRS,2013-04-08T12:27Z,Seed you greedy fucks. Downloading at 0.8kb/s.
+,darkdyson,2013-04-11T19:10Z,"help, I got 3 days left, and when I run the KMSnano to renew the trial, a picture of a red button shows for a few seconds and then disappears and nothing happens.
+
+I tried resetting computer, running program in admin, and tried following many instructions here but it just wont load."
+,BoneBat,2013-05-02T13:10Z,"""Microsoft Office Professional Plus 2013 encountered an error during setup"" ? :( "

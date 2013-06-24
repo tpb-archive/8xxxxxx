@@ -1,0 +1,13 @@
+Container:
+MKV
+
+Video:
+H264-MPEG4:AVC
+1280x720@23fps
+
+Audio:
+OGG Vorbis v2.0
+Bitrate-80kbps@44100khz
+
+Duration:
+24min 24sec

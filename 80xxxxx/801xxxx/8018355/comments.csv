@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,RevaD,2013-01-14T12:12Z,"I've noticed lots of your files become out of sync as file plays when played on a hardware media player. Yet VLC and KMPlayer seem to play them ok.
+
+Hopefully these changes will allow me to start downloading (and seeding) your files. "
+[V],psspss,2013-01-14T12:21Z,"theres no reason why they should drift out of sync
+
+as the video and audio are constant bitrate not variable and not split across interleaves.. should be in sync solid.
+
+normally if its stream and it does go out of sync all you need to do is pause the player and maybe wind back but wind back may not be needed
+for it to sync to the next sync frame
+
+anyhow most are fading out the old dvd players for smart tvs now
+
+you should look at the free media server SERVIIO
+and install on a windows laptop and add uncs to the nad drives and paths to drives or usbs 
+it wil transcode and so far not seem any out of syncs unless the wifi looses connection.. ideally wired connection to tv is best but not needed
+
+serviio is the best for samsung.sony and xbox and ps3
+
+works well also if run xbmc for windows and connect to the media servers via upnp"
+[V],psspss,2013-01-14T12:23Z,opps mean NAS not nad :)
+,RevaD,2013-01-15T13:04Z,Thanks for taking the time for a constructive and helpful reply. 
+[V],psspss,2013-01-15T13:44Z,"no worries.. sorry for some typos eyes been bad lately since on steriod eye drops to clear yet another infection related to the stay in hospital with gut issues.
+
+so yeh can stream well with servioo via wifi to smarttv with wifi no problems .. tried on a celeron 1.5 lappy with vista and i7 win 7 laptop
+
+should google it and download and try it out.
+if you have such a tv.
+
+remember mp4s and some xvids are variable bits
+its how they get them smaller but if the file gets damage later its harder to repair and play in syunc over a Constant video and audio source like I do and the size saving is minimal.. as mine still come out about 350mb mark for tv shows and most seem to have no issue with them but should be better now Ive fixed the headers to be more friendly to sad old sony tvs"
+[V],psspss,2013-01-15T13:46Z,"so you could download the files to a download folder
+and have servioo index it (do a force rebuild)
+
+to add the new files to its listing and it will show up on the tv. if you have a sony tv make sure to select song bravia 2010 profile or leave as generic DLNA for other tvs"

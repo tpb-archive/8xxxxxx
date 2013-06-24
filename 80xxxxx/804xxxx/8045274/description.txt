@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Comedy : DVD Rip : English, 9mins 48secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1931 Batter Up!
+
+Bobby Jordan in the 2nd entry in the Penrod & Sam series.
+  
+http://www.imdb.com/title/tt0439127/
+
+[13:56:21] starting job
+[13:56:21] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:56:21] job configuration:
+[13:56:21]  * source
+[13:56:21]    + C:Penrod & Sam
+[13:56:21]    + title 2, chapter(s) 1 to 2
+[13:56:21]  * destination
+[13:56:21]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam Batter Up.mkv
+[13:56:21]    + container: Matroska (.mkv)
+[13:56:21]      + chapter markers
+[13:56:21]  * video track
+[13:56:21]    + decoder: mpeg2
+[13:56:21]      + bitrate 9558 kbps
+[13:56:21]    + frame rate: same as source (around 29.970 fps)
+[13:56:21]    + strict anamorphic
+[13:56:21]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[13:56:21]      + pixel aspect ratio: 10 / 11
+[13:56:21]      + display dimensions: 638 * 480
+[13:56:21]    + encoder: x264
+[13:56:21]      + options: ref=2:bframes=2:me=umh
+[13:56:21]      + bitrate: 405 kbps, pass: 2
+[13:56:21]  * audio track 0
+[13:56:21]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[13:56:21]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:56:21]    + mixdown: Stereo
+[13:56:21]    + encoder: faac
+[13:56:21]      + bitrate: 160 kbps, samplerate: 48000 Hz

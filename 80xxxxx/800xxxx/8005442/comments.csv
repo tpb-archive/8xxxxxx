@@ -1,0 +1,88 @@
+﻿User Type,Username,Date,Text
+,B0b_D0le,2013-01-12T12:28Z,So every 6 mos. it needs activated again?  Seems like it's time to ditch MSO.
+,zhaizat,2013-01-14T09:07Z,"good!
+thanks very much
+before i download this i keep searching microsoft 13 all that i download has to use key"
+,kronik234,2013-01-20T04:58Z,"Easy as sunday morning..Excellent, Thanks."
+[V],murphy78,2013-01-22T00:20Z,"I'm not a big office guy, but now that kmsnano has the trigger to auto-reactivate, I think I am gonna try this stuff out. Thanks Arkenstone! :)"
+,chuy18,2013-01-29T20:54Z,It is working so far. Thank you!
+[V],DeGun,2013-01-29T22:32Z,"
+
+
+
+
+
+KEY for OFFICE 2013 :  !!! N E W !!!
+N9JFJ-44VW2-X3J33-BXX9K-P3429 
+
+KEY for OFFICE 2010 :
+VR6XF-V9RPB-XW3PX-Y3WKV-HF9DJ "
+,BerserkLeon,2013-01-30T04:57Z,"Thanks for the torrent, works great!
+
+@B0b_D0le KMS is by far the easiest way to activate most MS products. sure it needs re-activating every 6 months, but with the windows keys at least, most are actually on MS's website.
+hxxp://technet.microsoft.com/en-us/library/jj612867.aspx
+Within a couple days of win8 being released, was able to easily grab an enterprise iso and activate with a public KMS server. Do the same thing with my win7 lappy."
+,LTMack,2013-02-04T18:21Z,"Okay I'm not getting this to work.  I've done this on Office for years, this is the first time a KMS hasn't worked, so I'm hoping you can all help me out.  I'm running Windows 8.  Here's what the check command says:
+
+---Processing--------------------------
+---------------------------------------
+SKU ID: b322da9c-a2e2-4058-9e4e-f59a6970bd69
+LICENSE NAME: Office 15, OfficeProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+LICENSE STATUS:  ---OOB_GRACE---
+ERROR CODE: 0x4004F00C
+ERROR DESCRIPTION: The Software Licensing Service reported that the application
+is running within the valid grace period.
+REMAINING GRACE: 2 days  (2989 minute(s) before expiring)
+Last 5 characters of installed product key: GVGXT
+Activation Type Configuration: ALL
+        DNS auto-discovery: KMS name not available
+        KMS machine registry override defined: 127.0.0.3:1688
+        Activation Interval: 120 minutes
+        Renewal Interval: 10080 minutes
+        KMS host caching: Enabled"
+,CamilleSR7,2013-02-09T13:07Z,"I don't understand why this isn't working. I did the following:
+1) Install Microsoft Office ProPlus 2013 VL x86
+2) Run KMSnano v24 (KMSnano_setup.exe)
+3) Everything works fine and office is activated but after a day or so, even without rebooting, whenever I open a office product such as word or powerpoint, a box comes up saying ""Please wait while windows configures Microsoft Office Professional Plus 2013"". No matter if I try to close it or if I let it run to the end, it says something about not being able to activate and the office program closes. Not even re-running KMSnano helps.
+
+I am using Win7 Ultimate (dont remember which version I DL:ed or how I activated it).
+I have made an exception for KMSnano in the antivirusprogram. I have disabled automatic win updates.
+
+What could be the problem? Why is it working initially but then stops working? Neither do I understand what exactly KMS GUI ELDI does. Do I NEED to use that aswell?
+Thanks!
+/C"
+,CamilleSR7,2013-02-10T11:58Z,"I think I just discovered what the problem is: I have Win7 Ultimate, I need one of the following:
+
+Windows 7 Pro/Enterprise Default/N/VL
+
+Can't seem to find anything but Win7 Ultimate on PB though... :("
+,CamilleSR7,2013-02-12T21:00Z,"Hey Arkenstone, tnx for the reply! However, I dont think it is a corrupt installation. Every time I install, and apply KMSnano it works until the next day, then stops working, so the initial install is ok.
+I also tried with MS toolkit (which contains the KMS activator if I understand correctly) and the same thing happens - first the crack works, then the next day when it stops working, if I try ""activate"" again it says:
+
+----------------------------------------
+Installing Any Matching Volume Keys.
+----------------------------------------
+Attempting To Activate Microsoft Office
+
+
+If I press ""check"" MS toolkit says:
+
+
+
+or sometimes:
+
+The security processor reported that the trusted data store was tampered.
+
+
+Obviously something happens when a new day begins. But the KMSnano readme says it doesn't work with Win 7 Utlimate (which I have). Is this not true? What could be the problem??
+/C"
+,CamilleSR7,2013-02-16T19:45Z,"Hey Arkenstone, tnx 4 all your help!
+So what happens is this:
+1) I install Office
+2) I install KMSnano or toolkit (tried both)
+3) When I run ""check KMSnano"" it shows that both Win7 and Office are activated. But after EXACTLY 24 hours, every time, it suddenly only shows that Win7 is activated and Office totally dissappears from the check. When I then try to start office it won't start, only try to run office config. I even tried repairing the registry.
+Why would Toolkit help if KMSnano is not helping? Isn't toolkit actually using KMS activation like KMSnano? Isn't my problem that I have Win 7 ULTIMATE, or does in not matter which windows you have as long as Office is volume licence?
+
+Tnx!"
+,Cool7days,2013-04-23T21:27Z,"Thanks, mate!"

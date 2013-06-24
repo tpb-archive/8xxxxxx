@@ -1,0 +1,15 @@
+
+    Copy 3 file in RAR file to sdcard/Titaniumbackup/ 
+    Open Titanium Backup &gt; find 'FF DIMENSIONS' &gt; Restore 'App+Data' 
+    Copy 'com.square_enix.android_googleplay.ffl_gp' folder to sdcard/Android/obb'
+    Run the game with modded Google play by ChelpuS!
+
+
+Important!
+
+    If you move the game to the SD card, it won't work, so make sure you leave it as is in the Internal Memory.
+
+I tested it in Nexus S i9023 with CM10 and works perfectly.
+
+Google Play Link: 
+https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.ffl_gp&hl=en

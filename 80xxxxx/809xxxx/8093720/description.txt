@@ -1,0 +1,20 @@
+It is Pre activated version of Windows 7 Ultimate For HP and Compaq Systems.
+You Have to just Extract the ISO file or Burn it and done Enjoy.
+If you want to Format your system using any Flash drive-Pen Drive etc.Then you have to make your Pen drive or Flash drive boot able and how it is done i told you.
+
+1-Open CMD(Command Prompt with administrator rights )
+2-Type in CMD DISKPART 
+3-Type LIST DISK
+4-Type CLEAN DISK
+5-Type PARTITION PRIMARY
+6-Type SELECT PARTITION PRIMARY
+7-Type FORMAT FS=NTFS QUICK
+8-Type ACTIVE
+9-Type ASSIGN
+10-TYPE Exit.
+
+Next step is copy your windows all contains to your USB Flash Drive or Pen Drive & Restart the system and give the Priority of pen drive 1st .
+
+Note:-Don't forget to save your data from Pen Drive to another place because it format the pen drive or USB flash drive which is you used.
+
+Please Seed...!!

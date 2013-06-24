@@ -1,0 +1,79 @@
+I uploaded this because the torrent for The Sims 3 Gold 16 in 1 is in Russian and the instructions to change it to English in that torrent(which seems to have disappeared?) were for 64 bit systems. Run this .reg file AFTER running the Russian installer. Alternatively if you don't trust .reg files from the Internet(you shouldn't! But you can right click the .reg file and choose "Edit" to verify what is in it) then roll your own:
+
+Copy this code into a blank text document:
+
+[code start - don't copy this part]
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWARESims]
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Ambitions]
+"Country"="US"
+"Locale"="en-US"
+
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Diesel Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Fast Lane Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Generations]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 High-End Loft Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Katy Perry Sweet Treats]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Late Night]
+"Country"="US"
+"Locale"="en-US"
+
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Master Suite Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Outdoor Living Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Pets]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Seasons]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Showtime]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Supernatural]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 Town Life Stuff]
+"Country"="US"
+"Locale"="en-US"
+
+[HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3 World Adventures]
+"Country"="US"
+"Locale"="en-US"
+
+[code End - don't copy this either]
+
+save it as sims3.reg (notice the reg extension). Run the file and merge it to the registry and there you go.

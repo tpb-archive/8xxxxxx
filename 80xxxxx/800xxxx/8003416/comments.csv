@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-10T14:43Z,"Note that Windows Loader may cause problems with Office 2013 activation. It fools the Windows Activation Tech, but that might also cause a problem when trying to activate Office 2013.  The only method of activating Office 2013 that I'm aware of is KMS, and I'm not sure if you can even use that on versions of windows that don't support KMS activation, such as Ultimate.
+
+The good news is that Enterprise does support KMS activation, and is basically a Volume clone of Ultimate's retail features.  So, if you plan on using Windows 7 and Office 2013, you might want to wait for my Jan2013 AIO and install either Pro or Enterprise.  With that you can just use the kmsnano program I've been upping everywhere. That will activate both Windows and Office.
+
+That's just a heads up for you Office 2013 fans."
+,Husain.87,2013-01-10T17:02Z,"i used KMS on my win7 ultimate x64
+on office 2013, and it works fine"
+[V],murphy78,2013-01-11T00:58Z,"ahh THanks for the info Husain.87.
+I had a feeling it would, as it lists support for retail office.  Just be aware that if MS comes out with some anti-piracy updates for office, they might go for retail versions activated with kms."
+,KOLAVERI,2013-01-11T09:25Z,hey bro great work mate :) i got a question for you :) am currently running on Win7ultix32. Can i use this iso to just update it to SP1? if so how should i do that pls help :)
+[V],murphy78,2013-01-11T20:43Z,"I don't believe you can upgrade windows 7 to windows 7 sp1 versions.  You really don't need to. Just run windows update and get sp1 and then re-run to get the updates.  All of that might take slightly longer, but you won't have to re-setup any of your settings.  If you want a clean slate, just backup important stuff to a flash drive, extra hard drive, or dvdr and then bite the bullet and install from boot with the delete partition options."
+,HyrkanianBlade,2013-01-13T15:54Z,"I tried to download the image mastering api for windows xp (prerequisite for the usb dvd tool) but microsoft's site is retarded, and i can't find it in greek (my installation language) anywhere else. Is there an alternative?"
+[V],murphy78,2013-01-14T10:18Z,"There are many, many usb setup utilities...
+I personally use diskpart, but it's not nearly as easy.
+
+You can try the usbmaker from joshcellsoftwares_com (replace underscore)
+
+It has a few choices, but the top choice is setup to usb, which is what you want to do to mimic the win7usb tool from MS."
+[V],murphy78,2013-01-14T10:23Z,"I finally found a dotnet4.5 redist that didn't have the same crc as my rtm redist in a microsoft page.  I'm going to try to get that going for my AIO release.  I just finished a fairly serious integrating session for my win8aio versions, but win7 will only have one release as it has an AIO tool that supports x64 recovery and update.
+
+It should be good if I can get it working without the update loop.
+
+Cross your fingers ladies and gents..."
+,aguirreis,2013-01-15T08:46Z,"Hi Murphy, I've done this before with windows xp and vista but back then I had someone to help me, decided to give this a whirl , bad idea seems I'm a noob, I went thru everything   and once it stated to turn on and load I got a memory diagnostic tool and it started checking for memory problems  and now I pretty much stuck, any way i can fix this . Thanks great work , I'm just not good at this lol "
+,wickedky,2013-01-18T12:56Z,Thanks Murph!
+,bobsfougarakhs,2013-01-22T13:57Z,Thnx murphy works like a treat!
+,joeylamb,2013-01-24T18:12Z,"question did you include kb1033 update, just curious it doesn't really matter if is installed before  you use daz activation which is what I do anyway"
+,bless_975,2013-02-24T16:29Z,@murphy78...thanks.....great upload...works fine.
+,bless_975,2013-02-24T16:31Z,@murphy78.....failed with some of the previous other versions of 7 ultimate.....hope this works fine ....thanks...!
+,bondnokia,2013-02-24T19:51Z,"I have a problem, Internet Explorer loads a website to microsoft and fail to remove or to reset it, have any suggestions?"

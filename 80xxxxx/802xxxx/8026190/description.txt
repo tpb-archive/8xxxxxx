@@ -1,0 +1,37 @@
+Design patterns are an essential part of software development. At some point in every programmerΓÇÖs career, he or she will have to dig in and learn how to apply these patterns. Even if they may appear scary at first, they are, in fact, much simpler to understand than you might initially think.
+
+In this course, youΓÇÖll learn what design patterns are, how each of them is defined, what they are used for, and, of course, how to implement them in PHP!
+
+Introduction	12m 52s
+Introduction - What Are Design Patterns?	6m
+Introduction - Basic UML Notations	3m 4s
+Introduction - What is Agile and Software Craftsmanship?	3m 48s
+ 
+Agile Design Patterns	4h 11m 2s
+The Factory Pattern	10m 8s
+The Gateway Pattern	11m 6s
+The Proxy Pattern	8m 56s
+The Repository Pattern	13m 38s
+Null Object Pattern	15m 16s
+Command Pattern	7m 20s
+Active Object Pattern	14m 12s
+Template Method Pattern	8m 18s
+Strategy Pattern	16m 26s
+Facade Pattern	17m 38s
+Observer Pattern	10m 12s
+Mediator Pattern	13m 6s
+Singleton Pattern	9m 48s
+Monostate Pattern	9m 20s
+Abstract Server Pattern	12m 2s
+Adapter Pattern	12m 46s
+Bridge Pattern	14m 18s
+Composite Pattern	6m 44s
+Visitor Pattern	11m
+State Pattern	15m 56s
+Decorator Pattern	10m 34s
+Conclusion	2m 18s
+Quiz	Video
+
+More info: https://tutsplus.com/course/agile-design-patterns/
+
+Enjoy!

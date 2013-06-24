@@ -1,0 +1,11 @@
+Here's a torrent full of adventre games zipped up in folders ready o be played on Android devices that have the proper apps installed. Comes with the needed apps as well. I've selected all kinds of classic games as well as great new ones. And also Toonstruck.
+
+Quick installation guide:
+1. Install ScummVM (plus plugins) and AGS for android.
+2. unzip games directly into two seperate folders, one for AGS games and one for ScummVM games.
+3. go into ScummVM and use the "add games" button, select your game and add it.
+4. AGS only needs to be pointed to the right folder, and you're ready to play!
+
+More detailed instructions and some other notes are in the readme file. Certain games require extra steps, see the readme if you are trying to play King's Quest I-III, Quest for Glory II, Space Quest 4, or any game with a Parser interface.
+
+Enjoy!

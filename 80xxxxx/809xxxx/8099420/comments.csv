@@ -1,0 +1,97 @@
+﻿User Type,Username,Date,Text
+,mike953100,2013-02-03T22:53Z,"Internet is struggling really long, so this may be a slow upload.  Please be patient and grateful!  If there is enough interest I can do a 720p of Season 1 also."
+,mike953100,2013-02-03T22:55Z,"Sorry, meant to write ""Internet is really struggling right now."""
+,jamzkie,2013-02-04T16:54Z,"i suggest if u do series, can u please uplift the video bitrate to 3000 or more kbps please. audio is fine in 320kbps :)"
+,mike953100,2013-02-04T18:02Z,"@ jamzkie.
+
+I doubt I would do a video bitrate @ 3000kbps or above, since then the bitrate would not be much lower than the 2.18/2.65gb Legit BluRay rips, meaning the size would not be much smaller.  So, if you prefer the higher bitrate, I would suggest that you download those.  Otherwise, I offer my version with a much lower size without much less of video/audio quality."
+,l_unknown_l,2013-02-05T06:08Z,"this is a solid rip..just viewed the samples..
+PLEASE br0 do Season 1 same file size..THAnk u so much "
+,isotope,2013-02-06T15:05Z,Thank you. A season 1 would be most welcome too.
+,mike953100,2013-02-06T17:14Z,"Okay, the people have spoken, and I will be encoding Game of Thrones S01 BluRay.  Be looking for it the next few days.  The file sizes might be a little bit bigger (a bit over a GB per episode), but I have not decided yet.  I encoded the first episode with a CRF of 19 (like I did Season 2 Bluray) and got a file size of 1.36GB, so I might use a CRF of 20 instead for smaller file size, but I am not sure.  Keep posted."
+,mike953100,2013-02-08T17:17Z,"I have uploaded Season 1 BluRay for those that are interested:
+
+http://thepiratebay.sx/torrent/8118489/Game.of.Thrones.S01.Season.1.COMPLETE.720p.BluRay.x264.MIKY"
+,kside,2013-02-09T22:54Z,"Thanks for your effort. MIKY.
+
+Your encodes do need a bit more bitrate, but also some higher quality settings in HandBrake.
+
+May I suggest that for bitrates below 2500 Kbps to also reduce resolution? Some might say, whoa-not-HD, but @ 1024 you will get a better quality and for an iPad2 or mini is just right.
+
+AAC 5.1 is not very compatible (not many stand-alone players can play AAC above stereo 2.0), and AC3 works best in a MKV.
+
+To increase Quality don't encode with CRF, do a 2pass (even if it take much longer). Decide on a good size, according to duration (888 MB for a 50-55 min episode is ok). Doing 2pass, will let the encoder reduce and increase bitrate according to the complexity of the scene and that can vary a lot between a dark, static forest and a speed action scene with plenty of light and particles. Using CRF will adjust bitrate without knowledge of the WHOLE episode/movie.
+
+Also a deblock of -1:-1 is recommended for something that was already encoded from BluRay, even -2 if there's lots of detail (and in medieval dark movies it is!)
+
+Try this:
+ref=3 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1
+
+Or in HandBrake / Advanced Tab:
+
+Reference Frame = 3
+Max B-Frames = 3
+CABAC = ON
+8x8 Transform = ON
+Weighted P-Frames = ON
+Pyramidal B-Frames = Normal
+
+Adaptive B-Frames = Fast
+Adaptve Direct Mode = Spatial
+Motion Estimation Method = UMH (Uneven Multi-Hexagon)
+Subpixel Motion Estimation = 6 (RD in I/P-frames)
+Motion Estimation Range = 16
+
+Trellis = Encode Only
+
+---
+Motion estimation is what matters most for quality, but also takes more time, as you increase this settings. Adding more Re-Frames and B-Frames helps less and if you want to gain a bit of time / encode. 
+
+---
+Using this settings (1024 @ 2pass) on my Core2Duo 6550 (3.1 GHz) a 50 min episode encodes in 1.5 hours. Unfortunatelly HandBrake is only optimized for NVIDIA, so it does not use my Radeon 5850 at all :(
+
+---
+Your encode uses:
+
+cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=1
+
+ref=1 :: Only 1 Reference Fame ?? (makes blocky artefacts visible)
+me=hex :: A weak (fast) Motion Estimation that also increases ghosting and blockyness
+subme=2 :: worse than a xvid encode, why bother with x264 ?
+trellis=0 :: of course is not needed for subme=2 but for higher functions (6 and up) helps A LOT with compression."
+,mike953100,2013-02-09T23:23Z,"@ kside
+
+Wow haha thanks for all that detailed info.  I realize that my encodes are not as good as they could be, but I only have a 2+ year-old dual-core laptop (2.4ghz) with 4gb of ram.  I also am pretty impatient, so that is also why I do not do the more ""legit"" uploads like you are suggesting. However, I will definitely keep this in mind for the future.  Man, you know your encoding stuff!  So, yeah I mean I know changing all those high profile settings will result in higher quality, but in the end it really comes down to bitrate.  That is interesting to know about CRF.  And, again, I know that 2-pass results in higher quality, but to me, time is of the essence.  I will have to be more patient in the future and do some more ""legit"" encoding.  Thanks again!  "
+,osriccc,2013-02-16T06:46Z,"It was perfect for me but I didn't get the voices track... it was all music and ambient. Any ideas? I never had the problem before and no selectable tracks, I mean... I don't know what happened?"
+,ibajnaid,2013-02-17T09:48Z,Please seed 
+,Neumannator,2013-02-20T06:36Z,"Am I the only person who downloaded this torrent and got a random assortment of season 1? The quality was great, and I was able to stream to my apple tv and 5.1 surround sound... but it was season 1 lol"
+,Neumannator,2013-02-20T20:15Z,Yup.. I tried redownloading.. this is season 1
+,mike953100,2013-02-20T20:32Z,"@ Neumannator 
+
+I have no idea what you are talking about.  This is Season 2.  Get your stuff straight.  There might be problems with bittorrent program or something like that.  If you are not using utorrent, I would suggest doing so.  Also, I might suggest using the magnet link if you have not done so already.  The magnet link is the red and gray upside down U."
+,Carcass427,2013-02-23T03:37Z,"Thank you for this torrent, but could you please upload the commentaries as well? I can't find them anywhere."
+,dimi-krimi,2013-02-25T10:39Z,"Low speed, plz seed"
+,Sigma0mega,2013-02-26T10:17Z,"
+
+found with audio commentary if anyone is interested
+
+search: Game Of Thrones Season 2 DVDRip x264-CatBox"
+,maduke,2013-02-27T01:03Z,Thank you very much
+,dole999,2013-02-28T08:45Z,do you have 1080p version of these? can't find 1080p rips of season 2 that are in pretty small size. Aye sir!
+,dole999,2013-02-28T09:02Z,1080p please?
+,oleolux,2013-03-03T22:59Z,"V - 5
+A - 3"
+,firexninja,2013-03-09T08:32Z,thank you!
+,Bud625,2013-03-17T05:06Z,FOR THE NIGHT IS DARK AND FULL OF TERRORS
+,ian8206,2013-03-18T20:25Z,I don't see any subtitles during the Dothraki speaking. If I can only watch this using your VLC player that's just ridiculous
+,TheBest7,2013-04-01T23:48Z,"Thank you for this torrent and your effort, but I have a question: On Wikipedia it says
+""Blu-ray Disc release
+Region A 	February 19, 2013
+Region B 	March 4, 2013""
+How come you have uploaded this torrent on 3 February 2013 and the BluRays were only released on day 19? (I know you haven't ripped the discs yourself, so if it's not your fault if it's not BluRay)
+P.S. I'm trully grateful."
+,awokendreamer,2013-04-17T01:05Z,"Can you please seed more. It says there's 1160 but my bittorrent is only getting 5 or 6 seeders.
+
+Thanks"
+,alchiu,2013-04-26T16:45Z,Thank You!
+,toussen,2013-06-02T22:33Z,Most excellent release. Thank you kindly

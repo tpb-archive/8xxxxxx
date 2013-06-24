@@ -1,0 +1,72 @@
+murphy78 presents Windows 7 Ultimate SP1 Jan2013
+This release is based on updates up to Jan08-2013, patch day
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Retail Source: X17-59463.iso
+Windows 7 Ultimate x86 32-bit English (digitalriver-media refresh)
+This is the default SP1 retail with an ascii character fix (KB2534111)
+
+Release File:
+Win7Ult-SP1-x86-en-US-Jan2013.iso
+CRC32: 89380454
+MD5: D3DBDA85024134CDADAB89FDE1761161
+SHA-1: A4F31E359DECBB1F5B7C30F57691B35E52664D86
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and extraction
+dism for MSU patch file package addition
+oscdimg for iso mastering
+
+KB Files added via add-package dism:
+IE9-win7, KB2479943, KB2484033, KB2488113, KB2491683,
+KB2502285, KB2503665, KB2505438, KB2506212, KB2506928-v2,
+KB2509553, KB2511250, KB2511455, KB2515325, KB2522422,
+KB2529073, KB2532531, KB2536275, KB2536276-v2, KB2541014,
+KB2544893, KB2545698, KB2547666, KB2552343, KB2560656,
+KB2563227, KB2564958, KB2570947, KB2574819, KB2579686,
+KB2584146, KB2585542, KB2592687, KB2604115, KB2618451,
+KB2619339, KB2620704, KB2620712, KB2621440, KB2631813,
+KB2640148-v2, KB2644615, KB2647753-v4, KB2653956, KB2654428,
+KB2655992, KB2656356, KB2656373-v2, KB2656411, KB2658846,
+KB2659262, KB2660075, KB2660649, KB2661254, KB2667402-v2,
+KB2676562, KB2679255-v2, KB2685811, KB2685813, KB2685939,
+KB2686831, KB2688338, KB2690533, KB2691442, KB2698365,
+KB2699779-v2, KB2705219-v2, KB2709630, KB2709981-v2, KB2712808,
+KB2718704, KB2719857, KB2719985, KB2724197, KB2726535,
+KB2727528, KB2729094-v2, KB2729452, KB2732059-v5, KB2732487-v2,
+KB2732500-v2, KB2735855, KB2736233, KB2736422, KB2739159,
+KB2741355, KB2742599, KB2743555, KB2749655, KB2750841,
+KB2753842-v2, KB2756921, KB2757638, KB2758857, KB2761217,
+KB2762895, KB2763523, KB2769369, KB2770660, KB2773072,
+KB2778930, KB2779562, KB2785220, KB2786081, KB2786400,
+KB982018-v3
+
+setupcomplete.cmd phase online integration
+IE9-KB2761465 (IE security dec2012 update)
+KB2533552 (A windows update future pre-requisite sp2 perhaps)
+KB2506143 (Part of Windows Management Framework 3.0 online update)
+Reboot for System updating
+
+Changes from Dec2012:
+1) Had to drop Net4.5 pre-install.  It has some problems in the
+redistributable that require a patch that is larger than the
+redist. Said patch creates a loop effect with windows update
+so I cannot include it. Windows update download does work,
+and does not loop, so you can download net 4.5 anytime
+and update it with windows update just fine.
+
+2) Pre-Activation is BACK!!! I thought about a solution that might
+work for both proponents and opponents of Windows Loader and came up
+with a 2 index system by copying the scripts folder to the 2 different
+installs rather than trying to use the same oem folder with the same
+setupcomplete.cmd script. Windows Loader 2.2 is included in the
+Pre-Activation index. (It's labeled)
+
+Enjoy Pirates,
+murphy78-TPB :)

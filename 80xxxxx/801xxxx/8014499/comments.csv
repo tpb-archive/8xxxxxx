@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+[H],Masterzilla,2013-01-13T21:29Z,thanx PSS. will share it back :) Keep doing the good work
+[V],psspss,2013-01-14T03:52Z,"
+
+since we now have a sony bravia 2012 smart tv that can play files over wifi from my nas box running twonky i have found out that its very fussy on avi headers
+
+and the avimuxgui throws it off which I used to align on interleaves for audio
+
+seems I have to untick rec lists (which is
+for media player windows to seek better)
+and untick open DML
+
+else it gives unsupported error on tv
+
+so I will be changing the header creation from ow on so works for that.
+
+seems though our samsumg smart tv 32 inch has no issues with either setting though
+
+abvs converter using adv L5 profile and cbr mp3 audio also works fine but it dont align on interleaves which can be bad for some dvd players but I havent noticed issues with aligned or split on any gear here with it loosing sync"

@@ -1,0 +1,36 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+TV : Drama : TV quality : English, 47mins
+
+Then Came Bronson 1969 Old Tigers Never Die - They Just Run Away
+
+Gabe plays the very jealous lover, to the point of stalking.
+  
+http://www.imdb.com/title/tt0720572/
+
+[13:58:16] starting job
+[13:58:16] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:58:16] job configuration:
+[13:58:16]  * source
+[13:58:16]    + C:Then Came Bronson
+[13:58:16]    + title 1, chapter(s) 1 to 10
+[13:58:16]  * destination
+[13:58:16]    + C:Documents and SettingsDead End KidsMy DocumentsThen Came Bronson.mkv
+[13:58:16]    + container: Matroska (.mkv)
+[13:58:16]      + chapter markers
+[13:58:16]  * video track
+[13:58:16]    + decoder: mpeg2
+[13:58:16]      + bitrate 6124 kbps
+[13:58:16]    + frame rate: same as source (around 29.970 fps)
+[13:58:16]    + strict anamorphic
+[13:58:16]      + storage dimensions: 720 * 480 -&gt; 710 * 480, crop 0/0/8/2
+[13:58:16]      + pixel aspect ratio: 8 / 9
+[13:58:16]      + display dimensions: 631 * 480
+[13:58:16]    + encoder: x264
+[13:58:16]      + options: ref=2:bframes=2:me=umh
+[13:58:16]      + bitrate: 397 kbps, pass: 2
+[13:58:16]  * audio track 0
+[13:58:16]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[13:58:16]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:58:16]    + mixdown: Stereo
+[13:58:16]    + encoder: faac
+[13:58:16]      + bitrate: 160 kbps, samplerate: 48000 Hz

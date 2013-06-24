@@ -1,0 +1,35 @@
+Movies : Drama : VHS Rip : English, 65mins
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the Dead End Kids & the Little Tough Guys in Call A Messenger - 1939
+ 
+http://www.imdb.com/title/tt0031130/
+
+[12:54:57] starting job
+[12:54:57] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[12:54:57] job configuration:
+[12:54:57]  * source
+[12:54:57]    + E:Call A MessengerVIDEO_TS
+[12:54:57]    + title 2, chapter(s) 1 to 1
+[12:54:57]  * destination
+[12:54:57]    + C:Documents and SettingsDead End KidsMy DocumentsCall A Messenger.mkv
+[12:54:57]    + container: Matroska (.mkv)
+[12:54:57]      + chapter markers
+[12:54:57]  * video track
+[12:54:57]    + decoder: mpeg2
+[12:54:57]      + bitrate 4000 kbps
+[12:54:57]    + frame rate: same as source (around 29.970 fps)
+[12:54:57]    + strict anamorphic
+[12:54:57]      + storage dimensions: 352 * 480 -&gt; 350 * 476, crop 4/0/0/2
+[12:54:57]      + pixel aspect ratio: 20 / 11
+[12:54:57]      + display dimensions: 636 * 476
+[12:54:57]    + encoder: x264
+[12:54:57]      + options: ref=2:bframes=2:me=umh
+[12:54:57]      + bitrate: 397 kbps, pass: 2
+[12:54:57]  * audio track 0
+[12:54:57]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[12:54:57]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[12:54:57]    + mixdown: Stereo
+[12:54:57]    + encoder: faac
+[12:54:57]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[

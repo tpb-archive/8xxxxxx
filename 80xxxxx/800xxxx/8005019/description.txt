@@ -1,0 +1,58 @@
+KMSNano - The Ultimate Activator by heldigard
+Based on the work of Ratiborus's KMSmicro v3.10
+
+Release File: LaNanov11.zip
+CRC32: 2D413998
+MD5: 21CADCE3D68A902A6F12214A82A539E0
+SHA-1: 72CB6AA593305B67777E219B0DDE71F55BE94FA1
+
+This is v11.  There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+I have personally tested this as working with my Windows 8 Pro Jan2013 release.
+
+KMSnano - is the ideal tool to activate the final version of Windows 7/8 and
+Office 2010/2013. Activator does not require user intervention, the entire
+activation process takes place in the background, just run the activator
+and a couple of minutes to check the activation status of Windows and / or Office.
+
+--------------------------------------------------------------------------------
+Activates: Windows Vista/7/8 Pro/Ent/N/VL and
+Windows Server Std/Data 2008/2008R2/2012, as well as Office 2010/2013.
+-Other Versions will NOT activate-
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Extract the LaNanov11.zip file. (Optional - I ran from within zip)
+2. Run KMSnano.exe
+3. Make sure to allow the windows firewall to have access.
+4. Wait a FEW MINUTES while the files run in the background.
+(It doesn't let you know when it's done, you can check task manager or just wait)
+5. Run the Check_Activation.cmd to verify your activation status.
+6. Go about your business. You can get the Win8 watermark to go away by
+auto-hiding the taskbar or similar system stuff. (WindowsKey+D works also)
+
+To fix any botched activations from other "hacktivators" you can run admin
+command prompt command "SFC /SCANNOW" (Don't type the quotes)
+
+To see if your currect activation is working, run the included script:
+Check_Activation.cmd inside the zip file. That will list Windows and Office
+activations. Read the included text file for more info.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+Get an actual release if you want to activate. (RTM or Retail)
+
+Why use this program over any other activation method?
+It does not modify any of your system files.
+Because it's not a crack or a hack.
+Because it's the only way to get legit activation without using legit servers.
+Did I mention it activates ALL KMS activation software?
+
+Change Log from 10.1_Beta:
+- Fixed auto restart bug.
+- New KMS Client.
+- AutoCharging.
+
+Enjoy Pirates,
+murphy78-TPB

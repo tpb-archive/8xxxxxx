@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Comedy : DVD Rip : English, 9mins 52secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1932 Hot Dog
+
+the 6th entry in the series.
+  
+http://www.imdb.com/title/tt0439210/fullcredits#cast
+
+[22:20:51] starting job
+[22:20:51] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[22:20:51] job configuration:
+[22:20:51]  * source
+[22:20:51]    + C:Penrod & Sam
+[22:20:51]    + title 6, chapter(s) 1 to 2
+[22:20:51]  * destination
+[22:20:51]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam 1932 Hot Dog.mkv
+[22:20:51]    + container: Matroska (.mkv)
+[22:20:51]      + chapter markers
+[22:20:51]  * video track
+[22:20:51]    + decoder: mpeg2
+[22:20:51]      + bitrate 9558 kbps
+[22:20:51]    + frame rate: same as source (around 29.970 fps)
+[22:20:51]    + strict anamorphic
+[22:20:51]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[22:20:51]      + pixel aspect ratio: 10 / 11
+[22:20:51]      + display dimensions: 638 * 480
+[22:20:51]    + encoder: x264
+[22:20:51]      + options: ref=2:bframes=2:me=umh
+[22:20:51]      + bitrate: 402 kbps, pass: 2
+[22:20:51]  * audio track 0
+[22:20:51]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[22:20:51]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[22:20:51]    + mixdown: Stereo
+[22:20:51]    + encoder: faac
+[22:20:51]      + bitrate: 160 kbps, samplerate: 48000 Hz	

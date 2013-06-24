@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,lamportyx,2013-01-18T04:38Z,yeah! another new version of KMSnano!
+,lamportyx,2013-01-18T05:19Z,yeah man! it's great now I fully understand how this KMS work!!
+,igrgic,2013-01-18T11:48Z,Cannot activate Windows 8 Pro with Media Center.
+,lamportyx,2013-01-18T13:34Z,Tnx! you enlightened me! 
+,SteinerKD,2013-01-18T14:45Z,"I realize in order to use VL Office and activate it I have to convert a legit retail install to VL, how does this affect my license for Win 8, will I have to reactivate it every 180 days as well and is there any way to revert Windows to retail after the office install?"
+,SteinerKD,2013-01-18T18:55Z,"Thanks, think I was a bit unclear.
+I was talking about buying Windows 8 Pro retail and activate it so I have a permanent legit activation, then install Office 2013 VL and use your activator to activate it. To do so I guess I have to convert my retail OS to VL and wondered how that will affect my license/activation and secondly if it would be possible after the Office install to convert my OS back from VL to SL (think I saw something about it being possible with slmgr)."
+,SteinerKD,2013-01-18T19:12Z,"Sorry for spamming, but here's a twist to my question, testing in VMware before I go live and Office 2013 VL actually installed without complaints and activated with your activator on a unactivated Win 8 Pro retail copy (no VL conversion). Only think when checking status was this warning message:
+ERROR CODE: 0x4004F040 (for information purposes only as the status is licensed)
+
+ERROR DESCRIPTION: The Software Licensing Service reported that the product was
+activated but the owner should verify the Product Use Rights.
+
+Office programs still run though and info shows them as activated!"

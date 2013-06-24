@@ -1,0 +1,45 @@
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 41mn
+Bit rate                                 : 879 Kbps
+Maximum bit rate                         : 4 084 Kbps
+Width                                    : 704 pixels
+Height                                   : 320 pixels
+Display aspect ratio                     : 2.2:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.156
+Stream size                              : 639 MiB (91%)
+Title                                    : Video
+Writing library                          : x264
+
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : 40
+Duration                                 : 1h 41mn
+Bit rate mode                            : Variable
+Bit rate                                 : 80.6 Kbps
+Maximum bit rate                         : 111 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 58.6 MiB (8%)
+Language                                 : English
+Subtitle                                 : Estonia (.SRT)

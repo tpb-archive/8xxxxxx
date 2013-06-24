@@ -1,0 +1,26 @@
+PublicHD - High-Definition Bittorrent Community
+ 
+http://publichd.se/
+
+-----------------------------------------------------
+
+Shadow.Dancer.2012.720p.BluRay.x264-DON [PublicHD]
+ 
+http://www.imdb.com/title/tt1770734/
+
+RUNTIME........: 01:41:51                            
+SIZE...........: 4.8 GB                              
+VIDEO CODEC....: x264 crf L4.1                      
+FRAMERATE......: 23.976 fps                          
+BITRATE........: Variable ~ 6103 Kbps                
+RESOLUTION.....: 1280x544                            
+AUDIO1.........: English DD 5.1 @ 640 Kbps          
+SUBTITLES......: English                            
+CHAPTERS.......: Included
+ENCODING DATE..: 19/01/2013
+
+
+Notes: Colors and contrast seem washed out in quite a few scenes which would indicate that the source had wrong black levels. But under closer inspection black values in most scenes go as down as 0,0,0 (RGB), so I decided not to color correct because that would have resulted in crushed blacks in a lot of places.
+You can use the 16-235 -&gt; 0-255 custom shader in MPC-HC to color correct yourself if it bothers you, although I dont recommend it.
+
+Fixed dirty lines on left and right sides so the damage is less visible. 

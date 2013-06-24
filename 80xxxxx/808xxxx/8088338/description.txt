@@ -1,0 +1,31 @@
+Device: HTC Touch HD [Blackstone]
+
+OS:     Windows Mobile 6.5 Professional
+
+        CE OS 5.2.21690 (Build 21690.5.3.12) WWE
+
+
+
+Description:  Windows Mobile 6.5 with bottom start menu, not modified settings [without manilla and other stuffs]. Firmware contain only Default Apps from HTC, + Opera Mobile, java, Adobe Reader and Youtube.
+
+
+How to Update: 
+
+1. Extract RUU.rar
+2. Connect Your Device with USB on PC and select Activesync
+3. Open File BlackstoneAdvancedRUU.exe and press update
+
+
+File: RUU_signed.nbh
+CRC-32: 67a913ea
+   MD4: bf0408da6b049272a50e2624fe0445b9
+   MD5: 2e2bec4bd83c4a9698f505aa4092b741
+ SHA-1: a3a32d4c4dfedc9393a9a7058b3fdafeccb192f1
+
+
+ File: BlackstoneAdvancedRUU.exe
+CRC-32: 203a2416
+   MD4: 068dc2c84ffbcf489805a4d682a53219
+   MD5: 5adf3b90acba70ca8fca6d36c93b64b3
+ SHA-1: ad4d4daaeda8d3892b53e203c60bd6e2b967c21c
+

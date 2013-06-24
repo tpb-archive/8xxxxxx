@@ -1,0 +1,103 @@
+--WARNING: THIS IS WINDOWS VISTA--
+Windows Vista can cause suicidal thoughts, feelings of
+depression, nerd rage, slow hard-drives, and T.F.K Syndrome.
+You've been warned.
+
+murphy78 sadly presents Windows Vista SP2 AIO 18in1 DaRT8
+This release contains updates up to Jan08-2013, patch day
+
+No Windows Vista Settings were mercy-killed in the making of this ISO.
+No Programs are added to the Windows installs.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+Initial Boot Setup is a little sluggish. It is from the amount of
+content in the install.wim. It clears up when selecting partition.
+Sluggish behavior is from the vista boot.wim, not DaRT8.
+(Thank anarchist9027 for this AIO addition)
+
+Source RTM files:
+x64: 6002.18005.090410-1830_amd64fre_Client_en-us-FRTMCXFRE_EN_DVD.iso
+x86: FRTMCFRE_EN_DVD.iso
+These are both sp2 final build
+
+Release Files:
+WinVistaSP2-AIO-18in1-en-US-DaRT8-Jan2013.iso
+Size 7.52GiB
+CRC32: 0D4DFF18
+MD5: 7568F0528108AA934BA700CD3EB48DE5
+SHA-1: 60D33931DECC43DECF002E49E5634890F5F86592
+
+Installation Indexes:
+Windows Vista STARTER (x86)
+Windows Vista STARTER (x86) Pre-Activated
+Windows Vista HOMEBASIC (x86)
+Windows Vista HOMEBASIC (x86) Pre-Activated
+Windows Vista HOMEPREMIUM (x86)
+Windows Vista HOMEPREMIUM (x86) Pre-Activated
+Windows Vista BUSINESS (x86)
+Windows Vista BUSINESS (x86) Pre-Activated
+Windows Vista ULTIMATE (x86)
+Windows Vista ULTIMATE (x86) Pre-Activated
+Windows Vista HOMEBASIC (x64)
+Windows Vista HOMEBASIC (x64) Pre-Activated
+Windows Vista HOMEPREMIUM (x64)
+Windows Vista HOMEPREMIUM (x64) Pre-Activated
+Windows Vista BUSINESS (x64)
+Windows Vista BUSINESS (x64) Pre-Activated
+Windows Vista ULTIMATE (x64)
+Windows Vista ULTIMATE (x64) Pre-Activated
+
+Language: en-US (English - United States)
+
+Tools used:
+vlite for package addition
+dism for Scripts and Info folder adding
+imagex for compression, export, and rename
+oscdimg for iso mastering
+
+KB Files added via add-package dism:
+*Trimmed to upload, read txt
+
+setupcomplete.cmd phase
+KB890830-v4.16 (Recent Malicious software removal tool)
+dotnetfx35.exe (NetFx 3.5 SP1)
+NDP35SP1-KB958484 (Net3.5.1 security update)
+NDP35SP1-KB963707 (Net3.5.1 security update)
+NDP35SP1-KB2604111 (Net3.5.1 security update)
+NDP35SP1-KB2657424 (Net3.5.1 security update)
+NDP35SP1-KB2736416 (Net3.5.1 security update)
+KB2758694 (xml4 exe only hotfix)
+---For Pre-Activated:
+OEM Branding adds your system brand logo in the first slot
+of the User Pictures choices, replacing the flower.
+OEM Branding adds system logos in a few operating system
+windows. (Computer properties, etc)
+OEM multi-brand activation attempts to see if it can install
+activation files on your system. SLiC 2.0 and supported BIOS
+is required for this.
+setupcomplete.cmd script checks your activation, and if this
+branding could not find a suitable match for your system,
+setup installs Windows Loader 2.2 with the default options.
+If you have problems with this, Get Windows Loader, run it,
+and click the uninstall. Then try using Windows Loader with
+different advanced options. Read the text for info on them.
+(Big thanks to searchengine and daz for their work)
+(Thanks also to anarchist9027 for helping me with activation
+check scripting)
+
+NETFX 4.5 could not be installed as it requires an online MSU
+hotfix, and you cannot install those during setup in Vista.
+I have included a folder in the ISO called Net45
+Inside is the net45 redistributable and the 3 hotfixes.
+I have included a script command to install all 4 without
+needing any input. The net45 installer will automatically
+install the missing msu file.
+
+Condolances Pirates,
+murphy78-TPB :)
+
+Description trimmed to upload, read txt to see the kb lists

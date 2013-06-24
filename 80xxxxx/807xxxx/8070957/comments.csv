@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,icetech,2013-01-27T18:10Z,"Hey murph, since i have to reformat my machine to get away from the prowmc mess, could you point me at an exact x64 win8 kmsnano works with? I know its a stupid question but they are about 100 releases out of win8.. hate to setup the wrong one again.. thanks"
+,chacrE5a,2013-01-27T18:10Z,"Thnx.
+
+Also much appreciated for the AIO of Win7 again, they're great for USB installs.
+
+Any chance of a Win2008/2012 set?  :)"
+,dpjackal,2013-01-27T21:03Z,I currently have windows 7.  Anyone know if upgrading will be successful with this?
+[V],murphy78,2013-01-27T22:36Z,"mixing install types in an AIO requires extra sources folders and some changing of setup.exe commands. It's not impossible to mix versions, but it would quickly get over 8gb.
+
+As far as which versions to use with win8, the line from the description says it all:
+""Windows 8 Pro/Enterprise Default/N/VL""
+
+If you upgrade from windows 7, upgrade to one of the versions listed above. I have integrated those and you can click my name and find different ones."
+,bigorna12,2013-01-28T00:43Z,They will be able to do a launcher for permanent kms?
+[V],murphy78,2013-01-28T01:47Z,"There's no such thing as permanent kms. That's why you run the ""run trigger.cmd"" to install the task to check days remaining every time you reboot and re-run kmsnano if 30 or less days remain."

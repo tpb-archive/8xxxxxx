@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,Yandere,2013-01-17T16:14Z,Everything else works expect the first one..
+,illjones,2013-01-18T00:04Z,"Hey guys, fuck sorry I was doing this late at night, although I tested it I must have backspaced or something,  missing a full stop broke the code.
+
+to fix keen1:
+
+1. open up keen1 ""base""
+2. open ""Keen1.conf"" with notepad
+3. scroll to the bottom
+4. find the first line below ""[autoexec]""
+5. it reads ""mount c: base"" 
+6. change it to ""mount c: .base""
+
+its just that full stop which breaks the whole thing "
+,illjones,2013-01-18T00:06Z,"FUCK, I meant change it to
+
+change it to ""mount c: .base"""
+,illjones,2013-01-20T03:55Z,"Dear god, upon checking my comments for the fix, I had written the code wrong. the correct line should read
+
+""mount c: .base""
+"
+,ZiTTY86,2013-02-15T11:31Z,"Not sure what is going on here, but the solution was incredibly easy to find. All you had to do, was look at the code on the other Keen games, and copy that.
+
+The correct line, is ""mount c: .base"""
+,ZiTTY86,2013-02-15T11:32Z,/
+,ZiTTY86,2013-02-15T11:35Z,"There needs to be forward slash before "".base""
+
+mount c: (insert forword slash here).base
+
+For some odd reason, TPB does not allow the actual character to be typed... "
+,ZiTTY86,2013-02-15T11:36Z,"OH MY FUCKING GOD!!!!!!!!!!!
+
+mount c: .(INSERT FUCKING FORWARD SLASH HERE)base"
+,illjones,2013-02-16T03:10Z,THANKS ZITTY. jesus man haha I thought I'd mistyped every time 

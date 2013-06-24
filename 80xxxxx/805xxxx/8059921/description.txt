@@ -1,0 +1,52 @@
+Naruto Shippuden is an Anime show !
+
+
+Naruto Shippuden Season 7 English Dubbed
+Narutoget.com
+
+General
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+Overall bit rate mode          : Variable
+Overall bit rate               : 253 Kbps
+Writing application            : Lavf52.64.2
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Bit rate                       : 151 Kbps
+Width                          : 640 pixels
+Height                         : 362 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.027
+Stream size                    : 21.8 MiB (60%)
+Writing library                : x264 core 107
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Bit rate mode                  : Variable
+Bit rate                       : 96.0 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Delay relative to video        : -2s 2ms
+Stream size                    : 13.9 MiB (38%)

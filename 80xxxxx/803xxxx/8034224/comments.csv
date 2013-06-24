@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,darkesthourlv,2013-01-18T05:37Z,anyone seeding this yet?
+[T],MrUnpopular,2013-01-18T05:49Z,yuppp
+[V],psspss,2013-01-21T01:37Z,"what are you using to encode? as i see a bit of green screens where ads are cut
+
+only seen that with avidemux .. the beta dont suffer from it though but they have dml container that sony bravia hates
+
+same with megui.. have to make sure avimuxgui in it do add rec lists and the new dml headers
+
+but megui dont suffer from the green
+its free also"
+[V],psspss,2013-01-21T01:37Z,do not add.. i mean
+[V],psspss,2013-01-21T01:42Z,"you could ALSO use avimuxgui to rewrite the header from the new beta 2.6 avidemux
+so would fix it not working on smarttvs like sony
+just untick rec list and dml header if doing avis
+and for mp4s not sure what causes a fails as yet
+but be some header change as well
+some work some dont as always"
+[T],MrUnpopular,2013-01-24T22:33Z,"The green is not from Avidemux. The only time we use that is for Gold Rush and Bering Sea Gold. We encode that in segments while it airs so we can release ultra fast. :) Avidemux is simply used to join the segments.
+
+The green is from TvSuite Video ReDo. No idea why it does it but it does...too lazy to look for an alternative or work with the program for cleaner cuts."

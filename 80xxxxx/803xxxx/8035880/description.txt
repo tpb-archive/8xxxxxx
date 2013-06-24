@@ -1,0 +1,3 @@
+When installed use Batchmod (http://www.lagentesoft.com/batchmod/index.html) on the entire Waves-folder before opening the plugins.
+
+Also it seems that you need to manually copy the Waveshell 9.2 to the /Library/Audio/Components folder and remove the old one (if you have any).

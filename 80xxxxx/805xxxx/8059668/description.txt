@@ -1,0 +1,47 @@
+EditPlus Text Editor
+
+EditPlus is a text editor, HTML editor, PHP editor, Java editor and Hex Viewer for Windows. While it can serve as a good Notepad replacement, it also offers many powerful features for Web page authors and programmers.
+
+Syntax highlighting for HTML, PHP, Java, C/C++, CSS, ASP, Perl, JavaScript, VBScript, Python and Ruby on Rails. Also, it can be extended for other programming languages based on custom syntax files.
+Seamless Web browser for previewing HTML pages, and FTP commands for uploading local files to FTP server.
+Other features include Hex Viewer, HTML toolbar, user tools, line number, ruler, URL highlighting, auto completion, cliptext, column selection, powerful search and replace, multiple undo/redo, spell checker, customizable keyboard shortcuts, and more.
+
+Upadte patch
+DATE: 2013-01-22
+BUILD: 277
+
+CHANGES
+=======
+* Some FTP server could produce 550 or 553 FTP error.
+* Exclude option in the Find in Files could work incorrectly.
+* Function List supports Pattern 1 and 2 check boxes.
+* Open Files list on the Directory Window could cause program crash.
+* 'Find as you type' option reflects change of other find options.
+* Extends Output Window line length limit to 20,000.
+* 'Use Pageant' option could fail if server sent banner message.
+* Fixes IME candiate window position.
+* Fixes program crash when using Saenaru Korean IME.
+* Word count feature could report wrong number.
+* Previous patch cound't handle Hangul 3 Beolsik keybaord.
+* 'File Encoding Multiple' command displays encoding in the list box.
+* Up/Down key in the Window List moves keyboard focus to list box.
+* Fixes a find highlighting bug.
+* 'Tab to Expand' menu option ('Zen Coding').
+* Title bar now shows file name in place of program name.
+
+Supported Operating Systems
+
+Windows 8, Windows 7, Windows Vista, Windows XP
+
+Homepage: http://www.editplus.com/
+
+Installation Instructions:
+
+- Install program.
+- Register program with given name and serial.
+- Run program update "epp350p0277_0122.exe"
+- Done, Enjoy. 
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

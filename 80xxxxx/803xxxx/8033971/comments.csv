@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,TheOnlyest,2013-01-19T20:43Z,Another perfect rip! I would love to know how you do these! Thank you again!!
+,nabsltd,2013-01-20T00:04Z,"This one has issues in some of the dark scenes, like 33 seconds from the start, where the lower left corner is badly non-linear, because the greys are so close to black, but there are a lot of different colors of dark grey.  It's hard to see on most LCDs, but is visible on a correctly calibrated monitor.
+
+This happened because I capture them using a Hauppauge HDPVR-1212 using component video input, with the source being a DirecTV DVR.  This means that the movie in the torrent has gone through at least 3 H.264 encodes, and the less-than-perfect HDTV source starts to show.
+
+The final encode is done with x264 (use MediaInfo to see the encode options) using AVISynth to apply color correction to match the DVD and some light spatio-temporal smoothing.  I use a .qpf file to force keyframes for the chapter marks (which come from the DVD)."
+,TheOnlyest,2013-01-21T04:43Z,"Wow, pretty impressive! I also have Directv, but i've been under the impression that everything coming from it is encoded to stop you from transferring just about anything to an external device. So assuming that your nifty toy can grab just about anything from HBO or Cinemax (since they are the only networks that still don't watermark), do you take requests??  ;-)"
+,TheOnlyest,2013-01-21T04:45Z,"Wow, pretty impressive! I also have Directv, but i've been under the impression that everything coming from it is encoded to stop you from transferring just about anything to an external device. So assuming that your nifty toy can grab just about anything from HBO or Cinemax (since they are the only networks that still don't watermark), do you take requests??  "
+,TheOnlyest,2013-01-21T04:47Z,"Wow, pretty impressive! I also have Directv, but i've been under the impression that everything coming from it is encoded to stop you from transferring just about anything to an external device. So assuming that your nifty toy can grab just about anything from HBO or Cinemax (since they are the only networks that still don't watermark), do you take requests??"
+,TheOnlyest,2013-01-21T04:49Z,"Sorry bout clickin the ""Submit"" button too many times ::doh::"
+,nabsltd,2013-01-22T06:28Z,"Some of my recordings came from the last free premiums weekend, but I would never subscribe to any of those channels, as none show 2.35:1 movies OAR (at least not older ones).
+
+Others come from HDNet, TCM, or MGM-HD, all of which are part of my package.  Although MGM-HD does have a constant logo, it is always outside the 2.35:1 area, and they show these movies OAR."
+,TheOnlyest,2013-01-23T18:19Z,"Ah, a purist! You are absolutely right, most premium channels do crop 90% of the movies to 16:9 full screen. Showtime actually doesn't do that, but they use a constant huge watermark."

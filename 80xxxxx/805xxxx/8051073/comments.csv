@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-01-22T13:05Z,"heldigard, if you are out there bud. Thank you again for your work on this."
+,karty,2013-01-22T13:34Z,"Next version is out??
+
+Can't believe it dude."
+,cynidez,2013-01-22T13:43Z,"Murphy  please ceate a windows 8 pro x64 with dart 8. Your AiO too much size and My ISP provides only 6gb  of 3G  data for a month( with fup in India). I think its very much usefull for those who want windows 8 pro x64 only.
+ Thanks in advance"
+,w4r3zh4ck,2013-01-22T13:54Z,can you please give me the url for the official project ?
+[V],murphy78,2013-01-22T14:08Z,"heldigard is the one doing a lot of the tool updating and script editing and such, but the overall project page is at:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+
+s1ave77 updates the first post often with links to downloads further down. You can go to the last page often and cycle back a few pages to catch up on recent events."
+,karty,2013-01-22T14:15Z,"@ w4r3zh4ck:
+
+The MDL post there is:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+
+
+Right now it's just being updated by heldigard who frequents MDL. s1ave77 is being fed his stuff, and updates it on the first page of the post. A few other people are jockying progress with heldigard but it appears that heldigard is doing most of the tool coding and quite a bit of work on the scripting and other nuts and bolts of the process.
+
+
+Scroll down a bit on the first post and you will come to ""Stuff by heldigard"". That part is getting updated every time a new release hits, or some other related thing comes out like triggerkms 5.1, etc. You copy the link in the code window from the desired project and it will usually be some multi site. Make sure your file matches the crc and size of the reported release."
+[V],murphy78,2013-01-22T14:17Z,"cynidez, I may do that if I can figure out how to make a bcd file for just Windows Setup and winpex64.wim which is the DaRT8 of x64 version.  anarchist has a whole page on how to create that bcd file, but I've been busy lately.  I'll give it a look and see if I cannot figure it out.  I've been wanting to make a pre-activated version of Win8 ever since my last foiled win8 pre-activated attempt where I mistakenly thought I had done it because it worked on 3 of my computers.  I plan on trying to use this KMSNano method with the trigger to re-run when only 30 days left of activation.
+
+Should be pretty sweet if I can get everything going well.  I'll do my standard default/pre-activated double thing. But alas it's late tonight and I'll work on it tomorrow. I a bit of script editing for a win8 pre-activated release before I can even integrate. I need some sleep right now."
+,2011mtec,2013-01-22T15:01Z,"Greetings to u Mr. Murphy-
+I think the work u do here is commendable.I really appreciate that. it means a lot.
+Kudos to u on this !!!"
+,2011mtec,2013-01-22T15:04Z,"and big thanks to this person ""heldigard - of MDL forums"" for what he is doing arduously.
+cheers to that. ! :)"
+,2011mtec,2013-01-22T15:12Z,"i also want u to know that i registered on TPB just to say thanks for your work (and to others as well) for such work.
+Thank u !"
+,mitulv,2013-01-22T16:00Z,i don't know why people say that win 8 is blunder... i am using for a week and i actually found it more useful and optimized. some of the bugs i had were fixed by updating. perhaps i am using for free which makes the difference..:P anyways thanks murphy78 for uploading and heldigard for being awesome. i have a doubt.. can this method be stopped by microsoft? is this fool proof method to activate windows 8? i will not find it pleasant to boot up my pc one day and find that i cannot use kmsnano again..:( 
+,mitulv,2013-01-22T18:37Z,@sami1953 simply put you cannot activate those mentioned versions of windows 8 using kmsnano as they don't use kms. only way to activate those versions is to actually buy license from MS.
+[V],murphy78,2013-01-22T22:30Z,"sami, on the ""N and E versions use the same methods, and will NOT activate."" line I was referring to the Retail-Only versions of windows that I listed.
+
+You cannot activate the following using VolumeKMS:
+Windows Vista Starter/Homebasic/Homepremium/Ultimate Default/N/E
+Windows 7 Starter/Homebasic/Homepremium/Ultimate Default/N/E
+Windows 8 Core/CoreN/ProWMC
+
+Hope that clears it up a bit."
+[V],murphy78,2013-01-22T22:40Z,"I know exactly what you mean mitulv. I can kind-of understand where some of the criticism comes from, but if you play around with things, it's really unfounded.
+
+At first, I set up Windows 8 with the default updating using the express options.  This immediately caused a problem because it downloaded a new Nvidia driver and kept crashing my stuff.  I also set it up to automatically log into my email account.
+
+If you are anything like me, entering a password every time you log on, is a huge pain in the rear.  So, at first, I didn't like Windows 8.  But then I took a bit of time away from it, and then went back and installed it using more conservative settings such as not installing updates by default and using a Local Account instead of logging onto my email account.
+
+Once I did that, the only beef I have with Windows 8 is that it is a bit laggy on the Explorer. It's not a big deal, and once you get a bit used to it, it's worth the tradeoff. In Windows 7, my resolution is so high that my icons and taskbar are tiny and I find myself squinting a lot. Windows 8 seems to scale better to higher resolutions.
+
+Then you take into account the live-tiles and the metro. At first I was annoyed by it, being used to Windows 7 start menu. Then I got used to it, and it really started appealing to me. It is kind-of like a good song. Sometimes at first when you hear it, it doesn't really appeal to you.
+
+The live-tiles can be very useful. I like the weather one and news one myself. I'm sure there are much more. I am just too pre-occupied to look for them on the store.
+
+Windows 8 programs actually run just as fast, so the laggy explorer is a bit deceiving.
+
+When you put it all together, Windows 8 gets a thumbs up by me."
+,SergioFCPorto,2013-01-23T08:06Z,thanks
+,mitulv,2013-01-23T13:21Z,"i had the exact same experience..! nvidia drivers were crashing a lot for me too.. so i reinstalled 310.90 and bug was gone. i too found the explorer to be not as smooth as windows 7 or even vista.. but i can live with that.. this is probably due to removal of aero. i think once people will try windows 8, they will like it a lot better. i also found myself using the hot corners and side apps feature which i thought i would hardly ever use."
+,Ajgor9000,2013-01-23T13:24Z,The first thing that made W8 work. A big thank you from here.;)

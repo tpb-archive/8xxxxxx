@@ -1,0 +1,44 @@
+# Cat Annotation Dataset
+
+## Original Source
+ 
+http://137.189.35.203/WebUI/CatDatabase/catData.html
+
+## Description
+
+The CAT dataset includes 10,000 cat images. For each image, we
+annotate the head of cat with nine points, two for eyes, one for
+mouth, and six for ears. The detail configuration of the annotation
+was shown in Figure 6 of the original paper:
+
+Weiwei Zhang, Jian Sun, and Xiaoou Tang, "Cat Head Detection - How to
+  Effectively Exploit Shape and Texture Features", Proc. of European
+  Conf. Computer Vision, vol. 4, pp.802-816, 2008.
+
+### Format
+
+The annotation data are stored in a file with the name of the
+corresponding cat image plus ".cat", one annotation file for each cat
+image. For each annotation file, the annotation data are stored in the
+following sequence:
+
+ 1.  Number of points (always 9)
+ 2.  Left Eye
+ 3.  Right Eye
+ 4.  Mouth
+ 5.  Left Ear-1
+ 6.  Left Ear-2
+ 7.  Left Ear-3
+ 8.  Right Ear-1
+ 9.  Right Ear-2
+ 10. Right Ear-3
+
+### Training, Validation, and Testing
+
+We randomly divide the data into three sets: 5,000 images for
+training, 2,000 images for validation and 3000 images for testing.
+
+### Copyright
+
+The CAT dataset is only for research purposes, we do not have any
+copyright of the images.

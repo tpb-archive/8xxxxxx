@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,pr84lif3,2013-02-04T05:52Z,"Use at your own risk. My antivirus (MSE) found 5 serious risks including a trojan and a keylogger. It's possibly a false-positive, but I don't think so. Agnstra, forgive me if it's good and I'm bashing :) To the rest of you, in my opinion, it's not worth the risk. Good luck!"
+,Silver4k,2013-02-17T19:05Z,"Chances are, it's because some of the tools ARE ""malware"" when used in general. Tools to expose/change windows passwords would be detected as a virus, as would things that let you remotely edit the registry."
+,CrAcKeZ,2013-03-22T15:38Z,"Its safe, checked with two different a/v's
+
+Don't know if its working though, didn't test it yet.
+
+Thanks for the upload agnstra"
+,CrAcKeZ,2013-03-22T15:43Z,"Correction, the one a/v found nothing. The second one found the following:
+
+Drvlmpe.exe (Trojan.AFH)
+Drvmpe.7z (Trojan.AFH)
+ipscan.exe (AngryIPScanner)
+Mix.7z (AngryIPScanner)
+UltralSO.exe (Trojan.Gen.2)
+SETUP.EXE (Trojan.Gen.2)
+UltraISO.7z (Trojan.Gen.2)
+ShowDrive.exe (Suspicious.MH690)
+ShowDrive.exe (Suspicious.AD)
+win7PExtras.7z (Multiple Risks)
+
+Of course I'm confident that these are not real risks as there are many patches/keygens/hacks etc that are reported from some a/v's as ""viruses"""
+,d3w10n,2013-03-29T20:03Z,"You know, there are a lot of forensics tools in this pack (like password recovery tools) that are marked as viruses by default..."

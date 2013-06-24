@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Short film : DVD Rip : English, 10mins 24secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1932 Detectuvs
+
+The 4th entry in the series, David Gorcey as Sam & Bobby Jordan as a member of the gang but uncredited.
+  
+http://www.imdb.com/title/tt0439158/
+
+[14:48:42] starting job
+[14:48:42] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:48:42] job configuration:
+[14:48:42]  * source
+[14:48:42]    + C:Penrod & Sam
+[14:48:42]    + title 4, chapter(s) 1 to 2
+[14:48:42]  * destination
+[14:48:42]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam 1932 Detectuvs.mkv
+[14:48:42]    + container: Matroska (.mkv)
+[14:48:42]      + chapter markers
+[14:48:42]  * video track
+[14:48:42]    + decoder: mpeg2
+[14:48:42]      + bitrate 9558 kbps
+[14:48:42]    + frame rate: same as source (around 29.970 fps)
+[14:48:42]    + strict anamorphic
+[14:48:42]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[14:48:42]      + pixel aspect ratio: 10 / 11
+[14:48:42]      + display dimensions: 638 * 480
+[14:48:42]    + encoder: x264
+[14:48:42]      + options: ref=2:bframes=2:me=umh
+[14:48:42]      + bitrate: 400 kbps, pass: 2
+[14:48:42]  * audio track 0
+[14:48:42]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[14:48:42]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[14:48:42]    + mixdown: Stereo
+[14:48:42]    + encoder: faac
+[14:48:42]      + bitrate: 160 kbps, samplerate: 48000 Hz

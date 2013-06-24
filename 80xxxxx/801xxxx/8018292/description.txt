@@ -1,0 +1,86 @@
+Mac OSX And iOS Internals
+
+V413HAV
+
+For More Quality Uploads : 
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Facebook Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+An in-depth look into Mac OS X and iOS kernels
+
+Powering Macs, iPhones, iPads and more, OS X and iOS are becoming ubiquitous. When it comes to documentation, however, much of them are shrouded in mystery. Cocoa and Carbon, the application frameworks, are neatly described, but system programmers find the rest lacking. This indispensable guide illuminates the darkest corners of those systems, starting with an architectural overview, then drilling all the way to the core.
+
+- Provides you with a top down view of OS X and iOS
+- Walks you through the phases of system startupΓÇöboth Mac (EFi) and mobile (iBoot)
+- Explains how processes, threads, virtual memory, and filesystems are maintained
+- Covers the security architecture
+- Reviews the internal Apis used by the systemΓÇöBSD and Mach
+- Dissects the kernel, XNU, into its sub components: Mach, the BSD Layer, and I/o kit, and explains each in detail
+- Explains the inner workings of device drivers
+
+From architecture to implementation, this book is essential reading if you want to get serious about the internal workings of Mac OS X and iOS.
+
+From the Back Cover
+Peeling AppleΓÇÖs Operating Systems
+
+System-level developers, kernel hackers, and intrigued Apple-lytes, take heed: This book lets you explore the nooks and crannies of Mac OS X and iOS, delving into the architecture of both systems, and picking up where the frameworks (and documentation) leave off. It offers clear, detailed explanation of the inner workings of AppleΓÇÖs systems, including proprietary APIs, most of which are documented for the first time.
+
+As you traverse the architecture, moving from user to kernel mode, each layer and component is unraveled with annotated code samples and hands-on experiments, comparing and contrasting its implementation in both OSes. Topics include:
+
+- The boot process: MacΓÇÖs EFI, iOSΓÇÖs iBoot, and kernel startup
+- Processes, threads, and virtual memory management
+- Debugging and profiling, using DTrace, ptrace, and hidden system calls
+- The system level APIs: POSIX calls, Mach traps, and OS X/iOS proprietary
+- File system architecture, including VFS and HFS+
+- Network architecture: from sockets to interfaces, and network drivers
+- Kernel extensions, drivers, and a discussion of I/O Kit architecture
+- Security features, Mandatory Access Control, and iOS jail
+
+The companion web site (http://www.newosxbook.com) includes sample programs, freely downloadable tools, updated references, and bonus additions.
+
+Table of Contents
+Part I: For Power Users
+Chapter 1. Darwinism: The Evolution of OS X
+Chapter 2. E Pluribus Unum: Architecture of OS X and iOS
+Chapter 3. On the Shoulders of Giants: OS X and iOS Technologies
+Chapter 4. Parts of the Process: Mach-O, Process, and Thread Internals
+Chapter 5. Non Sequitur: Process Tracing and Debugging
+Chapter 6. Alone in the Dark: The Boot Process: EFI and iBoot
+Chapter 7. The Alpha and the Omega ΓÇö launchd
+
+Part II: The Kernel
+Chapter 8. Some Assembly Required: Kernel Architectures
+Chapter 9. From the Cradle to the Grave ΓÇö Kernel Boot and Panics
+Chapter 10. The Medium Is the Message: Mach Primitives
+Chapter 11. Tempus Fugit ΓÇö Mach Scheduling
+Chapter 12. Commit to Memory: Mach Virtual Memory
+Chapter 13. BSΓÇ¥D ΓÇö The BSD Layer
+Chapter 14. Something Old, Something New: Advanced BSD Aspects
+Chapter 15. Fee, FI-FO, File: File Systems and the VFS
+Chapter 16. To B (-Tree) or Not to Be ΓÇö The HFS+ File Systems
+Chapter 17. Adhere to Protocol: The Networking Stack
+Chapter 18. Modu(lu)s Operandi ΓÇö Kernel Extensions
+Chapter 19. Driving Force ΓÇö I/O Kit
+
+Book Details
+Paperback: 864 pages
+Publisher: Wrox (November 2012)
+Language: English
+ISBN-10: 1118057651
+ISBN-13: 978-1118057650

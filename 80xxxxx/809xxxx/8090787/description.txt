@@ -1,0 +1,57 @@
+[IMG]http://i.imgur.com/liyurFq.jpg[/IMG]
+
+ShareIt 2.0 is a file sharing application that allows you to manage your files online and share them with people. It has a beautiful and intuitive interface built with the latest development tools to make it as easy to use for you.
+ShareIt 2.0 can be installed on top a ShareIt! 1.0 install following the simple upgrade instructions
+
+[b]App Quick Look:[/b]
+[list]
+Easy to install and update
+Updates notifier
+Multi-User
+User manager
+Beautiful interface
+Secure file storage
+Ajax based
+One page application
+HTTP REST
+MVC architecture
+Email notifications
+Excellent documentation
+Mobile Version (Only upload views)
+[/list]
+
+[b]Uploads Features[/b]
+[list]
+Social File Sharing(Google+,Twitter and Email)
+File re-upload
+FTP upload capability
+Multiple file upload
+Image files preview
+Password Protect Uploads
+Upload expiration (By days or downloads)
+Upload categories (Audio, Image, Document, Video, Other)
+Short URLS generation (using
+Direct upload access (for supported file types)
+Pagination
+Search
+Inline image download page
+[/list]
+
+[b]User Features[/b]
+Registration
+Password reset
+Avatar image
+Email & password change
+Used space indicator
+Max space indicator
+
+[b]Requirements:[/b]
+[list]
+PHP &gt;= 5.3.0
+PHP mcrypt
+Apache mod_rewrite module
+PHP GD Library for thumbnails
+PHP Fileinfo extension
+[/list]
+
+[IMG]http://i.imgur.com/iPPc5ta.jpg[/IMG] [IMG]http://i.imgur.com/8Jcy4zG.jpg[/IMG] [IMG]http://i.imgur.com/N1zZLP4.jpg[/IMG] 

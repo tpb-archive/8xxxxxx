@@ -1,0 +1,50 @@
+﻿Filename,Size,Unit
+00 Introduction/0001 Welcome.mov,2.87,M
+00 Introduction/0002 Prerequisites.mov,1.48,M
+00 Introduction/0003 Using the exercise files.mov,1.01,M
+01 Getting Started/0101 What is Microsoft ASP.NET MVC-.mov,2.57,M
+01 Getting Started/0102 Preparing your system.mov,6.52,M
+01 Getting Started/0103 Hello World- Creating your first website.mov,6.68,M
+01 Getting Started/0104 Exploring an ASP.NET MVC web application project.mov,4.52,M
+02 The Fundamentals of ASP.NET MVC/0201 The Model-View-Controller architecture pattern.mov,4.91,M
+02 The Fundamentals of ASP.NET MVC/0202 Creating the model.mov,4.09,M
+02 The Fundamentals of ASP.NET MVC/0203 Executing controller logic.mov,8.77,M
+02 The Fundamentals of ASP.NET MVC/0204 Displaying views.mov,11.98,M
+02 The Fundamentals of ASP.NET MVC/0205 Routing requests to controller actions.mov,15.21,M
+02 The Fundamentals of ASP.NET MVC/0206 ASP.NET MVC for Web Forms developers.mov,4.39,M
+03 Working with Views/0301 Introduction to Razor (AKA the @ symbol).mov,7.6,M
+03 Working with Views/0302 Interacting with models and ViewData.mov,10.1,M
+03 Working with Views/0303 Speeding up view development with HTML and URL helpers.mov,13.19,M
+03 Working with Views/0304 Reusing logic and managing complexity with partial views.mov,5.86,M
+04 Creating a Consistent Look and Feel/0401 Using layouts to create a consistent theme.mov,6.45,M
+04 Creating a Consistent Look and Feel/0402 Creating a content page that uses a layout file.mov,5.23,M
+04 Creating a Consistent Look and Feel/0403 Applying advanced layout techniques.mov,11.36,M
+05 Routing Requests to Controller Actions/0501 Organizing access to your app with routing.mov,5.14,M
+05 Routing Requests to Controller Actions/0502 How routing finds controller actions.mov,7.7,M
+05 Routing Requests to Controller Actions/0503 Combating routing ambiguity.mov,7.95,M
+06 Working with Data/0601 Creating a form with HTML form helpers.mov,13.31,M
+06 Working with Data/0602 Automatically binding to data in the request.mov,8.44,M
+06 Working with Data/0603 Validating the user's input.mov,16.53,M
+06 Working with Data/0604 Persisting data with Entity Framework code first.mov,15.19,M
+07 Enhancing Your Site with AJAX/0701 What is AJAX-.mov,14.62,M
+07 Enhancing Your Site with AJAX/0702 Requesting partial views.mov,7.66,M
+07 Enhancing Your Site with AJAX/0703 Requesting JSON data via MVC controllers.mov,9.88,M
+08 Securing Your Site/0801 Securing your application from unauthorized users.mov,11.43,M
+08 Securing Your Site/0802 Registering new users.mov,6.75,M
+08 Securing Your Site/0803 Authenticating registered users.mov,8.6,M
+08 Securing Your Site/0804 Avoiding cross-site request forgery attacks.mov,4.93,M
+09 Optimizing Your Site's Performance/0901 The fundamentals of website optimization.mov,5.33,M
+09 Optimizing Your Site's Performance/0902 Caching entire pages.mov,10.39,M
+09 Optimizing Your Site's Performance/0903 Caching parts of pages.mov,10.41,M
+09 Optimizing Your Site's Performance/0904 Scaling your site for more concurrent users.mov,8.43,M
+09 Optimizing Your Site's Performance/0905 Reducing bandwidth with bundling and minification.mov,17.37,M
+10 Targeting Mobile Devices/1001 The fundamentals of the mobile web.mov,3.72,M
+10 Targeting Mobile Devices/1002 Displaying mobile-optimized content.mov,12.46,M
+10 Targeting Mobile Devices/1003 Building a website just for mobile devices.mov,19.74,M
+11 Ensuring Separation of Concerns/1101 Simplifying a complex application with areas.mov,6.59,M
+11 Ensuring Separation of Concerns/1102 Exposing data via ASP.NET Web API services.mov,10.47,M
+12 Deploying Your Application to the World/1201 Overview of website deployment options.mov,7.89,M
+12 Deploying Your Application to the World/1202 Configuring and deploying to IIS.mov,12,M
+12 Deploying Your Application to the World/1203 Configuring and deploying to Windows Azure.mov,11.53,M
+13 Conclusion/1301 Goodbye.mov,1.19,M
+Ex_Files_ASP.NET_MVC4_EssT.zip,314.98,M

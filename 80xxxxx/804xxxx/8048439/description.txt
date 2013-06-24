@@ -1,0 +1,75 @@
+
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 442 MiB
+Duration                                 : 1h 35mn
+Overall bit rate                         : 647 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 35mn
+Nominal bit rate                         : 543 Kbps
+Width                                    : 640 pixels
+Height                                   : 368 pixels
+Display aspect ratio                     : 1.739
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.096
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 35mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Source:
+credit to original movie ripper SuReNo (Thanks)
+
+IMDB Info:
+
+An innocent woman, Claire Scully is drawn into a terrorist plot to kill people through the mail using a deadly strain of TB.
+
+Director: Gregory J. Corrado
+Writer: Gregory J. Corrado
+Stars: Kristen Dalton, Sal Rendino and Kevin Interdonato 
+
+Genres: Thriller
+ 
+http://www.imdb.com/title/tt1155588/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/14385943027328849636.png 
+http://www.shotpix.com/images/04925045365557200736.png 
+http://www.shotpix.com/images/24161506527305246864.png 
+http://www.shotpix.com/images/91422364852252377254.png

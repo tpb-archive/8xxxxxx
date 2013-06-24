@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,Serenifly,2013-01-20T17:32Z,"Thanks a lot :)
+
+I did some research on this and it could be that the way the BT protocol is partly to blame for this:
+http://thepiratebay.sx/torrent/8043682/Insex_2003_%28rm%29-------The_Chair_Day_3_RAW_%28411%29.
+
+In short, BT can put parts of two files into the same chunk. So if someone only seeds one file, the other one can't be downloaded either."
+,Typhos,2013-01-21T08:23Z,Thanks merzedes!

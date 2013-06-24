@@ -1,0 +1,47 @@
+Jack White
+Austin City Limits
+The Moody Theater
+2012-10-14
+
+Source: KQED HD (2013-01-07 broadcast)
+Lineage: ATSC broadcast &gt; VBox DTA-150 &gt; TSReader (record TS) &gt; VideoReDo Plus (scene selection) &gt; transport stream
+
+Video: 13.69 Mbps, 29.97 fps, 16:9, 1080i, MPEG-2 TS
+Audio: 48 KHz, 384 Kbps, 5.1, AC3
+
+Freedom at 21
+Dead Leaves and the Dirty Ground
+Missing Pieces
+Cannon/John the Revelator
+You Know that I Know
+Blunderbuss
+Love Interruption
+Hypocritical Kiss
+Screwdriver/Blue Blood Blues
+I'm Slowly Turning into You
+Top Yourself
+We're Going to Be Friends
+
+Duration 54:41
+
+--
+
+MPEG2Repair: K:Austin City Limits - Jack White - 2012-10-14 - 1080i.ts
+
+Sequence Frame 98330(0-I) / Time 0:54:41 :
+Info: End of MPEG2 sequence
+
+Sequence Summary:
+
+File Size Processed: 5.54 GB, Play Time: 00h:54m:41s
+1920 x 1080, 29.97 fps, 24.00 Mbps (13.69 Mbps Average).
+Average Video Quality: 55.76 KB/Frame, 0.22 Bits/Pixel.
+AC3 Audio: 3/2 Channels (L, C, R, SL, SR) + LFE, 48.0 kHz, 384 kbps.
+Dialog Normalization: -24.0 dB, Center Mix Level: -3.0 dB, Surround Mix Level: -3.0 dB
+0 of 98330 video frames found with errors.
+0 of 102533 audio frames found with errors.
+0 corrupted video bytes in file.
+0.000000 seconds of video timestamp gaps.
+0.000000 seconds of audio timestamp gaps.
+
+End of Log

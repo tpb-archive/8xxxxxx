@@ -1,0 +1,52 @@
+Alpha 6 introduces prisoner risk categories with coloured uniforms to reflect this. Prisoners now have a criminal history and are classified according to perceived risk, however this is an ESTIMATE and may not be accurate - you'll still need to keep a close eye on the little darlings! We've also adjusted the prisoner intake settings to allow even more customisation of the game.
+
+
+= Prisoner Categories
+All prisoners are now classified based on their risk level - Min, Normal, or Max.
+Prisoner uniforms are coloured to reflect this: Grey, Orange and Red respectively.
+Note: The Category of a prisoner is an ESTIMATE of their risk level,
+based on their convictions. However their true risk is determined by their TRAITS
+
+= Prisoner Traits, 'Rap Sheet' & Criminal History
+All prisoners now have Bios that detail their criminal history, length of time in jail etc
+Click on any prisoner to review his Rap Sheet.
+Prisoners have (internal) traits which determine if they are violent, destructive etc
+These traits determine the Prisoner's likely response to their needs not being met
+
+= New Sector Categories
+You can now set sectors to be used for MinSec or MaxSec prisoners in the deployment screen.
+Note: This only affects prisoners cell assignment. They currently share all other rooms.
+MaxSec or MinSec prisoners without cell space will overflow into the shared (White) sectors.
+A Holding Cell is required as temporary housing to facilitate cell changes
+
+= Intake Control
+You can now control the intake of new inmates from the 'Prisoners Report' screen.
+You can choose which categories you are open to, or stop receiving any new prisoners.
+Note: Unavailable if 'Continuous Intake' is enabled; You will receive a random mixture
+
+= The hunt for Stuck Prisoners 
+Several subtle bugs have been fixed which resulted in prisoners becoming stuck, shackled,
+pushed into the wall, forgotten, or trapped in hospital beds. (Guards sometimes as well)
+Prisoners who are trapped will now be escorted back to their cells by a guard.
+Note: All entities need to be healed before they will be let out the medical ward, and 
+Prisoners need to have a cell to be taken back to.
+
+- There is now some variation in the physical size of prisoners. Higher Risk prisoners tend to be larger
+
+- Doctors will now heal injured people around them more reliably (within range 10 sq)
+
+- The tape measure dragging sounds will no longer play unless you are laying out construction orders
+
+- Building frameworks now look more 3d and cast shadows when under construction
+
+- Links have been added to the Main Menu to access the latest version, legal terms & conditions and buy page
+
+- Fixed a bug which allowed prisoners to glitch through doors when they were trying to escape,
+making it quite a bit easier for them to succeed
+
+- Fixed: The game would crash on loading or selecting a saved prison, if that prison had a
+thumbnail image of width or height &gt; 2048 pixels. (Happens if you are running at higher res, eg Retina)
+
+- Fixed: You can no longer callout unlimited numbers of firemen
+
+- Fixed: A dead or unconscious firemen will no longer drop/spawn his firehose continuously	

@@ -1,0 +1,78 @@
+This is my own rip.
+
+There is a small logo for 30 seconds every 20 minutes.
+
+General
+Unique ID                        : 245162975508653522758782001671189192664 (0xB870ABEC953AF14BB8C3B097D2565FD8)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 3.51 GiB
+Duration                         : 1h 22mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 6 114 Kbps
+Encoded date                     : UTC 2013-01-27 22:58:21
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 22mn
+Bit rate mode                    : Variable
+Bit rate                         : 5 544 Kbps
+Maximum bit rate                 : 23.8 Mbps
+Width                            : 1 428 pixels
+Height                           : 1 064 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.152
+Stream size                      : 3.18 GiB (91%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 22mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 263 MiB (7%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Main Title/Two on a Raft
+00:05:20.904                     : Land!
+00:07:27.989                     : "We're Off on the Road to Morocco"
+00:10:42.392                     : In the Bazaar
+00:15:51.826                     : A Moroccan Bargain
+00:21:44.637                     : "Ain't Got a Dime to My Name"
+00:24:58.163                     : "Constantly"
+00:27:38.846                     : The Future Prince
+00:34:30.068                     : "Moonlight Becomes You"
+00:41:58.516                     : Marriage Customs
+00:50:55.886                     : Astrological Error
+00:55:25.989                     : The Sheik Takes Over
+00:59:39.618                     : Across the Desert
+01:05:18.581                     : At the Oasis
+01:11:49.555                     : Rescue Attempts
+01:20:10.389                     : Away From It All

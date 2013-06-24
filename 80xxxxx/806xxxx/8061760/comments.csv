@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,PseudoPositive,2013-01-27T02:53Z,"All the menus are in Russian:
+
+
+http://bayimg.com/paJFJAaea
+
+so it gets a little tricky starting the game, but it does kick over; got to admit, I wouldn't have downloaded this version if I knew the menus were not in English, & I've tried to change it, but no go. Thanks anyway NZupload, but just a little more info here about the menus would have helped."
+,_p0x_,2013-01-29T16:34Z,"How to change language in Alpha Protocol
+
+If your version of Alpha protocol runs in any other language than English (and if you want the game to switch to English), try the fix below.
+
+    Go to X:UsersUSERNAMEDocumentsAlpha ProtocolAPGameConfigAPEngine (where X: is your system drive, usually C:) and open the APEngine.ini file with a text editor. Scroll to the [Engine.Engine] section and set Language=EN. Save and close the file.
+
+    Go to X:Program FilesSEGA CorporationAlpha ProtocolEngineConfigBaseEngine and Open BaseEngine.ini file with a text editor. Scroll to the [Engine.Engine] section and set Language=EN. Save and close the file. Now start the game."
+,_p0x_,2013-01-29T17:53Z,"Ok I figured out the language problem.
+
+When you start the autorun, before installing go to configuration > softfare + components > language gui > english"
+,PseudoPositive,2013-01-31T04:19Z,"@_p0x_, thanks man, your 2nd comment did the trick, game all in English now. Cheers for the upload NZupload, game is clean & works well.  :)"
+,MongKP,2013-03-21T04:50Z,Thanks for sharing. The concept of this game is truly interesting.

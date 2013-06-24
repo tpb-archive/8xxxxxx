@@ -1,0 +1,12 @@
+Only one disc required for the installation. Either Disc_1 or Disc_2. Full movie included for mission. Download and join the file using 7-Zip manager 
+http://www.filehippo.com/download_7zip_32/
+
+You'll need to set the compatibility mode to Windows XP SP2/SP3 and run games as an administrator. If not, you'll be unable to save the games.
+
+For the widescreen resolution please change video mode in RA2.ini located in default Red Alert 2 installation folder in "C:WestwoodRA2RA2.ini" without quote. (Only for those who use a normal installation method). Search string [Video] in the RA2.ini file then replace the value of ScreenWidth=1366 and ScreenHeight=768
+
+This games only playable on disc. But no worries you still can use daemon tool lite to mount the ISO image files.
+[Download here] 
+http://www.filehippo.com/download_daemon_tools/
+
+If you want to play in multiplayer mode, put the network patch in Red Alert 2 directory.

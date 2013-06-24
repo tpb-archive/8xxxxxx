@@ -1,0 +1,9 @@
+Many people have wanted to make their own weapons in Pocket tanks. The weapons are stored in encrypted .wep files, so to edit the weapons you would first have to decrypt them.
+
+
+This program decrypts the weapons files for you so you can edit them however you want! After you are done editing them, encrypt them again so the game will recognize them.
+
+
+I have included a source code written in VB.net for you so you can understand sort of how the files are encrypted, or if you just want to compile the exe file yourself. I promise there are no viruses, as i said you can compile the exe file yourself if you want to.
+
+NOTE: This program doesn't directly edit the weapons for you, it only decrypts them so you can edit them yourself using a hex editor or something.	

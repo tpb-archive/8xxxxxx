@@ -1,0 +1,54 @@
+Teleglitch game from http://teleglitch.com/
+
+Download the lastest patch on their facebook page which can be found on the official website.
+
+Diretory contains:
+
+gfx
+level1
+level10
+level2
+level3
+level4
+level5
+level6
+level7
+level8
+level9
+libgcc_s_dw2-1.dll
+libogg-0.dll
+libpng12-0.dll
+libstdc++-6.dll
+libvorbis-0.dll
+libvorbisfile-3.dll
+lista.txt
+lua
+lua5.1.dll
+lua52.dll
+mods
+OpenAL32.dll
+progress
+readme LGPL Libraries.txt
+readme OGG Vorbis.txt
+screenshot0.bmp
+SDL.dll
+SDL_image.dll
+settings.lua
+sfx
+shaders
+small-games.info.url
+soft_oal.dll
+sounds from freesound.org.html
+stats.csv
+stats2.txt
+stderr.txt
+Teleglitch
+teleglitch.exe
+teleglitch_windowed.bat
+teleglitch_windowed_nosound.bat
+tutorial
+unins000.dat
+unins000.exe
+zlib1.dll
+
+Good luck have fun and seed!

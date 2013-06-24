@@ -1,0 +1,30 @@
+This is a fully working version. 
+If you like it then leave comment and seed longer... Thank You 
+
+                 * * By Toorentz * * 
+
+About this app : 
+
+Updated:
+January 28, 2013
+
+Current Version:
+2.0.0
+
+Requires Android:
+1.6 and up
+
+Category:
+Tools
+
+Description : 
+
+ Many Android tasks run slower than they should for one simple, yet not-so-obvious reason: they consume large amounts of random data from a limited source. Random data is used to generate session keys and unique identifiers, in SSL and wifi, while starting processes, and during inter-process communication.
+
+This data (entropy) runs out frequently, and that causes processes reading from the blocking device (if any) to temporarily stop responding (lag). These processes cannot continue until the Linux kernel repopulates the entropy pool, which takes time. In addition, input events are pulled from the user interface (to refill the pool), which may also contribute to the problem.
+
+Seeder is a service for root users. It assists the kernel in "topping off" the entropy pool by re-seeding it with data from the non-blocking (high performance) random device. Optionally, it can also help alleviate MMC I/O contention by extending the I/O queue, allowing the I/O scheduler to make better decisions, and combine more writes.
+
+On some devices, applications load significantly faster (particularly large ones likeChrome, and Youtube), and task switching becomes effortless. Fewer visual "hiccups" occur.
+
+You MUST be running a rooted device to use this application! If you don't know what this means, Seeder will probably not work on your device!

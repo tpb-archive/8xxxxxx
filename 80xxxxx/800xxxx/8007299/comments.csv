@@ -1,0 +1,99 @@
+﻿User Type,Username,Date,Text
+,ForCom5,2013-01-18T00:20Z,"///These are instructions on how to install the program
+properly. Failure to follow them may result in a failed 
+installation. If you have any questions, feel free to ask.///
+
+///Start///
+1 - Turn off the internet (unplug, airport mode, etc)
+    - Sidenote: You may also want to disable your Security to prevent a hinderance of installation
+
+2 - In the Adobe Acrobat XI Professional 11.0.1 folder, launch the application ""AcrobatPro_11_Web_WWMUI""
+
+3 - Extract to desktop. Check ""Overwrite"" uner the Existing Files Mode
+
+4 - When finished, make sure the top box is checked and simply click ""finish.""
+
+5 - A setup screen should appear. Click ""OK."" > Next > Keep the box checked (or not if you prefer); Click Next > Fill out the information of your liking. IMPORTANT: MAKE SURE YOU CHECK THE ""Use trial or subscription"" NOT ""I have a serial number."" Click Next > Use ""Complete"" for the setup type. Next > Confirm or change the installation directory. Next > Install (installation will take a short while). > Finish.
+
+6 - Start Adobe Acrobat Pro XI using the icon on the desktop
+
+7 - (wait a bit) > Click accept > accept again > Click ""License This Software"" > Click ""Enter Serial Number"" > Minimize the Acorbat installation screen > in the  ""Adobe Acrobat XI Professional 11.0.1"" folder, open the ""crack"" folder > (might want to turn your speaker volume down); Run the application ""xf-aarpxi"" > Click the ""Generate"" button AND DO NOT CLOSE THE WINDOW > type the generated serial into the Acrobat installation; Click next > Click ""Connect Later"" > The program just launched itself; Click ""Help"" in the menu bar > click ""Product Registration"" > Click ""Having trouble connecting to the internet"" > Click ""Offiline Activation"" > Click ""Generate Request Code"" > Copy and paste the request code into the area marked ""paste request code here""; Click ""Generate"" > Copy the key just generated at the bottom of the application > Paste that code into the Acrobat registration response code; click activate > Click ""Close"" > Close Adobe Acrobat Pro and the X-Force application
+
+8 - Go to the Adobe installation directory (Standard: C:ComputerProgram Files [or Program Files (x86)]AdobeAcrobat 11.0) > Open folder ""Acrobat"" > look for the file ""amtlib.dll"" and rename it to ""amtlib.dll.bak"" > In the ""Adobe XI Professional 11.0.1"" > open folder ""crack"" > copy file ""amtlib.dll"" into the Acorbat installation directory you were just at.
+///End///
+
+And that's it. You now have the best PDF software availible on market.
+
+Lovingly scanned by avast! Pro, and installed on Windows 8 64-Bit.
+
+
+Sincerely,
+ForCom5"
+,ForCom5,2013-01-18T00:21Z,"OH! And my thanks to @nikita200, this program is EXTRMELY useful. :D"
+,dzadel67,2013-02-01T18:56Z,thanks
+,Ali_campos,2013-02-12T21:04Z,"Follow the instruction correctly and it will work. 100% Seeding.
+
+Saludos."
+,damaro3,2013-02-23T21:30Z,Thanks Niki.
+,Cat1dr,2013-02-27T15:40Z,"Thanks nikita...But a special thanks to ForCom5 your step by step was perfect for me as the one that came with the load was a bit confusing.
+
+The program works great!!!! "
+,Tubedriva,2013-03-09T07:32Z,"Hi,
+
+Thanks for the upload.
+
+Small problem, after I have followed all instructions, and start program from icon, Adobe asks me to sign-in with an Adobe Id to complete the trial activation. After some minutes, it tells me to try again when internet connection available.
+
+What I should do, to make Adobe work?
+
+Thanks"
+,firewwater,2013-03-24T19:25Z,"Thank you!  I followed ForCom5 's instructions and it worked perfectly.
+
+But I've been getting this error message when installing other programs (not recognizing me as Administrator in Windows 8), and I suspect it has something to do with some process Adobe is running.  Does anyone know how to avoid this?
+
+Unable To Execute Files In The Temporary Directory. Setup Aborted. Error 5: Access Is Denied."
+,ashishtade,2013-03-26T16:59Z,"Thanks....
+its working perfectly...."
+,fliter16,2013-03-27T13:24Z,"Thank you for the quality upload.  This is working perfectly where the ChingLiu version of this isn't working at all, and yet it has more seeders.
+
+Will seed."
+,sabro2000,2013-03-29T19:11Z,"everything done, installed perfectly... dll file replaced... but now when i try to open Adobe software nothing happens (nothing running).. any idea????????"
+,darkwind258,2013-03-31T15:54Z,"thank you very much and for ForCom5 who provided the easiest instruction :)
+there's no hassle if you wont be fooled by characters and spaces :D"
+,piratebomber,2013-04-01T17:27Z,Same problem.  Software asked to sign in for trial.  What the heck???
+,dragan_id,2013-04-01T20:04Z,"Excellent work, thanks mate!"
+,stealthrs,2013-04-10T07:52Z,11.0.02 is now out.  Will killing the internet traffic and doing the upgrade work?
+,glykas,2013-04-16T15:48Z,No keygen file in the crack folder!
+,arctiq,2013-04-16T19:53Z,"thank you, worked like a charm, and also thanks to forcom5 for the detailed instructions"
+,amitabhr,2013-04-21T18:15Z,"Excellent torrent. 
+
+Anyone not able to print after installing this please read the post here for a fix (http://www.tomshardware.com/forum/3387-73-temp-folder-writing-permission-itself#10686543)
+
+Go to Acrobat.exe Properties, Security and Edit System permissions by clicking under Deny Full Control and will mark all the entries under, once saved go click Properties on the user temp folder in C:Users[user]AppDataLocal, Security, Advance, Enable inheritance and tick Replace all child object permissions entries etc... apply Ok and it should be done. Reboot and no message.
+It worked so far for me under Win 8 64bit"
+,amitabhr,2013-04-23T16:03Z,"BTW, the Temp folder permissions issue seems to be a problem with acrobat - NOT with this torrent. 
+
+See here: 
+http://answers.microsoft.com/en-us/windows/forum/windows_8-security/cant-install-any-applications/7fc00c13-c91e-4288-99f3-133f957930c2"
+,blingdoc,2013-04-24T01:45Z,It worked well till the Request code part. I keep getting Invalid Request Code every time I type the request code from the Oflline Activation. Can anyone tell me what the request code is supposed to look like?
+,Trailblazer7818,2013-04-28T08:30Z,"I screwed up, sort of. When I installed Acrobat 11, I loaded the serial number, and all went well until I pasted the request code generated for the adobe installer, and it said invalid request code. I, however failed to notice that when i pasted the code, it DID NOT delete the words ""Paste Request code here"" it ADDED THEM to the code, I didn't catch it, I clicked generate and it generated a different serial number, and now I have no way to make this work. I tried uninstalling using Revo Uninstaller pro, and everytime I try to reinstall, It goes right back to saying that it wants to validate my serial number, AND IT WILL NOT ALLOW ME TO ENTER A NEW SERIAL NUMBER!! Am i screwed? Is there any way to make this work? ANY HELP OR SUGGESTIONS WOULD BE GREATLY APPRECIATED!!"
+,dani6757,2013-04-28T13:52Z,"@Trailblazer7818--The same thing happened to me.  Go to this link:  Revo Uninstaller Pro http://www.revouninstaller.com/ and download a free 30 subscription to the PRO version (farthest right blue box labeled 'SEE MORE')  Don't click on: farthest left box labeled, 'TRY NOW').  The Pro version is better and is still free for 30 days.  Once installed, type in 'Adobe' in the default Search box...and delete everything related to Adobe XI.
+
+Trying to uninstall via Control Panel->Programs won't delete Adobe's hidden files.  Once you have made sure that you deleted everything, start over with ForCom5's instructions---EXCEPT, make sure you delete those words, ""Paste Request Code Here"".  It took me 4 friggin' days to figure this out. System restore, internet searches, etc! Hope this info saves you (and others) the same hassle!"
+,dani6757,2013-04-28T14:14Z,"@Trailblazer7818---sorry, I didn't see that you had downloaded the Revo Pro already.  Make sure you go back and re-open Revo Pro after using it to uninstall everything Adobe XI the 1st time, and after restarting your computer.  Click on, ""Forced Uninstall"" -> type 'Adobe' in the Search box and make sure you check ADVANCED (rather than Moderate) in the next pop-up window...to delete those last, little, Adobe  XI remnants.
+
+THEN...when you go back to your downloaded torrent file..start COMPLETELY over....generate a new Serial code, etc.  "
+,dani6757,2013-04-28T14:29Z,"@Trailblazer7818
+Sorry, I meant to add the following:
+
+After you have used Revo Uninstaller Pro to uninstall Acrobat XI (and restarted computer), you need to go back into Revo and click on, ""Forced Uninstall"" to clean out those 'other' Adobe hidden files.  Go through the same process that you did the 1st time, except this time check ""Advanced"", rather than ""Moderate"" when that pop-up comes up.  Apparently, a two-step Revo Pro process is necessary to get those really, REALLY hidden files!
+
+Then, just start completely over with your torrent...but, maybe change the name of the install directory file to, ""Adobe Acrobat Pro 11"", so you can pinpoint it with Revo Pro in the future, if needed.  
+
+BTW:  I also disabled my Security Program along with WiFi after downloading the torrent---before starting the install process.    "
+,triguy324,2013-05-08T04:19Z,I just finished my download and before starting my installation Webroot SecureAnywhere says there's malware attached. Anyone experienced this too?
+,H4rdR1d3r,2013-05-15T15:53Z,"I'm having a problem with the laptop since i install this program. 
+
+It started to work really slow, and when i want to oepn a webpage it allways ask for security certificates?!  
+
+How do I fix this problems?"

@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,pro346pro,2013-01-31T08:40Z,movie overload thanks!!
+,mi.tom,2013-01-31T18:55Z,Thanx judas...is MI 4 is available in imax version?
+[V],dhjudasx,2013-01-31T21:58Z,I'll have to go digging and see if it is..
+[T],dabadguy69,2013-02-01T02:47Z,"thanks 
+
+by the way what happened to the plus/minus ratings?"
+[V],dhjudasx,2013-02-01T03:56Z,i was asking about that a few days ago... disappeared... might be revising it or something don't know.
+,mi.tom,2013-02-01T06:07Z,How to vote + ? i dont see anything on this page.Somebody please help me. 
+,pro346pro,2013-02-01T08:10Z,been removed due to people down voting stuff for no reason in other words it was being abused
+[V],dhjudasx,2013-02-01T16:21Z,"pro, you happen to have a link to where the tpb admins gave that reason?"
+,pro346pro,2013-02-02T02:20Z,I found this thread on suprbay  https://forum.suprbay.org/showthread.php?tid=18463&page=12
+[V],dhjudasx,2013-02-02T08:57Z,haha.. well I like the fact that it's no longer available then... 
+,clu.kai,2013-02-05T12:01Z,"@Judas! cheers! ;)
+
+A - 100
+V - 100
+M - 100"
+,Efreak15,2013-02-07T18:01Z,"I noticed that in almost all your encodes are highly pixelated during dark scenes.  Brighter scenes are perfect.  I suppose that has to do with high compression used, but is there any way to reduce the pixelation using a filter?  I know other encodes I download don't have nearly the amount of pixelation.  Because of that, I have to give most of your encodes A10 and V7 ratings.  Fix that and they would be perfect."
+[V],dhjudasx,2013-02-08T07:36Z,"this is one of the failures of high compression... Gradients...
+
+Even other peoples encodes.. some of the most well known that people have a tendency to compare my encodes to have the same issues.
+
+Quite often it's related to the material or source production. But obviously encoding and compression is an issue. Now one of the ways to get around it is to ""lighten"" the image so that there aren't DEEP blacks.... Obviously this presents a pretty big problem, lightening the image washes things out. A way to compensate it to increase saturation.. but introduces considerably more problems one of the most defining issue is that lightening and saturation changes tend to destroy the original level of detail.... filters are incredibly bad for usually fixing one thing and causes worse problems elsewhere.
+
+So it's a bit of a balancing act.... Do you attempt to do your best at keeping the level of detail and color .... or do you try to ""flatten"" the image in order to make the compression easier and simplier and harder for viewers to notice at the cost of everything else.
+
+Most movies I find the darks usually do ""relatively well"" and the gradient issue isn't to terrible. Most players and displays I find that aren't totally terrible will keep things looking good too... Higher bitrates improve it.. but to completely eliminate them I found that i'd need to basically triple the size... Deep color and true blacks are hard to deal with.
+
+I'm open to suggestions... I really am not a super encoder imo. I just know a filter option isn't going to do it... filters were mostly implemented for ""fixing"" bad video source to encode OR to implement an effect.
+
+Maybe I have to play with my reframes a wee bit. 
+but like I said... it's a balancing act."
+,Efreak15,2013-02-09T22:03Z,@dhjudasx Thanks for your in-depth comment and explanation.  

@@ -1,0 +1,12 @@
+Custom firmware kit for PS3.  http://www.tortuga-cove.com/forums/viewtopic.php?f=127&t=4336
+
+Included:
+* Rogero CFW 4.30 v2.05
+* Rogero CFW 3.55 v3.7A
+* Rogero downgrader (4.25 to 3.55)
+Use this if you want to go from 4.30 back to 3.55. Even though it says it's for 4.21, it does work for Rogero 4.30.
+* toggle_qa
+Only for 3.55 CFW. Install and run this ONLKY a console that hasn't previously had toggle_qa run on it. It helps if you want to downgrade later.
+* Condor Updater 3.1
+Makes it easier to get in to Recovery Mode.
+* DeanK's installPKG

@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+[T],crwildman,2013-01-19T03:25Z,Why was this one released so soon after the one just uploaded?
+[V],murphy78,2013-01-19T04:22Z,I don't know crwildman... I did test it and it worked on my win8enterprise that I'm currently using.
+[V],promodsharma,2013-01-19T06:08Z,Thanks.
+,Tourne,2013-01-19T11:23Z,How to remove/uninstall KMSNano ?
+,bigorna12,2013-01-19T11:48Z,"permanent activation, windows 8 ?"
+[V],murphy78,2013-01-19T12:26Z,"You don't remove activation in windows. You just re-activate using another method.
+
+KMS activation is 180 days per activation.  Nobody has cracked oem or retail activation for windows 8, which is why they have been working on the trigger for scheduling.
+
+If you want to mess with other activators that claim to activate and change to permanent, and all sorts of other claims, just know that I warn you against it."
+,Max633,2013-01-19T15:09Z,"@murphy78
+
+Can you please help me?
+I recently installed Windows 8 Pro and activated using KMS Nano [ i think v 11.2 ] succesfully. And I thought of trying out the new Office and downloaded this torrent..
+http://thepiratebay.sx/torrent/8005442/Microsoft_Office_ProPlus_2013_VL_x86__KMSnano_v11
+Then tried to use KMS Nano v12 to activate it.. But after extraction nothing happens .
+
+In ""Check_Activation_W8_Office2013"" script i can see that Windows 8 is activated but Office is still in 30 day ""grace period"".
+
+If you know what to do, please reply."
+,heldigard,2013-01-19T16:08Z,"murphy78, big Salute to you too. You should also include the new TriggerKMS, now is v5.1"
+,TheBall3rz23,2013-01-19T18:27Z,"whenever i run KMSnano it keeps running in the background, i even left it going for a long time but it didn't finish.. is there anything im doing wrong?"
+,roumor2,2013-01-19T21:02Z,"im no 100% sure because Activation_check.cmd just shows bunch of ""System Error: no registry key found"" but Activate WIndows proposal has gone from the Action Center."
+[V],murphy78,2013-01-19T21:59Z,"heldigard! I think most people wouldn't know what to do with the trigger, so I will link to the 5.1 right here:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page576?p=706916#post706916
+
+What this does is let you setup the trigger to run from the task scheduler.  You can already do that with just running kmsnano.exe, but it will just run the whole activation process regardless of the need to actually re-activate. Setting it to run from kmsnano.exe also wouldn't take into account other things, of which I am not an expert, and I haven't really studied.
+
+heldigard, if you are reading this bud, please consider adding self-termination when kmsnano requests activation on a non-supported system.
+Perhaps:
+1) check office install and run office activation if installed
+2) check windows version and activate windows if supported version
+3) else terminate
+
+I'm not super familiar with kms, so I don't know if you can differentiate between office and windows activation. I am just offering suggestion.
+
+Big thanks for your progress on this stuff, it really is excellent work. We all think you are an internet hero around here man.
+
+*love*
+murphy78"
+[V],murphy78,2013-01-19T22:01Z,"roumor it does kind-of basic scripting when checking office activation registry stuff.  I'm sure things like that will get refined in time.  To check normal windows activation you can always run admin command prompt command ""SLMGR /DLV"""
+[V],murphy78,2013-01-19T22:13Z,"Theball3rz23, that could be for MANY reasons. I had that happen even when it successfully activated and I was running a torrent program.  It could also block the information back and forth if you are running some sort of firewall.  It could block the information for any number of reasons. To give yourself the best chance, it really is recommended to close all programs before running.
+
+I am still unfamiliar with office-only activation, but remember that this activation method is pretty new and might require you to extract kmsnano.exe to a subfolder and run the appropriate scripts.  I have had reports from people claiming to run windows 7 retail versions and having problems activating Office 2013.
+
+Like I wrote in the description, if you really want Office 2013 activated, you might try installing both a volume version of windows such as Windows 8 Pro, or Windows 7 Pro and/or Pro VL, and also a vl version of office 2013 would be preferable for kms activation.
+
+Note the list of unsupported OS in my description.  It's not because this method doesn't work, it's because windows doesn't allow volumekms activation for those versions."
+[V],murphy78,2013-01-20T01:59Z,"max633, like I said... many people are reporting said problem, but the truth is that I really don't know. If you really want to activate office, try reading around the mdl forums for online activation.  I literally have no experience activating office 2013."
+,AmazingTorrentz2l3,2013-01-20T05:40Z,murphy78 one of the best uploaders.  thank you m8
+,mitulv,2013-01-20T19:15Z,"thanks man! works perfectly..windows 8 pro + office 2013 both licensed! KMSNano all the way! i just hope that this works for a looong time until someone makes a loader. guys, as said by heldigard remember to disable updates some updates will make it unlicensed.  "
+,D255,2013-01-21T17:00Z,"murphy78;
+
+thanks dude
+works"
+[V],murphy78,2013-01-22T00:16Z,"Yes, really the only problems you will run into with updates are when MS adds kmsnano.exe and kmseldi.exe as a hacktool to the built-in anti-malware.  They almost definitely will do it eventually.  As long as you ""allow"" it through the security when that time comes, you can update all you want.
+
+I guess MS could make a crawler like they did win kb971033 for daz's loader, but it wouldn't stop the effort.  They could come up with a custom encryption effort like daz did.
+
+It's gonna be interesting, whatever happens.  My Windows releases will always try to have the latest workarounds, so even if you don't reformat your system hardly ever, you can always come look at my stuff for pointers on how to get around newer security measures."
+[T],tri895,2013-02-01T21:56Z,"thanks murphy
+you're our hero :)"
+,Dan_wt_Lions,2013-02-19T10:37Z,"@murphy78-TPB, 
+
+Thanks to provide us with this activator. But I am sorry to report that it did not worked for my “Windows 8 Pro with Media Center”. I let it run for over an hour and nothing appended, no activation. Here is what I did.
+
+1. I started by running the ""SFC /SCANNOW"" as Admin. Everything was fine.
+
+2. After d/l the torrent, the hashes (CRC32, MD5, SHA-1) of my “LaNanov13.zip” matched yours.
+
+3. Once I unzipped the file, I executed the “KMSnano.exe” as Admin.
+
+4. It decompressed itself into ""C:UsersDanielAppDataLocalTempKMSnano"" and started running.
+
+5. The Task Manager showed that 
+a) KMS GUI ELDI is running in foreground as a program and
+b) KMSnano (32 bits) and QEMU emulator and tools (32 bits) are running in background.
+
+If KMSnano (32 bits) can activate a Windows x64, then what is the problem?"
+,Dan_wt_Lions,2013-02-23T01:06Z,"@murphy78-TPB, 
+
+Did you or anyone else figured out my problem? Windows 8 keeps interrupting me to activate.
+Thanks"

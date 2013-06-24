@@ -1,0 +1,33 @@
+Required Android O/S : (Android 2.1-4.1 does not require root)
+
+
+
+During deepsleep mode, Wifi, 3G are turned off, background apps are stopped. Therefore, most apps are not working, including Facebook, Google Service, etc,. It then constantly wakes up in order to download email, sync Facebook status, etc,. It's defined by deepsleep frequency and woke up duration
+
+In advanced mode (PRO), you can customize more parameters, including day/night settings, active period, screen timeout, sync strategy, ignored apps, etc,
+
+
+Notice:
+
+    
+During deep sleep mode on, this app may disrupt your normal activities, such as your email notification comes with larger delay
+    
+If your setting (ex. Wifi) is off, DS Battery Saver does not control it during DS mode on
+
+Languages: English, Français, Tiếng Việt
+
+What's in this version: (Updated : Jan 9, 2013)
+
+    Fixed 3g does not toggle
+    Support Deep Sleep whitelist apps
+    Support force Airplane mode during night period
+    Support on/off WiMax/4G (experimental)
+    Support Until screen on option in deep sleep frequency
+    Support airplane mode for Android 4.2 with root 
+
+
+===================================================================================
+
+Please SEED & ENJOY! More torrents? Do check me out and keep seeding! 
+
+===================================================================================

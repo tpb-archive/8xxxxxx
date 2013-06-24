@@ -1,0 +1,15 @@
+For my x64 version of Windows 8 (Not 100% sure if because of x64) the keymaker in the "Stardock Start8.v1.1 Windows 8 Incl Keyfilemaker and PatchEMBRAC" torrent by "TorDigger" doesn't seem to work and returns me an error "can't open file =(".
+
+I searched around and managed to find the same patch used in the old version torrent that worked for me, "Stardock.Start8.v.1.11.BETA.2-sHaRe" by "SecTPB", but updated for v1.1 instead of v1.1b2.
+
+So here it is, the installer and the "stardock.start8-patch.painter.exe" patcher.
+
+INSTALLATION INSTRUCTIONS:
+    1) Install v1.1 (using "start8-setup.exe" or otherwise)
+    2) Close the activation window
+    3) Open task manager and end this "Start8" on the "Services" tab
+    4) End everything else related to Start8 AND "explorer.exe" on the "Details" tab
+    5) Run "Patchstardock.start8-patch.painter" and patch everything.
+    6) Either restart your computer OR restart the Start8 service and re-run "explorer.exe"
+
+Enjoy!

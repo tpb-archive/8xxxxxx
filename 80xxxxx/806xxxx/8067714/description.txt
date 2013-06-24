@@ -1,0 +1,88 @@
+murphy78 proudly presents Windows 8 Enterprise x86 en-US Jan2013
+Hotfixes included bring install current to Jan8 patch date
+Pre-Activated with kmsnano and reactivated whenever you boot
+with less than 30 days left on your activation.
+NETFX2-3.5.1 is included.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+32-bit MSDN Source:
+en_windows_8_enterprise_x86_dvd_917587.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Enterprise (x86)
+Windows 8 Enterprise (x86) KMS Pre-Activated
+
+Release File:
+Win8ENT-x86-en-US-Pre-Activated.iso
+Size: 3.10GiB
+CRC32: EF03F985
+MD5: 88DAA03F26C4CEC8B35A60E2A7EA5F75
+SHA-1: FE986306973FD12B1E8924F7781C3B8F31F846FA
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for image mount and MSU KB Integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2751352-v2, KB2753842-v2,
+KB2756872, KB2756923, KB2757638, KB2758246-v2, KB2761094,
+KB2761465, KB2764462, KB2764870, KB2768703, KB2769034,
+KB2769165, KB2769166, KB2770660, KB2770917, KB2771744,
+KB2771821, KB2777166, KB2777294, KB2778171, KB2778930,
+KB2779562, KB2779768, KB2780342, KB2780523, KB2780541,
+KB2782419, KB2783251, KB2784160, KB2785094, KB2785220,
+KB2788261, KB2788350, KB2790920, KB2792009, KB2796096
+
+KB Files added during setupcomplete.cmd phase:
+KB890830-v4.16 (Recent Malicious software removal tool)
+KB2758694 (xml4 exe only hotfix)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe only hotfix)
+--------For KMS Pre-Activation index
+KMSNano.exe
+schtasks (schedule the 30 day logon activation check)
+
+Changes from recent Windows 8 x86 releases:
+-Added IE security, but moved to offline install.
+Reboot is not needed during setupcomplete.cmd phase.
+-Added .NET 2-3.5.1
+Offline hotfixes used for netfx3
+-Unmodified ei.cfg for extra stability long-term
+-Obviously the KMS Pre-Activation stuff
+
+I have refined the trigger for the re-activation since
+my PRO VL Perm Re-activation release. This release uses
+KMSNano v16 with TriggerKMS v9. If you need to update
+KMSNano for any reason, make sure that the scheduled
+task "Trigger KMS Activation" also gets updated.
+
+Windows 8 Enterprise is version of Windows with the most
+features. It has every app that other Windows 8 versions
+have and more. For the exact differences, read a wiki.
+
+Activation Proof: 
+http://bayimg.com/bAjbNAaEA
+
+Important Updates After Install: 
+http://bayimg.com/BAjbpaaeA
+
+Optional Updates After Install: 
+http://bayimg.com/caJBaaaEa
+
+Scheduler Trigger for Re-Activation: 
+http://bayimg.com/CAJbcAAeA
+
+(Big salute to heldigard and everyone who works on kms stuff)
+Enjoy Pirates,
+murphy78-TPB :)

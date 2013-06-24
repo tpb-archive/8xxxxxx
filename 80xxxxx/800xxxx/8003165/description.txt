@@ -1,0 +1,27 @@
+KMSnano v11 Automatic
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+	Important: Better disable the automatic windows update, we never know.
+
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.
+
+HASH:
+ File : LaNanov11.zip
+ Size : 21,49 MB
+ CRC32 : 2d413998
+ MD5 : 21cadce3d68a902a6f12214a82a539e0
+ SHA1 : 72cb6aa593305b67777e219b0dde71f55be94fa1
+ 
+Change Log:
+ - Fixed auto restart bug.
+ - New KMS Client.
+ - AutoCharging.

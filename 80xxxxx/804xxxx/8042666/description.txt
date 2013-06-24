@@ -1,0 +1,27 @@
+KMSfast Especial Edition v1 Automatic
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.2, and for Office 15.
+
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+
+Important: Better disable the automatic windows update, we never know.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows 8 Pro/Enterprise/N/VL and Office 2013 VL.
+- This version dont work in Retail versions.
+- Designed for W8 VL and Office 2013 in W8.
+
+1. Double-click on KMSfast.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.
+
+Based off of Ratiborus's KMSmicro v3.10 and KMSnano v13.
+
+To see the Log file check: 
+%Temp%KmsNano.log
+
+Should you run into trouble:
+Decompress KMSnano.exe with 7-Zip and run "Manual.cmd"
+
+Much thanks to heldigard!

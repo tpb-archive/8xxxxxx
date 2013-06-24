@@ -1,0 +1,42 @@
+
+
+    Charlie's Angels is an American crime drama television series about three women who work for a private investigation agency, and is one of the first shows to showcase women in roles traditionally reserved for men. The series stars Kate Jackson; Farrah Fawcett-Majors; Jaclyn Smith; Cheryl Ladd; Shelley Hack; Tanya Roberts; David Doyle; and John Forsythe as the voice of Charles Townsend, also known as "Charlie" (the Angels' boss). 
+
+
+
+Format                                   : Matroska
+Writing application                      : HandBrake 0.9.8
+
+
+Video
+
+Format                                   : AVC
+Codec ID                                 : V_MPEG4/ISO/AVC
+Width                                    : 710 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 fps
+Bit depth                                : 8 bits
+Scan type                     work           : Progressive
+Bits/(Pixel*Frame)                       : 0.167
+Writing library                          : x264 core 120
+Language                      work           : English
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Codec ID                                 : A_AC3
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Language                                 : English
+
+Text
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+
+

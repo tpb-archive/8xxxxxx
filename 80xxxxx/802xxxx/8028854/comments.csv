@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,josue37,2013-01-17T00:35Z,que idioma trae???????????
+[V],2010kaiser,2013-01-17T00:39Z,Es Inglés. Si lo que buscas es una versión en español. Descargue el torrente y agregar un paquete de idioma español.
+,maheshrautray,2013-01-21T09:35Z,"""Updates Activated""  -true or false ?"
+,maheshrautray,2013-01-21T18:17Z,really ?
+,asusG75VW,2013-01-25T04:10Z,"Thanks Kaiser, Hopefully this is activated just like Orbit30's version for Windows 7 AIO R2."
+[V],2010kaiser,2013-01-26T20:41Z,"@maheshrautray
+
+If the torrent description says it's activated and has the relavent updates included. I'll go out on a limb here and say it's highly likely if not absolutely certain that this torrent contains a pre-activated version on Windows 7 64bit. It would have Service Pack 1 (SP1) 'slipstreamed' into it and carries a separate .SFX file (Self extracting Archive) which holds all the 64bit updates available up until 15/01/2013.
+
+If that's what it says in the torrent description, then that's what i've included in the torrent.
+
+Hope this clears the issue up for you ;-)"
+,randomrazor,2013-01-28T08:41Z,"thanx man.
+but does this really work. im getting out of this windows 8. this does'nt have net framework 3.5 i hate it"
+[V],2010kaiser,2013-01-28T19:36Z,"@randomrazor
+
+  Yes it really works."
+,Nes001,2013-02-01T13:11Z,How to instal all updates at once? there is 330 files with updates and installing it separately is annoying.. THANKS FOR HELP :)
+[V],2010kaiser,2013-02-07T23:03Z,"For anyone having trouble making a bootable .ISO. I've upload a small utility which makes a bootable Windows 7, vista or XP image in just a couple of clicks. just follow the instructions in the torrent description and also in the README.nfo file contained in the torrent. Download link below:
+
+http://thepiratebay.sx/torrent/8114944/WBICreator_-_2010kaiser"
+,HeyImBub,2013-02-08T09:01Z,Can I use this on a newly built computer that has no OS?
+,xspagx,2013-02-09T00:59Z,"@Nes001 save this file and then open a command window, cd into the directory you saved the file and then type automsuinstall.cmd C: pathtofolderwithupdatefiles
+
+and it will batch through all of them and apply the updates."
+,xspagx,2013-02-09T01:01Z,"To make the file, copy/paste this into notepad and save as automsuinstall.cmd
+
+@echo off 
+echo. 
+
+REM Check for folder. IF empty, show usage. 
+IF ""%1""=="""" GOTO USAGE 
+REM Check for folder. IF it does not exists, show error. 
+IF NOT EXIST ""%1"" GOTO ERROR 
+
+REM Processes all *.msu files in %1 folder. 
+:PROCESS 
+ECHO Please wait, processing update files in %1... 
+FOR %%F IN (""%1*.msu"") DO ( 
+echo Processing: %%F... 
+start /wait wusa ""%%F"" /quiet /norestart 
+) 
+echo. 
+echo Done. 
+GOTO END 
+
+:USAGE 
+echo. 
+echo Usage: 
+echo. 
+echo. 
+echo *) Path contains space(s): 
+echo automsuupdater.cmd ""X:Long Path To My Updates"" 
+echo. 
+echo *) Path does not contain space(s): 
+echo automsuupdater.cmd X:PathToUpdates 
+echo. 
+GOTO END 
+
+:ERROR 
+echo. 
+echo The folder %1 does not exist. 
+echo. 
+
+:END 
+echo."
+,Mostafa95,2013-03-05T00:25Z,"After downloading at low speed 50 kb/sec fuckin Kaspersky Pure 2 deleted the file it says it's worm infected
+@ 2010Kaiser Is that one clean cause i'm redownloading it ? and seeed"
+,silents429,2013-03-19T01:37Z,Excuse me. I installed this and it asked for a key. I skipped it but what do I do? I read the instructions but will those keys in the how to work? What do I do here? I thought this said it was activated? May I have some help please.
+,Fanciestmoon,2013-03-29T18:28Z,"Alright, Well I'm feel this is me being stupid or simply not knowing what to do, But I'm having an issue and figured I'd ask you.
+So I downloaded the file and it came in as an .exe(which seemed odd) I basically said ""Fuck it"" Ran it, nothing happened. So I extracted the files and got a LINKS.exe, SOFTWARE.exe, and INFO.exe, which was all fine and dandy. However during the process, there was a problem with the extraction. Says that it couldn't extract the .iso and the the file was corrupt. 
+Any ideas whats up?"

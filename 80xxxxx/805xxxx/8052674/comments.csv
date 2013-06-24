@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,nic25magg,2013-01-22T21:34Z,"My apology to previous release of this Application. I have been reported that some of the sub-programs do not change Vista Behaviors !!!
+
+HERE IS A NEW RELEASE WITH LATEST VERSION AND SUB-PROGRAM TESTED ONE-BY-ONE
+
+*The only bug found is:
+ ""Drives and Programs"" found under section Security Does not work in Windows vista 64-Bit (x64)"
+,fairytales2,2013-01-22T22:04Z,"nic25magg ,,, In spit of all what u said ,, It is very nice program for professionals and beginners as well ,, just why I cant delete the folder after use by delete fn ?? "
+,fairytales2,2013-01-22T22:25Z,"I always allow sending anonymous reports for most progs ,, well nothing is free , but I prefer  to know 1st .."
+,nic25magg,2013-01-29T10:03Z,"Dear fairytales2,
+
+First of all, thank you for trying my uploads and for your comments.
+
+Secondly, Windows did not prevent me to delete the folder after using this Program.
+
+If such prevention occur, the most probable reason is that a sub-program is still in use and may be in ghost mode. Please get Process Explorer at 
+
+http://www.filehippo.com/download_process_explorer/
+
+to see which sub-programs prevent deletion. You will get more description on each program compare to Windows Task Manager"

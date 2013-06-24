@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,BrainDeadmonki,2013-01-30T17:24Z,works just like the last one 
+,BrainDeadmonki,2013-01-30T17:24Z,can you do manga studio 5 
+,SSSSSmokey,2013-02-01T05:37Z,"Sophos says infected with:
+'Virus/Spyware' Troj/Agent-WFN"
+,elto73,2013-02-04T18:58Z,Some of Ching Lius torrents have comments reporting that activation is not working etc and some have reports of trojans and visuses..  ....be careful
+[V],bigbluesea,2013-02-05T22:41Z,"@SSSSSmokey & elto73
+
+Your both idiots!!!
+
+There are no viruses you morons.AV sees cracks,keygens,patches etc etc as a threat it's a false/positive.Inform yourselves before you make stupid comments "
+,barchismo,2013-02-12T01:21Z,Worked great. Followed the instructions and it worked. No sweat.  Thanks!
+,lulusmile,2013-02-27T00:10Z,This torrent has a Trojan - don't download.
+,Pac12fan,2013-03-11T07:27Z,"The Instructions say 
+
+1b. RUN ""aam-patch.painter.exe"" and click on ""patch"" button. in ""1.Application manager - Patch painter"" folder.  
+
+I can't find that file anywhere, there's only 1 file in that folder and it's the first file you install.
+
+What am I missing?"
+,APAULCOLYPSE,2013-03-27T07:02Z,"I got the same problem. Did you figure it out? 
+
+
+I ended up skipping that step and just installed illustrator then replaced the patches. 
+So far it seems to work after I connect to the internet.  I'm crossing my fingers that it sticks without the patches. 
+
+
+Oh and I was not able to update. Kept getting an error. "
+,ps786,2013-03-31T20:10Z,"For those who are having trouble, here is the ""correct"" instruction. tested on Windows 8 Pro x64. Make sure you are on a fresh copy of Win 8. If you have previous copy of any adobe software installed. uninstall all of them and use ""adobe_creative_suite_cleaner_tool""
+
+1. turn off internet
+
+2. Install ""ApplicationManager6.2_all.exe""
+
+3. Copy ""aam-patch.painter.exe"" to ""C:Program FilesAdobeOOBEPDAppcore"" and RUN patch. 
+
+4. Install ""Illustrator_16_LS16.exe"" as trial
+
+5. turn on internet
+
+6. Open Illustrator CS6 click try 30 days and then click on help->update
+
+7. After successful update, rename ""C:Program FilesAdobeAdobe Illustrator CS6 (64 Bit)Support FilesContentsWindowsamtlib.dll"" to ""amtlib.dll.old (in case u need it later)""
+
+8. Copy ""amtlib.dll"" from ""Cracked dlls"" folder and paste it in installation folder (see step 6)
+
+9. Block Adobe Application Manager with firewall "
+,TW63684,2013-04-22T19:54Z,"Thank you Ching_Liu, works great like all your others.
+
+TO THE STUPID PEOPLE
+Unplug your dam internet, read the dam notepad file were ching_Liu tells you step by step how to install.
+
+It does say (like Ching_Liu tells us) the start up graphics say tryout but it will not expire, and has full functions."

@@ -1,0 +1,77 @@
+WARNING!!! English audio track is external. You have to load english audio to your player, if you want to watch it in english. If you don't know how to do it - ask google.
+
+Plot: A time traveling cop, Jack Deth, from the future is taken back to the past to be given the task of destroying the Trancer program before it has a chance to get out of control, sending the world into a state of chaos and war.  
+
+Director: C. Courtney Joyner
+Writers: C. Courtney Joyner (screenplay), Danny Bilson (characters)
+Stars: Tim Thomerson, Melanie Smith and Andrew Robinson 
+
+MediaInfo:
+General
+Unique ID                                : 222112522354089797565310465299828795192 (0xA71950D71F6A0D1EBDF3B0CE68356738)
+Complete name                            : C:UsersIvanDesktoptempTransers_collectionTrancers_3_1992Trancers_3_1992.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.37 GiB
+Duration                                 : 1h 14mn
+Overall bit rate                         : 2 636 Kbps
+Encoded date                             : UTC 2013-01-25 15:43:43
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 14mn
+Nominal bit rate                         : 2 505 Kbps
+Width                                    : 704 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.247
+Writing library                          : x264 core 129 r2230 1cffe9f
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=2505 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 14mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 15ms
+Title                                    : Russian
+Language                                 : Russian
+Default                                  : Yes
+Forced                                   : Yes
+
+Menu
+00:00:00.054                             : en:00:00:00.054
+
+Screenshots: 
+http://img824.imageshack.us/img824/524/trancers31992mkv2013012.png 
+http://img837.imageshack.us/img837/524/trancers31992mkv2013012.png 
+http://img191.imageshack.us/img191/524/trancers31992mkv2013012.png 
+http://img11.imageshack.us/img11/524/trancers31992mkv2013012.png 
+http://img443.imageshack.us/img443/524/trancers31992mkv2013012.png 
+http://img341.imageshack.us/img341/524/trancers31992mkv2013012.png 
+http://img51.imageshack.us/img51/524/trancers31992mkv2013012.png 
+http://img16.imageshack.us/img16/524/trancers31992mkv2013012.png

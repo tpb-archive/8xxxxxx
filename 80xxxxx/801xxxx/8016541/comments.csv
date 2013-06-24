@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+[V],Anacondaz,2013-01-14T04:33Z,"Ableton Suite is a complete software studio. Suite 8 gives you all of the features in Live 8 plus sound, with a radically new Library packed with beautiful new sounds and a wealth of useful resources. Suite 8 contains 11 Ableton instruments and effects including synths, a sampler, electric and acoustic drums, mallets, numerous sampled instruments, the new, reworked Operator and amp modeling effects. Two completely new instruments, Collision and Latin Percussion, round off the set. Ableton Suite 8 is a complete package: the tools and the sounds.
+
+Improvements and feature changes:
+
+-The word size of the live application is now shown in the splash screen.
+-Live is now showing the email address of the currently authorized user account in the ""About"" window.
+-Improved the authorization dialogue when launching live as a trial version.
+
+Bugfixes:
+
+-Fixed a bug Which could cause a ""memory corruption error"" when launching Live.
+-Fixed a memory leak Which could occur when using the ""Complex"" warp mode.
+-The Session View selection frame of the APC40 or Launchpad could get stuck after deleting scenes or undoing the creation of scenes.
+-Live device parameters would no longer update correctly after deleting a Max for Live device Which was mapped to that parameter via live.remote ~.
+-Fixed a problem with the engine, Max for Live, Which would cause Live to freeze when setting an audio buffer size smaller than 21 samples.
+-Fixed a graphical glitch in the Session / Arrangement View amoeba after toggling views (mixer, crossfader, etc.).
+-Fixed to a problem with the Windows installer Which could lead to incomplete installation on some computers. Symptom: The Live application would not launch at all and an error message ""The application has failed to start due to a side-by-side configuration error"" would be shown instead.
+-Under Certain conditions, the playback position in audio clips was incorrect after changing clip start markers in unwarped clips and then re-enabling 'warp'.
+-Fixed a bug Which Prevented some VST plugins stored in the OS X system library folder to show up in Live's browser."
+[V],sourav11,2013-01-14T20:28Z,thanks for description.
+,Lust3rX,2013-01-20T02:55Z,"surprise surprise, doesnt work"
+,Lust3rX,2013-01-20T02:57Z,"Nvm, works, but u need to run with Crack>>Authorizelive8xx.auz. Shudda included that in the description"
+,mlarrazabal,2013-01-29T19:43Z,"Hey, i installed and copied the crack file to the instalation folder and then ran the crack and it didnt work, any help?"
+,ganglyguy420,2013-02-06T11:34Z,Is this just the installer or does it come with sounds?
+,ganglyguy420,2013-02-07T05:19Z,There is just ableton Live in the folders...
+,wizardrei,2013-03-04T04:13Z,Does this work with Windows 8?
+,evanharte123,2013-03-08T16:42Z,"This is horse crap. Description for installation is incredibly vague. When paste the crack into the installation folder, it still asks you to authorize when you open ableton... It also does not install a desktop icon so how can you run it from the desktop icon? Don't download this if you don't want your bloody time wasted."
+,PRATTZLE,2013-03-22T10:00Z,"1. Install software, don't open when complete. Just waste of time
+2. Navigate to ProgramData by hitting the window key and r at the same time. In that window type %programdata%
+3. In that window, go to the folder that says program. Move the Ableton Live 8 application to desktop.
+4. Drag the Ableton Live 9 application from the ""cracked"" folder into the old place.
+5. Move the Authorize file into there too.
+6. Double Click on the authorize file, ableton will open, and you are all set and activated.
+
+(:"

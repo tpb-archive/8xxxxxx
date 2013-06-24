@@ -1,0 +1,31 @@
+This is mod what you waiting for, MCForge Mod. Minecraft Forge is an API providing extra modding capabilities. These capabilities have been added to provide support for the different mods using the Forge. As of today, the forge contains. If you want to installed the Minecraft Forge API / compatibilty layers. You only need to do this once for all mods requiring it. Note that certain mod may include Minecraft Forge in their code, in which case you donΓÇÖt have to install the forge, but itΓÇÖs no harm to add it on top of the existing installation. Want to install and download this Minecraft Forge 1.4.7 API ?
+
+===========================================================================
+Minecraft Forge 1.4.7 API Features
+
+    Infinite terrain and sprite indexes
+    Support two-pass rendering
+    Custom redstone connection direction
+    Override block replacement/deletion
+    Secondary properties for block (isNormal, isReplaceable, isAir, isBurning)
+    Allow an item to have the first callback on a mouse click
+    Custom explosion resistances by block and direction
+    Custom filled buckets
+    Custom armors
+    Modification of list of mineable objects
+    Advanced configuration files
+
+============================================================================
+
+Thank to SpaceToad for makes this awesome Minecraft Forge 1.4.7 API Mod.
+
+For Windows users, you just have to run install.cmd. If youΓÇÖre on linux, you need to copy files and apply patch manually for now, let me know if you got any trouble there. A install.sh for linux users too is on the way, but in the meantime, let me know if you have any setup problems.
+
+============================================================================
+Minecraft Forge 1.4.7 API Mod Installations for Minecraft 1.4.7
+
+    Download Minecraft Forge 1.4.7 API
+    Open your minecraft.jar
+    Drag the mod loader files over
+    Delete META INF
+    Drag over forge files

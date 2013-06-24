@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,anarchist9027,2013-01-14T02:34Z,"Murphy78, take a look at this so you can get the 64-bit recovery in a 32 / 64 bit AIO: http://forums.mydigitallife.info/threads/40435-Creating-a-MultiBoot-Windows-8-WinPE-Disc
+
+Good job man, keep up the good work"
+[V],murphy78,2013-01-14T03:07Z,"great info anarchist9027.  Honestly I have more concerns about the x64 upgrade being missing.  I know that Josh Cell Softwares guy made like an extra sources directory for the x64 sources files, and then pointed most of the setup64 program at that directory and just left install.wim set to the regular sources directory.
+
+I'm no disassembler.  I would totally screw it up if I even remotely tried to disassemble and recompile the x64 setup.exe.
+
+That x64 boot recovery is good info.  Next go round I'll try and see if I can't incorporate at least that.
+
+Thanks for the heads up bud..."
+[V],murphy78,2013-01-14T03:19Z,"I know a lot of people are anxious about my Win7AIO, and I share your enthusiasm; but please be patient. My brain is fried right now... I need a day or two before I grind out the win7.  I just spent the last 2 days working on these 3 aio releases getting all the dism command scripting and testing down where I'm perfectly happy with the result. I have tightened my tolerances on glitches.  I really want everyone's Windows versions to be as flawless as I can make them."
+,anarchist9027,2013-01-14T04:37Z,"The AIO recovery works really well. I actually have the recovery based off DaRT 8 so you get standard recovery (both 32 & 64 bit) along with the Microsoft Diagnostic tools (Based off my my Multiboot method). If you want to collaborate with me, I can upload the recovery part. Just PM me on MDL. I look very forward to maybe collaborating with you in the future Muphy78."
+,extracube,2013-01-14T04:53Z,Nice.  Looking forward to your future Win 7 AIO.
+,absalom,2013-01-14T04:59Z,"I am using your Win 8 AIO WMC Oct edition (works Flawless!) plus i am also waiting (PATIENTLY) for Win 7 AIO.  Take all the time you need, your contributions are all that i look for regarding Operating Systems, Thanks and God Bless!"
+[V],murphy78,2013-01-14T05:45Z,"hell yah anarchist 9027, I'll pm you over on MDL for that.  I haven't completely wrapped my mind around the different boot efi things or what they all mean, which files you have to rename, etc.  Perhaps you can take this AIO, and help explain exactly which files you would replace/add/rename to enable the recovery.
+
+I'll bug you over there bud...."
+[V],murphy78,2013-01-14T08:40Z,"kmsnano is included, yes. it's in the lananov11.zip file."
+,nirmal_niks7,2013-01-14T10:41Z,"thnx for u r upload.
+can u tell the complied date and build of u r AIO."
+,anarchist9027,2013-01-14T16:08Z,I PM'd you back on MDL Murphy78. I hope you enjoy the screen shots.
+,mario_91,2013-01-14T21:00Z,"is this good, safe....?"
+[V],murphy78,2013-01-14T22:20Z,"libertycity
+
+Pro is my favorite edition as enterprise just seems to add business stuff.
+
+The differences between retail pro and provl are the following:
+1) pro has upgrade to prowmc option (Non-KMS legit ppl)
+2) provl has unattended setting to auto-set the product key to the kms key and does not have the upgrade to prowmc option.
+
+Other than those differences, I have not noticed any difference.  I haven't gone through with a file checker and checked all the file hashes to see if any are different.
+
+Right now, since kms activation is the only method of legit activation that we can do, since it has not been cracked, I would recommend using pro or provl.  You might have less problems with office activation if you use provl, I'm inexperienced with office2013 right now."
+,mario_91,2013-01-15T00:30Z,can someone please tell me what is the best version to instal?
+,jhoneyeng,2013-01-15T09:25Z,it will take dvd to burn.....bt i want to know how to make bootable disc..so i directly install.. 4m disc......any body knows the method...or software to burn this type of file
+,mario_91,2013-01-16T03:59Z,"thank you murphy78, it works!!! im using win 8 pro lv rigth now."

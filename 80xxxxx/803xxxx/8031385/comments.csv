@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,luky4,2013-01-17T13:09Z,"Patch no OK.
+Please tutorial install.
+
+Thanks!"
+[V],nikita200,2013-01-17T14:38Z,"@luky4
+
+Read the info in the Patch:
+
+- Install program and copy patch to program folder.
+- Stop the Startdock Start8 service, change its startup mode to 'Disabled' and re-log in, then click the 'Patch' button.
+- Start back the service and re-log in once again."
+,luky4,2013-01-17T18:29Z,"@nikita200
+
+Patch not work, trial ver."
+,jacob5800,2013-01-17T22:54Z,did  not work for me too so  use power shell lot more easy  thanks anyway
+,NaqiAliKhan,2013-01-18T00:22Z,"1:- Install Program
+2:- Goto Services by typing Services.msc on run or from Task Manager, Stop Stardock Start8 Service and also Disable it in Startup Type.
+3:- Logoff and Login Again.
+4:- Apply the Patch Undo the Step 2 in Services Change back the Startup Type to AUTOMATIC and Start the Stardock Start8 Service again.
+5:- Logoff and Login Again."
+,moviekil,2013-01-18T01:54Z,"it work for me just fine, just follow the instructions as it is and it should work just fine"
+,charan99,2013-01-18T09:59Z,not working.. crack needed.. :-(  
+,Shaamaan,2013-01-18T10:17Z,"The patch doesn't work. It ""patches"" the files, but the application keeps telling me my trial has expired."
+,free3dom,2013-01-18T14:09Z,"Thanks, it works great :)
+
+For those having trouble, try the following:
+1) Uninstall existing version completely, and delete the ""ProgramData/Stardock"" folder.
+2) Reboot or Logoff/Logon.
+3) Now follow the steps provided above.
+NOTE: after installing, close the window that shows up - do not click TRIAL, click the red X :)
+Also, be sure to block the application with a firewall."
+[V],nikita200,2013-01-18T15:53Z,"I haven't tested for 64 bit.
+
+32 bit it's right.
+"
+,charan99,2013-01-18T20:18Z,"Hi guys,
+     first of all Thank u @nikita200..
+
+    Unfortunately for those who use Windows 8 pro 64bit, this torrent wont work.
+ so google it for,  
+ **   Stardock Start8 1.1 Final “Fixed”  **
+"
+,turpulat,2013-01-19T03:53Z,"Where is this ""fixed"" version of which you speak?"
+,danwat1234,2013-01-24T08:15Z,"Above comment from ""not.me"" is spam. It's a link to download 'GoForFiles'."
+,Deimos4,2013-02-19T23:37Z,Doesn't work with Win 8 Pro 64-bit.

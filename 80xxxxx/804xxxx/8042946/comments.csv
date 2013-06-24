@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,jlassas,2013-01-23T11:58Z,Verkar vara något fel i DVD-strukturen (enl. CloneDVD). Jag får bara första avsnittet att funka.
+,dmkh,2013-01-24T16:35Z,"@jlassas
+konstigt, har testat att packa upp iso:n med winrar och köra filerna i video_ts-mappen, funkar för mig, bl a i vlc. Funderar på att rippa nästa säsong direkt till mkv alt mp4."
+,jlassas,2013-01-24T19:40Z,"Aha, själv kör jag med Virtual Clonedrive (ett gratis systerprogram t. CloneDVD) och ""mountar"" den direkt på det viset. Jag ska testa med winrar och se om det funkar bättre.
+
+Jag kan rekommendera VidCoder (http://vidcoder.codeplex.com/). Programmet rippar t. mkv/mp4 (mkv är bäst) och man kan ""baka in"" valbara undertexter. Då jag sedan ser på filmen, så kan jag välja vilket (eller inget) språk jag ska läsa."
+,jlassas,2013-01-25T07:34Z,"Har  nu provat att packa upp filen m. olika program och jag kan nog se avsnitten (vlc är mitt val) MEN bilden ""fryser till/hoppar"" för en bråkdels sekund på vissa ställen i avsnitten. Det är trol. orsaken till att rippningen misslyckas för mig.
+
+Tror du att du kan tänka dig att seeda på nytt (som mkv-filer)?"
+,dmkh,2013-01-25T17:19Z,"Hmm... försökte från början rippa skivan (och andra skivor) med både DVD Shrink och Handbrake - som VidCoder använder (tack för tipset, verkar vara ett riktigt bra skal!) - men får läsfel från dvd-läsaren. Det enda program som klarade att rippa var BDlot (som rippar till .iso) så jag trodde att kopieringsskydden kanske var för nya för d.shrink/h.brake. Nu gissar jag på att min läsare suger... Ska försöka lösa det. The IT Crowd MÅSTE spridas :)"
+,jlassas,2013-01-26T06:50Z,"Det bästa program jag vet som klarar av kopieringsskydd är AnyDVD (http://www.slysoft.com/sv/). Rekommenderar det starkt!!!
+
+""Problemet"" med det? Det är inte gratis!"
+,Playit96,2013-01-29T04:43Z,"Why the hell don't people use DVD Decrypter? Even if it's old, it still makes perfect rips, not this f***ed up structure. Really, I don't understand people. Why bother with all kind of strange programs, and end up with invalid file structure, , corrupted video, non-standard disc images and so on? 
+
+The file structure is broken. VLC cannot play the resulting files, and there's no guarantee that burning the images to DVD-R will result in functional discs, which can be played without having the machine choke at some random time.
+DVDShrink doesn't recognize the .ISO files, either. Basically, the image files do not respect the standard.
+
+Whoever does the DVD ripping has no idea how the DVD structure works. Worse still, they don't take the time and patience to learn to do things properly. Garbage in, garbage out!
+
+I've noticed this phenomenon (piss-poor ripping and DVD encoding) is becoming the norm for the DVDRs posted from Northern Europe. Either there's some strange copy protection employed locally, or the people who rip discs consistently use bad software tools (or have no idea what they're doing).
+
+It's very clear that, instead of using the old but reliable DVDDecrypter (perhaps in conjunction with AnyDVD, in case there's a more recent and/or stringent copy protection system present), the rippers used some shitty piece of software unsuitable for the job. Whether they deliberately did so to restrict access or not, it remains an open question.
+
+Make a clear distinction between rippers (like DVD Decrypter and, to some extent, DVDFab!) and compressors (like DVDShrink and the rest). Clone DVD is good for stripping extras, and that's about it. 
+
+Garbage software - like Virtual Clonedrive is just that: garbage. Stuff for noobs and idiots. 
+
+In conclusion: If you do something, do it right. Otherwise, you're just causing everyone else frustration, and waste their time and bandwidth with broken files and shitty video. "
+,Playit96,2013-01-29T04:45Z,"Why the hell don't people use DVD Decrypter? Even if it's old, it still makes perfect rips, not this f***ed up structure. Really, I don't understand people. Why bother with all kind of strange programs, and end up with invalid file structure, , corrupted video, non-standard disc images and so on? 
+
+The file structure is broken. VLC cannot play the resulting files, and there's no guarantee that burning the images to DVD-R will result in functional discs, which can be played without having the machine choke at some random time.
+DVDShrink doesn't recognize the .ISO files, either. Basically, the image files do not respect the standard.
+
+Whoever does the DVD ripping has no idea how the DVD structure works. Worse still, they don't take the time and patience to learn to do things properly. Garbage in, garbage out!
+
+I've noticed this phenomenon (piss-poor ripping and DVD encoding) is becoming the norm for the DVDRs posted from Northern Europe. Either there's some strange copy protection employed locally, or the people who rip discs consistently use bad software tools (or have no idea what they're doing).
+
+It's very clear that, instead of using the old but reliable DVDDecrypter (perhaps in conjunction with AnyDVD, in case there's a more recent and/or stringent copy protection system present), the rippers used some shitty piece of software unsuitable for the job. Whether they deliberately did so to restrict access or not, it remains an open question.
+
+Make a clear distinction between rippers (like DVD Decrypter and, to some extent, DVDFab!) and compressors (like DVDShrink and the rest). Clone DVD is good for stripping extras, and that's about it. 
+
+Garbage software - like Virtual Clonedrive is just that: garbage. Stuff for noobs, kiddies and idiots. 
+
+In conclusion: If you do something - like ripping and posting stuff on the 'net - do it right. 
+
+Otherwise, you're just causing everyone else frustration, and waste their time and bandwidth with broken files and shitty video. "

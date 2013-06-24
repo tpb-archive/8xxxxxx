@@ -1,0 +1,31 @@
+FUBAR DeskFiller 2013
+---------------------
+
+A new version of this annoying little application!
+
+This application will flood the users desktop with hundreds and hundreds of small and useless files.
+
+Whenever any user logs into Windows, this application will run.
+It will create a random amount of files; between 32 and 600. And then it will force a logout of Windows.
+
+Windows will effectively become useless, and all users will be prevented from logging into the system.
+Furthermore, the desktop will have so many files, that Windows will stop responding - preventing the user from deleting the files.
+
+
+As always, there is a way to remove the application:
+
+1. Boot up in Safe-Mode.
+
+2. Open the Registry Editor (regedit.exe).
+
+3. Browse to this key:
+   HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+
+4. Delete the value named "FUBAR DeskFiller 2013".
+
+
+Although this application can be quite easily removed, the user will have plenty of "fun" trying to clean up the desktop...
+
+
+
+/Ubehage

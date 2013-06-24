@@ -1,0 +1,29 @@
+HASH for ZIP:
+File : LaNanov10.1_Beta.zip
+Size : 21,41 MB
+CRC32 : 24d4deae
+MD5 : 69cb748b99af8a97487f9138b5864a08
+SHA1 : 7adceaee752159d9956d2d26da6917b70fc1303f
+
+HASH for EXE:
+Datei: KMSnano.exe
+CRC-32: b5ad93b1
+MD4: 018b7a8c79a6e89691be3abffbb75c9d
+MD5: f96825d32045f37892df9e1006e737e0
+SHA-1: f1ecb49957f4cf919b56df7c7a460cd4fe920e65
+
+KMSnano v10.1 Automatic Beta
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+Important: Better disable the automatic windows update, we never know.
+
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+
+1. Double-click on KMSnano.exe.
+2. Wait for the files to decompress.
+3. Wait for activation process to finish.
+4. Done.

@@ -1,0 +1,70 @@
+ http://s13.postimage.org/tfj3iczyf/vlcsnap_2013_01_20_02h38m08s4.png 
+http://s13.postimage.org/uvq0mrdhj/vlcsnap_2013_01_20_02h36m54s41.png 
+http://s13.postimage.org/jyooxzqpz/vlcsnap_2013_01_20_02h37m17s24.png 
+http://s13.postimage.org/5jbdcu32f/vlcsnap_2013_01_20_02h37m32s167.png 
+http://s13.postimage.org/81x2diosn/vlcsnap_2013_01_20_02h37m40s1.png 
+http://s13.postimage.org/kj3q0ojyf/vlcsnap_2013_01_20_02h38m01s208.png 
+http://s13.postimage.org/w38jspszr/vlcsnap_2013_01_20_02h40m57s185.png 
+http://s13.postimage.org/5si4u8umf/vlcsnap_2013_01_20_02h44m46s32.png 
+http://s13.postimage.org/il68u6687/vlcsnap_2013_01_20_02h45m15s218.png
+
+
+Format                                          : Matroska
+Format version                                  : Version 2
+File size                               : 1.99 GiB
+Duration                                        : 3h 9mn
+Overall bit rate mode                   : Variable
+Overall bit rate                                : 1 502 Kbps
+Encoded date                                    : UTC 2013-01-20 10:54:04
+Writing application                     : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                         : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                              : 1
+Format                                          : AVC
+Format/Info                             : Advanced Video Codec
+Format profile                                  : High@L4.1
+Format settings, CABAC                          : Yes
+Format settings, ReFrames               : 3 frames
+Muxing mode                             : Header stripping
+Codec ID                                        : V_MPEG4/ISO/AVC
+Duration                                        : 3h 9mn
+Bit rate mode                           : Variable
+Bit rate                                        : 1 375 Kbps
+Maximum bit rate                                : 2 500 Kbps
+Width                                   : 1 280 pixels
+Height                                          : 720 pixels
+Display aspect ratio                            : 16:9
+Frame rate                                      : 25.000 fps
+Color space                             : YUV
+Chroma subsampling                              : 4:2:0
+Bit depth                               : 8 bits
+Scan type                               : Progressive
+Bits/(Pixel*Frame)                              : 0.060
+Stream size                             : 1.78 GiB (89%)
+
+
+Audio
+ID                                              : 2
+Format                                          : AC-3
+Format/Info                             : Audio Coding 3
+Mode extension                                  : CM (complete main)
+Format settings, Endianness             : Big
+Muxing mode                             : Header stripping
+Codec ID                                        : A_AC3
+Duration                                        : 3h 9mn
+Bit rate mode                           : Constant
+Bit rate                                        : 128 Kbps
+Channel(s)                                      : 2 channels
+Channel positions                       : Front: L R
+Sampling rate                           : 48.0 KHz
+Bit depth                               : 16 bits
+Compression mode                                : Lossy
+Stream size                             : 174 MiB (9%)
+Default                                 : Yes
+Forced                                          : No
+
+
+
+
+*** All Credits Goes To : =@King= and ExD  ***

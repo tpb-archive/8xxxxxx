@@ -1,0 +1,46 @@
+Windows Edition - v0.9.10.1 (MD5 : F5F14804F28009E76F0A3F7B841FDCE8)
+
+Flashtool Release Notes:
+
+* 0.9.10.1
+- Resolved a serious bug leading to a softbrick (reported on LT26 devices)
+- Added a more complete german translation (thanks papayayoghurt)
+
+* 0.9.10
+- Updated SuperSU to 0.99
+- Updated translation system to almost all application frames (from there, people who want to contribute to
+  translation will be able to.
+- Reworked menus to be more clear (too much things into Tools menu)
+- Update java to jre7u10 for both windows and linux
+- Device editor can now deal with loaders for setool unlocked / modded phones (unlocked loader)
+- When flashing, better loader detection that will prevent flashing of modded phones to fail with a verification header
+  failure. For such phones, unlocked loader must be included in the device settings. One is included for R800 devices
+  and is probably the same for all 2011 devices (tested only with R800 device ... thanks nickholtus and alejandrissimo)
+- No more application hang when flashing with debug mode on. Better debug output (more helpfull)
+- Reworked a little sin parser to better detect sin header size
+- Flashing session is now closer to what SEUS or PCCompanion do.
+- Mac release now bundled as an App inside a dmg
+- Application look and feel is back to System look and feel. So reworked UI composition to look fine on all platforms.
+  Did that to have Flashtool menu appearing in the shared menubar on MacOS
+- Resolved issues with 0.9.9 libusbx stuff under linux and tools not working (rooting for example) under windows.
+  Everything should be fine now.
+
+
+
+Introduction to Flashtool:
+Flashtool is a flashing software that can be used to :
+
+    Flash original Images (Android 1.6, 2.1, 2.3 Images)
+    Root your phone
+    Install Recovery, Busybox, custom kernels
+    Clean your Rom (remove /system/apps apps of your choice) (Be careful, unless you really know what you do, do not modify the default list. This can make your phone stuck at the SE Logo)
+    Clear dalvik cache
+    Optimize (install of JIT v2) (Disabled in 0.4, will readd it as a plugin for 2.1 phones only)
+    Customize (installs apps found in the custom/apps folder of the flashtool)
+    Clean uninstalled (remove any references to system apps removed in the Clean (root needed) step)
+    Edit any text file on the device
+    Rebrand your device
+
+
+More information at http://androxyde.github.com/		
+

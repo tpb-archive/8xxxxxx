@@ -1,0 +1,198 @@
+﻿User Type,Username,Date,Text
+,Pruusis,2013-01-26T21:42Z,After download please keep SEEDING!
+,sebolito,2013-01-27T00:29Z,do u have assessin creed revelations?
+,Pruusis,2013-01-27T08:31Z,"no, sorry"
+,sebolito,2013-01-27T14:36Z,"didnt work in my iMac, 10.8.2, Core i5, 8 gb ram, AMD Radeon HD 6750M 512 MB"
+,simpure3,2013-01-27T16:06Z,"Don't download it, doesnt work :("
+,simpure3,2013-01-27T16:08Z,didn't work on iMac 10.6.8 3.2 GHz Intel Core i3
+,Kinopu,2013-01-27T16:59Z,It does work but its in some unknown language lol! and it crashed first mission.
+,mate123,2013-01-27T17:44Z,"works on imac intel core duo,10.6.8, but evrything is in russian or serbs leeter, so I dont undrstand shit."
+,thortin,2013-01-27T20:58Z,"Downloaded this on my MacBook Pro June 2012 and runs just fine. What i did to fix the crashing every once in a while was lower the quality to 1280x800 or something close to that. Works great otherwise. just a heads up for everyone before you download GAME STARTS IN RUSSIAN JUST GO TO THE WINESKIN AND CHANGE THE EXE FLAGS TO LANGUAGE=ENGLISH
+**NOTE**
+Cannot change in game speech or subtitles from Russian but you can change menu language and gun names to english by the above method"
+,Namdhak,2013-01-27T22:59Z,i will seed this for 20 days if you all keep seeding
+,Namdhak,2013-01-28T01:36Z,doesn/t work
+,TheLahnik,2013-01-28T04:05Z,"Does not work at all
+It just crashes after I start it up."
+,Pruusis,2013-01-28T19:18Z,"if you are complaining that it doesn't work, then you just have some low end mac's"
+,D-treyy,2013-01-29T02:40Z,ill seed this for a freaking year if someone can tell me how to atleast get the in game subtitles in english
+,TheLahnik,2013-01-29T03:13Z,"I have a Macbook Pro June 2012 as well, and it doesn't work.
+Also, when my computer virus scanned it, it said it had a Trojan virus in it, and said that it was very critical.
+I'm not trying to criticize you for anything, i'm just simply saying it didn't work for me.
+It obviously works for other people, but not for me.
+Don't get so offended jeez."
+,Pruusis,2013-01-29T10:11Z,"i am not getting offended, but i am just saying, that you should not complain or just try again"
+,Pruusis,2013-01-29T10:18Z,"D-treyy sorry, but as the original porter of this game has made it in russian, only the language can be changed, but not the subtitles, at least i haven't gotten any success."
+,D-treyy,2013-01-29T12:18Z,"By language I'm guessing you mean the menu and such? I'll keep seeding anyway though lol, I'm dying to play this game if you end up figuring anything out please let me know"
+,TheLahnik,2013-01-30T00:49Z,"Hey again!
+I re-downloaded it, and it works perfectly! =D
+Well, except for when I changed the screen resolution, and it crashes everytime haha xD
+It's not on this weird Widescreen setting, and I can't turn it back.
+I really don't wanna re-download it because well...i don't wanna xD
+But thanks anyways though! Works like a charm =)
+Except for the Russian audio, which I can't seem to change."
+,TheLahnik,2013-01-30T02:02Z,"Hey guys!! =D
+I'm literally not foolin, i got the English language to appear in the game! =D
+
+Okay so I will tell you how to do it =)
+Step 1) Go to this site, and download the torrent for the English pack. I know it say's it's for Windows, but trust me, it works =)
+
+http://gigabytezone.com/load/games/pc/far_cry_3_english_language_pack/2-1-0-1528
+
+Step 2) Right Click Far Cry 3 App, Show Package Contents > Drive_C > Program Files > Ubisoft > Far Cry 3 > Data_win32
+
+Step 3) Go into the Data_win32 folder on the English Language Pack and place the ""sound_english.fat into the Data_win32 folder of the Far Cry 3 folder and then delete ""sound_russian.fat"" file, and the ""sound_russian.dat"" file.
+
+Step 4) Go into the ""worlds"" folder on both the Far Cry 3 game, and the English Pack. Then go into the ""fc3_main"" folder for both.
+
+Step 5) Delete both the ""fc3_main_russian.fat"" and ""fc3_main_russian.dat"" files on the Far Cry 3 game. Then place the english files from the Language Pack into the folder.
+
+Step 6) Hit back into the ""worlds"" folder on both, then go into the ""multicommon"" folder, and repeat step 5.
+
+And then that's it =D
+
+If you have any questions, then just ask.
+Follow @thortin's method to get the menu's in English as well.
+
+You're welcome =)"
+,TheLahnik,2013-01-30T02:02Z,"And oh yea, to make sure the English pack is in the game.
+Start up the game, and go into ""options"" then select the ""audio"" option and see if the language says English."
+,Pruusis,2013-01-30T11:28Z,"TheLahnik Oh! I stumbled uppon that web page too, well the one with the language pack and i wanted tu put in today, but you already did it :D Less writing for me :D"
+,TheLahnik,2013-01-31T04:32Z,Pruusis Haha guesss so! xD And you're welcome!
+,always41,2013-01-31T16:38Z,"Can't get it to work here. I think that it's my video card. I read elsewhere that my card, AMD Radeon HD 6970M w/1 gig vram didn't work with the latest Wineskin port.
+
+My machine iImac12,2 Intel Core i7 w/16GB ram.
+
+Thanks for the great upload. Sadly no go for me."
+,age_c,2013-02-01T01:38Z,"2.4 GHz Intel Core i5 Mac OS X lion 10.7.5
+
+seems like a great upload, downloaded the english pack and works fine, but crashes when i try to start a game or change any settings"
+,TheLahnik,2013-02-01T02:33Z,age_c You have to have it set on the lowest settings. And you can't change any of the Video settings or else it will crash.
+,_Cakeman,2013-02-03T06:04Z,"Hi, when I click the Far Cry 3.dmg, it opens a little box with the Far Cry 3 icon. I click on that and this is what I get:
+
+ERROR! cannot write to Info.plist, there are permission problems, or you are on a read-only volume.
+
+This cannot run from within a read-only dmg file.
+
+I have no clue what to do here. Please dont tell me I waited all day long for absolutely NOTHING."
+,patwik,2013-02-05T00:06Z,I get a FarCry3 window then crash
+,D-treyy,2013-02-06T18:54Z,"@TheLahnik im downloading the pack right now, if this works you're my fucking hero :))))"
+,D-treyy,2013-02-07T01:06Z,@ThLahnik you are the man!! thank you!
+,sporkouf,2013-02-09T13:13Z,"Works great on my late 2012 mbp with lion 10.8.2
+
+follow instructions on first page to get things in english and working well"
+,man943,2013-02-15T02:23Z,"Hey I have a problem it loads up fine and everything is in english, but on the loading screen with all the faces it says cannot connect to Far Cry 3 servers and just continuously tries to log in.  Is this a problem with the actual Ubisoft servers or the torrent?"
+,Dennis23,2013-02-15T14:05Z,"I have a Macbook 3,1 Intel Core 2 Duo 2.2 GHZ with 2GB memory & Intel GMA X3100. 
+Would THIS run ???? 
+SHOULD I download this ???? 
+
+PLZ help. "
+,inon178,2013-02-16T00:48Z,"got late 2011 15"" macbook pro 6750M ATI quad core i7 2.2 GHZ it should work but when i open the game i get a black screen and that's it... PLZ help me (note that i installed the english patch and it didn't help)"
+,inon178,2013-02-16T00:50Z,denis your Mac is extremely low i whouldn't recommend you to download it 
+,joni1999pop,2013-02-18T22:09Z,"guys i know how to change the language(very easy)
+first make sure that you have the game in your applications folder. After that you right click on the game, and then go to 
+contents/info.plst and open the file.
+After you have opened the file you have to find this:
+-language=russian
+after you have found it take the russian word away and put the language you want, i have it in english
+For me it does look out like that.
+-language=english
+If you see the english word take it away and put your language
+Sorry for the bad english,sorry"
+,joni1999pop,2013-02-18T22:11Z,"from -language=russian
+to     -language=languageyouwant"
+,JJ800M,2013-02-21T10:56Z,"_Cakeman: Like every other game you have to COPY it to the harddrive (preferably the applications-folder) before you can play it.
+You are trying to open the game from a disk-image which you dont have permission to write on (you cant make ANY changes in it) which the system also told you.
+Copy and play - that is if it works for you, i got it started (with the english language pack and english menus) but there is no voice (except in the intro-movie) and it keeps on crashing within 1-2 minutes from you start level 1...
+
+Anyone got any ideas about how to make this game stable?
+I already pumped the settings down to where there is no lag.
+
+I am on a mid 2010 Macbook Pro with 2,6 Ghz I7, 4 gb ram."
+,JJ800M,2013-02-21T11:30Z,"Also - when i try to copy the game from the mounted disk-image to my computer it says (about 3,1 gb in) that some of the data cant be be copied (error code 36).
+I tried downloading the game 2 times with the same result.
+Game keeps crashing after a minute or two and i figuere its because of some corrupted data?"
+,_Cakeman,2013-02-22T01:46Z,"Hey JJ800M,
+Thanks a lot for helping me out there. I can now load up the game!
+Also thanks to joni1999pop for the help on getting everything back into the English language.
+
+I do still have one more problem before I can finally play the game...Ya see, when I try to start a new game, it of course shows the loading screen for a bit which is normal, then I see a window pop up that says something like this: We have encountered a serious problem and the application needs to shut down. 
+
+It does that every time.
+
+ So, anyone got an idea on how to fix this last problem?"
+,slowriots,2013-02-25T04:40Z,"hey, get a black screen + cursor when i start it up. when i click the cursor disappears but still no dice.
+
+haaaaalp!
+
+i'm running Lion 10.7.5, 2.4GHz Intel Core i7 processor w/ 8gb 1333 MHz DDR3 memory.
+
+thanks in advance!"
+,arschhure,2013-02-27T18:12Z,"waaah, i cant play.
+When i start, i wait 1 minute and than comes 
+------------
+""Program Error""
+The program farcry3.exe has encoutenetered a serious problem and needs to close. We are sorry for the inconvenience.
+
+This can be caused by a problem in the program or a deficiency in Wine. YOu may want to check the Application Database for tips about running this application
+--------
+PLEASE Help ME, I Want to play"
+,_Cakeman,2013-02-27T23:54Z,"@slowriots
+You have to wait a bit for the game to load. You will then see the title screen. 
+@arschhure
+Same problem I have. And were all still waiting on someone to do something about it..."
+,arschhure,2013-02-28T09:32Z,"WHY Nobody can help us ????
+PRUUSIS YOU ARE A BIG IDIOT.
+why you load up a file that crashes? I Hate you and ur mum!"
+,_Cakeman,2013-03-01T00:05Z,"First, he's not an idiot. We are lucky to even have this torrent on here. It took someone 2 weeks to figure out my problem and the language problem so just be patient. I'm sure some computer nerd will come along and fix it."
+,arschhure,2013-03-01T16:53Z,"Cakeman, he is an idiot
+Why he upload a crashed game. i hate so idiots, 7 GIB download for nothing.  
+waaaaaaaaaaaaaaah, big noobs i hate you"
+,mikeflinn,2013-03-04T10:31Z,thank u so much joni1999pop ur a legend i can finally play in english
+,Pruusis,2013-03-04T21:29Z,arschhure dafuq are you crying about you pussy!!! if your computer can't handle this game then stop yourself being an idiot you imbecile!!! F*** you budy F*** you!!!
+,maxijonson,2013-03-05T05:03Z,"Should I download?
+
+Macbook Pro OS X Mountain Lion Early 2011
+Processor: 2.3 GHz Intel Core i5
+Memory: 4 GB 1333 MHz DDR3
+Graphics: Intel HD Graphics 3000 384 MB
+
+Thanks"
+,NAF5000,2013-03-05T06:25Z,"Mac OS X 10.6.8, 2.4 GHz Intel Core 2 Duo.
+
+  Similar issue to that of age_c, wherein the game fails to properly start. Occasionally I get a message that pops up saying ""Error(-600)"". 
+  It actually worked fine for quite a while (discounting crashing every mission or so), then went into doing this. I'm having similar issues with a reinstalled version, but occasionally it will work on whichever screen (I have a monitor and a built-in one) I don't want to use."
+,mikeflinn,2013-03-05T20:58Z,it works for about 2 days and in the morning i put my usb in my laptop clicked on far cry 3 and it didnt work i kept on clicking on it but it would never play
+,rozi0351,2013-03-07T15:47Z,"Hey, can anyone help me please... 
+i have a mac mini 10.8.2.
+
+processor: 2.5 GHz Intel Core i5
+memory: 4 GB 1333 MHz DDR3
+Graphics  AMD Radeon HD 6630M 256 MB
+For most of the games it works fine, even with new games i dont have a problem..
+
+so the problem is when i start the game it just gets stuck at the sign ""FARCRY3"" ...
+i tried changing the resolution and it didnt help...
+can anyone help me please? 
+And sorry for my lack of knowledge..."
+,arschhure,2013-03-09T10:08Z,"DONT DOWNLOAD THIS SHIT - it is a VIRUS and Pruusis is a fucking hacker.
+I hate this noob. Die noob die."
+,_Cakeman,2013-03-11T21:06Z,"arschhure=biggest lier ever.
+
+But hey, I am re-downloading. Didn't work the first time, so I'm going to see about this second time. I'll let everyone know later."
+,starnez22,2013-03-12T03:40Z,"cakeman 
+
+how did it go?"
+,_Cakeman,2013-03-12T04:14Z,"Ok guys.
+I'm back and its the same as last time. 
+No fix at all. 
+Still broken. 
+Winkeskin says that FarCry3.exe has encountered a serious problem and needs to shut down. 
+I guess nobody's gonna fix this at all. 
+So I am giving up. 
+The rest of you should too."
+,starnez22,2013-03-12T04:45Z,someone help please
+,buscus,2013-03-12T13:53Z,"when you press new game it says farcry3.exe encountered a serous problem and needs to shut done, dont bother downloading"
+,Liudasbar,2013-05-15T17:12Z,"IT WORKS!!! MacBook Pro 13-inch 2011 Early, 8 gb ram, intel hd 3000, intel core i5 2.3 ghz, OS X Mountain Lion 10.8.3.
+
+NO CRASHES!"

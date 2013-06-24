@@ -1,0 +1,36 @@
+Movies : Drama : VHS Rip : English, 60mins, fairly good condition
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the Dead End Kids & the Little Tough Guys in Tough As They Come - 1942
+
+Featuring Billy Halop, Paul Kelly, Helen Parrish, Ann Gillis, Gabriel Dell, Huntz Hall, & Bernard Punsly.
+  
+http://www.imdb.com/title/tt0035461/
+
+[14:51:17] starting job
+[14:51:17] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:51:17] job configuration:
+[14:51:17]  * source
+[14:51:17]    + E:Tough As They Come
+[14:51:17]    + title 1, chapter(s) 1 to 1
+[14:51:17]  * destination
+[14:51:17]    + C:Documents and SettingsDead End KidsMy DocumentsTough As They Come.mkv
+[14:51:17]    + container: Matroska (.mkv)
+[14:51:17]      + chapter markers
+[14:51:17]  * video track
+[14:51:17]    + decoder: mpeg2
+[14:51:17]      + bitrate 8000 kbps
+[14:51:17]    + frame rate: same as source (around 23.976 fps)
+[14:51:17]    + strict anamorphic
+[14:51:17]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[14:51:17]      + pixel aspect ratio: 8 / 9
+[14:51:17]      + display dimensions: 640 * 480
+[14:51:17]    + encoder: x264
+[14:51:17]      + options: ref=2:bframes=2:me=umh
+[14:51:17]      + bitrate: 395 kbps, pass: 2
+[14:51:17]  * audio track 0
+[14:51:17]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:51:17]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:51:17]    + mixdown: Stereo
+[14:51:17]    + encoder: faac
+[14:51:17]      + bitrate: 160 kbps, samplerate: 48000 Hz

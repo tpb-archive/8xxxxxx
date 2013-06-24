@@ -1,0 +1,130 @@
+﻿User Type,Username,Date,Text
+,tralari,2013-01-20T23:59Z,"Sólo resetea el trial. Cada 15 días tienes que hacer lo mismo otra vez.
+
+Basta con borrar el archivo /Library/Preferences/Parallels/licenses.xml"
+,AhmedSheshtawy,2013-01-21T12:52Z,"@classy35 I'm using this method since the Parallels desktop 8 was released, and never got any errors, check the instruction attached with the file and the reset script."
+,Gordell,2013-01-21T13:49Z,Hi and thanks for the great upload. The reset script works with the latest version ? 
+,AhmedSheshtawy,2013-01-21T16:14Z,"@Gordell Don't use the reset script, just use the terminal code attached to get a new 14 days trial ;)"
+,lazaruzz23,2013-01-22T05:11Z,Yeah this dont work for me. I did everything it says to do.. it does reset and says it's activated but when you close the activation window. Parallel closes and when you open Parallel it goes back to the activation window and says that your trial period has ended please enter new serial code and it shows zero days left....???  Even with a clean install and fake email it still show zero days left..
+,ikdegek,2013-01-22T13:56Z,"not working, waste of time and energy!"
+,ikdegek,2013-01-22T14:32Z,"stick for time being to VMware fusion 5, fast and good enough."
+,AhmedSheshtawy,2013-01-24T15:05Z,"Ok, It works perfect, don't listen to dumb losers, if anyone stuck in any thing in reseting the app, just ask me here.
+I'm using this tweak for 2 months ago and it works perfect."
+,AhmedSheshtawy,2013-01-24T15:08Z,"@lazaruzz23 first of all quit parallels, disconnect from the internet.
+Reset the serial using the attached script, then run the terminal code, then run the script again.
+you are now ready to use parallels again, just open the app, use another fake email address and boom it works again for 14 days."
+,JeanLoque,2013-01-25T18:10Z,"(First, sorry for my English.)
+AhmedSheshtawy, I strictly followed your last procedure but I still have the same result as lazaruzz23."
+,thefog71,2013-01-25T21:34Z,"Hey, Ladies and Gents until there's no working serial shared by a good hearted pirate, I will stick to (team addicts version) or Mr. ikdegek point of view. I share with Lazaruzz23 and JeanLoque. My point don't waste time with this torrent. har har har "
+,lazaruzz23,2013-01-26T03:03Z,@ AhmedSheshtawy.. I did everything you said very easy to follow cant mess that up BUT it does the something i stated on my first post.. Maybe it worked before but no longer...
+,SrTapir,2013-02-07T08:21Z,"Is working for me:
+
+First you have to delete the license via Terminal.
+Then, you have to run the script.
+Then the magic comes in 14 days more.
+
+I love the program, would buy, but 95€ for 1 license is too steep, wiill wait for a discount, meanwhile....."
+,keblen,2013-02-07T16:19Z,"I confirm lazaruzz23's message. I followed all the steps which means : 1) disconnect Internet, 2) run the script, 3) open terminal and follow the instructions in the .rtf file, 4) re-run the script, 5) launch parallels, put a fake e-mail adress, re-connect Internet. Then, when I launch Parallels, it says ""key no longer working"". @SrTapir : if deleting the licence by Terminal is the essential step to do, can you explain it with details please ?"
+,Traven77,2013-02-11T21:34Z,"Runs perfectly, thanks mate. For anyone having issues: Disconnect from the internet. Quit Parallels entirely. Run the PD8Trial 2. Copy and paste the terminal code (""sudo...""). Run PD8Trial 2 again. Run Parallels. Reconnect to the internet. Click ""get trial"". Enter a fake name and email. Enjoy!"
+,tschui,2013-02-19T00:39Z,"What kind of password do I need to type in the Terminal. I don't have a password on my MAC?
+If I type a blank or just push the return button, it always says ""wrong password"".
+@traven77: Where do I get the PDBTrial2 from. By the way what does PDB mean.
+Thanks for your help"
+,slip111,2013-02-19T20:58Z,"I fixed the issue: for me the above instructions worked once I used a really random email. 
+
+Apparently Parallels blocks all used trial emails, so use a really unique one."
+,nare4656,2013-02-23T09:07Z,"PD8Trial 2 is not working correctly on mountain lion. 
+Shows a dialog box and then exits.
+Can anyone help me on this."
+,crucius,2013-02-26T13:44Z,"It works fine, thanks. It's not the best of solution, but it does work."
+,crucius,2013-02-26T13:44Z,"nare4656, it does that but works anyway"
+,elmanchy,2013-02-26T18:08Z,"tralari is right, just: 1) erase this file each 15 days /Library/Preferences/Parallels/licenses.xml 
+(in finder press  CMD + comma to see Finder preferences/side bar/devices and check your hard drive so you can explore it to see the /Librery folder)
+2) enter fake email@whatever.com and enjoy!"
+,thepinkbandit,2013-03-02T09:52Z,"Thanks, works fine :)"
+,Traven77,2013-03-05T00:33Z,"This was working great for a long time, but now I am experiencing the same issue as lazuruzz23 above. Any advice?"
+,sgy0003,2013-03-09T20:47Z,"ALWAYS,ALWAYS,ALWAYS:
+This Product was activated for a trial period that has now expired.
+
+Can't fix it, tried everything on the comment, tried the instructions, doesn't work. End of story.
+
+Another time and energy wasted. Thanks"
+,sgy0003,2013-03-09T20:55Z,"Still doesn't work.
+have exat same issue as lazaruzz23.
+FALLOWED all the attached instructions
+FALLOWED all the comments.
+I honestly feel like this thing is trolling me"
+,hirokazu,2013-03-12T14:00Z,"As with others, this no longer seems to work. Anyone got a solution? I noticed that my build seems to be more recent than the one here, so I wonder if this trick may have been blocked in the newer build. Maybe I'll try reinstalling the older build."
+,hirokazu,2013-03-14T12:40Z,"Alright guys! I think I've found the solution to the ""Activation has expired"" error!
+
+What you want to do is first delete the licences.xml file as before in Terminal:
+
+sudo rm /Library/Preferences/Parallels/licences.xml
+
+This clears the licence data from your computer.
+
+Now the key is to also delete a hidden preference file that we normally don't have access to in Terminal:
+
+sudo rm /private/var/root/library/preferences/com.parallels.desktop.plist
+
+**********
+
+I've taken a look in this file and there is a lot of indecipherable stuff in there, I believe four of those are some sort of hashes responsible for storing data to let the app know not to allow further trial activations or activation grace period.
+
+I suspect that it includes starting dates for trials and activation grace periods, etc because when I checked the parallels.log file, it looked like some sort of background activation process was failing about 6 days my second ""trial"" period (the app let me get another trial key after my first one expired). The app just lets you run it anyway until that current trial expired before it actually tells you that activation failed.
+
+That's my theory from what I can see, anyway.
+
+**********
+
+So once that's been deleted, those hashes would have to be generated from scratch again, allowing you to run the trial again.
+
+After you've run those two commands to remove the files, open the app again and go through the process to obtain a new trial key. You will know if it worked if the app DOES NOT QUIT after you says the trial key was successfully activated.
+
+If it only quits if the trial key activation didn't work, despite the message you get."
+,hirokazu,2013-03-14T12:43Z,"Oh, forgot to add:
+
+Let me know if you try what I describe and whether it works for you.
+
+If it doesn't, maybe there's a some extra steps involved, but I'm pretty certain there isn't.
+
+Good luck!"
+,hirokazu,2013-03-14T12:49Z,"WTF.
+
+Look at the comment count at the top of the page. Now count the number of comments on the page.
+
+I wrote a comment earlier, then added another comment with some things I forgot to mention and they both of them disappeared?
+
+How does that happen?"
+,hirokazu,2013-03-14T12:50Z,"LOL nevermind they showed up again. -_-"""
+,petehhh,2013-03-15T06:36Z,"i found a way to keep reusing it after every 14 days! 
+After you erase the license file, and you put a new email in, it'll accept it, once it accepts it, click file then new, then pick your OS! and install it. Then make sure you wait until it says will expire in 14 days, then your good! You can now use parallels! "
+,MM6661,2013-03-16T10:03Z,"i keep getting a ""non system disk or disk error"" when i try to install. Ive spent 2 days trying to fix this. PLEASE HELP."
+,gabo82,2013-03-17T00:00Z,"petehhh:
+What?
+I didn't understand a word of what you said.
+Did anybody understand petehhh ?
+Can you explain petehhh's steps a little bit better?
+Thanks."
+,thepinkbandit,2013-03-17T20:22Z,"It does work. Every 14 days you go to terminal and enter this (you can even copy and paste, it that makes you a little more comfortable):
+
+sudo rm /private/var/root/library/preferences/com.parallels.desktop.plist
+
+It's that easy.
+
+-Peace and Love"
+,elmanchy,2013-03-18T23:17Z,"Yes, not working anymore, i went to VMware http://thepiratebay.sx/torrent/7610288/VMware_Fusion_v5.0.1.825449_MAC_OSX-P2P_"
+,dlomax1115,2013-03-20T01:44Z,"Thanks hirokazi! As of 3/19/13 this still works! follow his instructions to the tee! 
+
+Also, for those w/ problems after the first 15 days, you might want to turn OFF your wifi or unplug the internet before running the two terminal commands that delete the license, or else you might get ""offline mode no longer available"" indefinitely, even after you create a new trial. Apparently something is sent to and back from their servers rendering the SW useless. Anyone else experience this? "
+,gabo82,2013-03-25T19:53Z,"hirokazu:
+Just three words for you:
+I LOVE YOU
+at last! a guy that publishes the REAL solution!"
+,lazaruzz23,2013-04-04T22:15Z,@hirokazu... You have done it finally it works.!! I thank you.!!
+,GHerber,2013-04-19T00:38Z,"Don't function anymore, but, I GET A EASY SOLUTION, Activation has expired:
+
+http://www.umetzu.com/parallels-desktop-8-trial-reiniciador/
+
+Perfect for me, I tried the .app version."
+,chaostastic,2013-04-28T22:13Z,The activation reset only works one time. At least if you're keeping your images. 

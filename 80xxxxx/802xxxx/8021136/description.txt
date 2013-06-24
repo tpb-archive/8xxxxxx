@@ -1,0 +1,36 @@
+TV : Drama : VHS quality : English, 48mins
+
+there is a glitch where the film appears to hang for a sec, this is the glitch, this file is ok, you miss a few secs in the courtroom scene.
+
+Leo B Gorcey on the Dick Powell Show 1962 No Strings Attached.
+ 
+http://www.imdb.com/title/tt0559621/ 
+
+
+[14:06:05] starting job
+[14:06:05] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:06:05] job configuration:
+[14:06:05]  * source
+[14:06:05]    + E:Tom Snyder Dick Powell
+[14:06:05]    + title 2, chapter(s) 1 to 5
+[14:06:05]  * destination
+[14:06:05]    + C:Documents and SettingsDead End KidsMy DocumentsDick Powell.mkv
+[14:06:05]    + container: Matroska (.mkv)
+[14:06:05]      + chapter markers
+[14:06:05]  * video track
+[14:06:05]    + decoder: mpeg2
+[14:06:05]      + bitrate 7980 kbps
+[14:06:05]    + frame rate: same as source (around 23.976 fps)
+[14:06:05]    + strict anamorphic
+[14:06:05]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[14:06:05]      + pixel aspect ratio: 8 / 9
+[14:06:05]      + display dimensions: 640 * 480
+[14:06:05]    + encoder: x264
+[14:06:05]      + options: ref=2:bframes=2:me=umh
+[14:06:05]      + bitrate: 396 kbps, pass: 2
+[14:06:05]  * audio track 0
+[14:06:05]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:06:05]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:06:05]    + mixdown: Stereo
+[14:06:05]    + encoder: faac
+[14:06:05]      + bitrate: 160 kbps, samplerate: 48000 Hz

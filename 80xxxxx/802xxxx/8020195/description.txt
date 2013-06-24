@@ -1,0 +1,9 @@
+From http://ubuntu-rescue-remix.org/
+
+"Version 12.04 (Precise Pangolin) of the very best Free-Libre Open-Source data recovery software toolkit based on Ubuntu is out.
+
+Ubuntu-Rescue-Remix provides a robust yet lean system for data recovery and forensics. No graphical interface is used; the live system can boot and function normally on machines with very little memory or processor power. Following Ubuntu's six-month release schedule, all the software is up-to-date, stable and supported.
+
+Ubuntu-Rescue-Remix features a full command-line environment with the newest versions of the most powerful free/libre open-source data recovery software including GNU ddrescue, Photorec, The Sleuth Kit, Gnu-fdisk and Clamav.
+
+This release features ddrutility, a new tool written by Scott Dwyer to identify files affected by unrecoverable blocks on a disk image."

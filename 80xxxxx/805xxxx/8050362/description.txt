@@ -1,0 +1,14 @@
+VMware ThinApp 4.7 Essentials
+
+Book Details: 256 pages | Publisher: Packt Publishing (November 2012) | ISBN-10: 1849686289 ISBN-13: 978-1849686280 | Format: PDF
+
+
+Book Description: VMware ThinApp 4.7 is an application virtualization and portable application creator which allows users to package conventional applications so that they are portable. VMware ThinApp 4.7 Essentials shows you how to deploy ThinApp packages in order to improve the portability, manageability and compatibility of applications by encapsulating them from the underlying operating system on which they are executed. Application virtualization improves the portability, manageability and compatibility of applications by encapsulating them from the underlying operating system on which they are executed. VMware ThinApp 4.7 is an application virtualization and portable application creator which allows users to package conventional applications so that they are portable. ThinApp eliminates application conflicts, reducing the need and cost of recoding and regression testing. In this book you will learn about how application virtualization works and how to deploy ThinApp packages. You will learn how to update and tweak ThinApp Projects before distribution. This book will then cover design and implementation considerations for future ThinApp projects. 
+
+What you will learn from this book:
+
+Concepts behind Application Virtualization, ThinApp architecture and vocabulary, Application Linking, Application packaging process and best practices. Various methods to deploy ThinApp packages. How to update your ThinApp project, ThinApp 4.7 design and implementation best practices, ThinApp troubleshooting.
+
+Approach: This book is written in practical tutorial style and it offers learning through vivid examples. Each chapter contains step-by-step instructions about everything necessary to execute a particular task. The book is designed so that you can read it from start to end for beginners or just open up any chapter and start following the recipes as a reference for advanced users. 
+
+Who this book is written for: This book will be useful to developers, System admins and consultants who want to install and manage a virtualized app environment using VMware ThinApp 4.7. 

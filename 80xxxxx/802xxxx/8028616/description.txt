@@ -1,0 +1,22 @@
+From Pluralsight.com: A Web DeveloperΓÇÖs Guide to Images
+
+Duration: 2h 39m
+Level: Intermediate
+Released: 11/21/2012 
+
+This course is meant for any web developer who wants to have a better understanding of how to properly use images on a web site. It reviews the major image formats (JPEG, GIF, PNG, WEBP, and SVG) and explains the features of each one and when each should be used. It also introduces several image editing tools from the perspective of a web developer. It demonstrates the importance of optimizing JPEG photos and how they can often be made 50-75% smaller with no reduction in quality! The course then demonstrates several jQuery plugins that really bring images to life. It shows some new image related features in CSS 3, and how to use Modernizr and fallbacks to provide these features in older browsers. There are many performance optimizations for images that can be used such as content expirations, CSS Sprites, and CDN networks. It offers practical techniques for efficiently using images with responsive web design and for high pixel density displays (like AppleΓÇÖs Retina displays). Finally, it demonstrates some really cool uses of images like DeepZoom and focus free cameras.
+
+Web developers have lots of information on JavaScript, jQuery, CSS and HTML, but very little on how to effectively use images. Now that JavaScript and CSS are often minimized and combined, images are usually the largest portion of downloads for web pages, which makes them critical to performance and userΓÇÖs satisfaction with a web site.
+
+Images are a central part of virtually every web site. Learn the various types of images and when each is appropriate. Review some useful jQuery plugins and CSS 3 features related to images. Study the performance impact of images and how to use the most efficiently. Learn how to use images with responsive web design techniques and high pixel density displays.
+
+About Robert Boedigheimer:
+Robert Boedigheimer works for Schwans Shared Services, LLC providing business solutions with web technologies. Robert has been developing web sites for the past 15 years. He is an ASP.NET MVP, an author, and a 3rd degree black belt in Tae Kwon Do. Robert regularly speaks at national and international events.
+
+The video's codec is:
+Google/On2's VP8 Video (VP80)
+Resolution: 1024x768
+audio:
+codec: Vorbid audio (vorb)
+Bitrate: 128 kb/s
+encoder: Lavc53.19.0

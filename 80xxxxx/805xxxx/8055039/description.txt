@@ -1,0 +1,72 @@
+Tool - Salival - Custom Remaster by MC Lurken
+
+
+1 - Third Eye (Live)
+2 - Part of Me (Live)
+3 - Pushit (Live)
+4 - Message to Harry Manback II
+5 - You Lied (Live)
+6 - Merkaba (Live)
+7 - No Quarter
+8 - L.A. Municipal Court (feat. hidden track "Maynard's Dick")
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 17, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 1.084
+db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.2.1 / Dynamic Range Meter 1.1.1
+log date: 2013-01-21 23:07:42
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6        0.00 dB    -8.02 dB     14:05 ?-01 - Third Eye (Live)
+DR6        0.00 dB    -7.16 dB      3:32 ?-02 - Part of Me (Live)
+DR6        0.00 dB   -10.31 dB     13:57 ?-03 - Pushit (Live)
+DR13       0.00 dB   -16.09 dB      1:14 ?-04 - Message to Harry Manback II
+DR7        0.00 dB    -9.19 dB      9:17 ?-05 - You Lied (Live)
+DR7        0.00 dB   -10.73 dB      9:49 ?-06 - Merkaba (Live)
+DR6        0.00 dB    -8.91 dB     11:12 ?-07 - No Quarter
+DR7        0.00 dB   -10.30 dB     10:54 ?-08 - L.A. Municipal Court
+--------------------------------------------------------------------------------
+
+Number of tracks:  8
+Official DR value: DR7
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

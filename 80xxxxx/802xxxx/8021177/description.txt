@@ -1,0 +1,33 @@
+TV : Biography : VHS quality : English, 32mins 30sec
+ 
+Dead End Kids Gabriel Dell & Huntz Hall on Tom Snyder's TOMORROW Show
+ 
+Gabriel Dell & Huntz Hall appear with Tom Snyder discussing their careers. Date uncertain, approx mid-late 1979 or sometime 1980 is my best guess. Gabe mentions the new film 'the Warriors', which was released early 1979.
+ 
+[12:10:24] starting job
+[12:10:24] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[12:10:24] job configuration:
+[12:10:24]  * source
+[12:10:24]    + E:Tom Snyder Dick Powell
+[12:10:24]    + title 1, chapter(s) 1 to 4
+[12:10:24]  * destination
+[12:10:24]    + C:Documents and SettingsDead End KidsMy DocumentsTom Snyder.mkv
+[12:10:24]    + container: Matroska (.mkv)
+[12:10:24]      + chapter markers
+[12:10:24]  * video track
+[12:10:24]    + decoder: mpeg2
+[12:10:24]      + bitrate 7980 kbps
+[12:10:24]    + frame rate: same as source (around 23.976 fps)
+[12:10:24]    + strict anamorphic
+[12:10:24]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[12:10:24]      + pixel aspect ratio: 8 / 9
+[12:10:24]      + display dimensions: 640 * 480
+[12:10:24]    + encoder: x264
+[12:10:24]      + options: ref=2:bframes=2:me=umh
+[12:10:24]      + bitrate: 395 kbps, pass: 2
+[12:10:24]  * audio track 0
+[12:10:24]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[12:10:24]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[12:10:24]    + mixdown: Stereo
+[12:10:24]    + encoder: faac
+[12:10:24]      + bitrate: 160 kbps, samplerate: 48000 Hz

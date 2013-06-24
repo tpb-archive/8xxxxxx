@@ -1,0 +1,46 @@
+Silver Linings Playbook (2012) DVDRip
+
+Screens:
+ 
+http://imageshack.us/a/img145/7137/36033480025578829580.jpg
+ 
+http://imageshack.us/a/img69/6016/69881254854084964673.jpg
+ 
+http://imageshack.us/a/img15/6199/75842096564108867702.jpg
+
+[General]
+Format: AVI
+Format/Info: Audio Video Interleave
+FileSize/String: 699 MiB
+Duration/String: 2h 1mn
+OverallBitRate/String: 802 Kbps
+
+[Video]
+Format: xvid
+CodecID: xvid
+Duration/String: 2h 1mn
+BitRate/String: 660 Kbps
+Width/String: 608 pixels
+Height/String: 344 pixels
+DisplayAspectRatio/String: 16:9
+FrameRate/String: 29.970 fps
+Bits-(Pixel*Frame): 0.105
+StreamSize/String: 576 MiB (82%)
+
+[Audio]
+Format: MPEG Audio
+Format_Version: Version 1
+Format_Profile: Layer 3
+Format_Settings_Mode: Joint stereo
+Format_Settings_ModeExtension: MS Stereo
+CodecID: 55
+CodecID/Hint: MP3
+Duration/String: 2h 1mn
+BitRate_Mode/String: Constant
+BitRate/String: 128 Kbps
+Channel(s)/String: 2 channels
+SamplingRate/String: 48.0 KHz
+Compression_Mode/String: Lossy
+StreamSize/String: 112 MiB (16%)
+Alignment/String: Aligned on interleaves
+Interleave_Duration/String: 24 ms (0.72 video frame)

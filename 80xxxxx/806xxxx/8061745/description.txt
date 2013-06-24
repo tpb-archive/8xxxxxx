@@ -1,0 +1,61 @@
+Naruto Shippuden Season 2 English Dubbed
+
+
+
+
+General
+
+Format                         : MPEG-4 / Flash Video
+Format profile                 : Base Media
+Codec ID                       : isom
+Overall bit rate mode          : Variable
+Overall bit rate               : ~258 Kbps
+Encoded date                   : UTC 2010-11-26 20:51:23
+Tagged date                    : UTC 2010-11-26 20:51:23
+Writing application            : GOM ENCODER (GMp4Writer 1.0)
+Comment                        : QuickTime 6.0 or greater
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 1 frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Bit rate mode                  : Variable
+Bit rate                       : ~125 Kbps
+Width                          : ~640 pixels
+Height                         : ~360 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 30.000 fps
+Minimum frame rate             : 30.000 fps
+Maximum frame rate             : 30.303 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.018
+Stream size                    : ~20.9 MiB (48%)
+Language                       : English
+Encoded date                   : UTC 2010-11-26 20:51:23
+Tagged date                    : UTC 2010-11-26 20:51:23
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Bit rate mode                  : Variable
+Bit rate                       : ~128 Kbps
+Maximum bit rate               : ~273 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : ~44.1 KHz
+Compression mode               : Lossy
+Language                       : English
+Encoded date                   : UTC 2010-11-26 20:51:23
+Tagged date                    : UTC 2010-11-26 20:51:23

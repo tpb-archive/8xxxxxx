@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+Movies : Comedy : DVD Rip : English, 8mins 44secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1931 One Good Deed
+
+David Gorcey plays the role of Sam in this short. Bobby Jordan is a member of the gang but uncredited. This is one of David's 1st film roles, he is 10 in this short.
+  
+http://www.imdb.com/title/tt0439269/
+
+[14:22:00] starting job
+[14:22:00] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:22:00] job configuration:
+[14:22:00]  * source
+[14:22:00]    + C:Penrod & Sam
+[14:22:00]    + title 3, chapter(s) 1 to 2
+[14:22:00]  * destination
+[14:22:00]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam One Good Deed.mkv
+[14:22:00]    + container: Matroska (.mkv)
+[14:22:00]      + chapter markers
+[14:22:00]  * video track
+[14:22:00]    + decoder: mpeg2
+[14:22:00]      + bitrate 9558 kbps
+[14:22:00]    + frame rate: same as source (around 29.970 fps)
+[14:22:00]    + strict anamorphic
+[14:22:00]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[14:22:00]      + pixel aspect ratio: 10 / 11
+[14:22:00]      + display dimensions: 638 * 480
+[14:22:00]    + encoder: x264
+[14:22:00]      + options: ref=2:bframes=2:me=umh
+[14:22:00]      + bitrate: 395 kbps, pass: 2
+[14:22:00]  * audio track 0
+[14:22:00]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[14:22:00]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[14:22:00]    + mixdown: Stereo
+[14:22:00]    + encoder: faac
+[14:22:00]      + bitrate: 160 kbps, samplerate: 48000 Hz

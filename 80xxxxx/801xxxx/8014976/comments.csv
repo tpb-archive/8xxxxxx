@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,dilinwe,2013-01-13T15:47Z,i got this and works like a fucking charm!
+,trilllo,2013-01-21T07:19Z,"Does not save the game.
+
+What do?"
+,trilllo,2013-01-21T07:22Z,"Nevermind, it didn't activate Xlive the first few times I started it. It just did it, can't save without logging into a profile."
+,trilllo,2013-01-22T05:29Z,Turns out if I activate PhysX xlive will not activate and thus no game saving/loading.
+,tradori,2013-01-30T17:48Z,watch this one it triggered my anti-virus.  backdoor greybird trojan.  no wonder the uploader is anonymous
+,hamood_d10,2013-01-31T12:03Z,"For Windows 8 x86 no need for this guide
+
+For people who use Windows 8 x64
+
+1- Go to ""C:WindowsSysWOW64"".
+2- Copy ""xlive.dll, xlive.dll (Security Catalogue), xlivefnt.dll, xliveinstall.dll, xliveinstallhost.exe"" to ""C:WindowsSystem32"".
+
+Now you can play using PhysX and xlive
+Because it look for these files in SysWOW64 not System32
+
+Have fun"
+,Yodan123,2013-02-01T23:42Z,How do i change the Grafics? 
+,HDSTJ,2013-02-04T04:08Z,"When I tried to run it gave me this error: ""Please insert the original disc instead of a backup (4004)"""
+,HDSTJ,2013-02-04T04:15Z,"This appears ""Please insert the original disc instead of a backup (4004)"""
+,seahawk2,2013-04-05T10:31Z,"To fix the crash :
+start game on EASY
+In Normal mode , there are chances of crash
+For those who already started game in NORMAL:
+GO TO C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Delete (make a backup) Synopsis8_SF.upk and
+Copy Synopsis0_SF.upk fromC:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+and paste it in C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Rename it to Synopsis8_SF.upk "
+,BelmontX,2013-04-12T17:41Z,"@trillo What do you mena by activate Xlive, can u explain me what to do man? Im having the same problem, and how do you deactivate PhysX? Can u help me please?"

@@ -1,0 +1,27 @@
+ASP.NET MVC is a powerful and effective framework for building maintainable and scalable web applications. In this course, author Jess Chadwick reviews the Model-View-Controller (MVC) architecture at the heart of ASP.NET MVC and shows how to create a model, execute controller logic, and interact with models via views. The course shows how to create professional-looking web pages with layouts, work with data in forms, create separate content or sites for mobile devices, and enhance your projects with AJAX. Jess also explains how to secure your site with user permissions, optimize its performance, and deploy it to the world.
+
+Topics include:
+What is Microsoft ASP.NET MVC?
+Creating your first ASP.NET MVC project
+Understanding the MVC architecture
+Interacting with models and ViewData
+Applying advanced layout techniques
+Routing requests to controller actions
+Validating user input
+Authenticating registered users
+Caching pages
+Reducing bandwidth usage with bundling and minification
+Displaying mobile-optimized content
+Simplifying a complex application with areas
+Configuring and deploying to IIS or Windows Azure
+
+author: Jess Chadwick
+subject: Developer 
+software: ASP.NET, ASP.NET MVC 4
+level: Intermediate
+duration: 3h 56m
+released: Jan 09, 2013
+
+More Info: http://www.lynda.com/ASPNET-tutorials/ASPNET-MVC-4-Essential-Training/109762-2.html
+
+Enjoy!

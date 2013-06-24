@@ -1,0 +1,13 @@
+Dear Sirs,
+
+We are ready to introduce CAERA - the CAE Results Archiver. 
+CAE codes like Ansys, Femap, Abaqus can easily generate datasets with an enormous size - up to several hundred gigabytes of data. 
+In such cases, archiving and extraction of necessary values from the dataset becomes a non-trivial task. 
+CAERA is able to compress CAE-specific datasets with a factor of 30 to 40 times, effectively outbinding conventional archivers like WinZip or WinRar.
+Such performance level has been achieved by using special algorithms toghten-up for CAE staff only. Also the decompression speed of CAERA is considerably higher.
+
+
+CAERA can be effectively used to transfer CAE studies via Internet, storing the results and operating them both on desktop and the cloud
+
+╨íurrent release is designed to work with Siemens Femap. For instalation use "instal.bat" from the Torrents
+

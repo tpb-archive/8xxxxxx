@@ -1,0 +1,132 @@
+Kompletne kursy video eTrapez wraz z zadaniami i rozwiązaniami. W skład wchodzą kursy:
+
+I Liczby zespolone:
+ 1. Wprowadzenie
+ 2. Równania zespolone
+ 3. Postać trygonometryczna
+ 4. Potęgi
+ 5. Pierwiastki
+ 6. Wielomiany
+ 7. Płaszczyzna zespolona
+ 8. Postać wykładnicza
+
+II Granice
+ 1. Wyciąganie przez nawias
+ 2. Mnożenie przez sprzężenie
+ 3. Granice ze wzorem na liczbę e
+ 4. Trzy ciągi. Sumy ciągów
+ 5. Granice funkcji - wprowadzenie
+ 6. Rozkład na czynniki
+ 7. Wzory na granice
+ 8. Granice jednostronne. Ciągłość
+
+III Pochodne
+ 1. Obliczanie pochodnej z definicji
+ 2. Obliczanie pochodnych
+ 3. Obliczanie przybliżonych wartości wyrażeń. Obliczanie stycznej i normalnej do krzywej
+ 4. Reguła de L'Hospitala
+ 5. Dziedzina funkcji.
+ 6. Asymptoty
+ 7. Monotoniczność i ekstrema lokalne funkcji
+ 8. Wklęsłość, wypukłość i punkty przegięcia funkcji
+ 9. Badanie przebiegu zmienności funkcji
+
+IV Całki nieoznaczone
+ 1. Wprowadzenie
+ 2. Całkowanie przez podstawienie
+ 3. Całkowanie przez części
+ 4. Trudniejsze przykłady
+ 5. Całki wymierne
+ 6. Całki z pierwiastkami
+ 7. Całki trygonometryczne
+
+V Całki oznaczone
+ 1. Całki oznaczone
+ 2. Całki niewłaściwe
+ 3. Obliczanie obszarów
+ 4. Inne zastosowania 
+ 5. Postać parametryczna
+ 6. Postać biegunowa
+
+VI Macierze
+ 1. Wprowadzenie
+ 2. Wyznaczniki
+ 3. Macierze odwrotne
+ 4. Równania macierzowe
+ 5. Rząd macierzy
+ 6. Równania liniowe (Cramer)
+ 7. Równania liniowe (Gauss)
+
+VII Geometria analityczna
+ 1. Wektory bez układu
+ 2. Wektory w układzie
+ 3. Płaszczyzny
+ 4. Proste
+ 5. Płaszczyzny i proste
+
+VIII Funkcje wielu zmiennych
+ 1. Pochodne cząstkowe
+ 2. Ekstremum funkcji
+ 3. Przybliżone wartości wyrażeń
+ 4. Pochodne funkcji złożonych
+ 5. Dziedzina funkcji
+ 6. Funkcje uwikłane
+ 7. Ekstrema globalne
+ 8. Ekstrema warunkowe
+______________________________________________________________________________
+
+Informacje o jakości:
+ 
+Video
+
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 31mn 45s
+Source duration                          : 31mn 45s
+Bit rate mode                            : Variable
+Bit rate                                 : 37.1 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 15.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.003
+Stream size                              : 8.43 MiB (31%)
+Source stream size                       : 8.43 MiB (31%)
+Language                                 : English
+Encoded date                             : UTC 2011-02-17 09:58:58
+Tagged date                              : UTC 2011-02-17 09:58:58
+mdhd_Duration                            : 1904711
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 31mn 45s
+Source duration                          : 31mn 45s
+Bit rate mode                            : Constant
+Bit rate                                 : 79.1 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 17.9 MiB (67%)
+Source stream size                       : 17.9 MiB (67%)
+Language                                 : English
+Encoded date                             : UTC 2011-02-17 09:58:58
+Tagged date                              : UTC 2011-02-17 09:58:58
+mdhd_Duration                            : 1903471

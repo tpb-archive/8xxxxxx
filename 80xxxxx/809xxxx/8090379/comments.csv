@@ -1,0 +1,118 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-01T07:36Z,"Enjoy people, and don't ask me to make a version that will fit on one of those cheap single-layer dvdrs. This was a lot of work, and if you can afford a computer that runs Windows 8, you can afford a dual-layer dvdr or a flash drive."
+[V],murphy78,2013-02-01T08:19Z,"These Pro VL Office 2013 versions have fixed triggers compared to the Pro VL one I had before that improperly tried to set triggerkms to only run under administrator.
+
+The trigger on this version is not only refined and well tested, I have made a runonce redundancy install from the triggerkms.
+
+Enjoy your free Pro - Office 2013 permanent activations. I have asked them to remove the old Pro VL version with the broken trigger."
+,vongos,2013-02-01T08:28Z,"thank you very much for this....i just started to download this.
+I am no pc expert here so please tell me if i am wrong. Does this mean that along with the Win8 installation you install the office at the same time as well?...and they are bothe ready and activeted? Also is activation for ever?
+
+Again thatnk you very much for all your hard work."
+,vongos,2013-02-01T08:31Z,"thank you very much for this....i just started to download this.
+I am no pc expert here so please tell me if i am wrong. Does this mean that along with the Win8 installation you install the office at the same time as well?...and they are both ready and activated? Also is activation for ever?
+
+Again thank you very much for all your hard work."
+,piddyra,2013-02-01T08:37Z,Does the activation during install of windows 8 also apply to office 2013 ? Or do you have to do it yourself when windows 8 has been installed ?
+[V],murphy78,2013-02-01T08:57Z,"It's pre-installed vongos, use the KMS-Activation index if you don't have a different activation method in mind."
+[V],murphy78,2013-02-01T08:58Z,"You can see in the activation pic, but yes it also activates the Office that is installed"
+,vongos,2013-02-01T09:22Z,thank you very much murphy you will save me a lot of time....i will your activation
+,Cyph3r19,2013-02-01T11:26Z,Thanks murphy78 :)
+,oscar_28,2013-02-01T12:47Z,"Thanks a lot man... Ur previous Upload was awesome... This wil be a successful torrent compared to other windows 8 shitty torrents, u r always rockding dude i love u man"
+[V],murphy78,2013-02-01T13:43Z,You're welcome folks... I'm using this one right now. Good stuff...
+,c4prishy,2013-02-01T13:56Z,"Just to clarify - before I use 3 weeks of internet to download this from my 3rd world country -
+Is this Windows 8 Pro AND Office 2013 Pro together in one iso?
+And if so, is Office installed during the Win install?"
+,absalom,2013-02-01T19:52Z,"Thanks for all your contributions, God Bless!"
+[V],murphy78,2013-02-02T01:36Z,"c4prishy, yes it's installed using the audit mode / sysprep method."
+,czyberx,2013-02-02T03:28Z,"ThanX Murphy, awesome upload, I'm still not true with downloading but I'll seed than for 3 days. ThanX."
+,jacqgeek,2013-02-02T05:25Z,murphy with regards to the audit mode / sysprep topic how did you create an iso of this to be able to install it from the iso...? I am looking to do this for such a long time... I am familiar with sysprep... after then creating the iso is what I am looking to do... would gladly appreciate your help...
+,jacqgeek,2013-02-02T05:35Z,murphy how did you create an iso after running audit mode / sysprep method...? I am looking at doing this for a long time... please let me know...
+[V],murphy78,2013-02-02T07:10Z,"boot into a different windows install on a different partition and capture the drive with gimagex v2.
+Then you work with that install.wim"
+,ikapman,2013-02-02T07:26Z,This download is quite slow.
+[V],murphy78,2013-02-02T08:08Z,If I see one more idiot whine about download speed I'm going to choke a bitch. It's only slow at first because it's so popular. There's nothing I can do about it. I've been seeding nonstop.
+,DeepInShriya,2013-02-02T08:30Z,If I already have windows 8 can I install Office from here. If so how?
+,c4prishy,2013-02-02T09:16Z,Thanks murphy78
+[V],murphy78,2013-02-02T10:18Z,"If you just want office, go get the proplus vl from Arkenstone:
+
+http://thepiratebay.sx/user/Arkenstone"
+,piddyra,2013-02-02T12:01Z,If I install MS visio 2013 after this would the activation also work or should I use KMSmicro or office toolkit? Thanks for your work :)
+[V],murphy78,2013-02-02T15:11Z,"It should, but I'm not sure how well they tested Visio. It checks on bootup, but I am not entirely certain the triggerkms checks visio activation. You might need to run windows_setup_kmsnano_kmsnano.exe manually for that.
+
+Even so, I don't know how well they tested visio activation. I know the certs are in the files along with a reg file to convert from retail to vl, but if one little thing is not right it won't work. If you want to save yourself some grief, try finding a vl version of visio so it doesn't have to convert."
+,JGSIV,2013-02-03T23:29Z,"Murphy, Thanks for your hard work, flawless on the installation.. I did a clean install today (February 3, 2013) with the KMS activated. All updates are current for both Microsoft office and Windows 8. Great job!! Microsoft Office shows activated in it's account settings.. Windows 8  shows PC is activated... In the same window for Windows Activation it also says below, Your license to use Windows expires on- August 3, 2013.
+My question is to you sir, What do I need to do to keep Windows 8 activated permanently. Or what do I do when it expires in six months?
+Once again great job!!"
+[V],murphy78,2013-02-04T00:35Z,"JGSIV every time you boot it will run TriggerKMS 31 kmsnano.exe
+
+Every time you boot with 30 days or less on your activation it will re-run the kmsnano activator to re-activate office and windows.
+
+Note that it is not self-encrypted like windows loader, so if you download windows defender updates, they will eventually show as a hacktool. It doesn't directly modify your system files, but you can't expect MS not to try to block this.
+
+You can change updates to manual mode and just not download future defender updates, or just allow the programs through when the updates catch up with kmsnano v19.1"
+,JL713,2013-02-04T05:11Z,ok i know this might be a noob ? but it is telling me to put the other installation disc in and windows will restart how do i go around this and ty for the dl
+,JL713,2013-02-04T05:13Z,is there something im not combining together to do it 
+,JL713,2013-02-04T05:22Z,they ask me for the other 64 installation disc can anyone help please ty
+,rdub53,2013-02-04T07:08Z,Is this usable on a daily basis? IE A lot of the features? Just curious
+[V],murphy78,2013-02-04T13:28Z,"JL713, make sure you don't have another windows install on a usb drive or dvd drive when installing this. Windows 8 likes to read from the wrong one during install.
+
+rdub53, yes it's meant to not be user-specific.
+Do whatever you want with it. just make sure to allow the activator through any security in the future. It's not self-encrypted like windows loader was for win7."
+,rdub53,2013-02-04T15:39Z,Thanks murphy. I just didn't know if the features like connecting it to accounts was safe or not. I'm just paranoid
+[V],murphy78,2013-02-04T20:43Z,"OIC, yah MS doesn't brick your account like apple does.
+
+Even if they do something to throw a monkey wrench in your stuff, you just come back here and read through recent uploads and perhaps get a kms offline activator upgrade, and you'll be good to go."
+,viren.89,2013-02-06T04:37Z,"Man , I've tried everything but still keep getting the error of ""Media drive/ drivers"" not found when I try to boot from cd/hd/bdd/dvd.
+I burned it at a slow speed and at a fast speed. Nothing works ??
+
+Other error I get if I try to just run it through My computer by double clicking it and get a random error. SPWIZENG.DLL missing. 
+
+Also would this install delete all my files or I will get an option of simply ""UPGRADE"" ??
+
+Please help"
+[V],murphy78,2013-02-06T05:42Z,viren just use a usb flash drive. go to the store and spend 20 bucks
+,viren.89,2013-02-06T15:04Z,"I have a usb stick at home , I thought it's much better to do it on a dvd. 
+
+So will this allow me to upgrade and preserve my files or it will overwrite on all my files ??"
+,maxsuser,2013-02-08T02:29Z,"Hi Murphy78, thanks for this. Is there a way to combine this and the x86 version on one installation media and we get to choose during install which one to install. I'm using an external HDD. Any suggestions?"
+,yopyop42,2013-02-08T15:44Z,hey bro i really appreciate the effort u put into all of this thanks
+,chaiyont2,2013-02-09T07:07Z,"This is the most awesome app download I have ever seen! Man, it is perfect and you even went to the trouble of explaining the potential threat from Windows Defender!
+
+This took literally a couple of clicks to install a fully up to date copy of both W8 and Office 2013. All working faultlessly! 
+
+Thank you so much for both your effort and your skill!!!"
+,Cul3r0,2013-02-11T23:53Z,murphy78 this thing is AWESOME!  I just registered with tpb just to comment and say thanks
+,viren.89,2013-02-17T19:08Z,"Thanks man, everything worked fine once I did a clean install instead of upgrading it and also used a usb stick. Thanks again"
+,abhaykv.13,2013-02-18T11:10Z,"@murphy78
+Can you please tell me which one is better usb tool, 
+the one given in torrent (WinUSB Maker)
+or 
+the one that is provided by Microsoft (Windows 7 USB/DVD Download Tool).
+
+Please, the reply would be appreciated.
+Thanks in advance."
+,abhaykv.13,2013-02-18T16:38Z,"@murphy78
+One more question.
+Can it survive updates ?
+
+Your reply would be appreciated.
+Thanks in advance."
+,abhaykv.13,2013-02-21T13:13Z,"No Words To Say..
+It's Just AWESOME..!!
+
+@murphy78
+You Are Cool Man !!
+
+Thank You Very Much For This ""Windows 8 Pro & Office 2013 Package. ""
+Thanks Again ..!!"
+,abhaykv.13,2013-02-22T07:20Z,Can I Update it ???
+,abhaykv.13,2013-02-23T09:15Z,Can I update it ??
+,MATanc,2013-03-06T23:18Z,"Hello my friend, if I need to download something, I use to download YOURS torrents because they work flawless! Congrats!
+But, in this case, it installs perfect, activation is also perfect, but i can't install Media Center...
+Should I try another download or I'm missing something?!? Best regards!!!!"
+,Bollu,2013-03-11T11:11Z,"Hi! I'll be getting a brand new laptop soon and wish to install windows 8 with office in it. I've downloaded your torrent and tried making a bootable USB with windows 7 usd dvd tool. The process works fine but at the end, it says that it was unable to make my usb drive bootable because something about ""bootsec"". I'm wondering if that message is just standard or if it means that it won't work when I try to install it...
+
+Has anyone encountered the same? Any ideas? Thanks!"
+,Parsi06,2013-04-14T13:02Z,"i am downloading your torrent using www.zbigz.com. when i resume it next time my idm showing me this error ''The website sent a web page instead of a file when IDM requested this file.....''
+Pls fix it."

@@ -1,0 +1,76 @@
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 456 MiB
+Duration                                 : 1h 19mn
+Overall bit rate                         : 805 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 19mn
+Nominal bit rate                         : 678 Kbps
+Width                                    : 720 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.098
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 19mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper Ganool (Thanks)
+
+IMDB Info:
+
+Everyone's primal fears of death and how horribly it can play out in your own mind.
+
+Director: Leigh Sheehan
+Writer: Tim C. Patterson
+Stars: Alice Darling, Ryan Corr and Penelope Mitchell 
+
+Genres: Thriller
+ 
+http://www.imdb.com/title/tt2178915/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/31330827049027411056.png 
+http://www.shotpix.com/images/29650214812744376121.png 
+http://www.shotpix.com/images/84859376821267212737.png 
+http://www.shotpix.com/images/17901767531837415386.png

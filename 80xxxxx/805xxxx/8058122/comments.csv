@@ -1,0 +1,346 @@
+﻿User Type,Username,Date,Text
+,haydenm96,2013-01-24T07:46Z,There is 91 files because the activator is UNCOMPRESSED
+,haydenm96,2013-01-24T11:14Z,I Will seed again in 12 hours...
+,luiyihn,2013-01-24T18:00Z,Downloading it! ¿It work?
+,ag_orange,2013-01-25T23:50Z,Didn't work for me...did everything you said in instrctions! -1
+,haydenm96,2013-01-26T07:24Z,@ag_orange what happened? did it show any errors?
+,neuromonkey,2013-01-27T17:25Z,biodeath2012- Link is no good. Fix?
+,ag_orange,2013-01-28T10:39Z,"@haydenm96 I did everything like you said in the instructions... it even said at the end that ""activation is successuful"" but when i checked out in Word --> Help there still stands ""Activation Required""... i tried that thing with activator twice - entered ""t"", clicked on ""yes"" and after that i've ran  ""Activation Helper x64"" and nothing... "
+,ag_orange,2013-01-28T10:48Z,Windows 7 x64
+,haydenm96,2013-01-29T20:30Z,"There seems to be a problem with the Activator! but you can download an activator from google, ill release an activator that works ASAP"
+[V],DeGun,2013-01-29T22:30Z,"KEY for OFFICE 2013 :  !!! N E W !!!
+N9JFJ-44VW2-X3J33-BXX9K-P3429 
+
+KEY for OFFICE 2010 :
+VR6XF-V9RPB-XW3PX-Y3WKV-HF9DJ "
+,lpawluk,2013-01-29T22:50Z,I found that you have to keep the KMSmicro open while you run the Activation Helper and it works fine.
+,thepouar,2013-01-30T00:16Z,GAH! It looks like Windows 8!
+,unrussled,2013-01-30T01:11Z,"I need help please! 
+In a quick verson, my Microsoft Office is installed on my "":D"" drive. I cant install on on my :C drive because its a 30gb SDD and its practically full. 
+When I use the activator it says in cannot find a specific file, but its because its looking in the C: drive! 
+Is there anyway to change this so it looks in the D drive instead of the C?
+Thanks in advance!"
+,jeffknight84,2013-01-30T02:29Z,Activator works fine on Windows 7. IP address should be 127.0.0.2 (not 127.0.0.1 or not localhost)
+,FSuggs,2013-01-30T03:38Z,Worked fine for me. Wasn't even prompted for a key.
+,n00py23,2013-01-30T05:33Z,"+1 to Jeffknight...change the ip address to .0.0.2 if you're having problems activating.
+
+Activation reports status LICENCED remaining grace 180 days
+Do we need to keep the activator for use again in 6 months?"
+,naiceface,2013-01-30T19:45Z,"Hi,
+I own a legal copy of Windows 7 x64. Will using this activator f**k up my license? Thanks."
+,naiceface,2013-01-30T19:59Z,"Hi,
+Will using the activator invalidate my original Windows 7 x64 key?
+Thanks."
+,haydenm96,2013-02-01T09:30Z,"TO ALL: Keep KMSmicro open when activating, then change the IP to 127.0.0.2 and it works...
+
+NO IT DOESNT IVALIDATE YOUR OS!"
+,naiceface,2013-02-01T17:21Z,Thanks haydenm96! I'll try it tomorrow and report back.
+,naiceface,2013-02-02T12:59Z,"Thanks again. Everything is working perfectly, even got 11 updates. Had to use the ""charge"" function in the activator since the KMSmicro count was too low (1 instead of the required 4)"
+,neko_bh,2013-02-04T01:02Z,"done all you wrote, KMSmicro is on, changed server to 0.2. but getiing error code 0xC004F038 and product is not activated. Any help thanks"
+,vasanth,2013-02-05T14:48Z,Worked with 127.0.0.1. (180 days) only thing is need to increase kms count. thanks..
+,GoldenPipewrench,2013-02-06T05:28Z,"127.0.0.2 works for my windows 7 i5.
+Virus scan is clean. Thanks haydenm96!"
+,Crusnikk,2013-02-08T06:58Z,it says no installed product keys detected... did i do something wrong?? can some1 help me please. I ran the kms and sync'd the time and ran the activate help. nothing. 
+,Ashy999au,2013-02-09T23:47Z,Still getting the error with the Activation helper even when you try 127.0.0.1 or 127.0.0.2
+,Eskarinna,2013-02-10T10:58Z,"This is what I did.
+
+Install Office 2013 (mine x64)
+Run KMSmicro
+Run Activation
+
+-----
+
+Wait until is intalled (close setup)
+Wait until KMSmicro finish loading
+
+-----
+
+KMSmicro screen -> T
+Yes to all. (It will synchro your timer)
+LEFT IT OPEN
+
+-----
+
+Go to activator
+Office: IP 127.0.0.2
+Clear Office KMS
+Wait to finish
+
+------
+
+On Activator go to Charger Tab
+Charge Office 2013 -> Wait to finish (3 success messages)
+
+------
+
+Go to Office tab again and press Activate Office 2013
+
+-------
+
+Sorry for the long reply. It worked for me. Leaving this as tutorial future reference."
+,Rajhane,2013-02-10T18:57Z,"This doesn't work for me ... 
+
+I can't ""Clear Office KMS""
+And I cant ""Charge Office 2013"" 
+
+
+Anyone have any suggestions? and I left the ""KMSmicro screen"" open throughout everything ...."
+,babysu,2013-02-10T23:44Z,"I can't run KMSmicro. Firewall is off and connected to Internet. Screen flickers but then goes back to Windows.  There is no KMSdebug.cmd in the quemu file, as per instructions.  Any advice?"
+,babysu,2013-02-10T23:53Z,still can't get to KMS screen...
+,feezlol,2013-02-11T07:32Z,seed please...
+,feezlol,2013-02-11T09:09Z,i cant activate for first then i follow Eskarinna instruction n work. tq!
+,babysu,2013-02-11T21:37Z,"YES! Problem solved!  I obtained a KMDdebug.exe from another bittorrent and ran and opened up KMSmicro to syncronize time server.  Afterward, followed instructions posted by Eskarina and it worked!  Thank you!"
+,Deadl.y,2013-02-12T02:08Z,"Followed instructions from Eskarinna, works like a charm. "
+,oldrocks,2013-02-12T05:56Z,Charge Office KMS > Failed to get activation response.
+,merlionH,2013-02-13T16:22Z,"work perfect, just follow the directions from Eskarinna, thank you for the great job"
+,dalc789,2013-02-16T22:47Z,"Thanks Eskarinna, got it working.  Anyone know if it's okay to let it download updates?"
+,TandyFred,2013-02-17T14:32Z,"Thank You ""haydenm96"" for Office 2013 and Thank You ""Eskarinna"" for instruction for activation. Work on my Win7 x86."
+,bjo0rn,2013-02-17T15:50Z,Seems like the Activator assumes default install diractory. So don't customize!
+,TandyFred,2013-02-17T20:56Z,"@dalc789, Yes, you can update Office 2013 after activation. I triied and I didn't have problem."
+,chriscrash,2013-02-18T13:02Z,is this only english ver.? i need spanish or multi at least
+,blueblud,2013-02-18T14:00Z,"@babysu: I downloaded this torrent and I too can't find the KMSdebug.cmd file. Can you please provide me with the link of the torrent file, from which you got the KMSdebug.cmd file?"
+,RottenOne,2013-02-19T00:31Z,@babysu @blublud Ditto - can't find KMSdebug.cmd in this torrent or other.  Someone please let me know where I can get KMSdebug.cmd
+,blueblud,2013-02-19T05:16Z,I would really appreciate it if someone could give me the link to a torrent that contains KMSdebug.cmd file. I've been searching for the last 2 days with no avail. Thanks in advance!
+,DNRchist,2013-02-19T09:20Z,"I did exactly what Eskarinna instructed, and it works perfectly! Thanks so much!"
+,Hassaan2013,2013-02-19T10:24Z,It is not working for me. Can anybody guide me?? DNRchist..
+,znurven,2013-02-20T01:53Z,Thanx... works fine ;) +++++
+,Scanlia,2013-02-20T09:20Z,Following Eskarinna's instructions worked perfectly for me!
+,PyroTheGreat,2013-02-20T18:33Z,"Heya! 
+
+I followed the instructions and it seems to work just fine. 
+I'm a bit worried about the 6 months grace period. 
+What would happen if you forgot about it? Would it deactivate your office again? Do you have to keep running this tool every 6 months? 
+
+thanks for uploading :) "
+,xavi3r666,2013-02-21T19:38Z,"Hi everybody!
+I just wanna share this trick which helped me to activate my office 2013.
+
+1. get a copy of any office 2010, as well as any 2013 here in TPB office account> about office.
+
+8. Done, now you can see it is activated. I haven't log in in the office program, and I do not know if by doing this might cause an error in activating office, so I suggest don't log in unless you want to do it by yourself! ;)
+
+I hope this can help u as to me. I've got win 8 64 on my pc, this lil trick happened to me the same way when I had office 2007 and I wanted to upgrade to office 2010. I wonder if you can also do this by installing first office 2007 then office 2013. 
+Good luck everybody and long live TPB "
+,gizmobently,2013-02-21T22:47Z,"To xavi3r666,
+
+Your complete post didn't come through. 
+Can you repost it for us to see?
+
+Thanks to uploader for sharing this.'"
+,xavi3r666,2013-02-22T04:48Z,"Fucking windows.
+Sorry everybody, my previous comment wasn't complete.
+
+Hi once again.
+
+I came here to share this activation method which helped me to activate both office 2010 and 2013.
+
+1. U need to have both office 2010 and 2013, u can get it here obviously :)
+
+2. First of all, install and activate office 2010, then open any file in order to save the configurations about updates ( I usually don`t install updates).
+
+3. After doing this, go to your folder where u have office 2013 and install it. 
+It will ask you if u wanna update, just click ""OK"" or ""continue"". Wait until the installation finish.
+
+4. After the office 2013 installation has finished, it will ask you to reboot. After rebooting,  try to open any office file, just to be sure the installation is correct.
+
+5. Another reboot might be necessary after u open your office file.
+
+6. Once again after reboot open the office file, go to: 
+File>Office account>About Microsoft office. There you can notice your office is already activated. 
+
+7. Enjoy it. 
+
+IMPORTANT: I didn't logged in with my office account (and I would never) so I am not sure if this makes any important change in order to activate your office. But u are welcome to try this on your own risk.
+
+As I said b4, this helped me to activate office 2010, but I started to install office 2007 first and then made the upgrade to office 2010 following the same method.
+
+Hope this can help to everybody
+
+Long live TPB "
+,xavi3r666,2013-02-22T04:50Z,"Fucking windows.
+Sorry everybody, my previous comment wasn't complete.
+
+Hi once again.
+
+I came here to share this activation method which helped me to activate both office 2010 and 2013.
+
+1. U need to have both office 2010 and 2013, u can get it here obviously :)
+
+2. First of all, install and activate office 2010, then open any file in order to save the configurations about updates ( I usually don`t install updates).
+
+3. After doing this, go to your folder where u have office 2013 and install it. 
+It will ask you if u wanna update, just click ""OK"" or ""continue"". Wait until the installation finish.
+
+4. After the office 2013 installation has finished, it will ask you to reboot. After rebooting,  try to open any office file, just to be sure the installation is correct.
+
+5. Another reboot might be necessary after u open your office file.
+
+6. Once again after reboot open the office file, go to: 
+File>Office account>About Microsoft office. There you can notice your office is already activated. 
+
+7. Enjoy it. 
+
+IMPORTANT: I didn't logged in with my office account (and I would never) so I am not sure if this makes any important change in order to activate your office. But u are welcome to try this on your own risk.
+
+As I said b4, this helped me to activate office 2010, but i started to install office 2007 first and then made the upgrade to office 2010 following the same method.
+
+Hope this can help to everybody
+
+Long live TPB "
+,xavi3r666,2013-02-22T04:52Z,"I forgot to thank to haydenm96. 
+Thanks by the torrent and by sharing it!"
+,xavi3r666,2013-02-22T04:57Z,"Thanks to haydenm96 by sharing this.
+We really appreciate it."
+,xavi3r666,2013-02-22T05:05Z,"Thanks to haydenm96 by sharing this.
+Nice torrent!"
+,PHASEpro,2013-02-22T07:43Z,"I used Eskarinna's method. W7 x64 Worked 100%. Follow it exactly!
+
+""Eskarinna at 2013-02-10 10:58 CET:
+This is what I did.
+
+Install Office 2013 (mine x64)
+Run KMSmicro
+Run Activation
+
+-----
+
+Wait until is intalled (close setup)
+Wait until KMSmicro finish loading
+
+-----
+
+KMSmicro screen -> T
+Yes to all. (It will synchro your timer)
+LEFT IT OPEN
+
+-----
+
+Go to activator
+Office: IP 127.0.0.2
+Clear Office KMS
+Wait to finish
+
+------
+
+On Activator go to Charger Tab
+Charge Office 2013 -> Wait to finish (3 success messages)
+
+------
+
+Go to Office tab again and press Activate Office 2013
+
+-------"""
+,xavi3r666,2013-02-23T07:49Z,"Por osadia no puse la traduccion de mi metodo de activacion, pero les paso este link, lo cual les da la misma info. pero en español. Saludos
+
+http://www.taringa.net/posts/hazlo-tu-mismo/16402014/Activar-office-2013-sin-programas.html"
+,mk318020,2013-02-26T15:02Z,Help IT SAYS PROGRAMME REQUIRES NEWER VERSION OF WINDOWS ?
+,ind1234,2013-03-02T15:54Z,"download this torrent & install the software.
+For activation use microsoft toolkit 2.4.1.
+worked for me. Using win 7."
+,agvl222,2013-03-04T06:49Z,"Hi everybody,
+
+When I click 'Activate Office 2010' or 'Activate Office 2013', a pop up appears saying 'Input Error: Can not find script file ""C:Program FilesMicrosoftOfficeOffice14OSPP.VBS"". 
+
+This also happens when I click 'Activate Office 2013'. 
+
+When I click 'Charge Office 2013', a pop-up appears saying 'KMS Client Emulator running...failed to get Activation response'. 
+
+Any thoughts?"
+,jmg999,2013-03-04T11:23Z,"I get the 32-bit version installed just fine, and I can run KMSmicro and the Activation Helper. However, when I try to active Office 2013, I get an error that a particular file can't be found. The problem is, the Activator is looking on the C: drive, and my installation drive is on F:. Is there any way to change the path that's searched? Thank you, and great upload! :)"
+,rice_1004,2013-03-06T06:07Z,@jmg999 have you finished installing MS Office 2013 before running KMSmicro and the activation helper? if you have then it should be on your C: drive and your activation helper should be able to find it.
+,sbblakey777,2013-03-08T03:35Z,"@DroidUx
+
+Then what's the point of torrenting?
+Microsoft Office is basically the most widely used software bundle ever, with over one billion users."
+,gsacmofo,2013-03-08T05:34Z,"Followed Eskarinna's instructions on Windows 7, worked for me!  Leaving up KMSmicro seems to be the key FYI.  Good luck. TPBFTW."
+,vikrant47,2013-03-08T13:18Z,"can anyone tell the difference between RETAIL, VOLUME, SELECT, ENTERPRISE, AND PROFESSIONAL EDITIONS. 
+i have ""Office Select Edition 2013 15.0.4420.1017 VL"" . 
+which edition is the best??"
+,digitalmonster8928,2013-03-08T15:01Z,"I followed Eskarinna's post step for step but, I get this error code.
+
+ERROR CODE: 0x8007007B
+ERROR DESCRIPTION: Run the following: cscript ospp.vbs /ddescr:0x8007007B
+
+I tried to install the 64 bit (x64) onto my 64 bit Windows 7 premium home edition. Any help would be very helpful, thank you for the upload, I'm sure I can get it working soon, I hope... D:"
+,aftab1295,2013-03-11T10:31Z,"I am trying to install the 32bit (x86) version and it tells me after I follow the steps and all, after i click activate office 2013, it says there is already a key in there and it is invalid. 
+
+On my last install of office2013 (which couldnt get activated), i put in a key. Now how can i remove that key, it would remove when i uninstalled office.
+
+HELP :)"
+,wrkt,2013-03-13T11:30Z,"My activation worked well for the first hour. 
+But subsequently, the office program decides to configure itself again, which ends up invalidating the activation at the end of the configuration process. 
+
+Is there someway i can stop it from configuring?"
+,screwball17,2013-03-14T13:14Z,"DO NOT DO the activation method provided with the torrent. It's the exact same of every other torrent which failed.
+
+Eskarinna's (on page 2 of the comments) is exactly right. I just did it HIS way instead of what the instructions say. Eskarinna's method is awesome. So far, nothing is wrong with my activation. I've opened and closed it multiple times. The only thing I have yet to do is log in."
+,wrkt,2013-03-14T14:26Z,"Thanks screwball17,
+
+In addition Eskarinna's (on page 2 of the comments) method of activation, one important thing to note is, DO NOT OPEN OFFICE UNTIL IT HAS BEEN ACTIVATED!"
+,183934,2013-03-16T03:33Z,"Confirmed as of March 15, 2013, that the method posted by Eskarinna on page 2 of the posts works on Windows 7 64 bit.
+
+Thank you, Eskarinna."
+,who1o,2013-03-17T16:00Z,"99 blues....
+i am struck at 99.98%
+somebody please look into the issue
+
+thank u"
+,Buuuks,2013-03-18T19:05Z,"Hey guys I have a prob: everytime I try to run the installer it goes half way and then says: microsoft office 2013 has encountered a problem. what can I do? i tried to run as admin, copy the files on my desktop, uninstalled the previous office versions. u hav a idea?"
+,madammadam,2013-03-19T08:49Z,"Mine too, did not continue to install. When downloading, Windows Defender detected malicious file and remove it. "
+,APAFSHS,2013-03-20T11:06Z,"Hey guys i've installed MS office 2013 in ""F"" drive of my PC. So i hv got error in activating office 2013. The Possible solution I've got is,
+
+1) I opened ""C"" drive, then i opened program files, then i created a Folder name ""Microsoft Office""
+
+2)inside microsoft office folder i created         ""Office15"" folder.then left it open
+
+3)now i went to my ""F"" drive where i installed my     office 13 and opened folder ""Office15"".
+
+4)Then i copied ""OSPP"" its a vbs script file and i pasted it inside my ""Office15"" folder in C drive.
+
+Activated successfully...working fine try it"
+,JustAHermit,2013-03-22T00:13Z,"Thanks @Eskarinna on Page two.
+
+I didn't get three success messages but it appears to be activated fine."
+,APAFSHS,2013-03-22T14:29Z,"TO ""jmg999""
+Hey man if u hv installed in F drive and get the activation error then do lik this.
+creat a duplicate files and folders in C drive. dnt copy everthing to C drive but nly one file.Do lik this below
+
+*u will be already having program file in C drive inside dat u create Microsoft Office/Office15/OSPP
+*man that OSPP file wil be there inside F drive, so u copy and paste it in C drive. Nw click activation 2013 in KMS software it will be activated."
+,Yecheondigital,2013-03-24T22:36Z,"Mine won't work. Everytime I try to runStart-KMSmicro-WO-En it just creates the dos prompt then it exits.
+
+Normally never have problems, but don't know what the problem is."
+,myles89,2013-03-25T12:23Z,"whenever i run Start-KMSmicro-WO-En.vbs
+it just creates a dos window for 1-2 seconds n disappears.. waited 15 minutes but nothing happens
+
+help"
+,angelicasilva2360,2013-03-28T19:49Z,"For all those ""Start-KMSmicro-WO-En"" didn't work, try stop sharing or deleting the torrent. Sounds lazy but it works for me. Great torrent, thanks."
+,aztecs81,2013-03-29T01:37Z,"where is the kms micro? I finished the install and I have the activator, but I can find the kms micro in the downloaded folder?  What do I do?"
+,MMFQ_DEATH,2013-03-31T05:15Z,"HOW THE FUCK DO I INSTALL THIS SHIT?! IT KEEPS GIVING ME THE FUCKING 
+""Please Restart
+We're Sorry. Before we can install we need you to restart your computer and retry the installation.
+
+Technical details: *BLANK?!*""
+It makes no fucking sense. If anyone knows an answer, THANK YOU FUCKING JESUS!"
+,niecht75,2013-03-31T06:26Z,"serial phone actived
+6PVPD-CNWDQ-G734C-DG7BM-VQTXK
+HGTNV-487XP-7Q4YP-QK948-82MGX
+NX249-T86XK-XY79X-FK3VM-39JP9  "
+,aztecs81,2013-04-01T12:22Z,"Ok, so I ran the activator (and the steps recommended on pg. 2, minus the kms micro instructions) before the installation and after the installation.  However, like I previously stated I did not find kms micro in the download folder.  Oddly enough, when I go to my programs list in the start menu and open up excel, word, or powerpoint, it doesn't ask for a serial number.  However, I stopped sharing it and I did delete the download (it was saved to my BD-ROM E drive for some unknown reason).  I'll let you know if I experience any problems."
+,lbj17,2013-04-09T01:47Z,My kms won't load I opened it once but biffed it so I closed it but now no matter what it won't open
+,czzr,2013-04-12T04:40Z,"For anyone having issues activating, try PHASEpro's guide."
+,Lordwise,2013-04-13T01:10Z,"Alright you NOOBS having problems, if you want this then you are going to have to spend some time reading the instructions. You have to earn your keep and don't be lazy and expect this to be easy. 
+
+First, do what @angelicasilva2360 said in the comments and remove the seed from your torrents. This will stop the issue of runStart-KMSmicro-WO-En from just creating the dos prompt and preventing it from exiting.
+
+Next just follow what @Eskarinna on Page two says. 
+
+If you follow these instructions then you should have not issues at all. 
+
+Thanks @haydenm96 for the upload ! :),"
+,erwinsie,2013-04-20T12:33Z,"hello. thanks ! all good, activated. newbies, go to page 2 there is much simple instructions to follow.
+
+my question: can i use this method to activate windows 8 ? (ofcourse go to window tab not office). but is the other steps are the same?"
+,blackboxcard,2013-04-25T05:39Z,use this IP guys: 127.0.0.2
+,ExoWraith,2013-04-29T03:36Z,Go to page 2 and follow Eskarinna's comment for activation
+,rwandaburundi2,2013-06-02T13:51Z,Activation Helper v1.5 x86.exe is a virus called Trojan.FakeMS according to Malwarebytes.

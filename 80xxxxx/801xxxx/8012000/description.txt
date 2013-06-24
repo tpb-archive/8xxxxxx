@@ -1,0 +1,23 @@
+Keygen for JetBrains IntelliJ IDEA 12 Ultimate.
+
+Verified on Windows, Mac OS X and Linux: 
+http://imgur.com/a/DAibY
+
+*** VERY IMPORTANT: ***
+Do not trust that this keygen is clean! I didn't create this and I really don't care whether it'll infect your system with anything. Unlike cracked application executables, you only have to run a keygen a limited number of times to get what you need from it. You also *don't* have to run it on an operating system installation that you care about.
+
+Each time I've run any keygen, I did the following:
+
+1. Start with a clean Windows virtual machine.
+2. Ensure that you have a snapshot of its current state (before running the keygen).
+3. Copy the keygen into the VM.
+4. Disconnect the VM's network adapter.
+5. Run the keygen and note the serial number that it produces.
+6. Revert the virtual machine to the clean snapshot.
+
+Now you have a working serial number, and you haven't run anything untrustworthy on any machine that you care about.
+
+If this sounds like too much trouble, pay JetBrains $200 or take the risk of compromising a real OS installation. Please don't complain here if you ignore these warnings and expect nothing bad to happen.
+
+Again:
+USE THIS IN A VIRTUAL MACHINE WITH NO NETWORK ADAPTER, OR USE IT AT YOUR OWN RISK.

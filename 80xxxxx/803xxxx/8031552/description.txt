@@ -1,0 +1,12 @@
+Foundations of Python 3 Network Programming
+
+Book Details: 550 pages | Publisher: Apress; 2nd Edition (December, 2010) | ISBN-10: 1430230037 ISBN-13: 978-1430230038 | Format: PDF
+
+Book Description: This book gives you everything you need to know about network programming using Python 3, the latest version of the Python language. It will benefit both scripters and serious application developers who want a feature-rich, yet simple language. Fully updated, this second edition includes all the new developments in network programming such as WSGI, FastCGI, and asynchronous communication. Foundations of Python 3 Network Programming, Second Edition explains multitasking network servers using several models, including forking, threading, and non-blocking sockets. Extensive examples throughout the book demonstrate important concepts and practices, and provide a cadre of fully-functioning stand alone programs. Readers may even use the examples included as building blocks to create their own software. 
+
+What you will learn: Understand low level networking, Handle sending and receiving email including composing and decoding emails, SMTP, POP and IMAP Program the lower levels of web application programming such as FastCGI and WSGI Script file transfer and backups Access web services using Python Master multitasking with threads, forking, and asynchronous communication. 
+
+Who is this book for? This book will be of interest to python programmers who need to program networked applications using Python. From web application developers, to systems integrators, to system administratorsΓÇöthis book has everything you need to know. 
+
+About the Author John Goerzen is an accomplished author, system administrator, and Python programmer. He has been a Debian developer since 1996 and is currently president of Software in the Public Interest, Inc. His previously published books include the Linux Programming Bible, Debian Unleashed, and Linux Unleashed.
+

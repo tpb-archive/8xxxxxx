@@ -1,0 +1,73 @@
+General
+ Unique ID : 185797574559820719023106846548120843851 (0x8BC74FADAE9B55689A975352AB94364B)
+ Complete name : D:HI10P ainme[philosophy-raws][Sintel][philosophy-raws][sintel]Hi10P FLAC][2048X872].mkv
+ Format : Matroska
+ Format version : Version 4 / Version 2
+ File size : 963 MiB
+ Duration : 14mn 48s
+ Overall bit rate mode : Variable
+ Overall bit rate : 9 099 Kbps
+ Encoded date : UTC 2010-02-22 21:41:31
+ Writing application : mkvmerge v5.9.0 ('On The Loose') built on Dec 9 2012 15:37:01
+ Writing library : libebml v1.3.0 + libmatroska v1.4.0
+ 
+Video
+ ID : 1
+ Format : AVC
+ Format/Info : Advanced Video Codec
+ Format profile : High 4:4:4 [email=Predictive@L5.0]Predictive@L5.0[/email]
+ Format settings, CABAC : Yes
+ Format settings, ReFrames : 8 frames
+ Muxing mode : Header stripping
+ Codec ID : V_MPEG4/ISO/AVC
+ Duration : 14mn 48s
+ Width : 2 048 pixels
+ Height : 872 pixels
+ Display aspect ratio : 2.35:1
+ Frame rate mode : Constant
+ Frame rate : 24.000 fps
+ Color space : YUV
+ Chroma subsampling : 4:4:4
+ Bit depth : 10 bits
+ Scan type : Progressive
+ Writing library : x264 core 129 r2230+696+35 805d074 tMod [10-bit@all X86_64]
+ Encoding settings : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / fade_compensate=0.00 / psy_rd=0.60:0.16 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=3 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=3 / bframes=12 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=3 / keyint=infinite / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=72 / rc=crf / mbtree=1 / crf=17.0000 / qcomp=0.80 / qpmin=0 / qpmax=81 / qpstep=4 / ip_ratio=1.40 / aq=3:0.80
+ Language : English
+ Default : Yes
+ Forced : No
+ 
+Audio #1
+ ID : 2
+ Format : FLAC
+ Format/Info : Free Lossless Audio Codec
+ Codec ID : A_FLAC
+ Duration : 14mn 48s
+ Bit rate mode : Variable
+ Channel(s) : 6 channels
+ Channel positions : Front: L C R, Back: L R, LFE
+ Sampling rate : 48.0 KHz
+ Bit depth : 16 bits
+ Title : 5.1
+ Writing library : libFLAC 1.2.1 (UTC 2007-09-17)
+ Language : English
+ Default : Yes
+ Forced : No
+ 
+Audio #2
+ ID : 3
+ Format : FLAC
+ Format/Info : Free Lossless Audio Codec
+ Codec ID : A_FLAC
+ Duration : 14mn 48s
+ Bit rate mode : Variable
+ Channel(s) : 2 channels
+ Sampling rate : 48.0 KHz
+ Bit depth : 16 bits
+ Title : 2.0
+ Writing library : libFLAC 1.2.1 (UTC 2007-09-17)
+ Language : English
+ Default : No
+ Forced : No
+ 
+Text #1
+ ID : 4

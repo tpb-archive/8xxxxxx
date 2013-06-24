@@ -1,0 +1,66 @@
+Protocol Engineering
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Facebook Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: PDF
+
+Book Description
+Communication protocols form the operational basis of computer networks and tele┬¡communication systems. They are behavior conventions that describe how com┬¡munication systems inter┬¡act with each other, defining the temporal order of the interactions and the formats of the data units exchanged ΓÇô essentially they determine the efficiency and reliability of computer networks. Protocol Engineering is an important discipline covering the design, validation, and implementation of communication protocols.
+
+Part I of this book is devoted to the fundamentals of communication protocols, describing their working principles and implicitly also those of computer networks. The author introduces the concepts of service, protocol, layer, and layered architecture, and introduces the main elements required in the description of protocols using a model language. He then presents the most important protocol functions.
+
+Part II deals with the description of communication proto┬¡cols, offering an overview of the various formal methods, the essence of Protocol Engineering. The author introduces the fundamental description methods, such as finite state machines, Petri nets, process calculi, and temporal logics, that are in part used as semantic models for formal description techniques. He then introduces one represen┬¡tative technique for each of the main description approaches, among others SDL and LOTOS, and surveys the use of UML for describing protocols.
+
+Part III covers the protocol life cycle and the most important development stages, presenting the reader with approaches for systematic protocol design, with various verification methods, with the main implementation techniques, and with strategies for their testing, in particular with conformance and interoperability tests, and the test description language TTCN. The author uses the simple data transfer example protocol XDT (eXample Data Transfer) throughout the book as a reference protocol to exemplify the various description techniques and to demonstrate important validation and implementation approaches.
+
+The book is an introduction to communication protocols and their development for undergraduate and graduate students of computer science and communication technology, and it is also a suitable reference for engineers and programmers. Most chapters contain exercises, and the authorΓÇÖs accompanying website provides further online material including a complete formal description of the XDT protocol and an animated simulation visualizing its behavior.
+
+- Presentation is characterized by a focus on formal description techniques for the design, validation, and implementation of communication protocols
+- Considers both the theoretical and the practical aspects of protocol engineering
+- Encourages the readers to apply the methods described in their practical work and supports this using the simple data transfer example protocol XDT
+
+Table of Contents
+Part I: Principles of Communication Protocols
+Chapter 1. Services
+Chapter 2. Protocols
+Chapter 3. Layers
+Chapter 4. Layered Architectures
+Chapter 5. Protocol Functions
+Chapter 6. Case Study: The Internet Protocol Stack
+
+Part II: Description of Communication Protocols
+Chapter 7. Formal Description Methods
+Chapter 8. Formal Description Techniques
+
+Part III: Development of Communication Protocols
+Chapter 9. Protocol Development Process
+Chapter 10. Design
+Chapter  11. Verification
+Chapter 12. Performance Evaluation
+Chapter 13. Implementation
+Chapter 14. Testing
+Chapter 15. Outlook
+
+Book Details
+Hardcover: 540 pages
+Publisher: Springer (October 2012)
+Language: English
+ISBN-10: 3642291449
+ISBN-13: 978-3642291449

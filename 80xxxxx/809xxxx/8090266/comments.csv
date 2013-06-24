@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,201184,2013-02-02T17:31Z,"Gracias por subirlo, una pregunta:
+Se podrá instalar desde un Pendrive?
+Saludos
+
+PD: Faltan Seeders, por favor!!"
+,heldigard,2013-02-03T20:40Z,"@201184, aun no he ensayo un metodo bastante reforzado:
+
+1. Grabar la imagen iso con UltraISO en la USB.
+2. El proceso terminara con error ya que esta formatea la usb a fat32.
+3. Convertir la usb a nfts con el windows: convert.exe
+4. Copiar el archivo install.wim que se encuentra en la iso a la usb en el directorio sources.
+
+Pendiente de revisar este metodo, en teoria deberia funcionar."
+,m42586,2013-02-04T16:15Z,el comando converter.exe no funciona en Windows 8 en command como hago
+,m42586,2013-02-04T16:16Z,el comando converter.exe no funciona en Windows en command como hago
+,m42586,2013-02-04T17:01Z,en el comand el converter.exe no funciona
+,m42586,2013-02-04T17:02Z,perdona no me quería subir el comentario
+,m42586,2013-02-04T17:03Z,perdona no me quería subir el comentario y en ultra iso que opciones se le dan
+,m42586,2013-02-04T17:05Z,perdona no me quería subir el comentario como hago en ultra iso
+,m42586,2013-02-04T17:06Z,perdona no me quería subir el comentario como hago en ultraiso
+,r2d2sz,2013-02-05T18:38Z,"hola, tras descargar y quemar la iso sin problemas, en los distintos intentos de instalarlo, no se logra, me he encontrado con dos errores.
+Cuando se ejecuta la instalación desde el sistema operativo como para hacer una actualización:
+1: ""The file 'autorun.dll' could not be loaded or is corrupt. Setup cannot continue. Error code is [0x7E]""
+Y cuando se bootea o arranca desde el dvd:
+2: ""Windows no pudo leer la configuración  en el archivo de respuesta de instalación desatendida.""
+y aborta el proceso de instalación. ¿alguien la ha podido instalar sin errores? Saludos GRACIAS"
+,r2d2sz,2013-02-05T18:41Z,"El segundo mensaje de error completo es:
+... Windows no pudo leer la configuración ProductKey en el archivo de respuesta de instalación desatendida..."
+,r2d2sz,2013-02-05T18:59Z,"Gracias por el aporte. 2 errores me han impedido finalizar la instalación: 
+
+The file autorun.dll cuould not be loaded or is corrupt. Setup cannot continue. Error code is  [0x7E]
+
+""Windows no pudo leer la configuración ProductKey en el archivo de respuesta de instalación desatendida""
+
+Gracias"
+,heldigard,2013-02-06T19:01Z,"@r2d2sz edita la iso con ultraiso y borra el archivo xml : autounattend.xml
+
+@m42586 el ultraiso tiene la opcion de grabar imagen en la pestaña autoarranque si esta en español, puedes intentar otros programas graben iso a usb, en google encontraras amplia info."
+,nachvader,2013-02-07T10:42Z,Me da error al intentarlo descomprimir
+,heldigard,2013-02-07T23:01Z,"@nachvader debes utilizar el 7zip para descomprimirlo, ojala la ultima version."
+,heldigard,2013-02-09T07:50Z,"File     : es_windows_8_pro_vl_x64_dvd_Ene_2013.iso
+Size     : 7,55 GB
+CRC32    : 67436bfc
+MD5      : 91b6e9b66450246d90e84c222de4dc76
+SHA1     : f8da7eca165e617316ed7834e6527768c7a75f6e"
+,heldigard,2013-02-09T07:58Z,"File     : es_windows_8_pro_vl_x64_dvd_Ene_2013.iso
+Size     : 7,55 GB
+CRC32    : 67436bfc
+MD5      : 91b6e9b66450246d90e84c222de4dc76
+SHA1     : f8da7eca165e617316ed7834e6527768c7a75f6e "
+,jamc4626,2013-02-24T03:03Z,"@r2d2sz edita la iso con ultraiso y borra el archivo xml : autounattend.xml
+
+no funciona, le quitas ese archivo y luego salta un error de que ""falta controlador de medios que tu pc necesita ... disco,cd,o usb""."
+,juanovasco,2013-03-03T18:35Z,Tengo el mismo problema de error [0x7E] alguien que sepa como arreglarlo por favor. gracias
+,juanovasco,2013-03-03T18:37Z,Quien me ayuda porfa! Tengo el mismo error [0x7E] y aca no han dado solucion. Les agradezco si me colaboran.

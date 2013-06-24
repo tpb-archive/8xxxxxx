@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+,punksterhd,2013-01-20T00:56Z,"Ubuntu 12.10:
+
+In terminal type:
+
+sudo apt-get install csh tcsh libglw1-mesa libglw1-mesa-dev mesa-utils elfutils gamin libxp6 libxpm4 libxt6 libxp6 libxmu6 libxau6 libxinerama1 xfs xfstt ttf-liberation ttf-mscorefonts-installer xfonts-100dpi xfonts-75dpi alien
+
+Type ""Y"" to confirm.
+
+After installation has completed, just copy and paste the program you want to install to your home folder and type:
+
+for i in *.rpm; do sudo alien -cv $i; done
+
+
+Remember to copy one at a time if your a new user, advance user's will know how to convert this package.
+
+And finally, Open a terminal, if not opened already and type: 
+
+for i in *.rpm; do sudo alien -cv $i; done
+
+Go and play some video game until it finishes converting the package.
+
+Double click the .deb package created and let the Ubuntu software install it. Don't worry if it says the package is of bad quality, just click install.
+
+Happy Modeling ;)"
+,punksterhd,2013-01-20T01:14Z,"You can type:
+
+sudo dpkg -i
+
+From your home directory after creating the .deb package."
+,mjapox,2013-01-21T20:57Z,Work's Great with Fedora!! Thank You.
+,jhakash,2013-02-09T09:29Z,"can you please how to install this on fedora 17
+I am I new user pls post the instructions
+thanks in advance @punksterhd"
+,chj85,2013-03-03T16:04Z,"Someone please create a ubuntu version.
+I'm not able to convert it over to .deb.
+I don't know what dependencies I need. I always get errors. "
+,Phathak,2013-03-07T01:09Z,"Anyone could write instructions to install this suite? Every time I do sh setup in the Softimage dir it give me ""cannon execute:  Permission denied"".
+
+Are those files cracked?"
+,Phathak,2013-03-07T01:10Z,* Instructions for Fedora 18
+,punksterhd,2013-03-31T05:56Z,"Yeah Sure !!  For the official install Instruction go here: http://download.autodesk.com/us/maya/pdfs/2013/Maya_Install_Help_enu.pdf 
+
+For other installation procedure, head over here: 
+
+http://mayastation.typepad.com/maya-station/2012/03/some-tips-for-users-trying-to-get-maya-2012-and-fedora-16-running.html"
+,punksterhd,2013-04-01T06:50Z,"Here's a link to a script for Ubuntu. 
+
+I tried this with sudo bash on terminal,  
+
+then went to the autodesk page : https://students.autodesk.com/?nd=register_v2 
+
+created a student account and got a free serial from there and used that on for install.
+
+Here's the link to the script: https://truck.it/p/7lB4sH-_K3
+
+Good Luck ;)"

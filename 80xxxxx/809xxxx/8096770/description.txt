@@ -1,0 +1,8 @@
+Ubuntu 12.10 x86 without online shopping lenses.
+
+The following packages have been removed:
+- unity-lens-shopping
+- unity-scope-video-remote
+- unity-scope-musicstores
+
+Follow the link for more information: http://www.helplinux.ru/wiki/en:kb:make-ubuntu-safe

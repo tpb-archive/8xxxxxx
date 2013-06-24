@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,temporary2010,2013-01-30T07:11Z,"Latest version of Flashtools always available @ http://androxyde.github.com/index.html?1354155165000
+which includes the necessary drivers.
+
+Great tool for Xperia owners."
+,temporary2010,2013-01-30T07:15Z,"Oh yeah, here's the tutorial.  Install Flashtool and necessary USB/ADB Drivers.
+Go to your Android Applications settings, and check to allow apps from Unknown Sources.
+Go o Applications, Development settings, and check Enable Debugging.
+Connect phone to computer and run Flashtool.
+When it finishes connecting, click on the padlock icon and wait for Flashtool to do its thing.
+Done."

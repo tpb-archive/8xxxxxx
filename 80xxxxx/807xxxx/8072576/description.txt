@@ -1,0 +1,18 @@
+IP Filter Block with uTorrent [no software]
+
+
+1) IP Filter Block with uTorrent for Windows
+
+If you've been using BitTorrent to download any of the more popular files, such as the latest episode of some major show, you may have found yourself receiving lots of wasted data. This is data that has been discarded after being deemed corrupt or invalid by your BitTorrent client. Every so often, you will have received more wasted data than the size of the files you are downloading!
+
+This is happening because Anti-P2P organizations are actively polluting P2P networks with fake peers, which send out fake or corrupt data in order to waste bandwidth and slow down file transfers. At its worst, when downloading major copyrighted torrents, as much as a fourth of the peers you are connected to can be attributed to various Anti-P2P agencies. There is also a much more serious side to this. Once you've established a connection to one of these fake peers, your IP has been logged and will most likely be sent to the RIAA/MPAA!
+
+
+2) PeerBlock for Windows
+
+What is PeerBlock? The short version is: PeerBlock blocks "known bad" computers from accessing yours, and vice versa. Depending on the lists you have it set up to use, you can block governments, corporations, machines flagged for anti-p2p activities, even entire countries! Whether you're sharing files with Bittorrent or just surfing the web, PeerBlock can help protect you from the bad guys.
+
+
+3) I-Blocklist - PeerGuardian Instructions for Mac OS X
+
+PeerGuardian is a privacy oriented firewall application. It blocks connections to and from hosts specified in huge blocklists (thousands or millions of IP ranges). Its origin seeds in targeting aggressive IPs while you use P2P.

@@ -1,0 +1,29 @@
+System requirements
+
+Microsoft┬« Windows : VISTA (64 bits), 7 (64 bits), 8 (64 bits)
+Processor: Intel Core┬« 2 Duo or higher, AMD AthlonΓäó 64 X2 or higher
+Graphics card: Support DirectX 9.0.c or higher; 256 MB VRAM recommended to support GPU.
+
+Memory needed : 2 GB de RAM (4 GB strongly recommended)
+
+Disk space needed :Running the software requires a minimum of 2 GB on the hard disk. 6 GB is recommended for optimal software performance.
+
+Maximum size of images that can be processed by DxO Optics Pro
+
+- RAW: up to 36 Mpix
+
+- 16-bit TIFF: up to 100 Mpix
+
+- 8-bit TIFF or JPEG: up to 200 Mpix
+
+The following graphics cards are fully compatible with OpenCL
+
+Radeon HD 5xxx, 6xxx, 7xxx, GeForce 2xx, 4xx, 5xx, 6xx.
+
+You should choose a powerful card (for example, the GeForce GTX 460, Radeon HD 58xx or higher) in order to enjoy significant improvement. The new Radeon HD 7xxx and GeForce 6xx cards have not been tested yet, but should function very well.
+
+Additional requirements : Microsoft .NET Framework 4.0
+
+Languages : English, Geman, French, Japanese
+
+Homepage : http://www.dxo.com/us/photo/dxo_optics_pro/features

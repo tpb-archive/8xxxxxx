@@ -1,0 +1,33 @@
+The FreeBSD Release Engineering Team is pleased to announce the availability of FreeBSD 9.1-RELEASE. This is the second release from the stable/9 branch, which improves on the stability of FreeBSD 9.0 and introduces some new features. Some of the highlights:
+
+
+*New Intel GPU driver with GEM/KMS support
+
+*netmap(4) fast userspace packet I/O framework
+
+*ZFS improvements from illumos project
+
+*CAM Target Layer, a disk and processor device emulation subsystem
+
+*Optional new C++11 stack including LLVM libc++ and libcxxrt
+
+*Jail devfs, nullfs, zfs mounting and configuration file support
+
+*POSIX2008 extended locale support, including compatibility with Darwin extensions
+
+*oce(4) driver for Emulex OneConnect 10Gbit Ethernet card
+
+*sfxge(4) driver for 10Gb Ethernet adapters based on Solarflare SFC9000 controller
+
+*Xen Paravirtualized Backend Ethernet Driver (netback) improvement
+
+*hpt27xx(4) driver for HighPoint RocketRAID 27xx-based SAS 6Gb/s HBA
+
+*GEOM multipath class improvement
+
+*GEOM raid class is enabled by default supporting software RAID by deprecated ataraid(8)
+
+*kernel support for the AVX FPU extension
+
+*Numerous improvements in IPv6 hardware offload support
+

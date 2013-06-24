@@ -1,0 +1,9 @@
+Estamos acostumados a ver jogos 2D de plataforma, ou beat em' ups. Mas que tal sair um pouco deste lugar comum, em um game 2D com estilo stealth ?
+
+Para instalar no PS3(com CFW 3.55)
+
+1- Copie o arquivo da pasta .edat da pasta exdata ou mova a pasta para "dev_hdd0/home/000000XX/exdata" (XX sendo o seu usuário do PS3,no meu caso fica 00000004) 
+
+2- Instale o arquivo .Pkg com o nome Shank
+
+3- Instale o arquivo .Pkg com o nome de Shank fix

@@ -1,0 +1,31 @@
+﻿Filename,Size,Unit
+00 Introduction/00_01-welcome.flv,5.5,M
+00 Introduction/00_02-prereqs.flv,3.84,M
+00 Introduction/00_03-exfiles.flv,7.82,M
+01 Getting Started/01_01-options.flv,10.25,M
+01 Getting Started/01_02-setupsdk.flv,13.26,M
+01 Getting Started/01_03-createavd.flv,7.53,M
+01 Getting Started/01_04-createproj.flv,14.19,M
+02 Using Application Preferences/02_01-aboutprefs.flv,9.56,M
+02 Using Application Preferences/02_02-prefsjava.flv,21.78,M
+02 Using Application Preferences/02_03-prefactiv.flv,24.92,M
+02 Using Application Preferences/02_04-preflisten.flv,12.61,M
+03 Using Internal and External File Storage/03_01-intfiles.flv,24.36,M
+03 Using Internal and External File Storage/03_02-jsondata.flv,21.77,M
+03 Using Internal and External File Storage/03_03-extfiles.flv,29.11,M
+03 Using Internal and External File Storage/03_04-xmlpull.flv,31.75,M
+03 Using Internal and External File Storage/03_05-xmljdom.flv,20.22,M
+04 Working with SQLite Databases/04_01-sqlite.flv,5.06,M
+04 Working with SQLite Databases/04_02-createdb.flv,28.92,M
+04 Working with SQLite Databases/04_03-datasource.flv,21.92,M
+04 Working with SQLite Databases/04_04-insertdata.flv,23.88,M
+04 Working with SQLite Databases/04_05-retrieve.flv,27.6,M
+04 Working with SQLite Databases/04_06-importdata.flv,14.62,M
+04 Working with SQLite Databases/04_07-filtersort.flv,23.93,M
+04 Working with SQLite Databases/04_08-sqlite3.flv,13.77,M
+05 Managing and Displaying SQLite Data/05_01-richdisplay.flv,22.06,M
+05 Managing and Displaying SQLite Data/05_02-detailview.flv,29.52,M
+05 Managing and Displaying SQLite Data/05_03-multitable.flv,29.71,M
+05 Managing and Displaying SQLite Data/05_04-deleterow.flv,25.72,M
+06 Conclusion/06_01-goodbye.flv,1.6,M
+Exercise Files/Ex_Files_Droid_Loc_Data_Storage.zip,21.67,M

@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,NickeNyfiken66,2013-01-25T22:54Z,"Use TNod User & Password Finder 1.4.2.1 for licensens, use google to find it."
+,NickeNyfiken66,2013-01-25T23:15Z,"WARNING:
+ESET can detect these utilities as a false virus.
+Add into exclusions, the paths.
+--------------------------------------------------------
+Uninstall any previous version.
+
+Add to exclusion sites in ESET White list (including the asterisks): *tnoduse.* and *tukero.*
+
+Add to exclusion the directory where you will download TNod and where you're going to install it."
+,Xenirina,2013-01-26T23:45Z,"How do I install?
+Simply run the .exe file?"
+,Xenirina,2013-01-27T00:03Z,"How do I change the language?
+It installs in some weird one. Anyone know how?"
+,maustin,2013-03-23T23:01Z,"Installs in Swedish, lol, and I haven't found any way to change the language yet, but it's not that big of a deal. Installs and runs perfectly; you can get TNod by searching TPB, it's about 1mb, and it found and applied a valid license literally within seconds. So-o-o nice to have a working version of Nod32 again, thanks Nicke for a quality up :)"

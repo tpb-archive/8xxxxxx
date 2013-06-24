@@ -1,0 +1,6 @@
+This version is for use with the Team Xecuter Unlocked DVD Replacement PCB universal for all Xbox 360 Slim DVD drives (Lite-On DG-16D4S 9504/0272/0225/0401/1071, Lite-On DG-16D5S 1175/1532, Hitachi DL10N 0500/0502).
+LT Ultimate does not need a full fw dump, it requires only the DVD key. It is a single firmware file, containing all the necessary code to function with each of the Slim DVD drives. The JungleFlasher application is used to handle selection and programming of LT Ultimate for the appropriate drive model and firmware version.
+
+LT Ultimate is based on LT+ v3.0, so everything remains the same with ripping, ISO structure, and AP2.5 Topology Data requirements. LT Ultimate retains support for truncated XGD3 backups, but their use is strongly recommended against. Instead, it is recommended to burn XGD3 backups with an iHAS B or compatible cross-flashable drive.
+
+LT Ultimate requires the presence of AP2.5 Topology Data in place of the older AP2.5 Replay Sector, so backups made for the older iXtreme LT/LT+ v2.0 will not work on LT Ultimate. Use of older backups without Topology Data will result in the 360 being flagged for AP2.5 challenge failure

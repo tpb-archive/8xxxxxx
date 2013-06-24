@@ -1,0 +1,89 @@
+
+
+Release info:
+
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 570 MiB
+Duration                                 : 1h 31mn
+Overall bit rate                         : 867 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 31mn
+Nominal bit rate                         : 795 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.145
+Language                                 : Spanish
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 31mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Language                                 : Spanish
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Source:
+credit to original movie ripper 5rFF (Thanks)
+
+IMDB Info:
+
+A Spanish orchestra conductor deals with the mysterious disappearance of his girlfriend.
+
+Director: Andrés Baiz
+Writers: Andrés Baiz (screenplay), Arturo Infante (story),
+
+Stars: Juan Alfonso Baptista, Marcela Benjumea and Marcela Mar Humberto Dorado
+
+Genres: Thriller
+ 
+http://www.imdb.com/title/tt1772250/
+
+Screen Shot:
+ 
+http://www.shotpix.com/images/88616585224596622102.png 
+http://www.shotpix.com/images/86673191210796169635.png 
+http://www.shotpix.com/images/90573165850804798368.png 
+http://www.shotpix.com/images/01710191571142814654.png 
+http://www.shotpix.com/images/74025807346702023680.png 
+http://www.shotpix.com/images/21241854994319449859.png

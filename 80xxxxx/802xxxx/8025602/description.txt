@@ -1,0 +1,43 @@
+Movies : Crime : VHS Rip : English, 61mins, very hard to find
+
+The Dangerous Years -1947
+
+Teenagers at the local hangout get in deep, deep trouble, ah, those dangerous years.
+
+Marilyn Monroe in her 1st year in movies plays the waitress at the hangout, she has a couple of lines.
+
+Featuring Billy Halop with Darryl Hickman & Gil Stratton.
+
+An O'Henry twist at the end, don't read imdb until the movie is over.
+  
+http://www.imdb.com/title/tt0040267/
+
+Has an Ed Wood feel in the beginning with all the stock footage.
+
+[13:19:18] starting job
+[13:19:18] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:19:18] job configuration:
+[13:19:18]  * source
+[13:19:18]    + C:Dangerous Years
+[13:19:18]    + title 1, chapter(s) 1 to 1
+[13:19:18]  * destination
+[13:19:18]    + C:Documents and SettingsDead End KidsMy DocumentsDangerous Years.mkv
+[13:19:18]    + container: Matroska (.mkv)
+[13:19:18]      + chapter markers
+[13:19:18]  * video track
+[13:19:18]    + decoder: mpeg2
+[13:19:18]      + bitrate 8000 kbps
+[13:19:18]    + frame rate: same as source (around 29.970 fps)
+[13:19:18]    + strict anamorphic
+[13:19:18]      + storage dimensions: 720 * 480 -&gt; 720 * 480, crop 0/0/0/0
+[13:19:18]      + pixel aspect ratio: 8 / 9
+[13:19:18]      + display dimensions: 640 * 480
+[13:19:18]    + encoder: x264
+[13:19:18]      + options: ref=2:bframes=2:me=umh
+[13:19:18]      + bitrate: 395 kbps, pass: 2
+[13:19:18]  * audio track 0
+[13:19:18]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:19:18]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[13:19:18]    + mixdown: Stereo
+[13:19:18]    + encoder: faac
+[13:19:18]      + bitrate: 160 kbps, samplerate: 48000 Hz

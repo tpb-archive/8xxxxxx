@@ -1,0 +1,59 @@
+ http://www.piczend.com/image/1358661650_vlcsnap-2013-01-19-22h59m57s119.png
+ 
+http://www.piczend.com/image/1358661643_vlcsnap-2013-01-19-23h00m01s159.png
+ 
+http://www.piczend.com/image/1358661658_vlcsnap-2013-01-19-23h00m05s199.png
+ 
+http://www.piczend.com/image/1358661654_vlcsnap-2013-01-19-23h00m10s249.png
+ 
+http://www.piczend.com/image/1358661661_vlcsnap-2013-01-19-23h00m14s33.png
+ 
+http://www.piczend.com/image/1358661661_vlcsnap-2013-01-19-23h00m19s79.png
+
+
+
+ideo
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 56mn
+Bit rate                                 : 1 223 Kbps
+Width                                    : 720 pixels
+Height                                   : 540 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.105
+Stream size                              : 1 019 MiB (73%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 2000
+Duration                                 : 1h 56mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 373 MiB (27%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 32 ms (0.96 video frame)
+

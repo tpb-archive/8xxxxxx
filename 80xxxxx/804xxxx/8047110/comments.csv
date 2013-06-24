@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,lamportyx,2013-01-22T03:08Z,Tnx! man!
+,danwat1234,2013-01-22T07:44Z,"When I extract KMSnano.exe to a folder I find the KMSELDI executable.
+I edit the ""Manual_Silent.com"" txt fille with the parameters ""/noWin /no2013""
+ I open a CMD with admin privileges and launch KMSELDI. 
+A window pops up with the title of ""KMS GUI ELDI"" and it asks for the KMS HOST IP or Name and it has the value of ""1688_"" as the port already.
+What would I put in for the IP or the name?
+If I don't enter anything it won't work, if I try to enter in my default gateway IP or the computer's IP it just retries over and over again.
+I ended up just launching KMSnano but I hope it didn't screw up my windows 7 64-bit."
+,danwat1234,2013-01-22T11:59Z,oh ok thanks. 

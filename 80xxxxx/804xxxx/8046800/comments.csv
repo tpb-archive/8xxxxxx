@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,karty,2013-01-21T12:28Z,"Hi Murphy,
+
+Appreciated for the faster releases of software..
+
+Could you please tell us the official developing site for the KMSNano..!!!"
+[V],murphy78,2013-01-21T12:51Z,"Right now it's just being updated by heldigard who frequents MDL. s1ave77 is being fed his stuff, and updates it on the first page of the post.  A few other people are jockying progress with heldigard but it appears that heldigard is doing most of the tool coding and quite a bit of work on the scripting and other nuts and bolts of the process.
+
+The MDL post there is:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+
+Scroll down a bit on the first post and you will come to ""Stuff by heldigard"". That part is getting updated every time a new release hits, or some other related thing comes out like triggerkms 5.1, etc.  You copy the link in the code window from the desired project and it will usually be some multi site. Make sure your file matches the crc and size of the reported release."
+[V],murphy78,2013-01-21T13:01Z,"libertycity I already have one with current kb files:
+http://thepiratebay.sx/torrent/7999315/Windows_8_Pro_x64_en-US_with_WMC_patch_Jan2013
+http://thepiratebay.sx/torrent/7999307/Windows_8_Pro_x86_en-US_with_WMC_patch_Jan2013
+
+You can skip the d/l of the xdelta file if you don't want to download it.  I would go into detail about how to export the pro image from the AIO and copy over the one from the single release to add the net2-3.5.1 support, but it's really late and my damn brain is fried from my vista release. You can use the one I linked or my AIO till Feb11 can you not?
+
+I'll start releasing my Feb stuff after the feb patch date, which I'm fairly certain will be Feb11. They always seem to release patches at 10am PST on the 2nd tuesday of every month.
+
+Keep in mind that I still have to integrate said stuff, and with hot releases like 7 ultimate or 8 pro I always check the necessity of each hotfix each month. It wouldn't kill anyone to have mixed outdated kb files integrated, but if you get enough of them, it bloats and slows systems down.  Gah, I'm babbling... see brain fried from vista... "
+,karty,2013-01-21T13:54Z,"Thank you so much murphy.
+
+It was a simple, yet superb guide to the link. ;)"
+,karty,2013-01-21T14:51Z,"Hi murphy,
+does this activates both 32 and 64 bit editions of Windows and Office?"
+,rupankur,2013-01-21T15:34Z,"@murphy78
+Your 'Microsoft Windows 8 Pro WMC x86 Retail Channel Free Mode en-US Dec1 2012' activated from Microsoft Server by the WMC key, that given free from Microsoft by email.
+
+Is this 'KMSNano v14 Offline Office and Windows KMS Activator' may harm to Windows activasion if I try to activate MS Office 2013 ?"
+,tonarpos,2013-01-21T19:17Z,"Justice at last mr murphy, justice at last !! murphy78 = pink skull, T.F.K = no skull !!"
+,tonarpos,2013-01-21T19:19Z,Got so excited about poor old T.F.K that i forgot to say thanks for the upload
+,skylab1,2013-01-21T20:46Z,"Hi Murphy
+
+Love your work, always work great!
+
+Question, does this version activate Visio 2013?"
+,brianxxx,2013-01-21T23:52Z,Congrats on the skull!
+[V],murphy78,2013-01-21T23:58Z,"ahh... how bout that T.F.K thing...
+
+Anyhow, on the office issue.. Really the workhorse of this activator is the kmseldi program.  You can run the kmseldi program and skip the windows activation part if it is getting hung up on that.
+
+I'll use the quote from the actual text file that heldigard provides:
+""In case you dont want activate one product use the arguments: /noWin, /no2010 and /no2013 arguments to KMSELDI.exe
+and edit the Manual_Silent.cmd""
+
+So right click and edit the Manual_Silent.cmd and add a ""/noWin /no2010"" at the end of the line that runs kmseldi and it should just try to activate office2013.  Keep in mind that with MS activations, they often can have inconsistencies preventing activation.  You can try doing a ""sfc /scannow"" from command prompt if you detect some sort of activation problem.
+
+I don't know if you can set up the triggerkms to activate just office.  This tool is still new and the features are being filled out every day."
+[V],murphy78,2013-01-22T00:00Z,"libertycity the version I linked to is normal pro, the patch is to turn it into the wmc version.  You don't have to use the patch."
+[V],murphy78,2013-01-22T00:31Z,"s1ave77 put up a FAQ from heldigard regarding kmsnano stuff.  It includes a short answer of what kmsnano actually does.  Worth a read...
+
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page582?p=707556#post707556"
+[V],murphy78,2013-01-22T08:49Z,"I think heldigard may have put triggerkms 4 instead of 5.1 in this.  He left a puzzling post on MDL.
+
+Arkenstone has kmsnano v13 with trig5.1. You can grab the trig from that... I'll check triggers on the next kmsnano that comes out.
+
+Arkenstone's stuff:
+thepiratebay.sx/user/Arkenstone
+
+or add user/Arkenstone to whatever proxy server for places like U.K."
+,karty,2013-01-22T11:14Z,"Thank you very much Guys.
+
+Just activated Win8_x64 VL edition using this program.
+
+It works flawlessly.."
+[V],murphy78,2013-01-22T11:45Z,"heldigard mentioned finishing up v15 on MDL, it'll probably be up before not too long"

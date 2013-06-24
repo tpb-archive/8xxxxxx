@@ -1,0 +1,14 @@
+Little console app that I wrote in C# to lookup damage/resistance of pokémon/type.
+Original (disgusting) code is included and free to edit under CC.
+All stats and names of pokémon are taken from bulbapedia.bulbagarden.net
+
+Commands:
+
+help - shows help
+types - lists all types
+pokemon - lists all pokémon
+clear - clears console
+"type" - shows damage stats for particular type
+"type"/"type" - shows damage stats for particular primary and secondary type
+"pokémon name" - shows damage stats for its type-s. All variations are listed eg. Rotom
+* - modifier, insert after type/name (eg. bulbsaur*) to show weaknesses

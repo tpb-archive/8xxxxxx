@@ -1,0 +1,38 @@
+This is a redo of my torrent to reduce file size, new format mkv.
+TV : Comedy : TV quality : English, 7mins 54secs
+
+A Vitaphone comedy short, excellent quality.
+
+Penrod & Sam 1932 Penrod's Bull Pen
+
+The 7th & last entry in the series.
+  
+http://www.imdb.com/title/tt0439273/fullcredits#cast	
+
+[11:05:53] starting job
+[11:05:53] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[11:05:53] job configuration:
+[11:05:53]  * source
+[11:05:53]    + C:Penrod & Sam
+[11:05:53]    + title 7, chapter(s) 1 to 2
+[11:05:53]  * destination
+[11:05:53]    + C:Documents and SettingsDead End KidsMy DocumentsPenrod & Sam Penrod's Bullpen.mkv
+[11:05:53]    + container: Matroska (.mkv)
+[11:05:53]      + chapter markers
+[11:05:53]  * video track
+[11:05:53]    + decoder: mpeg2
+[11:05:53]      + bitrate 9558 kbps
+[11:05:53]    + frame rate: same as source (around 29.970 fps)
+[11:05:53]    + strict anamorphic
+[11:05:53]      + storage dimensions: 704 * 480 -&gt; 702 * 480, crop 0/0/2/0
+[11:05:53]      + pixel aspect ratio: 10 / 11
+[11:05:53]      + display dimensions: 638 * 480
+[11:05:53]    + encoder: x264
+[11:05:53]      + options: ref=2:bframes=2:me=umh
+[11:05:53]      + bitrate: 401 kbps, pass: 2
+[11:05:53]  * audio track 0
+[11:05:53]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[11:05:53]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[11:05:53]    + mixdown: Stereo
+[11:05:53]    + encoder: faac
+[11:05:53]      + bitrate: 160 kbps, samplerate: 48000 Hz

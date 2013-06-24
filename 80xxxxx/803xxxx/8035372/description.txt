@@ -1,0 +1,77 @@
+********** Android Tuner v0.6.3 ***********
+
+Requirements: 2.2 and up
+
+Overview: The most complete app for monitoring and controlling your Android devices!
+
+
+
+** THIS IS BETA SOFTWARE - PLEASE MAKE A NANDROID BACKUP **
+*** AND CREATE CWM RESTORE FILE FROM ACTIVE TWEAKS ***
+
+
+Following popular requests, this is the merging of Battery Monitor Widget, System Tuner and Multi Toggle Widget apps.
+
+Best on rooted phones, works well on stock phones too.
+
+Unique features not available elsewhere (requires root):
+- Clean reboot
+- Turn on/off APN, BT discovery, GPS & WiFi Localization
+- Automatic backup of installed apps
+- Logcat reader for Android JellyBean 4.1.x
+- Graphical monitoring widgets
+- milli-amp consumption reporting
+
+
+
+About the huge amount of permissions requested: 
+ 
+http://www.3c71.com/android/?q=node/924
+
+Full feature set (some require root access):
+- File explorer (root, sd, network share, streaming)
+- Application backups (auto, multiple version)
+- Startup application manager*
+- Application event control*
+- System app uninstaller*
+- System update cleaner*
+- Monitoring (battery, cpu, network, memory)
+- Logcat**, kernel message reader*
+- App statistics since unplugged
+- Task manager
+- Auto-task killer
+- Terminal emulator
+- CPU tweaks (governor, frequency, voltages) relying on Kernel support*
+- SD tweaks (cache size, scheduler)*
+- Sysctl editor*
+- Build.prop editor*
+- Many notifications icons can be installed
+- 1x1 and 2x1 text widgets
+- 2x1, 3x1, 4x1, 4x2, 5x1 and 5x2 graphic widgets
+- 1x1 and 4x1 toggle widgets***
+- App optimizer (zipalign and database cleaner)
+- Battery saver (cpu, switch off wifi, bt...)***
+and much more...
+
+* Requires root access
+** Requires root access on Android 4.1 and above
+*** Requires root for full feature
+
+What's in this version:
+
+0.6.3: 
+bug fixes
+Uninstallation of user app on non-rooted devices
+USB tethering toggle failing on Android 4.1+
+Explorer handling spaces in paths
+Bluetooth toggle failing on 4.2+
+Fix freezing apps failing
+1x1 widget truncated text
+... see version info in app for all details
+Should you experience issues, contact me before adding a comment, the solution might be easy or a fix might be ready, but I can't reply to comments.
+
+This app has no advertisements
+
+More Info:
+ 
+https://play.google.com/store/apps/details?id=ccc71.at

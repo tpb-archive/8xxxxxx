@@ -1,0 +1,79 @@
+KMSnano - is the ideal tool to activate the final version of Windows 8 and Office 2013. 
+Actuator does not require user intervention, the entire activation process takes place 
+in the background, just run the activator and a couple of minutes to check the activation 
+status of Windows 8 and / or Office 2013. KMSnano is the easiest way to activate the two 
+products at the same time, Windows 8 and Office 2013 that is running the activator, 
+it immediately activates and Windows 8, and Office 2013. KMSnano volumnye version can acti-
+vate Windows Vista, Windows 7 and Office 2010. KMSnano v10.0 Final For Windows 7, Windows 8, 
+Office 2013 is a  software that can activate your Windows 7/8 and Office 2010/2013.
+
+Whats New in KMS NANO 19.1??
+
+Features: *Universal (activates: Vista/7/8 Pro / Enter / N and Office 2013/2010)
+          *No user interaction is required (just run the activator)
+          *Simultaneous activation immediately and Windows 8, and Office 2013
+
+Changes: *Complete support for Office2013 in W7.(I've seen some of the conversion from retail to volume logs.
+
+
+Included is Documentation v11_By DrCoolZic.pdf
+Please read this first if you have any problems.
+DeleteTempELDI.exe just removes kmsnano temp directory if you had to taskkill
+
+
+
+
+With KMSnano you can activate: *Windows 8 Enterprise
+                               *Windows 8 Professional
+                               *Microsoft Office 2013
+                               *Microsoft Office Visio 2013
+                               *Microsoft Office Project 2013
+                               *Windows 7 Enterprise
+                               *Windows 7 Professional
+                               *Microsoft Office 2010
+                               *Microsoft Office Visio 2010
+                               *Microsoft Office Project 2010
+                               *Windows Vista Enterprise
+                               *Windows Vista Professional
+
+
+Requirements:NET 4.0 or Windows 8
+
+Installation Instruction
+
+1. Extract Files to a folder. Ex: C:KMSNano, and Run KMSnano.exe with Admin Rights.
+
+2. Run "Run Trigger.cmd" to install, or just KMSNano.exe for single activation
+(TriggerKMS will run every boot, and if you have 30 days left or less, it will
+re-run the activator)
+
+3. Wait about 45-80secs while the files run in the background.
+(It takes MUCH longer for Retail Office 2013 conversion - Up to 15 mins at most.
+It doesn't let you know when it's done, you can check task manager or just wait)
+
+4. Done. Run the Check_Activation_All.cmd to verify your activation status
+
+
+                                 or
+
+For Permanent activation follow this instruction
+
+1. Extract or copy all files in a permanent folder
+
+2. Go to the permanent folder and run the script: RunTrigger.cmd
+
+3. Every 5 months it will automatic reactivate
+
+
+To see the log file check: go to run and put this command and hit OK "%Temp%KmsNano.log"
+
+
+
+
+In case you dont want activate one product use the arguments: /noWin, /no2010 and /no2013 arguments to KMSELDI.exe
+and edit the Manual_Silent.cmd	
+
+In case you want do everything manually, check the *.cmd scripts inside; they work without .NET Framework 4.0
+
+
+Changelog: Complete support for Office 2013 in W7

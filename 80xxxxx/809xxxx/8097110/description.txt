@@ -1,0 +1,58 @@
+SPORT: Six Nations Rugby Union - Wales v Ireland.
+On: BBC 1 HD   
+Date: Saturday 2nd February 2013 
+KO Time: 13:30 
+
+live coverage from Cardiff's Millennium Stadium as Wales begin the defence of their Six Nations crown. The Welsh opened the 2012 campaign with victory over Declan Kidney's side in Dublin, before going on to complete their third Grand Slam in seven years. But since then they have endured a torrid time, losing their Test series in Australia 3-0, before suffering four defeats in the Autumn Internationals series, including a surprise loss to Samoa. Ireland will be looking to build on the promise they showed last time out, with a 46-24 victory over Argentina in November. 
+
+
+General
+Complete name                            : 2013.02.02.6N.Wales.v.Ireland.720p.x264.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 2.87 GiB
+Duration                                 : 1h 43mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 959 Kbps
+                                 
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 43mn
+Bit rate                                 : 3 831 Kbps
+Maximum bit rate                         : 10.1 Mbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.166
+Stream size                              : 2.77 GiB (97%)
+Writing library                          : x264 core 129 r2230 1cffe9f
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 43mn
+Bit rate mode                            : Variable
+Bit rate                                 : 124 Kbps
+Maximum bit rate                         : 129 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 91.8 MiB (3%)

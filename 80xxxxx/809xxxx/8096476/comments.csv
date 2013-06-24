@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,conir,2013-02-03T11:34Z,"sorry, but how can i install this?"
+,luis26x,2013-02-03T12:48Z,"Intrusions of installation
+Weave where you unzip the file and you will appear 2 folders which you installas an ok first you open the folder design that SimCity 4 Rush Hour.dmg when arda tea to apareseran 2 small folders which crawl one of them to applications is called SimCity 4 Deluxe
+Do not execute it only drag applications then you are going for another file called SC4RHMac1 -1.1REVA is the prowl ready already have everything installed, but the file SimCity 4 Rush Hour.dmg you can't delete and always that bullets to play you have to first open the file called SimCity 4 Rush Hour.dmg and then you open the simcity that we dragged to the applications folder this is to make it work if having to put a dvd no dvd "
+,luis26x,2013-02-03T12:54Z,"installation intrusions
+
+download the file, unzip and which one will you will have two folders which files you installed ok first open the file, SimCity 4 Rush Hour.dmg design when you abrsa apareseran two small folders to which one of them to crawl applications, is called SimCity 4 Deluxe
+not only drag applications run, then you go to another file called SC4RHMac1-1.1RevA that you run it, you have everything ready but the file installed SimCity 4 Rush Hour.dmg can not erase and ballas play whenever you have to open file first
+SimCity 4 Rush called Hour.dmg and then open the SimCity you drag to the applications folder that is to work without having to put a dvd"
+,kjsciacca,2013-02-06T18:40Z,"Just download it and it's working!  Thanks man, I love this game"
+,micnasa,2013-02-12T14:41Z,"HI there, I just downloaded this but I have Mac Mountain Lion. How can I get it to work with my operating system? Please help me out here. This is the 2nd download Ive done!
+
+Thanks alot"
+,Alkapow,2013-02-16T15:21Z,You can't open the application SimCity 4 Rush Hour.app because PowerPC applications are no longer supported.
+,BombaAriba,2013-02-17T13:10Z,"You can patch it, then it works on Mountain Lion. Look at the other Simcity 4 torrent for the info. "
+,gamer1996,2013-03-12T14:38Z,"Thanks. Fast Download, Installs and works perfectly.
+13"" inch Macbook Pro, Intel i7 2.8ghz, intel hd 384 mb. 10.8.2"
+,maxijonson,2013-03-14T02:33Z,second time I tried to play it asked for a CD
+,maxijonson,2013-03-14T02:37Z,"found the solution:
+
+DO NOT delete the download keep it somewhere because the dmg that contains Simcity 4 Deluxe and Aspyr Game Agent make's the game run so keep it like in your documents but DO NOT DELETE SIMCITY 4 RUSH HOUR.DMG OR YOU ARE FUCKED AND NEED TO DOWNLOAD IT BACK or find a way to simulate the CD....
+hope that helps"
+,maxijonson,2013-03-14T03:06Z,"I've made a script for Applescript editor (that all of you have) so you can run it easily so do as I say:
+
+1. Put the files from the Simcity 4 Rush Hour.dmg in the applications folder (because my script executes on the applications folder).
+
+2. Open Applescript Editor
+
+3. copy this in it:
+ tell application ""Finder""
+	activate
+	make new Finder window to folder ""downloads"" of home
+end tell
+tell application ""Finder""
+	activate
+	set target of Finder window 1 to folder ""SimCity_4_Rush_Hour"" of folder ""Applications"" of startup disk
+	open document file ""SimCity 4 Rush Hour.dmg"" of folder ""SimCity_4_Rush_Hour"" of folder ""Applications"" of startup disk
+	delay 5
+	set target of Finder window 1 to folder ""SimCity 4 Deluxe"" of folder ""Applications"" of startup disk
+	open application file ""SimCity 4 Rush Hour.app"" of folder ""SimCity 4 Deluxe"" of folder ""Applications"" of startup disk
+end tell
+
+4. test it if it works
+
+5. if the test works, save as an application wherever you want.
+
+Done! you can now simply make the application run by clicking the application you just made"
+,filmmatic,2013-05-12T14:40Z,"I keep getting error ""Finder got an error: Can’t set folder ""SimCity_4_Rush_Hour"" of folder ""Applications"" of startup disk to folder ""SimCity_4_Rush_Hour"" of folder ""Applications"" of startup disk."" number -10006 from folder ""SimCity_4_Rush_Hour"" of folder ""Applications"" of startup disk , when I try the script. Pls help."

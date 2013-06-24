@@ -1,0 +1,58 @@
+What's NewΓÇöThe Highlights
+
+    Pareto chart of t-values of effects: Quickly see the vital few effects relative to the trivial many from two-level factorial experiments.
+
+    New ΓÇ£Color ByΓÇ¥ option: Color-code points on graphs according to the level of another factorΓÇöa great way to incorporate another piece of information into a graph.
+
+    Right-click on any response cell and ΓÇ£ignoreΓÇ¥ it: This feature allows you to ignore a response data point without having to ignore the entire row.
+    ΓÇ£Screen tipsΓÇ¥: Press the new tips button for enlightenment on the current screenΓÇöthis is especially helpful for novice users.
+
+    3D surface plots for categorical factors: See colored bars towering above others where effects are greatest.
+
+    ΓÇ£Min Run Res IVΓÇ¥ (two-level factorial) designs for 5 to 50 factors: Screen main effects with maximum efficiency in terms of experimental runs.
+
+    ΓÇ£Min-Run Res VΓÇ¥ designs for 6 to 31 factors: Resolve two-factor interactions (2FI's) in the least runs possible while maintaining a balance in low versus high levels.
+
+    Two-level fractional factorials for up to 512 runs and 21 factors: Build bigger designs than ever-before possible.
+
+    On plots of effects simply draw a box around the ones you want selected for your model: This is much easier than clicking each one with your mouse.
+
+    Central composite designs (CCDΓÇÖs) are now available for up to 30 factors and 8 blocks: This represents a significant expansion in RSM capability.
+
+    CCDΓÇÖs are available that are based on the Min-Run Res V fractional-factorial core: Take advantage of a much more efficient design for larger numbers of factors.
+
+    Box-Behnken designs are expanded up to 21 factors: This popular RSM design previously was limited to certain numbers of factors, but that is no longer the case.
+
+    Crosshairs window: Predict your response at any place in the response surface plot.
+
+    Full-color contour and 3D surface plots: Graduated or banded colorization adds life to reports and presentations.
+
+    Magnification feature: An incredible tool for expanding a mixture graph that is originally a small sliver and difficult to interpret.
+
+    Mixture-in-mixture designs: Develop sophisticated experiments for immiscible liquids or multilayer films involving separate formulations that may interact.
+
+    Add blocks D-optimally: This feature will be especially useful for mixture designs, which previously could not be blocked automatically.
+
+    Mixture design builder recognizes inverted simplexes and constrained regions that benefit by being inverted: This provides dramatic advantages in the power for estimating model terms.
+
+    Points on 3D graphs: See "lollipops" protruding from surfaces where actual responses were collected.
+
+    Row(s) in the design layout are highlighted when point(s) are selected on the diagnostics: The highlighting feature makes identification of problematic data much easier.
+
+    Numerical optimization solutions are now carried over to graphical optimization and point prediction: Explore the results of the numerical optimization on other screens. 
+
+
+
+
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+Sharing is Caring
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+Questions and Feedback are WELCOME
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+If you like the upload, take a second to say 'Thanks'
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------

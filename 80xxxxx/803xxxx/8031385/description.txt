@@ -1,0 +1,56 @@
+Bring back the Windows┬« "Start" menu with Start8Γäó! We put the "Start" menu back in Windows 8. We accurately recreated the most used desktop feature billions of users depend on every day and packed it with additional functionality.
+
+- Windows 7-style Start menu with Windows 8 enhancements
+- Search for Windows 8-style (Modern UI) apps
+- Pin desktop and Metro apps
+- Boot directly to the Windows 8 desktop
+- Windows 8 Start screen accessible from the Start menu
+
+Changes in 1.1:
+Added rename support in the tree
+Added drag & drop including rearranging items in the all programs tree.
+Added feature : Folders pinned to the startmenu allow you to view the first X items as a jumplist
+Added opening Winkey+X menu option instead of start menu
+Added feature : Custom places locations. Add a Dropbox location for example.
+Additional language support
+Search box now allows %appdata% etc
+Improved go straight to desktop on login feature
+Added option to disable multiple monitor corner stickiness feature of Windows 8
+Added option to make right clicking the start button when at the bottom of the screen open the Win + X menu
+Added support for automatically checking for updates every week (control from About page)
+Added support for shell: link execution via search
+Right clicking on empty areas of the Start menu shows the Configure Start8 option.
+Modified custom places to support libraries
+Tweaked pin to start menu code
+Modified jumplist code to handle case of pinning an item resulting in the unpinned items disappearing sometimes
+Modified jumplist code to handle the case of pinned items not showing after clearing recent docs lists
+Tweaked jumplists code to handle jumplists not showing for all apps when recently opened programs option is disabled in the OS.
+Modified config UI to grey out the inactive start menu style.
+Tweak to resolve a rare race condition crash on guest account login.
+Modified code to make recently run apps list update directly after launches rather than after the next time the menu is closed.
+Menu key on keyboard now opens menu for selected search results.
+Additional workaround for slow recent apps list population due to Windows defender bug.
+Expanded the size of some UI elements to handle translations to more wordy languages
+Jump lists now respect the OS setting for the number of entries shown
+Shutdown button no longer ignores clicks if the mouse has moved
+Start menu lines now appear correctly even in higher dpi modes
+When at the bottom of the screen the startmenu no longer allocates space for one additional places list item
+Added option to make custom places appear at the top of the places list.
+Fixed issue with Putty and jumplist not showing blank entries which did not launch the right things
+Fixed issue with Live Photo Gallery not opening images up in preview mode
+Performance enhancements in the all programs tree to workaround a flaw in Windows Defender
+Resolved a problem with the start menu position when the taskbar was on the right and there is a docked app
+Send to sub menu now allowed on the tree right click menu.
+UI supports translation via lng files. See langen.lng file for info
+When using the search box to view folders the performance is now improved
+Tweaks to search to reduce memory usage slightly
+Option to make places list entries take less room thus allowing more to show in less space
+Rearranging pinned shortcuts is now faster
+Places menus no longer select the first entry
+Recent items list no longer includes folders
+Deleting an item from the all programs list will delete it instantly from the tree vs waiting until the next refresh
+Tree now includes hidden items
+Added registry key option to hide tooltips in the startmenu. This is HKEY_CURRENT_USERSoftwareStardockStart8Start8.iniStart8HideTips = 1
+
+Homepage: www.stardock.com/products/start8/
+Language: (English)

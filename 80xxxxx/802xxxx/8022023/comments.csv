@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,xevilx,2013-01-15T04:51Z,"It says it's an SDRIP, but 105 MB for 11:00 sounds HD to me."
+[T],MrUnpopular,2013-01-15T04:56Z,"It's HD-ish, but the size of the video isn't quite big enough to be 720p so we didn't label it as that."
+,Ryan_Marks,2013-01-15T05:06Z,downloading now.
+,kakkoister,2013-01-15T05:44Z,"Are you guys a bit new to the release scene? The width of this video is 1280, so this is considered 720p/HD. Shows are often being filmed in wider aspect ratios that result in the height of 1080/720p version being below those actual numbers, but still being considered HD format based on the width.
+
+Also, the compression settings you are using seem pretty atrocious for a cartoon. Don't use the same compression type for cartoons that you use for live action. Do an average bitrate two-pass, with an uneven-multihexagonal search set to max. Raise the maximum consecutive B-Frames to something like 16, to be able to use B-Frames as reference. Low the I-Frames GOP min size to something like 25. And turn on Mixed References, Chroma Motion Estimation and DCT Decimation on P-Frames.
+
+If your encoding software doesn't have those features... It's not very good heh. Use AVIDEMUX."
+[T],MrUnpopular,2013-01-15T06:17Z,"Nah we understand how aspect ratios work. We've been around for almost a year. This was a webrip from YouTube because we forgot to cap it (and if we did it would have been a tvrip) so we just went with this. I thought that it had to be 1280x720 to be labelled as 720p, oops. We're pretty noobish. We usually encode with Handbrake because it's quick and easy but when we encode in segments while capping we do use Avidemux....only to join the files.
+
+Thanks for the pointers though. Will definitely experiment, just never really had any help before and self taught ourselves pretty crappily."
+,kakkoister,2013-01-15T06:59Z,"Ahh, no problem! And sorry if it came off a bit dickish or preachy. You replied in a very respectful manner, cheers. :)
+
+To give further advice, AVIDEMUX does have a queue feature to easy do batch conversion to a bunch of files, like Handbrake. You can also save your video encode configuration as a preset to instantly choose, so there's no need to keep re-setting the same optimal settings on each relaunch of the app :)"
+[T],MrUnpopular,2013-01-15T07:25Z,"Nah, didn't view your reply as dickish or anything - the suggestions help. Being self taught and not knowing where to look much since you don't have any connections is hard, we just encoded with what we thought was best. (deinterlace, crop, crf value as the bitrate, etc - nothing to special)
+
+Thanks again. I'll look into Avidemux a bit more, it does seem promising based on how you speak highly of it."
+,hedgeknight,2013-01-15T10:02Z,"For the first time in history, you successfully beat SceneAccess to a download. I applaud you."
+,mhamer6,2013-01-16T00:24Z,"Fast download, Great quality. More than I would expect out of a torrent from you guys. Thanks!"
+,mhamer6,2013-01-16T00:24Z,I'll seed until the next episode comes out.
+,cuteycindyhoney,2013-01-16T20:43Z,"When they said ""We're in it for the fun and not to please you."" I thought they were kidding. Now I know to avoid any future releases from UNPOPULAR. It actually looks like they went to a thrift store and bought a VCR for five bucks to record the episode with. The video quality can't even truthfully be referred to as QUALITY! It's literally the worst download I have seen since people used encode as realplayer files!"
+[T],MrUnpopular,2013-01-17T00:59Z,:trollface:
+,wtrsnds,2013-01-17T23:14Z,"Hey! Thanks for this! You make my life easier, just so you know. "
+,roumor2,2013-01-18T03:40Z,laggy shit. don't download

@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+[V],tykoon123,2013-01-10T21:54Z,Seed and Enjoy :)
+,alex3220,2013-01-10T22:57Z,wscrack_32 not working for me
+,alex3220,2013-01-10T23:00Z,",m"
+,lobalt,2013-01-12T00:02Z,Does this affect the ability to keep downloading legit apps? I heard the first W8 hack made issues with legit app downloads alongside crackle ones
+,bg4545,2013-01-15T03:46Z,I haven't had any issues downloading legit apps even with cracked ones.
+,puga831,2013-01-17T17:09Z,"Kept getting ...""The executable program that this service is configured to run in does not implement the service""
+what worked for me was
+1. opened TokensExtractor.exe tried to crack trial app and failed 
+(Test licence could not be installed. Did you install WSServiceCrk ?)
+2. ran wscrack_64 installer.exe as admin and clicked uninstall
+3. while still on the program clicked install (WSService crack was successfully installed !)
+4. went to wscrack_anycpu TokensExtractor.exe
+5. Clicked on Bruteforce tokens.dat 
+6. Selected (trial) app and pressed Crack it !  (Cracked !)"
+,pspcow,2013-01-19T19:02Z,This works FLAWLESSLY thanks UL!!

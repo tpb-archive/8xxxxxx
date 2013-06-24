@@ -1,0 +1,63 @@
+Description:
+
+Total Uninstall 6.2.1 Professional Edition Portable (Multilingual)
+
+
+Credits To : Fuken Gruven
+
+ 
+http://i.imgur.com/EpFdM.png
+
+
+Total Uninstall utility removes any program easily.
+
+
+
+Accurate analyzes installed programs to uninstall them completely.
+With Installed Programs module Total Uninstall analyze the installed program and create the installation log. This is used to do a complete uninstall even without the help of the provided standard uninstaller from Add Remove Programs.
+
+
+
+Total Uninstall utility can monitor new installations.
+With onitored Programs module it helps to monitor any changes made to your system during the installation of a new program. It allows you to perform a complete uninstall without having to rely on the supplied Add Remove program, which can leave files or changes behind.
+
+Website: 
+ 
+http://www.martau.com/
+
+Size: 15.3 MB | 11.4 MB (extracted)
+
+Category: Development
+
+Synopsis: Analyze, monitor and uninstall programs.
+
+Writes settings to: ProgramData. (Launcher takes care of this)
+
+How to install: extract to desired location, launch 'TotalUninstallPortable.exe'.
+
+Stealth [?]: Yes
+
+UNC: Yes
+
+CRC-32: 8D0AB1CC
+
+Dependencies: Administrative rights
+
+System Requirements: WinAll, 32/64. (Win8)
+
+
+**** Pin to Start Menu? Windows prohibit pinning if the name contain "Install". To bypass navigate to HKLMSOFTWAREMicrosoftWindowsCurrentVersionExplorerFileAssociation and remove "Install" from "AddRemoveNames" subkey. Restart and you'll be able to pin this to the Start Menu.  *****
+
+
+Pre Registered. Block Tu.exe in your firewall from calling Home.
+
+Changelog: (Dec. 26)
+ Massive RESPECT goes out to PAXEL.
+
+Changelog: (Jan. 26)
+ added multi-languages for launcher.
+ TuAgent fixed: no longer an issue.
+ Registration name (Branding) option.
+
+Changelog: (Jan. 26) Revision. 2
+ fixed CleanerDefinitions.xml. (or you can simply rename if you don't want to redownload)

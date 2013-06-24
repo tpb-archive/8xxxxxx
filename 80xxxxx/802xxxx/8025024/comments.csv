@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,mooserocka,2013-01-16T01:07Z,Honestly if you have not seen this anime unt you live under a rock. It is a must see if you havent. I am so tired of this anime i cant watch it agaidu Lt was on adult swim repeat for 8 years. NO MORe lol.
+,SaTaNiK1,2013-01-16T13:22Z,"Damn, you beat me to releasing this! Well done! I was just about to start encoding. I think I can do better with the file size though. That grain is tricky but I think I got it beat. So many preview encodes! I will wait till I have them all done before releasing though."
+[V],Daman4Iife,2013-01-16T14:18Z,"satanik, is not just the grain, Bebop has way to many dark scenes and space in the videos reducing the Bitrate to slow and they become blocky, well in my eyes they do at least. 30inch Monitor 1600p.
+the source had a few few problems here and there around dark edges and space."
+,SaTaNiK1,2013-01-16T19:13Z,"8bit encoding will always have problems with dark scenes. Wish Handbrake would enable 10bit encoding. I really love that program, can't stand the other ones that support 10bit.
+
+I pretty much had to max out what x264 is even capable of to get a decent size on this. It is going to take around 30 hours of encoding per episode on a i7-2600k @ 4.8Ghz ^_^"
+,asbolina,2013-01-16T20:48Z,"SaTaNiK1: using placebo preset or any kind of insanely slow settings won't retain the grain or dithering better. If you filter the grain, use a luma mask to keep it in the dark areas to avoid blocking. Crank up the AQ mode 3 to 11 or use zones on specific sections to force a low quantizer so x264 won't wipe it out. Of course this means you need to spend time on the settings and redo (parts of) the encode until everything is ok.
+
+But frankly, tossing aside 10 bit encoding just because of Handbake... Why not trying CLI encoding? "
+[V],Daman4Iife,2013-01-16T22:05Z,"it shouldnt take a 2600k anywhere near 30hours to finish a 1080p video.
+are you sure Handbrake is using 100% Cpu?
+"
+[V],Daman4Iife,2013-01-16T22:06Z,"you might wana try avisynth with MT. 
+and Megui or Staxrip"
+,Team_Alice,2013-01-17T05:46Z,wow 3 gigs for one episode. I think i'll stick to the 52mb copy i have lol
+,SaTaNiK1,2013-01-19T13:41Z,I have every setting maxed out in handbrake advanced and 10 ref frames. So it is to be expected. I need to play with it some more to try and reduce encoding time. It does not really bother me how long it takes to encode. I only have to do it once and it save space on my XBMC for ever. 100% maxed out cpu usage btw. I am encoding all of Naruto Shippuuden right now so it will be a while before I start my encode anyway.
+,m2ke,2013-01-24T03:12Z,"Excellent work, thank you for taking the time to include the various audio tracks and subtitles.  Looking forward to the rest of the episodes!  "
+,kenneth0077,2013-03-17T06:12Z,Why is it when I download this it comes up as a file and not a video?
+,kenneth0077,2013-03-17T06:14Z,"Nevermind, guess my download got corrupted or something because when I redownload it, it comes up as mkv file"

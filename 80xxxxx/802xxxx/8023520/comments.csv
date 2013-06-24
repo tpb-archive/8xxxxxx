@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,xonexyps,2013-01-15T21:02Z,how did you figure it out the way it was encrypted? bruteforce?
+,machosalad,2013-01-16T11:59Z,"To figure out how it was encrypted i first created an empty weaponlist.wep and wrote 1234 in it. When i then started pocket tanks and looked at the weapon packs installed i saw a random string at the end of the list. It looked like this: 2*0,
+
+When i then replaced the 1234 with 2*0, i got the string 1234. This gave me the clue that the encryption process is reversible and that 1234 = 2*0,
+
+I tried lots of other strings to figure out exactly how the encryption process works. After a couple of days i managed to encrypt the weapon files using this technique, but it didn't quite look right. There was another encryption process where all bytes where displaced."
+,machosalad,2013-01-16T12:05Z,"Part2:
+
+After decrypting the weapon files and peeked at it with a hex editor i saw the first bytes looked like this: ♫↕igi↕♫lOr30♫na↕
+This was from weaponslist.wep which contain the first 30 weapons. After inspecting the string i saw the characters spell Original 30. This meant that the pack name was ""Original"" and that it had 30 weapons. When i changed the string to ♫↕345↕♫81299♫67↕ and encrypted the file and started pocket tanks i saw the original pack had changed name to 12345678 (99). This gave me a clue on how the byte displacement encryption process worked. after playing around with it some more i noticed the bytes where displaced at a chunk of 16."
+,xonexyps,2013-01-24T02:42Z,"Congratz, you really did a great job, nice observation. I tested your decrypter and it really works. The process of making weapons could be possible, but it would require a lot of time and lot reverse engineering.  Thanks"
