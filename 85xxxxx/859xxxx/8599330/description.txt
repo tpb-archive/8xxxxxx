@@ -1,0 +1,23 @@
+aFirewall means Android Firewall. It allows you to configure multi rules to block different call or message at different time. Periodic rule and one shot time rule are supported.
+-------------------------------
+Please open aFirewall from Home instead of Play Store after installation.
+-------------------------------
+---aFirewall basics---
+Γÿå To make sure aFirewall has higher priority to monitor incoming messages, please install aFirewall before other third-party messaging applications such Go SMS Pro, Handcent etc.
+Γÿå Black list is the default list to be blocked. By default, you only need to put the number into black list if you want to block it; Check on "Unknown and private" in black list to block unknown/private/restricted/anonymous calls;
+Γÿå Number in protected list will never be blocked; Protected conversation supports to hide protected list numbers' call/SMS/MMS;
+---What can rule do?---
+Γÿå How to hangup call; Multi hangup mode are supported. You can forward the blocked calls to voicemail or a non-existing number. And you can set aFirewall to accept and hangup blocked calls to avoid forwarding to voicemail;
+Γÿå how to block group lists; You can set Call Blocking lists and Message Blocking lists separately;
+Γÿå how to response blocked calls and messages;
+---aFirewall data---
+Γÿå Support to backup all aFirewall data to sdcard directory with xml format; and restore aFirewall settings from sdcard directory;
+Γÿå Based on BackupToEmail application, support to backup blocked log and protected log to Gmail;
+---aFirewall security---
+Γÿå Password/Fake password supported;
+Γÿå Support to hide aFirewall application icon, you can open it with SimpleDialer or system dialer;
+---More features---
+Γÿå Outgoing call blocking supported;
+Γÿå Prefix wildcard supported;
+Γÿå SMS keywords Block is supported;
+Γÿå Support to block SMS message from Email address; But aFirewall does not support to block Email;

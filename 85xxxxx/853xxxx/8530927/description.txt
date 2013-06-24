@@ -1,0 +1,40 @@
+Elecbyte finally released a new alpha for 1.1. 
+http://elecbyte.com/blog
+What's New in Version 1.1a4
+    Graphical fixes
+    * Fixed palette reservation bug.
+    * Fixed round fade in.
+    * Fixed a shadow flipping bug.
+    * Fixed projectile ownpal=0 bug.
+    Engine fixes
+    * Fixed F4 not resetting life in survival.
+    * Fixed victory screen showing wrong portrait in turns.
+    * Fixed bug where victory screen can't be disabled by motif.
+    * Fixed F1 and Ctrl-F1 debugkeys swapped.
+    * Disabled debug keys outside of fight screen.
+    -KFM materials were missing from the package. Download link provided plus the original package was  updated.  
+  System Requirements:
+Operating system :Windows XP (SP2) / Windows Vista, Windows 7
+Processor :4.3+ GHz or better
+RAM :1 GB RAM
+Free space on HDD :90 Mb
+Video :256 MB or higherUsing M.U.G.E.N
+After downloading M.U.G.E.N, unzip it into a new folder and double-click mugen.exe to run.
+The majority of content created for M.U.G.E.N tends to be distributed
+as individual characters, stages or motifs. Assembling a game is as
+simple as downloading the content of your choice, and configuring
+M.U.G.E.N to know about it.
+M.U.G.E.N is designed to be used by people with little or no
+programming experience, but with some artistic talent and patience to
+learn. Of course, having some programming background does give you a
+bit of a headstart. However, if you are just looking to play with
+downloaded content, all you need to know is how to unzip files and edit a
+text file.
+Here's a sampling of features you can find in M.U.G.E.N:
+Customizable title screen, character select screen, life and bars, game sound effects, fonts and more.Characters can have any number of sounds and sprites of any size limited by your computer's memory.Choose from multiple resolutions, ranging from 320x240 up to full HD at 1920x1080.Cutscenes, intros and endings.
+Game Engine
+Use up to 7 buttons for a character.Regular moves, special moves, super moves, etc.Projectiles and special effects.Move cancels and combos, multi-part moves and throws.What your character can do is defined by a scripting language (and your imagination).
+
+[img]http://neuropod.net/imagehost/uploads/f937f9237a8b7fd3b24fcc3d7d132cd4.jpg[/img]
+[img]http://neuropod.net/imagehost/uploads/42f5cc8719a4dbe6acdf2085c397c77d.jpg[/img]
+[img]http://neuropod.net/imagehost/uploads/e7777ee03e8094ab9650badac5651860.jpg[/img]

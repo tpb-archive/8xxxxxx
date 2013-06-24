@@ -1,0 +1,102 @@
+This is a complete audio CD image.
+
+
+Format: WAV
+
+Disc 1 of 1
+
+
+Please Seed!
+
+
+You will need Exact Audio Copy (http://www.exactaudiocopy.de/) to properly write the audio disc.
+
+1.	"Razor Love"   					3:02
+2.	"Carrying Over"   				3:50
+3.	"Babes in Abyss"   				3:15
+4.	"Paint It Black"   				3:19
+5.	"Better than You Know"  		 	5:37
+6.	"Book of Black Dreams"   			3:32
+7.	"Asura"   					3:24
+8.	"The Last Story Ever"   			3:33
+9.	"Phantasmagore"   				5:04
+10.	"Time (I Am the Great Destroyer of Worlds)"   	3:08
+11.	"Health & Theory"   				4:55
+
+Specifications
+Release Date: 22 August 2006
+Label: Elementree Records
+Run Time: 42:40 minutes
+
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 22. May 2013, 16:14
+
+Deadsy / Phantasmagore
+
+Used drive  : PLEXTOR DVDR   PX-716A   Adapter: 3  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : Yes
+
+Read offset correction                      : 30
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:02.72 |         0    |    13721   
+        2  |  3:02.72 |  3:50.70 |     13722    |    31041   
+        3  |  6:53.67 |  3:15.43 |     31042    |    45709   
+        4  | 10:09.35 |  3:19.10 |     45710    |    60644   
+        5  | 13:28.45 |  5:37.52 |     60645    |    85971   
+        6  | 19:06.22 |  3:32.35 |     85972    |   101906   
+        7  | 22:38.57 |  3:24.58 |    101907    |   117264   
+        8  | 26:03.40 |  3:33.50 |    117265    |   133289   
+        9  | 29:37.15 |  5:04.72 |    133290    |   156161   
+       10  | 34:42.12 |  3:08.73 |    156162    |   170334   
+       11  | 37:51.10 |  4:55.57 |    170335    |   192516   
+
+
+Range status and errors
+
+Selected range
+
+     Peak level 99.8 %
+     Extraction speed 6.3 X
+     Range quality 99.9 %
+     Copy CRC CFF1CDD0
+     Copy OK
+
+No errors occurred
+
+ 
+AccurateRip summary
+ 
+Track  1  accurately ripped (confidence 2)  [2EAD1E15]  (AR v2)
+Track  2  accurately ripped (confidence 2)  [7C211699]  (AR v2)
+Track  3  accurately ripped (confidence 2)  [B4F806B3]  (AR v2)
+Track  4  accurately ripped (confidence 2)  [1EE3E2E6]  (AR v2)
+Track  5  accurately ripped (confidence 2)  [EA3EC278]  (AR v2)
+Track  6  accurately ripped (confidence 2)  [7C99ED9C]  (AR v2)
+Track  7  accurately ripped (confidence 2)  [E278E77B]  (AR v2)
+Track  8  accurately ripped (confidence 2)  [DE5A9F2A]  (AR v2)
+Track  9  accurately ripped (confidence 2)  [7BF4429C]  (AR v2)
+Track 10  accurately ripped (confidence 2)  [902E1CFD]  (AR v2)
+Track 11  accurately ripped (confidence 2)  [91CDAB5E]  (AR v2)
+ 
+All tracks accurately ripped
+
+End of status report

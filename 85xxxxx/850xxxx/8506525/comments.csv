@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,ZtorkX86,2013-05-25T01:29Z,"Why is this one 80MB when the first one released is only 20MB and the update2 is around 50MB?
+
+Any changes after update2?"
+,IcemanSR,2013-05-25T01:32Z,"this is official reloaded update,dont mix it with others"
+,XtraZoom,2013-05-25T04:21Z,Question! This is update 1.0.0.1 or newer 1.0.0.2?
+,XtraZoom,2013-05-25T04:37Z,nevermind I can answered it myself its 1.0.0.1 game developer is crazy to have 3 updates for a game in just few days.
+,ArkAngel666,2013-05-26T03:15Z,"@XtraZoom you'll more than likely find it's because of bugs and small glitches and the like that were found after mass production had commenced and they were testing retail releases. 
+
+It's an obvious decision to create a single or numerous update to distribute after launch as halting then discarding a production of hundreds of thousands of copies of games will only be destroyed and thus send development costs sky high."
+,johniecool,2013-05-26T08:01Z,"Hi Mr,thnx for the up.I have a problem though.When i try to instal the update it says i have to instal phys x athough i have it any ideas?"
+,krazykyle,2013-05-26T17:05Z,"This was written on ""whatsnew.txt"" 
+
+Major changes include:
+
+The Incredible Adventures of Van Helsing v1.0.01
+
+Known issues:
+- The multiplayer game still has some issues. Please use it with a character created for the multiplayer only because data loss may occur sometimes.
+
+Balance changes:
+- The Blood Rabbit is a lot stronger now.
+- The monsters in the Sewers around the Secret Lair are weaker now.
+- The final wave of attackers in the Siege of the Secret Lair has been reduced in numbers.
+- The price of some epic items has been modified.
+- The shooting range of the Dreadknechts has been decreased
+
+Fixed bugs:
+- Multiplayer
+	Fixed an issue at ""Online character"" saving.
+	A lot of crash/disconnect issues have been fixed.
+	The ping column has been removed from the game list.
+
+- Fixed an issue with the audio volumes.
+- Fixed an issue with Veteran Domovoys AI.
+- Fixed an issue with the scrollbar in the Ink Gate window.
+- The final boss will talk your head off - like he should do.
+- The outro movie is played when the final boss has collapsed - not when he gets the killing blow.
+- You could only select from the first 10 skills you've learned even though there are 11 active skills. This has been fixed.
+- Fixed crash on the Artifact Forge window.
+- Fixed an issue with conversations in different resolutions.
+- Localisation issues have been fixed in the German, Spanish, Hungarian and Portuguese language versions.
+- Cloak appears properly on Van Helsing when the equipped item is changed.
+- The area of the bridge detonation cutscene has been adjusted (it could be avoided)
+- Fixed a bug with the customize button. (It didn't save your settings if you used online character.)
+
+New features:
+- 2560x1080 and 6052x1200 resolutions are supported.
+
+You're Welcome."

@@ -1,0 +1,343 @@
+﻿Filename,Size,Unit
+00. Introduction/00.01.Welcome.mov,17.15,M
+00. Introduction/00.02.Using the exercise files.mov,1.16,M
+01. Overview of jQuery/01.01.What is JQuery.mov,3.6,M
+01. Overview of jQuery/01.02.Downloading and installing JQuery (NEW).f4v,8.13,M
+01. Overview of jQuery/01.03.Creating a simple JQuery-enabled page.mov,6.33,M
+01. Overview of jQuery/01.04.Overview of JQuery's (NEW).f4v,4.23,M
+02. Retrieving Page Content/02.01.Overview of Selectors nd filters.mov,1.38,M
+02. Retrieving Page Content/02.02.Using Basic JQuery selectors.mov,10.83,M
+02. Retrieving Page Content/02.03.Using basic JQuery filters.mov,10.67,M
+02. Retrieving Page Content/02.04.Using JQuery attribute filters.mov,8.42,M
+"02. Retrieving Page Content/02.05.Child, visibility, and content filters.mov",13.13,M
+02. Retrieving Page Content/02.06.Form selectors and filters.mov,10.37,M
+02. Retrieving Page Content/02.07.Traversing documents.mov,9.79,M
+02. Retrieving Page Content/02.08.Understanding JQuery statement chaining.mov,1.05,M
+02. Retrieving Page Content/02.09.Practical example 01 - Annotating page links.mov,7.19,M
+"03. Manipulating Page Content/03.01.Creating, getting, and setting content.mov",6.92,M
+03. Manipulating Page Content/03.02.Manipulating attributes.mov,6.33,M
+03. Manipulating Page Content/03.03.Inserting  content.mov,6.03,M
+"03. Manipulating Page Content/03.04.Wrapping, replacing, and removing content.mov",5.45,M
+03. Manipulating Page Content/03.05.Working with CSS.mov,7.94,M
+03. Manipulating Page Content/03.06.Associating data with page elements (NEW).f4v,29.25,M
+03. Manipulating Page Content/03.07.Practical example 02 - Automatic TOC generator.mov,20.78,M
+04. Working with Events/04.01.Understanding the JQuery event handling features.mov,1.37,M
+04. Working with Events/04.02.Binding and Unbinding events (NEW).f4v,20.56,M
+04. Working with Events/04.03.Convenient event helper methods (NEW).f4v,12.38,M
+04. Working with Events/04.04.Using the JQuery event object.mov,6.51,M
+04. Working with Events/04.05.Using miscellaneous event features.mov,4.82,M
+04. Working with Events/04.06.Practical example 3 - Table striping and highlighting (NEW).f4v,27.08,M
+05. jQuery Animations and Effects/05.01.Hiding and showing elements.mov,5.98,M
+05. jQuery Animations and Effects/05.02.Fading elements in and out.mov,5.22,M
+05. jQuery Animations and Effects/05.03.Sliding elements.mov,4.96,M
+05. jQuery Animations and Effects/05.04.Creating custom animations.mov,9.04,M
+05. jQuery Animations and Effects/05.05.Practical example 04 - Image rotator.mov,14.54,M
+06. Using the jQuery UI Plug-In/06.01.Introduction to JQuery UI (NEW).f4v,12.33,M
+06. Using the jQuery UI Plug-In/06.02.Exploring the JQuery UI widgets (NEW).f4v,17.51,M
+06. Using the jQuery UI Plug-In/06.03.Exploring the JQuery UI Effects (NEW).f4v,10.98,M
+06. Using the jQuery UI Plug-In/06.04.Using the JQuery UI ThemeRoller (NEW).f4v,13.1,M
+06. Using the jQuery UI Plug-In/06.05.Downloading and installing JQuery UI.f4v,26.7,M
+07. Putting It All Together/07.01.Overview of the sample web site.mov,11.3,M
+07. Putting It All Together/07.02.Using the Accordion widget.mov,20.19,M
+07. Putting It All Together/07.03.Creating an image rotator.mov,18.55,M
+07. Putting It All Together/07.04.Building hover tooltips.mov,15.27,M
+07. Putting It All Together/07.05.Making an image selector.mov,22.81,M
+07. Putting It All Together/07.06.Using the Resizable effect.mov,13.2,M
+08. Accessing Data with AJAX/08.01.Working with Asynchronous JavaScript and XML (AJAX).f4v,33.65,M
+08. Accessing Data with AJAX/08.02.Using AJAX helpers.f4v,13.75,M
+08. Accessing Data with AJAX/08.03.Understanding AJAX data types.f4v,33.62,M
+08. Accessing Data with AJAX/08.04.Using global AJAX event handlers.f4v,16.33,M
+09. Conclusion/09.01.Goodbye.mov,296.28,K
+Exercise Files/01_overview/FirstjQueryPage_finished.html,485,B
+Exercise Files/01_overview/FirstjQueryPage_start.html,397,B
+Exercise Files/02_retrieving/AttrFilters_finished.html,1.01,K
+Exercise Files/02_retrieving/AttrFilters_start.html,787,B
+Exercise Files/02_retrieving/AutoPDFIcons_Finished.htm,1.24,K
+Exercise Files/02_retrieving/AutoPDFIcons_Start.htm,1.27,K
+Exercise Files/02_retrieving/BasicFilters_finished.html,1.19,K
+Exercise Files/02_retrieving/BasicFilters_start.html,787,B
+Exercise Files/02_retrieving/BasicSelectors_finished.htm,960,B
+Exercise Files/02_retrieving/BasicSelectors_start.htm,752,B
+Exercise Files/02_retrieving/ChildVisCont_finished.html,1.09,K
+Exercise Files/02_retrieving/ChildVisCont_start.html,799,B
+Exercise Files/02_retrieving/FormSelectors_finished.html,2.88,K
+Exercise Files/02_retrieving/FormSelectors_start.html,2.58,K
+Exercise Files/02_retrieving/HierCombo_finished.html,988,B
+Exercise Files/02_retrieving/HierCombo_start.html,763,B
+Exercise Files/02_retrieving/images/smail.gif,124,B
+Exercise Files/02_retrieving/images/small_pdf_icon.gif,154,B
+Exercise Files/02_retrieving/traversing_finished.html,1.46,K
+Exercise Files/02_retrieving/traversing_start.html,774,B
+Exercise Files/03_manipulating/attributes_finished.htm,735,B
+Exercise Files/03_manipulating/attributes_start.htm,578,B
+Exercise Files/03_manipulating/AutoTOC_finished.html,23.4,K
+Exercise Files/03_manipulating/AutoTOC_start.html,22.64,K
+Exercise Files/03_manipulating/creating_finished.htm,1.16,K
+Exercise Files/03_manipulating/creating_start.htm,763,B
+Exercise Files/03_manipulating/css_sizing.htm,1.9,K
+Exercise Files/03_manipulating/data_finished.html,1.43,K
+Exercise Files/03_manipulating/data_start.html,1000,B
+Exercise Files/03_manipulating/images/Grass.jpg,448.84,K
+Exercise Files/03_manipulating/images/Leaf.jpg,384.07,K
+Exercise Files/03_manipulating/images/Spring.jpg,352.3,K
+Exercise Files/03_manipulating/images/Water.jpg,480.56,K
+Exercise Files/03_manipulating/inserting_finished.htm,936,B
+Exercise Files/03_manipulating/inserting_start.htm,752,B
+Exercise Files/03_manipulating/wrapping_finished.htm,898,B
+Exercise Files/03_manipulating/wrapping_start.htm,752,B
+Exercise Files/04_events/binding_finished.htm,1.68,K
+Exercise Files/04_events/binding_start.htm,819,B
+Exercise Files/04_events/eventobj_finished.htm,1.13,K
+Exercise Files/04_events/eventobj_start.htm,942,B
+Exercise Files/04_events/helpers_finished.htm,1.21,K
+Exercise Files/04_events/helpers_start.htm,816,B
+Exercise Files/04_events/miscevents_finished.htm,1.07,K
+Exercise Files/04_events/miscevents_start.htm,924,B
+Exercise Files/04_events/tablestripe_finished.html,2.21,K
+Exercise Files/04_events/tablestripe_start.html,1.51,K
+Exercise Files/05_effects/animating.htm,1.42,K
+Exercise Files/05_effects/fadeeffect.htm,1.48,K
+Exercise Files/05_effects/imagerotator_finished.htm,1.87,K
+Exercise Files/05_effects/imagerotator_prevnext.htm,1.99,K
+Exercise Files/05_effects/imagerotator_start.htm,1.24,K
+Exercise Files/05_effects/images/Grass.jpg,448.84,K
+Exercise Files/05_effects/images/Leaf.jpg,384.07,K
+Exercise Files/05_effects/images/Spring.jpg,352.3,K
+Exercise Files/05_effects/images/Water.jpg,480.56,K
+Exercise Files/05_effects/showhide.htm,1.32,K
+Exercise Files/05_effects/sliding.htm,1.34,K
+Exercise Files/07_realsite/Groundswell_Final/_assets/banner.gif,24.02,K
+Exercise Files/07_realsite/Groundswell_Final/_css/main.css,15.37,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/animated-overlay.gif,1.7,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_diagonals-medium_20_d34d17_40x40.png,382,B
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_flat_30_cccccc_40x100.png,220,B
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_flat_50_5c5c5c_40x100.png,230,B
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_gloss-wave_45_817865_500x100.png,5.75,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_gloss-wave_60_fece2f_500x100.png,5.71,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_gloss-wave_70_ffdd57_500x100.png,5.41,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_gloss-wave_90_fff9e5_500x100.png,5.26,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_highlight-soft_100_feeebd_1x100.png,343,B
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-bg_inset-soft_30_ffffff_1x100.png,203,B
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_3d3d3d_256x240.png,6.83,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_bd7b00_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_d19405_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_eb990f_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_ed9f26_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_fadc7a_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/images/ui-icons_ffe180_256x240.png,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/jquery-ui-1.10.2.custom.css,31.24,K
+Exercise Files/07_realsite/Groundswell_Final/_css/sunny/jquery-ui-1.10.2.custom.min.css,26.31,K
+Exercise Files/07_realsite/Groundswell_Final/_images/bamboo_boarder.jpg,1.95,K
+Exercise Files/07_realsite/Groundswell_Final/_images/banner.jpg.gif,24.02,K
+Exercise Files/07_realsite/Groundswell_Final/_images/board_ad.jpg,37.47,K
+Exercise Files/07_realsite/Groundswell_Final/_images/board_icon_over.jpg,1.62,K
+Exercise Files/07_realsite/Groundswell_Final/_images/board_icon_up.jpg,1.07,K
+Exercise Files/07_realsite/Groundswell_Final/_images/contact_icon.gif,352,B
+Exercise Files/07_realsite/Groundswell_Final/_images/contact_icon_dual.gif,1.16,K
+Exercise Files/07_realsite/Groundswell_Final/_images/crunge_large.jpg,60.41,K
+Exercise Files/07_realsite/Groundswell_Final/_images/crunge_large.png,190.85,K
+Exercise Files/07_realsite/Groundswell_Final/_images/crunge_medium.jpg,25.67,K
+Exercise Files/07_realsite/Groundswell_Final/_images/crunge_small.jpg,11.19,K
+Exercise Files/07_realsite/Groundswell_Final/_images/current.jpg,1.54,K
+Exercise Files/07_realsite/Groundswell_Final/_images/fearless_board.jpg,11.73,K
+Exercise Files/07_realsite/Groundswell_Final/_images/fearless_large.jpg,58.86,K
+Exercise Files/07_realsite/Groundswell_Final/_images/fearless_large.png,170.41,K
+Exercise Files/07_realsite/Groundswell_Final/_images/fearless_medium.jpg,18.99,K
+Exercise Files/07_realsite/Groundswell_Final/_images/fearless_small.jpg,8.1,K
+Exercise Files/07_realsite/Groundswell_Final/_images/gear_banner.jpg,36.03,K
+Exercise Files/07_realsite/Groundswell_Final/_images/gear_icons.gif,3.49,K
+Exercise Files/07_realsite/Groundswell_Final/_images/header_background.jpg,8.73,K
+Exercise Files/07_realsite/Groundswell_Final/_images/home_banner.jpg,31.08,K
+Exercise Files/07_realsite/Groundswell_Final/_images/josh.jpg,13.56,K
+Exercise Files/07_realsite/Groundswell_Final/_images/journal_icon.gif,1.37,K
+Exercise Files/07_realsite/Groundswell_Final/_images/lifestyle_banner.jpg,39.61,K
+Exercise Files/07_realsite/Groundswell_Final/_images/logo.gif,1.79,K
+Exercise Files/07_realsite/Groundswell_Final/_images/nav_rollover.jpg,2.98,K
+Exercise Files/07_realsite/Groundswell_Final/_images/new_01.jpg,14.33,K
+Exercise Files/07_realsite/Groundswell_Final/_images/new_02.jpg,17.39,K
+Exercise Files/07_realsite/Groundswell_Final/_images/new_03.jpg,10.36,K
+Exercise Files/07_realsite/Groundswell_Final/_images/new_04.jpg,9.76,K
+Exercise Files/07_realsite/Groundswell_Final/_images/page_background.jpg,6.83,K
+Exercise Files/07_realsite/Groundswell_Final/_images/sandals_icon_over.jpg,2.67,K
+Exercise Files/07_realsite/Groundswell_Final/_images/sandals_icon_up.jpg,1.67,K
+Exercise Files/07_realsite/Groundswell_Final/_images/shirt_list.jpg,13.77,K
+Exercise Files/07_realsite/Groundswell_Final/_images/surf1.jpg,12.97,K
+Exercise Files/07_realsite/Groundswell_Final/_images/surfing.jpg,6.35,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swell_suit.jpg,5.99,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swells_large.jpg,40.33,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swells_large.png,135.9,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swells_medium.jpg,14.81,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swells_small.jpg,7.31,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swim_icon_over.jpg,2.38,K
+Exercise Files/07_realsite/Groundswell_Final/_images/swim_icon_up.jpg,1.5,K
+Exercise Files/07_realsite/Groundswell_Final/_images/towel_list.jpg,8.56,K
+Exercise Files/07_realsite/Groundswell_Final/_images/velvet_large.jpg,57.55,K
+Exercise Files/07_realsite/Groundswell_Final/_images/velvet_large.png,186.11,K
+Exercise Files/07_realsite/Groundswell_Final/_images/velvet_medium.jpg,24.51,K
+Exercise Files/07_realsite/Groundswell_Final/_images/velvet_small.jpg,11.25,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_01.jpg,45.4,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_01_thumb.jpg,11.21,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_02.jpg,62.18,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_02_thumb.jpg,17.78,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_03.jpg,50.13,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_03_thumb.jpg,12.07,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_04.jpg,63.64,K
+Exercise Files/07_realsite/Groundswell_Final/_images/ventura_04_thumb.jpg,15.35,K
+Exercise Files/07_realsite/Groundswell_Final/_images/video_banner.jpg,28.99,K
+Exercise Files/07_realsite/Groundswell_Final/_images/video_thumb01.jpg,13.79,K
+Exercise Files/07_realsite/Groundswell_Final/_images/video_thumb02.jpg,11.28,K
+Exercise Files/07_realsite/Groundswell_Final/_images/video_thumb03.jpg,20.21,K
+Exercise Files/07_realsite/Groundswell_Final/_images/video_thumb04.jpg,11.26,K
+Exercise Files/07_realsite/Groundswell_Final/_images/weather_mockup.gif,36.56,K
+Exercise Files/07_realsite/Groundswell_Final/_images/wetsuit_icon_over.jpg,2.35,K
+Exercise Files/07_realsite/Groundswell_Final/_images/wetsuit_icon_up.jpg,1.46,K
+Exercise Files/07_realsite/Groundswell_Final/_images/wish.jpg,8.31,K
+Exercise Files/07_realsite/Groundswell_Final/_images/woody.jpg,18.08,K
+Exercise Files/07_realsite/Groundswell_Final/_scripts/jquery-1.3.2.min.js,55.91,K
+Exercise Files/07_realsite/Groundswell_Final/_scripts/jquery-1.9.1.js,262.09,K
+Exercise Files/07_realsite/Groundswell_Final/_scripts/jquery-ui-1.10.2.custom.js,425.87,K
+Exercise Files/07_realsite/Groundswell_Final/_scripts/jquery-ui-1.7.2.custom.min.js,188.11,K
+Exercise Files/07_realsite/Groundswell_Final/gear.htm,3.36,K
+Exercise Files/07_realsite/Groundswell_Final/gear/board_comparison.htm,3.54,K
+Exercise Files/07_realsite/Groundswell_Final/gear/boards.htm,5,K
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_crunge.htm,4.29,K
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_crunge_large.htm,312,B
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_fearless_large.htm,314,B
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_swells.htm,4.44,K
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_swells_large.htm,312,B
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_velvet.htm,4.25,K
+Exercise Files/07_realsite/Groundswell_Final/gear/boards_velvet_large.htm,312,B
+Exercise Files/07_realsite/Groundswell_Final/index.htm,8.02,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle.htm,2.62,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/conditions.htm,1.52,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/journal.htm,5.24,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/photos.htm,3.54,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/register.htm,6.9,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/register_novalid.htm,5.83,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/registration_complete.htm,2.37,K
+Exercise Files/07_realsite/Groundswell_Final/lifestyle/tourdates.htm,4.12,K
+Exercise Files/07_realsite/Groundswell_Final/videos.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Final/videos2.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Final/videos3.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Final/videos4.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Start/_assets/banner.gif,24.02,K
+Exercise Files/07_realsite/Groundswell_Start/_css/main.css,14.94,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_diagonals-medium_20_d34d17_40x40.png,247,B
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_flat_30_cccccc_40x100.png,180,B
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_flat_50_5c5c5c_40x100.png,180,B
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_gloss-wave_45_817865_500x100.png,3.88,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_gloss-wave_60_fece2f_500x100.png,3.43,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_gloss-wave_70_ffdd57_500x100.png,3.05,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_gloss-wave_90_fff9e5_500x100.png,2.2,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_highlight-soft_100_feeebd_1x100.png,108,B
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-bg_inset-soft_30_ffffff_1x100.png,100,B
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_3d3d3d_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_bd7b00_256x240.png,5.23,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_d19405_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_eb990f_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_ed9f26_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_fadc7a_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/images/ui-icons_ffe180_256x240.png,4.27,K
+Exercise Files/07_realsite/Groundswell_Start/_css/sunny/jquery-ui-1.7.2.custom.css,26.82,K
+Exercise Files/07_realsite/Groundswell_Start/_images/bamboo_boarder.jpg,1.95,K
+Exercise Files/07_realsite/Groundswell_Start/_images/banner.jpg.gif,24.02,K
+Exercise Files/07_realsite/Groundswell_Start/_images/board_ad.jpg,37.47,K
+Exercise Files/07_realsite/Groundswell_Start/_images/board_icon_over.jpg,1.62,K
+Exercise Files/07_realsite/Groundswell_Start/_images/board_icon_up.jpg,1.07,K
+Exercise Files/07_realsite/Groundswell_Start/_images/contact_icon.gif,352,B
+Exercise Files/07_realsite/Groundswell_Start/_images/contact_icon_dual.gif,1.16,K
+Exercise Files/07_realsite/Groundswell_Start/_images/crunge_large.jpg,60.41,K
+Exercise Files/07_realsite/Groundswell_Start/_images/crunge_large.png,190.85,K
+Exercise Files/07_realsite/Groundswell_Start/_images/crunge_medium.jpg,25.67,K
+Exercise Files/07_realsite/Groundswell_Start/_images/crunge_small.jpg,11.19,K
+Exercise Files/07_realsite/Groundswell_Start/_images/current.jpg,1.54,K
+Exercise Files/07_realsite/Groundswell_Start/_images/fearless_board.jpg,11.73,K
+Exercise Files/07_realsite/Groundswell_Start/_images/fearless_large.jpg,58.86,K
+Exercise Files/07_realsite/Groundswell_Start/_images/fearless_large.png,170.41,K
+Exercise Files/07_realsite/Groundswell_Start/_images/fearless_medium.jpg,18.99,K
+Exercise Files/07_realsite/Groundswell_Start/_images/fearless_small.jpg,8.1,K
+Exercise Files/07_realsite/Groundswell_Start/_images/gear_banner.jpg,36.03,K
+Exercise Files/07_realsite/Groundswell_Start/_images/gear_icons.gif,3.49,K
+Exercise Files/07_realsite/Groundswell_Start/_images/header_background.jpg,8.73,K
+Exercise Files/07_realsite/Groundswell_Start/_images/home_banner.jpg,31.08,K
+Exercise Files/07_realsite/Groundswell_Start/_images/josh.jpg,13.56,K
+Exercise Files/07_realsite/Groundswell_Start/_images/journal_icon.gif,1.37,K
+Exercise Files/07_realsite/Groundswell_Start/_images/lifestyle_banner.jpg,39.61,K
+Exercise Files/07_realsite/Groundswell_Start/_images/logo.gif,1.79,K
+Exercise Files/07_realsite/Groundswell_Start/_images/nav_rollover.jpg,2.98,K
+Exercise Files/07_realsite/Groundswell_Start/_images/new_01.jpg,14.33,K
+Exercise Files/07_realsite/Groundswell_Start/_images/new_02.jpg,17.39,K
+Exercise Files/07_realsite/Groundswell_Start/_images/new_03.jpg,10.36,K
+Exercise Files/07_realsite/Groundswell_Start/_images/new_04.jpg,9.76,K
+Exercise Files/07_realsite/Groundswell_Start/_images/page_background.jpg,6.83,K
+Exercise Files/07_realsite/Groundswell_Start/_images/sandals_icon_over.jpg,2.67,K
+Exercise Files/07_realsite/Groundswell_Start/_images/sandals_icon_up.jpg,1.67,K
+Exercise Files/07_realsite/Groundswell_Start/_images/shirt_list.jpg,13.77,K
+Exercise Files/07_realsite/Groundswell_Start/_images/surf1.jpg,12.97,K
+Exercise Files/07_realsite/Groundswell_Start/_images/surfing.jpg,6.35,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swell_suit.jpg,5.99,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swells_large.jpg,40.33,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swells_large.png,135.9,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swells_medium.jpg,14.81,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swells_small.jpg,7.31,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swim_icon_over.jpg,2.38,K
+Exercise Files/07_realsite/Groundswell_Start/_images/swim_icon_up.jpg,1.5,K
+Exercise Files/07_realsite/Groundswell_Start/_images/towel_list.jpg,8.56,K
+Exercise Files/07_realsite/Groundswell_Start/_images/velvet_large.jpg,57.55,K
+Exercise Files/07_realsite/Groundswell_Start/_images/velvet_large.png,186.11,K
+Exercise Files/07_realsite/Groundswell_Start/_images/velvet_medium.jpg,24.51,K
+Exercise Files/07_realsite/Groundswell_Start/_images/velvet_small.jpg,11.25,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_01.jpg,45.4,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_01_thumb.jpg,11.21,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_02.jpg,62.18,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_02_thumb.jpg,17.78,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_03.jpg,50.13,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_03_thumb.jpg,12.07,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_04.jpg,63.64,K
+Exercise Files/07_realsite/Groundswell_Start/_images/ventura_04_thumb.jpg,15.35,K
+Exercise Files/07_realsite/Groundswell_Start/_images/video_banner.jpg,28.99,K
+Exercise Files/07_realsite/Groundswell_Start/_images/video_thumb01.jpg,13.79,K
+Exercise Files/07_realsite/Groundswell_Start/_images/video_thumb02.jpg,11.28,K
+Exercise Files/07_realsite/Groundswell_Start/_images/video_thumb03.jpg,20.21,K
+Exercise Files/07_realsite/Groundswell_Start/_images/video_thumb04.jpg,11.26,K
+Exercise Files/07_realsite/Groundswell_Start/_images/weather_mockup.gif,36.56,K
+Exercise Files/07_realsite/Groundswell_Start/_images/wetsuit_icon_over.jpg,2.35,K
+Exercise Files/07_realsite/Groundswell_Start/_images/wetsuit_icon_up.jpg,1.46,K
+Exercise Files/07_realsite/Groundswell_Start/_images/wish.jpg,8.31,K
+Exercise Files/07_realsite/Groundswell_Start/_images/woody.jpg,18.08,K
+Exercise Files/07_realsite/Groundswell_Start/_scripts/jquery-1.3.2.min.js,55.91,K
+Exercise Files/07_realsite/Groundswell_Start/_scripts/jquery-ui-1.7.2.custom.min.js,188.11,K
+Exercise Files/07_realsite/Groundswell_Start/gear.htm,3.36,K
+Exercise Files/07_realsite/Groundswell_Start/gear/board_comparison.htm,3.54,K
+Exercise Files/07_realsite/Groundswell_Start/gear/boards.htm,4.33,K
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_crunge.htm,4.29,K
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_crunge_large.htm,357,B
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_fearless_large.htm,359,B
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_swells.htm,4.44,K
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_swells_large.htm,357,B
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_velvet.htm,4.25,K
+Exercise Files/07_realsite/Groundswell_Start/gear/boards_velvet_large.htm,357,B
+Exercise Files/07_realsite/Groundswell_Start/index.htm,5.79,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle.htm,2.62,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/conditions.htm,1.52,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/journal.htm,5.24,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/photos.htm,2.61,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/register.htm,6.33,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/register_novalid.htm,5.83,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/registration_complete.htm,2.37,K
+Exercise Files/07_realsite/Groundswell_Start/lifestyle/tourdates.htm,4.12,K
+Exercise Files/07_realsite/Groundswell_Start/videos.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Start/videos2.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Start/videos3.htm,2.05,K
+Exercise Files/07_realsite/Groundswell_Start/videos4.htm,2.05,K
+Exercise Files/08_Ajax/Basic_Finished.html,1.33,K
+Exercise Files/08_Ajax/Basic_Start.html,679,B
+Exercise Files/08_Ajax/DataTypes_finished.html,1.33,K
+Exercise Files/08_Ajax/DataTypes_start.html,762,B
+Exercise Files/08_Ajax/Globals_Finished.html,1.38,K
+Exercise Files/08_Ajax/Helpers_Finished.html,782,B
+Exercise Files/08_Ajax/Helpers_start.html,687,B
+Exercise Files/08_Ajax/testdata.txt,23,B
+Exercise Files/08_Ajax/testxmldata.xml,81,B
+Exercise Files/jquery-1.9.1.js,262.09,K
+Exercise Files/jquery-1.9.1.min.js,90.46,K

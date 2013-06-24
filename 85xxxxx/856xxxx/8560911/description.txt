@@ -1,0 +1,64 @@
+ http://imageshack.us/a/img33/895/fleggaardadvertisement.jpg
+
+General
+Complete name                            : Fleggaard Advertisement.avi
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 77.3 MiB
+Duration                                 : 2mn 47s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 875 Kbps
+Encoded date                             : UTC 2011-03-24 22:39:27
+Tagged date                              : UTC 2011-03-24 22:39:27
+gsst                                     : 0
+gstd                                     : 167245
+gssd                                     : BADC21043MH1306192384662114
+gshh                                     : r8.ber01s03.c
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2mn 47s
+Bit rate                                 : 3 742 Kbps
+Maximum bit rate                         : 7 035 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 30.000 fps
+Minimum frame rate                       : 29.412 fps
+Maximum frame rate                       : 55.556 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.060
+Stream size                              : 74.6 MiB (97%)
+Tagged date                              : UTC 2011-03-24 22:39:28
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2mn 47s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 190 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 2.55 MiB (3%)
+Title                                    : (C) 2007 Google Inc. v08.13.2007.
+Encoded date                             : UTC 2011-03-24 22:39:27
+Tagged date                              : UTC 2011-03-24 22:39:28

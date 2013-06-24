@@ -1,0 +1,31 @@
+Length Of Struc: 02B0h
+Length Of Value: 0034h
+Type Of Struc:   0000h
+Info:            VS_VERSION_INFO
+Signature:       FEEF04BDh
+Struc Version:   1.0
+File Version:    4.57.0.0
+Product Version: 4.57.0.0
+File Flags Mask: 0.63
+File Flags:      
+File OS:         NT (WINDOWS32)
+File Type:       APP
+File SubType:    UNKNOWN
+File Date:       00:00:00  00/00/0000
+
+     Struc has Child(ren). Size: 596 bytes.
+
+Child Type:         StringFileInfo
+Language/Code Page: 1033/1200
+CompanyName:        Igor Pavlov
+FileDescription:    7z SFX
+FileVersion:        4.57
+InternalName:       7z.sfx
+LegalCopyright:     Copyright (c) 1999-2007 Igor Pavlov
+OriginalFilename:   7z.sfx.exe
+ProductName:        7-Zip
+ProductVersion:     4.57
+
+Child Type:         VarFileInfo
+Translation:        1033/1200
+

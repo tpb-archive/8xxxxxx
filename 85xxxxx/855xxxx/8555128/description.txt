@@ -1,0 +1,106 @@
+An retired yakuza is caught in the middle of a growing conflict between two rival clans.
+
+Subs: English and French
+ 
+http://www.imdb.com/title/tt0495074/
+
+General
+Unique ID                                : 284671998202133021105532185943587832703 (0xD629D52315BEC90E059820E5EA26437F)
+Complete name                            : Violent.Streets.1974.DVDRip.x264-HANDJOB.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.43 GiB
+Duration                                 : 1h 32mn
+Overall bit rate                         : 2 220 Kbps
+Writing application                      : HandBrake 0.9.6
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 9 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 32mn
+Bit rate                                 : 1 984 Kbps
+Width                                    : 700 pixels
+Height                                   : 424 pixels
+Display aspect ratio                     : 2.35:1
+Original display aspect ratio            : 2.35:1
+Frame rate mode                          : Variable / Variable
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.267
+Stream size                              : 1.28 GiB (89%)
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=9 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=16.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.20
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : A_AC3
+Duration                                 : 1h 32mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 126 MiB (9%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 1
+00:04:39.920                             : Chapter 2
+00:07:23.960                             : Chapter 3
+00:13:41.920                             : Chapter 4
+00:18:16.000                             : Chapter 5
+00:22:55.760                             : Chapter 6
+00:27:50.000                             : Chapter 7
+00:35:35.800                             : Chapter 8
+00:40:54.800                             : Chapter 9
+00:45:48.040                             : Chapter 10
+00:50:23.880                             : Chapter 11
+00:53:21.640                             : Chapter 12
+00:58:15.000                             : Chapter 13
+01:04:05.800                             : Chapter 14
+01:09:56.680                             : Chapter 15
+01:12:55.840                             : Chapter 16
+01:17:56.600                             : Chapter 17
+01:24:52.680                             : Chapter 18
+
+Thanks to the original uploader

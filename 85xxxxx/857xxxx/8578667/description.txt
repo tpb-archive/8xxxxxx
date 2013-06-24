@@ -1,0 +1,26 @@
+Building a Windows Store Game Using HTML and JavaScript
+
+
+Lynd@ 
+Author: David Isbitski
+Subject: Web, Responsive Design, Web Design, Web Development, Developer
+Software: Windows 8, Visual Studio Express 2012
+Level: Intermediate
+Duration: 2h 16m
+Released: Feb 22, 2013
+
+Write your first Windows Store app with HTML5, javascript, and CSS. In this course, author David Isbitski shows how to use these technologies to build a game engine that runs on Microsoft devices and desktops. First, learn about the Microsoft web stack and the capabilities offered in HTML5ΓÇöthe foundation of your app. The course then covers each step of the build in detail, from designing the game interface and setting up a game loop to adding support for multiple screen sizes and touch interaction, incorporating music and sound effects, and accessing data from the camera and accelerometer. Along the way, discover how to personalize the look of your game with CSS3.
+
+Topics include:
+Setting up your Visual Studio 2012 development environment
+Using javascript with WinJS
+Laying out the interface with Canvas
+Creating a game loop
+Adding a menu
+Supporting snapped, filled, and full-screen modes
+Working with the Touch API
+Playing music
+Creating a scoring and leveling system
+Working with the Application Bar
+Accessing the camera and accelerometer
+Debugging and deploying your application

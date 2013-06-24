@@ -1,0 +1,19 @@
+Been looking for a recent version of this for a long while, finally found it elsewhere in the torrentsphere. Looks good, outside of the typical advert hyperlink shortcuts.
+
+The instruction file is spaced weird, so you might want to copy/paste the text into wordpad instead of notepad to read more easily.
+
+The main installation file is legit; the hashes match the version available for download at the official site.
+
+The patch works, and appears clean. Need to run as admin for it to work, otherwise get a "unable to open file" error.  No negative side effects observed, and VirusTotal scan only shows a 2 / 47 ratio, with:
+
+ESET-NOD32  -	a variant of Win32/Keygen.AN
+Symantec - WS.Reputation.1
+
+
+Both of which would be easy false positives:
+
+- http://www.411-spyware.com/remove-hacktoolwin32keygen
+
+- http://community.norton.com/t5/Norton-Internet-Security-Norton/Clarification-on-WS-Reputation-1-detection/td-p/232155
+
+Credits and BIG thanks go to TSRh TeaM for making this great program finally available.

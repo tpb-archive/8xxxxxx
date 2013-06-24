@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,bobmigbob,2013-06-01T00:28Z,ok how do i seed with utorrent i am new and have a bunch of porn pics i would like to upload thaks
+,dude4542,2013-06-01T05:31Z,"It changes it to a lower upload bandwith limit automatically once you have seeded 150%
+
+to fix for future torrents
+go to preferences > queuing > set minimum seeding ratio to -1.
+
+now to fix for your current torrents:
+for your current downloads you will have to right click on each one then bandwidth allowance > upload> unlimited.
+
+It changes it to a lower limit automaticly once you have seeded 150%"

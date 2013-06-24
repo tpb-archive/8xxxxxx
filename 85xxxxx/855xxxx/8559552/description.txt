@@ -1,0 +1,55 @@
+
+Welcome to SmartSMS, the next generation SMS app: fast, lightweight and smart!
+SmartSMS has the following features:
+
+- complete support for SMS: reading/writing, sending, receiving
+- partial support for MMS (reading/deleting/locking)
+- conversation list grouped by contacts (with multiple addresses) and message list with bubbles style or simple style
+- pictures of contact from address book, number of received/sent/unread messages, draft and smart date of last message (e.g., 'yesterday' instead of the full date)
+- compact messages arrived in short time, smart ordering (never have messed up messages like in other apps!)
+- complete customizable notifications: sound, vibration, LED color, icon, notifications for individual address and reminders
+- expandable status bar notifications (JellyBean) with contact pictures and actions (mark as read, delete, call), or privacy mode with only sender or completely anonymous
+- nice notification popup supporting multiple messages with quick reply, delete, close, view, call and text-to-speech
+- nice UI themes with possibility to fully customize colors and sizes with animation of sent/received/deleted messages and conversations for each address
+- automatically re-send messages on error
+- fast integrated backup/restore messages on SD (the fastest on Google Play! Backup just 3000 messages in less than three seconds [on HTC Desire])
+- batch delete/quick actions menu by long press conversation or message
+- different emoticon themes and Emoji* IOS6 support also from popup!
+- big editor for long messages and compose activity by long press search key
+- privacy hidden inbox with privacy notifications and black list for unwanted senders
+- widget with last unread message
+- (PRO) app locker with password
+- (PRO) widget to fast lock/unlock
+
+PRO version has the following additional features:
+- no ads!
+- features released earlier
+- 7 free themes!
+- app lock with password
+- unlimited black list senders (2 in Free version)
+- unlimited backups (3 in Free version)
+- unlimited privacy inbox address (1 in Free version)
+- global privacy (make all notifications private until disabled)
+
+NOTE: Before installing the Pro version please remove the Free one since they cannot run together on the same phone or errors may appear
+This app can send crash report for helping us improve the app or fix bugs. You will be notified before submitting any data.
+If you have some problems in upgrade please uninstall and reinstall it
+If you receive double notifications or have double messages uninstall GOSMS or Handcent that cause the issue
+If you still receive errors or crashes you may have an incompatible device
+
+What's in this version:
+Added LightFlow support (soon in LightFlow)
+Added option to show return key on message keyboard
+Fixed message grouping option
+Bug fixes and enhancements
+Added custom ticker text for private message notification
+Fixed delivered notification appearance
+Sending in popup closes it only if all messages have been seen
+Privacy notification brings you to the conversation list instead of password lock
+Fixed "Retry" from notification
+Fixed bugs in popup
+Fixed side bar appearing when rotating
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.smartdevapps.sms

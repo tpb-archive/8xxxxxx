@@ -1,0 +1,44 @@
+Archive info:
+Split to 500000k pieces with recovery record and two recovery volumes.
+rar a -rr5 -rv2 -t -k -v500000k -m0 -r
+
+sha1sum:
+48ebcdb65946f9a6b5667dfbd50e89feda241a81  Jailbird-Songs-FBRBITS.part01.rar
+06c171f0e294fa18d05bb791580472b24b3803cb  Jailbird-Songs-FBRBITS.part01.rev
+06b7d128084049d6c7dde424519ab0d3e7cfa2db  Jailbird-Songs-FBRBITS.part02.rar
+3243078b94e3c357337f0b5b5b9c5d2ec78015ac  Jailbird-Songs-FBRBITS.part02.rev
+77ef11af8ed2ee5f27a927041b9e533463b7d762  Jailbird-Songs-FBRBITS.part03.rar
+b903981ba2372955bce898f03f034bc390c96c66  Jailbird-Songs-FBRBITS.part04.rar
+9f6b3d92a732a05f669dc9eeff944f111854ac9a  Jailbird-Songs-FBRBITS.part05.rar
+7608d09a08f8b6f3228b203cf3c13cd4d7c4e32d  Jailbird-Songs-FBRBITS.part06.rar
+7baf770cb17ff8b266fc88f11069951f747ea754  Jailbird-Songs-FBRBITS.part07.rar
+3b31192b3925d836c308cb250a9d9b2efef21218  Jailbird-Songs-FBRBITS.part08.rar
+eee0794c92709dceed6a04349a69e8558623494e  Jailbird-Songs-FBRBITS.part09.rar
+606f41143a89167f9f0c9225431568826d9139e2  Jailbird-Songs-FBRBITS.part10.rar
+e5a079f71d4c0658591e7eb10c6a500625bb3c17  Jailbird-Songs-FBRBITS.part11.rar
+994a3d9d487e4689b7d025617b52f514d1faf57d  Jailbird-Songs-FBRBITS.part12.rar
+
+This is Various Artists mp3 music collection.
+
+Some of the artists:
+50 cent
+Steen1
+Ezkimo
+Infected Mushroom
+Day Eleven
+Knife Party
+Netsky
+Skrillex
+Anna Eriksson
+Kiss
+Mariska & Pahat Sudet
+Popeda
+Samuli Edelmann
+ZZ Top
+Guns N' Roses
+HIM
+Leijona
+Mc Mane
+PiiloVoima
+
+----------------

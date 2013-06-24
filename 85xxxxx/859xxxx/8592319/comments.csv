@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,m0ww0w,2013-06-20T03:54Z,No seeder and unzipped. Totally worthless shit.
+,agyagasztal,2013-06-20T10:35Z,"Finally got some seeders, downloaded it, clicked on it - nothing happens (on 10.6.8)."
+,m0ww0w,2013-06-20T17:11Z,of course it doesn't work. I already said it was unzipped. duh.
+,jaymcmelt,2013-06-20T20:39Z,Working fine in my MBP '09 10.8.4 (y)
+,rusty-koathanger,2013-06-21T14:46Z,"you can fix it easily with BatChmod but  don't forget to check ""apply to enclosed folders and files""."
+,ClubQBall,2013-06-21T21:53Z,"I find it hilarious that an obviously uneducated (i.e., ""ignorant"", ""uncouth"", and ""rude"") individual such as ""m0ww0w"" has the unmitigated gall, audacity, and outright temerity to post such a comment.
+
+@m0ww0w ...
+
+In other words, you silly, fucking muppet:
+
+SHUT THE FUCK UP, YOU FUCKING BLEEDING, PUS-FILLED BOIL ON A CAMEL'S SHITTY ASSHOLE!!!"
+,jpesce,2013-06-22T08:11Z,"To get it working you have to change access of the file. Open Applications/Utilities/Terminal.app, type ""chmod -R 777 "" (without quotes) then drag the app to the window. Press enter. You're good to go.
+
+However, there's a bug where the game wont go any further after killing an elite monster (or, some people reported, doing escort quests)."

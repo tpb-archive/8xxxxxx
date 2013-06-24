@@ -1,0 +1,63 @@
+Natalie and Ted discuss Sebastian Vettel's new contract with Red Bull and look back at his victory in Canada. Plus, Natalie catches up with Williams driver Valtteri Bottas.
+
+
+
+General
+Format                                   : MPEG-TS
+File size                                : 5.65 GiB
+Duration                                 : 47mn 4s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 17.2 Mbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Duration                                 : 47mn 4s
+Bit rate                                 : 16.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.308
+Stream size                              : 5.25 GiB (93%)
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Duration                                 : 47mn 4s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 129 MiB (2%)
+Language                                 : English
+
+Text
+ID                                       : 2305 (0x901)-888
+Menu ID                                  : 1 (0x1)
+Format                                   : Teletext Subtitle
+Language                                 : English
+
+Menu
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 47mn 4s
+List                                     : 512 (0x200) (AVC) / 660 (0x294) (AC-3, English) / 2305 (0x901) ()
+Language                                 :  / English
+

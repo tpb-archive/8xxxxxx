@@ -1,0 +1,19 @@
+Macintosh System Boot+Install Disks
+===================================
+These images are boot and install disks for various versions of the Mac System software. These images are not only boot disks for the Mac System they are labeled, but also an installer disk for the operating system they booted. The included Macintosh System versions include:
+
+* Macintosh System 6.0.3
+* Macintosh System 6.0.5
+* Macintosh System 6.0.8
+* Macintosh System 7.0
+* Macintosh System 7.0.1
+* Macintosh System 7.5.3
+
+I created these from the online system install disk images provided on Apple's Support site. The only difference is that these images function as both boot disks and install disks in one image. These are all in .img format, instead of the .smi format that Apple provides them in. Some systems (especially the 6.x systems) normally have multiple install disks, which in this case are all combined into one disk image.
+
+These emulators are known to be compatible with these images:
+* Mini vMac - System 6.0.3-7.5.3
+* Basilisk II - System 7.0-7.5.3
+* SheepShaver - System 7.5.3
+
+Enjoy and please seed :)

@@ -1,0 +1,13 @@
+Skyrim Realistic Overhaul v1.1 with 1.6 update and Dawnguard textures. 
+
+==========
+
+This is mod for Skyrim-PC version. It replaces the default Bethesda textures with hand-crafted, higher-resolution versions that better suit the PC (Skyrim was originally developed as a console game).
+
+==========
+
+This is the complete set of the most recent SRO textures available on the Nexus before starac made his exodus. 
+
+These textures are a compilation of the 1k and 2k packages, using 2k for textures mostly associated with interiors and 1k for those associated mostly with exteriors. Mountains are 2k color textures with 1k normal maps (reduced with DDSopt). 
+
+With the exception of the mountain normals, none of these textures were processed or re-mipped through DDSopt (or any of the lesser texture optimizers), as they are already optimal out of the box (starac is one of a handful of great texture artists that understands texture optimization).

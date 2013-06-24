@@ -1,0 +1,59 @@
+General
+---------------------------------------------------------------
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 253 MiB
+Duration                                 : 55mn 39s
+Overall bit rate                         : 635 Kbps
+Writing library                          : libmkv 0.6.5.1
+
+Video
+---------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 55mn 39s
+Nominal bit rate                         : 500 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.018
+Writing library                          : x264 core 130
+Language                                 : English
+
+
+Audio
+---------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 55mn 39s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+Screenshots
+--------------------------------------------------------------- 
+http://share.pho.to/2W1Da/original 
+http://share.pho.to/2W1DK/original 
+http://share.pho.to/2W1DU/original 
+http://share.pho.to/2W1Ao/original 
+http://share.pho.to/2W1B1/original 
+http://share.pho.to/2W1B5/original
+
+Enjoy ;)

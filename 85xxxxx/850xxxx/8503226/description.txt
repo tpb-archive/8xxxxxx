@@ -1,0 +1,125 @@
+Here it is! KSP 0.20 for OSX (mac). I know you have been waiting. So here it is!
+
+Remember to not send you ip (the KSP stats tracking) PLEASE!
+But yes please seed and if you like the game buy it!
+  
+https://kerbalspaceprogram.com/
+
+
+*******************************************
+        __   ___  ______      ______                                         
+      /  /  /  / /  __     /   _                                 
+     /  / /  /  /  /  |_|  /   / |  |                        
+    /  //  /   |  |___    /   /_/  /                         
+   /     /     ___     /   ____ /                                        
+  /  /|  |   ___     | /   /                                   
+ /  / |  |     _/  / /   /                                       
+/__/  |__|    _____/ /___/                                 
+
+*******************************************
+(I'm terrible at ASCII art :P)
+
+Thank you for downloading the Kerbal Space Program!
+
+Version 0.20.0
+
+================================================================================
+Installation:
+
+* Unzip the contents of this package onto a directory of your choice (ex. C:/Program Files/KSP)
+* If you plan to overwrite a previous version of KSP with this one, please delete the contents of the folder before unzipping.
+
+IMPORTANT NOTE FOR MAC USERS:
+* The Update Tool requires version 2.8 of the Mono Framework to run. The Mono 2.10.9 Runtime installer is included in the .zip file. Please install it if you are running a version earlier than 2.8, before running the game or patcher. (If you're unsure about your version of Mono, just run the installer).
+You can check for the latest version of the Mono Framework Runtime here: http://www.go-mono.com/mono-downloads/download.html
+
+WARNING: It's very likely that parts and/or ships created on previous versions will be incompatible with the latest release. At this point in development it is quite impossible to ensure backward-compatibility at each step, so please keep this in mind. If you encounter something that could be a bug, try again on a fresh installation and no addon parts. It may just be an incompatibility issue.
+
+
+================================================================================
+Disclaimer:
+THIS SOFTWARE IS CONSIDERED TO BE IN ALPHA STATE, AND MAY CONTAIN BUGS. SQUAD AND SQUAD STAFF TAKE NO
+RESPONSIBILITY FOR ANY DAMAGE OR LOSS OF DATA THAT MAY OCCUR AS A DIRECT OR INDIRECT RESULT OF USING
+THIS SOFTWARE, AND CANNOT GUARANTEE ANY DEGREE OF PERFORMANCE OR STABILITY, OR EVEN THAT THE SOFTWARE
+WILL BE USABLE AT ALL. USE AT YOUR OWN RISK.		
+
+(not that any of the above should happen anyway, but it's good to be on the safe side)
+
+
+ChangeLog:
+
+======= v0.20.0 Exp===================
+
+Bug Fixes and Tweaks:
+
+- Decoupled vessels now properly inherit the action group state of the original vessel.
+- "Root-dropping" decoupling now properly preserves the staging count for the new decoupled vessel.
+- Fixed the EVA flags looking weird during the initial part of the flag-plant animation.
+- Fixed staging icons on decoupled parts not being removed from the staging list.
+- Fixed the suspension jitter on the Medium Wheels.
+- Several improvements to how collisions are detected and handled in the editors.
+- Symmetrical counterparts now properly glow red or green based on whether they can attach or not.
+- Added a sound for when placing/releasing parts in the editor isn't possible.
+- Added the flag pole to the editor scene background.
+- Adjusted collision and torque values for the medium wheels so they're a bit faster and tougher.
+- Adjusted wheel breaking logic to take into account the relative velocities of rigidbodies.
+
+================ v0.20.0 ===========================
+
+New:
+
+* Parts:
+- Command Seats for Kerbals on EVA.
+- New Cupola pod with IVA.
+- New Small Lander pod with IVA.
+- 2 new Probe Cores.
+- New Large Docking Clamp.
+- New Medium Wheel.
+
+* Flags:
+- Kerbals on EVA can now plant Flags on terrain.
+- Several Stock flags to choose from.
+- Flags are moddable. Create your own!
+- Planting a Flag allows you to name the site, which becomes a focusable object in flight and on the Tracking Station.
+- Planted flags have a Plaque, which can be written during placement, and read only when approached by an EVA.
+- Added a Flag selector to the Game Start Dialog.
+- Added a Flag Pole Facility to the Space Center.
+- Added a FlagDecal part module. Allows any part to have a part of its model textured with the selected flag.
+
+* Editor:
+- Added Flag selector to Editor scenes, to select a flag for the mission (defaults to space program flag).
+- The Editor no longer requires that the first part on a vessel be a Command Pod.
+- Any part which allows both stacking and surface-attaching can be used as the vessel root.
+- Added a new part filtering system to the parts list, which allows excluding and greying-out parts based on any criteria.
+- It is now possible to delete the first part on a vessel, and replace it.
+
+* UI:
+- Added the first iteration of the Kerbal Knowledge Base: A collection of vessel and planetary information on the Map and Tracking Station.
+- The Knowledge Base shows information about known Celestial Bodies, displays the crews inside vessels, and much more.
+- Added Filtering by vessel type on the Tracking Station.
+- Added Filtering to the Map View as well (hover around the top-center of the screen)
+- New Loading Screens, with hints.
+
+* I/O:
+- GameDatabase: Completely overhauled the loading process with a completely new system.
+- Mods and Stock Parts can now have their own separate folders for organization.
+- Added a Flags folder to collect flag bitmaps.
+- Added a scene transition buffer system, to ensure optimal memory cleanup when switching scenes.
+
+* Controls:
+- Switching vessels no longer resets throttle and other input whenever possible.
+- Going on EVA and boarding a vessel (or boarding a seat) also no longer reset the vessel's input state.
+- Decoupled vessels inherit the old vessel's control state. 
+- All parts on a stage will get activated now, even if that stage causes some of those parts to get jettisoned away.
+
+
+Bug Fixes and Tweaks:
+
+- Streamlined PQS Terrain Assets, reduced memory usage by up to 30%.
+- Upgraded Debug Menu, allows reloading parts and cfg files while playing.
+- The Map View now properly prioritizes selecting moused-over map nodes when multiple orbits overlap.
+- It's now possible to 'pin' the Ap and Pe nodes, so their captions remain visible after moving the mouse away.
+- Removed the Splash Screen scene. Now the game starts loading as soon as the application starts.
+- Rewrote and organized many scattered game events into a single coherent GameEvents System, which plugins can use.
+- If you crash/explode, focus now shifts to the nearest controllable vessel (if any) instead of going straight to the End Flight dialog.
+- Many more small bug fixes and tweaks.

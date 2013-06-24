@@ -1,0 +1,43 @@
+Important: If you like MS Windows and MS Office please buy legal and original
+ this program help to test this products, but recommend you buy legal.
+ I did this for fun, and now I am done with this. 
+ Working in W8 and Office 2013 fresh install and VOLUMEN LICENSE editions.
+ Ja mata ne, Farewell, Hejdå, Ciao, Aloha, Zegnaj, Doei
+
+ KMSpico v6 Setup Edition.
+
+ - Requirements: .NET 4.0 or Windows 8/2012.
+ - Activate: Windows Vista/7/8 
+ Office 2010/2013 
+Windows Server 2008/2008R2/2012
+
+ 0. Disable SmartScreen on Windows 8.
+ 1. Run KMSpico_Install_v6.exe
+ 2. Install it.
+ 3. Done.
+
+ Based off of KMSEmulator of CODYQX4,Hotbird64,qad.
+
+ Thanks to Hotbird64, deagles, mikmik38, qad, CODYQX4, xinso. All the credits for they.
+ Thanks MyDigitalLife.info
+ Thanks hui.
+
+ Recommendations Optional:
+
+ - Make exceptions to Directory %ProgramFiles%KMSpico*.exe in Antivirus or Defender.
+
+ How This Program Works:
+
+ 1. Install KMSPico v6 in Windows.
+ 2. Run automatically KMSELDI and AutoPico.
+ 2.1 Make Tokens Backup.
+ 2.2 Detect VL or Retail (Windows) and depending of the License Status activate or convert to VL.
+ 2.3 Activate for 180 days all VL products found.
+ 3. Install a windows service that reactive every windows start.
+ 4. Create a task schedule for AutoPico to run every 24 hours.
+
+ Change Log:
+ - Add convertion from Retail non activated windows to VL.
+ - Add Install of windows key in case it does not exist.
+ - Add wrapper dll for x86 and x64.
+ - KMSELDI now works only with the deagles's emulator.

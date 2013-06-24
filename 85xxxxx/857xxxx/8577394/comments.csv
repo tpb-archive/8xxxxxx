@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,quicrack,2013-06-15T15:48Z,Seeding 24/7 with unlimited upload speed
+,quicrack,2013-06-16T12:04Z,"========================== Getting started ==========================
+
+1) Сomplete the download, unzip ""BibliotecaPleyades.zip"" archive and go
+to the inside of ""BibliotecaPleyades ---> www.bibliotecapleyades.net"" folder.
+
+Then, right click and open ""default.htm"" file (main page) with a browser, such as
+Chrome or SRWare Iron (version of Chrome which is spyware-free and without Flash)
+
+Now, you could use this offline copy just like the full-scale website :-)
+Easily navigate between the different pages of website with a simple click.
+
+2) After you completed step 1, at the address bar of browser there should be something like:
+file://localhost/YourPathToFolder/BibliotecaPleyades/www.bibliotecapleyades.net/default.htm
+
+When you need to get quickly to remote area, delete everything after the name of website:
+file://localhost/YourPathToFolder/BibliotecaPleyades/www.bibliotecapleyades.net/
+
+Your browser would show a full catalogue of website. Could be useful for easy navigation.
+
+3) If the reference is not working, open file://localhost/YourPathToFolder/BibliotecaPleyades
+and look through the website which was linked by this reference.
+
+In case there are any questions, please write them below: I check comments often"

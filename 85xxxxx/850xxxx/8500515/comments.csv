@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,rex_shark,2013-05-24T18:30Z,"Do not download, never trust a pure exe file, i acctualy did try, and it just would not install bandicam for me. sounds like a virus to me.. :/"
+,robot650,2013-05-24T22:28Z,"Don't trust this, I'm lucky I have Norton, because it had to remove the file because it could harm my computer"
+,dtagonage2012,2013-05-27T16:34Z,"bandicam works only first time 2 time it's say install application again
+any solution on this?"
+,v1415,2013-05-28T03:04Z,"First of all, Bandicam eventually will detect the it's not original, so it will block itself requesting you to reinstall Bandicam. This is the reason why I made the unattended installer."
+,v1415,2013-05-28T03:05Z,"I already said most AV detect it as virus, but in fact it detects the keymaker compressed inside."
+,v1415,2013-05-28T03:07Z,"If you know something about programming, I made the installer and this is the source code: pastebindotcomslash SG33KTDG"
+,v1415,2013-05-28T03:07Z,"As you can see, there is no suspicious activities. The installer is the original one downloaded from Bandicam website, and the keymaker is the one from the link in the description."

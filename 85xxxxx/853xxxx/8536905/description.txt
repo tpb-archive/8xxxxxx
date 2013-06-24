@@ -1,0 +1,64 @@
+General
+-----------------------------------------------------------------
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 112 MiB
+Duration                                 : 41mn 57s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 373 Kbps
+
+Video
+-----------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L3.0
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 41mn 57s
+Bit rate                                 : 274 Kbps
+Maximum bit rate                         : 1 077 Kbps
+Width                                    : 480 pixels
+Height                                   : 360 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.053
+Stream size                              : 82.2 MiB (74%)
+
+Audio
+-----------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 41mn 57s
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 103 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 28.8 MiB (26%)
+-----------------------------------------------------------------
+
+SCREENS
+----------------------------------------------------------------- 
+http://share.pho.to/2Se9p/original 
+http://share.pho.to/2Se9r/original 
+http://share.pho.to/2Se9y/original 
+http://share.pho.to/2SeA6/original 
+http://share.pho.to/2SeAJ/original 
+http://share.pho.to/2SeAT/original
+-----------------------------------------------------------------
+
+Enjoy ;)

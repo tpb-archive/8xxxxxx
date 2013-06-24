@@ -1,0 +1,26 @@
+Program name: Adguard
+Version: 5.6
+Release date: 17.06.2013
+Language: Russian, English, Japanese, Portguese, German, Spanish, Serbian
+Website:
+OS: Windows
+File size: 1.5 Mb
+
+Key features of Adguard:
+
+1. Saves time and nerves;
+2. Works with all popular browsers;
+3. Easy to use, works just out of the box, needs no tuning or customization;
+4. Comes with a browser module for manual ad blocking;
+5. Updated regularly;
+6. Works on 32x and 64x Windows versions.
+
+Release notes for 5.6:
+Added:
++ Adguard has been divided into UI and windows service
++ New autoupdate mechanism (for minor updates -- quiet updates like Google Chrome)
++ New assistant
++ WOTintegration
+
+Fixed:
+* About 100 minor and major fixes

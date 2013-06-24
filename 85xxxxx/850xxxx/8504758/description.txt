@@ -1,0 +1,64 @@
+General
+Unique ID                                : 188671460588443668607930392715312282794 (0x8DF0CD3306D740CA89312A850C68BCAA)
+Complete name                            : E:MoviesAiven Raula Pai Gaya 2012 720p DvDRip x264 [Punjabi] JaGatJeetSanDhu SilverRGAiven Raula Pai Gaya 2012 720p DvDRip x264 [Punjabi] JaGatJeetSanDhu SilverRG.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 671 MiB
+Duration                                 : 2h 36mn
+Overall bit rate                         : 599 Kbps
+Movie name                               : JaGatJeetSanDhu
+Encoded date                             : UTC 2013-05-24 00:30:32
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 36mn
+Bit rate                                 : 469 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.021
+Stream size                              : 514 MiB (77%)
+Title                                    : JaGatJeetSanDhu
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=469 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : Panjabi
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 2h 36mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 143 MiB (21%)
+Title                                    : JaGatJeetSanDhu
+Writing library                          : LAME3.99r
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17 -b 128
+Language                                 : Panjabi
+Default                                  : Yes
+Forced                                   : No
+ 

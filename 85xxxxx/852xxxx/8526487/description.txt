@@ -1,0 +1,26 @@
+Language: English
+Duration: 3.75 hours
+Audio: aac, 44100 Hz, stereo
+Video: h264, 960x720, 25.00 fps
+Size: 927 MB
+Project Files: Included
+URL: http://www.infiniteskills.com/training/building-mobile-websites-with-wordpress.html
+
+In this WordPress Mobile Development training course from Geoff Blake, you will learn how to create websites using WordPress that look great no matter what device or screen size you are viewing them with. Responsive web design allows you to build and maintain one website, but have it respond according to the device that it is being viewed on. This tutorial will show you how to create a responsive website by way of customizing a WordPress template. Some experience and familiarity with WordPress and CSS is suggested in order for you to get the most out of this training.
+The core of responsive design lies in media queries, and that is where Geoff starts you off. You will learn how to setup media queries using CSS to detect what styles to apply to your website, based on the resolution of the device that is accessing the page. The training videos will show you how to create your high, medium and low resolution designs using wireframing, and then how to hand code each of those designs in WordPress, creating a website that responds to all kinds of mobile devices.
+
+By the time you have completed this computer based training course for mobile website design with WordPress, you will have a clear understanding of how to modify WordPress templates to make your site responsive to a wide variety of resolutions and devices. Working files are included, allowing you to follow along with the author throughout the lessons.
+
+Content:
+01. Getting Set Up
+02. Responsive Design Basics
+03. Building The HTML Structure
+04. Wireframing The High Resolution Layout
+05. Wireframing The Medium Resolution Layout
+06. Wireframing The Low Resolution Layout
+07. Initial High Resolution Formatting
+08. Initial Medium Resolution Formatting
+09. Initial Low Resolution Formatting
+10. Adding Graphics
+11. Wrapping Up
+

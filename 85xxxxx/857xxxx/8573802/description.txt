@@ -1,0 +1,61 @@
+Screenshot:
+      http://image.bayimg.com/34eb44442b9a532232ddadc38201ec7575ad7a30.jpg
+
+
+General
+ Complete name : Brooklyn Lee ΓÇô Cat Burglar
+ Format : MPEG-4
+ Format profile : Base Media / Version 2
+ Codec ID : mp42
+ File size : 1.83 GiB
+ Duration : 35mn 43s
+ Overall bit rate : 7 353 Kbps
+ Encoded date : UTC 2011-08-16 02:20:02
+ Tagged date : UTC 2011-08-16 02:20:02
+
+Video
+ Format : AVC
+ Format/Info : Advanced Video Codec
+ Format profile : Main@L3.0
+ Format settings, CABAC : Yes
+ Format settings, ReFrames : 3 frames
+ Codec ID : avc1
+ Codec ID/Info : Advanced Video Coding
+ Duration : 35mn 43s
+ Bit rate mode : Variable
+ Bit rate : 7 221 Kbps
+ Maximum bit rate : 8 192 Kbps
+ Width : 720 pixels
+ Height : 480 pixels
+ Display aspect ratio : 3:2
+ Frame rate mode : Constant
+ Frame rate : 29.970 fps
+ Standard : NTSC
+ Color space : YUV
+ Chroma subsampling : 4:2:0
+ Bit depth : 8 bits
+ Scan type : Progressive
+ Bits/(Pixel*Frame) : 0.697
+ Stream size : 1.80 GiB (98%)
+ Language : English
+ Encoded date : UTC 2011-08-16 02:20:02
+ Tagged date : UTC 2011-08-16 02:20:02
+
+Audio
+ Format : AAC
+ Format/Info : Advanced Audio Codec
+ Format version : Version 4
+ Format profile : LC
+ Format settings, SBR : No
+ Codec ID : 40
+ Duration : 35mn 43s
+ Bit rate mode : Variable
+ Bit rate : 128 Kbps
+ Maximum bit rate : 233 Kbps
+ Channel(s) : 2 channels
+ Channel positions : Front: L R
+ Sampling rate : 48.0 KHz
+ Stream size : 32.7 MiB (2%)
+ Language : English
+ Encoded date : UTC 2011-08-16 02:20:02
+ Tagged date : UTC 2011-08-16 02:20:02

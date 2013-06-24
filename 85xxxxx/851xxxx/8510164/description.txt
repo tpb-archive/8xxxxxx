@@ -1,0 +1,62 @@
+IMDB:  http://www.imdb.com/title/tt2072220/   
+
+Language: Mandarin
+Subtitles: English
+
+
+General
+Complete name                            : Saving General Yang 2013 BRRip x264 AAC-SSN.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 906 MiB
+Duration                                 : 1h 41mn
+Overall bit rate                         : 1 244 Kbps
+Encoded date                             : UTC 2013-05-26 05:56:24
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 41mn
+Nominal bit rate                         : 944 Kbps
+Width                                    : 900 pixels
+Height                                   : 376 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.139
+Writing library                          : x264 core 133 r2334 a3ac64b
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 41mn
+Bit rate mode                            : Variable
+Bit rate                                 : 300 Kbps
+Maximum bit rate                         : 462 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No
+
+
+

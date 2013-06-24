@@ -1,0 +1,956 @@
+﻿Filename,Size,Unit
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_A#1_Open_Hihat.wav,58.26,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_B0_Acoustic_Bass_Drum.wav,32.27,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_B2_Ride_Cymbal_2.wav,664.57,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_C1_Bass_Drum.wav,44.41,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_D#2_Ride_Cymbal_1.wav,664.49,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_D1_Acoustic_Snare.wav,210.53,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_E1_Electric_Snare.wav,66.56,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_F#1_Closed_Hihat.wav,42.66,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_G#1_Pedal_Hihat.wav,41.87,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_A#1_Open_Hihat.wav,121.1,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_B2_Ride_Cymbal_2.wav,798.12,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_C1_Kick_Drum.wav,94.54,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_D#2_Ride_Cymbal_1.wav,638.15,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_D1_Acoustic_Snare.wav,79.51,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_E1_Electric_Snare.wav,47.29,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_F#1_Closed_Hihat.wav,39.14,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_A#1_Open_Hihat.wav,44.82,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_C1_Kick_Drum.wav,85.86,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_D1_Acoustic_Snare.wav,68.85,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_E1_Electric_Snare.wav,33.73,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_F#1_Closed_Hihat.wav,22.53,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_F#3_Low_Timbale.wav,37.77,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_G#1_Pedal_Hihat.wav,22.26,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_B2_Ride_Cymbal_2.wav,599.92,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_C1_Kick_Drum.wav,42.27,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_D#2_Ride_Cymbal_1.wav,683.92,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_D1_Acoustic_Snare.wav,90.93,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_E1_Electric_Snare-1.wav,21.56,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F#1_Closed_Hihat.wav,22.8,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F#3_Low_Timbale-1.wav,33.05,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F1_Low_Floor_Tom.wav,70.8,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_G#1_Pedal_Hihat.wav,22.79,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_A3_Cabasa.wav,37.85,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_C1_Kick_Drum.wav,52.58,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_D#2_Ride_Cymbal_1.wav,344.52,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_D1_Acoustic_Snare.wav,62.5,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_E1_Electric_Snare.wav,32.6,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_F#1_Closed_Hihat.wav,31.88,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_A#1_Open_Hihat.wav,42.88,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_C1_Kick_Drum.wav,78.23,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D#3_Open_Hi_Conga.wav,17.22,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D1_Acoustic_Snare.wav,81.5,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D3_Mute_Hi_Conga.wav,42.46,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_E1_Electric_Snare.wav,114.54,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_F#1_Closed_Hihat.wav,45.74,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_C1_Kick_Drum.wav,95.64,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D#3_Open_Hi_Conga.wav,66.86,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D1_Acoustic_Snare-1.wav,102.72,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D3_Mute_Hi_Conga.wav,22.87,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_E1_Electric_Snare.wav,91.21,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_F#1_Closed_Hihat.wav,45.65,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_G#1_Pedal_Hihat.wav,45.72,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_G#2_Cow_Bell.wav,136.24,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_A#1_Open_Hihat.wav,182.2,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C#1_Side_Stick.wav,96.94,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C#4_Short_Guiro.wav,3.21,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C1_Kick_Drum.wav,91.32,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_D1_Acoustic_Snare.wav,136.93,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_D4_Long_Guiro.wav,37.9,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_F#1_Closed_Hihat.wav,11.7,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_G#1_Pedal_Hihat.wav,6.97,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_B2_Ride_Cymbal_2.wav,319.32,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C#1_Side_Stick.wav,22.29,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C#3_Low_Bongo.wav,73.46,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C1_Kick_Drum.wav,91.37,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C3_Hi_Bongo.wav,92.57,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D#2_Ride_Cymbal_1.wav,319.34,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D#3_Open_Hi_Conga.wav,91.83,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D1_Acoustic_Snare.wav,115.62,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D3_Mute_Hi_Conga.wav,48.27,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_E1_Electric_Snare.wav,35.16,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_E3_Low_Conga.wav,70.56,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_F#1_Closed_Hihat.wav,45.34,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_G#1_Pedal_Hihat.wav,45.82,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_C#1_Side_Stick.wav,15.3,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_C1_Kick_Drum.wav,66.12,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D#2_Ride_Cymbal_1.wav,425.65,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D#3_Open_Hi_Conga.wav,197.5,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D1_Acoustic_Snare.wav,55.86,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_E1_Electric_Snare.wav,13.89,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_E3_Low_Conga.wav,121.58,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F#1_Closed_Hihat.wav,12.91,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F#3_Low_Timbale.wav,30.52,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F3_High_Timbale.wav,17.75,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_G#1_Pedal_Hihat.wav,9.01,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A#2_Vibraslap.wav,32.3,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A#3_Maracas.wav,22.9,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A3_Cabasa.wav,15.3,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_C1_Kick_Drum.wav,35.84,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D#2_Ride_Cymbal_1.wav,121.72,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D#4_Claves.wav,11.98,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D1_Acoustic_Snare.wav,50.16,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_F#1_Closed_Hihat.wav,6.13,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_G#1_Pedal_Hihat.wav,15.17,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_G4_Open_Cuica.wav,48.77,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_A#3_Maracas.wav,19.98,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_A3_Cabasa.wav,60.84,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_C1_Kick_Drum.wav,59.77,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_C3_Hi_Bongo.wav,60.18,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D#3_Open_Hi_Conga.wav,48.16,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D1_Acoustic_Snare.wav,138.38,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D3_Mute_Hi_Conga.wav,20.21,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_E1_Electric_Snare.wav,12.9,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_E3_Low_Conga.wav,44.74,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_F#1_Closed_Hihat.wav,16.27,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_F#2_Tambourine.wav,14.41,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_A#1_Open_Hihat.wav,65.89,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_C1_Kick_Drum.wav,46.7,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_D#2_Ride_Cymbal_1.wav,380.13,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_D1_Acoustic_Snare.wav,83.36,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_E1_Electric_Snare.wav,40.64,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_F#1_Closed_Hihat.wav,30.52,K
+5P_DBB_NI MASCHINE/DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_G#1_Pedal_Hihat.wav,30.5,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT01.mgrp,188.72,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT02.mgrp,177.91,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT03.mgrp,177.9,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT04.mgrp,196.49,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT05.mgrp,168.61,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT06.mgrp,177.91,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT07.mgrp,186.22,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT08.mgrp,186.2,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT09.mgrp,233.99,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT10.mgrp,211.59,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT11.mgrp,202.78,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT12.mgrp,211.24,K
+5P_DBB_NI MASCHINE/Groups/DBB_KIT_BONUS.mgrp,178.04,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_Fill1A.mpat,97.33,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_Fill1B.mpat,99.44,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_Fill2A.mpat,97.33,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_Fill2B.mpat,106.29,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_FullA.mpat,96.8,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_FullB.mpat,91,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_IntroA.mpat,28.24,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_IntroB.mpat,32.46,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_NoKickA.mpat,95.75,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_NoKickB.mpat,87.31,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_PercA.mpat,38.79,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_PercB.mpat,28.77,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_TopA.mpat,88.36,K
+5P_DBB_NI MASCHINE/Patterns/K10/DB_K10_TopB.mpat,76.23,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_Fill1A.mpat,51.45,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_Fill1B.mpat,70.96,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_Fill2A.mpat,54.61,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_Fill2B.mpat,77.29,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_FullA.mpat,52.5,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_FullB.mpat,61.46,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_IntroA.mpat,12.95,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_IntroB.mpat,21.39,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_NoKickA.mpat,46.7,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_NoKickB.mpat,53.03,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_PercA.mpat,22.44,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_PercB.mpat,22.44,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_TopA.mpat,42.48,K
+5P_DBB_NI MASCHINE/Patterns/K11/DB_K11_TopB.mpat,42.48,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_Fill1A.mpat,47.76,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_Fill1B.mpat,109.46,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_Fill2A.mpat,50.92,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_Fill2B.mpat,53.03,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_FullA.mpat,46.17,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_FullB.mpat,50.39,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_IntroA.mpat,19.81,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_IntroB.mpat,15.59,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_NoKickA.mpat,44.07,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_NoKickB.mpat,48.81,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_PercA.mpat,13.48,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_PercB.mpat,17.69,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_TopA.mpat,37.2,K
+5P_DBB_NI MASCHINE/Patterns/K12/DB_K12_TopB.mpat,41.42,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_Fill1A.mpat,74.65,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_Fill1B.mpat,67.79,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_Fill2A.mpat,77.28,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_Fill2B.mpat,66.74,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_FullA.mpat,73.59,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_FullB.mpat,66.73,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_IntroA.mpat,15.58,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_IntroB.mpat,17.69,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_No KickA.mpat,67.27,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_NoKickB.mpat,66.21,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_TopA.mpat,64.62,K
+5P_DBB_NI MASCHINE/Patterns/K1/DB_K1_TopB.mpat,51.44,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_Fill1A.mpat,60.93,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_Fill1B.mpat,53.02,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_Fill2A.mpat,62.52,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_Fill2B.mpat,53.55,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_FullA.mpat,60.93,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_FullB.mpat,50.38,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_IntroA.mpat,16.64,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_IntroB.mpat,10.84,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_NoKickA.mpat,54.61,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_NoKickB.mpat,46.17,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_TopA.mpat,50.38,K
+5P_DBB_NI MASCHINE/Patterns/K2/DB_K2_TopB.mpat,41.94,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_Fill1A.mpat,50.92,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_Fill1B.mpat,43,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_Fill2A.mpat,51.97,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_Fill2B.mpat,43,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_FullA.mpat,51.44,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_FullB.mpat,41.42,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_IntroA.mpat,24.55,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_IntroB.mpat,11.36,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_NoKickA.mpat,45.12,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_NoKickB.mpat,38.26,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_PercA.mpat,16.63,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_PercB.mpat,14,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_TopA.mpat,38.78,K
+5P_DBB_NI MASCHINE/Patterns/K3/DB_K3_TopB.mpat,34.03,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_Fill1A.mpat,84.14,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_Fill1B.mpat,73.06,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_Fill2A.mpat,78.86,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_Fill2B.mpat,67.79,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_FullA.mpat,77.81,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_FullB.mpat,64.1,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_IntroA.mpat,49.33,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_IntroB.mpat,18.22,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_NoKickA.mpat,72.54,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_NoKickB.mpat,57.77,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_PercA.mpat,25.07,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_PercB.mpat,9.25,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_TopA.mpat,68.31,K
+5P_DBB_NI MASCHINE/Patterns/K4/DB_K4_TopB.mpat,53.55,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_ Fill1A .mpat,21.4,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_Fill1B.mpat,18.22,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_Fill2A.mpat,22.44,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_Fill2B.mpat,26.13,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_FullA.mpat,20.85,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_FullB.mpat,24.54,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_IntroA.mpat,8.2,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_IntroB.mpat,10.31,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_NoKickA.mpat,18.75,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_NoKickB.mpat,22.44,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_PercA.mpat,12.42,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_TopA.mpat,16.63,K
+5P_DBB_NI MASCHINE/Patterns/K5/DB_K5_TopB.mpat,17.16,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_Fill1A.mpat,22.97,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_Fill1B.mpat,25.6,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_Fill2A.mpat,26.66,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_Fill2B.mpat,26.13,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_FullA.mpat,20.85,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_FullB.mpat,23.49,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_IntroA.mpat,7.67,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_IntroB.mpat,13.47,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_NoKickA.mpat,18.22,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_NoKickB.mpat,20.86,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_PercA.mpat,5.56,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_TopA.mpat,15.58,K
+5P_DBB_NI MASCHINE/Patterns/K6/DB_K6_Tops.mpat,12.94,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_Fill1A.mpat,67.26,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_Fill1B.mpat,70.95,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_Fill2A.mpat,56.72,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_Fill2B.mpat,68.84,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_FullA.mpat,51.44,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_FullB.mpat,68.84,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_IntroA.mpat,30.35,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_IntroB.mpat,21.38,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_NoKickA.mpat,47.23,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_NoKickB.mpat,63.05,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_PercA.mpat,25.07,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_PercB.mpat,21.91,K
+5P_DBB_NI MASCHINE/Patterns/K7/DB_K7_TopA.mpat,43.53,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_Fill1A.mpat,34.57,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_Fill1B.mpat,65.15,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_Fill2A.mpat,36.68,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_Fill2B.mpat,64.63,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_FullA.mpat,36.15,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_FullB.mpat,63.57,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_IntroA.mpat,21.91,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_IntroB.mpat,40.9,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_NoKickA.mpat,31.41,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_NoKickB.mpat,58.3,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_PercA.mpat,16.11,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_PercB.mpat,32.46,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_TopA.mpat,27.71,K
+5P_DBB_NI MASCHINE/Patterns/K8/DB_K8_TopB.mpat,54.07,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_Fill1A.mpat,40.37,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_Fill1B.mpat,36.15,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_Fill2A.mpat,39.31,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_Fill2B.mpat,37.73,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_FullA.mpat,37.2,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_FullB.mpat,34.56,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_IntroA.mpat,8.2,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_IntroB.mpat,11.89,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_NoKickA.mpat,35.1,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_NoKickB.mpat,30.88,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_PercA.mpat,14.53,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_PercB.mpat,12.42,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_TopA.mpat,33.51,K
+5P_DBB_NI MASCHINE/Patterns/K9/DB_K9_TopB.mpat,28.23,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_Fill1A.mpat,41.95,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_Fill1B.mpat,70.95,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_Fill2A.mpat,43.53,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_Fill2B.mpat,63.57,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_FullA.mpat,39.31,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_FullB.mpat,61.99,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_IntroA.mpat,16.64,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_IntroB.mpat,38.79,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_NoKickA.mpat,35.1,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_NoKickB.mpat,56.19,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_TopA.mpat,29.82,K
+5P_DBB_NI MASCHINE/Patterns/KB/DB_KB_TopB.mpat,44.58,K
+5P_DBB_NI MASCHINE/Projects/DBB_SET01.mprj,1.68,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET02.mprj,1.51,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET03.mprj,1.45,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET04.mprj,1.76,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET05.mprj,1.19,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET06.mprj,1.19,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET07.mprj,1.64,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET08.mprj,1.55,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET09.mprj,1.42,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET10.mprj,2.05,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET11.mprj,1.62,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET12.mprj,1.59,M
+5P_DBB_NI MASCHINE/Projects/DBB_SET_BONUS.mprj,1.5,M
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_01_BASS_C.mid,74,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_02_BASS_C.mid,281,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_03_BASS_F.mid,299,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_03_SYNTH_F.mid,269,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_04_BASS_C#.mid,710,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_04_KEYS_C#.mid,706,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_04_SYNTH_C#.mid,2.26,K
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_05_BASS_A.mid,225,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_05_KEYS_A.mid,521,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_06_BASS_B.mid,207,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_06_PAD_B.mid,231,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_06_SYNTH_B.mid,203,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_07_BASS_C#m.mid,210,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_07_PAD_C#m.mid,241,B
+DBB_BONUS_SOUNDS & MIDI/MIDI/DBB_PART_07_SYNTH_C#m.mid,445,B
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_01_BASS_C.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_01_FX.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_02_BASS_C.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_03_BASS_F.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_03_SYNTH_F.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_04_BASS_C#.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_04_KEYS_C#.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_04_SYNTH_C#.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_05_BASS_A.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_05_KEYS_A.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_06_BASS_B.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_06_PAD_B.wav,2.85,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_06_SYNTH_B.wav,3.21,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_07_BASS_C#m.wav,5.7,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_07_PAD_C#m.wav,2.87,M
+DBB_BONUS_SOUNDS & MIDI/WAV_170bpm/DBB_PART_07_SYNTH_C#m.wav,2.85,M
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/5P_Drum & Bass Breaks.als,405.12,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Ableton Project Info/AProject.ico,26.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Ableton Project Info/Project8_1.cfg,531,B
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Desktop.ini,106,B
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT01.adg,7.43,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT02.adg,6.5,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT03.adg,6.44,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT04.adg,7.46,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT05.adg,6.05,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT06.adg,6.48,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT07.adg,11.37,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT08.adg,8.74,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT09.adg,9.24,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT10.adg,8.33,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT11.adg,7.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT12.adg,18.16,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_DBB_KIT_BONUS.adg,7.99,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Presets/5P_Drum Buss Channel.adg,3.78,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_A#1_Open_Hihat.wav,58.26,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_A#1_Open_Hihat.wav.asd,3.73,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_B0_Acoustic_Bass_Drum.wav,32.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_B0_Acoustic_Bass_Drum.wav.asd,3.55,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_B2_Ride_Cymbal_2.wav,664.57,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_B2_Ride_Cymbal_2.wav.asd,8.4,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_C1_Bass_Drum.wav,44.41,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_C1_Bass_Drum.wav.asd,3.62,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_D#2_Ride_Cymbal_1.wav,664.49,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_D#2_Ride_Cymbal_1.wav.asd,8.41,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_D1_Acoustic_Snare.wav,210.53,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_D1_Acoustic_Snare.wav.asd,4.94,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_E1_Electric_Snare.wav,66.56,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_E1_Electric_Snare.wav.asd,4.06,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_F#1_Closed_Hihat.wav,42.66,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_F#1_Closed_Hihat.wav.asd,3.62,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_G#1_Pedal_Hihat.wav,41.87,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_01_G#1_Pedal_Hihat.wav.asd,3.61,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_A#1_Open_Hihat.wav,121.1,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_A#1_Open_Hihat.wav.asd,4.28,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_B2_Ride_Cymbal_2.wav,798.12,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_B2_Ride_Cymbal_2.wav.asd,9.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_C1_Kick_Drum.wav,94.54,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_C1_Kick_Drum.wav.asd,4.1,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_D#2_Ride_Cymbal_1.wav,638.15,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_D#2_Ride_Cymbal_1.wav.asd,8.06,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_D1_Acoustic_Snare.wav,79.51,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_D1_Acoustic_Snare.wav.asd,3.98,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_E1_Electric_Snare.wav,47.29,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_E1_Electric_Snare.wav.asd,3.48,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_F#1_Closed_Hihat.wav,39.14,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_02_F#1_Closed_Hihat.wav.asd,3.42,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_C1_Kick_Drum.wav,85.86,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_C1_Kick_Drum.wav.asd,4.03,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_D1_Acoustic_Snare.wav,68.85,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_D1_Acoustic_Snare.wav.asd,3.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_E1_Electric_Snare.wav,33.73,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_E1_Electric_Snare.wav.asd,3.38,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_F#1_Closed_Hihat.wav,22.53,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_F#1_Closed_Hihat.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_F#3_Low_Timbale.wav,37.77,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_F#3_Low_Timbale.wav.asd,3.42,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_G#1_Pedal_Hihat.wav,22.26,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_03_G#1_Pedal_Hihat.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_B2_Ride_Cymbal_2.wav,599.92,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_B2_Ride_Cymbal_2.wav.asd,7.78,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_C1_Kick_Drum.wav,42.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_C1_Kick_Drum.wav.asd,3.44,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_D#2_Ride_Cymbal_1.wav,683.92,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_D#2_Ride_Cymbal_1.wav.asd,8.41,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_D1_Acoustic_Snare.wav,90.93,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_D1_Acoustic_Snare.wav.asd,4.06,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_E1_Electric_Snare.wav,21.56,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_E1_Electric_Snare.wav.asd,3.37,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F#1_Closed_Hihat.wav,22.8,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F#1_Closed_Hihat.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F#3_Low_Timbale.wav,33.05,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F#3_Low_Timbale.wav.asd,3.51,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F1_Low_Floor_Tom.wav,70.8,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_F1_Low_Floor_Tom.wav.asd,3.93,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_G#1_Pedal_Hihat.wav,22.79,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_04_G#1_Pedal_Hihat.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_A3_Cabasa.wav,37.85,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_A3_Cabasa.wav.asd,3.41,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_C1_Kick_Drum.wav,52.58,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_C1_Kick_Drum.wav.asd,3.52,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_D#2_Ride_Cymbal_1.wav,344.52,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_D#2_Ride_Cymbal_1.wav.asd,5.92,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_D1_Acoustic_Snare.wav,62.5,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_D1_Acoustic_Snare.wav.asd,3.6,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_E1_Electric_Snare.wav,32.6,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_E1_Electric_Snare.wav.asd,3.37,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_F#1_Closed_Hihat.wav,31.88,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_05_F#1_Closed_Hihat.wav.asd,3.37,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_A#1_Open_Hihat.wav,42.88,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_A#1_Open_Hihat.wav.asd,3.45,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_C1_Kick_Drum.wav,78.23,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_C1_Kick_Drum.wav.asd,3.97,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D#3_Open_Hi_Conga.wav,17.22,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D#3_Open_Hi_Conga.wav.asd,3.26,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D1_Acoustic_Snare.wav,91.4,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D1_Acoustic_Snare.wav.asd,4.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D3_Mute_Hi_Conga.wav,42.46,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_D3_Mute_Hi_Conga.wav.asd,3.45,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_E1_Electric_Snare.wav,91.33,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_E1_Electric_Snare.wav.asd,4.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_F#1_Closed_Hihat.wav,45.74,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_06_F#1_Closed_Hihat.wav.asd,3.46,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_C1_Kick_Drum.wav,95.64,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_C1_Kick_Drum.wav.asd,4.13,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D#3_Open_Hi_Conga.wav,66.86,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D#3_Open_Hi_Conga.wav.asd,3.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D1_Acoustic_Snare-1.wav,102.72,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D1_Acoustic_Snare-1.wav.asd,4.14,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D3_Mute_Hi_Conga.wav,22.87,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_D3_Mute_Hi_Conga.wav.asd,3.31,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_E1_Electric_Snare.wav,91.21,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_E1_Electric_Snare.wav.asd,4.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_F#1_Closed_Hihat.wav,45.65,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_F#1_Closed_Hihat.wav.asd,3.47,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_G#1_Pedal_Hihat.wav,45.72,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_G#1_Pedal_Hihat.wav.asd,3.48,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_G#2_Cow_Bell.wav,136.24,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_07_G#2_Cow_Bell.wav.asd,4.39,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_A#1_Open_Hihat.wav,182.2,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_A#1_Open_Hihat.wav.asd,4.71,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C#1_Side_Stick.wav,96.94,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C#1_Side_Stick.wav.asd,4.11,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C#4_Short_Guiro.wav,3.21,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C#4_Short_Guiro.wav.asd,3.16,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C1_Kick_Drum.wav,91.32,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_C1_Kick_Drum.wav.asd,4.06,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_D1_Acoustic_Snare.wav,136.93,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_D1_Acoustic_Snare.wav.asd,4.4,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_D4_Long_Guiro.wav,37.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_D4_Long_Guiro.wav.asd,3.42,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_F#1_Closed_Hihat.wav,11.7,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_F#1_Closed_Hihat.wav.asd,3.23,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_G#1_Pedal_Hihat.wav,6.97,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_08_G#1_Pedal_Hihat.wav.asd,3.19,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_B2_Ride_Cymbal_2.wav,319.32,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_B2_Ride_Cymbal_2.wav.asd,5.71,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C#1_Side_Stick.wav,22.29,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C#1_Side_Stick.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C#3_Low_Bongo.wav,73.46,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C#3_Low_Bongo.wav.asd,3.94,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C1_Kick_Drum.wav,91.37,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C1_Kick_Drum.wav.asd,4.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C3_Hi_Bongo.wav,92.57,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_C3_Hi_Bongo.wav.asd,4.08,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D#2_Ride_Cymbal_1.wav,319.34,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D#2_Ride_Cymbal_1.wav.asd,5.71,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D#3_Open_Hi_Conga.wav,91.83,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D#3_Open_Hi_Conga.wav.asd,4.09,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D1_Acoustic_Snare.wav,115.62,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D1_Acoustic_Snare.wav.asd,4.25,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D3_Mute_Hi_Conga.wav,48.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_D3_Mute_Hi_Conga.wav.asd,3.5,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_E1_Electric_Snare.wav,35.16,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_E1_Electric_Snare.wav.asd,3.39,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_E3_Low_Conga.wav,70.56,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_E3_Low_Conga.wav.asd,3.92,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_F#1_Closed_Hihat.wav,45.34,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_F#1_Closed_Hihat.wav.asd,3.47,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_G#1_Pedal_Hihat.wav,45.82,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_09_G#1_Pedal_Hihat.wav.asd,3.47,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_C#1_Side_Stick.wav,15.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_C#1_Side_Stick.wav.asd,3.31,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_C1_Kick_Drum.wav,66.12,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_C1_Kick_Drum.wav.asd,4.12,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D#2_Ride_Cymbal_1.wav,425.65,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D#2_Ride_Cymbal_1.wav.asd,8.08,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D#3_Open_Hi_Conga.wav,197.5,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D#3_Open_Hi_Conga.wav.asd,5.58,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D1_Acoustic_Snare.wav,55.86,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_D1_Acoustic_Snare.wav.asd,4.01,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_E1_Electric_Snare.wav,13.89,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_E1_Electric_Snare.wav.asd,3.29,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_E3_Low_Conga.wav,121.58,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_E3_Low_Conga.wav.asd,4.75,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F#1_Closed_Hihat.wav,12.91,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F#1_Closed_Hihat.wav.asd,3.28,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F#3_Low_Timbale.wav,30.52,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F#3_Low_Timbale.wav.asd,3.48,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F3_High_Timbale.wav,17.75,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_F3_High_Timbale.wav.asd,3.33,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_G#1_Pedal_Hihat.wav,9.01,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_10_G#1_Pedal_Hihat.wav.asd,3.24,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A#2_Vibraslap.wav,32.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A#2_Vibraslap.wav.asd,3.49,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A#3_Maracas.wav,22.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A#3_Maracas.wav.asd,3.39,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A3_Cabasa.wav,15.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_A3_Cabasa.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_C1_Kick_Drum.wav,35.84,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_C1_Kick_Drum.wav.asd,3.54,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D#2_Ride_Cymbal_1.wav,121.72,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D#2_Ride_Cymbal_1.wav.asd,4.73,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D#4_Claves.wav,11.98,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D#4_Claves.wav.asd,3.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D1_Acoustic_Snare.wav,50.16,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_D1_Acoustic_Snare.wav.asd,3.95,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_F#1_Closed_Hihat.wav,6.13,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_F#1_Closed_Hihat.wav.asd,3.21,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_G#1_Pedal_Hihat.wav,15.17,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_G#1_Pedal_Hihat.wav.asd,3.3,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_G4_Open_Cuica.wav,48.77,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_11_G4_Open_Cuica.wav.asd,3.94,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_A#3_Maracas.wav,19.98,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_A#3_Maracas.wav.asd,3.51,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_A3_Cabasa.wav,60.84,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_A3_Cabasa.wav.asd,4.22,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_C1_Kick_Drum.wav,59.77,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_C1_Kick_Drum.wav.asd,4.07,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_C3_Hi_Bongo.wav,60.18,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_C3_Hi_Bongo.wav.asd,4.05,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D#3_Open_Hi_Conga.wav,48.16,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D#3_Open_Hi_Conga.wav.asd,3.94,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D1_Acoustic_Snare.wav,138.38,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D1_Acoustic_Snare.wav.asd,4.4,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D3_Mute_Hi_Conga.wav,20.21,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_D3_Mute_Hi_Conga.wav.asd,3.36,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_E1_Electric_Snare.wav,12.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_E1_Electric_Snare.wav.asd,3.45,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_E3_Low_Conga.wav,44.74,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_E3_Low_Conga.wav.asd,3.9,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_F#1_Closed_Hihat.wav,16.27,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_F#1_Closed_Hihat.wav.asd,3.49,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_F#2_Tambourine.wav,14.41,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_12_F#2_Tambourine.wav.asd,3.46,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_A#1_Open_Hihat.wav,65.89,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_A#1_Open_Hihat.wav.asd,4.13,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_C1_Kick_Drum.wav,46.7,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_C1_Kick_Drum.wav.asd,3.92,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_D#2_Ride_Cymbal_1.wav,380.13,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_D#2_Ride_Cymbal_1.wav.asd,7.56,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_D1_Acoustic_Snare.wav,83.36,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_D1_Acoustic_Snare.wav.asd,4.32,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_E1_Electric_Snare.wav,40.64,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_E1_Electric_Snare.wav.asd,3.58,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_F#1_Closed_Hihat.wav,30.52,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_F#1_Closed_Hihat.wav.asd,3.64,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_G#1_Pedal_Hihat.wav,30.5,K
+DBB_LIVE 8/5P_Drum & Bass Breaks_Project/Samples/Imported/DBB_Kit_BONUS_G#1_Pedal_Hihat.wav.asd,3.64,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_FILL_01.mid,1.15,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_FILL_02.mid,1.19,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_FULL.mid,1.13,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_INTRO.mid,282,B
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_NO_KICK.mid,1.04,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_A_TOPS.mid,999,B
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_FILL_01.mid,1.05,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_FILL_02.mid,1.03,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_FULL.mid,1.03,K
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_INTRO.mid,312,B
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_NO_KICK.mid,970,B
+DBB_MIDI/KIT_01/DBB_KIT_01_GROOVE_B_TOPS.mid,823,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_FILL_01.mid,970,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_FILL_02.mid,994,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_FULL.mid,967,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_INTRO.mid,296,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_NO_KICK.mid,874,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_A_TOPS.mid,807,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_FILL_01.mid,850,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_FILL_02.mid,858,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_FULL.mid,807,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_INTRO.mid,208,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_NO_KICK.mid,746,B
+DBB_MIDI/KIT_02/DBB_KIT_02_GROOVE_B_TOPS.mid,679,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_FILL_01.mid,818,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_FILL_02.mid,834,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_FULL.mid,823,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_INTRO.mid,416,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_NO_KICK.mid,730,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_PERCS.mid,300,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_A_TOPS.mid,631,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_FILL_01.mid,698,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_FILL_02.mid,698,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_FULL.mid,671,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_INTRO.mid,216,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_NO_KICK.mid,626,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_PERCS.mid,260,B
+DBB_MIDI/KIT_03/DBB_KIT_03_GROOVE_B_TOPS.mid,559,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_FILL_01.mid,1.29,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_FILL_02.mid,1.21,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_FULL.mid,1.19,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_INTRO.mid,800,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_NO_KICK.mid,1.12,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_PERCS.mid,424,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_A_TOPS.mid,1.05,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_FILL_01.mid,1.13,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_FILL_02.mid,1.05,K
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_FULL.mid,1015,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_INTRO.mid,320,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_NO_KICK.mid,922,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_PERCS.mid,184,B
+DBB_MIDI/KIT_04/DBB_KIT_04_GROOVE_B_TOPS.mid,855,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_FILL_01.mid,370,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_FILL_02.mid,386,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_FULL.mid,359,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_INTRO.mid,168,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_NO_KICK.mid,330,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_PERCS.mid,232,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_A_TOPS.mid,295,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_FILL_01.mid,418,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_FILL_02.mid,442,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_FULL.mid,415,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_INTRO.mid,200,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_NO_KICK.mid,386,B
+DBB_MIDI/KIT_05/DBB_KIT_05_GROOVE_B_TOPS.mid,303,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_FILL_01.mid,394,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_FILL_02.mid,450,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_FULL.mid,359,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_INTRO.mid,161,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_NO_KICK.mid,322,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_PERCS.mid,129,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_A_TOPS.mid,279,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_FILL_01.mid,434,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_FILL_02.mid,442,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_FULL.mid,399,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_INTRO.mid,248,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_NO_KICK.mid,362,B
+DBB_MIDI/KIT_06/DBB_KIT_06_GROOVE_B_TOPS.mid,239,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_FILL_01.mid,906,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_FILL_02.mid,946,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_FULL.mid,855,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_INTRO.mid,504,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_NO_KICK.mid,794,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_PERCS.mid,440,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_A_TOPS.mid,727,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_FILL_01.mid,1.12,K
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_FILL_02.mid,1.1,K
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_FULL.mid,1.09,K
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_INTRO.mid,384,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_NO_KICK.mid,1.01,K
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_PERCS.mid,392,B
+DBB_MIDI/KIT_07/DBB_KIT_07_GROOVE_B_TOPS.mid,903,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_FILL_01.mid,530,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_FILL_02.mid,530,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_FULL.mid,519,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_INTRO.mid,392,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_NO_KICK.mid,442,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_PERCS.mid,201,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_A_TOPS.mid,375,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_FILL_01.mid,770,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_FILL_02.mid,866,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_FULL.mid,743,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_INTRO.mid,400,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_NO_KICK.mid,666,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_PERCS.mid,266,B
+DBB_MIDI/KIT_08/DBB_KIT_08_GROOVE_B_TOPS.mid,599,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_FILL_01.mid,714,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_FILL_02.mid,690,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_FULL.mid,655,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_INTRO.mid,176,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_NO_KICK.mid,618,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_PERCS.mid,280,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_A_TOPS.mid,583,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_FILL_01.mid,642,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_FILL_02.mid,634,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_FULL.mid,607,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_INTRO.mid,248,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_NO_KICK.mid,554,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_PERCS.mid,248,B
+DBB_MIDI/KIT_09/DBB_KIT_09_GROOVE_B_TOPS.mid,503,B
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_FILL_01.mid,1.5,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_FILL_02.mid,1.52,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_FULL.mid,1.49,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_INTRO.mid,472,B
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_NO_KICK.mid,1.5,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_PERCS.mid,632,B
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_A_TOPS.mid,1.37,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_FILL_01.mid,1.53,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_FILL_02.mid,1.65,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_FULL.mid,1.41,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_INTRO.mid,536,B
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_NO_KICK.mid,1.35,K
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_PERCS.mid,488,B
+DBB_MIDI/KIT_10/DBB_KIT_10_GROOVE_B_TOPS.mid,1.18,K
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_FILL_01.mid,762,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_FILL_02.mid,842,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_FULL.mid,799,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_INTRO.mid,240,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_NO_KICK.mid,714,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_PERCS.mid,332,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_A_TOPS.mid,647,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_FILL_01.mid,1.03,K
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_FILL_02.mid,1.11,K
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_FULL.mid,943,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_INTRO.mid,384,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_NO_KICK.mid,810,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_PERCS.mid,328,B
+DBB_MIDI/KIT_11/DBB_KIT_11_GROOVE_B_TOPS.mid,647,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_FILL_01.mid,802,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_FILL_02.mid,866,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_FULL.mid,775,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_INTRO.mid,344,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_NO_KICK.mid,746,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_PERCS.mid,256,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_A_TOPS.mid,631,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_FILL_01.mid,1.71,K
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_FILL_02.mid,898,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_FULL.mid,847,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_INTRO.mid,296,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_NO_KICK.mid,826,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_PERCS.mid,320,B
+DBB_MIDI/KIT_12/DBB_KIT_12_GROOVE_B_TOPS.mid,695,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_FILL_01.mid,709,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_FILL_02.mid,733,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_FULL.mid,658,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_iNTRO.mid,307,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_NO_KICK.mid,597,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_A_TOPS.mid,506,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_FILL_01.mid,1.13,K
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_FILL_02.mid,1.03,K
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_FULL.mid,1018,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_INTRO.mid,643,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_NO_KICK.mid,925,B
+DBB_MIDI/KIT_BONUS/DBB_KIT_BONUS_GROOVE_B_TOPS.mid,738,B
+DBB_PATCHES/BATTERY 3/DBB_KIT01.kt3,94.49,K
+DBB_PATCHES/BATTERY 3/DBB_KIT02.kt3,93.8,K
+DBB_PATCHES/BATTERY 3/DBB_KIT03.kt3,93.1,K
+DBB_PATCHES/BATTERY 3/DBB_KIT04.kt3,93.27,K
+DBB_PATCHES/BATTERY 3/DBB_KIT05.kt3,92.79,K
+DBB_PATCHES/BATTERY 3/DBB_KIT06.kt3,94.68,K
+DBB_PATCHES/BATTERY 3/DBB_KIT07.kt3,92.85,K
+DBB_PATCHES/BATTERY 3/DBB_KIT08.kt3,91.19,K
+DBB_PATCHES/BATTERY 3/DBB_KIT09.kt3,93.15,K
+DBB_PATCHES/BATTERY 3/DBB_KIT10.kt3,93.63,K
+DBB_PATCHES/BATTERY 3/DBB_KIT11.kt3,92.87,K
+DBB_PATCHES/BATTERY 3/DBB_KIT12.kt3,94.22,K
+DBB_PATCHES/BATTERY 3/DBB_KIT_BONUS.kt3,91.93,K
+DBB_PATCHES/EXS24/DBB_KIT_01.exs,6.02,K
+DBB_PATCHES/EXS24/DBB_KIT_02.exs,4.83,K
+DBB_PATCHES/EXS24/DBB_KIT_03.exs,4.83,K
+DBB_PATCHES/EXS24/DBB_KIT_04.exs,6.02,K
+DBB_PATCHES/EXS24/DBB_KIT_05.exs,4.24,K
+DBB_PATCHES/EXS24/DBB_KIT_06.exs,4.83,K
+DBB_PATCHES/EXS24/DBB_KIT_07.exs,5.43,K
+DBB_PATCHES/EXS24/DBB_KIT_08.exs,5.43,K
+DBB_PATCHES/EXS24/DBB_KIT_09.exs,8.39,K
+DBB_PATCHES/EXS24/DBB_KIT_10.exs,7.21,K
+DBB_PATCHES/EXS24/DBB_KIT_11.exs,6.61,K
+DBB_PATCHES/EXS24/DBB_KIT_12.exs,7.21,K
+DBB_PATCHES/EXS24/DBB_KIT_BONUS.exs,4.83,K
+DBB_PATCHES/HALION/DBB_KIT_01.fxp,15.74,K
+DBB_PATCHES/HALION/DBB_KIT_02.fxp,12.72,K
+DBB_PATCHES/HALION/DBB_KIT_03.fxp,12.71,K
+DBB_PATCHES/HALION/DBB_KIT_04.fxp,15.74,K
+DBB_PATCHES/HALION/DBB_KIT_05.fxp,11.2,K
+DBB_PATCHES/HALION/DBB_KIT_06.fxp,12.72,K
+DBB_PATCHES/HALION/DBB_KIT_07.fxp,14.22,K
+DBB_PATCHES/HALION/DBB_KIT_08.fxp,14.21,K
+DBB_PATCHES/HALION/DBB_KIT_09.fxp,21.73,K
+DBB_PATCHES/HALION/DBB_KIT_10.fxp,18.73,K
+DBB_PATCHES/HALION/DBB_KIT_11.fxp,17.19,K
+DBB_PATCHES/HALION/DBB_KIT_12.fxp,18.7,K
+DBB_PATCHES/HALION/DBB_KIT_BONUS.fxp,12.79,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_01.nki,3.54,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_02.nki,3.44,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_03.nki,3.45,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_04.nki,3.55,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_05.nki,3.39,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_06.nki,3.44,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_07.nki,3.5,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_08.nki,3.51,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_09.nki,3.75,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_10.nki,3.66,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_11.nki,3.62,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_12.nki,3.66,K
+DBB_PATCHES/KONTAKT 3+/DBB_KIT_BONUS.nki,3.45,K
+DBB_PATCHES/NNXT/DBB_KIT_01.sxt,8.97,K
+DBB_PATCHES/NNXT/DBB_KIT_02.sxt,7.03,K
+DBB_PATCHES/NNXT/DBB_KIT_03.sxt,7,K
+DBB_PATCHES/NNXT/DBB_KIT_04.sxt,8.97,K
+DBB_PATCHES/NNXT/DBB_KIT_05.sxt,6.03,K
+DBB_PATCHES/NNXT/DBB_KIT_06.sxt,7.03,K
+DBB_PATCHES/NNXT/DBB_KIT_07.sxt,7.98,K
+DBB_PATCHES/NNXT/DBB_KIT_08.sxt,7.92,K
+DBB_PATCHES/NNXT/DBB_KIT_09.sxt,12.71,K
+DBB_PATCHES/NNXT/DBB_KIT_10.sxt,10.82,K
+DBB_PATCHES/NNXT/DBB_KIT_11.sxt,9.74,K
+DBB_PATCHES/NNXT/DBB_KIT_12.sxt,10.72,K
+DBB_PATCHES/NNXT/DBB_KIT_BONUS.sxt,7.3,K
+DBB_PATCHES/SFZ/DBB_KIT_01.sfz,5.94,K
+DBB_PATCHES/SFZ/DBB_KIT_02.sfz,4.68,K
+DBB_PATCHES/SFZ/DBB_KIT_03.sfz,4.67,K
+DBB_PATCHES/SFZ/DBB_KIT_04.sfz,5.94,K
+DBB_PATCHES/SFZ/DBB_KIT_05.sfz,4.04,K
+DBB_PATCHES/SFZ/DBB_KIT_06.sfz,4.68,K
+DBB_PATCHES/SFZ/DBB_KIT_07.sfz,5.3,K
+DBB_PATCHES/SFZ/DBB_KIT_08.sfz,5.29,K
+DBB_PATCHES/SFZ/DBB_KIT_09.sfz,8.44,K
+DBB_PATCHES/SFZ/DBB_KIT_10.sfz,7.18,K
+DBB_PATCHES/SFZ/DBB_KIT_11.sfz,6.54,K
+DBB_PATCHES/SFZ/DBB_KIT_12.sfz,7.17,K
+DBB_PATCHES/SFZ/DBB_KIT_BONUS.sfz,4.73,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_A#1_Open_Hihat.wav,58.26,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_B0_Acoustic_Bass_Drum.wav,32.27,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_B2_Ride_Cymbal_2.wav,664.57,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_C1_Bass_Drum.wav,44.41,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_D#2_Ride_Cymbal_1.wav,664.49,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_D1_Acoustic_Snare.wav,210.53,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_E1_Electric_Snare.wav,66.56,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_F#1_Closed_Hihat.wav,42.66,K
+DBB_SOUNDS_WAV/KIT01/DBB_Kit_01_G#1_Pedal_Hihat.wav,41.87,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_A#1_Open_Hihat.wav,121.1,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_B2_Ride_Cymbal_2.wav,798.12,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_C1_Kick_Drum.wav,94.54,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_D#2_Ride_Cymbal_1.wav,638.15,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_D1_Acoustic_Snare.wav,79.51,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_E1_Electric_Snare.wav,47.29,K
+DBB_SOUNDS_WAV/KIT02/DBB_Kit_02_F#1_Closed_Hihat.wav,39.14,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_A#1_Open_Hihat.wav,44.82,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_C1_Kick_Drum.wav,85.86,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_D1_Acoustic_Snare.wav,68.85,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_E1_Electric_Snare.wav,33.73,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_F#1_Closed_Hihat.wav,22.53,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_F#3_Low_Timbale.wav,37.77,K
+DBB_SOUNDS_WAV/KIT03/DBB_Kit_03_G#1_Pedal_Hihat.wav,22.26,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_B2_Ride_Cymbal_2.wav,599.92,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_C1_Kick_Drum.wav,42.27,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_D#2_Ride_Cymbal_1.wav,683.92,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_D1_Acoustic_Snare.wav,90.93,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_E1_Electric_Snare-1.wav,21.56,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F#1_Closed_Hihat.wav,22.8,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F#3_Low_Timbale-1.wav,33.05,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_F1_Low_Floor_Tom.wav,70.8,K
+DBB_SOUNDS_WAV/KIT04/DBB_Kit_04_G#1_Pedal_Hihat.wav,22.79,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_A3_Cabasa.wav,37.85,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_C1_Kick_Drum.wav,52.58,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_D#2_Ride_Cymbal_1.wav,344.52,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_D1_Acoustic_Snare.wav,62.5,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_E1_Electric_Snare.wav,32.6,K
+DBB_SOUNDS_WAV/KIT05/DBB_Kit_05_F#1_Closed_Hihat.wav,31.88,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_A#1_Open_Hihat.wav,42.88,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_C1_Kick_Drum.wav,78.23,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D#3_Open_Hi_Conga.wav,17.22,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D1_Acoustic_Snare.wav,81.5,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_D3_Mute_Hi_Conga.wav,42.46,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_E1_Electric_Snare.wav,114.54,K
+DBB_SOUNDS_WAV/KIT06/DBB_Kit_06_F#1_Closed_Hihat.wav,45.74,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_C1_Kick_Drum.wav,95.64,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D#3_Open_Hi_Conga.wav,66.86,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D1_Acoustic_Snare-1.wav,102.72,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_D3_Mute_Hi_Conga.wav,22.87,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_E1_Electric_Snare.wav,91.21,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_F#1_Closed_Hihat.wav,45.65,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_G#1_Pedal_Hihat.wav,45.72,K
+DBB_SOUNDS_WAV/KIT07/DBB_Kit_07_G#2_Cow_Bell.wav,136.24,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_A#1_Open_Hihat.wav,182.2,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C#1_Side_Stick.wav,96.94,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C#4_Short_Guiro.wav,3.21,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_C1_Kick_Drum.wav,91.32,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_D1_Acoustic_Snare.wav,136.93,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_D4_Long_Guiro.wav,37.9,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_F#1_Closed_Hihat.wav,11.7,K
+DBB_SOUNDS_WAV/KIT08/DBB_Kit_08_G#1_Pedal_Hihat.wav,6.97,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_B2_Ride_Cymbal_2.wav,319.32,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C#1_Side_Stick.wav,22.29,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C#3_Low_Bongo.wav,73.46,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C1_Kick_Drum.wav,91.37,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_C3_Hi_Bongo.wav,92.57,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D#2_Ride_Cymbal_1.wav,319.34,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D#3_Open_Hi_Conga.wav,91.83,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D1_Acoustic_Snare.wav,115.62,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_D3_Mute_Hi_Conga.wav,48.27,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_E1_Electric_Snare.wav,35.16,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_E3_Low_Conga.wav,70.56,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_F#1_Closed_Hihat.wav,45.34,K
+DBB_SOUNDS_WAV/KIT09/DBB_Kit_09_G#1_Pedal_Hihat.wav,45.82,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_C#1_Side_Stick.wav,15.3,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_C1_Kick_Drum.wav,66.12,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D#2_Ride_Cymbal_1.wav,425.65,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D#3_Open_Hi_Conga.wav,197.5,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_D1_Acoustic_Snare.wav,55.86,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_E1_Electric_Snare.wav,13.89,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_E3_Low_Conga.wav,121.58,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F#1_Closed_Hihat.wav,12.91,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F#3_Low_Timbale.wav,30.52,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_F3_High_Timbale.wav,17.75,K
+DBB_SOUNDS_WAV/KIT10/DBB_Kit_10_G#1_Pedal_Hihat.wav,9.01,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A#2_Vibraslap.wav,32.3,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A#3_Maracas.wav,22.9,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_A3_Cabasa.wav,15.3,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_C1_Kick_Drum.wav,35.84,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D#2_Ride_Cymbal_1.wav,121.72,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D#4_Claves.wav,11.98,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_D1_Acoustic_Snare.wav,50.16,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_F#1_Closed_Hihat.wav,6.13,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_G#1_Pedal_Hihat.wav,15.17,K
+DBB_SOUNDS_WAV/KIT11/DBB_Kit_11_G4_Open_Cuica.wav,48.77,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_A#3_Maracas.wav,19.98,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_A3_Cabasa.wav,60.84,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_C1_Kick_Drum.wav,59.77,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_C3_Hi_Bongo.wav,60.18,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D#3_Open_Hi_Conga.wav,48.16,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D1_Acoustic_Snare.wav,138.38,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_D3_Mute_Hi_Conga.wav,20.21,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_E1_Electric_Snare.wav,12.9,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_E3_Low_Conga.wav,44.74,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_F#1_Closed_Hihat.wav,16.27,K
+DBB_SOUNDS_WAV/KIT12/DBB_Kit_12_F#2_Tambourine.wav,14.41,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_A#1_Open_Hihat.wav,65.89,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_C1_Kick_Drum.wav,46.7,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_D#2_Ride_Cymbal_1.wav,380.13,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_D1_Acoustic_Snare.wav,83.36,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_E1_Electric_Snare.wav,40.64,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_F#1_Closed_Hihat.wav,30.52,K
+DBB_SOUNDS_WAV/KIT_BONUS/DBB_Kit_BONUS_G#1_Pedal_Hihat.wav,30.5,K
+IMPORTANT! Maschine User Guide.rtf,1.56,K
+INFO/INSTALLATION INSTRUCTIONS/5P_Drum & Bass Breaks_Tips&Tricks.rtf,6.39,K
+INFO/INSTALLATION INSTRUCTIONS/5P_Installation_Instructions.rtf,6.01,K
+INFO/LICENSING AG/Loopmasters Licence Agreement.pdf,67.21,K
+Torrent downloaded from Demonoid.me.txt,46,B

@@ -1,0 +1,5 @@
+Fimfarchive is a project which aims to release all stories available on Fimfiction, together with their metadata, as a single archive. The archive is organized by author and could be used for backup, offline reading, or data mining.
+
+Note that this archive contains a large number of files. Unzipping it to your file system may not be necessary if the archive is to be used together with some application. If you are a developer, reading directly from the ZIP-file may be preferable.
+
+A new version will be released each season via BitTorrent, approximately once every three months. When suitable, an xdelta patch will also be provided for users who do not wish to redownload unchanged stories.

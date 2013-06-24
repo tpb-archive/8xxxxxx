@@ -1,0 +1,53 @@
+Name: PapersV2
+Version:  - 2.6.2
+
+Mac Platform: Intel
+Includes: K
+
+OS version: OS X 10.6 or later
+
+Link for more information: http://www.mekentosj.com/papers/
+
+Papers is your personal library of Science.
+
+Read, Write, Cite. Your research will never be the same with Papers2 and Magic Manuscripts.
+
+Papers revolutionizes the way you deal with your research documents. It allows you to search for them, download and organize them together with supplementary material, allows you to read them full screen, highlight and keep notes, sync them to your iPad or iPhone, cite them in your favorite word processor, share them with your colleagues, and much much more. Welcome to your personal library of Research!
+
+WHAT'S NEW
+New Features:
+Automatic updating of CSL styles (can be turned off in preferences).
+Updated CSL styles to include 2000+ more styles from Elsevier and T&F journals
+Other bug fixes and improvements:
+Fixed an issue with PDF downloading from ScienceDirect
+Fixed an issue with greek character encoding in BibTeX files
+Fixed an issue with exporting file URLs in BibTeX files
+Fixed an issue with ISBN importing in RIS and Pubmed files
+Fixed an issue with accessing the Papers support site from within Papers
+Fixed an issue with querying Crossref with DOIs containing unicode characters
+Fixed an issue with recent author searches and the ADS search engine
+Fixed an issue where new from clipboard would loose author information
+Fixed an issue with null authors showing in references
+Fixed an issue where using capitalization functions during multi editing would set incorrect titles
+Fixed an issue where inspector menus would appear at the wrong location on retina screens
+Fixed an issue where the tweet sheet would appear at the wrong location
+Fixed an issue where notes created on iOS could not be properly dragged
+Fixed an issue where selected underlines and strikethroughs would appear washed out
+Fixed a number of crashes while author editing
+Fixed an issue where upon quit Papers would crash
+Fixed an issue where libraries created on Windows would crash when opening the preferences
+Fixed an issue where Papers would crash if clicked on the help button in a number of sheets
+Fixed an issue where notes would be saved to the wrong paper in fullscreen mode
+Improved behavior when switching between fullscreen mode and different papers
+Improved import speed by preventing duplicate crossref requests
+Improved duplicate detection of books
+Scrollbar hiding now adheres to the system wide preference to always show scrollers if chosen
+Windows compatible filenames now limits to the ASCII character set
+Added additional logging to help users that have difficulties connecting to Web of Science
+Added a warning when exporting the whole library as an archive
+Changed references to mekentosj.com to the new papersapp.com website
+
+
+
+
+[k'd] By LfsCrew 

@@ -1,0 +1,116 @@
+(this is my first torrent upload, please excuse any mistakes)
+
+This is a direct rip from my DVD.  Since it is out of print, I thought I would share until they decide to put it back in print.  It's fully tagged with chapters included.
+
+H.264 constant quality, HE-AAC mono (original source was mono)
+
+Technical Details:
+
+General
+Complete name : /Volumes/media/Movies/Disorderlies (1987).m4v
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 909 MiB
+Duration : 1h 26mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 474 Kbps
+Movie name : Disorderlies
+Performer : Mark Morales, Darren Robinson, Damon Wimbley, Ralph Bellamy, Tony Plana, Anthony Geary, Rick Neilsen
+Genre : Comedy, Indie
+Recorded date : 1987-08-14
+Encoded date : UTC 2013-06-10 00:29:27
+Tagged date : UTC 2013-06-10 00:58:26
+Writing application : HandBrake 0.9.9 2013051800
+Cover : Yes
+desc : As not-quite-orderlies who're downright Disorderlies, rap-music favorites The Fat Boys rule. Playing the freewheeling caretakers of the frail Dennison (Hollywood legend Ralph Bellamy), they stir up a comedic culture clash in Palm Beach society that only proves laughter is the best medicine this side of a tax refund.
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 1h 26mn
+Bit rate mode : Variable
+Bit rate : 1 425 Kbps
+Width : 716 pixels
+Height : 480 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Frame rate : 23.976 fps
+Minimum frame rate : 7.987 fps
+Maximum frame rate : 30.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.173
+Stream size : 879 MiB (97%)
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=25000 / vbv_bufsize=31250 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : English
+Encoded date : UTC 2013-06-10 00:29:27
+Tagged date : UTC 2013-06-10 00:48:36
+Color primaries : BT.601 NTSC
+Transfer characteristics : BT.709
+Matrix coefficients : BT.601
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : HE-AAC / LC
+Codec ID : 40
+Duration : 1h 26mn
+Bit rate mode : Variable
+Bit rate : 41.1 Kbps
+Maximum bit rate : 63.0 Kbps
+Channel(s) : 1 channel
+Channel positions : Front: C
+Sampling rate : 48.0 KHz / 24.0 KHz
+Compression mode : Lossy
+Delay relative to video : 175ms
+Stream size : 25.3 MiB (3%)
+Language : English
+Encoded date : UTC 2013-06-10 00:29:27
+Tagged date : UTC 2013-06-10 00:48:36
+Text
+ID : 3
+Format : Timed Text
+Muxing mode : sbtl
+Codec ID : tx3g
+Duration : 1h 25mn
+Bit rate mode : Variable
+Bit rate : 70 bps
+Delay relative to video : 175ms
+Stream size : 44.2 KiB (0%)
+Language : English
+Encoded date : UTC 2013-06-10 00:29:27
+Tagged date : UTC 2013-06-10 00:48:36
+Menu #1
+00:00:00.000 : Rock Rulin' Credits.
+00:02:51.021 : How soon, Winslow?
+00:06:48.174 : The worst.
+00:10:58.841 : The new orderlies.
+00:16:37.312 : Don't touch!
+00:18:29.373 : Splashy nightmare.
+00:23:35.929 : On-the-town car.
+00:27:05.771 : Free-wheeling.
+00:30:12.157 : Step off, homeboy.
+00:34:44.395 : Healty eating.
+00:38:56.847 : No-pill prescription.
+00:43:27.951 : Bunglers' breakthrough.
+00:45:59.569 : Active lifestyle.
+00:49:29.612 : Baby You're a Rich Man.
+00:54:38.120 : Pooling resources.
+00:57:40.769 : Framed.
+01:03:06.794 : Back-seat drivers.
+01:08:44.464 : Uniformed help.
+01:13:03.055 : Sticking it to them.
+01:16:55.704 : Nick of time.
+01:19:24.769 : In the end.
+01:22:23.113 : End credits.

@@ -1,0 +1,27 @@
+OpenOffice.org is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more. It is available in many languages and works on all common computers. 
+
+INCLUDED APPLICATIONS :
+
+Writer
+
+A word processor analogous to Microsoft Word and WordPerfect. It can export Portable Document Format (PDF) files, and can function as a basic WYSIWYG editor for creating and editing web pages.
+
+Calc
+
+A spreadsheet analogous to Microsoft Excel and Lotus 1-2-3. Calc can export spreadsheets to the PDF format. Calc provides a number of features not present in Excel, including a system which automatically defines series for graphing, based on the layout of the userΓÇÖs data.
+
+Impress
+
+A presentation program analogous to Microsoft PowerPoint and Apple Keynote. Impress can export presentations to Adobe Flash (SWF) files, allowing them to be played on any computer with a Flash player installed. It also includes the ability to create PDF files, and the ability to read Microsoft PowerPoint's .ppt format. Impress lacks ready-made presentation designs but this can be overcome by downloading free templates on-line.
+
+Draw
+
+A vector graphics editor comparable in features to early versions of CorelDRAW and Microsoft Visio. It features versatile "connectors" between shapes, which are available in a range of line styles and facilitate building drawings such as flowcharts. It has similar features to desktop-publishing software such as Scribus and Microsoft Publisher. Draw can also export its creations to the PDF format. (See ooWriter entry, above, for details of PDF).
+
+Math
+
+A tool for creating and editing mathematical formulae, analogous to Microsoft Equation Editor. Formulae can be embedded inside other OpenOffice documents, such as those created by Writer. It supports multiple fonts and can export to PDF.
+
+Base
+
+A database management program analogous to Microsoft Access. Base allows the creation and manipulation of databases, and the building of forms and reports to provide easy access to data for end-users. As with MS Access, Base can function as a front-end to a number of different database systems, including Access databases (JET), ODBC data sources and MySQL/PostgreSQL. Base became part of the suite starting with version 2.0. Native to the OpenOffice suite is an adaptation of HSQL. While Base can be a front-end for any of the databases listed, there is no need to install any of them. Raw SQL code can be entered by those who prefer it, or graphical user interfaces can be used.

@@ -1,0 +1,19 @@
+Title Name: Roll Up
+Mix:
+Artist Name: Wiz Khalifa
+Record Label: Rostrum/Atlantic
+
+
+Duration: 03:47
+BPM: 094
+Ending:
+Content Warnings:
+Style: Rhythm/Top 40/Urban
+
+
+Issue Appearances: Urban Video 0511
+
+Size: 190734336 bytes (181,90 MiB), duration: 00:03:47, avg.bitrate: 6722 kb/s
+Audio: pcm_s16be, 48000 Hz, 2 channels, s16, 1536 kb/s
+Video: mpeg2video, yuv420p, 720x480, 8000 kb/s, 29,97 fps(r)
+* scaling input * 720x480 =&gt; 640x480 according to sample_aspect_ratio 8/9

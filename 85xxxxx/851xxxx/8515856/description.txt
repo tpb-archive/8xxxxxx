@@ -1,0 +1,81 @@
+Avengers Assemble S1 EP1 The Avengers Protocol, Part 1
+
+
+As the Avengers join up at Avenger tower, a new hero joins their ranks.
+
+ 
+http://www.imdb.com/title/tt2455546/
+
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 349 MiB
+Duration                                 : 22mn 8s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 201 Kbps
+Movie name                               : The Avengers Protocol, Pt. 1
+Album                                    : Marvel's Avengers Assemble, Season 1
+Performer                                : Marvel's Avengers Assemble
+Genre                                    : Kids
+Recorded date                            : UTC 2013-05-26 07:00:00
+Encoded date                             : UTC 2013-05-28 05:49:33
+Tagged date                              : UTC 2013-05-28 06:02:44
+Writing application                      : HandBrake 0.9.9 2013051800
+Cover                                    : Yes
+desc                                     : When Captain America is apparently destroyed by Red Skull, Iron Man reunites the team to avenge him
+ldes                                     : When Captain America is apparently destroyed by Red Skull, Iron Man reunites the team to avenge him.
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 22mn 6s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 876 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.974 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.085
+Stream size                              : 297 MiB (85%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / 5000 
+Encoded date                             : UTC 2013-05-28 05:49:33
+Tagged date                              : UTC 2013-05-28 06:02:44
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 22mn 8s
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 294 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 25.3 MiB (7%)
+Language                                 : English
+Encoded date                             : UTC 2013-05-28 05:49:33
+Tagged date                              : UTC 2013-05-28 06:02:42

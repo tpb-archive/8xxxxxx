@@ -1,0 +1,25 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies! 
+
+Gnomoria v0.8.42
+
+
+General
+
+-Goblins and Skeletons no longer have a chance to spawn with regular equipment
+-Worn equipment can be smelted into metal slivers
+-Metal slivers can be forged into metal bars
+
+
+Fixed
+
+-Crash loading games with a queued Fill Hole job
+-Replace Floor not being allowed over Stockpiles and Military designations
+-Incorrect values for worn weapons
+-Suspended pastures still allowing animals to be milked, sheared, etc
+-Build stairs/incline down jobs allowing to be queued in some invalid locations
+
+
+
+XNA Framework.NET Framework are included in the _CommonRedist Folder. (Install these first.)
+
+You can help the developer and buy the game on steam here: http://store.steampowered.com/app/224500/

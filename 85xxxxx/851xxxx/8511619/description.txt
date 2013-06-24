@@ -1,0 +1,37 @@
+ExifTool Version Number         : 8.60
+File Name                       : A Good Day to Die Hard.mkv
+Directory                       : .
+File Size                       : 11855 MB
+File Modification Date/Time     : 2013:05:25 21:20:22-05:00
+File Permissions                : rwxrwxrwx
+File Type                       : MKV
+MIME Type                       : video/x-matroska
+EBML Version                    : 1
+EBML Read Version               : 1
+Doc Type                        : matroska
+Doc Type Version                : 2
+Doc Type Read Version           : 2
+Timecode Scale                  : 1 ms
+Muxing App                      : libebml v1.2.3 + libmatroska v1.3.0
+Writing App                     : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Duration                        : 1:41:11
+Date/Time Original              : 2013:05:23 00:43:07Z
+Video Codec ID                  : V_MPEG4/ISO/AVC
+Video Frame Rate                : 23.976
+Image Width                     : 1920
+Image Height                    : 1040
+Display Width                   : 1920
+Display Height                  : 1040
+Default Duration                : 10.666666 ms
+Audio Codec ID                  : A_VORBIS
+Audio Sample Rate               : 48000
+Audio Channels                  : 2
+Track Number                    : 8
+Track Type                      : Subtitle
+Track Default                   : No
+Codec ID                        : S_VOBSUB
+Track Language                  : eng
+Chapter Time Start              : 1:35:24
+Chapter String                  : 01:35:24.927
+Chapter Language                : eng
+Image Size                      : 1920x1040

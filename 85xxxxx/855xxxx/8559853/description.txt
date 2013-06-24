@@ -1,0 +1,66 @@
+General
+----------------------------------------------------------------
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 146 MiB
+Duration                                 : 44mn 22s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 458 Kbps
+
+Video
+----------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L3.0
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 44mn 22s
+Source duration                          : 44mn 22s
+Bit rate                                 : 359 Kbps
+Maximum bit rate                         : 1 551 Kbps
+Width                                    : 640 pixels
+Height                                   : 360 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Minimum frame rate                       : 29.070 fps
+Maximum frame rate                       : 30.242 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.052
+Stream size                              : 114 MiB (78%)
+Source stream size                       : 114 MiB (78%)
+
+Audio
+----------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 44mn 22s
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 103 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 30.5 MiB (21%)
+
+Screenshots
+---------------------------------------------------------------- 
+http://share.pho.to/2Xduu/original 
+http://share.pho.to/2Xduv/original 
+http://share.pho.to/2XdvA/original 
+http://share.pho.to/2XdvX/original 
+http://share.pho.to/2Xdvg/original 
+http://share.pho.to/2Xdvn/original
+
+Enjoy ;)

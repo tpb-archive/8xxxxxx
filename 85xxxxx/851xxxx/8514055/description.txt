@@ -1,0 +1,150 @@
+Platoon*1986* [1080p.DTS-HD.MA 5.1.AC3.BluRay.x264-LEON 345]
+ ===================================================
+
+Oryginalny tytuł: Platoon
+ Produkcja: USA, Wielka Brytania
+ Gatunek: Dramat, Wojenny
+ Data premiery: 1990-12-31 (Polska), 1986-12-19 (Świat)
+ Reżyseria: Oliver Stone
+ Scenariusz: Oliver Stone
+ Zdjęcia: Robert Richardson
+ Muzyka: Georges Delerue
+
+ Nagrodzony 4-ema Oscarami film, reżyser, montaż, dźwięk w tym dla Najlepszego filmu 1986 roku, opierający się na wątkach autobiograficznych reżysera Olivera Stone'a - zdobywcy Nagrody Akademii, "Pluton" jest "mrocznym i niezapomnianym hołdem" (The Washington Post) złożonym wszystkim żołnierzom, którzy utracili swe dusze podczas wojny w Wietnamie. Przybyły do Wietnamu Chris Taylor (Charlie Sheen) szybko odkrywa, że najtrudniejszą walką, którą musi stoczyć jest walka z samym sobą - z własnymi słabościami, strachem, gniewem i wycieńczeniem. "Pluton" to opowieść o ludziach za młodych aby umierać, zbyt niedojrzałych, by ustrzec się przed spustoszeniem, jakie w ich duszach dokonuje brutalna wojna. W wilgotnej, parnej dżungli szybko wyrasta się ze złudzeń. Nominowane do Oscara (aktor drugoplanowy) kreacje aktorskie doborowej obsady z Tomem Berengerem i Willemem Dafoe na czele, bolesna szczerość i realizm filmu sprawiają, że "Pluton" jest arcydziełem gatunku, na zawsze pozostającym w pamięci widza.
+
+ General
+ Unique ID                      : 213561418465221252659038880380253171799 (0xA0AA6EDE408B30F19057AA3AE6A4F057)
+ Complete name                  : F:FilmyFilmy 3DSzablonWstawkaPLATOON_1986.PL(Leon 345)Platoon.1986.PL(Leon 345).mkv
+ Format                         : Matroska
+ Format version                 : Version 2
+ File size                      : 12.2 GiB
+ Duration                       : 1h 59mn
+ Encoding type                  : 2 pass
+ Overall bit rate mode          : Variable
+ Overall bit rate               : 14.6 Mbps
+ Encoded date                   : UTC 2013-05-19 08:14:14
+ Writing application            : mkvmerge v5.7.0 ('The Whirlwind') built on Jul  8 2012 20:08:51
+ Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+ Video
+ ID                             : 1
+ Format                         : AVC
+ Format/Info                    : Advanced Video Codec
+ Format profile                 : High@L4.1
+ Format settings, CABAC         : Yes
+ Format settings, ReFrames      : 2 frames
+ Codec ID                       : V_MPEG4/ISO/AVC
+ Duration                       : 1h 59mn
+ Bit rate mode                  : Variable
+ Nominal bit rate               : 11.3 Mbps
+ Maximum bit rate               : 35.0 Mbps
+ Width                          : 1 920 pixels
+ Height                         : 1 080 pixels
+ Display aspect ratio           : 16:9 (1.85:1)
+ Frame rate mode                : Constant
+ Frame rate                     : 23.976 fps
+ Color space                    : YUV
+ Chroma subsampling             : 4:2:0
+ Bit depth                      : 8 bits
+ Scan type                      : Progressive
+ Bits/(Pixel*Frame)             : 0.227
+ Title                          : Rip  by Leon 345  encoding  2  pass
+ Writing library                : x264 core 132 r2309 
+ Default                        : Yes
+ Forced                         : No
+
+ Audio #1
+ ID                             : 2
+ Format                         : AC-3
+ Format/Info                    : Audio Coding 3
+ Mode extension                 : CM (complete main)
+ Format settings, Endianness    : Big
+ Codec ID                       : A_AC3
+ Duration                       : 1h 59mn
+ Bit rate mode                  : Constant
+ Bit rate                       : 640 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 16 bits
+ Compression mode               : Lossy
+ Delay relative to video        : 8ms
+ Stream size                    : 549 MiB (4%)
+ Title                          : AC3  5.1  Lektor  PL
+ Language                       : Polish
+ Default                        : Yes
+ Forced                         : Yes
+
+ Audio #2
+ ID                             : 3
+ Format                         : AC-3
+ Format/Info                    : Audio Coding 3
+ Mode extension                 : CM (complete main)
+ Format settings, Endianness    : Big
+ Codec ID                       : A_AC3
+ Duration                       : 1h 59mn
+ Bit rate mode                  : Constant
+ Bit rate                       : 640 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 16 bits
+ Compression mode               : Lossy
+ Stream size                    : 549 MiB (4%)
+ Title                          : AC3  5.1  Orginal
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Audio #3
+ ID                             : 4
+ Format                         : DTS
+ Format/Info                    : Digital Theater Systems
+ Format profile                 : MA / Core
+ Mode                           : 16
+ Format settings, Endianness    : Big
+ Codec ID                       : A_DTS
+ Duration                       : 1h 59mn
+ Bit rate mode                  : Variable
+ Bit rate                       : 2024  / 1 509 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 16 bits
+ Compression mode               : Lossless / Lossy
+ Title                          : DTS-HD MA  5.1  Orginal
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Text #1
+ ID                             : 5
+ Format                         : PGS
+ Muxing mode                    : zlib
+ Codec ID                       : S_HDMV/PGS
+ Codec ID/Info                  : The same subtitle format used on BDs/HD-DVDs
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Text #2
+ ID                             : 6
+ Format                         : PGS
+ Muxing mode                    : zlib
+ Codec ID                       : S_HDMV/PGS
+ Codec ID/Info                  : The same subtitle format used on BDs/HD-DVDs
+ Language                       : Polish
+ Default                        : No
+ Forced                         : No
+
+ Text #3
+ ID                             : 7
+ Format                         : UTF-8
+ Codec ID                       : S_TEXT/UTF8
+ Codec ID/Info                  : UTF-8 Plain Text
+ Default                        : Yes
+ Forced                         : Yes
+
+ Source [thx]:
+ A/V- Platoon [25th Anniversary Edition] (1986) Blu-ray CEE 1080p AVC DTS 5.1
+ Lektor PL -  HDBT

@@ -1,0 +1,13 @@
+mame full set roms 0.149 (not include CHD'S)
+
+include mameUI x64 emulador v0.149
+
+
+
+emulate mame 0.149-roms-full.iso into deamon tools
+
+set mame path roms cd-romMAME-roms
+
+
+enjoy 
+

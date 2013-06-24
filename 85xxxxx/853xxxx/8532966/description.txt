@@ -1,0 +1,27 @@
+Call of Juarez Gunslinger Update 1.01 Changelog
+
+===========
+Changes: ==
+===========
+
+- hit indicator is now disabled in True West difficulty mode
+- new option to disable crosshair regardless of the difficulty mode
+- new option to adjust mouse sensitivity on duels
+- new settings available in video.scr file
+- additional checks before posting scores to the leaderboards
+- additional credits
+
+=========
+Fixes: ==
+=========
+
+- fixed problems with audio on 7.1 output configurations
+- fixed crashes related to using 7.1 audio configurations
+- fixed potential crash when using long Steam nicknames with non-latin characters
+- leaderboards now correctly display nicks with non-latin characters
+- patched up heavy stuttering when using certain keyboard and mouse models
+- workaround for blocks when booting the game on systems that have problems with video playback
+- tweaked enemy behavior on duels to avoid duels with no conclusion
+- fixed HUD gadget in Arcade mode sometimes not displaying "versus" friend's name
+- fixed navigation and centering in My Score and Friends leaderboards
+- tweaks and fixes in the Japanese localization

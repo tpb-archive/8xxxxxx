@@ -1,0 +1,24 @@
+SimCity is a city-building and management simulation game for the PC gaming platform that serves as a 2013 reboot of the iconic video game series. As with all games in the franchise, SimCity provides total control of how cities develop, but also adds new features such as: crisp 3D graphics, direct contact with citizens, dynamic real-time in-game units that replace animations representing player actions and levels of citizen happiness, franchise first multiplayer support, and in-game weather and pollution representation. 
+
+
+
+
+INSTALL NOTES:
+
+ Follow these carefully or your game won't work.
+
+ 1. Unpack this release and make sure the folder name is "SIMCITY" without the "".
+ 2. Copy the files in the "SimCity DRMLESS Beta Update 1.5" folder to the main SIMCITY folder. 
+    When asked to overwrite existing files choose Yes.
+ 3. Delete stunnel folder and stop.exe file.
+ 4. Go into the extra folder and run the Electronic Arts, Inc CA.crt file.
+ 5. Click on Install Certificate and press Next. 
+    Then pick the Place all certificates in the following store option and press Browse.
+ 6. Select the Trusted Root Certification Authorities option and click OK. 
+    Now press Next and finish. If you get an error select Yes.
+ 7. Replace Your Hosts file with the one Provided in the Extras Folder. You can find your hosts file in C:WindowsSystem32Driversetc
+ 8. Install Origin from the extra folder and when it's finished installing run the start.exe file in the main SIMCITY folder.
+ 9. Click on Start Server and wait for the message to show you that "everything sounds fine"
+ 10. Start Origin that you just installed with any username and password you want.
+ 11. Click on My Games, select SimCity and click on Download in the yellow/orange box.
+ 12. From here on it's easy, wait for it to download and then click Play.

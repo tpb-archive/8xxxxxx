@@ -1,0 +1,70 @@
+With Franky in the slot, Jacs is ruling the prison and the women are living in fear. 
+
+When word gets out that Franky is to be released back into the compound, Jacs plans 
+
+a brutal attack. Bea challenges Jacs and pays a high price. Will discovers something 
+
+about Meg that sends him on a downward spiral, pushing him dangerously close to the 
+edge.
+
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 196 MiB
+Duration                                 : 45mn 32s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 600 Kbps
+Encoded date                             : UTC 2013-06-13 05:58:27
+Tagged date                              : UTC 2013-06-13 06:15:55
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L4.2
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 45mn 32s
+Bit rate mode                            : Variable
+Bit rate                                 : 501 Kbps
+Width                                    : 720 pixels
+Height                                   : 592 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.047
+Stream size                              : 163 MiB (84%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=0 / ref=6 / deblock=1:1:1 
+Encoded date                             : UTC 2013-06-13 05:58:27
+Tagged date                              : UTC 2013-06-13 06:15:52
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 45mn 32s
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 127 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 31.3 MiB (16%)
+Encoded date                             : UTC 2013-06-13 05:58:27
+Tagged date                              : UTC 2013-06-13 06:15:51

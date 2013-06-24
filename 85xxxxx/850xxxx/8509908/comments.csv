@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,urfinished,2013-05-26T07:58Z,"Dear murphy78
+
+Please provide win8 enterprise+office, similar to
+http://thepiratebay.sx/torrent/8216784/Windows_8_Enterprise_Office_2013_x64_en-US_Mar3_2013
+
+who gonna need all these versions!
+
+Anyway, thanks for the amazing job. you are the only one proving updated, untouched releases ..."
+[V],murphy78,2013-05-26T11:37Z,"I'm gonna re-visit a win8+office2013 next month... I did one for win7 this month and time is ticking away...
+
+I kinda need to get most of the monthly stuff done before the end of the month or it just seems wrong to release... like releasing a may2013 in june... seems wrong...
+
+So that's on the schedule for June...
+I'm not sure I'ma do a sysprep of win7 alone... I was debating it, but really the only reason people want it is because the .net 4.5 and updates take so long.
+
+So, I think I'm just going to drop the .net stuff since it makes everyone's install take forever. That way the only things added during setupcomplete are the one msu file, the defender updates, and the malicious software tool. Those three only take like a minute to run. Much faster than the 5-10 mins of .net install/updating...
+
+People can still download .net whenever they want..."
+,oron1230,2013-05-26T14:13Z,"Dear murphy78,
+
+Can I upgrade my windows 7 with this ISO?"
+,oron1230,2013-05-26T14:22Z,"Can I install this software as an upgrade for my win7 directly from my ""MagicISO"" ?"
+[V],murphy78,2013-05-26T15:12Z,"I believe magiciso is something like poweriso and ultraiso, and mounts iso images as well?
+
+You should be able to upgrade any x64 version of windows. The target index depends on the rules microsoft sets forth in their upgrade schemes....
+
+So if you are using Ultimate, you're probably good to upgrade to Pro, but if you are using Home Basic you might not be able to because of the upgrade rules.
+
+There's a simple way around that that involves switching a registry key, but I don't know it off hand... something like HKLM/system/windows nt/version or something..."
+,press2012,2013-05-26T15:51Z,"Thanks for posting. Could you please check out the Windows 7 Enterprise SP1 Office 2013 x64 DaRT8 Pre-Activated May torrrent Re: My second question:
+press2012 at 2013-05-23 21:07 CET: Thanks for posting. Getting ready to burn. TIA."
+,nj98110,2013-05-26T17:38Z,@murphy: Do include .net updates in future release
+,nj98110,2013-05-26T17:39Z,"@murphy78 I think you shouldn't do that, because the latest apps and games require the .NET framework and if it comes with windows installation., it is good. People should be patient while installing an OS and i request you to include the .NET updates in next release as well."
+,LifeHunter,2013-05-26T21:46Z,"Thanks murphy78! Appreciate your work as always!
+
+And I totaly agree with nj98110 that you should include .NET 4.5 in your future Win7 releases because it's really needed. All the included Windows & .NET updates saves us so much time and effort. Installing a computer is not a sprint race, it really needs to be done completely.
+
+So I too request to leave the .NET 4.5 in your future Win7 releases!"
+[V],murphy78,2013-05-27T04:51Z,"I can make a folder for people that would like to install net45 after install with all the updates...
+
+They're all in exe format so it's as simple as checking for syswow64 folder and running x64 if present, and x86 if not.
+
+I did it for a while on the vista releases. Most people don't know about it because, hell, it's Vista... who wants that crap? But it's fairly straightforward and when setup correctly; it's very easy to simply copy to the dvd before making the .iso.
+
+I think this should work for both people who like and don't like the .net extra install."
+,Scurbdog,2013-05-27T10:42Z,Grabbing this one thanks!. Getting close to June. Any clue to the next 41 in 1 Windows 7?
+,raj8888,2013-05-27T11:09Z,"murphy78 can you upload
+
+Windows 7 SP1 AIO 41in1 en-US DaRT8 USB3 IE10 Net45 may2013"
+,nj98110,2013-05-27T11:47Z,"@murphy78 : ok, that is great as well. :)"
+,2.5Kburn,2013-05-27T21:42Z,"Lmao @ offhand comment about Vista.
+They improved it quite a bit over how it was at initial release (which is why I hold out some hope for W8), but it really is a pile of junk.
+If you can have 7, why have Vista?
+Anyways, this looks like solid work.
+I'm just not sure if I want to bother installing Windows 8 again knowing (thanks to you) that KMS won't necessarily work properly with Pro WMC.
+I use VLC and iTunes for everything anyways, but I prefer to either go big or don't go at all.
+Anyways, thanks for your hard work, Murph!
+You spend as much money working on these releases as the berks spend trying to make them harder to pirate. "
+[V],murphy78,2013-05-28T03:35Z,"It works 2.5k... it's just not supported. No-one really knows if they could introduce a WAT update that blocks the core and prowmc KMS activation or sets them to non-genuine mode. We don't know, so we simply warn.  I tend to try to avoid being an alarmist, but sometimes I warn people when they could be walking into a minefield.
+
+The people I have no sympathy for are those people who spend way too much money on Apple computers. Now THAT is a waste of money."
+,immagetbustedforthis,2013-05-29T10:49Z,The lone rangers strikes once more fear in the hearts of the corporations
+,immagetbustedforthis,2013-05-29T10:52Z,The lone ranger strikes again
+,2.5Kburn,2013-05-30T15:49Z,"Yeah, I understand, murph.
+I'd just rather not have to re-install AGAIN later if they do decide to.
+Which is why I installed x64 Pro W8 last night and it works like an absolute charm.
+Great work!
+Still, GRiD 2 doesn't work with it for more than  minutes at a time, so I have to 'downgrade' (relative term) back to 7.  I finally got started on my youtube channel, I'll be damned if I only get one video in and then have to stop.  Lol. Glad to see you posted an all-inclusive W7 as well."
+,vader619,2013-05-31T20:26Z,"hi, i downloaded your Windows 8 Pro VL x64 en-US Pre-Activated May2013 torrent
+i want to create a uefi bootable usb drive with gpt partition. as uefi only supports fat32 i cannot copy install.wim as it is 4.7gb. can you please upload a version without any updates as the file will be smaller. 
+
+thanks"
+,TheAslan,2013-06-02T02:02Z,Does all Windows 8 contain Group Policy Editor?
+[V],murphy78,2013-06-04T09:30Z,"vader, I've already make non-updated UEFI fat32 compatible versions... check my torrents before requesting..."
+,vader619,2013-06-05T20:35Z,@murphy78 would you please be kind enough to provide the link? and is it auto-kms activated?
+,donut13th,2013-06-08T13:38Z,"@Murphy78
+I'm not actually windows programming pro yet, can you recommend me any page where i can read about all these shortcuts and what differences are between for example this upload and Windows 8 Pro VL? I see here are many versions in one, but except this.
+Also, what do i need to do after i install Windows 8 through installation in BIOS? Turn off all Windows Updates in services.msc? Or I can safely update through official windows update?"
+,wildpig1234,2013-06-10T06:26Z,"please split install.wim into 2GB files to maintain compatibility with fat32 as uefi boot uses fat32.  Thanks
+
+I had to use imagex.exe but would be nice if this was done beforehand ;)"
+,MissRychelle,2013-06-14T08:40Z,I have downloaded this but how do I run it?

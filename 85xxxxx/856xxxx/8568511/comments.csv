@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,Trusted_Uploader,2013-06-12T23:26Z,"thanks bro.
+nice work."
+,Lowe9,2013-06-13T00:50Z,"Anyway.. Iaso Palikari..:)
+http://image.bayimg.com/fc338d09bc36c058cf5548a2d34b6b98ebc6bc5e.jpg"
+,brianxxx,2013-06-13T04:37Z,Nice! Can't wait for your next Windows 7 one as well! Purposely holding off on rebuilding my old laptop just for it!
+,rajesh1215,2013-06-13T07:01Z,thanks. Is this win 8.1? if not when we can expect that? :)
+,beast666sathis,2013-06-13T08:07Z,......thankx...does it came wit x86x64 in 1......
+[V],murphy78,2013-06-13T10:38Z,I'll do 8.1 when it is hits RTM status. It's not even close yet.
+,LifeHunter,2013-06-13T10:43Z,"@rajesh1215
+
+Windows 8.1 is scheduled for release in late 2013 and a public beta would be released on June 26, 2013.
+
+
+Thanks murph. Waiting for your Win7 AIO Jun2013!"
+,rajesh1215,2013-06-13T14:44Z,"thanks for info guys
+& murphy am still with your older versions but keep them coming."
+,_TESLA_,2013-06-13T17:21Z,"Much appreciated, thank you."
+,brianxxx,2013-06-13T20:33Z,"LOL I think once Windows 8.1 comes along everyone is going to completely and utterly forget or ever want to talk about Win 8. Kind of like Harry Potter and saying ""Voldemort"" - we dare not speak its name. lol!"
+,ikapman,2013-06-14T05:06Z,"Hi murphy78, Thanks so much for all of your updates. Please provide windows 8 offline updates as an iso from RTM to uptill june 2013 updates.Thanks in advance."
+,_TESLA_,2013-06-14T06:06Z,"@ikapman 
+
+You can download Windows 8 x32 + x64 updates (among other things) with this tool:
+
+http://download.wsusoffline.net/
+
+Burn the directory to a .ISO or a CD. You're welcome."
+[V],murphy78,2013-06-14T14:46Z,"ikapman, get them from ms download center like I do. You don't want to install too many unnecessary kb files if you can help it. Most of the files are small, and there are a lot of them typically for each kb file.  The actual size of the kb files does not hurt much, but processing a bunch of small files does. Try to copy over a few thousand small files to a flash drive and you'll see the difference between one big file and tons of small files.
+
+Anyway, the method is pretty straightforward... I just install a fresh copy of an OS on a VM and check wuapp for the kb files that windows update tries to download. I then download all of those kb files from MS download center and stash them in a folder.
+
+I mount the index, add-package the msu files, copy over a few other things like the activation script and files, and then unmount and commit changes.
+
+There is no advantage in me posting the files since they are readily available from Microsoft. I do the integration work on a regular basis because it's a bit more complicated than most people are used to working with.
+
+More than a few people have PM'd me on MDL asking questions about integration or why they can't get something to work right. You are also welcome to do so. It is my hobby after all."
+,netraith,2013-06-15T06:26Z,"It has been reported that many users encounter performance issues when applying patch KB2821895.
+
+http://www.bit-tech.net/news/bits/2013/06/14/win8-bug/1
+
+Microsoft support confirms it -- http://news.softpedia.com/news/Microsoft-Confirms-KB2821895-Windows-8-Update-Bug-361062.shtml
+
+This particular patch is bundled with the Jun2013 release.
+
+Is there a way to skip the installation of KB2821895 in the Jun2013 release, or should we stick to the May2013 release for now and hide the update until MS resolves the bug?"
+,GodFath,2013-06-15T07:57Z,Please seed. 
+,nj98110,2013-06-16T08:54Z,"Great work as usal, but extremely slow download speed of the torrent. :("
+,sumidor,2013-06-16T10:02Z,"Hey murphy,
+
+No problems with download or install of this. Thanks a lot! But, I'm having a problem with the apps... store and such. I've looked around for solutions but nothing's worked. Advice? Perhaps a step I skipped?
+
+Put ISO onto USB, installed the pre-activated version..."
+,Ynoi,2013-06-16T15:46Z,Downloading has been stalling the past 2 hours. I'll leave it running throughout the night

@@ -1,0 +1,22 @@
+* if you suffer from FCs after upgrading to 1.13.4 please delete app data *
+A high battery drain is often a limiting factor for a great user experience.
+With BetterBatteryStats you can analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions:
+- Spot drainers based on detailed information about the root cause
+- Use the online Knowledge-Base to find how to reduce or remove the wakelocks
+- measure the effect of actions to reduce drain
+- detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
+In other words BetterBatteryStats helps you to get the best out of your Android smartphone.
+Support:
+Please don't use the market's feedback system for support. In case of issues or for any question or suggestion please contact me by e-mail or use the contact information from the about box.
+If you experience problems with your superuser app keeping asking to grant su rights don't blame BetterBatterStats but tra another superuser app instead.
+Keywords: wakelock, kernel wakelock, partial wakelock, reduce battery drain, optimize battery life, save battery, battery drain, saving battery, network stats, alarms, CPU states
+Permissions:
+- android.permission.WRITE_EXTERNAL_STORAGE is used only for writing dumps to the SD. In case you don't need that feature please fell free to remoke that permission. It won't have any side effect besides disabling that feature
+- android.permission.BATTERY_STATS is obviously the permission to access the internal statistics and can not be revokes without making the app unusable
+- android.permission.INTERNET is required to access the online Knowledge-Base and Google Analytics. If you want to revoke this permission please make sure that the KB and GA are disabled in the preferences
+- android.permission.ACCESS_NETWORK_STATE is required for Google Analytics. You can opt-out from GA from the "Advanced Preferences" and revoke this permission
+- android.permission.RECEIVE_BOOT_COMPLETED is required for cleaning references. Revoking this permission may affect the results of kernel wakelocks and custom reference until new references were saved
+- android.permission.READ_PHONE_STATE is required to detect when the phone was turned on/off in order to store references for advanced diagnosis
+- android.permission.DEVICE_POWER is required to detect when the phone is disconnected from the charger and store the corresponding kernel wakelock reference. Revoking this permission will lead to losing "since unplugged" in kernel wakelocks
+- android.permission.BLUETOOTH is required to fix a bug where the communication to the batteryinfo service stops working
+- android.permission.READ_LOGS is required to allow logcat dumps to be saved. You can revoke this right and will lose only the ability to save logcats

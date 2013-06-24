@@ -1,0 +1,7 @@
+This portable version of Tixati is meant to run on a USB flash drive or other portable media.  It stores all it's configuration files in the same folder as the executable binary files, and all file paths are stored in a format relative to the program executable folder.
+
+The portable edition comes as a standard .zip / .tar.gz / .tar.bz2 archive file that can be extracted directly to your portable media.  Executable binaries for both Windows and Linux are included.  The portable edition of Tixati can be moved freely between both Windows and Linux systems and the configuration files are platform-neutral.
+
+It is important you do not delete the "tixati_portable_mode.txt" file within the executables folder.  This file is what triggers Tixati to run in portable mode.  (The executable binaries are actually the same as the standard edition binaries.)
+
+When running the portable edition from a USB flash drive, especially one that is formatted in FAT16/FAT32, you may experience some lag when initially loading a new transfer.  This is because initializing and allocating large files on flash-based media consumes a greater amount of time and resources compared to a conventional hard-drive.

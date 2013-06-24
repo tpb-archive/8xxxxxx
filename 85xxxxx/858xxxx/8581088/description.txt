@@ -1,0 +1,13 @@
+Racing game for DOS.
+
+System requirements:
+386DX-20 CPU
+4MB RAM
+VGA graphics card
+CD-ROM drive
+
+To play:
+This game is intended to be run from the CD, rather than installing on the hard drive. Run "kart.bat" to play. Hit ESC to skip the intro movie if you want.
+
+Audio note:
+While testing, I noticed that the OPL3-based sound was glitched on my DOS system: a 366 MHz Celeron with a SB Pro ISA soundcard. Might be due to the CPU speed, try MoSlo or a slower CPU (&lt;200 MHz) and see if that helps if you have this problem.

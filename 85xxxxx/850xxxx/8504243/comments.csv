@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,pjp_76,2013-05-24T12:10Z,"once one or two downloads are complete I'll shutdown the seed, so once you have it please seed for a little while longer so the torrent doesnt go dead right away. Thx - Enjoy the game :)"
+,john_who,2013-05-25T12:44Z,"Does not work on MacBook Air 13"" mid-2011 with OS X 10.7.5. Also why ""native"" if it's a wineskin port?"
+,pjp_76,2013-05-25T18:19Z,"I do not know if it works on 10.7 ... Native means it is using directly the OS X driver for graphics rather than using X11 emulation. Also, I am not sure how Internal Intel Graphics would handle, my machine has a Nvidia GT640 with 2GB - I also tested this on a 2011 Macbook 13inch with 10.8.3 and Intel HD 3000 - the game loaded normally, so I guess your problem is mainly with OS X 10.7 not being supported."
+,pjp_76,2013-05-25T18:22Z,"Best thing I can recommend in your case, just upgrade to 10.8.3 (not sure if Macbook Air 2011 is supported though) and it will start working even with Intel HD 3000."
+,quarkme,2013-05-26T11:43Z,doesn't seem to work on 2010 MBP 10.8.3
+,pjp_76,2013-05-26T23:48Z,"Odd, should work just fine - u do have a nvidia card, right? Might be necessary to update drivers from nvidia's website. Also - it takes a few moments once you click on it before it loads, there is no such lag on MI2 SE - not quite sure why that is. If it still fails, just install quartz and go into the wrapper and change screen settings under advanced to use the x11 driver rather than the built in os x driver, but thats all I can think of at the moment ... should work either way though."
+,john_zorn,2013-06-03T09:25Z,"fixme:d3d:init_driver_info Unable to find a driver/device info for vendor_id=0x10de device_id=0xfd5 for driver_model=2
+fixme:win:EnumDisplayDevicesW ((null),0,0x33c0a8,0x00000000), stub!
+err:display:macdrv_ChangeDisplaySettingsEx No matching mode found 1920x1080x32 @0!
+err:display:macdrv_ChangeDisplaySettingsEx No matching mode found 1920x1080x32 @0!
+
+From what I get, vendor_id=0x10de device_id=0xfd5 for driver_model=2 reffers to the nvidia card. I guess this has to do with the computer having 2 different cards."
+,john_zorn,2013-06-03T09:27Z,"Oh, by the way, this is on 2011 mbp with high-rez screen at 1680 x 1050 resolution, I can't figure out where to change the display to it's size."
+,pjp_76,2013-06-07T01:28Z,"This might be the Rez from my screen because I am running on 1920 by 1080 ... you may need to do a refresh in wineskin, this should re-read and update the package contents"
+,pjp_76,2013-06-07T01:29Z,Confirmed working on OS X 10.8.4 also ...

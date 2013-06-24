@@ -1,0 +1,57 @@
+BY RAJ4266
+
+"Galtar and the Golden Lance" (1985)
+
+A first season component of the Funtastic World of Hanna-Barbera, Galtar and the Golden Lance was an outer space sword and sorcery affair featuring a light-hearted blonde warrior named Galtar. Searching for the vile Tormack, the despot responsible for the deaths of his parents, Galtar aligned himself with beautiful princess Goleeta and her feisty younger telekinetic brother Zorn. Goleeta and Zorn also had a score to settle with Tormack, who'd stolen Goleeta's magical golden shield. Tormack in turn coveted Galtar's equally magical double-edged golden lance, for whosoever possessed both lance and shield would be all-powerful. And both hero and villain had to deal as best they could with a brace of comic relief dwarves: Rak and Tuk, bumbling father-and-son mercenaries who excused their chronic double-crossing as "the only work we know". Written by Matt Karpowich.
+
+Stars:
+Lou Richards, Joe Alaskey, Bob Arbogast
+
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 47.0 MiB
+Duration                         : 21mn 16s
+Overall bit rate                 : 309 Kbps
+Writing application              : Lavf53.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 21mn 16s
+Bit rate mode                    : Variable
+Bit rate                         : 268 Kbps
+Width                            : 382 pixels
+Height                           : 288 pixels
+Display aspect ratio             : 4:3
+Frame rate mode                  : Constant
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.097
+Stream size                      : 40.7 MiB (87%)
+Writing library                  : x264 core 116
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 21mn 16s
+Bit rate mode                    : Variable
+Bit rate                         : 38.0 Kbps
+Maximum bit rate                 : 128 Kbps
+Channel(s)                       : 1 channel
+Channel positions                : Front: C
+Sampling rate                    : 22.05 KHz
+Compression mode                 : Lossy
+Stream size                      : 5.78 MiB (12%)

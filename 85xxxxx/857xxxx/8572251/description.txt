@@ -1,0 +1,22 @@
+Weird Science Season 5
+
+These episodes were ripped from Hulu in their original flv file format using RTMPdump. Then ffmpeg was used to convert the flv files into mp4 format. Conversion didn't loose any quality, only reduced the filesize by a kb or 2. I would of left the files as their original flv extension but then Windows Media Player wouldn't play them. Recommended player for these videos is the VLC Video Lan player but other players should play the files as long as you have the proper codecs/decoder ie: ffdshow.
+
+Video Info:
+
+Resolution: 640x480
+Aspect Ratio: 4:3
+Average episode length: 22.50 mins.
+Video Compression: H264/MPEG-4 AVC (Hulu)
+Framerate: 29.970
+Region Format: NTSC
+Source: Hulu
+
+Audio Info:
+
+Average Bitrate: 64kbps
+Channels: Stereo 2
+Sample Rate: 44.1KHz/22KHz
+Audio Compression: MPEG-4 AAC LC (mp4a)
+
+Note: Episode 5x11 "I, Chettus" is in low quality compared to the rest of the season. Hulu also shows this episode is 22 mins long but it cuts off at the end right when the credits begin. I guess Hulu got a bad copy of the episode. This was one of the other reasons I wasn't going to release season 5 until I found a better copy.

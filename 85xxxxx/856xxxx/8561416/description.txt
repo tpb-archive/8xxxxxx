@@ -1,0 +1,25 @@
+
+The classic Risk board game, streamlined for quicker play. Drisk was designed and built specifically for Android phones and tablets. Supports two to six players, any mixture of players and AI. Local pass-and-play and full online multiplayer which ties into Scoreloop player accounts.
+
+Currently comes with 30 maps and the ability to load custom maps from device storage.
+
+Many of the common variations of Risk can be set in the options menu. You can also vary the initial startup settings. Supports game saving and loading. Realistic sound effects.
+
+What's in this version:
+
+1.7.4
+-fix for crash on older devices
+-added languages: French, German, Russian, Spanish, Greek
+-released map editor (see website)
+-new map option: load from external storage
+1.7.3
+-bug fixes
+-new AI speed: Instant
+-new search filters: fog of war, card style
+-Italian language support
+-Simeon Says map is now FREE
+-new maps: Star Trek, Westlands, Azeroth, Draconian Isles (by COETATS)
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.game.drisk

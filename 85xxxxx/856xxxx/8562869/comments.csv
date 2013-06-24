@@ -1,0 +1,127 @@
+﻿User Type,Username,Date,Text
+,ObiWanPan,2013-06-11T10:42Z,"Its Not Working for me. After Install i hit play. Nothing Happens. I click Activate...i trys to start but i get Tampered(0x000A).
+im using Win7 32bit.
+the problem seems to be in the update...simcity isnt updating :("
+,Odoyle420,2013-06-11T10:57Z,ObiWanPan hoow about you READ the instructions. 32 bit systems not viable.
+,IanHinNZ,2013-06-11T11:00Z,"I get this
+-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+I have installed the certificate but the options are different to what you say: Trusted Root Certificate mine says ""Trusted Root Certification Authorities""
+Windows 7 64bit"
+,ObiWanPan,2013-06-11T11:32Z,"@Odoyle420 Im not sure where you read its not for 32bit ;)
+but your right all win7 32bit have this problem...so i have to wait for a fix"
+,miked2138,2013-06-11T12:38Z," Ianhinz,right  click on your SimCity folder, go to properties, uncheck, 'read only' apply, try again, should work"
+,miked2138,2013-06-11T12:43Z,"IanhiNZ,, right click on SimCity folder, click properties, uncheck 'read only' apply, it should work after that."
+,shakatrok,2013-06-11T14:00Z,"Hey thanks for the upload and the work. But i dont get what this is? Is this another preview version or the final game?
+Is it even finished?"
+,shakatrok,2013-06-11T14:10Z,"Did my comment get deleted?
+I justed wanted to know if this is the real game, or another preview."
+,Digimoon,2013-06-11T14:17Z,this shit is lame.... what idiot creates a server for only 62bit idiots... wow
+,shakatrok,2013-06-11T15:09Z,"62bit? Who is the idiot?
+And btw. tell me one good reason to use a 32bit system instead of 64bit."
+,MisterAwesome23,2013-06-11T16:27Z,"when i click on start server is says server status: running but it doesnt say ""Everything sounds good"", and then it doesnt respond﻿.
+Windows 7 64bit"
+,Digimoon,2013-06-11T16:33Z,omg!!! I made a miss take instead of 64 I said 62 WOW Sorry mister nerd. now go fuck yourself.
+,iztari,2013-06-11T17:13Z,"Works fine, after you install the Certificate into the correct ""sote"".
+
+1) Double-click the crt file.
+2) Select ""Place all certificates in the following store"".
+3) Place in ""Trusted Root Certification Authorities"""
+,kaman3,2013-06-11T19:52Z,"I get this:
+
+-Your root folder name should not contains spaces nor special characters
+-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to."
+,MisterAwesome23,2013-06-11T19:53Z,"has somebody got a solution for my problem ? when i click on start server is says server status: running but it doesnt say ""Everything sounds good"", and then it doesnt respond﻿.
+Windows 7 64bit "
+,Ehsan_danger4,2013-06-11T22:59Z,"i did everything acording to instruction , but the game wont show in origin!"
+,tuga2,2013-06-11T23:54Z,Just wondering is this torrent is the full game?
+,cmoyano,2013-06-12T07:11Z,"i got it to work on win 8 64 first try. not too hard to understand, make sure u restart after u install hosts and certificate and run start as admin always.  it is crucial tha tu restart if not hosts or cetification wont take effect"
+,seregavtanke,2013-06-12T10:32Z,"everything seems like about to work, bet when i press ply, origin show a message: we're sorry, an error has occured. invalid license. reason code = Tampered (0x000A)"
+,seregavtanke,2013-06-12T10:34Z,"everything seems like about to work, but when i press play, origin shows a message: invalid license. reason code = Tampered (0x000A)"
+,IanHinNZ,2013-06-12T10:51Z,"miked2138
+Thank you. Worked perfectly"
+,shakatrok,2013-06-12T13:12Z,But what is it?
+,rbt1,2013-06-12T13:28Z,"kaman3
+ - start with moving this folder to something simple like c games simcity
+ - if you still get certificate error, open the crt file and make sure the lower box on the 3rd tab says OK"
+,mido009,2013-06-12T16:03Z,there's only one map is there any chance to get more maps?
+,shakatrok,2013-06-12T16:25Z,"thank you mido009.
+Nobody mentioned it before, although I asked twice, but this is not the Full Version of the new Sim City.
+From Mido009`s comment i guess that its the same beta version that was here before on piratebay, where you can only play one level."
+,rbt1,2013-06-12T16:28Z,"mido009
+There is only one region in the database included with this. But I hope more can be included later on, if someone with the legit version could open their local database and dump the region template data"
+,iappz,2013-06-12T19:27Z,Works Great!
+,giertych97,2013-06-12T19:54Z,"I've got ""Everything sounds good!"", but i can download only installer, not game. Help! :("
+,giertych97,2013-06-12T20:02Z,"I've got ""Everything sounds good"", but I can only download installer, not game. What i doing wrong?"
+,mingo154,2013-06-12T23:17Z,I've got the server working no problem but when I install orgin it installs and when I run origin I get access denied please help
+,giertych97,2013-06-13T00:10Z,"I can download only installer, but than i get message:
+""Can't connect with EA Server in destination activate SimCity game on this computer with use this account. Try again later"".
+
+Mogę pobrać tylko instalator, a po nim otrzymuję informację:
+""Nie można nawiązać połączenia z serwerami EA w celu aktywacji gry SimCity na tym komputerze przy użyciu tego konta. Spróbuj ponownie później"""
+,Cool7days,2013-06-13T00:33Z,Windows cannot find C:Program.. Dafuq? Anybody help?
+,Cool7days,2013-06-13T04:08Z,"Nevermind, it's all good! Thanks, mate! You're my hero."
+,IrishGreen112,2013-06-13T16:25Z,"Please help...
+
+I have followed every.  I can not get this to work, I have looked at every Guide, Changed so many things and still nothing.
+
+I have Windows 7.  64bit.
+
+-Dummy certificate does not seem to be installed
+-Private server returned an unknown response, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to."
+,IrishGreen112,2013-06-13T16:32Z,"No matter what i do i cant change:
+
+-Dummy certificate does not seem to be installed
+-Private server returned an unknown response, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+Please Help"
+,suliman_kamel,2013-06-13T20:49Z,"when i press play, origin shows a message: invalid license. reason code = Tampered (0x000A)"
+,kawaiinekochan,2013-06-13T23:38Z,The game won't show up in Origin when I log in.. Is there any way to fix that??
+,coowkeee,2013-06-14T03:44Z,"If you have problem like this
+-Dummy certificate does not seem to be installed
+-Private server returned an unknown response, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+in Windows 7.
+Try to install the certificate as
+Third-Party Root Certification Authorities, mine works after using this one.
+
+Followed the process and when I hit play button this error message pops up:
+ERROR CODE SMCY-19: Could not communicate with the SimCity update server. Please see the customer support link for help.
+
+what is the problem of this? I thought it has to be offline."
+,MaceI,2013-06-14T08:34Z,"for some reason the folder the emulator is in is flagged as read only, uncheck the read only option and it should work"
+,js1002,2013-06-14T11:52Z,I want to ask if cheats could be enabled...
+,kanzyman,2013-06-14T12:36Z,"I have win7 x64
+
+Followed all instructions, ran the game, downloaded and updated but when I lick play I get 
+Tampered(0x000A)"
+,4218kris,2013-06-14T18:18Z,"this torrent was a pain to get working, win7 X64
+problems i ran into:
+rename folder to just simcity,
+right click folder and uncheck read only,
+run the start exe as admin or it will say dummy cert seems not installed,
+overwrite root folder (simcity) with update folder as well as download the newer update and apply it as well. DO NOT update origin (i unplugged my internet for the whole process)"
+,Bendyman2,2013-06-15T20:06Z,Join my region its called thx zedra
+,Kamadas,2013-06-15T23:41Z,well nothing here. start server doesnt do shit and says dummy not installed blah blah. tried about everything. w7 x64.
+,Kamadas,2013-06-16T00:27Z,well my problem was that 2 ports were actually being used by skype. how silly is that? after I quited skype all sems to be good. thank you all for this and thanks also to users here trying to help others. TY.
+,falkonr,2013-06-16T01:56Z,"i dont know if someone else already noticed it.
+The ""no dummy certificate installed"" notice stops showing up when i switch to balanced or high performance power plan.
+I double checked and can confirm it.
+"
+,Koeny,2013-06-16T13:02Z,"Again, when I click play in Origin it says I have not entered a product code for Simcity."
+,codlink,2013-06-16T19:57Z,"The instructions says ""It doesn't have to be C:/Program/SimCity like before, mine worked
+from an external hard drive.""  This isn't true.  I had to create that directory for it to work.
+
+I got an error right after updating and clicked OK then clicked Restart and got another error.  Clicked Retry and clicked play and it works.  Don't know what the errors were but I the game still started.  
+
+Will post back if anything else comes up.
+
+td;lr This is a legit copy.  Works fine.  Thanks to the coders for their hard work!
+"

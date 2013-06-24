@@ -1,0 +1,67 @@
+screens;
+ 
+http://baypic.net/img-519fbf45e43cc.html 
+ 
+http://baypic.net/img-519fbf482c20f.html 
+ 
+http://baypic.net/img-519fbf4a6a449.html 
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 4.24 GiB
+Duration : 1h 8mn
+Overall bit rate mode : Variable
+Overall bit rate : 8 865 Kbps
+Encoded date : UTC 2013-05-23 10:01:50
+Tagged date : UTC 2013-05-23 10:01:50
+Writing library : Apple QuickTime
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Baseline@L4.0
+Format settings, CABAC : No
+Format settings, ReFrames : 2 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 1h 8mn
+Source duration : 1h 8mn
+Bit rate : 8 703 Kbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Frame rate : 29.970 fps
+Minimum frame rate : 29.970 fps
+Maximum frame rate : 42.814 fps
+Standard : NTSC
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.140
+Stream size : 4.16 GiB (98%)
+Source stream size : 4.16 GiB (98%)
+Language : English
+Encoded date : UTC 2013-05-23 10:01:50
+Tagged date : UTC 2013-05-23 10:01:50
+mdhd_Duration : 4104325
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 8mn
+Bit rate mode : Variable
+Bit rate : 160 Kbps
+Maximum bit rate : 164 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 78.3 MiB (2%)
+Language : English

@@ -1,0 +1,64 @@
+Source: UNiQUE R6 and YanKeeS 720p...THANKS
+End Credits from Hive-CM8 ADDED...THANKS
+ 
+http://www.imdb.com/title/tt1951261/
+
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 1.39 GiB
+Duration : 1h 39mn
+Overall bit rate : 1 999 Kbps
+Writing application : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library : VirtualDub build 35390/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : Yes
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 39mn
+Bit rate : 1 795 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.274
+Stream size : 1.25 GiB (90%)
+Writing library : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 39mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Stream size : 137 MiB (10%)
+Alignment : Split accross interleaves
+Interleave, duration : 33 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+
+Workdone:
+Since the R6 was grainy, color where off and had chinese subs, We decided to go with YanKeeS 720p. Source was actually really good just had a few issues like lighting and perspective was off. After we got all that sorted out, we ran a few other filters to make it look a lot better. We took the R6 beginning and end credits from UNiQUE version to make it a full video and added the end scene credits from Hive-CM8 version. We did notice few spots around the one hour mark where 2 people walk by and we decided to leave it in since it was just a few seconds at a time. For the audio we used UNiQUE's and lip sync it up with our version. We hope you all enjoy this and im sure someone will complain like always.
+
+THC GROUP
+
+ 
+http://someimage.com/jG6v

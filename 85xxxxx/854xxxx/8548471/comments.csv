@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,reconelite,2013-06-07T05:15Z,Is this the french version like the other one?
+[V],Mr.Stifmeister,2013-06-07T05:58Z,"This should be the English version :)
+Enjoy!"
+,oviedogators,2013-06-07T06:19Z,"I was wondering if disk 1 is the play disk and disk 2 has the DLC, or what order they were in because I already have Skyrim play disk and don't want to redownload it. THANKS FOR THE UPLOAD"
+,DLM8691,2013-06-07T06:29Z,What the?  I tried to run disc 2 through ABGX and it says it isn't recognized.  Can anyone help?
+,SirenianPrime,2013-06-07T06:43Z,Thanks a lot. Downloading now.
+,Mr_Heisenberg,2013-06-07T07:00Z,"Thanks, almost ignored this since it says PAL in the title. If its not only PAL i recommend putting NTSC U (or all regions supported) in the title as well. Thanks either way"
+,Smallz94,2013-06-07T08:21Z,Region: PAL/NSTC-U!!!!!!! lol
+,rezjarda,2013-06-07T09:13Z,seed please thanks
+,DonnieHill618,2013-06-07T09:34Z,disc two says play dvd and fails abgx. I'm using the xk3y so no big deal for me but be warned
+,DonnieHill618,2013-06-07T09:39Z,Speaking of make sure your uploads are not read only. I've had at least 20 people ask me already. thanks for the work though we all do really appreciate it.
+,angsang_wsj,2013-06-07T09:41Z,i got the same as @DLM8691 i only dled the 2nd disk ran it threw abgx and its not recognized as a 360 iso or stealth file ...since its just dlc i might just copy it to xkey and install it ofline and see what happens
+,DLM8691,2013-06-07T10:04Z,"I don't get why disc 2 isn't working.  I didn't have any issues putting the French or German versions through ABGX, so the fact it's DLC shouldn't be causing issues.  I really hope they get this fixed.  Usually I'd just download through Usenet, but for some reason it's gone to torrents first, and I haven't seen it on abgx.net, so maybe it'll be up on Usenet tomorrow sometime and working.
+
+Either way, it's incredibly frustrating that 3 days after being released, there hasn't been a working copy of the 2nd disc yet."
+,acidthorn,2013-06-07T10:56Z,"Guys, just extract the 2nd discs content to an USB stick, it's DRM free."
+,angsang_wsj,2013-06-07T11:37Z,@acidthorn what do u mean ??? how the???
+,SirenianPrime,2013-06-07T11:53Z,"confirmed that DVD 2 fails ABGX360 check, and just says play DVD when inserted into console. Not familiar with what the guy above me is saying to do."
+,SirenianPrime,2013-06-07T12:07Z,"Noticed something interesting. I opened up the .dvd fikle for disc 2, and it was set up for disc 1. strange. 
+
+
+""LayerBreak=1913760
+s-skyrd1.iso"""
+,DLM8691,2013-06-07T12:19Z,"@acidthorn
+
+The 2nd disc isn't recognized as an Xbox 360 disc, so how do you access the content?  You can't get to it through xbox backup creator or 360 content manager, so I'm a bit confused on how to get to the DLC."
+,rezjarda,2013-06-07T13:15Z,it's worth it burn?
+,acidthorn,2013-06-07T14:32Z,"@DLM8691
+Wait, what? D: 
+I didn't know this, I assumed these are just burn problems. Disregard my comment entirely then."
+,quaderquader,2013-06-07T16:02Z,hmmpf... i thought uploaders with a green skull only upload working things?!
+,DLM8691,2013-06-07T21:11Z,"It's not the uploader's fault, the group released a bad file.  It's odd how such a well known and respected group like STRANGE can screw up so bad.  I just downloaded a Usenet release and it's no different from Sifmeister's file.  I hope they or someone else releases a fix or a working 2nd disc at some point.
+
+I wonder if they even realize they screwed up."
+,fireman644,2013-06-07T21:26Z,Yeah sorry guys disc 2 is not working.  Not a valid disc.  Must have been a ripping error.  Hope a fix is incoming!
+,hobie728,2013-06-07T21:30Z,It is not just the 2nd disc the 1st disc is the same thing. abgx 360 says its not a recognized iso. so it is just a total bad release.
+,acidthorn,2013-06-07T22:16Z,"The question is, why isn't it nuked yet?!"
+,DLM8691,2013-06-08T00:06Z,"@acidthorn
+
+I think a better question would be why they haven't fixed it or made a new proper release yet."
+,DonnieHill618,2013-06-08T00:23Z,Remember people make sure to go to the iso properties and unchecked read only if you have an abgx problem. Will not help disc 2 tho
+,fireman644,2013-06-08T06:44Z,Here is the link for the fix for disc 2!  I hope it works!  Just extract to the directory with the .iso file in it and run the .bat.  That should do it.  Thank the folks at XOX360ISO for this one guys.
+,SirenianPrime,2013-06-08T07:12Z,it's been patched. passed abgx.
+,rezjarda,2013-06-08T08:07Z,how?
+,defgames,2013-06-08T09:46Z,disk 1 is red in abgx T.T
+[V],Mr.Stifmeister,2013-06-08T19:57Z,"FIX FOR SECOND DISC:
+
+Download this:
+https://thepiratebay.sx/torrent/8552327/The_Elder_Scrolls_V_Skyrim_Legendary_Edition_STRANGE_DISK_2_FIX
+
+Place the 3 files in same folder as second disc and run s-skyrd2_patch.bat and wait a bit for it to get done.
+
+ENjoy!"
+,Hawkeynation,2013-06-09T21:43Z,"Thanks Stiffy, however it's going really slow at this moment. Anyway we could try juicing it up a little? I'm at 0.2 % but i'm going to UP this on my RUS Proxy Server which i use to host game servers. And juice the seeding by 500 mb/s. However it's quite impossible at this rate. 348 recipients and 42 seeders."
+,Hawkeynation,2013-06-10T13:56Z,"Hello everyone, i'm going to seed this 500 mb/s by 18:00 CET Till then, all seeders are welcome to juice it up."
+,pscivil,2013-06-10T19:01Z,"I already have skyrim on my jtag, can i just get the second disc and use all the dlc and extras off it?"
+,Hawkeynation,2013-06-10T19:27Z,"PSCIVIL Yes indeed sir, you can just download the second one and you'll be set. It's an installer. So you'll have to have atleast a few gigabytes free on your harddrive. Game on.
+
+To all others, putting seeding through at 550 Mb/s in just a min, we'll see how fast it goes."
+,Dragunov-EX,2013-06-13T07:09Z,"Neither disk one or two are capable of being verified for me, can someone help?"
+,Mr_Heisenberg,2013-06-14T22:33Z,Can we get this in NTSC U? Sucks this is only available in PAL and a FRENCH version........

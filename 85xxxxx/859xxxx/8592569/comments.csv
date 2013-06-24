@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,dududus,2013-06-19T22:40Z,"
+EbootleggerJOE's Avatar
+EbootleggerJOE
+EbootleggerJOE 
+
+    Quote Originally Posted by eustahija View Post
+    I have other problem. The game works flawless on my kmeaw 3.55, but when I tried to exit I got black screen and any controller buttons not responded, even power button on console. So I had to switch off console from electricity. Anyone had this issue?
+
+
+Yeah, I also notice this later when I was playing the game.
+
+
+On exiting game, ps3 gets into so deep freeze you got to hold turn off button for 7-8 sec or longer. Just hold turn off and it will shut down. Then turn it on again.
+
+
+
+Got the eboot checked and I see there is no certificate loader function and no SSLs. Actualy, game eboot is structured with some new functions and calls I havent seen before.
+
+
+This game exit shit is very annoying. I dont like it either, but game works fine besides that.
+
+
+Gonna look some more and try to find what is causing this issue."
+,dududus,2013-06-20T01:01Z,"game exit works fine on CFW 4.41
+
+also rename the D&D (retro capcom games) install files or the PS3 wont recognize them.. it doesn't like the ""&"" symbol"

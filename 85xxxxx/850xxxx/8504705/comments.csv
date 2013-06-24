@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,cyclonoid,2013-05-24T21:16Z,"Hey guys i have found a solution of patching the app with the patcher provided after you installed the app then open the patch and run it and apply it then a pop up will say that ""Can not find the file. Search the file?"" ok its a short glitch you need to resolve it
+
+go to the app directory i.e.(C:Program FilesYouWave Android)
+
+scroll down you will see that ""YouWave Android.exe"" you need to change the name to ""YouWave_Android""
+
+After changing then run the patch as administrator and and apply it
+
+On applying it will pop up again and say ""Can not find the file. Search the file?"" hit the yes for manual searching then you will see the ""YouWave_Android"" that is the program we need to patch the select that and hit open button and it will automatically patch it done!! enjoy your fully activated youwave :)"

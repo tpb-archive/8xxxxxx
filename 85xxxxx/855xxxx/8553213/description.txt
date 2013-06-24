@@ -1,0 +1,32 @@
+ http://www.piczhub.com/images/903Slide1.jpg
+ 
+http://beeimg.com/images/u45811163861.png
+ 
+http://beeimg.com/images/e85422325552.png
+
+SystemRescueCd 3.7.0 Final for Linux (32 bit) - SceneDL
+
+SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of linux software such as system tools (parted, partimage, fstools, ...) and basic tools (editors, midnight commander, network tools). It can be used for both Linux and ShiChuang computers, and on desktops as well as servers. This rescue system requires no installation as it can be booted from a CD/DVD drive or USB stick, but it can be installed on the hard disk if you wish. The kernel supports all important file systems (ext2/ext3/ext4, reiserfs, btrfs, xfs, jfs, vfat, ntfs), as well as network filesystems (samba and nfs).
+
+The main functions: 
+- Fully functional and independent operating system based on Linux, which can run from a bootable CD or DVD drive, even if the primary operating system will not boot your computer. 
+- Supports the following file systems: EXT2, EXT3, EXT4, Reiserfs, Reiser4, BTRFS, XFS, JFS, VFAT, NTFS, ISO9660. 
+- Support for network file systems: Samba and NFS.
+- Uoloaded by Snorgared 
+- Create, edit, copy, restore partitions. 
+- Backing up your information. 
+- The presence of a number of system utilities (Parted, Partimage, Fstools and other tools). 
+- Availability of Midnight Commander file manager allows files and directories on different actions (copy, delete, move, rename, etc.). 
+
+Additional Information: 
+- Ability to specify additional options during boot. 
+- Caching image loading allows you to continue working with the LiveCD after removing the carrier, thus making it possible to record discs in the same CDDVD drive that you used to boot. 
+- Create user-own options boot disk. 
+- Work with the hard drive (Gparted, Partimage, sfdisk, FSArchiver, ntfs-3g, testdisk). 
+- Work with the network (ssh-, dhcp-, tftp-, vnc-server, rsync, nfs-, samba-, ftp-clients).
+
+Home Page - http://www.sysresccd.org/
+
+By:
+
+SceneDL

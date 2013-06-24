@@ -1,0 +1,51 @@
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 6.47 GiB
+Duration                                 : 1h 50mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 370 Kbps
+Encoded date                             : UTC 2013-06-09 23:00:56
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=3, N=30
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 50mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 8 001 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 50mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 28ms
+Language                                 : Hebrew
+Default                                  : Yes
+Forced                                   : No
+

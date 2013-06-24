@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+,xenoFLASH,2013-06-05T08:31Z,Does my phone need to be rooted?
+,TheC2G,2013-06-05T08:33Z,"@xenoFLASH 
+
+Yes"
+,TheC2G,2013-06-05T09:14Z,"Note : Tested on Sony Xperia Go (Mali400 Gpu, CM9)... Seed Till YouBLEED!...Thanks"
+,xenoFLASH,2013-06-05T10:25Z,"Well, that sucks for me."
+,Piratefroggy,2013-06-06T02:36Z,"Thank you very much for this! Took some time to get it to work. 
+
+What i did - 
+1. Unzip the downloaded content. 
+2. Install the APK
+3. Copy data/obb as instructed to android/obb/ (Make a OBB folder if there is non)
+4. Install the Modded play store!! Link in the description is the original one ! the one you need is  - http://thepiratebay.sx/torrent/8472729/Google_Play_Store_Modded_by_ChelpuS
+5. play and enjoy :) 
+
+YOU NEED ROOT TO INSTALL THE MODDED PLAY STORE! so yes - you need to be rooted to play this:) 
+
+Thank again to the uploader!"
+,TheC2G,2013-06-06T04:12Z,"@Piratefroggy
+
+My bad...I'm sorry and thanks a lot ;)"
+,Piratefroggy,2013-06-06T13:27Z,"@TheC2G 
+No man, thank you for the upload! :D"
+,mentalityx,2013-06-06T17:50Z,"Thanks to TheC2G and Piratefroggy. Easy to do, install and play on rooted One X."
+,hershall2001,2013-06-07T02:02Z,Do I need to extract on computer and transfer. Cuz when download on to phone it says it won't extract .zip file
+,TheC2G,2013-06-07T08:07Z,"@hershall2001 
+
+Use ZArchiver to extract it..."
+,bozypt,2013-06-08T05:33Z,"@ Piratefroggy
+
+One question on that ""tutorial"" you made after i install the modded there is nothing i have to do after that? i just have to play or there is something about the license that i have to do?"
+,TheC2G,2013-06-08T06:55Z,"@bozypt
+
+The modded Play Store remove license verification..that's why it must be installed...btw IMO better install modded Play Store first before the game"
+,Alimpuyo,2013-06-09T00:28Z,"@TheC2G
+
+""An error has occurred."" pops up when I start the game. how can I fix this?"
+,TheC2G,2013-06-09T08:01Z,"@Alimpuyo
+
+Did you installed the modded Play Store ? "
+,Chakun,2013-06-09T08:20Z,"I too am getting ""An error has occured."" Any fix for this?"
+,Chakun,2013-06-09T09:04Z,Never mind. It seems to be working now. Thank you!
+,TheC2G,2013-06-09T09:05Z,"@Chakun 
+
+Did you installed the modded Play Store ? 
+If yes but still get those error try install Play Store first before you install this game. This game run fine on my Xperia Go ;)"
+,TheC2G,2013-06-09T09:06Z,Glad to know that ;)
+,Alimpuyo,2013-06-09T20:51Z,"@TheC2G
+yea i did everything correctly. i think im getting the same error as chakun."
+,Duah,2013-06-10T23:02Z,"I've downloaded and installed the modded play store by ChelpuS (4.0.27) installed the APK and data using the Asus Google Nexus 7 Toolkit v5.0.0 and I'm still getting the download prompt. I installed the OBB file to sdcard/Android/obb and still nothing, any ideas?"
+,TheC2G,2013-06-11T09:10Z,"@Alimpuyo 
+
+If you  have installed the modded Play Store but still get error..try removing lvl verification with lucky patcher...
+
+@Duah 
+
+The .obb must placed in sdcard/Android/obb/com.square_enix.android_googleplay.FFIV_GP
+
+But In case you have Samsung or Xperia that recognized Internal storage as Sdcrad and microSD as External Sdcard, place the obb in sdcard not external sdcard..."

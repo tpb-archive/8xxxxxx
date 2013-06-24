@@ -1,0 +1,39 @@
+ http://www.piczhub.com/images/903Slide1.jpg
+ 
+http://beeimg.com/images/v42096278351.gif
+ 
+http://beeimg.com/images/e31552513491.jpg
+
+Sandboxie 4.02 Final ML - SceneDL
+
+Sandboxie runs your programs in an isolated space which prevents them from making permanent changes to other programs and data in your computer.
+
+The red arrows indicate changes flowing from a running program into your computer. The box labeled Hard disk (no sandbox) shows changes by a program running normally. The box labeled Hard disk (with sandbox) shows changes by a program running under Sandboxie. The animation illustrates that Sandboxie is able to intercept the changes and isolate them within a sandbox, depicted as a yellow rectangle. It also illustrates that grouping the changes together makes it easy to delete all of them at once.
+
+Benefits of the Isolated Sandbox
+
+&gt;Secure Web Browsing: Running your Web browser under the protection of Sandboxie means that all malicious software downloaded by the browser is trapped in the sandbox and can be discarded trivially.
+
+&gt;Enhanced Privacy: Browsing history, cookies, and cached temporary files collected while Web browsing stay in the sandbox and don't leak into Windows.
+
+&gt;Secure E-mail: Viruses and other malicious software that might be hiding in your email can't break out of the sandbox and can't infect your real system.
+
+&gt;Windows Stays Lean: Prevent wear-and-tear in Windows by installing software into an isolated sandbox.
+
+Changelog :
+
+&gt;Full protection is offered on both 32-bit and 64-bit Windows. The Experimental Protection feature, which enabled full protection on 64-bit Windows, is no longer needed, and was removed.
+&gt;Improved compatibility with avast!, Driver Verifier, EMET, F-Secure, KeyScrambler, Lingoes, Listary, Norton Internet Security, Office 2013, PGP, Proxifier, ProxyCap, Solid Converter PDF, Windows 8.
+&gt;Removed support for Windows 2000. Service Pack 3 is required for use on Windows XP.
+
+Homepage : http://www.sandboxie.com/
+
+Install Notes:
+
+1] Install The App
+2] Follow Instructions Carefully
+3] Enjoy This Release!!
+
+By:
+
+SceneDL

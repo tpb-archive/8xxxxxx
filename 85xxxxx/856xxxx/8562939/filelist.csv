@@ -1,0 +1,9 @@
+﻿Filename,Size,Unit
+csdb_match_player_ability.sql,106.63,G
+csdb_match_player.sql,63.11,G
+csdb_match.sql,5.39,G
+csdb_match_picks_bans.sql,176.35,M
+csdb_match_player_unit.sql,86.49,M
+csdb_item.sql,18.95,K
+csdb_hero.sql,6.34,K
+csdb_cluster.sql,2.24,K

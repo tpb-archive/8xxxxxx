@@ -1,0 +1,63 @@
+Source : WEBiOS(Thanks)
+ 
+http://www.imdb.com/title/tt1745740/
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 697 MiB
+Duration                                 : 1h 27mn
+Overall bit rate                         : 1 120 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 27mn
+Bit rate                                 : 982 Kbps
+Width                                    : 640 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.235
+Stream size                              : 611 MiB (88%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 27mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 79.7 MiB (11%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+Writing library                          : LAME3.99r
+Encoding settings                        : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+17-year-old Eli has just moved with his family deep into the backwoods of Kentucky to work on the isolated farm of a local recluse. Inexplicably drawn into the strange forest that lies beyond the farm, Eli encounters the beautiful, sweet and mysterious Amanda- seemingly the perfect girl. But with the discovery of decaying bodies hanging from the trees, he realizes that the forest...and Amanda...are harboring some very dark secrets.
+ 
+http://www.shotpix.com/images/47113102330133596287.png 
+http://www.shotpix.com/images/75185566405203341135.png 
+http://www.shotpix.com/images/89305748224024435697.png

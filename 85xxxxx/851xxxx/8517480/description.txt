@@ -1,0 +1,16 @@
+Advanced Installer Architect 10.2 Build 51488
+
+Advanced Installer is a Windows Installer authoring tool which enables developers 
+and system administrators to easily build reliable MSI packages. Advanced Installer 
+is a useful tool for administrators and developers which allows them to create 
+reliable MSI packages.
+
+OS : Windows XP, Vista, 7, 8 (32/64-bit)
+Language : English
+
+Home Page - http://www.advancedinstaller.com/
+
+This includes two different ways to bypass evaluation limitations.
+     1. Patcher handles the .exe and creates license file.
+     2. Pre-patched .exe and pre-made license file.
+Read the text files and choose one or the other.

@@ -1,0 +1,64 @@
+A desperate Bea turns to Will in order to contact her daughter. Vera's attempt to impress Fletch backfires as her domineering mother reveals a humiliating secret to her peers. Toni is released from the wet cell and targeted by Jacs who forces her to lie to the Governor. Although Erica knows the truth, she must betray someone close to her in order to protect her position at Wentworth.A desperate Bea turns to Will in order to contact her daughter. Vera's attempt to impress Fletch backfires as her domineering mother reveals a humiliating secret to her peers. Toni is released from the wet cell and targeted by Jacs who forces her to lie to the Governor. Although Erica knows the truth, she must betray someone close to her in order to protect her position at Wentworth.
+
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 251 MiB
+Duration                                 : 45mn 9s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 778 Kbps
+Encoded date                             : UTC 2013-06-07 02:55:27
+Tagged date                              : UTC 2013-06-07 03:15:05
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 45mn 9s
+Bit rate mode                            : Variable
+Bit rate                                 : 614 Kbps
+Width                                    : 706 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.060
+Stream size                              : 198 MiB (79%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-06-07 02:55:27
+Tagged date                              : UTC 2013-06-07 03:15:05
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 45mn 9s
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 200 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 51.7 MiB (21%)
+Encoded date                             : UTC 2013-06-07 02:55:27
+Tagged date                              : UTC 2013-06-07 03:15:04

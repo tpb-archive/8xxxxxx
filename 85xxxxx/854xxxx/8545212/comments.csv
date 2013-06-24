@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+,pebh,2013-06-06T10:00Z,Volume normalized - does that mean that you turned it up?
+,VinylLove,2013-06-07T05:26Z,"That basically means that the record has been recorded to 98% of its peak volume before clipping would start to occur. I watch the meters very carefully in the recording software to make sure no clipping happens and I re-check the preamp loading settings before recording to make sure EQ curve is correct . 
+
+This 2% headroom is important for when I normalize the volume, this is done by automatically gaining the master volume in software to 0 db so the volume is nice and even on every device you play the tracks on. Some people go to -1db when they normalize the volume, I go to 0db which is perfect when you have headroom to spare, not enough headroom and clipping can happen in the normalization process this is why some people insist 10% headroom etc. The recording volume and the volume after normalization are very important it requires absolute care and attention to detail "

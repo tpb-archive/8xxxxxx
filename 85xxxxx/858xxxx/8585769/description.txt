@@ -1,0 +1,8 @@
+Artist: Blair
+Album: Die Young
+Quality: 400kbps+
+Codec: Vorbis
+
+I ripped cd to lossless format, then converted to vorbis using oggenc -q 10.
+
+URL: http://www.amazon.com/Die-Young-Blair/dp/B00308BAUS

@@ -1,0 +1,23 @@
+LinuxCBT Key-Files Edition
+
+Focus: Important Files relevant to ALL Linux distributions.
+Duration: 8 Hours
+
+Course Objectives:
+
+Boot Partition
+INIT Environment
+Kernel Modules Environment
+PROC File System
+SBIN Executables
+System Control Configuration
+INETD | XINETD Configuration
+User Accounts Environment
+Pluggable Authentication Modules (PAM)
+Hosts | Protocols | Services
+NSSWITCH Configuraton
+DNS Client Resolution Configuration
+User Profiles Environment
+System Scheduler Environment
+DNS Server Configuration
+SYSLOG Configuration

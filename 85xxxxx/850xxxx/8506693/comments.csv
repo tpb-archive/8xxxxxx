@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,IcemanSR,2013-05-25T13:08Z,"Confirm!
+Files are really updating the game properly!
+Aim fix is there!
+BE AWARE that there is new ini file 3DMGame.ini which contains PlayerName = ""3DMGAME"" and will make ur save games non valid!"
+,mansonfamily,2013-05-25T15:31Z,"  For saves to work :
+- change in 3DMGame.ini PlayerName with yours
+- play the game until first save
+- copy and overwrite data0 from ""AppDataLocalFLTSteam222480remote"" to ""AppDataLocalSKIDROW222480Storage"""

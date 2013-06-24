@@ -1,0 +1,22 @@
+author     Kevin Skoglund
+subject    Developer, Servers, Programming Languages, Web Development
+software    MySQL , PHP
+level         Beginner
+duration    14h 24m
+released    Jun 04, 2013
+
+PHP is a popular, reliable programming language at the foundation of many smart, data-driven websites. This comprehensive course from Kevin Skoglund helps developers learn the basics of PHP (including variables, logical expressions, loops, and functions), understand how to connect PHP to a MySQL database, and gain experience developing a complete web application with site navigation, form validation, and a password-protected admin area. Kevin also covers the basic CRUD routines for updating a database, debugging techniques, and usable user interfaces. Along the way, he provides practical advice, offers examples of best practices, and demonstrates refactoring techniques to improve existing code.
+Topics include:
+
+What is PHP?
+Installing and configuring PHP and MySQL
+Exploring data types
+Controlling code with logical expressions and loops
+Using PHP's built-in functions
+Writing custom functions
+Building dynamic webpages
+Working with forms and form data
+Using cookies and sessions to store data
+Connecting to MySQL with PHP
+Creating and editing database records
+Building a content management s

@@ -1,0 +1,646 @@
+﻿Filename,Size,Unit
+Content/Music/Secret.wma,6.17,M
+Content/Music/W6 Treasure Room.wma,4.53,M
+Content/Music/W4 Pygmy Village.wma,4.43,M
+Content/Music/Boss.wma,4.27,M
+Content/Music/W5 Volcano.wma,4.25,M
+Content/Music/Theme.wma,4.1,M
+Content/Music/Credits.wma,4,M
+Content/Music/Theme Skip.wma,3.73,M
+Content/Music/W2 Temple Entrance.wma,3.09,M
+Content/Music/W3 Inner Sanctum.wma,2.95,M
+Content/Music/Escape.wma,2.95,M
+Content/Music/W1 Jungle.wma,2.11,M
+Content/Sounds/Fuse.xnb,1.42,M
+Content/Sounds/rubble falling.xnb,1.36,M
+Content/Music/Discovering the Lost Idol.wma,1.36,M
+Content/Sounds/Thunder.xnb,1.35,M
+Content/Sounds/Rubble Crashing.xnb,1.35,M
+Content/Music/Hat Shop.wma,1.29,M
+Content/Sounds/Boss Charge Up.xnb,1.15,M
+Content/Textures/editorBackground.xnb,1.14,M
+Content/Sounds/Homing Follow.xnb,1.07,M
+Content/Sounds/Plane (Far Away).xnb,1.06,M
+Content/Music/Online Lobby.wma,1.02,M
+Content/Sounds/Lightning Attack.xnb,1.01,M
+Content/Sounds/Boss Lightning.xnb,1.01,M
+Content/Music/Map.wma,1009.76,K
+Content/Sounds/Boss Roar.xnb,977.77,K
+Content/Sounds/waterfall.xnb,947.56,K
+Content/Music/Cutscene.wma,808.78,K
+Content/Sounds/lava gate.xnb,714.87,K
+Content/Sounds/Cauldron Steam.xnb,713.41,K
+Content/Music/Tally.wma,712.66,K
+Content/Sounds/Door Open.xnb,689.26,K
+Content/Sounds/Homing Skulls Cackle.xnb,689.17,K
+Content/Sounds/Secret Door Opening.xnb,689.17,K
+Content/Sounds/Secret Victory.xnb,689.17,K
+Content/Sounds/Secret Key Moving.xnb,689.17,K
+Content/Sounds/Game Start.xnb,673.84,K
+Content/Sounds/Boss Hitting Ceiling.xnb,672.62,K
+Content/Sounds/Boss Snake Charge.xnb,603.03,K
+Content/Sounds/Plane (Closer).xnb,546.65,K
+Content/Sounds/Title Shimmer.xnb,545.59,K
+Content/Sounds/boss charge.xnb,507.19,K
+Content/Sounds/Bomb Explosion.xnb,499.58,K
+Content/Sounds/Level Complete.xnb,493.02,K
+Content/Textures/flyoverCloud03.xnb,467.64,K
+Content/Sounds/fireball.xnb,444.36,K
+Content/Sounds/cauldron lid.xnb,430.47,K
+Content/Sounds/Cauldron Crash Down.xnb,418.19,K
+Content/Sounds/eruptionRumble.xnb,398.95,K
+Content/Textures/worldMapRightBG.xnb,398.76,K
+Content/Music/Boss Introduction.wma,389.35,K
+Content/Sounds/Fall in Lava.xnb,388.31,K
+Content/Sounds/Fireball Launch.xnb,387.7,K
+Content/Sounds/Large Water Splash.xnb,373.6,K
+Content/Sounds/Title Clash.xnb,347.36,K
+Content/Sounds/Birds Chirping.xnb,344.63,K
+Wyv and Keep.exe,338.5,K
+Content/Sounds/Door Lock.xnb,332.51,K
+Content/Textures/flyoverTerrain01.xnb,328.87,K
+Content/Textures/flyoverTerrain02.xnb,318.55,K
+Content/Sounds/Cauldron Lid Slam.xnb,301.57,K
+Content/Sounds/Dart Shooting.xnb,289.99,K
+Content/Textures/worldMapLeftBG.xnb,289.56,K
+Content/Textures/jcSplashAztecBack.xnb,288,K
+Content/Sounds/Boss Takes Hit.xnb,279.69,K
+Content/Sounds/Box Destroyed.xnb,267.67,K
+Content/Sounds/EDITOR - Save.xnb,258.5,K
+Content/Textures/templeTitleClouds.xnb,255.04,K
+Content/Sounds/Tally Rock.xnb,254.1,K
+Content/Sounds/scene05plane.xnb,250.69,K
+Content/Sounds/planeSmall.xnb,249.51,K
+Content/Sounds/Utensil slam into ground.xnb,239.9,K
+Content/Sounds/Homing Explode.xnb,231.77,K
+Content/Sounds/Pygmy Death.xnb,230.7,K
+Content/Sounds/scene07plane.xnb,218.57,K
+Content/Sounds/Cauldron Lid Closing.xnb,217.24,K
+Content/Sounds/Mine.xnb,215.47,K
+Content/Sounds/EDITOR - Open.xnb,215.43,K
+Content/Sounds/Small Steam Blast.xnb,210,K
+Settings.exe,207.5,K
+Content/Sounds/Small Water Splash.xnb,206.62,K
+Content/Sounds/Treasure 1.xnb,198.1,K
+Content/Sounds/Dart Hit Box.xnb,195.06,K
+Content/Sounds/Activate Switch.xnb,193.6,K
+Content/Sounds/Unpause.xnb,193.26,K
+Content/Sounds/Pause.xnb,193.26,K
+Content/Sounds/scene06plane.xnb,189.41,K
+Content/Sounds/Parchment Unroll.xnb,184.4,K
+Content/Sounds/Trapdoor.xnb,183.74,K
+Content/Sounds/Crumble Fully.xnb,181.51,K
+Content/Sounds/drip2.xnb,172.37,K
+Content/Sounds/Secret Key Pickup.xnb,172.37,K
+Content/Sounds/drip3.xnb,172.37,K
+Content/Sounds/Pressure Plate.xnb,168.09,K
+Content/Sounds/drip1.xnb,167.93,K
+Content/Textures/creditsBG.xnb,164.48,K
+Content/Sounds/Wyv land on box.xnb,164.41,K
+Content/Textures/scene11bg.xnb,164.26,K
+Content/Sounds/Treasure 3.xnb,162.1,K
+Content/Sounds/Snake Death.xnb,160.16,K
+Content/Textures/finalWnK.xnb,158.34,K
+Content/Textures/bgEscapeFar.xnb,158.04,K
+Content/Textures/WCButtons.xnb,156.53,K
+Content/Textures/demoTutorialScreen.xnb,156.41,K
+Content/Sounds/EDITOR - New.xnb,153.95,K
+Content/Sounds/Treasure 2.xnb,153.1,K
+Content/Sounds/Title Slide.xnb,150.23,K
+Content/Sounds/Crumble Partial.xnb,144.1,K
+Content/Sounds/Box land on player.xnb,143.09,K
+Content/Sounds/Box land on box.xnb,143.09,K
+Content/Sounds/Box land on ground.xnb,143.09,K
+Content/Textures/introPanorama02.xnb,142.24,K
+Content/Textures/bgJungle.xnb,140.75,K
+Content/Textures/demoTutorialScreenXbox.xnb,137.26,K
+Content/Textures/flyoverCloud02.xnb,136.1,K
+Content/Music/Victory Fanfare.wma,135.94,K
+Content/Textures/eruptionBG.xnb,135.19,K
+Content/Sounds/Spikes.xnb,133.55,K
+Fusion.dll,133.5,K
+Content/Textures/finalBG.xnb,132.34,K
+Wyv's Cartographer.exe,132,K
+Content/Sounds/Tally Trophy.xnb,131.02,K
+Content/Sounds/Boss Snake Bite.xnb,130.17,K
+Content/Sounds/Spring.xnb,126.28,K
+Content/Sounds/Tally Best.xnb,126.04,K
+Content/Sounds/Push Box.xnb,119.74,K
+Content/Textures/scene10mainBright.xnb,114.07,K
+Content/Sounds/Coin 3.xnb,112.6,K
+Content/Sounds/Move Cursor.xnb,112.6,K
+Content/Sounds/Coin 1.xnb,112.6,K
+Content/Sounds/Coin 2.xnb,112.6,K
+Content/Sounds/Press Button.xnb,112.6,K
+Content/Textures/scene04jungle.xnb,107.83,K
+Content/Textures/scene11trees.xnb,105.29,K
+Content/Textures/ending1skyLightning1.xnb,104.64,K
+Content/Textures/ending1skyLightning2.xnb,102.17,K
+Content/Sounds/Wyv Jump.xnb,99.77,K
+Content/Sounds/Tally End.xnb,96.15,K
+Content/Sounds/Place Bomb.xnb,94.6,K
+Content/Textures/scene10temple.xnb,94.22,K
+Content/Sounds/Cut Rope.xnb,92.92,K
+Content/Sounds/Keep Land.xnb,92.5,K
+Content/Data/Cutscenes/Intro/scene1.wnk,91.3,K
+Content/Textures/theaterCurtain.xnb,88.83,K
+Content/Textures/scene11clouds.xnb,88.1,K
+Content/Sounds/Utensil swipe.xnb,87.49,K
+Content/Textures/bgLevel2-0.xnb,85.65,K
+Content/Sounds/finalPlane.xnb,85.49,K
+Content/Textures/onlineBG.xnb,84.15,K
+Content/Textures/bgPygmyVillage.xnb,83.14,K
+Content/Textures/introPanorama01.xnb,82.27,K
+Content/Textures/bgTreasureRoom.xnb,81.52,K
+Content/Sounds/Keep Jump.xnb,81.1,K
+Content/Textures/templeTitleSky.xnb,80.33,K
+Content/Sounds/Dart hit wall.xnb,80.32,K
+Content/Sounds/Snake Bite.xnb,80.11,K
+Content/Textures/bgEscapeMiddle.xnb,80.06,K
+Content/Textures/introPanorama02Tree.xnb,79.85,K
+Content/Textures/scene10mainLight.xnb,78.39,K
+Content/Textures/bossUtensils.xnb,78,K
+Content/Textures/bgVolcano.xnb,77.46,K
+Content/Textures/bossLightning.xnb,76.51,K
+Content/Textures/win3.xnb,73.63,K
+Content/Textures/win4.xnb,72.74,K
+Content/Textures/win2.xnb,72.71,K
+Content/Textures/flyoverCloud01.xnb,72.02,K
+Content/Textures/win1.xnb,70.56,K
+Content/Sounds/Tally Poo.xnb,69.83,K
+Content/Textures/bgInnerSanctum.xnb,68.72,K
+Content/Textures/scene10mainDark.xnb,68.1,K
+Content/Textures/introPanorama04c.xnb,68.1,K
+Content/Textures/animatedBackdrops128.xnb,67.64,K
+Content/Sounds/Pygmy Throw.xnb,67.62,K
+Content/Textures/sideviewJungle.xnb,67.13,K
+Content/Textures/creditsPolaroid04.xnb,65.67,K
+Content/Sounds/Keep land on box.xnb,65.16,K
+Content/Textures/onlineIncomingWindow.xnb,64.61,K
+Content/Textures/onlineCreateWindow.xnb,63.63,K
+Content/Textures/creditsPolaroid05.xnb,62.8,K
+Content/Textures/animatedBackdrops32.xnb,61.42,K
+Content/Textures/creditsPolaroid06.xnb,61.34,K
+Content/Textures/bgTemple.xnb,61.02,K
+Content/Textures/creditsPolaroid01.xnb,60.68,K
+Content/Textures/hatShopBG.xnb,60.37,K
+Content/Textures/bgGiftShop.xnb,59.94,K
+Content/Textures/creditsPolaroid03.xnb,57.69,K
+Content/Textures/ending1skyDark.xnb,55.19,K
+Content/Textures/creditsPolaroid02.xnb,55.11,K
+Content/Textures/WCButtonGlows.xnb,55.07,K
+Content/Textures/boss_map.xnb,54.75,K
+Content/Textures/WCNewOpenSaveGlows.xnb,54.18,K
+Content/Textures/onlineMainChatWindow.xnb,53.02,K
+Content/Textures/creditsPolaroid06idol.xnb,52.87,K
+Content/Textures/scene11mountains.xnb,52.8,K
+Content/Textures/tallyParchment.xnb,52.6,K
+Content/Textures/WCThemeGlow.xnb,52.54,K
+Content/Textures/scene11sky.xnb,51.64,K
+Content/Textures/bgBoss.xnb,51.21,K
+Content/Textures/scene08main.xnb,51.03,K
+Content/Textures/scene07mist.xnb,49.57,K
+Content/Textures/scene08clouds.xnb,48.76,K
+Content/Textures/theaterPillars.xnb,47.47,K
+Content/Sounds/EDITOR - Glow.xnb,44.65,K
+Content/Textures/endingBestCloudNear.xnb,43.01,K
+Content/Textures/eruptionSky.xnb,42.83,K
+Content/Textures/audienceAnims.xnb,42.74,K
+Content/Textures/bgEscapeNear.xnb,42.7,K
+Content/Sounds/Lifting.xnb,41.94,K
+Content/Textures/bossHead.xnb,41.89,K
+Content/Textures/hatShopMenu.xnb,40.51,K
+Content/Textures/jcSplashAztecDress.xnb,39.81,K
+Content/Textures/eruptionTemple.xnb,38.82,K
+Content/Textures/onlineMainListWindow.xnb,38.25,K
+Content/Textures/scene08sky.xnb,37.13,K
+Content/Textures/mapColor5-3.xnb,36.41,K
+Content/Textures/ending1rain.xnb,36.24,K
+Content/Sounds/Wyv Land.xnb,35.14,K
+Content/Textures/onlineLogin.xnb,34.41,K
+Content/Textures/WCPostitGlow.xnb,33.57,K
+Content/Textures/templeTitleLight.xnb,31.33,K
+Content/Maps/4-S.map,30.17,K
+Content/Textures/editorHands.xnb,29.86,K
+Content/Textures/endingBestSky.xnb,28.33,K
+Content/Textures/creditsMist.xnb,25.88,K
+Content/Maps/4-2.map,25.53,K
+Content/Maps/4-2E.map,25.15,K
+Content/Data/Cutscenes/Intro/scene10.wnk,24.52,K
+Content/Textures/bgBossStatue.xnb,24.01,K
+Content/Textures/endingBestCloudFar.xnb,23.99,K
+Content/Textures/scene09main.xnb,23.34,K
+Content/Textures/ending1castleBright.xnb,23.03,K
+Content/Sounds/Tally Roll.xnb,22.31,K
+Content/Textures/onlineConnecting.xnb,22.26,K
+Content/Maps/5-S.map,22.26,K
+Content/Maps/1-3.map,22.02,K
+Content/Textures/particlesBig.xnb,21.94,K
+Content/Maps/1-3E.map,21.82,K
+Content/Sounds/Debris Poof.xnb,21.82,K
+Content/Maps/5-7.map,21.81,K
+Content/Textures/scene04mist.xnb,21.7,K
+Content/Textures/ending1groundDark.xnb,21.49,K
+Content/Maps/4-7.map,20.9,K
+Content/Maps/4-7E.map,20.51,K
+Content/Maps/1-7.map,20.5,K
+Content/Textures/bgCutscene.xnb,20.34,K
+Content/Maps/6-4.map,20.11,K
+Content/Maps/5-2.map,20.08,K
+Content/Textures/theaterAudience.xnb,20.01,K
+Content/Textures/jcSplashAztecLogo.xnb,19.98,K
+Content/Maps/3-7.map,19.88,K
+Content/Maps/6-4E.map,19.82,K
+Content/Maps/Escape_2.map,19.81,K
+Content/Maps/5-2E.map,19.75,K
+Content/Maps/Ending_4.map,19.71,K
+Content/Data/Cutscenes/Endings/sceneCredits.wnk,19.57,K
+Content/Maps/3-7E.map,19.34,K
+Content/Maps/Escape_3.map,19.29,K
+Content/Maps/DEMO_2.map,19.01,K
+Content/Maps/2-5.map,18.97,K
+Content/Maps/2-5E.map,18.8,K
+Content/Textures/bossSnakeHead.xnb,18.74,K
+Content/Maps/5-7E.map,18.69,K
+Content/Maps/2-7E.map,18.55,K
+Content/Maps/DEMO_9.map,18.49,K
+Content/Maps/3-3.map,18.48,K
+Content/Textures/theaterCurtainShadow.xnb,18.41,K
+Content/Maps/6-2.map,18.4,K
+Content/Maps/5-8E.map,18.38,K
+Content/Maps/2-7.map,18.37,K
+Content/Maps/6-2E2.map,18.36,K
+Content/Maps/6-2E.map,18.36,K
+Content/Maps/3-9.map,18.36,K
+Content/Maps/2-3.map,18.36,K
+Content/Maps/1-5.map,18.33,K
+Content/Maps/3-6.map,18.3,K
+Content/Maps/3-3E.map,18.28,K
+Content/Maps/6-7.map,18.1,K
+Content/Maps/2-3E.map,18.07,K
+Content/Maps/1-9.map,17.96,K
+Content/Maps/5-8.map,17.96,K
+Content/Maps/6-7E.map,17.96,K
+Content/Maps/1-5E.map,17.93,K
+Content/Maps/3-9E.map,17.91,K
+Content/Maps/1-8.map,17.9,K
+Content/Maps/4-4.map,17.84,K
+Content/Textures/bossHoming.xnb,17.66,K
+Content/Maps/3-6E.map,17.56,K
+Content/Maps/1-8E.map,17.53,K
+Content/Data/Cutscenes/Intro/scene8.wnk,17.39,K
+Content/Data/Cutscenes/Intro/scene6.wnk,17.22,K
+Content/Maps/4-4E.map,17.2,K
+Content/Maps/1-9E.map,17.18,K
+Content/Maps/5-3.map,17.09,K
+Content/Maps/4-0.map,17.03,K
+Content/Maps/3-1.map,16.94,K
+Content/Maps/Ending_3.map,16.84,K
+Content/Maps/1-4.map,16.81,K
+Content/Maps/2-1.map,16.74,K
+Content/Maps/1-4E.map,16.73,K
+Content/Maps/1-S.map,16.71,K
+Content/Maps/3-1E.map,16.68,K
+Content/Maps/5-3E.map,16.64,K
+Content/Maps/1-7E.map,16.64,K
+Content/Maps/DEMO_7.map,16.62,K
+Content/Maps/2-1E.map,16.6,K
+Content/Maps/6-9.map,16.56,K
+Content/Maps/1-0.map,16.41,K
+Content/Maps/6-9E.map,16.4,K
+Content/Maps/4-8.map,16.28,K
+Content/Maps/6-6.map,16.07,K
+Content/Maps/4-8E.map,16.07,K
+Content/Maps/6-8.map,16.06,K
+Content/Maps/Boss.map,16.05,K
+Content/Maps/6-6E.map,15.93,K
+Content/Maps/DEMO_1.map,15.83,K
+Content/Maps/6-8E.map,15.81,K
+Content/Maps/3-4.map,15.69,K
+Content/Textures/animatedBackdrops64.xnb,15.64,K
+Content/Maps/1-6.map,15.56,K
+Content/Maps/3-8.map,15.55,K
+Content/Maps/2-4E.map,15.54,K
+Content/Maps/DEMO_4.map,15.52,K
+Content/Maps/Escape_1.map,15.51,K
+Content/Maps/1-2E.map,15.39,K
+Content/Maps/1-2.map,15.31,K
+Content/Maps/6-3.map,15.16,K
+Content/Maps/1-6E.map,15.15,K
+Content/Maps/3-5.map,15.14,K
+Content/Textures/greenThumb.xnb,14.92,K
+Content/Maps/3-5E.map,14.92,K
+Content/Maps/6-3E.map,14.92,K
+Content/Maps/3-4E.map,14.81,K
+Content/Maps/4-6.map,14.8,K
+Content/Maps/6-1.map,14.63,K
+Content/Textures/scene05jetStream.xnb,14.63,K
+Content/Textures/playerKeep.xnb,14.55,K
+Content/Maps/5-4.map,14.39,K
+Content/Maps/2-9E.map,14.37,K
+Content/Textures/titleMenu.xnb,14.34,K
+Content/Maps/2-9.map,14.26,K
+Content/Maps/5-0.map,14.18,K
+Content/Maps/6-1E.map,14.16,K
+Content/Maps/2-2.map,14.05,K
+Content/Maps/5-1.map,13.93,K
+Content/Maps/6-S.map,13.87,K
+Content/Textures/playerWyv.xnb,13.85,K
+Content/Maps/4-6E.map,13.82,K
+Content/Maps/3-S.map,13.79,K
+Content/Maps/5-5.map,13.74,K
+Content/Maps/Ending_5.map,13.67,K
+Content/Textures/scene04jetStream.xnb,13.66,K
+Content/Maps/3-2.map,13.62,K
+Content/Maps/5-5E.map,13.53,K
+Content/Textures/WCNumbers.xnb,13.47,K
+Content/Maps/5-1E.map,13.46,K
+Content/Maps/3-0.map,13.37,K
+Content/Maps/3-8E.map,13.37,K
+Content/Maps/5-4E.map,13.37,K
+Content/Maps/1-1E.map,13.33,K
+Content/Maps/1-1.map,13.25,K
+Content/Textures/scene04sky.xnb,13.17,K
+Content/Maps/2-S.map,13.16,K
+Content/Maps/4-5.map,13.16,K
+Content/Maps/2-4.map,13.15,K
+Content/Textures/mapColor5-6.xnb,13.11,K
+Content/Maps/4-5E.map,13.07,K
+Content/Data/Cutscenes/Endings/sceneCastle.wnk,13.04,K
+Content/Data/themes.wnk,12.99,K
+Content/Maps/2-2E.map,12.97,K
+Content/Maps/3-2E.map,12.95,K
+Content/Maps/4-9.map,12.91,K
+Content/Maps/2-0.map,12.87,K
+Content/Maps/4-9E.map,12.85,K
+Content/Maps/5-6E.map,12.76,K
+Content/Maps/6-5.map,12.51,K
+Content/Maps/5-6.map,12.5,K
+Content/Textures/ending1castleDark.xnb,12.4,K
+Content/Maps/6-5E.map,12.38,K
+Content/Textures/templeTitleTitle.xnb,12.35,K
+Content/Textures/bossBody.xnb,12.25,K
+Content/Textures/mapColor5-4.xnb,12.17,K
+Content/Maps/6-0.map,12.07,K
+Content/Data/worldmap.wnk,12.05,K
+Content/Maps/DEMO_6.map,12,K
+Content/Maps/5-9E.map,12,K
+Content/Data/Cutscenes/Intro/scene7.wnk,11.98,K
+Content/Textures/animatedBackdrops48.xnb,11.8,K
+Content/Maps/DEMO_8.map,11.78,K
+Content/Maps/2-8E.map,11.72,K
+Content/Maps/2-8.map,11.66,K
+Content/Textures/mapColor5-2.xnb,11.52,K
+Content/Sounds/Pygmy Alert.xnb,11.47,K
+Content/Maps/5-9.map,11.42,K
+Content/Maps/2-6E.map,11.39,K
+Content/Data/Cutscenes/Intro/scene9.wnk,11.37,K
+Content/Data/Cutscenes/Intro/scene11.wnk,11.29,K
+Content/Maps/DEMO_3.map,11.21,K
+Content/Textures/mapColor3-7.xnb,11.14,K
+Content/Maps/4-3.map,11.1,K
+Content/Maps/4-3E.map,11.1,K
+Content/Maps/6-1E2.map,11.1,K
+Content/Textures/items.xnb,11.01,K
+Content/Maps/2-6.map,11,K
+Content/Textures/pygmyThumb.xnb,10.76,K
+Content/Textures/treasureThumb.xnb,10.76,K
+Content/Maps/4-1.map,10.66,K
+Content/Maps/Ending_1.map,10.57,K
+Content/Maps/DEMO_5.map,10.39,K
+Content/Maps/4-1E.map,10.33,K
+Content/Maps/Ending_2.map,9.98,K
+Content/Textures/WCNumberBoxes.xnb,9.88,K
+Content/Textures/levelTitleParchments.xnb,9.68,K
+Content/Textures/hats.xnb,9.6,K
+Content/Textures/volcanoThumb.xnb,9.26,K
+Content/Sounds/Dart Hit Player.xnb,9.15,K
+Content/Textures/mapColor4-6.xnb,9.08,K
+Content/Textures/mapColor6-8.xnb,9.02,K
+Content/Maps/DEMO_10.map,9.02,K
+Content/Textures/mapColor5-5.xnb,8.93,K
+Content/Textures/templeThumb.xnb,8.89,K
+Content/Data/Cutscenes/Intro/scene2.wnk,8.84,K
+Content/Textures/jcSplashAztecBody.xnb,8.8,K
+Content/Textures/titleMenuIGF.xnb,8.7,K
+Content/Textures/jcSplashAztecHead.xnb,8.58,K
+Content/Textures/bossBubbles.xnb,8.52,K
+Content/Textures/mapColor2-7.xnb,8.38,K
+Content/Data/Cutscenes/Intro/scene3.wnk,8.24,K
+Content/Textures/mapColor4-7.xnb,8.19,K
+Content/Textures/scene06jetStream.xnb,8.09,K
+Content/Textures/finalBiplane.xnb,8.05,K
+Content/Textures/mapColor6-6.xnb,7.99,K
+Content/Textures/mapColor1-6.xnb,7.93,K
+Content/Textures/particles.xnb,7.85,K
+Content/Textures/mapColor5-1.xnb,7.74,K
+Content/Textures/ending1groundBright.xnb,7.7,K
+Content/Textures/mapColor6-3.xnb,7.37,K
+Content/Data/anim-players.wnk,7.26,K
+Content/Textures/bossCauldron.xnb,7.13,K
+Content/Textures/hatShopClerk.xnb,7.05,K
+Content/Textures/fontBig.xnb,7.04,K
+Content/Data/Cutscenes/Endings/sceneEruption.wnk,7,K
+Content/Textures/animatedBackdrops16.xnb,6.97,K
+Content/Textures/mapColor2-6.xnb,6.75,K
+Content/Textures/mapColor6-2.xnb,6.72,K
+Content/Textures/tilesJungle.xnb,6.62,K
+Content/Textures/tilesInnerSanctum.xnb,6.61,K
+Content/Textures/paused.xnb,6.57,K
+Content/Textures/mapColor6-7.xnb,6.43,K
+Content/Textures/mapColor3-9.xnb,6.41,K
+Content/Textures/mapColor4-1.xnb,6.37,K
+Content/Textures/mapColor4-2.xnb,6.29,K
+Content/Textures/credits15.xnb,6.22,K
+Content/Textures/mapColor4-5.xnb,6.2,K
+Content/Textures/mapColor5-8.xnb,6.17,K
+Content/Textures/mapColor6-4.xnb,6.13,K
+Content/Textures/tilesPygmyVillage.xnb,6.07,K
+Content/Textures/bossSnakeBody.xnb,6.04,K
+Content/Textures/mapColor4-8.xnb,5.91,K
+Content/Textures/credits01.xnb,5.89,K
+Content/Textures/mapColor2-5.xnb,5.85,K
+Content/Textures/tilesTreasureroom.xnb,5.82,K
+Content/Data/Cutscenes/Intro/scene5.wnk,5.8,K
+Content/Textures/mapColor3-4.xnb,5.74,K
+Content/Textures/bossFireball.xnb,5.63,K
+Content/Textures/mapColor6-5.xnb,5.6,K
+Content/Data/Cutscenes/Intro/scene4.wnk,5.51,K
+Content/Data/hats.wnk,5.5,K
+Content/Textures/mapColor3-6.xnb,5.46,K
+Content/Textures/tilesTemple.xnb,5.41,K
+Content/Data/anim-boss.wnk,5.18,K
+Content/Textures/playerDeathAnims.xnb,5.12,K
+Content/Textures/mapColor1-1.xnb,5.11,K
+Content/Textures/mapColor3-2.xnb,5.02,K
+Content/Textures/mapColor1-7.xnb,4.99,K
+Content/Textures/mapColor1-5.xnb,4.98,K
+Content/Textures/bgGreatHall.xnb,4.97,K
+Content/Textures/mapColor1-4.xnb,4.96,K
+Content/Textures/mapColor4-4.xnb,4.92,K
+Content/Textures/titleBirds.xnb,4.85,K
+Content/Textures/tilesVolcano.xnb,4.8,K
+Content/Textures/mapColor3-3.xnb,4.71,K
+Content/Textures/bossSteamColumn.xnb,4.54,K
+Content/Textures/mapColor1-2.xnb,4.53,K
+Content/Textures/biplaneSide.xnb,4.45,K
+Content/Textures/mapColor6-1.xnb,4.44,K
+Content/Textures/mapColor5-7.xnb,4.44,K
+Content/Data/Cutscenes/Intro/intro.wnk,4.43,K
+Content/Textures/mapColor2-3.xnb,4.38,K
+Content/Textures/mapColor1-8.xnb,4.3,K
+Content/Textures/mapColor1-9.xnb,4.26,K
+Content/Textures/farCloud01.xnb,4.22,K
+Content/Textures/bossCauldronLid.xnb,4.18,K
+Content/Textures/mapColor3-5.xnb,4.13,K
+Content/Data/hatshop.wnk,4.12,K
+Content/Textures/mapColor2-4.xnb,4.08,K
+Content/Textures/onlineButts.xnb,3.99,K
+Content/Textures/items2.xnb,3.98,K
+Content/Textures/mapColor3-8.xnb,3.82,K
+Content/Textures/credits11.xnb,3.74,K
+Content/Textures/scene04pygmy.xnb,3.72,K
+Content/Textures/mapColor3-1.xnb,3.68,K
+Content/Textures/credits13.xnb,3.67,K
+Content/Textures/WCscrollThumb.xnb,3.64,K
+Content/Textures/farCloud02.xnb,3.6,K
+Content/Textures/introBirds01.xnb,3.58,K
+Content/Textures/mapColor4-9.xnb,3.52,K
+Content/Textures/credits14.xnb,3.49,K
+Content/Textures/ending1wnkShadow.xnb,3.49,K
+Content/Textures/scene07luke.xnb,3.32,K
+Content/Textures/credits12.xnb,3.31,K
+Content/Textures/credits06.xnb,3.29,K
+Content/Textures/Rewards.xnb,3.26,K
+Content/Data/Cutscenes/Endings/sceneFinal.wnk,3.2,K
+Content/Textures/bossPedestal.xnb,3.15,K
+Content/Textures/mapColor4-3.xnb,3.13,K
+Content/Textures/credits10.xnb,3.09,K
+Content/Textures/mapColor6-9.xnb,3.08,K
+Content/Data/anim-particles.wnk,2.91,K
+Content/Textures/credits07.xnb,2.91,K
+Content/Textures/endingBestPlane.xnb,2.88,K
+Content/Textures/biplaneSideWnK.xnb,2.86,K
+Content/Textures/mapColor2-8.xnb,2.83,K
+Content/Textures/credits04.xnb,2.83,K
+Content/Textures/mapColor2-2.xnb,2.74,K
+Content/Textures/scene11temple.xnb,2.61,K
+Content/Textures/mapColor2-9.xnb,2.57,K
+Content/Textures/worldEndDoor.xnb,2.47,K
+Content/Textures/credits09.xnb,2.41,K
+Content/Textures/bossHeadDrool.xnb,2.4,K
+Content/Textures/mapColor5-9.xnb,2.36,K
+Content/Textures/jcSplashAztecArmFront2.xnb,2.36,K
+Content/Textures/credits02.xnb,2.34,K
+Content/Textures/scene05beau.xnb,2.33,K
+Content/Textures/credits03.xnb,2.33,K
+Content/Textures/templeTitleMountains.xnb,2.32,K
+Content/Maps/Boss Puzzles.map,2.31,K
+Content/Textures/mapColor2-1.xnb,2.29,K
+Content/Textures/animatedBackdrops01a.xnb,2.27,K
+Content/Textures/mapColor1-3.xnb,2.24,K
+Content/Textures/cutsceneFontsBlack.xnb,2.24,K
+Content/Textures/fontMedYellow.xnb,2.23,K
+Content/Textures/fontMedDark.xnb,2.23,K
+Content/Textures/fontMedLight.xnb,2.23,K
+Content/Textures/cutsceneFontsGrey.xnb,2.23,K
+Content/Textures/cutsceneFonts.xnb,2.22,K
+Content/Textures/cutsceneFontsBeige.xnb,2.22,K
+Content/Textures/tilesCutscene.xnb,2.21,K
+Content/Data/anim-traps.wnk,2.21,K
+Content/Textures/fontMed.xnb,2.21,K
+Content/Textures/aJCPresents.xnb,2.18,K
+Content/Textures/treasure.xnb,2.15,K
+Content/Textures/jcSplashAztecArmFront.xnb,2.14,K
+Content/Textures/credits16.xnb,2.04,K
+Content/Data/Cutscenes/Endings/endings.wnk,2,K
+Content/Textures/bossRubble.xnb,1.99,K
+Content/Textures/scene06david.xnb,1.97,K
+Content/Data/animations.wnk,1.94,K
+Content/Textures/credits08.xnb,1.91,K
+Content/Textures/credits05.xnb,1.88,K
+Content/Textures/keepReveal.xnb,1.86,K
+Content/Textures/biplaneTop.xnb,1.81,K
+Content/Data/fonts.wnk,1.79,K
+Content/Textures/terrain.xnb,1.78,K
+Content/Textures/flyoverBirds01.xnb,1.72,K
+Content/Textures/scene03agameby.xnb,1.68,K
+Content/Textures/flameAnimBig.xnb,1.67,K
+Content/Textures/biplanePygmies.xnb,1.65,K
+Content/Textures/Golden_Idol.xnb,1.63,K
+Content/Textures/scene04jesse.xnb,1.62,K
+Content/Textures/templeTitleTemple.xnb,1.62,K
+Content/Textures/jcSplashAztecShadow.xnb,1.49,K
+Content/Textures/templeTitleKeep.xnb,1.46,K
+Content/Textures/jcSplashAztecArmRear.xnb,1.44,K
+Content/Textures/bossBodyGradient.xnb,1.42,K
+Content/Textures/templeTitleWyv.xnb,1.4,K
+Content/Textures/hatSelectors.xnb,1.37,K
+Content/Textures/HUDicons.xnb,1.16,K
+Content/Textures/fontSmall.xnb,1.16,K
+Content/Textures/mapScoreBorder.xnb,1.09,K
+Content/Textures/scrollThumb.xnb,1.07,K
+Content/Textures/onlineThumbs.xnb,1.07,K
+Content/Textures/templeTitleSubtitleJap.xnb,1.06,K
+Content/Textures/endingIdol.xnb,1.04,K
+Content/Textures/templeTitleSubitle.xnb,1.04,K
+Content/Textures/templeTitleSubtitle.xnb,1.04,K
+Content/Textures/bgEscapeGlow.xnb,1.03,K
+Content/Textures/icon128x.xnb,922,B
+Content/Textures/wellDone.xnb,890,B
+Content/Textures/bossLavaTop.xnb,886,B
+Content/Textures/lavaGate.xnb,872,B
+Content/Textures/bossHeadJewels.xnb,854,B
+Content/Textures/playerFlags.xnb,854,B
+Content/Textures/scene09waterTop.xnb,834,B
+Content/Textures/biplanePygmiesSM.xnb,796,B
+Content/Textures/fontTiny.xnb,794,B
+Content/Textures/mapTotals.xnb,774,B
+thanks for torrenting!.txt,717,B
+Content/Textures/bossPedestalBottom.xnb,710,B
+Content/Textures/iconWC128x.xnb,696,B
+Content/Textures/ending1flash.xnb,684,B
+Content/Textures/textBubbles.xnb,678,B
+Content/Textures/splashTrail.xnb,658,B
+Content/Textures/templeTitleTrees.xnb,650,B
+Content/Textures/onlineArrows.xnb,630,B
+Content/Textures/scrollArrows.xnb,630,B
+Content/Textures/cuteEffects.xnb,602,B
+Content/Textures/scene09pack2.xnb,534,B
+Content/Textures/wyvWalking.xnb,532,B
+Content/Textures/bossLavaBottom.xnb,514,B
+Content/Textures/keepWalking.xnb,498,B
+Content/Textures/mainMenuItems.xnb,494,B
+Content/Textures/bossCauldronFrontBricks.xnb,464,B
+Content/Textures/tinyPlane.xnb,438,B
+Content/Textures/tinyBird.xnb,400,B
+Content/Textures/scene09water.xnb,368,B
+Content/Textures/scene09lantern.xnb,354,B
+Content/Textures/scene09rope.xnb,352,B
+Content/Textures/neg.xnb,338,B
+Content/Textures/scene09pack.xnb,324,B
+Content/Textures/editor_selector.xnb,278,B
+Content/Textures/bossHeadEyes.xnb,226,B
+Content/Textures/grid.xnb,220,B
+Content/Music/Discovering the Lost Idol.xnb,143,B
+Content/Music/W2 Temple Entrance.xnb,136,B
+Content/Music/Boss Introduction.xnb,135,B
+Content/Music/W6 Treasure Room.xnb,134,B
+Content/Music/W3 Inner Sanctum.xnb,134,B
+Content/Music/W4 Pygmy Village.xnb,134,B
+Content/Music/Victory Fanfare.xnb,133,B
+Content/Music/Online Lobby.xnb,130,B
+Content/Music/W5 Volcano.xnb,128,B
+Content/Music/Theme Skip.xnb,128,B
+Content/Music/W1 Jungle.xnb,127,B
+Content/Music/Hat Shop.xnb,126,B
+Content/Music/Cutscene.xnb,126,B
+Content/Music/Credits.xnb,125,B
+Content/Music/Secret.xnb,124,B
+Content/Music/Escape.xnb,124,B
+Content/Music/Tally.xnb,123,B
+Content/Music/Theme.xnb,123,B
+Content/Music/Boss.xnb,122,B
+Content/Music/Map.xnb,121,B
+Content/Data/data.wnk,116,B
+Content/Data/cutscenes.wnk,89,B

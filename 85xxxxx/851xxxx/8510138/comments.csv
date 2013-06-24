@@ -1,0 +1,59 @@
+﻿User Type,Username,Date,Text
+,KingFuller,2013-05-26T08:19Z,9 gb file? why wouldnt you upload a 2gb file it would upload faster for you and save you on bandwidth... troll
+,y3n007,2013-05-26T08:39Z,dang dude...9gigs?...any one knows of a smaller file...
+,natebaux,2013-05-26T08:48Z,"omg, this is like the time i ate all that chinese food and didnt take a crap for 2 days, but when i did...whew. i nearly passed out. here i am bent over almost kissing the floor, cutting off my circulation. it took everything i had, i was drained. my lips started to turn blue before i had the strength to rise. i waited several minutes for resizing that never occurred. feeling fully reamed and resembling the lincoln tunnel, i began what would go on to be known as The Quad Flush, which resulted in a new pipes,   a new water main and overflows for the rest of the block. like this torrent, that shit was just uncalled for."
+,zindulive,2013-05-26T08:49Z,"guys if you want smaller size at 400p 2gb by the same uploader go to this link
+
+http://thepiratebay.sx/torrent/8510249/UFC.160.Velasquez.vs.Silva.II.[X264][400P][MP4][Secludedly]
+
+i downloaded 400p last week from same uploader SecTPB video/audio was 10/10 and your download will finish much faster and you will see seedes climb up rapidly.
+
+thank you SecTPB you are the Master.
+"
+,j0nnyboy,2013-05-26T08:49Z,"9 gigs. holy shit man...
+
+beggars can't be choosers but god damn"
+[T],Mattlb0619,2013-05-26T08:50Z,"its a 9 gig file because its 60 fps, double the normal frame rate double the amount of frames double the size... dumb ass."
+,j0nnyboy,2013-05-26T08:50Z,Thanks Zin
+,mikedongs,2013-05-26T09:02Z,"Quit complaining. It's not that bad unless you're on some kind of third-world internet connection. Secludedly 60 FPS UFC torrents look amazing, I get them whenever I find them.
+
+Also remember that with double the framerate of most videos, it needs a higher bitrate to maintain the same quality.
+
+It needs close to, but not quite double the bandwidth of 30 FPS video. Not quite as much, because of the nature of motion-search-based encoding algorithms like MPEG/x264. Still needs more, but there is generally less change/motion between frames."
+,KingFuller,2013-05-26T09:04Z,"@zindulive thanks for the link, it doesnt show up on the search menu ( not yet anyway) good eye dude"
+,Eaz77,2013-05-26T09:06Z,"SecTPB always uploads 2 versions, one 9GB HD version and one smaller, so if this is too big, pick the other one."
+,L33chmaster,2013-05-26T13:59Z,"T O   A L L   Y O U   M O R O N S, Stop moaning about the size.
+
+This is 720p is never the first upload. There are many other uploads with low resolution and small size for you to download from there. STOP VOMITING here.
+
+To the uploader, Kudos. thank you so much for uploading 720p quality videos continuously. I love it, keep up the good work."
+,syndax,2013-05-26T15:44Z,"Thanks heaps Sec, legend."
+,y3n007,2013-05-26T16:18Z,"I understand it super HD and there for the file is huge, only took me about an hour to download, problem...i cant watch it...it does not do a thing..."
+,Meremoth,2013-05-26T19:42Z,Is there anyone that does 1080p UFC releases? 
+,mikedongs,2013-05-26T21:36Z,"Oh, wow... I know why the file is so big now. This torrent is the DIRECT digital transport stream that was broadcast. It is not transcoded/re-encoded. You can't get it in higher quality than this! Awesome."
+,mikedongs,2013-05-26T23:57Z,"***ATTENTION***
+
+Just trying to help everybody out here. Those of you who have problems playing the file, it is probably because this is a raw H264/AAC transport stream. Some players have problems with that, and even the ones that work will have problems when trying to seek.
+
+What I reccommend you do is this:
+1. Download Avidemux 2.6.4 (older 2.5 will crash)
+
+2. Open this .TS file with it. It will go through the file and index the frames. This will take 1 or 2 minutes.
+
+3. Under ""Video Output"" on the left side of the window, be sure ""Copy"" is chosen in the drop-down menu.
+
+4. Under ""Audio Output"", be sure to select ""MP3 (Lame)"" in the drop-down box. Do *NOT* choose ""Copy"", because it causes the audio to desync. Now click ""Configure"" directly under that drop-down box. Make sure ""Bitrate mode"" is ""CBR"", ""Bitrate"" is ""128"", and ""Quality"" is ""9"". You could probably select ""PCM"" instead of MP3, but it will make the file 1 GB larger!
+
+5. Be sure ""AVI Muxer"" is selected under ""Output Format"".
+
+6. In the ""File"" menu, click ""Save"". Now just choose where you want the new AVI file to be stored.
+
+7. That's it! It may take up to 10 minutes to save depending on how powerful your CPU is. My 8-core AMD FX-8150 overclocked to 4.4 GHz took less than 3 minutes.
+
+The new video will have identical, full quality to what's in the original .TS file, because we did not actually re-encoded. We merely muxed the stream into a different container format.
+
+The resulting new AVI file should now work in any player. I tested it both with MPC-HC and VLC. MPC-HC plays 60 FPS video more smoothly than VLC on every computer I've ever tried it on, so I reccommend it. Once you've verified the new .AVI file works correctly, you can go ahead and delete the original .TS file. However, deleting the .TS causes you to no longer be able to SEED this torrent! So, please seed for at least a few days first.
+
+I hope this helps some people."
+,ABoxingGox,2013-05-27T02:28Z,Thanks for the awesome quality. Don't worry about those that don't care. I for one wait for your ups of these quality. 
+,quasix,2013-05-28T06:00Z,Thanks bro.

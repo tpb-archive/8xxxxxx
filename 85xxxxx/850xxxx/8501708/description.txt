@@ -1,0 +1,19 @@
+AudioRetoucher is an music transposition tool that changes the pitch and tempo of an audio composition. With AudioRetoucher the sound of an instrument or voice might be modified slightly, to make a vocalist or instrumentalistΓÇÖs job easier in dealing with difficult keys, and usually involves no more than a half-step (semitone) or possibly whole step (whole tone) change. Vocal pitch may also be speeded up to ΓÇ£smooth outΓÇ¥ a performance, or to make the singer sound younger. It may be used for special effects like famous Chipmunks recordings were created by recording vocal tracks at a slow speed, then boosting them to normal at playback. AudioRetoucher mainly used by musicians as MP3 key shifter, but it also can detect BPM values for MP3 files and adjust tempo in real time.
+
+AudioRetoucher Main Features:
+- Karaoke MP3+G support ΓÇô if you have CDG file for your audio track then graphics part of the song will be adjusted so the lyrics are in sync with music after changing Tempo and
+- Support for MP3, WMA and WAV files
+- Change Speed ΓÇô filter to change both Speed and Pitch of audio file.
+- Change Pitch ΓÇô filter to increase or decrease the Key of an audio file in semitones (from -6 to +6 semitone with 0.1 step) without changing the Tempo. Used to change the key of a song.
+- Change Tempo ΓÇô filter to increase or decrease the Tempo in percents without changing the Pitch(Key). Used to slow down music
+- Bass Boost ΓÇô filter to Amplify Low Frequencys of audio file.
+- Treble Enhancer ΓÇô filter to Amplify High Frequencys of audio file.
+- BPM detector ΓÇô count songΓÇÖs Beats Per Minute.
+- Super fast processing speed provided as it full supports Intel Core2 Processor and AMD Phenom Processor which ensures full use of your CPU.
+- Easy to use as all settings are displayed in the interface which are easy to handle.
+- Lifetime free upgrades
+- Supported OS: Windows 2000, Windows XP, Windows 2003, Windows Vista, 7
+
+Home Page ΓÇô http://www.abyssmedia.com/
+
+

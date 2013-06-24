@@ -1,0 +1,60 @@
+General
+----------------------------------------------------------------
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 268 MiB
+Duration                                 : 1h 29mn
+Overall bit rate                         : 420 Kbps
+Writing library                          : libmkv 0.6.5.1
+
+Video
+----------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L2.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 29mn
+Nominal bit rate                         : 350 Kbps
+Width                                    : 640 pixels
+Height                                   : 256 pixels
+Display aspect ratio                     : 2.500
+Frame rate mode                          : Variable / Variable
+Frame rate                               : 23.704 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.090
+Writing library                          : x264 core 130
+Language                                 : English
+
+Audio
+----------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 29mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+Screenshots
+---------------------------------------------------------------- 
+http://share.pho.to/2UJ6k/original 
+http://share.pho.to/2UJ6l/original 
+http://share.pho.to/2UJ71/original 
+http://share.pho.to/2UJ7I/original
+
+Info
+----------------------------------------------------------------
+Tiny BRRip with decent quality for those with less bandwith.
+
+Enjoy ;)

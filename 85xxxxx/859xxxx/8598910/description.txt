@@ -1,0 +1,33 @@
+The original Battery Indicator for Android has been reborn with a new name, a new look, and new features! Battery Indicator Pro is now BatteryBot Pro.
+BatteryBot shows automatic time-remaining estimates based on recent usage. As of version 8.0.10, Pro users can configure the predictions to be more or less sensitive to recent usage.
+Three years ago I was an inexperienced computer geek who was disappointed that his Android phone couldn't easily show him his battery level. So I created the first status bar battery indicator for Android. I've continued to improve as a programmer and make minor improvements to the app ever since.
+Now there are many other battery apps, several of which are also called "Battery Indicator". So I decided it was time to completely redesign the app to be more useful, more attractive, and easier to use. It seemed like a good time to rename the app to something unique.
+Coming soon:
+* Further modifications to the design
+* Updated translations
+* More configurability of the new features
+* More and better icon plugins
+* Graphs of the battery history
+* More desktop widgets
+* Configurability and resizability for desktop widgets
+I've never really shared my business philosophy; this is and always has been how I see it:
+1) Ads are annoying. For some apps, ads might make sense, but a system utility should not have ads.
+2) The free version should be simple but useful; it shouldn't feel crippled.
+3) Some people choose to purchase the Pro version because they want extra features, some because they want more customization, and many because they just want to say "thanks" for the free version.
+~ ~ ~ ~
+BatteryBot Pro monitors and shows your battery charge level (percent) as an icon in your status bar, with temperature, health, voltage, and time since plugged / unplugged in the notification area. It also has user-configurable alarms and logs.
+Features:
+ΓÇó Automatic time-remaining estimates based on recent usage
+ΓÇó Several icon sets (including fully configurable green, amber, red, and black icons)
+ΓÇó Estimated charge / discharge time left
+ΓÇó Now with a basic 1x1 circle widget
+ΓÇó Notification (with status bar icon) is now optional -- can be used as just a desktop widget
+ΓÇó Battery logging. You can log the battery state (charge, status, voltage, temperature) and browse the logs on the phone or export to CSV.
+ΓÇó Manually or automatically disable / reenable device lock screen / lockscreen / keyguard
+ΓÇó Alarms (full, charge above X, charge below X, temperature above X, or health failure)
+ΓÇó Control the notification priority on Android 4.1+ (For example, you can set to "minimum" to hide the icon but keep the notification in the tray.)
+ΓÇó Lots of configurability; most features are optional
+ΓÇó The charging indicator (the bolt under the number that indicates when the device is being charged) for the sets that have it is optional in the Pro version
+ΓÇó Very lightweight (please email me if you think otherwise, and I'll help you figure out what's wrong ΓÇö I promise this app will not drain your battery.)
+ΓÇó Shows 1% increments even on most Motorola devices (option needs to be enabled on devices that default to 10% increments)
+ΓÇó Well-tested and supported on all major versions of Android (2.1, 2.2, 2.3, 3.0, 3.1, 4.0, 4.1, 4.2; Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich / ICS, Jelly Bean) and form factors (small phones, medium phones, large phones, 7-inch tablets, 10-inch tablets).

@@ -1,0 +1,81 @@
+﻿Filename,Size,Unit
+0. Introduction/Software requirements.mp4,2.41,M
+0. Introduction/Understanding the design process.mp4,2.53,M
+0. Introduction/Using the exercise files.mp4,5.58,M
+0. Introduction/Welcome.mp4,11.24,M
+0. Introduction/What you should know before watching this course.mp4,328.75,K
+1. Planning a Low Poly Model/Analyzing concept art for key shadow details.mp4,10.31,M
+1. Planning a Low Poly Model/Analyzing concept art for texture.mp4,6.72,M
+1. Planning a Low Poly Model/Choosing between modeling and texturing.mp4,5.17,M
+1. Planning a Low Poly Model/Identifying key contours and shadows in concept art.mp4,6.07,M
+1. Planning a Low Poly Model/Identifying shadow details as generated or painted.mp4,10.03,M
+1. Planning a Low Poly Model/Understanding the limitations of normal maps.mp4,5.68,M
+10. Preparing to Export/Importing elements with detailed materials.mp4,17.65,M
+10. Preparing to Export/Importing into Unity and recognizing limitations.mp4,9.85,M
+10. Preparing to Export/Preparing for Unity as a world builder.mp4,6.4,M
+10. Preparing to Export/Renaming tools in 3ds Max.mp4,5.33,M
+10. Preparing to Export/Setting optimal texture sizes and resizing in Unity.mp4,9.09,M
+10. Preparing to Export/Setting up a naming convention and scene management.mp4,25.92,M
+11. Conclusion/What's next.mp4,13.1,M
+2. Planning the Modeling of Cities for Games/Designing the zoning- Planning the visible uses of buildings.mp4,20.49,M
+2. Planning the Modeling of Cities for Games/Laying out city blocks.mp4,5.8,M
+2. Planning the Modeling of Cities for Games/Modeling corners with ramps.mp4,19.85,M
+"2. Planning the Modeling of Cities for Games/Modeling modular curbs, gutters, and ramps.mp4",14.61,M
+2. Planning the Modeling of Cities for Games/Modeling modular street elements.mp4,12.37,M
+"2. Planning the Modeling of Cities for Games/Planning a 'wedding cake' building- Base, middle, and top.mp4",8.63,M
+2. Planning the Modeling of Cities for Games/Planning a modern building- Base and shaft.mp4,7.74,M
+2. Planning the Modeling of Cities for Games/Planning modular textures and geometry- Streets and sidewalks.mp4,13.77,M
+2. Planning the Modeling of Cities for Games/Planning the visible overlaid history in a city.mp4,9.05,M
+2. Planning the Modeling of Cities for Games/Texturing intersections.mp4,13.24,M
+2. Planning the Modeling of Cities for Games/Unwrapping sidewalk elements.mp4,16.37,M
+3. Modular Construction of an Urban Environment/Extruding edges to form major shadow lines.mp4,14.3,M
+3. Modular Construction of an Urban Environment/Laying out a texture sheet for a façade.mp4,14.32,M
+3. Modular Construction of an Urban Environment/Laying out rectangles and planning how to clone geometry and texture.mp4,14.98,M
+3. Modular Construction of an Urban Environment/Stretching the vertical elements to minimize geometry.mp4,27.92,M
+3. Modular Construction of an Urban Environment/Testing the module for correct floor-to-floor heights.mp4,3.75,M
+3. Modular Construction of an Urban Environment/Trimming down the module and cloning.mp4,11.74,M
+3. Modular Construction of an Urban Environment/Unwrapping the elements for correct proportion.mp4,36.58,M
+3. Modular Construction of an Urban Environment/Using layers to organize construction elements and actual models.mp4,8.74,M
+4. Texturing the Modular Construction/Adding detail to the diffuse texture- Sills and arches.mp4,15.11,M
+4. Texturing the Modular Construction/Adding stone accents.mp4,25.25,M
+4. Texturing the Modular Construction/Converting bump maps to normal maps using nDO.mp4,24.65,M
+4. Texturing the Modular Construction/Copying diffuse layers for normal map foundations.mp4,8.99,M
+4. Texturing the Modular Construction/Desaturating the diffuse map copies and prepping for normal maps.mp4,10.64,M
+4. Texturing the Modular Construction/Layering color in window frames and doorways.mp4,28.48,M
+4. Texturing the Modular Construction/Making brick texture.mp4,16.65,M
+"5. Creating Cornices, Parapets, and Roofs/Adding fascias and soffits for gable ends.mp4",26.59,M
+"5. Creating Cornices, Parapets, and Roofs/Adding fascias and soffits.mp4",16.3,M
+"5. Creating Cornices, Parapets, and Roofs/Analyzing the necessary silhouette and geometry.mp4",17.73,M
+"5. Creating Cornices, Parapets, and Roofs/Assigning smoothing groups for optimal shading.mp4",18.43,M
+"5. Creating Cornices, Parapets, and Roofs/Examining existing buildings in different lighting conditions.mp4",10.17,M
+"5. Creating Cornices, Parapets, and Roofs/Extruding cornice elements from polygon edges.mp4",33.84,M
+"5. Creating Cornices, Parapets, and Roofs/Modeling sloped roofs.mp4",18.94,M
+"5. Creating Cornices, Parapets, and Roofs/Planning cornice elements.mp4",11.94,M
+"5. Creating Cornices, Parapets, and Roofs/Texture sheets for roofs.mp4",28.84,M
+"5. Creating Cornices, Parapets, and Roofs/Unwrapping cornices for lighting.mp4",31.52,M
+"6. Assembling Structures/Arranging, aligning, and cloning modular elements.mp4",9.14,M
+6. Assembling Structures/Reusing elements- Exploring possibilities in modular building design.mp4,20.1,M
+6. Assembling Structures/Setting pivot points for buildings.mp4,18.79,M
+7. Creating a Texture Library in Photoshop/Creating a texture library.mp4,1.72,M
+7. Creating a Texture Library in Photoshop/Creating roads.mp4,25.86,M
+7. Creating a Texture Library in Photoshop/Creating rough brick texture.mp4,23.67,M
+7. Creating a Texture Library in Photoshop/Creating rusty corrugated metal texture.mp4,23.85,M
+7. Creating a Texture Library in Photoshop/Creating stone texture.mp4,32.58,M
+7. Creating a Texture Library in Photoshop/Creating wood texture.mp4,26.07,M
+8. Planning and Constructing Texture Sheets/Deciding when to use tiling and non-tiling textures.mp4,10.22,M
+8. Planning and Constructing Texture Sheets/Drawing detail at the right size.mp4,8.68,M
+8. Planning and Constructing Texture Sheets/Understanding tiling and non-tiling textures.mp4,10.52,M
+8. Planning and Constructing Texture Sheets/Unwrapping a building façade using overlapping texture elements.mp4,18.08,M
+8. Planning and Constructing Texture Sheets/Unwrapping objects a second time- Planning an unwrap for a light map.mp4,25.1,M
+8. Planning and Constructing Texture Sheets/Using multiple mapping coordinates.mp4,16.07,M
+8. Planning and Constructing Texture Sheets/Using multiple unwrap modifiers.mp4,37.25,M
+8. Planning and Constructing Texture Sheets/Using the Walkthrough Assistant to assess texture needs.mp4,12.09,M
+9. Ambient Occlusion and the Render to Texture Dialog/Assessing the quality of occlusion as a cinematic mood.mp4,9.93,M
+9. Ambient Occlusion and the Render to Texture Dialog/Baking lighting.mp4,17.99,M
+9. Ambient Occlusion and the Render to Texture Dialog/Baking maps using the Render To Texture dialog.mp4,10.87,M
+9. Ambient Occlusion and the Render to Texture Dialog/Overview of the Ambient Occlusion shader.mp4,14.48,M
+9. Ambient Occlusion and the Render to Texture Dialog/Using occlusion as a foundation for dirt.mp4,17.98,M
+9. Ambient Occlusion and the Render to Texture Dialog/Using occlusion from detailed models for texture.mp4,22.61,M
+9. Ambient Occlusion and the Render to Texture Dialog/understanding ambient occlusion.mp4,6.26,M
+Ex Files/Ex_Files_3dsMax_GEC.zip,502.14,M
+Ex Files/Ex_Files_3dsMax_GEC_Free.zip,481.72,K

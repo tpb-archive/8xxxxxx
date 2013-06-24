@@ -1,0 +1,34 @@
+ http://www.piczhub.com/images/903Slide1.jpg
+ 
+http://beeimg.com/images/s04591057481.png
+
+Hitman Pro 3.7.5 Build 199 Final Retail - SceneDL
+
+Hitman Pro is a Second Opinion Malware Scanner that help you find and remove new unknown threats, to locate, identify and remove malware. HitmanPro is designed to work alongside existing security programs without any conflicts. It scans the computer quickly (less than 5 minutes) and does not slow down the computer (except for the few minutes it is scanning). HitmanPro does not need to be installed. It can be run straight from a USB flash drive, a CD/DVD, local or network attached hard drive. HitmanPro uses innovative cloud computing techniques to detect and remove potential malware threats with minimal impact on system performance. HitmanPro offers you a Free Scan for a second opinion. Unknown and suspicious files are automatically identified by online identification servers. This means no software on your system. If nothing is found (and we sincerely hope so), then you will never need a license. When a virus is found, then you will receive a free 30-day license to remove the threat.
+
+SurfRight has done an extensive research of malware files to determine the common characteristics (behaviour) of malware. The HitmanPro client uses this research in its Behavioural Scan, when it scans the computer for virus activities or suspicous files that have the characteristics of malware.
+
+For the files that are classified as suspicious, the Hitman Pro client sends a request to the Scan Cloud for confirmation if these files are indeed malicious. The Scan Cloud is a cluster of multiple computers, residing on the Internet. The Scan Cloud will respond to this request with the answer: * Safe * Malicious * Unknown
+
+When the file is unknown, the Hitman Pro client uploads the file to the Scan Cloud where the file is scanned using the anti virus programs of 5 different vendors. Each of these anti virus programs analyzes the file and responds with ΓÇ£safeΓÇ¥ or ΓÇ£maliciousΓÇ¥.
+
+When the file is classified as malicious by the Scan Cloud, the Hitman Pro client is placing the infection into quarantine. Various techniques ensure that all infections are completely removed without false positives.
+
+To remove malicious software the developers have also built a special removal engine that is capable of removing the toughest threats. A native NT application is capable of removing resilient threats before Windows starts. And of course, including corresponding references like registry keys and shortcuts. All without the need of updates and signatures.
+
+What's new in this version:
+
+IMPROVED: Detection of zero-day Urausy ransomware through forensic file clustering.
+FIXED: HitmanPro stopped working when it encountered a particular forensic cluster.
+UPDATED: Embedded white lists.
+
+Homepage : http://www.surfright.nl/en/hitmanpro/
+
+Install Notes:
+
+1] Install The App
+2] Enjoy This Release!!
+
+By:
+
+SceneDL

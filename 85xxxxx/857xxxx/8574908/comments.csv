@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,Weegee010,2013-06-15T03:37Z,how did you get it?
+,rupert3k,2013-06-15T04:02Z,"Awesome, thanks!"
+,Poetique,2013-06-15T20:39Z,"Yeah I'd like to know how as well, because one of two things is going on with the torrents presently.
+
+Either this one, being a FLAC, which should be the exact representation of the disc, has had its gains screwed with and has mucked up the volume of all the tracks. (This one is rather quiet)
+
+or
+
+The other ones are the bad rips that have had their gains screwed with, and have had their volume tamped with (too loud).
+
+Neither is really a problem for those who know how to deal with such problems, but people do tend to look to FLACs for accurate representation of rips, hence the reason there's an issue if the gains have been tampered with here.
+
+Thanks for the rip nontheless though."
+[T],SmashAndGrab,2013-06-15T22:49Z,"@Poetique
+
+Either disable replay gain in your audio player, or remove the replay gain tags from the metadata.  Replay gain is what is lowering the volume.  It is an exact copy -- see log file."
+,Poetique,2013-06-16T00:08Z,"Oh, I personally understand how to be rid of the issue, but not everyone does. That's the only reason I brought it up.
+
+All that ends up happening is either people start questioning the rip (as I was sarcastically doing, which apparently I didn't do a good job of implying), kicking and screaming about volume being too low (often on forums such as some of the ones I frequent), or somebody else takes the rip, ""fixes"" the gains, and makes a new torrent of it as if it's their own work.
+
+Either situation is avoided when the gains are left untampered with. That's all I was getting at."
+[V],politux,2013-06-16T04:52Z,"Thanks for sharing, quality is perfect. 
+
+No gain issues for me. "

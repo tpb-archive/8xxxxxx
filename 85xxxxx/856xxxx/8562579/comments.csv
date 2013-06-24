@@ -1,0 +1,149 @@
+﻿User Type,Username,Date,Text
+,lizzined,2013-06-11T04:17Z,Does one need a developer account for this? Any update on this?
+,robkurzd,2013-06-11T04:32Z,I'm also curious on the dev ID required. It might let us install it but might not let us use certain features
+,ZeRoLiMi,2013-06-11T04:41Z,do you need a developer account for this? anyone?
+,monecchi,2013-06-11T04:44Z,"Is this true OS X Mavericks 10.9 Developer Preview? Does anyone have already experienced any major compatibility issues regarding apps such as Word > Microsoft Office, Photoshop > Adobe Suite and other relevant ones? I'll be seeding it as soon as my download finishes and invite other Brazilians Mac users to try it!
+
+Brasileiro baixando!"
+,lizzined,2013-06-11T04:52Z,"I'll update all of you on this soon. I'm 99% sure you need an Apple Developer account to ""validate"" this. "
+,jmazzamj,2013-06-11T05:15Z,"Hello everybody.
+
+As far as I know you don't need a developer ID to install this preview in your Mac.
+
+I suggest you to create a new partition, install this preview and try importing your apps and settings from your main partition.
+
+DO NOT overwrite this OS version on your main one, this is not a final release, hence anything can go wrong and you might lose all your data.
+
+In order to revert to your previous OS would be a pain anyway.
+
+Enjoy your preview and looking forward to this release and especially to iOS 7!!!
+
+P.S: I just moved house and I have no Internet until August 17!! **** it!!"
+,F89Traktor,2013-06-11T05:22Z,"@robkurzd:
+You may try with a Virtual Machine VMware or something else."
+,jmazzamj,2013-06-11T05:27Z,"@lizzined, I did download and installed both Lion and Mountain Lion developer previews (all of them from the first to the GM) and I was never asked to login with my ID.
+
+I hope this helps and I also hope I'll be able to try this myself as usual the soonest..."
+,joelfefa,2013-06-11T05:46Z,@lizzined OS X doesn't need to be registered to use.
+,justcy,2013-06-11T06:10Z,Previous betas never required activation.  I'll cross my fingers for this one.
+,Rechrophit,2013-06-11T06:25Z,"Using a 1st-gen (June 2012) Retina 15"" and this works okay on a new partition. Do NOT install on your current drive (meaning... update from 10.6-10.8) because like iOS 7, this is fairly difficult to work on unless you are not a power-user. I just installed iOS 7 on my iPhone 5 and half of the App Store apps (iWork, new games, Facebook, YouTube, etc.) don't open after install. Very buggy gestures, taps that don't register, crashing from apps... don't waste your time with that. I'd wait another three months for a September release. I can confirm that unlike iOS 7, the Mavericks DP1 does not need a developer account as you don't ""register"" for verified activation like you would on an iOS device.
+
+A brief first-look at this:
+
+First of all, thanks to User_01 for a legitimate upload. As this is a beta, there ARE indeed compatibility issues (Office does not work at all, Adobe software is sluggish and slow and sometimes, there are little graphical glitches occurring across the screen, as all expected from a beta). I highly suggest that you refrain from using this as your main operating system unless you ABSOLUTELY must need the iBooks and Maps functionality. Otherwise, a quarter of the functionalities don't work properly... it's just for developing Mac Apps and messing with system files. Unless you need either of these options, stick with whatever you currently have (Snow Leopard to Mountain Lion). Not worth it, in my opinion.
+
+Best wishes to everyone!"
+,rigpig1,2013-06-11T07:09Z,Thanks for the heads up Rechrophit!
+,eureka9,2013-06-11T07:18Z,"I installed this, but there is no iBooks. Anyone else has this problem?"
+,eureka9,2013-06-11T07:26Z,there is no iBooks in this DP
+,warrenmc,2013-06-11T08:12Z,"So, like a million people leeching and none sharing.
+
+Come on, hook a brotha up!"
+,bomflash,2013-06-11T08:46Z,that because people stop right after download to install new os x ;)
+,Rechrophit,2013-06-11T08:50Z,"@eureka9 - Yep. I forgot to mention, but there is no sight of iBooks in either the release notes for DP1 or within the operating system. It'll probably end up in DP2, where a lot of visual changes and updates are expected. Also, several of the iCloud syncing features don't seem to activate.
+
+@rigpig1 - My pleasure. Anytime!
+
+Green felt is still there in GC. Reminders looks the same. Notes is simplified and Contacts looks watered-down. Also, the new sidebar dock is aluminum-based. Still no sight of Siri, but there IS offline dictation (doesn't work yet), which is adaptive and actively writes out your speech."
+,sepzed,2013-06-11T09:01Z,"Hi, So I installed this, fast download, here's my problems, iBooks is not installed, cause it's a DP, but also Maps doesn't open at all, anyone experience that? it just crashes there, and I own a 15"" MBP 2010 . Also start time is a tad slower! I do not recommend this download, it really doesn't have anything! "
+,docuco,2013-06-11T13:19Z,"There's a reason so many things are broken/not working...  The build released to developers today was 13a476u, while this build is a earlier, modified 13a476s."
+,biginers,2013-06-11T13:33Z,"I installed this on my main Macintosh HD like upgrade  of 10.8. and it works fine. No problems of Apple Maps. iCloud, iWorks, iLife stuff, Adobe CS6 works well. Problems with Lr 4 and FinalCut 10.0.5 . Safari is way way faster but can't say this for overall. Some process are faster some not."
+,jimmyc1991,2013-06-11T16:11Z,"Thanks a lot for the upload, User_01 :)
+
+Clean installed this on a new partition. Works well using iMac 9,1 '09 Model with 8GB RAM.
+
+A few of the stock apps have been tweaked to look similar to the new iOS counterparts. 
+
+Safari 7 is pretty awesome, and it seems to load pages exceptionally fast, even compared to Safari 6.  
+
+The Maps app functions well, but I can't see myself ever using them productively.
+
+iBooks will no doubt appear in the next DP, which will land within weeks most likely.
+
+I look forward to DP2, I'm liking the new features that are coming (that aren't just pure eye candy).
+
+Hope you guys enjoy it when you get around to testing!"
+,mak1702,2013-06-11T18:10Z,Can I install this in a hackintosh with chameleon or chimera bootloader????
+,mak1702,2013-06-11T18:16Z,Can I install this on my hackintosh using chameleon or chimera bootloader?????
+,m0ww0w,2013-06-11T19:58Z,Too bad the other comment was removed about the truth of this torrents source. I wouldn't trust this upload either. I've been infected from shite coming from inmac before. Good luck to the suckers that downloaded this. 
+,JesusJason01,2013-06-12T05:49Z,This works fine for me :) iMac mid 2010 8gb RAM 3.2 Ghz 512 mb ATI Radeon 5670 Graphics card
+,JesusJason01,2013-06-12T05:53Z,This works fine for me :) iMac mid 2010 8GB RAM 3.2 Ghz 512mb ATI Radeon Graphics Card.
+,clone04,2013-06-12T08:26Z,.
+[T],User_01,2013-06-12T09:01Z,"m0ww0w I think you are the one that probably sucked to much from your mom's tits, or still are...
+
+You have the entire right to trust or not, someone or something, and i do respect that right, but before you post a comment that doubts my torrents safeness, please provide some proof to back it up.
+
+""Is this another spammy copy? I don't trust the other torrent from user_01 after reading it comes from a bad place with malware.""
+
+I didn't upload a single torrent that i didn't think it was ""safe"" for others to download. You can check this out for yourself, and if you find otherwise, i'll request to all be removed.
+
+It's not a secret where this ""torrent"" originated from. It's even in the logo. Is that what it's bothering you? It was put there for a reason! They were the first to release a legitimate copy of the 10.9 DP1.
+
+(Now if you don't like the torrent or don't want/trust it, don't download it. Simple. But don't post comments, just for the sake of it, with nothing to back what are you taling about.)"
+,justcy,2013-06-12T13:07Z,"Smooth as BUTTER on my early 2013 Macbook Pro Retina with no major issues surfacing.
+
+If you use Skype, though, I highly suggest downgrading to 6.3 or 6.0, otherwise it will crash."
+,Gamrpro,2013-06-12T14:11Z,"Thank you user_01. I will seed for a long time because it seems so many people are downloading and not seeding. This deserves to be seeded. So, those of you who finish download, seed so that others can enjoy this beautiful software. :)"
+,ChBukow,2013-06-12T15:51Z,@Rechrophit: Thanks! That's *exactly* the kind of feedback one hopes to find on a torrent like this :)
+,tt1tt,2013-06-12T18:05Z,"can someone tell me how can i use it with Vmware ?
+Because its DMG file :(
+
+i have a mountain lion * * *
+
+Thank you "
+,beehole,2013-06-13T03:39Z,i would like to know how to install this via vmware as well.  thanks
+,gathwal92,2013-06-13T07:51Z,"So should I do a clean install with this or update it and keep it as my everyday OS (I've kept betas as everyday OS's before, just wanting to know how smooth this is!)? Also once I install it, will it automatically update through the App Store? 
+
+Thanks!"
+[T],pitufo180,2013-06-13T11:24Z,gracias ¡¡¡¡
+,crants36,2013-06-13T19:18Z,tst
+,crants36,2013-06-13T19:20Z,"To install in Vmware Fusion do this: on site pastebin, 4kG5ChsP. Works great for me except Maps won't show any content!"
+,javierwan,2013-06-14T04:06Z,"being a developer preview means it's gonna crush a lot? I have a loooot of music on my internal Hard Drive, and I DJ with this MacBook very often... It will be then a good idea upgrade my operating system?
+
+Sorry for my english :P"
+,l0ol1,2013-06-14T11:08Z,thankx User_01 BTW i would be using it on my hackintosh will it work...
+,tomash27,2013-06-14T11:13Z,"so, can I overwrite or not from 10.8.?"
+,postal7,2013-06-14T11:58Z,"Thanks for this, but I wouldn't recommend installing as it's really buggy!
+
+Already said in the first comments, but here is what i'm going through:
+
+I've been running into many crashes on safari and other apps; if you are using Skype you need to downgrade otherwise it will not work. Many apps that I downloaded from the App Store do not work either. 
+
+Safari is almost unresponsive at times and it's VERY annoying
+
+if you are going to install you should do a complete back up into time machine or something so you could go back to 10.8 (if thats even possible)
+
+iBooks is also not in this preview"
+,jkerry,2013-06-14T14:41Z,"Cons:
+No ibooks, Crashes on Skype
+Viber does not work at all. few glitches with Office 2011 and Photoshop cs6 although works.
+
+Pros:
+Battery usage is improved. Safari is faster than ever. 
+Impressed with independent multiple screens.
+
+This beta version is responsive and good to use but find it somewhere else having ibooks and download."
+,JimmySmith,2013-06-14T18:21Z,"I downloaded en installed OS X Mavericks successfully. I was very happy until...
+
+When I put my headphone or earphones in my audio jack, the right side doesn't work anymore.
+
+Somebody experiences this problem as well?
+
+I'm quite sure this happened because of the software update. If you have solution I would love to hear it."
+,teksaid,2013-06-14T19:01Z,"Can someone who has the full download please get on and seed for a few minutes? I have two pieces left. I'm stuck a 99.7%...
+
+Thanks!"
+,mohitrocks,2013-06-14T20:36Z,Is there any way to get the iWork beta on this build? Thanks.
+,mukulmehta13,2013-06-15T04:48Z,just one quick question. Can this be installed without a developer account ?
+,Pirate-GURU,2013-06-15T06:02Z,"Safari loads very fast but flash player doesn't work on safari. 
+
+Maps works on 2013 retina but crashes on mid 2010 MBP. 
+
+iStat menu's crashes. 
+"
+,legenwaitforitdanny,2013-06-15T11:22Z,Seed please? I'm stuck on 19%. Uploading at 200KB/s Downloading at 0.003KB/s Is this just me? Could someone seed
+,jamiethemorris,2013-06-17T02:27Z,"Working fine for me on a 2011 Macbook Pro i7. To those of you asking if you should upgrade your existing install to it, I wouldn't recommend it... Just install it on a separate partition or hard drive to test it out.
+
+That being said, it's surprisingly stable for a DP1. I swapped my hard drive in my MBP to test this out and I've been using it at school. The only problem I've had is that Finder crashes when you try to drag a tab onto another window. And of course things like Little Snitch don't work.
+
+Also, I had trouble enabling access for assistive devices in system prefs... It's under security and privacy now, don't know why they did that."

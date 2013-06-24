@@ -1,0 +1,103 @@
+This is my own rip.  There is a small logo for 15 seconds every 30 minutes.
+
+General
+Unique ID                        : 198494311940123268173981313098729411133 (0x95549D2992AAEB8DB536C6AD9048523D)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 8.17 GiB
+Duration                         : 2h 32mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 7 666 Kbps
+Encoded date                     : UTC 2013-06-14 11:45:31
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 32mn
+Bit rate mode                    : Variable
+Bit rate                         : 7 129 Kbps
+Maximum bit rate                 : 42.4 Mbps
+Width                            : 1 908 pixels
+Height                           : 792 pixels
+Display aspect ratio             : 2.40:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.197
+Stream size                      : 7.60 GiB (93%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 2h 32mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 419 MiB (5%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:Credits
+00:02:57.886                     : en:Balloon Basket Cases
+00:06:34.875                     : en:Not Far Enough Up
+00:09:39.412                     : en:Loudest Engine
+00:12:08.061                     : en:Highly Off Track
+00:14:37.251                     : en:Fate's Challenge
+00:17:19.288                     : en:Bombs Away...Not
+00:19:55.820                     : en:Push the Button, Max
+00:22:15.626                     : en:Emancipated Maggie
+00:26:15.282                     : en:Ups and Downs
+00:29:09.081                     : en:Champagne and Swordplay
+00:34:03.583                     : en:Maggie at Fate's Gates
+00:38:44.614                     : en:New Entrant
+00:41:49.465                     : en:Too Much Sabotage
+00:47:35.644                     : en:Frisbee Gets the Bird
+00:49:23.419                     : en:Hitchers and Indians
+00:53:43.409                     : en:Guests of Honor
+00:56:43.108                     : en:He Shouldn't-a, Hadn't-a, Oughtn't-a Swang on Me
+01:01:51.188                     : en:Texas Jack
+01:07:36.719                     : en:The Gas and the Girl
+01:13:07.758                     : en:Women's Wiles
+01:18:12.521                     : en:Double-Parked
+01:21:45.901                     : en:Close Quarters
+01:24:41.660                     : en:Rise and Swim
+01:26:32.479                     : en:Four on a Floe
+01:31:20.433                     : en:Kidnapped
+01:35:11.895                     : en:No Beads for the Russians
+01:39:00.540                     : en:Potzdorf
+01:42:34.337                     : en:Familiar Face
+01:46:31.135                     : en:Prince Hapnik
+01:49:28.584                     : en:Tucking in the Prince
+01:53:44.067                     : en:Fate's New Role
+01:58:21.052                     : en:Escaped With a Chicken?
+02:02:18.122                     : en:Invading the Castle
+02:07:50.830                     : en:Leslie vs. the Baron
+02:12:12.007                     : en:The Jig Is Up
+02:15:44.553                     : en:Pies Everywhere
+02:20:40.432                     : en:Emancipated Pair
+02:24:17.170                     : en:Paris
+02:27:57.057                     : en:The Winner
+02:30:32.754                     : en:Tumbling Down
+02:32:02.947                     : en:Cast List

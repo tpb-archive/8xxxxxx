@@ -1,0 +1,110 @@
+Sinopse e detalhes
+
+Kansas City, 2044. Viagens no tempo são uma realidade, mas estão apenas disponíveis no mercado negro. Seu principal cliente é a máfia, que costuma enviar ao passado pessoas que deseja que sejam eliminadas, já que é bastante complicado se livrar dos corpos no futuro. Os responsáveis por estes assassinatos são os loopers, organização a qual Joe (Joseph Gordon-Levitt) faz parte. Um dia, ao realizar mais um serviço corriqueiro, ele descobre que seu alvo é a versão mais velha de si mesmo (Bruce Willis), trazida em viagem no tempo por ter se tornado uma séria ameaça à máfia no futuro.
+
+Format : Matroska
+Format version : Version 2
+File size : 433 MiB
+Duration : 1h 58mn
+Overall bit rate : 509 Kbps
+Encoded date : UTC 2013-06-04 14:53:55
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 58mn
+Bit rate : 307 Kbps
+Width : 720 pixels
+Height : 304 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.058
+Stream size : 261 MiB (60%)
+Title : Looper ( by fantasma )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 58mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 163 MiB (38%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : por
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:05:00.000 : en:Chapter 02
+00:09:59.500 : en:Chapter 03
+00:14:59.500 : en:Chapter 04
+00:19:59.000 : en:Chapter 05
+00:24:58.500 : en:Chapter 06
+00:29:58.500 : en:Chapter 07
+00:34:58.000 : en:Chapter 08
+00:39:58.000 : en:Chapter 09
+00:44:57.500 : en:Chapter 10
+00:49:57.000 : en:Chapter 11
+00:54:57.000 : en:Chapter 12
+00:59:56.500 : en:Chapter 13
+01:04:56.500 : en:Chapter 14
+01:09:56.000 : en:Chapter 15
+01:14:55.500 : en:Chapter 16
+01:19:55.500 : en:Chapter 17
+01:24:55.000 : en:Chapter 18
+01:29:55.000 : en:Chapter 19
+01:34:54.500 : en:Chapter 20
+01:39:54.000 : en:Chapter 21
+01:44:54.000 : en:Chapter 22
+01:49:53.500 : en:Chapter 23
+01:54:53.500 : en:Chapter 24

@@ -1,0 +1,186 @@
+﻿Filename,Size,Unit
+20. Efficiency Checks/20.02. PROCEDURE ANALYSE function.flv,21.95,M
+00. Introduction/00.01. Welcome.flv,10.3,M
+00. Introduction/00.02. What the Course Will Cover.flv,8.53,M
+00. Introduction/00.03. System Requirements.flv,6.14,M
+00. Introduction/00.04. Brief Review of Part 1.flv,3.99,M
+01. Configuration/01.01. Startup Options.flv,15.77,M
+01. Configuration/01.02. Configuration File.flv,12.14,M
+01. Configuration/01.03. Important Configuration Options.flv,11.78,M
+02. Manipulating Data/02.01. Data Manipulation Basics.flv,4.88,M
+02. Manipulating Data/02.02. Warnings and Errors.flv,12.94,M
+02. Manipulating Data/02.03. SQL Modes.flv,10.99,M
+02. Manipulating Data/02.04. Changing Syntax Interpretation.flv,8.99,M
+02. Manipulating Data/02.05. Elevating Warnings to Errors.flv,11.27,M
+02. Manipulating Data/02.06. Interpreting Error Messages.flv,9.56,M
+02. Manipulating Data/02.07. Note Warnings.flv,6.25,M
+02. Manipulating Data/02.08. System Error Warnings.flv,8.25,M
+03. Inserting Data/03.01. Inserting Data.flv,9.71,M
+03. Inserting Data/03.02. Inserting Data (Archaic Syntax).flv,6.12,M
+03. Inserting Data/03.03. INSERT demonstration.flv,14.29,M
+03. Inserting Data/03.04. Default Values on Insert.flv,8.9,M
+03. Inserting Data/03.05. AUTO_INCREMENT on insert.flv,8.82,M
+03. Inserting Data/03.06. AUTO_INCREMENT issues.flv,13.48,M
+03. Inserting Data/03.07. LAST_INSERT_ID function.flv,12.02,M
+03. Inserting Data/03.08. Common INSERT Errors.flv,9.54,M
+04. Deleting Data/04.01. Deleting data.flv,9.14,M
+04. Deleting Data/04.02. DELETE with WHERE.flv,10.21,M
+04. Deleting Data/04.03. DELETE with LIMIT.flv,13.59,M
+04. Deleting Data/04.04. DELETE with  ORDER BY.flv,9.74,M
+04. Deleting Data/04.05. DELETE result messages.flv,3.99,M
+05. Updating Data/05.01. Updating Data.flv,12.24,M
+05. Updating Data/05.02. UPDATE with WHERE.flv,8.71,M
+05. Updating Data/05.03. UPDATE with LIMIT.flv,11.49,M
+05. Updating Data/05.03. UPDATE with ORDERY BY.flv,6.08,M
+05. Updating Data/05.04. UPDATE result messages.flv,7.59,M
+06. Other MySQL DML Commands/06.01. Replacing Command.flv,7.92,M
+06. Other MySQL DML Commands/06.02. REPLACE demonstration.flv,9.63,M
+06. Other MySQL DML Commands/06.03. ON DUPLICATE KEY UPDATE Option of INSERT.flv,9.02,M
+06. Other MySQL DML Commands/06.04. ON DUPLICATE KEY UPDATE demonstration.flv,8.68,M
+06. Other MySQL DML Commands/06.05. TRUNCATE TABLE Command.flv,6.06,M
+06. Other MySQL DML Commands/06.06. TRUNCATE TABLE Demonstration.flv,11.48,M
+06. Other MySQL DML Commands/06.07. Safe Updates Mode.flv,13.59,M
+07. Importing Data/07.01. Importing Data.flv,11.37,M
+07. Importing Data/07.02. Basic Import Demonstrations.flv,11.34,M
+07. Importing Data/07.03. Importing Non-Tab Formats.flv,13.47,M
+07. Importing Data/07.04. Skipping Header Lines on Import.flv,5.92,M
+07. Importing Data/07.05. Changing Import Column Order.flv,11.95,M
+07. Importing Data/07.06. Converting Data On Import pt.1.flv,8.44,M
+07. Importing Data/07.07. Converting Data On Import pt.2.flv,7.62,M
+07. Importing Data/07.08. Importing on the Shell Command Line.flv,19.41,M
+08. Deriving New Tables/08.01. New Tables From Existing Tables.flv,11.28,M
+08. Deriving New Tables/08.02. CREATE TABLE Using SELECT.flv,11.89,M
+08. Deriving New Tables/08.03. Including Other Features.flv,12.72,M
+08. Deriving New Tables/08.04. CREATE TABLE Using LIKE.flv,6.83,M
+08. Deriving New Tables/08.05. Populating Derived Tables.flv,4.4,M
+08. Deriving New Tables/08.06. Temporary Tables.flv,12.43,M
+08. Deriving New Tables/08.07. Altering Derived Tables.flv,7.8,M
+09. Multi-Table Queries/09.01. Addressing Multiple Tables.flv,13.41,M
+09. Multi-Table Queries/09.02. Column Name Conflicts.flv,5.11,M
+09. Multi-Table Queries/09.03. Resolving Column Name Conflicts.flv,6.37,M
+09. Multi-Table Queries/09.04. Table Name Conflicts.flv,7.36,M
+09. Multi-Table Queries/09.05. Resolving Table Name Conflicts.flv,10.2,M
+10. Subqueries/10.01. Subquery Basics.flv,10.45,M
+10. Subqueries/10.02. Shape of The Result.flv,12.41,M
+10. Subqueries/10.03. Guaranteeing a Single Row Result.flv,9.03,M
+10. Subqueries/10.04. Scalar Subqueries.flv,5.58,M
+10. Subqueries/10.05. Table Subqueries.flv,7.24,M
+10. Subqueries/10.06. Columnar Subqueries.flv,7.11,M
+10. Subqueries/10.07. Row Subqueries.flv,4.22,M
+10. Subqueries/10.08. EXISTS Subqueries pt.1.flv,3.37,M
+10. Subqueries/10.09. EXISTS Subqueries pt.2.flv,4.92,M
+10. Subqueries/10.10. Correlated vs Non-Correlated Subqueries.flv,7.09,M
+10. Subqueries/10.11. Nesting Multiple Levels.flv,5.04,M
+10. Subqueries/10.12. Building Queries In Layers.flv,6.22,M
+10. Subqueries/10.13. Addressing The Same Table Twice.flv,2.21,M
+10. Subqueries/10.14. When to Use Subqueries.flv,6.98,M
+11. Joins/11.01. The FROM Clause.flv,6.41,M
+11. Joins/11.02. Join Basics pt.1.flv,13.02,M
+11. Joins/11.03. Join Basics pt.2.flv,10.55,M
+11. Joins/11.04. Inner Join Syntax.flv,11.24,M
+11. Joins/11.05. Basic Inner Join Demos.flv,9.94,M
+11. Joins/11.06. Inner Join Aggregation.flv,9.46,M
+11. Joins/11.07. The ON Clause.flv,7.86,M
+11. Joins/11.08. The USING() function.flv,8.24,M
+11. Joins/11.09. Natural Joins.flv,6.72,M
+11. Joins/11.10. Outer Joins.flv,7.37,M
+14. Transactions and Locking/14.12. Row Locking Demos.flv,16.48,M
+11. Joins/11.11. Join Criteria Options.flv,6.94,M
+11. Joins/11.12. Multiple Table Joins.flv,10.2,M
+11. Joins/11.13. Self Joins.flv,9.73,M
+11. Joins/11.14. Problems Joins Cannot Solve.flv,5.68,M
+12. Views/12.01. What a View Is.flv,7.75,M
+12. Views/12.02. Uses of Views.flv,8.38,M
+12. Views/12.03. Basic Syntax of a View.flv,8.87,M
+12. Views/12.04. View Column Names.flv,9.37,M
+12. Views/12.05. Updatabale Views.flv,7.91,M
+12. Views/12.06. Insertable Views.flv,7.4,M
+12. Views/12.07. View Consistency.flv,4.52,M
+12. Views/12.08. View Viability.flv,5.2,M
+12. Views/12.09. Altering or Dropping Views.flv,6.83,M
+12. Views/12.10. View Metadata.flv,13.27,M
+13. Multiple Table DML Operations/13.01. Multiple Table INSERT.flv,11.23,M
+13. Multiple Table DML Operations/13.02. Multiple Table UPDATE.flv,9.27,M
+13. Multiple Table DML Operations/13.03. Multiple Table DELETE.flv,9.9,M
+13. Multiple Table DML Operations/13.04. Advantages and Limitations to Multi-Table UPDATEs and DELETEs.flv,12.42,M
+14. Transactions and Locking/14.01. Transaction Basics.flv,11.62,M
+14. Transactions and Locking/14.02. Transactions in MySQL.flv,8.15,M
+14. Transactions and Locking/14.03. AUTOCOMMIT Mode.flv,11.45,M
+14. Transactions and Locking/14.04. Transaction Commands.flv,10.97,M
+14. Transactions and Locking/14.05. Savepoints.flv,9.77,M
+14. Transactions and Locking/14.06. Isolation.flv,10.55,M
+14. Transactions and Locking/14.07. Isolation Levels.flv,12.94,M
+14. Transactions and Locking/14.08. Transaction Demos.flv,10.79,M
+14. Transactions and Locking/14.09. Locking.flv,11.29,M
+14. Transactions and Locking/14.10. Locking in MySQL.flv,12.7,M
+14. Transactions and Locking/14.11. Explicit Row Locking with InnoDB.flv,11.91,M
+14. Transactions and Locking/14.13. Explicit Table Locking.flv,15.74,M
+14. Transactions and Locking/14.14. Table Locking Demos.flv,10.8,M
+14. Transactions and Locking/14.15. Deadlock Resolution.flv,8.74,M
+14. Transactions and Locking/14.16. Implicit Commits.flv,10.35,M
+15. Stored Routine Basics/15.01. Procedures and Functions.flv,9.12,M
+15. Stored Routine Basics/15.02. Why Use Stored Routines.flv,12.57,M
+15. Stored Routine Basics/15.03. Basic CREATE FUNCTION syntax.flv,8.82,M
+15. Stored Routine Basics/15.04. Invoking a Function.flv,6.61,M
+15. Stored Routine Basics/15.05. Basic CREATE PROCEDURE syntax.flv,5.42,M
+15. Stored Routine Basics/15.06. Invoking a Procedure.flv,5.87,M
+15. Stored Routine Basics/15.07. Database Association.flv,7.43,M
+15. Stored Routine Basics/15.08. Stored Routine Metadata.flv,13.52,M
+15. Stored Routine Basics/15.09. Where They Are Stored.flv,11.21,M
+15. Stored Routine Basics/15.10. Dropping Stored Routines.flv,7,M
+16. Stored Routing Programming/16.01. Compound Statements.flv,11.22,M
+16. Stored Routing Programming/16.02. Compound statements Demos.flv,7.44,M
+16. Stored Routing Programming/16.03. Procedure Parameter Types.flv,10.28,M
+16. Stored Routing Programming/16.04. IN Parameters.flv,9.13,M
+16. Stored Routing Programming/16.05. INOUT Parameters.flv,5.71,M
+16. Stored Routing Programming/16.06. OUT Parameters.flv,6.76,M
+16. Stored Routing Programming/16.07. Declaring Local variables.flv,7.44,M
+16. Stored Routing Programming/16.08. Assigning Values to Variables.flv,8.28,M
+16. Stored Routing Programming/16.09. Variable scope.flv,11,M
+16. Stored Routing Programming/16.10. Conditional Blocks.flv,11.16,M
+16. Stored Routing Programming/16.11. IF Block Demos.flv,10.94,M
+16. Stored Routing Programming/16.12. CASE Block Demos.flv,12.82,M
+16. Stored Routing Programming/16.13. Iterative Blocks.flv,10.12,M
+16. Stored Routing Programming/16.14. LOOP Block Demos.flv,9.06,M
+16. Stored Routing Programming/16.15. REPEAT Block Demos.flv,13.04,M
+16. Stored Routing Programming/16.16. While Block Demos.flv,5.58,M
+16. Stored Routing Programming/16.17. The LEAVE statement.flv,11.49,M
+16. Stored Routing Programming/16.18. The ITERATE Statement.flv,14.08,M
+16. Stored Routing Programming/16.19. More We Can DECLARE.flv,13.24,M
+16. Stored Routing Programming/16.20. Declaring Conditions.flv,3.78,M
+16. Stored Routing Programming/16.21. Declaring Error Handlers.flv,10.57,M
+16. Stored Routing Programming/16.22. Declaring Cursors.flv,14.78,M
+16. Stored Routing Programming/16.23. Limitations on Cursors.flv,15.14,M
+17. Triggers/17.01. Trigger Basics.flv,9.3,M
+17. Triggers/17.02. Uses for Triggers.flv,9.99,M
+17. Triggers/17.03. Trigger Syntax.flv,10.35,M
+17. Triggers/17.04. Trigger Examples.flv,10.81,M
+17. Triggers/17.05. Exploring Triggers.flv,10.78,M
+17. Triggers/17.06. Tigger Metadata.flv,13.14,M
+17. Triggers/17.07. Dropping Triggers.flv,13.47,M
+17. Triggers/17.08. User Accounts for Triggers.flv,7.32,M
+17. Triggers/17.09. Trigger Limitations.flv,13.93,M
+18. Events/18.01. Event Basics.flv,11.83,M
+18. Events/18.02. Event Execution.flv,11.57,M
+18. Events/18.03. Event Syntax.flv,11.1,M
+18. Events/18.04. Schedule Types.flv,10.87,M
+18. Events/18.05. User Accounts for Events.flv,10.65,M
+18. Events/18.06. Event Metadata.flv,13.26,M
+18. Events/18.07. Event Limitations.flv,8.82,M
+19. Indexes/19.01. Index Basics.flv,10.95,M
+19. Indexes/19.02. Defining Indexes for a Table.flv,9.3,M
+19. Indexes/19.04. Dropping Indexes from a Table.flv,3.89,M
+19. Indexes/19.05. Compound Indexes.flv,5.49,M
+19. Indexes/19.06. Prefix Length Indexes.flv,5.62,M
+19. Indexes/19.07. Covering Indexes.flv,4.9,M
+19. Indexes/19.08. FULLTEXT Indexes pt.1.flv,13.08,M
+19. Indexes/19.09. FULLTEXT Indexes pt.2.flv,8.12,M
+20. Efficiency Checks/20.01. Efficiency Checks.flv,7.46,M
+20. Efficiency Checks/20.03. EXPLAIN command pt.1.flv,9.17,M
+20. Efficiency Checks/20.04. EXPLAIN command pt.2.flv,6.85,M
+20. Efficiency Checks/20.05. EXPLAIN command pt.3.flv,7.63,M
+21. Conclusion/21.01. What We Covered.flv,7.24,M
+21. Conclusion/21.02. Where To Go From Here.flv,5.25,M
+22. Credits/22.01. About This Author.flv,10.38,M
+mysql5dev2.zip,26.74,K
+VTC - MySQL 5 Development - Part 2.nfo,7.18,K

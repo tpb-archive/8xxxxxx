@@ -1,0 +1,73 @@
+Unsettled by a dream about Franky, Erica attempts to avoid her, however, they are 
+
+thrown together when Franky becomes the poster girl for prison reform
+
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 278 MiB
+Duration                                 : 45mn 13s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 860 Kbps
+Encoded date                             : UTC 2013-05-30 08:25:45
+Tagged date                              : UTC 2013-05-30 08:42:58
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 45mn 13s
+Bit rate mode                            : Variable
+Bit rate                                 : 696 Kbps
+Width                                    : 720 pixels
+Height                                   : 586 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.066
+Stream size                              : 225 MiB (81%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-05-30 08:25:45
+Tagged date                              : UTC 2013-05-30 08:42:58
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 45mn 13s
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 191 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 51.8 MiB (19%)
+Encoded date                             : UTC 2013-05-30 08:25:45
+Tagged date                              : UTC 2013-05-30 08:42:57
+
+
+
+Ripped From Foxtel channel 115  Pay TV channel Australia
+
+
+ADD FRREE

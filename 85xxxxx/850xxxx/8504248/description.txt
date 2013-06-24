@@ -1,0 +1,15 @@
+FxExtractor Expert Adviser.
+
+FxExtractor is a sophisticated Metatrader 4 Expert Adviser (EA) for trading the foreign exchange market.
+
+Robustly coded to be unaffected by most network and brokers server errors.
+
+Positions are fully recovered in the event of a computer or program crash.
+
+Generates an average minimum return of 3% per month, typically 6% to 10%.
+
+Relatively low risk, depending on the risk settings in use.
+
+Uses an economic calendar to restrict trading around news release times and to trade news releases if the deviation is sufficiently different to the forecast deviation.
+
+Multiple chart trading, even if limited to trading one symbol at a time.

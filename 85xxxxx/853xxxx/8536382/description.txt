@@ -1,0 +1,141 @@
+War of the Worlds *2005* [1080p.DTS-HD.MA 5.1.AC3.BluRay.x264-LEON 345]
+=======================================================================
+
+
+Najnowsza ekranizacja klasycznej powieści H.G. Wellsa zostanie przeniesiona z końca XIX wieku w czasy współczesne. „Wojna Światów" to książka, która zmieniła oblicze literatury fantastycznej i do dziś uważana jest za jedną z najważniejszych w historii światowej literatury. Utwór opisuje walkę Ziemian z przybyszami z Marsa, którzy chcą sobie podporządkować naszą planetę. Trzydzieści lat po premierze książki Orson Welles przygotował radiową inscenizację powieści, która wzbudziła panikę w USA, ponieważ wiele osób uwierzyło, że słuchają rzeczywistych relacji opisujących najpierw lądowanie Marsjan, a później walkę z nimi.
+
+
+
+ General
+ Unique ID                      : 244859645166336530096359669799618110996 (0xB8364095687F40C48EE7B92F9F6C6614)
+ Complete name                  : F:FilmyFilmy 3DSzablonWstawkaWAR_OF_THE_WORLDS_2005(Leon 345)WAR_OF_THE_WORLDS_2005(Leon 345).mkv
+ Format                         : Matroska
+ Format version                 : Version 2
+ File size                      : 13.9 GiB
+ Duration                       : 1h 56mn
+ Overall bit rate mode          : Variable
+ Overall bit rate               : 17.1 Mbps
+ Encoded date                   : UTC 2013-05-31 18:39:04
+ Writing application            : mkvmerge v5.7.0 ('The Whirlwind') built on Jul  8 2012 20:08:51
+ Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+ Video
+ ID                             : 1
+ Format                         : AVC
+ Format/Info                    : Advanced Video Codec
+ Format profile                 : High@L4.1
+ Format settings, CABAC         : Yes
+ Format settings, ReFrames      : 2 frames
+ Codec ID                       : V_MPEG4/ISO/AVC
+ Duration                       : 1h 56mn
+ Bit rate mode                  : Variable
+ Nominal bit rate               : 11.7 Mbps
+ Maximum bit rate               : 35.0 Mbps
+ Width                          : 1 920 pixels
+ Height                         : 1 080 pixels
+ Display aspect ratio           : 16:9 (1.85:1)
+ Frame rate mode                : Constant
+ Frame rate                     : 23.976 fps
+ Color space                    : YUV
+ Chroma subsampling             : 4:2:0
+ Bit depth                      : 8 bits
+ Scan type                      : Progressive
+ Bits/(Pixel*Frame)             : 0.235
+ Title                          : Rip  by Leon 345 encoding  2 pass
+ Writing library                : x264 core 132 r2309 3b1f1f7
+ Default                        : Yes
+ Forced                         : No
+
+ Audio #1
+ ID                             : 2
+ Format                         : AC-3
+ Format/Info                    : Audio Coding 3
+ Mode extension                 : CM (complete main)
+ Format settings, Endianness    : Big
+ Codec ID                       : A_AC3
+ Duration                       : 1h 56mn
+ Bit rate mode                  : Constant
+ Bit rate                       : 640 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 16 bits
+ Compression mode               : Lossy
+ Stream size                    : 534 MiB (4%)
+ Title                          : AC3  5.1 Lektor  PL
+ Language                       : Polish
+ Default                        : Yes
+ Forced                         : Yes
+
+ Audio #2
+ ID                             : 3
+ Format                         : AC-3
+ Format/Info                    : Audio Coding 3
+ Mode extension                 : CM (complete main)
+ Format settings, Endianness    : Big
+ Codec ID                       : A_AC3
+ Duration                       : 1h 56mn
+ Bit rate mode                  : Constant
+ Bit rate                       : 640 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 16 bits
+ Compression mode               : Lossy
+ Stream size                    : 534 MiB (4%)
+ Title                          : AC3 5.1  Orginal
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Audio #3
+ ID                             : 4
+ Format                         : DTS
+ Format/Info                    : Digital Theater Systems
+ Format profile                 : MA / Core
+ Mode                           : 16
+ Format settings, Endianness    : Big
+ Codec ID                       : A_DTS
+ Duration                       : 1h 56mn
+ Bit rate mode                  : Variable
+ Bit rate                       : 4083 / 1 509 Kbps
+ Channel(s)                     : 6 channels
+ Channel positions              : Front: L C R, Side: L R, LFE
+ Sampling rate                  : 48.0 KHz
+ Bit depth                      : 24 bits
+ Compression mode               : Lossless / Lossy
+ Title                          : DTS-HD MA 5.1  Orginal
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Text #1
+ ID                             : 5
+ Format                         : UTF-8
+ Codec ID                       : S_TEXT/UTF8
+ Codec ID/Info                  : UTF-8 Plain Text
+ Language                       : Polish
+ Default                        : No
+ Forced                         : No
+
+ Text #2
+ ID                             : 6
+ Format                         : PGS
+ Muxing mode                    : zlib
+ Codec ID                       : S_HDMV/PGS
+ Codec ID/Info                  : The same subtitle format used on BDs/HD-DVDs
+ Language                       : English
+ Default                        : No
+ Forced                         : No
+
+ Text #3
+ ID                             : 7
+ Format                         : UTF-8
+ Codec ID                       : S_TEXT/UTF8
+ Codec ID/Info                  : UTF-8 Plain Text
+ Default                        : Yes
+ Forced                         : Yes
+
+ Source [thx]:
+ A/V-War of the worlds 2005 BluRay 1080p AVC DTS-HD MA5.1-Softfeng@CHDBits
+ Polski Lektor - HDBT

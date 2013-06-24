@@ -1,0 +1,32 @@
+WinRAR is a powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files downloaded from Internet and create new archives in RAR and ZIP file format.
+
+Using WinRAR puts you ahead of the crowd when it comes to compression by consistently making smaller archives than the competition, saving disk space and transmission costs.
+WinRAR provides complete support for RAR and ZIP archives and is able to unpack CAB, ARJ, LZH, TAR, GZ, ACE, UUE, BZ2, JAR, ISO, 7Z, Z archives.
+WinRAR offers a graphic interactive interface utilizing mouse and menus as well as the command line interface.
+When you purchase WinRAR license you are buying a license to the complete technology, no need to purchase add-ons to create self-extracting files, it's all included.
+WinRAR is easier to use than many other archivers with the inclusion of a special "Wizard" mode which allows instant access to the basic archiving functions through a simple question and answer procedure. This avoids confusion in the early stages of use.
+WinRAR offers you the benefit of industry strength archive encryption using AES (Advanced Encryption Standard) with a key of 128 bits.
+WinRAR supports files and archives up to 8,589 billion gigabytes in size. The number of archived files is, for all practical purposes, unlimited.
+WinRAR offers the ability to create selfextracting and multivolume archives.
+Recovery record and recovery volumes allow to reconstruct even physically damaged archives.
+WinRAR features are constantly being developed to keep WinRAR ahead of the pack.
+
+WinRAR - What's new in the latest version
+
+
+   Version 5.00 beta 5
+   
+   1. Previous beta failed to decompress RAR archives contained
+      both encrypted and unencrypted files. Archives containing only
+      encrypted or only unencrypted files were unpacked correctly.
+
+   2. By default, RAR 5.0 log files produced with -ilog switch use
+      UTF-16 little endian encoding. Now it can be changed with -sc&lt;charset&gt;g
+      switch, such as -scag for ANSI encoding.
+
+
+
+Release date: 03.06.2013.
+
+Homepage: 
+http://www.rarlab.com/

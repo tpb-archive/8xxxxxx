@@ -1,0 +1,29 @@
+General and User Interface
+Opera 15 is a major reinvention for Opera. Going forward, the browser's source code will be based on Chromium and Blink, a fork of the WebKit rendering engine.
+Everything for this browser is new:
+New rendering engine based on WebKit
+New user interface
+New capabilities
+New features
+Improved site compatibility
+Silent auto updates
+As Opera has recreated its desktop browser, the Next builds will introduce features selectively and iteratively.
+New features
+
+Combined address and search bar
+Opera 15 combines the address and search bar, allowing for multiple predictive results that can be filtered by search engine. This bar includes options for adding current pages to Opera's Speed Dial or Stash, and expandable page information.
+Enhanced Speed Dial
+Opera 15 allows you to combine Speed Dial entries into groups, and introduces a search function that filters through entries.
+Stash
+Opera 15 introduces Stash - a feature that records the location, meta data, and a screenshot of a page. It places this information into a collapsable list entry on the browser's Start Page, that can be searched by keyword and/or scanned visually by screenshot.
+Discover
+A recommender service is included with Opera 15. Discover displays news and topical content that can be filtered by category or location/language.
+Off-Road mode
+Opera 15 adopts the server-side compression technology used by Opera Mobile
+
+
+Release date: 2013-05-28
+
+Homepage:
+ 
+http://www.opera.com/developer/next

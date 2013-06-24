@@ -1,0 +1,36 @@
+This utility enables users of Windows XP, Windows Vista, and Windows 7 to mount ISO disk image files as virtual CD-ROM drives
+
+4/23/2013
+Version: 2.0.1.1
+The Virtual CD-ROM Control Panel utility enables users of Windows XP, Vista, and 7 to mount ISO disk image files as virtual CD-ROM drives. This can be highly useful for reading disk images to install software or recover backup files. Notes: This tool is not supported by Microsoft; use at your own risk. Windows 8 users do NOT need this tool. Windows 8 natively supports ISO files. In Windows 8, you can simply open an ISO file and Windows automatically assigns it a drive letter and reads it as a virtual drive. 
+
+
+Supported Operating System
+
+Windows 7, Windows Server 2003, Windows Server 2008, Windows Server 2008 R2, Windows Vista, Windows XP
+
+    Windows XP, Windows Vista, or Windows 7; Windows Server 2003, Windows Server 2008, or Windows Server 2008 R2 
+
+This is a self-extracting Zip archive. Download the file and execute it. Click Unzip and select any appropriate folder to extract the contents. Before using this tool, read the readme.txt file and follow its instructions for installation and use. 
+
+Here are the directions on how to install, these come with exe file
+Readme for Virtual CD-ROM Control Panel v2.0.1.1
+
+System Requirements
+===================
+- Windows XP Home or Windows XP Professional
+
+Installation instructions
+=========================
+1. Copy VCdRom.sys to your %systemroot%system32drivers folder. 
+2. Execute VCdControlTool.exe
+3. Click "Driver control"
+4. If the "Install Driver" button is available, click it. Navigate to the %systemroot%system32drivers folder, select VCdRom.sys, and click Open.
+5. Click "Start"
+6. Click OK
+7. Click "Add Drive" to add a drive to the drive list. Ensure that the drive added is not a local drive. If it is, continue to click "Add Drive" until an unused drive letter is available.
+8. Select an unused drive letter from the drive list and click "Mount".
+9. Navigate to the image file, select it, and click "OK". UNC naming conventions should not be used, however mapped network drives should be OK.
+
+You may now use the drive letter as if it were a local CD-ROM device. When you are finished you may unmount, stop, and remove the driver from memory using the driver control.
+ This worked well on Windows 7 Pro/ I used Winrar to open the Zip file, you use what you like.

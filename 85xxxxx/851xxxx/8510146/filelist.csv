@@ -1,0 +1,135 @@
+﻿Filename,Size,Unit
+NAVIGON/map/USA/Terrain_NA_USA.nfs,400.75,M
+NAVIGON/map/USA/Phoneme_NA.nfs,378.47,M
+NAVIGON/map/USA/Texas.map,105.18,M
+NAVIGON/map/USA/California.map,104.04,M
+NAVIGON/map/USA/Florida.map,66.48,M
+NAVIGON/map/USA/Alaska.map,59.49,M
+NAVIGON/map/USA/North Carolina.map,47.91,M
+NAVIGON/map/USA/Ontario.map,47.89,M
+NAVIGON/map/USA/Pennsylvania.map,46.79,M
+NAVIGON/map/USA/New York.map,46.41,M
+NAVIGON/map/USA/Georgia.map,46.07,M
+NAVIGON/map/USA/NavigonRealityView_NA.nfs,42.43,M
+NAVIGON/map/USA/Illinois.map,42.08,M
+NAVIGON/map/USA/Michigan.map,40.84,M
+NAVIGON/map/USA/Ohio.map,38.87,M
+NAVIGON/map/USA/Oregon.map,38.35,M
+NAVIGON/map/USA/Missouri.map,37.98,M
+NAVIGON/map/USA/Minnesota.map,37.04,M
+NAVIGON/map/USA/Virginia.map,37.01,M
+NAVIGON/map/USA/Quebec.map,36.46,M
+NAVIGON/map/USA/TMC.nfs,35.87,M
+NAVIGON/map/USA/Washington.map,35.86,M
+NAVIGON/map/USA/Wisconsin.map,33.04,M
+NAVIGON/map/USA/Tennessee.map,32.56,M
+NAVIGON/map/USA/Colorado.map,31.18,M
+NAVIGON/map/USA/Arizona.map,29.93,M
+NAVIGON/map/USA/Landmarks_NA.nfs,28.75,M
+NAVIGON/map/USA/Alabama.map,28.56,M
+NAVIGON/map/USA/Kentucky.map,28.22,M
+NAVIGON/map/USA/Indiana.map,27.65,M
+NAVIGON/map/USA/Arkansas.map,27.39,M
+NAVIGON/map/USA/Louisiana.map,27.25,M
+NAVIGON/map/USA/Oklahoma.map,27.03,M
+NAVIGON/map/USA/South Carolina.map,26.41,M
+NAVIGON/map/USA/Montana.map,23.65,M
+NAVIGON/map/USA/Kansas.map,23.47,M
+NAVIGON/map/USA/British Columbia.map,23.2,M
+NAVIGON/map/USA/New Mexico.map,23.16,M
+NAVIGON/map/USA/Mississippi.map,22.19,M
+NAVIGON/map/USA/Alberta.map,21.94,M
+NAVIGON/map/USA/Iowa.map,21.15,M
+NAVIGON/map/USA/Idaho.map,18.93,M
+NAVIGON/map/USA/New Jersey.map,18.36,M
+NAVIGON/map/USA/Nunavut.map,18.3,M
+NAVIGON/map/USA/Nebraska.map,17.77,M
+NAVIGON/map/USA/Utah.map,17.74,M
+NAVIGON/map/USA/Massachusetts.map,17.57,M
+NAVIGON/map/USA/Maryland.map,16.25,M
+NAVIGON/map/USA/North Dakota.map,15.66,M
+NAVIGON/map/USA/Nevada.map,15.31,M
+NAVIGON/map/USA/Maine.map,14.09,M
+NAVIGON/map/USA/West Virginia.map,13.99,M
+NAVIGON/map/USA/Wyoming.map,13.98,M
+NAVIGON/map/USA/South Dakota.map,13.79,M
+NAVIGON/map/USA/Saskatchewan.map,13.02,M
+NAVIGON/map/USA/sat_NA.nfs,11.51,M
+NAVIGON/map/USA/Connecticut.map,9.37,M
+NAVIGON/map/USA/Nova Scotia.map,8.43,M
+NAVIGON/map/USA/Manitoba.map,8.39,M
+NAVIGON/map/USA/Puerto Rico.map,8.36,M
+NAVIGON/map/USA/Northwest Territories.map,8.1,M
+NAVIGON/map/USA/Hawaii.map,7.86,M
+NAVIGON/map/USA/New Brunswick.map,7.66,M
+NAVIGON/map/USA/New Hampshire.map,7.47,M
+NAVIGON/map/USA/Newfoundland and Labrador.map,6.2,M
+NAVIGON/map/USA/Vermont.map,6.06,M
+NAVIGON/poi/USA/USA_NY_ZAGAT.pom,5.94,M
+NAVIGON/poi/USA/USA_CA_ZAGAT.pom,4.59,M
+NAVIGON/map/USA/Delaware.map,3.8,M
+NAVIGON/map/USA/Rhode Island.map,3.32,M
+NAVIGON/map/USA/Yukon Territory.map,3.12,M
+NAVIGON/map/USA/MapDrawer.nfs,2.46,M
+NAVIGON/poi/USA/USA_FL_ZAGAT.pom,1.56,M
+NAVIGON/poi/USA/USA_TX_ZAGAT.pom,1.45,M
+NAVIGON/map/USA/Prince Edward Island.map,1.37,M
+NAVIGON/poi/USA/USA_IL_ZAGAT.pom,1.37,M
+NAVIGON/poi/USA/USA_MA_ZAGAT.pom,1.32,M
+NAVIGON/map/USA/District of Columbia.map,1.16,M
+NAVIGON/poi/USA/USA_PA_ZAGAT.pom,1008.51,K
+NAVIGON/poi/USA/USA_GA_ZAGAT.pom,880.67,K
+NAVIGON/poi/USA/USA_NJ_ZAGAT.pom,821.79,K
+NAVIGON/map/USA/U.S. Virgin Islands.map,760.41,K
+NAVIGON/poi/USA/USA_WA_ZAGAT.pom,674.37,K
+NAVIGON/poi/USA/USA_NV_ZAGAT.pom,667.78,K
+NAVIGON/poi/USA/USA_DC_ZAGAT.pom,651.75,K
+NAVIGON/poi/USA/USA_HI_ZAGAT.pom,644.05,K
+NAVIGON/poi/USA/USA_MD_ZAGAT.pom,624.67,K
+NAVIGON/poi/USA/USA_CT_ZAGAT.pom,555.84,K
+NAVIGON/poi/USA/USA_LA_ZAGAT.pom,538.72,K
+NAVIGON/poi/USA/USA_VA_ZAGAT.pom,529.32,K
+NAVIGON/map/USA/PoiCats.nfs,424.13,K
+NAVIGON/poi/USA/USA_AZ_ZAGAT.pom,361.66,K
+NAVIGON/poi/USA/CAN_BC_ZAGAT.pom,322.15,K
+NAVIGON/poi/USA/USA_CO_ZAGAT.pom,289.3,K
+NAVIGON/poi/USA/USA_OH_ZAGAT.pom,285.92,K
+NAVIGON/poi/USA/CAN_ON_ZAGAT.pom,276.74,K
+NAVIGON/map/USA/CountryProfiles.nfs,252.68,K
+NAVIGON/poi/USA/CAN_QC_ZAGAT.pom,219.03,K
+NAVIGON/poi/USA/USA_MO_ZAGAT.pom,214.43,K
+NAVIGON/poi/USA/USA_NC_ZAGAT.pom,172.88,K
+NAVIGON/poi/USA/USA_MI_ZAGAT.pom,170.24,K
+NAVIGON/poi/USA/USA_MN_ZAGAT.pom,157.73,K
+NAVIGON/poi/USA/USA_WI_ZAGAT.pom,146.55,K
+NAVIGON/map/USA/Brunnels.nfs,123.02,K
+NAVIGON/poi/USA/USA_SC_ZAGAT.pom,112.39,K
+NAVIGON/poi/USA/USA_OR_ZAGAT.pom,108.5,K
+NAVIGON/poi/USA/CAN_AB_ZAGAT.pom,96.41,K
+NAVIGON/poi/USA/USA_UT_ZAGAT.pom,96.38,K
+NAVIGON/poi/USA/USA_DE_ZAGAT.pom,87.07,K
+NAVIGON/poi/USA/USA_TN_ZAGAT.pom,85.95,K
+NAVIGON/poi/USA/USA_KY_ZAGAT.pom,79,K
+NAVIGON/poi/USA/USA_IN_ZAGAT.pom,77.52,K
+NAVIGON/poi/USA/USA_KS_ZAGAT.pom,74.18,K
+NAVIGON/poi/USA/USA_AL_ZAGAT.pom,67.98,K
+NAVIGON/poi/USA/USA_NM_ZAGAT.pom,67.9,K
+NAVIGON/poi/USA/USA_VT_ZAGAT.pom,60.56,K
+NAVIGON/poi/USA/USA_RI_ZAGAT.pom,58.66,K
+NAVIGON/poi/USA/USA_ME_ZAGAT.pom,58.47,K
+NAVIGON/poi/USA/USA_OK_ZAGAT.pom,57.83,K
+NAVIGON/poi/USA/USA_IA_ZAGAT.pom,54.8,K
+NAVIGON/poi/USA/USA_NE_ZAGAT.pom,53.5,K
+NAVIGON/poi/USA/USA_ID_ZAGAT.pom,53.03,K
+NAVIGON/poi/USA/USA_NH_ZAGAT.pom,52.19,K
+NAVIGON/poi/USA/USA_MT_ZAGAT.pom,50.3,K
+NAVIGON/poi/USA/USA_AR_ZAGAT.pom,50,K
+NAVIGON/poi/USA/USA_MS_ZAGAT.pom,48.91,K
+NAVIGON/poi/USA/USA_WY_ZAGAT.pom,47.83,K
+NAVIGON/poi/USA/USA_WV_ZAGAT.pom,47.42,K
+NAVIGON/poi/USA/USA_SD_ZAGAT.pom,46.29,K
+NAVIGON/poi/USA/USA_ND_ZAGAT.pom,43.94,K
+NAVIGON/poi/USA/CAN_NB_ZAGAT.pom,41.24,K
+NAVIGON/poi/USA/CAN_NS_ZAGAT.pom,41.18,K
+NAVIGON/poi/USA/Zagat.nfs,32.67,K
+readme.txt,284,B

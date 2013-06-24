@@ -1,0 +1,34 @@
+TrainSignal - PowerShell v3 Essentials
+ 
+http://www.trainsignal.com/course/209/powershell-v3-essentials
+
+PowerShell v3 Essentials is designed for the IT Pro with little to no previous PowerShell experience. The goal of the course is to provide enough training in PowerShell fundamentals, language and syntax so that you can be productive and effective in a very short time. The course has many live demonstrations of PowerShell in action from using WMI to query remote machines for management information, running long running tasks as background jobs, creating pipelined expressions and creating simple PowerShell scripts and functions.
+
+
+Lessons
+Lesson 1: Introduction and Welcome 00:09:44
+Lesson 2: The PowerShell Paradigm 00:26:53
+Lesson 3: Requirements and Installations 00:15:10
+Lesson 4: Using PowerShell Help 00:35:51
+Lesson 5: The PowerShell ISE 00:18:42
+Lesson 6: PowerShell Providers 00:35:07
+Lesson 7: Extending PowerShell 00:18:57
+Lesson 8: Understanding the PowerShell Pipeline 01:00:33
+Lesson 9: PowerShell Operators 00:39:32
+Lesson 10: Arrays and Hash Tables 00:43:25
+Lesson 11: Core PowerShell Cmdlets 00:52:20
+Lesson 12: Working with Objects 00:47:05
+Lesson 13: PowerShell Formatting 00:25:46
+Lesson 14: PowerShell Serialization 00:33:12
+Lesson 15: PowerShell and Regular Expressions 00:39:43
+Lesson 16: PowerShell Background Jobs 00:28:36
+Lesson 17: PowerShell Scheduled Jobs 00:24:34
+Lesson 18: PowerShell Remoting 00:48:55
+Lesson 19: PowerShell and WMI 01:07:35
+Lesson 20: PowerShell and CIM 00:46:57
+Lesson 21: PowerShell Web Cmdlets 00:28:18
+Lesson 22: PowerShell Scripting Basics 00:47:12
+Lesson 23: PowerShell Scripts and Functions 00:38:16
+Lesson 24: PowerShell Script Error Handling and Debugging 00:51:48
+Lesson 25: PowerShell Practicum 00:38:35
+Lesson 26: WhatΓÇÖs Next? 00:15:04

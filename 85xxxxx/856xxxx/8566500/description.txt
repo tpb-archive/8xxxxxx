@@ -1,0 +1,203 @@
+Sinopse e detalhes
+
+Quando o Dr. Cyrus Zorba (F. Murray Abraham) morre, ele deixa para seu sobrinho Arthur (Tony Shalhoub) uma mansão abandonada, para a qual Arthur resolve se mudar, juntamente com sua família. Porém, o que Arthur e sua família não sabem é que o Dr. Zorba construiu a mansão com a finalidade de aprisionar treze fantasmas e, por ter falecido antes de concluir seu intento, a mansão agora é assombrada por doze fantasmas de pessoas que tiveram mortes trágicas e que não podem deixar seus respectivos aposentos. Os fantasmas apenas podem ser vistos com a utilização de um óculos especial e logo eles passarão a atacar Arthur e sua família.
+
+Format : Matroska
+Format version : Version 2
+File size : 678 MiB
+Duration : 1h 30mn
+Overall bit rate : 1 045 Kbps
+Encoded date : UTC 2013-06-11 21:11:47
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 30mn
+Bit rate : 576 Kbps
+Width : 704 pixels
+Height : 384 pixels
+Display aspect ratio : 1.85:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.089
+Stream size : 374 MiB (55%)
+Title : 13 Fantasmas ( Zagor Lukas )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 30mn
+Bit rate mode : Constant
+Bit rate : 448 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 291 MiB (43%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : eng
+Language : English
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : spa
+Language : Spanish
+Default : No
+Forced : No
+
+Text #3
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : por
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #4
+ID : 6
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : chi
+Language : Chinese
+Default : No
+Forced : No
+
+Text #5
+ID : 7
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : chi
+Language : Chinese
+Default : No
+Forced : No
+
+Text #6
+ID : 8
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : kor
+Language : Korean
+Default : No
+Forced : No
+
+Text #7
+ID : 9
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : kor
+Language : Korean
+Default : No
+Forced : No
+
+Text #8
+ID : 10
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : tha
+Language : Thai
+Default : No
+Forced : No
+
+Text #9
+ID : 11
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : tha
+Language : Thai
+Default : No
+Forced : No
+
+Text #10
+ID : 12
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:12:25.834 : en:Chapter 02
+00:14:22.334 : en:Chapter 03
+00:15:25.101 : en:Chapter 04
+00:19:46.401 : en:Chapter 05
+00:27:20.901 : en:Chapter 06
+00:28:35.835 : en:Chapter 07
+00:34:30.069 : en:Chapter 08
+00:36:18.503 : en:Chapter 09
+00:38:54.837 : en:Chapter 10
+00:40:15.204 : en:Chapter 11
+00:42:44.471 : en:Chapter 12
+00:45:41.272 : en:Chapter 13
+00:47:58.305 : en:Chapter 14
+00:50:25.072 : en:Chapter 15
+00:51:33.773 : en:Chapter 16
+00:52:29.806 : en:Chapter 17
+00:54:13.707 : en:Chapter 18
+00:56:11.575 : en:Chapter 19
+00:58:38.975 : en:Chapter 20
+01:00:51.375 : en:Chapter 21
+01:01:52.809 : en:Chapter 22
+01:04:27.710 : en:Chapter 23
+01:13:49.111 : en:Chapter 24
+01:16:48.545 : en:Chapter 25
+01:17:45.912 : en:Chapter 26
+01:18:13.246 : en:Chapter 27
+01:22:21.114 : en:Chapter 28

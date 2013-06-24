@@ -1,0 +1,5 @@
+Developer's guide of the java library JFreeChart.
+
+JFreeChart is a free chart library for the Java(tm) platform. It is designed for use in applications, applets, servlets and JSP. JFreeChart is distributed with complete source code subject to the terms of the GNU Lesser General Public Licence, which permits JFreeChart to be used in proprietary or free software applications (see Appendix D for details).
+
+JFreeChart is written entirely in Java, and should run on any implementation of the Java 2 platform (JDK 1.3.1 or later). It will also work quite well with free runtimes based on GNU Classpath 0.92 or later.

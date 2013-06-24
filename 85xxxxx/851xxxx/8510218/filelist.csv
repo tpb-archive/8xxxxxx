@@ -1,0 +1,1133 @@
+﻿Filename,Size,Unit
+Game/setup.exe,923.35,K
+Game/setup-1.bin,1.02,G
+Game/setup-2.bin,72.84,M
+SteamResources/depotcache/220661_1784726593979616509.manifest,587.49,K
+SteamResources/depotcache/220661_2440663702450680549.manifest,583.88,K
+SteamResources/depotcache/220661_4585103647780909565.manifest,587.49,K
+SteamResources/steam/games/a8e1c5e63ac62050009cd5c507a4395cc676dfee.ico,361.4,K
+SteamResources/steamapps/appmanifest_220660.acf,805,B
+Update 1.11B/Content/3DParticles/ParticleEffect.xnb,1.74,K
+Update 1.11B/Content/Advice/English/Advice.xml,3.02,K
+Update 1.11B/Content/Advice/German/Advice.XML,3.13,K
+Update 1.11B/Content/Advice/Russian/Advice.xml,4.9,K
+Update 1.11B/Content/Advice/Advice_DE.XML,3.13,K
+Update 1.11B/Content/Audio/ShipGameProject.xgs,697,B
+Update 1.11B/Content/Audio/Sound Bank.xsb,13.33,K
+Update 1.11B/Content/Audio/Wave Bank.xwb,196.33,M
+Update 1.11B/Content/Buildings/Biospheres.xml,944,B
+Update 1.11B/Content/DiplomacyDialogs/English/Cordrazine.xml,33.99,K
+Update 1.11B/Content/DiplomacyDialogs/English/Draylok.xml,33.58,K
+Update 1.11B/Content/DiplomacyDialogs/English/Human.xml,36.11,K
+Update 1.11B/Content/DiplomacyDialogs/English/Kulrathi.xml,36.08,K
+Update 1.11B/Content/DiplomacyDialogs/English/Opteris.xml,28.15,K
+Update 1.11B/Content/DiplomacyDialogs/English/Pollops.xml,32.69,K
+Update 1.11B/Content/DiplomacyDialogs/English/Ralyeh.xml,33.76,K
+Update 1.11B/Content/DiplomacyDialogs/English/SharedDiplomacy.xml,1.97,K
+Update 1.11B/Content/DiplomacyDialogs/English/Vulfen.xml,28.21,K
+Update 1.11B/Content/DiplomacyDialogs/German/Cordrazine.xml,37.14,K
+Update 1.11B/Content/DiplomacyDialogs/German/Draylok.xml,36.63,K
+Update 1.11B/Content/DiplomacyDialogs/German/Human.xml,39.27,K
+Update 1.11B/Content/DiplomacyDialogs/German/Kulrathi.xml,39.27,K
+Update 1.11B/Content/DiplomacyDialogs/German/Opteris.xml,30.04,K
+Update 1.11B/Content/DiplomacyDialogs/German/Pollops.xml,35.6,K
+Update 1.11B/Content/DiplomacyDialogs/German/Ralyeh.xml,36.29,K
+Update 1.11B/Content/DiplomacyDialogs/German/SharedDiplomacy.xml,2.05,K
+Update 1.11B/Content/DiplomacyDialogs/German/Vulfen.xml,29.89,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Cordrazine.xml,49.48,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Draylok.xml,49.98,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Human.xml,55.14,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Kulrathi.xml,52.23,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Opteris.xml,40.64,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Pollops.xml,45.71,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Ralyeh.xml,47.41,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/SharedDiplomacy.xml,2.32,K
+Update 1.11B/Content/DiplomacyDialogs/Russian/Vulfen.xml,35.83,K
+Update 1.11B/Content/Effects/AdditiveBlend.xnb,426,B
+Update 1.11B/Content/Effects/BasicFogOfWar.xnb,444,B
+Update 1.11B/Content/Effects/BeamFX.xnb,1.04,K
+Update 1.11B/Content/Effects/BloomCombine.xnb,594,B
+Update 1.11B/Content/Effects/BloomExtract.xnb,514,B
+Update 1.11B/Content/Effects/Clouds.xnb,624,B
+Update 1.11B/Content/Effects/desaturate.xnb,406,B
+Update 1.11B/Content/Effects/DiffuseColor.xnb,770,B
+Update 1.11B/Content/Effects/Effect1.xnb,516,B
+Update 1.11B/Content/Effects/GaussianBlur.xnb,614,B
+Update 1.11B/Content/Effects/GaussianFilter.xnb,2.18,K
+Update 1.11B/Content/Effects/LinearFilter.xnb,564,B
+Update 1.11B/Content/Effects/normalmap.xnb,574,B
+Update 1.11B/Content/Effects/PlanetHalo.xnb,892,B
+Update 1.11B/Content/Effects/PlanetShader.xnb,1.66,K
+Update 1.11B/Content/Effects/refraction.xnb,504,B
+Update 1.11B/Content/Effects/scale.xnb,1.13,K
+Update 1.11B/Content/Effects/SunLayerCombine.xnb,664,B
+Update 1.11B/Content/Effects/SunLayerCube.xnb,728,B
+Update 1.11B/Content/Effects/Thrust.xnb,1.09,K
+Update 1.11B/Content/example/design_rig.xnb,1.19,K
+Update 1.11B/Content/example/light_rig.xnb,1.19,K
+Update 1.11B/Content/example/MM_light_rig.xnb,1.18,K
+Update 1.11B/Content/example/NewGamelight_rig.xnb,1.2,K
+Update 1.11B/Content/example/scene_environment.xnb,864,B
+Update 1.11B/Content/example/ShipyardLightrig.xnb,1.21,K
+Update 1.11B/Content/Fonts/Arial8Bold.xnb,8.51,K
+Update 1.11B/Content/Fonts/Arial10.xnb,8.51,K
+Update 1.11B/Content/Fonts/Arial12.xnb,9.66,K
+Update 1.11B/Content/Fonts/Arial12Bold.xnb,15,K
+Update 1.11B/Content/Fonts/Arial14Bold.xnb,19.65,K
+Update 1.11B/Content/Fonts/Arial20Bold.xnb,25.21,K
+Update 1.11B/Content/Fonts/Consolas18.xnb,24.58,K
+Update 1.11B/Content/Fonts/Laserian14.xnb,9.82,K
+Update 1.11B/Content/Fonts/Pirulen12.xnb,12.27,K
+Update 1.11B/Content/Fonts/Pirulen16.xnb,15.28,K
+Update 1.11B/Content/Fonts/Pirulen20.xnb,25.69,K
+Update 1.11B/Content/Fonts/Tahoma10.xnb,9.22,K
+Update 1.11B/Content/Fonts/Tahoma11.xnb,10.27,K
+Update 1.11B/Content/Fonts/Verdana12Bold.xnb,10.29,K
+Update 1.11B/Content/Fonts/Verdana14Bold.xnb,12.57,K
+Update 1.11B/Content/Fonts/Visitor10.xnb,13.73,K
+Update 1.11B/Content/Fonts/Visitor12.xnb,16.93,K
+Update 1.11B/Content/HelpTopics/English/HelpTopics_English.xml,41.45,K
+Update 1.11B/Content/HelpTopics/German/HelpTopics_English_DE.XML,49.12,K
+Update 1.11B/Content/HelpTopics/Russian/HelpTopics_Russian.xml,76.09,K
+Update 1.11B/Content/Localization/English/GameText_EN.xml,237.02,K
+Update 1.11B/Content/Localization/German/GameText_DE.xml,253.34,K
+Update 1.11B/Content/Localization/Russian/GameText_RU.xml,340.72,K
+Update 1.11B/Content/Mod Models/Model/Ships/Terran/Hornet/hornet.xnb,24.99,K
+Update 1.11B/Content/Mod Models/Model/Ships/Terran/Hornet/HORNET_0.xnb,42.79,K
+Update 1.11B/Content/Mod Models/Model/Ships/Terran/Hornet/hornet_t.xnb,256.08,K
+Update 1.11B/Content/Model/Asteroids/asteroid1.xnb,6.74,K
+Update 1.11B/Content/Model/Asteroids/asteroid2.xnb,6.68,K
+Update 1.11B/Content/Model/Asteroids/asteroid3.xnb,6.79,K
+Update 1.11B/Content/Model/Asteroids/asteroid4.xnb,3.86,K
+Update 1.11B/Content/Model/Asteroids/asteroid5.xnb,3.91,K
+Update 1.11B/Content/Model/Asteroids/asteroid6.xnb,3.88,K
+Update 1.11B/Content/Model/Asteroids/asteroid7.xnb,2.56,K
+Update 1.11B/Content/Model/Asteroids/asteroid8.xnb,2.49,K
+Update 1.11B/Content/Model/Asteroids/asteroid9.xnb,2.59,K
+Update 1.11B/Content/Model/Projectiles/missile.xnb,3.9,K
+Update 1.11B/Content/Model/Projectiles/spacemine.xnb,5.1,K
+Update 1.11B/Content/Model/Projectiles/torpedo.xnb,4.54,K
+Update 1.11B/Content/Model/Ships/CargoShips/CargoHaulerLong.xnb,59.84,K
+Update 1.11B/Content/Model/Ships/CargoShips/CargoHaulerMed.xnb,47.63,K
+Update 1.11B/Content/Model/Ships/CargoShips/CargoHaulerShort.xnb,33.79,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16a.xnb,6.39,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16b.xnb,19.24,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16c.xnb,19.2,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16d.xnb,23.13,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16e.xnb,17.63,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16f.xnb,20.13,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16g.xnb,8.57,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16h.xnb,12.12,K
+Update 1.11B/Content/Model/Ships/Cordrazine/ship16i.xnb,15.34,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18a.xnb,18.78,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18b.xnb,53.45,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18c.xnb,61.86,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18d.xnb,52.32,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18e.xnb,74.09,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18f.xnb,113.73,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18g.xnb,52.88,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18h.xnb,55.76,K
+Update 1.11B/Content/Model/Ships/Draylok/ship18i.xnb,71.99,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11a.xnb,18.76,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11b.xnb,25.1,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11c.xnb,21.51,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11d.xnb,28.9,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11e.xnb,25.69,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship11f.xnb,28.06,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship12a.xnb,47.16,K
+Update 1.11B/Content/Model/Ships/Kulrathi/ship12d.xnb,54.02,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19a.xnb,23.44,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19b.xnb,54.63,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19c.xnb,54.46,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19d.xnb,139.88,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19e.xnb,176.23,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19f.xnb,185.49,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19g.xnb,33.41,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19h.xnb,40.55,K
+Update 1.11B/Content/Model/Ships/Opteris/ship19i.xnb,46.71,K
+Update 1.11B/Content/Model/Ships/Platforms/platform_base.xnb,22.61,K
+Update 1.11B/Content/Model/Ships/Platforms/platform_gun.xnb,6.8,K
+Update 1.11B/Content/Model/Ships/Platforms/spacemine.xnb,4.37,K
+Update 1.11B/Content/Model/Ships/Pollops/CorpseFlower.xnb,86.25,K
+Update 1.11B/Content/Model/Ships/Pollops/Entangler.xnb,98.21,K
+Update 1.11B/Content/Model/Ships/Pollops/Fern.xnb,51.62,K
+Update 1.11B/Content/Model/Ships/Pollops/ship15d.xnb,62.69,K
+Update 1.11B/Content/Model/Ships/Pollops/ship15g.xnb,56.15,K
+Update 1.11B/Content/Model/Ships/Pollops/ship15h.xnb,80.3,K
+Update 1.11B/Content/Model/Ships/Pollops/ship15i.xnb,117.74,K
+Update 1.11B/Content/Model/Ships/Pollops/Thicket.xnb,39.88,K
+Update 1.11B/Content/Model/Ships/Pollops/Thorn.xnb,42.14,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17a.xnb,127.79,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17b.xnb,559.94,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17c.xnb,625.86,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17d.xnb,246.92,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17e.xnb,256.29,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17f.xnb,243.24,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17g.xnb,33.8,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17h.xnb,40.82,K
+Update 1.11B/Content/Model/Ships/Ralyeh/ship17i.xnb,48.36,K
+Update 1.11B/Content/Model/Ships/Remnant/SharedTextures/ship09a.xnb,29.51,K
+Update 1.11B/Content/Model/Ships/Remnant/SharedTextures/ship09b.xnb,34.85,K
+Update 1.11B/Content/Model/Ships/Remnant/SharedTextures/ship09c.xnb,38.22,K
+Update 1.11B/Content/Model/Ships/Remnant/SharedTextures/ship09d.xnb,39.86,K
+Update 1.11B/Content/Model/Ships/Remnant/SharedTextures/ship09e.xnb,41.8,K
+Update 1.11B/Content/Model/Ships/Remnant/XenoCruiser/ship09e.xnb,42.07,K
+Update 1.11B/Content/Model/Ships/Remnant/XenoFighterGreen/ship09a.xnb,29.54,K
+Update 1.11B/Content/Model/Ships/Remnant/XenoGunboatGreen/ship09b.xnb,35.18,K
+Update 1.11B/Content/Model/Ships/Remnant/ship09e.xnb,42.16,K
+Update 1.11B/Content/Model/Ships/Speeder/ship07.xnb,32.13,K
+Update 1.11B/Content/Model/Ships/Terran/Battleship/Battleship.xnb,56.28,K
+Update 1.11B/Content/Model/Ships/Terran/Caravan/Caravan.xnb,27.5,K
+Update 1.11B/Content/Model/Ships/Terran/CruiserCarrier/CruiserCarrier.xnb,52.42,K
+Update 1.11B/Content/Model/Ships/Terran/Emissary/EmissaryCruiser.xnb,1.29,M
+Update 1.11B/Content/Model/Ships/Terran/Gunboat/Gunboat.xnb,35.03,K
+Update 1.11B/Content/Model/Ships/Terran/HeavyGunboat/ship10b.xnb,40.37,K
+Update 1.11B/Content/Model/Ships/Terran/Hunter/Fighter1.xnb,19.91,K
+Update 1.11B/Content/Model/Ships/Terran/LightCarrierRed/LightCarrier.xnb,47.58,K
+Update 1.11B/Content/Model/Ships/Terran/Shuttle/ship08.xnb,14.36,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeI.xnb,13.44,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeIII.xnb,15.78,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeV.xnb,22,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeVII.xnb,49.62,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeX.xnb,50.86,K
+Update 1.11B/Content/Model/Ships/Vulfen/TypeXIII.xnb,54.23,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk1.xnb,1.4,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk2.xnb,1.38,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk3.xnb,2.14,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk4.xnb,3.6,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk5.xnb,2.67,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk6.xnb,5.34,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk7.xnb,6.27,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk8.xnb,4.7,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk9.xnb,2.65,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk10.xnb,6.87,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk11.xnb,8.18,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk12.xnb,7.6,K
+Update 1.11B/Content/Model/SpaceJunk/spacejunk13.xnb,10.85,K
+Update 1.11B/Content/Model/SpaceObjects/earthmap1k_0.xnb,212.16,K
+Update 1.11B/Content/Model/SpaceObjects/earthnormal_0.xnb,239.02,K
+Update 1.11B/Content/Model/SpaceObjects/earthspec1k_0.xnb,39.77,K
+Update 1.11B/Content/Model/SpaceObjects/planet_1.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_2.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_3.xnb,89.63,K
+Update 1.11B/Content/Model/SpaceObjects/planet_4.xnb,89.65,K
+Update 1.11B/Content/Model/SpaceObjects/planet_5.xnb,89.63,K
+Update 1.11B/Content/Model/SpaceObjects/planet_6.xnb,89.61,K
+Update 1.11B/Content/Model/SpaceObjects/planet_7.xnb,89.62,K
+Update 1.11B/Content/Model/SpaceObjects/planet_8.xnb,89.63,K
+Update 1.11B/Content/Model/SpaceObjects/planet_9.xnb,89.66,K
+Update 1.11B/Content/Model/SpaceObjects/planet_10.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_11.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_12.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_13.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_14.xnb,89.62,K
+Update 1.11B/Content/Model/SpaceObjects/planet_15.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_16.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_17.xnb,89.63,K
+Update 1.11B/Content/Model/SpaceObjects/planet_18.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_19.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_20.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_21.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_22.xnb,89.64,K
+Update 1.11B/Content/Model/SpaceObjects/planet_23.xnb,89.67,K
+Update 1.11B/Content/Model/SpaceObjects/planet_24.xnb,89.6,K
+Update 1.11B/Content/Model/SpaceObjects/planet_25.xnb,89.62,K
+Update 1.11B/Content/Model/SpaceObjects/planet_26.xnb,89.57,K
+Update 1.11B/Content/Model/SpaceObjects/planet_27.xnb,89.62,K
+Update 1.11B/Content/Model/SpaceObjects/planet_28.xnb,89.56,K
+Update 1.11B/Content/Model/SpaceObjects/planet_29.xnb,89.62,K
+Update 1.11B/Content/Model/Stations/spacestation01_fx.xnb,902,B
+Update 1.11B/Content/Model/Stations/spacestation01_fx_reference.xnb,944,B
+Update 1.11B/Content/Model/Stations/spacestation01_inner.xnb,15.27,K
+Update 1.11B/Content/Model/Stations/spacestation01_outer.xnb,53.38,K
+Update 1.11B/Content/Model/Viper.xnb,109.31,K
+Update 1.11B/Content/ShipModules/TroopAssaultBay.xml,1.73,K
+Update 1.11B/Content/StarterShips/Ancient Assimilator.xml,133.95,K
+Update 1.11B/Content/Technology/Ancient Repulsor.xml,671,B
+Update 1.11B/Content/Technology/Ancient Repulsuor.xml,671,B
+Update 1.11B/Content/Textures/Modules/AncientReactorMed.xnb,8.15,K
+Update 1.11B/Content/Textures/Modules/barracks_2x2.xnb,4.49,K
+Update 1.11B/Content/Textures/Modules/barracks_8x4.xnb,28.32,K
+Update 1.11B/Content/Textures/Modules/beamcannon_2x3.xnb,7.02,K
+Update 1.11B/Content/Textures/Modules/beamcannon_3x8.xnb,22.95,K
+Update 1.11B/Content/Textures/Modules/beamturret_2x2.xnb,5.01,K
+Update 1.11B/Content/Textures/Modules/bombbay_2x2.xnb,5.91,K
+Update 1.11B/Content/Textures/Modules/Bridge.xnb,5.62,K
+Update 1.11B/Content/Textures/Modules/Bulkhead_1x1.xnb,1.58,K
+Update 1.11B/Content/Textures/Modules/Bulkhead_2x2.xnb,5.76,K
+Update 1.11B/Content/Textures/Modules/cargoMedium.xnb,5.46,K
+Update 1.11B/Content/Textures/Modules/cargoSmall.xnb,1.97,K
+Update 1.11B/Content/Textures/Modules/CIC_4x4.xnb,21.83,K
+Update 1.11B/Content/Textures/Modules/Cockpit.xnb,1.96,K
+Update 1.11B/Content/Textures/Modules/colonyModule.xnb,9.13,K
+Update 1.11B/Content/Textures/Modules/CombatEngine_2x2.xnb,6.73,K
+Update 1.11B/Content/Textures/Modules/conventionalTorpedo.xnb,10.95,K
+Update 1.11B/Content/Textures/Modules/deathspore_2x2.xnb,6.33,K
+Update 1.11B/Content/Textures/Modules/DefenseFlak_2x2.xnb,16.21,K
+Update 1.11B/Content/Textures/Modules/DefensePlatform_2x2.xnb,15.94,K
+Update 1.11B/Content/Textures/Modules/DisruptorTurret2x2.xnb,5.65,K
+Update 1.11B/Content/Textures/Modules/DisruptorTurret3x3.xnb,9.51,K
+Update 1.11B/Content/Textures/Modules/dualmissileturret_3x3.xnb,8.41,K
+Update 1.11B/Content/Textures/Modules/emp_torpedo.xnb,11.23,K
+Update 1.11B/Content/Textures/Modules/EMPTurret2x2.xnb,5.62,K
+Update 1.11B/Content/Textures/Modules/EMPTurret3x3.xnb,9.49,K
+Update 1.11B/Content/Textures/Modules/engine_3x3.xnb,13.69,K
+Update 1.11B/Content/Textures/Modules/engine_4x4.xnb,22.29,K
+Update 1.11B/Content/Textures/Modules/engine_fighter_1x1.xnb,2.22,K
+Update 1.11B/Content/Textures/Modules/engineering_4x4.xnb,19.81,K
+Update 1.11B/Content/Textures/Modules/EngineMedium.xnb,6.68,K
+Update 1.11B/Content/Textures/Modules/EngineSmall.xnb,2.23,K
+Update 1.11B/Content/Textures/Modules/Fabricator.xnb,5.3,K
+Update 1.11B/Content/Textures/Modules/fighterBay.xnb,16.19,K
+Update 1.11B/Content/Textures/Modules/fighterbay_4x8.xnb,39.79,K
+Update 1.11B/Content/Textures/Modules/FlakTurret.xnb,5.6,K
+Update 1.11B/Content/Textures/Modules/FlakTurret3x3.xnb,9.51,K
+Update 1.11B/Content/Textures/Modules/fusionbeam_2x2.xnb,5.01,K
+Update 1.11B/Content/Textures/Modules/fusioncannon_2x3.xnb,7.03,K
+Update 1.11B/Content/Textures/Modules/HeavyLaserCannon.xnb,4.85,K
+Update 1.11B/Content/Textures/Modules/HeavyLaserTurret.xnb,9.48,K
+Update 1.11B/Content/Textures/Modules/Inhibitor_5x5.xnb,3.43,K
+Update 1.11B/Content/Textures/Modules/ionbeam_2x2.xnb,5.01,K
+Update 1.11B/Content/Textures/Modules/laserCannon.xnb,1.59,K
+Update 1.11B/Content/Textures/Modules/LaserTurret.xnb,5.61,K
+Update 1.11B/Content/Textures/Modules/liberator_2x2.xnb,6.38,K
+Update 1.11B/Content/Textures/Modules/MassDriver_2x5.xnb,18.15,K
+Update 1.11B/Content/Textures/Modules/med_fuelcell.xnb,6.52,K
+Update 1.11B/Content/Textures/Modules/med_fuelcell_armored.xnb,5.77,K
+Update 1.11B/Content/Textures/Modules/Missile1x3.xnb,3.98,K
+Update 1.11B/Content/Textures/Modules/missileRack.xnb,2.38,K
+Update 1.11B/Content/Textures/Modules/mrls_2x2.xnb,5.22,K
+Update 1.11B/Content/Textures/Modules/NuclearReactorMedium.xnb,8.12,K
+Update 1.11B/Content/Textures/Modules/NuclearReactorSmall.xnb,1.96,K
+Update 1.11B/Content/Textures/Modules/Ordnance.xnb,5.27,K
+Update 1.11B/Content/Textures/Modules/OrdnanceSmall.xnb,2.03,K
+Update 1.11B/Content/Textures/Modules/phasorbeam_2x2.xnb,5.01,K
+Update 1.11B/Content/Textures/Modules/phasorcannon_2x3.xnb,7.12,K
+Update 1.11B/Content/Textures/Modules/PhotonTurret_2x2.xnb,5.64,K
+Update 1.11B/Content/Textures/Modules/PhotonTurret3x3.xnb,9.46,K
+Update 1.11B/Content/Textures/Modules/PolaronTurret.xnb,9.55,K
+Update 1.11B/Content/Textures/Modules/QT_Cannon_3x8.xnb,39.25,K
+Update 1.11B/Content/Textures/Modules/railgun_3x8.xnb,35.45,K
+Update 1.11B/Content/Textures/Modules/Railgun1x3.xnb,4.7,K
+Update 1.11B/Content/Textures/Modules/Railgun3x3.xnb,1.84,K
+Update 1.11B/Content/Textures/Modules/Remnant_Reactor_Small.xnb,1.96,K
+Update 1.11B/Content/Textures/Modules/Remnant_small_fuelcell.xnb,2.35,K
+Update 1.11B/Content/Textures/Modules/sensors_2x2.xnb,5.24,K
+Update 1.11B/Content/Textures/Modules/Shield_1KW.xnb,5.79,K
+Update 1.11B/Content/Textures/Modules/shield_3x3.xnb,2.09,K
+Update 1.11B/Content/Textures/Modules/shield_3x6.xnb,19.27,K
+Update 1.11B/Content/Textures/Modules/shield_10KW.xnb,36.18,K
+Update 1.11B/Content/Textures/Modules/sickbay_4x4.xnb,19.78,K
+Update 1.11B/Content/Textures/Modules/small_fuelcell.xnb,2.35,K
+Update 1.11B/Content/Textures/Modules/small_fuelcell_armored.xnb,1.56,K
+Update 1.11B/Content/Textures/Modules/SteelArmorLarge.xnb,11.55,K
+Update 1.11B/Content/Textures/Modules/SteelArmorMedium.xnb,5.41,K
+Update 1.11B/Content/Textures/Modules/SteelArmorSmall.xnb,1.49,K
+Update 1.11B/Content/Textures/Modules/VulcanCannon.xnb,1.6,K
+Update 1.11B/Content/Textures/Modules/warpengine_1x1.xnb,2.27,K
+Update 1.11B/Content/Textures/Modules/warpengine_2x2.xnb,6.76,K
+Update 1.11B/Content/Textures/Modules/warpengine_3x3.xnb,13.8,K
+Update 1.11B/Content/Textures/Modules/warpengine_4x4.xnb,22.53,K
+Update 1.11B/Content/Textures/Modules/warpreactor_3x3.xnb,13.46,K
+Update 1.11B/Content/Textures/Portraits/Human.xnb,10.89,K
+Update 1.11B/Content/Textures/Portraits/Kulrathi.xnb,10.42,K
+Update 1.11B/Content/Textures/Portraits/Pollops.xnb,10.96,K
+Update 1.11B/Content/Textures/Portraits/Vulfen.xnb,10.54,K
+Update 1.11B/Content/Textures/ShipIcons/10a.xnb,3.96,K
+Update 1.11B/Content/Textures/ShipIcons/10b.xnb,5,K
+Update 1.11B/Content/Textures/ShipIcons/Acolyte.xnb,5.24,K
+Update 1.11B/Content/Textures/ShipIcons/Bird of Prey.xnb,5.19,K
+Update 1.11B/Content/Textures/ShipIcons/Chitin.xnb,5.52,K
+Update 1.11B/Content/Textures/ShipIcons/Crawler.xnb,4.38,K
+Update 1.11B/Content/Textures/ShipIcons/Creeper.xnb,3.69,K
+Update 1.11B/Content/Textures/ShipIcons/Crescent.xnb,3.06,K
+Update 1.11B/Content/Textures/ShipIcons/Dodaving.xnb,4.9,K
+Update 1.11B/Content/Textures/ShipIcons/DraylokTxLg.xnb,5.67,K
+Update 1.11B/Content/Textures/ShipIcons/DraylokTxMed.xnb,4.47,K
+Update 1.11B/Content/Textures/ShipIcons/DraylokTxSmall.xnb,3.51,K
+Update 1.11B/Content/Textures/ShipIcons/drone.xnb,3.16,K
+Update 1.11B/Content/Textures/ShipIcons/Godcaller.xnb,6.9,K
+Update 1.11B/Content/Textures/ShipIcons/Hiver.xnb,6.49,K
+Update 1.11B/Content/Textures/ShipIcons/hunter.xnb,6,K
+Update 1.11B/Content/Textures/ShipIcons/Inquisitor.xnb,5.2,K
+Update 1.11B/Content/Textures/ShipIcons/Litving.xnb,3.08,K
+Update 1.11B/Content/Textures/ShipIcons/Metving.xnb,3.27,K
+Update 1.11B/Content/Textures/ShipIcons/Missionary.xnb,5.04,K
+Update 1.11B/Content/Textures/ShipIcons/Mordaving.xnb,5.13,K
+Update 1.11B/Content/Textures/ShipIcons/Owl1.xnb,4.06,K
+Update 1.11B/Content/Textures/ShipIcons/Owl2.xnb,4.91,K
+Update 1.11B/Content/Textures/ShipIcons/Owl3.xnb,4.41,K
+Update 1.11B/Content/Textures/ShipIcons/Queen.xnb,5.22,K
+Update 1.11B/Content/Textures/ShipIcons/Sceptre.xnb,6.38,K
+Update 1.11B/Content/Textures/ShipIcons/Scythe.xnb,5.03,K
+Update 1.11B/Content/Textures/ShipIcons/Sentinel.xnb,6.28,K
+Update 1.11B/Content/Textures/ShipIcons/Soldier.xnb,4.88,K
+Update 1.11B/Content/Textures/ShipIcons/speeder.xnb,1.24,K
+Update 1.11B/Content/Textures/ShipIcons/squid_trans_large.xnb,4.39,K
+Update 1.11B/Content/Textures/ShipIcons/squid_trans_medium.xnb,4.17,K
+Update 1.11B/Content/Textures/ShipIcons/squid_trans_small.xnb,3.62,K
+Update 1.11B/Content/Textures/ShipIcons/station_blue.xnb,4.92,K
+Update 1.11B/Content/Textures/ShipIcons/Storving.xnb,3.96,K
+Update 1.11B/Content/Textures/ShipIcons/terran_cargo1.xnb,5.71,K
+Update 1.11B/Content/Textures/ShipIcons/Trawler.xnb,5.16,K
+Update 1.11B/Content/Textures/ShipIcons/typeI.xnb,1.49,K
+Update 1.11B/Content/Textures/ShipIcons/typeIII.xnb,2,K
+Update 1.11B/Content/Textures/ShipIcons/typeV.xnb,2.55,K
+Update 1.11B/Content/Textures/ShipIcons/typeVII.xnb,3.48,K
+Update 1.11B/Content/Textures/ShipIcons/Vessel L.xnb,4.47,K
+Update 1.11B/Content/Textures/ShipIcons/Vessel M.xnb,3.75,K
+Update 1.11B/Content/Textures/ShipIcons/Vessel S.xnb,3.47,K
+Update 1.11B/Content/Textures/ShipIcons/Ving.xnb,2.69,K
+Update 1.11B/Content/Textures/ShipIcons/Warbird.xnb,6.12,K
+Update 1.11B/Content/Textures/ShipIcons/Wisp.xnb,2.82,K
+Update 1.11B/Content/Textures/ShipIcons/Worker.xnb,4.43,K
+Update 1.11B/Content/Textures/ShipIcons/xeno gunship.xnb,1.48,K
+Update 1.11B/Content/Textures/ShipIcons/Zion.xnb,5.43,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0000.xnb,5.17,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0001.xnb,5.11,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0002.xnb,5.23,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0003.xnb,4.33,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0004.xnb,4.75,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0005.xnb,5.01,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0006.xnb,4.97,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0007.xnb,4.96,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0008.xnb,4.97,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0009.xnb,4.95,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0010.xnb,5.06,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0011.xnb,5.05,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0012.xnb,4.87,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0013.xnb,4.77,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0014.xnb,4.29,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0015.xnb,4,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0016.xnb,4.02,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0017.xnb,4.07,K
+Update 1.11B/Content/Textures/Troops/alpha_attack0018.xnb,4.09,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0000.xnb,4.18,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0001.xnb,4.17,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0002.xnb,4.23,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0003.xnb,4.28,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0004.xnb,4.24,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0005.xnb,4.19,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0006.xnb,4.04,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0007.xnb,4.02,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0008.xnb,4.04,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0009.xnb,4.13,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0010.xnb,4.18,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0011.xnb,4.18,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0012.xnb,4.23,K
+Update 1.11B/Content/Textures/Troops/alpha_idle0013.xnb,4.22,K
+Update 1.11B/Content/Textures/Troops/Bear_attack01.xnb,9.36,K
+Update 1.11B/Content/Textures/Troops/Bear_attack02.xnb,10.11,K
+Update 1.11B/Content/Textures/Troops/Bear_attack03.xnb,10.22,K
+Update 1.11B/Content/Textures/Troops/Bear_attack04.xnb,10.4,K
+Update 1.11B/Content/Textures/Troops/Bear_attack05.xnb,10.64,K
+Update 1.11B/Content/Textures/Troops/Bear_attack06.xnb,10.51,K
+Update 1.11B/Content/Textures/Troops/Bear_attack07.xnb,9.83,K
+Update 1.11B/Content/Textures/Troops/Bear_attack08.xnb,9.03,K
+Update 1.11B/Content/Textures/Troops/Bear_attack09.xnb,9.53,K
+Update 1.11B/Content/Textures/Troops/Bear_attack10.xnb,9.5,K
+Update 1.11B/Content/Textures/Troops/Bear_attack11.xnb,9.6,K
+Update 1.11B/Content/Textures/Troops/Bear_attack12.xnb,9.89,K
+Update 1.11B/Content/Textures/Troops/Bear_attack13.xnb,9.6,K
+Update 1.11B/Content/Textures/Troops/Bear_attack14.xnb,9.65,K
+Update 1.11B/Content/Textures/Troops/Bear_attack15.xnb,10.04,K
+Update 1.11B/Content/Textures/Troops/Bear_attack16.xnb,9.63,K
+Update 1.11B/Content/Textures/Troops/Bear_attack17.xnb,9.19,K
+Update 1.11B/Content/Textures/Troops/Bear_attack18.xnb,8.79,K
+Update 1.11B/Content/Textures/Troops/Bear_attack19.xnb,8.9,K
+Update 1.11B/Content/Textures/Troops/Bear_idle01.xnb,8.85,K
+Update 1.11B/Content/Textures/Troops/Bear_idle02.xnb,8.91,K
+Update 1.11B/Content/Textures/Troops/Bear_idle03.xnb,8.84,K
+Update 1.11B/Content/Textures/Troops/Bear_idle04.xnb,8.9,K
+Update 1.11B/Content/Textures/Troops/Bear_idle05.xnb,8.88,K
+Update 1.11B/Content/Textures/Troops/Bear_idle06.xnb,8.86,K
+Update 1.11B/Content/Textures/Troops/Bear_idle07.xnb,8.88,K
+Update 1.11B/Content/Textures/Troops/Bear_idle08.xnb,8.87,K
+Update 1.11B/Content/Textures/Troops/Bear_idle09.xnb,8.87,K
+Update 1.11B/Content/Textures/Troops/Bear_idle10.xnb,8.85,K
+Update 1.11B/Content/Textures/Troops/Bear_idle11.xnb,8.86,K
+Update 1.11B/Content/Textures/Troops/Bear_idle12.xnb,8.91,K
+Update 1.11B/Content/Textures/Troops/Bear_idle13.xnb,8.9,K
+Update 1.11B/Content/Textures/Troops/Bear_idle14.xnb,8.95,K
+Update 1.11B/Content/Textures/Troops/Bear_idle15.xnb,8.92,K
+Update 1.11B/Content/Textures/Troops/Bear_idle16.xnb,8.92,K
+Update 1.11B/Content/Textures/Troops/Bear_idle17.xnb,8.88,K
+Update 1.11B/Content/Textures/Troops/Bear_idle18.xnb,8.88,K
+Update 1.11B/Content/Textures/Troops/Bear_idle19.xnb,8.86,K
+Update 1.11B/Content/Textures/Troops/Bear_idle20.xnb,8.85,K
+Update 1.11B/Content/Textures/Troops/Bear_idle21.xnb,8.89,K
+Update 1.11B/Content/Textures/Troops/Bear_idle22.xnb,8.86,K
+Update 1.11B/Content/Textures/Troops/Bear_idle23.xnb,8.89,K
+Update 1.11B/Content/Textures/Troops/Bear_idle24.xnb,8.89,K
+Update 1.11B/Content/Textures/Troops/Bear_idle25.xnb,8.88,K
+Update 1.11B/Content/Textures/Troops/Bear_idle26.xnb,8.87,K
+Update 1.11B/Content/Textures/Troops/Bear_idle27.xnb,8.9,K
+Update 1.11B/Content/Textures/Troops/Bear_idle28.xnb,8.84,K
+Update 1.11B/Content/Textures/Troops/Bear_idle29.xnb,8.86,K
+Update 1.11B/Content/Textures/Troops/Bear_idle30.xnb,8.83,K
+Update 1.11B/Content/Textures/Troops/column_attack0000.xnb,4.68,K
+Update 1.11B/Content/Textures/Troops/column_attack0001.xnb,4.61,K
+Update 1.11B/Content/Textures/Troops/column_attack0002.xnb,4.48,K
+Update 1.11B/Content/Textures/Troops/column_attack0003.xnb,4.43,K
+Update 1.11B/Content/Textures/Troops/column_attack0004.xnb,4.44,K
+Update 1.11B/Content/Textures/Troops/column_attack0005.xnb,4.65,K
+Update 1.11B/Content/Textures/Troops/column_attack0006.xnb,4.92,K
+Update 1.11B/Content/Textures/Troops/column_attack0007.xnb,5.63,K
+Update 1.11B/Content/Textures/Troops/column_attack0008.xnb,5.71,K
+Update 1.11B/Content/Textures/Troops/column_attack0009.xnb,5.93,K
+Update 1.11B/Content/Textures/Troops/column_attack0010.xnb,5.69,K
+Update 1.11B/Content/Textures/Troops/column_attack0011.xnb,4.83,K
+Update 1.11B/Content/Textures/Troops/column_attack0012.xnb,4.74,K
+Update 1.11B/Content/Textures/Troops/column_attack0013.xnb,4.78,K
+Update 1.11B/Content/Textures/Troops/column_attack0014.xnb,4.75,K
+Update 1.11B/Content/Textures/Troops/column_attack0015.xnb,4.63,K
+Update 1.11B/Content/Textures/Troops/column_attack0016.xnb,4.63,K
+Update 1.11B/Content/Textures/Troops/column_attack0017.xnb,4.75,K
+Update 1.11B/Content/Textures/Troops/column_attack0018.xnb,4.58,K
+Update 1.11B/Content/Textures/Troops/column_attack0019.xnb,4.57,K
+Update 1.11B/Content/Textures/Troops/column_attack0020.xnb,4.68,K
+Update 1.11B/Content/Textures/Troops/column_attack0021.xnb,4.65,K
+Update 1.11B/Content/Textures/Troops/column_attack0022.xnb,4.65,K
+Update 1.11B/Content/Textures/Troops/column_attack0023.xnb,4.61,K
+Update 1.11B/Content/Textures/Troops/column_attack0024.xnb,4.6,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0000.xnb,3.46,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0001.xnb,3.47,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0002.xnb,3.43,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0003.xnb,4.01,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0004.xnb,4.1,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0005.xnb,4.05,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0006.xnb,3.84,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0007.xnb,3.99,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0008.xnb,3.76,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0009.xnb,3.35,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0010.xnb,3.4,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0011.xnb,3.48,K
+Update 1.11B/Content/Textures/Troops/grunt_attack0012.xnb,3.46,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0000.xnb,3.47,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0001.xnb,3.44,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0002.xnb,3.38,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0003.xnb,3.48,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0004.xnb,3.43,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0005.xnb,3.37,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0006.xnb,3.42,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0007.xnb,3.34,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0008.xnb,3.46,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0009.xnb,3.47,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0010.xnb,3.45,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0011.xnb,3.37,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0012.xnb,3.48,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0013.xnb,3.43,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0014.xnb,3.37,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0015.xnb,3.42,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0016.xnb,3.35,K
+Update 1.11B/Content/Textures/Troops/grunt_idle0017.xnb,3.46,K
+Update 1.11B/Content/Tutorials/English/Slide_00.xnb,154.64,K
+Update 1.11B/Content/Tutorials/English/Slide_01.xnb,144.82,K
+Update 1.11B/Content/Tutorials/English/Slide_02.xnb,117.81,K
+Update 1.11B/Content/Tutorials/English/Slide_03.xnb,74.67,K
+Update 1.11B/Content/Tutorials/English/Slide_04.xnb,91.7,K
+Update 1.11B/Content/Tutorials/English/Slide_05.xnb,100.44,K
+Update 1.11B/Content/Tutorials/English/Slide_06.xnb,86.14,K
+Update 1.11B/Content/Tutorials/English/Slide_07.xnb,87.27,K
+Update 1.11B/Content/Tutorials/English/Slide_08.xnb,105.06,K
+Update 1.11B/Content/Tutorials/English/Slide_09.xnb,53.89,K
+Update 1.11B/Content/Tutorials/English/Slide_10.xnb,56.03,K
+Update 1.11B/Content/Tutorials/English/Slide_11.xnb,106.14,K
+Update 1.11B/Content/Tutorials/English/Slide_12.xnb,111.27,K
+Update 1.11B/Content/Tutorials/English/Slide_13.xnb,111.56,K
+Update 1.11B/Content/Tutorials/English/Slide_14.xnb,140.56,K
+Update 1.11B/Content/Tutorials/English/Slide_15.xnb,194.1,K
+Update 1.11B/Content/Tutorials/English/Slide_16.xnb,53.96,K
+Update 1.11B/Content/Tutorials/English/Slide_17.xnb,197.43,K
+Update 1.11B/Content/Tutorials/English/Slide_18.xnb,130.84,K
+Update 1.11B/Content/Tutorials/English/Slide_19.xnb,158.03,K
+Update 1.11B/Content/Tutorials/English/Slide_20.xnb,87.32,K
+Update 1.11B/Content/Tutorials/English/Slide_21.xnb,108.09,K
+Update 1.11B/Content/Tutorials/English/Slide_22.xnb,104.43,K
+Update 1.11B/Content/Tutorials/German/Slide_00.xnb,531.21,K
+Update 1.11B/Content/Tutorials/German/Slide_01.xnb,515.52,K
+Update 1.11B/Content/Tutorials/German/Slide_02.xnb,379.59,K
+Update 1.11B/Content/Tutorials/German/Slide_03.xnb,179.48,K
+Update 1.11B/Content/Tutorials/German/Slide_04.xnb,359.04,K
+Update 1.11B/Content/Tutorials/German/Slide_05.xnb,398.59,K
+Update 1.11B/Content/Tutorials/German/Slide_06.xnb,338.59,K
+Update 1.11B/Content/Tutorials/German/Slide_07.xnb,335.13,K
+Update 1.11B/Content/Tutorials/German/Slide_08.xnb,344.97,K
+Update 1.11B/Content/Tutorials/German/Slide_09.xnb,164.33,K
+Update 1.11B/Content/Tutorials/German/Slide_10.xnb,137.48,K
+Update 1.11B/Content/Tutorials/German/Slide_11.xnb,416.62,K
+Update 1.11B/Content/Tutorials/German/Slide_12.xnb,430.98,K
+Update 1.11B/Content/Tutorials/German/Slide_13.xnb,399.88,K
+Update 1.11B/Content/Tutorials/German/Slide_14.xnb,609.33,K
+Update 1.11B/Content/Tutorials/German/Slide_15.xnb,1013.01,K
+Update 1.11B/Content/Tutorials/German/Slide_16.xnb,184.23,K
+Update 1.11B/Content/Tutorials/German/Slide_17.xnb,1.03,M
+Update 1.11B/Content/Tutorials/German/Slide_18.xnb,620.15,K
+Update 1.11B/Content/Tutorials/German/Slide_19.xnb,771.15,K
+Update 1.11B/Content/Tutorials/German/Slide_20.xnb,238.97,K
+Update 1.11B/Content/Tutorials/German/Slide_21.xnb,309.31,K
+Update 1.11B/Content/Tutorials/German/Slide_22.xnb,305.75,K
+Update 1.11B/Content/Video/Tutorial Overview.xnb,192,B
+Update 1.11B/Content/Weapons/DefenseMissile.xml,1.04,K
+Update 1.11B/Content/Weapons/DualEmpCannon.xml,1.08,K
+Update 1.11B/Content/Weapons/EmpCannon.xml,1.08,K
+Update 1.11B/Content/Weapons/Missile.xml,1.03,K
+Update 1.11B/Content/Weapons/RepairBeam.xml,832,B
+Update 1.11B/Content/Weapons/SiphonBeam.xml,845,B
+Update 1.11B/Content/Weapons/ThalaronBeam.xml,838,B
+Update 1.11B/Content/Distort.xnb,1.01,K
+Update 1.11B/Content/Distorters.xnb,1.21,K
+Update 1.11B/Content/SunBurn-Deploy.xnb,282,B
+Update 1.11B/Localization/German/StarDrive.exe.Config,432,B
+Update 1.11B/Localization/Russian/StarDrive.exe.Config,433,B
+Update 1.11B/Localization/StarDrive.exe.Config,432,B
+Update 1.11B/Mods/SD_Wing_Commander/Hulls/Terran/Hornet.xml,7.81,K
+Update 1.11B/Mods/SD_Wing_Commander/Mod Models/Model/Ships/Terran/Hornet/hornet.xnb,24.99,K
+Update 1.11B/Mods/SD_Wing_Commander/Mod Models/Model/Ships/Terran/Hornet/HORNET_0.xnb,42.79,K
+Update 1.11B/Mods/SD_Wing_Commander/Mod Models/Model/Ships/Terran/Hornet/hornet_t.xnb,256.08,K
+Update 1.11B/Mods/SD_Wing_Commander/Technology/StarshipConstruction.xml,3.65,K
+Update 1.11B/Mods/SD_Wing_Commander/Textures/Large.xnb,9.38,M
+Update 1.11B/Mods/SD_Wing_Commander/Textures/Little.xnb,64.08,K
+Update 1.11B/Mods/Tim/Buildings/Abandoned Warehouse.xml,792,B
+Update 1.11B/Mods/Tim/Buildings/Ancient Pillar.xml,654,B
+Update 1.11B/Mods/Tim/Buildings/Biospheres.xml,944,B
+Update 1.11B/Mods/Tim/Buildings/Capital.xml,1.1,K
+Update 1.11B/Mods/Tim/Buildings/Cloud Peak.xml,823,B
+Update 1.11B/Mods/Tim/Buildings/Food Replicator.xml,1007,B
+Update 1.11B/Mods/Tim/Buildings/Gun Emplacement.xml,1.09,K
+Update 1.11B/Mods/Tim/Buildings/Heavy Autocannon.xml,836,B
+Update 1.11B/Mods/Tim/Buildings/Heavy Sniper.xml,828,B
+Update 1.11B/Mods/Tim/Buildings/Large Warehouse.xml,543,B
+Update 1.11B/Mods/Tim/Buildings/Manufacturing Plant.xml,1022,B
+Update 1.11B/Mods/Tim/Buildings/Military Outpost.xml,852,B
+Update 1.11B/Mods/Tim/Buildings/Missile Silo.xml,831,B
+Update 1.11B/Mods/Tim/Buildings/Outpost.xml,1.16,K
+Update 1.11B/Mods/Tim/Buildings/Planetary Flak Emplacement.xml,1.13,K
+Update 1.11B/Mods/Tim/Buildings/Revoran Capital.xml,1.03,K
+Update 1.11B/Mods/Tim/Buildings/Second Warehouse.xml,686,B
+Update 1.11B/Mods/Tim/Buildings/Small Laboratory.xml,1.03,K
+Update 1.11B/Mods/Tim/Buildings/Space Port.xml,745,B
+Update 1.11B/Mods/Tim/Buildings/The Underhive Assassins.xml,825,B
+Update 1.11B/Mods/Tim/Buildings/The Underhive Pit Slaves.xml,778,B
+Update 1.11B/Mods/Tim/Buildings/The Underhive Smugglers.xml,873,B
+Update 1.11B/Mods/Tim/Buildings/The Underhive.xml,862,B
+Update 1.11B/Mods/Tim/Buildings/Third Warehouse.xml,685,B
+Update 1.11B/Mods/Tim/Buildings/Underhive.xml,607,B
+Update 1.11B/Mods/Tim/Buildings/Warehouse.xml,672,B
+Update 1.11B/Mods/Tim/EconomicResearchStrategy/Expansionists.xml,1.43,K
+Update 1.11B/Mods/Tim/EconomicResearchStrategy/Generalists.xml,1.27,K
+Update 1.11B/Mods/Tim/EconomicResearchStrategy/Industrialists.xml,1.21,K
+Update 1.11B/Mods/Tim/EconomicResearchStrategy/Militarists.xml,1.27,K
+Update 1.11B/Mods/Tim/EconomicResearchStrategy/Technologists.xml,1.26,K
+Update 1.11B/Mods/Tim/Encounter Dialogs/Encounter_Corsair_0.xml,2.44,K
+Update 1.11B/Mods/Tim/Encounter Dialogs/Encounter_Corsair_1.xml,1.74,K
+Update 1.11B/Mods/Tim/Encounter Dialogs/Encounter_Revoran_0.xml,5.47,K
+Update 1.11B/Mods/Tim/Exploration Events/BuiltRDA.xml,1.67,K
+Update 1.11B/Mods/Tim/Exploration Events/Capture Portal.xml,2.49,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Array.xml,3.46,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Mine.xml,2.05,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Pillar.xml,3.91,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Ship.xml,7.01,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Tomb.xml,6.48,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Underhive.xml,3.97,K
+Update 1.11B/Mods/Tim/Exploration Events/Discover Warehouse.xml,4.97,K
+Update 1.11B/Mods/Tim/Exploration Events/OwlwokFreedom.xml,1.51,K
+Update 1.11B/Mods/Tim/Exploration Events/RemnantTech1.xml,1.87,K
+Update 1.11B/Mods/Tim/Hulls/Corsair/Corsair Asteroid Base.xml,71.05,K
+Update 1.11B/Mods/Tim/Localization/English/GameText_EN.xml,259.25,K
+Update 1.11B/Mods/Tim/ShipDesigns/Asteroid Base Mixed Weapons.xml,109.91,K
+Update 1.11B/Mods/Tim/ShipDesigns/Asteroid Base.xml,109.19,K
+Update 1.11B/Mods/Tim/ShipDesigns/Codrazine Prototype.xml,29.13,K
+Update 1.11B/Mods/Tim/ShipDesigns/Corsair Asteroid Base.xml,87.37,K
+Update 1.11B/Mods/Tim/ShipDesigns/Corsair Heavy Support.xml,76.33,K
+Update 1.11B/Mods/Tim/ShipDesigns/Corsair Rogue.xml,57.3,K
+Update 1.11B/Mods/Tim/ShipDesigns/Disruptor Drone.xml,17.52,K
+Update 1.11B/Mods/Tim/ShipDesigns/Opteris Prototype.xml,34.36,K
+Update 1.11B/Mods/Tim/ShipDesigns/Platform Base Laser.xml,9.9,K
+Update 1.11B/Mods/Tim/ShipDesigns/Prototype Fern.xml,31.18,K
+Update 1.11B/Mods/Tim/ShipDesigns/Prototype Frigate.xml,36.79,K
+Update 1.11B/Mods/Tim/ShipDesigns/Ralyeh Prototype L.xml,20.53,K
+Update 1.11B/Mods/Tim/ShipDesigns/Remnant Exterminator.xml,518.84,K
+Update 1.11B/Mods/Tim/ShipDesigns/Scythe Prototype.xml,34.4,K
+Update 1.11B/Mods/Tim/ShipDesigns/Soldier HV Lrmmk2.xml,34.36,K
+Update 1.11B/Mods/Tim/ShipDesigns/Soldier LRM mk2.xml,34.35,K
+Update 1.11B/Mods/Tim/ShipDesigns/Soldier Sniper.xml,34.33,K
+Update 1.11B/Mods/Tim/ShipDesigns/Soldier Vulcan Lrmmk2.xml,34.32,K
+Update 1.11B/Mods/Tim/ShipDesigns/Type V Prototype.xml,40.9,K
+Update 1.11B/Mods/Tim/ShipDesigns/Warlord Flagship.xml,57.33,K
+Update 1.11B/Mods/Tim/ShipDesigns/Worker HV Rocketeer Shielded.xml,13.14,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion HV Vulcan mk2.xml,20.55,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion HV Vulcan mk3.xml,20.59,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion HV Vulcan.xml,20.52,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion LRM mk2 type 2.xml,20.53,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion LRM mk2 type 3.xml,20.57,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion LRM mk2.xml,20.49,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion Sniper mk2.xml,20.49,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion Sniper mk3.xml,20.55,K
+Update 1.11B/Mods/Tim/ShipDesigns/Zion Sniper.xml,20.46,K
+Update 1.11B/Mods/Tim/ShipModules/ADArmorLarge.xml,1.03,K
+Update 1.11B/Mods/Tim/ShipModules/ADArmorMed.xml,1.02,K
+Update 1.11B/Mods/Tim/ShipModules/ADArmorSmall.xml,1.02,K
+Update 1.11B/Mods/Tim/ShipModules/AMProjectorMod.xml,1.01,K
+Update 1.11B/Mods/Tim/ShipModules/AMTorpedoTube.xml,1.12,K
+Update 1.11B/Mods/Tim/ShipModules/AntiMReactorSmall.xml,1.58,K
+Update 1.11B/Mods/Tim/ShipModules/APMineBay.xml,973,B
+Update 1.11B/Mods/Tim/ShipModules/ArmoredStorageSmall.xml,1.59,K
+Update 1.11B/Mods/Tim/ShipModules/AutoCannon.xml,1.06,K
+Update 1.11B/Mods/Tim/ShipModules/AutoCannonAP.xml,1.08,K
+Update 1.11B/Mods/Tim/ShipModules/AutoCannonHEAP.xml,1.08,K
+Update 1.11B/Mods/Tim/ShipModules/BasicCargoHold.xml,1.47,K
+Update 1.11B/Mods/Tim/ShipModules/BurstMRM.xml,1.39,K
+Update 1.11B/Mods/Tim/ShipModules/CapEngines.xml,1.5,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModule.xml,1.62,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModuleFood.xml,1.56,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModuleMilOut.xml,1.52,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModuleMissile.xml,1.52,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModuleProduction.xml,1.58,K
+Update 1.11B/Mods/Tim/ShipModules/ColonyModuleResearch.xml,1.57,K
+Update 1.11B/Mods/Tim/ShipModules/CombatEngine_2x2.xml,1.65,K
+Update 1.11B/Mods/Tim/ShipModules/EmpMineBay.xml,961,B
+Update 1.11B/Mods/Tim/ShipModules/Engine.xml,1.54,K
+Update 1.11B/Mods/Tim/ShipModules/engine_fighter_1x1.xml,1.28,K
+Update 1.11B/Mods/Tim/ShipModules/FighterBay.xml,1.73,K
+Update 1.11B/Mods/Tim/ShipModules/FrigateEngine.xml,1.65,K
+Update 1.11B/Mods/Tim/ShipModules/GravCannon.xml,1016,B
+Update 1.11B/Mods/Tim/ShipModules/HVVulcanCannon.xml,1.27,K
+Update 1.11B/Mods/Tim/ShipModules/HvyAMCannon.xml,1.01,K
+Update 1.11B/Mods/Tim/ShipModules/Inertial Damper.xml,1.49,K
+Update 1.11B/Mods/Tim/ShipModules/LargeFabStorage.xml,1.11,K
+Update 1.11B/Mods/Tim/ShipModules/LaserGreen.xml,1.13,K
+Update 1.11B/Mods/Tim/ShipModules/LaserPurple.xml,1.13,K
+Update 1.11B/Mods/Tim/ShipModules/LightAC.xml,1.07,K
+Update 1.11B/Mods/Tim/ShipModules/LightACAP.xml,1.07,K
+Update 1.11B/Mods/Tim/ShipModules/LightACHEAP.xml,1.08,K
+Update 1.11B/Mods/Tim/ShipModules/LRM1x3.xml,1.39,K
+Update 1.11B/Mods/Tim/ShipModules/LRMmk1.xml,1.41,K
+Update 1.11B/Mods/Tim/ShipModules/LRMmk2.xml,1.41,K
+Update 1.11B/Mods/Tim/ShipModules/LRMmk3.xml,1.4,K
+Update 1.11B/Mods/Tim/ShipModules/MenoetiusBay.xml,970,B
+Update 1.11B/Mods/Tim/ShipModules/PlasmaProjectorMod.xml,1.01,K
+Update 1.11B/Mods/Tim/ShipModules/PlasmaTorpedoTube.xml,1.12,K
+Update 1.11B/Mods/Tim/ShipModules/PlaSteelArmorLarge.xml,1.11,K
+Update 1.11B/Mods/Tim/ShipModules/PlaSteelArmorMed.xml,1.11,K
+Update 1.11B/Mods/Tim/ShipModules/PlaSteelArmorSmall.xml,1.1,K
+Update 1.11B/Mods/Tim/ShipModules/Raider Bay.xml,1.5,K
+Update 1.11B/Mods/Tim/ShipModules/RailGunTurret3x3.xml,1.4,K
+Update 1.11B/Mods/Tim/ShipModules/RegenArmorSmall.xml,1.08,K
+Update 1.11B/Mods/Tim/ShipModules/RemnantSmallReactor.xml,1.57,K
+Update 1.11B/Mods/Tim/ShipModules/SBMineBay.xml,981,B
+Update 1.11B/Mods/Tim/ShipModules/Scythe HAC.xml,1.26,K
+Update 1.11B/Mods/Tim/ShipModules/Scythe VAC.xml,1.26,K
+Update 1.11B/Mods/Tim/ShipModules/ShadowStorm.xml,1.37,K
+Update 1.11B/Mods/Tim/ShipModules/ShieldedArmorSmall.xml,1.21,K
+Update 1.11B/Mods/Tim/ShipModules/SingleMineTube.xml,1.26,K
+Update 1.11B/Mods/Tim/ShipModules/SniperRifle.xml,1006,B
+Update 1.11B/Mods/Tim/ShipModules/SniperRifleAP.xml,1015,B
+Update 1.11B/Mods/Tim/ShipModules/SniperRifleHEAP.xml,1023,B
+Update 1.11B/Mods/Tim/ShipModules/Titan Engine.xml,1.51,K
+Update 1.11B/Mods/Tim/ShipModules/TritArmorLarge.xml,1.02,K
+Update 1.11B/Mods/Tim/ShipModules/TritArmorMed.xml,1.01,K
+Update 1.11B/Mods/Tim/ShipModules/TritArmorSmall.xml,1.01,K
+Update 1.11B/Mods/Tim/ShipModules/VulcanCannon.xml,1.41,K
+Update 1.11B/Mods/Tim/ShipModules/WarpEngine_1x1.xml,1.54,K
+Update 1.11B/Mods/Tim/ShipModules/WarpEngine_2x2.xml,1.67,K
+Update 1.11B/Mods/Tim/ShipModules/WarpEngine_3x3.xml,1.55,K
+Update 1.11B/Mods/Tim/ShipModules/WarpEngine_4x4.xml,1.48,K
+Update 1.11B/Mods/Tim/ShipModules/Xraylaser.xml,1.09,K
+Update 1.11B/Mods/Tim/SolarSystems/Tim.xml,3.43,K
+Update 1.11B/Mods/Tim/Technology/Adamantite Alloys.xml,746,B
+Update 1.11B/Mods/Tim/Technology/Advanced LRM Platforms.xml,827,B
+Update 1.11B/Mods/Tim/Technology/Advanced Materials v2.xml,1.09,K
+Update 1.11B/Mods/Tim/Technology/Advanced Materials v3.xml,1.09,K
+Update 1.11B/Mods/Tim/Technology/Advanced Materials v4.xml,1.09,K
+Update 1.11B/Mods/Tim/Technology/Advanced Materials v5.xml,1017,B
+Update 1.11B/Mods/Tim/Technology/Advanced Materials.xml,1.09,K
+Update 1.11B/Mods/Tim/Technology/Advanced Missile Defense.xml,777,B
+Update 1.11B/Mods/Tim/Technology/Advanced MRM Systems.xml,621,B
+Update 1.11B/Mods/Tim/Technology/Advanced Planetary Defense.xml,782,B
+Update 1.11B/Mods/Tim/Technology/Advanced SRM Systems.xml,620,B
+Update 1.11B/Mods/Tim/Technology/AntiMatter.xml,915,B
+Update 1.11B/Mods/Tim/Technology/AntiMatterWeaponry.xml,934,B
+Update 1.11B/Mods/Tim/Technology/Armor Phasing.xml,592,B
+Update 1.11B/Mods/Tim/Technology/Armor Piercing.xml,690,B
+Update 1.11B/Mods/Tim/Technology/Armor.xml,549,B
+Update 1.11B/Mods/Tim/Technology/ArmorTheory.xml,1.19,K
+Update 1.11B/Mods/Tim/Technology/AsteroidBase.xml,802,B
+Update 1.11B/Mods/Tim/Technology/Battleships.xml,1.55,K
+Update 1.11B/Mods/Tim/Technology/Civilian Colonization.xml,890,B
+Update 1.11B/Mods/Tim/Technology/Colonization.xml,2.23,K
+Update 1.11B/Mods/Tim/Technology/CombatReadiness.xml,834,B
+Update 1.11B/Mods/Tim/Technology/Cruisers.xml,2.04,K
+Update 1.11B/Mods/Tim/Technology/Deep Core Mining.xml,905,B
+Update 1.11B/Mods/Tim/Technology/ECM v2.xml,1022,B
+Update 1.11B/Mods/Tim/Technology/ECM.xml,1014,B
+Update 1.11B/Mods/Tim/Technology/EMPTorpedo.xml,804,B
+Update 1.11B/Mods/Tim/Technology/Energy Cannons.xml,1.18,K
+Update 1.11B/Mods/Tim/Technology/Energy Weapons.xml,1.34,K
+Update 1.11B/Mods/Tim/Technology/EnergyShielding.xml,1.22,K
+Update 1.11B/Mods/Tim/Technology/Fighter Shields.xml,981,B
+Update 1.11B/Mods/Tim/Technology/Fleet Supply.xml,1.03,K
+Update 1.11B/Mods/Tim/Technology/FrigateConstruction.xml,2.4,K
+Update 1.11B/Mods/Tim/Technology/Guided Missiles.xml,996,B
+Update 1.11B/Mods/Tim/Technology/Heavy Grav Rounds.xml,606,B
+Update 1.11B/Mods/Tim/Technology/Heavy Plasma Weapons.xml,831,B
+Update 1.11B/Mods/Tim/Technology/HeavyAntiMatterWeaponry.xml,769,B
+Update 1.11B/Mods/Tim/Technology/Improved LRM Platforms.xml,820,B
+Update 1.11B/Mods/Tim/Technology/Improved Planetary Defense.xml,895,B
+Update 1.11B/Mods/Tim/Technology/Integrated Systems.xml,900,B
+Update 1.11B/Mods/Tim/Technology/LargeFreighters.xml,1.54,K
+Update 1.11B/Mods/Tim/Technology/Magnetic Artillery.xml,1.16,K
+Update 1.11B/Mods/Tim/Technology/MediumFreighters.xml,1.69,K
+Update 1.11B/Mods/Tim/Technology/Military Support.xml,552,B
+Update 1.11B/Mods/Tim/Technology/Military.xml,822,B
+Update 1.11B/Mods/Tim/Technology/Mine Launchers v2.xml,721,B
+Update 1.11B/Mods/Tim/Technology/Mine Launchers v3.xml,623,B
+Update 1.11B/Mods/Tim/Technology/Mine Launchers.xml,877,B
+Update 1.11B/Mods/Tim/Technology/Missile Defense.xml,847,B
+Update 1.11B/Mods/Tim/Technology/MissileArmor v2.xml,876,B
+Update 1.11B/Mods/Tim/Technology/MissileArmor.xml,960,B
+Update 1.11B/Mods/Tim/Technology/MissileTheory.xml,1.14,K
+Update 1.11B/Mods/Tim/Technology/MissileWeapons.xml,793,B
+Update 1.11B/Mods/Tim/Technology/Nanoweave Metallurgy v2.xml,1.3,K
+Update 1.11B/Mods/Tim/Technology/Nanoweave Metallurgy v3.xml,1.23,K
+Update 1.11B/Mods/Tim/Technology/Nanoweave Metallurgy v4.xml,1.23,K
+Update 1.11B/Mods/Tim/Technology/Nanoweave Metallurgy v5.xml,1.13,K
+Update 1.11B/Mods/Tim/Technology/Nanoweave Metallurgy.xml,1.23,K
+Update 1.11B/Mods/Tim/Technology/Phased Ordnance.xml,839,B
+Update 1.11B/Mods/Tim/Technology/Planetary Defense.xml,875,B
+Update 1.11B/Mods/Tim/Technology/Plasma Ordnance.xml,803,B
+Update 1.11B/Mods/Tim/Technology/PlasmaThrowers.xml,971,B
+Update 1.11B/Mods/Tim/Technology/Plasteel.xml,1.09,K
+Update 1.11B/Mods/Tim/Technology/Point Defense.xml,627,B
+Update 1.11B/Mods/Tim/Technology/Pulse Capacitors.xml,882,B
+Update 1.11B/Mods/Tim/Technology/Reactive Armor.xml,834,B
+Update 1.11B/Mods/Tim/Technology/Regenerative Armor.xml,766,B
+Update 1.11B/Mods/Tim/Technology/Scientific Colonization.xml,711,B
+Update 1.11B/Mods/Tim/Technology/Shielded Armor.xml,762,B
+Update 1.11B/Mods/Tim/Technology/Shipboard Medicine.xml,565,B
+Update 1.11B/Mods/Tim/Technology/ShipboardAssault.xml,988,B
+Update 1.11B/Mods/Tim/Technology/Sniper Systems AP.xml,730,B
+Update 1.11B/Mods/Tim/Technology/Sniper Systems HEAP.xml,649,B
+Update 1.11B/Mods/Tim/Technology/Sniper Systems.xml,716,B
+Update 1.11B/Mods/Tim/Technology/SpaceWeapons.xml,1.7,K
+Update 1.11B/Mods/Tim/Technology/SpecialistWeapons.xml,779,B
+Update 1.11B/Mods/Tim/Technology/Subspace Artillery.xml,1.03,K
+Update 1.11B/Mods/Tim/Technology/Suppressive Fire AP.xml,815,B
+Update 1.11B/Mods/Tim/Technology/Suppressive Fire HEAP.xml,735,B
+Update 1.11B/Mods/Tim/Technology/Suppressive Fire.xml,800,B
+Update 1.11B/Mods/Tim/Technology/SustainedSupport.xml,814,B
+Update 1.11B/Mods/Tim/Technology/Titans.xml,1.79,K
+Update 1.11B/Mods/Tim/Technology/Torpedo.xml,837,B
+Update 1.11B/Mods/Tim/Technology/Tritanium Alloys.xml,837,B
+Update 1.11B/Mods/Tim/Technology/Upgrades.xml,830,B
+Update 1.11B/Mods/Tim/Technology/Xeno Computing v2.xml,1.04,K
+Update 1.11B/Mods/Tim/Technology/Xeno Computing v3.xml,973,B
+Update 1.11B/Mods/Tim/Technology/Xeno Computing.xml,1.03,K
+Update 1.11B/Mods/Tim/Technology/XenoFarming.xml,968,B
+Update 1.11B/Mods/Tim/Technology/XenoGenetics.xml,1.21,K
+Update 1.11B/Mods/Tim/Technology/XenoMining.xml,790,B
+Update 1.11B/Mods/Tim/Textures/Beams/beam_tritbuster.xnb,128.08,K
+Update 1.11B/Mods/Tim/Textures/Beams/gravround.xnb,128.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_2ndwarehouse_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_2ndwarehouse_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_3rdwarehouse_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_3rdwarehouse_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_door_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_door_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_hvyautocannon_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_hvyautocannon_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_hvysniper_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_hvysniper_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_icbm_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_icbm_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_largewarehouse_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_largewarehouse_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_manuplant_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_manuplant_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_pillar_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_pillar_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_replicator_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_replicator_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_smalllab_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_smalllab_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_underhive_48x48.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Buildings/icon_underhive_64x64.xnb,16.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AC.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ACAP.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ACHEAP.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AdamantiteLarge.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AdamantiteMed.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AdamantiteSm.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AMProjector.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AMReactorSmall.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/AMTorpedoTube.xnb,72.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ArmoredStorage.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Bulkhead_1x1.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Bulkhead_2x2.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Burst MRM.xnb,108.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ColonyModuleFood.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ColonyModuleMilOut.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ColonyModuleMissile.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ColonyModuleProduction.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ColonyModuleResearch.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/dualmissileturret_3x3.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/EmpMine.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Fabricator.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/GravCannon.xnb,72.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/GreenLaser.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/greenmines.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/HAMCannon.xnb,144.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/HVVulcan.xnb,18.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/large.xnb,7.91,M
+Update 1.11B/Mods/Tim/Textures/Modules/LargeFabStorage.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/laserCannon.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LightAC.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LightACAP.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LightACHEAP.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LRMMissile1x3.xnb,27.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LRMmk1.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LRMmk2.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/LRMmk3.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Menoetius.xnb,12.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Missile1x3.xnb,27.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/missileRack.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/mrls_2x2.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Ordnance.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/OrdnanceSmall.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PlasmaProjector.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PlasmaTorpedoTube.xnb,72.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PlaSteelLarge.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PlaSteelMed.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PlaSteelSm.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/PurpleLaser.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/RailGunTurret3x3.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/redmines.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/RegenerativeArmorSmall.xnb,1.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Scythe HAC.xnb,2.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Scythe VAC.xnb,2.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ShadowStorm.xnb,54.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/ShieldedArmorSmall.xnb,1.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SingleMineTube.xnb,2.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/Sniper.xnb,27.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SniperAP.xnb,27.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SniperHEAP.xnb,27.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SteelArmorLarge.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SteelArmorMedium.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/SteelArmorSmall.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/TritLarge.xnb,81.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/TritMed.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/TritSm.xnb,9.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/xlaser.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/Modules/xraylaser.xnb,36.08,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_MissileWeapons.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_MissileWeapons_hover.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_SpecialistWeapons.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_SpecialistWeapons_hover.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_Upgrades.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/ResearchMenu/icons_techroot_Upgrades_hover.xnb,63.52,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Adamantite Alloys.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced LRM Platforms.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Materials v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Materials v3.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Materials v4.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Materials v5.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Materials.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Missile Defense.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced MRM Systems.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced Planetary Defense.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Advanced SRM Systems.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/AntiMatterWeaponry.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/AsteroidBase.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Civilian Colonization.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/ECM v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Heavy Grav Rounds.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Heavy Plasma Weapons.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/HeavyAntiMatterWeaponry.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/High Grade Alloys.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Improved LRM Platforms.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Improved Planetary Defense.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Long Range Missile Launchers.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Military Support.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Mine Launchers v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Mine Launchers v3.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Mine Launchers.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Missile Defense.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/MissileArmor v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Nanoweave Metallurgy v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Nanoweave Metallurgy v3.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Nanoweave Metallurgy v4.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Nanoweave Metallurgy v5.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Nanoweave Metallurgy.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Planetary Defense.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Plasteel.xnb,1.26,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Regenerative Armor.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Scientific Colonization.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Shadow Storm.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Shielded Armor.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Sniper Systems AP.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Sniper Systems HEAP.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Sniper Systems.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Suppressive Fire AP.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Suppressive Fire HEAP.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Suppressive Fire.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/SustainedSupport.xnb,11.18,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Tritanium Alloys.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Xeno Computing v2.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Xeno Computing v3.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/TechIcons/Xeno Computing.xnb,11.86,K
+Update 1.11B/Mods/Tim/Textures/large.xnb,7.91,M
+Update 1.11B/Mods/Tim/Textures/small.xnb,64.08,K
+Update 1.11B/Mods/Tim/Textures/star_blue.xnb,1,M
+Update 1.11B/Mods/Tim/Textures/star_green.xnb,1,M
+Update 1.11B/Mods/Tim/Textures/star_purple.xnb,1,M
+Update 1.11B/Mods/Tim/Weapons/AC.xml,996,B
+Update 1.11B/Mods/Tim/Weapons/ACAP.xml,1.01,K
+Update 1.11B/Mods/Tim/Weapons/ACHEAP.xml,1.07,K
+Update 1.11B/Mods/Tim/Weapons/AMCannon.xml,1.02,K
+Update 1.11B/Mods/Tim/Weapons/AMProjector.xml,1.07,K
+Update 1.11B/Mods/Tim/Weapons/AMTorpedo.xml,1.29,K
+Update 1.11B/Mods/Tim/Weapons/APMines.xml,1.13,K
+Update 1.11B/Mods/Tim/Weapons/BigMRM.xml,1.16,K
+Update 1.11B/Mods/Tim/Weapons/BlueLaser.xml,965,B
+Update 1.11B/Mods/Tim/Weapons/CPMissile.xml,1.06,K
+Update 1.11B/Mods/Tim/Weapons/DefenseMissile.xml,1.04,K
+Update 1.11B/Mods/Tim/Weapons/DualMissile.xml,1.1,K
+Update 1.11B/Mods/Tim/Weapons/DualRocket.xml,1.03,K
+Update 1.11B/Mods/Tim/Weapons/DualRocket2.xml,1.08,K
+Update 1.11B/Mods/Tim/Weapons/DualRocket3.xml,1.08,K
+Update 1.11B/Mods/Tim/Weapons/EmpMines.xml,1.12,K
+Update 1.11B/Mods/Tim/Weapons/GreenLaser.xml,905,B
+Update 1.11B/Mods/Tim/Weapons/HVVulcan.xml,1.02,K
+Update 1.11B/Mods/Tim/Weapons/HvyGravRound.xml,951,B
+Update 1.11B/Mods/Tim/Weapons/LAC.xml,995,B
+Update 1.11B/Mods/Tim/Weapons/LACAP.xml,1.01,K
+Update 1.11B/Mods/Tim/Weapons/LACHEAP.xml,1.08,K
+Update 1.11B/Mods/Tim/Weapons/LRMMissile1x3.xml,1.03,K
+Update 1.11B/Mods/Tim/Weapons/Menoetius.xml,1.11,K
+Update 1.11B/Mods/Tim/Weapons/Missile.xml,1.03,K
+Update 1.11B/Mods/Tim/Weapons/PDLaser.xml,897,B
+Update 1.11B/Mods/Tim/Weapons/Phalanx PD.xml,917,B
+Update 1.11B/Mods/Tim/Weapons/PlanetAC.xml,925,B
+Update 1.11B/Mods/Tim/Weapons/PlanetFlak.xml,819,B
+Update 1.11B/Mods/Tim/Weapons/PlanetSniper.xml,782,B
+Update 1.11B/Mods/Tim/Weapons/PlasmaProjector.xml,1.06,K
+Update 1.11B/Mods/Tim/Weapons/PlasmaTorpedo.xml,1.29,K
+Update 1.11B/Mods/Tim/Weapons/PurpleLaser.xml,904,B
+Update 1.11B/Mods/Tim/Weapons/QuadRocket.xml,1.16,K
+Update 1.11B/Mods/Tim/Weapons/Railgun3x3.xml,830,B
+Update 1.11B/Mods/Tim/Weapons/RevAC.xml,802,B
+Update 1.11B/Mods/Tim/Weapons/Rocket.xml,1.03,K
+Update 1.11B/Mods/Tim/Weapons/SBMines.xml,1.13,K
+Update 1.11B/Mods/Tim/Weapons/ScytheAC.xml,1.08,K
+Update 1.11B/Mods/Tim/Weapons/ShadowStormMiss.xml,1.1,K
+Update 1.11B/Mods/Tim/Weapons/SingleMine.xml,1.1,K
+Update 1.11B/Mods/Tim/Weapons/Singularity.xml,947,B
+Update 1.11B/Mods/Tim/Weapons/Sniper.xml,767,B
+Update 1.11B/Mods/Tim/Weapons/SniperAP.xml,802,B
+Update 1.11B/Mods/Tim/Weapons/SniperHEAP.xml,867,B
+Update 1.11B/Mods/Tim/Weapons/TestBeam.xml,795,B
+Update 1.11B/Mods/Tim/Weapons/TritoniumBuster.xml,796,B
+Update 1.11B/Mods/Tim/Weapons/VulcanCannon.xml,1019,B
+Update 1.11B/Mods/SD_Wing_Commander.xml,228,B
+Update 1.11B/Mods/Tim.xml,368,B
+Update 1.11B/StarDrive.application,1.54,K
+Update 1.11B/StarDrive.exe,1.93,M
+Update 1.11B/StarDrive.exe.Config,432,B
+Update 1.11B/StarDrive.exe.manifest,1.42,M
+Update 1.11B/StarDrive.pdb,2.58,M
+Update 1.11B/steam_api.dll,88.5,K
+Русификатор/v1.2а/Content/Advice/Russian/Advice.xml,6.16,K
+Русификатор/v1.2а/Content/Artifacts/MainArtifacts.xml,10.19,K
+Русификатор/v1.2а/Content/BattleMode/BattleMode_FirstContact_English.xml,5.08,K
+Русификатор/v1.2а/Content/Buildings/Abandoned Mine.xml,738,B
+Русификатор/v1.2а/Content/Buildings/Aeroponic Farm.xml,984,B
+Русификатор/v1.2а/Content/Buildings/Ascension Array.xml,679,B
+Русификатор/v1.2а/Content/Buildings/Biospheres.xml,1.19,K
+Русификатор/v1.2а/Content/Buildings/Capital.xml,1.31,K
+Русификатор/v1.2а/Content/Buildings/Cloning Center.xml,962,B
+Русификатор/v1.2а/Content/Buildings/Colony Shield.xml,930,B
+Русификатор/v1.2а/Content/Buildings/Crash Site.xml,878,B
+Русификатор/v1.2а/Content/Buildings/Deep Core Mine.xml,1.16,K
+Русификатор/v1.2а/Content/Buildings/Genetics Lab.xml,886,B
+Русификатор/v1.2а/Content/Buildings/Gun Emplacement.xml,1.24,K
+Русификатор/v1.2а/Content/Buildings/Imperial Bank.xml,761,B
+Русификатор/v1.2а/Content/Buildings/Imperial Offices.xml,993,B
+Русификатор/v1.2а/Content/Buildings/Ion Cannon.xml,991,B
+Русификатор/v1.2а/Content/Buildings/Military Outpost.xml,988,B
+Русификатор/v1.2а/Content/Buildings/Missile Silo.xml,878,B
+Русификатор/v1.2а/Content/Buildings/Mysterious Tomb.xml,864,B
+Русификатор/v1.2а/Content/Buildings/Nano Mine.xml,834,B
+Русификатор/v1.2а/Content/Buildings/Outpost.xml,1.49,K
+Русификатор/v1.2а/Content/Buildings/Planetary Shield.xml,1000,B
+Русификатор/v1.2а/Content/Buildings/Remnant Detection Array.xml,669,B
+Русификатор/v1.2а/Content/Buildings/Remnant Ruins.xml,832,B
+Русификатор/v1.2а/Content/Buildings/ResearchLab.xml,888,B
+Русификатор/v1.2а/Content/Buildings/RoverBay.xml,869,B
+Русификатор/v1.2а/Content/Buildings/Signal Origin.xml,738,B
+Русификатор/v1.2а/Content/Buildings/Space Port.xml,1.03,K
+Русификатор/v1.2а/Content/Buildings/Terraformer.xml,1021,B
+Русификатор/v1.2а/Content/Buildings/Tracking Station.xml,759,B
+Русификатор/v1.2а/Content/Buildings/Vertical Farm.xml,467,B
+Русификатор/v1.2а/Content/Buildings/Warehouse.xml,682,B
+Русификатор/v1.2а/Content/Buildings/Xeno Farm.xml,1.1,K
+Русификатор/v1.2а/Content/Buildings/Xeno Mine.xml,804,B
+Русификатор/v1.2а/Content/Diplomacy/DiplomaticTraits.xml,5.84,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Cordrazine.xml,45.2,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Draylok.xml,43.19,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Human.xml,48.9,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Kulrathi.xml,46.78,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Opteris.xml,36.84,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Pollops.xml,44.58,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Ralyeh.xml,44.64,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/SharedDiplomacy.xml,2.23,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Russian/Vulfen.xml,34.61,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Cordrazine.xml,45.2,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Draylok.xml,43.19,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Human.xml,48.9,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Kulrathi.xml,46.78,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Opteris.xml,36.84,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Pollops.xml,44.58,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Ralyeh.xml,44.64,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/SharedDiplomacy.xml,2.23,K
+Русификатор/v1.2а/Content/DiplomacyDialogs/Vulfen.xml,34.61,K
+Русификатор/v1.2а/Content/Encounter Dialogs/Encounter_Corsair_0.xml,3.27,K
+Русификатор/v1.2а/Content/Encounter Dialogs/Encounter_Corsair_1.xml,2.16,K
+Русификатор/v1.2а/Content/Encounter Dialogs/Encounter_Revoran_0.xml,7.49,K
+Русификатор/v1.2а/Content/Exploration Events/BuiltRDA.xml,2,K
+Русификатор/v1.2а/Content/Exploration Events/Capture Portal.xml,1.62,K
+Русификатор/v1.2а/Content/Exploration Events/Discover Array.xml,1.81,K
+Русификатор/v1.2а/Content/Exploration Events/Discover Mine.xml,952,B
+Русификатор/v1.2а/Content/Exploration Events/Discover Ship.xml,4.88,K
+Русификатор/v1.2а/Content/Exploration Events/Discover Tomb.xml,2.61,K
+Русификатор/v1.2а/Content/Exploration Events/OwlwokFreedom.xml,2.19,K
+Русификатор/v1.2а/Content/Exploration Events/RemnantTech1.xml,1.22,K
+Русификатор/v1.2а/Content/Fonts/Arial8Bold.xnb,8.51,K
+Русификатор/v1.2а/Content/Fonts/Arial10.xnb,8.51,K
+Русификатор/v1.2а/Content/Fonts/Arial12.xnb,9.66,K
+Русификатор/v1.2а/Content/Fonts/Arial12Bold.xnb,15,K
+Русификатор/v1.2а/Content/Fonts/Arial14Bold.xnb,19.65,K
+Русификатор/v1.2а/Content/Fonts/Arial20Bold.xnb,25.21,K
+Русификатор/v1.2а/Content/Fonts/Consolas18.xnb,24.58,K
+Русификатор/v1.2а/Content/Fonts/Corbel14.xnb,11.28,K
+Русификатор/v1.2а/Content/Fonts/Laserian14.xnb,9.82,K
+Русификатор/v1.2а/Content/Fonts/Pirulen12.xnb,12.27,K
+Русификатор/v1.2а/Content/Fonts/Pirulen16.xnb,15.28,K
+Русификатор/v1.2а/Content/Fonts/Pirulen20.xnb,25.69,K
+Русификатор/v1.2а/Content/Fonts/Stratum72.xnb,54.47,K
+Русификатор/v1.2а/Content/Fonts/Tahoma10.xnb,9.22,K
+Русификатор/v1.2а/Content/Fonts/Tahoma11.xnb,10.27,K
+Русификатор/v1.2а/Content/Fonts/TahomaBold9.xnb,4.88,K
+Русификатор/v1.2а/Content/Fonts/Verdana12.xnb,11.4,K
+Русификатор/v1.2а/Content/Fonts/Verdana12Bold.xnb,10.29,K
+Русификатор/v1.2а/Content/Fonts/Verdana14Bold.xnb,12.57,K
+Русификатор/v1.2а/Content/Fonts/Visitor10.xnb,13.73,K
+Русификатор/v1.2а/Content/Fonts/Visitor12.xnb,16.93,K
+Русификатор/v1.2а/Content/HelpTopics/Russian/HelpTopics_Russian.xml,76.09,K
+Русификатор/v1.2а/Content/Localization/Russian/GameText_RU.xml,301.71,K
+Русификатор/v1.2а/Content/SolarSystems/Other/Alpha Centauri.xml,1.42,K
+Русификатор/v1.2а/Content/SolarSystems/Other/Kholin.xml,1.9,K
+Русификатор/v1.2а/Content/SolarSystems/Other/Mradeep.xml,1.4,K
+Русификатор/v1.2а/Content/SolarSystems/Other/Reshi.xml,1.83,K
+Русификатор/v1.2а/Content/SolarSystems/Polmar.xml,1.74,K
+Русификатор/v1.2а/Content/SolarSystems/Rathi.xml,1.83,K
+Русификатор/v1.2а/Content/SolarSystems/Sol.xml,5.44,K

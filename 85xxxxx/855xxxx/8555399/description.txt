@@ -1,0 +1,103 @@
+Language: English
+Duration: 12h 20m
+Video: AVC 1280x720 15 fps
+Audio: AAC 128 Kbps 32.0 KHz
+Size: 4.56 GB
+Level: Beginner
+Software Used: 3DS Max 2014, Photoshop CS6
+Project Files Included
+released: June 3rd, 2013
+URL: http://www.digitaltutors.com/11/training.php?pid=1154 
+
+What you will learn
+This in-depth 3ds Max 2014 tutorial is designed to help you get a solid understanding of the core features found in 3ds Max, and help you to ease your transition into this very powerful program.
+
+During the course of these lessons, you'll have a chance to learn about different aspects of 3ds Max from several of our tutors here at Digital-Tutors.
+
+Digital-Tutors is the world's largest resource for Autodesk training, and over the years, we've had the honor and the privilege of teaching some of the top artists and studios all around the world. And for the next several hours, we'll be giving you the most structured, well-rounded, and easiest to follow 3ds Max training that you'll be able to find anywhere.
+
+In the first portion of this tutorial, we'll be getting you familiar with some of the vocabulary and foundational skills that you'll need in order to begin moving around and working in 3ds Max. From there, we'll move into exploring some of the modeling features found in 3ds Max, and we'll begin building the aircraft that will be our central project for the remainder of this training.
+
+From there, we'll take you through the entire process of adding textures and materials to the vehicle, adding animated movement and animation controls, adding dynamics, and finally we'll learn how to add lights, shadows, and output our final animated sequence.
+
+Now this tutorial is designed for new 3ds Max users, so our goal is not to weigh you down with a lot of technical information. Instead, we want you to form some really good habits and workflows ï¿½ getting to see the entire start-to-finish pipeline for this project ï¿½ and by the end of this tutorial, we want you to be at a point where you can feel very comfortable using 3ds Max.
+
+Lessons
+1. Introduction and Project Overview01:40
+2. Breaking down the interface11:51
+3. Modifying the workspace10:28
+4. Viewport navigation08:49
+5. Viewport render modes06:14
+6. Selecting objects06:14
+7. Creating objects09:05
+8. Grouping and Parenting09:41
+9. Subobject modes08:45
+10. 3ds Max file management10:24
+11. Modeling Overview01:14
+12. Setting up reference images09:22
+13. Modeling the hull12:35
+14. Modeling the tail09:35
+15. Modeling the tail fins15:16
+16. Modeling the fenders14:57
+17. Modeling the jets12:15
+18. Modeling the hull top11:56
+19. Modeling the rotors10:50
+20. Modeling the stabilizers for the rotors13:15
+21. Modeling the fan blade assembly10:37
+22. Assembling the rotor parts11:57
+23. Modeling the rear landing gear12:16
+24. Modeling the front landing gear13:15
+25. Adding the hull details07:26
+26. Modeling the gun turret10:58
+27. Using symmetry and mirror11:01
+28. Modeling any final details14:18
+29. Using smoothing techniques13:13
+30. Material Overview08:57
+31. Adding materials to specific polygons07:11
+32. Using procedural textures07:29
+33. Nesting procedural textures07:39
+34. UV Basics10:05
+35. Bump map basics04:52
+36. Creating a complex UV11:35
+37. Managing symmetrical UVs14:39
+38. Exporting UVs09:07
+39. Rigging Overview00:43
+40. Cleaning up the asset / working with groups and layers14:43
+41. Modifying pivots in 3ds Max07:43
+42. Building control objects07:59
+43. Creating custom parameters08:42
+44. Wiring parameters09:54
+45. Working with expressions09:05
+46. Controlling parameters with 3ds Max's Reaction Manager07:17
+47. Rigging the airship's front landing gear06:19
+48. Creating bone systems14:30
+49. Understanding inverse kinematics08:35
+50. Enveloping geometry08:56
+51. Making your rigs animator-friendly03:31
+52. Animation Overview00:49
+53. Creating and editing keyframes on the TrackBar10:10
+54. Managing keyframes in the Curve Editor / cycling animations infinitely13:08
+55. Path animation10:19
+56. Simulating crowds with Populate04:09
+57. Starting on the flight sequence09:21
+58. Finalizing the airship's blocking pass09:06
+59. Completing the movements of the airship's body14:49
+60. Enhancing our animation with Secondary Action08:11
+61. Wrapping up our work on the airship09:23
+62. Adding a shot camera15:03
+63. Completing our shot / creating real-time previews in 3ds Max06:57
+64. Dynamics Overview00:46
+65. Creating particles in 3ds Max12:07
+66. Fine-tuning particle behavior06:04
+67. Creating particle collisions09:38
+68. Basic particle shading08:08
+69. Finalizing particle shading10:05
+70. Rendering Overview00:56
+71. Overview of 3ds Max light types08:50
+72. Basic attributes of 3ds Max lights10:08
+73. Working with shadows13:30
+74. Image-based lighting in 3ds Max15:55
+75. Adjusting the Rendering Controls for 3ds Max objects06:04
+76. Rendering with mental ray materials in 3ds Max08:32
+77. Creating custom material libraries in 3ds Max14:19
+78. Rendering the final sequence from 3ds Max14:53

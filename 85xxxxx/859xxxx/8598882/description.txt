@@ -1,0 +1,15 @@
+Hyper-local weather forecasts gives you the most precise weather forecast available.
+Arcus will tell you when rain is going to fall within the hour, down to the minute, how long it'll rain for and how strong the rain will be.
+"Heavy rain starting in 4 minutes, for the next 35 minutes".
+Arcus uses the new Forecast.io (previously Dark Sky) API to get the most accurate, and most current weather information.
+From the Dark Sky company website on their Data Sources : "Forecast.io is backed by a wide range of data sources, which are aggregated together statistically to provide the most accurate forecast possible for a given location."
+**Visit http://www.arcusweather.com to follow and support development**
+- Holo Theme (Dark and Light)
+- Homescreen and lockscreen widget
+- Dashclock Extension
+- Notification Bar Weather
+- Multiple graphs and views
+- Unit Conversion Setting (SI or US)
+- Multiple Locations
+- Customizable view orders
+- Severe weather alerts

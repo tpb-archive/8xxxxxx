@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,smcgill1969,2013-06-10T01:11Z,"New ripping hardware, now with DD 5.1 Audio… :)"
+,crypticcpi,2013-06-10T01:37Z,"Thanks mate, I thought you were sitting this round out, but you came through again!"
+,smcgill1969,2013-06-10T01:38Z,"Hmmm, not sure why Mediainfo picked it up as 2ch sound above... It most certainly is DD5.1 and should read as below - but I'm off to bed so I'll look into  that tomorrow...
+
+
+88
+
+Audio Stream #1
+	Codec.............................................AC-3
+	Codec (FourCC)....................................ac-3
+	Audio Stream Length...............................4h 39mn
+	Audio Stream BitRate..............................640 Kbps
+	Audio Stream BitRate Mode.........................CBR
+	Number of Audio Channels..........................6
+	Audio Channel's Positions.........................Front: L C R, Side: L R, LFE
+	Sampling Rate.....................................48.0 KHz
+	Bit Depth.........................................16 bits"
+,Boofster,2013-06-10T02:18Z,"50fps would rock!
+
+It's even more important than 5.1 because of the fast motion panning goes to smear at 25 fps."
+,Boofster,2013-06-10T02:19Z,Or maybe just post the TS lol!
+,Scramblez,2013-06-10T02:30Z,"Big thanks, smcgill!"
+,Korruptor,2013-06-10T08:51Z,5.1 You're a legend :)
+,Celeborn81,2013-06-10T10:03Z,Thanks! :-D
+,smcgill1969,2013-06-10T10:04Z,"@Boofster - Always a trade of between quality/size/compatibility, the original rip comes in at ~6GB per hour. I doubt many people want to download a 30GB+ race show... :)"
+,evsnova74,2013-06-10T13:40Z,"First off, thank you so much for doing this, I'm on the fence as far as keeping cable goes, and being able to dl and watch the F1 races is the main thing I'm concerned about.
+
+But just out of curiosity, would it be too much trouble to divide these up into something like 3 parts? I never watch the buildup or post race stuff but I still have to wait for all 9Gb... Again thank you!"
+,55trucker,2013-06-10T15:19Z,"@Boofster,
+
+Handbrake is not capable of encoding at 50fps, 29.97 is as high as one can choose. If one inputs a file that HAS been encoded at 50fps the program will encode the new files framerate at a variable rate (not a good idea), the framerate should always be constant.
+"
+,55trucker,2013-06-10T21:35Z,"@smcgill1969,
+
+I've dl'ed a small portion of the file, I've noticed that you did not delete the commercials from the main broadcast.
+It's my understanding that ONLY the F1 broadcast is in DD5.1, the commercial are not.
+Not removing them will throw off the audio characteristics, defaulting to 2ch stereo.
+"
+,55trucker,2013-06-10T21:38Z,"@smcgill1969,
+
+*suggestion*...on your next file....set the handbrake parameters to *MKV* NOT mp4, go into *advanced* and  set the Adaptive B frames to optimal, Subpixel ME & MODE to 10, turn on 8x8 and weighted P frames,.....in the Audio tab ....set the codec to AC3 (ffmpeg), Mixdown ...set to 6channel discrete, Samplerate 48khz, Bitrate no less than 384."

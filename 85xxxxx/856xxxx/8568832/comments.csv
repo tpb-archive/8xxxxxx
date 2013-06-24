@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,DrkDream,2013-06-15T06:29Z,"Apparently Episode 30 for the 480p ones didnt sync right or I forgot to change the video fps playback.
+
+The audio is out of sync with the video.
+
+Its a simple fix, just open MKVMerge then open/drag the .MKV file. Once the MKV file is opened you should see its video and audio track show up. Just highlight the video track and look for a tab that says ""Format Specific Options"" and change the FPS to 30000/1001 and then mux it.
+
+It should then play back at proper video FPS and be in sync again.
+
+I may reupload this with the episode fixed but just incase, heres how to fix it yourself easily.
+
+Enjoy!"
+,DrkDream,2013-06-15T07:18Z,"I no longer seed this torrent. I reuploaded it with a fixed episode 30 file in it.
+
+The reupload can be found here
+
+http://thepiratebay.sx/torrent/8576055/Yu-Gi-Oh__Zexal_%28High_Quality%29_Episodes_25-49_MKV_Rip_%28Fixed%29"

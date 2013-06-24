@@ -1,0 +1,54 @@
+CHANGE LOG:
+ 
+.------------------------------------------.
+--|   SimCity DRMLESS Serer by Vulpes Zedra  |---
+  `------------------------------------------'
+
+
+version 1.2, 2013-06-07
+------------------------
+- Updating Start.exe so windows does not flagged it as not responding
+- Getting rid of Stop.exe and Stop.bat
+- Add a start/stop feature within the Start.exe file
+- Add some features to check if the private server is running well (ports, processes, hosts, db...)
+
+version 1.1, 2013-06-06
+------------------------
+- Getting rid of stunnel
+- Replacing the Stop.exe by Stop.bat
+
+
+version 1.0, 2013-06-04
+------------------------
+- Beta release
+
+
+-------------------------------------------------------------------------------------
+NFO:
+
+
+  Date: 2013-06-07           Game Type : City Building                     
+  Size: 1 RAR                Game Version: Multilanguage Standard v4.0.1.0 
+  Update: DRMLESS-Beta-1.2   Protection: Origin/EA DRM                     
+
+ Game Notes 
+ ~~~~~~~~~~
+ This is a new SimCity that delivers unprecedented depth of simulation, with 
+ the new GlassBox engine where everything you see is simulated even down to 
+ each individual Sim in your city. The model-like world and detail of the 
+ simulation make this the most responsive and personal SimCity ever. This is 
+ also the most expansive city management game yet where you can control a 
+ region that delivers true multi-city scale and play a single city or up to 16
+ cities at once each with different specializations. Multiplayer is also a 
+ first for the series, which adds a new dimension to your game as your 
+ decisions impact both your city and your region and creates new ways to play
+ by collaborating or competing to earn achievements. Finally, SimCity is a live
+ service that simulates real time updates from new challenges to new features 
+ and content. 
+  
+
+ Install Notes
+ ~~~~~~~~~~~~~
+ 1. Unpack this release the  and overwrite files in apache and root folder
+ 3. Remove the Stop.bat and Stop.exe files
+ 4. Remove the stunnel folder

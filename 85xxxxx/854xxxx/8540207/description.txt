@@ -1,0 +1,62 @@
+The Coronation 60th Anniversary Service (2hr)
+
+
+A service to mark the 60th anniversary of the Queen's Coronation has taken place at Westminster Abbey
+
+ 
+http://www.bbc.co.uk/news/uk-22764722
+
+
+
+
+===================== General =====================
+Complete name               : The Royal FamilyThe Coronation 60th Anniversary Service.avi
+Format                      : AVI
+Format info                 : Audio Video Interleave
+File size                   : 1.46 GB
+Duration (ms)               : 1h 59mn
+Total bitrate               : 1 750 Kbps
+Encoded application         : VirtualDubMod 1.5.4.1 (build 2178/release)
+Encoded library             : VirtualDubMod build 2178/release
+
+===================== Video =====================
+Id                          : 0
+Format                      : MPEG-4 Visual
+Format profile              : Advanced Simple@L5
+Format settings - BVOP      : 1
+Format settings - QPel      : No
+Format settings - GMC       : No warppoints
+Format settings - Matrix    : Custom
+Codec Id                    : XVID
+Codec                       : XviD
+Duration (ms)               : 1h 59mn
+Bitrate                     : 1 486 Kbps
+Width                       : 720 pixels
+Height                      : 416 pixels
+Aspect ratio                : 1.731
+Framerate                   : 25.000 fps
+Colorimetry                 : YUV
+Colos space                 : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Compression_Mode/String     : Lossy
+Bits/(Pixel*Frame)          : 0.199
+Stream size                 : 1.24 GB (85%)
+Encoded library             : XviD 1.1.2 (UTC 2006-11-01)
+
+===================== Audio =====================
+Id                          : 1
+Format                      : MPEG Audio
+Format version              : Version 1
+Format profile              : Layer 2
+Codec Id                    : 50
+Duration (ms)               : 1h 59mn
+Bitrate mode                : Constant
+Bitrate                     : 256 Kbps
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 KHz
+Compression_Mode/String     : Lossy
+Stream size                 : 218 MB (15%)
+Alignement                  : Aligned on interleaves
+Interleave duration         : 80 ms (2.00 video frames)
+Interleave preload          : 504 ms

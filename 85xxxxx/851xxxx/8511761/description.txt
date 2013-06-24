@@ -1,0 +1,50 @@
+Jazz legend Count Basie and His Orchestra performs a concert at New York's Carnegie Hall, with guests Sarah Vaughn, Tony Bennett and George Benson.
+
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 2.05 GiB
+Duration                         : 1h 46mn
+Overall bit rate                 : 2 763 Kbps
+Encoded date                     : UTC 2013-05-26 18:28:40
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=1, N=10
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 46mn
+Bit rate                         : 2 313 Kbps
+Width                            : 640 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.251
+Stream size                      : 1.68 GiB (82%)
+Writing library                  : x264 core 130 r2273 b3065e6
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 46mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 340 MiB (16%)

@@ -1,0 +1,21 @@
+Full featured and fast HDR camera for Android. Take pictures with vivid colors and rich detail:
+- Simple: take an HDR image in one tap
+- Full resolution
+- Real HDR: exposure bracketing and tone mapping
+- Zoom
+- HDR images fused and tone mapped on device within seconds
+- Hand shake compensation, no need to be rock-solid while shooting
+- Correct handling of moving objects, de-ghosting
+- You can control tone-mapping parameters: contrast, micro-contrast, color vividness, exposure
+- Save original exposure bracketed images
+- Location tagging
+- Shutter sound can be muted (not on all models)
+- Support for Flash on/off/auto
+Join HDR fans and share your photos on facebook:
+Join us and share your stunning HDR photos at Flickr: http://www.flickr.com/groups/1820156@N20
+Why HDR
+------------
+Real life scenes often have a wide range of light intensity, which cannot be captured by a camera. In a photo of such a scene the bright areas look washed out and everything in shadows is pictured as a black spot with no details. The HDR technique allows you to capture details in bright and dark areas and have them merged in a single photo.
+HDR photography is widely adopted by professional photographers. Wouldn't it be nice to have an HDR in mobile phones?
+The problem is that HDR requires taking several differently exposed images in series, which must be precisely aligned and then fused. In order to be usable for real life scenes, the HDR feature should include moving object detection and hand shake compensation to avoid or minimize the ghosting in the final image. That requires a lot of computational resources and makes a challenge even for professional desktop HDR software.
+Almalence has brought its expertise in professional HDR software to mobile phones. Our HDR fusion algorithms compensate hand shaking and detect moving objects in the scene, suppressing ghosting artifacts. At the same time, the algorithms are quick enough to provide comfortable processing time on mobile devices.

@@ -1,0 +1,89 @@
+﻿User Type,Username,Date,Text
+,Delia666,2013-06-16T14:58Z,"eh , il give this one last try ... i did everything with the other versions and it wouldnt let me change the folder Read only box , it just changes back to read only every time i uncheck the box ... and im administrator ... im running win 7 64 bt"
+,Delia666,2013-06-16T15:29Z,zzee phpexe stops responding .... another non working version ...
+,zdera,2013-06-16T15:58Z,will this one work on 32bit win7?
+,gxrylgx,2013-06-16T16:23Z,"Same issue, just stops responding. Even went as far as manually removing the ""Read-Only"" flag for every file, and unblocking each file. This only managed to get tunnel to run when ZZEE started up but then it goes right to (Not Responding)
+
+Also using Win7 64-Bit"
+,Ksipah843,2013-06-16T16:39Z,"
+
+INSTALL NOTES:
+
+ Follow these carefully or your game won't work.
+
+ 1. Unpack this release and make sure the folder name is ""SIMCITY"" without the """".
+ 2. Copy the files in the ""SimCity DRMLESS Beta Update 1.5"" folder to the main SIMCITY folder. 
+    When asked to overwrite existing files choose Yes.
+ 3. Delete stunnel folder and stop.exe file.
+ 4. Go into the extra folder and run the Electronic Arts, Inc CA.crt file.
+ 5. Click on Install Certificate and press Next. 
+    Then pick the Place all certificates in the following store option and press Browse.
+ 6. Select the Trusted Root Certification Authorities option and click OK. 
+    Now press Next and finish. If you get an error select Yes.
+ 7. Replace Your Hosts file with the one Provided in the Extras Folder. You can find your hosts file in C:WindowsSystem32Driversetc
+ 8. Install Origin from the extra folder and when it's finished installing run the start.exe file in the main SIMCITY folder.
+ 9. Click on Start Server and wait for the message to show you that ""everything sounds fine""
+ 10. Start Origin that you just installed with any username and password you want.
+ 11. Click on My Games, select SimCity and click on Download in the yellow/orange box.
+ 12. From here on it's easy, wait for it to download and then click Play."
+,Liman_Bot,2013-06-16T16:51Z,"NSTALL NOTES:
+
+Follow these carefully or your game won't work.
+
+1. Unpack this release and make sure the folder name is ""SIMCITY"" without the """".
+2. Copy the files in the ""SimCity DRMLESS Beta Update 1.5"" folder to the main SIMCITY folder.
+When asked to overwrite existing files choose Yes.
+3. Delete stunnel folder and stop.exe file.
+4. Go into the extra folder and run the Electronic Arts, Inc CA.crt file.
+5. Click on Install Certificate and press Next.
+Then pick the Place all certificates in the following store option and press Browse.
+6. Select the Trusted Root Certification Authorities option and click OK.
+Now press Next and finish. If you get an error select Yes.
+7. Replace Your Hosts file with the one Provided in the Extras Folder. You can find your hosts file in C:WindowsSystem32Driversetc
+8. Install Origin from the extra folder and when it's finished installing run the start.exe file in the main SIMCITY folder.
+9. Click on Start Server and wait for the message to show you that ""everything sounds fine""
+10. Start Origin that you just installed with any username and password you want.
+11. Click on My Games, select SimCity and click on Download in the yellow/orange box.
+12. From here on it's easy, wait for it to download and then click Play
+"
+,AtraxS16,2013-06-16T20:04Z,"Thank you for the upload.
+I must ask before I download, is this the same as the original release from vulpeszedra v1.2?
+Because that one is beta with limited regions, features, no regional trade or sharing, and so on... 
+
+Or is this the full game with regional features working?"
+,AtraxS16,2013-06-16T21:08Z,"Yup, it's the same BETA, no point in playing this. Once you expand too much and your resources are gone, you are either doomed or going in circles, because you can't trade with your other cities in the region.
+Waiting for the full game release.
+Thnx for the upload anyways."
+,AtraxS16,2013-06-16T21:11Z,"Yup, it's the same BETA, no point in playing this. Once you expand too much and your resources are gone, you are wither doomed or going in circles, because you can't trade with your other cities in the region.
+Waiting for the full game release.
+Thnx for the upload anyways."
+,Digimoon,2013-06-17T15:34Z,Would be cool if some one would make a Private server so we can play Multiplayer ^^
+,sunfy888,2013-06-17T19:45Z,wait...so this is a BETA crack?? hmmmmm....thanx for the head's up..
+,Giedriusd0,2013-06-17T19:47Z,"@AtraxS16, umm you can. "
+,jcpangs,2013-06-17T20:52Z,"i followed the instructions and it went smoothly until i clicked on the PLAY button. I get the error
+
+SIMCITY (TM) Has stopped working
+windows can check online for a solution to the problem
+
+Problem signature:
+  Problem Event Name:	APPCRASH
+  Application Name:	SimCity.exe
+  Application Version:	1.0.0.0
+  Application Timestamp:	51244eec
+  Fault Module Name:	Activation.dll
+  Fault Module Version:	4.2.0.41
+  Fault Module Timestamp:	50b6803e
+  Exception Code:	c0000005
+  Exception Offset:	000c3af2
+  OS Version:	6.0.6002.2.2.0.256.1
+  Locale ID:	1033
+  Additional Information 1:	fd00
+  Additional Information 2:	ea6f5fe8924aaa756324d57f87834160
+  Additional Information 3:	fd00
+  Additional Information 4:	ea6f5fe8924aaa756324d57f87834160
+"
+,milkover,2013-06-18T10:46Z,"The game works. After hours of playing though, there seems to be a bug that auto quit to the main menu (about 40-50 minutes of playing time), and if you try to resume playing,  it will show an error: ""Unable to load city at this time. Please try again later."" The problem might be related to offline save function. If anyone knows a fix, please help, thank you. This DRMless masterpiece is quite close to perfect. "
+,adynezu,2013-06-18T11:54Z,"I press Play, but nothing happens. Anyone has the same problem?"
+,falkonr,2013-06-19T00:28Z,"If your server stucks and is not responding or if  you cant get passed ""no dummy certificate"" error etc, try this.
+Select balanced or high performance power plan.It worked for me .
+Please respond if it worked for you."

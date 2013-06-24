@@ -1,0 +1,7 @@
+WTA Roland Garros 2013, Women's Doubles, Final, Errani-Vinci v Makarova-Vesnina.
+
+RAI Sport 1 Italian coverage.
+	
+
+Transcoded from 544x576, interlaced, 25fps MPEG-TS, 5740 Kbps (Full frame 16:9 as broadcast by RAI Sport 1) to progressive x264 by ffmpeg with settings -c:v libx264 -crf 21 -preset veryfast -tune animation -vf "yadif=0:-1:0" -c:a libfdk_aac -b:a 128000 -ac 2 -ar 44100.
+

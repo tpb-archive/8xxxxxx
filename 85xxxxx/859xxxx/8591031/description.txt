@@ -1,0 +1,49 @@
+DVDFab 8.2.2.9 Qt is out (June 19, 2013)
+
+What's New:
+New: Updated decryption keys.
+New: Added support for new Java protections.
+New: Added support for a new Java protection as found on "The Last Stand".
+New: Added support for a new copy protection as found on "Jack Reacher".
+New: Improved "Remove annoying PGCs (like FBI warning)".
+New: Added support for a new protection from Japan AV DVDs.
+New: Updated VSO burning engine.
+New: Updated language files.
+New: Some user interface and user experience improvements.
+Fix: Some localization problems for pt-BR, it-IT, ja-JP, de-DE, zh-TW, fr-FR and es-ES.
+Fix: Some crash problems which caused by CUDA encoder.
+
+DVD Ripper:
+Fix: A problem that cannot split file for vob.passthrough in DVD Ripper.
+
+Blu-ray Copy:
+Fix: A 1000 error problem when copying Blu-ray with external subtitle.
+Fix: A wrong resolution problem with special Blu-ray disc which has the black bar in the left and right side, such as: 007_Dr.No.
+Fix: A freeze problem when copying Blu-ray disc to BD25, such as: Led Zeppelin Celebration Day.
+
+Blu-ray to DVD:
+Fix: A crash problem when converting Blu-ray to DVD in certain cases, such as: Bad teacher, Battleship, Prometheus, Chris_Botti.iso.
+
+Blu-ray Ripper:
+Fix: A freeze problem when ripping Blu-ray with external subtitle at the second time.
+Fix: A wrong multiple angles info in Summary when ripping Blu-ray in certain cases.
+Fix: A 500 error when remux one internal subtitle or two external subtitles.
+Fix: A crash problem when ripping to Blu-ray with colored subtitle.
+Fix: An A/V sync problem when ripping with CoreAVC decoder in certain cases.
+
+DVD Creator:
+Fix: An aspect ratio problem when creating DVD disc.
+Fix: A freeze problem when creating DVD or Blu-ray in certain cases.
+Fix: A problem that the created DVD cannot be played by DVDFab Media Player.
+
+______________________________________________
+
+
+same method as usual :
+start offline and install DVDFab
+load or run this last one and go to general menu settings option and disable 
+"check automatically new update" and close DVDFab.
+For now use dll provided in the archieve to replace the trial one in DVDFab folder to its right path.
+And you get now full retail version :)
+
+enjoy and best regards 

@@ -1,0 +1,138 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.20 GiB
+Duration                                 : 1h 21mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 103 Kbps
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:43
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 21mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 776 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.171
+Stream size                              : 1.01 GiB (84%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:43
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 21mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 257 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 93.4 MiB (8%)
+Language                                 : French
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:42
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 21mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 256 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 93.4 MiB (8%)
+Language                                 : German
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:42
+
+Text #1
+ID                                       : 4
+Format                                   : Timed Text
+Muxing mode                              : sbtl
+Codec ID                                 : tx3g
+Duration                                 : 1h 18mn
+Bit rate mode                            : Variable
+Bit rate                                 : 35 bps
+Delay relative to video                  : 80ms
+Stream size                              : 20.3 KiB (0%)
+Language                                 : English
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:19
+
+Text #2
+ID                                       : 5
+Format                                   : Timed Text
+Muxing mode                              : sbtl
+Codec ID                                 : tx3g
+Duration                                 : 1h 18mn
+Bit rate mode                            : Variable
+Bit rate                                 : 35 bps
+Delay relative to video                  : 80ms
+Stream size                              : 20.0 KiB (0%)
+Language                                 : German
+Encoded date                             : UTC 2013-06-04 06:35:57
+Tagged date                              : UTC 2013-06-04 07:24:19
+
+
+
+
+Storyline
+
+Three generations of a French family open up about their sexual experiences and desires after young Romain is caught masturbating in his biology class.
+
+
+
+
+
+AUDIO: French + German
+
+
+
+SUBTITLES: English + German
+
+
+
+Please note the subtitles are not hardcoded they are built in with the movie play 
+
+it in vlc media player and you will find them. or use convertertxtodvd to copy it 
+
+to a dvd
+
+
+RUNTIME: 1 Hour 21 Minutes 39 Seconds

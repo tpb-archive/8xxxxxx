@@ -1,0 +1,63 @@
+General
+Complete name                    : Adams Family Values (mp4)
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 515 MiB
+Duration                         : 1h 34mn
+Overall bit rate                 : 766 Kbps
+Writing application              : Lavf52.57.1
+
+Video
+ID                               : 1
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L3
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : 20
+Duration                         : 1h 34mn
+Bit rate mode                    : Variable
+Bit rate                         : 633 Kbps
+Width                            : 512 pixels
+Height                           : 288 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 23.976 fps
+Maximum frame rate               : 24.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.179
+Stream size                      : 426 MiB (83%)
+Writing library                  : ZJMedia MPEG Encoder
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 1h 34mn
+Bit rate mode                    : Variable
+Bit rate                         : 128 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 86.1 MiB (17%)
+
+
+
+ A comical Gothic horror-movie-type family tries to rescue their beloved uncle from his gold-digging new love.
+
+Director:
+Barry Sonnenfeld
+Writers:
+Charles Addams (characters), Paul Rudnick
+Stars:
+Anjelica Huston, Raul Julia, Christopher Lloyd

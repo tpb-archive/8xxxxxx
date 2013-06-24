@@ -1,0 +1,77 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.33 GiB
+Duration                                 : 1h 55mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 656 Kbps
+Encoded date                             : UTC 2013-05-30 08:51:16
+Tagged date                              : UTC 2013-05-30 09:49:02
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 55mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 003 Kbps
+Width                                    : 720 pixels
+Height                                   : 464 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.968 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.125
+Stream size                              : 825 MiB (61%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-05-30 08:51:16
+Tagged date                              : UTC 2013-05-30 09:49:02
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 55mn
+Bit rate mode                            : Variable
+Bit rate                                 : 159 Kbps
+Maximum bit rate                         : 350 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 131 MiB (10%)
+Language                                 : English
+Encoded date                             : UTC 2013-05-30 08:51:16
+Tagged date                              : UTC 2013-05-30 09:49:01
+
+
+
+
+INCLUDE SUBTITLES FOR FOREGION PARTS.
+
+
+Storyline
+
+Paris, spring 1968. While most students take the lead in the May 'revolution', a French poet's twin son Theo and daughter Isabelle enjoy the good life in his grand Paris home. As film buffs they meet and 'adopt' modest, conservatively educated Californian student Matthew. With their parents away for a month, they drag him into an orgy of indulgence of all senses, losing all of his and the last of their innocence. A sexual threesome shakes their rapport, yet only the outside reality will break it up
+
+
+
+Included s directors commentary

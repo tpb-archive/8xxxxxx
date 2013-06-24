@@ -1,0 +1,42 @@
+Lynda - Foundations of Programming Refactoring Code
+
+Welcome 
+
+What you need to know 
+1. Introduction to Refactoring 
+What refactoring is 
+What refactoring is not 
+Why to use refactoring 
+When to use refactoring 
+Code smells 
+Origin of these ideas 
+
+2. Getting Started: Method-Level Refactoring
+Preparing to refactor 
+Grouping refactorings together 
+Using the Extract Method refactoring
+Extract Method with parameters and variables
+Common code smells for Extract Method
+Using IDEs for the Extract Method refactoring 
+The Inline Method refactoring 
+Refactorings that remove temps 
+Refactorings that add temps 
+
+3. Class- and Condition-Focused Refactoring 
+Move Method 
+Extract Class and Inline Class 
+Making conditions easier to read 
+Replacing conditions with polymorphism 
+Replacing type code with subclasses 
+
+4. Data-Focused Refactoring
+Moving and encapsulating fields 
+Working with data clumps 
+Simplifying method calls and parameter use
+Pulling and pushing methods and fields
+
+5. Communication and High-Level Refactoring 
+Refining hierarchies 
+Communication refactorings
+Larger scale refactoring 
+Conclusion		

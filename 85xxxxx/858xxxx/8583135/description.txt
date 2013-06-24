@@ -1,0 +1,82 @@
+murphy78 presents Windows 7 Ultimate SP1 x64 en-US Jun2013
+
+Hotfixes included bring install current to June11-2013 patch date
+Internet Exporer 10, USB3, and Network Drivers Added!!!
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+64-bit Source:
+X17-59465.iso (Digital River Retail Media Refresh Ult-SP1)
+Media Refesh versions are SP1 versions with an ascii fix (KB2534111)
+
+Installation Indexes:
+Windows 7 Ultimate SP1 64-bit
+Windows 7 Ultimate SP1 64-bit Pre-Activated
+Windows 7 Ultimate SP1 64-bit OEM-Activated
+
+Release File: Win7Ult-SP1-x64-en-US-Jun2013.iso
+Size: 4.11GiB
+CRC32: E371DA5F
+MD5: 8BF93FF78BF248F84898CF5A058ABE32
+SHA-1: 269B3F4EEE6B6A1A313BE1E2588FC79E6A0254D9
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, naming, and export
+dism for image mount, KB integration, Driver integration
+oscdimg for ISO mastering
+Added Info folder to installs to annoy credit thieves.
+
+DISM /add-package pass-1 (OS Updates):
+KB2479943, KB2491683, KB2506014, KB2506212, KB2506928-v2,
+KB2509553, KB2511455, KB2515325, KB2529073, KB2532531,
+KB2536275, KB2536276-v2, KB2541014, KB2544893, KB2545698,
+KB2547666, KB2552343, KB2560656, KB2563227, KB2564958,
+KB2570947, KB2574819, KB2579686, KB2584146, KB2585542,
+KB2592687, KB2603229, KB2604115, KB2618451, KB2619339,
+KB2620704, KB2621440, KB2631813, KB2640148-v2, KB2644615,
+KB2645640, KB2647753-v4, KB2653956, KB2654428, KB2655992,
+KB2656356, KB2656411, KB2659262, KB2660075, KB2660649,
+KB2667402-v2, KB2670838, KB2676562, KB2685811, KB2685813,
+KB2685939, KB2690533, KB2691442, KB2698365, KB2699779-v2,
+KB2705219-v2, KB2709630, KB2709981-v2, KB2712808, KB2718704,
+KB2719857, KB2726535, KB2727528, KB2729094-v2, KB2729452,
+KB2732059-v5, KB2732487-v2, KB2732500-v2, KB2736422, KB2742599,
+KB2743555, KB2749655, KB2750841, KB2753842-v2, KB2756921,
+KB2757638, KB2761217, KB2763523, KB2770660, KB2773072,
+KB2779562, KB2785220, KB2786081, KB2786400, KB2789645,
+KB2790113, KB2791765, KB2798162, KB2799926, KB2804579,
+KB2807986, KB2808679, KB2813170, KB2813347, KB2813430,
+KB2813956, KB2820197, KB2820331, KB2829361, KB2830290,
+KB2834140, KB2836502, KB2836942, KB2836943, KB2839894,
+KB2840149, KB2845690, KB971033, KB982018-v3
+
+Pass-2 (IE10 Install):
+IE10.cab, IE10-Hyphenation, IE10-Spelling,
+
+Pass-3 (IE10 Updates):
+KB2838727, KB2859903
+
+setupcomplete.cmd phase:
+KB2533552 (online only update)
+mpas-fe (Defender Updates)
+KB890830 (Recent Malicious software removal tool)
+WinLoader2.2.1 and reboot if installed*
+*Pre-Activated and OEM-Activated indexes only
+
+Changes from recent Windows 7 releases:
+-Moved Net45 install from setupcomplete to Net45 DVD folder
+-Added Security Essentials Re-dist installer for free MS A/V
+-Added OEM-Activated index like in my AIO*
+*Adds Motherboard logos to startup/shutdown screens and a few
+other screens such as computer properties. Also installs a
+default desktop background associated with your system
+(See Multi-Brand Activation project on MDL for more info)
+
+(Thanks to Daz for his Awesome Windows Loader Activator)
+Enjoy Pirates,
+murphy78-TPB/MDL :)

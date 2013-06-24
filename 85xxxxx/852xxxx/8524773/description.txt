@@ -1,0 +1,24 @@
+AngryBirdsInstaller 3.0.0
+
+AngryBirdsRioInstaller 1.4.4
+
+AngryBirdsSeasons 3.2.0
+
+AngryBirdsSpaceInstaller 1.4.1
+
+AngryBirdsStarWarsInstaller 1.1.2
+
+
+All you have to do is:
+
+Launch the executable sfx archive, let it extract then assist it to install,
+When the game opens first time click "Activate" from the first screen
+and enter anything (at least 1 digit...)
+
+angry birds classic and rio do not need internet connection..they will activate through loopback, simulating server connection
+
+However..seasons, space and starwars need to communicate with the Rovio server to quickly send back to you the activation signal.
+
+I did this because I saw many patches containing weird stuff (...) on them and some of them didn't work also... here you have the nice, easy, clean  thing.
+
+enjoy!

@@ -1,0 +1,17 @@
+﻿Filename,Size,Unit
+autorun.inf,78,B
+data1.bin,1011.61,M
+data2.bin,166.56,M
+data3.bin,464.01,M
+data4.bin,2.19,M
+icon.ico,23.79,K
+Redist/DirectX/DSETUP.dll,87.84,K
+Redist/DirectX/dsetup32.dll,1.72,M
+Redist/DirectX/dxdllreg_x86.cab,41.42,K
+Redist/DirectX/DXSETUP.exe,524.84,K
+Redist/DirectX/dxupdate.cab,91.81,K
+Redist/DirectX/Nov2008_d3dx9_40_x64.cab,1.82,M
+Redist/DirectX/Nov2008_d3dx9_40_x86.cab,1.48,M
+Redist/PhysX.exe,10.27,M
+Redist/vcredist_x86.exe,4.84,M
+setup.exe,1.29,M

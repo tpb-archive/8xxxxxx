@@ -1,0 +1,16 @@
+TrainSignal - VMware Advanced Features Up Close
+ 
+http://www.trainsignal.com/course/72/vmware-advanced-features-up-close
+
+This course will show virtualization administrators how to use some of the advanced features of VMware vSphere 4. YouΓÇÖll walk away from this course knowing how to use Paravirtual SCSI Adapters, Thin Provisioning, Fault Tolerance, vMotion and svMotion, and more. Since this course covers advanced features, to get the most out of this course you should have experience working with VMware vSphere 4 and a solid understanding of networking, systems administration and virtualization fundamentals.
+
+Lessons
+Lesson 1: VMDirectPath 00:16:17
+Lesson 2: Paravirtual SCSI Adapters 00:20:59
+Lesson 3: Virtual Machine Communication Interface 00:13:37
+Lesson 4: Fault Tolerance 00:42:47
+Lesson 5: Thin Provisioning 00:37:44
+Lesson 6: VMotion and Storage VMotion 00:43:31
+Lesson 7: Distributed Power Management 00:22:18
+Lesson 8: Dynamic Voltage and Frequency Scaling 00:13:37
+Lesson 9: VMFS Volume Grow and Hot Extend Virtual Disks 00:34:25

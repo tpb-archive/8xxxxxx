@@ -1,0 +1,53 @@
+Short info:
+Not remastered. Not enhanced. Croatian srt subtitles.
+
+Technical info (based on the first episode):
+General
+Complete name                            : 01 - Where No Man Has Gone Before.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 350 MiB
+Duration                                 : 50mn 23s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 971 Kbps
+Writing application                      : Nandub v1.0rc2
+Writing library                          : Nandub build 1853/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Codec ID                                 : DIV3
+Codec ID/Hint                            : DivX 3 Low
+Duration                                 : 50mn 23s
+Bit rate                                 : 857 Kbps
+Width                                    : 512 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.182
+Stream size                              : 309 MiB (88%)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 50mn 23s
+Bit rate mode                            : Variable
+Bit rate                                 : 102 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 36.7 MiB (10%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.58 video frame)
+Interleave, preload duration             : 528 ms
+Writing library                          : LAME3.89 (beta)

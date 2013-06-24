@@ -1,0 +1,51 @@
+DROIDSET FREE v1.3.0
+
+
+
+DroidSet allows you to manage settings on Android phones by providing quick toggling functionality. These functionality allow you to enable or disable Wi-Fi, Mobile network, GPS, Bluetooth, Screen orientation, Flight mode and much more at a touch of a button. When the functionality is activated, you will be presented with some information regarding that functionality.
+
+You can install the APK found in this torrent (See instructions below) or install it from https://play.google.com/store/apps/details?id=au.com.ckd.droidsetfree.
+
+
+-----------
+Changelog:
+-----------
+v1.3.0:
+a. Add option to auto sync data.
+b. Add confirmation option for System functions.
+c. Add beta function to toggle Flight Mode for Android 4.2 devices. Note: Function requires root permission and may not work on all devices.
+d. Update translations.
+e. Bug fixes.
+- Fix Device Administration checkbox to show correct state.
+- Fix root permission check not working on some devices.
+- Fix shortcut to Android setting not showing when long click on a button.
+- Fix screen messages not showing.
+
+
+--------------------------
+Prerequisite requirement:
+--------------------------
+1. An unrooted or rooted Android phone. Note: Some features might not work if you don't have a rooted phone.
+
+
+--------------------------
+Steps to install the APK:
+--------------------------
+
+1. On Android 2.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 3.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 4.x.x, go to Settings | Security and tick Unknown Sources.
+
+
+2. Copy the APK onto phone's internal SD card using a Wifi program or directly via the phone's USB connection.
+
+
+3. Use a file manager like (Astro File Manager, Root Explorer, etc) to browse to location of saved APK.
+
+
+4. Tap on APK to install.
+
+
+Enjoy.

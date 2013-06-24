@@ -1,0 +1,46 @@
+Practical Raspberry Pi
+
+Book Details:
+
+Pages: 272 
+Published: March 2013
+Language: English
+ISBN-10: 1430249714
+ISBN-13: 978-1430249719
+Format: PDF, EPUB
+
+Book Description:
+
+Practical Raspberry Pi takes you quickly through the hardware and software basics of the Raspberry Pi. Author Brendan Horan then gets you started on a series of fun and practical projects, including a simple temperature sensor, a media center, a real-time clock, and even a security monitoring device, all of which require minimal programming experience.
+
+Along with these projects, you will learn all about the Raspberry Pi hardware, including how it can be so powerful and still so small and inexpensive, why it is so suitable as a video player, and how you can customize it for different tasks, including running different operating systems on it, including Android and RISC OS.
+
+The Raspberry Pi is an inexpensive but relatively powerful little computer. It was designed to get kids interested in computing and programming, but it is also a great platform for hardware hackery. The projects in this book will get you deep into the hardware to show you what the Raspberry Pi can really do.
+
+What you will learn:
+
+An overview of Raspberry Pi hardware
+How to get your Pi up and running with Linux
+How to use your Pi for sensing temperature and driving a simple character LCD
+How to create a media player with your Raspberry Pi
+How to use your Pi as a serial console server
+How to set up your Pi to be a security monitoring device
+Other operating systems for your Pi, including Gentoo, Android, and RISC OS
+
+Who this book is for:
+
+Electronics enthusiasts who want to try out the Raspberry Pi, Linux fans who want to create useful projects with the Pi, or anyone interested in learning more about computing, electronics, and networking with this inexpensive and fun little computer.
+
+Table of Contents:
+
+Chapter 1. Hardware Overview
+Chapter 2. Installing Fedora
+Chapter 3. A Simple Temperature Sensor
+Chapter 4. Driving a Simple Character LCD
+Chapter 5. Security Monitoring Device
+Chapter 6. Cross Compile Environment
+Chapter 7. Mini Media Center
+Chapter 8. Adding an RTC
+Chapter 9. Serial Server
+Chapter 10. Controlling a Mains Device
+Chapter 11. Other Operating Systems

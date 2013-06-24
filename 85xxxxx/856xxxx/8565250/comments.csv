@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,Funkidyo,2013-06-12T21:55Z,"Nice, it works and I didn't have to JTAG or anything like that. :)"
+,johnsey,2013-06-13T02:11Z,How do I make this work? I don't know how to install it or where to put it in Horizon. Help!!
+,johnsey,2013-06-13T02:31Z,"Idk what I'm doing wrong, when I inject it into my Flash drive from horizon it says ""Invalid STFS package"" help!!!"
+,FlixCraze,2013-06-13T06:52Z,"@ johnsey, did you try modio?"
+,johnsey,2013-06-13T19:36Z,"@FlixCraze I don't know how to work the new modio, I don't know where to inject it or how."
+,xxMIXAxx1,2013-06-13T20:12Z,"@ johnsey,make flash drive compatible with xvox 360,then use Horizon to inject files to flash,to fix STFS error click on properties of the file and uncheck the ""read only,it worked for me when horizon showed STFS error,think i helped :)))"
+,johnsey,2013-06-13T20:29Z,"HAHA, THANKS MIXA!! Works 100%%"
+,thegodane,2013-06-15T13:49Z,"My Game Freezes at ""checking DLC"" point :("

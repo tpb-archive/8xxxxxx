@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,jalucian,2013-05-26T09:06Z,"""CRF 20"" is not a bit rate. It's a setting that tells you nothing about the bit rate since it varies from encode to encode. Please list actual bit rate and not the setting used which doesn't tell anyone anything useful."
+,BasilBrush,2013-06-02T22:46Z,"Thanks jalucian
+
+In the good old days we used 2 pass bitrate. It's sometimes still used - the BBC use it for their encodes.
+
+Most people has moved over to use CRF - a variation of CQ mode. CRF is quality based as against just bitrate or filesize based.
+
+The proforma for defining a files parameters at MVGroup is un-changed - it still says Bitrate. The CRF value is the nearest equivelent to bitrate. Defining the bitrate is pointless as it doesn't actually tell you what the quality is.
+
+Login to MVGroup and I'll explain."

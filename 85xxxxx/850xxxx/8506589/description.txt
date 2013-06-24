@@ -1,0 +1,55 @@
+Titanium Backup es la herramienta de copia de seguridad más poderoso en Android, y algo más.
+
+Puede copia de seguridad, restaurar, congelar sus aplicaciones + datos + vinculación con el mercado. Esto incluye todas las aplicaciones protegidas y aplicaciones del sistema, además de los datos externos en su tarjeta SD. Puede hacer clic con el botón 0 lotes y copias de seguridad programadas. Copias de seguridad funcionará sin cerrar ninguna aplicación. Puede mover cualquier aplicación (o datos de aplicaciones) a / desde la tarjeta SD. Usted puede examinar datos de cualquier aplicación, e incluso consultar el mercado para ver información detallada acerca de la aplicación.
+
+
+Características PRO Alta:
+
+Copias de seguridad múltiples por aplicación 
+0-clic en lotes de restauración 
+Copia de seguridad / restauración de SMS, MMS, llamadas, marcadores, Wi-Fi AP como XML 
+Multi-usuario soporte para algunas aplicaciones! (Por ejemplo: juegos) 
+Verificación de lotes 
+aplicaciones de copia de seguridad sin cerrarlos 
+Crea tu propio update.zip contiene aplicaciones de datos + 
+Restauración de aplicaciones individuales + los datos de las copias de seguridad que no sean root ADB 
+Restauración de aplicaciones individuales + los datos de las copias de seguridad CWM!
+Restauración de aplicaciones individuales + los datos de las copias de seguridad TWRP!
+Hypershell velocidad 
+Migrar datos del sistema a través de diferentes ROMs 
+Doctor Market (apps vuelve a vincular a los Mercados) 
+"Destruye todas Mercado links" característica 
+Aplicaciones congelador (incluido el apoyo por lotes) 
+Mercado "actualización automática" gerente 
+Convertir aplicaciones de usuario <=> Sistema de Aplicaciones 
+Cifrado 
+Horarios ilimitados 
+Sync a / de Dropbox (manual / programada) 
+Sync a / de la caja (manual / programada) 
+Sync a / desde Google Drive (manual / programada) 
+Servidor Web TB: El proceso de descarga / subida copias de seguridad como una postal única del equipo 
+Cargar / Guardar un filtro y usarlo en Widgets / Horarios 
+Cambiar el dispositivo Android ID, restaurarlo desde una copia de seguridad o después de una restauración de fábrica 
+Protección de copia de seguridad contra el borrado 
+Enviar copia de seguridad (a e-mail/cloud) e importarlo en 1 clic 
+Copia de seguridad → → Compruebe Desinstalar una aplicación de una sola vez 
+Congelar / descongelar / apps lanzamiento en un solo clic 
+CSV cualquier aplicación DB (e-mail o Google Docs) 
+Marca de la aplicación con su nombre 
+Bloatware fusor (experimental) 
+Convertir los datos de aplicación a / desde más rápido WAL formato DB 
+¡Y más!
+Más memoria:
+
+Dalvik Cache Cleaner 
+Integrar las actualizaciones de aplicaciones del sistema en ROM 
+Mueve aplicaciones en ROM 
+Integrar Dalvik elementos del sistema de caché en ROM
+
+¿Qué hay en esta versión?
+
+Respaldo de enlace mejorado del mercado / restauración / desconexión: mejor soporte para las últimas versiones de Play Store de aplicaciones. 
+El diseño de la interfaz de usuario mejorada (dimensiones de iconos y otras cosas de menor importancia) en los dispositivos Full HD (por ejemplo: Samsung Galaxy S4, HTC One). 
+Fija colgar al restaurar aplicaciones almacenados externamente en un dispositivo sin la tarjeta SD. 
+Fallo fijo para restaurar las redes Wi-Fi de XML en algunos dispositivos (por ejemplo: HTC One). 
+Actualización de traducciones.

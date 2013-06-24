@@ -1,0 +1,72 @@
+BootIt Bare Metal
+
+Manage your partitions, install and boot multiple operating systems with ease, back up and restore partitions or entire drives ΓÇô all this and more, using BootIt Bare Metal. Taking its roots from its highly successful predecessor, BootIt Next Generation, BootIt BM has been developed from the beginning to provide a powerful set of tools for todayΓÇÖs computer users, enthusiasts, and professionals.
+
+BootIt Bare Metal - Partition Manager
+With todayΓÇÖs large hard drive sizes, proper partitioning and management is more important than
+ever. BootIt BM offers standard partitioning features as well as many special features not found elsewhere:
+
+Compatible with all Windows versions (9x/Me/NT/2000/XP/2003/Vista/2008/Win7/Win8/Servers).
+Compatible with x64 (AMD64/EM64T) and Windows 64bit OS.
+Supports MBR, EMBR and GPT type partitioning.
+Direct support for PATA/SATA (AHCI) drives.
+Create, move, copy, delete, and undelete partitions.
+Optionally, wipe a partition when deleted.
+Non-destructive resizing of FAT/FAT32, NTFS, and Linux Ext2/3/4 partitions.
+Create over 200 primary partitions on EMBR disks.
+Specify unlimited primary partitions on a per-drive basis.
+Convert between MBR, EMBR and GPT type disks.
+Easily enforce Windows 7 partition alignment standards.
+Complete control over drive geometry.
+Directly edit the Windows BCD store to fix booting errors ΓÇô no Windows DVD required!
+Edit small text files on any supported partition, even those hidden from Windows.
+Supports hard drives beyond 16 exabytes in size.
+and much moreΓÇª
+BootIt Bare Metal - Boot Manager
+BootIt BM provides a full set of options for each boot item, giving the user an unequaled level of flexibility in configuring (non-UEFI) multi-boot systems:
+
+Compatible with all Windows versions (9x/Me/NT/2000/XP/2003/Vista/2008/Win7/Win8/Servers).
+Compatible with x64 (AMD64/EM64T) and Windows 64bit OS.
+Boot any partition on any hard drive (up to 16), including logical volumes.
+Boot multiple operating systems from a single partition.
+Supports hiding/unhiding partitions, ΓÇ£swappingΓÇ¥ of drives, and partition table order for each boot item.
+Automatically detects existing operating systems upon installation and adds them to the boot menu.
+Use the Direct Boot Menu to boot directly into any partition, bypassing the normal boot menu.
+Customize and secure the computer with user IDs and passwords.
+Support booting to Linux, MS-DOS, OS/2, and more...
+and much moreΓÇª
+BootIt Bare Metal - Disk Imaging
+Creating and restoring partition and disk images is a simple matter using the included full version of Image for DOS. Sporting a new graphical user interface, Image for DOS brings complete image file compatibility with TeraByteΓÇÖs current imaging products (Image for Windows, Image for Linux, and Image for DOS) ΓÇô a much requested feature. Launched directly from the BootIt BM desktop, accessing this powerful tool is a simple matter of a single mouse click or touch of a key:
+
+Compatible with all Windows versions (9x/Me/NT/2000/XP/2003/Vista/2008/Win7/Win8/Servers).
+Compatible with x64 (AMD64/EM64T) and Windows 64bit OS.
+Compatible with Linux file systems.
+Create backup images of single partitions, multiple partitions, or entire drives.
+Quickly recover from drive failure, corruption or data loss by restoring an image or extracting the data from a backup.
+Migrate to a new drive by restoring an image or by copying (cloning) the original drive. Optionally, expand existing partitions to utilize a larger drive.
+Support for both internal and external drives (including USB 2.0, IEEE1394, and eSATA).
+BootIt Bare Metal - Scripting
+BootIt Bare Metal (paid version) includes an enhanced version of the TeraByte OS Deployment Tool Suite Professional that includes the powerful TBScript engine. This offers you an almost unlimited number of solutions:
+
+Automate partition creation, deletion, sliding, copying, and resizing.
+Automate disk image backups or restores.
+Use existing .TBS scripts to prepare Windows to run on different hardware.
+Access files in supported partitions.
+Explore and change OS configuration files.
+And so much more...
+
+Supported OS:
+
+9x/Me/NT/2000/XP/2003/Vista/2008/Win7/Win8/Servers
+
+Homepage: http://www.terabyteunlimited.com/bootit-bare-metal.htm
+
+Installation Instructions:
+
+- Un-zip folder "bootitbm_en" anywhere and run application, Installation not required.
+- Register application with given name/key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,LuJr,2013-05-29T00:50Z,"It opens, but doesn't work. Freezes and all you hear is background music. I was really hoping to get this game to work. I followed the instructions as described here, but no luck."
+,fake_clubsoda,2013-05-29T06:47Z,"Now that surprises me. What version of OSX are you using (10.4, 10.5, 10.6 etc.) and is it a PPC or an Intel Mac?"
+,fake_clubsoda,2013-05-29T06:56Z,"It must work for most people though, as I have seen growth in the number of seeders since three days ago when I uploaded the torrent.
+
+Those of you who downloaded the game and it worked, please be so kind and leave feedback. Thank you ever so much"
+,LuJr,2013-05-29T19:09Z,MBA OSX 1.8GHz Intel Core i5
+,LuJr,2013-05-29T19:14Z,Lion 10.8.3
+,fake_clubsoda,2013-05-29T19:46Z,"Thank you for the specs LuJr. Unfortunately, I won't be able to help you. I asked for these simply to let others know that there's a possibility the game won't work on a similar laptop as yours. I feel your pain knowing how hard it is to find scrabble for mac... or any decent game for that matter. 
+
+Should anyone else have problems running the game, please let us know. I know for fact it works and always has on my 2007 white macbook 10.6.8 and that when I copied the .app file (the .app file was all I originally got, there was no .dmg, so nothing is missing) onto a friend's laptop - one of the new unibody macbook pros running osx lion - it worked flawlessly, we played a full game and all was great. Well people, do leave feedback."
+,fake_clubsoda,2013-05-29T19:55Z,"oh, and one more thing LuJr - 10.8.3 isn't lion, it's SNOW LION. i hope that snow lion isn't the end of the line for this game... 
+
+like i said before though, it works up to lion i.e. 10.7.x, at least in my experience."
+,fake_clubsoda,2013-05-29T21:29Z,snow lion lol. i meant mountain lion. alright whatever.
+,LuJr,2013-06-01T01:15Z,"Alrighty, thank you."
+,NakedTeddyBear,2013-06-01T12:34Z,"10.8 is when they brought in Gatekeeper, which may be what's causing the problem. You may be able to get it to run by going to System Preferences->Security & Privacy->Allow applications downloaded from->Anywhere.
+
+Note that this will increase your chances of Malware etc, so you might want to change it before playing and then revert it after."
+,bjornagainswede,2013-06-03T20:35Z,"I have this game (Not from this torrent though)... and have had it for years... since 2007 al least,,, Works perfectly on Snow Cat and I am pretty sure I tested it also with the Mountain Cat and it worked fine there also!!!!
+
+May be an issue with this particular torrent..."
+,fake_clubsoda,2013-06-04T20:57Z,"bjornagainswede, thank you for confirming that this game works on a variety of ""cats"". but you can't assume that there ""May be an issue with this particular torrent"" if you havent actually tested the torrent...
+
+im sure that the torrent is fine and will work for those it is supposed to work for (the right hardware configuration, osx version etc). 
+
+those of you who run 10.8 or higher may try what NakedTeddyBear suggested above.
+
+good luck."
+,ClubQBall,2013-06-06T14:20Z,Definitely works on my oldest Mac - a PPC G5 running 10.5.8 Leopard.  
+,fake_clubsoda,2013-06-06T14:45Z,"Sweet, we have then established that it's a universal binary. Thanks so much ClubQBall"

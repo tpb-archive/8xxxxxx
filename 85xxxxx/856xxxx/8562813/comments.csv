@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,rafaelreverte,2013-06-11T11:24Z,"OS X Mavericks 10.9 Developer Preview
+
+The OS X v10.9 Developer Preview supports the following Macs:
+
+- iMac (Mid-2007 or later)
+- MacBook (13-inch Aluminum, Late 2008), (13-inch, Early 2009 or later)
+- MacBook Pro (13-inch, Mid-2009 or later), (15-inch, Mid/Late 2007 or later), (17-inch, Late 2007 or later)
+- MacBook Air (Late 2008 or later)
+- Mac Mini (Early 2009 or later)
+- Mac Pro (Early 2008 or later)
+- Xserve (Early 2009)
+
+http://en.wikipedia.org/wiki/OS_X_Mavericks"
+,clone04,2013-06-11T13:53Z,k
+,FastForwarder,2013-06-11T15:00Z,I'll pass on this lame dupe. Already got this from here - http://thepiratebay.sx/torrent/8562579/OS_X_Mavericks_10.9_Developer_Preview
+,craniumbox,2013-06-11T15:17Z,What build is this please?
+,Xiaopangzi,2013-06-11T15:41Z,"Is this 13a476u or just 13a476s? If iBooks is missing, I won't install even after completing the download."
+,lizzined,2013-06-11T17:22Z,I can confirm that this version is indeed 13A476U in which Maps works and there are minimal crashes. 
+,m0ww0w,2013-06-11T19:54Z,Is this another spammy copy? I don't trust the other torrent from user_01 after reading it comes from a bad place with malware.
+,flipandtwist2,2013-06-11T20:02Z,"I have two questions while I wait for this to download:
+
+1) Do you need a developer apple ID
+2) Does this have ibooks?"
+,jimmyc1991,2013-06-11T21:24Z,"Okay, I installed the other DP with the most seeds, but after reading that it may contain malware, I formatted the drive and will clean install this one once it downloads."
+,jimmyc1991,2013-06-11T22:06Z,"Just to confirm: This also had the INMAC logo in the disk image. I'm going to leave it alone for now, maybe try iMZDL."
+,Xiaopangzi,2013-06-12T11:20Z,"Just like the other similar download, this does not contain iBooks, but despite a claim on the other thread, Maps and Microsoft Office work fine. DP1 appears to be very stable, and Safari is incredibly smooth and fast, but I too am concerned about the possibility of spyware because of the INMAC logo that leads one to question what other tampering may have taken place. There are some additional dictionaries in Dictionary Preferences. QuickTime and Quick Look can no longer play AVI format movies, but there is no problem with VLC."
+,Iphixtit,2013-06-12T18:47Z,I had a Jailbroken iPhone 5 (A1428) with ios 6.1.2 but love the new ios 7 enough to lose my jailbreak. To install this without UDID Registration you must first Restore to ios (6.1.4 for iPhone 5) & be sure to setup iPhone as new. Then Press (alt or option & Click Update for Mac) or (Shift & Update for Windows). So far I have installed 64 apps and only the eBay app doesn't work. Thank you very much for the upload.
+,Iphixtit,2013-06-12T19:04Z,Whoops wrong thread. That was intended for this [url=http://thepiratebay.sx/torrent/8562218/iPhone_5_A1428_(GSM)_iOS_7_Beta_1] thread[/url]
+,steveken,2013-06-14T05:06Z,"I can't get this version to install. I have a VM of Mountain Lion. I resized the drive to make a virtual drive for Mavericks. When I go to install it, it tells me it can't verify it and that I should delete it and download it again from the Mac App Store. Tried it 3 times now."
+,steveken,2013-06-14T05:24Z,"And just like that, it worked that time. Just rebooted again and then tried it again. I'll shut up now. :)"
+,steveken,2013-06-14T07:08Z,One last comment. I cannot seem to get Maps to display actual maps within a VMWare virtual machine environment. It is just blank and says it cannot locate where it is. I suspect this is because it is in a virtual machine. Very upsetting as I wanted to play with this. Another thing is I cannot figure out what to do to get iRadio stuff working. All I can find are the normal internet radio stations listed in iTunes as usual.
+,ljohanl,2013-06-14T15:10Z,iTunes radio is not available in all countries yet. So they said in the keynote. Copyrights? The same issue with iBooks?
+,JimmySmith,2013-06-14T18:35Z,"I downloaded en installed OS X Mavericks successfully. I was very happy until...
+
+When I put my headphone or earphones in my audio jack, the right side doesn't work anymore.
+
+Somebody experiences this problem as well?
+
+I'm quite sure this happened because of the software update. If you have solution I would love to hear it."
+,steveken,2013-06-15T02:22Z,"Well, considering I live and am in the United States, iTunes Radio stuff should be working."
+,bjornagainswede,2013-06-16T19:35Z,Just wondering if someone can upload a CLEAN installed backup image for PC? I cannot get the installer to recognise any of my Sata HD's

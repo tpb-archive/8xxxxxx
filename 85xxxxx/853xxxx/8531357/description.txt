@@ -1,0 +1,29 @@
+Nexus Media Importer allows you to stream and transfer music, video, photos and 
+
+documents from a USB flash drive or card reader connected to your Nexus 7, Nexus 10, 
+
+Galaxy Nexus, Xoom or other Android 4.0+ devices with USB Host support. See technical 
+
+notes for a list of supported file types and file systems. This is the only non-root 
+
+solution for devices that do not provide native support for external storage.
+
+To use:
+
+-If you are using an card reader, put the flash memory card in the reader first.
+
+-Attach your USB device to the OTG cable.
+
+-Attach the OTG cable to the Nexus or other device.
+
+-The application should launch automatically.
+
+-Photos can be browsed by selecting from the list then swiping back and forth.
+
+-Videos can be streamed with the Play icon.
+
+-The Advanced tab can be used to manage and transfer files.
+
+-Use the Connect screen to determine the viewed device and the destination device for 
+
+the Copy/Move operations.

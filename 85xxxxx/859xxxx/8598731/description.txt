@@ -1,0 +1,18 @@
+A Fully Revised Edition Featuring New Material on Coroutines, Debugging, Testing, Parsing, String Formatting, and More
+
+Python 3 is the best version of the language yet: It is more powerful, convenient, consistent, and expressive than ever before. Now, leading Python programmer Mark Summerfield demonstrates how to write code that takes full advantage of Python 3's features and idioms. Programming in Python 3, Second Edition, brings together all the knowledge you need to write any program, use any standard or third-party Python 3 library, and create new library modules of your own.
+∩┐╜
+Summerfield draws on his many years of Python experience to share deep insights into Python 3 development you won't find anywhere else. He begins by illuminating Python's "beautiful heart": the eight key elements of Python you need to write robust, high-performance programs. Building on these core elements, he introduces new topics designed to strengthen your practical expertise-one concept and hands-on example at a time. Coverage includes
+Developing in Python using procedural, objectoriented, and functional programming paradigms
+Creating custom packages and modules
+Writing and reading binary, text, and XML files, including optional compression, random access, and text and XML parsing
+Leveraging advanced data types, collections, control structures, and functions
+Spreading program workloads across multiple processes and threads
+Programming SQL databases and key--value DBM files
+Debugging techniques-and using Test Driven Development to avoid bugs in the first place
+Utilizing Python's regular expression mini-language and module
+Parsing techniques, including how to use the third-party PyParsing and PLY modules
+Building usable, efficient, GUI-based applications
+Advanced programming techniques, including generators, function and class decorators, context managers, descriptors, abstract base classes, metaclasses, coroutines, and more
+∩┐╜
+Programming in Python 3, Second Edition, serves as both tutorial and language reference. It assumes some prior programming experience, and is accompanied by extensive downloadable example code-all of it tested with Python 3 on Windows, Linux, and Mac OS X. This edition covers Python 3.0 and 3.1, and due to the Python language moratorium it is also valid for Python 3.2 which has the same language as Python 3.1. 

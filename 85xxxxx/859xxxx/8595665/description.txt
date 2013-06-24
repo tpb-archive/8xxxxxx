@@ -1,0 +1,17 @@
+Visual Basic is one of the Microsoft core languages for building desktop, mobile, and web applications. Get started programming with VB using Visual Studio 2012 Express for Windows Desktop and these tutorials from David Gassner. 
+The course jump-starts with Hello World projects for three common application architectures (console, desktop, and Windows Store apps), and shows how to program with VB in both Windows Forms and Windows Presentation Foundation. The course then outlines the language fundamentals such as data types, strings, operators, conditional code, and looping constructs. Plus, discover how to package reusable code in functions and subroutines, and explore the object-oriented nature of Visual Basic through custom classes.
+
+Topics include:
+
+What is Visual Basic?
+Learning Visual Basic syntax
+Declaring variables and data types
+Working with numbers, Boolean values, and dates
+Using strings, words, and characters
+Repeating blocks of code with loops
+Evaluating conditions with if, then, and else
+Debugging and handling exceptions
+Managing ordered data with arrays
+Managing application logic with modules
+Defining custom classes
+Storing data with instance fields

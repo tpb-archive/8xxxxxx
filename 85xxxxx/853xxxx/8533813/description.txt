@@ -1,0 +1,41 @@
+Overview:
+=========
+
+This pack contain base content from games: Age of Chivalry, Counter-Strike Source, D.I.P.R.I.P, Day of Defeat Source, Dystopia, Half-Life 2, Half-Life 2 Deathmatch, Half-Life 2 Episode One, Half-Life 2 Episode Two, Half-Life 2 Lost Coast, Half-Life Deathmatch Source, Half-Life Source, Insurgency, Pirates Vikings and Knights II, Portal, Team Fortress 2, Zeno Clash, Zombie Panic Source.
+
+Important:
+=========
+
+This pack design only for my Garry's Mod game build (http://update.bruss.org.ru/Garrys%20Mod.torrent). Work on any other build or steams not guaranted.
+
+
+Installation instruction:
+=========================
+
+1. Copy SteamApps (*!*) and revApps.ini to your Garry's Mod game dir (near Garrys_Mod.exe/hl2.exe file) with replaces.
+2. In rev.ini find string (CacheEnabled = ...) and change it (to: CacheEnabled = True).
+3. In rev.ini find string (CachePath = ...) and change it (to: CachePath = ./SteamApps).
+4. Run game and mark all checkboxes with tis games:
+	Age of Chivalry
+	Counter-Strike
+	D.I.P.R.I.P
+	Day of Defeat
+	Dystopia
+	Half-Life 2
+	Half-Life 2: Deathmatch
+	Half-Life 2: Episode One
+	Half-Life 2: Episode Two
+	Half-Life 2: Lost Coast
+	Half-Life Deathmatch: Source
+	Half-Life: Source
+	Insurgency
+	Pirates, Vikings, and Knights II
+	Portal
+	Team Fortress 2
+	Zeno Clash
+	Zombie Panic! Source
+something like this: http://bayimg.com/CanJiaaeA and http://bayimg.com/canJJAAEA
+5. Jump to menu option "Start New Game". Must be like this: http://bayimg.com/EAnJlAAEA
+6. Enjoy )
+
+*!* - or you can just find in rev.ini string (CachePath = ...) and change it (to: CachePath = absolute path to download content pack + SteamApps, eg. CachePath = D:/uTorrent/Garrys Mod Additional Content Pack/steamapps). This good choice (pls seed this torrent).

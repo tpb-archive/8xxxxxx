@@ -1,0 +1,8 @@
+FS Captain is an app that you pop up at the beginning of your flight to mimic many aspects of a real airline pilotΓÇÖs flight. You set the loads, which can be done automatically, report stages throughout your flight to the ground monitoring system, communicate with the crew, and keep the passengers happy. At the end you are given a grade and move up through the ranks of your airline if your numbers are good enough.
+
+Review:
+
+P.S. Help needed. Can someone crack it?
+Everything seem to be working fine until you try to report TOC, then FSCaptain stops working. I guess the problem lies in two files: FCOM.GAU and FCDU.GAU.
+(Dont't forget to block Admin.exe with your firewall or add these lines to your hosts file (C:WindowsSystem32Driversetc): 127.0.0.1 fscaptain.net
+127.0.0.1 www.fscaptain.net)

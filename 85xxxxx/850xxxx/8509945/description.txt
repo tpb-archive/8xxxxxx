@@ -1,0 +1,55 @@
+LaTeX is a document preparation system for high-quality typesetting. It is most often used for 
+medium-to-large technical or scientific documents but it can be used for almost any form of 
+publishing.
+
+LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about 
+the appearance of their documents but to concentrate on getting the right content.
+
+
+documentclass{article}
+title{Cartesian closed categories and the price of eggs}
+author{Jane Doe}
+date{September 1994}
+begin{document}
+   maketitle
+   Hello world!
+end{document}
+Or, in English:
+
+
+This document is an article.
+Its title is Cartesian closed categories and the price of eggs.
+Its author is Jane Doe.
+It was written in September 1994.
+The document consists of a title followed by the text Hello world!
+This document is an article.
+Its title is Cartesian closed categories and the price of eggs.
+Its author is Jane Doe.
+It was written in September 1994.
+The document consists of a title followed by the text Hello world!
+LaTeX contains features for:
+
+	-Typesetting journal articles, technical reports, books, and slide presentations.
+	-Control over large documents containing sectioning, cross-references, tables and figures.
+	-Typesetting of complex mathematical formulas.
+	-Advanced typesetting of mathematics with AMS-LaTeX.
+	-Automatic generation of bibliographies and indexes.
+	-Multi-lingual typesetting.
+	-Inclusion of artwork, and process or spot colour.
+	-Using PostScript or Metafont fonts.
+
+LaTeX is based on Donald E. Knuth's TeX typesetting language or certain extensions. 
+LaTeX was first developed in 1985 by Leslie Lamport, and is now being maintained and 
+developed by the LaTeX3 Project. LaTeX is available for free by anonymous ftp.
+
+
+
+
+Instruction:
+It has all the packages of LaTeX.
+
+First open MiKTeX 2.9-64bit and
+	1) run and install setup-2.9.4503-x64.exe 
+	2) install texmakerwin32_install.exe
+	3) install both gs902w64.exe and gsv50w64.exe
+Then you should be good to go!

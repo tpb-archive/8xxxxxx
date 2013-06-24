@@ -1,0 +1,61 @@
+The.Walking.Dead.S01.E02.2010.1080p.DTS.x264.DUAL.LegBR-pfS.mkv
+
+Dual Áudio Inglês e PT_BR
+Legendas PT_BR
+
+
+Formato                                  : Matroska
+Format_Version                           : Version 2
+Tamanho do arquivo                       : 5,66 GiB
+Duration/String                          : 1h 7mn
+Taxa de Bits Total                       : 12,1 Mbps
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/                                 : Advanced Video Codec
+Format_Profile                           : Main@L4.1
+Format_Settings_CABAC/String             : Sim
+Format_Settings_RefFrames/String         : 4 frame
+CodecID                                  : V_MPEG4/ISO/AVC
+Duration/String                          : 1h 7mn
+Taxa de bits                             : 10,5 Mbps
+Largura                                  : 1 920 pixels
+Altura                                   : 1 080 pixels
+Proporção da imagem                      : 16:9
+Taxa de quadros                          : 23,976 fps
+
+Áudio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/                                 : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Format_Settings_Endianness               : Big
+CodecID                                  : A_AC3
+Duration/String                          : 1h 7mn
+Taxa de bits                             : 192 Kbps
+Canal(s)                                 : 2 canais
+Posições de canal                        : Front: L R
+Taxa de amostragem                       : 48,0 KHz
+BitDepth/String                          : 16 bits
+StreamSize/String                        : 92,1 MiB (2%)
+Idioma                                   : Portugues
+Default                                  : Não
+Forced                                   : Não
+
+Áudio #2
+ID                                       : 3
+Formato                                  : DTS
+Formato/                                 : Digital Theater Systems
+CodecID                                  : A_DTS
+Duration/String                          : 1h 7mn
+Taxa de bits                             : 1 510 Kbps
+Canal(s)                                 : 6 canais
+Posições de canal                        : Front: L C R, Side: L R, LFE
+Taxa de amostragem                       : 48,0 KHz
+BitDepth/String                          : 16 bits
+Atraso do Video                          : 11ms
+StreamSize/String                        : 724 MiB (12%)
+Idioma                                   : Inglês
+Default                                  : Não
+Forced                                   : Não

@@ -1,0 +1,54 @@
+Overview: Detailed network information. ΓÇ£Network Signal Info ProΓÇ¥ provides detailed 
+
+information on your currently used network, regardless whether you are using WiFi or 
+
+a cellular connection. 
+
+Requirements: Android Device OS 2.1 and above 
+
+
+The Pro version (compared to the free version) has no ads, more widgets, a "mobile-
+
+signal-lost-service" (beta) and a in the background running log function. 
+
+Now with widgets: 1x1, 2x1 and 2x2 in 3 different styles. 
+
+(If you can't find widgets, please copy the app to phone memory) 
+
+I have especially worked on the visualization of the WiFi and mobile signal 
+
+strength. They have received special importance. Normally they are only divided 
+
+into weak, good and excellent signals. Graphically there are mostly "only" three to 
+
+five bars shown as a mobile signal and three "waves" shown as a WiFi connection. 
+
+My app differentiates the signal strength into a total of 14 bars. This will give 
+
+you a quick visualized and detailed information on your signal strength. 
+
+In addition to the more sophisticated graphical representation of the signal 
+
+strength you will also be able to see some more interesting information. 
+
+Furthermore, there is a log function in csv-file format for wireless and mobile 
+
+signal strength available (for e.g. Excel import). 
+
+With "Mobile Signal": 
+
+
+Network operators, sim provider, phone type, network type, network strength in dbm 
+
+and ASU, data state, data activity, country code of the mobile phone, device ID, IP 
+
+address (internal und external), roaming state. 
+
+In "WiFi signal": 
+
+
+WiFi-Name (SSID), BSSID, MAC address, maximum WiFi speed, IP address, external IP 
+
+address, net capability, net channel, subnet mask, Gateway IP address, DHCP server 
+
+address, DNS1 and DNS2 address.

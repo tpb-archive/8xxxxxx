@@ -1,0 +1,31 @@
+
+Language: English
+Duration: 1h 47m
+Video: AVC 1280x720 15 fps
+Audio: AAC 188 Kbps 32.0 KHz
+Size: 1.32
+Level: Beginner
+Software Used: Autodesk Maya 2014
+Project Files Included
+released: June 3rd, 2013
+URL: http://www.digitaltutors.com/tutorial/1176-Introduction-to-Animation-in-Maya
+
+What you will learn
+In this set of Maya animation tutorials we will learn the intuitive and fun animation tools of Maya. We'll learn everything from how to setup animation preferences and create key frames, to learning how animation can be modified from Maya's Timeline and Graph Editor.
+
+We'll learn how to animate objects along a path, and how to animate with constraints. We'll even cover helpful tips on how to improve your productivity. By the end, you'll be equipped with the understanding you need to animate comfortably inside of Maya. 
+
+Lessons:
+1. Introduction and project overview
+2. Setting animation preferences
+3. Creating keyframes and editing animation on the Time Slider
+4. Understanding the Graph Editor
+5. Seamlessly looping animation / cycle animation infinitely
+6. Baking a cycled animation
+7. Working with Editable Motion Trails
+8. Path animation
+9. Animating with the Parent Constraint
+10. Sketching inside of Maya with the new Grease Pencil tool
+11. Previewing animation in real-time with Playblasts
+12. Animation layers
+13. Correcting Gimbal Lock with Maya's Euler Filter

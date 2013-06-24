@@ -1,0 +1,80 @@
+﻿User Type,Username,Date,Text
+,Johnnydingo,2013-05-26T07:39Z,"Aussie Aussie Aussie Oi Oi Oi !!!
+
+http://www.imdb.com/title/tt1655416/?ref_=sr_2
+
+MA15+  116 min   -  Comedy | Drama
+
+Stars: Liev Schreiber, Toni Collette, Anthony LaPaglia, Kerry Fox and Rebecca Gibney
+
+Filmed on the Gold Coast in Queensland, Australia !!!
+
+Storyline
+
+ The Moochmore girls are certain they all suffer from some kind of undiagnosed mental illness - because if they're not crazy then they're just unpopular. Their mother Shirley - unable to cope with her demanding daughters and unsupported by her philandering politician husband, Barry - suffers a nervous breakdown. After Barry commits his wife to a mental hospital (telling his constituents that ""she's on holiday"") he finds himself alone with 5 teenage girls he barely knows. Desperate, he impulsively picks up a hitchhiker named Shaz and installs her in his home as nanny to his daughters. "
+,vivatpb5776,2013-06-08T11:20Z,"For all those who care, this is a two-channel audio release."
+,vivatpb5776,2013-06-08T11:21Z,"Here are the mediainfo specs:
+
+General
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 1.10 GiB
+Duration                         : 1h 55mn
+Overall bit rate                 : 1 356 Kbps
+Encoded date                     : UTC 2013-05-25 22:21:38
+Tagged date                      : UTC 2013-05-25 22:56:00
+Writing application              : HandBrake 0.9.8 2012071700
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=4, N=32
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 55mn
+Bit rate mode                    : Variable
+Bit rate                         : 1 200 Kbps
+Width                            : 1 280 pixels
+Height                           : 536 pixels
+Display aspect ratio             : 2.35:1
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 23.810 fps
+Maximum frame rate               : 24.390 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.073
+Stream size                      : 985 MiB (88%)
+Writing library                  : x264 core 120
+Encoding settings                : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=abr / mbtree=1 / bitrate=1200 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                     : UTC 2013-05-25 22:21:38
+Tagged date                      : UTC 2013-05-25 22:55:57
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 1h 55mn
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 308 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 132 MiB (12%)
+Language                         : English
+Encoded date                     : UTC 2013-05-25 22:21:38
+Tagged date                      : UTC 2013-05-25 22:55:57"

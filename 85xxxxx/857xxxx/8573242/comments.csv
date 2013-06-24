@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+,SuperJ87,2013-06-14T14:54Z,"Anyone know why I cant use the .CRT file anymore? It just wont work no matter how many times I install it. The server reports ""Dummy Certificate Not Installed"".
+
+I've changed the folder from Read-Only to not ""Read Only"". Any ideas?"
+,Sotosyeah,2013-06-14T15:35Z,"@SuperJ87 yes, just start the server and it will work"
+,SuperJ87,2013-06-14T16:02Z,"@Sotosyeah
+
+No man, it doesn't work. When I open my origin it doesn't show Sim City like it was before, when it used to say ""Everything looks good!"". Now it just shows that Origin is offline with my games instead of SimCity like in 1.3.
+
+Does anyone know how to fix this issue? Please either fix the server to detect the .crt or fix the .crt."
+,MisterAwesome23,2013-06-14T16:27Z,"still get ""-Dummy certificate does not seem to be installed"" pleeaaaase help i couldnt even play it once"
+,SuperJ87,2013-06-14T17:23Z,"@MisterAwesome23 
+
+Finally fixed this issue.
+
+-Take the server folder, rename it to SimCity
+-Cut and Paste it to the root of your Windows Drive. Ex: C:SimCity
+
+Worked for me after constantly having the dummy certificate issue, had tried everything. If that doesnt work, try deleting all of the certificates
+
+-Type Windows Key + R or go to the Run program in the start menu
+-Type MMC and hit enter
+-Go to File --> Add/Remove Snap-in
+-Click on Certificates & Click Add. Add it under My Account. Click ok
+-Go through each Certificate Folder & Delete every instance of ""Electronic Arts, Inc CA"".
+-Close this, dont save it.
+-Re-Apply the certificate
+
+This should work too. "
+,MisterAwesome23,2013-06-14T18:09Z,"@SuperJ87
+I did everything you said but still doesnt work :("
+,MisterAwesome23,2013-06-14T20:09Z,so fuckin frustrated......i just cant fix this fuckin dummy certificate shit.....
+,DoctorGreenThumb,2013-06-14T21:41Z,"misterawesome
+same for me 2 days I couldn't get it to work for some reason , but than I just search ""you tube SIMCITY 2013 DRMLESS CRACKED-VULPESZEDRA""
+found a few videos how to installed
+I did everything like in the that video and since then I'm playing simcity  "
+,AtraxS16,2013-06-14T23:18Z,"Hello.
+Thank you for you upload and hard work, I'm so happy someone managed to crack it.
+I'm still downloading, so haven't tried it yet.
+I just have one question, does you version of the full game contain the latest official patches for the game? Because I've heard that they have fixed allot of thing like traffic and so on.
+
+If not, is there a way for us to apply them?
+Thank you again."
+,Patey,2013-06-15T01:19Z,"followed the guide, got the dummy certificate error but continued anyway, server seemed to start but it froze, continued with origin install anyway, installed right(?), but when I"" try to login I get the must be online logging in the first time.
+
+anyone know what I did wrong?"
+,mingo154,2013-06-15T01:28Z,"I got the server working no problem but Origin keeps coming up with ........""windows cannot access the specified device path or file. You may not have the appropriate permission to access the item"".....Is there anybody out there that has a solution for this problem  please."
+,6464,2013-06-15T01:47Z,"Can't trade to another city and if i play new city, my previous city is dissapear. can you FIX IT"
+,sodade_21,2013-06-15T03:02Z,Does this version allow Cheats to be enabled?
+,deaddog_,2013-06-15T04:03Z,"This is what worked for me.
+You may still get the errors in the start server at first.
+Either 1. Stop PMB.exe(Pando Media Booster) in windows task manager. 
+OR 
+2. Install Origin with your Internet disconnected.
+Hope I help you guys/girls."
+,gordonst4,2013-06-15T05:03Z,Do I have to download just this or the previous updates?
+,miguelsz3,2013-06-15T07:59Z,"Yup, Working on Windows Vista Basic 32-bit. Cheers!"
+,yohann75,2013-06-15T11:36Z,"When i leave the game, he didn't save my city ! 
+Please help."
+,XXFawkes,2013-06-15T11:39Z,"Hello, please anyone tell me if You too have only 1 region [Cape Trinity] ?
+
+I've seen that Update 1.4 fixes:
+""- Abandon cities & regions is fixed""
+
+I updated to 1.4 and then to 1.5 and I still have only 1 region. How to add more regions?"
+,MisterAwesome23,2013-06-15T12:10Z,"@deaddog_
+i cant find a PMB.exe in the task manager...and i already tried to install origin with my internet disconnected...."
+,henriax,2013-06-15T16:33Z,"I have 2 cities and I can't interact with my other city. It just shows as needed simoleons, 0 population, 0 simoleons and can't get any commuters :/
+
+Help please. 
+
+I can't get see other regions, just trinity. "
+,DoctorGreenThumb,2013-06-15T18:03Z,"it' still simcity BETA version ....
+I believe that is why only have 1 region
+and about  interact with other city
+didn't worked for me I send to my other town 900k $"
+,IrishGreen112,2013-06-15T20:21Z,@sergO6 You are a the MAN!!!!!!
+,Chorom,2013-06-15T21:03Z,"Its finally working..
+
+Just move the simcity folder to C drive and try 2/3 times to start the game.It starts eventually."
+,Patey,2013-06-15T23:39Z,"I haven't managed to get anywhere with this -.-
+I even tried starting with version one and updating from 1.x->1.2->1.3->1.4->1.5 then adding the certificate, first into trusted root, then third part trusted and copy hosts to the proper location; then install origin with internet disconnected and server started (although server still says theres a problem with dummy certificate, all ports are binded and it says running), but when I try to login to origin (with non exisiting username patey and password password) it says I must be online when logging in for the first time. any suggestions? I've made sure the file isn't read-only (even going so far as to use a technique called ""take ownership"" to make sure the file is editable), made sure it runs as administrator, even noticed in the properties of the exe files there was something about the file coming from another computer with an ""unblock"" button and did it. nothing works -.-"
+,Patey,2013-06-15T23:42Z,"also, its located in C: and renamed to SimCity (so the directory is C:SimCity). "
+,CatPlayer,2013-06-16T02:43Z,"Cool! I like to see that you guys are updating this frequently, looking forward to this.
+
+Hoping for more regions in next updates, keep up the good work."
+,MisterAwesome23,2013-06-16T15:24Z,"@Patey
+youre not alone bro, i couldnt manage to get it running too, also tried EVERYTHING"
+,Timeless3,2013-06-17T01:30Z,"@MisterAwesome23
+Had the exact same problem as you, looked up all the piratebay comments for 1 hr with no progress, then I right clicked my Simcity folder in C: and saw that it was read only. I unchecked it, apply/saved it, and clicked start.exe. It miraculously worked."
+,Patey,2013-06-17T02:45Z,"finally found a solution to the dummy certificate+ origin and simcity wont be able to reach server, open cmd as administrator and copy and paste this command ""netsh winsock RESET"" without the quotes obviously. it says you need to restart but I didn't need to. dummy certificate error will still be there"

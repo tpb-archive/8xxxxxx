@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+,EliteBeast,2013-05-27T10:03Z,http://www.imdb.com/title/tt1291580/
+,alcluizPT,2013-05-27T10:03Z,Is this the movie or a new TV Show?
+,plank123,2013-05-27T11:56Z,"The is the HBO movie that was broadcast in the US on HBO instead of Veep on May 26th 2013.
+
+It is a cinema release in most other parts of the world.
+
+Excellent quality cap and great film/prog."
+,topk,2013-05-28T21:58Z,"How come it's ""HDTV"" rip? Usually, it's DVD first, then BluRay...? And it's a highly reviewed movie. Why ""HDTV""?"
+,topk,2013-05-28T21:59Z,"Ok, I see it ran on HBO... But why didn't they release it in movie theaters if it's such a highly reviwed film? Wouldn't that be the more normal way and bring millions more of monies?"
+,musicdork,2013-05-29T00:32Z,"@ topk - Because they couldn't get a distributor in the U.S. From a recent NYTimes article:
+
+Conceived by Mr. Soderbergh as a theatrical release, “Behind the Candelabra” was unable to secure a distributor in the United States, despite the involvement of Mr. Douglas (who, besides “Traffic,” worked with the director on the 2011 film “Haywire”) and Mr. Damon (who appeared in several Soderbergh projects, including the “Ocean” films).
+
+Though the movie will be shown in theaters internationally and in competition at the Cannes Film Festival, Mr. Weintraub was certain that its frank depiction of gay characters had scared off American distributors.
+
+“They’re not going to see it in Macon, Ga., or in the Bible Belt, I’ll tell you that, “ he said. “But a lot of those people will watch this in their home that wouldn’t go to the theater.”
+
+Thank You TvTeam!"
+,topk,2013-05-29T11:13Z,"@musicdork, thx!
+
+So how come they couldn't get a distribution dela in more liberal areas like NY, Boston, Seattle, etc?"
+,fumunga,2013-06-03T06:33Z,Dumb Question.
+,Frosty_Winnipeg,2013-06-04T04:20Z,Should totally have released the movie in theatres. It's that good. AC3 audio.
+,HKCannibal,2013-06-10T05:10Z,Thanks a lot!
+,HKCannibal,2013-06-10T05:18Z,"Media Info:
+
+General
+
+Complete name                            : Behind.the.Candelabra.720p.HDTV.x264-SYS.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.49 GiB
+Duration                                 : 1h 58mn
+Overall bit rate                         : 3 006 Kbps
+Encoded date                             : UTC 2013-05-27 07:23:16
+Writing application                      : mkvmerge v3.0.0 ('Hang up your Hang-Ups') built on Apr 19 2010 11:58:49
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 58mn
+Bit rate                                 : 2 562 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.116
+Stream size                              : 2.12 GiB (85%)
+Writing library                          : x264 core 133 r2334 a3ac64b
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 58mn
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 325 MiB (13%)
+Default                                  : Yes
+Forced                                   : No"

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,BigFatAlpha,2013-05-28T23:03Z,Please request [FSX] - Captain Sim B777 All-in-One. Thanks
+,AlessioRM,2013-05-28T23:37Z,thanks man! works 100% !
+,cretanpilot,2013-05-29T00:58Z,Please request FSX Captain sim B737-200! 
+,Mutton,2013-05-29T04:51Z,"Thanks, mate!"
+,kingashi,2013-05-29T05:48Z,wow namco gr8 upload thanks a lot.....
+,kingashi,2013-05-29T06:42Z,"tested its working 100% fine..also installed mcphat uhdt looks really good...
+
+but i dont have the gauges sound...
+
+i just have the engine sound...
+
+any sugg. ???"
+,-Mauzer-,2013-05-29T07:29Z,"kingashi, go to your captain sim 757 folder and look for sound.ini, you have several ""sound off when sim is....."" lines for different states, make shure they all read zero. If that doesn't work, check your fsx dll.xml, maybe there is no line to call the captain sim sounds? E-mail me if you need details, HGW.XX_7@yahoo.com"
+,kingashi,2013-05-29T08:10Z,"@ -Mauzer
+
+Thanks i'll check and revert back.."
+,Eroxz564,2013-05-29T09:40Z,The ACE is not working so you wont be able to use the winglets paints :/
+,-Mauzer-,2013-05-29T12:42Z,"You can probably manually add the winglets, there is a winglet model and you have to edit the aircraft.cfg. If you have IQ over 90 and know basic english, you can do it :D"
+,Eroxz564,2013-05-29T14:55Z,-Mauzer- Well you need to enable it in the ace menu....
+,klipais,2013-05-29T17:58Z,"To fix sound bug , go to your FSX main directory, then, Captain_Sim757...
+
+There is a ""sound"" file... 
+
+Edit and change ""SoundOffWhenSimIsSlew=1"" to ""SoundOffWhenSimIsSlew=0"" "
+,AlessioRM,2013-05-29T18:04Z,"The ACE menu don't work,there's ""DEMO MODE"" !!"
+,Rusak96,2013-05-29T19:13Z,"Thanks, but it sucks that the winglets are missing.
+
+Req: ORBX EGTR and Imagine Sim Charlotte X"
+,-Mauzer-,2013-05-29T19:52Z,"Guys, ACE just modifies some portions of aircraft.cfg, or some other .cfg file. The winglet model is THERE, you just have to find it. Your logic equals: My car GPS is broken, therefore, the street I need to go to has dissapeared :D"
+,Rusak96,2013-05-29T20:29Z,"Well, how do you find it?"
+,-Mauzer-,2013-05-29T21:48Z,"I don't have this one installed right now, but I am making an educated guess. Go to your 757 folder in fsx/sim objects/airplanes and look inside. You should have several model folders, select the winglet one in the aircraft.cfg file for the selected livery..."
+,Eroxz564,2013-05-29T21:56Z,in aircraft cfg / ui_wglts=1
+,AlessioRM,2013-05-29T23:11Z,for the winglets OK...But the load manager?
+,blabla2a,2013-05-30T00:08Z,What is the type of the File? RAR? EXE? ZIP? ISO?? I can't open the file with these types.
+,blabla2a,2013-05-30T00:11Z,"what is the type of the file? 
+RAR? ZIP? EXE? ISO?"
+,Rusak96,2013-05-30T02:28Z,"@ Eroxz564
+
+Thanks, now my winglet models work. "
+,AlessioRM,2013-05-30T16:06Z,"@blabla , is EXE file"
+,AlessioRM,2013-06-01T16:27Z," EPORCO DIO NON POTETE CARICARE UN FILE CHE LAVORA A CAZZO DI CANE! E CHE PALLE PORCO DIO E DE TU NONNO NAMCO,MAGARI MUORI TE E TU MADRE."
+,kingashi,2013-06-04T08:36Z,"@ AlessioRM
+
+figlio di una cagna hai mai dato niente per questa comunità. andare a farsi fottere tua madre e tua sorella .. si cazzo muto."
+,AlessioRM,2013-06-04T19:35Z,che cazzo vuoi te? coglione impara a farti i cazzi propri
+,boinga,2013-06-08T10:04Z,cool!! could you please upload the new AN-2 by SibWings? thanks!!

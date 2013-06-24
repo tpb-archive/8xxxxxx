@@ -1,0 +1,13 @@
+Using your phone often? Tired of the On-Off switching?
+This app turns automatically your screen off when you put your phone into your pocket or onto a table and turn the screen on when you take it out or up. No need to touch any button and you are ready to go.
+HOW IT WORKS:
+It monitors the orientation of the device through the gravity sensor. When your phone is pointing downward by its top, in a certain angle, it's likely to be out of use. In this situation the proximity sensor is activated to determine if it is covered. If yes, the screen turns off because probably you placed the phone into your pocket or onto a table. 
+To keep the battery usage low the program turns on the proximity sensor only when it's really necessary. Moreover, when it turns your screen off and the proximity sensor is covered it puts your phone into deep sleep state to save as much energy as possible.
+MAIN FEATURES:
+- Pocket Sensor: Recognizes if your phone is in your pocket. By turning your phone below the angle you set, it'll prepare to turn the screen off.
+- Table Sensor: Detects your phone is lying on a table and turns the screen off. 
+
+- Turn Screen On by Motion: If the screen is off and it's facing up the device can be woken up by any movements, for example lift up by hand.
+- Keep Screen On by Motion: It's a Screebl like feature but it's relying on the small movements you are doing by your hand while holding the phone. If small motions are detected while the screen is facing up the feature keeps the screen on because it can be suspected that the phone is held and probably you are reading something long. If the phone is steady the normal screen timeout will apply in any position you leave your device.
+BATTERY USAGE:
+It should be not significant. I experienced about 6 per cent extra consumption on the test device. However it can be much higher by often using the Turn Screen On by Motion feature. Thus, keep your phone face down if you want to save energy.

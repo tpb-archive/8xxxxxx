@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,fexto6,2013-06-07T06:39Z,"Well, my mac totally boned the formatting on the readme I made. So, here it is below:
+
+HOW TO INSTALL =================================================
+
+**The following was tested using 32-bit Windows XP Pro.**
+
+1. Burn or mount first disk ""FLIGHT_II.iso"". Note that these are disk images and must be burned, as images, with the proper program, to work! Don't just burn the file onto a CD. Daemon Tools & Alcohol 120% are Windows programs that will allow you to mount the images without burning a CD.
+
+2. Run installer (D:/setup.exe)
+
+3. Burn or mount second disk, when prompted by the setup program. Disk II is ""FLIGHT_II_II.iso""
+
+4. Play game! There is no copy protection, thankfully. But it does read a lot of data from the second CD so it needs to be mounted to run the game. If you are having issues with the game [not related to running too new of an OS], check out the installed readme and/or included PDF manual, they are very informative and comprehensive.
+
+PATCHES & ADDITIONS ============================================
+
+Many thanks to http://relay.pp.fi/Gamepatch/ and http://replacementdocs.com/download.php?view.5410 for the following. The patch and add-ons are hard to get these days!
+
+Files Included:
+
+PDF Manual (English)
+
+flt01-04.exe   - Patch from 1.01 to 1.04 (Latest)
+
+fltabk.exe     - Adventure Building Kit (No idea how this works…)
+
+fltadpac.exe   - '6 New Adventures' Add-on
+
+fltfokk.exe    - Adds Fokker airplane		"
+,fexto6,2013-06-07T06:59Z,"One more thing, if you are having trouble running the program on Windows Vista or 7, run it in compatibility mode (Right click on program > Properties > Compatibility [Tab] > Run this program in compatibility mode [Checkbox] > Select Windows 95)"

@@ -1,0 +1,30 @@
+Episode title: Trou Normand
+
+Video
+------
+ID                                       : 1
+Format                                   : AVC
+Duration                                 : 43mn 2s
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Subtitle                                 : Yes / English
+
+Audio
+-----
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 43mn 2s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No

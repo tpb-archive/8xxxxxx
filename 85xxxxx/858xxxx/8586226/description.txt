@@ -1,0 +1,62 @@
+Note: Dalek voices are actually labeled as: Cyborg I, Cyborg II, and Cyborg III in 
+
+the actual app.
+
+NOTE: When recording, try using different recording volume levels (look for the 
+
+recording volume control within the app) in order to find the levels that work best 
+
+for your device. The default recording level of 1 may not be optimal for your 
+
+device, so you may need to play around with that setting to get good recordings..
+
+If you hear excessive static during playback, try lowering your recording volume 
+
+and make a new recording using this lower recording volume setting.
+
+TROUBLESHOOTING CHECKLIST:
+
+If you are unable to record audio using this app, try the following:
+
+CHECK 1: Speak closely into the microphone.
+
+CHECK 2: Raise the speaker volume on your phone/device.
+
+CHECK 3: Raise the recording volume from within the app.
+
+CHECK 4: Also, if you have a bluetooth headset and you are not able to record audio 
+
+or just get static, try turning your bluetooth headset off and see if that resolves 
+
+the issue.
+
+
+CHECK 5: From within the app, try selecting a different audio recording rate, via 
+
+Menu-&gt;Prefs. Supported audio recording rates include: 44100 stereo, 22050 stereo, 
+
+11025 stereo, 44100 mono, 22050 mono, 11025 mono, 48000 stereo, 48000 mono, 8000 
+
+mono. Depending on your device, only a subset of these recording rates may be 
+
+available to you.
+
+30 Total Voice Effects !
+
+Robot 1-5 (Cylon and other scifi robots),Alien 1-
+
+4(Goauld,Asgard),Backwards,Bee,Chipmunk,Cyborg 1-4(Daleks,Cybermen),Deep,Deep 
+
+Metallic(Darth Vader),Echo,Fast Backwards(foreign language),Fast Normal,Freaky 1-
+
+2,Helium(Despicable Minion),Hyper,Metallic,Possessed,Saw-Man(Jigsaw),Slow 
+
+Backwards,Slow Normal
+
+What's in this version : (Updated : Jun 16, 2013)
+
+updated ui. use ogg/vorbis audio files for favorites and email attachments. added 
+
+ability to create an email attachment directly from the main screen. when incoming 
+
+phone call is detected, gracefully stops the current recording/playback

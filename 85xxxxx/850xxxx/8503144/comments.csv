@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,allopis,2013-05-24T10:31Z,Gracias
+,1935roosters,2013-05-25T05:27Z,thank you very much.
+,AmaFan,2013-05-25T19:05Z,"I'm connected to 45 peers and one seed, but the last 0.5% of the file won't download from anywhere for half a day now, even while uploading to other peers is ongoing. Apparently, most peers are stuck at the same level. What the hell? The trackers seem to be the same as for days 12 and 13, which download fine."
+,AmaFan,2013-05-26T11:50Z,"Still no download of the complete file.
+
+Bum_Fluff, could it be that you changed the Natsu2013 11 E.mp4 file while seeding (like correcting a typo in it)? I checked everything and found that my uTorrent banned your IP for hashfail on piece #315."
+,AmaFan,2013-05-26T12:48Z,"To be clear, the hashfail + auto-ban on piece #316 happened repeatedly after re-launching the torrent client. I just tried that again, three times, and now each time it happened with piece #316."

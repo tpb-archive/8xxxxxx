@@ -1,0 +1,16 @@
+Incluye los dlc zombies con todos los mapas de zombies solamente offline 
+tiene que ser obligatorio el call of duty black ops version skidrow 
+para jugar solo en el menu presionan las siguientes teclas:
+
+bind F1  "map zombie_theater"               
+bind F2  "map zombie_pentagon"             
+bind F3  "map zombietron"
+bind F4  "map zombie_cod5_prototype"
+bind F5  "map zombie_cod5_asylum"
+bind F6  "map zombie_cod5_sumpf"
+bind F7  "map zombie_cod5_factory"
+bind F8  "map zombie_cosmodrome"
+bind F9  "map zombie_coast"
+bind F10 "map zombie_temple"
+bind F11 "map zombie_moon"
+ 

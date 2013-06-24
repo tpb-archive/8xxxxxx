@@ -1,0 +1,5 @@
+VxWorks for ARM & Pentium
+
+
+Description: VxWorks - Real Time Operating System (RTOS), developed by Wind River Systems (USA), focused on the use of embedded computers that are in hard real-time systems. VxWorks is a system with cross-development tools software application. In other words, development is happening on the computer tool called the host, for later use it on the target machine - target.
+Like most other real-time OS, VxWorks includes a multitasking kernel with preemptive scheduler and a fast response to interrupts, inter-process communication and synchronization, as well as the file system and the network subsystem (protocol stack TCP / IP). The package includes tools for cross-compiling, monitoring performance (WindView), a remote symbolic debugging, and emulation of different processors. Additionally provided significant number of different protocol stacks, graphics and other subsystems as most of Wind River Systems, and by a third party. The set of supported VxWorks embedded platform is one of the most extensive of real-time operating systems.

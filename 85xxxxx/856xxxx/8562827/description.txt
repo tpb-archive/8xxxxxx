@@ -1,0 +1,44 @@
+Root Explorer is the ultimate file manager for root users. Access the whole of 
+
+android's file system (including the elusive data folder!).
+
+Features include multiple tabs, Google Drive, Box, Dropbox and network (SMB) support, 
+
+SQLite database viewer, Text Editor, create and extract zip or tar/gzip files, 
+
+extract rar archives, multi-select, execute scripts, search, remount, permissions, 
+
+bookmarks, send files (via email, bluetooth etc), image thumbnails, APK binary XML 
+
+viewer, change file owner/group, create symbolic link, "Open With" facility, MD5, 
+
+create shortcuts.
+
+
+What's in this version:
+
+v3.0.1
+
+UPDATED ON:
+
+June 10, 2013
+
+ΓÇó Added parent folder link on storage tab.
+
+ΓÇó Fixed some FC conditions and other reported issues.
+
+v3.0
+
+ΓÇó Multiple tabs.
+
+ΓÇó Network (SMB), Google Drive, Box and Dropbox support.
+
+ΓÇó Concurrent, background processing of multiple operations with notifications.
+
+ΓÇó New action status with progress display and ability to cancel all long-running 
+
+operations.
+
+ΓÇó Action bar and multi-select action mode support.
+
+ΓÇó Fully customizable list icons.

@@ -1,0 +1,58 @@
+Realtime Web Apps: With HTML5 WebSocket, PHP, and jQuery
+
+Book Details:
+
+Pages: 312
+Publisher: Apress (April 2013)
+Language: English
+ISBN-10: 1430246200
+ISBN-13: 978-1430246206
+Format: PDF, EPUB
+
+Book Description:
+
+Realtime Web Apps: With HTML5 WebSocket, PHP, and jQuery is a guide for beginner to intermediate level web developers looking to take the next leap forward in website and app development: realtime.
+
+With Realtime Web Apps, you will be able to quickly get up to speed on what HTML5 WebSocket does, how it is going to affect the future of the web as we know it, and thanks to Pushers simple API start developing your first realtime app today.
+
+Only lightly touching on the heavy theory and instead focusing on a practical approach, Realtime Web Apps will guide you through building your first app using HTML5, CSS3, jQuery, and Pusher. After your initial introduction to the technologies used in the book, you will immediately jump into the process of creating a realtime Q&A app that will work on desktop browsers as well as mobile phones (including iOS and Android).
+
+In addition to learning realtime development strategies, youΓÇÖ will also learn progressive development strategies including responsive CSS3 layouts, AJAX development with jQuery, and more.
+
+The future of the web is realtime. Grab your hoverboard.
+
+Introduces you to the revolutionary capabilities of the HTML5 WebSocket API
+Gets you started with WebSocket immediately using the super-simple Pusher API
+Walks you through the development of a real-life realtime web app
+Gets you working with responsive layouts, jQuery, and AJAX development
+
+What youΓÇÖll learn:
+
+Familiarize yourself with what realtime means and how it changes the web as we know it.
+Learn how to utilize responsive web design and jQuery to create a single web app instead of multiple platform-specific applications.
+Get up and running with the Pusher API to start developing realtime apps today.
+Build a web app back-end with PHP and MySQL.
+Integrate AJAX and realtime interactivity into your web app.
+Use OAuth 2.0 to allow users to log in to your app (including Facebook and Twitter OAuth).
+
+Who this book is for:
+
+Realtime Web Apps: With HTML5 WebSocket, PHP, and jQuery is for the beginning to intermediate level web developer who is ready to usher in the next era of web apps. It is for those whose time is precious, but have a need to implement realtime functionality into their projects. Realtime Web Apps is written for and by geeks who love to expand their skillset but donΓÇÖt have weeks to dedicate to learning how to implement new technology. ItΓÇÖs the perfect tool for busy web professionals who need to get up to speed with the latest the web has to offer quickly and in such a way that it is immediately applicable to their projects.
+
+Table of Contents:
+
+Part I: Getting Familiar with the Required Technologies
+Chapter 1. What Is Realtime?
+Chapter 2. The Tools
+Chapter 3. Pusher
+
+Part II: Planning the App
+Chapter 4. Choosing Web Apps Over Native Apps
+Chapter 5. Determining the AppΓÇÖs Functionality and Structure
+
+Part III: Building the Basics
+Chapter 6. Designing the App
+Chapter 7. Creating HTML and CSS Markup
+Chapter 8. Building the Back End: Part 1
+Chapter 9. Building the Back-End: Part 2
+Chapter 10. Implementing Realtime Events and jQuery Effects

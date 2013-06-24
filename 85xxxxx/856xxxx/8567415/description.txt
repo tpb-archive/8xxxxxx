@@ -1,0 +1,77 @@
+Sinopse e detalhes
+
+Peter Parker (Tobey Maguire) é um jovem estudioso que vive com seus tios, Ben (Cliff Robertson) e May (Rosemary Harris), desde que seus pais faleceram. Inteligente e com um grande interesse pela ciência, Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha, fazendo com que Peter possa escalar paredes e tetos, emitir pelos punhos um fluido ultra-resistente semelhante à uma teia de aranha e passe a ter um "sentido de aranha", que o avisa sempre que há perigo por perto, além de superforça e visão ampliada. Inicialmente Peter pensa em usar seus novos poderes para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao permitir que um ladrão fuja por não considerar sua função capturá-lo, o fugitivo acaba assassinando seu tio Ben. A partir de então, Peter decide não mais usar seus poderes para proveito próprio e sim para enfrentar o mal, tendo como seu primeiro grande desafio enfrentar o psicótico Duende Verde (Willem Dafoe), que na verdade é o empresário Norman Osborn após ter sido exposto à um gás experimental que lhe deu uma segunda personalidade e grande força física.
+
+Format : Matroska
+Format version : Version 2
+File size : 779 MiB
+Duration : 2h 1mn
+Overall bit rate mode : Variable
+Overall bit rate : 899 Kbps
+Encoded date : UTC 2013-06-12 14:19:42
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 1mn
+Bit rate : 772 Kbps
+Width : 1 280 pixels
+Height : 688 pixels
+Display aspect ratio : 1.85:1
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.037
+Stream size : 653 MiB (84%)
+Title : Spider-Man 1 ( Zagor Lukas )
+Writing library : x264 core 114 r1924 08d04a4
+Encoding settings : cabac=1 / ref=5 / deblock=1:-2:-1 / analyse=0x3:0x113 / me=umh / subme=5 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=772 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=2:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Muxing mode : Header stripping
+Codec ID : A_MPEG/L3
+Codec ID/Hint : MP3
+Duration : 2h 0mn
+Bit rate mode : Variable
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 110 MiB (14%)
+Title : por
+Writing library : LAME3.96r
+Encoding settings : -m j -V 4 -q 2 -lowpass 17.5 --abr 128
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text
+ID : 3
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No

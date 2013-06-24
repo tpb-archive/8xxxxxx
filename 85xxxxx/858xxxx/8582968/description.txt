@@ -1,0 +1,26 @@
+
+
+SANS SEC660: Advanced Penetration Testing, Exploits, and Ethical Hacking (2012)
+
+
+Description:
+
+
+SANS SEC660: Advanced Penetration Testing, Exploits, and Ethical Hacking is designed as a logical progression point for those who have completed SANS SEC560 Network Penetration Testing and Ethical Hacking, or for those with existing penetration testing experience. Students with the prerequisite knowledge to take this course will walk through dozens of real world attacks used by the most seasoned penetration testers.
+
+The methodology of a given attack is discussed, followed by exercises in a real world lab environment to solidify advanced concepts and allow for the immediate application of techniques in the workplace. Each day includes a two-hour evening bootcamp to allow for additional mastery of the techniques discussed and even more hands-on exercises. A sample of topics covered include weaponizing Python for penetration testers, attacks against network access control (NAC) and VLAN manipulation, network device exploitation, breaking out of Linux and Windows restricted environments, IPv6, Linux privilege escalation and exploit-writing, testing cryptographic implementations, fuzzing, defeating modern OS controls such as ASLR and DEP, Return Oriented Programming (ROP), Windows exploit-writing, and much more!
+
+
+
+PDF's:
+
+1. Sans Sec 660.1 - Advanced Penetration Testing Essentials
+
+2. Sans Sec 660.2 - Network Attacks for Penetration Testers
+
+3. Sans Sec 660.3 - Attacking the Domain
+
+4. Sans Sec 660.4 - Exploiting Linux for Penetration Testers
+
+5. Sans Sec 660.5 - Exploiting Windows for Penetration Testers
+

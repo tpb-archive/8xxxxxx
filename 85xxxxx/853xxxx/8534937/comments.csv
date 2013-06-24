@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,iNeedAWorkingUsernameFFS,2013-06-03T07:14Z,"One annoying misdetection/false positive on the business edition on Virustotal. F-Prot detects it as ""W32/Damaged_File.gen!Eldorado"" for whatever reason. After a bit of googling, it seems there have been quite a lot of false positives with that name, including some windows updates straight from MS servers.. lol"
+,iNeedAWorkingUsernameFFS,2013-06-03T07:23Z,"Marketing blurb from FinalWires website:  
+
+The new AIDA64 release introduces completely rewritten memory bandwidth and memory latency benchmarks, optimized for AVX2, AVX and SSE capable AMD, Intel and VIA processors. The latest AIDA64 update also implements optimized 64-bit benchmarks for AMD “Kabini” and Intel “Haswell” processors, and supports the latest AMD Radeon and nVIDIA GeForce graphics accelerators.
+
+New features & improvements:
+
+Multi-threaded cache and memory bandwidth benchmarks with AVX2, AVX and SSE optimizations
+Block-random cache and memory latency benchmark
+Optimized 64-bit benchmarks for AMD “Kabini” and “Temash” APUs
+AVX2 and FMA optimized 64-bit benchmarks for Intel “Haswell” processors
+Preliminary support for L4 cache of Intel “Crystal Well” processors
+Crucial M500, OCZ Vertex 450 SSD support
+GPU details for AMD Radeon HD 7990 “Malta” and nVIDIA GeForce 700 Series
+http://www.aida64.com/whatsnew/memory-benchmark-amd-kabini-temash-intel-haswell-l4-cache"
+,Tazmanyak,2013-06-03T12:27Z,"Will test this one, thank you ;)"

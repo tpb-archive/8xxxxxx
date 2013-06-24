@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,adenin00,2013-06-06T18:22Z,"I can't add -keyboard to a target field ,please some advice!"
+,nullroute,2013-06-06T19:13Z,"Go to the Dishwasher.exe in the ""/DVSProject9/DishwasherVS"" folder and right click it and make a shortcut to your desktop.
+
+Right click the shortcut you just made on your desktop and add -keyboard   to the Target. "
+,11111111102,2013-06-06T19:18Z,You need this to play: http://www.microsoft.com/en-us/download/details.aspx?id=15163
+,adenin00,2013-06-06T20:36Z,"I did that , but i get an error that the name specified in the target is incorrect, maybe , you could just paste exactly , what i have to wright."
+,Donkrieg1101,2013-06-06T20:52Z,How do I play this with the keyboard?
+,Da3s,2013-06-07T07:08Z,"Works perfect, thanks"
+,swat6296,2013-06-07T11:01Z,"Doesn't work. I see intro screens (xbox etc.), but after the message about autosaving I get an ""CLR20r3"" error. Did anyone encounter the same?"
+,swat6296,2013-06-07T11:01Z,*doesn't work for me
+,AngeliumX31,2013-06-08T03:13Z,"Please help I'm totally noobish T.T  When I right click on the shortcut on the desktop and click Properties I see
+Target: C:DownloadsDVSProject9DishwasherVSDishwasher.exe
+
+I suppose i have to place ""-keyboard"" after the .exe (without commas) right but I keep getting
+
+The name ' C:DownloadsDVSProject9DishwasherVSDishwasher.exe-keyboard' specified in the Target box is not valid "
+,bungunners,2013-06-08T10:22Z,"@AngeliumX31  you would add a space before the minus sign.  I have not yet played the game, so I cant verify the target stuff, but if what you wrote is correct, the target box would read:   ""C:DownloadsDVSProject9DishwasherVSDishwasher.exe"" -keyboard
+
+As a matter of fact, if that is your path to the game you can just copy/paste that in the target field...quotes and all."
+,bungunners,2013-06-08T10:25Z,"ah shit, it didn't let me write out back slashes...you know where to put them though, so just paste in your target, then put the back slashes after each directory with no spaces in between and you're good to go."
+,AngeliumX31,2013-06-08T17:17Z,Ok thanks gunbunners working now!
+,Delryn,2013-06-08T17:22Z,"I have XNA 3.1. I see the XBox Arcade splash screen, but the game crashes immediately after that. Help?"
+,Delryn,2013-06-08T17:42Z,"Ah, if you don't have a controller you MUST do the -keyboard flag on the shortcut/command line.
+
+Works perfectly, and not too hard to control with a keyboard."
+,fauzanfox,2013-06-10T06:48Z,i had black screen and triangle only when playing this... is there any fix?

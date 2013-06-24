@@ -1,0 +1,83 @@
+﻿Filename,Size,Unit
+01_Introduction_and_Project_Overview.mp4,14.45,M
+02_Working_with_Geometry.mp4,117.89,M
+03_Working_with_Splines.mp4,71.85,M
+04_Smoothing_Workflows.mp4,66.17,M
+05_Organization_and_Hierarchy.mp4,78.17,M
+06_Setting_up_reference_images.mp4,64.93,M
+07_Blocking_in_the_car_shell.mp4,139.22,M
+08_Adding_detail_to_the_car_shell.mp4,95.64,M
+09_Modeling_the_tires.mp4,64.38,M
+10_Modeling_the_wheel.mp4,112.22,M
+11_Modeling_the_screw_head.mp4,68.73,M
+12_Assembling_the_wheels.mp4,88.99,M
+13_Modeling_the_springs.mp4,140.07,M
+14_Adding_tire_tread.mp4,88.33,M
+15_Modeling_the_frame.mp4,85.71,M
+16_Modeling_the_carriage.mp4,130.86,M
+17_Modeling_the_spring_connectors.mp4,108.28,M
+18_Assembling_the_suspension_parts.mp4,128.44,M
+19_Mirroring_the_suspension_parts.mp4,48.15,M
+20_Modeling_the_spoiler.mp4,70.84,M
+21_Connecting_the_spoiler_to_the_frame.mp4,56.31,M
+22_Modeling_the_bumper.mp4,80.89,M
+23_Modeling_the_car_shell_cover.mp4,140.82,M
+24_Modeling_the_antenna.mp4,116.37,M
+25_Blocking_in_the_remote.mp4,77.23,M
+26_Blocking_in_the_control_knobs.mp4,87.39,M
+27_Modeling_the_remote_surface_detail.mp4,114.57,M
+28_Cleaning_up_the_geometry_and_organizing_the_scene.mp4,114.25,M
+29_Assigning_basic_materials.mp4,109.98,M
+30_UV_Basics.mp4,91.02,M
+31_Texture_painting_overview.mp4,102.1,M
+project_files/3ds Max Files/3ds Max Files.mxp,2.21,K
+project_files/3ds Max Files/assets/images/background.jpg,809,B
+project_files/3ds Max Files/sceneassets/images/CarShellCover_Bump.jpg,364.14,K
+project_files/3ds Max Files/sceneassets/images/CarShellCover_Diffuse.jpg,413.7,K
+project_files/3ds Max Files/sceneassets/images/CarShell_Bump.jpg,1.19,M
+project_files/3ds Max Files/sceneassets/images/CarShell_Diffuse.jpg,1.54,M
+project_files/3ds Max Files/sceneassets/images/Front_Reference.png,975.48,K
+project_files/3ds Max Files/sceneassets/images/Profile_Reference.png,1.2,M
+project_files/3ds Max Files/sceneassets/images/SpoilerFinsREV_Bump.jpg,308.57,K
+project_files/3ds Max Files/sceneassets/images/SpoilerFinsREV_Diffuse.jpg,524.01,K
+project_files/3ds Max Files/sceneassets/images/SpoilerFins_Bump.jpg,308.58,K
+project_files/3ds Max Files/sceneassets/images/SpoilerFins_Diffuse.jpg,520.96,K
+project_files/3ds Max Files/sceneassets/images/SpoilerMain_Bump.jpg,322.76,K
+project_files/3ds Max Files/sceneassets/images/SpoilerMain_Diffuse.jpg,549.39,K
+project_files/3ds Max Files/sceneassets/images/Top_Reference.png,2.05,M
+project_files/3ds Max Files/scenes/02_Begin.max,324,K
+project_files/3ds Max Files/scenes/03_Begin.max,176,K
+project_files/3ds Max Files/scenes/04_Begin.max,176,K
+project_files/3ds Max Files/scenes/05_Begin.max,184,K
+project_files/3ds Max Files/scenes/06_Begin.max,220,K
+project_files/3ds Max Files/scenes/07_Begin.max,364,K
+project_files/3ds Max Files/scenes/08_Begin.max,380,K
+project_files/3ds Max Files/scenes/09_Begin.max,400,K
+project_files/3ds Max Files/scenes/10_Begin.max,440,K
+project_files/3ds Max Files/scenes/11_Begin.max,524,K
+project_files/3ds Max Files/scenes/12_Begin.max,596,K
+project_files/3ds Max Files/scenes/13_Begin.max,640,K
+project_files/3ds Max Files/scenes/14_Begin.max,852,K
+project_files/3ds Max Files/scenes/15_Begin.max,4.44,M
+project_files/3ds Max Files/scenes/16_Begin.max,4.45,M
+project_files/3ds Max Files/scenes/17_Begin.max,4.55,M
+project_files/3ds Max Files/scenes/18_Begin.max,4.57,M
+project_files/3ds Max Files/scenes/19_Begin.max,8.79,M
+project_files/3ds Max Files/scenes/20_Begin.max,17.06,M
+project_files/3ds Max Files/scenes/21_Begin.max,17.09,M
+project_files/3ds Max Files/scenes/22_Begin.max,17.11,M
+project_files/3ds Max Files/scenes/23_Begin.max,17.13,M
+project_files/3ds Max Files/scenes/24_Begin.max,17.16,M
+project_files/3ds Max Files/scenes/25_Begin.max,17.27,M
+project_files/3ds Max Files/scenes/26_Begin.max,17.48,M
+project_files/3ds Max Files/scenes/27_Begin.max,17.58,M
+project_files/3ds Max Files/scenes/28_Begin.max,17.66,M
+project_files/3ds Max Files/scenes/29_Begin.max,17.74,M
+project_files/3ds Max Files/scenes/30_Begin.max,17.91,M
+project_files/3ds Max Files/scenes/30_End.max,7.77,M
+project_files/3ds Max Files/scenes/31_Begin.max,17.97,M
+project_files/3ds Max Files/scenes/31_End.max,7.77,M
+project_files/Referenced Files/PSD/CarShellCover.psd,2.48,M
+project_files/Referenced Files/PSD/CarShell_Main.psd,6.96,M
+project_files/Referenced Files/PSD/SpoilerFins.psd,2.36,M
+project_files/Referenced Files/PSD/SpoilerMain.psd,4.31,M

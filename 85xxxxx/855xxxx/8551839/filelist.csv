@@ -1,0 +1,143 @@
+﻿Filename,Size,Unit
+3710_Introduction and Welcome/Instructor Notes/3710_Introduction and Welcome.pdf,302.11,K
+3710_Introduction and Welcome/Lab/CCNP ROUTE Lab Project Answer Key 5-2013.pdf,1.16,M
+3710_Introduction and Welcome/MP3/3710_Introduction and Welcome.mp3,8.99,M
+3710_Introduction and Welcome/id3710.wmv,5.35,M
+3711_The PowerShell Paradigm/Additional Files/demo-paradigm.txt,1.25,K
+3711_The PowerShell Paradigm/Instructor Notes/3711_The PowerShell Paradigm.pdf,406.01,K
+3711_The PowerShell Paradigm/MP3/3711_The PowerShell Paradigm.mp3,24.77,M
+3711_The PowerShell Paradigm/id3711.wmv,28.93,M
+3712_Requirements and Installations/Instructor Notes/3712_Requirements and Installations.pdf,227.12,K
+3712_Requirements and Installations/MP3/3712_Requirements and Installations.mp3,14,M
+3712_Requirements and Installations/id3712.wmv,12.32,M
+3713_Using PowerShell Help/Additional Files/demo-gettinghelp.txt,589,B
+3713_Using PowerShell Help/Additional Files/Getting Help Lab.txt,457,B
+3713_Using PowerShell Help/Additional Files/demo-updatehelp.txt,343,B
+3713_Using PowerShell Help/Instructor Notes/3713_Using PowerShell Help.pdf,421.73,K
+3713_Using PowerShell Help/MP3/3713_Using PowerShell Help.mp3,33,M
+3713_Using PowerShell Help/id3713.wmv,49.22,M
+3714_The PowerShell ISE/Additional Files/ISE Lab.txt,908,B
+3714_The PowerShell ISE/Instructor Notes/3714_The PowerShell ISE.pdf,479.71,K
+3714_The PowerShell ISE/MP3/3714_The PowerShell ISE.mp3,17.41,M
+3714_The PowerShell ISE/id3714.wmv,19.12,M
+3715_PowerShell Providers/Additional Files/demo-providers.txt,2,K
+3715_PowerShell Providers/Additional Files/Providers_Lab.txt,733,B
+3715_PowerShell Providers/Instructor Notes/3715_PowerShell Providers.pdf,800.64,K
+3715_PowerShell Providers/MP3/3715_PowerShell Providers.mp3,32.32,M
+3715_PowerShell Providers/id3715.wmv,37.21,M
+3716_Extending PowerShell/Additional Files/demo-extensions.ps1,1013,B
+3716_Extending PowerShell/Additional Files/Extending PowerShell Lab.txt,500,B
+3716_Extending PowerShell/Instructor Notes/3716_Extending PowerShell.pdf,342.13,K
+3716_Extending PowerShell/MP3/3716_Extending PowerShell.mp3,17.48,M
+3716_Extending PowerShell/id3716.wmv,25.16,M
+3717_Understanding the PowerShell Pipeline/Instructor Notes/3717_Understanding the PowerShell Pipeline.pdf,799.01,K
+3717_Understanding the PowerShell Pipeline/MP3/3717_Understanding the PowerShell Pipeline.mp3,55.7,M
+3717_Understanding the PowerShell Pipeline/id3717.wmv,84.72,M
+3718_PowerShell Operators/Additional Files/Demo-Operators.ps1,2.96,K
+3718_PowerShell Operators/Additional Files/Operators Lab.txt,657,B
+3718_PowerShell Operators/Instructor Notes/3718_PowerShell Operators.pdf,689.65,K
+3718_PowerShell Operators/MP3/3718_PowerShell Operators.mp3,36.35,M
+3718_PowerShell Operators/id3718.wmv,57.6,M
+3719_Core PowerShell Cmdlets/Additional Files/demo-corecmdlets.ps1,5.92,K
+3719_Core PowerShell Cmdlets/Additional Files/Core Cmdlets Lab.txt,871,B
+3719_Core PowerShell Cmdlets/Instructor Notes/3719_Core PowerShell Cmdlets.pdf,479.73,K
+3719_Core PowerShell Cmdlets/MP3/3719_Core PowerShell Cmdlets.mp3,48.23,M
+3719_Core PowerShell Cmdlets/id3719.wmv,77.24,M
+3720_Arrays and Hash tables/Instructor Notes/Lesson10_Arrays and Hash tables.pdf,583.01,K
+3720_Arrays and Hash tables/MP3/Lesson10_Arrays and Hash tables.mp3,40.02,M
+3720_Arrays and Hash tables/id3720.wmv,47.2,M
+3721_Working with Objects/Additional Files/Demo-Objects.ps1,1.95,K
+3721_Working with Objects/Additional Files/Demo-ObjectMembers.ps1,1.65,K
+3721_Working with Objects/Additional Files/Working with Objects Lab.txt,714,B
+3721_Working with Objects/Instructor Notes/3721_Working with Objects.pdf,424.94,K
+3721_Working with Objects/MP3/3721_Working with Objects.mp3,43.46,M
+3721_Working with Objects/id3721.wmv,69.42,M
+3722_PowerShell Formatting/Additional Files/Demo-PowerShellFormatting.ps1,3.17,K
+3722_PowerShell Formatting/Additional Files/Formatting Lab.txt,673,B
+3722_PowerShell Formatting/Instructor Notes/3722_PowerShell Formatting.pdf,396.54,K
+3722_PowerShell Formatting/MP3/3722_PowerShell Formatting.mp3,23.79,M
+3722_PowerShell Formatting/id3722.wmv,48.48,M
+3723_PowerShell Serialization/Additional Files/demo-csvserialization.ps1,1.97,K
+3723_PowerShell Serialization/Additional Files/demo-xmlserialization.ps1,884,B
+3723_PowerShell Serialization/Additional Files/newusers.csv,750,B
+3723_PowerShell Serialization/Additional Files/Serialization Lab.txt,743,B
+3723_PowerShell Serialization/Instructor Notes/3723_PowerShell Serialization.pdf,389.55,K
+3723_PowerShell Serialization/MP3/3723_PowerShell Serialization.mp3,30.59,M
+3723_PowerShell Serialization/id3723.wmv,63.84,M
+3724_PowerShell and Regular Expressions/Additional Files/common-regex.ps1,2.02,K
+3724_PowerShell and Regular Expressions/Additional Files/demo-regex.ps1,805,B
+3724_PowerShell and Regular Expressions/Additional Files/demo-selectstring.ps1,737,B
+3724_PowerShell and Regular Expressions/Additional Files/Lab 15.txt,565,B
+3724_PowerShell and Regular Expressions/Additional Files/PhoneNumbers.txt,99,B
+3724_PowerShell and Regular Expressions/Instructor Notes/3724_PowerShell and Regular Expressions.pdf,470.7,K
+3724_PowerShell and Regular Expressions/MP3/3724_PowerShell and Regular Expressions.mp3,36.57,M
+3724_PowerShell and Regular Expressions/id3724.wmv,62.72,M
+3725_PowerShell Background Jobs/Additional Files/demo-backgroundjobs.ps1,3.52,K
+3725_PowerShell Background Jobs/Additional Files/Lab 16.txt,640,B
+3725_PowerShell Background Jobs/Instructor Notes/3725_PowerShell Background Jobs.pdf,289.73,K
+3725_PowerShell Background Jobs/MP3/3725_PowerShell Background Jobs.mp3,26.38,M
+3725_PowerShell Background Jobs/id3725.wmv,33.36,M
+3726_PowerShell Scheduled Jobs/Additional Files/Demo-ScheduledJob.ps1,3.47,K
+3726_PowerShell Scheduled Jobs/Additional Files/Lab 17.txt,744,B
+3726_PowerShell Scheduled Jobs/Instructor Notes/3726_PowerShell Scheduled Jobs.pdf,344.81,K
+3726_PowerShell Scheduled Jobs/MP3/3726_PowerShell Scheduled Jobs.mp3,22.7,M
+3726_PowerShell Scheduled Jobs/id3726.wmv,63.76,M
+3727_PowerShell Remoting/Additional Files/Configure PowerShell Remoting.htm,147.81,K
+3727_PowerShell Remoting/Additional Files/Demo-PSSessions.ps1,2.07,K
+3727_PowerShell Remoting/Additional Files/Demo-EnableRemoting.ps1,1.28,K
+3727_PowerShell Remoting/Additional Files/Lab 18.txt,615,B
+3727_PowerShell Remoting/Instructor Notes/3727_PowerShell Remoting.pdf,468.85,K
+3727_PowerShell Remoting/MP3/3727_PowerShell Remoting.mp3,45.09,M
+3727_PowerShell Remoting/id3727.wmv,89.3,M
+3728_PowerShell and WMI/Additional Files/Demo-WMITips.ps1,2.94,K
+3728_PowerShell and WMI/Additional Files/Demo-WMI.ps1,2.43,K
+3728_PowerShell and WMI/Additional Files/Demo-WMIMethod.ps1,1.85,K
+3728_PowerShell and WMI/Additional Files/Lab 19.txt,1.61,K
+3728_PowerShell and WMI/Additional Files/in progress.txt,13,B
+3728_PowerShell and WMI/Instructor Notes/3728_PowerShell and WMI.pdf,529.24,K
+3728_PowerShell and WMI/MP3/3728_PowerShell and WMI.mp3,62.28,M
+3728_PowerShell and WMI/id3728.wmv,131.91,M
+3729_PowerShell and CIM/Additional Files/Demo-CIMCmdlets.ps1,2.73,K
+3729_PowerShell and CIM/Additional Files/Demo-CIMSessions.ps1,1.81,K
+3729_PowerShell and CIM/Additional Files/Lab 20.txt,1.14,K
+3729_PowerShell and CIM/Additional Files/Demo-CIMMethods.ps1,1.11,K
+3729_PowerShell and CIM/Instructor Notes/3729_PowerShell and CIM.pdf,486.24,K
+3729_PowerShell and CIM/MP3/3729_PowerShell and CIM.mp3,43.29,M
+3729_PowerShell and CIM/id3729.wmv,96.19,M
+3730_PowerShell Web Cmdlets/Additional Files/Demo-InvokeWebRequest.ps1,1.64,K
+3730_PowerShell Web Cmdlets/Additional Files/Demo-InvokeRestMethod.ps1,869,B
+3730_PowerShell Web Cmdlets/Additional Files/Demo-New-WebServiceProxy.ps1,542,B
+3730_PowerShell Web Cmdlets/Instructor Notes/3730_PowerShell Web Cmdlets.pdf,290.94,K
+3730_PowerShell Web Cmdlets/MP3/3730_PowerShell Web Cmdlets.mp3,26.13,M
+3730_PowerShell Web Cmdlets/id3730.wmv,70.3,M
+3731_PowerShell Scripting Basics/Additional Files/Lab22.txt,252,B
+3731_PowerShell Scripting Basics/Instructor Notes/3731_PowerShell Scripting Basics.pdf,489.96,K
+3731_PowerShell Scripting Basics/MP3/3731_PowerShell Scripting Basics.mp3,43.48,M
+3731_PowerShell Scripting Basics/id3731.wmv,66.05,M
+3732_PowerShell Scripts and Functions/Additional Files/Demo-ScriptingConstructs.ps1,4.41,K
+3732_PowerShell Scripts and Functions/Additional Files/simplescript.ps1,1.9,K
+3732_PowerShell Scripts and Functions/Additional Files/SimpleFunction.ps1,1.24,K
+3732_PowerShell Scripts and Functions/Additional Files/Lab23.ps1,1.05,K
+3732_PowerShell Scripts and Functions/Additional Files/Demo-ScriptsandFunctions.ps1,186,B
+3732_PowerShell Scripts and Functions/Instructor Notes/3732_PowerShell Scripts and Functions.pdf,373.66,K
+3732_PowerShell Scripts and Functions/MP3/3732_PowerShell Scripts and Functions.mp3,35.27,M
+3732_PowerShell Scripts and Functions/id3732.wmv,49.51,M
+3733_PowerShell Script Error Handling and Debugging/Additional Files/Demo-ErrorPreference.ps1,1.38,K
+3733_PowerShell Script Error Handling and Debugging/Additional Files/Demo-TryCatch.ps1,1016,B
+3733_PowerShell Script Error Handling and Debugging/Additional Files/buggy.ps1,764,B
+3733_PowerShell Script Error Handling and Debugging/Instructor Notes/3733_PowerShell Script Error Handling and Debugging.pdf,602.57,K
+3733_PowerShell Script Error Handling and Debugging/MP3/3733_PowerShell Script Error Handling and Debugging.mp3,47.76,M
+3733_PowerShell Script Error Handling and Debugging/id3733.wmv,82.28,M
+3734_PowerShell Practicum/Additional Files/Demo-NewFileShare.ps1,2.99,K
+3734_PowerShell Practicum/Additional Files/ADHealthCheck.ps1,2.69,K
+3734_PowerShell Practicum/Additional Files/Demo-FileAging.ps1,2.12,K
+3734_PowerShell Practicum/Additional Files/Get-FolderSize-v3.ps1,1016,B
+3734_PowerShell Practicum/Additional Files/Demo-FolderSize.ps1,954,B
+3734_PowerShell Practicum/Additional Files/Configure-EventlogSettings.ps1,784,B
+3734_PowerShell Practicum/Additional Files/DemoList.txt,111,B
+3734_PowerShell Practicum/Instructor Notes/3734_PowerShell Practicum.pdf,279.3,K
+3734_PowerShell Practicum/MP3/3734_PowerShell Practicum.mp3,35.61,M
+3734_PowerShell Practicum/id3734.wmv,95.29,M
+3735_Whats Next/Instructor Notes/3735_Whats Next.pdf,409.82,K
+3735_Whats Next/MP3/3735_Whats Next.mp3,13.79,M
+3735_Whats Next/id3735.wmv,8.53,M

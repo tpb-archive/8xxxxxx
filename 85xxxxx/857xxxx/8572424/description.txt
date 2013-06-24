@@ -1,0 +1,47 @@
+General
+Format                                   : Matroska
+File size                                : 1.04 GiB
+Duration                                 : 1h 40mn
+Overall bit rate                         : 1 478 Kbps
+Movie name                               : Shin Chan Movie The Spy 720p WEB-DL 2ch Hindi ~ Kishan(Wall.e)
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=60
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 40mn
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Title                                    : Shin Chan Movie The Spy 720p WEB-DL 2ch Hindi ~ Kishan(Wall.e)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 40mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Title                                    : 2ch Hindi ~ Kishan(Wall.e)
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No

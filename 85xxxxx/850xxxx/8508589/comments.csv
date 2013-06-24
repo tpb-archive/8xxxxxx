@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,dalesteyn,2013-05-25T18:38Z,"yep..HIGHCODE is awesome...i follow his uploads regularly...i asked him to encode The science of sleep (as there was no 1080p rip available) , he did so and dat too pretty fast...fantastic uploader with a lot of heart!!!
+:)
+THNk you too jalucian..i will now replace my YIFY version with this one.. :)"
+[T],[qusawa],2013-05-25T18:54Z,"I prefer, all times, Anoxmous rip because the quality, and in this film 6-Channels audio
+
+So I recommend this :
+
+https://thepiratebay.sx/torrent/8184135/Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous"
+,jalucian,2013-05-26T02:49Z,"That might be a valid comment except for one thing. amoXmous' encodes are not high quality. They're not even as good as YIFY's team. They are mediocre, at best. Yes, some of his newer stuff is in 5.1 audio, but one only has to compare our settings with MedioInfo to see who uses better settings. Just to name one setting as an example, all anoXmous' encodes that Ive seen have been encoded using a hexagon motion estimation method. That alone severely limits the quality of his video, and that's just one of about 5 settings that aren't up to good standards.  You can also clearly see the difference in quality if you compare our encodes on larger screens (around 26"" and up) and the difference is, again, clearly visible. If you're one of the few people who thinks that having 5.1 sound is worth putting up with substandard video quality, then by all means, go download from that guy. But the video quality is not nearly as good."
+,jwinston78,2013-05-26T08:30Z,thanks jalucian! been waitin' for this one... well i hope you do striptease / original sin (unrated) @1080p as well... :) cheers
+[T],karmax264,2013-05-26T13:39Z,"@jalucian
+
+How is stating the Video Bitrate more useful than stating the CRF the video was encoded with.  
+
+http://thepiratebay.sx/torrent/8503314/Ch5_Ohio_Slave_Girls_Their_Story_576p_x264_AAC_HDTV_MVGroup.org
+
+-KarMa"
+,jalucian,2013-05-26T20:21Z,That's a ridiculous question because knowing the CRF tells you absolutely nothing about the final outcome's bit rate. A CRF of 20 on low action movie might turn out to have a bit rate 1800kbps and a CRF of 20 on a high action movie might turn out to be a bitrate of 2500kbps. This is why listing CRF instead of the actual bitrate tells us nothing useful.
+,jalucian,2013-05-26T20:22Z,"And why are you asking about the comment I made on that page here, instead of on that page, where it belongs?"
+[T],karmax264,2013-05-27T02:11Z,"@jalucian
+Ok but how is that useful for me as a downloader to know the Video Bitrate vs the CRF.  "
+,jalucian,2013-05-27T07:26Z,"Sorry, I assumed that since you had a skull, you knew something about encoding. Experienced encoders (and even very experienced downloaders) know that video quality is a function of several x264 settings, but mainly bit rate, in relation to the size screen one will be watching on. For example, most movies (depending on amount of high motion and CG) need a video bit rate of 1800-2250kbps to look good on a 26-30"" screen. If I'm watching a 720p on a 15"" screen, then a bitrate of 800kbps is probably enough. If all I know is a CRF number instead of the actual bit rate, I really have no way of knowing whether or not the encode in question is going to be a high enough quality level for whatever size screen. My objection was that the listing said ""Bit rate: CRF 20"" when CRF isn't a bit rate at all. It's like someone asking what your speed is in a car, and you answer them in RPMs. Yes, it tells you something...but not what you need to know. Hope that answers your question....but next time you have a question about a comment I've left on another torrent, please ask it where my comment *is* instead of dragging an unrelated discussion into one of my own comment threads."
+[T],karmax264,2013-05-28T14:15Z,"If you encode using CRF then you are basically setting the quality you want for the video and are allowing the filesize to be an unknown.  If you encode by setting a bitrate then you are aiming for a certain file size and the quality is an unknown.  Even if you use Handbrake's preview, it does not make an accurate representation of what the video will look like when its done encoding.    
+
+[Quote]""most movies (depending on amount of high motion and CG) need a video bit rate of 1800-2250kbps to look good on a 26-30"" screen.""  
+
+Exactly my point, you don't need to guess with CRF encoding, just enter the value you want and that its.  A video that needs more bitrate will get that bitrate based on what the CRF is.  If the video is not very intensive then the bitrate will drop while maintaining that CRF.  Much easier and less guessing.  
+
+Since a CRF of 0 is a lossless encoding, then the closer to 0 the better.  This is a very easy concept for a downloader to understand.  Instead of going by bitrate when they don't know how much or how little motion is in the video and the exact x264 settings used.  
+
+Nice Tutorial 
+http://slhck.info/crf.html
+
+Besides Xvid encoders, few if any scene x264 encoders still use 2 pass x264 like you.  Instead they use CRF x264 because encoders who want a certain quality use CRF.  Encoders who want a certain bitrate use 2 Pass.  "
+[T],karmax264,2013-05-28T14:20Z,"http://thepiratebay.sx/torrent/8503314/Ch5_Ohio_Slave_Girls_Their_Story_576p_x264_AAC_HDTV_MVGroup.org
+[Quote by jalucian]""Please list actual bit rate and not the setting used which doesn't tell anyone anything useful. ""
+
+Far from a true statement..."
+,jalucian,2013-05-29T09:41Z,"I don't believe you're correct in asserting that most people use CRF - Judas doesnt, and I'm pretty sure no one on YIFY's team does either. In fact, I personally don't know any encoders who use CRF, although I'll admit I don't personally know all that many. Another part of what you said that I have a bit of an objection to is the use of the word ""guessing."" The bit rates I choose are not just guesses. They are based on experience. At worst, you could say they are very educated ""guesses."" And regarding my comment, I suppose I should have added ""unless you're already extremely familiar with CRF."" For those used to using bit rate as guide post to quality, it IS a true statement, but I do get what you're saying. Actually my main objection wasn't that that uploader listed CRF instead of bit rate, but rather that he listed a CRF value *AS* a bit rate (""Bit rate: CRF 20"") because, as I already said, this is analogous to someone asking how fast your car is going and your answer is 4000rpm. Yes, the CRF value is an answer, but it's not an answer to ""what is the bit rate"" - which is how it was listed. I wouldn't have even left a comment if it had read ""CRF value: 20"" instead of ""Bit rate: CRF 20."" "
+[T],karmax264,2013-06-03T13:05Z,"The MVG template will not allow for CRF but must say Bitrate.  It just has not been updated and probably won't be for awhile.  
+
+Yes, YIFY uses 2 pass but they are not really part of the scene.  But any TV Shows from the scene are almost always CRF with the Feb 2012 shift to x264 MP4.  
+
+Before I went to CRF I used 2 Pass religiously.  I just find it easier to set the CRF to the lowest possible quality I can deal with and then go.  With 2 pass the quality is a big unknown unless you always setting the bitrate high and waste space on some videos.    
+
+For example my release of Season 5 of Fringe, notice how all of the videos are about the same length but yet the file sizes vary quite a bit.  They also use the same CRF and x264 settings.
+
+http://thepiratebay.sx/torrent/8041414/Fringe_Season_5_Complete_720p_HDTV_x264-KarMa"

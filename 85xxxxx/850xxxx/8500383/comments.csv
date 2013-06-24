@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,viggen6666,2013-05-24T10:42Z,This must be the most pile of shit of Windows I ever seen
+,0x3d,2013-05-24T19:03Z,So what are you missing?
+,viggen6666,2013-05-24T20:08Z,"You should never remove some core files from the OS, never disable SFC, and increase usb poll to this value, is this prepared only for games, the only good use I see for this OS is to use it for a MAME Arcade machine or a kiosk "
+,0x3d,2013-05-25T01:56Z,"Well then I guess we just have some completely different understandings of what ""core"" really means. To me that would mean removing something along the lines of ntoskrnl.exe or win32k.sys which would obviously render the system completely unbootable and this clearly isn't the case with this one."
+,0x3d,2013-05-25T01:59Z,"After all this was just a small spontaneous late-night ""project"" I mainly did for myself. In the end I liked the ""pureness"" and ""still working perfectly fine for me"" aspect of it all so much that I though it might be worth sharing. But I guess it all just boils down to: If you don't like it, don't use it. But thanks for your feedback anyways."
+,0x3d,2013-05-25T02:01Z,"But I reckon, in a way you just might be right about the SFC thing considering ""core""... but then again this thing is tweaked for ultimate performance and SFC just doesn't fit that category as it's just another background ""process"" that doesn't really do anything good to a system that otherwise runs just perfectly fine. Haven't you read the disclaimer? ;)"
+,analogkid6103,2013-05-25T04:16Z,I have been thinking about this in fact ive been studying the various Mini tiny compact hacked choped and otherwise altered versions ever since some people give me some older laptops with puny hdd in them puny like 2.5Gb or 3.75 and 4G ect XP is a bloat monster even if you dont download anything the suckergrows so I have agreat interest in these basterdized versions they keep it interesting.
+,nikitan1,2013-05-25T18:46Z,.. just a perfect mod.. Im also very interested in your GTD style .. ;) looking forward the next release @0x3d! thanks!!! :)
+,0x3d,2013-05-25T22:51Z,"Well thx a lot for the ""just a perfect mod""... but why would you need a ""next release"" then if it's already perfect? ;) Never change a running system and such. My next unrelated release will probably be built around the penguin and Wayland, maybe Mir - but don't count on that anytime soon."
+,nisamja,2013-06-08T15:07Z,"Hello,
+
+l have downloaded your version of this Windows and have tried to install it with VMware Player since l would like to use it as gaming on demand OS. Pure for games and no programs installed with easy reinstall with simple copy/paste and replace and leaving me mine regular OS working everything else for work. 
+
+Now problem came right on start. Unlike other included clean versions of XPs l tried this one fails install on start because it cannot find HDD. Now l checked VMware player again with all settings and compared with other XP that l have and it still wont work.  
+
+Could you please explain me which drivers l need to integrate in this release and which metod to use for integration?
+
+Also do you have plans so do same for 32bit version of XP and similiar for W7 and W8?
+
+Keep up with work, as its probably useful :)"
+,cojon,2013-06-09T10:00Z,"My Man 0x3d...  Good job!  Excellent, I love it and I appreciate your late night efforts. 
+
+I do the same, never going to bed before 4 AM sleeping until 7 or 8 am, and them I'm fired up again. Head absolutely on fire! I'm a high IQ Asperger's syndrom, ADD, visual thinker with out of the box creativity and problem solving abilities.  I cannot comfortably assimilate what or why these unique abilities exist or occur. I, like you,with no thought of myself, love to assist others as I so easily can. 
+
+However and perhaps because the typically mediocre bumpkins notice that I find complex solutions far too quickly, they are impugned and I am shunned. Ostracized so badly that I am forced so far away from the social herd that even my high quality, nitrogen filled, 7x50 Fujinon optics cannot locate a friendly person. 
+
+I suspect you may suffer the same disparaging idiocy that seeks only to repudiate or eschew before any attempt to understand or accept is proffered.  
+
+Like you, I provide similar assistance in the friendliest manner yet receive  vile comments, malevolence,  abhorrence, social rejection, and the most caustic of comments for my freely offered assistance. 
+
+I understand what you apparently suffer and I feel your giving attitude is most commendable, although not well accepted.  
+
+You return with reasonable assessment where the few that suffer as do I have often given to returning the oft galling comments with similar--and well deserved--acerbic, astringent and scurrilous intent. 
+
+And i might say we can effortlessly create a repose that can crisply sting, reddening the cheeks of those immature offal who have found themselves lacking in those simple values that allow some to achieve the highest human goal, or the common state of minimalistic mediocrity.
+
+I seldom write in such a vociferousness and cantankerous manner, however after reading the comments of those narrow-minded, blender brained, knuckle walking sub species pretending to aspire to be accepted as H. Habilis, yet failing redundantly.   A few words are in order. 
+
+You 0x3d, are a giver, a provider to humanity of that which baffles the masses, yet they spit raucous venom in return for your gifts.
+
+Such acts are not only abominable, but far beneath the expected dignity of even the lowest herd humanity.  
+
+I suggest a list be made of those who delve in that vile and tumultuous blathering only that they may be seen as insensitive and arrogant, with intention to be disruptively and unnecessarily rude without any other beneficent comment, and curtail their activities for six months or more. 
+
+I am patiently sick of the common crass immaturity that all to frequently disgraces the comment section. 
+
+I write this only in that it immensely disturbs me to see this boisterous and vile tempered repugnant tone used toward kind humans who so graciously offer their services without thought of charge or ego fulfillment, but only as a kindness that broadens the human heart. 
+
+ Lets not have any more of that mood troubled childish choleric content. It is not only immature, it is a clear display of those suffering dangerously low self esteem. 
+
+When you post in such an insulting manner, we can immediately recognize your deep and troubling psychological difficulties.  Yes, it is THAT obvious children.                      "
+,0x3d,2013-06-09T16:42Z,"@nisamja: I tried it in VMWare Workstation 9.0.0 and the installation flew through like a charm. You probably have created your virtual disk as an SCSI-device, VMWare creates them as such by default but they require some specialised LSI (iirc) drivers during setup. SCSI in the non-VM world has become rather rare in recent years so I didn't mind putting, or rather leaving, these drivers in there. 
+
+An easy solution to this: Delete your virtual HDD and recreate a new one using ""IDE"" as the interface type.  The bit more complicated solution: Try to extract the LSI-drivers from some VMWare Tools ISO and mount them as a floppy to ""F6 load"" during the first boot. Or just install it on a spare physical PC with some of the AHCI-interfaces I mentioned in the description.
+
+Oh and of course, thanks for the kind words :)"
+,0x3d,2013-06-09T19:31Z,"@cojon: Wow, nice wall of text. So there are actually still some non-""tl;dr""-people left on this planet, nice to see and many thanks for the heads up. It will be a pleasure to go waaaay off-topic with this.
+
+Your diagnosis seems about right. It has never been formally diagnosed by some so-called ""expert"" but I probably do have some mild form of ADD and maybe some of your other ""diseases"" too as - to mention just a few of my quirks - I see myself over-analyzing, optimizing, researching and rearranging just about everything quite to the unliking of many. But then again why should I even care about some rather vague ""definition"" that some psychiatrists, doctors and whatnot have, let me phrase it like this, pulled out of their asses some decades ago? Why would I want to fix or even care at all about something that does no harm to anyone nowhere and at no time?"
+,0x3d,2013-06-09T19:33Z,"(continued)
+
+Argh, always getting those darn ""Database errors"" for larger comments, will post each paragraph indivudually then."
+,0x3d,2013-06-09T19:37Z,"(continued - Oh damn TPB, learn how to escape your stuff -.-)
+""Oh, the bottom of my coffee mug says you have ADD, well heres your Ritalin, now head back into our global brainwashing institute (school, job, TV, advertising, ...)"
+,0x3d,2013-06-09T19:46Z,"Also no URLs in comments? Srsly?! Rest is there:
+
+www-pastebin-com-Ky0FE369"
+,0x3d,2013-06-09T19:55Z,"Rest is filed under ID Ky0FE369 at a large website where you can paste text and sourcecode. Gee, TPB, whatever happened to free speech!?"

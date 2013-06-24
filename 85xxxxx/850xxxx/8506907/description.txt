@@ -1,0 +1,38 @@
+Intel Xeon Phi Coprocessor High Performance Programming
+
+Book Details:
+
+Pages: 432 
+Publisher: Morgan Kaufmann (February 2013)
+Language: English
+ISBN-10: 0124104142
+ISBN-13: 978-0124104143
+Format: PDF, EPUB
+
+Book Description:
+
+Authors Jim Jeffers and James Reinders spent two years helping educate customers about the prototype and pre-production hardware before Intel introduced the first Intel Xeon Phi coprocessor. They have distilled their own experiences coupled with insights from many expert customers, Intel Field Engineers, Application Engineers and Technical Consulting Engineers, to create this authoritative first book on the essentials of programming for this new architecture and these new products.
+
+This book is useful even before you ever touch a system with an Intel Xeon Phi coprocessor. To ensure that your applications run at maximum efficiency, the authors emphasize key techniques for programming any modern parallel computing system whether based on Intel Xeon processors, Intel Xeon Phi coprocessors, or other high performance microprocessors. Applying these techniques will generally increase your program performance on any system, and better prepare you for Intel Xeon Phi coprocessors and the Intel MIC architecture.
+
+A practical guide to the essentials of the Intel Xeon Phi coprocessor
+Presents best practices for portable, high-performance computing and a familiar and proven threaded, scalar-vector programming model
+Includes simple but informative code examples that explain the unique aspects of this new highly parallel and high performance computational product
+Covers wide vectors, many cores, many threads and high bandwidth cache/memory architecture
+
+Table of Contents:
+
+Chapter 1. Introduction
+Chapter 2. High Performance examples
+Chapter 3. Benchmarking Apps
+Chapter 4. Real-world Situations
+Chapter 5. Lots of Data (Vectors)
+Chapter 6. Lots of Tasks (not Threads)
+Chapter 7. Processing Parallelism
+Chapter 8. Coprocessor Architecture
+Chapter 9. Coprocessor System Software
+Chapter 10. Linux on the Coprocessor
+Chapter 11. Math Library
+Chapter 12. MPI
+Chapter 13. Profiling
+Chapter 14. Summary

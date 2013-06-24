@@ -1,0 +1,114 @@
+TE 2013 PRESENTS
+
+ANOTHER FINE RELEASE
+
+Release: Dont Starve v1.79352 (c) 2013 Klei Entertainment
+Date: 06/12/2013
+
+Cracked By: Twisted EndZ
+Release Type: Other: RETAIL/DRM-FREE
+RELEASE NOTES
+
+An uncompromising wilderness survival game full of science and
+magic
+
+Play as Wilson, an intrepid Gentleman Scientist who has been
+trapped by a demon and transported to a mysterious wilderness
+world. Wilson must learn to exploit his environment and its
+inhabitants if he ever hopes to escape and find his way back
+home. Enter a strange and unexplored world full of strange
+creatures, dangers, and surprises. Gather resources to craft
+items and structures that match your survival style. Play your
+way as you unravel the mysteries of this strange land
+
+Whats New in version 79352?
+
+New Things To Discover:
+Peaceful rock lobster herds roam the gloomy depths
+Bunnymen turn into beardlords when your sanity is low
+Ever wonder what's right below a tentacle? MORE TENTACLE!
+The invasive Lureplant will taunt you with its delicious
+veggiemeat
+Eat exotic cave bananas!
+Ferns! You can burn 'em!
+More colourful mushtree varieties
+Stalagmites come in more varied shapes
+
+New Things to Craft and Use!
+The vampiric BatBat
+The marginally useful Compass
+
+New Map Generation Features:
+Gaze into the abyss in the caves!
+Cave walls are prettier
+Cave layouts are... caveier
+
+Other Tuning and Fixes:
+Time passes aboveground and belowground, independent of your
+current location
+You can regenerate a cave from its entrance (just for testing!)
+Crops can grow underground, if you keep them lit
+Added a proper "Always dark" preset to levelgen
+Equippable items remember which slot they are from
+Snurtle Shell Armour will now cause enemies to lose interest in
+you if you hide for over 5 seconds
+Plantables can't be planted on nonsensical ground types
+Added toggleable "notebook mode" and "small texture mode"
+options for lowspec machines
+Fixed some bad mip chains that were causing trouble for some
+graphics cards
+Fixed libegl crash that was happening for some old Intel cards
+Iceboxes can be place closer together
+Fixed pig torch crash
+Fixed spoilage stack exploit
+
+New Modding features:
+New sample mods, "sampleprefab" and "samplecharacter", which
+includes an art template for character skins
+Reworked the loading of textures and other assets so you no
+longer have to use package.path, LoadPrefabDefs, LoadPrefabs
+or prefabs.xml
+This does require the use of PrefabFiles and Assets in
+modmain.lua, see the sample mods for an example
+Can overwrite basically any asset just by putting it in the
+same relative path in a mod folder
+Lots of improvements to error reporting, and generally more
+helpful errors when something isn't working
+Crafting menu tab spacing is now dynamic, so adding a new entry
+to RECIPETABS will automatically align the tab bar
+Container widgets can have a custom background image specified
+World gen scripts can now be overridden from a mod. Time to
+make some crazy places!
+Mods now have access to luasockets on windows. (dun dun
+DUUUUUN!)
+
+System Requirements:
+
+OS: Windows XP/Vista/Windows 7/Windows 8
+Processor: 1.7+ GHz or better
+Memory: 1+ gigs of RAM GB RAM
+Graphics: Radeon HD5450 or better; 256 MB or higher
+DirectX: 9.0c
+Hard Drive: 500 MB HD space
+Sound: 100% DirectX 9.0c compatible sound card and drivers
+
+For More Info Visit: 
+http://www.dontstarvegame.com/
+TE Release Filename: te-ds12x.zip
+
+INSTALLATION NOTES
+
+Install Setup.exe. No crack is needed, this is RETAIL and
+DRM-FREE with the latest update applied
+
+Remember after enjoying this game to head over to
+www.dontstarvegame.com and buy yourself a copy
+
+Thats it! Enjoy
+
+T E 2 0 1 3
+
+ascii
+by mx
+
+Don't Hate The Hacker, Hate The Code

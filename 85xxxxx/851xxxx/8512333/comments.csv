@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,0101neo0101,2013-05-27T13:47Z,"My game doesn't save ""history mode"" progress. Secrets keep discovered and ""arcade mode"" progress is saved, but not History one.
+¿?¿?¿?
+Is it because of the registri or crack issue??
+Anuybody help?"
+,iztari,2013-05-27T14:46Z,"@0101Neo0101: 
+Have you tried playing the game in ""Administrator Mode"" (aka Run as Administrator) "
+,iztari,2013-05-27T14:48Z,"Steam (X:/#####/204450/storage/out/save)
+Reloaded: (C:/ProgramData/RELOADED/RLD!/204450/storage/out/save)"
+,fej88,2013-05-27T17:09Z,@0101Neo0101 Same problem here
+,fej88,2013-05-27T20:56Z,"@0101Neo0101 ive just found the solution... i reinstalled it on the C disk. It appears that if you install the game on any other partition, the savegame route does not work."
+,iztari,2013-05-28T01:38Z,I've installed it on a separate partition and it worked fine for me. Are you guys/girls using Win7 or?
+,0101neo0101,2013-05-28T10:44Z,"I have installed it on C from the beggining.
+Win XP sp3"
+,hitoshinji,2013-06-03T15:06Z,"Same problem as ""0101neo0101"".  Installed game, applied patch, registry fix for video settings, and game won't save history mode
+
+I already tried running as admin, deleting the save folders (I think I found them all) and reinstalling the game in different partitions... What the hell is the problem here? 
+
+To clarify. Saves worked fine BEFORE using the ""update"" . Thing is, without the update, the game is unplayable :/"
+,lazoman91,2013-06-05T01:56Z,Same here. Story mode won't save.

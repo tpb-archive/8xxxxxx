@@ -1,0 +1,81 @@
+Roger e Anita Dearly estão agora vivendo em uma fazenda com Pongo, Perdita e os 99 filhotes deles: Lucky ("Pingo", no Brasil), Rolly ("Roliço", no Brasil) e Cadpig ("Queridinha", no Brasil), os 3 filhotes que protagonizam o seriado, e o resto da ninhada se divertem explorando a casa em que moram e fazendo amizades com animais de todos os tamanhos e espécies.
+
+Mas Cruella DeVil, vizinha da fazenda, está sempre tramando algum plano para trazer problemas à família Dearly. Agora, Cruella já não quer matar os dálmatas para fazer deles um casaco de pele, e sim adquirir a propriedade dos Dearly para expandir a mansão dela. E o furão Scorch ("Chamuscado", no Brasil) está sempre disposto a ajudá-la com seus planos. Os desajeitados Jasper e Horace ("Horácio", no Brasil) continuam subordinados a ela e auxiliando-a em boa parte desses planos.
+
+O desenho busca trazer além de entretenimento noções de amizade, família e responsabilidade através de um ambiente repleto de bom humor, aventuras e surpresas.
+
+Format : Matroska
+Format version : Version 2
+File size : 990 MiB
+Duration : 1h 19mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 747 Kbps
+Movie name : Rio (MKV by TofuShoyu)
+Encoded date : UTC 2013-06-11 08:47:24
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 19mn
+Bit rate mode : Variable
+Bit rate : 1 649 Kbps
+Maximum bit rate : 20.0 Mbps
+Width : 960 pixels
+Height : 720 pixels
+Display aspect ratio : 4:3
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.100
+Stream size : 916 MiB (93%)
+Title : 101 Dalmatas ( Zagor Lukas )
+Writing library : x264 core 125 r2200 999b753
+Encoding settings : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:1.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-6 / threads=9 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=2pass / mbtree=1 / bitrate=1649 / ratetol=1.0 / qcomp=0.90 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=20000 / vbv_bufsize=40000 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+Color primaries : Generic film
+
+Audio
+ID : 2
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Muxing mode : Header stripping
+Codec ID : A_MPEG/L3
+Codec ID/Hint : MP3
+Duration : 1h 19mn
+Bit rate mode : Constant
+Bit rate : 96.0 Kbps
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : -333ms
+Stream size : 54.4 MiB (5%)
+Title : por
+Writing library : LAME‰I5è[ / ¥0¥Lc’—
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text
+ID : 3
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No

@@ -1,0 +1,10 @@
+To install right mouse click on "Install.cmd" and select "Run as  administrator" and your done.  
+
+You can verify all licensing just open a command prompt and type the following to check; 
+1. Current licensing status
+2. Activation information
+3. Expiration date 
+ 
+1.	slmgr -dlv
+2.	slmgr -dli
+3.	slmgr -xpr

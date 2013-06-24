@@ -1,0 +1,113 @@
+Hi there
+
+Here is our remastered BDrip from "Papillon" from 1973 with Steve McQueen and Dustin Hoffman.
+We decided to use another great Video soft for this specific movie and the result is just fine anyway.
+
+Status : Final-approved. 
+
+Video codec used : mkv.h264/1080p cropped/16:9 and permits a true full screen resolution on most advanced TVs and others. 
+
+Audio codec used : untouched
+ Original Dts-HD MA 5.1 but in 16 bits instead of classical 24 bits/48 KHz
+
+Spoken language :
+English and French
+
+Sub : none
+
+Final size : 16,7 Gb vs 31 Gb for original size of this movie on BD50.
+
+VQ= 16/20 (very acceptable quality,without too grain and without pixelation.
+AQ= 17/20 (good clarity dialog as well as for original music)
+
+See imdb right here : 
+http://www.imdb.com/title/tt0070511/
+
+This is a very good opportunity to discovering or rediscovering this beautifull movie.
+
+
+More details :
+
+
+    Complete name : Papillon.(1973).Remastered.BDrip.h264.1080p[)(]Dts-hd MA 5.1-(FR,US)-Final.mkv
+    Format : Matroska
+    Format version : Version 2
+    File size : 16.7 GiB
+    Duration : 2h 30mn
+    Overall bit rate mode : Variable
+    Overall bit rate : 15.9 Mbps
+    Writing application : HandBrake 0.9.9
+    Writing library : libmkv 0.6.5
+
+  Video #1
+    ID : 1
+    Format : AVC
+    Format/Info : Advanced Video Codec
+    Format profile : High@L4.2
+    Format settings, CABAC : Yes
+    Format settings, ReFrames : 4 frames
+    Codec ID : V_MPEG4/ISO/AVC
+    Duration : 2h 30mn
+    Nominal bit rate : 12.1 Mbps
+    Width : 1 920 pixels
+    Height : 800 pixels
+    Display aspect ratio : 2.40:1
+    Frame rate mode : Constant
+    Frame rate : 24.000 fps
+    Color space : YUV
+    Chroma subsampling : 4:2:0
+    Bit depth : 8 bits
+    Scan type : Progressive
+    Bits/(Pixel*Frame) : 0.328
+    Writing library : x264 core 130 r2273 b3065e6
+    Encoding settings : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.05 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / lookahead_threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=abr / mbtree=1 / bitrate=12078 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.10
+    Language : English
+    Default : Yes
+    Forced : No
+    Color primaries : BT.709
+    Transfer characteristics : BT.709
+    Matrix coefficients : BT.709
+
+  Audio #2 (French)
+    ID : 2
+    Format : DTS
+    Format/Info : Digital Theater Systems
+    Format profile : MA / Core
+    Mode : 16
+    Format settings, Endianness : Big
+    Codec ID : A_DTS
+    Duration : 2h 30mn
+    Bit rate mode : Variable
+    Bit rate : 2509 Kps / 1 509 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 16 bits
+    Compression mode : Lossless / Lossy
+    Default : Yes
+    Forced : No
+
+  Audio #3 (English)
+    ID : 3
+    Format : DTS
+    Format/Info : Digital Theater Systems
+    Format profile : MA / Core
+    Mode : 16
+    Format settings, Endianness : Big
+    Codec ID : A_DTS
+    Duration : 2h 30mn
+    Bit rate mode : Variable
+    Bit rate : 2509 Kbps / 1 509 Kbps
+    Channel(s) : 6 channels
+    Channel positions : Front: L C R, Side: L R, LFE
+    Sampling rate : 48.0 KHz
+    Bit depth : 16 bits
+    Compression mode : Lossless / Lossy
+    Default : No
+    Forced : No
+
+Ty for watching,enjoy and seed,please.Thx
+As usual we will provide you a few screenshots of our personal work on this movie of course.
+
+Have a very nice day 
+with our best regards

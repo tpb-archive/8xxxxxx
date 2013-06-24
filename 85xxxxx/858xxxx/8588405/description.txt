@@ -1,0 +1,47 @@
+General
+Complete name : /Volumes/My Book/Cinema/Boxset/Star Wars Boxset /Star Wars Episode I - The Phantom Menace/(1999) Star Wars Episode 1 The Phantom Menace-1080p BluRay Hardcoded subs-PT [TUGA].mkv
+Format : Matroska
+File size : 8.13 GiB
+Duration : 2h 16mn
+Overall bit rate : 8 550 Kbps
+Encoded date : UTC 2013-06-15 20:10:03
+Writing library : WonderShare Matroska Muxer
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Baseline@L5.0
+Format settings, CABAC : No
+Format settings, ReFrames : 1 frame
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 16mn
+Bit rate : 8 220 Kbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 23.976 fps
+Original frame rate : 23.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.165
+Stream size : 7.82 GiB (96%)
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : A_AC3
+Duration : 2h 16mn
+Bit rate mode : Constant
+Bit rate : 160 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Delay relative to video : 4ms
+Stream size : 156 MiB (2%)

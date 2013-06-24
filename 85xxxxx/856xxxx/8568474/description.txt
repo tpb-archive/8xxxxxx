@@ -1,0 +1,90 @@
+/
+-----    /  / -    /   /    /
+/  /  /    /    /       /    /    /     /   /  /   /
+/   /   /    /    /     /  /    /   /   /
+/    /    /          /    /    /
+---   / ----   /   / ------   / ----------   / -----   /
+/        /   /          /              /         / (nw
+FairLight DOX Division Presents:
+
+Don't Starve Update June 11th (c) Klei Entertainment
+
+Cracked by:  FAiRLiGHT            : :  Release Date: 12-06-13
+Packaged by: FAiRLiGHT               # of Options: N/A
+Type:   Manual/Reference Card              Type: Crack
+CD/Box Covers
+Walkthrough
+Strategy Guide
+Content
+X Patch
+Number of archives: x
+
+Update Notes
+
+Update Notes - June 11th
+
+NEW THINGS TO DISCOVER
+- Peaceful rock lobster herds roam the gloomy depths
+- Bunnymen turn into beardlords when your sanity is low
+- Ever wonder what's right below a tentacle? MORE TENTACLE
+- The invasive Lureplant will taunt you with its delicious veggiemeat
+- Eat exotic cave bananas
+- Ferns You can burn 'em
+- More colourful mushtree varieties
+- Stalagmites come in more varied shapes
+
+NEW THINGS TO CRAFT & USE
+- The vampiric BatBat
+- The marginally useful Compass
+
+NEW MAP GENERATION FEATURES
+- Gaze into the abyss in the caves
+- Cave walls are prettier
+- Cave layouts are... caveier
+
+TUNING & FIXES
+- Time passes aboveground  and  belowground,  independent  of  your  current
+location
+- You can regenerate a cave from its entrance (just for testing
+- Crops can grow underground, if you keep them lit
+- Added a proper "Always dark" preset to levelgen
+- Equippable items remember which slot they are from
+- Snurtle Shell Armour will now cause enemies to lose interest in you if you
+hide for over 5 seconds
+- Plantables can't be planted on nonsensical ground types
+- Added toggleable "notebook mode" and  "small  texture  mode"  options  for
+lowspec machines
+- Fixed some bad mip chains that were  causing  trouble  for  some  graphics
+cards
+- Fixed libegl crash that was happening for some old Intel cards
+- Iceboxes can be place closer together
+- Fixed pig torch crash
+- Fixed spoilage stack exploit
+
+NEW MODDING FEATURES
+- New sample mods, "sampleprefab" and "samplecharacter", which  includes  an
+art template for character skins
+- Reworked the loading of textures and other assets so you no longer have to
+use   package.path,   LoadPrefabDefs,    LoadPrefabs,    or    prefabs.xml
+- This does require the use of PrefabFiles and Assets  in  modmain.lua,  see
+the sample mods for an example
+- Can overwrite basically any asset just by putting it in the same  relative
+path in a mod folder
+- Lots of improvements to error reporting, and generally more helpful errors
+when something isn't working
+- Crafting menu tab spacing is  now  dynamic,  so  adding  a  new  entry  to
+RECIPETABS will automatically align the tab bar
+- Container widgets can have a custom background image specified
+- World gen scripts can now be overridden from a  mod.  Time  to  make  some
+crazy places
+- Mods now have access to luasockets on windows. (dun dun DUUUUUN
+
+Instructions
+
+- Unrar the update.exe and run it ( point to your installation folder
+if required
+
+/TEAM FAIRLIGHT
+
+-  Kindest regards - FairLight DOX 2013 -
+

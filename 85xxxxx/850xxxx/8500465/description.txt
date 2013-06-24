@@ -1,0 +1,73 @@
+General:-
+
+
+[code]Complete name                            : Office Scandal
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 133 MiB
+Duration                                 : 24mn 52s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 749 Kbps
+Writing application                      : Lavf52.93.0[/code]
+
+Video:-
+
+[code]
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=2, N=20
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 24mn 52s
+Source duration                          : 24mn 51s
+Source_Duration_FirstFrame               : -49ms
+Source_Duration_LastFrame                : -49ms
+Bit rate                                 : 681 Kbps
+Width                                    : 640 pixels
+Height                                   : 426 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 19.980 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.125
+Stream size                              : 117 MiB (88%)
+Source stream size                       : 124 MiB (93%)
+Writing library                          : x264 core 107
+Language                                 : English[/code]
+
+
+Audio:-
+
+[code]ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 24mn 51s
+Bit rate mode                            : Variable
+Bit rate                                 : 51.4 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 9.13 MiB (7%)
+Language                                 : English
+Tagged date                              : UTC 2013-03-11 22:39:19[/code]
+
+
+[img]http://img844.imageshack.us/img844/5859/officescandal.jpg[/img]
+
+
+
+Please Seed After Download
+
+Don't Forget to say Thanks and review...
+

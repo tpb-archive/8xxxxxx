@@ -1,0 +1,72 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.15 GiB
+Duration                                 : 2h 2mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 343 Kbps
+Encoded date                             : UTC 2013-06-01 12:20:43
+Tagged date                              : UTC 2013-06-01 13:06:24
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 2mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 014 Kbps
+Width                                    : 720 pixels
+Height                                   : 366 pixels
+Display aspect ratio                     : 2.35:1
+Original display aspect ratio            : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.974 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.161
+Stream size                              : 889 MiB (76%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-06-01 12:20:43
+Tagged date                              : UTC 2013-06-01 13:06:24
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 2mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 265 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 140 MiB (12%)
+Language                                 : English
+Encoded date                             : UTC 2013-06-01 12:20:43
+Tagged date                              : UTC 2013-06-01 13:06:23
+
+
+Movie Info
+
+One young man's search for a missing family member leads him into a terrifying adventure in this thriller from Japan. Akira (Hideo Ishiguro) is a high school student who has fallen into a deep depression since his big brother Atsushi (Dai Watanabe) vanished under mysterious circumstances two years earlier. One day Akira is approached by a beautiful woman, Rei (Asami Mizukawa), who hands him something surprising -- Atsushi's identification card. Akira learns that Atsushi was abducted by a gang of vampires and has been spirited away to their secret island, and while he's been bravely fighting off his captors, he's been unable to escape. Akira joins forces with Rei and a handful of his friends, several of whom have remarkable fighting skills, to vanquish the vampires and bring Atsushi home. But this is more easily said than done, and Akira and his allies quickly learn that the leader of the vampire cult (Koji Yamanoto) is a fearsome adversary. Higanjima was directed by South Korean horror veteran Kim Tae-kyun and received its American premiere at the 2010 South By Southwest Film Festival. ~ Mark Deming, Rovi
+
+
+Audio: English + Japanese Audio

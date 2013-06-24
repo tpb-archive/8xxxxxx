@@ -1,0 +1,80 @@
+﻿Filename,Size,Unit
+#1 Introduction and Project Overview.flv,11.86,M
+#10 3ds Max file management.flv,53.97,M
+#11 Modeling Overview.flv,8.49,M
+#12 Setting up reference images.flv,43.89,M
+#13 Modeling the hull.flv,68.25,M
+#14 Modeling the tail.flv,52.9,M
+#15 Modeling the tail fins.flv,90.21,M
+#16 Modeling the fenders.flv,87.33,M
+#17 Modeling the jets.flv,79.92,M
+#18 Modeling the hull top.flv,67.56,M
+#19 Modeling the rotors.flv,68.27,M
+#2 Breaking down the interface.flv,73.6,M
+#20 Modeling the stabilizers for the rotors.flv,90.7,M
+#21 Modeling the fan blade assembly.flv,73.81,M
+#22 Assembling the rotor parts.flv,78.41,M
+#23 Modeling the rear landing gear.flv,76.41,M
+#24 Modeling the front landing gear.flv,29.98,M
+#25 Adding the hull details.flv,47.52,M
+#26 Modeling the gun turret.flv,66.79,M
+#27 Using symmetry and mirror.flv,76.7,M
+#28 Modeling any final details.flv,101.86,M
+#29 Using smoothing techniques.flv,91.42,M
+#3 Modifying the workspace.flv,41.24,M
+#30 Material Overview.flv,37.93,M
+#31 Adding materials to specific polygons.flv,45.98,M
+#32 Using procedural textures.flv,34.4,M
+#33 Nesting procedural textures.flv,43.25,M
+#34 UV Basics.flv,68.58,M
+#35 Bump map basics.flv,33.16,M
+#36 Creating a complex UV.flv,76.22,M
+#37 Managing symmetrical UVs.flv,98.85,M
+#38 Exporting UVs.flv,41.57,M
+#39 Rigging Overview.flv,4.78,M
+#4 Viewport navigation.flv,48.72,M
+#40 Cleaning up the asset working with groups and layers.flv,101.8,M
+#41 Modifying pivots in 3ds Max.flv,53.26,M
+#42 Building control objects.flv,56.31,M
+#43 Creating custom parameters.flv,40.01,M
+#44 Wiring parameters.flv,64.55,M
+#45 Working with expressions.flv,61.86,M
+#46 Controlling parameters with 3ds Max's Reaction Manager.flv,52.46,M
+#47 Rigging the airship's front landing gear.flv,43.37,M
+#48 Creating bone systems.flv,86.48,M
+#49 Understanding inverse kinematics.flv,48.91,M
+#5 Viewport render modes.flv,31.8,M
+#50 Enveloping geometry.flv,51.02,M
+#51 Making your rigs animator-friendly.flv,24.04,M
+#52 Animation Overview.flv,5.68,M
+#53 Creating and editing keyframes on the TrackBar.flv,62.94,M
+#54 Managing keyframes in the Curve Editor cycling animations infinitely.flv,61.89,M
+#55 Path animation.flv,57.18,M
+#56 Simulating crowds with Populate.flv,25.88,M
+#57 Starting on the flight sequence.flv,56.43,M
+#58 Finalizing the airship's blocking pass.flv,63.4,M
+#59 Completing the movements of the airship's body.flv,98.55,M
+#6 Selecting objects.flv,32.43,M
+#60 Enhancing our animation with Secondary Action.flv,54.31,M
+#61 Wrapping up our work on the airship.flv,64.81,M
+#62 Adding a shot camera.flv,103.79,M
+#63 Completing our shot creating real-time previews in 3ds Max.flv,48.1,M
+#64 Dynamics Overview.flv,5.09,M
+#65 Creating particles in 3ds Max.flv,51.1,M
+#66 Fine-tuning particle behavior.flv,41.52,M
+#67 Creating particle collisions.flv,64.95,M
+#68 Basic particle shading.flv,39.73,M
+#69 Finalizing particle shading.flv,42.2,M
+#7 Creating objects.flv,55.22,M
+#70 Rendering Overview.flv,6.55,M
+#71 Overview of 3ds Max light types.flv,61.24,M
+#72 Basic attributes of 3ds Max lights.flv,60.63,M
+#73 Working with shadows.flv,52.7,M
+#74 Image-based lighting in 3ds Max.flv,97.55,M
+#75 Adjusting the Rendering Controls for 3ds Max objects.flv,37.17,M
+#76 Rendering with mental ray materials in 3ds Max.flv,46.63,M
+#77 Creating custom material libraries in 3ds Max.flv,92.52,M
+#78 Rendering the final sequence from 3ds Max.flv,97.08,M
+#8 Grouping and Parenting.flv,60.9,M
+#9 Subobject modes.flv,59.31,M
+project_files.zip,229.46,M

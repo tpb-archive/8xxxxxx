@@ -1,0 +1,66 @@
+ http://bayimg.com/HaMCpaAEo
+General
+Complete name                            : Dschungelkind 2011 720p BluRay x264 SIMON
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 896 MiB
+Duration                                 : 2h 11mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 951 Kbps
+Encoded date                             : UTC 2013-05-24 09:50:43
+Tagged date                              : UTC 2013-05-24 12:29:26
+Writing application                      : HandBrake 0.9.9 2013051800
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 8 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 11mn
+Bit rate mode                            : Variable
+Bit rate                                 : 850 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 24.000 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 24.390 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.051
+Stream size                              : 800 MiB (89%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoded date                             : UTC 2013-05-24 09:50:43
+Tagged date                              : UTC 2013-05-24 12:29:26
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 11mn
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 147 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 90.5 MiB (10%)
+Language                                 : German
+Encoded date                             : UTC 2013-05-24 09:50:43
+Tagged date                              : UTC 2013-05-24 12:29:25
+

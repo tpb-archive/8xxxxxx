@@ -1,0 +1,47 @@
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 3.90 GiB
+Duration                                 : 2h 1mn
+Overall bit rate                         : 4 602 Kbps
+Writing application                      : Lavf54.59.106
+Writing library                          : Lavf54.59.106
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 1mn
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 60.000 fps
+Original frame rate                      : 59.940 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 1mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+ 
+http://image.bayimg.com/ef160b87a6b8fb987f85e2778b28ac5d611162d5.jpg

@@ -1,0 +1,13 @@
+Pro Tools 10HD Windows STABLE.
+Ver. 10.3.4
+
+
+Before Install PT, I recommend format the machine and start from scratch, install windows, update then install PT
+
+Install Asio4all (case use internal audio device),
+then Pro Tools,
+then Patch,
+then KillBugs,
+and not until now, open Pro Tools.
+
+Tested over and over!

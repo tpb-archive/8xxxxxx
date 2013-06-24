@@ -1,0 +1,14 @@
+Sumatra PDF is a slim, free PDF, XPS, DjVu, CBZ and CBR reader for Windows with a minimalistic design. Simplicity has a higher priority than a lot of features. This reader is small and starts up very fast. Options are a little thin on the ground but Sumatra PDF provides a very comfortable environment for reading PDFs and you can print documents without much hassle. You can take this over Acrobat any day for looking at eBooks. Also Sumatra PDF is designed for portable use: itΓÇÖs just one file with no external dependencies so you can easily run it from external USB drive. This classifies it as a portable application. As is characteristic of many portable applications, Sumatra takes up little disk space. SumatraPDF works on Windows 8, Windows 7, Vista, XP and Windows 2000. Not supported: Windows 95, 98 and ME.
+Sumatra PDF does not lock the PDF file. Without closing the PDF file a user can recompile the text document and generate a new PDF file and then press the R key to refresh the PDF document. Printing is achieved in Sumatra by transforming each pdf page into a bitmap image. This results in very large spool files and potentially slow printing on printers with little memory. Hyperlinks that are embedded in PDF documents are not active in Sumatra.
+Sumatra PDF is multilingual, with 20 community-contributed translations. Sumatra supports SyncTeX, a bidirectional method for synchronizing TeX source and PDF output produced by pdfTeX or XeTeX.
+Sumatra PDF Portable is the lightweight Sumatra PDF packaged as a portable app, so you can view PDF files on the go. You can place it on your USB flash drive, iPod, portable hard drive or a CD and use it on any computer, without leaving any personal information behind.
+Sumatra can do for you:
+* open PDF files via menu
+* open PDF files via drag & drop
+* set different zoom levels via menu
+Changes in Sumatra PDF 2.3.1 (2013-05-23):
+* no longer using SSE2 to support old computers
+Homepage ΓÇô http://blog.kowalczyk.info/software/sumatrapdf/
+
+
+EnjoY ~ AkO Sardashti

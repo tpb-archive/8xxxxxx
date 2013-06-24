@@ -1,0 +1,75 @@
+Γû║ File explorer ***
+Γùè Access /data or any folders on rooted devices
+Γùè Automated batch copy/paste, zip, delete, move of files and folders
+Γùè Change files/folders permissions and ownership
+Γùè View, edit, share and stream files
+Γùè Access all your network shares
+
+Γû║ Application manager ***
+Γùè Automated batch for any of the following actions
+Γùè Backups app and its data/settings (automatic, multiple versions)
+Γùè System app uninstaller and update cleaner
+Γùè Sharing (email, bluetooth, dropbox, google drive, etc)
+Γùè Moving any apps to user, system, SD or link2SD
+Γùè Freeze/unfreeze any apps
+Γùè Zip align, clear cache, fix permissions and terminate any apps
+Γùè App notification disabler on JB+
+Γùè Start-up/event manager enable/disable any components (activities, services, receivers)
+Γùè Usage and standby statistics (find app draining your battery)
+Γùè Backup and restore text messages and call-log
+Γùè Schedule backups and optimization
+Γùè Wipe dalvik-cache, clear Android cache
+
+Γû║ Network manager
+Γùè Monitor WiFi and mobile signals
+Γùè Set WiFi access point priority
+Γùè Configure Android firewall *
+
+Γû║ Task manager
+Γùè Check CPU, network and memory usage
+Γùè Kill or force-stop any apps or kernel processes
+Γùè Automatic task killer, memory booster, memory cleaner
+
+Γû║ System Control *** ****
+Γùè CPU governor, frequency, voltage, GPU controls
+Γùè Build.prop and sysctl editor (basic and advanced mode)
+Γùè Boost, analyze and benchmark SD cards
+Γùè Optimize applications and their databases
+Γùè Android memory manager control
+Γùè fsync, sweep2wake and fast charge control
+Γùè Safe control: restore defaults from app or CWM and restore CPU settings on boot-loop
+
+Γû║ System Monitoring
+Γùè All Android applications or all processes, battery, CPU, network, memory
+Γùè Component states (WiFi, Bluetooth, GPS, 3G, Phone, APN)
+Γû║ Battery Saving ***
+Γùè Turn off WiFi, BT, GPS, 3G or lower CPU frequencies during standby/screen-off
+Γùè Memory booster and task cleaner
+
+Γû║ Notifications in status bar
+Γùè Battery, cpu, memory, sd, temperature optionally with graphics in drop-down
+
+Γû║ Highly Configurable Widgets
+Γùè 1x1 text widgets
+Γùè 2x1 text widgets (PRO ONLY)
+Γùè 2x1-5x2 graphic widgets (PRO ONLY)
+Γùè 1x1 toggle widgets ***
+Γùè 4x1 toggle widgets *** (PRO ONLY)
+Γùè 4x4 summary widgets, works in 4.2 lock-screen (PRO ONLY)
+
+Γû║ Terminal Emulator & Script Editor
+Γùè Command history
+Γùè Run or test any scripts, optionally on boot
+Γùè Share scripts, commands and outputs
+
+Γû║ System Logs Reader
+Γùè Logcat reader **
+Γùè Kernel messages (dmsg, kmsg) *
+Γùè Advanced filtering and search
+
+and much more that meets the eye Γÿ║
+
+* Requires root
+** Requires root on Android 4.1+
+*** Requires root for full feature
+**** Depends on Kernel support

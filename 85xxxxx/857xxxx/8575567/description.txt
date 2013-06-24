@@ -1,0 +1,21 @@
+*Street Fighter 4 Official v1.00.02 (for both non-rooted and rooted phones)
+
+*Required: Android 2.3 ++
+
+*I have included street fighter apk and the sd data of the game no need to download anything I have tested this on my unrooted Samsung galaxy SII and is working perfect also working on rooted devises , no need for titanium backup to make this work.
+
+1.) Extract the data with 7zip. WinRAR can't extract the data.
+
+
+2.) Copy the data to the root of your SDcard (sdcard/SF_IV_DATA).
+if you copy it elsewhere it will tell you that the files are corrupted so make sure you copy them to the sdcard/
+
+(not sure if some phones use other location)
+
+for example in my galaxy sii the location is: Go to applications then open the folder 'my files' and just copy the folder SF_IV_DATA there and on the top of the screen you can see the location is shown:  /sdcard
+
+
+3.) Now copy the Street Fighter IV v1.00.02.apk anywhere you want to your phone and Install the APK.
+
+
+4.) Run the game Seed and Enjoy!:)

@@ -1,0 +1,14 @@
+¿Cansado de esas llamadas y sms que molestan que no paran de hacer spam con nuestro telefono? Pues te traigo la solucion con aFirewall (Android Firewall)
+
+Le permite configurar múltiples reglas para bloquear llamada o mensaje diferente a distintas horas. Regla periódico y una regla disparo vez son compatibles.
+
+Por favor, abra aFirewall desde su casa en lugar de Play Store tras la instalación.
+
+-- Fundamentos aFirewall --- 
+
+ Bloqueo sms: Para asegurarse aFirewall tiene mayor prioridad para supervisar los mensajes entrantes, por favor, instale aFirewall ante otras aplicaciones de mensajería de terceros, Go SMS Pro, etc Handcent 
+Lista Negra: es la lista predeterminada que deben bloquearse. De manera predeterminada, sólo tienes que poner el número en la lista de negro si quieres bloquear; Compruebe en "Desconocido y privadas" en la lista de negro para bloquear desconocido / privado / restringido / anónimo llamadas; 
+--- ¿Qué puede hacer la regla? ---
+
+ Cómo colgar llamada:  el modo de colgar múltiples son compatibles. Puede desviar las llamadas bloqueadas al correo de voz oa un número que no existe. Y usted puede establecer aFirewall para aceptar y colgar llamadas bloqueadas para evitar el reenvío de correo de voz; 
+Bloquear las listas de grupos: puede configurar Bloqueo de llamadas listas y listas de bloqueo de mensajes por separado; 

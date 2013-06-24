@@ -1,0 +1,27 @@
+NEW PUBLIC version. FTX3 1.59
+
+- many bugs corrected.
+
+ADD ON :
+
+- Preview video for games
+- Management ID3TAG (MP3) retrieving info, year, genre title, group, jacket if available, or create a local IDtag
+- Added Spanish language
+- Added Italian language 
+- PART arrives late game list if press L2 for 2 seconds / party games will start list if R2 press for 2 seconds
+- Complete PS2 BIOS to boot language countries
+- Volume MP3 sitck right
+- MAME reinstall automatically after install one time and after updating new version FTX3
+
+update from previous version :
+ADD EPSXE 1.80
+ADD new version of dolphin ...
+ADD new version of jpcsp ..
+ADD new version of PCSX 2 ..
+ADD new Project64 emulator for N64
+ADD language support IT, EN, FR, ES for dolphin, jpcsp and PCSX 2
+ADD Zip support is Mame
+
+
+Visit Official Website 
+http://hal8999.com/

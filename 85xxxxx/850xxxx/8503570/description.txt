@@ -1,0 +1,35 @@
+CUDA Programming: A Developer's Guide to Parallel Computing with GPUs
+
+Book Details:
+
+Pages: 600 
+Publisher: Morgan Kaufmann (November 2012)
+Language: English
+ISBN-10: 0124159338
+ISBN-13: 978-012415933
+Format: PDF, EPUB
+
+Book Description:
+
+If you need to learn CUDA but dont have experience with parallel computing, CUDA Programming: A Developers Introduction offers a detailed guide to CUDA with a grounding in parallel fundamentals. It starts by introducing CUDA and bringing you up to speed on GPU parallelism and hardware, then delving into CUDA installation. Chapters on core concepts including threads, blocks, grids, and memory focus on both parallel and CUDA-specific issues. Later, the book demonstrates CUDA in practice for optimizing applications, adjusting to new hardware, and solving common problems.
+
+Comprehensive introduction to parallel programming with CUDA, for readers new to both
+Detailed instructions help readers optimize the CUDA software development kit
+Practical techniques illustrate working with memory, threads, algorithms, resources, and more
+Covers CUDA on multiple hardware platforms: Mac, Linux and Windows with several NVIDIA chipsets
+Each chapter includes exercises to test reader knowledge
+
+Table of Contents:
+
+Chapter 1. A Short History of Supercomputing
+Chapter 2. Understanding Parallelism with GPUs
+Chapter 3. CUDA Hardware Overview
+Chapter 4. Setting Up CUDA
+Chapter 5. Grids, Blocks, and Threads
+Chapter 6. Memory Handling with CUDA
+Chapter 7. Using CUDA in Practice
+Chapter 8. Multi-CPU and Multi-GPU Solutions
+Chapter 9. Optimizing Your Application
+Chapter 10. Libraries and SDK
+Chapter 11. Designing GPU-Based Systems
+Chapter 12. Common Problems, Causes, and Solutions

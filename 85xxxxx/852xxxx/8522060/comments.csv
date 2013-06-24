@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-05-30T18:27Z,ENJOY ENJOY Wargame Airland Battle 2013 New PC Game by RELOADED Old School!
+,ben7530,2013-05-30T21:28Z,"I'm suspicious about any game that can't translate its title better than this...
+
+It's the ""Super happy smile family fun wish time RTS!!!!"""
+,madmax2k92,2013-05-30T23:22Z,yea but is it working
+,daterxies,2013-05-31T01:11Z,"Works, but is in German"
+,daterxies,2013-05-31T01:15Z,"Actually as pointed out in another torrent
+
+To change the language from German to English :
+Open the steam_rld file ,which is in the directory were Wargane Airland Battle is installed ,with notepad.
+Change the last line is the file ,which reads Language=german to Language=english.
+Now the game is in English. 
+
+
+Tested and works."
+,bawbzor,2013-05-31T02:57Z,"Microsoft Security Essentials was going crazy about a ""Virtool:Win32/Obfuscator.XZ"". I practically had to disable my anti-virus because it kept putting the steam api crack file into quarantine. 
+
+Never had a problem with RELOADED torrents so I'm assuming it's not malicious but it's still annoying."
+,standstill2142,2013-05-31T04:38Z,i love it
+,Messi-90,2013-05-31T13:01Z,hi guys i manage 2 install it and it works perfectly but i have problem with changin language when i open steam notepad n i try 2 change German to English it wont work how wud i do that
+,Messi-90,2013-05-31T19:43Z,PCGTV... i did open it by usin notepad n when i changed german to english n try 2 saving it wont allowed me to it says u dont have permission do save it here... wat should i doo i really wanna play this game
+,sherrypizza,2013-05-31T20:51Z,Im getting error “This application failed to start because msvcp110.dll was not found. Re-installing the application may fix this problem.” any solution?
+,huntersteel,2013-06-01T01:57Z,same problem as sherrypizza game won't start and says its missing '' msvcp110.dll '' i have the latest microsoft visual c++ and even tried downloading msvcp110.dl online but nothing worked ... plz help :( 
+,Dimmis80,2013-06-01T14:41Z,Hey guys.I have the problem with MSVCP110.dll that is missing from my computer.!!I found the dll and like the instractions said i download it and i put it incide the installation game folder and in C:WindowsSysWOW64 and i reboot my pc.That did not fix the problem and it still it give me the same error.And i instaled the vcredist_x64 but it did not fix the error to.Btw i have Win 7x64.So any help or solution about my problem it would be much apreciated guys.!Thanks in advance.
+,huntersteel,2013-06-01T22:48Z,found a solution that works for the missing msvcp110.dll : at the end of the setup check the 3 boxes and install all 3 ( 2 of them are microsoft visuals c++ thay u will need ) wich will give you the missing .dll file . 
+,Cassianogpaiva,2013-06-04T22:09Z,"When I try to run this game, I have this:
+
+""Critical error: Unable to create graphic device. Reason: ChangeMode failure ""
+
+Any Ideas on what can be causing this..?"

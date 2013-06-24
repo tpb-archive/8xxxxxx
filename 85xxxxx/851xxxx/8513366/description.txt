@@ -1,0 +1,89 @@
+The Incredible Adventures of Van Helsing Update 4 changelog:
+
+Known issues:
+
+- The multiplayer game still has some issues. Please play it with a character created for the multiplayer only because data loss may occur sometimes.
+
+Balance changes:
+
+- HP of some champion creatures adjusted in Chapter3- Some of the random encounters changed
+
+Multiplayer:
+
+- Fixed a bug: the client player could teleport inside of the wall making him unable to move.
+
+- Added a new line to the tooltip of other player which indicates where the other player is.
+
+- Active quests window fixed (the current progression appears there after joining)
+
+- Version check inserted before joining an online game (configuration files and game version)
+
+- Pressing the ΓÇ£Go onlineΓÇ¥ option in Single no longer shows "Empty name!" but&lt;yourcharactersname&gt;'s game" instead.
+
+- "Resurrect" appears when you point at a dead character.
+
+- Fixed pathfinding problems
+
+- "Show Allied HP Bar" option displays the name of the other players above the HP bar.
+
+
+
+- Blackthorn item name fixed
+
+- Baskerville Antiques set bonuses fixed
+
+The Incredible Adventures of Van Helsing Update 5 changelog:
+
+Known issues:
+
+- The multiplayer game still has some issues. Please play it with a character created for the multiplayer only because data loss may occur sometimes.
+
+Fixed bugs:
+
+Multiplayer:
+
+- Fixed several issues with the server list in different resolutions.
+
+- Fixed a bug that could cause your character to teleport off screen making it impossible to move.
+
+- Fixed a bug where you joined a multiplayer game and get ΓÇ£Quest CompletedΓÇ¥ windows for every quest that the host has completed.
+
+- Fixed a bug where your character started outside the map when you loaded a multiplayer game.
+
+- Fixed a bug that could potentially cause inconsistencies in single player after playing a multiplayer game (doors not opening, NPCs missing, etc.).
+
+
+
+- Lady Katarina shouldn't run away from harmful spells if the player is also standing in them (e.g. if the enemy uses Harmful Sigil she does not try to escape if you are also in the area of the spell).
+
+- Lady Katarina no longer flees from spells that have a very short duration (like explosions).
+
+- Spirit Guardian no longer aid while Lady Katarina is away for shopping.
+
+- The Potions used by Lady Katarina are no longer counted for unlocking the Drinker Perk.
+
+- Fixed an issue with the Sphere of Timelessness. (It no longer causes enemies to become invisible and frozen if you exit and return.)
+
+- Fixed the tooltip of Earthbound Soul for the Earthquake skill. It reduces the Mana cost by 15% from now on.
+
+- Fixed an issue of the Inventory at Forge, Enchant, etc. windows. Right-Clicking on an unusable item (i.e. that you can't use on that particular window) no longer try to equip the item.
+
+- Fixed an issue where summoned monsters could bypass the effect of the Sphere of Timelessness.
+
+- Ray of Destruction uses Rage properly when using PowerUps.
+
+- Fixed a major issue with the Lair Siege where the Werewolf companions of Breda were immune to Grind-O-PitΓäó traps. (Breda is still immune to all traps thanks to his trap disabling device.)
+
+- Fixed an issue with the DPS of certain skills.
+
+- Fixed an issue with elevators and direct moving.
+
+- Fixed an issue with the Puddle of Goo (not having a proper effect and not being clickable).
+
+- Fixed the crash at the end of the second Lair Siege.
+
+- Fixed an issue where you could end up stuck in the Lair after quitting and returning while the Siege was in progress.
+
+- Vrikolaks in the Werewolf Den spawn properly.
+
+- Fixed an issue where Vrikolaks spawned out of the map.

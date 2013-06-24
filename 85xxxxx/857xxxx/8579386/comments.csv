@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+[T],failzone,2013-06-16T13:55Z,ps. this is made by me
+[T],failzone,2013-06-16T13:56Z,confirmed working on 10.9 an d 10.8.4
+[H],EverybodyLies,2013-06-16T17:15Z,Moved to Games ---> Mac.
+,albert358,2013-06-17T12:31Z,"No sound in the game, launch this error when start it: ""Microsoft Xaudio2: CPU does not meet minimum requeriment; Streaming SIMD Extensions support required.""
+Any solutions?? Thanks."
+[T],failzone,2013-06-17T14:42Z,your specs??
+,albert358,2013-06-17T16:06Z,"New iMac 21,5"" end of 2012.
+Nvidia gt640m 
+Ram 8gb ddr3
+i5 2.7 GHz
+OS X 10.8.4"
+,Freakando,2013-06-17T16:42Z,"Hey! 
+
+I have a 10.8.4 and it doesn't work well. 
+
+It starts and all, but there's a glitch in the texture that makes the game unplayable...
+
+Any solution? 
+
+thanks!"
+[T],failzone,2013-06-18T04:07Z,"@albert358 since you have nvidia, you should install phys  x on the port. you can do this by 
+
+app-> package contents-> click wineskin.app -> advanced -> 2nd tab -> winetricks -> search ""phys x"" -> check the box -> click run -> when dialog box comes up (do you wish to run ...) click ok -> wait -> when done, launch again"
+,albert358,2013-06-18T11:45Z,"@failzone Thanks for the help, but the error isn't clear. I was install Phys X and launch the game then but i haven't got sound...."
+,pinoscout,2013-06-18T12:30Z,"@failzone   Thanks for the game ! I'm having the same audio problem, I did what you say but the problem it's still remaining...
+
+
+Macbook Pro Retina, mid-2012
+OSX 10.8.4
+2,3 GHz i7
+Nvidia GeForce GT650M"
+,jem0701,2013-06-18T23:43Z,"I have the texture problem, as with the other 2K13, I can't set the benchmark to change the video settings.
+
+OSX 10.8.4
+Quad-Core Intel Xeon
+2.4 GHz
+ATI Radeon HD 5770
+
+Any ideas?"
+[T],failzone,2013-06-19T06:05Z,"you do not have to benchmark, although the settings might be gray, you can still change them"
+[T],failzone,2013-06-19T06:10Z,it may not work on ati video cards
+[T],failzone,2013-06-19T06:21Z,"if you have graphic problems, try turning off dedicated video cards and play with only integrated video such as intel hd 4000 as it works the best in intel hd drivers. 
+try http://gfx.io/"

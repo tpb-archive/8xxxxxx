@@ -1,0 +1,63 @@
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 38mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 022 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.099
+Stream size                              : 720 MiB (86%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-06-14 01:50:01
+Tagged date                              : UTC 2013-06-14 02:40:08
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 38mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 271 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 113 MiB (13%)
+Language                                 : Serbian
+Encoded date                             : UTC 2013-06-14 01:50:01
+Tagged date                              : UTC 2013-06-14 02:40:07
+
+
+
+
+Language: Serbian
+
+
+Subtitles English 
+
+Storyline
+
+Jasna is a teenage girl living in the poor suburbs in the south of Belgrade, Serbia. She likes to record everything around her using a mobile phone camera. She is making videos of herself, her school friends, family and Djole - the boy of her dreams. Her family is a mess: father is terminally ill and mother is barely coping. That's why she is spending more and more time hanging out with her school friends, partying and drinking. At one of the parties, she finally starts a conversation with Djole and later they develop an intense sexual relationship. When he realizes that she will do anything to be close to him, Djole starts using her as a sexual object. Jasna starts to experiment with drugs and to skip school. Her life is getting out of control and she needs Djole to accept and reciprocate her affections. 

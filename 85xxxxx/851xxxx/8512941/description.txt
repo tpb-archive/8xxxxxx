@@ -1,0 +1,7 @@
+If you have used Revit Architecture 2013, you've probably noticed that the entire model is based on the families you have in place. If you don't know how to make families, then this course from veteran trainer Eric Wing is for you. It demonstrates the process of creating a family and adding parameters, 3D elements, symbolic lines, and materials. Along the way, Eric covers template selection, reference planes, solid forms, void forms, line-based families, arrays in families, nested families, Yes/No functions, mathematical expressions, if statements, and in-place families.
+Topics include:
+Creating a basic profile family
+Creating a door family
+In-place massing
+Working with complex families
+Using yes/no parameters and if statements

@@ -1,0 +1,23 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 881 MiB
+Duration : 1h 39mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 232 Kbps
+Width : 1 280 pixels
+Height : 544 pixels
+
+Audio
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 39mn
+Bit rate mode : Variable
+Bit rate : 128 Kbps
+Maximum bit rate : 168 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Language: Romanian

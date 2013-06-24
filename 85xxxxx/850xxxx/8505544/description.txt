@@ -1,0 +1,71 @@
+Liés par le sang, Hansel et Gretel ont aujourd'hui soif de vengeance, et ils s'en donnent à coeur joie. Pourtant, sans le savoir, ils sont désormais victimes d'une menace bien plus grande que leurs ennemis : leur passé...
+
+Un soir alors qu'ils sont enfants, Hansel et Gretel sont abandonnés par leurs parents dans la forêt. Les deux enfants finissent par tomber sur la maison en sucrerie mais la sorcière qui y habite les capture et prévoit de les manger. Gretel essaye d'affronter la sorcière qui lui jette un sort, sans effet. Elle délivre son frère et les deux enfants poussent la sorcière dans le four où elle meurt à petit feu.
+
+
+
+
+Taille du fichier                        : 6,12 Gio
+Duree                                    : 1h 37mn
+Debit global moyen                       : 8 946 Kbps
+Nom du film                              : hansel et gretel par Cuzin83
+Date d'encodage                          : UTC 2013-05-14 15:05:01
+Application utilisee                     : dvdfab & mkvmerge v3.2.0 ('Beginnings') built on Feb 12 2010 16:46:17
+Bibliotheque utilisee                    : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Parametres du format, CABAC              : Oui
+Parametres du format, RefFrames          : 5 images
+Identifiant du codec                     : V_MPEG4/ISO/AVC
+Duree                                    : 1h 37mn
+Debit                                    : 8 305 Kbps
+Largeur                                  : 1 920 pixels
+Hauteur                                  : 800 pixels
+Format a l'ecran                         : 2,40:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-echantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Bits/(Pixel*Image)                       : 0.226
+Taille du flux                           : 5,56 Gio (91%)
+Titre                                    : hansel and gretel 1080p h264
+Bibliotheque utilisee                    : x264 core 130 r2273 b3065e6
+Default                                  : Non
+Forced                                   : Oui
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Parametres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Duree                                    : 1h 37mn
+Type de debit                            : Constant
+Debit                                    : 640 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 448 Mio (7%)
+Titre                                    : francais ac3 6 canaux
+Langue                                   : Francais
+Default                                  : Oui
+Forced                                   : Non
+
+Texte
+ID                                       : 3
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : francais force
+Default                                  : Oui
+Forced                                   : Oui
+

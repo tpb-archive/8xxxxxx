@@ -1,0 +1,57 @@
+General
+Unique ID                                : 194759631278980899607717885344519219829 (0x928557307FFD3AB4A3E283BB8B82EA75)
+Complete name                            : Secondhand Serenade - Fall For YouSecondhand Serenade - Fall For You.mkv
+Format                                   : Matroska
+Format version                           : Version 1
+File size                                : 31.2 MiB
+Duration                                 : 3mn 0s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 453 Kbps
+Encoded date                             : UTC 2008-04-16 15:59:35
+Writing application                      : mkvmerge v2.0.0 ('After The Rain Has Fallen') built on Jan 13 2007 19:58:56
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3mn 0s
+Bit rate                                 : 1 262 Kbps
+Width                                    : 656 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.708
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.209
+Stream size                              : 26.7 MiB (86%)
+Writing library                          : x264 core 58 svn-747bm
+Encoding settings                        : cabac=0 / ref=1 / deblock=0:0:0 / analyse=0x3:0x33 / me=hex / subme=6 / brdo=0 / mixed_ref=0 / me_range=16 / chroma_me=0 / trellis=0 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=0 / threads=1 / nr=5 / decimate=1 / mbaff=0 / bframes=0 / keyint=250 / keyint_min=25 / scenecut=50 / rc=abr / bitrate=1262 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=16 / qpmax=51 / qpstep=24 / ip_ratio=1.40
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 3mn 0s
+Bit rate mode                            : Variable
+Bit rate                                 : 182 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 3.91 MiB (13%)
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,TacticalSheep,2013-05-28T16:54Z,Anyone knows how to install this ? its all russian and stuff...
+,bonethugnharmony,2013-05-28T17:20Z,"Good job NZupload.....keep kickin´ass bro !!!
+
+Thank you. "
+,gulisa,2013-05-28T20:04Z,dont download this....its fukin crashing after first lap....fuck this sh1t
+,adroit1,2013-05-28T20:06Z,"At First I was not able to save the game and the game crashed after the first race. 
+To fix the above error please use reloaded crack the game works fine.Only thing that is not there is the DLC. any help would be appreciated."
+,Dz_95,2013-05-29T11:04Z,Crash at startup!!wtf
+,R3D3Y3R1K,2013-06-08T07:35Z,"Just to let you know your upload has a virus in the torrent.
+
+Place: grid 2_[DangeSecond]RedistVisualvcredist_x86.exe
+
+Virus Name: Virus.Win32.Neshta.a
+
+Date Detected: 12 Dec 2005 15:46:00 +0400
+
+Date Published: 09 May 2006 22:59:00 +0400
+
+Date Modified: 13 Jun 2006 14:19:18 +0400
+
+Technical details:
+
+This malicious program identifies and infects executable files. The program is a Windows PE EXE file, written in Delphi. The file is 41472 bytes in size.
+
+Installation
+
+The virus searches the Windows system directory (%WINDIR%) for svchost.com, which it deletes. It then creates a new svchost.com file, which contains the body of the virus. The following key is created in the system registry:
+
+[HKCRexefileshellopencommand]
+@=""%WINDIR%svchost.com ""%1"" %*""
+This ensures that at each system restart, the virus will be automatically launched."

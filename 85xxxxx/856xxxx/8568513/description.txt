@@ -1,0 +1,74 @@
+No Windows 8 Settings were harmed in the making of this ISO
+No Programs are added to Windows
+No Registry Settings were modified
+No Unattended Settings were added to the ISO
+
+murphy78 presents Windows 8 Pro VL x86 en-US Jun2013
+Contains all KB files to bring current to Jun11-2013 patch date
+
+32-bit MSDN Sources:
+en_windows_8_pro_vl_x86_dvd_917830.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Pro 32-bit
+Windows 8 Pro 32-bit KMS-Activated
+
+Release File: Win8Pro-VL-x86-en-US-Jun2013.iso
+Size: 3.64GiB
+CRC32: 1B691AC1
+MD5: EA70FC42BEF7C1AB3D5A2F6B6552E237
+SHA-1: 7AD367DCB20D34B0829425E694CE5E22982CEE0A
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, renaming, and export
+dism for MSU KB hotfix integration, mount for
+file copying of scripts, KMSServerService, Info folder
+oscdimg for ISO mastering
+
+KB Files added via add-package dism pass 1:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2753842-v2, KB2756872,
+KB2756923, KB2757638, KB2758246-v2, KB2761094, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2769166, KB2770660,
+KB2770917, KB2771744, KB2771821, KB2777166, KB2777294,
+KB2778171, KB2779768, KB2780342, KB2780523, KB2781197-v2,
+KB2782419, KB2784160, KB2785094, KB2785220, KB2788261,
+KB2788350, KB2789649, KB2789650, KB2790920, KB2792009,
+KB2795944, KB2798162, KB2800033, KB2800088, KB2804583,
+KB2804584, KB2805222, KB2805227, KB2805966-v3, KB2807986,
+KB2808679, KB2808735, KB2811660, KB2812829, KB2813430,
+KB2815769, KB2820197, KB2820330, KB2822241, KB2823233,
+KB2829254, KB2830290, KB2836187, KB2836946, KB2836947,
+KB2836988, KB2838727, KB2839229, KB2839894, KB2845533,
+KB2845690, KB2847928, KB2850674, KB2853915, KB2856758
+
+KB Files added via add-package dism pass 2:
+KB2821895
+
+setupcomplete.cmd phase:
+KB890830 (Recent Malicious software removal tool)
+mpam-fe (Defender Updates)
+KB2772501 (online only IEPropSchema update)
+SC Config and SC Create if KMS-Activated index
+reg add runonce cleanup script if KMS-Activated index
+
+Features:
+-Non-Activated index and KMS-Activated indexes
+KMS-Activated index will Activate before first logon and
+renew activation every 7 days.
+-NetFx 2-3.5.1 and all hotfixes integrated
+-All recent Windows Updates included for extra security
+-Included notes from my KMS-SS for Office activation
+and other information. You do not need to read to use.
+
+Changes from recent Windows 8 ProVL releases:
+-Added a second pass for the servicing stack KB file
+-Removed servicing stack KB file from online install
+
+Thank you for your AMAZING KMS Server Service CODYQX4!
+Enjoy Pirates,
+murphy78-TPB/MDL :)

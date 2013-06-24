@@ -1,0 +1,25 @@
+Requirements: *** ROOTED NEXUS 4 DEVICES ONLY ***
+
+Overview: This is a kernel module for Nexus 4 that allows us to wake phone (just like power button) by a swipe gesture on the screen. So it's slide2wake or slide2unlock. 
+
+
+
+==== PLEASE NOTE THAT WITH ANDROID 4.2.2 THIS WILL ONLY WORK WITH CUSTOM KERNEL ====
+==== YOU CAN GET MODIFIED STOCK KERNEL HERE: http://forum.ponury.net/viewtopic.php?f=14&t=1033 ====
+
+It also allows locking and so on. Please see the video.
+
+Any bugs and requests should be made on the official forum: http://forum.ponury.net/ you could check my other apps there.
+
+****** PLEASE NOTE THAT THIS IS BETA AND MIGHT NOT WORK ON CUSTOM KERNELS ******
+
+TO UPDATE PLEASE DO THIS:
+1) UNINSTALL COMPLETELY THE APP
+2) REBOOT DEVICE
+3) INSTALL A NEW VERSION
+
+What's in this version:
+== Version 1.7.4
+* THIS WILL NOT WORK ON FRANCO MILESTONE 2 - PLEASE USE NIGHTLY
+* added (again) disabling touchscreen in phone call
+* fixed support for latest kernels

@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,skj88,2013-06-04T04:59Z,"Thanks for uploading. I maintain the metadata on TheTVDB for the Stossel show. Would it be possible for you to store the air date like this:
+
+Stossel.2013.05.30....
+
+instead of
+
+20130530-Stossel...
+
+File renaming software can parse the air date from 'Stossel.2013.05.30....' and lookup the season/episode number from TheTVDB so that media centers like XBMC can load it in their system and get the metadata. For it to work, the show title, year, day and month must be separated by periods and the air date must be after the show title (like my example of Stossel.2013.05.30....). You might see other talk shows on TPB that use a file naming format like this and they use this naming convention for this exact reason.
+
+This small change in file naming convention can make the files much more useful in media center applications.
+
+Thanks for your help to spread this show to a wider audience!"
+[T],skJGZV6z,2013-06-07T10:37Z,"@skj88
+
+Okay, that seems reasonable enough. I was not aware of this service.
+
+I will adopt the filename convention you specify starting with the next show after June 6.
+
+Question: it is permitted to have additional filename characters after the date, and if so what is the preferred way to set that off from the date portion? (e.g. provide an example using a filename I've already listed, reformatted in full into a format suitable for your system.)
+
+Would you agree that trying to rename/repost listings for everything that's already gone up would be too much to bother with?
+
+I'm pressed for time (offline) with the June 6 listing, so I cannot accommodate before this. "

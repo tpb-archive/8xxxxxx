@@ -1,0 +1,94 @@
+LINUX BUILD NOW AVAILABLE! Steam customers can now publish or subscribe to the to the best prisons from the Architect community. A new danger model improves the realty of riots occurring, and when they do you can brutally oppress the inmates using riot cops with massive batons!
+
+
+= Steam Workshop
+You can now share your prisons online via the Steam Workshop, accessible from the main menu (Steam version only)
+You can publish your current prison by giving it a name and clicking on Publish
+Alternatively you can browse the Prison Architect workshop and subscribe to other people's prisons
+Subscribed prisons will show up in the workshop window and can be played at any time by clicking Play
+Use the Steam Workshop itself to set descriptions, metadata, and to manage your published prisons
+
+= Linux
+Prison Architect is now available for Linux, via Steam and as a standalone download
+We have targeted Ubuntu 12.04 and later (32 or 64 bit) for now, with wider compatibility coming in future alphas
+The game should work fine on other distros, but please let us know if you have problems
+Note: Prison Architect is not currently compatible with Debian (Stable), because we require glibc 2.15 or greater
+
+= New anger model
+The system for determining when prisoners become angry and misbehave has been totally overhauled
+There is now a Thermometer which represents the "danger level" of your prison. A high "temperature" will lead to fights.
+All prisoners have a "boiling point", which represents the temperature at which they will kick off
+Max sec prisoners will tend to have a lower boiling point, meaning they will kick off earlier
+This thermometer is visually represented in the top toolbar, showing the current temperature and rate of change.
+Factors affecting the danger level of your prison:
+- (increase) prisoners angry that their needs are not being met
+- (increase) prisoners locked up for no reason
+- (increase) riot police on site
+- (increase) fight / riot occurring nearby
+- (increase) recent death
+- (decrease) prisoners who feel they are well treated (all needs met)
+- (decrease) guards stationed in the area 
+- (decrease) recent punishments (deterrent)
+
+= Rioting
+If the "temperature" of your prison rises too high, prisoners will begin to riot. 
+This raises the temperature further, resulting in a feedback loop which can push the entire prison into riot
+Prisoners who are rioting will capture their cell block, and will defend it against your guards and riot police
+Rioting prisoners will smash down internal doors, freeing their cellmates and spreading the riot to neighbouring cell blocks
+Your guards and staff will not willingly enter a captured sector - too dangerous
+
+= New Emergency services: Riot police, Paramedics
+To deal with riots, you can now call in Riot Police. These guys are heavily armoured and will retake the captured sectors
+You can control them using the Emergency Callouts unit list on the right of the screen, or by drag-selecting
+Paramedics will heal anyone injured nearby
+You can dismiss emergency callout units by clicking on the red X next to their unit icon
+
+= Incident markers
+When guards spot an incident, they will now "radio in" to alert you of this trouble
+Markers will popup around the edge of the screen, directing you to the incident
+Click on the Marker to quickly move to the incident
+
+= Laundry continued:
+- Prisoner uniforms now come out of the laundry machines crumpled, and must be ironed before use (requires Ironing Board) 
+- Prisoners will now change into their clean uniforms whenever their Clothing need is high
+- When showering, Prisoners will now get undressed only when close to the shower
+- Fixed: Multiple laundry baskets were being sent to a single sector at the same time
+- Fixed: Not enough prisoner uniforms are delivered to the prison
+- Fixed: Laundry baskets would sometimes render a vertical stripe of random sprites above their position
+
+= New audio work
+A ton of new audio elements have been added to the game, especially for angry crowds
+You will now get lots of audio warning before trouble breaks out. The prison now sounds a lot more dangerous
+A brand new dynamic music score will play during and after a Riot
+All objects are now made of a certain material (Wood/Metal etc) and have appropriate damage sounds
+
+
+- There have been significant improvements to direct unit control, ie drag selection, movement commands etc
+
+- You can no longer build on the very edges of the map, or anywhere on the road
+
+- Guards and staff can no longer see through walls (ie do not reveal fog of war)
+
+- The Regime report now shows the current time as a horizontal line
+
+- Prisoners will now sleep when in their cells at any time between 10pm and 8am, if they need to
+
+- All consumables are now delivered in batches, once per hour (ingredients/foodtrays/uniforms/metal/bleach)
+
+- Workmen can now unload anything from delivery trucks. This fixes bugs where items were left blocking the road
+
+- Prisoners can now receive up to 3 visitors in a single group
+
+- Fixed: Laundry/Workshop/Kitchen objects could not be dismantled because the job was wrongly assigned to prisoners
+
+- Fixed: New construction jobs are often wrongly tagged as "Failed: No materials" for a few seconds
+
+- Fixed: Visitation does not end during a bangup
+
+- Fixed: Graphical bug that resulted in the bottom of some sprites being clipped
+
+- Fixed: Prisoners assigned to work in the Kitchen would sometimes try to bring ingredients in from outside,
+resulting in an immediate escape attempt as soon as they were out the front door
+
+- Fixed: The navigation system would fail when trying to plot routes to the very edges of the map 
+(Note: Although entities can navigate to the very edge, they aren't allowed to build on it)

@@ -1,0 +1,93 @@
+Cisco IOS-On-UNIX is a fully working version of Cisco IOS that runs as a user mode Linux process. IOU supports all Cisco IOS platform independent protocols and features. IOU allows you to build out a network topology on a single PC without the need for physical routers. This is useful for validating network designs, proof-of-concept testing, and certification self-study.
+
+This is the Linux-based version, this application run only in Linux. If you are a MS Windows user, you can install a Linux operating system in a dual boot scheme or in a virtual machine such VirtualBox or Vmware Workstation.
+
+Here are some tutorials. Please, pay special attention to the chapter of Cisco IOU Error Messages.
+  
+http://evilrouters.net/2011/01/18/cisco-iou-faq/  
+http://evilrouters.net/2011/01/21/example-cisco-iou-topology/  
+http://freeccnalabs.com/resources/topology/
+
+
+This torrent contains these files:
+
+L3 IOS
+--------
+
+* i86bi_linux-p-ms-15.0A.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-P-M), Experimental Version 15.0(20120621:202753) [dstivers-june20-2012-golden_spike 102]
+Compiled Thu 21-Jun-12 13:38 by dstivers
+
+* i86bi_linux-p-ms-15.0B.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-P-M), Experimental Version 15.0(20121031:154527) [dstivers-oct25-2012-golden_spike 102]
+Compiled Wed 31-Oct-12 09:15 by dstivers
+
+* i86bi_linux-jk9s-m-15.0.1.XJR111.358.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-JK9S-M), Version 15.0(1)XJR111.358, INTERIM SOFTWARE
+Compiled Sun 08-Jan-12 07:38 by integ
+
+* i86bi_linux-ipbase-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-IPBASE-M), Experimental Version 12.4(20090407:185408) [yuiu-redbuild-V124_24_5_6_PIC1 166]
+Compiled Wed 08-Apr-09 01:29 by yuiu
+
+* i86bi_linux-tpgen-ipbase-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-TPGEN+IPBASE-M), Experimental Version 12.4(20090714:160619) [shgautam-commit-layer 108]
+Compiled Wed 15-Jul-09 15:07 by shgautam
+
+* i86bi_linux-tpgen-adventerprisek9-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-TPGEN+ADVENTERPRISEK9-M), Experimental Version 12.4(20090714:160619) [shgautam-commit-layer 105]
+Compiled Wed 15-Jul-09 14:44 by shgautam
+
+* i86bi_linux-adventerprisek9-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Experimental Version 12.4(20090407:185408) [yuiu-redbuild-V124_24_5_6_PIC1 177]
+Compiled Wed 08-Apr-09 02:09 by yuiu
+
+* i86bi_linux-adventerprisek9-ms-15.2.2.3T.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.2(2.3)T, ENGINEERING WEEKLY BUILD, synced to V151_4_M1_13
+Compiled Thu 13-Oct-11 01:08 by hlo
+
+* i86bi_linux-adventerprisek9-m-15.2.2.15T.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.2(2.15)T, ENGINEERING WEEKLY BUILD, synced to V151_4_M3_5
+Compiled Sun 29-Jan-12 02:33 by 
+
+* i86bi_linux-adventerprisek9-m-15.2.4M1.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.2(4)M1, DEVELOPMENT TEST SOFTWARE
+Compiled Fri 27-Jul-12 10:57 by prod_rel_team
+
+
+L2 IOS
+--------
+
+* i86bi_linuxl2-ipbasek9-ms-15.1A.bin
+Cisco IOS Software, Solaris Software (I86BI_LINUXL2-IPBASEK9-M), Experimental Version 15.1(20130124:233217) [dstivers-jan24-2013-team_track 101]
+Compiled Thu 24-Jan-13 16:17 by dstivers
+
+* i86bi_linuxl2-ipbasek9-ms-15.1B.bin
+Cisco IOS Software, Solaris Software (I86BI_LINUXL2-IPBASEK9-M), Experimental Version 15.1(20130124:233217) [dstivers-jan24-2013-team_track 154]
+Compiled Thu 14-Feb-13 15:45 by dstivers
+
+* i86bi_linuxl2-upk9-ms-12.2.bin
+Cisco IOS Software, Linux Software (LINUXL2-UPK9-M), Experimental Version 12.2(20100802:165548) [mtimm-mtrosel2iol 102]
+Compiled Mon 02-Aug-10 10:05 by mtimm
+
+* i86bi_linuxl2-upk9-ms-15.0.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX_L2-UPK9-M), Experimental Version 15.0(20120621:060510) [dstivers-june20-2012-golden_spike 101]
+Compiled Wed 20-Jun-12 23:58 by dstivers
+
+
+Utilities
+------------
+
+* iou2net.pl
+iou2net.pl, Version v0.5, 20-Sep-2011.
+
+* keygen.py
+Cisco IOU License Generator v2 - Kal 2011, python port of 2006 C version
+
+* wrapper.bin
+wrapper: 1.1
+
+* wrapper.py
+wrapper: 0.0.1 - another wrapper in python
+
+Enjoy!

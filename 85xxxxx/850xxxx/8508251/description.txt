@@ -1,0 +1,63 @@
+Source : ROVERS(Thanks)
+ 
+http://www.imdb.com/title/tt2268573/
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 696 MiB
+Duration                                 : 1h 27mn
+Overall bit rate                         : 1 109 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 27mn
+Bit rate                                 : 971 Kbps
+Width                                    : 640 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.233
+Stream size                              : 610 MiB (88%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 27mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 80.3 MiB (12%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+Writing library                          : LAME3.99r
+Encoding settings                        : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+Four isolated astronauts on board a bio-dome space craft, experience a ghostly intercession after a meteor storm, leading to paranoia, fear and death. 
+ 
+http://www.shotpix.com/images/10963035702243132810.png 
+http://www.shotpix.com/images/47278435201688419295.png 
+http://www.shotpix.com/images/92541356645861561278.png

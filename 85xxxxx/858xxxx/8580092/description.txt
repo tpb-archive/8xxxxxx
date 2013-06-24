@@ -1,0 +1,23 @@
+National Instruments'
+ -Vision Development Module 2012 SP1 (Vision Assistant is included)
+ -LabVIEW 2012 SP1
+ -LabWindows/CVI 2012 SP1
+for Windows 32-bit.
+
+Unmodified, downloaded from NI's webpages (requires registration):
+ni.com/vision/software/
+ni.com/trylabview/
+ni.com/lwcvi/download/
+
+
+The LabVIEW 2012 SP1 32-bit f2 patch is available at: 
+http://ftp.ni.com/support/softlib/labview/labview_development_system/2012%20SP1/2012%20SP1%20f2%20Patch/LV2012SP1_f2Patch.exe
+
+
+If the evaluation period is too short, this should not be a problem for too long after you complete the download ;)
+
+
+Each of the three applications is in a 7zip compressed file, so you need an application similar to WinRar, PeaZip or 7Zip to decompress them and then use them.
+
+
+It's getting uploaded using a slow line, so patience is needed :(

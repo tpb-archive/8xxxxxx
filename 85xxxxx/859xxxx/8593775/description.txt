@@ -1,0 +1,79 @@
+This is my own rip.
+
+General
+Unique ID                        : 193289896567861642780813267535179695084 (0x916A47AC6CF327C08C9A6B7454AE43EC)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.12 GiB
+Duration                         : 1h 50mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 739 Kbps
+Encoded date                     : UTC 2013-06-19 21:51:30
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 50mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 301 Kbps
+Maximum bit rate                 : 12.5 Mbps
+Width                            : 1 280 pixels
+Height                           : 692 pixels
+Display aspect ratio             : 1.850
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.108
+Stream size                      : 1.78 GiB (84%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 50mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 304 MiB (14%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:Survival of the Fittest
+00:03:57.070                     : en:A Big Deal
+00:10:41.766                     : en:Roadside Hazzard
+00:14:07.388                     : en:Horrible Smell
+00:21:21.989                     : en:Home Improvements
+00:29:29.643                     : en:A Visit From Irene
+00:34:33.113                     : en:Real Proof
+00:37:51.311                     : en:Settling In
+00:47:28.721                     : en:Bigfoot Rumors
+00:54:42.279                     : en:The Sasquatch Legend
+01:00:29.501                     : en:Friendly, Not Ferocious
+01:07:18.284                     : en:Talk of the Town
+01:11:47.178                     : en:Trash Run
+01:17:51.000                     : en:Vital Facts
+01:27:16.545                     : en:Rush Hour
+01:34:28.830                     : en:Goodbye, Harry
+01:37:28.031                     : en:One of the Family
+01:46:45.274                     : en:End Titles

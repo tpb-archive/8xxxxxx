@@ -1,0 +1,13 @@
+Bootcamp Partition Resizer (Re-distribute free Space). From what I can see this only works on one volume and that volume must contain OS X and some other file system such as windows. Works with Hackintosh....
+
+==================================
+
+In the past, to reallocate free space on your Mac, youΓÇÖd need to back up the Boot Camp partition, delete the partition, recreate an NTFS partition with a new size and, finally, restore the Windows partition backup to the new NTFS partition, a process that could take anywhere between two to five hours. Fortunately, Paragon Software has developed Camptune X, which achieves the same result in a matter of minutes!
+
+How it works
+
+You may ask, ΓÇ£Why would I ever need to resize volumes on my Mac?ΓÇ¥ ItΓÇÖs only a matter of time until one of the volumes becomes overfilled with data and youΓÇÖll need to free up some disk space. ItΓÇÖs likely that the necessary space will be located on an adjacent partition that contains another operating system and, just like that, youΓÇÖll need to resize both of the volumes to add some free space to one of them.
+ 
+In the past, resizing Boot Camp partitions was a long, time-consuming and tedious procedure. Obtaining a volume of the desired size often meant spending hours waiting for backup operations to finish, watching for volumes to move their borders and images to be written back. Now you can perform these operations in minutes.
+ 
+Paragon Camptune X is simply the fastest way to perform resize operations. Instead of spending your time juggling with archives, disks and applications, use it to do something more creative with your Mac!

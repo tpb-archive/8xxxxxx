@@ -1,0 +1,48 @@
+Soft keyboard tailor-made for playing games. Play keyboard/gamepad-only games with touchscreen (e.g. Flash, Xperia Play or Onlive games), play touch-only games with physical gamepad (e.g. Street Fighter IV HD), or play touch/gamepad-only games with normal keyboard.
+For any issue (e.g. initial setup problem, call up gamepad in games, config touchscreen control, enter cheat code in GTA) please contact developer at android.locnet@gmail.com
+[Credit to TLRtheory for the demonstration video]
+
+Main Features
+=============
+1. onscreen gamepad with:
+- multi-touch (depends on device and OS)
+- 4/8-way d-pad, up to 12 game buttons, 2 analog sticks
+- resizable and customizable buttons layout
+- fully configurable buttons mappings
+2. re-map physical keys
+3. save key/button mappings to profiles
+4. full qwerty keyboard
+5. create macro to perform autofire, combo keys, action sequence, and text input with single button hit
+6. emulate Xperia Play and Onlive Controller buttons
+7. emulate Touchscreen action, even work with devices with no touchscreen (e.g. Minix Neo X5) (need root)
+8. emulate real Analog Joystick (need root, and OS joystick support)
+9. control Analog Sticks with keys
+
+Controller Compatibility
+======================
+This app allow user to control games with:
+- Touchscreen
+- Accelerometer
+- Mouse (need root)
+- BluezIME-compatible BlueTooth keyboard/controller (e.g. PhoneJoy, iCade, Wiimote)
+- OS-compatible BlueTooth keyboard/controller (e.g. keyboard/controller connected to OS 4.2 as HID device, such as iCade, iPega) *
+- OS-compatible USB keyboard/controller (e.g. XBox 360, generic keyboard, some generic controller) *
+- virtual controller emulated from 3rd party tools (e.g. Moga Universal Driver system-mode, Sixaxis bypass-ime mode) *
+- Xperia Play in Gingerbread (touchpad support need root)
+- built-in gamepad of various gaming devices (e.g. Droid X360, JXD S5110, Yinlips G18A)
+* reading analog input requires root access unless connecting controller through BluezIME
+
+Software Compatibility
+======================
+This app is originally provided as an add-on for our emulators, but now works with many other apps. Not all apps are compatible, so please test during the trial period. For Motorola Bionic user, there is a ROM issue where many features only work with apps which are explicitly designed to work with soft keyboard.
+
+For best compatibility we recommend using BluezIME-compatible controllers when physical controller is needed. Some compatibility issues can be solved with the help of root features, please contact us if you have problem.
+
+How to call up GameKeyboard
+===========================
+Depends on device, ROM and target app there are many different ways to call up soft keyboard, e.g.:
+- some apps have built-in option to call up soft keyboard
+- some devices support using long pressing [Menu] key to call up soft keyboard
+GameKeyboard also provide two methods in case the above cannot be used:
+- switch to GameKeyboard Launcher, tap on the "call out keyboard after exit" button, then switch back
+- turn on "Settings-&gt;[Vol. Up] Key Action" then use [Vol. Up] as hotkey

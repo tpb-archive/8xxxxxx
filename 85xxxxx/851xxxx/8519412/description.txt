@@ -1,0 +1,53 @@
+Name: QMidi pro
+Version:  - 2.2.5
+
+Mac Platform: UB
+Includes: K
+
+OS version: Intel/PPC, OS X 10.5 or later
+
+Link for more information: http://www.mixagesoftware.com/
+
+QMidi is the ultimate MIDI/Karaoke player for the Macintosh. It can organize and play many types of media files, including movies and CD+G, and allows easy text editing/synchronization. It features real time pitch shifting, time stretching and the ability to display karaoke and movie content in full screen mode, even on a second monitor.
+
+QMidi has an intuitive user interface, which you will be able to use immediately. You can quickly make playlists of your favorite songs and play them sequentially. You can also use the library to organize your files similarly to iTunes.
+QMidi Key Features
+
+* Supports MIDI formats 0 and 1 and any audio/video format supported by OS X Core Audio or QuickTime.
+* Native support for FLAC files.
+* Plays MIDI karaoke, MP3 ID3 lyrics, CDG, movie karaoke.
+* External text display/edit/synchronization/merge .
+* Time stretch, pitch transpose, chord transpose with the ability to export changes.
+* Text karaoke and CDG to movie conversion.Music library and playlist documents.
+* Supports many foreign text encodings.
+* Karaoke text formatting with custom background image.
+* Remote transport using MIDI messages and AppleScript.
+* Lyrics search.
+* MIDI mixer, GS effects.
+* Supports OS X Core MIDI devices and Apple DLS Music Device (SoundFonts).
+* Italian localization. 
+
+QMidi Pro additional features
+* Play audio/video and MIDI in sync (requires Mac OS X 10.5 or later)
+* MTC (MIDI Time code) sync. 
+
+What's New
+for Version 2.2.5:
+
+Improvements:
+
+You can set custom font size on lists.
+You can now merge synced text as SYLT frame on native MP3 files.
+Columns sizes are now saved in document playlists.
+
+Bug Fixes:
+
+Fixed: MIDI sync did not work with multitrack movie files
+Fixed: If you closed a karaoke window while in fullscreen mode, the menu bar was hidden on subsequent launch
+Fixed a rare bug on encoding manager
+Fixed: Exporting as movie a synced PDF file did not work.
+
+
+K'd By LfsCrew  
+
+Big Txs ever to Tobw

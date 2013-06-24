@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-05-30T06:56Z,"Ahh... forgot to mention the OEM branding...
+On the OEM activated indexes it also puts logos on a lot of system screens to reflect your motherboard manufacturer.
+
+If you use vmware, it will have vmware logo, asus motherboard: asus logo... etc.
+
+It will put little logos on other screens such as computer info etc..."
+,rehceel99,2013-05-30T15:11Z,tnx... AGAIN! :)
+,PapaQuebec,2013-05-30T18:01Z,Thanks for removing the .net 4.5 auto-install - it was taking as long to install as the OS!
+,PapaQuebec,2013-05-30T18:03Z,Thanks for removing the .net4.5 auto-install. It was taking as long to run as to install the OS!
+[V],murphy78,2013-05-30T18:50Z,"Well it was either do something about the rediculous amount of extra time it was starting to take, or split the difference and make it optional. Since it's a post-setup type of install anyway, it's not really that big of a deal, even if ppl like net45.
+
+I wish it was able to be pre-integrated like IE10, but it's just not how MS designed it to be used for windows 7. There are a few net4 integration methods, but the only one I trust is Microsoft's own files.  Let's say I put some inadequate .net addon installer in the os... Then 5 months down the line you are having a problem with some .net program. Some people would be pulling their damn hair out wondering why on earth things aren't working like they're supposed to.
+
+The problem is that even though the mod makers have good intentions, they don't work at microsoft and they don't pass their work through a high-quality scrutiny to make sure all registry keys match and all file hashes are the same. If they did, it would be much easier to use their shortcuts... but they dont.
+
+Anyway, it's decided... .net is going to remain optional; at least for a while. It will probably remain that way unless I have to find a few hundred megs of room and it's the only optional thing I can cut."
+,Qurajber,2013-05-30T19:31Z,"Thanks a lot, Murphy. This is again perfectly .... thanks ...."
+,Qurajber,2013-05-30T19:31Z,"Of course, thanks for removing the. Net 4.5 auto-install"
+,Gotka,2013-05-30T21:36Z,Thanks a lot for great work !!!
+,PapaQuebec,2013-05-31T04:26Z,"I used this for the first time this evening - removing the dire Win8 on a brand-new Toshiba L830. The install took half the time it did with .net4.5 auto-install - thanks again for that modification. One thing I did notice is that for the first time with one of your (excellent) releases, I used the OEM loader option. While the machine was correctly identified as a Toshiba L830, the boot, desktop and shutdown screens told a different tale: apparently the machine was a ""BFH ESystem"" or similar!"
+[V],murphy78,2013-05-31T06:43Z,"It goes by the motherboard information, so if toshiba used a different company's motherboard, it would have the screens for said company.
+
+The oem-activated index is really more of a curiosity... some ppl like it, which is why I left it in, but you can use at your own discretion."
+,Wizardx15,2013-06-02T20:47Z,"Hey murphy78 can u please make a AIO window 7 32 & 64bit with Microsoft Security Essentials+Framework+Office 2013, that would take off a lot of stress from us IT guys and keep up the good work.  "
+[V],murphy78,2013-06-03T01:14Z,"Unlikely... You are talking about a fully sysprepped AIO. That's not impossible, but it just wouldn't be downloaded enough to sustain a torrent.
+
+People are a-holes with regards to seeding. I've seeded this torrent over 100x and it has about half that in seeders. That means that, on average, people seed only 50%. That is horrible, and a fully sysprepped win7 would be MUCH worse.
+
+Short answer: no.
+Long anser: not unless people start miraculously seeding at least twice as much as they currently are..."
+,Nexusxxx,2013-06-04T18:06Z,Thanks!
+,tastybyte,2013-06-04T20:01Z,"not sure but I think the win7 pro x64 (not-pre activated) is broken.
+
+tried to install twice, almost get's to the end (before checking video preformance) got the message: windows can't run on this hardware.
+
+switched back to regular win7 pro dvd and it installed fine.
+
+The January update worked fine. Solution? "
+,eddierex,2013-06-05T06:25Z,"@tastybyte:
+
+Here's an educated guess:  You are using a USB key as your install media, and probably using YUMI?
+
+I dunno why, but you have to be sure and yank the USB out right before it loads back up from the first reboot in order to avoid that error."
+[V],murphy78,2013-06-05T09:42Z,"Yes, the USB3 drivers added are specific to certain manufacturers, but they are not made by microsoft even though they are signed. Microsoft didn't start releasing a generic usb3 driver till win8/server2012.
+
+You only need the usb in the port for the first portion of install though... After that, it does not require it, and no further files are used from the drive."
+,tastybyte,2013-06-05T17:56Z,"@eddierex
+
+Spot on, spot on.
+
+Thanks for the insight!"
+,rehansiddiq,2013-06-06T08:39Z,"thanks dear   ;)
+(*&(*&*(&*(&(*&*(&*(&(&(*&*(&*(&*(&(*&(*&(*&(*&(&(&"
+,shreeux,2013-06-06T13:43Z,"i tried several times in usb nothing happened,after loading windows files only two option available one is tool set and another one is pc turn of..
+Please explain anyone else..."
+,BlackCre,2013-06-09T04:10Z,"Downloading. I will comment right after I install it. Thank you murphy78, I will use a USB installation for the first time."
+,wildpig1234,2013-06-10T06:25Z,"please split install.wim into 2GB files to maintain compatibility with fat32 as uefi boot uses fat32.  Thanks
+
+I had to use imagex.exe but would be nice if this was done beforehand ;)"
+[V],murphy78,2013-06-10T23:22Z,No. This is not intended for UEFI flash drive use. I've already made a version with just the x64 stuff for UEFI. It has problems locating the licensing info when you split the wim.
+,BlackCre,2013-06-13T03:31Z,"I downloaded it and installed using USB, everything is working great until now. I have a simple question, I installed Windows 7 Ultimate SP1 OEM-Activated. Does this mean I can download updates or no? Thanks."
+,BlackCre,2013-06-13T03:34Z,I installed Windows 7 Ultimate SP1 OEM-Activated. Does this mean I can download updates or no?

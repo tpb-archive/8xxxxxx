@@ -1,0 +1,133 @@
+VTC - MySQL 5 Development - Part 2 of 2
+
+
+Course:MySQL 5 Development (Part 2)
+Author:David Swain
+ISBN:978-1-61866-021-3
+Release Date:2011-11-22
+Duration:17.5 hrs / 184 tutorials
+
+This MySQL 5 Development Part 2 course continues the introduction to MySQL we began with Part 1. But in Part 2, we now begin working with commands that are used to change the contents of the tables in our database.
+
+
+Table of Contents
+
+Introduction
+* Welcome (05:44)
+* What the Course Will Cover (04:47)
+* System Requirements (03:20)
+* Brief Review of Part 1 (02:15)
+
+Configuration
+* Startup Options (06:02)
+* Configuration File (05:30)
+* Important Configuration Options (06:00)
+
+Manipulating Data
+* Data Manipulation Basics (03:16)
+* Warnings and Errors (07:39)
+* SQL Modes (06:40)
+* Changing Syntax Interpretation (06:56)
+* Elevating Warnings to Errors (07:02)
+* Interpreting Error Messages (05:45)
+* Note Warnings (04:23)
+* System Error Warnings (05:24)
+
+Inserting Data
+* Inserting Data (06:19)
+* Inserting Data Archaic Syntax (04:29)
+* INSERT Demonstrations (07:39)
+* Default Values on Insert (05:01)
+* AUTO_INCREMENT on Insert (05:13)
+* AUTO_INCREMENT Issues (06:06)
+* LAST_INSERT_ID Function (07:04)
+* Common INSERT Errors (04:47)
+
+Deleting Data
+* Deleting Data (06:08)
+* DELETE with WHERE (06:25)
+* DELETE with LIMIT (06:43)
+* DELETE with ORDER BY (04:01)
+* DELETE Result Messages (03:03)
+
+Updating Data
+* Updating Data (07:48)
+* UPDATE with WHERE (05:02)
+* UPDATE with LIMIT (07:09)
+* UPDATE with ORDER BY (03:36)
+* UPDATE Result Messages (05:25)
+
+Other MySQL DML Commands
+* REPLACE Command (05:02)
+* REPLACE Demo (05:54)
+* ON DUPLICATE KEY UPDATE Option (05:15)
+* ON DUPLICATE KEY UPDATE Demo (05:22)
+* TRUNCATE Command (03:48)
+* TRUNCATE Demonstration (05:56)
+* Safe Updates Mode (07:14)
+
+Importing Data
+* Importing Data (07:29)
+* Basic Import Demonstrations (06:35)
+* Importing Non-Tab Formats (06:58)
+* Skipping Header Lines on Import (04:13)
+* Changing Import Column Order (07:14)
+* Converting Data on Import pt. 1 (04:35)
+* Converting Data on Import pt. 2 (04:47)
+* Importing on the Shell Command Line (06:33)
+
+Deriving New Tables
+* New Tables from Existing Tables (06:40)
+* CREATE TABLE Using SELECT (06:09)
+* Including Other Features (06:41)
+* CREATE TABLE Using LIKE (04:12)
+* Populating Derived Tables (03:24)
+* Temporary Tables (06:48)
+* Altering Derived Tables (05:54)
+
+Multi-Table Queries
+* Addressing Multiple Tables (08:04)
+* Column Name Conflicts (04:35)
+* Resolving Column Name Conflicts (04:13)
+* Table Name Conflicts (05:03)
+* Resolving Table Name Conflicts (06:31)
+
+Subqueries
+
+
+Joins
+
+
+Views
+
+
+Multiple Table DML Operations
+
+
+Transactions and Locking
+
+
+Stored Routine Basics
+
+
+Stored Routine Programming
+
+
+Triggers
+
+
+Events
+
+
+Indexes
+
+
+Efficiency Checks
+
+
+Conclusion
+
+
+Credits
+
+

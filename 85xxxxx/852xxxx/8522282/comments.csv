@@ -1,0 +1,68 @@
+﻿User Type,Username,Date,Text
+,psycho_bob,2013-05-30T23:09Z,"The game came with no crack. When I try to open it I get ""invalid number of arguments: 0"" error."
+,jay_mail,2013-05-31T00:38Z,"I got same problem as psycho_bob there, but I make theswapper.exe to run as admin. The game would start. However, my problem different as I got a white screen with sound on what supposed to be opening menu. Anyone got suggestion on how to solve this?"
+,segamon,2013-05-31T00:40Z,is this game playable or not? I guess i'll have to see for myself.
+,c0h3n,2013-05-31T01:16Z,"The game is playable guys, just run TheSwapper.exe after startup located in the game folder. Thanks!"
+,goldenaxxxe,2013-05-31T01:22Z,It appears the desktop shortcut launcher for the game launches 'BugReporter'. I went to the installed game folder in Program Files and just double clicked 'TheSwapper' and it worked fine. 
+,specialvictim,2013-05-31T02:45Z,"Thanks for UL Stif, but I'm getting some strange coloration and fuzziness at the menu screen and when I try to begin the game it crashes...any help?"
+,specialvictim,2013-05-31T03:09Z,"looks like my comment didn't post so just in case here it is again...First thx for UL, but I'm getting strange colors and some fuzziness at the menu screen and the game crashes when I try to play. Should I wait for a fix or does someone know a solution? I appreciate any help. Thx!"
+,psycho_bob,2013-05-31T04:34Z,"There is going to be an official fix for this.
+
+Game crashing on start *FIX*
+Possible solutions
+
+1. switching from 8CH to 2CH 
+2. Edit CommonSettings.pro and change the setting ""isFullscreen"" to ""False"" (did the trick for me. I used BorderlessWindowed to make it fullscreen again)"
+,specialvictim,2013-05-31T05:00Z,"@psycho_bob
+Thanks man I appreciate the help"
+,Rojagegeo,2013-05-31T11:57Z,thanx psycho for solving the issue !
+,Slayer676,2013-05-31T16:47Z,"Works like a charm, thank you!
+
+Don't start it from the desktop shortcut!"
+,Burnout13,2013-06-01T04:20Z,Yeah I have tried the above tricks and still I get a screen with audio/visual static and I am unable to even type my name in the box.
+,Pro4208,2013-06-01T06:23Z,"Thanks for the torrent Stifler. Works great, like usual. 
+
+That being said, this is the first time I've ever actually felt bad for downloading a torrent. This game is incredible and for that, I'll throw down the $11 and buy it on Steam. But that's why TPB is great, I probably never would have bought this game if I didn't get to try it first. 
+
+I highly recommend playing this game. Better yet, actually support the developers and buy it too. "
+,oithatguyoi,2013-06-01T08:38Z,Works Perfectly !!!!  Thanks alot man !!!!!! Windows 8 x64
+,jibay7,2013-06-01T15:05Z,"This game is fine, you really should buy it ;)"
+,12-mohd,2013-06-01T17:25Z,"@ psycho_bob hep!!
+how to switch from 8CH to 2CH and, how can i edit the CommonSettings.pro ??"
+,Crysq,2013-06-01T18:23Z,"@ 12-mohd
+Located in C:users\DocumentsFacepalm GamesThe Swapper 1000"
+,12-mohd,2013-06-01T20:06Z,"@Crysq thanks for replying, i changed it, but it still doesn't work well.
+
+And how can i change 8CH to 2CH."
+,12-mohd,2013-06-01T20:12Z,"@Crysq thanks for replying, but its still doesn't work properly.
+
+And how to switch from 8CH to 2CH."
+,Crysq,2013-06-01T20:56Z,"@12-mohd
+Same location, commonsettings.ini, change third line, which should be an 8, to 2.  Otherwise, wait for possibly existent official fix."
+,Burnout13,2013-06-01T23:42Z,"Just FYI, on the official forums it is stated that the game WILL NOT RUN if you have an INTEL cpu. So until a patch comes out no amount of fiddling with the settings will make it work on your INTEL system. The developer currently has no ETA on when this patch will release.
+
+Which make me sad, as I wanted to buy the game anyways after I tried it and there is a sale on steam."
+,stubbieaussi,2013-06-02T01:40Z,"Windows 7, 64bit. Intel E8500 3.2Ghz, ATI HD6870. The game plays great. Just make sure to make a new shortcut from the TheSwapper.exe file to run the game."
+,belgradeboy77,2013-06-02T16:41Z,"For me isn't working...It tells me: You need to have at least openGL 1.5.  
+Intel E5200
+nVidia gt9600
+I dont understand"
+,specialvictim,2013-06-02T18:18Z,"that's silly if it's true that this game won't run on intel-based cpu's since most cpu's are intel based, but I can't get it to work either so maybe that is the issue?"
+,AEAGEsad,2013-06-02T22:55Z,"This game not run on my w7 64bit, i5 3450, gtx 660, 8gb ram. I made the changes in configs and got the same error everytime..
+If someone got a solution, please share with us..."
+,Tungsteno,2013-06-03T22:35Z,"THE GAME WORKS WITHOUT PROBLEMS.
+
+( the desktop shortcut launcher for the game launches a console thing, just delete it and make another one yourself)
+
+
+windows xp sp3 x32
+ati 4850
+phenom x4 565
+"
+,AEAGEsad,2013-06-04T00:39Z,"This game is running normally, thx"
+,FirehandX,2013-06-04T13:10Z,Thanks for the 8CH fix. Game works perfectly when using executable from install folder. Complaints of audio static: part of the game. Used to create atmosphere.
+,jorfer,2013-06-04T23:48Z,I've solved my problem. If you have an intel cpu just open your graphics card control panel and make sure that you run the game with the graphics card. Worked for me with i7 3610qm and gtx675M.
+,qusay20,2013-06-05T10:18Z,"@jorfer how to make sure that i run the game with the graphics card, because i have intel too"
+,jorfer,2013-06-05T14:10Z,"@qusay20 If you have an nvidia graphics card, open the control panel and in 3D definitions, switch to program definitions. There you will see a list of games. If you don't see The Swapper, just click in add and browse for the game .exe. After that you just need to select which graphics processor will run the game in option 2. Make sure that it says ""High Performance Nvidia Processor"" or something like that.
+For Ati graphics card i don't know how to do this."
+,T4lyX,2013-06-06T14:34Z,"For thoose of you not getting it to work, don't run the game from desktop. Go to the installation folder and run the .exe as admin."

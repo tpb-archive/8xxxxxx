@@ -1,0 +1,58 @@
+National.Geographic.Extreme.Wolf.Attack.HDTV.x264-TVBOX
+
+Complete name        National.Geographic.Extreme.Wolf.Attack.HDTV.x264-TVBOXSamplenat.geo.extreme.wolf.attack.hdtv.x264-tvbox.sample.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 7.66 MiB
+Duration                       : 1mn 0s
+Overall bit rate mode          : Variable
+Overall bit rate               : 1 064 Kbps
+Encoded date                   : UTC 2013-06-15 06:51:57
+Tagged date                    : UTC 2013-06-15 06:51:57
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1mn 0s
+Bit rate                       : 932 Kbps
+Maximum bit rate               : 4 391 Kbps
+Width                          : 720 pixels
+Height                         : 404 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.128
+Stream size                    : 6.71 MiB (88%)
+Encoded date                   : UTC 2013-06-10 11:32:25
+Tagged date                    : UTC 2013-06-15 06:51:59
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 1mn 0s
+Bit rate mode                  : Variable
+Bit rate                       : 124 Kbps
+Maximum bit rate               : 148 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 938 KiB (12%)
+Encoded date                   : UTC 2013-06-10 15:15:03
+Tagged date                    : UTC 2013-06-15 06:51:59
+

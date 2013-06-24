@@ -1,0 +1,61 @@
+FBI PORTES DISPARUS - Saison 1 à 7 - Version française
+
+========================================================
+
+General
+Nom complet                      : FBI Portes Disparus 
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Taille du fichier                : 354 Mio
+Duree                            : 41mn 9s
+Debit global moyen               : 1 202 Kbps
+Application utilisee             : MEncoder dev-SVN-r29241
+Bibliotheque utilisee            : MPlayer
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Profil du format                 : Advanced Simple@L5
+Parametres du format, BVOP       : Oui
+Parametres du format, QPel       : Non
+Parametres du format, GMC        : Pas de warppoints
+Parametres du format, Matrice    : Default (H.263)
+Identifiant du codec             : XVID
+Identifiant du codec/Suggestion  : XviD
+Duree                            : 41mn 9s
+Debit                            : 1 057 Kbps
+Largeur                          : 624 pixels
+Hauteur                          : 352 pixels
+Format a l'ecran                 : 16/9
+Images par seconde               : 25,000 Im/s
+Espace de couleurs               : YUV
+Sous-echantillonnage de la chrom : 4:2:0
+Profondeur des couleurs          : 8 bits
+Type d'image                     : Progressif
+Bits/(Pixel*Image)               : 0.193
+Taille du flux                   : 311 Mio (88%)
+Bibliotheque utilisee            : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Version du format                : Version 1
+Profil du format                 : Layer 3
+Parametres du format, Mode       : Joint stereo
+Extension du mode                : MS Stereo
+Identifiant du codec             : 55
+Identifiant du codec/Suggestion  : MP3
+Duree                            : 41mn 9s
+Type de debit                    : Variable
+Debit                            : 128 Kbps
+Canaux                           : 2 canaux
+Echantillonnage                  : 48,0 KHz
+Profondeur des couleurs          : 16 bits
+Taille du flux                   : 38,7 Mio (11%)
+Alignement                       : Alignee sur les interleaves
+Interleave, duree                : 24 ms (0,60 image video)
+Interleave, d. de pre-chargement : 140 ms
+Bibliotheque utilisee            : LAME3.90.
+Parametres d'encodage            : -m j -V 4 -q 2 -lowpass 17.6 --abr 128
+
+========================================================

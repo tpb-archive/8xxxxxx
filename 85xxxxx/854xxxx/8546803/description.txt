@@ -1,0 +1,55 @@
+General
+--------------------------------------------------------------
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 595 MiB
+Duration                                 : 1h 35mn
+Overall bit rate                         : 875 Kbps
+Writing library                          : libmkv 0.6.5.1
+
+Video
+--------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 35mn
+Width                                    : 704 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Variable / Variable
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 130
+Language                                 : English
+
+
+Audio
+--------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 35mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+Screenshots
+-------------------------------------------------------------- 
+http://share.pho.to/2UrJz/original 
+http://share.pho.to/2UrJr/original 
+http://share.pho.to/2UrJn/original
+
+Enjoy ;)

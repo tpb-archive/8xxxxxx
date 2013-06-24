@@ -1,0 +1,37 @@
+Release Originale TNT Village
+Qui: http://forum.tntvillage.scambioetico.org/index.php?showtopic=333832
+
+.: Descrizione :.
+Windows 1.0 (1985), commercializzato dal 20 novembre 1985, è stato il primo tentativo di Microsoft di implementare un ambiente operativo capace di multitasking e basato su una interfaccia grafica anche su piattaforma PC. Windows 1.0 rappresentò a tutti gli effetti la primissima incarnazione del sistema operativo Windows.
+
+
+.: Caratteristiche :.
+Diversamente dalle versioni successive, Windows 1.0 offriva un multitasking limitato delle applicazioni MS-DOS esistenti; fu posta invece attenzione a creare un paradigma di interazione, un modello di esecuzione e delle API stabili che fossero usate in futuro per applicazioni native. Venti anni dopo, non solo si possono ancora eseguire programmi scritti per Windows 1.0 su Windows XP, ma si può anche ricompilare il loro codice sorgente per ottenere un'applicazione moderna, apportando solo lievi modifiche.
+
+Windows 1.0 è spesso considerato erroneamente una vera "interfaccia di MS-DOS", considerazione che è stata applicata anche alle versioni successive. In effetti Windows 1.0 veniva lanciato da MS-DOS, poteva a sua volta richiamare funzioni di MS-DOS e i programmi di interfaccia si eseguivano da file .exe proprio come i programmi di MS-DOS. Tuttavia i file.exe di Windows avevano un formato "new executable" (nuovo eseguibile) tutto loro, che solo Windows poteva elaborare e che, per esempio, permetteva di caricare parti di codice e di dati su richiesta. Le applicazioni potevano amministrare la memoria solo attraverso il sistema di gestione della memoria proprio di Windows, che implementava uno schema di memoria virtuale software e che permetteva l'esecuzione di programmi più grandi della memoria RAM disponibile.
+
+Considerare Windows 1.0 una "interfaccia del DOS" non tiene conto del fatto che era stato progettato solo per essere un ambiente grafico usato dalle applicazioni, e non un sistema operativo completo. Windows 1.0 includeva driver originali per schede video, mouse, tastiere, stampanti e porte seriali e le applicazioni potevano richiamare soltanto le API basate su questi driver. Tenendo conto che al tempo le possibilità grafiche di MS-DOS erano estremamente limitate e data la limitata utilità degli altri servizi che offriva, gli applicativi MS-DOS dovevano accedere direttamente all'hardware (o a volte sfruttare il BIOS) per svolgere il proprio lavoro. Perciò, piuttosto che fungere da interfaccia a MS-DOS, Windows 1.0 gli fece da complemento e in parte lo rimpiazzò. L'estensione di questo rimpiazzo progressivo del DOS sarebbe incrementato nelle versioni successive.
+
+
+.: Cos'è incluso nel torrent? :.
+Un Floppy di 1.40MB contente Windows 1.01 pronto all'uso, in estensione IMA, leggibile da WinImage. Il floppy è bootable, da sottolineare anche che non legge Hard Disk il S.O.
+
+
+.: Applicativi Inclusi in Windows :.
+La prima versione di Windows eseguiva la shell, conosciuta come "MS-DOS Executive". Gli altri programmi erano Calcolatrice, Calendario, Schedario, Clipboard viewer, Orologio, Pannello di controllo, Blocco note, Microsoft Paint, Reversi, Terminale, Write, e il prompt dei comandi.
+
+
+.: Dettagli aggiuntivi :.
+Uno degli aspetti interessanti del sistema erano le finestre non sovrapponibili, che invece potevano solo essere affiancate (tiled). Solo le finestre di dialogo potevano apparire sopra ad altre finestre.
+
+Gli eseguibili di Windows 1.0 avevano sempre la stessa estensione .exe e l'header dei programmi MS-DOS, mentre non contenevano ancora il cosiddetto MS-DOS stub che visualizza la stringa "This program must be run under Windows" (Questo programma deve essere eseguito sotto Windows) quando il file viene eseguito all'infuori di Windows. Invece l'header del file era formattato in modo tale da far rifiutare l'esecuzione al DOS col messaggio d'errore "program too large to fit in memory" (programma troppo grande per entrare in memoria).
+
+Dal principio Windows era stato concepito per permettere il multitasking dei programmi, anche se originariamente questo si applicava solo alle applicazioni native e per molte versioni il multitasking era di natura non-preemptive, per cui i programmi Windows possedevano sempre la loro propria barra dei menu invece di scambiarsi un'unica barra dei menu come facevano gli Amiga di casa Commodore e i Macintosh di casa Apple.
+
+
+.: Requisiti di sistema :.
+
+RAM: 1MB minimo
+
+
+.: Virus Free :.

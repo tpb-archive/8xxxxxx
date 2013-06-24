@@ -1,0 +1,107 @@
+Best ebook reader for Android. Supports EPUB 2, PDF and OPDS formats and the Adobe 
+
+DRM.
+
+For eager readers, students and pros. Highlight and annotate excerpts, share quotes 
+
+and annotations with friends, revise your lessons, prepare reports, make 
+
+bibliographical research or annotate contracts, lookup words in local and remote 
+
+dictionaries, go on reading while running thanks to the text-to-speech function, 
+
+download thousands of ebooks from famous OPDS catalogs or add your own OPDS 
+
+catalogs...
+
+ΓÇ£Best on the market. I've tried every ereader app on the market and this is by far 
+
+the fastest, most feature rich one. Very well done, you're head and shoulders above 
+
+the competition.ΓÇ¥
+
+Main features :
+
+Reader
+
+. Advanced support of PDF including : Pan and Zoom, one column display with a 
+
+double-click, word selection with a double-click.
+
+. Support of Adobe DRM including the management of ID and password protected files.
+
+. Theme support for ePub files : change the default font, line height, colors, etc.
+
+. Text to speech on a book, a page or a text selection.
+
+. Textual and graphical note taking, related to a page, a highlight or independent.
+
+. Tree structured table of content.
+
+. Quick access to annotations, highlights and bookmarks.
+
+. Word search in a dictionary to be choosen among a list (local dictionary or 
+
+online)
+
+Library
+
+. Tag management.
+
+. Filters by author, tags, publisher and formats.
+
+. Sort by title, author, date on which it was added, last access date.
+
+. List and thumbnail views.
+
+. Word search in the personal lexicon.
+
+Bookfinder
+
+. Search of a book in several online catalogs simultaneously, together with Google 
+
+books.
+
+. Opening of the downloaded book in the reader.
+
+. Filter by category, language, bookstore.
+
+. Review posting from the book description page.
+
+. Book search in fulltext or multi-criterion mode.
+
+
+
+Other reader applications :
+
+. Supporting Adobe DRM: Aldiko, Moon+ Reader, Kobo.
+
+. Not Supporting Adobe DRM: RepliGo, Laputa, Cool Reader, EzPDF.
+
+What's in this version:
+
+2.3.18
+
+New: Edit bookmark title
+
+Improved:
+
+- Generation of book covers
+
+- Text selection easier for partial lines
+
+- Some highlights not correctly displayed when changing font size
+
+- Magnifier for text selection is more comfortable
+
+- Nightmode in EPUB when zooming on an image
+
+- Themes selection and theme edition
+
+Fixed:
+
+- Dictionary crash after using online dictionaries several times
+
+- Crashes in some EPUB files with large TOC, when navigating through it
+
+- Crashes and white pages in some PDF files

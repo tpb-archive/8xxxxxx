@@ -1,0 +1,62 @@
+UFC.Nogueira.vs.Werdum.8th.June.2013.HDTV-WD
+
+
+Format                                   : MPEG-4
+Website                                  : Wrestling Desires
+Source                                   : 720p sir paul
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.73 GiB
+Duration                                 : 2h 31mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 639 Kbps
+Encoded date                             : UTC 2013-06-09 15:10:47
+Tagged date                              : UTC 2013-06-09 15:10:47
+Writing application                      : Lavf51.12.1
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L2.1
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=12
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 31mn
+Bit rate                                 : 1 474 Kbps
+Width                                    : 320 pixels
+Height                                   : 240 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Variable
+Frame rate                               : 30.000 fps
+Minimum frame rate                       : 3.333 fps
+Maximum frame rate                       : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.640
+Stream size                              : 1.56 GiB (90%)
+Encoded date                             : UTC 2013-06-09 15:10:47
+Tagged date                              : UTC 2013-06-09 15:10:47
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 31mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 173 MiB (10%)
+Encoded date                             : UTC 2013-06-09 15:10:47
+Tagged date                              : UTC 2013-06-09 15:10:47
+

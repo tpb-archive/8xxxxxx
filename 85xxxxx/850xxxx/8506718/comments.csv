@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,Alrik88,2013-05-25T06:56Z,"installing now, serial for return of the shakturi does not work but you can get past it by entering the serial for the original game, which is the first serial in the readme. "
+,Alrik88,2013-05-25T07:06Z,"okay, ignore what I said before, that's wrong. 
+
+The readme is not terribly clear on what you're supposed to actually do, so I'll try to explain it better. 
+
+For me, the original distant worlds ISO included in this torrent is broken and can't be mounted, but I was able to extract it and install fine using magic iso 
+
+To install the rest of the expansions, you open the setup files and click next until you reach the part when it asks you to enter the serial number, then you open the program included in this torrent called DWSetupCrack and click crack setup, let it run, and then the expansion setup should accept any serial. Repeat the process until finished and then it works fine. "
+,GunGrrl,2013-05-25T07:14Z,"Alrik: Did you put the serial in after running the crack program?
+
+Everything should work perfectly if the instructions are followed TO THE LETTER. I can not emphasize that enough."
+,GunGrrl,2013-05-25T07:17Z,"BTW: Matrix Games released a hot fix. 1.9.0.1. It can be installed using the crack just as the others were.
+
+ftp://ftp.matrixgames.com/pub/DistantWorldsShadows/DistantWoldsShadows-Update1901.zip"
+,Shalnek,2013-05-25T07:34Z,"ISO mounted fine for me with Daemon Tools Lite. Everything installs fine. Installed patch as well.
+
+Game seems to be working, no problems so far, thanks for this."
+,GunGrrl,2013-05-25T08:36Z,Shalnek: Credit goes to the maker of the crack. I wish I knew who it was to properly thank them. I just put all the pieces in one place.
+,Buxaroo,2013-05-25T11:14Z,"Got to admit I was reluctant at first to download this from a new poster (so used to first time uploaders just uploading virus infected or fake crap), but everything is kosher. Nice upload GunGrrl. I wanted to actually buy this game, but $70 for the whole compilation is just way too much for my budget.
+
+For those not understanding how to install, it's simple: mount the mds file and install that first without any cracks (do NOT install the crack from the folder on the mounted iso). Unmount it after installing. Now you start installing the expansions:
+
+Click on the expansion to install, but don't hit the next button. You switch to the crack in the DWSetupCrack folder and run that and follow the directions from the crack program, THEN you tab back to the expansion's window and go through the motions as described. Once the first expansion is installed, close the crack program and go to the next expansion, and repeat cycle. Remember: You CLOSE the crack program after each sucsessive expansion install and run the crack only after clicking the expansion and getting to the first screen of each expansion.
+
+Essentially the crack program is a one-size-fits-all that must be run individually for each expansion and must run at the SAME time as the expansion that's being installed. "
+,IAINTTELLIN,2013-05-26T05:35Z,Thanks! Everything works great
+,razanon,2013-05-31T23:41Z,"unfortunately, this not working perfectly, i explain that. as pirate, you can play it normal in classic mode, but in shadows, this reléase is bugged, you cant control any planet. updating that game doesn fix anything so this reléase is broken. anyone can do the test. play first as pirate in shadows, control a planet and you will not see your colony in colonies screen (F2).  play as pirate in classic mode, control a planet and press F2 you will see colonies list updated."
+,Ravinius,2013-06-04T01:34Z,razanon I think it is deliberate. One of the ships in your possesion is really a shipyard. Basically in age of shadows normal empires start at prewarp era (and thus can't leave their own star system before researching hyperdrive) and pirates start only with a shipyard and have to colonize or counquer worlds.
+,Buxaroo,2013-06-05T23:49Z,What Ravinius said. If razanon did a little research about the expansion he might have figured that out ;)
+,Janek1Slav,2013-06-09T22:20Z,Thank you uploader and thank you Alrik88. =) 
+,Janek1Slav,2013-06-10T10:01Z,"Hello i did everything as said in this and if i did put the crack from the iso then it does start but has error in single player and no expansion there besides telling you its there. 
+
+Something is wrong with this install in my opinion the data is currupted... i tryed it over 5 times now nothing works. My pc hardware/software wise is fine."
+,Janek1Slav,2013-06-10T10:49Z,Do now download does not work ! I done everything i could it does not work. Fake uploader 
+,Shalnek,2013-06-10T14:09Z,"Janek you don't need to use the crack on the .iso and doing so will cause the game to not work.
+
+If it's still not working for you then you've fucked up somehow, I've been using this without problems since it was initially uploaded, including with all of the patches."
+,Janek1Slav,2013-06-10T17:08Z,"Im not using the crack on the iso but the problem is if you dont use the crack at least in my case the crack on the iso i cant start the game. 
+"
+,hustlik,2013-06-11T08:33Z,"Janek1Slav you dont need crack to play DW!!!
+ You should only need to install the redistributables:
+
+Microsoft .NET Framework 3.5, Microsoft .NET Framework 3.5 Service Pack 1, Microsoft .NET Framework 4  and Microsoft Visual C++ 2010 Redistributable Package."
+,Janek1Slav,2013-06-12T09:02Z,"Ahoj. I apologize to the uploader and others. 
+For my false saying.
+This torrent does work.
+
+My problem was i had to reinstall my framework etc i got it to work now. =) 
+
+This expansion surely adds alot i love starting from the prewarp age it adds that feeling that you are in power you write the history even more.
+
+The best 4x space game out there better than stardrive to sins everything as you literally control a civilization in space a game you can literally play for months if not even a year. =) 
+
+There are some good very good mods out there also.
+-John"
+,canshow,2013-06-14T04:52Z,"The .mds file for the base game is broken. Tried using Daemon tools lite and MagicIso, it still did not work.
+
+Also, setup.exe was detected as a trojan. Might be false positive, might not be. 
+
+Going to look for a new torrent that isn't SKIDROW. "

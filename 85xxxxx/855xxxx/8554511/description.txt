@@ -1,0 +1,15 @@
+This is Linux kernel 3.2.46 built and packaged for Debian 7.0 AMD64.  This kernel has been been patched with the BFQ i/o scheduler and optimized for desktop/gaming usage.  This kernel is released under the GPL version 2 and is offered free of charge with NO WARRANTY.
+
+This kernel has been tested to boot Debian 7.0 AMD64 inside a virtual machine.  It may also work on Debian 7.0 i386 on appropriate hardware, but this has not been tested.  Always leave installed a working kernel from the official Debian archive as a backup.  This kernel also has UFS write support enabled.  This is marked as "dangerous" and should be used with caution.  If you want to continue to mount UFS filesystems after installing this kernel, be sure to add "ro" to your mount options to aviod corrupting those filesystems.
+
+To see the config file used to build the kernel without downloading it all, download config-3.2.46 from the torrent first.
+
+To install the kernel, you need only download the two .deb files from the torrent.  The other included files are source code to comply with the GPL version 2 requirements.  Should anyone need the source in a .deb, post a message here and I'll create a torrent for it.
+
+Links:
+GPL v2: http://www.gnu.org/licenses/gpl-2.0.html
+BFQ: http://algo.ing.unimo.it/people/paolo/disk_sched/
+kernel.org: http://www.kernel.org/
+Debian: http://www.debian.org/
+
+Feel free to request other kernel versions for both AMD64 and i386.  I may package them when time permits.

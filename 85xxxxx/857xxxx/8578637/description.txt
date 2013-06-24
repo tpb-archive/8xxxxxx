@@ -1,0 +1,47 @@
+General
+Complete name                            : Iron Man 3 2013 ULTRA-HD 720p 5.1 FLAC-MURDER
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.12 GiB
+Duration                                 : 2h 10mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 231 Kbps
+Movie name                               : Iron.Man.3.2013.
+Encoded date                             : UTC 2013-05-23 14:45:35
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 10mn
+Nominal bit rate                         : 910 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 520 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.055
+Writing library                          : x264 core 
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 2h 10mn
+Bit rate mode                            : Variable
+Channel(s)                               : 6 channels
+Sampling rate                            : 22.05 KHz
+Bit depth                                : 16 bits
+Default                                  : Yes
+Forced                                   : No

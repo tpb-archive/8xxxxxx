@@ -1,0 +1,99 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-06-04T12:14Z,ENJOY ENJOY Remember Me DLC MULTi2 New PC Game RePack by best buddy SEYTER!
+,genkli,2013-06-04T14:15Z,"I downloaded it.
+First of all it says it's v1.0.0.1
+So it ain't 1.0.2056.0
+
+Second of all, even though I chose English in the installation. And also for in game text language I chose english, but it still did appear as russian. and I couldn't understand anything
+
+But in the end it works"
+,souza02,2013-06-04T14:29Z,"have portuguese subtitles?
+thanks "
+,Koca114,2013-06-04T14:54Z,"Make sure that steam_api is not ""Read only"" and then change lang to =english. Save. Done :)"
+,genkli,2013-06-04T16:52Z,"Thanks,
+Changing ""russian"" to ""english"" in LumaEmu.ini indeed did the job.
+
+And in this version the DLC works unlike the limited edition of skidrowcrack
+
+Great file size. fast download. thanks"
+,nox234558,2013-06-04T17:47Z,how to solve Failed to create the D3D9 Device
+,buhala,2013-06-04T18:41Z,"I have a bit of a problem in that the game crashes when I launch it, just after it displays the first text."
+,crow47,2013-06-04T19:33Z,"I cant figure out how to change the language. I looked at what the other two people did, but everything I look at says english. Im concerned. Please help?"
+,genkli,2013-06-04T19:53Z,"@buhala You have to run the game in administrator mode.
+
+@crow47 There are 3 places where you have to choose english.
+1. when you first open the setup, there is a dropdown menu with the choice of ""english""
+2. while installing it says ""text language"". again you choose ""english""
+3. when installation is complete you change the field ""GameLanguage"" to english in LumaEmu.ini.
+But tehere are 2 files LumaEmu.ini. make sure on both that field is english. especially the one in  BinariesWin32"
+,Delia666,2013-06-04T20:19Z,"nox234558 at 2013-06-04 17:47 CET:
+how to solve Failed to create the D3D9 Device
+
+You need a new pc ..."
+,shadowbatx,2013-06-04T22:04Z,"Same problem. Crashes after seeing the first text. Ran as administrator, but still crashes."
+,shadowbatx,2013-06-04T22:20Z,"Same problem. Even after running as admin, game still, crashes after a glimpse of the first text."
+,genkli,2013-06-04T23:50Z,"Than I don't know for sure what the problem is. Because I had the same problem until i did run it in admin mode.
+
+try these:
+- make sure no file is ""read only"" in C:\Program Files (x86)\Remember Me
+- if that doesn't help, try to update your graphics card driver.
+- if that doesn't work try editing the config files, so that the game doesn't run in full screen. or when the game start immediately try pressing alt+enter. Or try to lower resolution.
+- and if that doesn't help either. I don't know. cannot think of another possibility"
+,Shirako99,2013-06-05T10:00Z,I remember you HM thanks
+,Malcolm90210,2013-06-05T14:33Z,I don't see a point why everybody wants to download this half-ass piece of shit game?!
+,Malcolm90210,2013-06-05T14:34Z,This game sucks!
+,ashura889,2013-06-05T15:17Z,"crow47
+there are 2 files LumaEmu.ini. + steam_api
+change them to english"
+,genkli,2013-06-05T16:36Z,"@Malcolm90210
+
+Your question is a rhetorical question, and you know it yourself too.
+
+Just because you don't like a game doesn't mean everyone else should dislike it.
+
+As a matter of fact this is the type of games that are my favorite. 3rd person close combat action games. This game also has amazing environments with a lot detail. So STFU and go back to your call of duty"
+,ashura889,2013-06-05T17:46Z,"i play 3chapter and exit to main menu and it sed new game???????????????
+HOW TO SAVE IN THIS GAME"
+,Malcolm90210,2013-06-05T18:45Z,"@genkli Go fuck yourself! I ain't a COD fanboy you fucking douche! I too am a lover of 3rd person action games, but this ain't worthy to be called a game! And everyone knows the makers of this game are CAPCOM and they suck balls just like you!"
+,shadowbatx,2013-06-05T20:30Z,"@genkli
+It was my graphics driver that was out of date. Works fine now! Thanks!"
+,genkli,2013-06-06T00:51Z,"@shadowbatx
+You're welcome
+
+@Malcolm90210
+Okay, I call troll on you, don't expect me to continue this conversation"
+,blackgenma,2013-06-06T16:20Z,"I can't get the game to run. it says I'm missing MSVCR110.dll from my computer. any Idea where I can grab this, or if I'm doing something wrong in the installation? "
+,NITGuy,2013-06-06T16:22Z,"I'm getting an MSVCR110.dll missing error.. and if I download and put that, it shows me an MSVCP110.dll missing error and if I put that one also, then I get some 0xc000007 error. I tried installing on two different pcs, both win8 pro 64bit, one with NVIDIA and the other with AMD.. so pls help me out guys!!"
+,blackgenma,2013-06-06T16:52Z,"I managed to fix the MSVCR110.dll by downloading the proper file from Microsoft. 
+
+but now I have the issue of the game crashing right after the first texts appears. gotta work on that now. "
+,b3spirit,2013-06-06T16:54Z,"Got IT working at last............those of you who are getting ""Failed to create the D3D9 Device"" error and other crashes at launch, can try the following.
+
+-Go to C:UsersYOURLANIDDocumentsMy GamesUnrealEngine3RememberMeGameConfig
+-open ""ExampleAdriftGfxConfig""
+-if you see the resolution mentioned in this file is way beyond your resolution, correct it to the one  your monitor supports.
+-save the file and try launching the game.
+
+NOTE: This is for WIN7 users"
+,kingthreads,2013-06-06T17:59Z,"how do u unlock dlcs? 
+
+there is no dlcs in this file"
+,kingthreads,2013-06-06T18:00Z,"how do u unlock dlcs?
+
+there is no dlcs in it"
+,NITGuy,2013-06-06T19:11Z,@blackgenma.. run the program in windows xp sp3 compatibility mode.. it works.. I too had the same problem
+,Rjvkr1,2013-06-06T21:40Z,"@blackgenma and Everybody 
+How To Fix the MSVCr110.dll Problem Plzz Tell me I'M Dying To play"
+,ahmadassi,2013-06-07T03:43Z,"@Rjvkr1 if u have MSVCr.dll problem copy this crack content into your game folder replace and accept  
+
+http://thepiratebay.sx/torrent/8538520/Remember_me_crack_only"
+,kingthreads,2013-06-07T05:28Z,guys this game doesnt contain any dlcs 
+,ApplezX2,2013-06-07T07:57Z,"Guys Help1
+when i do  the mmission Olgas Memory Mix it, it lets me take of the arm bit but then iw rewinds and says ""please rewind"" and it wont let me rewind Help!!!!"
+,Eresr,2013-06-07T14:59Z,I'm also having problem with the MSVCR110.dll problem..anyone please? I really want to play this game.
+,ahmadassi,2013-06-07T17:03Z,"I have a saving issue, everytime a close the game n then restart it it says save game is corrupted!!"
+,ahmadassi,2013-06-07T20:12Z,If anyone have a saving issue or any other issue download the patch from here! http://www.nosteam.ro/index.php?topic=2356.new#new
+,blablabla1236,2013-06-07T22:59Z,How can i save the game? i got the msg :save is corrupted. can someone help?
+,BrentC423,2013-06-08T09:56Z,People kill me with that you need a new pc shit just learn how to pirate this stuff and you'll be ok adjust setting play with it before you waste hundreds.
+,STABONG,2013-06-08T20:09Z,game works fine up until i get to altering Olgas memory and having the Dr. kill her husband. at this point it dosnt let me rewind. anyone have a fix for this? help
+,STABONG,2013-06-08T20:35Z,this helped http://thepiratebay.sx/torrent/8551555/Remember_Me_Update

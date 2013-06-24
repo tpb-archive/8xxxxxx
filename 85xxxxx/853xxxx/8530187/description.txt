@@ -1,0 +1,56 @@
+Vinux is a Ubuntu derived distribution optimised for the needs of blind and partially sighted users. By default Vinux provides two screen-readers, Braille display support and a friendly community.
+When you boot the live Vinux image, you will be greeted by the Orca screen reader enabling you to navigate the graphical Gnome desktop using keyboard commands. Finally, Brltty provides Grade 1 and 2 Braille output via Orca.
+
+This is the first Vinux release featuring the Unity-2d Desktop which improves on transition to Vinux and introduces newer and increasingly stable accessibility features.
+We now recommend that when possible users perform updates on a regular basis. This will enable the Vinux team to update packages, and introduce new features.
+
+Some of the highlights in Vinux 4.0:
+Brand new build process: Vinux now uses the same method to produce our images as Cannonical produces Ubuntu.
+Console speech just works. Much time and work has taken place to meet our blueprint goal https://blueprints.launchpad.net/vinux/+spec/vinux-4-functional-console-screen-reader
+Voxin is easy to set-up. Vinux has taken one step further in making Voxin easier to install.
+Quantal kernel: We are using a newer 3.5 kernel back ported to Precise offering better hardware support than ever.
+Classic menu. Vinux now has a Classic menu indicator which provides the old style menu whilst in a Unity environment.
+Vinux wiki. Our community is highly committed to providing clear and easy to follow documentation. http://wiki.vinuxproject.org/
+Vinux easy install scripts converted to meta packages.
+Pico voices. We are shipping with the Pico voices once again.
+
+Fixes:
+Images now work on optical and USB media instead of separate builds in the past.
+Weather indicator fixed, previously stopped working due to API changes.
+Gnome login sound fixed, Ubuntu set to be disabled by default.
+Fresh and clean sound theme added.
+PC speaker beep removed from blacklist, console users can again use it.
+Console branding. Vinux will identify itself at a virtual terminal and upon login offer tips of the day.
+Flite and Pico now available as separate packages.
+Cicero moved to a separate package also, will stop loss of speech from the curious.
+Revised keyboard shortcuts.
+
+Software:
+unity-2d 5.14
+LibreOffice 3.5.7 &lt;DVD only&gt;
+Speech-dispatcher 0.8
+ Gnome-orca 3.4.2
+Espeak 1.47
+Firefox 21.0
+Thunderbird 17.0
+Cry for help, remote assistance by Vinux gurus.
+Just to mention a few.
+
+Known bugs:
+The indicator panel is not accessible from Firefox and Thunderbird.
+Console speech has been completed, but it probably needs some stability improvement.
+
+Availability:
+Vinux 4.0 is now available in the AMD64 and i386 architectures and available in both CD and DVD versions.
+
+DVD:
+This contains everything necessary to install the Vinux operating system and a collection of pre-defined packages aimed at visually impaired users. This should be all you need if you can burn and use DVD-sized media.
+
+CD:
+This also contains everything necessary to install the Vinux operating system and a collection of pre-defined packages aimed at visually impaired users. Use this image if you can only burn and use CD-sized media.
+
+Vinux 4.0 can be installed from optical media or from a USB memory stick. The required files can be downloaded via HTTP as described below.
+
+Support:
+The Vinux development team currently plans on supporting 4.0 until June 2015.
+Our mailing list has a supportive community on Google groups at http://groups.google.com/group/vinux-support or you can subscribe by sending an email to vinux-support+subscribe@googlegroups.com

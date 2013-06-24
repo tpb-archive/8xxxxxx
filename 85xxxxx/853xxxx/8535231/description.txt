@@ -1,0 +1,14 @@
+VIDEO:           Country
+
+Format:          H264/MPEG-4 AVC
+
+Codec-id:        avc1
+
+Bitrate:         4185 Kbps
+
+Width/Height:    1920x1080 = 16/9
+
+Framerate:       29,97 Fps
+
+
+AUDIO:           AAC = 48000KHz = 192 Kpbs  

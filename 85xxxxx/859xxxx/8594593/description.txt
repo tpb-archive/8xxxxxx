@@ -1,0 +1,108 @@
+Day 1:
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 2.31 GiB
+Duration                                 : 2h 34mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 137 Kbps
+Encoded date                             : UTC 2013-06-17 14:15:29
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=3, N=30
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 34mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 1 500 Kbps
+Width                                    : 704 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 34mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 30ms
+Language                                 : Hebrew
+Default                                  : Yes
+Forced                                   : No
+
+
+Day 2:
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 2.00 GiB
+Duration                                 : 2h 38mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 801 Kbps
+Encoded date                             : UTC 2013-06-20 08:31:36
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=3, N=30
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 38mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 1 200 Kbps
+Width                                    : 704 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 38mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 45ms
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+

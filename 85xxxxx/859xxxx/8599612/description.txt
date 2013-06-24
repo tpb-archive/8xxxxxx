@@ -1,0 +1,56 @@
+It is three years after the Clone Wars. The leader of the droid army, General Grievous, has captured Chancellor Palpatine on board his ship, the Invisible Hand. Jedi Master Obi-Wan Kenobi and Jedi Knight Anakin Skywalker must fly through Coruscant safely, and enter the Invisible Hand so that they can rescue the captive Chancellor. Just when Palpatine is about to be released, Count Dooku shows up. Obi-Wan and Anakin both battle it out with him, but Obi-Wan ends up unconscious. Anakin slices off his head and kills him. Anakin carries Obi-Wan, and Palpatine follows him. They meet General Grievous face to face, and Anakin tries to fly the last half of the ship so that they can safely land on Coruscant. Later, Palpatine starts acting strange, constantly manipulating Anakin into believing that the Jedi Council is against him. Eventually, it is found out that he is the Dark Lord of the Sith. Jedi Master Mace Windu fights him, along with three other Jedi that accompany Windu. They all fail. ...
+
+
+* * * MediaInspector for Mac - Version 2.0.1, build 900
+* * * ┬⌐2012 by Diego Massanti
+* * * MediaInfo Lib by Jerome Martinez
+* * * Raw File Report for Star.Wars.Episode.3.Revenge.of.the.Sith.2005-1080p BluRay Hardcoded subs-PT [TUGA].mkv
+
+General
+Complete name : /Volumes/My book 2/BluRay Movies/Star Wars Boxset BluRay /Star Wars Episode III - Revenge of the Sith/Star.Wars.Episode.3.Revenge.of.the.Sith.2005-1080p BluRay Hardcoded subs-PT [TUGA].mkv
+Format : Matroska
+File size : 8.35 GiB
+Duration : 2h 20mn
+Overall bit rate : 8 535 Kbps
+Encoded date : UTC 2013-06-17 10:35:13
+Writing library : WonderShare Matroska Muxer
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Baseline@L5.0
+Format settings, CABAC : No
+Format settings, ReFrames : 1 frame
+Format settings, GOP : M=1, N=25
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 20mn
+Bit rate : 8 206 Kbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 23.976 fps
+Original frame rate : 23.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.165
+Stream size : 8.03 GiB (96%)
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : A_AC3
+Duration : 2h 20mn
+Bit rate mode : Constant
+Bit rate : 160 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Delay relative to video : 4ms
+Stream size : 160 MiB (2%)

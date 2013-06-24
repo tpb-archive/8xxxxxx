@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,Roadie55,2013-05-24T02:20Z,"Hi Murphy78.
+
+Please help. I have installed this version and when I activated the toolkit I got this message, Supported office installation was not detected in the system. Currently office is sitting in my programs file.
+
+Your advice would be greatly appreciated. Keep up the great ups
+
+Regards
+"
+,Roadie55,2013-05-24T02:25Z,"I am sorry, wrong MS Office. 
+
+This comment should be directed at MS Office ProPlus 2013 VL x86 en -US May 2013"
+[V],murphy78,2013-05-24T02:29Z,"Try installing KMS Server Service in the activator options.
+
+Then open admin prompt and navigate to your Office14 folder in program files_microsoft office
+
+Then run:
+cscript ospp.vbs /sethst:127.0.0.2
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /act
+
+That should work for any system you have if you can get the KSS to install."
+,Roadie55,2013-05-24T03:45Z,"Hi Murphy
+
+The KMS Server Service would not highlight the INSTALL button in Office Toolkit 243.
+
+Kind regards    Rod from New Zealand"
+[V],murphy78,2013-05-24T03:46Z,"*those instructions are not required for all installs*
+This guy seems to have leftovers from an x64 install confusing the MTK program. Office leaves a lot of junk behind when uninstalled..."
+[V],murphy78,2013-05-24T05:40Z,"roadie, yer probably using xp if the buttons don't show up. You might try using kmspico or something..."
+,Roadie55,2013-05-24T06:51Z,"I am using windows 7 ultimate. I will have a complete clean out of old files and start again. Thanks for all your help Murph but I will keep an eye out for a later version of KMS or a fully activated one.
+
+Kind regards as usual........Rod"
+,rehansiddiq,2013-05-25T11:30Z,"thanks dear   ;)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"

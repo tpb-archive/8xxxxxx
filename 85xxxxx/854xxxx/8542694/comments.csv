@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,FastForwarder,2013-06-06T02:22Z,What's the version number? I have Endless Space 1.0.27 already from last year by team money. Thanks
+,Drazkur,2013-06-06T21:17Z,"It opens, screen adapts to graphic settings and then crashes and closes.
+
+Any ideas? I'm using Mountain Lion."
+,vagueness,2013-06-06T21:41Z,"When I open the game, it goes fullscreen for a moment, turns the screen blue and then promptly closes. Anyone else having this problem/got a fix? I meet the system requirements and running 10.8.3 OSX."
+,ryballs,2013-06-07T04:24Z,"Occasionally the game doesn't open first time for me so I just launch the game again and it works fine. I also use gfxCardStatus to manually select dedicated graphics before launching the game. Maybe it has something to do with your graphics card, what is it?"
+,ryballs,2013-06-07T04:27Z,"Possible Fix: Have you tried setting the game to run in window? You can set this from the configuration file at ~/Library/Application Support/Endless Space/Registry.xml
+The setting is at entry Registry->Options->Video->Fullscreen which you need to set to False."
+,Sumo80,2013-06-07T06:19Z,I am new to this. I want to play this game on Windows 8. How can I install this game and play it? Please help someone.
+,genuks,2013-06-07T10:24Z,"dis is exact the same version as it initially was i.e. 1.0.27 it has started the same separate Steam session, so you won't be able to run without broadband... nothing is changed yet, no add-ons "
+,ryballs,2013-06-07T12:41Z,Sumo80: windows? this is a mac game..
+,Sumo80,2013-06-08T01:11Z,damn it! Copy that. Thanks.
+,rpopopr,2013-06-08T17:57Z,"Doesn't work here on OS X 10.8.4, goes full screen and freezes, can't even quit or force quit it, had to restart the computer. Garbage!
+
+P.S. ~/Library/Application Support/Endless Space/ does not exist"
+,ryballs,2013-06-09T13:25Z,"rpopopr: I have the same OSX version as you and the game works great. Don't be an asshole just because you can't find your Application Support folder and are too stupid to google it..
+
+P.S. Try Macintosh HDD/Users/your username/Library/Application Support/Endless Space
+
+P.P.S. Buy the game instead of whining like a little bitch about the one you downloaded for FREE"
+,daniel98,2013-06-10T10:24Z,"For the record, it does seem that the 'Macintosh HDD/Users/your username/Library/Application Support/Endless Space' folder does not, in fact, exist. 
+However, I got both the double flash then crash error, and the black screen requiring a hard reset and it worked for me on the third try. Running 10.7.5"
+,ryballs,2013-06-11T04:43Z,"daniel98: For the record, it does, in fact, exist. If it doesn't exist how are you saving your game or settings? And how can I take this screenshot of it? http://bayimg.com/OANOFaaec
+
+For Lion users the Library folder is hidden by default. The easiest way to temporarily reveal the ~/Library folder is to open Finder. On the menu bar, at the top, select Go to reveal the drop-down menu and then hold down the Option key (marked ALT) and you will see the ~/Library folder appear. You may now select this ~/Library folder with your mouse or trackpad. As soon as you release the Option key, the ~/Library folder will be hidden once more.
+
+I have uploaded it if anyone needs a copy of the folder that apparently doesn't exist. I have set it to 1024x768 windowed which might help some people with startup problems: https://anonfiles.com/file/c1a37753e993d4df1d6885459b80984a"

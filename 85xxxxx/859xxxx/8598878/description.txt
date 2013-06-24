@@ -1,0 +1,18 @@
+App Backup & Restore is used to backup and restore apps for android.
+** We are very sorry about so many updates. If you still cannot backup succesfully, please uninstall this app and re-install again.
+Features:
+- Backup apps to SD card
+- Batch backup
+- Backup market link for protected apps
+- Restore apps from SD card
+- Batch restore
+- Quick uninstalling
+- Sort apps by name, install date, size
+- Auto backup on install
+- Show storage usage
+- Multi version backup
+- Search app from Google market
+- Send apk file by email
+- Share market link
+- Support App2SD
+*** Notice: App Backup cannot backup data or settings of apps for you, but it only backup the apk files.

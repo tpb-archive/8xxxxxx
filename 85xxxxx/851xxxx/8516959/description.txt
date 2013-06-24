@@ -1,0 +1,104 @@
+Description
+Três amigas são contratadas para interceptar um carregamento de drogas em um restaurante isolado. Entretanto, o que parecia um trabalho simples se transforma em uma cadeia de eventos incontroláveis e logo elas percebem que a situação se tornou muito maior do que imaginavam.
+
+Format : Matroska
+Format version : Version 2
+File size : 400 MiB
+Duration : 1h 33mn
+Overall bit rate : 597 Kbps
+Encoded date : UTC 2013-05-28 17:59:50
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 33mn
+Bit rate : 393 Kbps
+Width : 720 pixels
+Height : 400 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.057
+Stream size : 263 MiB (66%)
+Title : Catch 44 (by fantasma)
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 33mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 129 MiB (32%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : English
+Default : No
+Forced : No
+
+Text #3
+ID : 5
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:08:53.100 : en:Chapter 02
+00:19:56.233 : en:Chapter 03
+00:30:21.233 : en:Chapter 04
+00:39:41.834 : en:Chapter 05
+00:54:36.201 : en:Chapter 06
+01:06:29.935 : en:Chapter 07
+01:14:04.935 : en:Chapter 08
+01:21:25.536 : en:Chapter 09
+01:26:59.270 : en:Chapter 10

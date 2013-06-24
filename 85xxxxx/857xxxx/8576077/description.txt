@@ -1,0 +1,31 @@
+
+In Detail
+=========
+Multimedia applications are used by a range of industries to enhance the visual appeal of a product. This book will teach the reader how to perform multimedia processing using Python.
+
+This step-by-step guide gives you hands-on experience for developing exciting multimedia applications using Python. This book will help you to build applications for processing images, creating 2D animations and processing audio and video.
+
+Writing applications that work with images, videos, and other sensory effects is great. Not every application gets to make full use of audio/visual effects, but a certain amount of multimedia makes any application a lot more appealing. There are numerous multimedia libraries for which Python bindings are available. These libraries enable working with different kinds of media, such as images, audio, video, games, and so on. This book introduces the reader to the most widely used open source libraries through several exciting, real world projects. Popular multimedia frameworks and libraries such as GStreamer,Pyglet, QT Phonon, and Python Imaging library are used to develop various multimedia applications.
+
+Learn how to develop Multimedia applications using Python with this practical step-by-step guide
+
+Approach
+========
+A practical guide, this book provides step-by-step instructions for developing multimedia applications, showcasing real world examples throughout.
+
+
+What you will learn from the book
+=================================
+
+*How to develop utilities for some frequently needed image processing operations such as resizing, brightness and contrast adjustment, flipping and rotating images, and so on.
+*How to digitally enhance images using image filters.
+*How to blend images together, creating watermarks, thumbnails, and so on.
+*How to write audio and video file format conversion utilities.
+*How to combine two or more audio tracks, 'mixing' audio and video tracks.
+*How to develop an 'MP3 file cutter tool' to extract a portion of audio.
+*How to separate audio and video tracks.
+*How to develop programs to record sound, 'visualize' audio tracks, add special audio effects such as fading , echo, and so on.
+*How to save video frames as still images.
+
+
+[http://www.packtpub.com/python-multimedia-application-beginners-guide/book]

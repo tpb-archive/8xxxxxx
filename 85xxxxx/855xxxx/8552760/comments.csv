@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-06-08T13:17Z,ENJOY ENJOY ENJOY ENJOY ENJOY ENJOY!
+,MerolaC2029,2013-06-08T19:22Z,THANK YOU THANK YOU THANK YOU THANK YOU THANK YOU THANK YOU!
+,amsa92,2013-06-11T01:09Z,hey man thx and great job and plz if u have the game save whould u mind to upload it i will be appriciate
+,amsa92,2013-06-11T14:54Z,if any 1 finished the 20lv plz upload the save file
+,Umirivach,2013-06-11T15:10Z," After LVL 9 game crashes. 
+
+Error - texture2.fbq is corrupted. Reinstall the game. 
+
+Tried reinstalling, didn't help. Downloaded and tried Stiflers torrent. The same. Guessing that skidrow messed up. "
+,rcords,2013-06-11T18:46Z,"Same texture2.fbq error.
+
+Maybe the file from one of the other Trine 2 versions would work."
+,rcords,2013-06-12T07:48Z,"Well my hunch was right.
+
+If you take texture2.fbq from this torrent:
+http://thepiratebay.sx/torrent/7607655/Trine_2_%5Bv1.18%5D___Goblin_Menace_DLC_(2012)_PC___THETA
+
+...then it passes the file check and level 10 loads without error. The files are the same size but skidrow messed up somehow."
+,rcords,2013-06-12T07:53Z,"Maybe one of VIP's would like to upload the 400 meg file as a fix?
+
+I've completed lvl 10 using this and lvl 11 loads."
+,rcords,2013-06-12T08:00Z,"Oh it's just 1 byte, if you have a hex editor:
+
+>fc /b texture2.fbq texture2.fbq.skidrow
+Comparing files TEXTURE2.FBQ and TEXTURE2.FBQ.SKIDROW
+1BEF647A: DC DD"
+,amsa92,2013-06-12T09:03Z,guys i need the save game of 20 lv plz thx

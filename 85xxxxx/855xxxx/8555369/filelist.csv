@@ -1,0 +1,132 @@
+﻿Filename,Size,Unit
+01- Introduction/01- Welcome.MP4,8.17,M
+01- Introduction/02- Using the exercise files.MP4,5,M
+02- PHP Overview/03- What is PHP.MP4,4.39,M
+02- PHP Overview/04- The history of PHP.MP4,3.49,M
+02- PHP Overview/05- Why choose PHP.MP4,9.31,M
+02- PHP Overview/06- Installation overview.MP4,4.51,M
+03- Mac Installation/007- Overview.MP4,2.96,M
+03- Mac Installation/008- Working with Apache Web Server.MP4,10.98,M
+03- Mac Installation/009- Changing the document root.MP4,13.24,M
+03- Mac Installation/010- Enabling PHP.MP4,14.83,M
+03- Mac Installation/011- Upgrading.MP4,14.61,M
+03- Mac Installation/012- Configuring PHP.MP4,41.26,M
+03- Mac Installation/013- Installing MySQL.MP4,15.76,M
+03- Mac Installation/014- Configuring MySQL.MP4,13.87,M
+03- Mac Installation/015- Text editor.MP4,9.35,M
+04- Windows Installation/016- Overview.MP4,4.49,M
+04- Windows Installation/017- Installing WampServer.MP4,14.35,M
+04- Windows Installation/018- Finding the document root.MP4,4.86,M
+04- Windows Installation/019- Configuring PHP.MP4,26.29,M
+04- Windows Installation/020- Configuring MySQL.MP4,11.35,M
+04- Windows Installation/021- Text editor.MP4,10.39,M
+05- First Steps/022- Embedding PHP code on a page.MP4,7.95,M
+05- First Steps/023- Outputting dynamic text.MP4,11.04,M
+05- First Steps/024- The operational trail.MP4,3.48,M
+05- First Steps/025- Inserting code comments.MP4,9.57,M
+06- Exploring Data Types/026- Variables.MP4,12.43,M
+06- Exploring Data Types/027- Strings.MP4,9.84,M
+06- Exploring Data Types/028- String functions.MP4,22.59,M
+06- Exploring Data Types/029- Numbers part one Integers.MP4,17.11,M
+06- Exploring Data Types/030- Numbers part two Floating points.MP4,11.76,M
+06- Exploring Data Types/031- Arrays.MP4,21.25,M
+06- Exploring Data Types/032- Associative arrays.MP4,13.65,M
+06- Exploring Data Types/033- Array functions.MP4,20.13,M
+06- Exploring Data Types/034- Booleans.MP4,7.98,M
+06- Exploring Data Types/035- NULL and empty.MP4,11.97,M
+06- Exploring Data Types/036- Type juggling and casting.MP4,18.7,M
+06- Exploring Data Types/037- Constants.MP4,9.55,M
+07- Control Structures - Logical Expressions/038- If statements.MP4,11.5,M
+07- Control Structures - Logical Expressions/039- Else and elseif statements.MP4,7.23,M
+07- Control Structures - Logical Expressions/040- Logical operators.MP4,13.4,M
+07- Control Structures - Logical Expressions/041- Switch statements.MP4,21.77,M
+08- Control Structures - Loops/042- While loops.MP4,14.58,M
+08- Control Structures - Loops/043- For loops.MP4,11.14,M
+08- Control Structures - Loops/044- Foreach loops.MP4,13.93,M
+08- Control Structures - Loops/045- Continue.MP4,16.27,M
+08- Control Structures - Loops/046- Break.MP4,7.68,M
+08- Control Structures - Loops/047- Understanding array pointers.MP4,14.5,M
+09- User-Defined Functions/048- Defining functions.MP4,15.55,M
+09- User-Defined Functions/049- Function arguments.MP4,11.17,M
+09- User-Defined Functions/050- Returning values from a function.MP4,17.33,M
+09- User-Defined Functions/051- Multiple return values.MP4,10.91,M
+09- User-Defined Functions/052- Scope and global variables.MP4,12.07,M
+09- User-Defined Functions/053- Setting default argument values.MP4,11.72,M
+10- Debugging/054- Common problems.MP4,4.75,M
+10- Debugging/055- Warnings and errors.MP4,15.4,M
+10- Debugging/056- Debugging and troubleshooting.MP4,14.05,M
+11- Building Web Pages with PHP/057- Links and URLs.MP4,11.1,M
+11- Building Web Pages with PHP/058- Using GET values.MP4,10.16,M
+11- Building Web Pages with PHP/059- Encoding GET values.MP4,17.9,M
+11- Building Web Pages with PHP/060- Encoding for HTML.MP4,19.54,M
+11- Building Web Pages with PHP/061- Including and requiring files.MP4,12.93,M
+11- Building Web Pages with PHP/062- Modifying headers.MP4,13.25,M
+11- Building Web Pages with PHP/063- Page redirection.MP4,12.73,M
+11- Building Web Pages with PHP/064- Output buffering.MP4,15.52,M
+12- Working with Forms and Form Data/065- Building forms.MP4,15.82,M
+12- Working with Forms and Form Data/066- Detecting form submissions.MP4,16.77,M
+12- Working with Forms and Form Data/067- Single-page form processing.MP4,22.05,M
+12- Working with Forms and Form Data/068- Validating form values.MP4,23.58,M
+12- Working with Forms and Form Data/069- Problems with validation logic.MP4,19.66,M
+12- Working with Forms and Form Data/070- Displaying validation errors.MP4,17.85,M
+12- Working with Forms and Form Data/071- Custom validation functions.MP4,17.6,M
+12- Working with Forms and Form Data/072- Single-page form with validations.MP4,24.01,M
+13- Working with Cookies and Sessions/073- Working with cookies.MP4,3.45,M
+13- Working with Cookies and Sessions/074- Setting cookie values.MP4,11.86,M
+13- Working with Cookies and Sessions/075- Reading cookie values.MP4,14.01,M
+13- Working with Cookies and Sessions/076- Unsetting cookie values.MP4,10.49,M
+13- Working with Cookies and Sessions/077- Working with sessions.MP4,14.37,M
+14- MySQL Basics/078- MySQL introduction.MP4,10.06,M
+14- MySQL Basics/079- Creating a database.MP4,12.61,M
+14- MySQL Basics/080- Creating a database table.MP4,10.97,M
+14- MySQL Basics/081- CRUD in MySQL.MP4,6.72,M
+14- MySQL Basics/082- Populating a MySQL database.MP4,16.31,M
+14- MySQL Basics/083- Relational database tables.MP4,10.39,M
+14- MySQL Basics/084- Populating the relational table.MP4,18.84,M
+15- Using PHP to Access MySQL/085- Database APIs in PHP.MP4,8.05,M
+15- Using PHP to Access MySQL/086- Connecting to MySQL with PHP.MP4,16.47,M
+15- Using PHP to Access MySQL/087- Retrieving data from MySQL.MP4,21.88,M
+15- Using PHP to Access MySQL/088- Working with retrieved data.MP4,13.15,M
+15- Using PHP to Access MySQL/089- Creating records with PHP.MP4,17.77,M
+15- Using PHP to Access MySQL/090- Updating and deleting records with PHP.MP4,25.44,M
+15- Using PHP to Access MySQL/091- SQL injection.MP4,3.95,M
+15- Using PHP to Access MySQL/092- Escaping strings for MySQL.MP4,14.12,M
+15- Using PHP to Access MySQL/093- Introducing prepared statements.MP4,3.92,M
+16- Building a Content Management System (CMS)/094- Blueprinting the application.MP4,11.05,M
+16- Building a Content Management System (CMS)/095- Building the CMS database.MP4,8.67,M
+16- Building a Content Management System (CMS)/096- Establishing your work area.MP4,7.31,M
+16- Building a Content Management System (CMS)/097- Creating and styling the first page.MP4,12.27,M
+16- Building a Content Management System (CMS)/098- Making page assets reusable.MP4,15.68,M
+16- Building a Content Management System (CMS)/099- Connecting the application to the database.MP4,26.49,M
+17- Using Site Navigation to Choose Content/100- Adding pages to the navigation subjects.MP4,17.36,M
+17- Using Site Navigation to Choose Content/101- Refactoring the navigation.MP4,19.83,M
+17- Using Site Navigation to Choose Content/102- Selecting pages from the navigation.MP4,17.87,M
+17- Using Site Navigation to Choose Content/103- Highlighting the current page.MP4,15.45,M
+17- Using Site Navigation to Choose Content/104- Moving the navigation to a function.MP4,34.39,M
+18- Application CRUD/105- Finding a subject in the database.MP4,31.61,M
+18- Application CRUD/106- Refactoring the page selection.MP4,40.71,M
+18- Application CRUD/107- Creating a new subject form.MP4,21.18,M
+18- Application CRUD/108- Processing form values and adding subjects.MP4,38.31,M
+18- Application CRUD/109- Passing data in the session.MP4,24.74,M
+18- Application CRUD/110- Validating form values.MP4,35.42,M
+18- Application CRUD/111- Creating an edit subject form.MP4,28.3,M
+18- Application CRUD/112- Using single-page submission.MP4,33.32,M
+18- Application CRUD/113- Deleting a subject.MP4,34.27,M
+18- Application CRUD/114- Cleaning up.MP4,41.13,M
+18- Application CRUD/115- Assignment Pages CRUD.MP4,7.03,M
+18- Application CRUD/116- Assignment results Pages CRUD.MP4,29.42,M
+19- Building the Public Area/117- The public appearance.MP4,32.16,M
+19- Building the Public Area/118- Using a context for conditional code.MP4,35.49,M
+19- Building the Public Area/119- Adding a default subject behavior.MP4,21.16,M
+19- Building the Public Area/120- The public content area.MP4,11.47,M
+19- Building the Public Area/121- Protecting page visibility.MP4,24.26,M
+20- Regulating Page Access/122- User authentication overview.MP4,5.66,M
+20- Regulating Page Access/123- Admin CRUD.MP4,27.58,M
+20- Regulating Page Access/124- Encrypting passwords.MP4,11.56,M
+20- Regulating Page Access/125- Salting passwords.MP4,8.49,M
+20- Regulating Page Access/126- Adding password encryption to CMS.MP4,35.78,M
+20- Regulating Page Access/127- New PHP password functions.MP4,4.15,M
+20- Regulating Page Access/128- Creating a login system.MP4,36.98,M
+20- Regulating Page Access/129- Checking for authorization.MP4,17.51,M
+20- Regulating Page Access/130- Creating a logout page.MP4,12.7,M
+21- Conclusion/131- Next steps.MP4,5.25,M

@@ -1,0 +1,69 @@
+What's New:
+v1.6.0 [May 25, 2013]
+- Search history added with ability to enable/disable and clear in settings.
+- The application can now be launched when clicking a thepiratebay.sx torrent/user URL.
+- Changing the base URL from the error screen will now be used when trying again without re-performing the search.
+- Re-sorting search results no longer have an extra appended slash at the end of the URL.
+- Text in torrent info and comments now linkify email addresses. The Pirate Bay links using the .sx domain are now linkified.
+- Fixed bug with skull icon types in results screen.
+- Fixed white screen when trying to re-load the next page of a search result when an error occurred.
+- I provided my PayPal email account for those who would like to donate.
+
+v1.5.0 [May 9, 2013]
+- You can now choose between four Pirate Bay URLs. This is useful when the main site is down or if Pirate Bay is blocked where you live.
+- Fixed parsing error for torrents with cover images.
+- Fixed bug with comment not showing up if there is only one.
+- Removed some unnecessary permissions that were left when there was ads.
+- You can now check for updates. This will actually only load a list of available versions of the application.
+
+v1.0.1 [April 21, 2013]
+- Removed ads completely
+- Bug fix with loading next page item
+
+------------------------------------------
+
+This app was removed from the Play Store so I will be providing this application for free with no ads. Therefore, please contact me for any general inquiries, problems or suggestions. devjustinhum@gmail.com
+
+Screenshots:   
+http://imgur.com/a/8Fqov
+------------------------------------------
+
+Search and browse torrents from The Pirate Bay with ease and download them using your favourite torrent application.
+
+Main Features:
+- Search torrents with any category and a default sort
+- Browse torrents in any category (including Top 100s)
+- View the most recent torrents
+- Favourite any of your search results or torrents for later use. (Backup + Restore capability)
+- Sort your search results
+- Download a torrent using your default torrent application (must handle magnet links)
+- Share or open browser for any search results and torrent links
+- Choose proxy URLs if The Pirate Bay is blocked or down.
+- Holo common look and feel from 2.2 and up
+
+The application and I, the developer, are not affiliated with The Pirate Bay.
+
+The application is optimized for large screens in landscape orientation for the search results and torrent info screens. Let me know if there are any issues with this since I don't actually have a tablet, only tested on emulators.
+
+Limitations/Known Issues:
+- Cannot go directly to a Pirate Bay user through the search. You can however access the torrents of a user through the link of one of their torrents
+- The comments in the torrent info is limited the the last/most current page
+- The search results will load a maximum of 10 pages at the moment
+- Cannot edit the name of your favourites. At the moment, they match either your search criteria or the torrent name. Also cannot re-order them.
+
+IMPORTANT: I am one developer that worked on this on my free time. This app is quite useful for myself and I thought I would share. Therefore, please contact me if there are ANY issues.
+
+I tested this app on my Nexus 4 (4.2.2) and on emulators from 2.2 and up.
+
+This application uses The Pirate Bay website. Please make sure that The Pirate Bay website is working if you encounter any issues. The application does not track any usage.
+
+Permissions:
+- INTERNET: Internet connection only for The Pirate Bay website
+- WRITE_EXTERNAL_STORAGE: For backing up and restoring your favourites
+
+Thanks to:
+- ActionBarSherlock
+- HoloEverywhere
+- ViewPagerIndicator
+
+Enjoy!		

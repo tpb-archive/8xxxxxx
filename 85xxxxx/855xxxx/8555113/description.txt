@@ -1,0 +1,8 @@
+1- Use the "PathOfExileInstaller.msi" installer. It will create the "Grinding Gear Games" folder in your program files dir, make the register entrys, check dependencies (like directx 9), etc...
+(Don't RUN the game yet)
+
+2- Copy the content of "Grinding Gear Games" folder downloaded into the "Grinding Gear Games" folder in your program files dir.
+
+3- Run the client.exe (or Path of Exile shortcut). The program will "allocating space" you might be patient.
+
+4- Enjoy!

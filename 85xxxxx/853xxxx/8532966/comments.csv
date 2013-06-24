@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,MikeO89,2013-06-03T06:55Z,Finally someone uploaded this update. Good Job Chilidude
+,martin501,2013-06-03T18:45Z,great job man!! thanks!
+,86ETA,2013-06-03T20:04Z,crack ?
+,witya32,2013-06-03T20:58Z,"why is there a file called ""borderland_PC.patch""???"
+,csslouis,2013-06-03T22:34Z,is the fov adjustable with this?
+,MikeO89,2013-06-03T22:35Z,"The patch is already included though it will change the save location from the Reloaded crack. If you are using the original Reloaded patch, and want to stay with it you are going to have to go to cs.ru.rin forum to get the Reloaded crack files for the update.
+
+And that borderland_PC patch, the game needs it. Don't confuse that with the Borderlands game."
+,MikeO89,2013-06-03T23:39Z,"@csslouis, yes the new changes to video.scr are ability to change fov and get rid of the comic screen border."
+,BIueShark,2013-06-04T04:23Z,"Did anyone managed to remove those stupid borders with this patch? Cause I sure as hell didn't. I tried multiple locations for that video.scr file and no effect. Borders are still here even after adding line DisableScreenBorder(). Any help to resolve this would be appreciated. Right now it is the only thing keeping me from buying the game, cause who is to say this problem will not happen to me on steam version."
+,MikeO89,2013-06-04T06:03Z,DisableScreenBorder() gets rid of the comic border that goes around the screen. What's left is a very small border on top and bottom exactly like the original Call of Juarez had. No way to get rid of that just as it couldn't be gotten rid of in Call of Juarez. No problem for me as I'm used to it since I still play Call of Juarez from time to time. It's a classic.
+,jgato88,2013-06-04T12:29Z,My game stopped saving. Does anyone else have the same problem? Is there any fix?
+,MikeO89,2013-06-04T19:02Z,"Your game didn't stop saving, the new crack just moved the save game location. You might try reading, I already explained this."
+,jgato88,2013-06-04T23:28Z,"@MikeO89
+
+Even if i delete all saves and start a new game, while ingame the saves work, but when i exit the game and launch it again, i don't see the option to continue. i only see difficulty menu to start a new game"
+,lazoman91,2013-06-05T00:01Z,same here Mike089.. I've got the exact same issue as jgato88 has..
+,Herding,2013-06-05T00:38Z,Thank you I have been waiting for this for ages.
+,Herding,2013-06-05T01:27Z,"Three issues: The saves aren't saving, the fov can't be changed, and the in game graphics options can't be changed. I think I'm just going to buy this game to be honest. I can't be bothered trying to fix all these issues. Thanks for the upload anyway."
+,lazoman91,2013-06-05T02:01Z,"@Herding
+
+In order to change the in-game video options you have to apply this small registry fix:
+
+http://thepiratebay.sx/torrent/8501827/Call.of.Juarez.Gunslinger.Reg.Fix-iND"
+,MikeO89,2013-06-05T04:06Z,If it's not saving you probably have files from both the Reloaded crack and the 3dm crack. Make sure to take out the RLD ini file.
+,WTFRUDoing,2013-06-05T08:34Z,"Thanks, works great.  Win 8 64."
+,lazoman91,2013-06-05T14:20Z,"@MikeO89
+
+You mean to delete the C:ProgramDataRELOADEDRLD!204450 files ?"
+,MikeO89,2013-06-05T17:44Z,"No. I'm talking about the crack files you put in the game folder. If you used the Reloaded crack at the beginning, look for a steam_api.ini and remove it. The crack included in this update uses 3dmgame.ini instead. If you have both they might be conflicting with each other."
+,lazoman91,2013-06-05T18:12Z,"@MikeO89
+
+I deleted it and... no luck :/ .""continue"" option is still greyed out.. I installed tha blackbox release which uses the RLD crack. I think i m gonna keep my save files and do a fresh setup again."
+,MikeO89,2013-06-05T18:46Z,Did you play the game until the first save point and then check? I'm personally not using the 3dm crack. I'm using the Reloaded.Steam.Emu.Rar. It can be found here. http://cs.rin.ru/forum/viewtopic.php?f=10&t=63015&start=90
+,lazoman91,2013-06-05T18:51Z,nope... Same issue :/
+,lazoman91,2013-06-05T21:46Z,"Soo, with the rld_steam_emu the story mode saves works fine. The thing is that now i can't load my backup saves :P "
+,MikeO89,2013-06-05T22:24Z,"Yes you can. Just have to find the save game locations.
+
+old savegame location
+
+C: ProgramData - RELOADED - RLD! - 204450 - storage - out
+
+new savegame location
+C: ProgramData - Steam - RLD! - 204450 - storage - out"
+,Avanta,2013-06-07T07:28Z,"Had the exact same problem as lazoman, thank you for the help, Mike!"
+,ChiliNoMoreX,2013-06-11T02:26Z,"this crack is broken since it won't let you save your progress.
+
+this might fix it:
+cs.rin((.))ru/forum/download/file.php?id=13352
+dropcanvas((.))com/wea8j/1"

@@ -1,0 +1,81 @@
+==================================== Introduction ===================================
+
+"For those who understand,
+ no explanation is necessary.
+ For those who do not,
+ no explanation is possible."
+
+==================================== Description ====================================
+
+I have created an offline copy of BibliotecaPleyades
+and all the references which were used on this website.
+
+Why download the copy? It is great for offline reading!
+Also, in case this wonderful website will be taken down,
+the gathered information and evidence will not be lost.
+
+============================ BibliotecaPleyades.zip info ============================
+
+* Version           : 12 June 2013
+* Compressed size   : 9.86 GB
+* Uncompressed size : 11.58 GB
+* SHA1 Checksum     : a491887d7838c52e0b67709943ad8f0b5349207a
+
+============================== SiteSucker final status ==============================
+
+* Level             : 15
+* Files Downloaded  : 122403
+* Files Remaining   : 0
+* Errors            : 14263
+
+There were errors, because some references are not available anymore.
+
+============================== My SiteSucker settings ===============================
+
+1. General
+
+[V] Suppress Login Dialog
+[V] Ignore Robot Exclusions
+[V] Drag Triggers Download
+
+* File Replacement  : With Newer
+* File Modification : None
+* Path Constraint   : Host
+* Download Folder   : Downloads
+[ ] Ask before Downloading
+
+2. Logs
+
+[V] Log Errors
+[V] Log Warnings
+[ ] Log Final Status
+[ ] Log Media Types
+[ ] Log Download History
+
+3. Limits           : No limits
+
+4. File Types       : Allow All File Types
+
+5. Paths            : No paths
+
+6. Advanced
+
+6.1. General
+
+* Default Encoding  : Unicode (UTF-8)
+* Download Attempts : 3
+* Download Timeout  : 1 minute
+* Download Delay    : None
+* Identity          : Safari 5.1 - Mac
+
+6.2. Options
+
+[ ] Check All Links
+[V] Export External Links
+[ ] Only Follow Image Links
+[V] Include Supporting Files
+[ ] Generate HTML
+
+6.3. Parameters     : No parameters
+
+=====================================================================================

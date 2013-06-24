@@ -1,0 +1,43 @@
+This is a chapter from the excellent optics book "Seeing The Light"
+(http://www.amazon.com/dp/0471603856), by Falk, Brill and Stork (Wiley, 1986)
+It's a great resource for those starting to learn about the topic,
+as it introduces the concepts very gently and in a layman-friendly manner.
+
+Alas, I couldn't find any digital version online,
+and I can't scan the whole book myself ΓÇö it's 450 pages long!
+What I did, then, was scan the two chapters that I needed the most,
+and thought it would be nice to at least make these two available for others.
+
+This is the Wave Optics chapter. It contains 5 sections:
+ 1) Introduction
+ 2) Interference
+ 3) Applications of interference
+ 4) Babinet's and Huygens' principles
+ 5) Diffraction
+At the end it has a summary, followed by a list of problems.
+
+Here's a relevant passage from the introduction section:
+  "Geometrical optics works when the relevant dimensions of the objects
+  that interact with light (lenses, mirrors, stops, etc.)
+  are much larger than lightΓÇÖs wavelength (about 1/2000 mm).
+  To see wave phenomena, then, we must let light interact with tiny objects.
+  Fortunately, the sizes needed are often not as small as the wavelength itself,
+  but may be as big as a fraction of a millimeter.
+  Indeed, weΓÇÖll see that using just your hands you can ΓÇ£squeezeΓÇ¥ a light beam
+  to a suf∩¼üciently narrow width so it reveals its wave nature!"
+
+I will provide the other chapter I scanned (Ch.14 - Holography) as a separate torrent. I'll put the link in the comments.
+
+Below is the process and tools I used to make this "e-bookchapter";
+this might be useful for others wanting to scan books for digital consumption.
+All the tools I used are free and open source software
+and can be found in the standard repositories of Ubuntu.
+
+Step 1. Scanned the pages using simple-scan
+Step 2. Processed using scantailor
+Step 3. Cleaned up using gimp (removal of speckles, levels correction, removal of "shadows" from text and images the back of the pages, damage repair, and as a bonus, fix a typo: aranged --&gt; arranged @ p.322)
+Step 4. Merged the pages using imagemagick ("convert" command)
+Step 5. Renumbered the pages using pdflatex, see http://askubuntu.com/a/34269
+Step 6. Added metadata and bookmarks (table of contents) manually, using pdfmod
+
+Note: I tried to perform OCR so the text would be searchable and selectable, but the results were quite bad and I decided to use only the raw images instead.

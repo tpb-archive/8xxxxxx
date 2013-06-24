@@ -1,0 +1,51 @@
+VHS 2 (2013) NTSC DD5.1 Eng NL Subs WD2DVD-NLU002
+.
+[IMG]http://imageshack.us/a/img824/7155/8n0s.jpg[/IMG]
+.
+96 min  -  Horror | Thriller  -  6 June 2013 (USA) 
+. 
+http://www.imdb.com/title/tt2450186/
+. 
+http://www.moviemeter.nl/film/91383
+.
+PLOT
+.
+ Searching for a missing student, two private investigators
+break into his house and find collection of VHS tapes. Viewing
+the horrific contents of each cassette, they realize there may
+be dark motives behind the student's disappearance. 
+.
+Source: WD 720p
+Format: DVD5
+Video: NTSC @ 2passes HCenc
+Audio: DD5.1
+Subtitles: English SDH, Dutch, English. White and Yellow
+NL Vertaling: SRT-TEAM
+Notes: Perfect movie for yellow subtitles
+.
+Enjoy WD2DVD by NLU002
+.
+START VIDEO ENCODING OPERATIONS
+Encoding Profile: HCenc VBR 2-pass
+Target Video FileSize: 4095,4 MB
+Using DGPulldown/HCenc to upsize FPS
+Video = Video.hqdn3d(10)
+Video = Video.Spline64Resize(720,480)
+Video = Video.MSharpen(8,8)
+.
+*MAXBITRATE 9000
+*BITRATE 5983
+*PROFILE BEST
+*ASPECT 16:9
+*PROGRESSIVE
+*TFF
+*PULLDOWN
+*BIAS 60
+*DC_PREC 10
+*MATRIX MPEG
+*AQ 1
+*LUMGAIN 1
+*SMP
+.
+OUTPUT VIDEO INFO: MPEG-2 Video - 5975 kbps - 720x480 - DAR 1,778 - 23,976 fps (CFR) - Progressive (2:3 Pulldown) - 1:35:42 hours - 137670 frames
+OUTPUT AUDIO INFO: AC3 - 384 kbps - CBR - 6 ch - 48000 Hz - 16 bit - 1:35:42 hours (0 ms delay)

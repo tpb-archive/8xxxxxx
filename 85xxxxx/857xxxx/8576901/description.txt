@@ -1,0 +1,48 @@
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 4.18 GiB
+Duration                                 : 2h 10mn
+Overall bit rate                         : 4 577 Kbps
+Encoded date                             : UTC 2013-06-14 04:30:32
+Writing application                      : mkvmerge v4.0.0
+Writing library                          : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 10mn
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 60.000 fps
+Original frame rate                      : 59.940 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 10mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+
+ 
+http://image.bayimg.com/63702937d05256f4f080f61806102b009a542d30.jpg

@@ -1,0 +1,39 @@
+Heterogeneous Computing with OpenCL, Second Edition: Revised OpenCL 1.2 Edition 
+
+Book Details:
+
+Pages: 308 
+Publisher: Morgan Kaufmann; 2nd Edition (November 2012)
+Language: English
+ISBN-10: 0124058949
+ISBN-13: 978-0124058941
+Format: PDF, EPUB
+
+
+Book Description:
+
+Heterogeneous Computing with OpenCL teaches OpenCL and parallel programming for complex systems that may include a variety of device architectures: multi-core CPUs, GPUs, and fully-integrated Accelerated Processing Units (APUs) such as AMD Fusion technology. Designed to work on multiple platforms and with wide industry support, OpenCL will help you more effectively program for a heterogeneous future.
+
+Written by leaders in the parallel computing and OpenCL communities, this book will give you hands-on OpenCL experience to address a range of fundamental parallel algorithms. The authors explore memory spaces, optimization techniques, graphics interoperability, extensions, and debugging and profiling. Intended to support a parallel programming course, Heterogeneous Computing with OpenCL includes detailed examples throughout, plus additional online exercises and other supporting materials.
+
+Explains principles and strategies to learn parallel programming with OpenCL, from understanding the four abstraction models to thoroughly testing and debugging complete applications.
+Covers image processing, web plugins, particle simulations, video editing, performance optimization, and more.
+Shows how OpenCL maps to an example target architecture and explains some of the tradeoffs associated with mapping to various architectures
+Addresses a range of fundamental programming techniques, with multiple examples and case studies that demonstrate OpenCL extensions for a variety of hardware platforms
+
+Table of Contents:
+
+Chapter 1. Introduction to Parallel Programming
+Chapter 2. Introduction to OpenCL
+Chapter 3. OpenCL Device Architectures
+Chapter 4. Basic OpenCL Examples
+Chapter 5. Understanding OpenCLs Concurrency and Execution Model
+Chapter 6. Dissecting a CPU/GPU OpenCL Implementation
+Chapter 7. Data Management
+Chapter 8. OpenCL Case Study: Convolution
+Chapter 9. OpenCL Case Study: Histogram
+Chapter 10. OpenCL Case Study: Mixed Particle Simulation
+Chapter 11. OpenCL Extensions
+Chapter 12. Foreign Lands: Plugging OpenCL In
+Chapter 13. OpenCL Profiling and Debugging
+Chapter 14. Performance Optimization of an Image Analysis Application

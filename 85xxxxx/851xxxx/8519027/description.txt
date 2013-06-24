@@ -1,0 +1,22 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies! 
+
+Gnomoria v0.8.41
+
+
+General
+
+-Added Fill Hole task.  This task is placed in an empty floor cell and builds a wall in the cell below.
+-Changed Replace Floor task to work without having to deconstruct existing furniture or Workshops
+
+
+Fixed
+
+-Crash when clicking "Move Down" without a Job Type selected
+-Gnomes not equipping armor on their left side if their right side currently had better equipment
+-Worn equipment not storing in crates
+
+
+
+XNA Framework.NET Framework are included in the _CommonRedist Folder. (Install these first.)
+
+You can help the developer and buy the game on steam here: http://store.steampowered.com/app/224500/

@@ -1,0 +1,44 @@
+Changes in version 11.0.2 ( 21 / 05 / 2013 )
+
+Additions:
+- Support for Livid OhmRGB.
+- Support for Behringer CMD LC-1
+- Benn Jordan (The Flashbulb) Cool Stuff project - Cassette Cafe 
+
+Bugfixes:
+ - Fixed hint for time stretch wheel (low values)
+ - Fixed slow rendering bugs
+ - Fixed PPQ change bug
+ - Remembers the state of the PR random tool's "patterns" checkbox
+ - Fixed channel settings window showing up when loading projects
+ - Patcher: fixed editor focus on double-click
+ - Patcher: connection settings are now when an effect is dropped on a connection
+ - Patcher: fixed request by plugin to load sample
+ - DW 1.5.4: fixed import of FLM .instr files
+ - Newtone: fixed passing strings with "foreign" characters to the engine
+ - Newtone: fixed zooming modifiers (alt+scroll wheel)
+ - Newtone: show param value popup when multiple items are selected
+ - Newtone: new "Use beat marks" option for warp mode
+ - Newtone: save .zpa and .zpw files to zipped loops
+ - Wrapper: fixed relative knob behaviour for bridged plugins
+ - Wrapper: fixed loading multiple instances of Waves VST3
+ - Vocodex: fixed loading state of threaded checkbox
+ - EQUO: fixed restoring state of Morph knob
+ - Drumaxx: fixed changing assigned note for pads
+ - BassDrum and GMS: various bug fixes
+ - ZGEViz: updated/added some presets
+ - Wave Traveller: fixed crash when loading a sample
+ - Updated NewStuff & Zircon-Just hold on
+
+FL Studio system requirements:
+
+* 2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) compatible CPU with full SSE2 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo!
+* 32 or 64 Bit versions of Windows 8, Windows 7, Vista, XP (with service pack 3)
+* (or) Intel Mac with Boot Camp / Windows. Running XP (with service pack 3), Vista or Windows 7 (in 32 or 64 Bit)
+* 1 Gb or more RAM recommended
+* 1 Gb free disk space
+* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers)
+
+Language : English
+
+Homepage : 

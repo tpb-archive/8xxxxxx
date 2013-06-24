@@ -1,0 +1,46 @@
+XBMC4Xbox Build Box.
+
+This is a VMWare virtual pc
+
+Contains everything you need to checkout and build
+
+The XBOX Media Center for the original XBOX
+
+Installed Contents:
+
+Win XP Pro SP3
+
+Visual Studio.NET 2003
+
+XDK
+
+TortoiseSVN
+
+FileZilla
+
+
+You will need a VMWare player or workstation - Trial version should be fine!
+
+
+Just login - use the password hint if you are presented with a login dialog
+
+Got the XBMC folder on the desktop
+
+Open the file HOW-TO Compile XBMC for Xbox - XBMC4XBOX.htm
+
+to read the instructions I built this VM on
+
+Right click on the Xbmc4xbox source tree folder
+
+Do a svn update/checkout
+
+hit build!
+
+if there is an error about a rev file - copy the supplied batch file into the svn folder and build
+
+Sit back and wait
+
+when its done - ftp your new XBMC to you xbox
+
+
+Enjoy		

@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,IcemanSR,2013-05-27T23:08Z,"unfortunatelly this update is screwed up
+my fps is steady at 60 and then a sec later drops to 47 then climb up,and every 2 seconds it drops again.reverting previous patch and its working good again"
+,IcemanSR,2013-05-27T23:19Z,"Found the problem!
+DO NOT USE steam_api.dll FROM THIS RELEASE!
+Only use their exe for game!
+updates will still be in game
+The STEAM DLL kills fps in game as i mentioned in previous post!"
+,Timbo6669,2013-05-28T01:09Z,doubt it..
+,IcemanSR,2013-05-28T03:17Z,"i dont know what u are doubting
+and i dont care really steam dll from this is screwed up totaly"
+,4nt1trt,2013-05-28T14:12Z,"IcemanSR you mean it will kill fps on same graphic settings before installing update?
+Did you check vsync after install?"
+,WonderPirate24,2013-05-28T23:34Z,"Hay! Can't find a description about this Update
+on the steam website or anywhere. I follow the
+""http://store.steampowered.com/app/222480"" 
+link and found nothing. Can anybody confirm if
+this update is for real and does it really work?
+"
+,Dewarton,2013-05-30T03:20Z,"=====================================
+Added:
+ - 2048×1152 and 2560×1080 resolution support
+
+Fixed:
+ - ON/OFF toggle for the Mouse Acceleration setting was previously backwards. ON is now actually ON and OFF is OFF.
+ =====================================
+
+***IMPORTANT NOTE***
+ Please recheck and test mouse acceleration settings after today’s patch. (Hint: set acceleration to ‘OFF’). 
+
+Watch out tho, this release seems to be not good as many ppl have lag-stuttering issues. ye been warned."
+,sixor,2013-06-08T06:25Z,"working perfect, did not used included steam dll as some guy said
+
+there is some update 4 around"

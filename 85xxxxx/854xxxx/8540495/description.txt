@@ -1,0 +1,27 @@
+Analyzed: The Verve / A Northern Soul
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -4.17 dB   -17.18 dB      4:10 01-A New Decade
+DR10      -4.65 dB   -15.62 dB      3:35 02-This Is Music
+DR12      -4.78 dB   -17.75 dB      3:33 03-On Your Own
+DR11      -4.78 dB   -17.33 dB      6:11 04-So It Goes
+DR11      -4.51 dB   -17.17 dB      6:33 05-A Northern Soul
+DR11      -4.78 dB   -16.91 dB      5:11 06-Brainstorm Interlude
+DR12      -5.04 dB   -18.57 dB      6:52 07-Drive You Home
+DR11      -4.19 dB   -17.29 dB      5:27 08-History
+DR10      -5.07 dB   -15.41 dB      5:11 09-No Knock On My Door
+DR10      -5.33 dB   -16.49 dB      5:45 10-Life's An Ocean
+DR11      -4.97 dB   -18.70 dB      5:38 11-Stormy Clouds
+DR11      -4.23 dB   -17.61 dB      6:13 12-Reprise
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR11
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2893 kbps
+Codec:             FLAC

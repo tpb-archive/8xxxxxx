@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,DWeX4,2013-05-29T20:25Z,TrueHD and DTS-Master audio can't tranfer with digital cables (RCA or optical); it can with HDMI but don't have that on stereo.
+[T],vonRicht,2013-05-30T00:46Z,Hey just play the file with VLC and you should be fine with audio.
+,joeyjones,2013-06-04T13:08Z,"@DWeX4
+Does this mean we won't get DTS sound unless using HDMI?
+
+I noticed on a wonRicht release yesterday there was no ""DTS"" icon on kmplayer. Usually this is displayed with other encoder releases to indicate DTS sound is being outputted."
+,DWeX4,2013-06-06T09:17Z,"DTS and AC3 (Dolby Digital), which are compressed, can play without HDMI."
+,DWeX4,2013-06-06T20:02Z,"In my set-up, TrueHD and DTS-Master audio (the hi-rez bluray audio) is absolutly blocked. My TV and PC are not linked, therefore, media players like awsome VLC isn't helping on the TV end."
+,Gacy8Gein,2013-06-07T19:44Z,"MPC-HC will just play the standard DTS or AC3 thru the Optical/SP-DIF/Analog no problem.
+VLC should also, but I don't use it so can't verify.
+
+DTS-HD and TrueHD are only possible thru HDMI.
+Arcsoft Total Media Theatre supposedly can play the HD files, but I believe its still only thru the HDMI cable.
+Otherwise the HDCP would be circumvented, which legally isn't allowed.
+Only way to get HD audio is thru HDMI, into an HD capable Amplifier.
+They aren't that expensive any more, less than 200 bucks. :)"

@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,SeattleBeach,2013-06-11T21:23Z,"Looks like a fun Game, but Can not get it to run . Just an .EXE inside but, gives me an Admin error. I log in as Admin still no joy. Any help/instruction would be greatly helpful. I am running Windows 7 x64 Thanks."
+,manul4ik,2013-06-12T12:49Z,rmb on .exe file and try to run it with admin rights
+,SeattleBeach,2013-06-13T02:39Z,"manul4ik what is 'rmb on' stand for/mean ? Try as I might, gave every premission I could think of and Still acess denied. It unpacks runs through the first 4 dialog screens , then just b4 installing; Acess denied (admin rights issue). BTW I am log in as the adminstrator. Might work for others, but my PC (Win 7 x64 Ultimate) not working. Thanks anyway I'll wait for another copy to hit the scene Peace,
+SeattleBeach"
+,trueomega,2013-06-13T11:46Z,"I just changed the setup directory to my desktop and it sorta worked, it dumped all the files there but still gave me an error message. So far everything is working."
+,manul4ik,2013-06-13T21:01Z,"SeattleBeach, ""right mouse button"" on .exe, than click ""run as administrator"""

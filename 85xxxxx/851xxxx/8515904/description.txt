@@ -1,0 +1,50 @@
+Billie Holiday: The Life & Artistry of Lady Day is a half-hour biography that uses film clips, archival footage, still press photos, and vintage promotional materials to highlight the major events in the singer's career. The documentary chronicles her battles with drug addiction, criminal activity, and abusive relationships, but also contains live performance footage of Holiday singing "God Bless the Child," "Strange Fruit," and "What a Little Moonlight Can Do." ~ Andrea LeVasseur, Rovi 
+
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 349 MiB
+Duration                         : 27mn 52s
+Overall bit rate                 : 1 753 Kbps
+Encoded date                     : UTC 2013-05-28 07:36:48
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 27mn 52s
+Bit rate                         : 1 559 Kbps
+Width                            : 688 pixels
+Height                           : 512 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.177
+Stream size                      : 304 MiB (87%)
+Writing library                  : x264 core 130 r2273 b3065e6
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 27mn 52s
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 38.3 MiB (11%)
+

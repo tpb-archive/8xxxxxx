@@ -1,0 +1,88 @@
+SimCity.2013-VULPESZEDRA v1.3 Game and Server Emulator for Win7 / Win8
+
+Works on Windows 8!
+
+GAME INFO
+This is a new SimCity that delivers unprecedented depth of simulation, with
+the new GlassBox engine where everything you see is simulated even down to
+each individual Sim in your city. The model-like world and detail of the
+simulation make this the most responsive and personal SimCity ever. This is
+also the most expansive city management game yet where you can control a
+region that delivers true multi-city scale and play a single city or up to 16
+cities at once each with different specializations. Multiplayer is also a
+first for the series, which adds a new dimension to your game as your
+decisions impact both your city and your region and creates new ways to play
+by collaborating or competing to earn achievements. Finally, SimCity is a live
+service that simulates real time updates from new challenges to new features
+and content.
+
+
+INSTRUCTIONS
+
+Prerequisites:
+
+-Uninstall Origin completely.
+-Delete all other SimCity 2013/5 copies on your computer.
+-Delete SimCity from your Origin Games folder if you tried this server
+emulator from Vulpes Zedra before or it will NOT work. *IMPORTANT*
+-If you already tried this with the old version, don't try to use the
+patch. Just start over from the beginning.
+
+
+Install:
+
+1. Move the files a folder called SimCity into Program Files or your games
+folder. It doesn't have to be C:/Program/SimCity like before, mine worked
+from an external hard drive.
+
+2. Open the folder called Extra double click the certificate called 
+"Electronic Arts, Inc CA". When it pops up, click Install Certificate and go
+through until you get to "Certificate Store" page with some options. Click
+the second bullet point, then browse, then select the Trusted Root Certificate.
+Now just go through and hit next and OK until its finished.
+
+3. In the same "Extra" folder, find the "hosts" files and into
+C:WindowsSystem32Driversetc and overwrite. You can back up the old one if
+you like. If you ever want to use Origin legitimately, you need to revert to
+the old one.
+
+4. Now find Start.exe in the SimCity folder and run it. Once it starts, click
+Start Server and it will say Everything sounds good! If some firewall prompts
+come up, click Allow. You must run this every time you want to play SimCity,
+so make a shortcut on your desktop if you would like. Minimize it if you wish,
+but don't close it. Note if you're concerned, it says 1.2 but it really is
+1.3 as the Activate button was added.
+
+5. Go back to the Extra folder and run the Origin installer. When you get a few
+check boxes, uncheck everything besides the two about shortcuts. They are optional.
+
+6. When Origin finishes, it will prompt you to log in. It does not matter what you
+use as you username and password, as it will not check them online. Just enter
+something and it will work.
+
+7. Once it opens, click the My Games tab. Click the SimCity box and then hit the
+Download button. If it says Play and not Download, you NEED to close Origin and
+delete the SimCity folder from the Origin Games folder somewhere on your hard
+drive. It will prompt you a few more times, just agree and let it download.
+
+8. Once it is finished, click SimCity and hit Play. I believe if you are on
+Windows 7 it will work and you are good to go. But if not, IT WILL DO NOTHING.
+This is OK. Just go back to the server window from Step 4 and click Activate
+at the top. It will say Successfully Activated and now try to run SimCity.
+
+9. The SimCity launcher will appear and begin to update. Let it do its thing.
+Once its finished, click the little button to restart, then click the play button, 
+and you will be playing SimCity finally after monthes of waiting.
+
+
+Play:
+
+1. Open Start.exe 
+
+2. Click Start Server and keep it open.
+
+3. Double click the SimCity icon on the desktop or run it from Origin.
+
+4. When you're done, click "Stop Server"
+
+5. Finally click "Exit"

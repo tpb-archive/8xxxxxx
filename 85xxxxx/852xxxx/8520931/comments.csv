@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,Daniel_Laruso,2013-06-02T04:48Z,Cannot read the txt file. Can you post the intallation and craking instructions?
+,timdietz,2013-06-02T18:59Z,"Did a translate:
+
+1. Turn off the Internet.
+2. Install the program does not run.
+3. Run the crack, in the first row to select a file activate.dat C:  Program Files (x86)  ArcSoft  TotalMedia Theatre 6 
+4. The line to enter the Product ID 520060
+5. Enter any e-mail
+6. Register the program findings.
+7. Add data to the host file (% SystemRoot%  system32  drivers  etc  host)
+(For Windows 7 users: open notebook system on behalf of the administrator, File-Open, and open the file hosts (C:  Windows  System32  drivers  etc  hosts)):
+
+127.0.0.1 intouch.arcsoft.com
+127.0.0.1 arcsoft.com
+
+Or a firewall to block all network activity. Exe files in the folder with the installed program."

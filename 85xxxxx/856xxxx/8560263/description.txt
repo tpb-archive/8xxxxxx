@@ -1,0 +1,26 @@
+
+Description
+Format : Matroska
+Format version : Version 2
+File size : 412 MiB
+Duration : 2h 23mn
+Overall bit rate : 401 Kbps
+Encoded date : UTC 2013-03-06 06:31:49
+Writing application : mkvmerge v2.9.7 ('Tenderness') built on Jul 1 2009 18:43:35
+Writing library : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 3 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 23mn
+Nominal bit rate : 364 Kbps
+Width : 704 pixels
+Height : 384 pixels
+Display aspect ratio : 1.85:1
+Frame rate mode : Constant
+Frame rate : 29.970 fps

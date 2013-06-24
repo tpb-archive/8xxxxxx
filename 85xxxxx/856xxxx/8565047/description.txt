@@ -1,0 +1,49 @@
+
+Free voice and video calls to anyone else on Skype, whether theyΓÇÖre on an Android, iPhone, Mac or PC, as well as IMs to your friends and family, no matter where they are.
+
+Features:
+- Skype to Skype IMs, video and voice calls are free* over 3G or WiFi. 
+- Make low-cost calls and SMS to mobiles or landlines from your Android smartphone or tablet.
+- Send pictures, videos and files to any of your contacts.
+- Enjoy high-quality sound when you call anyone else on Skype.
+- Talk face to face or show what youΓÇÖre seeing with front and rear-facing cameras.
+- Talk to your Windows Live Messenger friends on Skype. Sign into Skype with your Microsoft account and have your Messenger, Hotmail and Outlook contacts in one place.
+
+What's in this version:
+Video Messaging ΓÇô preview feature
+Try new Video Messaging. Record a video and send to friends and family on Skype, even when theyΓÇÖre unavailable. Everyone can send up to 20 free video messages; Skype Premium users can send as many as they like.
+'Classic view' option for tablets
+Performance improvements and fixes
+
+Changes compared to original Skype:
+- Exit button (kills app & service)
+- Minor fixes here and there (vibration, chat, video-calls)
+- Speaker toggle while in call (just press your phone's MENU button)
+- Bluetooth audio toggle while in call (just press your phone's MENU button), uses *my* code for BT Audio, so you can try it for mono headsets or headsets that don't work with Skype's original BT support
+- Camera LED/flash support while in video-call (just press your phone's MENU button)
+- Advanced Settings:
+- Sign-in status picker, allows you to pick your desired status (availability), which will be applied automatically just after logging-in.
+- Keep screen alive, disables proximity sensor for calls
+- Force-enable video-calling, for phones that can't get video-calling enabled.
+*Video-calling needs compatible CPU (ARMv7). If your phone's CPU is not compatible, Skype will keep crashing/looping at login!*
+- Force enable camera rotation, will attempt to enable camera rotate option (under the camera selection popup)
+- Avoid setFPS, for some users that get black image in video-calls
+- Use valid preview surface, for some users that get black image in video-calls (a bit buggy at the moment, but better than nothing )
+- Force notification LED/BLN, for users that "Pulse notification light" option (in Skype original settings) doesn't actually enable notification LEDs or BLN!
+- Advanced camera settings (resolution/focus/scene/white balance/color effect)
+- Ringtone picker!
+- Notification sound picker!
+- Notifications' vibration pattern picker!
+- Disable vibration entirely
+- Disable sign-in/out vibration and/or sounds
+- Auto speaker on
+- Tablet UI orientation unlock (no more forced landscape - still a dirty hack)
+
+Skype 3.2.0.6673 modded (build v19.1) !
+Changelog:
+~ Tablet UI orientation unlock
+~ In-chat text-box resizes for a better view of the text you're typing
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.skype.raider

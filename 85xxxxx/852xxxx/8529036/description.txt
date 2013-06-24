@@ -1,0 +1,63 @@
+Source : WEBiOS(Thanks)
+ 
+http://www.imdb.com/title/tt2055593/
+
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 698 MiB
+Duration : 1h 39mn
+Overall bit rate : 984 Kbps
+Writing library : VirtualDub build 32842/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 2
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 39mn
+Bit rate : 846 Kbps
+Width : 640 pixels
+Height : 272 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.203
+Stream size : 600 MiB (86%)
+Writing library : XviD 64
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 39mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 90.8 MiB (13%)
+Alignment : Split accross interleaves
+Interleave, duration : 42 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+Writing library : LAME3.99r
+Encoding settings : -m s -V 4 -q 3 -lowpass 17 -b 128
+
+Plot
+Redwood Forrest Hanson dreams that if he can beat Jack Nicklaus at the 1975 Masters of golf, he'll reunite his parents forever.
+ 
+http://www.shotpix.com/images/50578717059611893729.png 
+http://www.shotpix.com/images/29804153009305894171.png 
+http://www.shotpix.com/images/81702503970605001702.png

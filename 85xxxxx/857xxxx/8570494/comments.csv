@@ -1,0 +1,132 @@
+﻿User Type,Username,Date,Text
+,PARTYHARD777,2013-06-14T00:31Z,I this an acumulative update?
+,MadRevolver,2013-06-14T03:25Z,an other update?!!? THATS COOL! thanks I approve too! @PARTYHARD777: read the info! :p
+,MadRevolver,2013-06-14T03:36Z,"
+
+The Incredible Adventures of Van Helsing v1.1.05
+
+
+
+Known issues:
+
+The multiplayer game still has some issues. Please play it with a character created for the multiplayer only because data loss may occur sometimes. 
+
+
+
+
+
+Balance changes:
+
+Will-o-Wisps and Ornithopters are slightly nerfed.
+
+Monsters on the roof maps are slightly stronger.
+
+The Marquis of Soot is stronger and got some new friends.
+
+Igor’s range of the mine laying ability reduced.
+
+Some new chests added to the Industrial Port.
+
+Damage of Traps is scaled to Difficulty, the number of players and also as the story progresses.
+
+Losing Generator Capacity after a failed Siege may result in traps being destroyed randomly.
+
+Levels of Quests give appropriate Item rewards.
+
+""Point of no return"" is removed from the game. You can go back to the first chapter after getting to Borgova.
+
+You can no longer farm for Ability Points through special conversation rewards like the Gluttoner Idol or Saffi's magic potion if you play in the Multiplayer game of someone else. You will receive such rewards only once.
+
+The inherent Magic Item Find bonus in Hardcore reduced.
+
+
+
+Fixed bugs:
+
+Multiplayer:
+
+Fixed a bug with the bossfight when the master died and respawned in town.
+
+Fixed some bugs with the game list window.
+
+Fixed bugs with the effects
+
+Made some improvements with the scripts.
+
+Made some optimizations in the network code.
+
+The amount of the XP received by killing a monster is individually calculated for each player. (I.e. killing a lower level monster with a higher level character can give XP for a lower level character on the same map.)
+
+The XP range has been removed. You receive the XP from the monster even if you are far away as long as you are on the same map.
+
+Made some countermeasures against the ""file too old"" bug. Backup creating checks  if the previous save was correct and if it wasn't, it does not overwrite the proper game save with a broken one.
+
+Fixed a bug with the ""Werewolf on the run"" quest. 
+
+When synchronizing with the Steam Cloud, if no appropriate save has found on the Cloud, the local version is moved to the BackupCloud folder.
+
+Synchronizing with the Steam Cloud is much safer.
+
+Fixed a random bug with the Multiplayer game list not showing any games even though there are available games.
+
+
+
+General:
+
+Fixed a bug where the ""Find the Engineer"" quest got stuck.
+
+Fixed an issue with the experimental gate in the Abandoned Research Station.
+
+Spells reapply correctly when changing maps.
+
+Fixed a bug with the ""Kill Fulmigati's General"" quest.
+
+Fixed the spiders in the Worm's cave in the Orichalcum Mines scenario.
+
+Fixed a display inconsistency with Skill resets.
+
+Fixed an issue that caused monsters to attack during a cutscene.
+
+Fixed another issue where items could be dropped inside terrain objects.
+
+Fixed a recent bug with the one liners of the final boss.
+
+Fixed an issue with the Merchant in Croakwood.
+
+Fixed some localization issues with the Scenario mode.
+
+Fixed the Obsessed Alchemist hidden achievement.
+
+Fixed an issue with the Forge: you can no longer forge Trophies with more than 5 enchants.
+
+Fixed some consistency issues with the different Scenarios.
+
+Improved the AI of the Dreadknechts and the rats with rifles.
+
+Behemoths can no longer be knocked down.
+
+The chests give loot based on their own level.
+
+Fixed the 3% Life Steal for the 50 Mastery bonuses on the Occult Hunter tree.
+
+Fixed a missing localization string for the poodle of goo in the Rookery.
+
+Fixed an issue with the calculation of Mana Steal on the Character Sheet.
+
+Fixed a crash in the Forge window.Fixed the missing icon in the Achievement window for the Treasure Hunter DLC bonus.
+
+Fixed an issue with skill respec.
+
+Fixed an issue with the Ray of Destruction and switching skill sets.
+
+Fixed the additional levels of the Elemental Damage Skill.
+
+Fixed the progress window when you are invited to a bossfight in different resolutions.
+
+Fixed an item duplication bug with the Laboratory.
+
+Fixed an issue with the activation of the Mentor Perk.
+
+The Explosive Rounds powerup of Shoot no lon"
+[V],DeGun,2013-06-14T08:47Z,Thx Stiffy :)
+,SomeBoyFromVillage,2013-06-16T12:09Z,thnx!

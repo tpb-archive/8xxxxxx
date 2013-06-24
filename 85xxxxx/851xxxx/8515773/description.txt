@@ -1,0 +1,19 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 971 MiB
+Duration                                 : 1h 50mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 231 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 225 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Language                                 : Czech

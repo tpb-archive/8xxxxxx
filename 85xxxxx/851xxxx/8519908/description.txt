@@ -1,0 +1,76 @@
+Tehre are three files here:
+1. 
+2.
+3.
+
+You can selected which file(s) to download after loading the torrent.
+
+I've included a sample file for reference for this format (480p) only, that way you can see what you're getting.
+
+There is a Star Treck (2013) Into Darkness Movie Poster slide show which plays to the theme music of same.
+
+Here is the media info for the main video file:
+
+Enjoy.
+
+General
+Complete name                    : D:TEMPAPP_DATAUT 4_DOWNLOAD_DONEStar Trek (2013) Into Darkness 480p CAM MUPStar Trek (2013) Into Darkness - Movie 480p 775Kbps CAM by MUP AVC MP4.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 890 MiB
+Duration                         : 2h 7mn
+Overall bit rate                 : 979 Kbps
+Encoded date                     : UTC 2013-05-29 04:36:55
+Tagged date                      : UTC 2013-05-29 04:36:55
+Cover                            : Yes
+
+Video
+ID                               : 2
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Format settings, GOP             : M=2, N=15
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 2h 7mn
+Bit rate mode                    : Variable
+Bit rate                         : 778 Kbps
+Maximum bit rate                 : 1 000 Kbps
+Width                            : 854 pixels
+Original width                   : 864 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 2.35:1
+Original display aspect ratio    : 2.40:1
+Frame rate mode                  : Constant
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.084
+Stream size                      : 707 MiB (79%)
+Language                         : English
+Encoded date                     : UTC 2013-05-29 04:36:55
+Tagged date                      : UTC 2013-05-29 04:36:55
+
+Audio
+ID                               : 1
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 2h 7mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 174 MiB (20%)
+Language                         : English
+Encoded date                     : UTC 2013-05-29 04:36:55
+Tagged date                      : UTC 2013-05-29 04:36:55
+

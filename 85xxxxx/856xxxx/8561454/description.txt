@@ -1,0 +1,54 @@
+Windows Edition - v0.9.11.0 - MD5 : A0F880F3CF420A31D86026F49A2013D7
+Updated on 05/06/2013 ┬⌐2011 by Androxyde
+
+More information at http://androxyde.github.com/
+
+Flashtool Release Notes:
+
+* 0.9.11
+- This version is a big split with every previous ones. 
+  And not fully featured as previous can be.
+  I changed the UI framework from Swing to SWT because of a better integration with Mac UI.
+  Here is what is missing from previous releases :
+     - No multilingual UI
+     - No recovery installer
+     - No kernel installer (for 2010 devices)
+     - No ROM cleaner.
+     - Cannot Add/Edit/Remove devices.
+     - No TA hex editor (in pro mode)
+- Version fully compatible with all 2013 devices (Z/ZL/Tablet Z etc etc)
+- Unified Bootloader unlock feature with the new BLU icon. No more unlock plugin.
+  As for flashing, BLU is available even without any connected device, even with
+  unrecognized devices.
+- Updated SuperSU package. Added servicemnu root hack 
+  (works with Z/ZL for all FW up  to .434)
+  Known working for Xperia T/V too
+- Added TA partition backup/restore. Using this feature, you can backup TA before unlock. 
+  Restore TA will relock the devicee and get DRM back as well as BE2 
+  (full complete relock). You cannot count  on this feature if ever your device is 
+  already unlocked. Missuse of this feature can brick the device.
+  Check XDA thread for more infos : 
+    http://forum.xda-developers.com/showthread.php?t=2292598
+
+* 0.9.10.1
+- Resolved a serious bug leading to a softbrick (reported on LT26 devices)
+- Added a more complete german translation (thanks papayayoghurt)
+
+
+Introduction to Flashtool:
+Flashtool is a flashing software that can be used to :
+
+1. Flash original Images (Android 1.6, 2.1, 2.3 Images)
+2. Root your phone
+3. Install Recovery, Busybox, custom kernels
+4. Clean your Rom (remove /system/apps apps of your choice) 
+   (Be careful, unless you really know what you do, do not modify the default list. 
+   This can make your phone stuck at the SE Logo)
+5. Clear dalvik cache
+6. Optimize (install of JIT v2) 
+    (Disabled in 0.4, will readd it as a plugin for 2.1 phones only)
+7. Customize (installs apps found in the custom/apps folder of the flashtool)
+8. Clean uninstalled (remove any references to system apps removed in the 
+    Clean (root needed) step)
+9. Edit any text file on the device
+10. Rebrand your device

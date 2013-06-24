@@ -1,0 +1,80 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 321 MiB
+Duration                                 : 41mn 45s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 076 Kbps
+Movie name                               : Chaos Rising
+Album                                    : Teen Wolf, Season 3, Pt. 1
+Performer                                : Teen Wolf
+Genre                                    : Sci-Fi & Fantasy
+Recorded date                            : UTC 2013-06-10 07:00:00
+Encoded date                             : UTC 2013-06-11 09:35:47
+Tagged date                              : UTC 2013-06-11 10:13:59
+Writing application                      : HandBrake 0.9.9 2013051800
+Cover                                    : Yes
+desc                                     : Allison and Lydia stumble upon a possible clue to finding Boyd and Erica while a childhood friend of
+ldes                                     : Allison and Lydia stumble upon a possible clue to finding Boyd and Erica while a childhood friend of Stiles goes missing.
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 41mn 43s
+Bit rate mode                            : Variable
+Bit rate                                 : 911 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 718 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.968 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.041
+Stream size                              : 272 MiB (85%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / 
+Encoded date                             : UTC 2013-06-11 09:35:47
+Tagged date                              : UTC 2013-06-11 10:13:59
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 41mn 45s
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 283 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 47.7 MiB (15%)
+Language                                 : English
+Encoded date                             : UTC 2013-06-11 09:35:47
+Tagged date                              : UTC 2013-06-11 10:13:58
+
+
+Allison and Lydia stumble upon a possible clue to finding Boyd and Erica while a 
+
+childhood friend of Stiles goes missing.
+
+
+
+Add Free and no TV symbol on screen

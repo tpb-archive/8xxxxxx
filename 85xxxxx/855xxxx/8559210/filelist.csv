@@ -1,0 +1,132 @@
+﻿Filename,Size,Unit
+12. Exporting Data/12.05. Using MySQLDUMP for Scripts.flv,14.21,M
+00. Welcome/00.01. Welcome.flv,5.2,M
+00. Welcome/00.02. What This Course Will Cover.flv,5.34,M
+00. Welcome/00.03. System Requirements.flv,3.1,M
+00. Welcome/00.04. A Brief History of MySQL.flv,6.5,M
+00. Welcome/00.05. Help on the MySQL Web Site.flv,3.57,M
+00. Welcome/00.06. Online Manual Demonstration pt- 1.flv,13.55,M
+00. Welcome/00.07. Online Manual Demonstration pt- 2.flv,3.12,M
+01. Database Basics/01.01. Definitions.flv,4.52,M
+01. Database Basics/01.02. ClientServer Systems.flv,6.91,M
+01. Database Basics/01.03. TablesColumnsRows.flv,3.6,M
+01. Database Basics/01.04. Database Design in a Nutshell.flv,6.72,M
+01. Database Basics/01.05. Indexes.flv,4.23,M
+01. Database Basics/01.06. Databases in MySQL.flv,6.11,M
+02. Installation/02.01. Installation Basics.flv,7.81,M
+02. Installation/02.02. Windows.flv,8.1,M
+02. Installation/02.03. Mac OS X.flv,2.88,M
+02. Installation/02.04. Linux.flv,1.91,M
+02. Installation/02.05. What We Installed.flv,5.81,M
+02. Installation/02.06. Starting and Stopping MySQL.flv,2.4,M
+03. Configuration/03.01. MySQL Server Configuration.flv,2.38,M
+03. Configuration/03.02. Server Startup Options.flv,10.15,M
+03. Configuration/03.03. MySQL Configuration File.flv,7.64,M
+03. Configuration/03.04. Important Configuration Options.flv,7.8,M
+04. Client Programs/04.01. Command Line Operations.flv,5.26,M
+04. Client Programs/04.02. Using a Command Line Client.flv,5.07,M
+04. Client Programs/04.03. Command Line Client Help File.flv,13.8,M
+04. Client Programs/04.04. MySQL Client Batch Mode.flv,6.33,M
+04. Client Programs/04.05. MySQL Client Interactive Mode pt. 1.flv,6.33,M
+04. Client Programs/04.06. MySQL Client Interactive Mode pt. 2.flv,6.76,M
+04. Client Programs/04.07. MySQL Client Interactive Mode pt. 3.flv,9.84,M
+04. Client Programs/04.08. Executing Scripts.flv,6.62,M
+04. Client Programs/04.09. Exploring Databases and Tables.flv,10.27,M
+05. SELECT statement Basics/05.01. SELECT Arithmetic.flv,6.2,M
+05. SELECT statement Basics/05.02. Selecting More than One Column.flv,5.11,M
+05. SELECT statement Basics/05.03. Operators and Funtions.flv,4.97,M
+05. SELECT statement Basics/05.04. Column Aliases.flv,6.35,M
+05. SELECT statement Basics/05.05. NULL.flv,5.48,M
+05. SELECT statement Basics/05.06. Data Type Basics.flv,6.28,M
+06. Variables/06.01. What is a Variable.flv,4.17,M
+06. Variables/06.02. User Variables.flv,1.46,M
+06. Variables/06.03. Assignment Operator.flv,2.42,M
+06. Variables/06.04. SET statement.flv,5.31,M
+06. Variables/06.05. System Variables.flv,3.97,M
+06. Variables/06.06. Variable Scope.flv,7.03,M
+07. Calculations and Expressions/07.01. New Values From Old.flv,2.83,M
+07. Calculations and Expressions/07.02. Operators and Operands.flv,3.15,M
+07. Calculations and Expressions/07.03. Arithmetic Operators.flv,3.17,M
+07. Calculations and Expressions/07.04. String Operators.flv,4.59,M
+07. Calculations and Expressions/07.05. Comparison Operators.flv,4.67,M
+07. Calculations and Expressions/07.06. Logical Operators.flv,6.24,M
+07. Calculations and Expressions/07.07. Order of Precedence.flv,3.71,M
+07. Calculations and Expressions/07.08. Functions and Parameters.flv,3.41,M
+07. Calculations and Expressions/07.09. Useful Numeric Functions.flv,6.28,M
+07. Calculations and Expressions/07.10. Useful Character String Functions.flv,6.6,M
+07. Calculations and Expressions/07.11. Temporal Operations.flv,7.2,M
+07. Calculations and Expressions/07.12. Useful Temporal Functions.flv,5.23,M
+07. Calculations and Expressions/07.13. Decision-Making Functions.flv,7.44,M
+07. Calculations and Expressions/07.14. NULL-related Functions.flv,4.53,M
+07. Calculations and Expressions/07.15. Useful System Functions.flv,2.38,M
+08. Querying SQL Data/08.01. Using a Database.flv,5.29,M
+08. Querying SQL Data/08.02. Selecting FROM a Table.flv,6.49,M
+08. Querying SQL Data/08.03. Targeting Rows Using WHERE.flv,5.25,M
+08. Querying SQL Data/08.04. Complex WHERE Criteria.flv,8.04,M
+08. Querying SQL Data/08.05. Sorting Results Using ORDER BY.flv,6.69,M
+08. Querying SQL Data/08.06. Going to Extremes Using LIMIT.flv,4.53,M
+08. Querying SQL Data/08.07. Avoiding Duplicates Using DISTINCT.flv,4.08,M
+08. Querying SQL Data/08.08. Aggregation Queries.flv,4.78,M
+08. Querying SQL Data/08.09. Subtotals Using GROUP BY.flv,7.67,M
+08. Querying SQL Data/08.10. Filter Derived Columns with HAVING.flv,2.91,M
+08. Querying SQL Data/08.11. Multilevl Sums Using WITH ROLLUP.flv,8.35,M
+08. Querying SQL Data/08.12. Summarizing SELECT Clauses.flv,7.18,M
+08. Querying SQL Data/08.13. Some Clauses Cannot Coexist.flv,3.62,M
+09. Databases and Tables/09.01. Databases in MySQL.flv,5.14,M
+09. Databases and Tables/09.02. Creating a Database.flv,7.01,M
+09. Databases and Tables/09.03. Aspects of a Table.flv,2.95,M
+09. Databases and Tables/09.04. Creating a Table.flv,7.39,M
+09. Databases and Tables/09.05. Table Options.flv,5.35,M
+09. Databases and Tables/09.06. Column Options.flv,7,M
+09. Databases and Tables/09.07. Auto-Incrementation.flv,5.65,M
+09. Databases and Tables/09.08. Altering a Table.flv,5.38,M
+09. Databases and Tables/09.09. Adding and Dropping Columns.flv,4.5,M
+09. Databases and Tables/09.10. Altering a Column.flv,7.53,M
+09. Databases and Tables/09.11. Dropping a Table.flv,4.34,M
+09. Databases and Tables/09.12. Dropping a Database.flv,4.28,M
+10. Data Type Details/10.01. Data Type Categories.flv,2.37,M
+10. Data Type Details/10.02. Integer Numbers.flv,7.12,M
+10. Data Type Details/10.03. Floating Point Numbers.flv,7.86,M
+10. Data Type Details/10.04. Fixed Decimal Numbers.flv,4.98,M
+10. Data Type Details/10.05. BIT Data Type.flv,7.46,M
+10. Data Type Details/10.06. Strings.flv,3.41,M
+10. Data Type Details/10.07. Basic Character Strings.flv,6.53,M
+10. Data Type Details/10.08. ENUM Character Strings.flv,6.98,M
+10. Data Type Details/10.09. SET Character Strings.flv,6.27,M
+10. Data Type Details/10.10. Character Sets.flv,7.82,M
+10. Data Type Details/10.11. Collations.flv,8.04,M
+10. Data Type Details/10.12. Fonts and Keystroke Mapping.flv,3.27,M
+10. Data Type Details/10.13. Binary Strings.flv,2.5,M
+10. Data Type Details/10.14. Temporal Data.flv,5.94,M
+10. Data Type Details/10.15. Timestamp and Time Types.flv,6.84,M
+11. Storage Engines/11.01. Storage Engine Basics.flv,7.19,M
+11. Storage Engines/11.02. Discovering Storage Engines.flv,7.02,M
+11. Storage Engines/11.03. MyISAM.flv,6.91,M
+11. Storage Engines/11.04. InnoDB.flv,6.72,M
+11. Storage Engines/11.05. Memory.flv,5.92,M
+11. Storage Engines/11.06. Example.flv,1.97,M
+11. Storage Engines/11.07. CSV.flv,4.09,M
+11. Storage Engines/11.08. Archive.flv,2.79,M
+11. Storage Engines/11.09. Federated.flv,4.69,M
+11. Storage Engines/11.10. Blackhole.flv,2.26,M
+11. Storage Engines/11.11. Third Party Engines.flv,2.75,M
+12. Exporting Data/12.01. Basic Export Concepts.flv,3.15,M
+12. Exporting Data/12.02. Exporting Using SQL Commands pt. 1.flv,6.35,M
+12. Exporting Data/12.03. Exporting Using SQL Commands pt. 2.flv,5.76,M
+12. Exporting Data/12.04. Exporting on the Shell Command Line.flv,6.25,M
+12. Exporting Data/12.06. Using MySQLDUMP for Exporting.flv,12.26,M
+13. Prepared Statements/13.01. Prepared Statement Basics.flv,7.91,M
+13. Prepared Statements/13.02. Prepared Statement Demonstration.flv,8.45,M
+13. Prepared Statements/13.03. Commands That Can Be Prepared.flv,3.72,M
+13. Prepared Statements/13.04. When to Use Them.flv,3.87,M
+14. Server Information/14.01. Metadata.flv,6.98,M
+14. Server Information/14.02. SHOW Commands.flv,8.25,M
+14. Server Information/14.03. DESCRIBE Command.flv,3.35,M
+14. Server Information/14.04. MySQLSHOW Command Line Client.flv,7.02,M
+14. Server Information/14.05. Information_Schema Database pt. 1.flv,4.87,M
+14. Server Information/14.06. Information_Schema Database pt. 2.flv,7.38,M
+15. Conclusion/15.01. What We Covered.flv,3.16,M
+15. Conclusion/15.02. Where to Go from Here.flv,3.22,M
+16. Credits/16.01. About the Author.flv,2.72,M
+mysql5dev1.zip,12.74,K
+VTC - MySQL 5 Development - Part 1.nfo,5.22,K

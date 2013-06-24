@@ -1,0 +1,10 @@
+
+What's in this version:
+3.0.10: Keyboard issue fixed, stability improvements
+3.0.3:
+- New design was implemented. Hope you enjoy it;
+- Fixed vector problems;
+- Fixed '0 as a divisor' problem;
+- Fixed matrix problems.
+2.1.0: New functionality was added - the derivatives. New localization - Italian. Fixed several bugs
+2.0.6: Stability fixes

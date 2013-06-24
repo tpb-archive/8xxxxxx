@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,Whiss73,2013-06-02T23:38Z,"this wont install. Something wrong with the installer.
+Thx for the up anyways.."
+,terroncro,2013-06-04T16:30Z,"it will install, only you must extract it using some kind ISO reader or something like that (magicISO is what I use). After you extract it, rename all setup-1.bin into install-1.bin watch out that your numbers at the end of word setup match with the one in the renamed install-""number"".bin like
+
+setup-1.bin = install-1.bin
+setup-2.bin = install-2.bin
+.....etc..."
+,Timbo6669,2013-06-09T01:00Z,"dam...terroncro is right...wish i read his comment before i tried to install...figured it out myself but took over half an hour doing different thing..oh well, it works now..."

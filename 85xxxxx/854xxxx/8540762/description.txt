@@ -1,0 +1,19 @@
+RKill is a program that was developed at BleepingComputer.com that attempts to terminate known malware processes so that your normal security software can then run and clean your computer of infections. 
+When RKill runs it will kill malware processes and then removes incorrect executable associations and fixes policies that stop us from using certain tools. 
+When finished it will display a log file that shows the processes that were terminated while the program was running.
+
+As RKill only terminates a program's running process, and does not delete any files, after running it you should not reboot your computer as any malware processes that are configured to start automatically will just be started again. 
+Instead, after running RKill you should immediately scan your computer using some sort of anti-malware or anti-virus program so that the infections can be properly removed.
+
+
+
+
+Operating System:	Windows XP/Vista/7/8 
+Can be used on both 32-bit and 64-bit operating systems.
+
+
+Version: 2.5.3
+Release date: 03.06.2013.
+
+Homepage: 
+http://www.bleepingcomputer.com/download/rkill/

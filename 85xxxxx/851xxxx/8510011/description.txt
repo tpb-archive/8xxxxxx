@@ -1,0 +1,64 @@
+This is an original CAM with cleaned up Intro and End Credits.
+
+V9 A9 in my opinion.
+Sorry for large file, didn't want to jeopardize quality, so encoded at 2MBps.
+
+General
+Complete name                    : H:FILESProjects - ToDo20130524_1500 Project Movie Star Trek 2013 Into Darkness Cam99 BuildsStar Trek (2013) Into Darkness 720p CAM MUPStar Trek (2013) Into Darkness - Movie 720p CAM by MUP AVC MP4.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 3.49 GiB
+Duration                         : 2h 7mn
+Overall bit rate                 : 3 930 Kbps
+Encoded date                     : UTC 2013-05-26 02:53:34
+Tagged date                      : UTC 2013-05-26 02:53:34
+Cover                            : Yes
+
+Video
+ID                               : 2
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Format settings, GOP             : M=2, N=15
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 2h 7mn
+Bit rate mode                    : Variable
+Bit rate                         : 3 793 Kbps
+Maximum bit rate                 : 4 000 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.137
+Stream size                      : 3.37 GiB (97%)
+Language                         : English
+Encoded date                     : UTC 2013-05-26 02:53:34
+Tagged date                      : UTC 2013-05-26 02:53:34
+
+Audio
+ID                               : 1
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 2h 7mn
+Bit rate mode                    : Constant
+Bit rate                         : 128 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 116 MiB (3%)
+Language                         : English
+Encoded date                     : UTC 2013-05-26 02:53:34
+Tagged date                      : UTC 2013-05-26 02:53:34
+

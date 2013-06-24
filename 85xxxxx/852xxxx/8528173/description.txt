@@ -1,0 +1,33 @@
+Xamarin.Android 4.6.07004 Patched Executable
+
+--------------------------------------
+Product: Xamarin.Android
+Website: http://xamarin.com/
+--------------------------------------
+
+INSTRUCTIONS
+
+1. Copy "mandroid.exe" to "C:Program Files (x86)MSBuildXamarinAndroid" (or "C:Program FilesMSBuildXamarinAndroid" if you are on a 32-bit operating system)
+2. Run keygen.exe to generate the incomplete license file.
+
+PREREQUISITES & NOTES
+
+- This patch only supports: [Xamarin.Android 4.6.07004]
+- You need Visual Studio Professional (2010/2012) or better to use the extensions from Xamarin.
+
+INDEPENDANT INSTALLERS
+
+Download and install in the following order:
+
+1. JDK 6 - http://www.oracle.com/technetwork/java/javase/downloads/jdk6downloads-1902814.html
+2. Android SDK - http://dl.google.com/android/installer_r22.0.1-windows.exe
+3. Android NDK - http://dl.google.com/android/ndk/android-ndk-r8e-windows-x86.zip
+4. GTK# - http://download.xamarin.com/GTKforWindows/Windows/gtk-sharp-2.12.21.msi
+5. Xamarin Studio - http://download.xamarin.com/studio/Windows/XamarinStudio-4.0.8.msi
+5. Xamarin.Android - http://download.xamarin.com/MonoforAndroid/Windows/mono-android-4.6.07004.msi
+6. Xamarin.iOS - http://download.xamarin.com/MonoTouchforVisualStudio/Windows/mtvs-1.1.200.0.msi
+
+
+
+
+ENJOY! If you like the software, buy it!

@@ -1,0 +1,18 @@
+Easy & fastest tool to install apps(.apk) from SD card.
+Feature
+*Install apps from SD card
+*Delete apps from SD card
+*Batch install & delete
+*Filter apps by name
+*Various sort mode
+*Send apps to friends by email
+*Search apps in Google Market
+*Efficient cache mechanism
+*Support froyo & Gingerbread
+***************************
+INFOLIFE, Make Life Easier!
+***************************
+#Description
+Easy Installer is a tool to install apps from apk files on SD card. It will list all the apk files on the SD card, and you can select apps that want to install, and click "Install Selected Apps" button to install them. You can type the keyword in the textbox in the top to search the apps that you want to install, and you can click "Menu"-&gt;"Sort" to sort apps in different sort types. Long click on the specified app in the list, there will be a poped up context menu to provide more options. You can send the apk files by email by click "Send", and you can search the app in the google market by click "Search Google Market".
+If there is a apk file on the SD card but you cannot find it in the app list, you can just clear scan cache in setting, and restart the app, it will re-scan the apk files on the SD card again and rebuild the cache of apk files to install.
+Any problem, it is better to send feedback to us to get help then 1 star!

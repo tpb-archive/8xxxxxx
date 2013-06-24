@@ -1,0 +1,190 @@
+﻿Filename,Size,Unit
+0101.What You Will Learn In This Course.mp4,52.17,M
+0102.Setting Up The Workspace And Preferences.mp4,13.05,M
+0103.Organizing The Working Files.mp4,1.79,M
+0104.Walking Through A Basic 3D Project.mp4,32.43,M
+0201.Using The 3D Camera To Move The Ground Plane.mp4,139.9,M
+0202.Using The Cage To Move A 3D Object.mp4,57.43,M
+0203.Using The Widget To Move A 3D Object.mp4,50.6,M
+0204.Using Numeric Values To Move A 3D Object.mp4,16.47,M
+0205.Examining 3D Depth Of Field And Field Of View.mp4,64.11,M
+0206.Using The Secondary View.mp4,23.58,M
+0301.Making 2D Layers In 3D Space.mp4,45.6,M
+0302.Using Presets To Create 3D Meshes.mp4,62.01,M
+0303.Using A Depth Map To Build A Mesh.mp4,32.18,M
+"0304.Extruding Text, Brush Strokes, And Shapes.mp4",68.93,M
+0305.Adding Internal Constraints On Extruded Objects.mp4,22.33,M
+"0306.Using Deform To Twist, Taper, Bend, And Shear Extruded Objects.mp4",49.91,M
+"0307.Using Cap To Bevel, Inflate, Or Deflate Extruded Objects.mp4",29.61,M
+0308.Making 3D Objects From Everyday Items.mp4,41.48,M
+0401.Extruding And Editing 3D Text.mp4,26.79,M
+0402.Warping 3D Text.mp4,9.99,M
+"0403.Deforming 3D Text Twist, Taper, Bend And Shear.mp4",39.03,M
+0404.Using Cap Properties On 3D Text And Internal Constraints.mp4,33.68,M
+0405.Splitting Text Into Individual Objects.mp4,22.45,M
+0406.Distorting And Extruding Text.mp4,15.22,M
+0501.Reviewing Materials And Downloading Extra Sets.mp4,22.31,M
+0502.Using Materials Presets.mp4,37.01,M
+0503.Rendering Changes To Check Your Work.mp4,25.05,M
+0504.Applying Diffuse Material Textures To 3D Objects.mp4,36.89,M
+0505.Positioning Materials Using Overlays Or A Checkerboard.mp4,51.1,M
+0506.Fixing Seams In Textures.mp4,38.51,M
+"0507.Adjusting Colors For Specular, Illumination, And Ambient Materials.mp4",20.16,M
+"0508.Adjusting Shine, Reflection, And Roughness.mp4",26.93,M
+0509.Using A Bump Map To Give An Object Texture.mp4,29.25,M
+0510.Adjusting Opacity And Refraction.mp4,26.76,M
+0511.Giving A 3D Object An Environment Texture File.mp4,36.09,M
+0601.Changing 3D Layer And 3D Object Ambient Colors.mp4,21.17,M
+0602.Adjusting Image-Based Light Color Settings.mp4,18.63,M
+0603.Using Adobe-Created And Custom IBL Texture Files.mp4,62.01,M
+0604.Working With Standard And Custom Ground Planes.mp4,20.56,M
+0605.Working With The Scene Cross Section Property.mp4,32.82,M
+0701.Overview Of The Three Standard 3D Lights.mp4,24.22,M
+0702.Using The Infinite Light.mp4,28.62,M
+0703.Using The Point Light.mp4,51.44,M
+0704.Using The Spot Light.mp4,56.01,M
+0705.Using Multiple Lights And Lighting Presets.mp4,27.12,M
+0802.Giving A Photo A Frame.mp4,40.54,M
+0803.Creating A Glass.mp4,39.31,M
+0804.Creating A Window Frame With Tinted Glass.mp4,23.14,M
+0805.Merging Spheres For A Cross Section.mp4,23.27,M
+0806.Using Cross Section To Place A 2D Or 3D Layer Inside A 3D Object.mp4,46.42,M
+0807.Using An Opacity Texture File.mp4,23.31,M
+0808.Creating Shadow Catchers To Match Background Perspective.mp4,35.33,M
+0901.Checking Out Resources And Compatible File Types.mp4,9.63,M
+0902.Opening Existing 3D Models In Photoshop.mp4,29,M
+0903.Using The Vanishing Point Filter To Place Objects In A Scene.mp4,61.44,M
+0904.Making Changes To Third Party 3D Models.mp4,38.59,M
+0905.Dealing With Common Third Party 3D Model Issues.mp4,29.34,M
+1001.Introducing Keyframe Animations.mp4,19.84,M
+1002.Working With Some Motion Animation Projects.mp4,39.12,M
+1003.Moving The Camera And Lights.mp4,22.25,M
+1004.Altering Material And Cross Section Properties Over Time.mp4,15.21,M
+1101.Performing A Final Still Image Render.mp4,12.95,M
+1102.Exporting 3D Layers As Standard 3D File Types.mp4,36.4,M
+1103.Exporting Animations As Video Files.mp4,16.52,M
+1104.Exporting Animations As DPX And Photoshop Image Sequences.mp4,23.98,M
+1201.Acknowledgements.mp4,4.1,M
+"1202.Author Bio, Resources, And Goodbye.mp4",8.19,M
+Working Files/NASA files/earth-1.jpg,1.21,M
+Working Files/NASA files/jupiter.jpg,220.58,K
+Working Files/NASA files/mars-topo.tiff,32.26,M
+Working Files/NASA files/mars.jpg,950.09,K
+Working Files/NASA files/saturn.jpg,269.27,K
+Working Files/NASA files/sheldon-glacier.jpg,143.99,K
+Working Files/NASA files/space-shuttle/Textures/OMS-pod-prt.jpg,279.73,K
+Working Files/NASA files/space-shuttle/Textures/OMS-pod-stb.jpg,280.53,K
+Working Files/NASA files/space-shuttle/Textures/baytile.jpg,292.93,K
+Working Files/NASA files/space-shuttle/Textures/belly-flap.jpg,432.7,K
+Working Files/NASA files/space-shuttle/Textures/belly.jpg,31.82,K
+Working Files/NASA files/space-shuttle/Textures/bulkhead-aft.jpg,309.18,K
+Working Files/NASA files/space-shuttle/Textures/bulkhead-fwd.jpg,334.04,K
+Working Files/NASA files/space-shuttle/Textures/canada.tif,10.54,K
+Working Files/NASA files/space-shuttle/Textures/canadam.tif,6.87,K
+Working Files/NASA files/space-shuttle/Textures/fusolage-aft-engines-b.jpg,101.29,K
+Working Files/NASA files/space-shuttle/Textures/fusolage-aft-engines.jpg,230.85,K
+Working Files/NASA files/space-shuttle/Textures/reflection1.tif,104.92,K
+Working Files/NASA files/space-shuttle/Textures/reflection2.tif,184.38,K
+Working Files/NASA files/space-shuttle/Textures/reflection3.tif,371.23,K
+Working Files/NASA files/space-shuttle/Textures/shut-doors-side.jpg,21.36,K
+Working Files/NASA files/space-shuttle/Textures/shut-doors-top.jpg,85.37,K
+Working Files/NASA files/space-shuttle/Textures/side-prt-A.tif,251.92,K
+Working Files/NASA files/space-shuttle/Textures/side-prt-D.tif,251.01,K
+Working Files/NASA files/space-shuttle/Textures/side-prt.jpg,52.94,K
+Working Files/NASA files/space-shuttle/Textures/side-stb-A.tif,255.16,K
+Working Files/NASA files/space-shuttle/Textures/side-stb-D.tif,252.35,K
+Working Files/NASA files/space-shuttle/Textures/side-stb.jpg,54.83,K
+Working Files/NASA files/space-shuttle/Textures/tail.jpg,322.52,K
+Working Files/NASA files/space-shuttle/Textures/tile-patch.jpg,125.46,K
+Working Files/NASA files/space-shuttle/Textures/tmptop.jpg,224.92,K
+Working Files/NASA files/space-shuttle/Textures/wing-flap-top.jpg,157.3,K
+Working Files/NASA files/space-shuttle/Textures/wingtop-A.tif,223.95,K
+Working Files/NASA files/space-shuttle/Textures/wingtop-D.tif,225.14,K
+Working Files/NASA files/space-shuttle/Textures/wingtop.jpg,138.67,K
+Working Files/NASA files/space-shuttle/Textures/wireframe.srf,57.42,K
+Working Files/NASA files/space-shuttle/Textures/wrinkles-b.tif,180.66,K
+Working Files/NASA files/space-shuttle/Textures/wrinkles.tif,238.26,K
+Working Files/NASA files/space-shuttle/door-prt.3ds,9.17,K
+Working Files/NASA files/space-shuttle/door-stb.3ds,9.15,K
+Working Files/NASA files/space-shuttle/eng.3ds,113.97,K
+Working Files/NASA files/space-shuttle/rcs.3ds,113.97,K
+Working Files/NASA files/space-shuttle/shut.3ds,467.38,K
+Working Files/NASA files/star-field-1.jpg,207.95,K
+Working Files/NASA files/star-field-2.jpg,205.86,K
+Working Files/NASA files/venus.jpg,1.11,M
+Working Files/PhotoSpin images/aquarium.jpg,4.2,M
+Working Files/PhotoSpin images/flowers.jpg,5.38,M
+Working Files/PhotoSpin images/horse-pasture-1.jpg,5.09,M
+Working Files/PhotoSpin images/horse-pasture-2.jpg,12.36,M
+Working Files/PhotoSpin images/jungle-lo-res.jpg,3.13,M
+Working Files/PhotoSpin images/jungle.jpg,7.4,M
+Working Files/PhotoSpin images/light-graphics.jpg,4.78,M
+Working Files/PhotoSpin images/man+boy.jpg,6.42,M
+Working Files/PhotoSpin images/place-setting-1.jpg,1.11,M
+Working Files/PhotoSpin images/place-setting-2.jpg,2.49,M
+Working Files/PhotoSpin images/place-setting-3.jpg,1.72,M
+Working Files/PhotoSpin images/room-1.jpg,7.74,M
+Working Files/PhotoSpin images/room-2.jpg,7.7,M
+Working Files/PhotoSpin images/tropical-beach.jpg,7.37,M
+Working Files/PhotoSpin images/wood-bowl-1.jpg,1.96,M
+Working Files/PhotoSpin images/wood-bowl-2.jpg,4.52,M
+Working Files/Photoshop projects/Jupiter.psd,19.54,M
+Working Files/Photoshop projects/animate-materials.psd,5.61,M
+Working Files/Photoshop projects/antarctic-ice.psd,21.68,M
+Working Files/Photoshop projects/bottle-silhouette.psd,74.19,K
+Working Files/Photoshop projects/camera.psd,53.88,M
+Working Files/Photoshop projects/checkerboard-numbers.psd,673.39,K
+Working Files/Photoshop projects/checkerboard.psd,116.84,K
+Working Files/Photoshop projects/cheeseburger.psd,50.29,M
+Working Files/Photoshop projects/cross-section.psd,23.16,M
+Working Files/Photoshop projects/depth-of-field.psd,185.14,M
+Working Files/Photoshop projects/final-render.psd,48.44,M
+Working Files/Photoshop projects/glass.psd,14.43,M
+Working Files/Photoshop projects/globe-rotation.psd,115.86,M
+Working Files/Photoshop projects/ground-plane.psd,14.51,M
+Working Files/Photoshop projects/horse-in-pasture-1.psd,73.08,M
+Working Files/Photoshop projects/horse-in-pasture-2.psd,92.52,M
+Working Files/Photoshop projects/ibl-file.psd,5.93,M
+Working Files/Photoshop projects/lighting.psd,66.36,M
+Working Files/Photoshop projects/materials.psd,44.67,M
+Working Files/Photoshop projects/model-issues.psd,231.05,M
+Working Files/Photoshop projects/mountains.psd,11.18,M
+Working Files/Photoshop projects/move-cage.psd,57.89,M
+Working Files/Photoshop projects/move-numeric.psd,109.04,M
+Working Files/Photoshop projects/move-widget.psd,113.38,M
+Working Files/Photoshop projects/opacity.psd,8.24,M
+Working Files/Photoshop projects/placing-cross-section.psd,15.57,M
+Working Files/Photoshop projects/placing-opacity.psd,23.9,M
+Working Files/Photoshop projects/postcard.psd,76.29,M
+Working Files/Photoshop projects/render-animation.psd,2.5,M
+Working Files/Photoshop projects/render.psd,3.32,M
+Working Files/Photoshop projects/secondary-view.psd,5.26,M
+Working Files/Photoshop projects/shadow-catcher-curved.psd,42.2,M
+Working Files/Photoshop projects/shadow-catcher-flat.psd,50.71,M
+Working Files/Photoshop projects/space-shuttle.psd,56.2,M
+Working Files/Photoshop projects/stages.psd,7.22,M
+Working Files/Photoshop projects/window-frame.psd,9.22,M
+Working Files/Third-party 3D models/arowana-3ds/AsiaArT.bmp,192.05,K
+Working Files/Third-party 3D models/arowana-3ds/AsiaArowana.jpg,56.13,K
+Working Files/Third-party 3D models/arowana-3ds/AsiaArowana0.3ds,151.82,K
+Working Files/Third-party 3D models/arowana-3ds/asia.mtl,411,B
+Working Files/Third-party 3D models/green-apples-3ds/mpm_F_04.3DS,273.55,K
+Working Files/Third-party 3D models/green-apples-3ds/mpm_F_04_apple_diff.JPG,527.25,K
+Working Files/Third-party 3D models/horse-obj/Hair12Main2k.png,7.07,M
+Working Files/Third-party 3D models/horse-obj/Hair12Main2kNorm.png,3.2,M
+Working Files/Third-party 3D models/horse-obj/Horse.obj,650.86,K
+Working Files/Third-party 3D models/horse-obj/HorseMain2k00.png,4.15,M
+Working Files/Third-party 3D models/horse-obj/HorseMain2k00AO00.png,835.11,K
+Working Files/Third-party 3D models/horse-obj/HorseMain2k00Norm00.png,1.73,M
+Working Files/Third-party 3D models/horse-obj/LD_HorseRtime02.mtl,795,B
+Working Files/Third-party 3D models/horse-obj/eye_texture.png,167.78,K
+Working Files/Third-party 3D models/oil-and-vinegar-carafe-obj/mpm_vol.05_p02.OBJ,1.97,M
+Working Files/Third-party 3D models/oil-and-vinegar-carafe-obj/mpm_vol.05_p02_preview_01.jpg,31.93,K
+Working Files/Third-party 3D models/red-apple-3ds/Apple-3DS.3DS,872.32,K
+Working Files/Third-party 3D models/red-apple-3ds/Apple_Texture_by_AGF81.jpg,696.84,K
+Working Files/Third-party 3D models/red-apple-3ds/Copy of Apple_Texture_by_AGF81.jpg,36.93,K
+Working Files/Third-party 3D models/red-apple-3ds/apple6-1.jpg,13.95,K
+Working Files/Third-party 3D models/red-apple-3ds/apple6.jpg,13.19,K
+Working Files/Third-party 3D models/treasure-chest-dae/chest.dae,1.3,M
+Working Files/Third-party 3D models/treasure-chest-dae/textura.jpg,171.49,K
+Working Files/Working Files - README.txt,256,B

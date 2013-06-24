@@ -1,0 +1,50 @@
+Intel Composer XE 2013 is a performance-oriented developer tool that includes Intel C++ and Fortran compilers, and threading, math, multimedia and signal processing performance libraries.
+
+- Industry-leading Intel C++ and Fortran compilers are up to 146% faster than alternatives and compatible with Microsoft Visual C++* and gcc*.
+
+- Intel Cilk Plus and Intel Threading Building Blocks 4.1 provide parallelism models to make it easier to take advantage of today and tomorrowΓÇÖs high-performance computing systems.
+
+- Industry-leading Intel Math Kernel Library 11.0 and Intel Integrated Performance Primitives 7.1 include a wealth of routines to improve performance and cut development time.
+
+- Compatible with leading development environments and compilers on Windows*, Linux* and Mac OS* X.
+
+
+
+Intel Advisor XE 2013 is a threading assistant for C, C++, C# and Fortran developers. It finds regions with the greatest performance potential from parallelism and identifies critical synchronization issues.
+
+- Evaluate alternatives before investing in implementation.
+
+- Estimate the speed-up.
+
+- Identify correctness issues.
+
+- Select the options with the best return on investment.
+
+
+
+Intel VTune Amplifier XE 2013 is the premier performance and thread profiler to tune your applicationΓÇÖs performance.
+
+- Profile C, C++, C#, Fortran, Assembly and Java*.
+
+- Receive rich performance data for hotspots, threading, locks & waits, DirectX*, bandwidth and more.
+
+- Sort, filter and visualize results on the timeline and on your source.
+
+- Use command line input to automate regression tests and make remote collection easy.
+
+
+
+Intel Inspector XE 2013 is an easy to use memory and threading error detector for serial and parallel applications on Windows* and Linux*.
+
+- Inspect C, C++, C#, F# and Fortran.
+
+- Require no special builds. Use your normal build.
+
+Static analysis for C, C++ and Fortran developers is included in Intel┬« Studio XE products.
+
+- Locate difficult to find defects that cause crashes and run-time errors.
+
+- Test all code paths automatically without test cases, complementing Intel 
+Inspector XEΓÇÖs dynamic analysis.
+ 
+http://image.bayimg.com/d1561e7b4ff65366699561cf87a4f693619b698b.jpg

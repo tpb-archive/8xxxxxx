@@ -1,0 +1,5 @@
+The latest version of Project Zomboid.
+
+Run the game through the RUN.bat file.
+
+If the game doesn't run for you make sure that the location of java.exe can be found in the PATH system variable (http://www.java.com/en/download/help/path.xml) and that you have the latest version of Java.

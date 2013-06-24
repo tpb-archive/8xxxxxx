@@ -1,0 +1,169 @@
+           SketchUp Pro 2013 13.0 3689 Installer/Patcher - 2010kaiser
+           ==========================================================
+
+
+
+
+Who uses SketchUp Pro?:
+======================
+
+Hundreds of thousands of professionals in (take a deep breath) architecture, construction, engineering, commercial interiors, light construction, landscape architecture, kitchen and bath design, urban planning, game design, film and stage, woodworking, and plenty of other fields use SketchUp Pro all the time, every day. Its the all-purpose antidote to complicated, expensive CAD software.
+
+A smarter way to think about 3D modeling:
+========================================
+
+SketchUp Pro is like a pencil with superpowers. Start by drawing lines and shapes. Push and pull surfaces to turn them into 3D forms. Stretch, copy, rotate and paint to make anything you like. More advanced? Start modeling from CAD and terrain data, photographs or even hand sketches. Build models with custom behaviors and attributes. SketchUp Pro is as simple and as powerful as you want it to be.
+
+Turn your models into drawings with LayOut:
+===========================================
+
+At some point in every project, you need to produce a set of drawings that shows your model: plans, sections, elevations, perspectives. LayOut in SketchUp Pro lets you add model views to pages, choose drawing scales, adjust line weights and add dimensions, callouts and graphics. Changes to your model are reflected automatically in LayOut. When its time, export PDFs, images and CAD files.
+
+Get good, fast:
+==============
+
+Theres a reason SketchUp is synonymous with friendly and forgiving 3D modeling software: we dont sacrifice usability for the sake of functionality. With handy contextual tips, a dedicated Instructor panel for beginners, and mountains of online resources, help is always on the way. And just in case, every SketchUp Pro license includes a year of free technical support.
+
+No software is an island:
+=========================
+
+We built SketchUp Pro to slide right into your existing workflow. Ready for some alphabet soup? With importers for DXF, DWG, 3DS, DAE, KMZ, TIF, JPG, PNG and a few more, you can bring in drawings, models and images to your hearts content. SketchUp Pro also exports all of those formats, plus PDF, OBJ, FBX, XSI, VRML, MP4, WEBM and AVI. OMG.
+
+
+New Features and FYI:
+=====================
+
+-An Extension Warehouse has been created and integrated with SketchUp. Users can now manage hundreds of extensions installed on their computer via the Extension Warehouse.
+-The word ΓÇ£SketchUpΓÇ¥ now refers to a product family of which there are two members: SketchUp Pro and SketchUp Make.
+-Toolbars for SketchUp on Windows operating systems have been improved. They are now customizable and more reliably stay put once they have been docked.
+-Scene-based animations can now be exported to high-quality video from SketchUp.
+-Toolbars and cursors have been updated and made consistent between SketchUp, LayOut, Style Builder and SketchUp Viewer.
+-We have a new SDK. See the ΓÇ£getting_started.htmlΓÇ¥ and ΓÇ£migration_guide.htmlΓÇ¥ in the SDK package for details.
+-Lots of little tweaks, bugs fixes and improvements were made to existing features.
+-SketchUp no longer will take a long time to open and close with an unstable Internet connection.
+-(Mac) SketchUp does not support OS X 10.6 and older versions of OS X. Users with these platforms will see an error on launch.
+-(Windows) XP SP3 is now required to run SketchUp on XP.
+
+Extension warehouse/Ruby plugins:
+=================================
+
+-We are installing only the following extensions with the product : Advanced Camera Tools, Dynamic Components, Sandbox Tools, Photo Textures. The other SketchUp 8 extensions (Ruby Script Examples, Ocean Modeling, Utilities Tools, Shadow Strings Fix toolbar, Solar North toolbar) are available for download on the Extension Warehouse.
+-The plugins directory on the Mac has moved to ~/Library/Application Support/SketchUp 2013/SketchUp. We no longer install anything into the Macintosh HD/Library/Application Support/SketchUp directory.
+
+
+
+
+         N.B. THIS INSTALLER MUST BE RAN AS ADMINISTRATOR
+                                                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+INSTALLATION INSTRUCTIONS:
+==========================
+
+1. Disconnect your Internet and disable your Network Adapters.
+
+
+2. Click on the Application TAB to install SketchUp Pro 2013 13.0 (B-3689)
+
+
+3. When installation is complete, close the application.
+
+4. One at a time, copy the Patches into their respective software installation directories, right click on them, one at a time and select "Run As Administrator". Normal location for the software installation directories are listed below:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+SketchUp PATCH:
+***************
+
+
+x86 (32bit) operating systems:
+==============================
+
+
+C:Program FilesSketchUpSketchUp 2013
+
+
+x64bit operating systems:
+========================
+
+
+C:Program Files (x86)SketchUpSketchUp 2013
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+LayOut PATCH:
+*************
+
+
+x86 (x32bit) operating systems:
+===============================
+
+
+C:Program FilesSketchUpSketchUp 2013LayOut
+
+
+x64bit operating systems:
+=========================
+
+
+C:Program Files (x86)SketchUpSketchUp 2013LayOut
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Style Builder PATCH:
+********************
+
+
+x86 (x32bit) operating systems:
+===============================
+
+
+C:Program FilesSketchUpSketchUp 2013Style Builder
+
+
+x64bit operating systems:
+=========================
+
+
+C:Program Files (x86)SketchUpSketchUp 2013Style Builder
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     
+
+5. Once installation is complete. Block the application in Windows FireWall with ingoing/outgoing rules, and don't update. EVER!!!
+
+
+
+
+ENJOY AND SEED!!!
+
+
+  
+
+2010kaiser home page at The Pirate Bay link below:
+
+  
+http://thepiratebay.se/user/2010kaiser/
+
+
+Check out the new PirateWiki! Where knowledge is shared ;-)
+
+           
+https://forum.suprbay.org/wiki/index.php?title=Portal:Main_Page
+
+
+For re-seed requests, help, support or anything else relating to The Pirate Bay. You'll find it all, and more, at suprbay. The official support forum of The Pirate Bay. Visit it at the link below:
+
+  
+https://forum.suprbay.org/ 
+
+
+ENJOY AND SEED!!!

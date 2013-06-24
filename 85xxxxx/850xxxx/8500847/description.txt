@@ -1,0 +1,55 @@
+screens;
+ 
+http://baypic.net/img-519da11891ee7.html 
+ 
+http://baypic.net/img-519da11acc67e.html 
+ 
+http://baypic.net/img-519da11d1a3fb.html 
+
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 2.92 GiB
+Duration : 33mn 10s
+Overall bit rate : 12.6 Mbps
+Writing application : Lavf54.37.100
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 33mn 10s
+Bit rate : 12.0 Mbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.193
+Stream size : 2.77 GiB (95%)
+Tagged date : UTC 2013-05-17 08:13:42
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 33mn 10s
+Duration_LastFrame : 33ms
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 30.4 MiB (1%)

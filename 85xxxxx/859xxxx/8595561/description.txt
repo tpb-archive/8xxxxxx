@@ -1,0 +1,66 @@
+Generale
+Nome completo : C:VIDEO_TSVTS_17_0.IFO
+Formato : DVD Video
+Profilo formato : Program
+Dimensione : 78,0 KiB
+Durata : 1o 58min
+Modo bitrate generale : Variabile
+Bitrate totale : 90 bps
+
+Video
+ID : 224 (0xE0)
+Formato : MPEG Video
+Versione formato : Version 2
+Durata : 1o 58min
+Modalità bitrate : Variabile
+Larghezza : 720 pixel
+Altezza : 576 pixel
+Rapporto aspetto visualizzazione : 16:9
+Frame rate : 25,000 fps
+Standard : PAL
+Modo compressione : Con perdita
+
+Audio #1
+ID : 128 (0×80)
+Formato : AC-3
+Formato/Informazioni : Audio Coding 3
+Durata : 1o 58min
+Canali : 6 canali
+Sampling rate : 48,0 KHz
+Modo compressione : Con perdita
+Lingua : Italiano
+
+Audio #2
+ID : 129 (0×81)
+Formato : AC-3
+Formato/Informazioni : Audio Coding 3
+Durata : 1o 58min
+Canali : 6 canali
+Sampling rate : 48,0 KHz
+Modo compressione : Con perdita
+Lingua : Inglese
+
+Testo
+ID : 32 (0×20)
+Formato : RLE
+Formato/Informazioni : Run-length encoding
+Profondità bit : 2 bit
+Lingua : Italiano
+
+Menu
+Durata : 1o 58min
+00:00:00.000 : Chapter 1
+00:10:46.880 : Chapter 2
+00:21:16.080 : Chapter 3
+00:29:02.000 : Chapter 4
+00:37:21.200 : Chapter 5
+00:51:43.360 : Chapter 6
+01:00:23.880 : Chapter 7
+01:11:34.160 : Chapter 8
+01:20:43.280 : Chapter 9
+01:33:12.080 : Chapter 10
+List (Audio) : 0 / 1
+List (Subtitles 4/3) : 0
+List (Subtitles Wide) : 0
+List (Subtitles Letterbox) : 1
+List (Subtitles Pan&Scan) : 0

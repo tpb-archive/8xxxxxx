@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,PapaQuebec,2013-06-11T19:16Z,Can't get keygen to create a license for HoudiniFX
+,th1nkm4rk,2013-06-15T03:24Z,"Follow this installation step by step.
+
+
+1. Unzip and unrar to a temp directory
+2. Start installation
+
+BEFORE STARTING HOUDINI:
+
+3. Stop HoudiniLicenseServer (from  services)
+4. Copy sesinted.exe from Crack dir to c:windowssystem32 (overwrite)
+5. Start HoudiniLicenseServer (from  services)
+
+6.Licensing:
+  Launch the License Administrator.
+  In the Server Information tab you will find your Server Name & Server Code
+
+  Launch Houdini Keygen 
+  Enter your Server Name & Server Code 
+  and generate your license keys ...
+
+  Go back to the License Administrator 
+  Select File/Manually Enter Keys...
+  Copy paste the keys you generated, 5 by 5 .
+  Key string #1 should be SERVER your_server_name server_code ..... "

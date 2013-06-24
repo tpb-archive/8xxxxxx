@@ -1,0 +1,23 @@
+May be the best configuration for such software is to make torrent with ~13000
+files inside and keep updating this directory from mirrors. Unfortunately
+in this case .torrent file is 1,5 Mb size and TPB refuse to accept it.
+So here is one .iso file with packages.
+
+Installation:
+  According to this http://cygwin.com/ml/cygwin/2013-05/msg00211.html,
+  packages *desktop-file-utils* and *shared-mime-info* need to be installed,
+  otherwise 'cygutils.sh exit code 127' error occurs.
+
+* Mount iso image (for example with http://www.daemon-tools.cc)
+* Run '&lt;DISK&gt;:setup-1.7.18-1.exe'
+* Choose a download source - 'Install from Local Directory'
+* Select local package directory - '&lt;DISK&gt;:packages'
+* (Loading setup.ini may take a long time)
+
+Include:
+* gcc 4.7.2
+* git 1.7.9
+* cmake 2.8.9
+...
+ 
+http://www.cygwin.com/

@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,NeonYouki,2013-05-30T10:43Z,"I'll seed this for one week or to 100%, whichever is longer."
+,NeonYouki,2013-05-31T22:04Z,"Fuck this.  I created an encrypted torrent and all because I didn't stop the download when I restarted my computer, I can't get uTorrent to upload the files anymore.  I'm not going to bother seeding this anymore unless someone can tell me how to get around uTorrent's fucked up bug."
+,Traevor,2013-06-01T05:36Z,Can you seed this? 
+,NeonYouki,2013-06-01T10:06Z,"@Traevor - Please read the preceding comments.  I CAN'T seed this due to uTorrent adding a bug in their code that makes it so that when you encrypt a torrent and try to restart the torrent seeding again, it won't pick up on the fact that the files are the same ones that it insists on downloading.
+
+As the encryption method on a torrent is meant to make the torrent traffic unrecognizable, there should be a key in the torrent as part of a header or something.  This means that uTorrent needs to read the list of file names from the decrypted torrent file and recognize that they already exist on the system.  Instead, it gives you a file with random characters and no extension signifying that it's encrypted.  Thus, uTorrent fails to realize that the files already exist and proceeds to download them again."
+,NeonYouki,2013-06-02T22:52Z,"OK, so it seems that uTorrent messed up and used poor wording on their interface.  An encrypted torrent is when you need a key to access the torrent's content and that means that this torrent wouldn't have worked.  I have no idea what the ""Private Torrent"" option is there for then.  Anyway, I was told that Protocol Encryption is what I needed to use.  So apparently the data sent isn't encrypted before it's sent.  It's sent over an encrypted connection kind of like using WPA on WiFi.
+
+Anyway, that being said, I've posted a new torrent for this content and I'm using Protocol Encryption and not allowing unencrypted connections.  This obfuscates the traffic and makes it harder for an ISP to detect.  On a 70GB torrent, you kind of want that.  lol  Be sure to set your torrent client up appropriately or you can't get it from my machine and will need other seeders before you can get it.
+
+Download the new torrent at: https://thepiratebay.sx/torrent/8533515"

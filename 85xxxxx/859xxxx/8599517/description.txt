@@ -1,0 +1,44 @@
+"All-In-One" App Lock with Most Needed Features:
++ Remote-Lock: If you have misplaced your phone at office/home lock your apps and data through SMS.
++ Theft-Lock: If your mobile is stolen lock critical apps through SMS and make the phone unusable by the thief.
++ Protected SMS: Now your loved ones can send personal sms more freely.(See below 4 more details)
++ Widget: Before lending ur phone just touch this widget, all your preselected apps will be protected.
++ FakeCrash: Fool your friends who often tamper your apps/games by displaying a "Crash msg" instead of prompting for passcode.
++ Hide SMS Notification: Incoming SMS will not be notified in the notification bar.
++ Fake No SMS received: When active all your received SMS will remain unread in your Message inbox & Message App icon will not show you the newly received SMS count.So your friends will no more be tempted to open your incoming messages.
++ USBLock: Blocks data transfer from phone/sdcard thru USB.
++ Google Play: Blocks google play store.
++ Voice Alerts: Does someone tamper your phone after you fall asleep? Use voice alerts to notify when someone tries to unlock the protected apps.
++ Autorun on Reboot: Even if the phone is restarted your protected apps will remain protected.
+REMOTE-LOCK APPS
+================
+Go to App Settings-&gt;Remote-Settings-&gt;Set ur own Remote-Lock keyword (Default:PMPLock) Note:It's case insensitive. This keyword should be the starting word of your Remote-lock SMS followed by on/off and app names separated by space.
+Supported Apps for Remote Lock and its corresponding keywords:
+SETTINGS - settings
+TASK-MANAGER - taskmanager
+CONTACTS	- contacts
+GMAIL	 - gmail
+GTALK - gtalk
+GALLERY	- gallery
+PHONE	 - phone
+MESSAGE	- message
+MEMO	 - memo
+MAPS	 - maps
+USB	 - usb
+
+E.g:Remote-Lock SMS samples
+pmplock on - Starts Protection and will protect the preselected apps
+pmplock on contacts gallery usb - Starts Protection and will lock "contacts","gallery" & "usb" along with the preselected apps pmplock on fake gmail - Starts Protection and will display crash message when someone opens gmail and the preselected apps
+pmplock off - Stops Protection
+THEFT-LOCK
+===========
+In case your phone is stolen, your immediate action must be to secure your apps and data. So send the following SMS to your phone.
+pmplock on theft :This msg will start Privacy Master Premium in Theft-mode which will lock almost all apps and so your phone becomes unusable. Even if restarted it will protect your apps and data until the right Passcode is entered.
+RECEIVE PROTECTED SMS 
+======================
+All you need to do is to share your Remote-Lock keyword to your loved ones.
+Now they can send protected sms by having the keyword followed by "on" and their sms content.
+E.g:
+pmplock on message Hi, missing you.:(
+I sincerely thank u all for using my apps and also for providing me the valuable feedbacks and suggestions which is helping me to make 
+better apps. Looking forward for your support to Privacy Master Premium.

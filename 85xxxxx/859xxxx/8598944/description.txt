@@ -1,0 +1,28 @@
+This is full, ad-free version of BSPlayer multi media player with added functions.
+BSPlayer is media player for Android smartphones and tablet PC's, supporting hardware accelerated video decoding, automatic subtitle search and buffered network playback from SMB shares.
+Main features:
+- NO advertisements
+- Android 4.2 Jelly Bean MR1 compatibility
+- hardware accelerated video playback - significantly increases playback speed and reduces battery consumption, supporting multi-core (dual and quad-core) hardware decoding*
+- audio pre-amplification ("volume boost" - user definable up to 500%)
+- playback in popup window (audio and video)
+- support for almost any media filet ype (video and audio), such as: avi, divx, flv, mkv, mov, mpg, mts, mp4, m4v, rmvb, wmv, 3gp, mp3... and streaming content such as RTMP, RTSP, MMS (tcp, http), HTTP Live stream, HTTP.
+- aspect-ratio adjustments and zoom
+- multiple audio streams and subtitles
+- supports customizable gestures for Seek, Jump, Brightness and Volume control, exit to popup video
+- playlist support and various playback modes.
+- support for audio headsets and external Bluetooth keyboards
+- customizable audio offset, playback speed, gestures and keys
+- external and embedded subtitles ssa/ass, srt, sub, txt...
+- Automatic subtitle search (mobile or Wi-Fi connection must be enabled to work)
+- playback media files such as videos and mp3's directly via Wi-Fi from your network shared drives/folders (such as external USB drives, SMB shares, PC shared folders, NAS servers (Synology and others)) - no need to convert video files and copy media files to SD card 
+- Playback files directly from uncompressed RAR files
+- Lock screen to prevent accidental change of videos (kid lock)
+- support for USB OTG (On-The-Go)for example: Nexus media importer, USB OTG Helper, USB Host Controller... and much more!
+****** Licensing troubleshooting: ******
+- If after the purchase and installation of the app you get a license failure notification, this is because the purchase may take some time to be recorded on the Google license server. It will resolve within a few hours or you can try re-installing and restarting your device.
+- If your download is declined, your credit card authorization will have failed. Please update your card details (usually the address doesn't match) and retry the purchase.
+- If you get "Not compatible with your device" from the Market App, please try clearing your Market App Cache (Settings, Applications, Market, Clear Cache) and restarting your device.
+- BSPlayer app uses Google's standard licensing service. Keep Wi-Fi or mobile data enabled at the the first run of application. Further internet connection will not be required. Also, for existing users having problems with licensing - you may try "Clear app data" function and run app with internet connection enabled. This should license your app.
+If you are having any issues with licensing, please send us an email to sales@bsplayer.com and we will fix the issue.
+This package includes support for ARMv7 with VFP and NEON. For other CPU types please download appropriate package. Application will notify you which package you need.

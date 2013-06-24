@@ -1,0 +1,82 @@
+﻿Filename,Size,Unit
+01.Introduction and Inheritance/0101.What This Course Covers.mp4,15.76,M
+01.Introduction and Inheritance/0102.Review - Building A Base Class.mp4,28.72,M
+01.Introduction and Inheritance/0103.Creating A Derived Class.mp4,25.92,M
+01.Introduction and Inheritance/0104.Using Protected Members - Part 1.mp4,20.5,M
+01.Introduction and Inheritance/0105.Using Protected Members - Part 2.mp4,15.88,M
+01.Introduction and Inheritance/0106.Constructors And Destructors.mp4,9.01,M
+01.Introduction and Inheritance/0107.Exercise 1.mp4,12.35,M
+01.Introduction and Inheritance/0108.Exercise 2.mp4,11.15,M
+02.Polymorphism/0201.Understanding Polymorphism.mp4,20.67,M
+02.Polymorphism/0202.Base Class Pointers.mp4,8.99,M
+02.Polymorphism/0203.Virtual Functions.mp4,14.37,M
+02.Polymorphism/0204.Abstract Classes.mp4,17.46,M
+02.Polymorphism/0205.Exercise 1.mp4,9.93,M
+02.Polymorphism/0206.Exercise 2.mp4,8.87,M
+03.Genetic Programming/0301.Why Generic Programming.mp4,12.41,M
+03.Genetic Programming/0302.Generic Functions.mp4,13.12,M
+03.Genetic Programming/0303.Defining Class Templates.mp4,15.72,M
+03.Genetic Programming/0304.Class Template Specialization.mp4,11.33,M
+03.Genetic Programming/0305.Function Templates With Multiple Data Types.mp4,17.93,M
+03.Genetic Programming/0306.Class Templates With Multiple Data Types.mp4,14.43,M
+03.Genetic Programming/0307.Exercise 1.mp4,16.55,M
+03.Genetic Programming/0308.Exercise 2.mp4,16.32,M
+04.Exception Handling/0401.Exception Overview.mp4,17.3,M
+04.Exception Handling/0402.Throwing Exceptions.mp4,12.62,M
+04.Exception Handling/0403.Catching Exceptions.mp4,15.51,M
+04.Exception Handling/0404.Catch-All Exception Handlers.mp4,8.18,M
+04.Exception Handling/0405.Exercise 1.mp4,11.53,M
+05.Stream Input and Output/0501.Stream Overview.mp4,1.48,M
+05.Stream Input and Output/0502.Managing Stream Output.mp4,10.37,M
+05.Stream Input and Output/0503.Managing Stream Input.mp4,9.2,M
+05.Stream Input and Output/0504.String Streams.mp4,8.76,M
+05.Stream Input and Output/0505.Exercise 1.mp4,10.03,M
+06.Sequential Containers/0601.Vectors Review.mp4,7.59,M
+06.Sequential Containers/0602.Using Lists - Part 1.mp4,12.3,M
+06.Sequential Containers/0603.Using Lists - Part 2.mp4,13.87,M
+06.Sequential Containers/0604.Using Deques - Part 1.mp4,9.48,M
+06.Sequential Containers/0605.Using Deques - Part 2.mp4,16.94,M
+06.Sequential Containers/0606.Exercise 1.mp4,12.18,M
+06.Sequential Containers/0607.Exercise 2.mp4,10.61,M
+07.Associative Containers/0701.Working With The Pair Class.mp4,12.54,M
+07.Associative Containers/0702.Using Maps - Part 1.mp4,15.19,M
+07.Associative Containers/0703.Using Maps - Part 2.mp4,23.51,M
+07.Associative Containers/0704.Using Sets.mp4,14.03,M
+07.Associative Containers/0705.Multimaps And Multisets.mp4,18.96,M
+07.Associative Containers/0706.Exercise 1.mp4,23.28,M
+07.Associative Containers/0707.Exercise 2.mp4,20.34,M
+08.Generic Algorithms/0801.Read-Only Algorithms.mp4,20.74,M
+08.Generic Algorithms/0802.Read-Write Algorithms.mp4,16.82,M
+08.Generic Algorithms/0803.Sorting Algorithms.mp4,11.19,M
+08.Generic Algorithms/0804.Iterators - FrontBack Inserter.mp4,11.72,M
+08.Generic Algorithms/0805.Iterators - Reverse.mp4,11.13,M
+08.Generic Algorithms/0806.Exercise 1.mp4,15.95,M
+09.Non-STL Data Structures/0901.Stacks - Part 1.mp4,9.06,M
+09.Non-STL Data Structures/0902.Stacks - Part 2.mp4,12.43,M
+09.Non-STL Data Structures/0903.Queues - Part 1.mp4,12.29,M
+09.Non-STL Data Structures/0904.Queues - Part 2.mp4,16.1,M
+09.Non-STL Data Structures/0905.Binary Trees - Part 1.mp4,5.16,M
+09.Non-STL Data Structures/0906.Binary Trees - Part 2.mp4,28.24,M
+09.Non-STL Data Structures/0907.Linked Lists - Part 1.mp4,8.5,M
+09.Non-STL Data Structures/0908.Linked Lists - Part 2.mp4,12.56,M
+09.Non-STL Data Structures/0909.Linked Lists - Part 3.mp4,12.76,M
+09.Non-STL Data Structures/0910.Exercise 1.mp4,10.06,M
+09.Non-STL Data Structures/0911.Exercise 2.mp4,11.05,M
+09.Non-STL Data Structures/0912.Exercise 3.mp4,18.25,M
+10.Non-STL Algorithms/1001.Linear Search.mp4,13.99,M
+10.Non-STL Algorithms/1002.Binary Search.mp4,16.82,M
+10.Non-STL Algorithms/1003.Selection Sort.mp4,11.89,M
+10.Non-STL Algorithms/1004.Insertion Sort.mp4,10.21,M
+10.Non-STL Algorithms/1005.Merge Sort.mp4,12.99,M
+10.Non-STL Algorithms/1006.Quick Sort.mp4,17.38,M
+10.Non-STL Algorithms/1007.Exercise 1.mp4,18.93,M
+11.Namespaces/1101.Introduction To Namespaces - Part 1.mp4,11.84,M
+11.Namespaces/1102.Introduction To Namespaces - Part 2.mp4,15.28,M
+11.Namespaces/1103.Exercise 1.mp4,8.55,M
+12.String Class/1201.String Assignment And Concatenation.mp4,12.16,M
+12.String Class/1202.Comparing Strings.mp4,10.69,M
+12.String Class/1203.Searching Strings.mp4,18.36,M
+12.String Class/1204.Substring And Replace.mp4,15.48,M
+12.String Class/1205.C-Style Strings.mp4,10.09,M
+12.String Class/1206.Exercise 1.mp4,12.2,M
+Working Files.zip,45.45,K

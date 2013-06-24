@@ -1,0 +1,56 @@
+General
+----------------------------------------------------------------
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 325 MiB
+Duration                                 : 42mn 38s
+Overall bit rate                         : 1 064 Kbps
+Writing application                      : Lavf53.21.1
+Writing library                          : Lavf53.21.1
+
+Video
+----------------------------------------------------------------
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 42mn 38s
+Width                                    : 624 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 133 r2334 a3ac64b
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+----------------------------------------------------------------
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 42mn 38s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 1mn 5s
+Default                                  : Yes
+Forced                                   : No
+
+Screenshots
+---------------------------------------------------------------- 
+http://share.pho.to/2THUa/original 
+http://share.pho.to/2THUc/original 
+http://share.pho.to/2THUf/original 
+http://share.pho.to/2THV4/original
+
+Enjoy ;)

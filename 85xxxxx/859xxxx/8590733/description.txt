@@ -1,0 +1,166 @@
+Titolo originale: Star Wars - The Clone Wars
+Genere: Fantascienza
+Episodi: 22
+Durata episodio: ~ 20 Minuti
+Anno di produzione: 2010
+Nazione: USA
+
+
+[ Info sul file ]
+Nome: Star.Wars.La.Guerra.Dei.Cloni.5x01.Il.Maestro.E.L.Apprendista.ITA.ENG.DLMux.XviD-Pir8.avi
+Data: Sat, 11 May 2013 23:34:56 +0200
+Dimensione: 220,667,904 bytes (210.445313 MiB)
+
+[ Magic ]
+Tipo file: RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+
+[ Info generiche ]
+Durata: 00:22:17 (1337.252583 s)
+Contenitore: AVI OpenDML
+L'AVI ha un indice?: Sì
+Totale tracce: 3
+Traccia n. 0: video
+Traccia n. 1: audio {By Pir8}
+Traccia n. 2: audio {Eng}
+ISFT: VirtualDubMod 1.5.10.2 (build 2542/release)
+Junk: VirtualDubMod build 2542/release
+
+[ Dati rilevanti ]
+Risoluzione: ALTA (624 x 352)
+Larghezza: multipla di 16 (BENE)
+Altezza: multipla di 32 (BENE)
+Qualità DRF medio: MEDIA (3.323093)
+Qualità deviazione standard: MEDIA (0.914301)
+Media pesata dev. std.: ALTA (0.751326)
+
+[ Traccia video ]
+FourCC: xvid/XVID
+Risoluzione: 624 x 352
+Frame aspect ratio: 39:22 = 1.772727 (~16:9)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 39:22 = 1.772727 (~16:9)
+Framerate: 23.976024 fps
+Totale frames: 32,062
+Dimensione stream: 176,554,685 bytes (168.375669 MiB)
+Bitrate: 1056.223408 kbps
+Qf: 0.200563
+Key frames: 521 (0; 19; 269; 407; 428; ... 31960)
+Null frames: 0
+Min key int: 1
+Max key int: 250
+Avg key int: 61.539347
+Ritardo: 0 ms
+
+[ Traccia audio nr. 1 ]
+Audio tag: 0x55 (MP3)
+Canali: 2
+Bitrate: 121.632 kbps VBR
+Chunks: 55,719
+Dimensione stream: 20,331,648 bytes (19.389771 MiB)
+Tipo di bitstream (bs): MPEG-1 Layer III
+Encoder (bs): LAME3.98r
+Frames (bs): 55,719
+Durata: 00:22:17 (1337.256 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 121.632047 kbps VBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): stereo
+Padding (bs): No
+Emphasis (bs): none
+Preload: 504 ms
+Max A/V diff: 528 ms
+Ritardo: 0 ms
+
+[ Traccia audio nr. 2 ]
+Audio tag: 0x55 (MP3)
+Canali: 2
+Bitrate: 121.48 kbps VBR
+Chunks: 55,719
+Dimensione stream: 20,305,968 bytes (19.36528 MiB)
+Tipo di bitstream (bs): MPEG-1 Layer III
+Encoder (bs): LAME3.99r
+Frames (bs): 55,719
+Durata: 00:22:17 (1337.256 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 121.478418 kbps VBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): joint stereo
+Padding (bs): No
+Emphasis (bs): none
+Preload: 504 ms
+Max A/V diff: 528 ms
+Ritardo: 0 ms
+
+[ Bitstream video ]
+Tipo di bitstream: MPEG-4 Part 2
+User data: XviD0050
+Packed bitstream: No
+QPel: No
+GMC: No
+Interlacciamento: No
+Aspect ratio: Square pixels
+Quant type: MPEG custom
+Custom intra quant matrix:
+8 14 14 14 15 15 18 22
+14 14 14 14 15 16 20 24
+14 14 15 15 17 18 22 26
+14 14 15 18 20 23 26 30
+15 15 17 20 24 28 34 36
+15 16 19 23 28 36 42 52
+18 20 22 26 34 42 58 74
+22 24 26 30 36 52 74 96
+Custom inter quant matrix:
+17 18 19 20 22 24 26 28
+18 18 19 20 22 24 27 30
+19 19 19 21 23 27 29 34
+20 20 21 24 26 29 34 40
+22 22 23 26 30 36 46 52
+24 24 27 29 36 46 59 72
+26 27 29 34 46 59 80 94
+28 30 34 40 52 72 94 102
+Totale frames: 32,062
+Drop/delay frames: 0
+Frames corrotti: 0
+
+I-VOPs: 521 ( 1.625 %)
+P-VOPs: 13022 ( 40.615 %) ########
+B-VOPs: 18519 ( 57.760 %) ############
+S-VOPs: 0 ( 0.000 %)
+N-VOPs: 0 ( 0.000 %)
+
+Max B-VOPs consecutivi: 2
+1 consec: 4401 ( 38.403 %) ########
+2 consec: 7059 ( 61.597 %) ############
+
+[ Analisi DRF ]
+DRF nedio: 3.323093
+deviazione standard: 0.914301
+max DRF: 6
+
+DRF=1: 847 ( 2.642 %) #
+DRF=2: 4758 ( 14.840 %) ###
+DRF=3: 11855 ( 36.975 %) #######
+DRF=4: 12780 ( 39.860 %) ########
+DRF=5: 1435 ( 4.476 %) #
+DRF=6: 387 ( 1.207 %)
+DRF>6: 0 ( 0.000 %)
+
+I-VOPs DRF medio: 1.378119
+I-VOPs deviazione std.: 0.519321
+I-VOPs max DRF: 3
+
+P-VOPs DRF medio: 2.80794
+P-VOPs deviazione std.: 0.719256
+P-VOPs max DRF: 6
+
+B-VOPs DRF medio: 3.740051
+B-VOPs deviazione std.: 0.780403
+B-VOPs max DRF: 6
+
+[ Conformità al profilo ]
+Profilo selezionato: MTK PAL 6000
+Risoluzione: Ok
+Framerate: 23.976024 <> 25
+Min riempimento buffer: 81%
+
+Rapporto creato da AVInaptic (18-12-2011) in data 12-05-2013 00:19:27

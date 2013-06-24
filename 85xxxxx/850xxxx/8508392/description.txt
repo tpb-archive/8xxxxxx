@@ -1,0 +1,35 @@
+Application is K'ed - register with anything you want.
+
+Link for more info: http://www.malcolmhardie.com/sqleditor/
+
+
+SQLEditor makes database design easier
+
+Add tables and columns, indexes and foreign keys with the click of a mouse. See everything that you've created displayed in front of you.
+
+You can zoom out to see an overview of the structure, zoom in to see the details, everything remains editable at all zoom levels.
+
+The inspector panel displays object specific editing options for each object type and you can edit multiple objects at the same time.
+
+Working with your existing database
+
+Import it into SQLEditor, make changes easily and then update the database with the changes that you've made. Use the diff sidebar to see the changes you've made in the current session, or compare against another file.
+
+SQLEditor can create a digram from both source SQL files and live databases. You can also import and export Ruby on Rails migration files.
+
+SQLEditor logs all of the instructions that it uses so you can see what changed, and you can preview changes before exporting if you want to check the correctness first.
+
+Presenting your database
+
+Once you've built your database, SQLEditor can help you present your work to your customers, clients or boss. You can export in PDF or PNG formats for use in presentation programs and web sites.
+
+Why not put a diagram into your presentation to show how all of the tables fit together?
+
+Documentation creators may find a SQLEditor image is useful for explaining how tables fit together or which objects link to each other.
+
+
+Major databases Supported
+
+You can export to major database systems including MySQL, SQLite, Postgres and Oracle. SQLEditor customizes the SQL produced to work with the dialect you want.
+
+SQLEditor also supports editing Ruby on Rails migration and schema files. We also have an experimental Django plugin.

@@ -1,0 +1,25 @@
+This is QUAKE 2 VERSION 3.24 RUSSIAN EDITION with SGM MOD (Stroggs Gone Mad) + Server Browser.
+For being what typically Quake II is, this is a rather original appearing yet complex variant of the game. Many
+parts and subparts of the game has been updated, uprgraded or patched. Work has been done to all of the
+gamex86.dll from CTF, Baseq2, Rogue and Xatrix. The stack in the game's main executable has been increased 
+16 x times. You also may enjoy some music as well now of yoru own.
+
+ To hear Ogg Vorbis tracks in game, rip the Q2 CD's audio tracks (2-11) to track02-track11.ogg
+and put them in baseq2/music.  For the mission pack audio tracks, rip the Ground Zero CD's
+audio tracks (2-11) to track12-track21.ogg.  Don't bother ripping the tracks from the
+Reckoning CD, as they're a mix of the tracks on the Q2 and Ground Zero CDs.  Everything else
+will be taken care of internally.
+
+The version 3.24 was a simple, no-frills patch that fixes bugs (including the nVidia 191.x driver
+crash) and adds only meager tweaks aside from Ogg Vorbis support.  Intended for
+Quake2 purists who have been using the woefully out of date version 3.20, it is not
+intended to add new features or be an engine mod in its own right however it's
+a great unofficial improvement. One accepted by the Quake II community and
+down right welcomed.
+
+We also fixed (Hopefully) all of the issues experienced with Russian Edition's
+3.20 thru 3.23. Went as far as to remove our 'Easter Eggs" as well
+as our Audio and Texture additions. The MOD we included in 3.24
+you are able to play the game WITH OR WITHOUT unlike before!
+You now have shortcuts to the Original  game, game with MOD
+for Single Player, COOP, DM etc. Keep on Fragging!!

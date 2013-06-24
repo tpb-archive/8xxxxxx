@@ -1,0 +1,21 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 997 MiB
+Duration : 1h 57mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 182 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Audio
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Bit rate mode : Variable
+Bit rate : 128 Kbps
+Maximum bit rate : 191 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Language : French

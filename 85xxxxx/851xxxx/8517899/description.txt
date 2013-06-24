@@ -1,0 +1,17 @@
+
+       http://img208.imageshack.us/img208/2918/bluestacks7fs8.png
+
+
+Install NFO:
+1- Download & Install  BlueStacks from http://www.bluestacks.com/
+2- Quit BlueStacks
+(Win key + R)
+"%Program Files%BlueStacksHD-Quit.exe" (WinX86)
+"%Program Files(x86)%BlueStacksHD-Quit.exe" (WinX64)
+
+3- Extract files with 7zip  & Copy files from this package to ""WINDOWS_DRIVE""ProgramDataBlueStacks...(c:ProgramDataBlueStacks)
+
+4- Option: (change the resolution & ram)
+Import to registry "1280x720 & 1024ram.reg" or not...
+
+5- Start Bluestacks

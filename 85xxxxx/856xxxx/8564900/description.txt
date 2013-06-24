@@ -1,0 +1,43 @@
+
+Easily manage text messages in a new and up to date format compliant with the Android design guidelines and visually based on the stock messaging app from Google, with added features.
+Features:
+- Easily switch between conversations by dragging out the sliding menu on the left side of the screen.
+- Start a new conversation by sliding out the menu on the right side of the screen
+- Manage old messages with a single click
+- Choose between 4 different themes or make your own from scratch 
+- Emoji support (1300+ to choose from)
+- Quick reply popup
+- Quick message templates
+- Multi-window support for Galaxy Note
+- Light Flow support
+
+Pro Features:
+- Support for sending and viewing picture and group messages
+- Share via dialog for sharing content such as web links, etc
+- 6 additional themes
+- Option to choose background images for conversations menu and message list
+- Custom text color options
+- Custom animations
+- Widget
+- Individual notification settings
+- Contact blacklisting settings
+- More coming in the future...
+
+MMS support will depend on your carrier, although most are supported and working.
+If you are having problems receiving notifications, you may need to uninstall 3rd party messengers such as Go SMS.
+Please remember the app is still in beta and evolving every day. Let me know if something is missing or not working how you feel it should and I will do my best to correct it!
+
+What's in this version:
+- Security Options
+- Popup now supports themeing with theme engine
+- Widget options including black theme
+- Access to message details by clicking on the SMS message
+- Ability to pick a contact name from a list of all contacts when creating a new message
+- Ability to launch full app as popup through "Halo" if your custom ROM supports that feature
+- Popup bug fixes
+- General bug fixes
+- Fixes for HALO implementation
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.klinker.android.messaging_donate

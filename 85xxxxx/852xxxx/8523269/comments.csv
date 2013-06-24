@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,Rojagegeo,2013-05-31T10:39Z,"thanx for the game...easy install..
+but when i start the game ,it flickers non stop! any solution?"
+,Rojagegeo,2013-05-31T11:57Z,"ok found a solution on another torrent
+
+Edit CommonSettings.pro and change the setting ""isFullscreen"" to ""False"" "
+,lmought,2013-06-01T06:58Z,"Hey everyone, this torrent is suspiciously larger than the other versions, by 100MB+, be wary. Perhaps (hopefully) the uploader can explain this somehow."
+,12-mohd,2013-06-01T17:30Z,"@Rojagegeo, help me plzzz!!!!!
+how do you edit the CommonSettings.pro?
+
+i can't find it (CommonSettings.pro) in the install folder."
+,belgradeboy77,2013-06-02T16:45Z,@ 12-mohd look in to C:UsersDocumentsFacepalm GamesThe Swapper 1000

@@ -1,0 +1,555 @@
+﻿User Type,Username,Date,Text
+,Whobuysgames,2013-06-10T01:59Z,nope
+,Snowman2323,2013-06-10T02:50Z,"Took a while to hit TPB. I know it seems weird, but I swear on my life that the crack works (if this torrent has the legit crack files). I couldn't believe it myself. It honestly works"
+,mido009,2013-06-10T03:22Z,seed plssssss
+,ChaosElwyn,2013-06-10T03:47Z,"Isn't the ""original"" game like 3 - 4 gbs?"
+,Daruca,2013-06-10T04:45Z,"Ok I have some modified directions that are different than what you see above to get this game working!
+
+1.Unpack this release
+2.Create a folder onto your desktop and name it ""SIMCITY"".
+3.Copy all of the files into said folder. 
+4.Move said folder into your user ""download"" folder. 
+5.Copy all the files in ""SimCity DRMLESS Beta Update 1.2"" and paste them into the main ""SimCity"" folder. Overwrite the files.
+6.Go into the ""extra"" folder and install the ""Electronic Arts, Inc CA"" certificate. Make sure you put it into the ""Trusted Root Certification Authorities"" Store."
+,Daruca,2013-06-10T04:46Z,"7.Copy the ""Host"" file and paste it into
+C:/Windows/System32/drivers/etc. 
+8.Back to the ""Extra"" folder. Install the Origin Setup.
+9.MAKE SURE PORTS 80,443 AND 8001 ARE OPEN! If you are unsure on how to open ports then google it. 
+10.Almost there!
+11.Click on ""Start"" in your ""SimCity"" Folder and run the server. "
+,mrcrumb,2013-06-10T05:00Z,"Follow the installation directions to the letter and it works like a charm. The game itself will install when you open origin, with the emulation server up, for the first time. "
+,hollisb,2013-06-10T05:09Z,"Downloading now, I really hope it's not fake. I'll let everyone know. Please seed."
+,hollisb,2013-06-10T05:28Z,"EVERYBODY STOP DOWNLOADING - 5 AT A TIME, NOBODY WILL GET ANYWHERE AT THIS RATE!"
+,alex990504,2013-06-10T06:07Z,"I sweared a lot of torrents,but this one no!I downloaded it and works perfect."
+,hollisb,2013-06-10T06:21Z,.
+,dahaka47,2013-06-10T09:00Z,"I want to confirm: yes, the crack is very likely legit. As uploader mentioned, it is EA certificate. I am using the same type of crack to play Mercenaries 2: World in Flames online, and it works. So yes, I'm familiar with this type of crack, and it may very well be legit."
+,hollisb,2013-06-10T09:12Z,can someone that has is downloaded please reupload it?
+,00crack,2013-06-10T09:31Z,Pls seed... it seems everyone's stuck at 8%
+,James832,2013-06-10T09:54Z,yea stuck at 8% too
+,James832,2013-06-10T09:55Z,stuck at 8%
+,OhHiDere,2013-06-10T10:18Z,I Still cant log in to origin!
+,James832,2013-06-10T10:50Z,seed PLZ
+,rocksbury,2013-06-10T12:10Z,"Come on people, if you have to open ports and install things to your system folder...YOUR DOWNLOADING MALWARE,spyware,a keylogger,etc.
+
+i mean i dont usually blow any whistles but cracking a game never involves editing windows system files."
+,larliand,2013-06-10T12:39Z,"Intresting that photoshop required editing hosts files. So shut your mouth rocksbury and stop judging before trying it. The game DOES WORK, but it's pretty much boring since region simulation doesn't work and also there's only one region to play, which is really shit."
+,raiderpro,2013-06-10T13:54Z,"-Once the game does the inital install, i pressed play and it did not start. so here is what i did.
+-first of all i updated to 1.3 
+-then right clicked the INSTALLATION FOLDER and unchecked read only and applied
+-then in the server press activate
+-then just press play and it should start downloading the game"
+,cooperdk,2013-06-10T14:02Z,"@rocksbury,
+shut your trap. You clearly have no idea what you're talking about.
+
+The hosts file needs editing to direct server calls to the local machine. You do that to patch Photoshop, too."
+,Bluster40,2013-06-10T14:05Z,"there is another torrent :) i can seed it :) 
+
+Bluster40 2013-06-09 10:17 CET:
+twit ter (.) com/Vulpes Zedra
+there is game with patches :) 
+
+there is guide how to make it work
+
+iam on XP and i have problem with activation . dll but many guys playing now :) if someone can solve problem on XP with activation . dll ill be happy :)"
+,fikix,2013-06-10T14:43Z,"@Daruca
+i need some help pleas i did everything like you said and it says.....Invalid lincense. Reason code=Tampered (0x000A)......bit i did instal the license. Pleas help "
+,AkiLL5556,2013-06-10T17:01Z,"i did evrythng as they said..but later...when i press on play...
+it says simcity has stoped working..
+does any1 kno y..
+plzz help...plzzzzzzz"
+,AkiLL5556,2013-06-10T17:03Z,plzzzz/...help it says simcity has stoped working
+,dahaka47,2013-06-10T18:27Z,"I WILL EXPLAIN ABOUT OPENING PORTS, CERTIFICATE AND HOSTS FILE:
+
+From what I understand, you need to access certain EA servers to verify your game and be able to play (certificate file+open ports), and you need to block other EA servers to prevent them from determining your game is pirated and blocking it (hosts file)."
+,GuttedGnome,2013-06-10T18:43Z,"People should give some information when asking for help when things crash, trash and error. Like what OS they run, what hardware they use and so on.
+Some things that can help further are:
+-Update graphic card drivers
+-Update sound card/chip drivers
+-Update/Install DirectX
+-Update/Install Visual C++ (VCRedist)
+-Update OS
+The first 4 are essential to do before you ask for help. ;)
+
+For certificate errors, during the installation guide check 'Place all certificates in the following store' and then pick 'Trusted Root Certification Authorities'. If it still doesn't work then I have no idea. D:
+
+And this one works quite well. The only problem I have is that my screen loses contact with my graphic card once in a while when playing. But other than that it works flawlessly."
+,hollisb,2013-06-10T20:25Z,I cant even get past 1% on 80Mb/s internet connection :/
+,odaic,2013-06-10T20:38Z,"I confirm it works fine.
+
+At the beginning I was a bit confused with the server thing, so here I post a noobs guide with the 10 steps to follow. Doing so, you can anticipate and modify installation and language settings:
+
+First of all
+
+1. Install the game certificate from Extras => Double click over *.crt
+Click Install => Select destination manually => Select Trusted Root Certification Authority
+
+2. Add to your hosts file the commands provided in the hosts file inside Extras
+Your hosts file is located in => c:Windowssystem32driversetshosts
+Note: If you never touched this file before, to edit it you need to use notepad, uncheck read-only and change security options to be the owner (properties/security)
+If you cant save changes, just save the file elsewhere and later overwrite the original one. Its easy to find more info about all that in google ""edit hosts file""
+
+3. Copy everything from the ""DRMLESS Beta Update"" folder over the root/main folder of this download to apply the server update (its just a copy paste thing). Delete the stunnel folder because apparently is no longer required. Overwrite all the other files.
+
+Game will be downloaded and installed through Origin. Next step is to prepare a fake server for origin and a folder for the game (if you dont want the default one).
+
+3. If you have a folder/drive for your games, create inside something like ""OriginGamesSimCity#Server""
+""SimCity"" part is mandatory provide that Origin creates exactly this folder for the game
+No spaces are allowed in folder names
+
+4. Inside #server folder copy everything from this torrent/download (Except origin installer, hosts file, and the update folder that you can already delete)
+
+5. Then run Start.exe from #server to launch the fake Origin server. You should receive a ""everything sounds good"" message.
+Note: Later, when you stop playing simcity, use Stop.exe to stop it
+
+
+Time to start origin and download/install the game
+
+6. Install Origin (the one provided v9.1.15.109 works just fine)
+
+7. Launch Origin.exe
+Type random username and password (provide server connection is cracked)
+Note: Keep in mind that your Username will be later used as your major name.
+Click Origin => Application Settings => Set language (english or whatever you want) and select the previously created destination folder
+""OriginGames""
+
+8. Go to MyGames tab inside origin. If certificate was properlly installed, SimCity should be available. Download and let origin install it
+(It will be installed in OriginGames, or otherwise by default in C:Program files (x86)Origin Games etc...)
+
+9. Launch the game through simcity.exe or through origin games tab and let it update its files
+
+10. Restart and Play"
+,r46u50r1n,2013-06-10T21:41Z,"-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+I get this after installing the .crt in drmless v1.3. The .crt is instaled in Trusted Root Certification Authority and host is replaced. Any more ideeas ? win7 x64"
+,KoosPiet,2013-06-10T22:12Z,My game doesn't even want to download keep getting a error 7079:404 download error please help guys.
+,KoosPiet,2013-06-10T22:13Z,Getting this error in Origin.
+,MotionVision,2013-06-10T22:45Z,"I can't even go to store.origin.com. I try it with my cellphone and it worked. So, i don't know what's wrong!"
+,rocksbury,2013-06-10T23:33Z,"lmao people ... yes opening ports and installing to system32 can be fine, by very trusted members of the community.
+Random people who upload files that edit your 32 folder are like the biggest red light on the internet.
+downloading a program from a website that says your the 1,000,000 viewer or you have dozens of critical viruses are more trustworthy because at least you can set limits and restore.
+
+Editing your windows operating folder is a no no unless you have a skull uploader. tried the crack on a win7 ultimate laptop, you gain access to the tutorial map with no tutorial because its server based..."
+,Bluster40,2013-06-10T23:38Z,ignore rocksbury he is retard :) its same like patching photoshops :) 
+,SuperJ87,2013-06-11T00:34Z,"Getting an appcrash when Sim City is ""Processing Large File...Please Wait"" at around 50%.
+
+Any reason? I have done all the steps, the server is running etc."
+,James832,2013-06-11T00:49Z,"to get my legit origin back, what must I do?"
+,James832,2013-06-11T00:56Z,just go properties uncheck read only in the SimCity folder and server will say everything sounds good. Then press activate once you have tried to press play 
+,SuperJ87,2013-06-11T01:17Z,"@James832
+
+Just remove the lines that you added to your host file. Thats why I keep two version of my host file. If you need to create a host file again, this is the original one from windows:
+
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+just create that out of a notepad and save it with no extention or filetype. When you want to legitly use origin, replace this file with the cracked one for Sim City."
+,SuperJ87,2013-06-11T01:21Z,"Also would like to say to @rocksbury that you are afraid because you are computer illiterate. Editing the hosts file cannot do anything harmful to your computer. You can always delete it and windows will create a new one. Please read up on whats vital vs. whats not in your windows installation.
+
+Also want to say that I played through the tutorial 100% without any hitches, crashes, disconnects or anything else, and that my game was saved properly. Doing the initial steps may take some time to get right, but when you do, its no limits fun.  Been waiting to play this game forever, I'm glad I finally get the chance to.
+
+Thanks Daruca and Vulpeszedra."
+,TheMaverick_3,2013-06-11T01:22Z,"So this basically turns SimCity into a DRMless, ""OFFLINE"", Singleplayer without any Multiplayer Interaction game?"
+,SuperJ87,2013-06-11T01:30Z,"@TheMaverick_3
+
+Exactly. It hosts an emulated server."
+,Digimoon,2013-06-11T01:31Z,"!!!!!!!!!! ATENTION   !!!!!!!!
+
+This stupid and lame crack is made FOR 64BIT SYSTEMS!!!!! "
+,wizallah2000,2013-06-11T01:48Z,"People are such fucking idiots! If you don't trust the crack, don't use it. Simple. The crack works fine and the game plays fine. If you don't know what you're doing, avoid it."
+,Daruca,2013-06-11T01:52Z,"I want to reilleterate what GuttedGnome said in his post if you still cannot get this cracked version to work.
+
+-Update graphic card drivers
+-Update sound card/chip drivers
+-Update/Install DirectX
+-Update/Install Visual C++ (VCRedist)
+-Update OS
+
+I cannot access TPB at work so I have set up a personal email account for those who are still having issues getting the game to work. You can reach me @ fyantastic@gmail.com and I will do my best to get you playing! Do not contact me about uploading/downloading issues as I am uploading as much as I can. Thank you all for the support and thank all of the seeders! "
+,Baleki,2013-06-11T02:19Z,Need seeders !
+,Sonic2099,2013-06-11T02:39Z,"-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+win7 64 here. any help whit this????"
+,r46u50r1n,2013-06-11T02:41Z,"Fix For :
+
+-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+just go properties uncheck read only in the SimCity folder and server will say everything sounds good. Then press activate once you have tried to press play  ... thx James832"
+,xMasterStar,2013-06-11T05:36Z,Why am i downloading so slow!!!
+,DeadlyAttraction,2013-06-11T06:40Z,"Confirmed working. It might be a little hard to set up and get working for some people, but it definitely works."
+,Ehsan_danger4,2013-06-11T06:55Z,cant log into to origin! HELP!
+,precoach,2013-06-11T08:16Z,"Hey folks!
+This torrent works completely fine! 
+Here's the clue for guys who have the following error when starting DRMLESS server, it says:
+""-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.""
+
+All you need to do is uncheck the read-only option of the #Server folder. Incase Windows does not approve that, here's how:
+1. Start Registry Editor (Regedit.exe).
+2. Locate the following registry key:
+HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsCurrent VersionExplorer
+3. On the Edit menu, point to New, click DWORD Value, and then type the following registry value name:
+UseSystemForSystemFolders
+4. Right-click the new value, and then click Modify.
+5. Type 1, and then click OK.
+6. Quit Registry Editor.
+7. Open command console, type in: attrib -r , then hit enter
+
+Now the folder is unset read-only, you can login DRMLESS server now.
+Hope this help, cause it worked for me"
+,precoach,2013-06-11T08:18Z,"Some fix for my previous commend, step 7: open cmd then type:
+attrib -r *path_to_#Server_folder* then hit enter"
+,miked2138,2013-06-11T08:46Z," worked for me after 1.3 update. and make sure to use c:ProgramsSimCity as your install directory, will make things much easier "
+,LukeBongwater,2013-06-11T09:12Z,"Hell motherfuckin yeah! This actually worked! I was about to give up waiting for it and I'm glad I didnt! Screw you EA! Oh it cant be cracked huh?? Well a non skulled uploader did it pretty well if I may say so... This shit runs awesome even if its just one region... I dont give a rats ass! And what makes it sweeter is the fact you actually get it from Origin, so its like a extra fuck you to EA games! Serious props to the team that did this! A++++ and just incase it tanks or EA gets a team of hackers to get this down which I am sure they are already trying to do, I have a cloned drive just waiting to be installed so so FU you money hungry dick head cock smokers!"
+,ObiWanPan,2013-06-11T09:29Z,"I followed all the steps. But Simcity isnt Updating. When i try to start it says Tampered Error. When i try to Update it says its already up to date. But the Game Folder is about 300mb. 
+im using win7 32bit
+is there any way to update manually?"
+,ag55ful,2013-06-11T11:32Z,"I have downloaded everything in this torrent and have done everything correctly. But for some reason DRMLESS tells me the same thing! 
+
+-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Private server returned an unknown response, SimCity will not be able to login in to.
+
+I have tried all the comments suggestions and no luck. Anymore suggestions guys! I am finding this very painful and I think this is just too hard!
+
+Regards, ag55ful."
+,ag55ful,2013-06-11T11:44Z,"By the way, when I try to uncheck read-only, and apply it, I look back in properties again and it sets itself back to read-only. Holy shit."
+,miked2138,2013-06-11T11:59Z,"AG55, try the 1.2 and 1.3 update, thats what seemed to get the server working for me i dont think they were included in this torrent."
+,KoosPiet,2013-06-11T12:14Z,"I followed all the steps, but keep getting in origin file not found when I try 2 download the game."
+,ag55ful,2013-06-11T12:16Z,I have no luck. I tried the updates and they don't seem to do anything. ): Can anyone help me please?
+,bechman,2013-06-11T12:17Z,"@precoach  Can you write the example of step 7, please"
+,ES5,2013-06-11T12:18Z,"the step is very complicated, but if you follow it correctly, it will be fine.
+
+Its work for me, but i can only play for 30 minutes and then i got kicked to main menu. and then i can't load my city.
+
+i hope vulpes zedra managed to solve the kicked and save issue
+
+work for Windows 7 x64"
+,miked2138,2013-06-11T12:23Z,"obiwan, from the comments i have been reading this is 64 bit only, wont work on 32 bit os,
+
+ag55, make sure you are administrator , i can see any other reason it would not change from read only, and make sure none of the files are in use at the time."
+,ag55ful,2013-06-11T12:28Z,I have started the start.exe with administator and nothing had changed. ): I just wannna play SimCity for free! D:
+,Kushsouthside,2013-06-11T14:07Z,"ERROR CODE SMCY-5: Error while downloading SimCity. Please retry or see the customer support link for help.
+
+What's wrong people ?"
+,pablozfzw,2013-06-11T14:59Z,"It works :)
+
+For anyone that got:
+""-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.""
+
+
+Just uncheck ""read-only"" on your folder with server, than install scrip once more, hit run it, sometimes when you click check components it will give you info about not installed cetificate, but when you hit start server it will tell: ""Everything sounds good !!""
+
+GJ for guys who made it, and gj for ones that seed it :)"
+,ryukku1111,2013-06-11T16:33Z,"after i launch start.exe, where do i go for private server?"
+,19snowy87,2013-06-11T16:45Z,"@Digimoon:
+
+you are lame as shit if you still run 32bit, now im gonna fuck your mom in the parking lot!"
+,giertych97,2013-06-11T19:40Z,"When i tried to first play (i havent got install SimCity yet) i got message (in free translate) ""can't to connect with EA Server to activate your game on this computer with use your account. try again, later"". What i did wrong?"
+,LukeBongwater,2013-06-11T19:52Z,"Ok...this is how I did this and it worked flawless.. This works ONLY on 64 bit machines. I know that bums some of you out, but if you are still using 32 bit PC's then you most likely are a broke fucktard and need to get your mom to go get you a better PC.. That being said here we go. First DISABLE ANTIVIRUS!!! they will just get in the way trust me! Ok now you make a SIMCITY folder on your desktop and then copy all the downloaded files into it.... Then place that folder into your user download folder on your C: drive... Ok now open the update folder inside the user download folder you just made. Paste all contents from it into the main user download folder. Ok now heres where it is kinda sticky. You need to go to kick ass torents and find the 1.2 to 1.3 update and download it. Its real easy to find. I even googled it and it was like the first choice. Now after you download it unzip the file and get the contents and paste the in the same spot you just placed the 1.2 update that came with the original crack from the Pirate Bay.. Ok now that you have the updating done and the folders set, take a breather and pull your nuts out of your sweaty butt cheeks. Ok next go to the extra folder and do this in this order.. find the Start icon in main folder of the user download folder. It should be right next to a stop icon.... Ok you need to right click on it and send it to your desktop! NOT copy and Paste or Move! Send To! after that, open it up and leave it for a min and dont try activating or starting the server... Next find the Certificate in the extra folder and click on it. install the certificate by choosing manuelly finding the path and choosing trusted root. It should be like the second choice..then hit ok. Now go to the server that you have opened and hit start server and it should say everything is ok.. If it says certificate was not installed just install it again and start it again.. Trust me it will work! Next install the Origin he gives you in the extra folder. You MUST install this origin and have no other origin on your computer. Trust me I tried with the same legal version of origin and it didnt work. ALSO if you need origin for any other game, then I advise you to stop what your doing cause this hacked Origin will not let you join a legit account.. After his Origin installs make your username and password anything you want it to be, but make it somthing you remember. Once you do that, log in and go to the my games tab and install the game anywhere you want. And you do that by going to the application settings and changing the path, but if you dont care where its insatlled just dont bother and hit download on the SimCity box. Wait for it to be done and try play it. Its not gonna work but still try to play it. Now go over to your server you have opened and hit the activate tab. It will say activation complete or somthing along those lines.. Now go back and try to play again..it will do an update and a restart but after that.... Guess what buddy you did it and you can play SimCity! IN your motherfucking face EA GAMES!     Sorry for such a long post but I swear on my wifes life this works 100%! Just follow step by step of what I just wrote and it will work. You dont need to delete the stunnel and stop things... you dont need to set shit read only..... just do it this way.. I am running Windows 8 Pro 64 bit with norton 360 and it installed and plays beautifly! Thank you for this Daruca! This deserves a Skull all by its self!"
+,Koumpilot,2013-06-11T19:57Z,I cannot seem to get rid of the read only attribute...i've tried every solution i've found on forums.I tried changing permissions/the attrib command and still nothing. 
+,MisterAwesome23,2013-06-11T19:58Z,"
+
+when i click on start server is says server status: running but it doesnt say ""Everything sounds good"", and then it doesnt respond﻿.
+
+Windows 7﻿ 64bit"
+,Cool7days,2013-06-11T20:10Z,You're my savior!
+,LukeBongwater,2013-06-11T20:28Z,Also I forgot you need to copy and overwrite the hosts file in the extra folder to Windows/system32/drivers/etc folder on your C: drive. I made a copy of the original host file just incase this crack goes south and I want to revert back :) I hope I was able to help in any way! I absolutly hate EA games and want to stick it to them as much as possible for what they did with this game!
+,giertych97,2013-06-11T20:41Z,still want to work. i did all steps and i cant download all files of game (only installer)
+,00crack,2013-06-11T22:55Z,"THIS WORKS ON Win7 x64!!! Initially had some problem but it finally worked!
+
+DETAILED BUT SIMPLE STEPS I DID:
+
+1. Copy all the files downloaded in the torrent to a folder named ""Simcity"". This is the folder discussed below and other files/folders are assumed to be under this ""Simcity"" folder.
+
+2. In Windows Explorer, right-click the folder ""Simcity"" and uncheck Read-only. Once unchecked click OK. If it prompts for subfolders and files, select it and click OK.
+
+3. Copy all cracked files found in the folder ""Simcity DRMLESS Beta Update"" and paste in the ""Simcity"" folder so as to replace a few files and merge a folder.
+
+4. Go to ""Extras"" folder. Double click ""Electronic Arts, Inc CA.crt"" file. This will come up with a dialog. Click ""Install Certificate"". A Wizard dialog comes up, click next for first step. Choose ""Place certificates in the following store"" and click Browse. Select ""Trusted Root Certification Authorities"" and click OK. Back to the previous dialog, go on clicking Next and finish. A confirmation message should appear ""Import successful"".
+
+5. Open Notepad as administrator. Open the file ""C:WindowsSystem32Driversetchosts"". Move the cursor to a new line at the end.
+
+6. Open another Notepad (run as administrator not required) and open the hosts file located in ""SimcityExtras"" folder. Copy all the contents and paste them in the other Notepad opened earlier in point 5. With the contents added to the Windows host file, save the file opened in point 5. Close both Notepad windows.
+
+7. Go to ""Simcity"" folder and double-click ""Start.exe"". A window should appear. On the top-left, click ""Start Server"". If any Windows Firewall prompts appear, click Allow. Message should be displayed as ""Everything is good"".
+
+7.a. If message appears as ""Dummy certificate is not installed"", go to point 4 and install the certificate again properly.
+
+7.b. If message appears as ""Private server cannot be started"" or something like that, go to point 2 and uncheck Read-only.
+
+If either 7.a. or 7.b. then click on ""Stop Server"" and then ""Start Server"". If you've done everything correct till now, you should see ""Everything is good""
+
+8. Go to ""Extras"" folder and install Origin by running the OriginSetup_xxx.exe file. Uncheck all options about running it at startup, share hardware etc...
+
+9. Once installed, it will ask for Username and Password. Put anything, it doesn't matter. A bigger window will appear.
+
+10. Under ""My Games"" click Simcity icon and click ""Download"". It will download from our already downloaded files and install.
+
+11. Once its done, again click Simcity icon and click ""Play"". It will run an auto-update. THIS WILL TAKE SEVERAL MINUTES. Once done, it will show a restart button. Restart the game.
+
+12. If error message appears ""Could not login to game server"", then click ""Retry"". For me it appeared once and I clicked ""Retry"" once and the game started.
+
+13. How to exit and instructions on how to start playing subsequently have already been provided by others.
+
+I hope it helps... Thanks for the torrent, waited so long for this game and working crack."
+,00crack,2013-06-11T22:56Z,"If you have already run into problems, uninstall Simcity, uninstall Origin and start over fresh. If you don't then re-installing over already non-working installation won't do any good. Trust me, I went through a lot."
+,00crack,2013-06-12T08:30Z,Is there any way there could be more regions? I see only one region available to start a game.
+,Thetic,2013-06-12T13:07Z,"-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+
+HELP!!!!!!!!!!!!!!!!!!!!!!!!!!"
+,rbt1,2013-06-12T13:08Z,"there could be more regions, they are in the database file and can easily be updated later on"
+,NekoMaster,2013-06-12T13:32Z,"Well well, what do we have here? A working crack for Simcity 2013 :D
+
+Downloaded this crack this morning and not only did it download pretty fast on my 15mbps connection (try 20 minutes) but I was actually able to get into the game, get through the tutorial, and even make a region and save it.
+
+MAKE SURE TO FOLLOW 00crack's INSTRUCTIONS PRECISELY (ON PAGE 4) TO GET THIS TO WORK.
+
+I only had to install this once to get it to work thanks to 00crack.
+
+Both Vulpeszedra and 00crack deserve kudo's for getting this cracked game working
+
+Now I'm off to find some mods for this game :)"
+,NekoMaster,2013-06-12T13:34Z,"BTW This crack only works for 64-bit Machines.
+
+MOST NEW COMPUTERS HAVE 64 BIT CPU'S/WINDOWS INSTALLED
+
+Multi-Core CPU's are 64-bit
+New Computers with more then 4GB Memory will be installed with 64-bit Windows
+
+Have fun guys!!!"
+,NekoMaster,2013-06-12T13:36Z,"Crack works guys! Just follow 00crack's instructions to the FUCKING letter and you'll be playing simcity 2013 in no time :)
+
+Have fun guys... I'm going to go hunt for some mods"
+,kaman3,2013-06-12T15:14Z,"Well, I did everything 00crack told to do and after I click ""start.exe"" I wait 10s and the aplication stops working."
+,rbt1,2013-06-12T15:26Z,"got this running on XP 32bit (have not tested everything, Im at the office and dont want to transfer the full 2GB media)
+
+there is a bug or something in start.exe where it has problems locating the apache directory, if you have the game server in c games simcity, copy the apache folder to c games (one level up). I got origin running and detecting simcity. There is still an error in the server ""-Dummy certificate does not seem to be installed"" but origin works.
+
+(to save some disk the big 7z file from htdocs-folder can be deleted after a full install and update of the game)"
+,Thetic,2013-06-12T15:32Z,"The problem is that i can't uncheck ""Read only""."
+,rbt1,2013-06-12T15:46Z,"My folder has never been read only, but I think the only file that needs this the database for saves and accounts.
+
+Make sure the server is shut down, copy (to starting over with the same username, cities cant be deleted from what I found) the file ""data.db"" and make sure it is not read only. No other files are updated while playing on a working computer."
+,RmaxLV,2013-06-12T18:43Z,"Now as it works like charm, we are waiting for new regions ;) "
+,DoctorGreenThumb,2013-06-12T19:50Z,"THANK YOU
+this one is working
+at first I had some problems  understanding what to do  .. hehe sorry my English not the best
+but after I googled ""youtube SIMCITY 2013 DRMLESS CRACKED-VULPESZEDRA ""
+I saw a video how to do it and now I'm playing for 2 days  ... no problems so far..
+it's pretty cute game 
+of course I will be seeding this one as long as possible 
+thank you again and  big thanks to VULPESZEDRA"
+,GigAnon,2013-06-12T19:55Z,"Does not work for me, but since I had the same error with a LEGIT version of the game I reckon EA somehow managed to screw me even when I'm not using their stuff anymore.
+(I got a 'Can't connect to activation servers' error, if anybody knows where does it come from...)
+Otherwise, be carefull, once you've installed the dummy certificates and the host file you can't use legit games from Origin until you removed them."
+,00crack,2013-06-12T20:36Z,"Apparently each time I want to start the game I have to uncheck Read-only for Simcity folder. Not a big issue but just a small bother each time.
+
+@ Everyone who has starting the server (Start.exe) please verify whether the ports are available and not already in use."
+,kishen9190,2013-06-12T20:39Z,"@00crack i did everthing u said...and i even got the everything is good to go...but when i click on download in origin it gives an download error!...""unexpected error occured please log out and try again"" i tried like 10 times but same issue! please help!!!:("
+,lucky13xx,2013-06-12T21:25Z,"so im having a problem here. im running win 8 64bit 
+
+im having a problem on the last step, i open the launcher and i get this error message 'We're sorry an error has occurred"
+,lucky13xx,2013-06-12T21:26Z,"so im having a problem here. im running win 8 64bit 
+
+im having a problem on the last step, i open the launcher and i get this error message
+
+ 'We're sorry an error has occurred, invalid licence reason code = tampered (0x000a)"""
+,lucky13xx,2013-06-12T21:36Z,"someone please help. windows 8 64bit
+
+when i launch i get this error
+
+""were sorry, an error has occurred
+invalid licence. reason code = tampered (0x000A)"
+,mingo154,2013-06-12T23:18Z,I've got the server working no problem but when I install orgin it installs and when I run origin I get access denied please help
+,BraydenS,2013-06-12T23:29Z,"I followed 00crack's instructions and everything worked but when I click Play a window pops up and says ""Unable to connect to EA servers to activate SimCity on this computer using this account."""
+,spiderban,2013-06-12T23:37Z,This works..although not complete...and a few bugs..you can still enjoy the game.
+,saltybanana,2013-06-13T03:05Z,"I've basically done everything except when I go to the ""MY GAMES"" tab I don't see SimCity in it ):"
+,dotheroar,2013-06-13T04:06Z,Just logged in to say thanks! this really works.
+,burn099,2013-06-13T04:08Z,"I also get the ""Unable to connect to EA servers to activate SimCity on this computer using this account."" error..."
+,sodade_21,2013-06-13T06:16Z,It works nicely. I can't seem to make cheats work..im at the sandbox mode but the cheats not working... anyone figured out how to do it? I need money  :P
+,butterba11s,2013-06-13T09:05Z,"i got this game working after a couple of tries but after like 20-30 min, it kicks me back to the main menu. Not a big problem, as i can jus hit resume playing. Bigger problem is, every once in a while, my computer goes into blue screen of death and makes weird noises. what is causing this problem? happened twice already"
+,Dimmis80,2013-06-13T11:28Z,Daruca much oblige for this upload.It works just fine.And @Odaic mate your instructions works just great so a big thanks goes to u to.Cheers guys.;-))
+,panisch420,2013-06-13T15:25Z,"I also get kicked to the main menu after a while of playing. but as butterba11s said you can just resume right away and the progress  was saved the second it kicked you out -> no loss. still annoying.. any solution?
+
+no bluescreens here though, dont think i had a bluescreen since i started using win7.
+
+oh and THANKS for all the effort cracking this and thanks to 00crack for the guide.
+
+yes game works, but only 1 region so far, including 3 cities and 1 great works."
+,ahmedkmsheesh,2013-06-13T19:16Z,thanks alot guys for making simcity playable ......... and if anyone managed to get more regions please tell us :) and thanks again
+,kawaiinekochan,2013-06-13T23:33Z,"same problem as saltybanana!
+
+When I log into Origin, I cannot see SimCity in 'My Games', is there a way to manually add it or maybe the game folder has to be in a specific place?? Please help, I've been at it for 2 hours now :("
+,mingo154,2013-06-14T00:07Z,I've been at it for 4 days and still no luck I give up and will wait for update or something
+,crazymfer,2013-06-14T04:41Z,did everything and followed all directions works until i click play and it does nothing it wont load or anything...any ideas on what i need to do??
+,Daruca,2013-06-14T05:42Z,"Hoping this fixes some of the issues with 32bit systems! 
+
+http://thepiratebay.sx/torrent/8572405/SimCity-DRMLESS-Beta-Update-1.3-To-1.4"
+,l009l,2013-06-14T05:52Z,"getting same issue as crazymfer, once game installs in origin, it allows you to click play but nothing happens. Loads for a sec then Nothing!. 
+I followed 00crack's instructions.
+
+I am using windows 8 64bit. Got Intel 2500k with Nvidia GTX570 in SLI. Not sure if my config has anything to do with it but i highly doubt. 
+
+Anyone with any suggestions?"
+,MaceI,2013-06-14T08:42Z,"8. Once it is finished, click SimCity and hit Play. I believe if you are on
+Windows 7 it will work and you are good to go. But if not, IT WILL DO NOTHING.
+This is OK. Just go back to the server window from Step 4 and click Activate
+at the top. It will say Successfully Activated and now try to run SimCity."
+,Arenddd,2013-06-14T09:55Z,"Make sure Origin language is set to English! Then download SC.
+
+Thanks for cracking!"
+,arjundutt,2013-06-14T09:56Z,"there is only one region with 3 cities, how to get more/all regions?"
+,6464,2013-06-14T09:58Z,"Everytime i claim new city and play it, my first city is disappear CAN YOU FIX IT ?!"
+,Daruca,2013-06-14T13:30Z,"Update v1.5 is out, fixing the v1.4 saving issue.
+http://thepiratebay.sx/torrent/8573242"
+,r00k1e,2013-06-14T17:00Z,"Can log in to origin..
+says:"" You must be online when logging in for the first time."""
+,Thetic,2013-06-14T17:21Z,"Thanks, this torrent works perfectly!"
+,JasonHawk,2013-06-14T18:16Z,"If anyone has Pando Media Booster installed i recommend that you go into your Task Manager, go into processes, then find and stop PMB.exe. It prevents the server from running saying that the dummy certificate is not installed. Games like League of Legends uses PMB."
+,r00k1e,2013-06-14T18:49Z,"Cant* log in to origin..
+says:"" You must be online when logging in for the first time.""
+
+i just installed the origin from extra and tried random username&pass
+get the error..
+am i missing something?"
+,DunderBungos,2013-06-14T19:16Z,"Aight, I had these problems with Dummy and etc.What I did was that I firstly moved my SimCity (THAT NAME) folder to C:/ disc. Then, I turned off my internet connection uninstalled Origin, then re-installed it, without no updates available. Then, I went to Internet Options or smthng, removed the old cerificate of EA, and Installed again on ""Allow as an administrator"" mode. Finally, opened START.EXE also on ALLOW AS ADMINISTRATOR MODE. And everything was fine. Downloading now. Win 7 32 bit. Btw, you will need to kinda spam that ACTIVE button when starting the game, for not getting the tampared error :)"
+,JPHAWK,2013-06-14T21:46Z,CONFIRMED!! PBM.EXE (Pando Media Booster) does interfere with the server. If you are having Problem after problem check to If PBM.EXE is running in task manager
+,Agete,2013-06-14T23:15Z,"I did everything correctly and when I click to play SimCity it appears that can't connect to EA servers to activate the game. Help, please?
+P.S.: When I open my origin it's in offline mode, is it correct?"
+,Daci225,2013-06-14T23:16Z,"It shows me ""Unable to load city at this time"" after one hour playing.
+Can anyone help me with this error?"
+,jcpangs,2013-06-15T08:34Z,"i followed 00crack instructions. but when i click on the PLAY button on origins i get an error 
+
+""Simcity (TM) has stopped working""
+windows can check online for a solution to the problem
+
+
+os:winvista 65bit
+radeon 6950
+4gb ram
+
+ive updated all the drivers.. any suggestion?"
+,Dimmis80,2013-06-15T09:51Z,Hey guys.So can u trade with other citys and stuff.I did make a second city but i can't find how to trade.??
+,prothus2,2013-06-15T10:01Z,I'm having trouble with the ports on the server. It says port 80 is binded by the server. The other two are working fine. Anyone else have a similar problem?
+,prothus2,2013-06-15T10:04Z,I meant binded by the system
+,recluse9,2013-06-15T11:32Z,"sergO6, you're tha man!
+
+That solved it, and it was a fucking nightmare. "
+,Koeny,2013-06-15T12:39Z,"Everything works until I try to play (step 11 of 00cracks guide). I get a message saying I have not exchanged a product code for SimCity.
+
+Please help!"
+,pommi7,2013-06-15T14:21Z,"Some help please? Server keeps saying this:
+-Unable to check if dummy certificate is installed. Certificate not found at C:OriginGamesSimCity#ServerExtraElectronic Arts, Inc CA.crt
+
+and this:
+-Some needed hostnames do not point to the private server. Check your windows hosts file, otherwise you'll not be able to log in.
+
+I have tried all solutions and even a complete re-install but nothing has worked. I have installed the certificate in to trusted root certification authorities and i have replaced the host file, but it keeps saying those things
+
+"
+,yowzers,2013-06-15T14:33Z,"Yep, it works. It's kind of a hassle to get it working but it's worth it! Too bad there is only 1 region available for now.
+
+
+
+MOVE YOUR GAME FILES TO 
+
+C:ProgramsSimCity
+
+so it looks like 
+
+C:ProgramsSimCityOriginaGamesSimCity#Server
+
+Everything should work if you do that."
+,Tom5555,2013-06-15T19:50Z,"Thanks!
+I'm running into a problem which isn't mentioned yet though:
+I'm following all the steps and the server says ""sounds good"". When I lauch SimCity, it says something about the product key not being attached to Origin. Looking at the Origin Games folder, the size increases to 4 GB. When relaunching the game, it says that the product key is not suitable for the selected language?? Can somebody help me?"
+,JGeertgens2,2013-06-15T22:53Z,Hey i keep running into a problem where when i go to do the the start.exe it says the program isnt responding and forces me to close it
+,novakin,2013-06-15T23:08Z,"Everyone with tampered licence error, update all the way to 1.5 - after update open start ( server ) and click activate before start server..."
+,JGeertgens2,2013-06-15T23:36Z,"my origin acount wont load i keep getting a message that says ""You must be online when logging in for the first time"" how do u get past this"
+,Chewy93,2013-06-16T00:47Z,"HIGH PEACE OF SHIT!!!! ORIGIN SAYS, ""You must be online when logging in for the first time"". fUCK THAT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+,mjrpud,2013-06-16T01:26Z,"i dont understand how i can get 250kb/s with 11 seeds and 27peers when i first start the download but 2 minutes in, with 116 seeds and 60 peers its stuck below 10kb/s"
+,r00k1e,2013-06-16T08:52Z,"for people who get message ""you have to be online..."" in origin..
+start the server first (start.exe) and then connect ;)"
+,zonshadow,2013-06-16T09:07Z,"I've done everything exactly right, but when i launch Simcity, Origin just says launching simcity and shuts down the ""launching simcity"" window, and does nothing. Nothing happens.."
+,miguelsz3,2013-06-16T15:58Z,"I myself had issues with this one and updating to 1.5. I'd say use this version and update from there.
+http://thepiratebay.sx/torrent/8562869/SimCity.2013-VULPESZEDRA_v1.3_Game_and_Server_Emulator_for_Win7_"
+,ftougr,2013-06-16T15:59Z,"is it just me or great works do not work? If they don't, there goes half a mil'.... "
+,Liman_Bot,2013-06-16T16:54Z,"INSTALL NOTES:
+
+Follow these carefully or your game won't work.
+
+1. Unpack this release and make sure the folder name is ""SIMCITY"" without the """".
+2. Copy the files in the ""SimCity DRMLESS Beta Update 1.5"" folder to the main SIMCITY folder.
+When asked to overwrite existing files choose Yes.
+3. Delete stunnel folder and stop.exe file.
+4. Go into the extra folder and run the Electronic Arts, Inc CA.crt file.
+5. Click on Install Certificate and press Next.
+Then pick the Place all certificates in the following store option and press Browse.
+6. Select the Trusted Root Certification Authorities option and click OK.
+Now press Next and finish. If you get an error select Yes.
+7. Replace Your Hosts file with the one Provided in the Extras Folder. You can find your hosts file in C:WindowsSystem32Driversetc
+8. Install Origin from the extra folder and when it's finished installing run the start.exe file in the main SIMCITY folder.
+9. Click on Start Server and wait for the message to show you that ""everything sounds fine""
+10. Start Origin that you just installed with any username and password you want.
+11. Click on My Games, select SimCity and click on Download in the yellow/orange box.
+12. From here on it's easy, wait for it to download and then click Play
+
+For this torrent :
+http://thepiratebay.sx/torrent/8579978/SimCity.2013.NO.DRM.CRACKED.1.5-VULPESZEDRA[rarbg]"
+,major1211,2013-06-16T18:09Z,SEED!!!!!!!!!!!!!!!!!!! MUT** FUC**!!!!!!!!!!!!!
+,Koeny,2013-06-16T19:15Z,"I CANNOT be the only one who gets a warning saying that I have not entered a product code for Simcity.
+
+Help!"
+,Koeny,2013-06-16T19:53Z,"GOT IT!!!
+
+Before dl'ing the game set Origins language to English US."
+,unkmmp,2013-06-16T21:23Z,Detailed installation tutorial: http://kickass.to/simcity-2013-drmless-server-installation-tutorial-t7521557.html
+,acosta77,2013-06-16T22:33Z,"When I try to login it says: ""You have to be online to access for the first time.""
+And yes, I executed Start.exe, trusted the EA Inc and installed Origin."
+,acosta77,2013-06-16T23:56Z,"Now it says: 
+-Dummy certificate does not seem to be installed
+-Not able to reach the private server, Origin will not be able to login in to.
+-Not able to reach the private server, SimCity will not be able to login in to.
+Unchecked read-only on simcity folder but it keeps on checking itself.
+How to solve?"
+,sofijaBG,2013-06-17T00:47Z,"@acosta77
+
+- install certificate
+- Not able to...(2x) can be solved by restarting pc
+
+Then I get ""everything sounds good"":) 
+BUT licence is invalid:("
+,Timeless3,2013-06-17T01:33Z,"@acosta77
+although it re-checks the read-only, when I launch start.exe after I uncheck it, I get everything sounds good."
+,Timeless3,2013-06-17T01:37Z,"@sofijaBG
+click activate in the start.exe server selection before you start the server."

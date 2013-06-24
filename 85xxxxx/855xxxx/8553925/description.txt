@@ -1,0 +1,87 @@
+Stargate SG-1 Season 1:
+
+1-2. Children of the Gods
+3. The Enemy Within
+4. Emancipation
+5. The Broca Divide
+6. The First Commandment
+7. Cold Lazerus
+8. The Nox
+9. Brief Candle
+10. Thor's Hammer
+11. The Torment of Tantalus
+12. Bloodlines
+13. Fire and Water
+14. Hathor
+15. Singularity
+16. Cor-Ai
+17. Enigma
+18. Solitudes
+19. Tin Man
+20. There But for the Grace of God
+21. Politics
+22. Within the Serpent's Grasp
+
+
+MediaInfo:
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : No
+Format settings, Matrix                  : Custom
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Bit rate mode                            : Variable
+Bit rate                                 : 6 721 Kbps
+Maximum bit rate                         : 9 800 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.648
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+Language                                 : English
+Default                                  : Yes
+Forced                                   : Yes
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_AC3
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 283 MiB (6%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : Yes
+
+Additional Info:
+
+Resolution was untouched in the conversion. The source is from a PAL DVD so the resolution is 720x576 (576i)
+
+The series is shot in Canada, and to put it in a nice way, the cameras they used wern't exactly A+ equipment. That's why some scenes appear grainy. It's not the conversion to DVD, the grainyness was there on Showtime and when the show was syndicated on TV.
+
+Children of the Gods has DD 5.1 audio. All the rest have DD 2.0 surround audio. That is how it was released on the DVD.
+
+Last bit of info, since these are from the DVD box set. Children of the Gods is the edited version that was released for syndication. So no full frontal nude scene. You will have to find an unedited version from elsewhere if that is an issue for you.

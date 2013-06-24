@@ -1,0 +1,25 @@
+Reus 1.0.4.0 May 20th patch:
+CHANGELOG:
+[gameplay]
+- Changed aspect ability chance ratio from 75%-25% to 67%-33%, giving a higher chance for better aspects.
+- Changed the Chilipepper to give 30/60 tech instead of 20/40 tech in the 'Ground for Medicinal Peppers' synergy.
+- Changed the Diamond synergy to make it more easy to use.
+
+[Gameplay fixes]
+- Fixed some specializations
+- Fixed Ruby's requirement
+- Fixed Cardon Cactus symbiosis
+
+[technical fixes]
+- Crash while saving a game with a project that asked for the destruction of another city
+- Removed all dependencies on System fonts added different fonts and bundled them with the game. 
+- Enable VSync by default and added an option to the menu
+- Hitting escape in the intromovies no longer asks if you want to quit the game at startup
+- Fixed cooldown cheat
+- Fixed some textual stupidities in tooltips and other places
+- Added requirement UI to Opera: 'There are at least 4 other villages'
+- Some changes in tutorial 2
+- Fixed other rare crashes
+
+######################################
+1.1.0.0 "Mountain Patch" coming soon when it's actually released for GOG version of the game

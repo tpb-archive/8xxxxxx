@@ -1,0 +1,58 @@
+Learn Android App Development
+
+Book Details:
+
+Pages: 548
+Publisher: Apress (May 2013)
+Language: English
+ISBN-10: 1430257466
+ISBN-13: 978-1430257462
+Format: PDF, EPUB
+
+Book Description:
+
+Learn Android App Development is a hands-on tutorial and useful reference. You will quickly get up to speed and master the Android SDK and the Java that you need for your Android Apps.
+
+The Android SDK offers powerful features, and this book is the fastest path to mastering them and the rest of the Andorid SDK for programmers with some experience who are new to Android smartphone and tablet apps development. Many books introduce the Android SDK, but very few explain how to develop apps optimally. This book teaches both core Java language concepts and how to wisely but rapidly employ the design patterns and logic using the Android SDK, which is based on Java APIs.
+
+You will also learn best practices that ensure your code will be efficient and perform well.
+
+Get an accelerated but complete enough treatment of the fundamentals of Java necessary to get you started.
+Design your first app using prototyping and other design methods.
+Build your first Android app using the code given over the course of the book.
+Finally, debug and distribute your first app on Google Play or other Android app store.
+
+After reading this book, you will have your first app ready and on the app store, earning you the prestige and the money you seek.
+
+What you will learn:
+
+How to get a quick start to learning Android to build your first Android app
+How the Android development process works and what is the usual workflow
+How to design an Android app User Interface (UI)
+How to add interactivity and functionality to your Android apps
+
+Who this book is for:
+
+This book is for those who have some programming experience but who are new to the Android mobile platform. This book is ideal for those who may be coming from iOS programming/development to learn about this other most popular mobile platform, Android.
+
+Table of Contents:
+
+Chapter 1. Building an Android IDE for Version 4.2: Acquiring, Installing, and Configuring an Android Development Environment
+Chapter 2. Exploring Android App Development: The Lingo of Android and Building Your First Hello World App!
+Chapter 3. Java for Android Primer: Enhancing Our Hello World Application
+Chapter 4. Layouts and Activities: Using ViewGroup Classes
+Chapter 5. Android Intents and Events: Adding Interactivity
+Chapter 6. Android UI Design: Using Views and Widgets via XML
+Chapter 7. Android Graphics Design: Concepts and Techniques
+Chapter 8. Compositing in Android: Advanced Graphical User Interface Design
+Chapter 9. Android Image Animation: Frame-Based Animation Using XML Constructs
+Chapter 10. Android Vector Animation: Procedural Animation via XML Constructs
+Chapter 11. An Introduction to Video: Concepts and Optimization
+Chapter 12. Digital Video in Android: Using the VideoView Class
+Chapter 13. An Introduction to Audio: Concepts and Optimization
+Chapter 14. Playing Audio in Android: The MediaPlayer Class
+Chapter 15. Audio Sequencing: Android SoundPool Class
+Chapter 16. Android Intents: Inter-Application Programming
+Chapter 17. Android Services: Using Background Processing
+Chapter 18. Broadcast Receivers: Android Inter-Application Communication
+Chapter 19. Android Content Providers: Access to Datastores

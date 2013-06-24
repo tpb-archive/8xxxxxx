@@ -1,0 +1,62 @@
+                PublicHD - High-Definition Bittorrent Community
+      
+                            https://publichd.se/
+    
+              ----------------------------------------------------
+
+Note: This raw .ts has duped frames, they will be decimated in the encode.
+
+General
+ID : 1 (0x1)
+Complete name : ...Arrested.Development.S04E10.1080p.WEBRip.AAC2.0.H.264-NFRiP.ts
+Format : MPEG-TS
+File size : 2.00 GiB
+Duration : 33mn 46s
+Overall bit rate mode : Variable
+Overall bit rate : 8 484 Kbps
+
+Video
+ID : 100 (0x64)
+Menu ID : 1 (0x1)
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Format settings, GOP : M=3, N=9
+Codec ID : 27
+Duration : 33mn 46s
+Bit rate mode : Variable
+Bit rate : 7 842 Kbps
+Maximum bit rate : 16.0 Mbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.126
+Stream size : 1.85 GiB (92%)
+Color primaries : BT.709
+Transfer characteristics : BT.709
+Matrix coefficients : BT.709
+
+Audio
+ID : 101 (0x65)
+Menu ID : 1 (0x1)
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format version : Version 4
+Format profile : LC
+Muxing mode : ADTS
+Codec ID : 15
+Duration : 33mn 46s
+Bit rate mode : Variable
+Bit rate : 220 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 53.1 MiB (3%)

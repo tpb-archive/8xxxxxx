@@ -1,0 +1,107 @@
+Sinopse e detalhes
+
+Alguma coisa terrível está oculta na “Colméia”, um enorme laboratório subterrâneo utilizado para pesquisa genética que é controlado pela Umbrella, uma dos maiores conglomerados do mundo. Lá há uma epidemia do T-Vírus, uma arma biológica de grande poder que acaba matando todos os cientistas que lá trabalhavam. Na verdade se eles tivessem sido mortos realmente teria sido ótimo, mas todos são transformados em zumbis, que sentem uma fome incontrolável e transformam todas as suas vítimas em outros zumbis. Quando isto acontece Alice (Milla Jovovich), que não sabe bem quem ela é, e Rain Ocampo (Michelle Rodriguez) se integram a um comando que entra na “Colméia” para entender e tentar controlar a situação. Porém isto tem de ser feito muito rápido, pois em três horas “Rainha Vermelha”, o supercomputador que controla o local, o selará para sempre e quem estiver lá dentro estará fatalmente condenado a se tornar um zumbi.
+
+
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 734 MiB
+Duration                       : 1h 40mn
+Overall bit rate               : 1 021 Kbps
+Encoded date                   : UTC 2013-06-14 17:57:37
+Writing application            : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 40mn
+Bit rate                       : 553 Kbps
+Width                          : 720 pixels
+Height                         : 384 pixels
+Display aspect ratio           : 1.85:1
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.083
+Stream size                    : 397 MiB (54%)
+Title                          : Resident Evil - Zagor Lukas
+Writing library                : x264 core 133 r2334 a3ac64b
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 1h 40mn
+Bit rate mode                  : Constant
+Bit rate                       : 448 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 322 MiB (44%)
+Title                          : por
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+
+Text #1
+ID                             : 3
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Title                          : eng
+Language                       : English
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 4
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Title                          : spa
+Language                       : Spanish
+Default                        : No
+Forced                         : No
+
+Text #3
+ID                             : 5
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Title                          : por
+Language                       : Portuguese
+Default                        : No
+Forced                         : No
+
+Text #4
+ID                             : 6
+Format                         : ASS
+Codec ID                       : S_TEXT/ASS
+Codec ID/Info                  : Advanced Sub Station Alpha
+Compression mode               : Lossless
+Title                          : Credito
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+

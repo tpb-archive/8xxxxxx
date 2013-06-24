@@ -1,0 +1,128 @@
+######################################################################################################################################################################"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Atenção"""""""""""""""""""""""""""""""""""""""
+
+Estas video-aulas estão todas em pt-Br 
+Visitem o site http://www.cursowebdesign.com/curso-de-webdesign e comprem
+Baixem os rastreadores para maior desempenho
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""######################################################################################################################################################################
+
+Módulo HTML
+
+01 - Introdução rápida do HTML
+02 - Criando a pasta raiz no Dreamweaver e WampServer
+03 - Conceitos básicos do html (html, meta, title, head, body)
+04 - Charset
+05 - Body Background (color, Background image)
+06 - Inserindo imagens e alinhando e ajustando
+07 - Font (size, color, face, b, i, u, s, blink)
+08 - br, ul e ol,li, h1, h2, h3, h4, h5, h6, p, center, left, right hr, pre, marquee
+09 - Table (rows, cols, cellpadding, cellspacing, border, background)
+10 - link (image, links ancora, mailto, title, navegação)
+11 - Iframes (Width, heigth, Scrolling, frameborder)
+12 - span, Div (id e class)
+
+Módulo CSS
+
+13 - Introdução rápida do CSS
+14 - Introduzindo o arquivo CSS ao HTML
+15 - Color, font-size, font-family, font-weight, font-style, font-variant, height, Width
+16 - body
+17 - background (url, color, fixed, repeat, repeat-x, repeat-y)
+18 - Border (bottom, top, left, right)
+19 - Float, Clear
+20 - Padding e Margin (bottom, top, left, right)
+21 - Text align e Text decoration, Overflow
+22 - Hack Css (Internet Explorer) Interno e Externo
+23 - Estilizando links
+24 - Validando seu CSS no W3C
+
+Módulo Formulário
+
+25 - Introdução rápida de formulários, Form
+26 - Input type
+      • Aula 1 - Text, radio, checkbox, list menu, password
+27 - Input type
+      • Aula 2 - file, text area, button, image, reset, submit 28 - Validação de formulários
+29 - Estilização de formulários
+
+Módulo PHP e MySQL
+
+30 - Introdução rápida do PHP e Mysql
+31 - Tags PHP, variáveis, strings, echo e concatenação
+32 - Operadores
+      • Aula 1 - Aritméticos
+33 - Operadores
+      • Aula 2 - Atribuição
+34 - Operadores
+      • Aula 3 - Lógicos
+35 - Operadores
+      • Aula 4 - Comparação
+36- Operadores
+      • Aula 5 - Incremento e Decremento
+37 - If e Else
+38 - Criando um Banco de dados, Conexão com o banco de dados
+39 - Include
+40 - Metodo GET e POST
+41 - Comandos SQL
+42 - Comandos
+      • Aula 1 - Insert into
+43 - Comandos
+      • Aula 2 - Select From
+44 - Comandos
+      • Aula 3 - Order BY e Limit
+45 - Exibir detalhes de um determinado ID
+46 - Comandos
+      • Aula 4 - Update SET
+47 - Comandos
+      • Aula 5 - Delete FROM
+48 - Comandos
+      • Aula 6 - Truncate table
+49 - Rand()
+50 - Função Date
+51 - While (mysql_fetch_array e mysql_num_rows)
+52 - Switch Case
+53 - Criando Menu Lateral com Submenu e Menu Toolbar com Submenu e Estilizando no CSS (Dreamweaver)
+54 - Exportar dados de uma tabela para o Excel
+55 - Funcao mail
+56 - Sistema de busca interna
+57 - Tiny Mce (Editor de texto como um Word em seu site) 58 - Galeria de fotos com Lightbox e miniaturas
+59 - Video Box
+60 - Login e Senha
+61 - Cadastro de usuários e Sistema de boas vindas ao usuario
+62 - Confirmação de cadastro por e-mail
+63 - Sistema de recuperação de senha - Esqueceu a senha?
+64 - Newsletter
+      • Aula 1 - Cadastro de e-mails
+65 - Newsletter
+      • Aula 2 - Remoção de e-mails
+66 - Tipos de Mensagem de alerta
+67 - Mensagem de alerta com Meta Refresh
+68 - Exibir dados de uma variável em uma mensagem alerta
+
+Módulo Jquery
+
+69 - Arredondando bordas de div, id e class com CSS e Jquery
+70 - Evento focus e blur com Jquery
+71 - Mascaras no Jquery
+
+Módulo Final
+
+72 - Domínio e Hospedagem
+73 - Upload de arquivos com Filezilla e Exportar Banco de dados para o PhpMyAdmin da Web
+74 - Verificando aplicações criadas
+      • Conhecendo o TinyMce
+      • Cadastros (Cadastrar, Detalhes, Editar, Excluir, Exportar, Pesquisar, Excluir tudo)
+      • Página de contato
+      • Newsletter (Cadastro e remoção de e-mails)
+      • Cadastro de usuarios e a confirmação por e-mail
+      • Esqueceu a senha?
+
+Módulo Bônus
+
+75 - Criando um Layout
+76 - Editando uma template (criar pasta raiz)
+77 - Editando uma template (editando conteúdo - Pagina Home, Topo e menu)
+78 - Editando uma template (editando Menu)
+79 - Editando uma template (editando - Pagina contato)
+80 - Editando uma template (editando - Rodapé)

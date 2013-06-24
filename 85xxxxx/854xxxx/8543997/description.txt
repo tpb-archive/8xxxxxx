@@ -1,0 +1,20 @@
+XAMPP is a free and open source cross-platform web server solution stack package, consisting mainly of the Apache HTTP Server, MySQL database, and interpreters for scripts written in the PHP and Perl programming languages.
+
+XAMPP's name is an acronym for :
+
+ΓÇó X (to be read as "cross", meaning cross-platform)
+ΓÇó Apache HTTP Server
+ΓÇó MySQL
+ΓÇó PHP
+ΓÇó Perl
+ΓÇó Tomcat
+
+XAMPP 1.8.1 for Windows, includes :
+
+ΓÇó Apache 2.4.3
+ΓÇó MySQL 5.5.27
+ΓÇó PHP 5.4.7
+ΓÇó phpMyAdmin 3.5.2.2
+ΓÇó FileZilla FTP Server 0.9.41
+ΓÇó Tomcat 7.0.30 (with mod_proxy_ajp as connector)
+ΓÇó Strawberry Perl 5.16.1.1 Portable

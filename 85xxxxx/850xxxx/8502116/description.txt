@@ -1,0 +1,66 @@
+***********************************************************
+* Microsoft Office Professional Plus 2013 Volume Channel  *
+***********************************************************
+
+murphy78 presents Microsoft Office ProPlus x64 VL 2013 May2013
+Contains all KB files with msp patches to bring current to
+the May14-2013 security-patch date.
+
+MSDN SOURCE:
+en_office_professional_plus_2013_x64_dvd_1123674.iso
+*thx @FRID*
+
+Release File:
+Office_ProPlus_2013_VL_64Bit_En-US-May2013.iso
+Size: 1.10GiB
+CRC32: 892B2943
+MD5: 0E174B8FB12C62A22A89DAE159DA702B
+SHA-1: 4B5D34AB5DAAB710F80462C730746F6999257FB0
+
+First I converted the source from Retail to VL because you are
+NEVER going to activate any Retail version without purchasing.
+There would obviously be small periods where leaked keys could
+be used to retail activate, but it would only work for a short
+while before MS blocks the key. This is why we use VL for KMS
+activation.
+
+Then I added all the big MSP files into the updates folder.
+You can't simply toss the exe files from MS Download Center in the
+folder, but you can extract those files with 7-zip and then copy the
+en-US and the none.MSP files to there. You also have to add any
+proofing Spanish and French files or Update nags you.
+
+And that's exactly what I've done. These are all of the MSP files
+contained in MOST of the KB exe files available for download. There
+are still a few ones that don't have any MSP file inside, but
+they are very small. The non-MSP kb files total about 1-2megs on
+Microsoft Download. Those, you can do yourself. I cannot
+pre-integrate those without making a fully custom install using
+a bunch of registry settings, task settings, services, etc.
+Basically, just not gonna happen; would be a mistake to even try.
+
+MSP files added to Updates Folder:
+access-x-none.msp, ace-x-none.msp, convintl-en-us.msp, csi-x-none.msp,
+excel-x-none.msp, excelintl-en-us.msp, groove-x-none.msp, grooveintl-en-us.msp,
+lync-x-none.msp, lyncintl-en-us.msp, msmipc-x-none.msp, mso-x-none.msp,
+msointl-en-us.msp, msores-x-none.msp, oart-x-none.msp, oleo-x-none.msp,
+onenote-x-none.msp, osetup-x-none.msp, outlfltr-x-none.msp, outlook-x-none.msp,
+outlookintl-en-us.msp, powerpoint-x-none.msp, powerpointintl-en-us.msp,
+project-x-none.msp, proof-en-us.msp, proof-es-es.msp,
+visio-x-none.msp, visiointl-en-us.msp, vviewer-x-none.msp, word-x-none.msp
+
+If you are contemplating using this for a different language, I'd
+recommend using the MSDN iso from that language, and going through the
+exe extraction process like I have. It's not difficult. You just keep
+extracting and adding them to the updates folder until Microsoft Update
+stops nagging you. Adding another language pack would probably be fairly
+simple, but I have no experience with that. You would need to search web.
+
+You can activate using MS Toolkit 2.4.3.
+Click the office button, then activation tab, etc.
+
+You can backup your activation files in MTK.
+
+(Thanks to CODYQX4 for his amazing MTK activation app)
+Enjoy Pirates,
+murphy78-TPB/MDL

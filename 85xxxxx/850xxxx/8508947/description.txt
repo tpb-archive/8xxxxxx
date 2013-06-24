@@ -1,0 +1,210 @@
+ http://img20.imageshack.us/img20/1213/please2k.gif
+
+
+[b]I Griffin - Family Guy - It's a Trap! [BDrip 720p ITA-ENG sub ITA-ENG][/b]
+ 
+http://imageshack.us/a/img14/6533/g300y.jpg 
+http://www.imdb.com/title/tt1701991/
+
+
+It's a Trap! (noto anche come I Griffin presentano It's a Trap!) è un episodio della nona stagione de I Griffin.
+È la parodia di Guerre stellari - Il ritorno dello Jedi,
+nonché ultimo capitolo della trilogia dopo Blue Harvest e Something, Something, Something, Dark Side.
+
+"It's a Trap!" is the double-episode season finale of the ninth season of the animated series Family Guy and the final part of the series' trilogy Laugh It Up, Fuzzball.
+
+Titolo : I Griffin presentano It's a Trap! --- Family Guy - It's a Trap! (Season 9, Episode 18)
+Anno : 2011
+Genere : Animation - Comedy 
+Lingua : ITA-ENG-ENG(Commentary) sub ITA-ITA(Commento)-ENG
+Qualità : BDrip
+
+
+About file
+
+Name: It's a Trap! [E456FE0A].mkv
+Size: 1,172,576,861 bytes (1118.256 MiB)
+
+
+Duration: 00:56:35 (3395.392 s)
+Container: matroska
+Production date: Sat, 11 May 2013 10:19:30 +0200
+Total tracks: 9
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Family Guy - It's a Trap! (Season 9, Episode 18)] {eng}
+Track nr. 2: audio (A_AC3) [ITA AC3 5.1 448kbps] {ita}
+Track nr. 3: audio (A_AC3) [ENG AC3 5.1 448kbps] {eng}
+Track nr. 4: audio (A_AC3) [ENG (Commentary) AC3 2.0 224kbps] {eng}
+Track nr. 5: subtitle (S_TEXT/UTF8) [ITA (Cartelli) - SRT] {ita}
+Track nr. 6: subtitle (S_VOBSUB) [ITA (Cartelli) - SUB] {ita}
+Track nr. 7: subtitle (S_VOBSUB) [ITA - SUB] {ita}
+Track nr. 8: subtitle (S_VOBSUB) [ITA (Commento) - SUB] {ita}
+Track nr. 9: subtitle (S_VOBSUB) [ENG (DEAF) - SUB] {eng}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.1 ('Es ist Sommer') built on Oct  9 2011 11:55:43
+
+Relevant data
+
+Resolution: 1280 x 720
+Width: multiple of 32
+Height: multiple of 16
+Average DRF: 16.789
+Standard deviation: 5.087
+Std. dev. weighted mean: 4.82
+
+x264 log
+
+frame I:   712 (  0.875 %)
+frame B: 59667 ( 73.296 %) ###############
+frame P: 21026 ( 25.829 %) #####
+frame I avg QP: 12.7
+frame B avg QP: 19.91
+frame P avg QP: 16.24
+Avg QP: 18.899
+
+Video track
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1280 x 720
+Frame aspect ratio: 16:9 = 1.778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.778
+Framerate: 23.976 fps
+Stream size: 687,330,649 bytes (655.49 MiB)
+Duration (bs): 00:56:35 (3395.267 s)
+Bitrate (bs): 1619.503 kbps
+Qf: 0.073
+
+Audio track nr. 1
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 190,141,952 bytes (181.333 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 106,106
+Duration (bs): 00:56:35 (3395.392 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+Audio track nr. 2
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 190,141,952 bytes (181.333 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 106,106
+Duration (bs): 00:56:35 (3395.392 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+Audio track nr. 3
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 95,070,080 bytes (90.666 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 106,105
+Duration (bs): 00:56:35 (3395.36 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 224 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): stereo
+
+Video bitstream
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 130 r2273 b3065e6 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2013 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=9 | deblock=1:-1:-2 | analyse=0x3:0x133 | me=umh | subme=7
+User data: psy=1 | psy_rd=0.85:0.00 | mixed_ref=1 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=0
+User data: chroma_qp_offset=-3 | threads=9 | lookahead_threads=4
+User data: sliced_threads=0 | slices=4 | nr=0 | decimate=0 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=16 | b_pyramid=1
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=80 | rc=2pass | mbtree=1 | bitrate=1620 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=10 | qpmax=51 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | vbv_maxrate=40000 | vbv_bufsize=30000 | nal_hrd=none
+User data: ip_ratio=1.30 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 8
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 81,405
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 21026 ( 25.829 %) #####
+B-slices: 59667 ( 73.296 %) ###############
+I-slices:   712 (  0.875 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+DRF analysis
+
+average DRF: 16.789
+standard deviation: 5.087
+max DRF: 30
+
+DRF30:     0 (  0.000 %)
+
+P-slices average DRF: 14.236
+P-slices std. deviation: 4.703
+P-slices max DRF: 30
+
+B-slices average DRF: 17.752
+B-slices std. deviation: 4.884
+B-slices max DRF: 30
+
+I-slices average DRF: 11.508
+I-slices std. deviation: 2.885
+I-slices max DRF: 27
+
+Edition entry
+
+UID: 3082688142
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:02:27,147: Main Title {eng}
+00:02:27,147-00:04:52,500: Construction Zone {eng}
+00:04:52,500-00:10:44,310: Jabba's Lair {eng}
+00:10:44,310-00:15:40,648: Sarlacc Pit {eng}
+00:15:40,648-00:24:41,480: Past And Present {eng}
+00:24:41,480-00:32:05,173: To Endor {eng}
+00:32:05,173-00:38:51,370: The Ewok Village {eng}
+00:38:51,370-00:47:04,530: It's Operational {eng}
+00:47:04,530-00:55:27,282: Destiny {eng}
+00:55:27,282-00:56:35,392: End Credits {eng}
+
+This report was created by AVInaptic (25-07-2011) on 11-05-2013 10:20:45
+[/code]
+
+ 
+http://imageshack.us/a/img600/1366/g301.jpg 
+http://imageshack.us/a/img834/8417/g302.jpg 
+http://imageshack.us/a/img560/2696/g303z.jpg 
+http://imageshack.us/a/img853/3104/g304.jpg
+
+
+
+PLEASE: don't rename file, don't limit upload, keep seeding and if you like it: BUY IT!
+
+PER FAVORE: non rinominate i file, non limitate l'upload, rimanete in seed e se vi piace: COMPRATELO!
+
+
+

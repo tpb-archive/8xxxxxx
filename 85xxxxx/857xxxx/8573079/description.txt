@@ -1,0 +1,112 @@
+
+Sinopse e detalhes
+
+Após passar por uma tragédia pessoal enquanto trabalhava como negociador de reféns para o Departamento de Polícia, Jeff Talley (Bruce Willis) pede demissão do cargo e decide trabalhar como delegado na pequena cidade de Bristo Camino. Jeff quer paz e a pacata cidade tem tudo para lhe proporcionar isto. Porém quando três adolescentes vão à casa de uma família com o objetivo de roubar o carro deles, eles ficam presos dentro da casa e decidem por tomar todos como seus reféns. A situação força Jeff a atuar como negociador dos reféns, fazendo um trabalho que ele preferia nunca mais ter que realizar em sua vida.
+
+
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 665 MiB
+Duration                       : 1h 53mn
+Overall bit rate               : 820 Kbps
+Encoded date                   : UTC 2013-06-14 09:56:18
+Writing application            : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 53mn
+Bit rate                       : 612 Kbps
+Width                          : 720 pixels
+Height                         : 400 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.089
+Stream size                    : 496 MiB (75%)
+Title                          : Refém - Zagor Lukas
+Writing library                : x264 core 130 r2273 b3065e6
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 1h 53mn
+Bit rate mode                  : Constant
+Bit rate                       : 192 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 156 MiB (23%)
+Title                          : por
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+
+Text #1
+ID                             : 3
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Title                          : por
+Language                       : Portuguese
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 4
+Format                         : VobSub
+Muxing mode                    : zlib
+Codec ID                       : S_VOBSUB
+Codec ID/Info                  : The same subtitle format used on DVDs
+Title                          : eng
+Language                       : English
+Default                        : No
+Forced                         : No
+
+Text #3
+ID                             : 5
+Format                         : ASS
+Codec ID                       : S_TEXT/ASS
+Codec ID/Info                  : Advanced Sub Station Alpha
+Compression mode               : Lossless
+Title                          : Credito
+Language                       : Portuguese
+Default                        : Yes
+Forced                         : No
+
+Menu
+00:00:00.000                   : en:Chapter 01
+00:10:49.667                   : en:Chapter 02
+00:16:45.101                   : en:Chapter 03
+00:27:00.668                   : en:Chapter 04
+00:39:39.002                   : en:Chapter 05
+00:46:50.603                   : en:Chapter 06
+00:55:20.770                   : en:Chapter 07
+01:02:00.004                   : en:Chapter 08
+01:12:10.104                   : en:Chapter 09
+01:21:32.538                   : en:Chapter 10
+01:29:07.838                   : en:Chapter 11
+01:37:37.806                   : en:Chapter 12
+01:47:41.306                   : en:Chapter 13
+

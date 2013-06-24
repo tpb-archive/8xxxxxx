@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,disneydreams,2013-06-04T23:02Z,thanks mickedee77
+,nitropower65,2013-06-05T23:39Z,"Thank you very much for these AMC caps mickedee77 ..the old lady wouldn't be able to see this show if it wasn't for you.
+
+Just one thing.... could you do better than 10FPS when encoding?  playback is very choppy at such a low frame rate.
+24.97fps is the standard... but I'd be happy with even 20fps."
+,mickedee77,2013-06-06T05:02Z,"hi nitropower65, I have got it set at 25fps, but it still records the way it does, I have no idea why. I am constantly looking into how to improve this but haven't been able to work out a solution as yet."
+,nitropower65,2013-06-06T19:13Z,"hmmm... that is strange that it would default to 10fps when you set it to 25fps... 
+I'm not sure what software you are using to do your capping / converting, but if you let me know, maybe I can find an answer for you."
+,mickedee77,2013-06-06T21:44Z,"Sure, I use Replay Video Capture to capture the video and then I edit it with VideoPad Video Editor. Any suggestions would be greatly appreciated."
+,nitropower65,2013-06-09T16:02Z,"Sorry for the delay getting back to you mickedee.
+I can't find anyone having issues with VideoPad, but I do see some having issue with Replay Video Capture... for many reasons.
+It could be as simple as your recording format you are trying (mp4, wmv, etc.) you could try something different and see how that works. 
+Or it could be your computer just doesn't have enough power to capture / encode at a  higher rate, so it automatically drops the frame rate. 
+
+Search ""replay video capture frames per second"" and you'll find much info.
+Hope that helps. :)"
+,mickedee77,2013-06-10T04:15Z,"Thanks for the info. I think it may have been my computer being silly. I checked my record files from last week and most of them are at 25fps, but only a few were at 10fps, so I do apoligize for those ones. I will try to ensure the faster speed from now on"

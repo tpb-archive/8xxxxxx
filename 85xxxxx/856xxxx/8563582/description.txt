@@ -1,0 +1,116 @@
+Sinopse e detalhes
+
+Clyde Shelton (Gerard Butler) é um dedicado pai de família que testemunha o assassinato de sua esposa e filha. Um dos culpados pelo crime pega uma pena de apenas 5 anos graças a um acordo costurado pelo promotor Nick Rice (Jamie Foxx), que acredita que é melhor ter alguma justiça do que a chance de não obter alguma. Dez anos depois, o assassino é encontrado morto. Mesmo sem ter provas suficientes contra si, Clyde é preso pelo ocorrido. Seu grande objetivo é denunciar a incoerência do sistema judicial, que permite que assassinos sejam libertados ou obtenham penas brandas, nem que para tanto precise eliminar todos os envolvidos. Só que Nick enfrenta um problema: apesar de estar na cadeia, Clyde aparenta sempre estar um passo a frente de todos.
+
+
+AMIGOS: Para quem ainda nao viu esse filme, não perca tempo e baixe, vale a pena ver este magnifico filme eu RECOMENDO . Zagor Lukas
+
+Format : Matroska
+Format version : Version 2
+File size : 529 MiB
+Duration : 1h 48mn
+Overall bit rate : 679 Kbps
+Movie name : Rio (MKV by TofuShoyu)
+Encoded date : UTC 2013-06-11 08:53:29
+Writing application : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 48mn
+Bit rate : 441 Kbps
+Width : 720 pixels
+Height : 400 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.064
+Stream size : 344 MiB (65%)
+Title : Código de Conduta ( Zagor Lukas )
+Writing library : x264 core 130 r2273 b3065e6
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 1h 48mn
+Bit rate mode : Constant
+Bit rate : 224 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 174 MiB (33%)
+Title : por
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : por
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Title : eng
+Language : English
+Default : No
+Forced : No
+
+Text #3
+ID : 5
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Title : Credito
+Language : Portuguese
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 01
+00:05:24.500 : en:Chapter 02
+00:13:48.500 : en:Chapter 03
+00:20:57.500 : en:Chapter 04
+00:31:06.500 : en:Chapter 05
+00:40:27.500 : en:Chapter 06
+00:53:58.000 : en:Chapter 07
+01:00:34.000 : en:Chapter 08
+01:11:31.500 : en:Chapter 09
+01:23:34.500 : en:Chapter 10
+01:33:38.500 : en:Chapter 11
+01:41:10.000 : en:Chapter 12
+01:48:47.000 : en:Chapter 13
+

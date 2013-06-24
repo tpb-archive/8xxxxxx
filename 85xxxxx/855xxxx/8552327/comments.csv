@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,DLM8691,2013-06-08T07:25Z,"Sorry, I didn't realize piratebay blocked the URL.  Credit goes to xbox360iso. "
+,SirenianPrime,2013-06-08T07:39Z,this works. I can vouche. 
+,prayforanend,2013-06-08T08:29Z,Works great thanks. Be sure to just drag and drop the iso on the .bat file and wait for the cmd window to close itself.
+,rezjarda,2013-06-08T08:45Z,how to patch?
+,rezjarda,2013-06-08T08:52Z,writes it in red abgx.it is good?
+,SirenianPrime,2013-06-08T09:54Z,"extract contents into the same directory as disc 2. then run the .bat file, and be patient. the patched iso is the new file that you work with. 
+
+Tested and fully works on 64-bit Windows 7 Ultimate. I currently am building a house with hearthfire. :D"
+,qqffpa,2013-06-09T02:53Z,"Nobody has really posted how to do this step by step--SirenianPrime got close.
+
+1. After you download the files, copy them in the same folder where your Skyrim Legendary Edition Disc 2 ISO is. The ISO has to be named ""s-skyrd2"" without the quotations, or the patch won't work. 
+
+2. After everything is in the same folder, double-click on ""s-skyrd2_patch.bat"" and accept if it asks you anything. Then, the Command Prompt will come up and it will do its thing. It may take a little while, so just be patient; it'll seem like it's not doing anything, but trust me that it is. 
+
+3. Once the patcher is finished, there will be a new ISO called ""s-skyrd2_patched.iso"". You can delete everything else, except for that ISO, because it's the only good one, except if you're still seeding, in which case keep the old ISO, so others can have it.
+
+4. This last step is just a recommendation, but when you run the new patched ISO through ABGX, go to the Autofix tab and from the dropdown box select Level 3. It will be on Level 2 by default. Hit launch and wait for ABGX to light up all green like a Christmas tree! 
+
+Cheers, mates! =D
+
+P.S. Keep seeding!"
+,contrastychain,2013-06-09T06:20Z,thank you!
+,everdead,2013-06-15T14:49Z,the .bat isn't finishing the patch for me. i'm getting a 3.9gb file. any ideas?

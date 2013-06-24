@@ -1,0 +1,14 @@
+This is Google Earth Professional, 7.1.1.1580 - Beta - FINAL (11 June 2013) - PREACTIVATED version !
+
+
+if you have problems running it in windows 7 , 8...
+extract the "GoogleEarthWin.exe" with winrar or whatever you have handy
+and taking ownership, run the "LICENSED.EXE" with admin privileges...
+
+also related to the same file "LICENSED.EXE" if your antivirus software jumps like a crazy monkey...instruct it to ignore as that file is a false positive...
+
+LICENSED.EXE it is a windows registry file (.reg) converted to a batch file (.bat), reconverted to an executable file (.exe) and used ONLY to insert the text of the registration information meaning two lines inside the windows registry... you would see it at the "About" menu in Google Earth Pro...
+
+it does not have any real importance however...the activation is done by something else inside the installer...running licensed.exe is for cosmetic reason only so to have something at the license info..in the About menu.
+
+bye

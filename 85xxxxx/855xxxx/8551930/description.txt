@@ -1,0 +1,20 @@
+Installation instructions: 
+
+
+
+Extract the .dll file from .zip file. We recommend that you extract the .dll to the installation directory of the program that is requesting the .dll.
+
+If that doesn't work, you will have to extract the .dll to your system directory. By default, this is:
+C:WindowsSystem (Windows 95/98/Me)
+C:WINNTSystem32 (Windows NT/2000)
+C:WindowsSystem32 (Windows XP, Vista, 7, win 8)
+If you use a 64-bit version of Windows, you should also place the .dll in C:WindowsSysWOW64
+Make sure to overwrite any existing files (but make a backup copy of the original file for safety).
+Reboot your computer.
+
+If the problem still occurs, try the following:
+Open Windows Start menu and select "Run...".
+Type CMD and press Enter (or if you use Windows ME, type COMMAND)).
+Type regsvr32 &lt;filename&gt;.dll and press Enter.
+
+FILES=aweman32.dll, binkw32.dll, d3d9.dll, d3dx9_26.dll, d3dx9_31.dll, d3dx9_41.dll, dinput.dll, dirtysock.dll, dot3api.dll, EAX.dll, MSVBVM50.DLL, rldea.dll, XINPUT1_3.DLL. 

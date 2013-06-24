@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,01Bear,2013-05-30T19:17Z,"This version does not require steam or external loading of PhysX.
+
+The .rar is a little messed as it does not seem to be an archive.
+
+You need to select ALL the .rar files...right click...then extract them somewhere.  What is extracted IS an archive and you can unrar as usual with these files.  
+
+Install using the Sectraball.msi file (not a proper .exe like you'd normally be looking for).  
+
+Game starts in a windowed mode that crashed for me after about 7 - 8 seconds.  My fix was to immediately hold ALT then press ENTER to go to full screen mode.  Once this is done you can adjust your resolution and whatnot with no crashing.  Seems to be running fine on my rig but have not finished game.  
+
+Thanks to the uploader.  "

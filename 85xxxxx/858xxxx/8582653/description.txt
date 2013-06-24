@@ -1,0 +1,67 @@
+Lynda.com - Foundations of Programming - Test-Driven Development
+
+
+Author: Simon Allardice
+Subject: Developer, Programming Foundations
+Level: Beginner
+Duration: 1h 50m
+Released: Jun 11, 2013 
+
+
+Description
+
+Prove your code is working every step of the way using a formalized test-driven development (TDD) process. TDD can be done in every modern programming environment, and for desktop, mobile, or web apps. In this course, Simon Allardice teaches you exactly how to get started with TDD: what makes a good test, why we're more interested in failure than success, and how to measure and repeatedly run tests.
+
+The course explores the jargon of TDDΓÇötest suites, test harness, mock and stub objects, and moreΓÇöand covers how TDD is used in the most common programming languages and environments. Plus learn to create, run, and manage the tests and move to a test-first mindset.
+Topics include:
+
+* What is test-driven development?
+* Using unit testing frameworks
+* Creating tests
+* Using assertions
+* Creating multiple test methods
+* Naming unit tests and test methods
+* Testing return values
+* Setting up and tearing down
+* Introducing mock objects
+* Measuring code coverage
+
+
+Table of Contents
+
+Introduction - 3m 14s
+* Welcome - 1m 23s
+* What you need to know - 1m 51s
+
+1. Introduction to Test-Driven Development (TDD) - 13m 40s
+* What kind of testing is this? - 4m 1s
+* What is TDD? - 4m 24s
+* Common questions and concerns - 5m 15s
+
+2. Getting Started - 26m 14s
+* Using unit testing frameworks - 6m 58s
+* Understanding assertions - 3m 50s
+* Using assertions in programming - 6m 3s
+* Creating a test - 3m 12s
+* Creating a test in Eclipse - 6m 11s
+
+3. Working with Tests - 25m 18s
+* The process of TDD revisited - 3m 26s
+* Adding tests and removing duplication - 4m 12s
+* Testing privacy - 2m 16s
+* Creating multiple test methods - 8m 1s
+* Naming unit tests and test methods - 7m 23s
+
+4. Individual Techniques - 18m 47s
+* Testing return values - 4m 19s
+* Creating a test for expected exceptions - 4m 45s
+* Setting up and tearing down - 5m 42s
+* Common questions on individual tests - 4m 1s
+
+5. Additional Topics - 19m 0s
+* Introducing mock objects - 10m 9s
+* Measuring code coverage - 2m 50s
+* TDD recommendations - 6m 1s
+
+Conclusion 4m 20s
+* Next steps - 4m 20s

@@ -1,0 +1,26 @@
+Title: Azrael's Tear
+Genre: adventure / 1st-person / sci-fi
+Released: 7th November 1996
+Developer: Intelligent Games
+Publisher: Mindscape
+Description:
+Can you claim the most valuable prize in history? The quest for the Holy Grail takes on epic new proportions in this powerful and all-consuming 3D puzzle adventure game. Azrael's Tear casts you as a futuristic thief in a medieval underground temple. Armed with high-tech weaponry and sophisticated sensors, prepare to explore over 70 stunningly beautiful and atmospheric environments, gathering crucial objects and overcoming a host of haunting characters. Only when you've acquired the necessary knowledge and tools are you empowered to return the Holy Grail to the outside world.
+
+Stunning 3D visuals, subtle yet challenging puzzles and realistic character interactions combine to create a world of menacing realism. Little wonder that Azrael's Tear stands alone as the most mysterious, enthralling and intriguing game of its genre.
+
+Bonus content: Colin Scott letter, design documents, last testament of Sir Guy of Bramley, manual, game proposal, reference card.
+
+How to play:
+1) Run setup_azraels_tear.exe and install the game (or extract the archive azrael.rar manually);
+2) Start the game using the main executable Azrael.exe or its shortcuts.
+
+! Notice
+The game is already configured to work with DOSBox and it runs on modern PCs.
+
+! Notice
+Check the Better Sound folder for instructions on making the in-game music tracks sound better.
+
+! Notice
+Depending on your CPU, the game might run too fast or too slow in some areas. When running the game, press CTRL + F11 to slow down the emulation speed or CTRL + F12 to speed up the emulation speed (thus making the game run slower or faster). If the game is consistently slow, you can try adjusting some DOSBox settings; see dosbox.conf located in the DOSBox folder where you installed the game (you can open it with your favorite text editor).
+
+If you like the game, SUPPORT the developers!

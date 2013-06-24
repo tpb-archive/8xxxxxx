@@ -1,0 +1,81 @@
+﻿User Type,Username,Date,Text
+,Incertus,2013-05-27T16:29Z,Torrent suffers from lack of availability at this moment of post.  Could the uploader seed this to a higher number?
+,Ztrident,2013-05-27T16:41Z,Oh yeah…Please seed…
+,bjornagainswede,2013-05-27T17:03Z,"Guys, sorry...forgot to mention my ISP's been a bit iffy lately and it ups and downs in fits and starts... seems to be faster now though and seeding as you'd expect. I have a tech call organised though when they'll turn up is anyone's guess!"
+,Incertus,2013-05-27T18:40Z,I suspected that was the issue an hour in with no other seeders.  Glad to hear it's back up and running better.
+,Incertus,2013-05-27T19:02Z,"I downloaded it, followed terminal instructions and have a crippling dock error message I can't get around.  Restarted twice.  Going to try a fresh start and carefully look over the code I type."
+,bjornagainswede,2013-05-27T21:17Z,"Incertus... DId you even need to use terminal? You only need that if the app will not launch automatically... and I reckon it should do!
+
+Grab Clean app or App Zapper... preferably Clean App and drop your totalSpaces app in there and delete everything related to the app listed apart from your torrent or the dmg therein... When zapped launch the dmg and drag the app to applications... double-click it and it ought to launch... then follow the reg instructions.
+
+Only if when double clicking the app to launch it the first time does it not launch do you need even go near terminal
+
+Actually there is an error in one of the commands that should read -R and not -T (however typing in -T just returns a bad command prompt)
+
+commands are
+
+chown -R 0:0 xxxxxDRAG HERExxxx
+chmod -R 755 xxxxxDRAG HERExxxx"
+,bjornagainswede,2013-05-27T21:26Z,"Forgot to mention it but if you have a dock issue... try trashing the plist and restarting (the OS preferably) that should set you right.... you may need to google its location depending on the OS version you're running. With Mountain Lion they have started putting stuff in Containers folder rather than in preferences...
+
+heres a tip if you do not trust your typing (like me...) ONLY IF YOU HAVE TO USE TERMINAL...
+
+log in as Superuser
+
+and click highlight the  commands I gave in the last post (one by one) leaving a space before the first x... and drag this straight into terminal... then drag TotalSpaces. app in and hit return (Mac Rocks!) ;) 
+Then follow the log out of terminal instructions as per the instructions...
+
+Naturally I hope everyone knows that a Back up of your OS is a Must always before using terminal, updating the OS and most apps... should not take saying...."
+,Incertus,2013-05-27T22:00Z,"Thanks.  Would have done the plist thing but the machine took 5 minutes to do what took 1/2 second before the error message.  Nigh unusable.
+
+""Actually there is an error in one of the commands that should read -R and not -T (however typing in -T just returns a bad command prompt)
+
+commands are
+
+chown -R 0:0 xxxxxDRAG HERExxxx
+chmod -R 755 xxxxxDRAG HERExxxx""
+
+
+Would have been good to know.  Might have caused the issue or just not prevented it.  Will copy the text directly next time.
+
+Tried nuking the plist files.  No change.  Still get annoying errors.  Was prepared with Activity Monitor to kill TotalSpaces ASAP.  Error is as follows:
+
+Unable to launch TotalSpaces.pp
+
+Dock got an error: Can't continue
+. (-1708)
+
+You may visit
+Http://getsatisfaction.com/binaryeye
+to get support on this issue
+
+[Cancel] [OK]"
+,Incertus,2013-05-27T22:03Z,"Comment got edited by the website.  must have been code.  Will try to post differently
+
+event BATSinit . (-1708)
+
+Had this < and this > before and after the e and t in event and init."
+,bjornagainswede,2013-05-27T22:36Z,"No clue what the dock error is but the -T will not cause the issue.. 
+
+it return a switch error message and thats about it really... I know because I accidentally made that very same typo yesterday when trying to get the other upload of this to work...
+
+Wonder if you might have typed some character wrong like an o instead of a 0 (numeral)???
+
+Anyhows hope you get it sorted... not sure if you run Time machine or have a backup but I?d run a resture if after trashing the plist and doing a preferences repair and restart I still had the issue... I suppose a last resort is to download the combo update and apply it but that might mean having to update other stuff you previously updated.. pain it the ass...
+
+Good luck with binary eye - hope you get it sorted. I think you can also google apple errors specifically too... try that... though at times their results are sketchy! 
+
+I'd all sorts of issues like this when I converted to Mac back in 07... but you pick it up,,,, I don't trust time machine though I 100% trust backups with CCC or Super Duper (either app worth its weight in Gold) Saved my skin a few times..."
+,bjornagainswede,2013-05-27T23:53Z,"Just re-read your last comment... activity monitor??? I wonder....
+
+Have you got cleanapp installed?
+... if so.. 
+
+Check this... 
+
+1) is TootalSpaces running in your menubar? If yes quit it...
+2) in Activity Monitor Kill any instance of TotalSpaces... Crash Reporter etc...
+3) drag TotalSpaces.app to the Nuke Zone in Clean app and tick all entries (once again except for the torrent if it appears in that list!
+4) NUKE!
+5) for peace of mind... repair Disk Permissions... (and if you run Onyx... maybe do a maintenance run to clean caches etc... Reboot!
+6) Then see if you are still getting the error..."

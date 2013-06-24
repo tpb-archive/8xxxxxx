@@ -1,0 +1,34 @@
+Sandboxie runs your programs in an isolated space which prevents them from making permanent changes to other programs and data in your computer.
+
+Benefits of the Isolated Sandbox
+================================
+
+Secure Web Browsing: Running your Web browser under the protection of Sandboxie means that all malicious software downloaded by the browser is trapped in the sandbox and can be discarded trivially.
+ 
+Enhanced Privacy: Browsing history, cookies, and cached temporary files collected while Web browsing stay in the sandbox and don't leak into Windows.
+ 
+Secure E-mail: Viruses and other malicious software that might be hiding in your email can't break out of the sandbox and can't infect your real system.
+ 
+Windows Stays Lean: Prevent wear-and-tear in Windows by installing software into an isolated sandbox.
+
+
+
+===================================================================================
+Version 4.02. 
+
+ Released on 17 June 2013. 
+
+ This release is a redesign of the inner workings of Sandboxie which improves compatibility with current and future versions of Windows. For a technical discussion, please see this forum post. 
+
+ These are the changes to Sandboxie since version 3.76:
+ 
+ Full protection is offered on both 32-bit and 64-bit Windows. The Experimental Protection feature, which enabled full protection on 64-bit Windows, is no longer needed, and was removed.
+ 
+ Improved compatibility with avast!, Driver Verifier, EMET, F-Secure, KeyScrambler, Lingoes, Listary, Norton Internet Security, Office 2013, PGP, Proxifier, ProxyCap, Solid Converter PDF, Windows 8.
+ 
+ Removed support for Windows 2000. Service Pack 3 is required for use on Windows XP.
+
+
+
+Homepage: 
+http://www.sandboxie.com/

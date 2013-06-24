@@ -1,0 +1,45 @@
+Latest XSplit Version, It is still in beta. Im using it and got now problems yet, running just fine.
+
+1- Install 
+2- Copy XSplit.Core.exe and MakaHost.dll into XSplit folder.
+3- Profit!
+
+XSplit Broadcaster 1.3 (Core: 1.3.1306.0403) Released June 4, 2013
+
+With every new release we do our best to bring value to the table, both in terms of bug fixes and inclusion of features requested by the community and partners. We aim to ship every release faster and more stable while including new features without introducing more complexity. 
+
+We look forward to your feedback and hope that this version can help you do more and do better with XSplit.
+
+
+Improvements:
+
+Improved Chroma key with autodetection and fewer settings
+Faster loading time - most user should experience on 10 to 12 seconds loading time
+Improved performance of OGL capture in some games
+Ability to adjust certain video encoding settings while live/recording
+Improvements for systems with switchable graphics including Nvidia Optimus and AMD enduro (CPPCORE-62 / XSPLIT-302)
+- Game capture or screen capture will no longer show black feed on any configuration
+- Default Optimus profile for XSplit to start on iGPU (User will still have option to change)
+- Disallow XSplit to run on dGPU on AMD Enduro systems (Unsupported in AMD driver)
+Update of the unified Twitch/Justin.tv plugin
+- Automatically picks the closest ingest server when going live
+- Channel setup wizard (will auto-configure your Twitch channel based on tests of internet and computer speed)
+New Twitch plugin based on new Twitch API
+- Automatically picks the closest ingest server when going live
+- Channel setup wizard (will auto-configure your Twitch channel based on tests of internet and computer speed)
+- Support for run ad/commercial via hotkey press
+New simplified Local Recording plugin
+- Simplified configuration to ensure much better quality
+Broadcast menu usability improvements
+- Ability to modify channel list from Broadcast menu
+- Will open channel settings window on credentials error (wrong or empty password)
+Bandwidth tester improvements
+- Minor improvement with the log
+- Fix for negative dropped frames
+Show total bytes recorded in title bar during recording
+Avermedia Live Gamer HD - select SPDIF Audio input by default (CPPCORE-50)
+Avermedia Live Gamer Portable - detect resolution change (CPPCORE-50)
+Updated Hauppauge Colossus support with same improvements as HDPVR
+XSPLIT-159 - Updated default resolution options to include 540p (360p, 480p, 540p, 720p)
+XSPLIT-380 - Tooltip for live stream and local recording improved
+XSPLIT-402 - Allow to force constant frame rate by using forceCFR exe parameter (will be adopted later as option in UI)

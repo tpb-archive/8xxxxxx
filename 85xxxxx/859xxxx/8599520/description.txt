@@ -1,0 +1,47 @@
+It's a history eraser for android device, and it can clean history of apps by only one tap. It's similar to the "ccleaner" on PC. It can help you to protect your privacy, and it can also help you to free up the internal storage. No root premission required!
+Feature:
+ΓÿàClear Browser History
+ΓÿàClear Call Log
+ΓÿàClear text messages
+ΓÿàClear Market Search History (including new android market history of v3.0.26+)
+ΓÿàClear Google Map Search History
+ΓÿàClear Gmail Search History
+ΓÿàClear Clipboard Data
+ΓÿàClear Youtube Search History (assist)
+ΓÿàClear Google Search History(Android &gt;= 1.6) (assistance)
+ΓÿàClear all app cache files
+ΓÿàClear Frequently Called (Frequently Contacted)
+Feel free to send feedback to us other than 1 star!!
+If forceclose happens, please use our another app named 'App Cache Cleaner' to do a clean-all action, and then open History Eraser again
+#How to clean your Google Map history
+If your Google Map history still comes out after clean, please visit http://www.google.com/history to disable the history records for your Google account.
+***************************
+INFOLIFE, Make Life Easier!
+***************************
+----version 2.5.5 changes:
+1.add sms clear options to one touch clear list
+now we can seperately del 4 kinds of thread,including:
+a) Sent SMS/MMS
+b) Received SMS/MMS
+c) Failed SMS/MMS
+d) SMS/MMS Draft
+By using setting menu, you can alse choose not to del sms/mms when screen off or you can choose not to delete locked/protected sms/mms
+----version 2.5 changes:
+1.add auto clear and preference setting
+you can have schedule clear by menu-&gt; setting -&gt; select Clear When Screen Off.It will auto execute your last clear operation when screen off.
+you can also set notification bar icon here and turn on phone rom memory statistics display.
+2.add frequently called (Frequently Contacted) clear
+some devices have a frequently called list in favorites tab.now the delete operation of this list is available.
+3.add phone memory status showing
+show your phone rom memory statistics.you can see how much memory freed after clear.
+4.use new text message deletion and move this function to menu options
+txt message deletion option moved to menu,you can delete all of your sms/mms by menu-&gt; Del All SMS/MMS,Be ware that ALL of your text message will be deleted even if they are locked!
+5.add option to show notification bar
+you can show notification bar to have a quick switch.to enable this:
+menu-&gt;Setting-&gt;check Notification Bar Icon.
+6.adjust item display order.
+move clear all apps cache function to the top of the list.
+
+***Features under development***
+1,contacts history or sms history in motorola phones:
+Motorola doesn't share their communication logs with other apps,I am still working on it to figure out a way to clear this history.

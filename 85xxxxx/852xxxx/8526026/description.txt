@@ -1,0 +1,49 @@
+Generale
+Nome completo                           : I:San Pasquale baylonne, protettore delle donneVIDEO_TSVTS_01_1.VOB
+Formato                                 : MPEG-PS
+Dimensione                              : 1.024MiB
+Durata                                  : 24min
+Bitrate totale                          : 5.801 Kbps
+
+Video
+ID                                      : 224 (0xE0)
+Formato                                 : MPEG Video
+Versione formato                        : Version 2
+Profilo formato                         : Main@Main
+Impostazioni formato, BVOP              : Si
+Impostazioni formato, Matrix            : Personalizzato
+Impostazioni formato, GOP               : Variable
+Durata                                  : 24min
+Bitrate                                 : 5.500 Kbps
+Larghezza                               : 720 pixel
+Altezza                                 : 576 pixel
+Rapporto aspetto visualizzazione        : 4:3
+Frame rate                              : 25,000 fps
+Standard                                : PAL
+Spazio colore                           : YUV
+Croma subsampling                       : 4:2:0
+Profondità bit                          : 8 bit
+Tipo scansione                          : Interlacciato
+Ordine scansione                        : Top field first
+Modo compressione                       : Con perdita
+Bit/(pixel*frame)                       : 0.530
+Dimensione della traccia                : 970MiB (95%)
+
+Audio
+ID                                      : 189 (0xBD)-128 (0x80)
+Formato                                 : AC-3
+Formato/Informazioni                    : Audio Coding 3
+Estensione modo                         : CM (complete main)
+Impostazioni formato, Endianness        : Big
+Modo muxing                             : DVD-Video
+Durata                                  : 24min
+Modalità bitrate                        : Costante
+Bitrate                                 : 192 Kbps
+Canali                                  : 2 canali
+Posizione canali                        : Front: L R
+Sampling rate                           : 48,0 KHz
+Profondità bit                          : 16 bit
+Modo compressione                       : Con perdita
+Dimensione della traccia                : 33,9MiB (3%)
+
+Menu

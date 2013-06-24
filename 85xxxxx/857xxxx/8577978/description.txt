@@ -1,0 +1,34 @@
+Windows XP Profesional Español con Service Pack 3 - lousen
+----------------------------------------------------------
+
+Actualizado a Junio de 2013 | v3.4
+
+Basado en la ISO oficial MSDN VL:
+
+Archivo: es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.iso
+MD5: 7149a9dd2f13e00ce54df01ff7a69a59
+SHA1: a47603256d7645a2f2788466153ffcd058f77c56
+
+ISO Final: Windows_XP_Professional_SP3_Spanish_-_v3.4_CD_lousen.iso
+MD5: 59260a63e0b5e3ca7de05806e71b3d5c
+SHA1: 55e1ecefeb4bc7c3456d0359c8ebfe1c98a3da7e
+
+Esta compilación está pensada para ofrecer una instalación desatendida de Windows XP SP3 edición  Española lo más limpia y actualizada posible, incluyendo:
+
+- Todas las actualizaciones hasta la fecha.
+- Pack de Drivers para Dispositivos de Almacenamiento (F6 text mode).
+- Internet Explorer 8 (sustituye a la versión 6).
+- Windows Media Player 11 (sustituye a la versión 9).
+- Microsoft .NET Framework 2.0 SP2 + 3.0 SP2 + 3.5 SP1 (como Componentes).
+- Microsoft Visual C++ 2005 + 2008 + 2010.
+- DirectX 9.0c (como Componente).
+- Pack de Temas de escritorio para XP.
+- Adobe Flash Player.
+
+La ISO además incluye una carpeta de Archivos para que el usuario pueda, entre otras cosas, asignar/modificar su propia clave de Windows XP. 
+
+La instalación parecerá detenerse sobre el minuto 23 debido a que es en ese instante cuando preintegra los .NET Framework.
+
+Toda la información de la compilación en el archivo LEAME.HTML dentro de la ISO.
+
+15/06/2013 lousen

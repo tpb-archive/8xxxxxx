@@ -1,0 +1,111 @@
+﻿User Type,Username,Date,Text
+,quake1050,2013-05-28T15:53Z,polish language is available?
+,TacticalSheep,2013-05-28T16:55Z,Anyone knows how to install this ? Its all russian
+,kiason,2013-05-28T18:08Z,how do you get auto save to work
+,sanusaha911,2013-05-28T18:29Z,How 2 change The language in the installer >??? I can't fucking understand Russian !!!
+,endo602,2013-05-28T19:26Z,Thanks for this.
+,endo602,2013-05-28T20:15Z,@sanusaha911  It isn't that hard... just click the >>>>>>>> button in the middle of the window a couple times.
+,cyberdude83,2013-05-28T21:24Z,"Do you guys get kicked after first 2 laps and game 
+crashes, and also frame stops after few seconds repeatedly during game play...."
+,cyberdude83,2013-05-28T21:25Z,????
+,argonhxor,2013-05-28T21:49Z,does it contain italian too?
+,cyberdude83,2013-05-28T21:58Z,"This upload is facked... for me because i got kicked several times to descktop and game crashes...after that , the frame freezes also repeatedly during game play   i'll download somewhere else... good luck to you to ...."
+,pman12344,2013-05-28T22:04Z,"Game worked for me, windows 8 64 bit
+The installer is in Russian, but the games in english. To install just keep pressing the ??????> button in the middle, next to Ioeaaonoaea or whatever, and keep pressing that button until the progress bar pops up. If you get problems with the game crashing after the first mission, right click on the desktop icon that says Grid 2, go to properties, click the compatibility tab and check the box next to run this game as administator. Press OK and the crashes should stop. "
+,moeburn1,2013-05-28T23:48Z,"Works great for me, Windows 7 64bit here.  
+
+DOWNLOAD THIS ONE, PEOPLE!  It has the best seed:leech ratio, the smallest file size (everything is still there, just only the english-speaking bits, all other languages are the only thing cut).  
+
+My system:
+AMD Phenom II X4 620 @2.6ghz
+AMD Radeon HD 5770 1GB
+4GB DDR3 RAM
+
+And I get a steady 45fps on all settings set to high.  A couple things really weird about this game though, if I turn OFF anti-aliasing, my framerate DROPS to 30fps?  I only get 45fps with 4x MSAA.  And they also have some kind of antialiasing called ""CMAA"", a quick google search leads nothing.  WTF is CMAA?"
+,quake1050,2013-05-29T15:19Z,polish audio works once-for few seconds and turn off. I don't know why. subtitles work
+,dogoserf,2013-05-29T15:34Z,works great thanks! follow pmans instructions to install & fix saving issue have fun & enjoy this nice game
+,jordunbrown,2013-05-29T16:56Z,"The game crashes at startup after showing the GRID 2 logo for a few seconds... I tried using a crack but it didn't work, ran in compatibility mode.. didn't work
+Does anybody have an idea of what I could have done wrong? "
+,horous,2013-05-29T18:06Z,"Help!!
+Installed successfully, game starts and runs;
+it twitches and does not run smoothly, even tweaking settings isn't working..
+config: AMD fx 4100, 4gb ram, Radeon hd 7750. "
+,argonhxor,2013-05-29T23:07Z,"it work fine and in italian too you need to change in ALI213.ini the language as you prefer. (for me was italian)
+
+no voice also"
+,cyberdude83,2013-05-29T23:52Z,http://thepiratebay.sx/torrent/8516457/GRID_2-RELOADED     ok so this worked for me  no crashes
+,Dz_95,2013-05-30T07:06Z,"For those that crash at startup follow these thread
+http://forums.steampowered.com/forums/showthread.php?t=1358388"
+,horous,2013-05-30T08:02Z,"not the best release... frame freezes often during gameplay, crashes and quits after few minutes. "
+,MPlovers,2013-05-30T19:26Z,"hey all Grid fans, those who havin crash problems, just do what ive mentioned below :) 
+
+
+for anyone with problems loading grid or dirt 2 within windows 7 using an i7 or any other type of problem.. after running tests and stripping back the script, heres the fix and how ..
+
+make sure you there is no hardware settings xml in your ""save game folder"" (in documents) 
+
+find your game installation directory (ever disc install or steam) locate ""system folder"" , find 
+
+'hardware_settings_config.xml'
+
+on the third/fourth line were it says ""workerMapFile=""system/workerMapCore. put the number of cores you have . ie mine is 8. so to make the game read the correct mapped cores, should look like .. (marked in red)
+
+workerMapFile=""system/workerMap8Core.xml"" (do not forget to put .xml at the end of it. 
+
+an extra part, under graphics find , ""forcedx9=false change to ""forcedx9=true
+
+once this is done, make sure this file is saved under the same title and replaces the original. under all files.
+
+from this point, using the desktop game icon or game folder icon, or even start menu game icon, youl have right click the icon and use program under administer user. (or set the game to load every time with this priveledge) 
+
+THERE IS ONLY ONE PROBLEM. The game's will start in a window not full screen, (just double click the window to full screen the game will start, load, play races, finish races, go online and you name it, even auto save, but it might stop responding on ""exit"" (manual close otherwords) "
+,MPlovers,2013-05-30T19:28Z,"hey all Grid fans, those who havin crash problems, just do what ive mentioned below :) 
+
+
+for anyone with problems loading grid 2 or dirt 3 within windows 7 using an i7 or any other type of problem.. after running tests and stripping back the script, heres the fix and how ..
+
+make sure you there is no hardware settings xml in your ""save game folder"" (in documents) 
+
+find your game installation directory (ever disc install or steam) locate ""system folder"" , find 
+
+'hardware_settings_config.xml'
+
+on the third/fourth line were it says ""workerMapFile=""system/workerMapCore. put the number of cores you have . ie mine is 8. so to make the game read the correct mapped cores, should look like .. (marked in red)
+
+workerMapFile=""system/workerMap8Core.xml"" (do not forget to put .xml at the end of it. 
+
+an extra part, under graphics find , ""forcedx9=false change to ""forcedx9=true
+
+once this is done, make sure this file is saved under the same title and replaces the original. under all files.
+
+from this point, using the desktop game icon or game folder icon, or even start menu game icon, youl have right click the icon and use program under administer user. (or set the game to load every time with this priveledge) 
+
+THERE IS ONLY ONE PROBLEM. The game's will start in a window not full screen, (just double click the window to full screen the game will start, load, play races, finish races, go online and you name it, even auto save, but it might stop responding on ""exit"" (manual close otherwords) "
+,marcpb,2013-05-30T21:56Z,"this is garbage DO NOT DOWNLOAD this does not work, install is in Russian, and even if you install IT DOES NOT SAVE YOUR PROGRESS and will CRASH everytime you RESTART  a race"
+,moeburn1,2013-05-31T16:46Z,"@marcpb you must be retarded.  This release is FINE, it works GREAT, it saves my game EVERY TIME.  Yes the INSTALLER is in Russian, but the GAME is in ENGLISH!
+
+WHY aren't there more leechers?  This has the best filesize AND the best seed:leech ratio!  
+
+and DONT DO what MPlover says!  That will force your game to run in DX9, which looks like shit compared to DX11!  If you have a DX11 card, don't settle for DX9!"
+,xHopkins,2013-05-31T19:38Z,"Works great! 
+thank you."
+,MPlovers,2013-06-01T16:54Z,"@moeburn1
+atleast it will make the game work "
+,moeburn1,2013-06-02T03:31Z,"the game DOES work!  if it isn't working, try the classic ""run in administrator""/""run in compatibility mode"" that everyone seems to try.  Make sure your video drivers are up to date.  Install all the redistributables that the game comes with.  But this game is too beautiful to settle for DX9!"
+,akki406,2013-06-02T16:47Z,"Anyone having issues with non-official steering wheel compatibility issues ?? My Thrustmaster 2-in-1 FGT force-feedback wheel is not ""listed"".. so when i connect it, the game seems to auto-configure the keys.. but the pedals seem to have got inverted as the car just stays and wheelspins :D
+
+if i attempt to customize the assignments, the selection keeps scrolling up non-stop! If i exit the option menu, the selector keeps scrolling automatically until i unplug the device :(
+
+havent tried to use the thrustmaster control panel to change to inverted pedals and check"
+,ASASIN6,2013-06-03T13:20Z,"*-*-*-*-*-*-*-*-*-*-*-
+WORKZ PERFECT  ............
+tHanx xatab + Taker009
+
+w8iNg f0r m0rE reLeaseZ ....
+
+*-*-*-*-*-*-*-*-*-*-*-
+-GamehuttaN"
+,vishgop,2013-06-04T18:37Z,"When i run the setup i get error ""unsupported compression method"" and installer quits :(
+Please help!!!"
+,vishgop,2013-06-04T19:01Z,installer error pls help!
+,moeburn1,2013-06-06T16:04Z,"@vishgop, sounds like a corrupt download.  did you do a a force-recheck?"

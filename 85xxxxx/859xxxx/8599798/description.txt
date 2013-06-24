@@ -1,0 +1,5 @@
+GlPortal is a free first person action/adventure game where you have to use teleportation to solve puzzles. The current release is tested on GNU/Linux and known to be working on a few machines. The binary release is GNU/Linux only. The code should compile on a Windows machine. But sofar nobody reported success or sent in a Windows build.
+
+While a compleate rewrite is my priority, I am still fixing bugs and put up a new feature every now and then. If you build from git yourself it is more likely you get one or the other feature that is not in the binary release yet. Support us by telling your friends about the project.
+ 
+http://social.w3-net.de/glportal/

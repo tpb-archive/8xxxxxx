@@ -1,0 +1,50 @@
+Episode Synopsis: A behind-the-scenes look at the Blackhawks. Original Air Date: May 8, 2013. Contains Both parts 1 & 2 combined in one 720p avi.
+
+
+General
+Complete name                            : D:NHL 36 - Chicago Blackhawks 720p.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 847 MiB
+Duration                                 : 425h 42mn
+Overall bit rate                         : 4 636 bps
+
+Video
+ID                                       : 0
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : H264
+Duration                                 : 45mn 50s
+Bit rate                                 : 2 376 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.086
+Stream size                              : 779 MiB (92%)
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : FF
+Duration                                 : 425h 42mn
+Source duration                          : 1h 8mn
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 62.9 MiB (7%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 23 ms (0.70 video frame)
+

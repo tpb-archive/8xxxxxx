@@ -1,0 +1,27 @@
+The Spring 2013 stable release of OmniOS (r151006) a Solaris derived UNIX distribution.
+
+Features:
+ * Illumos Kernel
+ * ZFS fileystsem
+ * DTrace Analytics
+ * KVM Hypervisor
+ * Zones lightweight virtualization
+ * IPS Package Management 
+
+Highlights of this release:
+ * LZ4 compression is available for ZFS filesystems and is supported by GRUB
+ * Allow operator setting of TCP initial congestion window (OmniOS ticket #52)
+ * GNU automake packages developer/build/automake-111 and developer/build/automake-19 deprecated and replaced by developer/build/automake based on GNU Automake 1.12
+ * Packages runtime/perl-5142 and runtime/perl-5161 are deprecated, and the Perl package has been renamed to runtime/perl based on Perl 5.16.1
+ * crypto/ca-certificates has been deprecated and replaced by web/ca-bundle. The path to where the certificates are expected to live has change to /etc/ssl/certs/ from /etc/openssl/certs/
+
+
+Learn more at: http://omnios.omniti.com/
+
+Source:  
+http://omnios.omniti.com/wiki.php/Installation  
+http://omnios.omniti.com/media/OmniOS_Text_r151006.iso
+
+stable release (omnios-8d266aa):
+MD5 (OmniOS_Text_r151006.iso) = 676f06319dfab9e70d90ee921d256887
+SHA1(OmniOS_Text_r151006.iso) = f8d495db5b0c2a55f9cbd5c390b4bd0e6cd34df5

@@ -1,0 +1,35 @@
+
+The premier Super Nintendo emulator! Developed from the ground up to deliver the fastest play possible. Easily locate and play your favorite titles by scanning your phone, viewing your list of installed ROMs complete with cover art. 
+
+Save your progress at any time and return instantly to where you left off, thanks to a quick save state system. A huge database of Game GenieΓäó and Pro Action ReplayΓäó codes rounds off the package to deliver the ultimate SNES emulation experience.
+
+- Fastest emulation, best game compatibility
+- Ultra-fast SuperFX core support for playing StarFox & Yoshi's Island
+- SA1 chip support for Mario RPG, Kirby, and more
+- Dropbox cloud syncing support for continuous play across devices.
+- Network multiplayer using WiFi or Bluetooth
+- Visual effects! (OpenGL ES Shaders) Support for custom shaders!
+- Slick user interface
+- On-screen multitouch controls with optional rumble feedback
+- Advanced layout editor for on-screen controls
+- Custom screen size and orientation
+- Auto-detects games and displays cover art
+- Custom control mapping
+- Support for Moga/Pro, Zeemote and iCade 8-bitty game controllers
+- Save games with screen shot
+- Thousands of cheats (Pro Action ReplayΓäó, Game GenieΓäó)
+- In-game GameFAQsΓäó integration
+- Fast-forward games using turbo skip
+- Support for SMC, FIG, SFC, ZIP, and 7z formats
+- Helpful and responsive customer service
+
+What's in this version:
+Release 82
+- Added Mouse support with touch screen, trackball and DPad input.
+- New controller settings dialog.
+- Fixed Dropbox error that synced local meta files.
+- Fixed error on orientation change when downloading shaders.
+
+More info:
+ 
+https://play.google.com/store/apps/details?id=com.bubblezapgames.supergnes

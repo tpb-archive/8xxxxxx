@@ -1,0 +1,44 @@
+Name: Warfare Weapons - Unity
+Description: 
+http://3drt.com/store/characters/modern-firearms-animated.html
+Format: .unitypackage 
+http://unity3d.com
+
+Speed : 400k/s austria
+
+Ungarn / Hungary Power
+
+Modern forearms animated pack.
+- 5 modern realistic guns models with animated hands and weapons.
+- both biped and classic bones are included.
+- M9, HK MP5, AK47, M16, MK-12
+
+Triangles count:
+-M9 Pistol - 1526 triangles
+-HK-MP5 - 2768 triangles
+-AK47 - 3308 triangles
+-M16 - 3400 triangles
+-MK-12 - 3258 triangles
+-Animated hands - 1236 triangles
+000 - 005 t_pose
+010 - 050 draw
+050 - 060 Single_Shot
+060 - 075 Triple_Shot
+075 - 100 Multiple_Shot
+100 - 115 Zoom_In
+115 - 120 Z_Single_Shot
+120 - 135 Z_Triple_Shot
+135 - 160 Z_Multiple_Shot
+160 - 175 Zoom_Out
+175 - 275 Reload
+275 - 375 Idle
+375 - 405 Walk
+410 - 435 Run
+440 - 470 Jump
+470 - 480 Hide
+485 - 540 Zoom_in_2
+540 - 640 Zoom_idle
+640 - 680 Zoom_out
+
+
+Screenshot:http://bayimg.com/fancjAAEf

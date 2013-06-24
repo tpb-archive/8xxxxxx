@@ -1,0 +1,25 @@
+Rotten Tomatoes Review: 
+http://www.rottentomatoes.com/m/princesas/
+
+Source:   
+http://thepiratebay.org/torrent/3505658/PRINCESAS_(2005)_DVD5
+
+Encoded with Handbrake 0.9.9 x86 64 bit:
+Container: MP4
+Runtime: 1:49:20
+Video Codec: H.264 (x264)
+Constant Quality: RF 23
+Frame rate: 25 FPS (Same as Source)
+Source: 720x552
+Resolution: 720x552
+Anamorphic: 1024x552 Strict 
+ipod 5G support: enabled
+
+Audio Track: Spanish (2.0 channel)
+Mixdown: Stereo
+Audio Codec: AAC Core Audio
+Bitrate: 128 kbps
+Subtitles: English, Spanish
+Audio Sample rate: 48000 Hz
+
+I am not sure why, but when opened with VLC, the effective resolution is 1024x552, even though it says 720x552 in the information.  English subtitles is "Track 1", even though it says "Español."  "Track 2" is Spanish subtitles.

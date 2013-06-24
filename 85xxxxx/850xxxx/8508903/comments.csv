@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,chriscrash,2013-05-25T22:51Z,"i don't get it, there's no setup,no rar, no exe, nothing, just a few unidentified files, instruction please"
+,Sp1ke08,2013-05-26T02:07Z,"@chriscrash
+
+Just open the .001 file with winrar and you're good to go."
+,WonderPirate24,2013-05-26T02:22Z,"Hey! I think I found the description and here it is.
+
+Update Notes:
+Update/Additions:
+– 2560×1440 and 1440×900 screen resolution added.
+– Aim Assist ON/OFF toggle added.
+– Mouse Acceleration ON/OFF toggle added.
+
+Bug fix:
+– 120Hz Refresh Rate setting not saving under certain circumstance.
+
+Instructions:
+
+– Unrar the update.exe and run it ( point to your installation folder
+ if required )"
+,chriscrash,2013-05-26T05:59Z,thanks!! 7zip saves the day!! 
+,LCFer,2013-05-26T16:04Z,anyone noticed that the mouse acc option in the patch doesnt really work? if you turn it off it still has mouse acc.
+,Dewarton,2013-05-30T03:23Z,@ LCFer : Fixed  in update 2 but its wrapped in a patch that seems to be not good.
+,Viciously,2013-06-02T18:14Z,Thanks.

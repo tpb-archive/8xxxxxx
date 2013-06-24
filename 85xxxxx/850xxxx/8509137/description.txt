@@ -1,0 +1,80 @@
+The Bat! Professional 5.4.0 and 5.3.10 Portable From HelpDeskSoftware.ru
+
++ Official Original Key for Registration of the Desktop Version of all The Bat! Version including the new someone.
+
+
+
+###################################################################################
+
+New features in The Bat! Professional Portable 5.3.10
+
+###################################################################################
+
+    PluginAPI: Message tags can be manipulated
+
+Improvements
+
+    Hunspell engine was updated to version 1.3.2
+    Now the user has less steps to select user dictionary to add words to a spell checker dictionary
+    Interface fixes in the "Help" menu
+    Cosmetic fixes at IMAP Settings
+    Preferences dialogue should now always appear in the centre of the screen
+    Default mail server settings for www.outlook.com were added
+    Custom ServersInfo.INI can be placed into the mail directory in order to add default transport settings for new accounts
+
+Fixes
+
+    Root CA certificates have been updated
+    Some 8-bit encoding problems when sending a message to an Address Group have been fixed
+    Selected Headers of the Message Editor were shown wrong in menus
+    Changing of a message priority was not reflected at the MailTicker(TM)
+    Read filters were always invoked regardless of the "Manual Only" settings
+    Message editor: some HTML messages were quoted in a wrong way
+    Timeout in account settings wasn't used for IMAP connection
+    Certificates/keys from PFX files with unknown attributes could not be imported
+    Attachment name could be incorrectly encoded
+    When a message reminder was set up, the default notification settings were not used
+    Text in HTML reply could be trimmed when printed
+    Quick Reply from separate windows could use a wrong message for reference
+    Clipboard could be permanently locked (until program restart)
+    A bug with PGP passphrase caching has been fixed
+    Fixed a negative counter error on IMAP after message expunging (additional fix)
+    Import from CVS-file with some fields empty but enclosed by quotes into the address book returned incorrect results
+    Date decoding can fail if specified date is before January 1, 1601 (UTC)
+    Sometimes messages from closed password protected accounts were shown in MailTicker(TM) and could be viewed when double-clicked. To workaround this issue ask password.
+    Program could not be closed after attachment loading on IMAP
+    The Bat! didn't properly decode inline PGP and UUE from HTML-only messages
+    Message tags with non-ASCII characters could be encoded in a wrong way
+    Quick Reply was using addressee information only in the %QTO macro, now this information is used by default
+    Message Finder - "Any part" conditions was not stored in the search history
+    When account was locked, sometimes it was possible to read folders with unread messages
+    HTTP requester can lose data from server when proxy with authentication was used
+    Quick templates were not shown as a Forward button sub-menu
+
+###################################################################################
+
+New features in The Bat! Professional Portable 5.4.0
+
+###################################################################################
+
+Fixes
+[-] Some problems with printing selection from a message viewer
+[-] Fixed icon assignment (message icon was shown as sorting icon)
+
+
+###################################################################################
+
+ORIGINAL KEY - SERIAL IN THE COMPLETE SET FOR DESKTOP VERSIONS
+
+###################################################################################
+
+
+FREE FOR ALL!!! VIRUS FREE!!! LEGALLY AND OFFICIALLY!!!	 
+http://bayfiles.net/file/QiRh/yxmThh/Official_Key_The_Bat_Pro_5.4.X_For_Desktop_Versions.exe
+
+From below links remove the space and put in the URL address
+nl/FHPPH8CSWZ
+
+rghost. ru/46258589
+
+mir. cr/1FTWKR2A

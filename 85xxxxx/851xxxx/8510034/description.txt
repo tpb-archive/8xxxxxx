@@ -1,0 +1,27 @@
+This is an Ubuntu Desktop 12.04 LTS virtual machine with I2P installed and ready for use. I2P is configured to start the BOB Application Bridge on startup. It also has Neodatis, Seedless, and I2P-Bote plugins installed. Aditionally the Robert bittorrent client is installed and ready for use.
+
+The virtual machine is designed for VirtualBox.
+
+The goal is to get this virtual machine out to individuals who are not aware of I2P and to make it as easy as possible for them to experience I2P.
+
+This file is provided by Darknet Products (http://darknet-products.i2p). PGP public key is available from the eepsite.
+
+Signature for the i2p-vm.tar.gz file:
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAABAgAGBQJRoXKPAAoJEB9f0g1Fre0K0BkQAKhFXDQJWs5fiM4VVKpPw2F4
+YTYDfY/qe6QSeHoHnJUs0JB3+FH44lOBrk6IHBCtxMkf4f7XUFaRf/jKK/aWKX5b
+rqGV82OOMTS+Mywc9Igru6LzYWyk6Zz+GDSbqgdPg/koQznxZKNUkyARXTILNP7a
+78LzRZ3Ocsmo6beYxbVfBIlexRQzc/0jL/se2BSDPWgCgMy3CbK8O6wgk1+UVu+6
+5P3XkVMpjp6+7yipc3pln7ZZ7FvIS8GmkGg4a5jGXxLBWsKdyYPTztxbnihaIzd9
+IM2MPjgYzCd5psND9Tp8ZVKRLrHuwyg1B6EE/jraD2TRytX6sVk89gBvsGL53InZ
+jt7KcK92gOuN/Ewp8y9o2XaAb8BIqAtzMguxeJKbPFTJbu9Rz6vcnj4cjH/FEjcT
+/+/HQtKL+UTTcZMG6Abr/ptn/4bn/J9PVcaV49g3WvjI0E5kVNXrytglGoG+C1LS
+HjR7NGRUeLz4R5JuFfYb0UO6rgJiO0AIdfQn4mbYtAL4QXLZTqLhMWVoQLn1Dizd
+oR6UtnPbyN3bblJDkobmyg8rBM0xnWK9elYRPPTJW8Sn09PybUGy/jASWrOVWTwr
+AwLV2HXuMMUrkGZRPPK0ilbokJjtRtYyHSnolbSdS3I93rEjbChHWRGLKN1uvUrO
+j9nZQo7gHQf3LIVoCTaZ
+=EUtu
+-----END PGP SIGNATURE-----

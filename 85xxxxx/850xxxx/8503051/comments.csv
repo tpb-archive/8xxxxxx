@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,KurdTM,2013-05-24T11:24Z,thanks . it works perfect 
+,dandalis,2013-05-24T11:24Z,"another useless update, still no perfomance increases -__-"
+,x1911,2013-05-24T16:32Z,"New fixes:
+
+- Fixed problem with Mountaineer, Sure-Shot, and Demolition outfits not properly unlocking when no other DLC is installed.
+- Fixed TressFX Hair not being able to be turned on, on some machines, when using AMD Eyefinity or NVIDIA Surround.
+- Significant performance improvements in CPU limited areas, for example in Shanty Town. (This is the same fix we have previously exposed to users on forums with the MulticoreFlushMode registry key).
+- Fixed water polygons randomly disappearing on Intel graphics hardware.
+- Fix problem with English VO setting when playing in Japanese not properly being remembered after a restart.
+- Minor UI improvements.
+
+Players on NVIDIA hardware we recommend using the 320.0 BETA or more recent drivers, which contain several driver fixes related to Tomb Raider."
+,SpyrosMonster,2013-05-24T23:55Z,The new 3 outfits are still not activated on my version... Does anybody know why?

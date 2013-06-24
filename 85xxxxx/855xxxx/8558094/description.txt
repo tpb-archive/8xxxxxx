@@ -1,0 +1,51 @@
+2012-2013 Patch (v1.4) for FIFA 11
+
+Contains:
+- different squads-versions (see file "Info_change squads (versions).txt")
+- skill "dribble speed" updated for all players
+- 112 New faces:
+* english premier league, rsc anderlecht, ...
+* face/hair updates: Lewandowski, Ribéry, ...
+- goalnet-colours: improvements (Bor. Dortmund & Hamburg)
+- kits:
+* parma - 3th kit
+* Cardiff city - 3th kit
+- jerseyname updated: Blaszczykowski (Bor. Dortmund)
+- Career:
+* CL & EL final stadium: Wembley & Amsterdam ArenA
+* stability improvements
+- improvements in db:
+* splitted name-lists (playernames / dcplayernames)
+* teamplayerlinks-list: removed all players of teams "freeplayers" & "world XI"
+* team-list: world XI, fix
+* formations: fix, wrong values '3' at attacking/defensive role
+
+- list avaible shoes, music, new teams
+- garanteed compatibility with online mode: no missing textures, ... for other players
+
+- VERSION 1.0 to v1.3.8 INCLUDED
+
+Supported languages: english, Czech, dutch, french, german, hungary, italian, spanish (2X), portuguese, polish, russian
+
+Installation:
+1. extract the data from the archive
+2. copy to FIFA 11 folder (...FIFA 11game )
+3. Start FIFA 11
+4. Create new profile (old squads-savegame dont work anymore)
+5. ENJOY!
+
+
+Notes:
+- You need to have FIFA 11 patch 1.01 (from ea) installed
+- your old savegames dont work with the new squads
+- Some new players that are being added may have small problems with their name when you play online
+
+- Enable DIFFERENT VERSIONS: see help file "Info_change squads (versions).txt"
+- CLEAN INSTALL (1.01 ea) recommend
+
+Problems:
+- crashes, ...: use the "fifa 11 regenerator" (select "take care of edited files..." > go  , can take some time)
+- still problems? --> go to my forum for more help
+
+
+pls leave your comments if there are any problems

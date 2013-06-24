@@ -1,0 +1,26 @@
+===========================================
+Instructions
+===========================================
+
+1. Extract all the contents from the rar file to your Garry's Mod folder and overwrite when asked
+
+2. Launch the game as usual
+
+===========================================
+Changelog v13.06.11
+===========================================
+
+NEW Added OGG audio streaming
+NEW Added sound.PlayURL( ΓÇ£urlΓÇ¥, ΓÇ£3d mono loop noplayΓÇ¥, callback_func )
+NEW Added soundchannel:Play()
+NEW Added soundchannel:Stop()
+NEW Added soundchannel:Pause()
+NEW Added soundchannel:SetVolume( float )
+NEW Added soundchannel:SetPos( vecPos )
+NEW Creating a timer now returns a timer object
+NEW Added bodygroups changer to player editor
+FIXED Fixed other game content not mounting on Linux
+FIXED Fixed broken MP3 streaming
+FIXED Fixed some Linux case sensitivity problems when mounting other content
+
+===========================================

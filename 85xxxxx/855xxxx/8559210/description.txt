@@ -1,0 +1,183 @@
+VTC - MySQL 5 Development - Part 1
+
+
+Information
+
+Course:MySQL 5 Development (Part 1)
+Author:David Swain
+SKU:34225
+ISBN:1-936334-93-3
+Release Date:2011-05-27
+Duration:11 hrs / 129 tutorials
+Subject: Databases 
+
+
+Description
+
+As with any significant software product, MySQL is a broad subject for study and there is a lot we must know to be able to use it effectively. David Swain's MySQL 5 Development Part 1 course for VTC is the first in a training series intended to provide a solid foundation on which to build MySQL mastery. In this introductory course, we learn a number of non-destructive, read-only techniques for retrieving data from a MySQL database, as well as some useful history and practical background information about MySQL. We focus on statement and expression syntax and "why" those elements are written in a specific way. Further study exercises are provided for many of the hands-on lessons. Click the movie links below to get started now!
+
+
+Table of Contents
+
+Introduction
+* Welcome (04:34)
+* What This Course Will Cover (05:09)
+* System Requirements (02:56)
+* A Brief History of MySQL (06:07)
+* Help on the MySQL Web Site (03:27)
+* Online Manual Demonstration pt. 1 (05:56)
+* Online Manual Demonstration pt. 2 (01:54)
+
+Database Basics
+* Definitions (04:28)
+* Client/Server Systems (06:04)
+* Tables/Columns/Rows (03:21)
+* Database Design in a Nutshell (06:21)
+* Indexes (03:45)
+* Databases in MySQL (05:43)
+
+Installation
+* Installation Basics (07:19)
+* Windows (07:16)
+* Mac OS X (02:58)
+* Linux (02:00)
+* What We Installed (05:27)
+* Starting and Stopping MySQL (02:19)
+
+Configuration
+* MySQL Server Configuration (02:18)
+* Server Startup Options (05:53)
+* MySQL Configuration File (05:25)
+* Important Configuration Options (06:00)
+
+Client Programs
+* Command Line Operations (05:48)
+* Using a Command Line Client (04:05)
+* Command Line Client Help File (06:06)
+* MySQL Client Batch Mode (06:27)
+* MySQL Client Interactive Mode pt. 1 (06:01)
+* MySQL Client Interactive Mode pt. 2 (04:32)
+* MySQL Client Interactive Mode pt. 3 (06:02)
+* Executing Scripts (06:49)
+* Exploring Databases and ables (07:11)
+
+SELECT Statement Basics
+* SELECT Arithmetic (06:18)
+* Selecting More Than One Column (04:42)
+* Operators and Functions (05:03)
+* Column Aliases (05:50)
+* NULL (05:01)
+* Data Type Basics (05:24)
+
+Variables
+* What is a Variable? (03:55)
+* User Variables (01:42)
+* Assignment Operator (02:50)
+* SET Statement (05:53)
+* System Variables (04:36)
+* Variable Scope (07:12)
+
+Calculations and Expressions
+* New Values From Old (02:35)
+* Operators and Operands (03:45)
+* Arithmetic Operators (03:39)
+* String Operators (05:12)
+* Comparison Operators (05:28)
+* Logical Operators (06:22)
+* Order of Precedence (02:59)
+* Functions and Parameters (03:28)
+* Useful Numeric Functions (06:31)
+* Useful Character String Functions (07:10)
+* Temporal Operations (05:33)
+* Useful Temporal Functions (05:09)
+* Decision-Making Functions (07:27)
+* NULL-Related Functions (04:52)
+* Useful System Functions (02:41)
+
+Querying SQL Data
+* Using a Database (05:02)
+* Selecting FROM a able (04:59)
+* Targeting Rows Using WHERE (05:08)
+* Complex WHERE Criteria (06:59)
+* Sorting Results Using ORDER BY (05:56)
+* Going to Extremes Using LIMIT (03:38)
+* Avoiding Duplicates Using DISTINCT (03:54)
+* Aggregation Queries (04:52)
+* Subtotals Using GROUP BY (06:10)
+* Filter Derived Columns with HAVING (02:43)
+* Multilevel Sums Using WITH ROLLUP (05:17)
+* Summarizing SELECT Clauses (06:44)
+* Some Clauses Cannot Coexist (03:07)
+
+Databases and Tables
+* Databases in MySQL (04:42)
+* Creating a Database (06:57)
+* Aspects of a Table (02:47)
+* Creating a Table (05:12)
+* Table Options (05:08)
+* Column Options (06:35)
+* Auto-Incrementation (05:29)
+* Altering a Table (04:54)
+* Adding and Dropping Columns (03:43)
+* Altering a Column (06:09)
+* Dropping a Table (04:27)
+* Dropping a Database (04:26)
+
+Data Type Details
+* Dataype Categories (02:23)
+* Integer Numbers (07:00)
+* Floating Point Numbers (07:36)
+* Fixed Decimal Numbers (04:49)
+* BIT Data Type (07:24)
+* Strings (03:13)
+* Basic Character Strings (05:45)
+* ENUM Character Strings (06:35)
+* SET Character Strings (06:08)
+* Character Sets (06:54)
+* Collations (06:51)
+* Fonts and Keystroke Mapping (07:00)
+* Binary Strings (05:21)
+* Temporal Data (05:43)
+* Timestamp and Time Types (06:16)
+
+Storage Engines
+* Storage Engine Basics (06:29)
+* Discovering Storage Engines (04:34)
+* MyISAM (06:20)
+* InnoDB (06:36)
+* Memory (05:31)
+* Example (01:54)
+* CSV (03:53)
+* Archive (02:38)
+* Federated (04:41)
+* Blackhole (02:27)
+* Third Party Engines (02:27)
+
+Exporting Data
+* Basic Export Concepts (02:57)
+* Exporting Using SQL Commands pt. 1 (04:44)
+* Exporting Using SQL Commands pt. 2 (05:06)
+* Exporting on the Shell Command Line (05:03)
+* Using MySQLDUMP for Scripts (07:02)
+* Using MySQLDUMP for Exporting (07:21)
+
+Prepared Statements
+* Prepared Statement Basics (07:53)
+* Prepared Statement Demonstration (07:00)
+* Commands That Can Be Prepared (03:32)
+* When to Use Them (03:26)
+
+Server Information
+* Metadata (07:07)
+* SHOW Commands (06:39)
+* DESCRIBE Command (03:07)
+* MySQLSHOW Command Line Client (06:58)
+* Information_Schema Database pt. 1 (04:55)
+* Information_Schema Database pt. 2 (06:40)
+
+Conclusion
+* What We Covered (03:00)
+* Where to Go from Here (03:08)
+
+Credits
+* About the Author

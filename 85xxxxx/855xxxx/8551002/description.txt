@@ -1,0 +1,42 @@
+CCleaner Professional / Business Edition 4.02.4115 ML
+
+CCleaner a utility for cleaning the debris in the operating system. In the course of their work CCleaner (Crap Cleaner) is looking for and removes unused files. These include: cookies, history, visiting sites in IE, temporary Internet files, search strings, files, Recycle Bin, etc. Also search for temporary files of third-party applications: Firefox, Opera, Media Player, eMule, Kazaa, Google Toolbar, Netscape, Office XP, Nero, Alcohol 120, Adobe Acrobat, WinRAR, WinAce, WinZip, GetRight, Morpheus, Download Accelerator Plus, VirtualDub , ZoneAlarm and many others. Can be subjected to cleaning and registry Windows, ridding it of its unnecessary extensions of the old library dll and wrong ways, which accumulate in considerable quantities, especially after the installation and removal of a variety of programs. Doing all of these operations on your system, you not only free up disk space, but also increase overall system performance.
+
+CCleaner cleans the following components:
+┬╗Internet Explorer
+"Cart
+"The Clipboard
+"Temporary Windows files
+"Windows Logs
+"The list of recent documents (in the Start menu)
+"The history of executed commands (Start)
+"The history of the assistant search in Windows XP
+"Obsolete Data Prefetch in Windows XP
+"Memory dumps after crashes Windows
+"Chkdsk file fragments
+
+Advanced options allow you to clean:
+"The cache priority menu
+"Cash Tray posts
+"The cache sizes and locations Windows
+"The history of aid to the user
+"IIS log files
+"Additional Folders
+
+Safety:
+From the outset, CCleaner developed a safe and secure program. It has several powerful levels of inspection, to be sure that no sensitive information or document would not be removed. We also guarantee that CCleaner does not have spyware or adware.
+
+Privacy Policy:
+For users, we also provide the function of permanently erasing files with multiple rewrites, which does not allow to restore them in any way.
+
+Changes in 4.02.4115:
+Improved History cleaning for Internet Explorer 10.
+Optimized Cache cleaning for Internet Explorer 10.
+Improved Download History cleaning for Firefox.
+Improved DOMStore cookie cleaning for Internet Explorer 10.
+Optimized detection of Google Chrome Startup items.
+Improved drive detection in File Finder.
+Improved System and Browser Monitoring (Pro Version).
+Added cleaning for Adobe Fireworks 6.0, Nero 12 Platinum HD Suite, Foxit Reader 6.0, Virtual Clone Drive, PDFCreator and PDF Architect.
+Improved cleaning for Freemake Video Converter.
+Minor bug fixes and GUI improvements.

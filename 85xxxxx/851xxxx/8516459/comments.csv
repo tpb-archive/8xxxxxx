@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,sanusaha911,2013-05-28T15:04Z,"WHen Ever I am trying 2 download this torrent it gives me this link error -> 
+
+magnet:?xt=urn:btih:c5d77526c9c1f97cfef635f1e761f4eae2839ed6&dn=GRID.2.CRACK.ONLY-RELOADED+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+[V],Gh0stNet,2013-05-28T15:09Z,use magnet link
+[V],extremezone,2013-05-28T15:30Z,"sanusaha911 just google for torrent hash number ""C5D77526C9C1F97CFEF635F1E761F4EAE2839ED6"" and download it from a site with .torrent files"
+,adroit1,2013-05-28T20:12Z,This is the only crack that is working but DLC is not available can some one help.
+[V],Gh0stNet,2013-05-28T20:55Z,"Change dlc id in steam_api.ini to 
+
+
+
+DLC001=0000221160
+DLC002=0000221161
+DLC003=0000221162
+DLC004=0000221164
+DLC005=0000221165
+DLC006=0000221166
+DLC007=0000221167
+DLC008=0000221168
+DLC009=0000000000
+DLC010=0000000000"
+,adroit1,2013-05-29T04:49Z,@Gh0stNet thanks its working.
+,king2795,2013-06-01T12:46Z,"my grid 2 starts but dont show the game , got a black screen , with this crack or just simple change on steam api
+
+someone can help me ? "
+,vagenrider,2013-06-02T13:54Z,works but no save..
+,RSF1903,2013-06-04T03:49Z,"king2795 your problem solved:
+In Documents, go to DocumentsMy GamesGRID 2hardwaresettings.
+You should look for the file named hardware_settings_config.xml.
+Open the file in a text editor and look for the line:
+directx forcedx10=”false”
+Once, you find it, you should change it as follows:
+directx forcedx10=”true”
+Save the changes and run the game again."
+,SleepingZUMBI,2013-06-04T14:53Z,It's saves the progress in game ? 
+,shipo007,2013-06-10T18:01Z,this did not fucking work at all..it just upgraded my dumbass steam manager...and after that whenever i try to run the game i shows me the steam store and asks me to buy this fucking game...
+,jlc4life,2013-06-13T15:04Z,"It gives me an error «application can't start normally (0xc0000022)»
+
+Anyone knows what is the problem ??"
+,Ploomp,2013-06-13T18:17Z,i get to the press start screen then it says checking for downloads and crashes. ive already edited the dlc id as well as forced directx10 value to true. need help!
+,jlc4life,2013-06-14T17:42Z,"Now it started and it brings me to Steam / Grid 2 communauty and I know why it is because I can't move the steam_api.dll 
+
+Anybody knows why ?? (I am the admin of this computer)"
+,jlc4life,2013-06-14T17:57Z,"Never mind both of my last comment for no particular reason I restarted my pc and I've been able to move steam_api.dll
+
+Works great thx a lot !!!"

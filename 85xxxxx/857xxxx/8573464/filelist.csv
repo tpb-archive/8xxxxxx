@@ -1,0 +1,19 @@
+﻿Filename,Size,Unit
+3. INIT Environment.mov,51.64,M
+5.PROC File System.mov,51.48,M
+6.SBIN Executables.mov,51.16,M
+4.Kernel Modules Environment.mov,51.04,M
+8. INETD _ XINETD Configuration.mov,50.12,M
+10. Pluggable Authentication Modules (PAM).mov,49.25,M
+15. System Scheduler Environment.mov,48.88,M
+16. DNS Server Configuration.mov,48.19,M
+14. User Profiles Environment.mov,47.29,M
+12. NSSWITCH Configuraton.mov,47.04,M
+7. System Control Configuration.mov,46.67,M
+11. Hosts _ Protocols _ Services.mov,46.03,M
+2. Boot Partition.mov,42.93,M
+9. User Accounts Environment.mov,40.89,M
+17. SYSLOG Configuration.mov,37.92,M
+13. DNS Client Resolution Configuration.mov,37.73,M
+1. Introduction - Topology - Features.mov,37.64,M
+info.txt,4.59,K

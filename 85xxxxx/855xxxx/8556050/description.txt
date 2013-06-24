@@ -1,0 +1,5 @@
+Roland Garros 2013, Final, S Williams v Sharapova, capture of HD broadcast.
+
+Transcoded from 1080i/25fps MPEG-TS, 10.7 Mbps to 720p x264 using ffmpeg with settings -s hd720 -c:v libx264 -crf 21 -preset veryfast -tune animation -vf "yadif=0:-1:0" -c:a libfdk_aac -b:a 128000 -ar 44100.
+	
+

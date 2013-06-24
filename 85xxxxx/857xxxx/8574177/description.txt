@@ -1,0 +1,28 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 338 MiB
+Duration : 21mn 27s
+Overall bit rate mode : Variable
+Overall bit rate : 2 205 Kbps
+Writing application : Lavf52.57.1
+
+Video
+Format : AVC
+Format/Info : Advanced Video Codec
+Duration : 21mn 26s
+Bit rate : 2 036 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate : 24.000 fps
+Stream size : 312 MiB (92%)
+
+Audio
+ID : 2
+Format : AAC
+Duration : 21mn 27s
+Bit rate : 165 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Stream size : 25.4 MiB (7%)

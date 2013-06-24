@@ -1,0 +1,46 @@
+Info www: http://www.wabbitwanch.com/iFCB.html
+
+
+
+With iFCB Version 2 on Macintosh OS X, we have expanded the ways to program, annotate and simulate your Behringer FCB1010 MIDI footboard controller.
+
+A graphical user interface that mirrors both the look and operation of the FCB1010 makes programming much easier than the usual footboard "Riverdance"! If speed is your goal, use our expanded matrix view and change a single patch item directly in the grid or select the patch lines and change items at the same time. 
+
+Version 2 expands to support COMMENTS for each patch line!  Plus, you can link the comments to your FCB1010. Any time you load the SYSEX from the FCB1010 all of your comments will be displayed for you automatically.
+
+FCB-BITS - We've also introducing FCB-BITs for iFCB where instead of having to deal with another users complete patch set and over writing your own, you can import selected patches to augment your own sets or export select patches for other iFCB users to use.
+
+With our expanded simulation mode, the interface perfroms exactly the same as a real FCB1010 so you can easily test your changes to see how they will affect the operation of devices you plan to control via the FCB1010.
+
+Programming, simulation and comments are only part of iFCB. You can backup, restore and arrange presets with relative ease.
+
+Features:
+
+Comments - Easily add and link comments to each of your patches
+FCB-BITS - Import/Export patch lines with comments for other iFCB users
+MINI FCB1010 Control palette for SIM mode testing
+Easy access to FCB1010 global settings
+Expanded user manual in process format, many step by step examples
+iFCB features both GUI editor AND matrix/grid style editor
+Enhanced editing and patch arranging in spreadsheet mode
+SIM mode to easily test configurations (software and hardware)
+Backup FCB1010 Presets in seconds (allows multple backups)
+Restore FCB1010 presets from any backup file
+Manual or automatic version update checks
+Built in MIDI control reference files for V-AMP, podXT's, Digitech Whammy, Live
+Ableton LIVE Setup configuration files and documentation
+System/MIDI Requirements:
+
+Macintosh OS X - 10.4 or newer, including Snow Leopard and Lion 
+Behringer FCB1010 Firmware 2.3 or newer (UNO firmware not supported)
+Dedicated Midi Interface: MOTU  MIDISPORT 1x1, 2x2 (UNO not advised)
+Needs TWO MIDI cables (IN and OUT must be connected to interface)
+FCB1010 Direct Select Mode editing not supported
+1280 x 800 display required for Comments view
+MIDI Interface Warning: 
+
+We highly recommend a dedicated MIDI interface for programming the FCB1010, the most reliable are the ones without the built in cables. Audio interfaces (USB or Firewire), MIDI Controllers (USB), keyboards are hit and miss for reliable SYSEX transfers. Use the Loopback test from within iFCB to test your interface to ensure compliance (steps in how to do it are in the Help Guide).
+
+
+[k'd] By LfsCrew 
+Buon Divertimento !! ;D

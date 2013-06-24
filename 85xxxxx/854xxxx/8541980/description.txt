@@ -1,0 +1,23 @@
+Hardcoded English subs for foreign speech only
+
+Format                  :Matroska
+File size               :1.63Gb
+Duration                :02:16:11
+
+
+        Video
+
+Codec ID                : V_MPEG4/ISO/AVC
+Width                   : 1920 pixels
+Height                  : 816 pixels
+Display aspect ratio    : 2.35:1
+Frame rate mode         : Variable
+Frame rate              : 29.976 fps
+
+        Audio
+Format                  : AC-3
+Codec ID                : A_AAC
+Bit rate mode           : Constant 
+Channel(s)              : 2
+Channel positions       : FL + FR
+Sampling rate           : 4800 Hz

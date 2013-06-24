@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,godziothc,2013-05-30T02:41Z,too bad only subtitles are multilang
+,JustFrog,2013-05-30T14:12Z,"anyone else having install probs? fails looking for install-1.bin. meets sys reqs according to info on web.
+
+mounted w/daemon tools
+winxp sp3 
+1.6g processor
+2g ram
+raedon 9700"
+,JustFrog,2013-05-30T14:33Z,"RE: my last post..
+
+fixed by copying the 2 .bin files to a temp dir and renaming them from setup-1 to install-1 etc.
+
+installing now"
+,JustFrog,2013-05-30T15:16Z,"argh.. fixed the install problem, now screen is all garbled. ideas anyone?"
+,revanhan,2013-05-31T04:28Z,"@JustFrog
+suggest you uninstall the whole thing and use proper installation method ie. mount the image file (.bin file in this case) using daemon tools or alcohol 120% and run the installer inside the virtual drive u just mounted."
+,JustFrog,2013-06-05T16:04Z,"@revanhan: Did just that.. but the install calls for the wrong file install instead of setup, etc install runs fine, game ,oads runs fine, but when I actually enter the game the map screen where everything is done is all garbled. it's not a DX issue nor a driver issue.. just wondered if anyone had a fix or a workaround"

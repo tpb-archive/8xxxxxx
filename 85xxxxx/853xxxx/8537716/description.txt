@@ -1,0 +1,111 @@
+
+                                             
+
+
+                                 S T A R S   O F   G R E E D
+
+                          GUNPOINT (c) SUSPICIOUS DEVELOPMENTS LTD
+
+           CRACKER......: TEAM WaLMaRT        ||    COMPANY.........:  Suspicious DL
+                                              ||
+           SUPPLIER.....: TEAM WaLMaRT        ||    DATE............:  03/06/2013
+                                              ||
+           PACKER.......: TEAM WaLMaRT        ||    SIZE............:  46x15 MB
+                                              ||
+           PROTECTION...: -/-                 ||    PLATFORM........:  WiNXP / 7 / 8
+
+
+                         I + N + F + O + R + M + A + T + I + O + N
+
+
+          Gunpoint is a stealth puzzle game that lets you rewire its levels to trick
+
+          people. You play a freelance spy who takes jobs from his clients to break
+
+          into high security buildings and steal sensitive data.
+
+
+                                  I + N + S + T + A + L + L
+
+
+          1 Extract archives, mount .iso and run setup
+
+          2 Install the game
+
+          3 Play and have a fun! 
+
+
+                             G + R + O + U + P   N + O + T + E + S
+
+
+          Recently our releases with cracked SteamWorks protection got nuked for:
+
+         
+          2w521jq.jpg"
+
+          Well, we used 4 header-files for some hints, e.g. from SteamNetworking.h
+
+          and Stea COGENTs emulator source on 2 our releases, because we
+
+          had trouble making them to work properly.
+
+          Although we used these few header files they are still modified, and the
+
+          actual sourcecode is our own. COGENTs leaked and upped in public steamemu
+
+          doesnt actually work for a tons of newer  games (e.g. caused by
+
+          RemoteStorage, SteamUtils and some other interfaces) and somehow ours does
+
+          (see: Resident.Evil.Revelations.Update.2-WaLMaRT)
+
+          But in general you cant say its stolen. As you can simple google Open-
+
+          SteamWorks and voila. Almost all info you need to make own emulator is
+
+          there 
+
+          and modified a little it: e.g. int32 -&gt; DWORD&gt;.
+
+          The only 2 releases that have a string from a headerfile we accidentaly
+
+          used are:
+
+          Resident.Evil.Revelations.Update.2-WaLMaRT
+          iBomber.Defense.Pacific-WaLMaRT
+
+          The rest didnt even use that particular header file and also contain no
+
+          COGENT strings . So all these releases would be an inva-
+
+          lid nuke anyway:
+
+          Patrician.IV.Steam.Special.Edition-WaLMaRT
+          Metro.Last.Light.Update.4.Repack-WaLMaRT
+          Gothic.3.Forsaken.Gods.Enhanced.Edition-WaLMaRT
+          Surgeon.Simulator.2013.Steam.Edition-WaLMaRT
+
+          As a bonus, we also included a screenshot with the folder containing our
+
+          sourcecode as proof. see: http://i.imgur.com/zoR5IA4.png
+
+
+                                      N + O + T + E + S
+
+
+                                     SMELLS LIKE A HONEY!
+
+
+                                G + R + E + E + T + I + G + S
+
+
+                      VOMIT  DOCUMENT  EAT  BRD  AiR  FiCO  XFORCE
+
+
+                                R + E + C + R + U + I + T + S
+
+
+                 LOOKING FOR A NICE SECURE PRIVATE 100MBIT+ AFFIL. FIND US.
+
+
+	

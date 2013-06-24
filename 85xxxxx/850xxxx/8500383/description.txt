@@ -1,0 +1,110 @@
+-==============================================================================-
+-=    Windows XP x64 SP1 nLite'd by 0x3d - Tiny, fast, no bullshit Windows    =-
+-=           Based on Windows XP x64 Professional by XiSO (thx guys!)         =-
+-=                                                                            =-
+-=                                           v1.0 released 2013/05/23 by 0x3d =-
+-==============================================================================-
+
+A nice, clean, small, no bells, no whistles, just f'ing FAST AS HELL version of
+the best OS outside Linuxtown. Nobody needs it any slower than this!
+
+It's basically a fully functional XP x64 with everything stripped out (nLite)
+except the very basics. Here's an almost complete excerpt from what's left:
+
+ - All keyboard layouts and languages (aren't the interwebs international?)
+ - Camera, DHCP, Printer and MS Office compatibility
+ - Installable from USB (WinToFlash et al.)
+ - Accessibility tools (Magnifier, Narrator, ...), Calculator, Paint, Wordpad
+ - Internet Explorer (you'll need some way to download Chrome, won't you)
+ - Outlook Express (not very secure but still the slickest Mail-client there is)
+ - Removable storage support (those USB sticks and disks still around?)
+ - Command line tools (give Windows a nice Bash already!)
+ - AMD & Intel CPU drivers with SMP support
+ - IPv6 (yes, we all hate it but oh well)
+ - DirectX & OpenGL support
+ - Ramdisk support
+ - VPN support
+ - ... and of course the Beep driver because: FU ding.wav! ;)
+
+-==============================================================================-
+
+Integrated mass storage drivers: (from http://www.win-raid.com - thx Fernando!)
+ - AMD SB7xx & SB8xx v3.3.1540.33
+ - ASMedia SATA3 AHCI v1.3.4.1
+ - Intel RST AHCI & RAID v11.2.0.1006
+ - Intel MSM AHCI & RAID v8.9.8.1005
+ - Intel RSTe AHCI & RAID v12.6.0.1033
+ - JMicron RAID R1.17.65
+ - nForce Legacy v6.99
+ - nForce SATA AHCI v10.3.0.46
+ - nForce SATA RAID v10.3.0.46 & v11.1.0.43
+ - Silicon Image 31x12 RAID v1.0.65.1
+ - VIA RAID v6.01
+
+Now that must be on par with bloaty Seven or something ;)
+
+-==============================================================================-
+
+Things some people might miss and my reasons why it's not included:
+
+ - Windows Updates (makes everything slower - you yell security, I say PEBKAC!)
+ - Defragmenter (use Defraggler or an SSD where you basically need no defrag)
+ - Games and Screensavers (as in "getting things done"!)
+ - All ancient drivers except basic VGA and abovementioned storage drivers
+ - Floppy and modem support (you serious?)
+ - Cursors, Images, Backgrounds, Samples, Sounds (again: GTD!)
+ - Windows Media Player (use VLC)
+ - Active Directory support (oh come on, this shit's a mess!)
+ - Filesystem encryption (your files belong on a Linux fileserver)
+ - Windows Firewall (yes, no updates and no firewall, you're back on your own)
+ - Themes (once more: GTD!)
+ - CD burning (many things came after that already)
+ - Secondary login (simple: one machine, one user - at least where I live)
+ - Terminal services (use VNC, TeamViewer or what have you)
+
+-==============================================================================-
+
+Some more notes:
+
+ - Installs within ~5 minutes on your average 2013 PC
+ - Administrator is called r00t, Guest is n00b, no initial passwords set
+ - Default regional settings and keyboard set to English (US)
+ - Attended install i.e. non-automated install, set your options during setup
+ - Classic theme, logon page and start menu (did someone say FAST?)
+ - no TCP connection limit, USB polling @ 1000 Hz, SFC disabled
+ - Lots of minor tweaks (Windows Explorer, network, performance, security, ...)
+
+-==============================================================================-
+
+Disclaimer:
+
+No, this "distro" is not for the average Joe, it's for geeks that crave an OS
+with all the modern features the newer Windows version have but hate all the
+background activity one doesn't seem to get entirely rid of on those shiny new
+OSes. New isn't always better. Heck, even my Windows 3.0 could do exactly the
+same things in 1991 that a Windows 8 can do nowadays in 2013, only thing that's
+changed is the look. Yes, believe it or not but today we actually do sometimes
+wait longer for operations to finish than back then despite having hardware that
+is at least 1000x faster! It's called capitalism and marketing.
+
+This is all about getting an OS that does what an OS is supposed to do:
+manage hardware and processes, period. Let us, the user care about the rest!
+
+Sure, no updates + no firewall calls for desaster but really, who gives a crap
+if you take an image (e.g. Clonezilla) of your Workstation every once in a while
+and you keep your files on a Linux fileserver?
+
+-==============================================================================-
+
+tl;dr:
+
+1. This is about "Get out of my way you stupid OS, let me do my work!"
+2. This is definitely not about security. No, not at all!
+3. If you don't know what cmd.exe or regedit.exe is then this is NOT for you.
+
+-==============================================================================-
+
+Donations kindly accepted: BTC: 1K4C1CyRLKZFAtGR9PnJCUFchVsokMrXsf
+                           LTC: LURYCFQYJ1JwQG6b4Ek98nCp54SwK3Unht
+                                    
+And last but not least: Enjoy!

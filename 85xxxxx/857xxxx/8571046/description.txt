@@ -1,0 +1,28 @@
+C.O.J Gunslinger Update v1.02 Only
+
+Changes:
+
+quick access to users' profiles is now possible directly from any leaderboard menu
+new game option allows to "de-pimp" legendary weapons' in order to use standard (regular) skins
+extra directional arrows are now displayed next to action keys during Quick Time Events sequences when played on mouse/keyboard
+slightly balanced Ranger's possibilities of building score in Arcade mode
+availability of the hit indicator in True West difficulty mode now depends on "crosshair" setting in the game's options
+changing game's difficulty during the first mission doesn't affect granting achievements after completing the playthrough on different difficulties - it now counts from the second mission on
+new settings available in video.scr file
+additional characters in Japanese font allow for better displaying users' nicks on leaderboards
+
+Fixes:
+
+fixed potential gameplay block on the mission "Bounty Hunter Is Still My Name"
+fixed several inconsistencies of the Ranger, Rifle and Sawed-off Rifle animations
+corrected Ranger's Fast Aim bonus in Arcade Mode
+fixed problem of restoring the video settings to default values on each launch of the game
+fixed potential crash on re-launching the game after setting shadows quality to a value unobtainable on given configuration
+fixed crash when using -safemode command line switch to reset video settings to default values
+fixed some problems with audio playback, potentially leading to audio blackouts etc
+fixed mapping of audio channels on 4.0 quadrophonic output configurations
+fixed potential crash after using Steam overlay in the leaderboards menu
+workaround for apparent blocks when game is sent to background during loading
+fixed some rare scenarios of losing game's window after sending it to background
+workaround for problems when booting the game on systems that have problems with video playback. Please follow instructions from ########## in case of such problems
+minor tweaks and fixes in all localizations

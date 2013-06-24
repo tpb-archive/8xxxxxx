@@ -1,0 +1,49 @@
+Programming Massively Parallel Processors, Second Edition: A Hands-on Approach 
+
+Book Details:
+
+Pages: 514 
+Publisher: Morgan Kaufmann; 2nd Edition (December 2012)
+Language: English
+ISBN-10: 0124159923
+ISBN-13: 978-0124159921
+Format: PDF, EPUB
+
+Book Description:
+
+Programming Massively Parallel Processors: A Hands-on Approach shows both student and professional alike the basic concepts of parallel programming and GPU architecture. Various techniques for constructing parallel programs are explored in detail. Case studies demonstrate the development process, which begins with computational thinking and ends with effective and efficient parallel programs. Topics of performance, floating-point format, parallel patterns, and dynamic parallelism are covered in depth.
+
+This best-selling guide to CUDA and GPU parallel programming has been revised with more parallel programming examples, commonly-used libraries such as Thrust, and explanations of the latest tools. With these improvements, the book retains its concise, intuitive, practical approach based on years of road-testing in the authors own parallel computing courses.
+
+Updates in this new edition include:
+
+New coverage of CUDA 5.0, improved performance, enhanced development tools, increased hardware support, and more
+Increased coverage of related technology, OpenCL and new material on algorithm patterns, GPU clusters, host programming, and data parallelism
+Two new case studies (on MRI reconstruction and molecular visualization) explore the latest applications of CUDA and GPUs for scientific research and high-performance computing
+
+Table of Contents:
+
+Chapter 1. Introduction
+Chapter 2. History of GPU Computing
+Chapter 3. Introduction to Data Parallelism and CUDA C
+Chapter 4. Data-Parallel Execution Model
+Chapter 5. CUDA Memories
+Chapter 6. Performance Considerations
+Chapter 7. Floating-Point Considerations
+Chapter 8. Parallel Patterns: Convolution
+Chapter 9. Parallel Patterns: Prefix Sum
+Chapter 10. Parallel Patterns: Sparse MatrixΓÇôVector Multiplication
+Chapter 11. Application Case Study: Advanced MRI Reconstruction
+Chapter 12. Application Case Study: Molecular Visualization and Analysis
+Chapter 13. Parallel Programming and Computational Thinking
+Chapter 14. An Introduction to OpenCLTM
+Chapter 15. Parallel Programming with OpenACC
+Chapter 16. Thrust: A Productivity-Oriented Library for CUDA
+Chapter 17. CUDA FORTRAN
+Chapter 18. An Introduction to C++ AMP
+Chapter 19. Programming a Heterogeneous Computing Cluster
+Chapter 20. CUDA Dynamic Parallelism
+Chapter 21. Conclusion and Future Outlook
+
+Appendix A. Matrix Multiplication Host-Only Version Source Code
+Appendix B. GPU Compute Capabilities

@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,RipRoarinBoogerPenis,2013-05-26T08:43Z,"Also contains two optional mods: Tim's mod 2.3 and Wing Commander mod 0.0.1.
+
+Forum links:
+http://www.stardrivegame.com/forum/viewtopic.php?f=6&t=3163
+http://www.stardrivegame.com/forum/viewtopic.php?f=6&t=5114"
+,pantaley,2013-05-26T17:04Z,"Game menu is in German, can it be changed in English ?"
+,RipRoarinBoogerPenis,2013-05-27T03:51Z,"@pantaley
+Yes, I just tested it and was able to change it to EN by deleting the german localization files.
+
+They are located in the following places:
+StarDriveLocalizationGerman
+StarDriveContentLocalizationGerman
+
+Also, you may have to open StarDriveLocalizationStarDrive.exe.Config and change the line
+
+into 
+
+I performed these actions and the game changed to English for me.
+
+Guess this release is ENG/GER/RUS after all."
+,RipRoarinBoogerPenis,2013-05-27T03:52Z,"Alright it seems TPB deletes backslashes from comments.
+
+The file locations were 
+StarDrive/Localization/German
+StarDrive/Content/Localization/German
+and
+
+StarDrive/Localization/StarDrive.exe.Config"
+,RipRoarinBoogerPenis,2013-05-27T04:03Z,I made comments that described how to fix the issue but now they aren't appearing.
+,RipRoarinBoogerPenis,2013-05-27T04:38Z,"It also left out the part where I described changing
+dd key=""Language"" value=""German""
+into dd key=""Language"" value=""English""
+
+in StarDrive.exe.Config
+
+TPB's comment system is pretty buggy at times"
+,Yakri,2013-05-28T03:35Z,"@RipRoarinBoogerPenis
+
+Did everything you said (Deleted German/Rus localizations and changed the language in the config file to English) and it's still all in German. T_T"
+,RipRoarinBoogerPenis,2013-05-28T06:22Z,"That's strange, it worked when I did it. Try checking it again."
+,AxDeath,2013-05-28T16:36Z,"I keep getting a German install, that immediately crashes.
+
+still trying..."
+,RipRoarinBoogerPenis,2013-05-28T21:50Z,Did you copy over the patch files first?
+,RipRoarinBoogerPenis,2013-05-29T10:43Z,Has anyone else managed to get it working?
+,fazeem,2013-05-30T07:08Z,"He forgot about the Stardrive.exe.Config in the game's root directory.  I followed his instructions first too, but I'd call it an educated guess that you don't have to delete anything or change the other configs, you probably just have to switch the line in the config in the root directory to ""English"""
+,MrTTAO,2013-06-01T05:15Z,"sweet, v1.11B
+Can you do v1.12 too? (current version, there is a month downtime before they start working on a free ""extra content"" pack... so presumably no patches for a while. A bit of a shame since the game still need a good bit of patches)"
+,TDB_Virtue,2013-06-01T05:22Z,Hi if you cannot save the file at StarDrive/Localization/StarDrive.exe.Config. that means it is in read-only mode. you can change the mode by going to the file properties and then it will be over save now. I did this and it works for me and now in english.
+,MrTTAO,2013-06-01T06:23Z,"Issue 1: Game is in german
+Solution 1: Edit
+StarDriveLocalizationStarDrive.exe.Config
+changing ""German"" to ""English""
+Then go into StarDriveContentLocalization
+Delete the german folder (I deleted russian too)
+
+Issue 2: Game crashes when changing settings
+Solution 2: Select the stardrive directory, and remove the ""read only"" status from all files. This has been incorrectly applied."
+,MrTTAO,2013-06-01T06:24Z,"My previous commend has been mangled to heck due to TPB deleting slashes for some reason
+Shouldn't be hard to figure out where the slashes should go though"
+,Kornklefx,2013-06-01T20:27Z,Doesn't seem to work for me. When I try to start the game just says Stardrive stoped working. I can only pick either close program or look online for a solution. RUning on win 7 here. Weird. o_O
+,Kornklefx,2013-06-02T04:20Z,"Ok I got it working. You need to instal the stuff from the Redistributables folder untill it starts working and stops crashing on startup. As for the german problem even tho I deleted the folders and changed the value to english I still had the menus in german. What I did is I found another config file but located right in the main folder not any of the subfolders, I changed the value there as well and voala. Hope it helps! "
+,Fogle,2013-06-07T06:47Z,I cant seem to get it to run (it shuts down right after start up) can someone give a more detailed way of getting it to run?
+,Janek1Slav,2013-06-10T14:13Z,"Hello just install the game and you good to go. 
+Do not copy and paste the upgrade as that is what will cause the game not to work.
+
+And just wait for a stable final version of game to be released in the mean time enjoy~
+
+I mean the uploader does not speak clearly does not speak Russian and its not even his crack creation/torrent he just got it from somewhere maybe if someone who does Speak Russian and can contact the original uploader/creator of this torrent game crack and ask him how to make it work properly or if he can just make a English version.
+
+Also install the game to your path not steam."
+,Charon_A,2013-06-13T09:39Z,Win8х64 - game crashes on start. I have newer version 4 of .Net and XNA than ones that come with the game

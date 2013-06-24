@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,go6ovei,2013-06-13T21:07Z,SEED MORE PLEASE.....
+,bjornagainswede,2013-06-14T08:27Z,"Thanks for this...
+
+Do you know if ACPIPlatfrom and IOPCIFamily kexts have been overwritten in this distro??? My board in a non Giga and would like to keep unnecessary KPs of the menu!"
+,go6ovei,2013-06-14T18:32Z,"bjornagainswede-yes,need to be use rollback old kext's
+Enjoy Hack"
+,go6ovei,2013-06-14T18:37Z, bjornagainswede-Try AppleACPIPlatform.kext and IOPCIFamily.kext from 10.8 instead.
+,bjornagainswede,2013-06-14T19:34Z,"Answered my question.. but in this case they need to be 10.6.8 and not 10.8... I don't get the spinner when booting if I use 10.8. I take it all my other kexts... ethernet/Audio etc all work with Mavericks too!,,, Looks good but hate how they kept mission control! As I have a multi monitor set up - this should be fun!"
+,bjornagainswede,2013-06-15T11:27Z,"I can get the installer to run but BIG problem... It does not see any of my volumes so I cannot install!
+
+I then copied the install to a 32Gb Flash with an 6 Gb Install Partition and a 24Gb PArtition... Installed very slowly and with 1 minute to go... Instal Fails???? No idea what is going on!
+
+I had to totally replace your Extra Folder with my own... and overwrite the kext I mentioned (The Netkas fix) as that ncpi  fix does absolutely nothing on my machine!
+
+Don't know why it will not see ANY of my volumes. I have 4 physical HDs and all of them bar one partition are HFS journaled,"
+,bjornagainswede,2013-06-15T14:24Z,"Been up all night with this and it will NOT install for me so I am going to download a full preview...
+
+It seems as if part of the installation is missing... I even tried finding the base installer which is nowhere to be found... tried opening the osinstal.mpkg with pacifist... I cannot,,, and finally installing it with MyHacks... likewise it points me to a file in core services saying its the wrong volume install information....
+
+At least with the install ESD i'll have the full installer so thanks for your effort... but doesn't work for me!"

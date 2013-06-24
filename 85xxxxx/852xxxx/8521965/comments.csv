@@ -1,0 +1,132 @@
+﻿User Type,Username,Date,Text
+,macfly59,2013-05-30T17:45Z,thanks      Mr.Stifmeister  ^^
+,nrub,2013-05-30T18:55Z,"FFS, You could have mentioned that it is in GERMAN!"
+,archorn,2013-05-30T19:00Z,can someone confirm its not another password scum upload? no offence to stiffmeister but i downloaded that game few times nad every time it was scum
+,jurkoto,2013-05-30T19:14Z,seed this torrent please
+,frostyon420,2013-05-30T20:52Z,Well I navigated my way to the settings and the only language loaded in this game is German.  So good luck guys
+,madmax2k92,2013-05-30T21:09Z,can any1 say if this works.. 1 person said its in German.. can the language be changed?
+,CanadianPsycho,2013-05-30T21:21Z,Thanks Mr.Stifmeister!!!!
+,frostyon420,2013-05-30T21:25Z,I already confirmed before ur post it only has German loaded in ot
+,mackaparen,2013-05-30T21:31Z,its in german but it works. everything is in german and i hate it i will wait for an english version.
+,madmac01,2013-05-30T21:48Z,"To change the language from German to English :
+Open the steam_rld file ,which is in the directory were Wargane Airland Battle is installed ,with notepad.
+Change the last line is the file ,which reads Language=german to Language=english.
+Now the game is in English."
+,madmac01,2013-05-30T21:51Z,"To change the language from german to english :
+Open the steam_rld file ,which is in the installation directory ,with notepad.
+Now change the last line in this file ,which reads Language=german to Language=english.
+Now the games default language is English."
+,czesiu_84,2013-05-30T22:01Z,"Yup, german only"
+,740gl,2013-05-30T22:51Z,"JUST READ WHAT MARMAC01 WROTE.
+That fixes the language issue.
+I didn't believe it but it was that simple."
+,frostyon420,2013-05-31T00:38Z,The German to english fix did the trick. Thanks guys
+,nignug,2013-05-31T01:45Z,"I love how many people give up just because the language isn't correct. What people fail to realize is the main release of most games contain multiple languages. Yes, the default is German, but it can be changed. Open the steam file, and change the language inside from German to English. Case closed."
+,Cassianogpaiva,2013-05-31T03:11Z,"Hey there!
+
+Everytime I try to launch the game I have this message: 
+
+""Critical error: Unable to create graphic device. Reason: ChangeMode failure ""
+
+Any Ideas on what can be causing this..?"
+,moeburn1,2013-05-31T04:09Z,"hey i don't know if anyone noticed this yet, but for some reason whoever cracked this decided to set the language to german in the steam_rld.ini.  It's an easy fix, just change language=german to whatever you want."
+,FreeGameFreak77,2013-05-31T04:36Z,Who's next to say they found the German Language Fix again without Reading the previous comments of the same nature....
+,BluntzNzigzags,2013-05-31T04:53Z,Can you upload Rising Storm? 
+,Dimmis80,2013-05-31T10:14Z,Stifm buddy thanks a lot for this glorious upload great work like always and a million thanks goes to Reloaded to.Keep up the awesome work and keep the games rolling.Cheers.;-)))
+,kaliver,2013-05-31T11:39Z,"Games generally have a language setting. This isn't rocket science. Christ, the amount of dumb that seeders have to deal with is frightening."
+,cagunosu,2013-05-31T12:57Z,Sweet !! 
+,Messi-90,2013-05-31T13:08Z,hi guys i manage 2 install it and it works perfectly but i have problem with changin language when i open steam notepad n i try 2 change German to English it wont work how wud i do that
+,andsur,2013-05-31T18:46Z,"Works perfectly, thank you stiff !"
+,hotsparks,2013-05-31T20:02Z,Please Seed! downloading at 20kbps :(
+,sherrypizza,2013-05-31T20:50Z,Im getting error “This application failed to start because msvcp110.dll was not found. Re-installing the application may fix this problem.” any solution?
+,juanchopancho,2013-05-31T23:33Z,Download speed sucks 20kbps...
+,Killher,2013-05-31T23:53Z,@sherrypizza Install microsoft redist here http://www.microsoft.com/en-us/download/details.aspx?id=5555
+,havalis,2013-06-01T00:51Z,PC requirements and game details can be found here : http://checkrequirements.com/game/wargame-airland-battle-pc  .. thank you stiffmeister 
+,huntersteel,2013-06-01T01:59Z,game failed to start '' msvcp110.dll missing '' i reinstalled twice already and i have the latest microsoft redist . solutions  ?
+,Supreme11,2013-06-01T02:45Z,"My PC was telling me that I had the distributable DLL file already. Killher's link directs you to a 2010 redist. Here's 2012. 
+
+Visual C++ Redistributable for Visual Studio 2012 (x86) - English
+http://go.microsoft.com/?linkid=9815734
+
+Visual C++ Redistributable for Visual Studio 2012 (x64) - English
+http://go.microsoft.com/?linkid=9815744
+
+
+"
+,Bee7ang,2013-06-01T03:27Z,"Install the redist files from your ""_CommonRedist"" folder wich is inside your wargame folder."
+,crankedup666,2013-06-01T03:59Z,"Getting same problem, Missing MSVCP110.dll*
+
+Reinstalled all the Visual cc++ stuff, still getting that error messege, anyone who fixed that problem who cud share the fix ??"
+,crankedup666,2013-06-01T04:05Z,"Anyone got fix for that missing dll file ?, reinstalled the redists still getting it  :s"
+,jordonz,2013-06-01T05:04Z,"Ive  downloaded, mounted, installed, copied crack, edited file for english, dowloaded the c++ thing.
+
+Everytime I try to run game it just opens steam and takes me to the store... what am I doing wrong"
+,crankedup666,2013-06-01T05:20Z,"lol the dll error got fixed, i installed the 64x at first, now tried the 84x and after that it worked, just install both files "
+,lowlyaristocrat,2013-06-01T07:36Z,"Hey guys. I'm having trouble with the language fix--when I attempt to edit the text file I cannot save it. I removed the ""read-only"" restriction but I still get ""Access Denied"" messages when I try to save the edited notepad file. I am a full administrator on this pc. Any ideas on alternative means to change the language to English or get around this save issue? Changing the name of the file also doesn't work. "
+,killswitchzz,2013-06-01T12:39Z,"WTF i cant change it to English this is pissing me off. It either says access is denied or ask your admin, which I am the admin"
+,killswitchzz,2013-06-01T12:45Z,Nvm if ur having trouble switching the language right click the file then go to properties then security then allow users to full control...hope this helps
+,jordonz,2013-06-01T12:49Z,"Ive downloaded, mounted, installed, copied crack, edited file for english, dowloaded the c++ thing.
+
+Everytime I try to run game it just opens steam and takes me to the store... what am I doing wrong"
+,FlyingSpaghettiMonsta,2013-06-01T14:04Z,"Stuck at 95,2% because of horrible speed @ 0,9 kb/s. PLEASE SEED."
+,CFJack,2013-06-01T14:06Z,"there's a login screen after the game auto detects best settings. How to login there? Create an account ? When ""cancel"" is hit on login screen, game is ""loading"" forever and nothing happens. Any ideas?"
+,Dimmis80,2013-06-01T14:40Z,Hey guys.I have the problem with MSVCP110.dll that is missing from my computer.!!I found the dll and like the instractions said i download it and i put it incide the installation game folder and in C:WindowsSysWOW64 and i reboot my pc.That did not fix the problem and it still it give me the same error.And i instaled the vcredist_x64 but it did not fix the error to.Btw i have Win 7x64.So any help or solution about my problem it would be much apreciated guys.!Thanks in advance.:-(
+,Strale84,2013-06-01T16:56Z,trojan in crack !!!
+,Strale84,2013-06-01T17:00Z,aaaaa virus in the crack!!!!
+,screpheep,2013-06-01T17:05Z,"I have the same problem as CFJack, I wont get past the login screen, because it wants a CD key to create an account, any solutions?"
+,Bee7ang,2013-06-01T17:06Z,"@CFJack
+I had the same problem. When the game asks you to auto setup your video setings DONT do it.  Its that simple."
+,xXGreenRangerXx,2013-06-01T17:11Z,"For all your Dll Problems Download this. It helped me alot! My game started right up with this tool. I hope this Helps 
+
+http://thepiratebay.sx/torrent/8240773/DLL-Files_Fixer_v2.9.72.2589_Incl_Crack_%5BTorDigger%5D
+
+Copy and paste to new browser "
+,Dimmis80,2013-06-01T19:34Z,@XxGreenRangerXx thanks for this program.I now have this program but can u tell me what exactly i got to do with this program to fix the Dll problem.!??What did u do with this program and u fixed the game.??Thanks in advance.???BTW i did the scaning and it found a lot of Errors but nothing relative with this game and about the dll i found the dll with the dll tool of the program and instaled it but it did not help to.!!!
+,JoyBear73,2013-06-01T19:39Z,"If you get the msvcp110.dll missing error, it's because you didn't check the 3 boxes at the end of installation. Reinstall and check the 3 boxes and let it install Visual++. This fixed the error for me. Game comes up in German though, and when it loads and you go into options German is the only language I have to choose from."
+,Dimmis80,2013-06-01T19:49Z,Nevemind i fix the problem.
+,FlyingSpaghettiMonsta,2013-06-02T06:45Z,How do I get past the register/login screen?
+,xXGreenRangerXx,2013-06-02T10:01Z,"Also download this. it adds more of the help with the msvcp110.dll, this program helps you find it asap. instead of my other program i had posted here. It will add the msvcp110.dll so your game can start up right away. when done installing just click the download button and walla!
+
+http://www.dll-files.com/dllindex/dll-files.shtml?msvcr110"
+,havalis,2013-06-02T14:30Z,PC requirements and game details can be found here : http://checkrequirements.com/game/wargame-airland-battle-pc
+,Talor6475,2013-06-02T15:07Z,"I put the crack files into the install directory, and then I overwrite the steam_api.dll file with the on in the ""crack"" folder, and then I either click the desktop icon or the .exe folder, and it says, ""The Application failed ti initialize properly (0xc0000022). Click OK to terminate the application."" Any help? Did I do something wrong? I've uninstalled and reinstalled it so many times, I've lost count. Thanks."
+,aditaja,2013-06-02T18:02Z,how to get pass login account ? help please
+,RandomBS,2013-06-02T18:42Z,Not sure if torrent don't work or just dumb people can't get it to work --'
+,darksnake23,2013-06-02T20:12Z,for those who cant get past login press cancel and you can play the game :P
+,moeburn1,2013-06-02T20:18Z,"This torrent works fine, these morons talking about a missing msvcp110.dll didn't bother to install the redistributables that the game came with.  You need the two VC++ redists, x64 and x86, and if you forgot to check the checkboxes at the end of the install, you can still find them at Wargame AirLand Battle_CommonRedistvcredist"
+,PurelyEpic,2013-06-03T11:48Z,One reason I prefer extremezone over Stifmeister is that extremezone actually put the game's cover and screenshots whereas Stif just puts an autistic man giving a thumbs up everywhere...
+,nignug,2013-06-03T12:07Z,@PurelyEpic Either way they are uploading torrents for your broke ass.
+,kornnishon,2013-06-03T13:05Z,ty gj
+,RandomBS,2013-06-03T18:05Z,"@moeburn1 Thanks for the info 
+
+@PurelyEpic, just google the game and you get everything you need to know, also, you just came randomly searching for a game? I thought that all people that downloaded a torrent knew what the game was about.
+
+THE GAME WORKS fine, but somehow I'm not being able to put it in english, but i'm working on that.
+
+Thanks Mr.Stifmeister."
+,legryf,2013-06-03T19:29Z,"@RandomBS: easy to change the language; after installing and copying the cracked files edit the file named steam_rld.ini, scroll down and where it reads ""Language=german"" change to ""Language=english"". You can also edit the screen name from RLD to whatever you want.
+
+Cheers :)"
+,BAWxMURDOCHx,2013-06-03T21:47Z,When I try to move the steam.api file it tells me I need permission from all users and I don't have permission to move it. I don't see how it makes any sense seeing as how I'm the only user of this computer and I'm the administrator. Windows 7 by the way.
+,CFJack,2013-06-04T12:57Z,"@BAWxMURDOCHx:
+
+on Win7 there is a folder called GAMES. Right click on that folder and select properties, then go to SECURITY and hit EDIT for all users, one by one, checking the boxes in lower window. When done, proceed with installation but point the wizzard to GAMES folder. That should fix it."
+,BAWxMURDOCHx,2013-06-04T13:32Z,"@CFJack I found a folder titled games not in caps and did as you said but I get the same message, nothing I've done helps so far. Thanks for the suggestion though."
+,lionsSA,2013-06-04T18:14Z,"Just make sure to install x86 and x64 vcc 2012, and change the steam_rld to english. If you cant get it to work you are not meant to play the game :p"
+,Cassianogpaiva,2013-06-04T22:08Z,"I am still havim this issue when I install this game: 
+
+""""Critical error: Unable to create graphic device. Reason: ChangeMode failure ""
+------------------------------
+
+Any Ideas on what can be causing this..?
+I am currently running it on Win 7 64bit"
+,zongkill,2013-06-05T17:34Z,"hey guys guys, about the language thing, if you can't save it, try save it at my documents and then copy and replace"
+,dl444,2013-06-06T04:06Z,"I keep getting stuck at the SP campaign's scoreboard, I clicked the exit button and it keeps saying ""Waiting..."". Anyone know how to fix it?
+It is fine in skirmish tho :/"
+,Shuspleh5,2013-06-07T13:00Z,"My f**** eset smart sec 5 is detecting steam_api.dll as virus. tried disabling it, dling crack from skidrow, same error... any solved this idiotism?? thnx"
+,thorkis420,2013-06-09T05:11Z,"Cracks are notorious for coming up as a virus. Only way around it is to not use virus protection on them. Trust the members of thepiratebay. If they have a green skull it is safe, if the uploader uploaded viruses they wouldn't be green."
+,PeasReb,2013-06-11T07:25Z,"when I run the exe, even after cracking and DLing DLL files, I'm just taken to the steam community page for the game. If steam is off it just restarts steam to take me there. I'm sure this is intentional but I can't get around it. help?"
+,gmirreh,2013-06-14T07:09Z,Anyone know where to get any of the patches for Wargame ALB. 1.1 --> 1.7
+,jpweb72,2013-06-14T22:38Z,"can some one upload a trainer for version 1 
+the game is hard and very fast paced"
+,deez00nutz,2013-06-15T04:17Z,can anyone upload just steam_api.dll from this game.  It keep saying write protected need to admin to move file but I am.  I tried to take ownership and change the permissions for every user on my computer (which is just 1) and it wont let me move the file.  I moved it before with the AC3 game but since then I deleted the game.   

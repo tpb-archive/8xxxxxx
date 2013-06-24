@@ -1,0 +1,24 @@
+author     Adam Crespi
+subject   3D + Animation, Modeling, Rendering, Game Design
+software 3ds Max 2012
+level        Intermediate
+duration  5h 54m
+URL:
+
+Follow a practical guide to building 3D cityscapes for games. IAuthor Adam Crespi constructs a city block in 3ds Max utilizing low-polygon modeling and advanced texturing techniques. The course shows how to model common city elements such as buildings, intersections, curbs, and roofs and explains how to expand a city quickly and easily by reusing existing geometry in a modular way. The course also sheds light on simulating real-world detail with baking, lighting, and ambient occlusion techniques and offers a series of best practices for exporting to the Unity gaming engine.
+
+Topics include:
+   Understanding the design process and software requirements
+   Analyzing concept art for texture and key shadow detail
+   Planning differently styled buildings
+   Laying out city blocks
+   Organizing construction elements and models using layers
+   Cloning geometry and texture
+   Testing the module for correct floor-to-floor heights
+   Arranging, aligning and cloning modular elements
+   Building a texture library
+   Creating stone, wood, and brick textures
+   Constructing texture sheets
+   Drawing detail
+   Using occlusion as a foundation for dirt
+   Preparing for Unity as a world builder

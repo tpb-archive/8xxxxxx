@@ -1,0 +1,32 @@
+MENTOR GRAPHICS PADS
+
+Year / Issue Date: February 2012
+Version: 9.4.1
+Developer: MENTOR GRAPHICS
+Developer's site: http://www.mentor.com/
+Bit: 32bit
+Compatibility with Vista: 32bit
+Compatible with Windows 7: complete
+Language: English
+Medicine: Present
+System requirements: http://www.mentor.com/products/pcb-system-design/de...tem-requirements
+We recommend the following memory, disk space, and processor speed for reasonable performance of PADS software. Note that performance may be impacted by the complexity of your design and by the number of concurrent processes.
+PC hardware:
+Pentium IV: 2 + GHz recommended
+Three-button mouse or wheel mouse recommended (two-button mouse minimum)
+1024 x 768, 256 color display, minimum
+Operating systems:
+Microsoft Windows ┬« XP Professional (service pack 2)
+Or Microsoft Vista ┬«
+NOTE: Windows 2000 is no longer supported.
+Memory recommendations:
+Windows Vista Ultimate or Business Editions: 2GB memory or higher.
+Windows XP Professional (sp2): 1 GB memory or higher. 512MB minimum.
+For full installation, 2.5 GB space is recommended.
+(500 MB minimum for installing only PADS Logic, PADS Layout, PADS Router, and HyperLynx)
+
+Note: You must have Internet Explorer version 6.0 or higher installed for certain components of PADS software to operate correctly.
+
+Warnings: PADS2007 (and higher) does not support operating systems that are run in VMWare sessions. Using this type of setup can cause PADS2007 to function incorrectly during and after installation.
+
+Description: Through the route of designing printed circuit boards.

@@ -1,0 +1,18 @@
+Anymix Media Server Anymix Media Server is a free (as in "free speech" and also as in "free beer") Flash Media Server (FMS) or rtmp stremming server. Running in the MS Windows environment, its use is governed by GPL License.
+
+Why another Flash Media Server? we are a little software/website development team. we decided that we will do something in streaming, so we developed very small and portable but power-full rtmp server. On the 25th November 2003 it was made available on Sourceforge, and that was the birth of Anymix Interactive Server.
+How to install:
+
+From the zip : just unzip all the files into a directory you want then launch it. Its a portable and little FMS.
+How to Use:
+
+To Lunch server: use a batch file or command prompt : pathanymixrtmp.exe serveraddress port authorsite*
+ex: anymixrtmp.exe localhost 1935 www.anymixmedia.com
+Now the client can connect to rtmp://server:1935/myapp or rtmp://server/someapp and will get connected to this MyApp application.
+To stop server run "server-shutdown.exe" once.
+Web sites:
+
+Anymix Media Server official site: http://www.anymixmedia.com/
+Anymix Media Server project site: http://sourceforge.net/projects/anymixrtmp/
+Like us
+follow us on twitter:

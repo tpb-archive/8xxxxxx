@@ -1,0 +1,19 @@
+Daum PotPlayer is a powerful media player developed by Daum for Windows.
+
+PotPlayer is able to play smoothly almost any media file you throw at it without the help of any audio or video codec packs installed on PC. 
+
+ The player provides both internal and external filters with a fully controlled environment in terms of connections to other splitters, decoders, audio/video transform filters and renderers without grappling with the DirectShow merit system. 
+
+ Internal filters are not registered into the system's registry to prevent the operating system from confusing system filters.
+
+PotPlayer has several features, including, but not limited to :
+
+ 1. Ability to play and stream most video and audio formats.
+ 2. Ability to play incomplete or damaged AVI files (by skipping the damaged frames).
+ 3. Very fast and lightweight
+ 4. Can remember where the user left off in a video.
+ 5. Keyboard shortcuts for most tasks, including seeking, volume, zoom, brightness, contrast, and even subtitle resyncing.
+ 6. Subtitle support, including SAA and ASS support as well as embedded subtitles in MKV, OGM, MP4, MOV, and 3GP files.
+ 7. Fully skinnable, users can choose different skins for different types of files, make the window transparent, hide the window border when playing, and more.
+ 8. Video filters, like deinterlacing, postprocessing, de-noise, and more for customized playback.
+ 9. Audio equalizer and video equalizer, that lets users adjust the brightness, contrast, hue, and more of the video. 

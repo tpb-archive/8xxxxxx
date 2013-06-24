@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-06-05T19:45Z,ENJOY ENJOY Prime World Defenders Steam-Rip New PC Game MULTi2 by RG-GameWorks!
+,Delia666,2013-06-05T19:47Z,"Thought this was an mmo >.< . online only 
+Sorry , if im wrong ."
+,Delia666,2013-06-05T19:49Z,"Nevermind , seems this is a different game typ with the same name >."
+,Friendlyx,2013-06-05T20:07Z,How do i change the language?
+,slippur,2013-06-05T20:28Z,"Quick download, easy install.
+
+Currently stuck on Russian though"
+,motley666,2013-06-05T20:47Z,Nival is the best company.
+,madmel13,2013-06-05T21:09Z,How do i change the language?Icant find that options in game files.
+,Lelhaxor,2013-06-06T03:02Z,"Ok, here's how I changed it from Russian to English.
+Download a Hex editor (I used HxD, it's free) and use it to edit the CRACKED steam_api.dll.
+Press Ctrl+R and replace russian with english.
+This worked for me."
+,voj2134,2013-06-06T03:41Z,"Lelhaxor, thanks for that. Worked like a charm."
+,Mr_Ceiling_Cat,2013-06-06T09:10Z,dlc? or full game?
+,rhaidor,2013-06-06T13:41Z,can i play it while i am online with my original steam acc?or need to create a fake acc?
+,Jiki05,2013-06-06T19:18Z,How come most of the stuff only has hashtags and no real discriptions?
+,NoLimit00,2013-06-07T01:53Z,@Jiki05 i have the same problem pls help
+,Lelhaxor,2013-06-07T04:41Z,"@Mr_Ceiling_Cat It is the full game.
+
+
+@rhaidor You do not need any account after applying the crack."
+,Jiki05,2013-06-07T06:43Z,Nobody knows how to fix the hashtag problem?
+,kuang96,2013-06-07T07:30Z,it say steam authrionzm . n disconnect help plz
+,tedwu,2013-06-07T08:42Z,"Any one can give more in depth step on Lelhaxor's note how to change Russian to English with Hex editor?
+I have the editor however dont know how to decode it so I can read the program language in order to make that change. No1 is a machine to understand hexcode as is right?
+Somewhere in the game files I read it is created with DOS selected that decoder did not work too."
+,tedwu,2013-06-07T08:57Z,"Lelhaxor's instructions are great but need more detail please. Tried again and reinstalled. Im sure problem is the crack steam_api.dll written in russian. Dont know how to change because I cannot decode it right.
+Please help"
+,MinerVVars,2013-06-07T13:26Z,"You can use Notepad++
+
+Just open steam_api.dll > find ""russian"" and change it to ""english"""
+,SMARTYN89,2013-06-07T17:47Z,"shouldn't there be a ""daily prize"" bonus or something like that?
+I'm quite sure"
+,Lelhaxor,2013-06-07T23:52Z,"@tedwu When using HxD, those are really the only instructions you should need. I'm not sure about other hex editors. HxD has a tab/button/whatever labelled as ""Search"". When clicking ""Search"", it will show 5 options: Find, Replace, Find Again, Find Again (Reversed), and Goto.
+You select ""Replace"" and a mini window will pop-up.
+This window has 2 blank boxes/bars in the upper part: ""Search for"" and ""Replace with"".
+What I did was ""Search for"" Russian, then but English in the ""Replace with"". 
+This made the game English for me."
+,tedwu,2013-06-10T11:35Z,"Thanks Lelhaxor and MinerVVars had not thought to get response in such sort time to be honest. Game-play looks good on this will definitely love to try it out myself. Quite a fan of tower defense:P
+Seeded for 3 days long here hope it helps. 
+Thanks again for your awesome support...always something new to learn for me. Been using TPB forever too:D"

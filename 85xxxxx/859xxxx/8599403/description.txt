@@ -1,0 +1,42 @@
+Programmable drum machine.
+
+ΓùÅ WAV file import - Load YOUR OWN SAMPLES from SDCARD. Long press a sound button to bring up the sample loading dialog.
+Use my Sonic Chop app (sold separate) to chop samples from Music on your device and load them right into Electrum!
+ΓùÅ Use samples and loops to make beats and songs.
+ΓùÅ Load up to 16 samples. Swipe Left/Right to access the next eight sample pads
+ΓùÅ 16 Mute groups available
+ΓùÅ Load MIDI drum files for quicker programming. Electrum comes with an assortment of pre-made MIDI files.
+ΓùÅ Preview (audition) samples LIVE while the machine is playing, they will mix right into the beat.
+ΓùÅ Set samples or loops to retrigger on programmed slots or to play completely through before triggering the sample again - useful for using loops!
+ΓùÅ Look at the MENU for more options such as ability to save and load your own custom drumkits - once you've loaded the sounds you like unto the pads and adjusted them you can save the settings as a drumkit, separate from the patch itself!
+ΓùÅ RECORD samples with the microphone.
+ΓùÅ Stretch loops to fit the current project BPM.
+ΓùÅ Edit a sample's start and end point, pitch and pan Left/Right.
+ΓùÅ Use other time signatures such as 3/4, 6/8, etc.
+ΓùÅ Add some swing to your beats with the SHUFFLE setting.
+ΓùÅ Add FX to your samples:
+- Reverse
+- Delay
+- Distortion
+- Reverb
+- Stereo Spread
+ΓùÅ Play Electrum with an external USB MIDI controller
+USB MIDI Control has been tested on:
+Galaxy Nexus phone
+Galaxy Tablet 10.1
+Motorola XOOM
+
+ΓùÅ Sample accurate playback engine.
+ΓùÅ External control of Electrum from other apps using broadcast messages
+ΓùÅ WAV/MIDI/Pad Export-load your song into any MIDI capable sequencer on your computer.
+ΓùÅ Sharing - install the Soundcloud app from the market and you can share beats right to soundcloud (see Electrum's Menu-&gt;More-&gt;Share)
+
+Electrum has 16 sounds and you can program up to 32 patterns. A full sequencer allows you to string the patterns together into songs or longer beats. You can also play patterns "live", switching them as the machine is playing.
+For multitouch devices, Electrum has a multitouch pad dialog as well (See Menu-&gt;Play Multitouch pads) where you can play just like an MPC by hitting the pads.
+LATENCY OF THE MULTITOUCH PADS DEPENDS ON YOUR DEVICE. SOME DEVICES HAVE VERY BAD LAG RESPONSE. TESTED AS FAST: GALAXY TABLET, DROID X, DROID 1. KNOWN BAD: HTC DESIRE.
+HTC WILDFIRE IS TOO SLOW OF A DEVICE TO run Electrum effectively. Sorry, upgrade your device, it's just too slow (523Mhz only).
+Please NOTE: The pads on the main screen are not designed to play real time because they are not multitouch. Use the multitouch pads for that.
+Also check out my ReLoop music sequencer, which allows you to sequence loops just like Garageband or Sony's ACID.
+PERMISSIONS:
+PHONE STATE/IDENTITY - used to stop playing if a phone call comes in. IDENTITY is NOT used for anything and it not read at all.
+SDCARD WRITE/READ - used to read sound files, and to save settings, patches, and drummkits

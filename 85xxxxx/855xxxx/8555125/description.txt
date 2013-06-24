@@ -1,0 +1,102 @@
+Tatsuya Nakadai plays a samurai overcome with guilt over his unwitting part in a massacre of a small village. Now a ronin, he learns of a scheme by his old clan to repeat the same crime. determined to stop them, he endures great hardships in an attempt to atone for his earlier mistakes. Written by <mlitman@frankfurtbalkind.com>
+
+Subs: English and French
+ 
+http://www.imdb.com/title/tt0064387/
+
+Geral
+UniqueID/String : 336849595233688261272769164771214809832 (0xFD6ADF49E8F9AFFA1EDD07932D60DAE8)
+Nome completo : GOYOKIN.mkv
+Formato : Matroska
+Versão do Formato : Version 2
+Tamanho do arquivo : 1.47 GiB
+Duração : 1h 58mn
+Taxa de Bits Total : 1 783 Kbps
+Programa usado : HandBrake 0.9.6
+Biblioteca usada : libmkv 0.6.5
+
+Vídeo
+ID : 1
+Formato : AVC
+Formato/Informações : Advanced Video Codec
+Perfil do Formato : Main@L3.0
+Conf do Formato, CABAC : Sim
+Conf do Formato, Quadros de Ref. : 4 quadros
+ID do Codec : V_MPEG4/ISO/AVC
+Duração : 1h 58mn
+Taxa de bits nominal : 1 600 Kbps
+Largura : 720 pixels
+Altura : 400 pixels
+Proporção da imagem : 2.25:1
+Modo de taxa de quadros : TConstante
+Taxa de quadros : 25.000 fps
+ColorSpace : YUV
+ChromaSubsampling : 4:2:0
+BitDepth/String : 8 bits
+Tipo de Scan : Progressivo
+Bits/(Pixels*Quadros) : 0.222
+Biblioteca usada : x264 core 120
+Configurações de codificação : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=abr / mbtree=1 / bitrate=1600 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma : Inglês
+Default : Sim
+Forced : Não
+colour_primaries : BT.601 NTSC
+transfer_characteristics : BT.709
+matrix_coefficients : BT.601
+
+Áudio
+ID : 2
+Formato : AAC
+Formato/Informações : Advanced Audio Codec
+Perfil do Formato : LC
+ID do Codec : A_AAC
+Duração : 1h 58mn
+Nº de canais : 2 canais
+Posições dos canais : Front: L R
+Taxa de amostragem : 48.0 KHz
+Idioma : Japonês
+Default : Sim
+Forced : Não
+
+Text #1
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 1
+00:10:10.696                             : Chapter 2
+00:17:22.219                             : Chapter 3
+00:34:43.692                             : Chapter 4
+00:43:44.064                             : Chapter 5
+00:55:06.833                             : Chapter 6
+01:02:59.856                             : Chapter 7
+01:15:30.450                             : Chapter 8
+01:20:47.222                             : Chapter 9
+01:32:40.226                             : Chapter 10
+01:41:27.003                             : Chapter 11
+01:52:21.204                             : Chapter 12
+
+Thanks to the original uploader

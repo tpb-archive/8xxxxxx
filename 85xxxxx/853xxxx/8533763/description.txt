@@ -1,0 +1,14 @@
+Version 1.03 (from OS X 10.6 Intel).
+
+With 10.7 Apple omitted this from the distribution with the result that Logitech G25, G27 users can no longer enjoy force feedback. 
+
+Retrofitting this kext re-enables FFB with some games (DIRT2, F1 2013, GRID,‚Ä¶). 
+If you know how to install a kext, just o it otherwise use a kext installer like Kext drop: http://www.cindori.se/en#2
+
+HOWTO:
+Install the kext, reboot without connecting the wheel.
+After booting into Finder, connect the wheel.
+Run the game. Feral's ports simply select control options and teach the controls to the games. 
+Hint: In order to enable all wheel functions, please also check out Feral's FreeTheWheel http://support.feralinteractive.com/files/freethewheel/FreeTheWheel.dmg
+
+Kudos to the people at siniscope.com for figuring this out. Check out their game!

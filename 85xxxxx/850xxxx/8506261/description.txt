@@ -1,0 +1,70 @@
+screens;
+ 
+http://baypic.net/img-519fc6749ae61.html 
+ 
+http://baypic.net/img-519fc676754b9.html 
+ 
+http://baypic.net/img-519fc67851b6d.html 
+
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 1.54 GiB
+Duration : 47mn 34s
+Overall bit rate mode : Variable
+Overall bit rate : 4 623 Kbps
+Encoded date : UTC 2013-05-08 20:41:03
+Tagged date : UTC 2013-05-08 20:41:03
+?TIM : 00:00:00:00
+?TSC : 25
+?TSZ : 1
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 3 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 47mn 34s
+Bit rate : 4 494 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 25.000 fps
+Standard : PAL
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.195
+Stream size : 1.49 GiB (97%)
+Language : English
+Encoded date : UTC 2013-05-08 20:41:03
+Tagged date : UTC 2013-05-08 20:41:03
+Color primaries : BT.709
+Transfer characteristics : BT.709
+Matrix coefficients : BT.709
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 47mn 34s
+Source duration : 47mn 34s
+Bit rate mode : Variable
+Bit rate : 125 Kbps
+Maximum bit rate : 206 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 42.7 MiB (3%)
+Source stream size : 42.7 MiB (3%)
+Language : English

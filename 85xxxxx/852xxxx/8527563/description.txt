@@ -1,0 +1,82 @@
+--This will NOT fit on a 4.37GiB Single-Layer DVDR--
+- Use a Dual-Layer DVDR or a USB Flash drive
+
+Install options:
+Windows 8 Pro VL 64-Bit
+Windows 8 Pro VL 64-Bit KMS Pre-Activated
+
+KMS Pre-activated index is Pre-Activated with KMSnano v.25 and re-activated whenever you boot with 30 days or less left on your activation.
+
+People often ask in the comments which version of windows 8 I would recommend for them. Well, folks, for x64 people, this is the one I would recommend. Pro VL has the least likely chance of developing activation problems since the only offline method
+we have come up with for bypassing security is KMS. Enterprise has Windows 8 To Go and Hyper-V but most people don't use that.
+
+If a future problem arises and a newer activation method is needed, you can run the Uninstall-KMSnano.cmd in the folder:
+windows_setup_kmsnano
+This will delete the scheduled task and remove the kmsnano files.
+
+I'm not sure if smartscreen filter will bother with scheduled tasks and scripted tasks, but if it does, turn it off in action center in the control panel - system and security.
+Allow any related programs through any firewall programs
+and A/V updates. (False positive in future for the KMSnano activator)
+
+
+KB Files added via add-package dism and during setupcomplete.cmd phase:
+
+Cumulative Security Update for Internet Explorer 10 for Windows 8 for x64-based Systems (KB2761465)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1070.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1131.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1195.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1283.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1318.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1385.0)
+Definition Update for Windows Defender - KB2267602 (Definition 1.143.1454.0)
+Microsoft Silverlight (KB2668562)
+Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2729462)
+Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2736693)
+Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2742616)
+Security Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2756923)
+Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64 (KB2742614)
+Security Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2737084)
+Security Update for Microsoft Silverlight (KB2690729)
+Security Update for Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package (KB2538243)
+Security Update for Microsoft Visual C++ 2010 Redistributable Package (KB2467173)
+Security Update for Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package (KB2565063)
+Security Update for Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package (KB2565063)
+Security Update for Windows 8 for x64-based Systems (KB2727528 )
+Security Update for Windows 8 for x64-based Systems (KB2753842)
+Security Update for Windows 8 for x64-based Systems (KB2757638 )
+Security Update for Windows 8 for x64-based Systems (KB2770660)
+Security Update for Windows 8 for x64-based Systems (KB2778930)
+Security Update for Windows 8 for x64-based Systems (KB2785220)
+Update for Internet Explorer Flash Player for Windows 8 for x64-based Systems (KB2796096)
+Update for Microsoft .NET Framework 3.5 on Windows 8 and Windows Server 2012 for x64 based Systems (KB2769166)
+Update for Microsoft .NET Framework 4.5 on Windows 8 and Windows Server 2012 for x64-based Systems (KB2750149)
+Update for Microsoft Camera Codec Pack for Windows 8 for x64-based Systems (KB2779444)
+Update for Microsoft Office 2013 (KB2726961) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2727009) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2737997) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2752100) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2752101) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2760311) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2760621) 64-Bit Edition
+Update for Microsoft Office 2013 (KB2760624) 64-Bit Edition
+Update for Microsoft PowerPoint 2013 (KB2726947) 64-Bit Edition
+Update for Microsoft SharePoint Workspace 2013 (KB2760358 ) 64-Bit Edition
+Update for Microsoft Visio Viewer 2013 (KB2751994) 64-Bit Edition
+Update for Microsoft Word 2013 (KB2738044) 64-Bit Edition
+Update for Microsoft Word 2013 (KB2752073) 64-Bit Edition
+Update for Windows 8 for x64-based Systems (KB2751352)
+Update for Windows 8 for x64-based Systems (KB2756872)
+Update for Windows 8 for x64-based Systems (KB2764462)
+Update for Windows 8 for x64-based Systems (KB2768703)
+Update for Windows 8 for x64-based Systems (KB2769034)
+Update for Windows 8 for x64-based Systems (KB2769165)
+Update for Windows 8 for x64-based Systems (KB2770917)
+Update for Windows 8 for x64-based Systems (KB2771431)
+Update for Windows 8 for x64-based Systems (KB2771431)
+Update for Windows 8 for x64-based Systems (KB2772501)
+Update for Windows 8 for x64-based Systems (KB2777294)
+Update for Windows 8 for x64-based Systems (KB2779562)
+Update for Windows 8 for x64-based Systems (KB2779768 )
+Update for Windows 8 for x64-based Systems (KB2780541)
+Update for Windows 8 for x64-based Systems (KB2785094)
+Windows Malicious Software Removal Tool for Windows 8 and Windows Server 2012 x64-based Systems - January 2013 (KB890830)

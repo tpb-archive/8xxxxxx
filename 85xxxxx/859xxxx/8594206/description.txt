@@ -1,0 +1,93 @@
+Tasker v4.1u3 FULL *PROPER*
+
+Requirements: (Android 4.0+) with Holo UI
+
+Overview: Automate everything from settings to photos, SMS to speech. ADC2 prize 
+
+winner.
+
+Total Automation, from settings to SMS. ADC2 finalist!
+
+* Triggers: App, Time, Day, Location, Hard/Soft State, Event, Shortcut, Widget, 
+
+Timer, Plugins
+
+* Actions: 200+ built-in, plugin support
+
+* Tasks: loops, variables, conditions
+
+* Scenes: design your own screen overlays
+
+* App Creation: create your own standalone apps to share or sell! (Android 2.3-4.0.4)
+
+****** Actions By Category ******
+
+[not all actions available on all devices]
+
+* ALERT: Flash, Notify LED/Sound/Vibrate, Cancel Notification, Popup 
+
+Timed/WithTaskIcons/Names, Torch, Vibrate, Vibrate Pattern
+
+* APP: Calendar Insert, Go Home, Kill App, Load App, Open Map (/StreetView/Nav)
+
+* AUDIO: Alarm/Call/DTMF/Media/Notif./Ringer/System Volume, Haptic Feedback Toggle, 
+
+Mic Mute, Notification Pulse, Notification/Ringer Vibrate, Silent Mode, 
+
+Speakerphone, Sound Effects toggle
+
+* DIALOG: 28 System Settings dialogs
+
+* DISPLAY: Auto-Brightness, Close System Dialogs, Keyguard, Keyguard Pattern, 
+
+Display Brightness, Display Off Timeout, Display Rotation, Set Wallpaper, Stay On, 
+
+Status Bar (expand/collapse)
+
+* ENCRYPT (not in market version): File/Directory Encrypt/Decrypt,Enter/Clear 
+
+Passphrase
+
+* FILE: Browse Files, Directory Create/Delete/Move, File Copy/Delete/Move/Open, 
+
+Write To File, Read Line, Read Paragraph, Zip/Unzip File
+
+* INPUT: Button, Dpad, Type (root only), Input Method Select, Soft Keyboard (show)
+
+* MEDIA: Media Button Events (grab), Media Player Control, Music File/Dir, 
+
+Play/Forward/Back/Stop, Photo/Series/TimeSeries, Record Audio, Record Audio Stop, 
+
+Ringtone, Scan Card
+
+* MISC: (Broadcast) Action Intent, Component Intent, Get Location, GPS Status (&lt;2.3 
+
+or Cyanogen/submod), Run (ASE) Script, Say, Say To File, Shut Up, Search For, Set 
+
+Clipboard, Reboot (root only), Set CPU (root only) Set Timezone
+
+* NETWORK: Airplane Mode, Autosync, Bluetooth, Bluetooth ID, Compose Email, Browse 
+
+URL, HTTP GET, HTTP POST, Mobile Data (on/off), Mobile Data 2G/3G (Cyanogen only), 
+
+USB Tether, WiFi (set/toggle), Wifi Disconnect/Reassociate/Reconnect, Wifi Sleep, 
+
+Wifi Tether, Wimax (set/toggle)
+
+* PHONE: Call, Call Log, Call Block/Divert/Revert, Compose MMS/SMS (Templated), 
+
+Contacts, End Call, Radio, Send SMS, Send Data SMS, Silence Ringer, Take Call
+
+* TASKER: Change Icon Set, If, End If, Goto Action, Perform Task, Profile Toggle, 
+
+Query Action, Set Widget Icon, Set Widget Label, Stop, Wait, Wait Until
+
+* VARIABLES: Set, Clear, Inc, Dec, Query, Randomize, Split, Join, List
+
+* ZOOM: Element Position, Size, State, Visibility, Text Size, Text, Image, Text 
+
+Colour, Image Alpha
+
+* 3RD PARTY: Android Notifier, Astrid, BeyondPod, JuiceDefender Data/Toggle, Gentle 
+
+Alarm, NewsRob, OfficeTalk, SleepBot, SMS Backup+, TeslaLED, WidgetLocker

@@ -1,0 +1,38 @@
+Instructor: Maciej Jura
+Runtime: 6h 56m
+Video: AVC 1280x720 15 fps
+Audio: AAC 188 Kbps 44.1 KHz
+Size: 2.93 GB
+Level: Advanced
+Software used: 3ds Max 2013, Photoshop CS6, Marmoset Toolbag 1.08
+URL: http://www.digitaltutors.com/tutorial/1084-Creating-a-Game-Ready-Tommy-Gun-in-3ds-Max
+
+In this series of tutorials we take a look on process of creating a gun for use in a game engine like UDK, Unity, or CryEngine.
+
+We go through this process bit by bit starting off by creating a high poly version of the gun using subdivision techniques. The next step will be creating a low-poly version. When this is finished we will take a look how to unwrap elements in order to create the UV Layout. Then we move on to baking ambient occlusion and normals maps. We use Render To Texture dialog in 3ds Max to accomplish this.
+
+After we finish it we'll move over to Photoshop and start to create a diffuse map as well as a specular map. Lastly we'll check our results in Marmoset Toolbag.
+
+Creating a Game-Ready Tommy Gun in 3ds Max content:
+
+1. Introduction and project overview
+2. Overview of the tool and starting modeling
+3. Creating the high poly gun
+4. Modeling the barrel
+5. Creating the main frame
+6. Finishing the main frame
+7. Modeling the sight and other metal details
+8. Modeling the details for the second half
+9. Adding the small details
+10. Modeling the magazine
+11. Fixing some issues on the mesh
+12. Creating the low poly version
+13. Continuing to retopologize
+14. Finishing the retopology
+15. Last touches on the low poly version
+16. Unwrapping the gun
+17. Baking normal map and ambient occlusion
+18. Fixing the maps in Photoshop
+19. Creating the selection mask
+20. Continuing to paint textures for the gun
+21. Finishing textures and creating the specular map

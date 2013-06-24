@@ -1,0 +1,2 @@
+﻿User Type,Username,Date,Text
+,Jturd,2013-06-03T04:37Z,"This is an NTSC(american) Game if you live in a pal(european) region you can unpatch the iso then extract system.cnf, open it with windows notepad then change VMODE = NTSC to VMODE = PAL then replace it in the iso then repatch with esr and burn to disc"

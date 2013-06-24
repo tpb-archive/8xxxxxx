@@ -1,0 +1,38 @@
+ http://www.piczhub.com/images/903Slide1.jpg
+ 
+http://sceneworld.clan.su/Files/SceneDL.gif
+ 
+http://sceneworld.clan.su/Files/LibreOffice4.png
+
+LibreOffice 4.0.4 Final (32 bit) - SceneDL
+
+LibreOffice is a productivity suite that is compatible with other major office suites and available on a variety of platforms. It is free software and therefore free to download, use and distribute. The goal is to produce a vendor-independent office suite with ODF support and without any copyright assignment requirements. LibreOffice is capable of performing the same tasks as every other office suite, from making calculations to drawing.
+
+Changelog :
+
+LibreOffice 4.0.4 Final (2013-06-19)
+
+This is the fifth release from the 4.0 branch of LibreOffice.
+LibreOffice 4.0.4 is suitable for all users; for extra-conservative requirements, we refer you to LibreOffice 3.6.6 from the previous series.
+
+The following notes apply:
+
+This release is bit-for-bit identical to the 4.0.4 Release Candidate 2, so you don't need to download or reinstall if you have that version already.
+The distribution for Windows is an international build, so you can choose the user interface language that you prefer. Help content is available via an online service, or alternatively as a separate install.
+Our Windows binaries are digitally signed by The Document Foundation.
+For Windows users that have OpenOffice.org installed, we advise uninstalling that beforehand, because it registers the same file type associations.
+If you run Linux, the GCJ Java variant has known issues with LibreOffice, we advise to e.g. use OpenJDK instead.
+LibreOffice 4.x drops a few long-deprecated features, including support for legacy binary StarOffice files, export to legacy Word and Excel (version 6.0/95), and legacy ODMA document management.
+Some menu entries have changed or added. If you miss something, that may be due to the use of customised menu settings from your previous LibreOffice installation.
+This version still contains a few annoying bugs, as listed here. Specifically, the German Duden Korrektor extension needs a manual fix.
+
+Homepage : http://www.documentfoundation.org/
+
+Install Notes:
+
+1] Install The App
+2] Enjoy This Release!!
+
+By:
+
+SceneDL

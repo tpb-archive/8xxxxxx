@@ -1,0 +1,7 @@
+So this dump is big. 175 gigs big. I tried to RAR it but even with "Best" compression, winRar only predicted 18% compression so I opted not to wait the 10 hours it said it would take.
+
+This is a (mostly) complete dump of all matches, match players, ability level ups, picks and bans, extra units (spirit bear), heroes, items and cluster data.
+
+There are eight tables, each in their own .sql file. Please, if you're going to download this and you don't think you're going to use all of them, don't download the ones you won't use. For instance, the ability upgrades table file is over 100GB - if you don't need this information, don't download it. I'm starting this as the only seed, so I don't want to piss off my ISP.
+
+This set of data has been parsed and all matches where I can definitely identify that stats are not being recorded have been removed (bot games, games with 

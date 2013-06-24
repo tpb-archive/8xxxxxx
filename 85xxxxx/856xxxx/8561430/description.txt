@@ -1,0 +1,63 @@
+Please Seed!!!!!!!!
+
+
+
+
+Complete name                            : D:TV ShowsAdult SwimThe Venture BrosSeason 5The Venture Bros S05E02 Venture Libre (1920x1080) [Phr0stY] .mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 863 MiB
+Duration                                 : 22mn 34s
+Overall bit rate                         : 5344 Kbps
+Encoded date                             : UTC 2013-06-10 18:20:09
+Writing application                      : mkvmerge v6.2.0 ('Promised Land') built on Apr 28 2013 12:22:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 22mn 34s
+Bit rate                                 : 4854 Kbps
+Width                                    : 1920 pixels
+Height                                   : 1080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.098
+Stream size                              : 784 MiB (91%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 22mn 34s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 62.0 MiB (7%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

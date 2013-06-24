@@ -1,0 +1,148 @@
+InfiniteSkills - Learning Computer Forensics
+
+
+Level: Beginner
+Instructor: Ric Messier
+Length: 11 hours
+Lessons: 90
+Released: 2013-01-16
+SKU: 01752
+
+
+Introduction
+
+In this project-based Learning Computer Forensics video tutorial series, you'll quickly have relevant skills for real-world applications.
+
+Follow along with our expert instructor in this training course to get:
+
+* Concise, informative and broadcast-quality Computer Forensics training videos delivered to your desktop
+* The ability to learn at your own pace with our intuitive, easy-to-use interface
+* A quick grasp of even the most complex Computer Forensics subjects because they're broken into simple, easy to follow tutorial videos
+
+Practical working files further enhance the learning process and provide a degree of retention that is unmatched by any other form of Computer Forensics tutorial, online or offline... so you'll know the exact steps for your own projects.
+
+
+Course Desription
+
+This video based Computer Forensics training course expert Ric Messier will teach you how to get started in this industry. Computer Forensics is a broad topic that touches on many different skills, all specific to answering legal or investigative questions in relation to a computer. Ric will give you an overview of the skills you will need in order to work in this highly technical field.
+
+Because Computer Forensics is a broad field, this course covers a lot of topics, from preparing for an investigation, to ethics, to evidence acquisition, being an expert witness and legal vs. corporate investigations. You will learn about forensic tools and how they are used, such as ProDiscover, FTK, and EnCase. This video tutorial covers wireless network investigations, malware and collecting network evidence. You will also learn about UNIX, Windows, Linux and Mac OS, in order to understand where to look for and recover evidence from.
+
+By the conclusion of this computer based tutorial for Computer Forensics, you will have a clear understanding of what it takes to be a computer forensics investigator, and the tools and techniques available to you to find the evidence you will be looking for.
+
+
+Table of Contents
+
+01. Introduction
+* 0101 What Is Forensics?
+* 0102 Professions Needing Forensics
+* 0103 What You Should Expect From This Video
+* 0104 What You Should Know
+* 0105 What You Will Learn
+
+02. Legal Issues
+* 0201 Chain Of Custody
+* 0202 Evidence Acquisition
+* 0203 Validating Data Under Linux
+* 0204 Validating Data Under Windows
+* 0205 Expert Witness
+* 0206 Ethics For Experts
+* 0207 Evidence Storage
+* 0208 Rules Of Evidence
+
+03. Investigations
+* 0301 Differences With Legal Investigations
+* 0302 Reasons For Corporate Investigations
+* 0303 Preparing For An Investigation
+* 0304 Forensic Workstation
+* 0305 EnCase
+* 0306 FTK
+* 0307 Coroners Toolkit
+* 0308 ProDiscover Basic
+* 0309 Audit Policies
+* 0310 Reporting
+* 0311 UNIX Tools
+* 0312 Sleuth Kit
+* 0313 DEFT Linux
+
+04. Operating Systems
+* 0401 Windows Family
+* 0402 Mac OS X
+* 0403 Linux
+* 0404 Other Types Of Operating Systems
+* 0405 Boot Processes
+* 0406 File Systems: Windows-Based
+* 0407 File Systems: Linux
+* 0408 File Systems: Mac OS
+* 0409 File Systems: CD
+* 0410 RAID
+* 0411 Autostarting
+* 0412 Executable Types And Structure: Windows
+* 0413 Executable Types And Structure: Unix-Based
+* 0414 Disk Partitions
+
+05. Image Acquisition
+* 0501 Image Formats
+* 0502 Image Acquisitions Under Linux
+* 0503 Image Acquisitions Under Windows
+* 0504 Volatile Information
+* 0505 Data Recovery
+* 0506 Hard Drives
+
+06. Network Acquisitions
+* 0601 OSI Reference Model
+* 0602 TCP/IP
+* 0603 Network Attacks
+* 0604 Reasons For Network Acquisitions
+* 0605 Man In The Middle Attacks
+* 0606 Capturing Traffic
+* 0607 NetworkMiner
+* 0608 Other Network Tools
+* 0609 Wireless Networking
+* 0610 Wireless Tools
+* 0611 Firewalls And Their Uses
+* 0612 Intrusion Detection Systems
+
+07. Data Spaces
+* 0701 Alternate Data Streams
+* 0702 Deleted Files
+* 0703 Hidden Partitions
+* 0704 Slack Space And Swap File
+* 0705 Registry
+* 0706 Virtual Memory
+* 0707 System Recovery Checkpoints: Windows
+* 0708 Audit Logs And Settings
+
+08. Data Recovery
+* 0801 Graphics Files
+* 0802 E-Mail
+* 0803 Internet: Cache, Cookies, Etc.
+* 0804 Metadata
+* 0805 Log Files
+* 0806 Steganography
+* 0807 Steganography Techniques: Images And Video
+* 0808 Steganography Techniques: Audio And Documents
+* 0809 Steganalysis
+* 0810 Compression
+
+09. Virtual Machines
+* 0901 Virtual Machines
+* 0902 Checkpoints
+* 0903 Data Formats
+* 0904 Hypervisors
+
+10. Mobile Forensics
+* 1001 IOS
+* 1002 Android
+* 1003 Symbian OS
+* 1004 Tools
+* 1005 Memory Considerations
+* 1006 SIM Cards
+
+11. Malware Forensics
+* 1101 Malware Forensics
+* 1102 Static Malware Analysis
+* 1103 Dynamic Malware Analysis
+
+12. About Me
+* 1201 About Me
