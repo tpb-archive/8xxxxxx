@@ -1,0 +1,64 @@
+Source : DVDR-VIAZAC
+
+
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 822 MiB
+Duration : 1h 41mn
+Overall bit rate mode : Variable
+Overall bit rate : 1 132 Kbps
+
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 1h 41mn
+Bit rate mode : Variable
+Bit rate : 1 000 Kbps
+Width : 640 pixels
+Height : 464 pixels
+Display aspect ratio : 2.40:1
+Frame rate mode : Constant
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.135
+Stream size : 726 MiB (88%)
+Writing library : x264 core 120
+
+
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 1h 41mn
+Bit rate mode : Variable
+Bit rate : 128 Kbps
+Maximum bit rate : 175 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Delay relative to video : 80ms
+Stream size : 92.9 MiB (11%)
+Language : English
+
+
+
+ 
+http://www.shotpix.com/images/78840346682065604998.png 
+http://www.shotpix.com/images/42492358054113649266.png 
+http://www.shotpix.com/images/19821911734061845752.png 
+http://www.shotpix.com/images/38208207450508200505.png

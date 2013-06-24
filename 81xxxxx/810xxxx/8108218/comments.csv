@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,oatgarum,2013-02-11T09:02Z,"hello what happen if i run the Css_Updater.exe  in installation directory its shows ""ERROR WHILE LOADING OPSTIONS"" please any solution for this thanks in advance "
+[T],bruss.aka.durka9,2013-02-11T09:16Z,"to oatgarum
+Try off antivirus."
+,kehloong,2013-02-16T11:21Z,Can i play with bot??
+[T],bruss.aka.durka9,2013-02-16T13:56Z,"to kehloong
+Yes, of course."
+,cantry,2013-02-16T14:36Z,Very Good torrent nice THx!:)
+,cantry,2013-02-16T14:36Z,Very Nice torrent THX!:)
+,cantry,2013-02-16T19:51Z,Hey Very nice torrent THX:)How to change me avatar the score tab?Help PLS thanx!
+[T],bruss.aka.durka9,2013-02-16T20:23Z,"to cantry
+Replace avatar.dat file in platform directory with any other .jpg file.
+Your avatar may see only you."
+,cantry,2013-02-16T22:01Z,THX:)
+,BuGsBuNnY13,2013-02-28T11:00Z,Man it says no permission to run Css what to do?
+,BuGsBuNnY13,2013-02-28T11:04Z,"Man it says no permissions to run ""cstrike"""
+[T],bruss.aka.durka9,2013-02-28T15:11Z,"to BuGsBuNnY13
+Off steam!"
+,BuGsBuNnY13,2013-03-01T08:15Z,And somethng else when i go to the internet section after 2 seconds the game crashes and i cant add servers :P from the internet to my game
+[T],bruss.aka.durka9,2013-03-01T14:15Z,"to BuGsBuNnY13
+Try: off antivirus and run game with administrator privileges."
+,goumas0206,2013-03-07T17:48Z,"It's been months I've been playing and now I open the game play for 1-2 minutes then it crashes... Any solution?? Thx for the help
+
+PS : Antivirus off, run as admin and every update made"
+[T],bruss.aka.durka9,2013-03-07T19:53Z,"to goumas0206
+It's NET problem. Wait some hours."
+,oatgarum,2013-03-08T11:40Z,"hello bruss ...seems like the game after 5minutes its always crashing ...antivirus disbled , run as admin ...and after that it will crash ..please help us please.."
+,oatgarum,2013-03-08T11:43Z,hl2.exe stops working pleasee..any solution thanks
+,snowman21,2013-03-08T13:14Z,"Yes, it suddenly stopped working yesterday "
+[T],bruss.aka.durka9,2013-03-08T20:16Z,"to all
+Folow this step: Full off antivirus --> run updater --> off steam --> run game with administrator privileges --> enloy."
+,oatgarum,2013-03-10T16:43Z,hello bruss may i know how to off the steam ? thanks
+[T],bruss.aka.durka9,2013-03-10T17:17Z,"to oatgarum
+Only if you have it."
+,oatgarum,2013-03-11T05:24Z,"yeah i don't have any steam install on my system ...then i follow what you've told full off anti virus, run as admin then i update already but still crashing the game. how it is happen ?"
+[T],bruss.aka.durka9,2013-03-11T05:56Z,"to oatgarum
+Impossible. No more help to you."
+,oatgarum,2013-03-11T14:07Z,:(
+,oatgarum,2013-03-12T17:08Z,hello bruss. thank you for the reply actually im using windows 8 maybe the reason why its crashing until i try to run as compatibility in windows xp and now its ok running smooth ... thanks again
+[T],bruss.aka.durka9,2013-03-12T22:37Z,"to all
+Folow this step: Full off antivirus --> run updater --> off steam --> run game with administrator privileges --> enloy"
+,Hey-you,2013-03-15T08:49Z,"Tried replacing skins i downloaded for the players. Tried replacing the gun skins too. What made me fed up is some sort of ""game-user"" or ""game-admin"" block me from changing skins. Can't use cheats too. Umad?"
+[T],bruss.aka.durka9,2013-03-15T17:18Z,"to Hey-you
+???"
+,Hey-you,2013-03-17T10:38Z,"Nice game dude. The problems are:
+when I tried to change the skins of the player models, i got consistency error ""Server is enforcing file consistency for modelsplayer........""
+The same goes to weapon skins. I tried to type the command ""sv consistency 0"" as told by some gamers on the internet but nothing happen. Many of the commands like ""restart"" ""sv cheat 1"" are unusable in the console. Have any idea?"
+[T],bruss.aka.durka9,2013-03-17T15:56Z,"to Hey-you
+On server and client (botch) type in console: sv_pure 0"
+,Chicken82,2013-03-20T09:52Z,My wireless is downloading 2mB/s now-gonna seed it for a week. Thx m8
+,spiros235,2013-03-21T14:29Z,it came a new update i dont know what to do
+[T],bruss.aka.durka9,2013-03-22T09:16Z,"to spiros235
+Run updater."
+,wop_wop,2013-04-17T19:39Z,"Playing this for few weeks, worked perfectly, and when i udated this today, it didnt launch saying ""ProcName value not found on commandline or in rev.ini. Please edit the file"" what the hell do i do now?"
+[T],bruss.aka.durka9,2013-04-17T22:16Z,"to wop_wop
+
+If you are updating from previous CS:S version, you must add to rev.ini (placed in game dir) strings:
+
+[Loader]
+ProcName = hl2.exe -steam -game cstrike -appid 240 -novid
+
+And replace this string:
+
+SteamDll = ./bin/Steam/Steam.dll
+
+To this:
+
+SteamDll = ./Steam/Steam.dll
+
+Then off antivirus and run updater. Enjoy.
+Or you can download new generation: http://thepiratebay.sx/torrent/8380094"
+,kelvin_andrade,2013-04-27T18:54Z,"Hey man, thanks for the torrent, it's ALMOST perfect, except for one thing:
+
+I can't get to install any skins I downloaded. When I open the game it's just the original/default skins, and in console it's written:
+
+ForceModelBounds no longer supported.  (*skin file name*)
+
+ForceSimpleMaterial no longer supported.  (*skin file name*)
+
+I installed weapons, hands, CT & T skins."
+[T],bruss.aka.durka9,2013-04-28T06:14Z,"to kelvin_andrade
+You must read: /cstrike/custom/readme.txt"

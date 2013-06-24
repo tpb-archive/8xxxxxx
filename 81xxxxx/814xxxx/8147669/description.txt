@@ -1,0 +1,106 @@
+KMSpico - The NextGen KMS Activator by heldigard of MDL forums
+Based on the work of CODYQX4 and mikmik38's work in MS toolkit 2.4.1
+
+Release File: fusionem_v2.zip
+Size: 1.32MB
+CRC32: F9FC11AA
+MD5: C0783DC9572A4E19C40AF83BEE4C64CE
+SHA-1: 0C19B2922E4110FE8E38F3E2DD4B394778687DC0
+
+Mod: fusionem_v2-NoSoundVersion-heldigard-and-murphy78.zip
+Size: 1.24MB
+CRC32: 2DDF2724
+MD5: DB8DC0A3BDB66CD296F0AB9C644A22EA
+SHA-1: 2AC328E0C0E23FBDD49C80D6A83F6C93E307BE01
+
+Name: OEM-Pico_v2-NoSound-murphy78.zip
+Size: 1.25MB
+CRC32: 625EFF50
+MD5: 0DA52EABACFAF3FB9C3ED477F18E46DB
+SHA-1: 89033B51EC2D53035132DE0355805DCCF344B361
+
+2nd one is my personal repack using all of the settings from heldigard's
+release except the kmseldi /music call. NoSound version
+is a little faster because it doesn't wait on the sound to finish.
+OEM is just an oem folder you can toss in your sources directory
+if you know what you're doing. Don't bother if you don't know what
+it is.
+
+KMSpico is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. Heldigard has built on CODYQX4's
+amazing work from MS Toolkit 2.4 where mikmik38 and CODYQX4 made an emulated
+KMS activation program without the use of a Virtual Machine.
+
+KMSnano was GREAT. KMSpico is even BETTER, SMALLER, FASTER.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC*
+----------Again, those versions will NEVER support KMS activation---
+--------------------------------------------------------------------------------
+*Some experimental core and prowmc support is in this, but it resets to
+30 day renewable activation since they don't natively support KMS.
+Trigger would have it run every time you log. If you use one of those,
+you might want to edit RunTrigger.cmd and set it to like 7 instead of 31.
+
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+1. Extract the zip file to a directory. Make it a good one if you want to install.
+2. RunTrigger.cmd will install the program to re-activate when you log on with 30
+days or less on your 180-day KMS activation left. If you just want to do a
+one-time activation, just run the corresponding kmspico exe file.
+3. The NoSound activation is about 4 seconds, I think the sound ver is like 7ish
+(It takes longer for Retail to VL Office 2013 conversion)
+4. Done. Go about your business.
+
+For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+I highly recommend just getting a proper release. I have tons of them. 
+http://thepiratebay.se/user/murphy78
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from KMSpico v1 and v1.1:
+- Implemented Support for WServer,ProWMC,Core (Beta).
+- Encrypted to avoid AV.
+(maybe 1.1 wasn't encrypted, don't know)
+
+All is Done (for now).
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to KMSpico.exe in Antivirus.
+
+If you bug anyone at MDL, bug me before heldigard please. His primary language
+is not English, and I, or many others in the KMS Host and Tools v3.0 thread
+can help you just fine. 
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-and-TOOLS-v-3-0
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Enjoy Pirates,
+murphy78-TPB

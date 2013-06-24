@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-15T01:05Z,"2.4.1
+-Fixed broken validation of custom KMS PID in Settings."
+,MoeCurly,2013-02-15T02:08Z,"Hey thanks, finally activated a very stubborn Win8 Pro with WMC with this kit."
+[V],murphy78,2013-02-15T02:43Z,"I'm not sure it will stick on the prowmc. it's not supposed to use kms keys. People have reported that it works but that it sets grace to 30 days.
+
+It could be possible for them to figure out the retail activation stuff, but it would be a lot harder as not many people would volunteer their files and time and effort for something that they paid for, esp since there are many more unique identifiers in the retail editions than the rtm ones."
+,maxmoser56,2013-02-15T08:58Z,hey murphy78...kaspersky says trojan....???
+,bedtimefy,2013-02-15T19:37Z,can someone tell me step by step how to activate office 2013 please cause I cant figure it out
+,bedtimefy,2013-02-15T19:46Z,"I get this
+Attempting To Activate Microsoft Office
+Attempting to Activate OfficeProPlusVL_KMS_Client
+ERROR CODE: 0x8007000D
+ERROR TEXT: The data is invalid."
+[V],murphy78,2013-02-16T01:28Z,"max, there are a few a/v that claim virus on the kmsemulator program. It's a well known bypass of security and it's a false positive.  If you don't trust it, you can try kmspico, it has the encryption."
+[V],murphy78,2013-02-16T01:29Z,"office is a picky one, if it's not set up correctly, this will not activate it.  autokms activated my office2013 proplus vl, but it's very new; some support may have bugs.
+
+KMSpico does conversions if you have a retail version that you didn't realize was retail. It's all automated"
+,maikel,2013-02-19T19:56Z,"I installe Kms Nano V 25 and tried to activate office 2013, t did not work but with KMS nano installed i tried this and it worked.
+
+Activating using only this did not work for neither on Win 8 or Win 7."
+,ColdFission,2013-02-26T21:08Z,"This works great. Needed the latest version of the toolkit to reactive Office 2010 Professional Plus suite after SharePoint Designer 2013 mucked up the activation for them.
+
+Uninstall SharePoint Designer 2013, installed new version of the AutoKMS from this release, did EZ-Activator, all my products are working now."
+,joes1985,2013-03-05T20:50Z,"@murphy78 , THANKS FOR ALL YOUR WORK. JUST A QUESTION. IM USING PRO WMC. CAN i REACTIVATE EVERY 30 DAYS WITH THIS TOOLKIT?SINCE IT SAYS ITS ONLY GOOD FOR 30 DAYS?"

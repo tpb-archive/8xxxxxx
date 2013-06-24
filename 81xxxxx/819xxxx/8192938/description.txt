@@ -1,0 +1,48 @@
+Supported Games
+
+This tool can support any game that has achievements on Steam, even if it is not listed directly in the dropdown box. Simply type its ID into the editable dropdown box text and refresh.
+
+Instructions
+
+Install Microsoft .NET Framework 3.5 if you do not already have it installed.
+Download Steam Achievement Manager 6.3.
+Extract it to a directory that is convenient to you, but not your Steam directory. It's a ZIP file, if you don't know how to extract a ZIP file then you probably shouldn't be trying to use this tool.
+Run Steam if it is not already running.
+Exit any active VAC protected games if any are running. While this tool does not directly interact with any game itself, it is better safe than sorry.
+Run SAM.Picker.exe and do whatever you want in it.
+
+Frequently Asked Questions
+
+SERVERSIDE ACHIEVEMENTS? WUT?
+
+That's right. Steam now has the capability to secure achievements from being managed. Naturally this means you can't unlock them. Good for them. :)
+Will I get banned for using this?
+
+Improbable.
+My achievements were reset!
+
+Use the tool again? (Valve hasn't reset achievements since the original medic pack release)
+The Announcer (hurr) took away my unlocked weapons!
+
+OH NOES (I don't care).
+Spacewar?
+
+It's a sample game to demonstrate SteamWorks API to developers.
+CHEATING! HACKING! EARN IT OMG! PLAY ON ACHIEVEMENT MAPS! YOU SUCK! ARRRRRRGGGGGHHH!
+
+That wasn't a question.
+Troubleshooting
+
+Some games show IDs instead of names for achievements such as TF_KILL_NEMESIS
+
+You're probably talking about Portal, Half-Life 2: Episode Two, and Team Fortress 2. These games had achievements before the system for achievements was really nailed down in a standard way, so some achievements do not get translated text from Steam, they get the IDs instead. This is a bug in Steam that simply hasn't been fixed because it's such a low issue that doesn't occur normally.
+'generic error' (error #2)
+
+You don't own the game or the game does not have achievements. If you or it really does, restart Steam and see if the issue clears up.
+Access Violation! BUH?!
+
+Contact me through either SA or FP so I can work the issue out with you.
+
+I WAS VAC BANNED
+
+Dumbass.

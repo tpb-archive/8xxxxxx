@@ -1,0 +1,76 @@
+Directed by: John Aoshima
+Story by: Tommy Reahead
+Teleplay by: Tim McKeon & Alex Hirsch
+
+Stan challenges Mabel to run the Shack when she questions his bossing methods.
+
+Screenshots: 
+http://i.imgur.com/9fG4Mmq.png 
+http://i.imgur.com/YTAKIGD.png 
+http://i.imgur.com/00ssTYS.png
+
+
+File info:
+General
+Format                           : MPEG-4
+Format_Profile                   : Base Media / Version 2
+CodecID                          : mp42
+FileSize/String                  : 128 MiB
+Duration/String                  : 21mn 33s
+OverallBitRate_Mode/String       : Variable
+OverallBitRate/String            : 832 Kbps
+Encoded_Date                     : UTC 2013-02-08 05:41:09
+Tagged_Date                      : UTC 2013-02-08 05:49:49
+Encoded_Application              : HandBrake 4650svn 2012050801
+
+Video
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : High@L3.0
+Format_Settings_CABAC/String     : Yes
+Format_Settings_RefFrames/String : 4 frames
+CodecID                          : avc1
+CodecID/Info                     : Advanced Video Coding
+Duration/String                  : 21mn 32s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 698 Kbps
+Width/String                     : 640 pixels
+Height/String                    : 480 pixels
+DisplayAspectRatio/String        : 4:3
+FrameRate_Mode/String            : Variable
+FrameRate/String                 : 30.000 fps
+FrameRate_Minimum/String         : 29.412 fps
+FrameRate_Maximum/String         : 1 000.000 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Bits-(Pixel*Frame)               : 0.076
+StreamSize/String                : 108 MiB (84%)
+Encoded_Library/String           : x264 core 122
+Encoded_Library_Settings         : cabac=1 / ref=4 / deblock=1:1:1 / analyse=0x3:0x113 / me=umh / subme=7 / psy=1 / psy_rd=0.40:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:0.60
+Encoded_Date                     : UTC 2013-02-08 05:41:09
+Tagged_Date                      : UTC 2013-02-08 05:49:49
+Color primaries                  : BT.709
+Transfer characteristics         : BT.709
+Matrix coefficients              : BT.709
+
+Audio
+ID/String                        : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format_Profile                   : LC
+CodecID                          : 40
+Duration/String                  : 21mn 33s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 128 Kbps
+BitRate_Maximum/String           : 155 Kbps
+Channel(s)/String                : 1 channel
+ChannelPositions                 : Front: C
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+Video_Delay/String               : 66ms
+StreamSize/String                : 19.7 MiB (15%)
+Encoded_Date                     : UTC 2013-02-08 05:41:09
+Tagged_Date                      : UTC 2013-02-08 05:49:48

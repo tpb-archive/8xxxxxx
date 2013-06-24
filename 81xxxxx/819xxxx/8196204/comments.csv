@@ -1,0 +1,86 @@
+﻿User Type,Username,Date,Text
+[T],relentlesstech,2013-02-26T22:45Z,"I finally managed to upload this, after almost a month of trying EVERYTHING!  I noticed the link in the post for WinRAR was removed, so I uploaded it to TPB:
+http://thepiratebay.sx/torrent/8196227/WinRAR_v4.20_(x86-x64)"
+,MAA11792,2013-02-27T14:02Z,Why+ :/
+[T],relentlesstech,2013-02-27T15:00Z,???
+,s1xzaaa,2013-02-28T15:12Z,is it repack or smt else?
+[T],relentlesstech,2013-02-28T22:26Z,"@s1xzaaa:
+These are copies from my purchased DVDs (Both GTA IV and EFLC) - The GTA IV DVDs were converted to ISO, but the EFLC kept having errors when installing from the ISO, so I left it as just the data folder, which is 'installed' to the GTA IV main directory - This is no repack, it's an ORIGINAL ;-)"
+,Razzak18,2013-03-01T14:24Z,Pls seed I have 57% and Its stuck
+[T],relentlesstech,2013-03-01T20:11Z,"I haven't stopped seeding since I put this up - There's a LOT of people going for it right now, and I'm noticing most of them have their upload ratios at less than 10% (A few people have downloaded 15GB, and barely hit 1GB or less in uploading) :-("
+[T],relentlesstech,2013-03-05T14:06Z,"*** NOTICE ***
+
+If you are looking for ONLY 'Episodes From Liberty City', all you need to do is set your torrent client to download only the 'HOWTO.txt' file, and the EFLC archives - You do not need to download the GTA IV ISOs, or /GTA IV/File Set 1.rar ... Just a hint for those that didn't know ;-)"
+,s1xzaaa,2013-03-07T00:24Z,have u ever install any mods in these  games?
+[T],relentlesstech,2013-03-07T13:04Z,"@s1xzaaa:
+I have a bunch of different mod packs I made for it (vehicles) ..."
+,s1xzaaa,2013-03-07T14:15Z,"hm, I downloaded this torrent and install GTA IV but I don't understand how intall EFLC. ""Place the 'EFLC' directory into the GTA IV directory"" - what is it? what I should do? Just unpack all files from all archives?"
+,s1xzaaa,2013-03-07T14:31Z,"FCKYEAH I download this torrent and install GTA IV but I don't understand how to install EFLC. ""Place the 'EFLC' directory into the GTA IV directory"" - what does it mean? I should just unpack all files from all archives or what?"
+[T],relentlesstech,2013-03-07T15:58Z,"@s1xzaaa:
+In the 'Episodes From Liberty City' folder, select all the archives, right-click, and 'Extract Here' (If it asks to overwrite, click 'Yes to all') - Once all archives are extracted, copy the 'EFLC' folder (The extracted one) to where GTA IV is installed (C:/Program Files/Rockstar Games/GTA IV/), then do the updates, etc ... Even though when running GTA IV the EFLC menu shows, you cannot run either TBOGT or TLAD through it - You must create a shortcut to the EFLC launcher ..."
+,s1xzaaa,2013-03-07T19:46Z,"hm, after istallation I tried to play EFLC: TBOGT for example, but when I laught EFLC after Rockstar logos I saw fkn black screen. and I don't know whata fock I need to do. can u help me?"
+[T],relentlesstech,2013-03-07T21:22Z,"@s1xzaaa:
+Did you run the update, then copy the No-CD files to the EFLC install folder, and overwrite - Make sure you create a shortcut to launch EFLC with 'LaunchEFLC.exe' - If done right, it will work, unless there's a problem with minimum specs on your PC"
+[T],relentlesstech,2013-03-07T21:23Z,"Oh, and don't forget the REG file import for the right system!"
+,s1xzaaa,2013-03-07T23:06Z,"ofc I update the game, but in the end, when the game was updeted I click ""finish"" and it's an error on my screen - ""LaunchEFLC  not found"". don't know what is it and why.."
+[T],relentlesstech,2013-03-07T23:48Z,"Go into the installed EFLC folder, and run the 'LaunchEFLC.exe', and see if that works - If it does, then you just need to redirect the shortcut - If not, try copying No-CD files, then registering again ..."
+,s1xzaaa,2013-03-08T01:23Z,"""If not, try copying No-CD files, then registering again"" - what u mean ""registering"""
+[T],relentlesstech,2013-03-08T02:11Z,"Either the x64 or x86 REG files, whichever your system is"
+,s1xzaaa,2013-03-14T22:53Z,"hm, and how should call the folder with EFLC?"
+[T],relentlesstech,2013-03-14T23:25Z,"Keep the folder name as 'EFLC' - Once you extract the EFLC folder, just copy the entire folder into the '%ProgramFiles%Rockstar GamesGrand Theft Auto IV' folder, then apply the updates and No-CD ..."
+,s1xzaaa,2013-03-16T18:25Z,don't know why but it doesn't work. GTA IV working good. I installed some mods in this game and it's pretty good now hahah but EFLC don't work yet :(
+,s1xzaaa,2013-03-16T18:46Z,"aaaaaaa hahahah when I run 'Episodes From Liberty Cityv1.1.2.0 UpdateSetup.exe It intall it in default foulder - C:Program filesRockstar GamesGrand Theft Auto IVEFLC :D I think, if I copy this files to my foulder D:GAMESRockstar GamesGrand Theft Auto IVEFLC it will works ^^ I make it after few min cause I reinstall GTA IV ;)"
+,s1xzaaa,2013-03-16T19:41Z,FCKYEAH it's works!
+,s1xzaaa,2013-03-16T22:00Z,"now I've got new problem: I want to edit some things in the game - cars. so, I put asi loader and scripthook in the eflc foulder. after that I start new game and when loading is finished, the game have an error. and now I've got this error in all time..do u know what I must to do?) How fix it?"
+,s1xzaaa,2013-03-16T22:04Z,"and when the game is loading I have GTA IV screens, not EFLC, and no sounds yet. whatafock?!"
+,s1xzaaa,2013-03-16T22:37Z,"it wants to download new content, hm"
+[T],relentlesstech,2013-03-16T23:47Z,"Can you take a screenshot of the error screen?  I don't know why there wouldn't be any sound, I don't have any sound issues - Once GTA IV loads, and the main menu shows, does it show both GTA IV and EFLC? Even if they show on the menu, you need to start EFLC from a shortcut you create to the 'launchEFLC.exe' file - I want to help you, but I need to know exactly what is going wrong (BTW, are you sure the ASI Loader is compatible? I had issues with ASI, and just used the scripthook.dll instead for modding - Also, to mod the files, all directories must be cleared of the 'read-only' property)"
+[T],relentlesstech,2013-03-17T23:29Z,"Video instructions:
+
+I can't post the link, no matter how much I try to change it, so if you want to watch the video (Install instructions and proof of both working), search YouTube for 'HOW TO INSTALL GTA IV and EFLC' with the tag 'relentlesstech' ..."
+[T],relentlesstech,2013-03-18T01:36Z,"After installing on a friend's computer, I realized I messed up the order on which to install/crack - Here is the order of installation:
+
+Installing GTA IV:
+1. Install GTA IV
+2. Once install is complete, run 'Offline Installer'
+3. Install update
+4. Copy files from No-CD to GTA IV install directory
+
+Installing EFLC:
+1. Copy EFLC folder into the GTA IV install directory
+2. Import the registry entry for your system (x86 or x64)
+3. Run update
+4. Copy files from No-CD folder to EFLC install directory
+5. Create shortcut to 'LaunchEFLC.exe' on your Desktop
+
+Default install directories:
+GTA IV: C:Program FilesRockstar GamesGrand Theft Auto IV
+EFLC: C:Program FilesRockstar GamesGrand Theft Auto IVEFLC
+
+Once you have completed all the steps for installation, restart your computer
+
+If you have problems with the audio not working, this is most likely caused by a corrupt savegame file - If you have a savegame file from an earlier installation, you must delete it - The savegame folder is located here: C:Users%USER%DocumentsRockstar GamesGTA IVsavegames"
+,littlejonny10,2013-03-18T03:13Z,"It downloaded and installed fine, however the graphics don't appear to be loading properly. It loads what's on the screen and looks fine, but when I drive anywhere it all disappears, and I'm driving on nothing. I can't change any of the options in the graphics menu, and it says it's using 242 of the 59mb allocated. 
+It happens in EFLC as well as IV.
+Help?"
+[T],relentlesstech,2013-03-18T11:44Z,"@littlejonny10:
+You can't change any of the options?  That's the first time I've heard that - Are your graphics drivers up-to-date? If you are using an ASI Loader for modding, this can happen - Other than drivers, or ASI, I can't think of a reason why that would be happening - Can you tell me your system specs?"
+,littlejonny10,2013-03-19T13:33Z,"Nevermind, I fixed it... turns out I forgot to restart the computer. D'oh!"
+[T],relentlesstech,2013-03-19T20:17Z,"I messed up the order on what to do as far as EFLC installation/cracking went, and forgot the 'Restart Computer' step - I didn't even realize it until I went to install on a friend's computer, and couldn't update EFLC because the registry entries weren't there yet LOL - I wonder how many people downloaded it, and had issues with regging EFLC, and just decided the torrent was shit, instead of asking me in here o.O"
+,Drew-El,2013-04-01T17:58Z,"I am confused with the 'Offline installer'.  After installing both ISO 1 & 2, it prompts me that GTA4 will now attempt to connect online.  I have the option of either continue or cancel.  Do I leave that window open while I run the 'Offline installer'?  confused here"
+,Drew-El,2013-04-01T19:55Z,I got 'GTA IV Fatal Error'
+[T],relentlesstech,2013-04-01T22:12Z,"@Drew-El:
+Cancel any attempts to go online until AFTER it is completely installed - If you get a prompt about 'Release Date Check', just cancel it - Once you copy the No-CD over, it will no longer check - Hope that helps!"
+,Suggyz,2013-04-06T16:41Z,I installed everything and everthing seems to work just fine but it wont let me save because i have to log in to windowslive account but it wont let me log into one because it needs a serial code. how can i save my game??
+,Suggyz,2013-04-06T16:59Z,nevermind i forgot to put the xlive file over. thanks for the up!
+,Jelcon,2013-05-10T11:16Z,"Hi, i have been able to install, but not to make it work. The original game will start but doesn't let me adjust the graphical settings higher than 800x600. EFLC will not start, it stops responding when the screen went black. Any help?"
+,Jelcon,2013-05-10T12:06Z,My system is capable of coping with modern games like crysis 3 and far cry but it says it can't change the graphics because it is over its capacity. I have the newest drivers
+,Jelcon,2013-05-10T16:25Z,"Update, still can't adjust the graphical settings but got them to an acceptable setting via Geforce experience. Episodes will still not run, i had the same problem as s1xzaaa and with his fix it now gets to the second 'legal test'screen and stops there. it just infinately displays that. "
+,garaminals,2013-05-11T21:59Z,"Followed the mentioned youtube video and had no problems. I'd downloaded a modded version that would crash on the Brucie missions and couldn't continue the story as a result. 
+
+This version works fine for me.  
+
+When I tried importing the saves from the modded version though it would crash non-stop so I just restarted the game. "
+,garaminals,2013-05-11T22:10Z,"Also if you don't have a granular firewall *turn off your networking adapter*!  That and not removing the ISOs once installed were what kept me from installing correctly. 
+
+I get that this is kind of a pita to install because of the steps but it works well. "

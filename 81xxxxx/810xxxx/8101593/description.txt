@@ -1,0 +1,76 @@
+General
+Format                                   : Matroska
+File size                                : 8.45 GiB
+Duration                                 : 1 h 34 min
+Overall bit rate                         : 12.8 Mb/s
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 34 min
+Bit rate                                 : 10.5 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.285
+Stream size                              : 6.78 GiB (80%)
+Writing library                          : x264 core 66 r1114
+Language                                 : English
+Audio #1
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 34 min
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 6 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 260 MiB (3%)
+Title                                    : Español (castellano)
+Language                                 : Spanish
+
+Audio #2
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 34 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 509 kb/s
+Channel(s)                               : 6 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossy
+Stream size                              : 1 022 MiB (12%)
+Title                                    : English
+Language                                 : English
+
+Audio #3
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 34 min
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 6 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 260 MiB (3%)
+Title                                    : Català
+Language                                 : Catalan
+
+Text
+ID                                       : 5
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Compression mode                         : Lossless
+Language                                 : English
+
+Enjoy and seed!

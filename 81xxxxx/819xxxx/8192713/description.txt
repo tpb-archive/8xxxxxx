@@ -1,0 +1,48 @@
+Zygor Guides v4.0.5954, released February 25th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+3) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+4) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+********I need someone to verify that the Mac instructions work********
+
+
+Patch notes:
+
+
+Version: 4.0.5954
+Released on: February 25th, 2013
+[A] Dailies
+Fixed an error causing 5.2 dailies to show up before the patch goes live.
+
+
+Version: 4.0.5952
+Released on: February 25th, 2013
+[H] Dailies
+Fixed a reported error with the August Celestials having the wrong quest ID
+
+[H] Achievements
+Fixed reported error with the In A Trail Of Smoke achievement
+
+[H] Reputations
+Updated Lower City, The Sha'tar, The Scryers, Ashtongue Deathsworn and the Violet eye.
+
+[H] Leveling
+Reordered some steps in the Blood Elf leveling guide to make it flow more smoothly.
+
+
+Version: 4.0.5944
+Released on: February 25th, 2013
+[A] Dailies
+Fixed an error causing new dailies from showing up before they are released on the live servers

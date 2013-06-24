@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,sas41,2013-02-13T16:54Z,"If you are having a problem with hosting a Listen server with Sven Co-op,
+There are 2 ways of fixing this:
+
+1st Way:
+use HLDS to host a game, and change the NETWORK to LAN
+
+2nd Way:
+For Listen servers go to-
+GAME_DIRECTORYsvencoop
+Open ""game.cfg"" file
+and add this text to the last line:
+WITH THE ALL THE ""s
+""sv_lan""		""1"""
+,womis,2013-02-13T17:35Z,Non-steam ? ya ??
+,sas41,2013-02-13T20:32Z,Yes!
+,Deep_Orange,2013-02-22T20:20Z,Thank you very much! The game is godlike!
+,droobydk,2013-02-26T15:26Z,Where is the CD key :)
+,separatozblank,2013-02-27T15:35Z,CD key pleasee!!!
+,sas41,2013-02-28T14:48Z,"CD KEY:
+Just fill in with ""A"" all the way!"
+,djaalog,2013-03-12T11:47Z,Thanks for this!
+,jbal115,2013-03-13T22:25Z,"downloading now... does anybody know how to use the game ""cry of fear""?"
+,hillbillyduke,2013-03-17T17:45Z,"How do you install?  I am running a Windows 7 dell inspiron 6400, intel core duo 1.7 Ghz processor with 2 gigs of ram."

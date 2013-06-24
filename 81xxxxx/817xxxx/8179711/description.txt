@@ -1,0 +1,59 @@
+Hard Disk Sentinel Pro
+
+Hard Disk Sentinel is a hdd monitoring tool that will help you find possible hard disk problems, performance degradations and failures. It can alert if a problem detected or if temperature is too high and it has other reporting options. As hard disk sizes are constantly increasing, data stored on them are more and more valuable for the user of the computer (and this is especially true for a company or office). Serious problems can occur upon a hard disk failure.
+
+Hard Disk Sentinel can monitor hard disk status, including temperature and S.M.A.R.T. (Self-Monitoring, Analysis and Reporting Technology, built in most hard disks today) values for each hard disks. Also it measures the hard disk transfer speed in real time which can be used as a benchmark or to detect possible hard disk failures, performance degradations. Hard Disk Sentinel can be used to prevent serious damage or data loss. It warns the user before a problem may occur and this gives opportunity to backup important and valuable data
+
+Here are some key features of "Hard Disk Sentinel Professional":
+┬╖ Easy to use interface
+┬╖ All information are displayed in the main window of the application. Quick controls allow easy navigation to access all hard disks, partitions and different information. Intuitive user interface elements display information by using green/yellow/red color to indicate the level of problem. Detailed text description and context sensitive help guides the user thru the features and options.
+┬╖ 1. Install &gt; 2. Configure &gt; 3. Stay protected
+┬╖ Just install, configure alerts and backup options and your system is now safe. You'll be notified about the problems - but if everything is correct, Hard Disk Sentinel just sits on tray and displays current status. The data is protected even in 24 hours daily, 7 days a week.
+┬╖ Instant S.M.A.R.T. analysing - Hard Disk Sentinel can communicate with IDE, Serial ATA and SCSI hard disks to detect their status and temperature. Disk status are displayed immediately as you launch the application, there is no need to analyse disks for a long period. It displays the current and maximum temperature for the hard disk.
+┬╖ It can read all general and vendor-specific attributes and monitor their values. For advanced users, all raw data are displayed also including power-on hours or number of read/write errors. Hard Disk Sentinel interprets the performance and fitness related S.M.A.R.T. values and displays the calculated Performance and Health percentage, total power on time and estimated lifetime remaining.
+┬╖ Disk status in Windows Explorer - View the current health status and used space in Windows Explorer or in any other application, so you'll always know the amount of used space for each partitions and the disk condition.
+┬╖ Information on demand - It can display current hard disk temperatures and health on the system tray, in a small status window and on the desktop itself. Average and maximum temperatures are logged for all hard disks and these informations are displayed in graphs for statistical purposes.
+┬╖ Logging - Hard Disk Sentinel logs all degradations in all SMART parameters. For example, if a new uncorrectable sector is found on your hard disk, you will be notified.
+┬╖ Alerts - Hard Disk Sentinel can make different kind of alerts upon different problems. It can execute various tasks (even external applications) in case of a problem. There is an option to send daily emails about current status.
+┬╖ Hard Disk Details - Detects and displays every information about the hard disk, from the revision number and buffer size to all features it has. The maximum available and current transfer modes are also displayed.
+┬╖ Hard Disk Performance - Logs how much data were read from or written to the hard disk. Displays current transfer rates for both reading and writing and estimates the maximum available (theoretical) transfer rate for a particular hard disk.
+┬╖ Hard Disk Partitions - Displays partitions for each physical hard disks and type and usage informations about them so you cannot run out of space. Hard Disk Sentinel sends this information automatically in alert/status messages.
+┬╖ Shutdown - It offers option to shut down the computer on failure, overheat or parameter degradation. This option can be used to prevent further data loss.
+┬╖ Acoustic Management - It offers option to control the acoustic level of IDE/S-ATA hard disk. It is possible to increase performance or make the disks more silent.
+┬╖ Clock Synchronization - It offers option to synchronize the PC clock with an atomic clock via NTP (Network Time Protocol).
+┬╖ Improvements - Hard Disk Sentinel is constantly improving. More features will be available soon. If you have any idea which can be useful, just let us know.
+
+Changes in Hard Disk Sentinel Pro 3.60 Build 4810
+Improvements and new features:
+- File -&gt; Open status of offline disk(s)
+Load and display previously saved disk status and statistics for any hard disk / SSD previously connected.
+
+- File -&gt; Windows Volume/RAID Information
+Display Windows Logical Disk Management information including software RAID status
+
+- Report -&gt; Save Authentic Disk Report
+Save report about selected hard disk(s) and protect the report to prevent unauthorized change (ideal for disk resellers / maintenance)
+
+- Report -&gt; Verify Authentic Disk Report
+Verify if the previously saved authentic disk report is valid
+- detect volume information (partition style, type, alignment, cluster size)
+- display more details in Random seek Test window
+- detect and display if TRIM is supported and enabled in the OS for an SSD
+- improved text description for HDD/SSD specific attributes
+
+Supported OS:
+
+Windows All
+
+Homepage: http://www.hdsentinel.com/
+
+Installation Instructions:
+
+- Install program.
+- Copy content from crack folder and paste into default installation directory.
+- Run application, write any name and key in registration window, and click on "Registration and Activation by Email".
+- Restart application, Done, Enjoy. 
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

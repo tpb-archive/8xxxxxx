@@ -1,0 +1,66 @@
+
+
+* Installation Process : = 
+
+
+    * first go to your system setting & check it's must be on 3.55
+
+   
+    * Eject Any Disc from Ps3 [Note:= Remeber never insert any disc in Ps3 ]
+
+    
+    * plug ur flash drive into pc copy Toggle QA .PKG
+
+
+    * Insert flash drive into ps3 Then Install It From Install PKG file
+
+    
+    * once toggle .pkg installed now Run it
+
+    
+    * ps3 will beep & back to  XMB Mode  
+
+    
+    * go to Network Setting "dont click it" on Network setting just hover it on
+
+
+    * Then  Type [L1,L2,R1,R2,L3,D-PAD Down] 
+
+    
+    * it show another install .pkg file or debug setting "dont click on it" Remeber
+
+    
+    * Now tht's it.. shutdown ur ps3 & get back to pc Copy Update to Flash Drve
+
+
+    * Install it from XMB OR Recovery Menu
+
+
+    * Now Copy Multiman .pkg file on flash drive & install it 
+
+
+
+    Note:=    if u have any ps3 games 3.56+ with patched not working just replace  
+
+              Original Eboot with patched Eboot 
+
+
+    Note:=  MD5 Check utility software perform check md5 hash of Rogero update 
+
+
+           * open md5rogero.txt copy the hash text
+           
+            
+           * now Run  md5.exe & Open it just paste it then
+
+           
+           *  browse file u wanna check it correct or incorrect 
+           
+           
+           * so browse rogero update & it perform auto check 
+           
+           
+           * if code match so u good to go 
+     
+
+   

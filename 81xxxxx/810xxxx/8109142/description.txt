@@ -1,0 +1,22 @@
+Publication Date: October 2, 2011 | ISBN-10: 0137134738 | ISBN-13: 978-0137134731 | Edition: 2
+The Acclaimed RF Microelectronics Best-Seller, Expanded and Updated for the Newest Architectures, Circuits, and Devices
+ 
+Wireless communication has become almost as ubiquitous as electricity, but RF design continues to challenge engineers and researchers. In the 15 years since the first edition of this classic text, the demand for higher performance has led to an explosive growth of RF design techniques. In RF Microelectronics, Second Edition, Behzad Razavi systematically teaches the fundamentals as well as the state-of-the-art developments in the analysis and design of RF circuits and transceivers.
+ 
+Razavi has written the second edition to reflect todayΓÇÖs RF microelectronics, covering key topics in far greater detail. At nearly three times the length of the first edition, the second edition is an indispensable tome for both students and practicing engineers. With his lucid prose, Razavi now
+Offers a stronger tutorial focus along with hundreds of examples and problems
+Teaches design as well as analysis with the aid of step-by-step design procedures and a chapter dedicated to the design of a dual-band WiFi transceiver
+Describes new design paradigms and analysis techniques for circuits such as low-noise amplifiers, mixers, oscillators, and frequency dividers 
+This editionΓÇÖs extensive coverage includes brand new chapters on mixers, passive devices, integer-N synthesizers, and fractional-N synthesizers. RazaviΓÇÖs teachings culminate in a new chapter that begins with WiFiΓÇÖs radio specifications and, step by step, designs the transceiver at the transistor level.
+ 
+Coverage includes
+- Core RF principles, including noise and nonlinearity, with ties to analog design, microwave theory, and communication systems
+-An intuitive treatment of modulation theory and wireless standards from the standpoint of the RF IC designer
+-Transceiver architectures such as heterodyne, sliding-IF, directconversion, image-reject, and low-IF topologies.
+-Low-noise amplifiers, including cascode common-gate and commonsource topologies, noise-cancelling schemes, and reactance-cancelling configurations
+-Passive and active mixers, including their gain and noise analysis and new mixer topologies
+-Voltage-controlled oscillators, phase noise mechanisms, and various VCO topologies dealing with noisepower-tuning trade-offs
+-All-new coverage of passive devices, such as integrated inductors, MOS varactors, and transformers
+-A chapter on the analysis and design of phase-locked loops with emphasis on low phase noise and low spur levels
+-Two chapters on integer-N and fractional-N synthesizers, including the design of frequency dividers
+-Power amplifier principles and circuit topologies along with transmitter architectures, such as polar modulation and outphasing

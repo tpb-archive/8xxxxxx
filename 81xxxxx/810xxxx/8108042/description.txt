@@ -1,0 +1,13 @@
+Cisco Unified Communications Manager (CallManager)
+
+Year : 2012 
+
+Version :  9.1.1.10000-8
+
+Developer : Cisco 
+
+Platform : Linux 
+
+Requirements : a CUCM server or VMware 
+
+Description : Cisco Unified Communications Manager - a call server IP-telephony, allowing you to create scalable distributed and robust corporate phone systems. Multiple servers Cisco Unified Communications Manager can be combined into a cluster and manage them as a single object. For a cluster, you can connect up to 40,000 IP-phones, providing fault tolerance and load balancing for servers. 

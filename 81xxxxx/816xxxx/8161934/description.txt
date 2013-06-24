@@ -1,0 +1,103 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+About This App:
+
+Updated:
+    January 20, 2013
+
+Current Version:
+    2.60
+
+Requires Android:
+    4.0 and up
+
+Category:
+    Tools
+
+Description:
+
+Many Samsung devices store a flash counter that keeps track of how many times you have flashed *custom* firmwares to your device. On some devices, a yellow triangle or other sort of visual warning is also displayed during boot if you are running a *custom* firmware. TriangleAway was built do disable the triangle (if a visual warning is present) and reset the custom ROM flash counter to 0. This app requires root !
+
+You can find out the current status of your flash counter and firmware state (custom or official) by booting into "download mode" on most devices. The usual way of getting into "download mode" is by first turning off your device, then turning it on by pressing and holding volumedown+home+power. Alternatively, the "adb reboot download" command also often works.
+
+When you run TriangleAway, if your device and firmware are supported, it will show you the detected state of the binary (custom or official) and flash counter value, and the option to "Reset flash counter". Please confirm that the information shown is correct before resetting the values.
+
+On a number of devices, TriangleAway can work, but your firmware may not be supported directly. In that case, the app will tell you it needs to reboot into a special boot mode, which will be happen if you select "Reset flash counter". The device will reboot into a special mode which will allow you to review the current status and reset the binary and flash counter values (or abort and do nothing).
+
+!!! THIS IS A DANGEROUS OPERATION AND COULD POTENTIALLY BRICK YOUR DEVICE. PROCEED AT YOUR OWN RISK. A USB JIG IS PREFERRED IF YOU HAVE A WORKING ONE !!!
+( and by brick I mean brick - only a board replacement or a JTAG unit will be able to save you, don't mess with boot(loader) stuff unless you *really* mean it! )
+
+Note#1: using Triangle Away may unmount your SD card. Reboot or manually remount it from Android settings.
+
+Note#2: on the SGS3, the "system modified" status can only be reset on some firmwares.
+
+This app has been used successfully on:
+
+Samsung Galaxy S2:
+- GT-I9100 **
+
+Samsung Galaxy Note:
+- GT-N7000 **
+- GT-I9220 **
+
+Samsung Galaxy S3:
+- GT-I9300 **
+- GT-I9300T **
+- AT&T
+- Sprint
+- T-Mobile
+- Verizon
+- Canadia
+- US Cellular
+- GT-I9305 LTE **
+- GT-I9305T LTE **
+- GT-I9305N LTE **
+- Korea SHV-E210K/L/S **
+- Korea SHW-M440S **
+
+Samsung Galaxy Note 2:
+- GT-N7100/T **
+- GT-N7105/T LTE **
+- SPH-L900 Sprint **
+- SGH-T889 T-Mobile **
+- SGH-R950 US Cellular **
+- SGH-I317/M AT&T/Canada **
+- SCH-I605 Verizon ** (unlocked bootloader only)
+- Korea SHV-E250K/L/S **
+
+Samsung Galaxy Camera EK-GC100 **
+
+Samsung Galaxy Note 10.1":
+- GT-N8000 3G **
+- GT-N801x Wi-Fi **
+- GT-N8020 LTE **
+- SHW-M480S/K/W **
+
+Samsung Galaxy Tab 2:
+- GT-P310x 7" 3G
+- GT-P311x 7" Wi-Fi
+- GT-P510x 10.1" 3G
+- GT-P511x 10.1" Wi-Fi
+
+** Various related models are supported depending on firmware, but only the exact model numbers listed are supported regardless of firmware version.
+
+Whether or not Triangle Away works depends largely on your kernel. Flashing a different kernel may make it work if it previously didn't.
+
+Variants that are NOT based on Exynos processors but rather on Qualcomm or Nvidia processors are NOT expected to work. I honestly would NOT try (until further notice) - examples are the Skyrocket and AT&T Note.
+
+For discussion and technical details, see the XDA-Developers.com thread here:
+ 
+http://forum.xda-developers.com/showthr ... ?t=1494114
+
+What's in this version:
+- Support for:
+--- Galaxy S Advance and Galaxy Ace 2
+
+PlayStore Link: 
+https://play.google.com/store/apps/details?id=eu.chainfire.triangleaway
+
+If you have any other request then tell me here: 
+https://forum.suprbay.org/member.php?action=profile&uid=330582

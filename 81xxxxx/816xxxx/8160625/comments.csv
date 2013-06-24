@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,norca1,2013-02-19T03:19Z,Thanks Man I am sure many people will need this
+,SSJASON,2013-02-19T04:54Z,thanks man
+,rosbell,2013-02-19T05:07Z,Ty for that man ;]
+,420dopemaster,2013-02-19T06:52Z,Now we just need a crack >.>
+,lowlife89,2013-02-19T12:52Z,"Great, thanks!"
+,PGHammer21B,2013-02-19T17:18Z,ocajanja- u been smokin the janja?  The crack link you posted is as real as a Google-branded Windows Phone.
+,dionid007,2013-02-19T18:06Z,"as soon as the crack comes out, this page will be the first to offer it"
+,nu2mlock,2013-02-19T23:04Z,@dionid007 Nope. But it will get here eventually.
+,Netarangi,2013-02-20T10:42Z,uhh wtf do AMD have to do with the crack?
+,ZoopZA,2013-02-21T19:28Z,"shadohchaser, are you a moron? AMD sponsored the game so now it's their fault there's not a crack yet?
+
+Get out of here and go do your homework, you middle-school brat."
+,rosbell,2013-02-22T04:59Z,"not working to me, i've just followed all instructions and stills russian :/"
+,dogoserf,2013-02-22T08:32Z,"Thanks for upload nice one
+
+This works just edit 'system' file in main crysis directory and add: 'english' as first language in 2nd to last line and replace russian for english in last line. 
+"
+,Adog07,2013-02-22T10:11Z,can someone please explain the installation a bit more in depth please?
+,ApeRoll,2013-02-22T19:19Z,"Verified that it works :)
+
+For people needing a bit more help with the installation: 
+
+1. Extract the contents of the rar file into their corresponding folders
+2. Open the system.cfg file in your Crysis 3 directory with notepad
+3. Change the last two lines from russian to english. These should now read 'sys_languages=english' and 'g_language=english'
+4. Save the file and run Crysis 3
+5. Enjoy! 
+
+If you don't configure the system.cfg file the game will open but remain at a black screen. To be safe, you can also cut out all language files other than english in the localization and game folders."
+,rosbell,2013-02-23T00:50Z,the audio from the cut scenes is not working :/
+,fuhrby,2013-03-07T08:25Z,"Thanks you so much !!!! This works really great i have no problem with it. Just don't forget to change your language to English in ""system.cfg"". Thanks again !"

@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+,moitacao,2013-02-23T01:55Z,"Hi Ipmark, i have a nuvi 50lm and it came it usa 49 states only, i really need canada maps, but its crazy to pay the price of another gps for a map, can you give me any help on how to put a canada navigation maps in this unit??? please?!"
+,Ipmark,2013-02-23T10:16Z,"You have three ways to update the map:
+1) Buy a cheap 2/4GB SD, create a folder called Garmin and copy on it the gmapsupp.img Canada map. 
+This is the safest way to avoid any compatibility problems.
+When you are absolutely sure the new map is working fine, you have the other 2 options:
+2) Add the new map to the internal memory.
+For this you have to create a folder called Map in the root of the Nuvi and copy on it the new map.
+or
+3) Replace the preinstalled map in the .system hidden folder, in this case you have to rename the new map to gmapprom.img (as the old map).
+Make a backup of the old map on the PC before delete it.
+
+If you aren't confident with these operations, I suggest the option 1."
+,3prong,2013-02-23T13:58Z,"Will the 2013.30 jvc files and other add on files work for 2013.40?
+http://thepiratebay.sx/torrent/7786711/Garmin_CN_North_America_NT_2013.30_3D-ASR-SQL-JCV-G2S-TZ
+
+Thanks for UL Ipmark!! "
+,Ipmark,2013-02-23T21:15Z,"No.
+Map and additional files must have the same release number.
+Wait tomorrow for a my torrent with 3DB-JCV-G2S-SQLite-TimeZone files of CNNANT 2013.40.
+
+Stay tuned."
+,Ipmark,2013-02-23T23:51Z,https://thepiratebay.sx/torrent/8182939/Garmin_CN_North_America_NT_2013.40_3D-SQL-JCV-G2S-TZ_
+,Islandz786,2013-02-24T21:11Z,"Okay - so it has been a while since I updated the maps on my Garmin.  I currently have full North American maps, so would I just copy this new Full NA img over my current one and I'm good to go?"
+,Ipmark,2013-02-26T10:36Z,"To avoid any problems, it's preferable to test the new map on a SD before to write it in the internal GPS memory.
+
+If needed, rename the new map as the old one and overwrite it."
+,LAS918,2013-02-27T01:20Z,"Could I ask for the 2013.40 Mexico unlocked for Mapsource?
+Thank you for all you do!"
+,loveaudit,2013-02-27T17:31Z,Thank you so much Ipmark.  Your efforts are appreciated.
+,nauskas,2013-03-09T05:05Z,"is it possible to just name them gmapprom.img, gmapprom1.img, gmapprom2.img gmapprom3.img etc and it works ?"
+,nauskas,2013-03-09T05:15Z,"is it possible to add multiple maps on sd or internal memory
+gmapprom.img
+gmapprom1.img
+gmapprom2.img
+gmapprom3.img
+
+Not sure its supported on all devices"
+,Ipmark,2013-03-09T14:28Z,"Some Garmin models can read multiple custom map filenames, other models gmapsupp.img, gmapsup2.img, gmapprom.img, gmapprom1.img, gmapoem.img (in internal memory) and gmapsupp.img, gmapsup1.img (in SD card) only."
+,dpippin01,2013-03-11T03:16Z,"I have a Nuvi 265w with traffic.  I added the new map (gmapsupp.img) to the SD card in a folder named Garmin.  I took off the old gmapsupp.img on the internal memory.  The new map works but I have lost traffic.  Any ideas?  Thanks, "
+,chocolatemonkey999,2013-03-15T23:25Z,"Can someone help me?
+
+I installed the full North America on my Garmin nuvi 265W.
+
+When in USA, and I choose ""Where To"" and then try to change Province/State, I can't change it to a Province. I can only change to a State.
+
+When I'm in Canada, and I choose ""Where To"" and then try to change Province/State, I can't change to a State. I can only change to a Provicne.
+
+When in Canada, I'm able to browse the map to the USA, and I do see the streets, and if I choose to navigate to where my arrow is pointing, i have no problem.
+When in USA, I'm able to browse the Canada map, and I do see all the street info, but I can even choose to navigate to where arrow is pointing.
+
+But why can't the Where_To/Change_Province_State work?"
+,LukeKrollhayd,2013-04-02T00:55Z,"My Garmin Nuvi 255W does not have enough room for the Full North America map, even after I deleted some of the languages that I don't need.  I therefore put that map on an SD card in a folder named Garmin.  My original maps I've already deleted from my Garmin's memory (after backing them up).  However, the Garmin does not find the maps on the SD card.  When I turn it on, it comes up as ""cannot find maps"".  For now I'm copying the USA only maps to Garmin's memory.  However, I really want to use the Full North America map because I will definitely be driving in Canada and there's some chance I might drive in Mexico.  "
+,Ipmark,2013-04-02T03:31Z,"First, you have to update the Nuvi's firmware to the latest version using Webupdater tool.
+The SD memory card MUST be fully formatted with filesystem FAT32 and preferabely not larger than 4GB in size.
+Sometimes, for obscure reasons, some SDs refuse to work in a Nuvi.
+To check this copy a POI file in the Garmin/Poi folder of the SD, if the SD is recognized by the Nuvi during the boot you will have a message about to copy the Poi in the internal memory.
+If you haven't this message The SD in not recognized."
+,cuzinjawn,2013-04-12T00:16Z,"I hope i can use this on my Garmin, I have a Nuvi 1250, hasn't been updated since 2010. Hopefully I don't screw it up, I only need the North America maps"
+,cuzinjawn,2013-04-12T00:21Z,"hmmm...thought I commented on this but seems to be gone. Anyway I have a Nuvi 1250, hasn't been updated since 2010, hopefully i don't screw it up. I only will be using the USA maps"

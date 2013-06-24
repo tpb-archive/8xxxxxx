@@ -1,0 +1,50 @@
+Windows Firewall Control is a nifty little application which extends the functionality of the Windows Firewall and provides quick access to the most frequent options of Windows Firewall. It runs in the system tray and allows user to control the native firewall easily without having to waste time by navigating to the specific part of the firewall. This is the best tool to manage the native firewall from Windows 8, Windows 7 and Windows Vista. Windows Firewall Control offers four filtering modes which can be switched with just a mouse click:
+
+High Filtering - All outbound and inbound connections are blocked. This setting blocks all attempts to connect to and from your computer.
+Medium Filtering - Outbound connections that do not match a rule are blocked. Only programs you allow can initiate outbound connections.
+Low Filtering - Outbound connections that do not match a rule are allowed. The user can block the programs he don't want to initiate outbound connections.
+No Filtering - Windows Firewall is turned off. Avoid using this setting unless you have another firewall running on your computer.
+
+Program Features
+ΓêÜ  Just one small executable file. All features are packed in the same file.
+ΓêÜ  Intuitive and easy accessible interface in the system tray.
+ΓêÜ  Full support with standard user accounts.
+ΓêÜ  Possibility to create temporary rules.
+ΓêÜ  Disable the ability of other programs to add Windows Firewall rules.
+ΓêÜ  Multiple and easier ways of creating new rules in Windows Firewall.
+ΓêÜ  Full support of creating, modifying and deleting Window Firewall rules.
+ΓêÜ  Lock feature which can disable the access to the settings of the program.
+ΓêÜ  Shell integration into the right click context menu of the executable files.
+ΓêÜ  Search for invalid rules with the possibility to delete them.
+ΓêÜ  Search for executable files through folders and create new rules in seconds.
+ΓêÜ  View recently blocked connections and create new rules from the log.
+ΓêÜ  Choose if you want the program to start at user logon.
+ΓêÜ  Import and export the settings of the program.
+ΓêÜ  Protection to unauthorized uninstallation.
+ΓêÜ  Possibility to restore previous settings at uninstallation.
+ΓêÜ  And many more. Just try it out.
+
+System Requirements
+ΓêÜ  Microsoft .NET Framework version 4.0
+ΓêÜ  Compatible with all 32bit and 64bit versions of Windows 8, Windows 7, Windows Vista, Windows Server 2008. Windows XP is not supported.
+ΓêÜ  Windows Firewall service is required to be enabled for Windows Firewall Control to run.
+ΓêÜ  DNS Client service is required to be enabled for the notifications to work properly.
+
+What's new in version 3.9.0.2 (14.02.2013)
+
+- Fixed: User settings are not persisted if the user uses the updater to update to
+a new version: Manage Rules position, columns order and visibility, etc.
+- Fixed: The recommended rules from the previous version prevented Windows Update
+to check for new updates.
+- Fixed: When the user checks for updates, the download complete message appears
+before finishing the download and if the user tries to execute the file, it is still
+incomplete.
+- Fixed: The result dialog after creating a new rule from the Control Panel is
+displayed randomly on the screen instead of the Control Panel window.
+- Improved: When creating a new rule, the file name is displayed in front of the name
+from the assembly. They were switched for a better readability. 
+
+                     - Installation -
+
+
+Install and run keygen and enter activation id from program..

@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,xarinl,2013-02-25T10:03Z,I have installed this DLC as per your instructions. It is selected in the 'data files' option of the Launcher but Its not getting activated. Do i need to do something before the DLC gets activated. Like do I have to discover the three cities where I can buy the property  before this dlc can become effective. Your help will be appreciated. 
+,xarinl,2013-02-25T11:55Z,"Here I found the answer on official website.
+--------------------------------------------------
+What are the specific requirements for getting land in each hold? 
+
+For Falkreath: You must complete the “Rare Gifts” favor, and the “Kill the Bandit Leader” favor. You may then buy land from Steward Nenya.
+
+ For Hjaalmarch: You must complete the quest “Laid to Rest”. You may then buy land from Steward Aslfur.
+
+ For Dawnstar: You must must complete the Daedric Quest “Waking Nightmare” and then the favor “Kill the Giant”. Please note that this favor has the prerequisites of being level 22 or higher, and having had previously completed the “Waking Nightmare”"
+,__ZOOM__,2013-02-25T17:56Z,"Hi,
+
+I have just copied both files to data folder but i can still not see them in ""Data Files"". I can see my old Dawnguard.esm but not the new Hearthfire.esm.
+
+Im on Skyrim version 1.8.151.0.7
+
+What to do?"
+,__ZOOM__,2013-02-25T18:14Z,I changed to NMM instead and had no problems to activate them - Hearthfire and Dragonborn
+,AdvancingTECH,2013-03-03T18:08Z,"Thanks WDoubleYouW, I downloaded all 3 packs and they work PERFECTLY! Do this for me and everyone else, continue posting these torrents and keep our internet rights."
+,Nuhlie,2013-05-05T05:27Z,"bEnableFileSelection=1
+
+There are apparently two Skyrim Pref files. One file can be accessed by going to Start//Documents//My Games//Skyrim//SkyrimPrefs"

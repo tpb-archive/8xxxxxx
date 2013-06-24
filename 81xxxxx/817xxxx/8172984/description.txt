@@ -1,0 +1,33 @@
+This is the most current/best version of an English patch out there (as of writing this (FEB 2013)), though it's been a few years so I'm not sure it will be updated again anyway. This method only works for Windows, as it uses an EXE file to install the patch. It may be able to be done through Wine or something similar though I'm sure there is a simpler way for Mac/OSX users.
+
+:: Installing the English Patch for Kingdom Hearts II Final Mix ::
+
+Again, torrent ONLY includes the patch, no game here.
+You can download the game here, if you don't already have it: 
+
+:: WHAT YOU NEED ::
+~The patch itself
+Which you should already have or at least be about to get if your reading this xD
+~IMGBURN or DVD Dycrypter/A standard 4.7GB DVD-R (Verbatim 16x recommended) 
+Unless your loading off a hard drive or flash memory, obviously.
+~An ISO format image of KH2FM. 
+If you have it in a different format, you'll need to find a way to convert it in order to use the patcher!
+~A method for playing it.
+Be it a modded console, SwapMagic, an emulator, ect. This is up to you!
+
+If you own a physical copy of KH2FM, start IMGBURN or DvD Decrypter and create an image of the disc in ISO format.
+
+I highly recommend you also back up your ISO so if for whatever reason it doesn't work right, you don't need to redownload or remake your image, though, it worked for me the first time with no issues. It's always a good idea to think ahead when it comes to patching anything.
+
+
+:: INSTRUCTIONS ::
+-Open the downloaded folder
+-Drag ALL the files of the patch into the same folder as your KH2FM ISO (or vice verca, the important thing here is that everything is in the same folder)
+-Drag english_rev5.kh2patch into KH2PatcherRev4.exe (which should open the EXE up)
+-It will load up in CMD and prompt you for the iso name. You need to type in the EXACT filename. For example, mines Kingdom Hearts II Final Mix.iso
+-Press enter/return
+-It should finish quickly and show you a message saying it worked correctly.
+-Burn your edited image with IMGBURN or DVD Dycrypter at x2 (preferred) or as little as your burner is capable of, otherwise you may have issues with your disc.
+-Play it!
+
+Thanks for downloading, please return the favor and seed this for as long as you can!

@@ -1,0 +1,5 @@
+Setup Edition, and OEM Edition
+
+Change Log:
+- Add Service: Service KMSELDI, it run every 2 hours a random KMSEmulator with random ePID and reactive local products.
+- Complete silent after the firts run.

@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,razp,2013-03-02T12:29Z,"Virus:
+
+
+Report generated with Buster Sandbox Analyzer 1.87 at 06:16:02 on 02/03/2013
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Code injection in process: C:Program FilesSandboxieSandboxieCrypto.exe
+Code injection in process: C:SandboxLivingRoomDefaultBoxdriveCProgram Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security AuditorEWSA.exe
+Code injection in process: C:SandboxLivingRoomDefaultBoxdriveCWindowsInstallerMSIDFBA.tmp
+Code injection in process: C:WindowsSysWOW64WerFault.exe
+Created a mutex named: Global_MSIExecute
+Created a mutex named: Global977f08bf-832b-11e2-a31a-08002700a0b2
+Created a mutex named: Globalc1e45750-832a-11e2-a31a-08002700a0b2
+Created a mutex named: GlobalEWSA_Program_Running
+Created a mutex named: GlobalMSILOG_5949ba9a1ce1737GOL.58b22ISM_pmeT_lacoL_ataDppA_1~GNIVIL_sresU_:C
+Created a mutex named: LocalRstrMgr3887CAB8-533F-4C85-B0DC-3E5639F8D511
+Created a mutex named: LocalRstrMgr-3887CAB8-533F-4C85-B0DC-3E5639F8D511-Session0000
+Created a mutex named: LocalWERReportingForProcess1208
+Created a mutex named: LocalWERReportingForProcess4328
+Created an event named: DisableLowDiskWarning
+Created an event named: GlobalMSI254
+Created an event named: GlobalMSI254ET
+Created an event named: OleDfRoot2E859459E55C4059
+Created an event named: OleDfRoot34E55B67FC7E2577
+Created an event named: OleDfRoot3FB58A9A8B743D8F
+Created an event named: OleDfRoot3FD5D6296F713FDB
+Created an event named: OleDfRoot466C0B56CFEE53E1
+Created an event named: OleDfRoot4A7AE5B95156302D
+Created an event named: OleDfRoot563999B745E3A66F
+Created an event named: OleDfRoot6B9FEE93B1A15E2D
+Created an event named: OleDfRoot75E5F0EE24467F7F
+Created an event named: OleDfRoot7C8A369E5ECD2698
+Created an event named: OleDfRoot8D6525F2FBCE5934
+Created an event named: OleDfRoot9537E463F32B60C3
+Created an event named: OleDfRoot9A7700A09895604
+Created an event named: OleDfRootAC6F8D867CA81608
+Created an event named: OleDfRootB4D7D6FFCA5DF383
+Created an event named: OleDfRootB85096E0C77E52D0
+Created an event named: OleDfRootBBD18946F28F419B
+Created an event named: OleDfRootC6DAFDBF30435438
+Created an event named: OleDfRootD154E70C824AB44
+Created an event named: OleDfRootE1478EA86B254163
+Created an event named: OleDfRootE1B99750865601A1
+Created an event named: OleDfRootF3F98279A178F4F3
+Created an event named: OleDfRootF62B2781979AAF41
+Created an event named: OleDfRootFA1B5257CCFC4B5B
+Created process: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security AuditorEWSA.exe, ""C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security AuditorEWSA.exe"" , C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security Auditor
+Created process: C:WindowsSysWOW64WerFault.exe, C:WindowsSysWOW64WerFault.exe -u -p 1208 -s 2640, C:WindowsSysWOW64
+Created process: C:WindowsSysWOW64WerFault.exe, C:WindowsSysWOW64WerFault.exe -u -p 4328 -s 2632, C:WindowsSysWOW64
+Defined file type created in Windows folder: C:WindowsInstaller{5488DA33-3507-4427-A2B5-43E168BC2CAC}EWSA.exe
+Defined file type created in Windows folder: C:WindowsInstaller82ba7d.msi
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security AuditorEWSA.chm
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security AuditorEWSA.exe
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security Auditorewsaserv.dll
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security Auditorewsaserv.exe
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security Auditorewsaserv64.dll
+Defined file type created: C:Program Files (x86)Elcomsoft Password RecoveryElcomsoft Wireless Security Auditorewsaserv64.exe
+Defined file type created: C:Program Files (x86)ElcomsoftCommon Fileselcom_devmgr.dll
+Defined file type created: C:Prog"

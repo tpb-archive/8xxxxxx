@@ -1,0 +1,60 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+About This App:
+
+Updated:
+    February 25, 2013
+
+Current Version:
+    1.1.1
+
+Requires Android:
+    2.1 and up
+
+Category:
+    Tools
+
+Description:
+
+tTorrent is simply the best bittorrent client for Android based devices.
+
+Features:
+- UNLIMITED DOWNLOAD SPEED!
+- download single files from torrents with multiple files
+- multiple torrent downloading, queuing
+- search for torrents
+- Wifi only mode, Wifi or WiMAX mode
+- able to set Upload/Download speed in options
+- web browser integration
+- magnet link support
+- trackerless torrent (DHT) support
+- RSS support(automatically download torrents published in feeds)
+- UPnP and NAT-PMP support
+- IP filtering support
+- proxy support(SOCKS, HTTP)
+- encryption
+- Local Peer Discovery
+- creating torrents
+
+What's in this version:
+v1.1.0.1: Fixed FC in filebrowser below API level 11.
+Updated UI, support for batch operations on the status screen and in the filebrowser.
+Shutdown when battery limit reached option.
+PeX protocol can be switched off.
+Adjustable number of open connections.
+Move completed torrents feature, fixed incoming directory watching.
+Fixed NullPointerExceptions with some torrent URLs.
+
+PlayStore Link: 
+https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.pro
+
+If you have any other request then tell me here: 
+https://forum.suprbay.org/member.php?action=profile&uid=330582
+
+TPB URL: 
+https://thepiratebay.se/user/toorentz
+
+

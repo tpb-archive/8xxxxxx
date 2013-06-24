@@ -1,0 +1,35 @@
+Elcomsoft Forensic Disk Decryptor
+
+Forensic Access to Encrypted BitLocker, PGP and TrueCrypt Disks and Containers
+
+Perform the complete forensic analysis of encrypted disks and volumes protected with desktop and portable versions of BitLocker, PGP and TrueCrypt. Elcomsoft Forensic Disk Decryptor allows decrypting data from encrypted containers or mounting encrypted volumes, providing full forensic access to protected information stored in the three most popular types of crypto containers. Access to encrypted information is provided in real-time.
+
+Features and Benefits
+
+Decrypts information stored in three most popular crypto containers
+Mounts encrypted BitLocker, PGP and TrueCrypt volumes
+Supports removable media encrypted with BitLocker To Go
+Supports both encrypted containers and full disk encryption
+Acquires protection keys from RAM dumps, hibernation files
+Extracts all the keys from a memory dump at once if there is more than one crypto container in the system
+Fast acquisition (limited only by disk read speeds)
+Zero-footprint operation leaves no traces and requires no modifications to encrypted volume contents
+Recovers and stores original encryption keys
+Supports all 32-bit and 64-bit versions of Windows
+Access Information Stored in Popular Crypto Containers
+
+Supported OS:
+
+Runs in all 32-bit and 64-bit editions of Windows XP, Vista, Windows 7, 2003 and 2008 Server.
+
+Homepage: http://www.elcomsoft.com/efdd.html
+
+Installation Instructions:
+
+- Install program.
+- Register application with given key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

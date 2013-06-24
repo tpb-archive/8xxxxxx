@@ -1,0 +1,137 @@
+﻿User Type,Username,Date,Text
+,Devillord2009,2013-02-15T19:44Z,"No seeders, what's with you guys!!!"
+,TheDragonReborn26,2013-02-15T23:15Z,Give it more than a few hours bro.
+,LaNPaRtY1987,2013-02-16T00:50Z,error extract
+[V],Gh0stNet,2013-02-16T22:35Z,"Change log:-
+-Poison AI issue addressed (she no longer enters non-interactive state)
+-Lessened damage and style boost from Demon Evade
+-Arbiter ""Drop"" now causes damage and style gain even if jump-canceled
+-Non-damaging moves no longer provide style points
+-Damage done by weakest enemies increased
+-Damage done by all enemies increased on Nephilim and Son of Sparda modes
+-Adjusted attack (parry) windows for Rage spin move.
+-SS and SSS will now decay back down to S if you stop gaining style
+-No more eternal angel glide (where Dante flies around)"
+,s1raz1,2013-02-17T08:50Z,"Thx for upload this update works fine.
+ If u r new , u just need to xtract files then copy and replace to Program Files (x86)/DMC Devil May Cry then most likely run 1.0 to 1.2 and it will update fine.
+Still no arena :/ .. beggars cant be choosers :P"
+,Wrex1,2013-02-18T19:47Z,"Another shitty .bat updater, this crap never works for me it always errors."
+,Lord-Darkstorn,2013-02-19T08:16Z,Didn't work for me and I followed the instructions many times. Just got errors when I tried to run the bat file v1.0 to 1.2
+,PaulRTX,2013-02-19T22:38Z,"Works great with Black Box release, thanks Gh0stNet."
+,bluerobins,2013-02-21T03:38Z,"You have to edit the .bat file and add these two lines at the top.
+
+@setlocal enableextensions
+@cd /d ""%~dp0""
+
+Then when you place them in the game folder run the batch file as a admin and it should fix the issues."
+,Crimsong,2013-02-21T05:35Z,"I still dont understand how it works like i keep getting errors. 
+
+bluerobins i did what you said but it still not working. I need help to do this update.
+
+I wanna play bloody palace."
+,CapnBin,2013-02-21T08:59Z,"help me update this guys! I extract the update and copy/paste in the directory of the game, but i cant run the .bat file? how i am suppose to update this T_T"
+,CapnBin,2013-02-21T10:30Z,i just figure out my mistakes! use 7 zip not winrar to extract the files! no error and clean extract.
+,Wywy83,2013-02-21T14:18Z,"Can't update, it tells me it isn't a valid Win32 application."
+,CapnBin,2013-02-21T15:36Z,"@Wywy83 u need to extract it via 7zip, dont extract it using winrar."
+,mirk892000,2013-02-21T16:51Z,where am i supposed to find the weapons please?the bloody palace is working fine but i can't find the weapons.
+,Crimsong,2013-02-21T17:04Z,Nice now it works thanks !
+,n1x4,2013-02-21T17:16Z,"xdelta3 source file too short: XD3_INVALID_INPUT
+
+on lighting.tfc, chattextures.tfc and textures.tfc
+
+Also, couldn't find file RefShaderCache-PC-D3D-SM5.tmp
+What gives?"
+,Crimsong,2013-02-21T17:23Z,I still get issue. When i run the .bat file it says : could not find... to all patch files. Help me please.
+,n1x4,2013-02-21T17:54Z,"I'm a goddamned fool!
+
+I had already had update 1 installed and forgot about it.. 
+
+1.1-1.2 bat worked fine after re-applying the first update."
+,omega_jss,2013-02-22T08:50Z,"i don't know, it doesn't seem obvious... IS IT CRACKED?"
+,Skrotorian,2013-02-23T04:34Z,Does this require Update 1?
+,saboture,2013-02-23T06:14Z,"Had to reinstall. 
+
+Took ownership of everything in my capcom folder. Tried running updater from c/downloads, no dice. Moved updater files into DmC folder (top of directory) tried to update, gave errors and deleted files necessary to run again. Unzipped AGAIN and moved all updater files into Binary/win32/ and tried to run from there. Same thing, errors and no dice. Manually tried to install files into appropriate folder locations. No dice again. Thanks for the upload but it's not working for me. Batch files are too unpredictable.  "
+,ezioryan,2013-02-24T09:16Z,same problem > Lord-Darkstorn
+,kalimera2,2013-02-24T15:28Z,i get a d3d9 error
+,Furious1964,2013-02-24T22:38Z,I tried this with MR. Stifmeister's update and the game crashed. Does your Update 1 have all the DLCs?
+,Jack_ryder_2013,2013-02-25T10:37Z,"This screwed up my game also, i installed it and after awhile the game just crashed all the time randomly, the bat files also gave me noting but access is denied errors so this is not working properly i hope there will be a working version found so i can play bloody palace "
+,Jack_ryder_2013,2013-02-25T18:35Z,I got it to work! i had to give permessions to each file that was giving the .bat file an error now i can play bloody palace mode it may slow down a time or 2 wich i think is because of a missing texture file but otherwise i got up to level 30 and even played it in stereo 3d so it can be made to work 
+,Mr_Spoon_N_Fork,2013-02-25T21:18Z,Bat file gives location errors instead of looking in the directory it's looking in system 32 for the files even with the files in system 32 it still gave errors.
+,Santy46,2013-02-27T19:23Z,"For those using windows 8 and getting errors:
+1.go to properties of the .patch files(found in game folder after extraction) and edit their security by giving full control to all the users.
+2.open properties of the xdelta3 file and check run as   admin in compatability tab and edit its security also giving full control to all the users.
+3.run the .bat file
+"
+,Santy46,2013-02-27T19:33Z,"But still i'm getting the following error:
+""cannot find D:DmC Devil May CryDevilGameCookedPCConsoleRefShaderCache-PC-D3D-SM5.tmp""
+:("
+,happyz97,2013-03-01T08:10Z,work fine.. windows 8 x64.. great job..
+,happyz97,2013-03-01T08:12Z,what does the xdelta3 file do ??
+,nklh4x0r,2013-03-05T16:09Z,"i dont like this xdelta guy, his shit newer works for me"
+,omega_jss,2013-03-05T21:43Z,worked great on REVENANTS 1.1 REPACK! thanks! cant wait for VERGIL'S DOWNFALL...
+,zachshaun,2013-03-06T22:09Z,"Just to say how it worked here after some hours...
+Copy the bat file:
+DMC.v1.0_to_v1.2.Update
+or
+DMC.v1.1_to_v1.2.Update
+right click and edit(outside the folder otherwise it will not work)
+add this 2 lines on top of the file:
+
+@setlocal enableextensions
+@cd /d ""%~dp0""
+
+now save it and move to the folder with the patch files.
+Now the important thing:
+Right Click the bat file and select RUN AS ADM
+
+Now it will work!!!"
+,Jacko2410,2013-03-08T19:22Z,"Works perfect with blackbox version. Just put it in and install the ""1.0 to 1.2"""
+,Stemborer,2013-03-11T12:49Z,"WTF is wrong with this patch??? i did every step and techniques of people who commented on this torrentl, but still it has so many error, for example it can't find the file RefShaderCache-PC-D3D-SM5.upk well of course i can't find the damn file because its not even there. can anyone please tell me how to fix this i already uninstall and installed the game multiple times and tried to apply the patch and still nothing
+
+please please can reply if someone know how to fix this"
+,tmq321,2013-03-11T21:50Z,"I have missing errors, I can't install."
+,JasonNMP,2013-03-12T04:06Z,"I downloaded and installed this perfectly with no error, besides one major one. Everything is now in Russian (from what it looks like) is there a way to change it back? If you could respond that would be highly appreciated. Thanks."
+,rainpher,2013-03-15T01:48Z,"missing lighting.tmp ... and other tmp files too,
+pls help "
+,TheBrit18,2013-04-05T20:06Z,"I got it working but as Vergil walks around all of the environment around him goes black, so its hard to see where he's walking/running/jumping. any ideas on how to fix this? besides that the game is running smoothly right now"
+,ChannoDims,2013-04-14T10:43Z,"ATTENTIIONN!! It's WORKING!! Just do these steps! and hope it works to you! :)
+
+1. Put the game folder or the whole Devil May Cry folder in desktop.
+2. Then extract the DMC Update 2 in the DMC Folder in the desktop!
+3. Then Run ""DMC.v1.0_to_v1.2.Update.bat"" file to those who does'nt have update 1. Reply please. Hope it works to you! Nice update btw! "
+,XebroLeazier,2013-04-16T16:14Z,"Hi Gh0stNet
+
+Is it possible for you to upload update 3 for this game, please... :-)"
+,BenReeves,2013-05-11T23:07Z,"oh yeah works perfect for me and im playing Vergil's Downfall thanks for the torrent
+
+just extract the download in game directory and run ""DMC.v1.0_to_v1.2.Update.bat"" then run DMC and play"
+,cherrydee,2013-05-28T19:05Z,"Ok so after 4hrs of installing and uninstalling i got this working
+
+1. download the 3 torrent (update 2-p2p, properDLC-p2p, and vergil's downfall)
+
+2. go to safe mode
+
+3. extract the update 2-p2p using 7zip. copy and paste the contents to DMC folder. 
+
+4. cut the patch 1.0-1.2 and paste on your desktop.  open it with notepad and type 
+@setlocal enableextensions
+@cd /d ""%~dp0""
+on the topmost of the codes then save
+
+5. cut the file again and paste it back to DMC folder.
+
+6. run the update and it should work
+
+7. extract the proper DLC. you should get 2 folders. paste it on DMC folder and allow to merge.
+
+8. mount the vergil's downfall ISO. extract it anywhere. then after that, go to that folder and you should see devilgame/published/content/vergildownfall. cut that and paste to your DMC/devilgame/published/content folder
+
+9. copy the vergil's downfall crack files and paste it on your DMC/binary/win32 folder. open steamrld and be sure to have:
+
+DLC001=229080
+DLC002=223792
+DLC003=223793
+DLC003=223790
+
+DONE!"

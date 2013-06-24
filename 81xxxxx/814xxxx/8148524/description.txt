@@ -1,0 +1,155 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 15. February 2013, 23:37
+
+Jimi Hendrix / The Early Years [BR Edition]
+
+Used drive  : HL-DT-STDVDRAM GP08LU10   Adapter: 1  ID: 0
+
+Read mode : Burst
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:Program FilesExact Audio CopyFLACFLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "ALBUMARTIST=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  2:52.45 |         0    |    12944   
+        2  |  2:52.45 |  2:06.72 |     12945    |    22466   
+        3  |  4:59.42 |  3:31.70 |     22467    |    38361   
+        4  |  8:31.37 |  4:31.30 |     38362    |    58716   
+        5  | 13:02.67 |  2:53.30 |     58717    |    71721   
+        6  | 15:56.22 |  2:27.73 |     71722    |    82819   
+        7  | 18:24.20 |  2:16.20 |     82820    |    93039   
+        8  | 20:40.40 |  2:51.42 |     93040    |   105906   
+        9  | 23:32.07 |  3:33.18 |    105907    |   121899   
+       10  | 27:05.25 |  2:46.00 |    121900    |   134349   
+
+
+Track  1
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](01) Lonnie Youngblood Featuring Jimi Hendrix - Go-Go Shoes.wav
+
+     Peak level 64.5 %
+     Extraction speed 8.4 X
+     Copy CRC 0BCEE610
+     Cannot be verified as accurate (confidence 8)  [CA40707F], AccurateRip returned [C797F7C7]  (AR v2)
+     Copy OK
+
+Track  2
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](02) Lonnie Youngblood Featuring Jimi Hendrix - Go-Go Place.wav
+
+     Peak level 89.5 %
+     Extraction speed 11.6 X
+     Copy CRC 898FD172
+     Cannot be verified as accurate (confidence 8)  [7A4A2E7D], AccurateRip returned [5FEF36AA]  (AR v2)
+     Copy OK
+
+Track  3
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](03) Lonnie Youngblood Featuring Jimi Hendrix - Soul Food (That's What I Like).wav
+
+     Peak level 79.5 %
+     Extraction speed 12.5 X
+     Copy CRC 68827BD2
+     Cannot be verified as accurate (confidence 8)  [60AD817D], AccurateRip returned [EEAED3C7]  (AR v2)
+     Copy OK
+
+Track  4
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](04) Lonnie Youngblood Featuring Jimi Hendrix - Under The Table 1.wav
+
+     Peak level 88.8 %
+     Extraction speed 13.7 X
+     Copy CRC 5B4A22A4
+     Cannot be verified as accurate (confidence 8)  [9718617C], AccurateRip returned [36A3BCDF]  (AR v2)
+     Copy OK
+
+Track  5
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](05) Lonnie Youngblood Featuring Jimi Hendrix - Under The Table 2.wav
+
+     Peak level 75.4 %
+     Extraction speed 14.6 X
+     Copy CRC E74C7B50
+     Cannot be verified as accurate (confidence 8)  [A612A11E], AccurateRip returned [AA0E31B5]  (AR v2)
+     Copy OK
+
+Track  6
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](06) Lonnie Youngblood Featuring Jimi Hendrix - Goodbye, Bessie May.wav
+
+     Peak level 89.2 %
+     Extraction speed 15.2 X
+     Copy CRC ED01C0ED
+     Cannot be verified as accurate (confidence 8)  [B1793BB1], AccurateRip returned [D362837F]  (AR v2)
+     Copy OK
+
+Track  7
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](07) Lonnie Youngblood Featuring Jimi Hendrix - Two In One Goes.wav
+
+     Peak level 88.8 %
+     Extraction speed 15.8 X
+     Copy CRC 5A6A50A9
+     Cannot be verified as accurate (confidence 8)  [B540130E], AccurateRip returned [FB1E8336]  (AR v2)
+     Copy OK
+
+Track  8
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](08) Lonnie Youngblood Featuring Jimi Hendrix - Wipe The Sweat 1.wav
+
+     Peak level 92.2 %
+     Extraction speed 16.4 X
+     Copy CRC A0D3792C
+     Cannot be verified as accurate (confidence 8)  [4748AB5C], AccurateRip returned [9903C29E]  (AR v2)
+     Copy OK
+
+Track  9
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](09) Lonnie Youngblood Featuring Jimi Hendrix - Wipe The Sweat 2.wav
+
+     Peak level 89.6 %
+     Extraction speed 17.1 X
+     Copy CRC 276394DA
+     Cannot be verified as accurate (confidence 8)  [712FA249], AccurateRip returned [0FBED64C]  (AR v2)
+     Copy OK
+
+Track 10
+
+     Filename D:DesktopJimi Hendrix (1994) - The Early Years [BR Edition](10) Lonnie Youngblood Featuring Jimi Hendrix - Wipe The Sweat 3.wav
+
+     Peak level 88.2 %
+     Extraction speed 17.7 X
+     Copy CRC F29D5921
+     Cannot be verified as accurate (confidence 8)  [B2A5C299], AccurateRip returned [CDDB6D9B]  (AR v2)
+     Copy OK
+
+
+No tracks could be verified as accurate
+You may have a different pressing from the one(s) in the database
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: skNYOWUcbPS6y3bY53OaVsHMpZM-] found, Submit result: insufficient quality
+[418ca82f] (3/3) Differs in 2064 samples @29:51:11-29:51:14
+You can use CUETools to repair this rip.

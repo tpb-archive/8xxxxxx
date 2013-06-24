@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,chaostastic,2013-02-19T22:00Z,please keep seeding for the community.
+,thidges,2013-02-27T04:50Z,"Hi by mistake I pushed ""authorizelive828.auz"" towards the end while going through the patch1 then special then all the adds and should have stopped at life8.2. Now when I go back to select life app, in my application for life there is no Patch anymore just this authorizelive828.auz whitch looks blank. I deleted everything even loaded the torrent again but same thing keeps happening so can not finish. Please advise what to do cause for the rest all works like a charm. Thank you very much for the upload and video"
+,AzamatK,2013-03-05T00:21Z,The icon of the patcher keeps bouncing for me.. I'm on mac os x 10.7.2
+,chaostastic,2013-04-25T17:50Z,"@thidges, Use an app like free AppCleaner to get rid of everything Ableton.
+
+Then repair permissions by typing in the Terminal: 
+
+sudo diskutil repairPermissions /
+
+restart the machine just to make sure nothing uninstalled is still running.
+
+Then start over. Don't do the updates. 8.2.8 is very stable and functional."
+,chaostastic,2013-04-25T17:52Z,"@AzamatK. I was on 10.7.4 when I used this one. There are no reason I know of that prevents an update to 10.7.4 in your case.
+
+Also, is your user an admin? "
+,chaostastic,2013-04-25T17:52Z,"@AzamatK, 
+
+Update to 10.7.4,"

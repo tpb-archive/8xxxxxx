@@ -1,0 +1,93 @@
+General
+Complete name                            : Dredd (HD 1080p).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 10.5 GiB
+Duration                                 : 1h 35mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 15.7 Mbps
+Movie name                               : Dredd
+Performer                                : Karl Urban, Olivia Thirlby, Jason Cope, Langley Kirkwood, Lena Headey, Rakie Ayola, Warrick Grier, Wood Harris, Scott Sparrow, Rachel Wood, Andile Mngadi, Porteus Xandau Steenkamp, Emma Breschi, Tamer Burjaq, Domhnall Gleeson, Joe Vaz, Francis Chouler, Daniel Hadebe, Nicole Bailey, Desmond Lai Lan
+Genre                                    : Action, Science Fiction
+Recorded date                            : 2012-09-21
+Encoded date                             : UTC 2013-01-13 17:30:30
+Tagged date                              : UTC 2013-01-15 18:02:33
+Writing application                      : HandBrake 5167svn 2013011201
+Cover                                    : Yes
+desc                                     : The future America is an irradiated waste land. On its East Coast, running from Boston to Washington DC, lies Mega City One - a vast, violent metropolis where criminals rule the chaotic streets. The only force of order lies with the urban cops called "Judges" who possess the combined powers of judge, jury and instant executioner. Known and feared throughout the city, Dredd is the ultimate Judge, challenged with ridding the city of its latest scourge - a dangerous drug epidemic that has users of "Slo-Mo" experiencing reality at a fraction of its normal speed. During a routine day on the job, Dredd is assigned to train and evaluate Cassandra Anderson, a rookie with powerful psychic abilities thanks to a genetic mutation. A heinous crime calls them to a neighborhood where fellow Judges rarely dare to venture - a 200 story vertical slum controlled by prostitute turned drug lord Ma-Ma and her ruthless clan.
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 35mn
+Bit rate mode                            : Variable
+Bit rate                                 : 14.8 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 17.026 fps
+Maximum frame rate                       : 29.990 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.403
+Stream size                              : 9.94 GiB (95%)
+Writing library                          : x264 core 128
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=4 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-01-13 17:30:30
+Tagged date                              : UTC 2013-01-13 23:59:04
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 35mn
+Bit rate mode                            : Variable
+Bit rate                                 : 199 Kbps
+Maximum bit rate                         : 333 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 136 MiB (1%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-13 17:30:30
+Tagged date                              : UTC 2013-01-13 23:59:03
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 1h 35mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 439 MiB (4%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-13 17:30:30
+Tagged date                              : UTC 2013-01-13 23:59:03

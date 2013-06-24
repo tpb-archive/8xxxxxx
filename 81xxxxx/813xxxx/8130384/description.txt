@@ -1,0 +1,63 @@
+Three simple steps
+
+Train - Scan a set of expressions to train your personalized avatar for tracking.
+
+Capture - Capture a performance with realtime feed┬¡back, and optionally improve the accuracy in a postprocessing stage.
+
+Animate - Animate virtual avatars in faceshift and export the animation to your favorite 3D animation software, or connect to your existing animation pipeline.
+
+Tracking
+
+-Expressions
+-Gaze Tracking
+-Head Pose Tracking
+-Realtime Tracking
+-Offline Refinement
+-30fps
+Excellent tracking is the core of faceshift. We can track with high accuracy, because we learn your personalized avatar. The avatar is created from a few training expressions, and the resulting tracking is very stable, accurate and expressive. We are tracking 48 blendshape parameters, which allows us to capture even small emotions.
+We also track the eye gaze and head pose, brining the characters alive. And we do all of this in realtime, giving you the possibility to adapt your acting on the fly. For the final result, we offer an offline refinement and editing stage which further increases the tracking accuracy.
+
+Integration
+
+File Based 
+-Animation Export (fbx)
+-Blendshape Curves Export (fbx,bvh,ascii)
+-Virtual Marker Export (bvh,ascii)
+
+Plugin Based 
+-Maya
+-Motion Builder
+-TCP/IP streaming via open format
+
+All excellence at tracking is useless, if it is not easy to get the results onto your own rigs, in your own workflow. There are four ways of using faceshift:
+
+ΓÇô export the animation on one of our predefined rigs or personalized avatars as a fbx file, which can be imported in every major animation software.
+
+ΓÇô work directly within your animation package with our maya or motion builder plugins.
+
+ΓÇô integrate with existing marker based pipelines. No more need to place the markers accurately on the actor, you define them once and export as bvh or c3d for every take.
+
+ΓÇô and for the real geeks we offer a TCP/IP streaming protocol which gives you access to all the tracking data in real time, allowing you to come up with your very own workflows and applications.
+
+Avatars
+
+-Custom Avatar Creation
+-Fully Rigged
+-Gaze Tracking
+
+We did not set out to make an avatar creation software, but the result is pretty cool. As a byproduct of using faceshift you get a fully rigged, expressive avatar, which you can export to use in your own applications, and which you can drive with faceshift.
+And people are coming up with very creative uses for this, from sliced wooden head sculptures to surreal fashion photography.
+
+OS : Win 7 64 bit 
+
+*** IMPORTANT : You need 3D Sensor and related drivers.
+
+Language : English
+
+Quick info youtube : 
+
+Support page :  
+http://www.faceshift.com/support/
+
+Homepage :  
+http://www.faceshift.com/product/

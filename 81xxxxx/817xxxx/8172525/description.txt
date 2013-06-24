@@ -1,0 +1,58 @@
+*********************************************************
+Microsoft Office Professional Plus 2013 Volume Channel  *
+*********************************************************
+
+MSDN SOURCE:
+SW_DVD5_Office_Professional_Plus_2013_64Bit_English_MLF_X18-55297.ISO
+
+Release File:
+Office_Professional_Plus_2013_VL_64Bit_En-US-Feb2013_X18-55297.iso
+Size: 1.02GiB
+CRC32: AFFA93F1
+MD5: 426BA8F4D8007771985A70C0F5707F47
+SHA-1: EFB686D26DBF96FA180A67946117C1B4F262142E
+
+
+So, I got bored today and decided to integrate some patches
+into Office 2013 instead of continuing work on my current OS stuff.
+
+Basically, what you have here is a beautiful MSDN ProPlus VL source
+and it has an updates folder. You can't simply toss the exe files
+from MS Download Center in the folder, but you can extract those files
+with 7-zip and then copy the en-US and the none.MSP files to there.
+
+And that's exactly what I've done.
+
+People often ask me for advice on Office activation, and I can say
+with a large degree of confidence that VL is the way to go for Office
+2013 stuff. The main reason is that MS stuff is very difficult to
+crack. With a lot of software, you can get away with a simple keygen
+or a bitswitch. You cannot do that with Microsoft. They have security
+catalogs and multi-program activation methods. It's not enough to
+simply crack one file; you have to crack them all. That is, unless
+you find a backdoor.
+
+That's what CODYQX4 has been working on over at MDL. He has come up
+with a series of KMSEmulator programs that first spawned virtual
+machine based activators, and now, very streamlined activations.
+It uses your system's localhost to send information back and forth
+from a pretend server. You could do this with a real online KMS
+server, but the more people that use them, the faster they run out
+of activations. Office 2013 KMS activation is slightly different
+than Windows KMS activation, so not all Windows KMS servers and
+Office KMS servers can activate everything. For example, WS12
+servers can activate most Windows systems, but Win8 based systems
+cannot activate WS12 systems.
+
+You can use CODYQX4's MS toolkit, but your a/v program will nag you
+with false-positives. I personally recommend using KMSpico.
+I have included a zip file with KMSpico v3.2 and some instructions.
+If you read the instructions you should be perfectly happy with
+your Office activation.
+
+I recommend getting and using Advanced Tokens Manager to backup
+any legit retail Windows or Office activations before attempting
+to use any KMS activator.
+
+Enjoy Pirates,
+murphy78-TPB

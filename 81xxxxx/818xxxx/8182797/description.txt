@@ -1,0 +1,64 @@
+Season 10 Episode 1 of 8
+New series. The entertainment show returns for the first time since 2009, featuring undercover pranks, sketches, famous guests and competitions. Robbie Williams takes part in an end-of-show performance and Danny DeVito steps into the voiceover booth in the first edition. The Geordie duo take on their most terrifying challenge to date, are reunited with Little Ant and Dec, and spring surprises on viewers, who have the chance to win a holiday. Plus, as usual, one lucky member of the audience will be given the opportunity to play for the contents of a commercial break in Win the Ads.
+
+
+
+
+General
+Complete name                            : Ant.And.Decs.Saturday.Night.Takeaway.S10E01.WS.PDTV.XviD-W33D.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Format profile                           : OpenDML
+Format settings                          : rec
+File size                                : 463 MiB
+Duration                                 : 1h 0mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 078 Kbps
+Writing application                      : AVI-Mux GUI 1.17.8.3, Feb 16 201019:42:50
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 1
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 0mn
+Bit rate                                 : 937 Kbps
+Width                                    : 608 pixels
+Height                                   : 336 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.183
+Stream size                              : 403 MiB (87%)
+Writing library                          : XviD 1.1.2 (UTC 2006-11-01)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 0mn
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 56.6 MiB (12%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.60 video frame)
+Interleave, preload duration             : 198 ms
+Writing library                          : LAME3.90.
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.6 --abr 128

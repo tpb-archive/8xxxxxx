@@ -1,0 +1,45 @@
+Here is a .ova, a virtualbox appliance containing WinXP+IE8 and Win7+IE9.
+
+This can be used for testing of your websites, very easy.
+
+They also have a preconfigured selenium-node trying to connect to a selenium-grid
+on 192.168.56.1 which by default will be your host vboxnet0 interface.
+
+All you have to do is import the appliance into virtualbox and then do some configuration.
+
+Steps:
+
+1. Recent virtualbox
+2. Working and configured vboxnet0 interface:
+
+You can create it command line style:
+
+    VBoxManage hostonlyif create
+    VBoxManage hostonlyif ipconfig vboxnet0 --ip 192.168.56.1
+    VBoxManage dhcpserver add --ifname vboxnet0 --ip 192.168.56.100 --netmask 255.255.255.0 --lowerip 192.168.56.101 --upperip 192.168.56.254
+    VBoxManage dhcpserver modify --ifname vboxnet0 --enable
+
+Or, gui style, look at the provided screenshots.
+
+3. Import appliance, File -&gt; Import Appliance
+4. When asked, regenerate mac addresses
+5. Launch machines
+6. DONE!
+
+7. BONUS! You can start and stop machines, command line style:
+
+start:
+VBoxManage startvm "XPIE8" --type headless
+VBoxManage startvm "7IE9" --type headless
+
+stop:
+VBoxManage guestcontrol XPIE8 execute --username winxp --image SHUTDOWN.exe  -- -s -t 0
+VBoxManage guestcontrol 7IE9 execute --username win7 --image SHUTDOWN.exe  -- -s -t 0
+
+When started headless, you have a working distant-screen service on ports:
+23389 XPIE8
+23390 7IE9
+
+Have problems? Comment here.
+
+If you do not need selenium, remove it from startmenu.

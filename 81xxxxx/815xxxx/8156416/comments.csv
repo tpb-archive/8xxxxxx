@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,kbilek,2013-02-18T08:26Z,"more complete, but bigger version - http://thepiratebay.sx/torrent/8156468
+
+older version - http://thepiratebay.sx/torrent/7016365/The_whole_Pirate_Bay_magnet_archive"
+,kbilek,2013-02-18T14:09Z,"I have deleted the complete version because of potentional privacy issues; will upload it again in about a day, sorry about it"
+,kbilek,2013-02-19T14:33Z,"more complete, but bigger version - http://thepiratebay.sx/torrent/8156416"
+,mrjackspider,2013-02-19T17:19Z,Woowwww... THANKS!
+,kbilek,2013-02-19T17:59Z,"damn, wrong link again.
+
+for last time - more complete version
+http://thepiratebay.sx/torrent/8163015"
+,Salticus,2013-02-20T13:54Z,many thanks
+,tpbpt2013,2013-02-21T00:02Z,"How do i open it?
+I used xml editor,word 2007,notepad..etc."
+,romintang,2013-02-21T00:25Z,"Someone has ability in programming please write a program to read, parse and display this XML (in C++, Java, Python, Pascal, etc...) then share it to us."
+[V],bubanee,2013-02-21T11:35Z,"http://www.thelocalbay.com/2012/03/thelocalbay-desktop-tpb-and-kat-archive.html#.USX3TaVkMeM 
+
+the 90mb version works with this... 
+i'm going to try it with this file here... "
+,hairybogwoppit,2013-02-21T14:32Z,"tried everything i know, cannot figure this file out. it's a 7 zip, yet unzipped it displays a high chaparell se2 episode. i know i am a dork so let us not got there. just someone explain without links to banned things as they do not work in the UK"
+,vikstrou2,2013-02-21T21:29Z,"Here's a command line tool you can use to search/parse this file.
+https://github.com/vikstrous/pirate-get"
+,kbilek,2013-02-21T21:37Z,Apparently the XML is not well formed. I will post the well-formed one afterwards (sorry guys)
+,kbilek,2013-02-22T21:17Z,"Some people noticed that the XML files are not well-formed and valid. I am sorry for that, but I made perl scripts that will make them both, see https://github.com/runn1ng/pb-archive-make-valid. The script need perl, bash and sed, so you will need linux (OS X will maybe be sufficient but I have nowhere to try). I think it is better solution than uploading the file again; I am again sorry for the inconvenience.
+
+Also - to everyone that is trying to open the file in notepad/something crazy like that - the file is NOT intended for ordinary usage instead of pirate bay. There is not point in manually searching in the XML file."
+,Bodhi2010,2013-02-23T13:25Z,make your own tracker: http://bvlist.com
+,Bodhi2010,2013-02-23T13:32Z,"how do use this XML file? http://bvlist.com
+people want to make their own tracker"
+,theguy39,2013-02-28T05:16Z,"Could you release this in csv format Plz!?
+
+P.S sorry for any double posting internet being a beehotch"
+,marco22222,2013-04-20T07:40Z,"What would take this to another level is to recreate search capabilities of TPB offline using the archive.
+Example: Search a phrase in category ebooks and sort by number of seeds.
+with support for operators such as *
+Not sure why but some torrents get skipped/are missing on searches that return more than 1000 results, using a TPB offline search tool would make sure I don't."

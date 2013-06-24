@@ -1,0 +1,69 @@
+General
+Complete name                            : Dont.Be.Afraid.of.the.Dark.2010.720p.BrRip.x264.Dual Audio[Hindi-English] {bittoodev}.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 719 MiB
+Duration                                 : 1h 39mn
+Overall bit rate                         : 1 009 Kbps
+Movie name                               : Dont.Be.Afraid.of.the.Dark.2010 {bittoodev}
+Encoded date                             : UTC 2013-02-13 15:18:09
+Writing application                      : mkvmerge v5.7.0 ('The Whirlwind') built on Jul  8 2012 20:08:51
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 39mn
+Nominal bit rate                         : 848 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 688 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.040
+Title                                    : Dont.Be.Afraid.of.the.Dark.2010 {bittoodev}
+Writing library                          : x264 core 116 r2074 2641b9e
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 39mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 22.05 KHz / 11.025 KHz
+Compression mode                         : Lossy
+Title                                    : bittoo 1986
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 39mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Title                                    : bittoo 1986
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No

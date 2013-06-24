@@ -1,0 +1,170 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 15. February 2013, 22:40
+
+The Breeders / Pod
+
+Used drive  : HL-DT-STDVDRAM GP08LU10   Adapter: 1  ID: 0
+
+Read mode : Burst
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:Program FilesExact Audio CopyFLACFLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "ALBUMARTIST=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.32 |  3:23.43 |        32    |    15299   
+        2  |  3:24.00 |  2:06.60 |     15300    |    24809   
+        3  |  5:30.60 |  2:46.70 |     24810    |    37329   
+        4  |  8:17.55 |  2:27.52 |     37330    |    48406   
+        5  | 10:45.32 |  2:21.65 |     48407    |    59046   
+        6  | 13:07.22 |  3:24.18 |     59047    |    74364   
+        7  | 16:31.40 |  1:44.67 |     74365    |    82231   
+        8  | 18:16.32 |  3:29.40 |     82232    |    97946   
+        9  | 21:45.72 |  2:28.13 |     97947    |   109059   
+       10  | 24:14.10 |  1:56.67 |    109060    |   117826   
+       11  | 26:11.02 |  1:45.15 |    117827    |   125716   
+       12  | 27:56.17 |  2:46.33 |    125717    |   138199   
+
+
+Track  1
+
+     Filename D:DesktopBreeders(01) The Breeders - Glorious.wav
+
+     Peak level 78.9 %
+     Extraction speed 10.7 X
+     Copy CRC 6B19A459
+     Accurately ripped (confidence 3)  [E1468BBD]  (AR v2)
+     Copy OK
+
+Track  2
+
+     Filename D:DesktopBreeders(02) The Breeders - Doe.wav
+
+     Peak level 78.1 %
+     Extraction speed 11.7 X
+     Copy CRC AB398C5F
+     Accurately ripped (confidence 3)  [4E99E14D]  (AR v2)
+     Copy OK
+
+Track  3
+
+     Filename D:DesktopBreeders(03) The Breeders - Happiness Is a Warm Gun.wav
+
+     Peak level 78.3 %
+     Extraction speed 12.4 X
+     Copy CRC E7280128
+     Accurately ripped (confidence 3)  [5701DE77]  (AR v2)
+     Copy OK
+
+Track  4
+
+     Filename D:DesktopBreeders(04) The Breeders - Oh!.wav
+
+     Peak level 89.1 %
+     Extraction speed 13.2 X
+     Copy CRC 886BEAC2
+     Accurately ripped (confidence 3)  [206EF84E]  (AR v2)
+     Copy OK
+
+Track  5
+
+     Filename D:DesktopBreeders(05) The Breeders - Hellbound.wav
+
+     Peak level 87.4 %
+     Extraction speed 13.8 X
+     Copy CRC ED63F1D9
+     Accurately ripped (confidence 3)  [59484F03]  (AR v2)
+     Copy OK
+
+Track  6
+
+     Filename D:DesktopBreeders(06) The Breeders - When I Was a Painter.wav
+
+     Peak level 72.3 %
+     Extraction speed 14.6 X
+     Copy CRC A28B1D20
+     Accurately ripped (confidence 3)  [1BC83EFE]  (AR v2)
+     Copy OK
+
+Track  7
+
+     Filename D:DesktopBreeders(07) The Breeders - Fortunately Gone.wav
+
+     Peak level 88.0 %
+     Extraction speed 15.1 X
+     Copy CRC 3958FD41
+     Accurately ripped (confidence 3)  [BE8B30A5]  (AR v2)
+     Copy OK
+
+Track  8
+
+     Filename D:DesktopBreeders(08) The Breeders - Iris.wav
+
+     Peak level 82.5 %
+     Extraction speed 15.8 X
+     Copy CRC 26AA4A6A
+     Accurately ripped (confidence 3)  [0CCC9591]  (AR v2)
+     Copy OK
+
+Track  9
+
+     Filename D:DesktopBreeders(09) The Breeders - Opened.wav
+
+     Peak level 80.0 %
+     Extraction speed 16.4 X
+     Copy CRC A6074A65
+     Accurately ripped (confidence 3)  [D99AF9B9]  (AR v2)
+     Copy OK
+
+Track 10
+
+     Filename D:DesktopBreeders(10) The Breeders - Only in 3's.wav
+
+     Peak level 70.7 %
+     Extraction speed 16.9 X
+     Copy CRC 957000F2
+     Accurately ripped (confidence 3)  [BC262311]  (AR v2)
+     Copy OK
+
+Track 11
+
+     Filename D:DesktopBreeders(11) The Breeders - Lime House.wav
+
+     Peak level 79.8 %
+     Extraction speed 17.2 X
+     Copy CRC FD7E8D8D
+     Accurately ripped (confidence 3)  [85A7DEC6]  (AR v2)
+     Copy OK
+
+Track 12
+
+     Filename D:DesktopBreeders(12) The Breeders - Metal Man.wav
+
+     Peak level 79.8 %
+     Extraction speed 17.8 X
+     Copy CRC 8E7E4BEE
+     Accurately ripped (confidence 3)  [D381283B]  (AR v2)
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

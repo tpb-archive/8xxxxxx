@@ -1,0 +1,43 @@
+              T..E..A..M ...D..V..T.,,
+
+          ....P  R  E  S  E  N  T  S....
+
+
+          SeriousBit NetBalancer v6.2.5
+
+Released on 02/13/13 for exclusive usage by
+members of the release scene. This isnt something
+to share with your school mates and not for sale.
+Go and ask mommy to buy this app if you like it!
+
+Company ..: seriousbit.com
+
+Url ......: http://seriousbit.com/
+
+               Release Information
+
+
+NetBalancer is an internet traffic control and
+monitoring tool designed for Microsoft Windows XP,
+2003, Vista, 7, 8 with native x64 support.
+With NetBalancer you can:
+*   Set for any process a download and/or upload
+network priority or limit
+*   Manage priorities and limits for each network
+adapter separately
+*   Define detailed network traffic rules
+*   Group local network computers and balance their
+traffic synchronised
+*   Set global traffic limits
+*   Show network traffic in system tray
+
+                  
+                      Install Notes
+
+1. Unpack & Install
+2. Stop NetBalance Service (kill
+SeriousBit.NetBalancer.Service.exe in process
+manager)
+3. Apply Patch
+4. Start NetBalancer Service or Reboot.
+

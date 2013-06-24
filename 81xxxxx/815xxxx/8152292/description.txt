@@ -1,0 +1,10 @@
+Accelereyes JACKET v1.3 with basic license (and SMAC for MAC spoofing)
+
+"Jacket is a numerical computing platform enabling GPU acceleration of MATLAB-based codes. Developed by AccelerEyes, Jacket allows GPU-based matrix manipulations, plotting of functions and data, implementation of algorithms, and interfacing with programs written in other languages, including C, C++, CUDA, and OpenCL."
+ 
+http://en.wikipedia.org/wiki/Jacket_(software)
+
+This piece of software was discontinued as it was effectively killed by Mathworks (see: http://blog.accelereyes.com/blog/2012/12/12/exciting-updates-from-accelereyes/ - read users' comments). v1.3 is NOT the last/latest version, so don't whine about it! Comes with the actual (not trial) license for v1.3 which you can use AS LONG AS YOU SPOOF YOUR MAC ADDRESS(!!!). Use the enclosed SMAC app (serial included) and change your MAC address to 00-14-2a-6b-1c-7e. The jlicense.dat file needs to be put in the Jacket's /engine folder. This license is perpetual but does not cover any other add-ons, sorry.
+
+If there's anyone capable of reverse engineering the licenses for the v2.3 (last=current version - http://www.accelereyes.com/download2.php?f=http://files.accelereyes.com/installers/Jacket-win-2.3-20121020.exe
+) and for all other add-ons, that would be REALLY sweet!!! Here's an expired v2.2 license with all JACKET features listed to make your work easier: http://bayfiles.com/file/FBCP/vNi3Cg/jlicense.dat - it appears JACKET is using the FlexLM engine, so it's probably not too hard if you know what needs to be done - a quick Google search brought me to http://www.woodmann.com/crackz/Flexlm.htm )...

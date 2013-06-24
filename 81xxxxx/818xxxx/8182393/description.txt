@@ -1,0 +1,10 @@
+Mac OS X 10.6.3 (Retail Build 10D575) modified for Single Layer DVD
+
+Following packages were removed in order to fit the DVD:
+- Boot Camp drivers;
+- X Code Tools;
+- Additional Speech Voices;
+- Asian Languages Support;
+- Printer Drivers.
+
+Burn image with Nero ONLY!!!

@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+,apex2000,2013-02-10T01:38Z,Thanks to Heldi and murphy78
+,vidyarathne,2013-02-10T04:25Z,"in windows 7 kmsnano.exe not working.so after extracting it and when try to setup using KMSnano_setup it asks password . 
+
+what is the password ?"
+,vidyarathne,2013-02-10T04:32Z,"sorry , i noticed that it auto installed.
+
+thanks"
+,DarthGoku,2013-02-10T09:20Z,"Office offline works great for me, however since I have windows 8 pro with media center the activator won't work which not letting me change the account photo is kinda annoying. I was wondering if there's any KMS updates coming that will let it work with media center or if i'm just going to have to wait for a real activator to come out?"
+,IcedGround,2013-02-10T10:36Z,"Thanks
+
+Password: masterblaster666"
+,supanut2000,2013-02-10T13:42Z,"Nice activator so far! Activated my Windows 8 with no problem!
+One more question, what is the difference between this and Microsoft Toolkit other than the frequency of new releases?"
+[V],murphy78,2013-02-10T14:32Z,"Pro with Media Center will never allow kms activation. This is intentional. It is oem/retail activation only.
+
+If you want to crack oem or retail, be my guest. Nobody else has been able to."
+[V],murphy78,2013-02-10T14:38Z,"@supanut2000, don't know bud. I've never used the toolkit thing.  I can tell you that this is the best activator for office 2013 or win8. As far as whether or not it will work for you more than other solutions, I have no idea. A lot of people claim to have problems with qemu. With a program that does so much, like that, there are always going to be a lot of problems.  Most people that do experience any problems can run the manual.cmd to start kmseldi and qemu, and it seems to activate fine that way.  Perhaps there's some sort of issue with running programs that are hidden/minimized.
+
+Honestly, this program is so good, I wouldn't bother trying something else unless you exhaust all your options."
+,vidyarathne,2013-02-10T15:20Z,"hello murphy78 , windows 7 pro means windows 7 professional ?
+
+i'm using windows 7 professional service pack 1 .can i activate my windows copy using this ?"
+,CamilleSR7,2013-02-10T16:39Z,"Is there a way to activate Office 2013 on Win 7 ultimate? I know that KMSnano doesn't work but is there something that does? I have Win7 ultimate, do I need to change my Win to Win 7 Pro or Enterprise? Which one is the best? I can't seem to find a reliable copy of any of them on PirateBay, strange..."
+[V],murphy78,2013-02-11T00:10Z,"@vidya yes this should be able to activate pro, but don't download kb971033 or it will give non-genuine msg. It uses a banned key for win7 that works, but won't pass genuine software stuff.
+
+@camille you should be able to activate office2013 on win7 with this. It will not try to activate the windows, but will try to work on the office. Note that if you have retail office, the conversion from retail to vl will take quite a while. It really depends how fast your computer is for how long. For a really slow comp it can take up to 15 minutes. For a fast one it can take about 2 minutes from what I've heard. It has to install a ton of licenses for all of the programs that it converts: word, excel, access, etc."
+,mew7946510,2013-02-11T10:57Z,Can Office 2013 be updated if activated using this?
+,supanut2000,2013-02-11T12:46Z,@murphy78 thanks for clearing things up.
+,vidyarathne,2013-02-11T16:09Z,@murphy78 .. i tried to activate win 7 professional.but it's not working.gives error and says it's in RETAIL channel .so i have to use loader !
+,regular6,2013-02-11T17:00Z,Thank you and all the pirates!
+,syst_admin,2013-02-12T00:13Z,"Hi!
+first time am installing and trying to activate.
+every time and any activator it wont let me open it!
+it say ""unable to open archive file""
+I'm getting crazy from that!! to much time spent. can you assist please?"
+[V],murphy78,2013-02-12T03:11Z,"vidya no it will skip retail if it is ALREADY activated...
+
+You have to uninstall loader and run a ""SLMGR /REARM"" + reboot for it to be back in grace/notification mode for using this.
+
+I really would just recommend using loader. Loader is much better and if you have any idea how to fiddle with the advanced settings it will activate on almost every machine.  The only exceptions are some newer amd OEM machines I've been told.
+
+Loader is still by far a better activator, but that's just because activation is MUCH simpler in win7"
+[V],murphy78,2013-02-12T03:13Z,"KMSnano v25 is up. I will up it later, but you guys can check the opening post at:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0
+and just scroll down to stuff by heldigard
+
+or check out Arkenstone's stuff, he usually ups it frequently:
+http://thepiratebay.sx/user/Arkenstone
+He has a good uploader personality. He doesn't dick with the release files or descriptions like some people *cough thumperTM*"
+,netusername,2013-02-12T04:10Z,Works good for Windows 8
+,vidyarathne,2013-02-12T05:50Z,"okey.thanks
+
+then i'll use DAZ loader :)"
+,CamilleSR7,2013-02-12T21:09Z,"@murphy78: tnx for the reply! However, the initial activation seems to work fine with both KMSnano and MS toolkit (which contains KMSnano if I understand correctly?). If i use ""check"" with MS toolkit it also says that office is activated.
+The problem starts the next day as I can use Office until 00:00 the next day. Then it says ""Please wait while windows configures Microsoft Office Professional Plus 2013"" but nothing happens. If I use MS toolkit at this time and use ""activate"" or ""check"" option it says
+
+
+
+Somehow the product key disappears when a new days starts!?
+The KMSnano readme says that it doesn't work with Win7 ultimate edition which I have but you mean it should work? Then what could be wrong??
+Tnx!
+"

@@ -1,0 +1,74 @@
+﻿User Type,Username,Date,Text
+,Tylersays,2013-02-19T22:41Z,"Interesting....
+Will this playback on a PS3? 
+I know my panel can handle 60fps, but can the PS3?
+Of course it has to be Cinavia free also."
+,moshster,2013-02-19T23:37Z,Honeytrap?
+,aenaon2k13,2013-02-19T23:48Z,"I doubt it will play on PS3, I compressed the hell out of it. It really needs a descent computer to play, with an i5+ or a good graphics card if you use a gpu offloaded player."
+,JoaquinAR,2013-02-20T00:16Z,"He. Hehe. He Ha Ho Hu Hi!
+
+39 leechers. Thirty-nine *IDIOTS*.
+
+That level of idiotic should be punished by instantaneous death. It would solve a lot of global problems (starting with excess of population)."
+,NoMoreAVI,2013-02-20T00:29Z,What the fuck is it?
+,aenaon2k13,2013-02-20T08:58Z,"For anyone wondering what this is, here is the trailer of the movie through the same process.
+
+http://thepiratebay.sx/torrent/8167075
+
+This contains the original trailer and the converted one."
+,darth5ava63,2013-02-20T21:29Z,"Ok i am gonna download this from the first 10 seconds and from your trailer i can see a huge change.
+ Feels more real if that makes sense ?"
+,robby64,2013-02-21T15:49Z,wish there were more seeds
+,kakarotu,2013-02-23T01:53Z,"Very good job, this way is much better, finished downloaing, now seeding.
+But maybe you should try to keep it in the 8gb limit for better media compability and storing, even if it had to be made in 720p. "
+,jimaa66,2013-02-23T14:25Z,"I think a very good job as well. The scene at the beginning where Kirk is made Captain shows the crispness of this creation- very well done, and Thanks."
+,darth5ava63,2013-02-25T22:21Z,"Got it watched am amazed by it, avatar would look so good at 60fps."
+,aenaon2k13,2013-02-28T10:00Z,"It sure would. I just hope film makers started shooting at 60fps. I read somewhere that Avatar 2 will he shot at HFR, can't wait! :D"
+,aenaon2k13,2013-03-14T18:25Z,And now seedboxed :D
+,letslovelikejesus,2013-03-28T00:37Z,"wow, i had my doubts. Downloaded and watched it... real nice job!!.. It certainly isn't 100 % accuracy when it comes to floatness since it would require the real frames. But it sure is an amazing improvement and makes the picture come alive. Too bad it takes about 3 months or if it would take a few days i would do this to all my movies :("
+,Damian6,2013-03-28T08:40Z,"I just made an account just so I could comment on this. This is an amazing job you have done with this film! the 60fps gives the film a whole new look and feel, Thank you for the hard work!
+
+On a side note: I have noticed certain conditions cause the video to not payback properly. I first tried viewing on my laptop and it just couldn't handle it. I then tried on my desktop which has a 120hz 3D monitor at first using VLC and it played back but it wasn't until I played it using PowerDVD did I notice I was not getting the optimal playback with VLC. I wanted to bring this to the boards attention but Im not sure if its the 120hz monitor or the 120hz plus PowerDVD that allowed the optimal playback so its up for interpretation
+
+I wont even insult you by requesting anymore movies with all the work that needs to make this happen but once again thank you for your hard work."
+,aenaon2k13,2013-03-28T09:47Z,"Thanks @Damian6!
+VLC -> CPU Decoding by default
+Media Player Classic + CoreAVC codec -> GPU decoding
+Splash Pro -> GPU decoding
+
+At this bitrate, most CPU get strained, so it is important to use a GPU accelerated player. And have a decent GPU ofcourse.
+
+I've also made the Amazing Spiderman into 60fps. It's at 720p at much lower bitrate.  
+http://thepiratebay.sx/torrent/8299250
+
+I'm preparing the 1080p version, but it will take a few weeks more..."
+,letslovelikejesus,2013-03-31T23:59Z,"Hey, i just found out about SVP, this makes movies play at 60fps without the need of conversion. After installing it i compared the 2 trailers you have for star trek and the 24fps version looks exactly like the 60fps version now. Try it out, this could save you those months of converting. 
+
+You need these 3 installed: Avisynth, ffdshow and SVP. Heres link for SVP full wich includes Avisynth (you can choose it in the installation): http://www.svp-team.com/files/SVP_3.1.4.exe 
+
+And you probably already have ffdshow, most people do but heres a link incase you dont: http://www.free-codecs.com/download/ffdshow.htm 
+
+After the installations start up SVP so its on then use Windows media payer classic - home cinema and right click press options. Then press on external filters and add ffdshow raw video filter then set it to ""prefer"", (in my case this was already chosen and already set to prefer). Now play a movie and you should see a text at the bottom popping up for a few seconds saying SVP is converting from 24 fps to 60 fps. And thats it, now its playing back at 60 fps with the eye-candy floatness :)"
+,aenaon2k13,2013-04-01T11:57Z,"Good points @letslovelikejesus but I'm afraid I have already checked out this solution and although good it's not optimal. For on the fly conversion, Splash Pro does a lot better job than SVP, but both are inferior to pre-rendered methods.
+
+For the most part SVP does a good job, by in some parts it becomes really bad.
+http://i.imgur.com/mFuyNZc.jpg SVP
+http://i.imgur.com/AYI99iE.jpg pre-rendered"
+,pcy,2013-04-30T05:46Z,"It is impressive, I honestly was not expecting it to be. Thanks for opening my mind."
+,nomad1980,2013-05-20T00:53Z,"I was really impressed with this. It really blew me away. Played amazingly on my WDTV Live Plus. Any chance of giving me your conversion technique, or a link to how you did it? I would love to do this myself, and share of course."
+,aenaon2k13,2013-05-20T14:08Z,"@nomad1980, here it goes:
+
+The heavy work is done in Apple Compressor (part of Final Cut). You will need a mac or a hackintosh for that.
+Take the original mkv/bluray and repackage it into an mp4 or mov file, keeping the original video and discarding the audio. From bluray, create an mp4 that is as uncompressed as possible. For mkv to mp4 use something like Subler. Do -not- re-encode the video.
+Create a setting in Compressor that keeps the same picture size but converts to 60fps at the same time length. The most crucial part: Use for rate motion the ""Best(High quality motion compesated)"". Export using the MOV container, PNG as the codec, it's lossless, but not totally uncompressed.
+This step takes ages, and you should probably use more than one machine. In order to do that you need to cut up the mp4 into pieces (for this movie there were 12 pieces and 3 computers). You will need to cut them precisely on scene changes so not to create timing distortions. You can do that in Premiere or Final Cut, and you'll need to export the pieces uncompressed or PNG. And yes you need a few terabytes for that.
+When all is converted, you need to join the pieces again and export the sequence as one uncompressed file in Premiere/FCP.
+Now you need to compress it from terabytes to a few gigs. I swear by Handbrake for encoding jobs. Use the max settings and don't be shy on the bitrate. This file is 20kbps. Unfortunately this will need to be done in one go, on one computer (pc or mac) and take a few weeks.
+At last, use something like mkvmerge to join the video you made, with the original audio and there you have it :)"
+,nomad1980,2013-05-23T03:09Z,"Since I don't have a Mac, and don't have the money to build a hackintosh, I found this:
+
+http://www.spirton.com/convert-videos-to-60fps/
+
+I tried it on Watchmen, and it looks beautiful on my WDTV live and 50 inch plasma. Seems to have that same smoothness that yours has. I am uploading it to a seed box right now, I will post the torrent in a day or two. You will have to let me know what you think."
+,aenaon2k13,2013-05-24T19:38Z,"@nomad1980, the avisynth script solution is worse than the compressor algorithm, but both are not perfect anyway. Perfect would be to have the movie shot in hfr ofcourse.
+Out of my tests the avisynth script provides the best results on the Windows platform. I'd love to see the result :)"

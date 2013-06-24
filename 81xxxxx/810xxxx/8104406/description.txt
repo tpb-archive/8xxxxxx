@@ -1,0 +1,81 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+
+Release File: nullam_facete_v21.zip
+Size: 30.3MB
+CRC32: 7AFF9244
+MD5: 2B2418E6E9DFE097D656814677E91ADA
+SHA-1: 08295A26F9F37BBB353D7238D40C8D54F62FF857
+
+KMSNano is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. I have personally activated KMSNano without
+having my lan drivers even installed on a fresh install of Windows 7.
+
+There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+----------Please read this non-KMS windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Extract the zip file or open it in file explorer.
+2. Run KMSnano_setup.exe It will install to a folder, add shortcuts and trigger install
+(TriggerKMS will run every boot, and if you have 30 days left or less, it will
+re-run the activator. If you install it while unactivated it will run activator)
+3. Wait about 60secs while the files run in the background if you hear music
+(It takes MUCH longer for Retail to VL Office 2013 conversion - Up to 12 mins at most.
+4. Done. Run the Check link on start menu to verify your activation.
+
+For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot.
+
+To fix any botched activations from other horrible Korean activators,
+you can run admin command "SFC /SCANNOW" as a first resort, "SLMGR /REARM"
+as a second resort, and a backup restore from your windows dvd as a 3rd option.
+In windows 8 you can search for "refresh" and look for the links under settings.
+All of those fixes you use at your own risk. Do a google search if you don't
+know what they do.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+You can try the UpDown8 v1.3.exe tool if you have a version that is
+unsupported like enterprise trial version, but you use at your own risk.
+(Inside kmsnano.exe - Extract using 7z or winrar to use)
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from v20.1:
+-heldigard made an awesome installer for kmsnano!
+(This is a big step toward minimizing files and working on a long-term
+sort of a solution with just a few files, links, and encryption if possible)
+
+Included is LaNano Documentation v1.2 by DrCoolZic.pdf
+Please read this first if you have any problems.
+There is a link to a log.cmd which just opens kmsnano.log from the
+temp directory. You may want this if you need to relay some info
+on the MDL boards about an unsupported language or something.
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+...somewhere over the rainbow....hOOOoooOOooooo
+Enjoy Pirates,
+murphy78-TPB

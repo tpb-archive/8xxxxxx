@@ -1,0 +1,69 @@
+Based on some historical events, the film gives a romanticized biography of Theodoros Kolokotronis, a Greek historical hero serving as a metaphor for Greece herself. Based on a circular view of history, the film presents conflicting ideologies - primitive communism, anarchism, chiefdom or kingdom, personality cult - and shows the institutions of property and power in a bad light.
+
+General
+Unique ID                                : 233395114929509363730614049320133107867 (0xAF96439A3303D99F4053F045F622A09B)
+Complete name                            : Alexander The Great.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 3.25 GiB
+Duration                                 : 3h 19mn
+Overall bit rate                         : 2 333 Kbps
+Writing application                      : HandBrake 0.9.6
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 9 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Bit rate                                 : 2 063 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Variable
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=9 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=18.5 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.20
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 3h 19mn
+Bit rate mode                            : Constant
+Bit rate                                 : 224 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 320 MiB (10%)
+Language                                 : Greek
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Default                                  : Yes
+Forced                                   : No
+
+Audio in greek with some dialogues in english. Some players identifies it as "russian", though.

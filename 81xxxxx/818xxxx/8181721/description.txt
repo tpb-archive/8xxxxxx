@@ -1,0 +1,9 @@
+O Lazarus é um Software Livre maduro para o Desenvolvimento Rápido de Aplicações (RAD) com base no moderno compilador Free Pascal. Com esta ferramenta é possível o desenvolvimento de aplicações multiplataforma. Isto significa que podemos escrever um código e a partir deste compilar aplicativos para executarem em Windows, Linux, Mac OS X ou outra plataforma compatível. Por isso, o lema do Lazarus é: “Escreva uma vez e compile em qualquer lugar”.
+
+Este livro é para aqueles que desejam aprender a desenvolver aplicações multiplataforma para desktop usando a IDE Lazarus para o compilador Free Pascal e, também, é indicado para desenvolvedores Delphi, Visual Basic ou de outra linguagem que desejam migrar para Lazarus. Para compreender os assuntos abordados no livro, é necessário o leitor ter noções de algorítimo e alguma linguagem de programação. Portanto, se você não tem nenhum conhecimento nesta área, recomendo a leitura prévia de alguma apostila, livro ou site sobre estes assuntos.
+
+O conteúdo deste livro é útil tanto para programadores iniciantes como para programadores experientes.
+
+A didática é um dos pontos fortes deste livro. Os assuntos são considerados com clareza e objetividade, os códigos dos exemplos são, em sua maioria, comentados e os projetos desenvolvidos são explicados passo a passo para facilitar o aprendizado.
+
+Todos os exemplos do livro são multiplataforma. Foram testados no Windows e no Linux.

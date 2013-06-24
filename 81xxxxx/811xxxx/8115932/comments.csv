@@ -1,0 +1,139 @@
+﻿User Type,Username,Date,Text
+,wtfwtf333,2013-02-19T21:00Z,"Hi
+when i come to screen about JRE, when i click next it says 
+Please insert the disk labeled SAS Sowftware Disk 1
+and i can't go further.
+
+what should i do?"
+,bd1234,2013-02-20T04:51Z,I'm having the same problem as wtf (the Java Runtime Environment it is asking me to insert a software disk). It couldn't have anything to do with the fact that I'm using windows 8 could it?
+,wtfwtf333,2013-02-20T18:24Z,I'm on win 7
+,wtfwtf333,2013-02-20T20:29Z,"I did it with downloading this
+http://thepiratebay.sx/torrent/7260225/SAS_9.3_%28x64_bit%29_-_Program_Only
+got these seed sid 
+http://thepiratebay.sx/torrent/7953180/Sid_File_SAS_x64_bit_July_2013
+and did stuff from Blu_T comment on 2013-01-20 23:13 CET: "
+,bd1234,2013-02-22T03:32Z,"That worked, wtf. Thanks a lot."
+,90abyss,2013-02-24T11:23Z,"I'm getting an ""nls: load extension error"" while installing Base SAS (64 bit).
+Please help!"
+,kleene986,2013-02-26T19:37Z,hmm where can i see how to install the programm?? exist an tutorial?
+,jim0711,2013-03-01T04:14Z,"I have downloaded this entire file twice and I keep getting errors when trying to extract with winrar. I tried to repair, but that does no work. Ive downloaded hundreds of things and never had this problem before. I have no option to right click and ""extract"" the files. When I try to just open it manually (file 001) it doesnt let me and says file i corrupted or doesnt recognize. 
+
+It shouldnt be because it is a zip, and I am using the most recent version of winrar 64 and am running Win 7 64.
+
+Anyone have any clue what is going on?"
+,jim0711,2013-03-01T04:25Z,"Just to add, when I try to repair volume 1 I get the error ""not enough memory"". However, I think the problem is bigger than that. "
+,jim0711,2013-03-02T02:20Z,"Ok, figured all that out, now im having the same java problem as everyone else and the post they linked to is gone."
+,gabriel.angelfire,2013-03-19T14:07Z,"Does this have Miner?
+
+I had your other SAS 9.3 which did, but it expired and the Deployment Manager doesn't have the option to install a new sid, so I'll do a clean install. In this case, if this one has Miner I'll use it, otherwise will keep the old one but with this new sid."
+,Doubzstep,2013-03-22T21:45Z,"@gabriel Yes, this has miner, but I'm going to Upload just the SID so sit tight."
+,Doubzstep,2013-03-23T00:54Z,"Update THIS DOES NOT HAVE MINER! But, here is a SID that includes Miner in it:
+
+New SID til July 2013:
+soshareit.com/G4jWzD0wNy 
+
+$_Stream=-------------------- BEGIN --------------------
+Microsoft Windows Workstation for x64
+Base SAS	31JUL2013
+Education Analytical Suite	31JUL2013
+SAS Bridge for ESRI	31JUL2013
+SAS Enterprise Guide	31JUL2013
+SAS Enterprise Miner for Desktop	31JUL2013
+SAS Integration Technologies	31JUL2013
+SAS/ACCESS Interface to Aster nCluster	31JUL2013
+SAS/ACCESS Interface to DB2	31JUL2013
+SAS/ACCESS Interface to Greenplum	31JUL2013
+SAS/ACCESS Interface to MySQL	31JUL2013
+SAS/ACCESS Interface to Netezza	31JUL2013
+SAS/ACCESS Interface to ODBC	31JUL2013
+SAS/ACCESS Interface to OLE DB	31JUL2013
+SAS/ACCESS Interface to Oracle	31JUL2013
+SAS/ACCESS Interface to PC Files	31JUL2013
+SAS/ACCESS Interface to Sybase	31JUL2013
+SAS/ACCESS Interface to Sybase IQ	31JUL2013
+SAS/ACCESS Interface to Teradata	31JUL2013
+SAS/AF	31JUL2013
+SAS/ASSIST	31JUL2013
+SAS/CONNECT	31JUL2013
+SAS/EIS	31JUL2013
+SAS/ETS	31JUL2013
+SAS/FSP	31JUL2013
+SAS/GRAPH	31JUL2013
+SAS/IML	31JUL2013
+SAS/INSIGHT	31JUL2013
+SAS/LAB	31JUL2013
+SAS/OR	31JUL2013
+SAS/QC	31JUL2013
+SAS/SECURE Windows	31JUL2013
+SAS/SHARE	31JUL2013
+SAS/STAT	31JUL2013
+$_Stream=--------------------- END ---------------------"
+,gabriel.angelfire,2013-03-24T00:17Z,"So just to get clear, I downloaded this torrent here, SAS 9.3, and it does NOT have miner.
+
+But this sid in soshareit.com/G4jWzD0wNy  has the license for it?
+
+So I keep the previous torrent and use this sid?
+
+Doubzstep, I have to include a thanks to you on all my work with modelling. Really, for my PhD thesis I'll include you in the acknowledgements."
+,ANDS_,2013-03-24T02:10Z,"For anyone having trouble extracting, use Bitser.  Winzip, Winrar failed to handle these files.
+
+Right now I can not get the program to install; the only components selected are SAS Foundation and I still get an error: ""An issue has been encountered with your SAS Software Depot that cannot be corrected""  
+
+Oh well."
+,ajcc79,2013-03-27T16:51Z,"I couldn´t extract the files, I tried with Bitser and WinRAR. does anyone had the same problem? Please I need help..
+Jim0711 could you finally extract the files? what did you do?"
+,xCykgukf,2013-03-30T15:19Z,"I am also having the problem ""Please insert the disk labeled SAS Software Disk 1"". I hit cancel several times to get me back to the Select Java Runtime Environment screen, but I cannot proceed from there. I originally had jre7 installed, but also installed jre6 as SAS recommended. It didn't help. Any advice?"
+,xCykgukf,2013-03-31T04:46Z,"Ok I got past the ""Please insert the disk labeled SAS Software Disk 1"" problem by making sure to delete the SASHome folder before trying the install again, and by making sure I was using JRE 6, not JRE 7. But now I am getting the ""An issue has been encountered with your SAS Software Depot that cannot be corrected"" problem that ANDS_ was experiencing. Any advice??"
+,Blu_T,2013-04-04T19:12Z,plan_files is empty...won't let you install without it
+,jim0711,2013-04-05T02:56Z,"I did finally get all the way to the installation and I consistently run into some error where Base SAS does not install, but everything else does."
+,jim0711,2013-04-05T02:59Z,I used hjsplit to JOIN the files so they can be extracted with winrar. 
+,Blu_T,2013-04-05T18:27Z,"I was finally able to install after messing with some SID files, but the installation is so broken it's unusable. Base SAS is screwed up and there is no sas.exe file."
+,vinayrj,2013-04-08T03:58Z,Managed to extract. Now finding a message that Invalid file name or File expired. This is for SID file location and SID file. Help - vinayrj@gmail.com
+,Doubzstep,2013-04-09T01:40Z,"7-Zip is the best un-archive tool on the internet. And, it's even FREE."
+,psixremos,2013-04-19T19:05Z,"I also get the ""nls: load extension error"" message while trying to install sas base in windows 7 64 bit.Has someone found an answer to this problem?"
+,amin4ever,2013-04-23T16:31Z,"Thanks uploader & seeders.
+Any solution for the insert disk 1 problem??"
+,jalexis_lo,2013-04-28T05:33Z,Happened to me the same as Blu_T ... apparently this program has problems
+,Doubzstep,2013-05-04T19:04Z,SAS 9.4 is coming out soon. I'll be searching high and low on the internet for it to put on here.
+,gabriel.angelfire,2013-05-05T01:59Z,"@Doubzstep
+SAS 9.4? With Miner? Thanks!! Really, your name is coming up in my aknowledgements!
+
+@ all other with the JAVA issues.
+I have ran into a gazillion of issues during all this time installing SAS on different PCs many different times. But (thankfully), this was not one of them. So, if I may contribute with some suggestions.
+1) Log in as Admin. It makes all the difference. Really, you can't install SAS just choosing ""run as admin"". If you need help on how to enable admin account on Win 8 (in case you're on Win8), search the net. It's really easy.
+2) Again, if on Win 8, you MUST run in compatibility mode of Win 7. Else it does not work.
+3) For all cases. In case you haven't done so. Uninstall all Java installation and updates. Install only the latest one for your system.
+4)During the installation of SAS, make you sure you choose "".. let SAS choose the Java 'thingy'.."" or something like that, instead of you choosing manually.
+
+So basically.
+
+Log in as admin
+Uninstall all Java
+Install the latest one
+Run SAS install in compatilibily mode for W7 (in case you're on 8)
+During install, let SAS choose your Java thing.
+
+Give it a try if not done so.
+
+Thanks to all the seeders! Let us all keep on it."
+,amin4ever,2013-05-07T17:59Z,"SAS 9.4 said to go for a june shipment.
+I need miner, anyway can help me?
+thanks all"
+,TRICA101,2013-05-13T16:09Z,"Hi, 
+I downloaded you torrent but I do not see any .rar file. The extensions are SAS9.3.0.zip.001 etc... Tried to invert the place the "".zip"" at the end but it does not work. 
+
+I am using WINRAR. What am I doing wrong? 
+
+Really need SAS soon. 
+
+Thanks in advance"
+,Doubzstep,2013-05-14T08:26Z,"@TRICA101, When compressing multiple .zip files, the free and in my personal opinion BEST archive manager out there called 7zip adds the .001. In order to unarchive the files, select all the files at once (Ctrl + A) then right click, WinRAR, extract here. 7zip is similar but all you need to do is right click the first file (the one with .001) and in the 7zip options, ""Extract here.""
+
+Hope this helps!"
+,TRICA101,2013-05-14T10:34Z,"@Doubzstep
+Thanks. I used 7zip and I was able to unzip it. Now I am through installation but I incur in the same problem of "" Please insert the disk labeled - SAS software disk 1"". I am on Win 7. 
+
+Any solution to that? 
+
+Thanks"
+,mrter,2013-05-31T12:24Z,"Doubzstep - I'm also running into the ""Insert Disk #1"" problem at the Java step. I tried all the solutions offered above - uninstalling Java, Reinstalling Java 6 or 7, letting it detect the Java version or pointing to it myself - always get the same error message. Any solution to that ? "

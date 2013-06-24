@@ -1,0 +1,28 @@
+Take PowerShell to the next levelΓÇª stop being a ΓÇ£tool userΓÇ¥ and start being a ΓÇ£tool MAKER!ΓÇ¥
+
+trans CBT Nuggets ΓÇô PowerShell 3 Toolmaking and ScriptingPowerShell guru, MVP, author, and trainer Don Jones shows you how to build reusable tools that look, feel, smell, and taste just like ΓÇ£realΓÇ¥ PowerShell commands ΓÇô all with a minimum of programming and with an emphasis on real-world usage. YouΓÇÖll learn all of the advanced, practical techniques administrators need in production, including how to access databases, how to create delegated administration tools, and much more. Don walks you through the entire process one step at a time, building on fundamental concepts and techniques to produce truly amazing results.
+
+Course Outline
+
+Introduction
+Scripting Language Overview
+Simple Scripts and Functions
+Scope
+Designing a Tool for Reusability
+Writing Advanced Functions
+Adding Output
+Putting it All to Use: Creating HTML Reports
+Error Handling Techniques
+Debugging Techniques
+Custom Format Views
+Script Modules and Manifest Modules
+Accessing Databases
+Adding WhatIf and Confirm Support
+Troubleshooting Pipeline Input
+Using Object Hierarchies for Complex Output
+Utilizing the .NET Framework in a Script
+Creating a Graphical User Interface
+Creating Proxy Functions
+Delegated Remoting and Constrained Remoting Endpoints
+
+Thanks to tulip_flower for uploading to Uploaded and Ryushare without a password

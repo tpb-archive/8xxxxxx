@@ -1,0 +1,32 @@
+X-COM: UFO Defense Gold Edition
+
+X-COM: UFO Defense (also known as UFO: Enemy Unknown or X-COM: Enemy Unknown) is a tactical game developed by Mythos Games and first published by MicroProse in 1994 for MS-DOS and Amiga.
+
+This version in particular is the Gold Edition, which was first released in 1998 as part of X-COM Collector's Edition. It's a multi3 european version, you can choose English, French or German.
+
+X-COM UFO Defense Gold Edition includes two sets of executables, the old MS-DOS set and a new Windows 95 set.
+
+My suggestion is that you try the Windows 95 method first, because, as a general rule, a native executable is better than an emulator.
+X-COM UFO Defense for Windows 95
+
+Installation Instructions:
+
+-Create the folder that will contain the game (Ej. C:gamesxcom)
+-Decompress "X-COM UFO Defense.7z" to the previous folder. You'll need 7-zip for this task. Get it from http://7-zip.org/
+-Double-click on "UFO Defense_Patched.exe" to run the game. If that one doesn't work for you, try "UFO Defense.exe". If that one doesn't work either, read the next section.
+
+X-COM UFO Defense for MS-DOS
+
+If, for some reason, the Windows 95 executables don't work on your system, you'll have to go the DosBox way.
+
+Installation Instructions:
+
+-Create the folder that will contain the game (Ej. C:gamesxcom)
+-Decompress "X-COM UFO Defense.7z" to the previous folder. You'll need 7-zip for this task. Get it from http://7-zip.org/
+-Download and install DosBox.
+
+The most confortable option to run X-COM is to create a shortcut to DosBox that passes the location of the game's executable as an argument, "c:gamesxcomufocd.bat" in this case. What I'm asking you to do is Windows general culture, but if you don't know what I'm talking about, read this excellent tutorial.
+
+I'm not going to take up any more of your time. Enjoy this masterpiece!
+
+2010/06/02, trapacer

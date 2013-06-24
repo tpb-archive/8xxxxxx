@@ -1,0 +1,128 @@
+Kings.Bounty.Warriors.of.The.North.Update.v1.3.1.6250-BAT
+
+
+Changelog:
+
+ UPDATE 3 (29/01/2013):
+ ~~~~~~~~~~~~~~~~~~~~~~
+
+ The list of improvements and fixes includes:
+
+ - Valkyries can allocate unit runes on their own
+ - Crafting using recipes now works differently*
+ - 'Morning mania' bug (game time reset upon arrival) fixed on 
+   Western and Eastern Freedom Islands*
+ - Bug that prevented player from accessing Guilford castle after 
+   battle with Eric fixed* (Workaround: leave Greenwort location 
+   and return to it)
+ - Absolute Rage, Rage Control and Sense Weakness bonuses now display 
+   correctly
+ - Hero skill Reserve now updates army after battle correctly
+ - Bug with Demon pentagram fixed
+ - Timelessness and Negation spells now display correctly in log
+ - Totem modifiers update correctly after their destruction
+ - Bug with arena pawns fixed (they can't damage themselves anymore)
+
+ Steam achievements:
+ - Patron and Friend of the Pirates titles can be earned now*
+ - Ragnarok Messenger and Mad Courage achievements can be earned now
+
+ Texts:
+ - Dialogs with vlkyries concerning the rune usage fixed
+ - Text bug fixed in the Talking Bear quest
+ - Polish: Ice Dragon skills description fixed
+ - Polish: Description of one of the heroes in Western Freedom 
+   Islands updated
+
+ Units
+ - Orc units health now depends on Adrenalin level correctly
+ - Soothsayers abilty Keeper of Knowledge now doesn't affect 
+   Soothsayers themselves
+ - Special Troll attack Pacify corrected
+ - Special Prc Hunter attack Net and its basic attack corrected
+
+ Items
+ - Mask of Youth and Chain of Chance properties corrected
+ - Silver Rapier and Ray of Light properties corrected*
+
+ * This change will be applied only after starting a new game because 
+   this data is stored in a save file.
+
+ UPDATE 2 (13/11/2012):
+ ~~~~~~~~~~~~~~~~~~~~~~
+
+ The list of improvements and fixes includes:
+
+ - Quests improved and clarified: Dead Men can't be Pirates!*, 
+   Heaven's Treasure, Heir to the Throne* and Wrath of the Greenskins
+ - Power of Light, Power of Night, Call of Nature, Last Hero and Calm 
+   Rage spells corrected
+ - Items Ray of Light, Shield of Rekross and Prince's Crown corrected*
+ - Hero Talents Shield of Rage and Diplomacy corrected; Edda talent 
+   now increases power of the Songs
+
+ Units:
+ - Death of an Ice Dragon no longer hangs the game up
+ - Ice Dragon ability Creator, Rune Mage ability Runic Word, Ork Hunter 
+   ability Pet, Jotun ability Greed and Warrior Maiden ability Odin's 
+   Gift now work correctly
+ - Enemy units no longer return to their previous hexes and retaliate 
+   after being attacked by Ice Dragon ability 'Cold Heaven'
+ - Scald song Paean now applies its effects correctly
+
+ Locations:
+ - Riftlands, Dungeon of Governor's Castle*
+
+ Other fixes:
+ - Experience for fight with Runorm on Galskap Mountain now allocated 
+   correctly in all cases*
+ - Rabid effect no longer cancels itself after being applied again
+ - Spells and rage abilities now inflict critical damage provided the 
+   hero have the corresponding abilities
+ - Crafting dialogs have been changed and should be clearer now
+ - Hilda's Arrows upgrade panel now features more reasonable amount 
+   of text
+ - Druid and Orc Hunter controlling abilities descriptions fixed
+
+ * This change will be applied only after starting a new game because 
+   this data is stored in a save file.
+
+ UPDATE 1 (02/11/2012):
+ ~~~~~~~~~~~~~~~~~~~~~~
+
+ The list of improvements and fixes includes:
+
+ - Odis Or and Undershore Brotherhood quests corrected*
+ - Quest-related (ΓÇ£Missing cabin boyΓÇ¥) army now doesnΓÇÖt run away 
+   anymore*
+ - "Sense Weakness" skill routine fixed
+ - "Icy Rage" skill now applies critical chance to rage abilities
+ - Valkyrie level up interface improved
+ - Game freeze after sacrificing a second item to Gudrida fixed
+ - Hilda now adds a correct amount of leadership at any level*
+ - Regina now grants an attack bonus to level 5 creatures*
+ - "Greedy" achievement counter now displays the amount of gold 
+   earned correctly*
+ - "Magical Help" ability of Witchhunters now applies a random buff
+ - Calculation of travel time between islands corrected*
+ - Incorrect passages in Catacombs, Pirate dungeon and on the 
+   Riftlands, Tunsinn, Grotland, Island and Nordlig are now fixed
+ - Auto-battle now uses rage abilities
+ - Amount of honey in "Block of Honey" now wonΓÇÖt be reduced over 
+   time if the item is not equipped*
+ - "Shamanic Doll" item functioning corrected*
+ - "Telescopic Sight" item functioning corrected*
+ - "Last hero" spell corrected
+ - Rune Mages initiative corrected
+ - A number of texts clarified and corrected, including descriptions 
+   of Song of Ljusalfheim, skill "Transmutation", "Divine Hand", bonus 
+   items in Valhalla edition and more
+
+ * This change will be applied only after starting a new game because 
+   this data is stored in a save file.
+
+INSTALL INFO
+
+         1. Unpack release.
+         2. Install the update.
+         3. Enjoy! ;)

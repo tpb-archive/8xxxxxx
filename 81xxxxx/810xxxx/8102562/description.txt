@@ -1,0 +1,53 @@
+Here is an installer I made for KMSnano v20.1
+It lets you choose directory and will automatically install the trigger
+and monitor activation. It displays some basic info for people during
+install.
+
+File: KMSNano_v20.1-Installer.exe
+Size: 30.5MB
+CRC32: D8878009
+MD5: 840A80F6FA5FDA7B95AF9432D862817F
+SHA-1: F9A8F1A7A6C0125F3E4061EBA2FDD075E0505271
+
+What it does is extract KMSnano to a directory that you specify.
+Then it runs Install.cmd that installs the TriggerKMS to monitor
+activation every boot. Since TriggerKMS install also runs the activator
+if necessary, this script will monitor activation programs and let you
+know when they've stopped running and where your installed files are. I
+know it's redundant to show where you installed the files after you
+just selected a destination, but this is meant to help people who don't
+understand very much.
+
+I included an Uninstall-KMSnano.cmd with this one that will, as
+predicted, uninstall both the trigger, and kmsnano folder.
+
+It runs the same KMSnano.exe from the normal release.
+
+Read KMSnano v20.1 info from my KMSnano v20.1 torrent at: 
+http://thepiratebay.se/torrent/8102539/KMSnano_v20.1_Offline_Office_and_Windows_KMS_Activator
+
+Note that I did not write any of the activation coding.
+
+heldigard made KMSnano.
+he gives thanks to many boards and people in his readme file.
+Read it and you can find out who else are activation champions.
+
+Screens are nearly identical to my v20 on my end, so I'ma just
+repost the links to the images here. I just removed the version
+number from the title on the command screen for future use.
+
+01-KMSnano v20 Installer - Choose Directory 
+http://bayimg.com/AAjnIAAeE
+
+02-KMSnano v20 Installer - Script Screen and Finish box 
+http://bayimg.com/AaJNjaAEE
+
+You can upload this wherever you want, just don't be a douche like
+ThumperDC and remove file versions and credits and try to get people
+to visit your website to make money.
+
+I don't make any money doing this, and I never will.
+
+*Salute heldigard*
+Enjoy Pirates,
+murphy78 - TPB

@@ -1,0 +1,67 @@
+As requested:
+
+
+
+SPORT: Six Nations Rugby Union - Scotland v Ireland
+On: BBC 1 HD
+Date: Sunday 24th February 2013 
+Time: 13:30 to 16:00 
+
+Celtic cousins collide at Murrayfield as Scotland take on Ireland, introduced by John Inverdale. The home side are attempting to rebuild under new interim coach Scott Johnson after a disastrous 2012, which began with a whitewash in the Six Nations and ended with a humiliating home defeat by Tonga. Scotland's minimum target before this tournament was two wins, which would be as many as they have managed in the previous three Six Nations campaigns combined. A victory today would be no mean feat, with Ireland having won five of their six most recent Six Nations trips to Edinburgh and able to call on fit-again talisman Brian O'Driscoll. Commentary by Andrew Cotter and Philip Matthews. Full coverage include pre-match, half-time and post-match analysis and interviews.
+
+
+General
+Complete name: 2013.02.24.6N.Scotland.v.Ireland.720p.x264.mp4
+Format: MPEG-4
+Format profile: Base Media
+Codec ID: isom
+File size: 3.77 GiB
+Duration: 2h 26mn
+Overall bit rate mode: Variable
+Overall bit rate: 3 676 Kbps
+
+Video
+ID: 1
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: High@L4.1
+Format settings, CABAC: Yes
+Format settings, ReFrames: 8 frames
+Codec ID: avc1
+Codec ID/Info: Advanced Video Coding
+Duration: 2h 26mn
+Bit rate: 3 548 Kbps
+Maximum bit rate: 11.0 Mbps
+Width: 1 280 pixels
+Height: 720 pixels
+Display aspect ratio: 16:9
+Frame rate mode: Constant
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.154
+Stream size: 3.64 GiB (97%)
+Writing library: x264 core 129 r2245 bc13772
+Encoding settings: cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID: 2
+Format: AAC
+Format/Info: Advanced Audio Codec
+Format profile: LC
+Codec ID: 40
+Duration: 2h 26mn
+Bit rate mode: Variable
+Bit rate: 124 Kbps
+Maximum bit rate: 131 Kbps
+Channel(s): 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode: Lossy
+Delay relative to video: 80ms
+Stream size: 130 MiB (3%)
+Language: English
+
+

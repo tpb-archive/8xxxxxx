@@ -1,0 +1,71 @@
+General
+Complete name                            : /Volumes/Xserve HDb/Media/Complete/Racing/GrandAm/Rolex/Grand Am 2013 - Round 01 - Daytona Rolex 24 Hour/Grand Am 2013 - Round 01 Part 01 - Daytona (Portable).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.32 GiB
+Duration                                 : 1h 36mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 966 Kbps
+Movie name                               : Grand Am Rolex 2013 Round 01 Rolex 24 Hours at Daytona - Part 1
+Genre                                    : Endurance Sports Car Racing
+Encoded date                             : UTC 2013-01-26 23:07:37
+Tagged date                              : UTC 2013-01-28 20:15:42
+Cover                                    : Yes
+tvsh                                     : Grand Am Rolex
+tvnn                                     : SpeedHD
+tven                                     : 201301
+tvsn                                     : 2013
+tves                                     : 1
+stik                                     : 10
+rtng                                     : 0
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 36mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 829 Kbps
+Maximum bit rate                         : 62.5 Mbps
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 59.940 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.106
+Stream size                              : 1.23 GiB (93%)
+Title                                    : SPEEDHD_20130126_1459
+Writing library                          : x264 core 125 r2208 d9d2288
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=600 / keyint_min=60 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=62500 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-01-26 23:07:37
+Tagged date                              : UTC 2013-01-26 23:09:07
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 36mn
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 132 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 87.9 MiB (7%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-26 23:08:57
+Tagged date                              : UTC 2013-01-26 23:09:07

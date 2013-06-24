@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,bronxmad,2013-02-19T18:12Z,"Hey, I've downloaded and created the bootable pen with superduper but when trying to boot the PC doesn't recognize the Pen... What's going on?"
+,realosxman,2013-02-19T19:45Z,Did you install the BootLoader that was given to you in the tools folder?
+,t0shk0pz,2013-03-03T20:14Z,I'm using Windows 8 x64 but i cannot find superduper for windows. How can i restore the .dmg file..
+,realosxman,2013-03-05T19:48Z,DMG files are mac os images. You will need to use either a Hackint0sh or a mac computer to restore the image. I suggest getting a copy of vmware osx image.
+,halfbloodazzn,2013-03-09T08:32Z,"Hey Realosxman. I've read your very brief Read Me but I'm unsure about the steps I need to take to do this whole thing. I've upgraded Leopard to Snow Leopard before bu a bootable thumb drive (format and restore via Disk Utility) but I don't know what you mean by ""Restore .dmg using SuperDuper"".. Do you mean ""Copy"" the .dmg to the already bootable thumb drive? And then what? Sorry, I don't find your 5 lines of instructions very comprehensive for someone who has only done this kind of thing once.."
+,halfbloodazzn,2013-03-09T14:03Z,Managed to retrieve the files off the .dmg... and realise this whole thing isn't very noob friendly isn't it lol

@@ -1,0 +1,25 @@
+Zygor Guides update v4.0.5881, released February 14th, 2013. (Horde and Alliance)
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Patch notes since last upload:
+
+
+Version: 4.0.5881
+Released on: February 14th, 2013
+[B] Achievements
+Added in and updated several achievements
+Version: 4.0.5874
+Released on: February 14th, 2013
+Travel
+* Fixed Ally inn "Golden Lantern" location in Shrine of Seven Stars
+* Fixed hearthstone usage, now properly taking in cooldown into consideration
+* Fixed an error where the Travel arrow wouldn't update to a new path when clicked
+Guide Viewer
+* Quest Auto Accept no longer accepts gray quests in "all quests" mode (perhaps this warrants another option?)

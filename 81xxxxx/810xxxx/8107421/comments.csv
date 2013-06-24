@@ -1,0 +1,217 @@
+﻿User Type,Username,Date,Text
+,nox150690,2013-02-05T23:09Z,"FYI, this update includes the following:
+
+Seasons
+Supernatural
+Diesel
+70's, 80's, and 90's "
+,kemylew,2013-02-09T02:08Z,can you explain the installation in detail please....its a bit confusing to me
+,nox150690,2013-02-09T10:40Z,"@kemylew, This is the simplest way I can put it:
+
+I :Install the original BlackBox
+
+II: There are three updates included, install them all, in the correct order.
+
+III: There are three crack files, one for each update, you have to modify each .reg file (right click, and open in notepad) like the information above
+
+Each .reg file points to the expansion folder and/or the sims 3 base folder, you have to tell the .reg file where your installation is located.
+
+Above, you can see I have changed the information so it points to where the sims is installed, and to where the .exes are. You simply have to change the installation path to fit your installation of the sims 3.
+
+When you change the path , make sure it is correct, when you are done, you can use the .reg files to register the expansions by double left clicking the .reg files. Remember, this has to be done for each .reg file."
+,nox150690,2013-02-09T10:41Z,"If that is still too confusing, comment with your sims 3 installation path, or send me your email address with your sims 3 installation path, and ill send you the .reg files that will be already modified for you to use."
+,kemylew,2013-02-09T18:33Z,while reinstalling the blackbox complete this occurs “An error occurred while unpacking: archive corrupted! Unarc.dll returned an error code: -7. ERROR: archive data corrupted (decompression fails)”.
+,nox150690,2013-02-09T19:17Z,"@kemylew, that is a problem with the BlackBox, not the updates, you may have to redownload the original BlackBox."
+,Mr-Wicked,2013-02-09T21:22Z,"Allright, The thing is I did as you said I was going to to do with the reg. file. I change the path to where I installed the game. But this is how I did it all. First I install update 1. Then when it was done I had the update one folder ""The sims 3 Seasons and supernatural"" In my progam folder. So I edited the reg file so the path was towards the ""The sims 3 seasons ect"" Folder. Toards the exe and that. I used the TS3W to lunch. The game started but did not have seasons and supernatural. So then I tool the folder and replaced the stuff in the blackbox to folder. Then change the reg files path again to match where the folders and exe are. Now it did not work. 
+
+So you told me you can help as you had a another person that needed help with this. So all you needed was the path provied and you can help. So here it is. 
+
+C:Program Files (x86)Black_BoxThe Sims 3 Complete Edition
+
+C:Program Files (x86)Black_BoxThe Sims 3 Complete EditionThe Sims 3GameBin
+
+Then as you said using the supernaturel path and sessons. Here they are.
+C:Program Files (x86)Black_BoxThe Sims 3 Complete EditionThe Sims 3 SeasonsGameBin
+
+-
+C:Program Files (x86)Black_BoxThe Sims 3 Complete EditionThe Sims 3 SupernaturalGameBin
+
+Thanks for the help. 
+
+"
+,nox150690,2013-02-10T05:11Z,"@Mr-Wicked, are you installing the updates into the sims 3 folder? They need to be located in the same folder as all of the other expansions, as well as the base sims 3 game. 
+
+Also, when you edit the paths, make sure you keep the double """" in the paths, and use quotation marks around the paths, you should see them in the .reg files. 
+
+Use the base sims 3 launcher to launch the game."
+,nox150690,2013-02-10T05:11Z,sorry I meant the double backslashes.
+,nox150690,2013-02-10T06:20Z,"I'm gonna be uploading a video tutorial soon, so there should be no more confusion about the installation process, link will be added soon."
+,nox150690,2013-02-10T11:27Z,"Video Tutorial Link:
+
+http://thepiratebay.sx/torrent/8125597"
+,sha_11,2013-02-11T22:27Z,That video keeps pausing every minute and would be so much easier if you explained what you were doing talking...
+,sha_11,2013-02-12T05:14Z,The icons aren't coming up at all in the launcher after installing each update
+,Tmarnell,2013-02-14T00:00Z,"I have downloded the original Black Box with all the expansions, aaannnnd I can't uninstall it. Like, my comp just wont let me. I can't even install a different version because it's in the way. I've tried everything. Some one help me please, I'm about to chuck my laptop off my balcony -_-"
+,ashl3yxx,2013-02-14T04:39Z,"Same thing happening to me: ""The icons aren't coming up at all in the launcher after installing each update""
+
+I did everything fine, all my paths and .reg files are fine and I double clicked them after and everything?"
+,ptv83,2013-02-20T00:26Z,"installed in order, edited reg files with notepad replacing J:\installed..."" with ""c:\programfilesx86\blackbox\...""
+(paths copy &pasted straight from explorer double checked for typos and double \'s)
+saved and entered into registry.
+
+.reg files still reside in download location
+
+NO GAME EXPANSION ICONS IN LAUNCHER, only original blackbox contnents up to katy perry sweets.
+
+item stuff packs were found by launcher and are installing currently at 90% in background."
+,jus17,2013-02-21T16:11Z,http://thepiratebay.sx/torrent/7427718/The.Sims.3.Complete-BlackBox                                                             Just verifying it this is the original original blackbox file
+,RichX_HD,2013-02-21T18:39Z,"guys, i need some help here. let's say my installed game is in C:Program FilesBlack_BoxThe Sims 3 Complete Edition. Then when i want to install this update, which folder should i install to? im not understand about this -> They need to be located in the same folder as all of the other expansions, as well as the base sims 3 game"
+,RichX_HD,2013-02-22T04:51Z,"""Install Dir""=""C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3""
+
+""ExePath""=""C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3\GameBin\TS3.exe""
+
+""Install Dir""=""C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3 Seasons""
+
+""ExePath""=""C:\Program FilesBlack_Box\The Sims 3 Complete Edition\The Sims 3 Seasons\Game\Bin\TS3EP08.exe""
+
+""Install Dir""=""C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3 Supernatural""
+
+
+""ExePath""=""C:Program FilesBlack_BoxThe Sims 3 Complete Edition\The Sims 3 SupernaturalGameBin\TS3EP07.exe""
+
+am i correct? but after this step i couldnt see any expansion active in my sim3 launcher. did i type correct? Window7 32bit here. 
+"
+,RichX_HD,2013-02-22T05:18Z,"Install the updates in the correct order, then use the cracks (all of which you should of modified) that are contained inside for each update. There is an uninstaller.reg file that will remove all registry files for The Sims 3, so use that and delete the sims 3 folder to uninstall.
+The .reg uninstaller does not need to be edited.
+
+
+can elaborate more on this??"
+,jus17,2013-02-22T13:41Z,http://thepiratebay.sx/torrent/8125597/The_Sims_3_Blackbox_Expansion_Stuff_Update_I_Video_Tutorial                                                                           video tutorial
+,juandiloco,2013-02-22T16:44Z,"hello,
+if i dowload and install this update correctly, will i be able to install the next update / UNiversity life ???"
+,Carpo690,2013-02-22T17:35Z,"Hello I need Help I cant work out how to do the edit the .reg file's, I tried but I stuffed my install up and had to uninstall and reinstall. When I go into my hu-HU folder I only have one file in there?"
+,jus17,2013-02-22T17:45Z,i'm having a bit of a problem... i installed everything step by step how u showed us on the video... but non of the expansions are active... can u tell me please what may have been the issues... plus non of mines has .exe at the end
+,ptv83,2013-02-22T19:06Z,"this obviously doesn't work. everyone has the same issues.
+
+here's a confirmned method of getting supernatural and seasons installed on the blackbox version (found with googled and employed) 
+
+I've not done it as i can't be bothered.. i just install the sims 3 on my wifes laptop when she bitches at me enough to warrant the wasted time.
+
+this would require way too much wasted time beyond what i already put into this POS.
+
+http://games4theworld.bestgoo.com/t7496-how-to-install-supernatural-w-blackbox-complete-pack"
+,RichX_HD,2013-02-22T19:13Z,that means not only me got this problem. other as well =(
+,jus17,2013-02-22T20:17Z,they are showing up on the launcher... they are just not active 
+,rajko111,2013-02-22T20:36Z,how i update the game
+,nox150690,2013-02-23T00:01Z,"ptv83, I appreciate the insults, however, these updates were created using that very link you posted, I simply put the updated files, and the new files into simple installers and copied over the .reg paths needed for activation.
+
+Feel free to upload your own version, as I would rather have people actually playing the game, than insulting me and my uploads."
+,jus17,2013-02-23T00:45Z,"no negatives here, @not150690... you did a greatd job and thumbs up for that... i'm just having s bit of an issue with mines.. must be something i did wrong so let me tell u step by step what i did
+1) Download obviously
+2) Install the games in order in the sims file, file            location isC:Program FilesBlack_BoxThe Sims 3 Complete Edition- Expansions are now showing on launcher. 
+3) Edit cracks... examples of Install Dir is  C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3 Seasons
+example of exepath is C:\Program Files\Black_Box\The Sims 3 Complete Edition\The Sims 3 Seasons\Game\Bin\TS3EP08.exe
+
+but my games are still not active... my apps dont have exe at the end anyway... did i do something wrong, is the base game wrong? downloaded blackbox from ""steifniester"" tell me the changes that i need to make and i will do.. one again.. keep up the good work. "
+,nox150690,2013-02-23T12:03Z,"jus17, well, assuming the paths in the .reg file are correct, the only other thing it may be is that you are running a 32-bit OS, and that the base sims installation is not using the Wow6432node folder in the registry folder to install the registry keys. I will check by installing The Sims 3 on my old pc, but I use a 64-bit version of Windows, and the crack works fine, even after wiping my PC."
+,jus17,2013-02-23T13:07Z,oh okay.... is there anything you suggest that i do? 
+,jus17,2013-02-23T14:49Z,i know this person who can do cracks n so on so i'll have them check it out. 
+,nox150690,2013-02-23T15:05Z,"@jus17, I can't really suggest anything right now, only to watch the video tutorial I uploaded if you have not already. I will report back if I find a solution."
+,jus17,2013-02-23T15:09Z,running on a 32 bit by the way sighing... i really need the seasons expansion.. what do you suggest?
+,jus17,2013-02-23T15:10Z,i used the video... i did everything perfectly... exactlyhow u stated. i guess its because i'm running on a 32 bit
+,nox150690,2013-02-23T17:23Z,"Found the problem, it is caused by 32-bit OS's. Here is a fix:
+
+http://thepiratebay.sx/torrent/8181895"
+,nox150690,2013-02-23T17:24Z,"From now on, I will include a 32-bit version, and a 64-bit version."
+,ptv83,2013-02-23T17:44Z,"this laptop is Win7 x64, the problem is not a 32bit version of windows.
+
+your crack can not be created using that same link since the link clearly installs a separate uncracked base sims3 game, UPDATES with official EA updates/patches, moves the installed game files out to a temp directory, install blackbox, replace Sims3 base game files with the UPDATED sims3 base game files you previous moved to a temp folder. then installing Supernatural/Seasons with cracks.
+
+your installation instructions, do not mention installing a base uncracked version of the game and updating using EA's updates.
+
+Supernatural and seasons apparently REQUIRE updated/patch Sims 3 from that of the BlackBox download.
+
+Since, again my wife bitched enough to get me to take one more stab at this for her.
+
+and what do you know... overrighting the base Sims 3 game files with those of a previously installed and offically updated version has them working perfectly
+
+WITH NO REGISTRY EDITS. 1st time.
+
+so again, your download/install doesn't work on x64.
+
+the community appreciates the try, but the feedback is thusly still an unfortunate negative ranking of POS."
+,nox150690,2013-02-23T18:04Z,"@ptv83, The files that were updated by EA are already included in these updates, and the reason YOU did not need registry files is because you used a different method of installation. The BlackBox edition is already cracked, these updates simply install the new content, as well as updates the files to make the new content function.
+
+When I created these updates, I used an original, uncracked version of The Sims 3, installed each update that was missing from the BlackBox edition, and included them in the files I have created here, along with .exe and .dll cracks.
+
+When YOU installed The Sims 3, plus the expansions, the games created registry files itself. If you don't believe me, delete the .reg file that are associated with The Sims 3, I can guarantee that the Sims 3 will then fail to load. Why? Because The Sims 3 REQUIRES these .reg paths to know which expansions and and content is installed and where it is installed. This is why you must modify the the .reg files I have uploaded, or the launcher will not know what content is installed.
+
+The reason I included the .reg files, is simply because they are not created with MY installers, but are with the BlackBox installer, and because everyone may or may not have different installation paths.
+
+Off to play some Sims 3 on my 64-bit PC."
+,jus17,2013-02-23T18:13Z,thnx nox for the consideration... 
+,nox150690,2013-02-23T18:21Z,"@jus17, no problem. If you have any further questions, feel free to ask."
+,RichX_HD,2013-02-24T10:07Z,"yea, it's work! thanks!"
+,nox150690,2013-02-24T17:48Z,"@RichX_HD, no problem :) I'm glad it's finally working, sry for the problems before."
+,MysticalxHippo,2013-02-25T00:42Z,"This works. I just did it followed all the steps on the video and BAM! HEAVEN! Thank you so much uploader. 
+Im not very good with cracks and shizz but you made this simple. 
+Awesome!!!!!"
+,Muzikants,2013-02-25T04:42Z,"I did all that was said, but when I start the game an error pops up: 
+Unable to start the game! Your The Sims 3 game is incompatible with the current The Sims 3 expansion pack! Please update the game via the game launcher!"
+,nox150690,2013-02-25T16:31Z,"@Muzikants, this is a known error, assuming you have followed the instructions, or the video tutorial (link below) correctly, then you may have to re-install windows to get the game running.
+
+Try using the uninstaller.reg, and delete the entire Sims 3 folder, and restart the installation, also check the ""Program and Features"" folder in the control panel for previous The Sims 3 installations. Also, make sure your a running 64-bit OS, if your not, use the below link for the correct .reg crack files.
+
+Video Tutorial:
+http://thepiratebay.sx/torrent/8125597
+32-crack:
+http://thepiratebay.sx/torrent/8181895
+
+Hope this helps, report back if you are still having problems."
+,goodmorn,2013-02-26T20:17Z,"To those of you who were able to see the new games in your EA Launcher but they were grayed out, how did you fix your problem?
+
+I used all three updates and installed to my Sim's directory, then edited and used all 3 32-bit cracks. I don't get any errors, my game just won't load past Katy Perry's.
+
+I'm trying to download the video tutorial but it's at a crawl. Could anyone with similar problems tell me how you fixed them? Thanks!
+
+And thanks, nox, for this update!"
+,nox150690,2013-02-27T01:54Z,"@goodmorn, this might be due to an error in the editing of the .reg files, the only thing I can suggest for now is to watch the video tutorial once it has finished downloading and see if you made any mistakes, if your confident you didn't, feel free to ask any further questions here."
+,goodmorn,2013-02-27T09:01Z,"After watching the video tutorial, I discovered my problem was that I didn't use ""\"" but used """" in my path edits. For anyone with the same problem, make sure you use double slashes!"
+,nox150690,2013-02-27T14:16Z,"@goodmorn, ah, a common and innocent mistake :) Glad the issue is fixed, have fun ! :D"
+,nox150690,2013-03-01T02:40Z,"Quick update, when Sim 3 University Life drops this week, I will be uploading a new update to include the expansion, as well as any updated files in another installer like these ones, the same method of installation will apply, be sure to check my account for the upload! :D"
+,Qlix0804,2013-03-03T18:07Z,"This installed without a hitch once i figured out exactly how to get the packs installed to the right place. 
+
+One issue I am having and i dont necessarily believe its this install is that when i download new custom content, put it into the downloads folder, it shows up in the launcher, I install it in the launcher... but it doesnt show up in game. Anyone have any ideas?"
+,nox150690,2013-03-06T16:30Z,"University Life Update is live ! :D
+
+http://thepiratebay.sx/torrent/8225353"
+,monckey4,2013-03-08T00:32Z,So it immediately didn't work right after running the installer. I'm assuming it's just that I need the 32 bit (I have 64 bit but it gets weird with games). But I'm just wondering if there's a reason it wouldn't work for any other reason
+,monckey4,2013-03-12T00:38Z,"Ok, so I reinstalled everything and this time I restarted my pc after installing the original Black Box and before installing these updates and what d'ya know, works fine. So if anyone ever has troubles with it just not working from installation, make them restart."
+,bunniebabe79,2013-03-13T07:03Z,"HELP!
+I just finish filling in the crack thing. When I went to launch my sims, it says i need to re-download the base game. "
+,bunniebabe79,2013-03-13T07:13Z,I meant after I finish editing the .reg files. I was following the video. Then went to launch my sims and it said that i need to re install the base game. What do I do
+,trojanfootball32,2013-03-13T13:58Z,"after i edie the REG. and try to launch the game i get ""There was an error after startup.Please see the log for more detail"" i followed the intructions. im on a windows 7 64 bit OS"
+,nox150690,2013-03-13T15:20Z,"bunniebabe79, this is usually caused by a mistake in the editing of the .reg files. Watch the video tutorial carefully, and report back.
+
+trojanfootball32, can you please post the relevant part of the .log file?"
+,trojanfootball32,2013-03-13T16:57Z,where would that be. i dont even know where the .log is.
+,trojanfootball32,2013-03-13T16:59Z,where would that be?
+,nox150690,2013-03-13T18:12Z,"trojanfootball32, should be in ""My Documents""."
+,bunniebabe79,2013-03-13T20:16Z,"So i uninstalled, now i'm about to re install everything again. I am suppose to extract the files to power iso right? First? Last time..all my files ended up in program files or something like that"
+,nox150690,2013-03-13T21:08Z,"bunniebabe79, no, If you watched the tutorial, you will see that I make a Sims 3 folder, this is where I want to have the game installed, then I install the blackbox, plus all the updates into that folder. If you do it any other way, the installation process will break the game to some extent."
+,bunniebabe79,2013-03-13T22:39Z,"ooh i did not see that in the tutorial. I am watching the update tutorial...
+Thank you for helping me and answering my silly questions. "
+,bunniebabe79,2013-03-14T20:10Z,I am getting a error message saying that there is an error in log in. This happened after i put downloaded seasons and the stuff packs but before i did cracks
+,sim34p,2013-03-21T18:10Z,"Hello,
+Is this multilanguage (french) ?
+The same for the 2nd expansion ?
+
+Thank you"
+,rapjoker91,2013-03-26T21:36Z,i did everything it says in description but when i entry in game i choose a neighbourhood and then im stuck at loading bar...can some1 pls tell me what to do?thx
+,Methy,2013-04-10T15:12Z,"Hey !
+
+I installed the files in the morning and the .reg as well but, I have a little, small, tiny problem ( and yet so frustrating ^^ ) : I checked ( does that word exist ? ) everything :  Doubles slashes ok ; Right folders ok, but it still won't work ^^ I did everything with the tuto ( which was really handy btway ! )... But my game still says : "" There was an error during startup. Please see the log for more details. My computer's an 64 bits btway ^^
+Hope someone can answer soon ! 
+Thanks, 
+the french little Methy :)"
+,scy87,2013-04-14T03:01Z,"i cant get the update to work at all i follow the video tutorial to a TEE and in my launcher there are NO icons BEYOND katy Parrys expansion. No icons., NONE, NOTHING!"

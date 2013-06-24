@@ -1,0 +1,72 @@
+Screens:
+ 
+http://imageshack.us/a/img844/4125/greysanatomys09e15hdtvx.jpg 
+http://imageshack.us/a/img826/4125/greysanatomys09e15hdtvx.jpg 
+http://imageshack.us/a/img842/4125/greysanatomys09e15hdtvx.jpg 
+http://imageshack.us/a/img687/4125/greysanatomys09e15hdtvx.jpg
+
+
+
+Synopsis:
+Grey's Anatomy is a medical drama set at the fictional Seattle Grace Mercy West Hospital in Seattle. The series covers the stories of the interns and residents at the hospital as they try to balance their personal lives with the demands of their medical training. The main character is Meredith Grey, who is married to a neurosurgeon at the hospital .The show follows her life as a third year resident at the hospital in the surgical department run by Dr Richard Webber. It covers not only her relationship with her husband, but also with her best friend Cristina Yang and her interactions with the other doctors and staff. 
+
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 165 MiB 
+Duration : 41mn 18s 
+Overall bit rate : 557 Kbps 
+Encoded date : UTC 2013-02-16 03:58:25 
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00 
+Writing library : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L3.0 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 4 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 41mn 18s 
+Nominal bit rate : 500 Kbps 
+Width : 720 pixels 
+Height : 404 pixels 
+Display aspect ratio : 16:9 
+Frame rate mode : Constant 
+Frame rate : 23.962 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.072 
+Writing library : x264 core 118 
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format profile : LC 
+Codec ID : A_AAC 
+Duration : 41mn 18s 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 48.0 KHz 
+Compression mode : Lossy 
+Delay relative to video : -83ms 
+Title : Muxed Audio 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Text 
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Title : Subtitle 1 
+Language : English 
+Default : Yes 
+Forced : No 

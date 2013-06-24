@@ -1,0 +1,22 @@
+HelpDeskSoftware.ru presents The Bat! Portable Professional 5.3.8:
+
+HAPPY VALENTINES DAY!
+
+The list of changes in The Bat! Portable Professional 5.3.8:
+New features
+
+    Mark message as Replied/Forwarded filter action
+    Warning when the IMAP Folder Manager should be used to delete IMAP folders
+
+Fixes
+
+    Folder tree could be not refreshed properly after deletion of an IMAP folder
+    "Out of system resources" error when multiple Folder Maintenance tasks were simultaneously started by the Scheduler
+    IMAP. Deadlock when loading some messages
+    IMAP. Memory leaks have been fixed
+    IMAP. Download preferences were not used for the folder synchronization
+    IMAP. Deadlock while carrying out the Folder Maintenance
+    (#0000127) If smilies are enabled, some HTML messages could not be rendered properly
+    It wasn't possible to stop the search process
+
+If you would like to use new version with your existing program, then simply replace all files from the TheBat folder in your install TheBat directory and use the new version of the program The Bat! Professional	

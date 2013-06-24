@@ -1,0 +1,21 @@
+CrackStation's 15GB 1.5 billion entry password cracking dictionary.
+
+
+The wordlist is being sold by CrackStation using a "pay what you want" model. If you find this dictionary helpful, please consider making a small contribution at:
+ 
+http://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm
+
+
+From the web page:
+
+
+The list contains every wordlist, dictionary, and password database leak that I could find on the internet (and I spent a LOT of time looking). It also contains every word in the Wikipedia databases (pages-articles, retrieved 2010, all languages) as well as lots of books from Project Gutenberg. It also includes the passwords from some low-profile database breaches that were being sold in the underground years ago.
+
+The format of the list is a standard text file sorted in non-case-sensitive alphabetical order. Lines are separated with a newline "n" character.
+
+You can test the list without downloading it by giving SHA256 hashes to the free hash cracker. Here's a tool for computing hashes easily. Here are the results of cracking LinkedIn's and eHarmony's password hash leaks with the list.
+
+The list is responsible for cracking about 30% of all hashes given to CrackStation's free hash cracker, but that figure should be taken with a grain of salt because some people try hashes of really weak passwords just to test the service, and others try to crack their hashes with other online hash crackers before finding CrackStation. Using the list, we were able to crack 49.98% of one customer's set of 373,000 human password hashes to motivate their move to a better salting scheme.
+
+
+License: CC-BY-SA

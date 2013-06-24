@@ -1,0 +1,24 @@
+If you wish to install Zorin OS to your computer please follow this guide:
+
+
+1. First go to the Download page DOWN and download Zorin OS.
+
+2. When the download is finished burn the image file to a blank DVD (any type). You can download ImgBurn if you don't have a CD/DVD burning program already installed.If you can't use DVDs, you can burn the .iso to a USB stick by using UNetBootin.
+
+3. When the burning process is completed insert the DVD into the computer and restart with it still in. The computer should boot from the DVD, if not you should change the settings in the BIOS or press F12 (or whatever key it is to select the boot device) while booting up again.
+
+4. Press the Enter key to start the LiveDVD, this is a thing that lets you run the operating system off the DVD without installing it onto your computer.
+
+NOTE: The Live DVD runs much slower than after the full installation.
+
+5. Click the Install icon on the desktop if you choose to install it onto your computer. This opens a window, now you can select your desired settings.
+
+6. Later you will be prompted to make a new partition, a partition is a thing you make if you want to install an alternate operating system. This slices your Hard Drive to allow the installation of another operating system. The minimum size for Zorin OS Core is 5 Gigabytes (Just remember to leave enough space for your first operating system).
+
+7. During the installation you will be asked to select your language (over 55 are available), your location, time settings, keyboard layout, partitioning settings and import your files, settings and user accounts from your Windows installation (if you have one).
+
+8. The installation should take 10 minutes up to an hour.
+
+9. After the installation you will be prompted to restart the computer, after the restart the computer should boot up into a menu where you choose which operating system you want to start. To select one use the arrow keys to highlight an option and press the Enter key to start the highlighted one.
+
+Now you should have Zorin OS installed to your computer.

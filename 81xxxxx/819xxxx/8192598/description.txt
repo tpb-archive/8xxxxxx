@@ -1,0 +1,85 @@
+Gullu Dada 3 2013 Hindi Movies Super Cam Rip Sample Included ~ rDX
+
+Screen Shots :
+ 
+http://myimghosting.serveftp.com/13/GulluDada3.html
+ 
+http://myimghost.cwahi.net/GulluDada3.html
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 691 MiB
+Duration                                 : 1h 44mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 923 Kbps
+Encoded date                             : UTC 2013-02-24 05:10:48
+Tagged date                              : UTC 2013-02-24 05:17:28
+Writing application                      : HandBrake 0.9.8 2012071700
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L1.3
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 44mn
+Bit rate mode                            : Variable
+Bit rate                                 : 274 Kbps
+Width                                    : 352 pixels
+Height                                   : 152 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Minimum frame rate                       : 29.412 fps
+Maximum frame rate                       : 30.303 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.171
+Stream size                              : 205 MiB (30%)
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+
+analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 
+
+/ chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / 
+
+chroma_qp_offset=0 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / 
+
+bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / 
+
+direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=300 / keyint_min=30 / scenecut=40 / 
+
+intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / 
+
+qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2013-02-24 05:10:48
+Tagged date                              : UTC 2013-02-24 05:17:28
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 44mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 313 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 67ms
+Stream size                              : 120 MiB (17%)
+Encoded date                             : UTC 2013-02-24 05:10:48
+Tagged date                              : UTC 2013-02-24 05:17:28

@@ -1,0 +1,130 @@
+SidFart V Gods & Kings Trainer 1.0.1.705 Beta7
+(Build date: 02.10.2013 at 21:25:46) 
+
+-------------------------------------------------------------------
+Trainer features:
+
+* Gold cheat
+* Golden Age Turns cheat
+* Culture cheat
+* Resources cheat
+* Luxury cheat
+* Free spent resource slots
+* Great Admiral cheat
+* Great General cheat
+* City Modifier cheat
+* City Food cheat
+* City-Culture cheat
+* Movement cheat
+* Experience cheat
+* Cargo cheat (Overload carriers,cruiser and nuclear submarines)
+
+* 100% hotkey-driven
+* User-input values
+* Hold ALT and type input value
+  using the leftmost numeric keypad
+  then apply it to any cheat listed
+  below. Don't forget to set a value
+  before using a cheat, or else it
+  will apply the last entered input
+  value, which is zero when you start
+  the trainer.
+
+-------------------------------------------------------------------
+How to use:
+
+1. Launch Civilization
+2. Start a new game
+3. Launch Trainer
+   Trainer shuts down immediately if it needs admin rights or if it
+   detects debugging tools running in the background
+4. Activate pointers (See instructions further down for that)
+5. Begin using cheats
+
+-------------------------------------------------------------------
+Hotkeys:
+
+ALT + 0-9 (User input value, use leftmost numeric keypad, then use any cheats
+below to apply it. The last value entered will be remembered, so you can use it
+on any cheat after one another, beware the default value is zero when you launch
+the trainer. If you don't enter a value before using any of the cheats below, it
+will apply zero to the cheat, easy to forget)
+
+ALT F1 = Movement
+ALT F2 = Experience 
+
+ALT F5 = City Food    (Buy/Sell University or Research Lab to activate)
+ALT F6 = Modifier     (Science,Gold,Production, buy/sell University or Research Lab to activate)
+ALT F7 = City-Culture (Sell Amphitheater to activate)
+
+ALT INSERT   = GOLD
+ALT HOME     = GOLDEN AGE TURN
+ALT PAGEUP   = CULTURE
+ALT DELETE   = RESOURCES & LUXURY
+ALT END      = GREAT ADMIRAL PROGRESS
+ALT PAGEDOWN = GREAT GENERAL PROGRESS
+
+ALT LEFT = Clear spent slots
+
+ALT A = Cargo Cheat (Activate cheat, click ship once then transfer the cargo afterwards,
+a series of midi notes will be played to signal what you are doing, you can only transfer
+one item per time)
+
+-------------------------------------------------------------------
+How to activate the trainer once in-game: (Must be done every time you restart civ)
+
+X means hover your mouse cursor above an item
+Y means hover your mouse away from an item
+
+Activate Pointers:
+
+1. X over gold item top left screen
+2. X over Golden Age value
+5. X over Culture value
+6. X over Resources value
+7. Y away from Resources value
+8. X over Resources value again
+9. Click 'additional information' button and 'Military overview'
+10. Click close button
+
+Done. All pointers are now fetched and you can start using cheats.
+
+-------------------------------------------------------------------
+Quick & important facts about trainer:
+
+* Run Civilization and start a new game before launching trainer
+* Activate pointers before you begin using it
+* When all pointers are fetched, a success note is played.
+* When trainer is launched and waiting for you to go into
+  civilization, if you don't go into civ, it will shut down
+  after 10 seconds automatically or press ESC to quit instantly.
+* User input cannot exceed 20 million, error note plays if above
+* If using city-culture cheat, remember to sell Amphitheater
+  or else trainer will hang until you do.
+* When using city modifier, remember to buy a science building
+  or else trainer will hang until you do.
+* When using the movement cheat, it uses 99 movement points
+  instead of user input, you cannot change this value, it's
+  hard-coded.
+* Cargo cheat will abort automatically after 10 seconds and an
+  error beep will be heard if you fail to move cargo to the ship
+* Trainer will shut down if it detects debugging activities, this
+  is not to protect it from you or your friend, but from firaxis.
+-------------------------------------------------------------------
+
+Example of using the experience cheat?
+
+1. Press and hold the ALT key.
+2. Type a numeric value using the leftmost side keypad.
+3. Press ALT + F2 to activate experience cheat with this value.
+or press F2 if ALT key is already down at the moment.
+4. Click a unit to apply it.
+
+Done. The procedure is the same with all other cheats, except for
+the movement cheat, it uses a hard coded value of 99, this is for
+the sake of keeping the game stable and except for the cargo cheat
+you can only move 1 unit of cargo per time.
+
+-------------------------------------------------------------------
+
+Coded by DelphiUniverse/CivFart using fasm (flat assembler)

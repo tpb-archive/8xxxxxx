@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,Leopardi,2013-02-23T18:20Z,Does it create bootable USB (I dont use disks anymore) like the Win 7 USB-DVD tool?
+[V],2010kaiser,2013-03-05T20:46Z,"@Leopardi
+
+No. Use WinUSB Maker for that:
+
+http://www.joshcellsoftwares.com/2012/06/WinUSBMaker.html"
+,evildraconis,2013-03-07T22:22Z,"For some reason, this isn't doing anything for me. Followed the instructions, let it run its course, and it said it was finished creating the .iso. Went to the folder I had selected for it to go to and it's empty. Ran it again, same results. I'm not getting any errors or anything, either. "

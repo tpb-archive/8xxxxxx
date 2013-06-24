@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,c0ldpr0xy,2013-02-21T10:39Z,"Erm, couldn't you include the updates so we don't have to download them separately?
+
+I have yet to install update 2 and I'm using the Reloaded version."
+,HaloGuy,2013-02-21T10:48Z,What's the difference in this one from the prev one??
+[V],Gh0stNet,2013-02-21T10:52Z,"download them from here http://thepiratebay.sx/torrent/8146245/DmC_Devil_may_Cry.Update.2-P2P 
+and no i will not include them then it will make it very huge for me to upload"
+[V],Gh0stNet,2013-02-21T10:52Z," @HaloGuy  
+only fixed the steam_rld.ini file "
+,HaloGuy,2013-02-21T10:53Z,What's difference from the prev one?
+,HaloGuy,2013-02-21T10:54Z,sorry for my double cmmnt. connection problem :/
+,sabrewoolfy,2013-02-21T13:24Z,"I downloaded update 2 and this. 
+Still the game crash in bloody palace.
+How do I fix this ? "
+,sabrewoolfy,2013-02-21T13:34Z,"I can't see my comment. weird. I downloaded update 2 and still having crash on bloody palace 
+around level 4~5."
+,mirk892000,2013-02-21T14:53Z,Where are the weapons in the weapons bundle supposed to be?
+,s1raz1,2013-02-21T16:47Z,"THX for upload this works perfectly :D
+ i finally can play arena!
+It comes with the samurai bundle :O!
+
+@guy above me
+ this upload comes with the weapons packs, and the 2 perks (xtra obrs and item finder) i only tested the samurai so far. "
+,mirk892000,2013-02-21T16:48Z,From what i've read the samurai pack etc. should be in this dlc.The bloody palace is working fine but i can't find the weapons.
+,s1raz1,2013-02-21T17:01Z,"I did a quick zerg on the arena, i got to level 10 no crashes. Upload works fine."
+,n1x4,2013-02-21T18:03Z,"Works perfect, thanks...
+
+All weapons packs, bloody palace and items work fine."
+,Reunion13,2013-02-21T18:13Z,So no one knows what's causing or how to prevent the games from crashing?
+,Reunion13,2013-02-21T18:33Z,So no one knows how to prevent the game from crashing?
+,Bakemonosama,2013-02-21T23:21Z,"Hi I wasn't fast enough to see your reply in the previous upload (if you made one)
+
+Why doesn't Bloody Palace show up in my game? It did before but not after I fixed the Steam_rld.ini file. Although the weapon packs are available."
+,Szani95,2013-02-22T00:29Z,"well i played it to the 80th level, where i have to fight to bob barbas and after i beated him first time, the game stopped for me. it spawned a lot of demons but it has no end. by the way the dlc skins are working fine :) thank you so much :)"
+,ezioryan,2013-02-22T04:56Z,I can only see bundle but not bloody palace why??
+,SwordSloth,2013-02-22T05:32Z,"Hey Bakemonosama
+
+Go to the steam_rld.ini file, under the AppID=220440
+You'll see a few DLCxxxx things
+
+Put DLC004=229080 under them"
+,Bakemonosama,2013-02-22T15:01Z,"@SwordSloth
+
+Did not work"
+,fauzan18,2013-02-24T15:08Z,Bloody Palace not showing/
+,kalimera2,2013-02-24T23:27Z,when i open the game to play a level it crashes 
+,happyz97,2013-03-01T08:11Z,work fine.. cant wait for vergil downfall DLC.. xD
+,omega_jss,2013-03-05T21:47Z,worked great on DmC REVENANTS 1.1 REPACK updated with UPDATE 2 P2P from Gh0stNet! thanks! cant wait for VERGIL'S DOWNFALL...
+,jcarlo06,2013-03-27T04:58Z,no weapon bundle added in the game. psl help. :)
+,jcarlo06,2013-03-27T05:02Z,no weapon bundle added in the game. pls help :)
+,oscar45,2013-04-20T01:16Z,"Game crashed at level 21 of the Bloody Palace. Have Update 2.
+Any suggestions?"
+,oscar45,2013-04-20T14:57Z,Fixed my issue. Had to add the two lines to the update program.

@@ -1,0 +1,41 @@
+Real Film Grain - Add real grain to your footage, and render at up to 4k. Unlike other plugins that simply overlay film grain, FilmConvert realistically models the mount of grain required for each color and exposure level in your image.
+
+Accurate Color Modelling - FilmConvertΓäó models the characteristics of digital sensors, and provides a complex algorithm to transform digital footage to match your favorite film stocks.
+
+Multiple Platform Support - FilmConvert is available as a plugin for After Effects and Premiere
+
+Camera Controls
+* Source Camera Selects the camera (or camera type) used to shoot your footage. This setting is required in order to apply the correct color correction.
+* Exposure Performs an adjustment prior to the film emulation being applied.
+* Temp Adjusts the color temperature. This assumes that the clip temp is 5600 (daylight). Moving the slider to the left makes the scene cooler. Moving to the right makes it warmer.
+
+Note for RED footage. You should apply our metadata preset in the Adobe provided "Source Settings" interface. This preset merely resets all metadata settings to their default, thereby giving FilmConvert a known starting point for color adjustments.
+
+Film Controls
+* Convert To drop down Selects the particular film stock to be emulated.
+* Size drop down Selects the negative size to emulate. Smaller values such as 8mm are fuzzier with larger grain. Larger values have smaller grain.
+* Film Color slider Adjusts the balance between the original digital camera color palette, and the film color palette. Typically you would leave this at 100% film
+* Grain slider Adjusts the amount of grain applied to the image. The default is 100%, which is an accurate representation of the grain for the selected film stocks. Some stocks have more grain - such as D3200.
+
+Supported Cameras (FilmConvert works on any Digital Camera footage. )
+
+For more accurate results, we are releasing free data packs with profiles of various cameras. Currently released packs:
+
+- Arri Alexa
+- Canon 5D Mk II + Picture Styles
+- Canon C100, C300, C500, 1DC + Picture Styles
+- Panasonic GH2 + Picture Styles
+- RED one
+- RED one MX
+- RED EPIC / Scarlet
+*Until your camera is added, try using the default profile, which is accurate for most cameras.
+
+System Requirements
+FilmConvert for After Effects or Premiere works on CS5.5 and up.
+
+Sample video : 
+
+Language : English
+
+Homepage :  
+http://www.filmconvert.com/default.aspx

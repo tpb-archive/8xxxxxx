@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+[T],maizena,2013-02-09T16:29Z,"General
+UniqueID/String                          : 179959345237178318783695219257246302088 (0x8762E8BFC9DAF1F58414AE75A4C93F88)
+Nombre completo                          : C:1997 Rescate en Nueva York .mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 3,63GIB
+Duración                                 : 1h 39min.
+Tasa de bits total                       : 5 234Kbps
+Película                                 : 1997 Rescate en Nueva York 
+Fecha de codificación                    : UTC 2013-02-05 16:54:48
+Aplicación de codifición                 : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 39min.
+Tasa de bits                             : 3 850Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 816pixeles
+Relación de aspecto                      : 2,35:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.102
+Tamaño de pista                          : 2,67GIB (74%)
+Título                                   : 1997 Rescate en Nueva York 
+Librería de codificación                 : x264 core 128
+Opciones de codificación                 : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1,00:0,00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20,0 / qcomp=0,60 / qpmin=4 / qpmax=69 / qpstep=4 / ip_ratio=1,40 / aq=1:1,00
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 1h 39min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 454MB (12%)
+Título                                   : AC3 5.1 Castellano 
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Codi"

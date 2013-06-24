@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,van62,2013-03-02T00:38Z,"dear Kaiser, cannot open it, asking for password!!!!!!!!Thanks"
+[V],2010kaiser,2013-03-02T14:22Z,"@van62
+
+The installer itself doesn't contain any protection i.e. passwords etc. Is it possible that UAC is asking you for the ADMIN password?
+If so, go to:
+
+Start and type UAC
+
+Click on ""Change User Account Control settings""
+
+On the left of the screen that appears, drag the slider down to ""Never notify"" and click on ""OK"".
+
+Re-boot your PC and run the tool as Administrator again. If the tool still fails to launch (Requiring ADMIN/Elevated permissions). 
+Run CMD Prompt from your accessories directory as Administrator type the following EXACTLY. Re-boot, log into the newly created Administrator account and run the tool from there:
+
+net user administrator /active:yes
+
+Once command has been successful type:
+
+exit
+
+Re-boot and log into the new account.
+"
+,van62,2013-03-02T16:48Z,"Dear Kaiser, thanks for your answer. Finally I downloaded again it and now it worked  fine. Thanks for your help."

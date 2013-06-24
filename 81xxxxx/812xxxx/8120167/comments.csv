@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+,emokid117,2013-02-10T15:31Z,I will seed after I finish downloading this! just started btw.. ._. 
+,rtikyhsaaanq,2013-02-11T03:28Z,"Couldn't unzip, I had to use ""The Unarchiver"" to unzip!
+And then, some localized files are missing. I will try to build an updater for people that run the non-English version"
+,rtikyhsaaanq,2013-02-11T03:57Z,"Ok, now missing localised files are available:
+http://thepiratebay.sx/torrent/8129089"
+,emokid117,2013-02-11T16:16Z,use archive utility to extract the file. other apps won't work!
+,sidsm,2013-02-11T18:08Z,Archive Utility (10.8) can't unzip this file. The Unarchiver and Betterzip neither. Useless torrent for me. :/
+,sidsm,2013-02-11T20:44Z,"Second try. After 40 minutes The Unarchiver finally unzip the game. :)
+Just as suggestion, would not it be better sharing the games as a dmg file instead a zip (or rar) folder?
+
+Thanks for all, Anon."
+,Luxzx,2013-02-12T14:24Z,Can't unzip. operation not permitted.
+,p1630n,2013-02-14T13:21Z,is it working? anyone?
+,sidsm,2013-02-14T17:52Z,"@p1630n, yeah, it works like a charm. Just be really, really patient when unzip this file."
+,emokid117,2013-02-15T03:56Z,has anyone figured out how to change the name from player to something else.. ._. sigh xD
+,SuperWaffleSlayer,2013-02-15T11:39Z,I LOVE YOUR TORRENTS! I WILL SEED IF YOU KEEP'EM COMING :D!
+,SuperWaffleSlayer,2013-02-15T21:46Z,Any good apps to use for ps3 controller I wanna play Borderlands 2 with it.
+,Chidori52,2013-02-17T11:22Z,"Anyone know how to unzip for Windows? Unarchiver only works for Mac right? Ive tried using WinRar and Peazip, but keep getting the same error message."
+,Sole164,2013-02-18T03:41Z,"SEED PLEASE!!
+WIll seed after download"
+,TalibanNinjaX,2013-02-18T08:32Z,"@SuperWaffleSlayer
+You dont need any special software to connect a PS3 controller to mac, just connect it via USB and press the PS button. Then enable bluetooth on the mac and disconnect the USB. It will connect via bluetooth from now on. "
+,sole174,2013-02-18T08:39Z,Need more seeds!!!
+,SuperWaffleSlayer,2013-02-18T12:07Z,"@TalibanNinjaX
+I've tried that and my bluetooth keeps removing my ps3 from devices. If I tried to get into the game with the controller the game will never accept the controller "
+,petilj,2013-02-18T19:10Z,"Helo thePirateBay family. Once I extracted the zip, I got Borderlands 2.app (12.93GB in size). How do I run this app. Double click does noting. Please help a dinosaur. Thanks in advance."
+,petilj,2013-02-18T19:18Z,Hi thePirateBay family. Once I extracted I got Borderlands 2.app (12.93GB in size). How do I run this app? Do I need Wine? Please help a dinosaur. Thanks in advance.
+,Doremonhg,2013-03-04T07:03Z,CAn you give us the update alone ffs??? skidrow's update turn out to be a pile of shit lol
+,rinx1,2013-03-05T21:13Z,WTF I cant unzip it -.- 
+,Euka1217,2013-03-08T19:58Z,"Can please someone explain to me how to work hamaci on mac? I've looked everywhere I could but didn't manage to make it work once.
+Even when I do join a server, the game can't find anything.
+Could someone eyplain me as well how to host my own server? Or at least a link that explains it?
+Thank you.
+And btw thanks for the torrent! "
+,roguish,2013-03-12T13:56Z,"Hmm, not working. Downloaded, unzipped, but it doesn't launch. No error message, no warning, no inactive process. Just doesn't launch at all.
+
+@Luxzx Use The Unarchiver to unzip it. Worked fine for me (OSX 10.8.2)
+
+@Chidori52 This is not for Windows. It's a Mac version only. "
+,roguish,2013-03-12T14:03Z,"GAME FIX : 
+If you're having the same issue as stated above (Game not starting), here's how to actually fix it : 
+- After you have downloaded the game, copy the Borderlands 2.app file into Applications Directory.
+ - Open up a terminal (Control + Space, type ""Terminal"" and hit enter).
+ - Copy paste the following command : 
+chmod u+x /Applications/Borderlands 2.app/Contents/MacOS/Borderlands2
+and then hit enter.
+
+Basically, it was just a matter or permission. The command allows the game to execute on your computer. Nothing fancy :)
+
+Enjoy!"
+,david_nights,2013-03-13T20:22Z,how do i change the language???
+,C41337,2013-03-16T21:42Z,I'm Having trouble unzipping (I used 4 different programs to try to get it to unzip) and it just wouldn't. Please halp me
+,karlfox009,2013-03-18T14:27Z,"NEW FIX: for people who cant run/launch the game 
+first a bit of the story... so downloaded this twice now the first time i downloaded it i couldnt open the game... but roguish posted a fix and hinted that it was just a permission issue... unfortunately his fix did not work for me... so i researched a little bit about terminal and permissions and then i got it to work using this method 
+
+step 1) open up terminal
+        2) type in
+
+chmod ugo+rwx  hit enter... 
+
+this fix basicly enables permissions for USERS/Groups/Others into a READ/Write/EXecute
+
+that did the trick for me.. now i am no tech savy person.. so i dont really know the draw backs in to this fix, but fortunately im the only one who use my computer so i got no problems.. have fun and enjoy... P.S the DLCs work..."
+,karlfox009,2013-03-18T14:29Z,"NEW FIX: for people who cant run/launch the game 
+first a bit of the story... so downloaded this twice now the first time i downloaded it i couldnt open the game... but roguish posted a fix and hinted that it was just a permission issue... unfortunately his fix did not work for me... so i researched a little bit about terminal and permissions and then i got it to work using this method 
+
+step 1) open up terminal
+2) type in
+
+chmod ugo+rwx (DRAG the app into the terminal) hit enter... 
+
+this fix basicly enables permissions for USERS/Groups/Others into a READ/Write/EXecute
+
+that did the trick for me.. now i am no tech savy person.. so i dont really know the draw backs in to this fix, but fortunately im the only one who use my computer so i got no problems.. have fun and enjoy... P.S the DLCs work... Sorry for double Post im new here and didnt know some keys dont show up on the comments"
+,eridou,2013-03-20T06:55Z,"Where are the save files located in this version? I can't find any in the ""WillowGame"" folder"
+,eridou,2013-03-20T07:00Z,"where are the save files (.sav) saved to in this version? I can't find any in the ""WillowGame"" folder"
+,karlfox009,2013-03-20T14:12Z,OK THE GAME IS MISSING THE OPTION TO TURN LIGHTS AND SHADOWS ON/OFF PLUS now after playing twice... IT JUST WONT OPEN AGAIN... TRIED THE FIX AGAIN BUT WITH NO SUCCESS... DELETING THIS SHIT AND WAITING FOR A BETTER PACKED UPLOAD... DONT WASTE YOUR TIME ON THIS ONE GUYS....
+,Yuwolfo,2013-03-30T06:19Z,"Hi im from spain iuf somebody wanna join
+Borderlands2 SPA
+1234
+
+bye¡"
+,Luxzx,2013-04-05T03:50Z,Anyone got the 1.4.0 update for mac?
+,Maced3,2013-04-09T15:24Z,Anybody have a Hamachi server I could connect too?
+,Carballfan,2013-04-19T20:48Z,"It works on my mac mini except for LAN. Under Network Options, when I choose LAN it says: ""A problem occurred while changing network options. Your game is now in offline mode. ..."" 
+
+It doesn't matter if I'm in DHCP or have a manual IP. Can someone please advise me on creating a LAN game?
+
+P.S. Too bad there's no dynamic lighting option in this version."
+,Carballfan,2013-04-22T22:17Z,"Re: LAN not working, I think my mistake was that I had Steam installed, because once I removed everything Steam related, the LAN option became available.  Thanks again for a great torrent!"

@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,lawlwut1,2013-03-07T02:05Z,"You didn't encode the audio?
+
+Format                         : MPEG-4
+Codec ID                       : M4V 
+File size                      : 2.13 GiB
+Duration                       : 3h 2mn
+Overall bit rate               : 1 666 Kbps
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3h 2mn
+Bit rate                       : 1 593 Kbps
+Width                          : 854 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.130
+Stream size                    : 2.03 GiB (96%)"

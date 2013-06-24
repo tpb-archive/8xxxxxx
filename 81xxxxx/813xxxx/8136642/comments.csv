@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+,zeKxa,2013-02-13T17:10Z,"works great, thanks"
+,zeKxa,2013-02-13T17:17Z,The only trouble is that i cant validate the scores and see it online...
+,theblackthumb,2013-02-13T21:57Z,because it is not legit DONT GO ONLINE WITH THIS
+,helpme77,2013-03-08T21:03Z,"this is crazy.. i'm either losing my touch or something... 
+
+anyone have a working key for advanced? that doesn't need a crack. just a woring sn. thanks,"
+,theblackthumb,2013-03-08T23:18Z,does the key not work anymore? The key provided is an advanced one
+,helpme77,2013-03-09T16:33Z,"sorry mate but i have no idea why you would say this. have you actually looked or tried the key yourself? even the title lists is as: 3DMark 1.0 Professional Edition (2013 Version)
+
+the pro is the $995 version and requires online activation. that's why the dll bullshit on how to use it. (which btw does not work anyway, unless we must use the specific exe in this rar. i used the official file since i already had that.)
+
+after more searching the key that is in this rar, 3DM-PICF-2RQCM-6TKWV-Z3HA4-HE7Z3, is some well known key as it shows up on several sites. it seems to be either some expired promo key, or something like that. either way it, it seems to be (have been) for the pro version.
+
+if we had a working one for just the advanced version, that will be the best. no need for dll swaps or shit. just activate and use. sure, we couldn't send results online, but who cares? not me.
+
+if you do find a working one for advanced pls post it here. 
+
+but the ""funny"" thing is, it's been out over a month now, and the usual sites, including this one, only have the same two ""packages"" which are only the pro version - which don't work anyway. up until now with all previous 3dmarks there were many more distributions and some had keygens or at least serials for the diff versions.
+"
+,helpme77,2013-03-09T16:38Z,"shit, i just noticed that you are the uploader. dang... well you named the package. so why would you be confused about the serial? it is def not an advanced one. in fact i found it on some semi legit sites and it seems to be a ""legit""  trial or such key, meaning that even futuremark doesn't care, because it was probably disabled internally before the main exe was released. i saw this happen before with nero keys and such.
+
+anyway, if you have a working advanced key i can use (offline) with the official 3dmark exe i'd be happy as shit.
+
+and again, not that you may know, but where are the usual guys with the keygens? they can't hack this 3dmark's algorithm? or..?
+
+very strange..."
+,theblackthumb,2013-03-09T17:05Z,"The point is it worked when I uploaded it. I could use all the features of the program when I tried it. If it stops working I will uninstal and try and activate it again. I wanted to know if it was working or not, if it isnt I'll delete the torrent"
+,sleepzou,2013-03-16T17:06Z,Downloading now. I will try it out then i will comment.
+,sleepzou,2013-03-16T17:27Z,the torrent works perfect and the key too. Just follow instruktions.
+,AnonymousBasterd,2013-03-24T15:50Z,It works .... just make sure you block it with a 3rd party firewall and NOT windows integrated firewall because its useless. You can also just unplug your internet if you prefer it that way.
+,cirios83,2013-04-06T11:51Z,"I need help! When i try to run any test i get this error and cant run it.
+
+
+Unexpected error
+System.MissingMethodException: Method not found: 'UInt64 EvaDotNet.DirectX.DXGI.Adapter1.get_DedicatedVideoMemory()'.
+   at UICore.Code.BenchmarkXmlBuilder.AddApplicationInfo(GraphicsDeviceCaps caps, String ui)
+   at UICore.Code.BenchmarkXmlBuilder.Build(GraphicsDeviceCaps caps, String clientType)
+   at Gui.MainWindow.ExecuteBenchmarkRun(BenchmarkXmlBuilder builder, Settings uiCustomSettings)
+   at Gui.TabBasic.RunButton_Click(Object sender, RoutedEventArgs e)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   at System.Windows.Controls.Button.OnClick()
+   at System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   at System.Windows.UIElement.OnMouseLeftButtonUpThunk(Object sender, MouseButtonEventArgs e)
+   at System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   at System.Windows.UIElement.OnMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   at System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   at System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   at System.Windows.Input.InputManager.ProcessStagingArea()
+   at System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   at System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   at System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   at System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at Sy"
+,SpaceCadet6969754,2013-04-27T06:03Z,Doesnt work running tests just minimizes to task bar then the screen goes black have to restart pc.

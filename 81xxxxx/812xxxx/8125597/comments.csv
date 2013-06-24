@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,Mr-Wicked,2013-02-10T14:08Z,"Thanks for the tutorial. But I can still not play the game. When I lunch up the luncher. It tells me there was a problem lunching up the game check the logs. ((Logs say nothing)) So then I used the direct exe. Gives me a (Unable to start game, Service initalization failed (0x0175dcbb). So know I have no ide at all."
+,nox150690,2013-02-10T14:15Z,Sounds like you have a problem with your cache try this: https://help.ea.com/article/sims-3-error-service-initialization-failed-0x065d0274
+,nox150690,2013-02-10T14:59Z,"If that does not work, then I can't think of any other reason for the error, assuming you followed the tutorial and instructions correctly."
+,juandiloco,2013-02-22T06:50Z,"hello,
+if i dowload and isntall this update correctly, will i be able to install the next update / UNiversity life ??? "
+,nox150690,2013-02-23T00:04Z,"@juandiloco, yes, assuming you do the installation correctly."
+,nox150690,2013-02-23T00:18Z,"@juandiloco, although it will have to be the version that either I upload, or and official version by BlackBox."
+,Betsalel,2013-03-13T05:01Z,"Would it affect the installation process in a negative manner if I just did the steps for University + Supernatural? Not too interested in Seasons, Diesel and 80,90's stuff."
+,nox150690,2013-03-13T15:24Z,"Betsalel, the installer will install them regardless, but you can always edit out the part of the .reg file for those expansions, it should work fine. As far as I am aware, there should be no negative consequences, but be warned :) "
+,Betsalel,2013-03-13T21:52Z,"Okay Thank you :) 
+
+also, I followed all of the steps in the video, and the icons for the expansions have appeared on the launcher but the games will not activate I've been going through the video trying to figure out if I missed a step but from what I see I followed all of the steps so I'm not sure why they wont activate x.x"
+,scy87,2013-04-14T00:05Z,"OK, i installed The Sims 3 Black Box Complete, launcher is showing everything is good. Now i installed the updates and checked the launcher and there are not visible at at, not showing up inactive or anything. I installed them to the correct folder, do i need to update it via origin?"

@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,Llwynog,2013-02-24T05:01Z,"Why do your torrents insist upon creating folders to contain single files? I chose this torrent because it contained just the episode and no extra space-wasting crap and therefore wouldn't clutter up my meticulously-created folder tree. I have precious little disk space left so I can't waste a single byte on files I don't need (which is why I only use TVTeam as a last resort; I still don't get the need for three extra files alongside a 20 minute cartoon).
+
+Yet this is at least the third of your torrents I've used that has created an extra folder even though all it contained is the episode. I now have a random empty folder named ""Ben.10.Omniverse.S01E22.Showdown.Pt.2.WEB-DL.XviD.MP3"" wasting space in my Ben 10 folder.
+
+I also don't understand the obsession with making filenames as difficult as possible for both the human eye and the computer to read (all those extra periods frequently leave Vuze confused about what show it is so it defaults to the wrong download location, and trying to Ctrl-arrow through the filename is an exercise in frustration since Windows Explorer and every save dialog I can ever remember using see the whole thing as one word).
+
+If the episode numbers were written with lowercase letters then at least it would be easy to pick the numbers out of the rest of the hard to parse mess, but very, very few people even do that (the precious few uploaders that simply put a lowercase x between the two numbers tend to be my favorites – especially if they don't replace every space with a period).
+
+What is the purpose behind that replacement anyway. As I've said, those periods make it harder for both the human eye and the computer to read the filename, so what is the tradeoff? I assume that people must at least think they are getting something out of it; otherwise they wouldn't go to the trouble.
+
+It's like idiots who stomp on the gas for a couple of seconds before hitting the brakes to make a turn. I'm sure they think it accomplishes something besides wasting gas (and thus driving up gas prices; thanks a lot, jerks), increasing the likelihood of a collision, and making them look like morons, but I can't even begin to fathom what it is.
+
+Decades ago I tended to replace spaces in filenames with underscores, but that was because I worked almost exclusively from the command line, and the underscores didn't make them harder for me to read (although it did still make the filenames harder to edit; the main reason I no longer do that), but spaces were a hassle because each had to be preceded by a backslash on the Linux command line (but I have since learned that quotation marks would have worked there like they do in Windows, something I'll have to remember for once I finally get around to installing Fedora on the desktop that finally replaced my RedHat box that died nearly a decade ago).
+
+That's also why I remain obsessive about my folder tree. I can find any file on any drive in seconds because of the way my folders are organized. That's also why software that refuses to let me decide where it gets installed doesn't get installed. (One free to play MMO company forces ALL of their games to the root. That is just NOT happening. Their response to my complaints is ""You can move it after you install it."" Yeah, right. Then all I have to do is hack all of the game's registry keys and fix all of its shortcuts, just to find out whether or not the game is even worth the effort. Again. Not happening.)
+
+But since nowadays even we CLI lovers still use GUIs for many tasks, replacing spaces in filenames doesn't seem to serve any useful purpose anymore. (In Windows all you have to do is wrap the path and filename in quotation marks and then Windows can handle spaces in batch files and command prompt with no trouble.)
+
+That's why I'm so baffled that the process is so ubiquitous, and why I'm so curious about why it is.
+
+What's wrong with ""Ben 10 Omniverse - 01x22 - Showdown (Part 2) [WEB-DL.XviD.MP3.avi]""? (Although I shrink it to ""Ben 10 Omni"" because our PS3 takes forever and a day to scroll through the filename otherwise.) It's tri"

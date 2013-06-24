@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-04T12:50Z,"I made a repack for this over at MDL that doesn't have the music during activation.
+If it bothers you, go ahead and check out the repack post:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page644?p=714307&viewfull=1#post714307"
+,karty,2013-02-04T13:29Z,Thank you murphy for your hard work.
+,tonarpos,2013-02-04T16:14Z,"I've been waiting for version 20, it's my favourite number !! thanks murphy78."
+[V],murphy78,2013-02-04T17:47Z,"zavada, that sounds like the process is still running. It really shouldn't give that error.
+Try rebooting or taskkilling kmsnano qemu and kmseldi
+
+petrus7, you can extract kmsnano.exe to a directory and run kmseldi.exe /qemu
+Just make a shortcut to kmseldi.exe and add the /qemu line.
+Then when it warms up the virtual machine after like a minute, press the big ""EL"" button. It's the same as kms extracted except kms extracted just has a program to hide that.
+
+Lets not give him too hard a time guys, not everyone can tell when an uploader is a total douchebag like T.F.K"
+,alvester,2013-02-04T17:51Z,Offtopic: Murphy can u tell me where can I get the download link of Office Home and Student 2013. I don't want the additional features of Office ProPlus. Thanks. PS: I know I can I can customize the ProPlus setup but some of the customization features are overwhelming for me.
+,alvester,2013-02-04T21:41Z,"@Arkenstone
+
+So its just like Windows 8 core edition that can't be activated. Thanks for the heads up. I'd be better off with Office ProPlus then."

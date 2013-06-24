@@ -1,0 +1,34 @@
+Zygor Guides update v4.0.5895, released February 15th, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Patch notes since last upload:
+
+
+Version: 4.0.5895
+Released on: February 15th, 2013
+[B] Achievements
+Added in and updated several achievements
+Updating Pet Gathering Achievements.
+
+[H] Reputations
+Updated the Ravenholdt Guide to only show a step needed for honored, if the player has not achieved this rep yet.
+updated the Steemwheedle cartel guide with less text and not showing the "you have achieved xxxx rep"
+
+[Travel]
+*The use of items should be improved and not cause strange suggestions anymore.
+*An item on cooldown can now be suggested and it will have a countdown to prompt this. (Waiting 30s for a hearth might be better than catching a ship across the world :)
+Version: 4.0.5885
+Released on: February 15th, 2013
+**NEW FEATURE**
+To address the issue of some users not seeing the Creature Detector button due to the use of custom UI frame modifications we have added a new component called the Zygor Slide Bar. Now when you click on a creature the button will show up on a special bar that will slide out and can be moved anywhere you want on the screen. You can choose to disable this feature in the options under Slide Bar.If you disable the slide bar then the Creature Detector button will go back to the default UI if it available. We intend to expand upon this feature in the future to give you more control over your guide experience.
+
+[B] Professions List
+Updated Tailoring for both Horde and Alliance.

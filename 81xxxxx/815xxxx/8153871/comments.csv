@@ -1,0 +1,90 @@
+﻿User Type,Username,Date,Text
+,vipes0713,2013-02-17T21:46Z,"Each time during install i get this error ""could not retrieve version number! installation will be aborted"" any way around this?"
+,Dewarton,2013-02-17T22:24Z,"I guess it works applied over skidrow 1.02, does it?"
+,DalmaPirat,2013-02-18T02:05Z,"SINGLE-PLAYER
+
+SEQUENCE
+- Fixed a potential crash in mission “Bridewell Prison” when trying to skip cinematic with Mason.
+
+BUG FIX
+- Fixed a bug preventing the creation of new Uplay accounts
+- Removed the ability to hide pivots during pass-throughs and cinematics
+
+DLC PREPARATION
+- Added support for “Tyranny of King Washington: The Infamy”
+- Fixed potential game data corruption when a DLC download ends while the player is in-game.
+
+MULTIPLAYER
+
+MODES
+- In Wolfpack, a target doesn’t remain stuck on the ground if the player hosting the game leaves while another player is joining at the same time.
+- In Wolfpack, some targets that were not visible to players under certain conditions can now be seen correctly.
+- In Wolfpack, the radar is not broken under certain conditions anymore.
+- In Artifact Assault, Team members can now correctly score when the initial artifact carrier gets killed under certain conditions.
+- In Deathmatch, players no longer have lookalikes NPCs unless they use abilities that create lookalikes.
+- In Deathmatch, the game no longer crashes in the New York brewery map for a player who used a Decoy while hiding in a group.
+- Some players are no longer stuck in rematch after completing a Simple Deathmatch session on the Saint Pierre map.
+
+LADDERS
+- Some ladder issues when players left a session during the first minute have been corrected.
+- Ladders now update properly upon a full group kick.
+
+GRAPHICAL GLITCHES
+- The Independent’s hair when she wears the Wild Cat costume now displays correctly.
+- The Strong Man’s white costume, alternative costume and warrior costume now display properly when hiding in a group.
+
+PLATFORM SPECIFIC
+- On Xbox 360, the Uplay icon and unlock conditions for unlockables redeemed via Uplay have been restored.
+- Loyalty unlocks are now available on PC.
+
+MISC.
+- Character customization is no longer reset under certain conditions.
+- The Wipe ability now correctly works from a distance.
+- The timer now properly starts and players can interact with each other prior to the host getting into the session.
+- Sound will properly keep playing when trying to watch a video under certain conditions.
+- An error message now displays when players attempt to watch DLC videos without having the DLC installed.
+- Chasebreakers in the Animus Core map now correctly reopen for team mates.
+Players are no longer stuck on leaving game session screen under certain circumstances.
+- When you create a group in a private game, that group now stays the same through different sessions."
+,Dewarton,2013-02-18T10:10Z,"Perfect but you lose all saves when applying on skidrow 1.02 !
+Any1 knwos where does the skidrow release stock the saves?"
+,SM-003,2013-02-18T11:24Z,"@Dewarton
+
+C:Program Files (x86)UbisoftUbisoft Game Launcher (For x64 windows)
+
+or
+
+C:Program FilesUbisoftUbisoft Game Launcher (For x86 windows)"
+,Dewarton,2013-02-19T10:19Z,"@SM-003
+Wrong, they are in C: ProgramDataorbit54
+
+Thx anyways :)"
+,Scorpioz6,2013-02-20T07:28Z,"Guys if someone facing a problem with save files here's the Savegametool by Brucie
+http://cs.rin.ru/forum/download/file.php?id=12318
+just decrypt the 1.save and encrypt it to the same file with renaming it Save001.sav then copy the info that give it to you like ( AC3[0]-tm_2013_02_16 11:33:22 ) to the saves.ini and don't forget to write Save001= in front of it 
+C:UsersScorpioAppDataLocalUbisoft Game Launchersavegame_storagec2NvcnBpMDY=54 >>> Skidrow Save files Location
+C:ProgramDataOrbit54 >>> Reloaded Location .
+Enjoy !!!"
+,Scorpioz6,2013-02-20T07:36Z,"@Dewarton
+I'm not a noob :P xD lol"
+,Dewarton,2013-02-20T14:23Z,"lol scorpio, who said u were one ?
+
+But my SkidRow saves are stored in C:/ProgramData/Orbit/54. Theres nothin but a ""spool"" folder in C:/User/AppData/Ubisoftgamelauncher
+
+and i can't find the Reloaded saves even in the Reloaded folder in C:/ProgramData."
+,Dewarton,2013-02-20T14:29Z,"Damn, ok... so the saves in orbit folder are the ones from Reloaded and then its the skidrow's ones that disapeared? lol i'm lost, i think im just gonna replay the game from the start."
+,Scorpioz6,2013-02-21T01:22Z,C:Users user AppData Local Ubisoft Game Launcher savegame_storage c2NvcnBpMDY=54 >>> Skidrow Save files Location decrypt 1.save ( the bigger file size ) and encrypt it in the C:ProgramData Orbit 54 >>> the reloaded location .
+,Scorpioz6,2013-02-21T01:28Z,"how it disappeared ?!! that's weird  
+no problem if reloaded orbit 54 folder is empty ."
+,devils.reject77,2013-02-21T22:48Z,"Error ""could not retrieve version number! installation will be aborted"" HELP? Anyone??"
+,Don.S,2013-02-22T06:00Z,v1.03 update will not install... it will give some error datapc.forge error something.. how to install it help and btw i have already updated to v1.02... but cannot update to v1.03.. help
+,Stemborer,2013-02-25T16:48Z,"hey guys can anyone help me when i try to install the patch it always say ""Could not retrieve installation folder! Installation will be aborted. and it didn't even let me choose my installation folder it just decides by itself "
+,Marcus101RR,2013-03-08T19:19Z,"WARNING: Can't get passed Sequence 7 ""Talk to James Bennett"". It will crash right after you watch the cutscene and then corrupt the save. This needs to be fixed."
+,ChocolateAddict,2013-03-17T05:49Z,"I seriously don't understand the reason for all this BS. Does it work or not? If it does, tell us exactly how to install it. ""Previous updates may need to be installed"" Are you f--king serious?! You don't even know how to install your patch right? Next time, test it before you upload it, dumbass."
+,ChocolateAddict,2013-03-19T00:21Z,"OK, so I got the game to work. First install skidrow's ac3 game. Don't apply any cracks from there. Then instal update 1.02 from skidrow, again don't apply any cracks just yet. Finally, install this update and copy the cracks that are in THIS update first to the install location. Then go back to 1.02 update from skidrow and copy the uplay crack files (a whole bunch of them) from that 1.02 update ONLY. DO NOT copy the game's crack files from update 1.02, ONLY the uplay crack files. then you block these .exe files in your firewall (Uplay.exe, UbisoftGameLauncher, AC3MP.exe, AC3SP.exe, AssassinsCreed3.exe) and you're done. game should launch."
+,ChocolateAddict,2013-03-19T00:25Z,"just to clarify, the uplay crack files in update 1.02 should be in a folder called 'orbit.' copy those files only, don't copy any other files from 1.02."
+,iadityam,2013-03-29T16:35Z,I'm having an error patching the sounds_ger.pck file in the pc folder in sounddata in multi. can anyone please upload just that particular file updated of v1.02
+,ferrazrafael,2013-04-22T17:38Z,"the crack from this update is a trojan horse. I send 'ubiorbitapi_r2_loader.dll' to Avira for a analysis for false positive and they comfirm it was a Trojan Horse, not only a crack. Its a TR/Black.Gen2.
+
+Install the update but dont use this crack. Update AC3 to v1.04. Skidrow update to 1.04 here on PB is working and doesnt have a Trojan Horse"
+,mtmo9889,2013-05-03T16:10Z,"it works fine, but my save game (theta crack) is gone i know where it is but where is reloaded saves location, there is no orbit/54 in ub launcher folder."

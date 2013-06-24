@@ -1,0 +1,52 @@
+Titanium Backup Pro 6.0.2.1 Patched
+
+Requirements: Android 1.5 and up
+
+Overview: Titanium Backup is the most powerful backup tool on Android, and then some.
+
+Also see the paid PRO key which adds EVEN MORE awesome features such as:
+* 0-click batch restores
+* Keep multiple backups per app
+* Backup/restore SMS,MMS,calls,bookmarks,Wi-Fi AP as XML
+* Multi-user app data
+* Apps freezer
+* Sync to/from Dropbox (manual/scheduled)
+* Sync to/from Box (manual/scheduled)
+* Sync to/from Google Drive (manual/scheduled)
+* Convert user apps <=> system apps
+* Integrate system app updates into ROM
+* Encryption
+* Market Doctor (relink apps to Market)
+* "Destroy all Market links" feature
+* Hypershell speed
+* Backup apps without closing them!
+* Create your own update.zip containing apps+data!
+* Restore individual apps+data from CWM backups!
+* Restore individual apps+data from TWRP backups!
+* Market "auto updating" manager
+* Dalvik cache cleaner
+* Integrate Dalvik cache system elements into ROM
+* Unlimited schedules
+* Load/Save a Filter and use it in Widgets/Schedules
+* Change the device's Android ID, restore it from a backup or after a factory reset
+* Protect backup against deletion
+* Send backup (to e-mail/cloud) and import it in 1 click
+* BackupΓåÆVerifyΓåÆUn-install an app in one shot
+* Freeze/defrost/launch apps in a single click
+* CSV export any app DB (e-mail or Google Docs)
+* Convert app data to/from fast WAL format
+* WAY MORE!
+
+What's in this version:
+ Added the ability to create custom labels directly from the "Assign labels" dialog.
+ Fixed failure with XML bookmark backup/restore with Chrome as stock browser (eg: Nexus 7).
+Several UI tweaks.
+Updated translations.
+
+Instructions :
+
+Remove com.keramidas.TitaniumBackup.odex in data/app if you used lucky patcher to patch Titanium Backup.
+
+Install and run! No Patched Google Play needed.
+
+

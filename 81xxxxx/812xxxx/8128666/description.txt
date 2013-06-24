@@ -1,0 +1,11 @@
+COI (Classic on Intel), Emulator, zero-install Sheepshaver, pre-configured/just run
+
+
+Mac OS9 environment for Intel macs (10.4 through 10.6.8 tested, should work with 10.7/8 but untested right now).
+
+for running your old games (like the "A-10" warthog flight sim posted recently.
+
+runs fine on my 8-core macpro (10.6.8 most of the time)
+(this is a repack of my "Chubby Bunny" 4.0.1 COI (Classic on Intel) that is now in a smaller 7z rather than the original zip. 
+
+The emulator is essentially "sheepshaver" but does not need configuration, and can be run from anywhere. Blank disks that automount in os9 are provided to put your old os9 apps. 

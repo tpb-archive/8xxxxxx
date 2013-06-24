@@ -1,0 +1,32 @@
+A maintenance update with fixes to m4a, mp3, AIFF and FLAC ID tagging.
+
+Changes: dBpoweramp R14.4
+
+Allows multi item tags to be stored in non standard fields, for example Arranger Item1; Item2 would be split when stored into FLAC
+m4a tagging could set an Explicit or other rating by mistake
+m4a tagging would display a title of 'ABC/DEF' as 2 split titles
+mp3 tagging, better compatibility for ANSI & date with year
+mp3 tagging, standard compliant behavior that most software does not support is now opt-in
+mp3 tagging lyrics mapping fixed
+mp3 tagging 'initial key' implemented
+new command line -sourceisfloat for coreconverter.exe (also allows multi-encoder to send floating point to an encoder)
+
+AIFF tagging fix (could indicate file was corrupted)
+FLAC tagging bug fix, was writing ';' for comment when had multi-lines
+FLAC tagging METADATA_BLOCK_PICTURE read as artwork (outside the flac tagging spec...)
+
+bug fix: [IF!EQUALS] was not working correctly
+bug fix: wave id3 tagging fix (where could write an extra byte to the end of the file, giving a warning on wave decode)
+bug fix: converting wave (LIST + id3 tagged file) &gt;&gt; wave would only write (id3 tag)
+bug fix: m4a tag writer was inefficient when trying to trim a huge tag (image as base64, for example) down to the allowed 255 chars
+bug fix: a badly corrupted FLAC file could cause the converter to terminate encode based on timeout, not reported errors
+bug fix: cd ripper - if reading ISRC and was not present for a track, then track+1 would not have ISRC read either
+bug fix: cd ripper, batch converter, would default their positions if moved to a certain display (on multi monitor systems)
+
+Compatibility:
+Windows 7, Vista and XP Service Pack 2 or newer (64 bit versions included). 
+
+Language : English
+
+Home Page :  
+http://www.dbpoweramp.com/dmc.htm

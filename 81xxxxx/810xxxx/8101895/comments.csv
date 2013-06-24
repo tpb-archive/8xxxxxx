@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,DumbLuck,2013-02-04T17:01Z,Thank you so very much for all of your hard work! This is a great show!
+,split41,2013-02-04T17:09Z,I share the same sentiment as dumbluck. Thanks for the hard work! I really appreciate it.
+,Eugenie64,2013-02-04T17:19Z,"I'm so happy, thank you. I like so much the way this TV show is distributed that if it was available in my country, I would not download it that way. If Netflix is earning money with this, it means that anyone who manages to have funds to produce his/her own a movie or a TV show, can skip the distribution part, set up a website and for example and sell their creation on a donation basis. I love, love this idea!"
+,nutbask,2013-02-04T17:25Z,"Slightly fucked up aspect ratio, big nope."
+[T],theburningbush,2013-02-04T20:39Z,"nutbask - You're right -- there is something AFU with the aspect ratio. Compared to the BTN release of eps 1-7, these TRiC releases suffer from ""tall, skinny head"" syndrome.
+
+I tried all the AR settings in VLC; all were worse than the default, IMO."
+,WGibson648,2013-02-04T20:40Z,"Thank you for all the hard work in uploading.  The first seven were in mkv format; the final six appear to be mp4.  Any rational for the shift?
+
+Also this episode appears to have a synchronization issue between the audio and video tracks (even after downloading s second time).  Any idea why?
+
+But, again, thank you … this was a lot of work, and you are to be commended."
+,flibber,2013-02-04T21:05Z,"unless i'm missing something, these files are f-ed up.   episode 8 squeaks and pops and hisses and eventually crashes both quicktime and vlc.  any suggestions ?"
+,flibber,2013-02-04T21:14Z,DOES NOT WORK
+[T],theburningbush,2013-02-04T22:13Z,"Here's how to get these TRiC eps 8-13 to display properly in VLC...
+
+Tools | Preferences | Video
+Enter 2:1 in the Force Aspect Ratio box, click Save, and exit VLC. (Of course, you'll need to change this back to watch ""normal"" videos.)
+
+Alternatively, you can start VLC with the command-line argument ""--aspect-ratio=2:1"" (sans quotes). I like to set up a shortcut with this arg in it, and then just drag the video file onto it. That way the default aspect ratio remains normal."
+,nutbask,2013-02-05T05:05Z,">  theburningbush at 2013-02-04 22:13 CET:
+Yes, you can do this. But unfortunately the video will be cropped by left and right sides. Not much of a big deal, but not so cool too.
+
+Maybe someone will like it more (command line arguments for VLC): --video-filter=canvas{aspect=2:1} --canvas-padd"
+[T],theburningbush,2013-02-05T06:52Z,"nutbask: That's weird; my testing indicates that change of AR in VLC via the --aspect-ratio setting is accomplished by stretching and squeezing, not cropping. Pause a video on a specific scene in which you can easily see the content along the edges, and thus could easily tell if something was cropped out. Then, cycle through the various AR settings by pressing the ""a"" key. When I do this, I see lots of stretching and squeezing, but no cropping.
+
+Contrast this with cycling through the crop settings with the ""c"" key (which corresponds to ""--crop""): lots of cropping, but no stretching or squeezing.
+
+As someone who's been hyper-aware of AR's, cropping, letterboxing, etc., and who's detested pan-and-scan for decades, I think I'd notice if my --aspect-ratio solution for viewing eps 8-13 was causing cropping."
+,nutbask,2013-02-05T07:15Z,"I did pause and compare, and got cropping all over. VLC 2.0.4.
+
+I don't know what's going on in VLC internally, but changing AR and cropping from menu, changing AR from settings, and changing resolution, AR, padding from canvas filter and/or command line -- all have different results."
+,nutbask,2013-02-05T07:19Z,"Sorry. Compared again more carefully. Your method works fine, no cropping."
+[T],theburningbush,2013-02-05T11:04Z,"I'm happy to report that the new HoC version (at least E08, which is all I've DL'd so far) has the proper aspect ratio.
+
+https://thepiratebay.sx/torrent/8104374/
+
+Interestingly, even though the source material has an actual AR of 2:1, the HoC version achieves an AR of 16:9 via letterboxing."
+,ttcttc,2013-02-05T19:45Z,"For the KMPlayer, start viewing the file, then rightclick on the video -> Screen Controls -> Keep Custom Aspect Ratio -> Width: 320  Height: 165
+
+That seems pretty right."

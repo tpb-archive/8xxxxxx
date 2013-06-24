@@ -1,0 +1,36 @@
+Zygor Guides v4.0.5936, released February 21st, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+3) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+4) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+********I need someone to verify that the Mac instructions work********
+
+
+Patch notes:
+
+Version: 4.0.5936
+Released on: February 21st, 2013
+[B] Achievements
+Added I'm In Your Base, Killing Your Dudes
+Added several reputation achievements
+
+[B] Leveling
+Fixed an error with Bitter Plasma not auto-buying
+
+[B] Professions
+Fixed an error that sent players to the wrong NPC to learn a fishing spell
+
+[H] Reputations
+Updated Outland Reputations

@@ -1,0 +1,52 @@
+:Info:
+Movie Title_______Rise of the Guardians 2012
+Genre______________Animation | Adventure | Family
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 37mn
+Nominal bit rate                 : 958 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.043
+Writing library                  : x264 core 125 r2200 999b753
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 37mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : 31ms
+Language                         : English
+
+Storyline:
+When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of 
+
+children all around the world.
+
+::Note::
+A sample is attached for viewing file quality.
+::Support::
+Please seed and comment after downloading
+::RECOMMENDED MEDIA PLAYER::
+llllllll VLC Media Player llll
+llllllll The KM Player lllllll

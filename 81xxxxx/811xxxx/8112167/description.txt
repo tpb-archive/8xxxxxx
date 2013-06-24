@@ -1,0 +1,77 @@
+Introducing dSploit
+
+dSploit is an Android network analysis and penetration suite which aims to offer to IT security experts/geeks the most complete and advanced professional toolkit to perform network security assesments on a mobile device. Once dSploit is started, you will be able to easily map your network, fingerprint alive hosts operating systems and running services, search for known vulnerabilities, crack logon procedures of many tcp protocols, perform man in the middle attacks such as password sniffing ( with common protocols dissection ), real time traffic manipulation, etc, etc . This application is still in beta stage, a stable release will be available as soon as possible, but expect some crash or strange behaviour until then, in any case, feel free to submit an issue on GitHub. 
+
+*******************************************************
+
+
+Features
+
+WiFi Cracking
+    The WiFi scanner will show in green access points with known default key generation algorithms, clicking on them allows you to easily crack the key, supported models: Thomson, DLink, Pirelli Discus, Eircom, Verizon FiOS, Alice AGPF, FASTWEB Pirelli and Telsey, Huawei, Wlan_XXXX, Jazztel_XXXX, Wlan_XX, Ono ( P1XXXXXX0000X ), WlanXXXXXX, YacomXXXXXX, WifiXXXXXX, Sky V1, Clubinternet.box v1 and v2, InfostradaWifi.
+RouterPWN
+    Launch the http://routerpwn.com/ service to pwn your router.
+Trace
+    Perform a traceroute on target.
+Port Scanner
+    A syn port scanner to find quickly open ports on a single target.
+Inspector
+    Performs target operating system and services deep detection, slower than syn port scanner but more accurate.
+Vulnerability Finder
+    Search for known vulnerabilities for target running services upon National Vulnerability Database.
+Login Cracker
+    A very fast network logon cracker which supports many different services.
+Packet Forger
+    Craft and send a custom TCP or UDP packet to the target, such as Wake On LAN packets.
+MITM
+    A set of man-in-the-midtle tools to command&conquer the whole network.
+
+Simple Sniff
+    Redirect target's traffic through this device and show some stats while dumping it to a pcap file.
+Password Sniffer
+    Sniff passwords of many protocols such as http, ftp, imap, imaps, irc, msn, etc from the target.
+Session Hijacker
+    Listen for cookies on the network and hijack sessions.
+Kill Connections
+    Kill connections preventing the target to reach any website or server.
+Redirect
+    Redirect all the http traffic to another adtress.
+Replace Images
+    Replace all images on webpages with the specified one.
+Replace Videos
+    Replace all youtube videos on webpages with the specified one.
+Script Injection
+    Inject a javascript in every visited webpage.
+Custom Filter
+    Replace custom text on webpages with the specified one.
+
+Requirements
+
+ARM
+    Your device must have an ARM cpu.
+Gingerbread
+    An Android device with at least the 2.3 ( Gingerbread ) version of the OS.
+Root
+    The device must be rooted.
+BusyBox
+    The device must have a BusyBox full install, this means with every utility installed ( not the partial installation ). 
+
+*******************************************************
+
+Hack your friends, families, and others for free!
+
+Do not use this in public places on strangers, as doing this is ILLEGAL!!!
+
+YOU MUST HAVE A ROOTED ANDROID PHONE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+For more info, please visit: http://www.dsploit.net/
+
+Here is a brief run through on all that it does: 
+
+If you like/use it,
+
+then....
+
+
+
+SEEEEEEEEEEEED!!!

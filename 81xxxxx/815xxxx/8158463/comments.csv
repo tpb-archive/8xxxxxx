@@ -1,0 +1,80 @@
+﻿User Type,Username,Date,Text
+[V],2010kaiser,2013-02-18T17:51Z,"Automated Disabling of Network Adapters and FireWall entries to make your life easier:
+
+Installation Instructions:
+==========================
+
+1) Click on the ""DISABLE LAC + WNC"" TAB to cut the internet connection.
+2) Click on the ""FaceOffMax-3.5.0.2.Setup"" TAB to begin installation.
+3) Click on ""Next >"".
+4) Click on ""I Agree"".
+5) Click on ""Next >"".
+6) Click on ""Install"".
+7) Un-Tick ""Run Face Off Max"" and click on ""Finish"".
+8) Click on the ""Patch {LzO} TAB.
+9) Click on ""PATCH"".
+10) Click on ""Yes"".
+11) Navigate to:
+
+
+
+x64bit operating systems:
+=========================
+
+
+
+C:Program Files (x86)FaceOffMax
+
+
+
+x86(32bit) operating systems:
+=============================
+
+
+
+C:Program FilesFaceOffMax
+
+
+
+
+12) Click once on ""Face Off Mask"" and click on ""Open"".
+13) It now says *PATCHING DONE* in the patch GUI, so close it down.
+14) Click on ""Key-Gen {LzO}"".
+15) Click on ""GENERATE"" and copy the code from the ""SN ----->"" window.
+16) Open ""Face Off Max"" from the desktop icon.
+17) Click on ""Help - Enter SN"", paste the code into the window and click on ""OK"".
+18) Click on ""Manual"".
+19) Copy the code from the ""Machine Data"" window and paste it into the ""CODE ----->"" window of the Key-Gen.
+20) Click on ""GENERATE"" and copy the generated code from the ""UNLOCK - >"" window.
+21) Paste the code into the ""Unlock Code"" window of ""FaceOffMask"" and click on ""OK"".
+22) The window now says ""You have successfully activated Face Off Mask on this computer"" so click on ""OK"".
+23) Close down the ""Key-Gen"".
+24) Click on ""Next"".
+25) Click on ""Next"".
+26) Exit/Close down ""Face Off Mask"".
+
+27) Now click on the green icon with the letter ""A"" on it on the ""Face Off Mask Installer"".
+28) Click ""Yes"" then click ""OK"".
+29) Navigate to the software installation directory again (Shown it step  11).
+30) Right click on:
+
+A) FaceOffMax and select ""Add To FireWall"".
+
+And
+
+B) uninst and select ""Add To FireWall"".
+
+31) Close the software installation directory window down.
+32) Finally go back to the ""Face Off Mask Installer"" and click on the green ""ENABLE LAC + WNC"" TAB to Re-Enable the Network Adapters and allow internet connection again.
+
+
+Optional:
+=========
+
+If you now want to remove the Windows firewall Blocking option from the right click context menu, click on the red icon with the letter ""R"", click on ""Yes"" then click on ""OK"".
+
+
+JOB DONE!!!
+
+
+ENJOY AND SEED!!!"

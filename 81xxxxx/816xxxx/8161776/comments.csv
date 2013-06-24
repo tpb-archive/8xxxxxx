@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,lomaxom,2013-02-19T09:22Z,what are the 2 dlc's ??? can you please name them !
+,Proteus11,2013-02-19T14:49Z,I thought that there was only one DLC out?
+,lomaxom,2013-02-19T17:08Z,"i only know dunwall city trails, the other mysterious dlc have no idea about it !!!"
+,maegta,2013-02-22T02:38Z,"Those that are finished downloading..
+Which dlcs does this come with & does it work/clean dl???"
+,tiz2,2013-02-26T21:26Z,"the 2nd dlc should be coming out in q1 of '13, but since it has no official rl date yet this can't be it. Maybe its the pre-release stuff they're calling dlc."
+,scythe06,2013-03-24T03:12Z,What's the directory of the save files for this version?
+,GoForReal,2013-03-30T04:20Z,"After playing for the first time I saved my game and went back to the desktop. After a while I went back to my game and played for 2-3 minutes. Suddenly a textmessage arrives: ""There was an issue saving the game. [ ] Retry [ ] Cancel"". If I push ""Retry"" the message arrives again and again. If I push ""Cancel"" I can go on with playing, but if I try to open the menu the game freezes.
+Have I done something wrong?"
+,forgetit,2013-04-17T01:08Z,"I had the same problem. I solved it by finding the folder containing the savegames, and editing its permissions. For some reason the folder was not writable, I just added ""Everyone"" and gave it full permissions. Probably not the safest option, but at least it works.
+
+c:UsersAll UsersRELOADEDRLD!205100storage"

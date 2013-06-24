@@ -1,0 +1,77 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 5,97GIB
+Duración                                 : 1h 54min.
+Tasa de bits total                       : 7 442Kbps
+Fecha de codificación                    : UTC 2013-02-24 00:49:24
+Aplicación de codifición                 : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 5marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 54min.
+Tasa de bits                             : 5 296Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 696pixeles
+Relación de aspecto                      : 1,85:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.248
+Tamaño de pista                          : 4,13GIB (69%)
+Librería de codificación                 : x264 core 120 r2120 0c7dab9
+Opciones de codificación                 : cabac=1 / ref=5 / deblock=1:0:0 / 
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 1h 54min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 8seg.
+Tamaño de pista                          : 526MB (9%)
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Format_Settings_Mode                     : 16
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_DTS
+Duración                                 : 1h 54min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 1 509Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Tamaño de pista                          : 1,21GIB (20%)
+Título                                   : Inglés
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+

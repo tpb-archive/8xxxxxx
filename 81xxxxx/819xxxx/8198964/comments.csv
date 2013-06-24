@@ -1,0 +1,131 @@
+﻿User Type,Username,Date,Text
+,simnov,2013-02-27T18:52Z,Why i cant select options  in main menu
+[T],bruss.aka.durka9,2013-02-27T20:31Z,"to simnov
+Hmmm, i don't known. Try re-run game."
+,FieroGT,2013-02-28T03:30Z,"hmm, ran the updater, and its not working, get ERROR WHILE LOADING OPTIONS... ? gunna try to play it without updating and c."
+[T],bruss.aka.durka9,2013-02-28T09:09Z,"to FieroGT
+Full off antivirus --> run updater --> off steam (if started) --> run game with administrator privileges --> enjoy."
+,JackMike16,2013-02-28T13:35Z,"Ok, so here is how it is, when i try to run the game without steam no server list appear, when i do run steam with it, i try joining a server and i get ""you need to be running steam to play on this server"" or something, so is there any fix or list of cracked servers you have?"
+[T],bruss.aka.durka9,2013-02-28T15:09Z,"to JackMike16
+Read my previous message!"
+,JackMike16,2013-02-28T15:49Z,"To bruss.aka.durka9
+I did! still nothing!"
+[T],bruss.aka.durka9,2013-02-28T16:28Z,"to JackMike16 
+Then i can't help you."
+,punisher2828,2013-03-07T23:35Z,I followed your directions and updated. Still having the same problems that JackMike16 was having. Any help would be appreciated!
+[T],bruss.aka.durka9,2013-03-08T09:56Z,"to punisher2828
+Read my previous messages!"
+,thecornholio66,2013-03-13T08:31Z,"Hi and thanks, the game works fine.
+One question... Can I create a Hamachi server that my friends can join with this version?"
+[T],bruss.aka.durka9,2013-03-13T10:15Z,"to Hamachi
+I don't know what is Hamachi. And i can't help you."
+,Zyntinc,2013-03-15T15:03Z,"Everytime I load the game, it crash in main menu.
+""hl2.exe has stopped working""
+Help!"
+[T],bruss.aka.durka9,2013-03-15T17:17Z,"to Zyntinc
+Folow this step: Full off antivirus --> run updater --> off steam --> run game with administrator privileges --> enloy."
+,Zyntinc,2013-03-16T01:26Z,"Thanks bruss, its working now :D"
+,t3hzb0t,2013-03-18T13:42Z,I don't see any text in the Q menu. :/
+,t3hzb0t,2013-03-18T13:43Z,^ignore my comment
+,SWSTDWP,2013-03-22T01:02Z,"This has been asked many times to no answer but, what is the ""game dir"" that the SteamApps folder full of .gcf files is meant to go in. I have my own GCFs for portal and HL2E1 that i put in the steamapps folder but they won't show up in GMOD."
+,willi3012,2013-03-22T20:22Z,"i downloaded the game and it works great but how do you play online?? when i try to join one of the servers it will always say ""steam validation rejected"" and i dont have steam installed on my computer.can you help me with this problem?"
+,willi3012,2013-03-22T20:47Z,oh and one more thing.i also tried on non-steam servers but i get steam validation rejected too.can somebody help me??
+[T],bruss.aka.durka9,2013-03-23T22:00Z,"to SWSTDWP
+Create in game dir (where hl2.exe placed) directory named ""SteamApps"" and put there all your GCFs. GCFs names must be equal in revApps.ini
+
+to willi3012
+To which non-steam servers you are connecting? You can connect to friendly server in main menu (on top)."
+[T],bruss.aka.durka9,2013-03-23T22:10Z,"to SWSTDWP
+Then you must check/uncheck all available/unavailable GCFs. Like this: http://bayimg.com/bakeNAAEP"
+[T],bruss.aka.durka9,2013-03-23T22:19Z,"to SWSTDWP
+Or you can just change in rev.ini (in game dir) ""CachePath=./SteamApps"" to ""CachePath="". Example: ""CachePath=D:/Games/Steam/steamapps""."
+,T0pAz,2013-03-24T04:05Z,"It doesn't work. Having the same issue ""Steam validation rejected."" and I don't even have Steam."
+,T0pAz,2013-03-24T04:08Z,It doesn't work. Having the steam validation rejected error. I don't even have steam.
+[T],bruss.aka.durka9,2013-03-24T12:33Z,"to T0pAz
+Full off antivirus --> run updater --> off steam (if started) --> run game with administrator privileges --> enjoy."
+,T0pAz,2013-03-24T17:03Z,"This shit doesn't works online. Same problem. Fucking ""Steam Validation Rejected"" problem."
+[T],bruss.aka.durka9,2013-03-24T17:55Z,"to T0pAz
+To which server you are connecting? Are you shore he is no-steam?"
+,T0pAz,2013-03-24T18:56Z,I'm trying all the servers on TTT and nothing is working.
+[T],bruss.aka.durka9,2013-03-24T19:41Z,"to T0pAz
+May be it is all steam (licensed) server. You may connect only to no-steam servers."
+,T0pAz,2013-03-24T21:07Z,There is only 1 cracked server and there are no players. This torrent is pointless.
+[T],bruss.aka.durka9,2013-03-24T21:49Z,"to T0pAz
+Delete this and use others."
+,willi3012,2013-03-27T01:03Z,"to T0pAz
+this torrent works fine.is just that there are not that many nonsteam servers.i recommend using tunngle to play online but u have to tell other people to download this release
+to bruss.aka.durka9
+what website should i use to download addons for garrys mod?"
+[T],bruss.aka.durka9,2013-03-27T12:01Z,"to willi3012
+Try: http://thepiratebay.sx/search/Garry's%20Mod%20addons/0/99/0 and http://thepiratebay.sx/search/Garry's%20Mod%20addons/0/99/0
+But it's all outdated."
+,tigerj01,2013-03-28T01:56Z,How come I can't see any of the default props? Are there any?
+[T],bruss.aka.durka9,2013-03-28T12:21Z,"to tigerj01
+???"
+,etamarh12,2013-03-29T19:14Z,whean i open the Gmod_Updater its check all the files ' whean its check steamclient.dll its give me eror : Error While checking patch for binsteamclient.dll .
+[T],bruss.aka.durka9,2013-03-29T20:33Z,"to etamarh12
+Off antivirus and try again."
+,etamarh12,2013-03-29T22:04Z,"to bruss
+
+i try but its still not work,   i got pics : 
+
+http://s17.postimg.org/7mx6pui8v/3333.png
+
+and 
+
+http://s14.postimg.org/7fign93j5/image.png
+"
+[T],bruss.aka.durka9,2013-03-29T22:34Z,"to etamarh12
+Full off antivirus --> reinstall game to other dir --> run updater --> run game."
+,Guizolocoo,2013-03-29T23:17Z,do I need any game to install this mod or it's included?
+,etamarh12,2013-03-30T10:16Z,"to bruss
+
+to do all this with administrator or readme only?"
+[T],bruss.aka.durka9,2013-03-30T11:40Z,"to Guizolocoo
+Not included.
+
+to etamarh12
+All with administrator."
+,Guizolocoo,2013-03-31T04:08Z,"When I play multiplayer appears : Steam validation rejected, what do I do?"
+[T],bruss.aka.durka9,2013-03-31T14:00Z,"to Guizolocoo
+To which server you are connecting? Maybe you are connecting to steam/licensed server. You may connect only to no-steam/pirate servers."
+,Jibbalee,2013-04-01T21:46Z,"I have a weird graphical error in the way of the guns and stuff you hold, anyway to fix this?"
+[T],bruss.aka.durka9,2013-04-01T22:32Z,"to Jibbalee
+Big word ""ERROR""? If true - you don't have custom content. You must download it. From where? I don't know. Not my problem. Sorry. :)"
+,ninjaPI,2013-04-05T22:04Z,i have a problem.When i start Garry's Mod.exe it displays loading cursor and nothing happens.Help please
+[T],bruss.aka.durka9,2013-04-05T22:31Z,"to ninjaPI
+Show my screenshot."
+,ninjaPI,2013-04-06T12:36Z,I double click it and only this shows up 2 times and nothing happens http://i.stack.imgur.com/fmksR.gif
+[T],bruss.aka.durka9,2013-04-06T13:49Z,"to ninjaPI
+What is this? Show my full screen!"
+,ninjaPI,2013-04-06T14:27Z,how do i upload a pic?
+[T],bruss.aka.durka9,2013-04-06T15:38Z,"to ninjaPI
+http://bayimg.com"
+,ninjaPI,2013-04-06T16:55Z,"http://bayimg.com/gAlmfaAEg
+
+Help Please"
+[T],bruss.aka.durka9,2013-04-06T17:17Z,"to ninjaPI
+Off antivirus --> run game with administrator privileges."
+,ninjaPI,2013-04-06T21:27Z,its not working.well dammit
+[T],bruss.aka.durka9,2013-04-07T00:03Z,"to ninjaPI
+Impossible. All work fine."
+,Karamity,2013-04-08T13:19Z,"Where can i find cracked/no-steam TTT servers?
+If you know some would you mind writing some down please ?"
+[T],bruss.aka.durka9,2013-04-08T14:42Z,"to Karamity
+Try ""Test server 2"" in may game-build (in main menu)."
+,ansonking,2013-04-12T23:44Z,what is the difference/features between this update http://thepiratebay.sx/torrent/8355839/Garrys_Mod_v1.6.10.0_Full__AutoUpdate__Multilanguage and this update
+[T],bruss.aka.durka9,2013-04-13T00:43Z,"to ansonking
+Soo more... You can read about this on garrysmod.com"
+,dakata3693,2013-04-14T21:25Z,"it doesnt spawn the models from team fortress, portal 1 and 2, left 4 dead... I can only spawn props from Half-life2.. How to fix this? I want to be able to use all possible models"
+,HmoudGaming,2013-04-14T21:30Z,"it's Works
+Thanks man"
+[T],bruss.aka.durka9,2013-04-15T01:32Z,"to dakata3693
+You must manually download and install additional content from other games (ex. TF2, Portal 2 and etc). Try this: http://thepiratebay.sx/torrent/7506493 but he's very outdated (some or all *.gcf may not work).
+
+to HmoudGaming
+I'm glad to help you )"
+,zyon2101,2013-04-24T05:52Z,Work online?
+,danwat1234,2013-06-03T21:48Z,"Crashes randomly. Ran the updater, didn't help.
+Win8 64-bit. I have HL2 +ep1+ep2 +sdk installed"
+[T],bruss.aka.durka9,2013-06-05T03:55Z,"to danwat1234
+Steam must be off!"

@@ -1,0 +1,47 @@
+Video 
+Identifier: 1 
+Format: AVC 
+Format / Information: Advanced Video Codec 
+Format Profile: High@L4.1 
+Setting format, CABAC: Yes 
+Setting format, ReFrames: 4 frames (-s, s) 
+Id codec: V_MPEG4/ISO/AVC 
+Duration: 2 hours. 
+Mode of calculation bitrate: Variable (VBR) 
+Bit rate: 24.3 Mbit / sec 
+Maximum Bit Rate: 33.2 MB / sec 
+Frame Width: 1920 pixels. 
+Height ratio: 1 080 pixels. 
+Aspect ratio: 16:9 
+Daily framerate: Permanent 
+Frame Rate: 23.976 frames / sec 
+Color Space: YUV 
+Downsampling hromatychnosti: 4:2:0 
+Bit Depth: 8 bits 
+Scan type: Progressive 
+Bits / (Pixel * frame): 0,488 
+Stream: 24.3 hybridization (88%) 
+Language: English 
+Default: Yes 
+Forced: No 
+
+Audio # 2 
+ID: 3 
+Format: DTS 
+Format / Data: Digital Theater Systems 
+Profile format: MA / Core 
+Codec ID: A_DTS 
+Duration: 2 hours. 
+Mode of calculation bitrate: Variable (VBR) 
+Quality: 1561 kbit / s / 1510 kbit / s 
+Number of Channels: 6 Channel (s, s) 
+Channel Positions: Front: LCR, Side: LR, LFE 
+Sampling frequency: 48.0 kHz 
+Bit Depth: 24 Bit 
+Compression Type: Lossless / Lossy 
+Title: DTS-HD 5.1 @ 3830 kbps 
+Language: English 
+Default: No 
+Forced: No 
+
+English commentaries, subs also included.

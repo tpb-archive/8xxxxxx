@@ -1,0 +1,61 @@
+SPORT: Six Nations Rugby Highlights
+On: BBC 1 HD     
+Date: Monday 4th February 2013 
+Time: 01:40 to 02:25 
+
+A chance to catch up with the best of the action from the first weekend of the 2013 Six Nations. Twickenham hosted a Calcutta Cup clash between England and Scotland, 2012 Grand Slam winners Wales faced Ireland, while France travelled to Rome for a meeting with Italy.
+
+
+General
+Complete name                            : 2013.02.04.6N.Highlights.468p.x264.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 518 MiB
+Duration                                 : 44mn 2s
+Overall bit rate                         : 1 645 Kbps
+Encoded date                             : UTC 2013-02-06 03:31:45
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 11 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 44mn 2s
+Bit rate                                 : 1 484 Kbps
+Width                                    : 832 pixels
+Height                                   : 468 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.152
+Stream size                              : 467 MiB (90%)
+Writing library                          : x264 core 129 r2245 bc13772
+Language                                 : English
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 44mn 2s
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 40.3 MiB (8%)
+Language                                 : English
+

@@ -1,0 +1,30 @@
+EAC extraction logfile from 19. April 2006, 12:57 for CD
+Rata Blanca / Magos, Espadas y Rosas
+
+Used drive  : SONY    DVD RW DW-Q28A   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 12
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:Archivos de programaExact Audio Copyflac.exe   (User Defined Encoder)
+                     32 kBit/s
+                     Additional command line options : -6 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" -T "comment=EAC 0.9beta4 / FLAC 1.1.0 q6" %s
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Range status and errors
+Selected range
+   Filename C:Documents and SettingsxxxEscritorioripeadostemp2CDImage.flac.wav
+
+   Peak level 100.0 %
+   Range quality 100.0 %
+   CRC E8A7F0A4
+   Copy OK
+
+No errors occured
+
+End of status report

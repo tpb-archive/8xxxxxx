@@ -1,0 +1,48 @@
+ _______  _______  ______   _______  _______  _______ 
+(  ____ / ___   )(  __   (  ___  )(  ___  )(       )
+| (    //   )  || (    )| (   ) || (   ) || () () |
+| |          /   )| |   ) || |   | || |   | || || || |
+| | ____    /   / | |   | || |   | || |   | || |(_)| |
+| | _  )  /   /  | |   ) || |   | || |   | || |   | |
+| (___) | /   (_/| (__/  )| (___) || (___) || )   ( |
+(_______)(_______/(______/ (_______)(_______)|/     |
+
+ A GREAT COLLECTION!
+ 
+===================================================================================
+Includes: Doom.wad, Doom2.wad, Heretic.wad, HexDD.wad, Hexen.wad, Plutonia.wad, Strife1.wad (with Voices.wad) and TNT.wad
+
+Addons Included: Austerity, Brutal Doom, Cheogsh, Cold As Hell, Demon Eclipse, Demons Of Problematique 2, Insanity's Edge,
+		 Legacy of Suffering, Mandrill Ass Project, Necrosis, Nord Hell, Operation Overlord, Paranoid, Phocas Island 2,
+		 Realm of Cheogsh, Remain III, Serpent, Stronghold, Temple of the Lizard Men 2, The City of the Damned,
+		 The Ghouls Forest, The Ghouls Forest 3, The Nadir, Thief, Titan 2, Ultimate Torment & Torture, Unloved, ZanZan
+===================================================================================
+
+Instructions:
+
+ GZDOOM.BAT (Batch File)
+   Run this to play any of the Includes mentioned above
+
+ ADDON LAUNCHERS (Batch Directory)
+   Premade launchers for each of the add-ons mentioned above. Simple execute the batch file for the addon you wish to play.
+
+ REG LAUNCHERS (Batch Directory)
+   Using the launchers in here plays the Includes mentioned above directly.
+
+ ADDON (WAD/PK3 Directory)
+   Contains all the files for each of the Addons mentioned above. This includes WADs, PK3s, CFGs and whatever else is necessary.
+
+ GZDOOM (Directory)
+   Contains GZDOOM original files. Recommended to launch GZDOOM with the gzdoom.bat (batch file) that is included.
+
+ PAK (Directory)
+   Contains a lighting mod, brighter map mod, and higher definition textures
+ 
+ WAD (Directory)
+   Original game WADs
+
+===================================================================================
+
+Hope you enjoy, I spent hours organizing all this :D	
+
+NEW TORRENT - The other one I added wouldn't seed properly after I had to power off during an ice storm. Use this one instead.

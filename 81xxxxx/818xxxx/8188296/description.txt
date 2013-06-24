@@ -1,0 +1,78 @@
+ http://i.imgur.com/BmyN6tY.png
+
+Mediainfo:
+General
+UniqueID/String                          : 183894397197026347725692279951740958384 (0x8A58C5CA34EA07A0AF728392B3B8F6B0)
+Nombre completo                          : C:UsersPublicDocumentsTorrentsThe 85th Oscars Ceremony Awards [m720p][Spanish][Canal+] SPPCCTEAMThe 85th Ceremony Of The Oscars m720p Spanish [Canal+] [SppccTeam].mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 5,20GIB
+Duración                                 : 6h 15min.
+Tasa de bits total                       : 1 982Kbps
+Película                                 : The 85th Ceremony Of The Oscars By SppccTeam
+Fecha de codificación                    : UTC 2010-02-22 21:41:31
+Aplicación de codifición                 : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L5.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 6h 15min.
+Tasa de bits                             : 1 904Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 25,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.083
+Tamaño de pista                          : 4,85GIB (93%)
+Título                                   : By SppccTeam
+Librería de codificación                 : x264 core 115 r2013 6fce39a
+Opciones de codificación                 : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x13 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=40 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=90 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=1904 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=1904 / vbv_bufsize=19040 / nal_hrd=none / ip_ratio=2.00 / aq=1:1.00
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : MPEG Audio
+Formato de la versión                    : Version 1
+Formato del perfil                       : Layer 3
+Format_Settings_Mode                     : Joint stereo
+Format_Settings_ModeExtension            : MS Stereo
+ID Códec                                 : A_MPEG/L3
+ID Códec/Pista                           : MP3
+Duración                                 : 6h 15min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 96,0Kbps
+Canal(es)                                : 2canales
+Velocidad de muestreo                    : 44,1KHz
+Demora del video                         : 14ms
+Tamaño de pista                          : 258MB (5%)
+Título                                   : Canal+ 1 HD
+Librería de codificación                 : LAME3.98.4
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+
+
+
+
+FULL SHOW.
+INCLUDE RED CARPET AND PREVIEW FOR Canal Plus
+
+UPLOADED BY SPPCCTEAM
+The Nº1 On Spanish Sports Broadcast Release
+
+
+PLEASE SEED

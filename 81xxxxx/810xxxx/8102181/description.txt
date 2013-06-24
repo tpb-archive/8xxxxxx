@@ -1,0 +1,59 @@
+Hack, slash, and smash your way to victory in this award winning 2D arcade
+  adventure from  The  Behemoth!  Featuring  hand-drawn  characters,  Castle
+  Crashers delivers hi-res visuals like nothing  you've  seen  before.  Four
+  friends can play locally or online to  save  your  princess,  defend  your
+  kingdom, and crash some castles!
+ 
+  BONUS:
+  * Castle Crashers - Blacksmith Pack DLC
+  * Castle Crashers - Pink Knight Pack DLC
+ 
+ 
+   Features:
+   ~~~~~~~~~
+  * Unlock more than 25 characters and over 40 weapons!
+  * Intuitive combo and magic system: Unlock an arsenal of new attacks as
+    your character progresses through the game.
+  * Level up your character and adjust Strength, Magic,
+    Defense, and Agility.
+  * Adorable animal orbs are your companions. Each adds different
+    abilities to aid you on your journey.
+  * Arena mode: Battle other players in free-for-all or team matches!
+  * Insane Mode: Test your skills in the ultimate campaign challenge
+ 
+----------------
+
+Tested and working on OSX-Lion, 10.7.5
+
+----------------
+
+
+INSTALL:
+1. Extract the .ZIP folder. (CastleCrashers-MacOSX.zip)
+2. Play the game!
+Simple as that!
+
+
+----------------
+
+There's a chance it might not work on Mountain Lion.
+
+Here's a possible fix.
+. Navigate to the game. -&gt;
+. Right-click on the game -&gt; 
+. Show package content -&gt; 
+. Double click "Wineskin" -&gt; 
+. Advanced -&gt; 
+. The tab "Options" -&gt; 
+. And the check the box that says:
+  "force use of system istalled XQuartz instead of WineskinX11"
+
+
+. Download and install XQuartz if you don't already have it here:
+. http://xquartz.macosforge.org/landing/
+
+----------------
+
+I'M NOT TAKING ANY CREDIT FOR THE GAME FILES. I'M TAKING CREDIT FOR THE PORT/WRAPPER.
+THE GAMEFILES ARE TAKEN FROM THIS TORRENT:  
+http://thepiratebay.se/torrent/7677532/Castle_Crashers-FANiSO		

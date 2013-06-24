@@ -1,0 +1,29 @@
+BurnAware Professional is a powerful CD, DVD and Blu-ray Disc burning and copying software intended for users who need maximum control over every aspect of the burning process and use multiple burners for mass-production of various discs and quick creation of disc-to-disc copies.
+
+What's new in version 6.0?
+
+New Features:
+Home Edition has been renamed to the Premium.
+New menu to switch the size of the Main Screen.
+New tool to check the disc for the read errors.
+Drop-down list with the paths of previously opened folders.
+Option to specify the cache size.
+Support for importing multi-extent and UDF embedded files.
+800MB CD option in the Disc Type drop-down list.
+Log window in the Copy Disc tool and the Copy to Image tool.
+
+Improvements:
+Burning engine has been updated.
+User manual has been rewritten from scratch.
+All the burning elements grouped at the bottom of the form.
+Lock device for exclusive access during the burning process while using SPTI.
+Optimized data transfer and buffering during the burning process.
+
+Fixes:
+Resolved the problem that might cause read error in the produced disc images.
+ Resolved the problem that might cause write error at the end of the burning process on DVD-R/-RW.
+ Resolved the problem with ejecting a disc after the burning process.
+ Fixed the BD-R discs burning errors that can occur on some Pioneer drives.
+ Fixed the "A general error occured" error that could occur during preparation of a Blu-Ray disc imag
+
+Supports Windows 8 and Windows NT/2000/XP/Vista/7 (both 32 and 64-bit)

@@ -1,0 +1,62 @@
+NOTE: VIETNAMESE HARDCORE SUBTITLE!
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.75 GiB
+Duration                                 : 1h 53mn
+Overall bit rate                         : 2 202 Kbps
+Encoded date                             : UTC 2013-02-15 12:10:50
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 7 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 53mn
+Bit rate                                 : 1 816 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 536 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.106
+Stream size                              : 1.41 GiB (81%)
+Writing library                          : x264 core 129 r2230 
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 53mn
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 312 MiB (17%)
+Default                                  : Yes
+Forced                                   : No
+
+
+
+
+NOTE: VIETNAMESE HARDCORE SUBTITLE!
+
+THUMBNAILS: http://i.imgur.com/bfDbrRq.jpg
+
+CAP: http://i.imgur.com/YKx9TDG.jpg

@@ -1,0 +1,20 @@
+About SystemRescueCd
+
+-----------------------------------------------------------
+Description: 
+
+SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of linux software such as system tools (parted, partimage, fstools, ...) and basic tools (editors, midnight commander, network tools). It can be used for both Linux and windows computers, and on desktops as well as servers. This rescue system requires no installation as it can be booted from a CD/DVD drive or USB stick, but it can be installed on the hard disk if you wish. The kernel supports all important file systems (ext2/ext3/ext4, reiserfs, btrfs, xfs, jfs, vfat, ntfs), as well as network filesystems (samba and nfs).
+
+-----------------------------------------------------------
+Changelog 3.4.0  (2013-02-18):
+        - Standard kernels is Long-Term-Supported linux-3.4.30 (rescuecd + rescue64)
+        - Alternative kernels updated to latest stable 3.7.8 (altker32 + altker64)
+        - Updated btrfs-progs filesystem utilities to latest snapshot (0.20_rc1_p56)
+        - Disabled power-saving options (CONFIG_SUSPEND and CONFIG_HIBERNATION)
+        - Added app-arch/star-1.5.2 (enhanced tar as well as enhanced mt/rmt)
+        - Updated fsarchiver to 0.6.16 (bugfix release), midori to 0.4.8 
+ 
+
+------------------
+PLEASE SEED!! THX!
+------------------

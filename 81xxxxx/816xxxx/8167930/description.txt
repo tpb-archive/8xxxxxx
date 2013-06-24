@@ -1,0 +1,12 @@
+InCtrl 5 was one of PCMag's most popular programs. It allowed users to monitor the changes made to their systems when installing new software, allowing them to troubleshoot problems that could arise after installation.
+
+It used a snapshot system to determine changes to your system during a program's installation. It made a copy of the registry, wrote a list of all the file names & sizes of each file, and made a copy of select INI and text files. As hard drives have gotten larger this process became slow and there was the possibility that it could inaccurately reflect changes. If another program was running at the same time, those changes would be tracked as well.
+
+After a 12 year hiatus, InCtrl is back. We've pumped up the version to 10 to correspond with the major advances in this utility. InCtrl X is a radical change from the previous method of capturing changes. In this version, it does real-time monitoring of a process. Instead of taking a pre and post install system snapshot and then comparing, InCtrl X watches what files and registry changes are made by the running process. So not only can you capture system changes during an installation, you can capture changes of a process currently installed and running on your system.
+
+InCtrl features include:
+
+ΓÇó Monitor registry, file, and folder additions, deletions, and changes
+ΓÇó Monitor software installations, running programs, and uninstall routines
+ΓÇó Continue monitoring after Windows restart
+ΓÇó Produce reports of changes in HTML and Text format

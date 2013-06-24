@@ -1,0 +1,15 @@
+Archivos de textos y audio en castellano para Omerta City of Gangsters
+
+Nombre: LocalSpanish.hpk
+CRC-32: 8efdb1fb
+MD4: b6f82de862751ba2a721646b8738862d
+MD5: ab44bf8884815b1d8f568b375ba15cac
+SHA-1: 111491e465177b1c0b2ee71e1bf85ed5594c10b9
+
+Nombre: LocalVoicesSpanish.hpk
+CRC-32: 3b418eb7
+MD4: 24670a63dbe98734a8f85b85618ead93
+MD5: b0caeb38318e6f44988a140eca61db4e
+SHA-1: 04644ac97448f6e19a7397b40f36bbf8f18b8f6c
+
+Copiar la carpeta en el directorio del juego y renombrar los dos archivos de Spanish.hpk a English.hpk

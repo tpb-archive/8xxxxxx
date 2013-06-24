@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+[T],maizena,2013-02-09T16:50Z,"General
+UniqueID/String                          : 250709944912847184841459114415314304555 
+
+(0xBC9CFAA17840C248B514DBD9ED95FE2B)
+Nombre completo                          : C:En la línea de fuego .mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 4,64GIB
+Duración                                 : 2h 8min.
+Tasa de bits total                       : 5 161Kbps
+Película                                 : En la línea de fuego 
+Fecha de codificación                    : UTC 2010-02-22 21:41:31
+Aplicación de codifición                 : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 8min.
+Tasa de bits                             : 3 890Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 798pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.106
+Tamaño de pista                          : 3,39GIB (73%)
+Título                                   : En la línea de fuego 
+Librería de codificación                 : x264 core 120
+Opciones de codificación                 : cabac=1 / ref=4 / deblock=1:1:1 / analyse=0x3:0x113 / me=umh / 
+
+subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=1 / cqm=0 
+
+/ deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / 
+
+interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / 
+
+direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / 
+
+rc_lookahead=10 / rc=abr / mbtree=1 / bitrate=3890 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / 
+
+qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
+matrix_coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_AC3
+Duración                                 : 2h 8min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 589MB (12%)
+Título                                   : castellano ac3 
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : "
+,TARARI,2013-04-11T13:12Z,Gracias maizena.Ésta peli me faltaba

@@ -1,0 +1,93 @@
+General
+Complete name                            : Men in Black 3 (HD 720p).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 4.56 GiB
+Duration                                 : 1h 45mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 162 Kbps
+Movie name                               : Men in Black 3
+Performer                                : Will Smith, Tommy Lee Jones, Josh Brolin, Emma Thompson, Nicole Scherzinger, Alice Eve, Bill Hader, Michael Stuhlbarg, Jemaine Clement, Michael Chernus, David Rasche, Keone Young, Cayen Martin, Mike Colter
+Genre                                    : Action, Comedy, Science Fiction
+Recorded date                            : 2012-05-25
+Encoded date                             : UTC 2013-01-15 19:35:18
+Tagged date                              : UTC 2013-01-20 03:20:19
+Writing application                      : HandBrake 5170svn 2013011401
+Cover                                    : Yes
+desc                                     : Agents J (Will Smith) and K (Tommy Lee Jones) are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K (Josh Brolin) to save his partner, the agency, and the future of humankind.
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 45mn
+Bit rate mode                            : Variable
+Bit rate                                 : 5 184 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 688 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 17.026 fps
+Maximum frame rate                       : 40.504 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.246
+Stream size                              : 3.83 GiB (84%)
+Writing library                          : x264 core 128
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=4 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-01-15 19:35:18
+Tagged date                              : UTC 2013-01-15 22:42:43
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 45mn
+Bit rate mode                            : Variable
+Bit rate                                 : 329 Kbps
+Maximum bit rate                         : 495 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 100ms
+Stream size                              : 249 MiB (5%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-15 19:35:18
+Tagged date                              : UTC 2013-01-15 22:42:43
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 1h 45mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 100ms
+Stream size                              : 484 MiB (10%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-15 19:35:19
+Tagged date                              : UTC 2013-01-15 22:42:43

@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+[V],roucher,2013-02-16T04:37Z,"Change log:
+*Added support for generating SteamID LumaEmu
+*Fixed crash when LumaEmu or RevEmu were used to connect to GoldSrc server created through LumaServerPatcher
+*Changed how a SteamID, if there is no valid taketa.
+*Added missing DLC
+*minor fixes
+*Fixed a crash related to updating Steam
+*Removed support for the parameter:-clientapp
+*Fixed vulnerability in dll
+*Fixed an infinite loop in the application of the patch on Steam.dll
+*Fixed a bug due to which some of the game fails to run
+*Fixed memory leak
+*Reduced CPU usage
+*New icon and minor graphical fixes
+*Optimized source code installation "
+,Racytea,2013-02-16T04:59Z,So is this legit. This exists lol?
+,Racytea,2013-02-16T05:00Z,taco
+,liris7,2013-02-16T09:19Z,"when i try to open Cracked steam it says "" failed to load steam.dll"" help plz?"
+,shashu666,2013-02-17T00:50Z,"got the same problem ""failed to load steam.dll"" wat to do ??"

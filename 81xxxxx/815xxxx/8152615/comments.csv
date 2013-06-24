@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,zarema,2013-02-17T07:52Z,Thank you!
+,zarema,2013-02-17T09:15Z,"CHANGES IN THE BAT! 5.3.8
+
+- Source View - the Print function was not working correctly  
+- Some mailers are known to violate RFC2047 5.(3) and split multi-octet character across adjacent 'encoded-word's (we concatenate adjacent 'encoded-word's with the same charset to work around this issue)
+- ""TTaskUpdater.DecUse: negative reference counter, already destroyed!"" error while performing folder maintenance
+- Message Finder: Option for searchin of whole words only was ignored
+- Original Splash Screen
+- An account with non-administrator privileges could not operate the Preferences dialogue
+- IMAP. Negative counter error after message expunging
+- Changes of column widths in Address Book tree was lost after program restart
+- Possible multi-threading problem while terminating folder maintenance
+- Current server's SMTP Authentication settings were not taken into the configuration dialogue when SMTP on-the-go was used
+- UI fixes at Account menu
+- ""Watch and Send files"" scheduler action incorrectly encodes long file names
+- Birthday notification can be invisible and lock program
+- Some mailers are known to violate RFC2047 5.(3) and insert 'encoded-word's in a 'quoted-string' which is split across several lines
+- PluginAPI. Filter wasn't used when getting message list
+- HTML template cannot be used for messages created from command line
+- Some cosmetic fixes at Account Properties
+- RFC-822 headers wasn't immediately visible when selecting HTML message (""View > RFC-822 Headers"" mode)
+- yandex.ru mail settings were added"

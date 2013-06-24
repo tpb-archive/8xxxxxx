@@ -1,0 +1,99 @@
+Général
+Nom complet                              : E:The.Twilight.Saga.Breaking.Dawn.Part.2.MULTi.1080p.BluRay.x264
+Version du format                        : Version 4 / Version 2
+Taille du fichier                        : 9,86 Gio
+Durée                                    : 1h 55mn
+Débit global moyen                       : 12,3 Mb/s
+Application utilisée                     : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 10:36:39
+Bibliothèque utilisée                    : libebml v1.3.0 + libmatroska v1.4.0
+
+Vidéo
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Paramètres du format, CABAC              : Oui
+Paramètres du format, RefFrames          : 5 images
+Identifiant du codec                     : V_MPEG4/ISO/AVC
+Durée                                    : 1h 55mn
+Débit                                    : 10,3 Mb/s
+Largeur                                  : 1 920 pixels
+Hauteur                                  : 800 pixels
+Format à l'écran                         : 2,40:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Bits/(Pixel*Image)                       : 0.280
+Taille du flux                           : 8,09 Gio (82%)
+Titre                                    : English
+Bibliothèque utilisée                    : x264 core 125 r2208 d9d2288
+Langue                                   : Anglais
+Default                                  : Oui
+Forced                                   : Non
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Paramètres du format, Mode               : 16
+Paramètres du format, Endianness         : Big
+Identifiant du codec                     : A_DTS
+Durée                                    : 1h 55mn
+Type de débit                            : Constant
+Débit                                    : 1 509 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 24 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 1,21 Gio (12%)
+Titre                                    : English
+Langue                                   : Anglais
+Default                                  : Oui
+Forced                                   : Non
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Paramètres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Durée                                    : 1h 55mn
+Type de débit                            : Constant
+Débit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Délai par rapport Vidéo                  : 250ms
+Taille du flux                           : 369 Mio (4%)
+Titre                                    : French
+Langue                                   : Français
+Default                                  : Non
+Forced                                   : Non
+
+Texte #1
+ID                                       : 4
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : French
+Langue                                   : Français
+Default                                  : Oui
+Forced                                   : Non
+
+Texte #2
+ID                                       : 5
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : Forced
+Langue                                   : Français
+Default                                  : Non
+Forced                                   : Non
+Endianness         : Big

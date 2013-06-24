@@ -1,0 +1,19 @@
+KMSpico v3.3 Setup
+
+KMSpico v3.3 OEM
+
+KMSpico v3.3 Portable
+
+Change Log:
+- Server Changed.
+- Fixed Office 2010 and W7/2008 activation.
+
+Note:
+- Only the firts time of installation it make sound, after that it runs silent from
+  task schedule in every user logon.
+
+Recommendations Optional:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to Directory %ProgramFiles%KMSpico in Antivirus.

@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,tremendousice,2013-02-13T20:37Z,"AWESOME! no virus, clean and easy to follow. Thanks!!!"
+,rhha,2013-03-01T02:34Z,"I must be doing something wrong?
+
+I followed the readme and tried several of the keycodes, but it keeps saying ""We are unable to start your subscription for Adobe Photoshop CS5 Extended Subscription Edition"" every time. Then it tells me to close and re-launch, but nothing changes.
+
+Any thoughts?"
+,91758595,2013-03-01T19:16Z,"@rhha What is the exact point in the setup that you get that message?
+and I am not sure about the""Extended Subscription Edition"" did you edit the host file befor or after you installed photoshop?"
+,91758595,2013-03-01T19:20Z,"@rhha I will uninstall/Re-install my copy and see if I can reproduce your error, but first, what operating system are you using?"
+,91758595,2013-03-01T19:41Z,"one quick note, Step 3 in my read-me is performed AFTER you have finished the installation, not during or before. if you patch the host file before certain steps, it will be unable to finish. adobe's setup program steps are 
+1: welcome.. accept user agreement
+2: serial number .. click install as trial 
+3: Adobe ID.. click skip this step
+4: Options.. you can install 32 bit/64 bit version 1 or both.
+5: Install.. wait for the program to finish installing
+6: finish after you complete this step it is time to close the setup program and start step 3 of my read-me file. 
+
+Hope this helps."
+,rhha,2013-03-09T02:17Z,"@ 91758595
+
+Thank you!
+
+Figured it out. I uninstalled/reinstalled, followed your steps, and it was working fine. 
+
+Not sure what I was doing wrong before. I think I edited the notepad hosts file as I was installing."
+,ncc1864,2013-03-11T12:23Z,"I install the trial version, then modify 'host' as instructed, then run and input a serial. I am then prompted to enter or create an adobe ID (there is no option to skip this step) but I get an error message regardless of what email address etc. I enter."
+,rubrubrub,2013-03-20T16:15Z,"@ncc1864
+
+just follow what 91758595 said
+
+one quick note, Step 3 in my read-me is performed AFTER you have finished the installation, not during or before. if you patch the host file before certain steps, it will be unable to finish. adobe's setup program steps are 
+1: welcome.. accept user agreement
+2: serial number .. click install as trial 
+3: Adobe ID.. click skip this step
+4: Options.. you can install 32 bit/64 bit version 1 or both.
+5: Install.. wait for the program to finish installing
+6: finish after you complete this step it is time to close the setup program and start step 3 of my read-me file. "
+,mira007,2013-03-23T12:26Z,"Hi! Thanks a lot for your efforts!
+
+I encounter the same difficulty as @ncc1864: I'm asked to create an Adobe Id and whatever name I put in, I got this message that it cannot connect and that I should contact customer service :)
+
+I did indeed step 3 after I finished the installation. However, when I checked I had two ""hosts"" file: one with the thing I was supposed to copy paste from your file and one without it. Also, the new one (including your info) was seen as a txt file since the beginning while the other one (and all the rest of the file there) didn't have a type and when I opened it I was asked to choose with which program.
+
+Any advice?
+Thanks heaps,
+Cheers!"
+,mira007,2013-03-24T00:26Z,"Hi again!
+
+I think the problem is the following: although I succeeded to run notepad as an admin the 'hosts' file I'm supposed to modify it's still a read-only kind of file. Mmm...
+
+Cheers!"
+,mira007,2013-03-24T01:00Z,"I went back and finially succeeded modifying the hosts file. However, I'm still asked for an adobe ID... Suggestions?
+
+Cheers!"
+,91758595,2013-03-25T17:04Z,"as far as i know the program will always prompt you to create/login with an adobe ID, I have not seen a way to disable this. even after patched, not being signed in does not affect the usefulness of the program, but as it is a ""free"" installation the online features such as customer support will be unavailable. Some operating systems have a sample hosts.txt file in the directory, it is useless to modify it, you must modify the hosts file WITHOUT the file extension. If you successfully ran notepad as an admin, simply double click on the existing host file in the directory when prompted to save, the drop down box "".txt files"" must be set to ""all files"" or you won't even be able to see the real one."
+,91758595,2013-03-25T17:12Z,"also, i believe that once you patch the host file, your computer will be unable to communicate with the adobe server that authenticates the user information, the whole purpose of the patch is to keep photoshop from communicating with adobe and switching back to the trial version. "
+,themaxx2001,2013-04-07T05:46Z,"Getting the same problem.  I've got it all installed as per instructions, modified host file, and it's asking for an Adobe ID after I plug in the serial key.  Won't allow me past without the account id and password, and makes me go back and use it on the trial version, or not at all."
+,91758595,2013-04-07T22:39Z,http://imgur.com/KvtiAEn this is what you do...
+,ProtusMose,2013-04-14T21:31Z,"Orly?
+
+http://imgur.com/YgXfQaP
+
+:"
+,91758595,2013-04-15T02:15Z,"... In an attempt to understand why your install has become ""Adobe Photoshop CS5 Extended Subscription Edition"" when it should be ""Adobe Photoshop CS5 Extended"" i need the following info.
+1: Are you using the files included here, or files you obtained elsewhere for the installation?
+2: How many, if any, other adobe products do you use? legit or otherwise?
+3: What is your current operating system?
+4: After installing photoshop, was the photoshop program open for any length of time before you edited the host file?
+..........................
+Somewhere in your install, Adobe has managed to give your computer instructions to update photoshop, the files included in this upload should not default to ""Subscription Edition"" "
+,mira007,2013-05-31T02:32Z,"1: Are you using the files included here, or files you obtained elsewhere for the installation?
+Here! thank you!
+2: How many, if any, other adobe products do you use? legit or otherwise?
+I use Adobe Acrobat XI Pro - Otherwise :)
+3: What is your current operating system? Windows
+4: After installing photoshop, was the photoshop program open for any length of time before you edited the host file? 
+No..."
+,mira007,2013-05-31T02:35Z,"I don't have a 'skip' option :)
+
+If I try to create the Adobe ID I get a message saying that We are unable to start your subscription...
+
+I think the Adobe Acrobat Reader XI might be the issue"

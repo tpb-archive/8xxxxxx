@@ -1,0 +1,76 @@
+Under The Sea-alE13Under The Sea (2009) - alE13.mkv
+Format : Matroska
+Format version : Version 2
+File size : 2.15 GiB
+Duration : 40mn 54s
+Overall bit rate : 7 537 Kbps
+Movie name : Under the Sea 3D (2009)-alE13
+Encoded date : UTC 2013-02-07 07:48:41
+Writing application : mkvmerge v5.8.0
+Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 40mn 54s
+Bit rate : 7 000 Kbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 24.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.141
+Stream size : 1.93 GiB (90%)
+Writing library : x264 core 112 r1834 a51816a
+
+Audio
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 40mn 54s
+Bit rate mode : Constant
+Bit rate : 640 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 187 MiB (8%)
+Language : English
+Default : No
+Forced : No
+
+Text
+ID : 2
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Polish
+Default : Yes
+Forced : No
+
+Menu
+00:00:00.000 : :1
+00:09:11.509 : :2
+00:19:25.748 : :3
+00:29:32.604 : :4
+00:39:36.291 : :5
+
+
+Screens:
+

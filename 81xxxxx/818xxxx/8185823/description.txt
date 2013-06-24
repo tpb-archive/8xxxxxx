@@ -1,0 +1,79 @@
+==================================== Introduction ===================================
+
+"For those who understand,
+ no explanation is necessary.
+ For those who do not,
+ no explanation is possible."
+
+==================================== Description ====================================
+
+I have created an offline copy of BibleotecaPleyades
+and all the references which were used on this website.
+
+Why download the copy? It is great for offline reading!
+Also, in case this wonderful website will be taken down,
+the gathered information and evidence will not be lost.
+
+============================ BibleotecaPleyades.zip info ============================
+
+* Version           : 16 February 2013
+* Compressed size   : 9.62 GB
+* Uncompressed size : 11.01 GB
+* SHA1 Checksum     : 2f60450e98a5d8abca82f3bd23099a1c4806f871
+
+============================== SiteSucker final status ==============================
+
+* Level             : 15
+* Files Downloaded  : 119032
+* Files Remaining   : 0
+* Errors            : 13820
+
+There were errors, because some references are not available anymore.
+
+============================== My SiteSucker settings ===============================
+
+1. General
+
+[V] Suppress Login Dialog
+[V] Ignore Robot Exclusions
+[V] Drag Triggers Download
+
+* File Replacement  : With Newer
+* File Modification : None
+* Path Constraint   : Host
+* Download Folder   : Downloads
+[ ] Ask before Downloading
+
+2. Logs
+
+[V] Log Errors
+[V] Log Warnings
+[ ] Log Final Status
+[ ] Log Media Types
+[ ] Log Download History
+
+3. Limits           : No limits
+
+4. File Types       : Allow All File Types
+
+5. Paths            : No paths
+
+6. Advanced
+
+6.1. General
+
+* Default Encoding  : Unicode (UTF-8)
+* Download Attempts : 3
+* Download Timeout  : 1 minute
+* Download Delay    : None
+* Identity          : Safari 5.1 - Mac
+
+6.2. Options
+
+[ ] Check All Links
+[V] Export External Links
+[ ] Only Follow Image Links
+[V] Include Supporting Files
+[ ] Generate HTML
+
+6.3. Parameters     : No parameters

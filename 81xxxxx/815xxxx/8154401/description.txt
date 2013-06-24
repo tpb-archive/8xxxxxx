@@ -1,0 +1,92 @@
+General
+Complete name                            : Marvels - The Avengers (HD 1080p).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 11.8 GiB
+Duration                                 : 2h 22mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 11.8 Mbps
+Movie name                               : The Avengers
+Performer                                : Robert Downey Jr., Chris Evans, Chris Hemsworth, Mark Ruffalo, Jeremy Renner, Scarlett Johansson, Clark Gregg, Gwyneth Paltrow, Tom Hiddleston, Samuel L. Jackson, Cobie Smulders, Stellan Skarsgård, Paul Bettany, Lou Ferrigno, Jenny Agutter, Walter Perez, Powers Boothe, Stan Lee, Alexis Denisof, Arthur Darbinyan, Donald Li, Ashley Johnson, Harry Dean Stanton
+Genre                                    : Action, Thriller
+Recorded date                            : 2012-05-04
+Encoded date                             : UTC 2012-10-16 21:35:32
+Tagged date                              : UTC 2012-11-10 21:18:42
+Writing application                      : HandBrake 5016svn 2012101501
+Cover                                    : Yes
+desc                                     : When an unexpected enemy emerges that threatens global safety and security, Nick Fury, Director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 11.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 22.613 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.221
+Stream size                              : 11.0 GiB (93%)
+Writing library                          : x264 core 125
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2012-10-16 21:35:32
+Tagged date                              : UTC 2012-10-17 08:10:47
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 198 Kbps
+Maximum bit rate                         : 310 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 202 MiB (2%)
+Language                                 : English
+Encoded date                             : UTC 2012-10-16 21:35:32
+Tagged date                              : UTC 2012-10-17 08:10:47
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 2h 22mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 654 MiB (5%)
+Language                                 : English
+Encoded date                             : UTC 2012-10-16 21:35:32
+Tagged date                              : UTC 2012-10-17 08:10:47

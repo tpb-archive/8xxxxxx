@@ -1,0 +1,17 @@
+Some games are not cracked and require you to run the Mnfserver.exe file and to edit your hosts file. You can find your hosts file in the following directory:
+
+C:WindowsSystem32driversetc
+
+It is a plain text file, but has no ending. You need to copy it into another folder, edit it, save it and overwrite the old file, apparently you cannot edit it in that folder (Windows won't let you overwrite the old file if you opened it from inside this directory)
+
+You have to add this line at the very bottom of the file once you have opened it:
+
+"127.0.0.1 meetandfuckgames.com www.meetandfuckgames.com mnfserver.stub"
+
+(without the "")
+
+Once that is done, start mnfserver.exe and you can run all those games (visit www.meetandfuckgames.com to get a list of some of the protected games (it will show the games from your PC, the modifications you just made to your hosts file made sure that address is redirected to your own PC) 
+
+(Most of the games don't require this, by the way. Just a few are still protected.)
+
+Enjoy and please seed a while after you finish downloading! Thanks!

@@ -1,0 +1,95 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+About This App:
+
+Updated:
+    February 25, 2013
+
+Current Version:
+    1.7.12
+
+Requires Android:
+    2.1 and up
+
+Category:
+    Media & Video
+
+Description:
+
+THIS IS THE AD-FREE VERSION OF MX PLAYER. MX Player - The best way to enjoy your
+
+&lt;Key Features&gt;
+
+a) MULTI-CORE DECODING - MX Video Player is the first Android video player that performs multi-core decoding. According to the test results on dual-core devices, it shows up to 70% performance improvement than single-core devices.
+
+b) CPU OPTIMIZATION - Provides highly optimized Codecs and Rendering Engines for the processors including ARM┬« NEONΓäó and NVIDIA┬« TegraΓäó 2.
+
+c) PINCH ZOOM - Easily zoom in and out by pinching and swiping across screen.
+
+d) SUBTITLE SCROLL - Scroll on subtitle text and playback position will be adjusted to match previous or next subtitle timing.
+
+e) BETTER SUBTITLE READABILITY - Increased subtitle readability with thicker border and shadow around text.
+
+f) ANDROID 4.1 - Fully supports Android 4.1 Jelly Bean.
+
+
+&lt;Subtitle Formats&gt;
+
+- DVD, DVB, SSA/ASS Subtitle Tracks.
+- Sub Station Alpha(.ssa/.ass) with full styling.
+- SAMI(.smi/.sami) with ruby tag support.
+- SubRip(.srt)
+- MicroDVD(.sub/.txt)
+- SubViewer2.0(.sub)
+- MPL2(.mpl/.txt)
+- PowerDivX(.psb/.txt)
+- TMPlayer(.txt)
+
+******
+Sometimes license checking could fail on the first run.
+It typically happens when current time or time zone settings are incorrect, or Internet connection is unavailable. Please check the time setting and Internet connectivity.
+******
+If you can't buy from Android Market, please check our home page. We support more payment methods. (https://sites.google.com/site/mxvpen/buy)
+******
+About "modify battery statistics" permission: MX Video Player displays current battery state while playing video. To do this permission to read battery state is required. However Android does not distinguish between reading battery state permission and writing battery permission. This is why, despite battery state is only being read, permission to write battery state is required.
+******
+About "System Tools - display system-level alerts" permission: This permissions is required to block HOME key when input blocking is activated on video playback screen.
+******
+KRW 6,000 is about USD $5-$6.
+******
+
+What's in this version:
+Added screen rotation button.
+Added a new orientation option named "use video orientation". This will select screen orientation from video orientation.
+Added https protocol support on s/w decoder.
+Added an optional to disable double tap gesture.
+Improved h/w+ decoder.
+Fixed broken h/w+ decoder on Android 3.x Honeycomb and some Snapdragon ICS, Jellybean devices.
+
+Note:
+Please remove all previous version and codec at first!!!
+
+Download Instructions: Install and run!
+
+** MX Player Pro 1.7.12 (NEON) (MX Player Pro (NEON) = MX Player Pro + ARMv7+NEON Codec)
+
+** MX Player Pro 1.7.12 (You must install this before you install below codec)
+
+** ARMv7+NEON Codec 1.7.12
+
+** ARMv7 (Tegra2) Codec 1.7.12
+
+** ARMv6+VFP Codec 1.7.12
+
+playstore link: 
+https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro
+
+If you have any other request then tell me here: 
+https://forum.suprbay.org/member.php?action=profile&uid=330582
+
+TPB URL: 
+https://thepiratebay.se/user/toorentz
+

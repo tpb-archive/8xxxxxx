@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,3prong,2013-02-24T14:37Z,"Thanks Ipmark!!!!!!
+
+U Da Man!!!
+"
+,monkmarr,2013-02-26T01:42Z,Yes!  Many Thanks!!
+,loveaudit,2013-02-27T17:32Z,"Thanks Ipmark!  I'm glad my 755T is still well supported and going strong, except for the battery life. LOL."
+,robert342,2013-02-27T19:06Z,"Thank you for uploading all the files, not just the Navigator. Hopefully, someone else will do the same for Europe. Though, I don't know if they support the 755 in the latest version."
+,johnrs13,2013-03-05T04:25Z,"Hi Ipmark, I have Nuvi200 & Nuvi 750 and have 2008 -09 maps uploaded on it, how can i have maps of 2013 canada, mexico and USA installed on it ?
+I have SD card..
+What is 2013.40, 2013.30 and 2013.20 map ?"
+,cazam,2013-03-05T17:05Z,"Thanks Ipmark!!
+Question: I'm using the D06009A.JCV file on my Gamin 1490T, it seems to work fine, however when it first opens for a junction view it splits, then goes full screen.  I notice there are three parts to this file. Im using pt. 1.  Am I supposed to try all three separately to see which works better? Or all three at once?  I've loaded the new map and JCV on the SD card 'cuz they wont fit on internal memory."
+,cazam,2013-03-05T17:46Z,"Sorry, meant to say I'm using D3060090A.JCV file."
+,Ipmark,2013-03-05T18:40Z,"Unrar the part #1 ONLY.
+Winrar will join togheter the other parts during decompression."
+,cazam,2013-03-07T02:30Z,"OK, THANKS !!!"
+,Lonewolf8417,2013-03-16T23:54Z,"Some files are missing. There are no SQLite traffic trends databases for Nuvi 3790T
+This for CNNANT 2013.30 SQLite D315600.DB.trafficTrends2"
+,arent_we_sarcastic,2013-05-08T23:20Z,For the 1490 what folder are you installing the maps to?
+,Ipmark,2013-05-12T00:45Z,"Device:.SystemJCV Folder
+SD:GarminJCV Folder
+Device:.SystemG2S Folder
+Device:.SystemSQlite Folder
+Device:.Systemgmap3d.img
+SD:Mapgmap3d.img
+Device:.Systemgmaptz.img
+
+NOTE:
+.System is an Hidden-System folder"
+,Ipmark,2013-05-12T00:49Z,"Errata corrige:
+
+Device: /.System/JCV Folder
+SD: /Garmin/JCV Folder
+Device: /.System/G2S Folder
+Device: /.System/SQlite Folder
+Device: /.System/gmap3d.img
+SD: /Map/gmap3d.img
+Device: /.System/gmaptz.img
+
+NOTE:
+.System is an Hidden-System folder"

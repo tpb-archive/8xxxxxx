@@ -1,0 +1,57 @@
+Qarl's Texture Pack III Full v1.3 OMOD
+
+----
+
+I am creating this torrent as a mirror in case the other sources are down/too slow:
+ 
+http://planetelderscrolls.gamespy.com/View.php?view=OblivionMods.Detail&id=4721
+ 
+http://oblivion.nexusmods.com/mods/18498
+
+I chose the OMOD as opposed to the 7z because they were both 1.7 GB, and uncompressing is just a waste of CPU time.
+
+----
+
+Description-
+This is a full version of Qarl's Texture Pack III, with patch v1.3 already installed, and then created into an OMOD. I did no work with the actual textures, all I did was combine Qarl's TP3 with the newest 1.3 patch, and then made it into an OMOD. I found this very helpful, because it is much easier than manually uninstalling and installing all those different textures and meshes, with the OMOD, all you have to do is activate or deactivate the mod, and Oblivion Mod Manager takes care of the rest.
+
+What Does It Do?- 
+This mod makes most of the textures in the game sharper and clearer.
+
+Features-
+* Most textures are 4 times the size of the originals. Some, even more. This makes things seem much clearer and sharper in-game.
+* A large number of meshes have been altered to take advantage of the game engine's parallax shader.
+* Only parts of the mesh which NEED parallaxing have the parallax flag enabled. This removes unwanted artifacts parallaxing can cause around corners.
+* Textures which use the parallax shader have been altered at the mipmap level so that things look very 3D from a distance but do not get the soupy artifacts associated with the parallax effect when viewed close-up.
+* Advanced normal map techniques used to make landscape textures seem very 3D.
+* Landscape color maps and normal maps edited at the mipmap level to reduce the tiling effect in the distance.
+* Mesh fixes from the Unofficial Oblivion Patch are included.
+Things retextured:
+
+* Architecture
+* Landscape
+* Rocks
+* Dungeons
+* Blood splatters, falling snowflakes, butterflies
+* Furniture, and other medium-sized clutter
+
+Things NOT retextured:
+
+* Clothes, armor, weapons, creatures, NPCs
+* Foliage, the sky
+* Kvatch, the Arena, and the Oblivion realm
+
+Requirements-
+This mod greatly enhances the graphic detail of Oblivion. Therefore, you should probably only install this if you have a farily high-end system. I am currently running an 8800GT with 1280x1024 resolution, 4x anti-aliasing, and max graphics, and with this mod installed I average around 45fps.
+
+Installation-
+Extract the OMOD to your C:...Oblivionobmmmods folder. Then, start up OBMM, and double click on the mod to activate it. After you have activated it, click on Utilities then Archive Invalidation. Click the bubble for BSA alteration, check mark the box for Textures, and check mark the box for Generate archiveinvalidation entries on hash collision. If you want to know why you did all that, scroll down to number 4 in Qarl's Installation section in his readme (which I have included with the download), and he explains it a little more. NOTE: The mod might take a while to install, this is normal, and its just because this is such a big file.
+
+Other Handy Mods-
+Also, if you have Shivering Isles, keep an eye out for my Bomret's Shivering Isles Texture Pack OMOD, which I will be working on.
+
+Credit-
+All the credit for creating this amazing texture pack goes to Qarl. If you modify this OMOD in any way, all I ask is that you give me credit, thanks. 
+
+
+HAVE FUN :D!

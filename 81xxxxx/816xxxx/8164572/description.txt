@@ -1,0 +1,5 @@
+Commentary tracks for Community, season 1
+
+These are just audio files; you'll need to to have regular A/V files as well.
+
+VLC worked fine for me for displaying video from one file and audio from another file. See the included batch file for command-line solutions, or go here for the appropriate VLC settings: http://netmediablog.com/how-to-play-video-with-different-audio-track-on-vlc

@@ -1,0 +1,79 @@
+::Release Info::
+================
+Release Title: The Incredible Petrified World (1957) Jerry Warren
+
+::IMDB and TMDB Info::
+======================
+TMDB Link: http://www.themoviedb.org/movie/35663
+IMDB Link: http://www.imdb.com/title/tt0053944
+Storyline: When the cable breaks on their diving bell four people find themselves trapped in a hidden underwater world.
+Genre: Adventure | Action | Thriller | Science Fiction
+Release date: 01/01/1957
+
+::Actors::
+==========
+John Carradine ... Prof. Millard Wyman
+Robert Clarke ... Craig Randall
+Phyllis Coates ... Dale Marshall
+Allen Windsor ... Paul Whitmore
+Sheila Noonan ... Lauri Talbott
+George Skaff ... Dr. J.R. Matheny
+Maurice Bernard ... Old Man in the Caverns
+Joe Maierhouser ... Jim Wyman
+Lloyd Nelson ... Wilson, Sonar Man
+Harry Raven ... The Captain
+Milt Collion ... Hank
+Robert Carroll ... Narrator
+Lowell Hopkins ... Reporter
+Jack Haffner ... Jimmy, Reporter
+
+General
+=======
+Unique ID : 151163671137764478936162735418497330321 (0x71B91067344C739A436437E254486C91)
+Complete name : The Incredible Petrified World (1957) Jerry Warren.mkv
+Format : Matroska
+Format version : Version 2
+File size : 690 MiB
+Duration : 1h 6mn
+Overall bit rate : 1 448 Kbps
+Writing application : Lavf52.94.0
+Writing library : Lavf52.94.0
+COMMENT : www.freemake.com
+
+Video
+=====
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Main @ L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 6mn
+Nominal bit rate : 1 288 Kbps
+Width : 640 pixels
+Height : 480 pixels
+Display aspect ratio : 4:3
+Frame rate mode : Variable
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.140
+Writing library : x264 core 112 r1834 a51816a
+
+Audio
+=====
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 1h 6mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : 70ms
+Language : English

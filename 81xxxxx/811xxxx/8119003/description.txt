@@ -1,0 +1,44 @@
+Omerta City of Gangsters Patch v1.3.0 MULTi7 Steam-Rip-RG GameWorks
+
+
+Information:
+
+
+Release date: 2013 
+Genre: Strategy (Turn-based / Tactical) / 3D 
+Developer: Haemimont Games 
+Publisher: Kalypso Media 
+Platform: PC
+Publication Type: License [Patch] [Steam-Rip]
+Language: MULTi7
+Version: v1.3.0
+Tablet: Present ( Deadmau5 / RELOADED)
+
+
+List of changes in v.1.3.0:
+
+
+Fixed crash on entering combat
+Fixed hire / fire gangster problems in MP gang
+Double-clicking in walk mode doesn't use the default weapon attack
+Fixed dirty / clean money income numbers in resource summary rollover
+If a player disconnects in Multiplayer, a win is awarded to the 
+non-disconnected player.
+Fixed case where the player may get stuck in the "Betrayal" mission 
+(Mediterranean Ave)
+District buildings menu can be closed with Space (as it is opened)
+In-game menu can be opened with Esc while district buildings menu is open
+Some of those fixes might not apply if you're loading an existing savegame
+
+
+Installation Steps:
+
+
+1. Run setup.exe and install the update in the game folder
+
+2. Copy the contents of the folder NoDVD in the game folder
+
+3. Play
+
+
+SEED AND ENJOY!

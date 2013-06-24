@@ -1,0 +1,27 @@
+GENERAL
+
+
+Format                                   : MKV
+File size                                : 2.75 GiB
+Duration                                 : 1h 41mn
+Overall bit rate                         : 3 891 Kbps
+
+
+AUDIO
+
+
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 41mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No

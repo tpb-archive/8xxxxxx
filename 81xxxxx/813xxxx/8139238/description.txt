@@ -1,0 +1,98 @@
+
+HOW TO PLAY
+
+OPTIONAL: Create a new Steam Account with a new Email address!
+
+    Install Aliens: Colonial Marines (FLT Release recommended)
+    Download the MP-Fix V2 and extract it to your Game Folder
+    Download and Install Steam Client
+    Download latest GreenLuma and extract it to your Steam Folder
+    Run Steam via "GreenLuma.exe" and Login
+    (Optional) Join the Steam Community Group
+    Join any Aliens: Colonial Marines Network
+    Start "ACM.exe" or Game's Shortcut as Administrator
+    Go to "Campaign" or "Versus Mode" -&gt; "Advanced Option" -&gt; "Network Mode" -&gt; Choose "LAN", "Friends-Only" or "Online"
+    Join or Host any Match (via Invites)
+    Have Fun 
+
+HELP SECTION
+HOW TO FIX: RANDOM DROP OUT
+
+    You will randomly drop out of a LAN Game
+    This occurs if you are using FLT fixed files!
+    Use the MP-Fix V2 and GreenLuma to play
+    Follow the Instructions on the Top 
+
+HOW TO FIX: STARTUP CRASH
+
+    Follow the Instructions on the Top
+    Skip Step 3, 4, and 5
+    Download Smartsteam Client
+    Extract it anywhere
+    Run Steam via "SmartSteam.exe" and Login
+    Have fun 
+
+HOW TO: CHANGE NICKNAME/LANGUAGE
+
+    Change your Nickname/Language in the Steam Settings
+    Or without Steam (using FLT Fixed files):
+        Download the Name & Language Fix
+        Edit the REG File with a Text Editor
+        Change Entry "PersonaName"="YOUR_NAME_HERE"
+        Change Entry "Language"="YOUR_LANGUAGE_HERE"
+        Save and close
+        Run the REG File and add the Entries to your Registry
+        Have fun 
+
+HOW TO: PLAY WITH FRIENDS/SPECIFIC PLAYERS
+
+    You need to Invite your Friends/specific Player
+    Invite-System in NOT available in LAN Mode
+    LAN Mode will let you only play with Randoms
+    So, you must use the MP-Fix V2 and GreenLuma to play with Friends/specific Players 
+
+HOW TO: INVITE
+
+    Use the MP-Fix V2 and GreenLuma to Invite:
+        Follow the Instructions on the Top
+        Add a Friend or join the Steam Community Group
+        Start Game and host a Game
+        Open Steam Overlay by pressing SHIFT + TAB
+        Press "View all Friends" (left bottom)
+        Go to Friends or Groups Tab
+        Right click on the Player Name
+        Select "Invite to Game" 
+
+HOW TO: ADD STEAM FRIENDS
+
+    To unlock Friends Feature in Steam:
+    Buy any Game on Steam or Unlock Friends for GreenLuma
+    Find your Friend's Steam Profile
+    Click on "Add Friend" 
+
+HOW TO: UNLOCK CONSOLE
+
+NOTE: This is totally useless! Because all commands will default to "say"! (E.g. Console Input: , Console Output: say )
+
+    Go to "..Aliens Colonial MarinesPecanGameConfig" Folder
+    Open "DefaultInput.ini" File with a Text Editor
+    Find the "[Engine.Console]" Section
+    Add the following line right after it: ConsoleKey=Tilde
+    Start Game and use the Tilde '~' key to pull down the Console
+    You can talk to your Game now! 
+
+
+NETWORK MODES
+LAN MODE
+
+    Network Mode = LAN: This opens "Join Mode"
+        Join Mode = Create New: Create a LAN game for Random Players
+        Join Mode = Join Existing: Search for random LAN Games
+        Join Mode = Auto: Search, if not available, Create a Game (Both) 
+
+INTERNET MODE
+
+    Network Mode = Online: Search for Internet Games
+    Network Mode = Friends Only: Create a Game for Friends 
+
+

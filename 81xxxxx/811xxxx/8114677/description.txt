@@ -1,0 +1,119 @@
+SidFart V Gods & Kings Trainer 1.0.1.705 Beta4
+(Build date: 02.07.2013 at 18:11:39) 
+
+-------------------------------------------------------------------
+Trainer features:
+
+* Gold cheat
+* Golden Age Turns cheat
+* Culture cheat
+* Resources cheat
+* Luxury cheat
+* Free spent resource slots
+* Great Admiral cheat
+* Great General cheat
+* City Modifier cheat
+* City Food cheat
+* City-Culture cheat
+* Movement cheat
+* Experience cheat
+
+* 100% hotkey-driven
+* User-input values
+* Hold ALT and type input value
+  using the leftmost numeric keypad
+  then apply it to any cheat listed
+  below. Don't forget to set a value
+  before using a cheat, or else it
+  will apply the last entered input
+  value, which is zero when you start
+  the trainer.
+
+-------------------------------------------------------------------
+Hotkeys:
+
+ALT + 0-9 (User input value, use leftmost numeric keypad, then use any cheats below to apply it.
+The last value entered will be remembered, so you can use it on any cheat after one another,
+beware the default value is zero when you launch the trainer. If you don't enter a value before
+using any of the cheats below, it will apply zero to the cheat, easy to forget)
+
+ALT F1 = Movement
+ALT F2 = Experience 
+
+ALT F5 = City Food    (Buy/Sell University or Research Lab to activate)
+ALT F6 = Modifier     (Science,Gold,Production, buy/sell University or Research Lab to activate)
+ALT F7 = City-Culture (Sell Amphitheater to activate)
+
+ALT INSERT   = GOLD
+ALT HOME     = GOLDEN AGE TURN
+ALT PAGEUP   = CULTURE
+ALT DELETE   = RESOURCES & LUXURY
+ALT END      = GREAT ADMIRAL PROGRESS
+ALT PAGEDOWN = GREAT GENERAL PROGRESS
+
+ALT LEFT = Clear spent slots
+
+-------------------------------------------------------------------
+How to activate the trainer once in-game: (Must be done every time you restart civ)
+
+X means hover your mouse cursor above an item
+Y means hover your mouse away from an item
+
+Activate Pointers:
+
+1. X over gold item top left screen
+2. X over Golden Age value
+5. X over Culture value
+6. X over Resources value
+7. Y away from Resources value
+8. X over Resources value again
+9. Click 'additional information' button and 'Military overview'
+10. Click close button
+
+Done. All pointers are now fetched and you can start using cheats.
+
+-------------------------------------------------------------------
+Quick & important facts about trainer:
+
+* Run Civilization and start a new game before launching trainer
+* Activate pointers before you begin using it
+* When all pointers are fetched, a success note is played.
+* When trainer is launched and waiting for you to go into
+  civilization, if you don't go into civ, it will shut down
+  after 10 seconds automatically or press ESC to cancel.
+* User input cannot exceed 20 million, error note plays if above
+* If using city-culture cheat, remember to sell Amphitheater
+  or else trainer will hang until you do.
+* When using city modifier, remember to buy a science building
+  or else trainer will hang until you do.
+* Tab'ing to the desktop forces trainer to shut down (security)
+* When starting trainer, you'll hear fast midi notes until you go
+  back into civilization, a success note is played when you do
+* Trainer will shut down if olly, cheatengine, windbg, tsearch
+  or similar tools run in the background. (security)
+* Api hook protection, debug protection and data obfuscation
+* If trainer shuts down unexpectedly, you should know why
+Firaxis works continually to invalidate trainers. :)
+
+-------------------------------------------------------------------
+What happened to the 'Healing' cheat in my old trainer?
+
+I hated that cheat, if it wasn't enough to cheat almost everything in the game
+cheating with the health adds more insanity to the game. I seriously think the
+healing cheat isn't necessary, will only ruin the game and I hate it to the guts.
+I will never include that cheat again in any of my future trainers.
+
+-------------------------------------------------------------------
+Example of using the movement cheat?
+
+1. Press and hold the ALT key.
+2. Type a numeric value using the leftmost side keypad.
+3. Press ALT + F1 to activate movement cheat with this value.
+or press F1 if ALT key is already down at the moment.
+4. Click a unit to apply it.
+
+Done. The procedure is the same with all other cheats.
+
+-------------------------------------------------------------------
+
+Coded by DelphiUniverse/CivFart using fasm (flat assembler)

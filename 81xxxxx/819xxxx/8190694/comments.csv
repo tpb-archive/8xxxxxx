@@ -1,0 +1,179 @@
+﻿User Type,Username,Date,Text
+[T],relentlesstech,2013-02-25T18:46Z,"Note:
+I just uploaded these, and I am the only seeder at the moment, so the speeds will be slow to start - If people do their part, and SEED, the speeds should pick up shortly :-)"
+[T],relentlesstech,2013-02-25T21:26Z,"Another note:
+Service Pack 1, all updates up to Feb 2, 2013, burn ISO to DVD/USB and enjoy!"
+,extracube,2013-02-26T03:26Z,"1) Just wondering, to make this, did you just download from digital river and then simply add DAZ Loader (2.2.1) into the iso package, or did you do something extra?
+
+2) Does anyone know if original source at digital river is currently 100% up to date, because I read that microsoft no longer deals with DR?"
+[T],relentlesstech,2013-02-26T04:41Z,Both the x86 and x64 ISOs I put up are direct copies from legit Microsoft DVDs - I included the Daz Loader to make it 'complete' ...
+[T],relentlesstech,2013-02-26T04:56Z,"It's one of the perks of being a computer technician - Access to good stuff, LEGALLY (But of course, can't use the DVD keys LOL) :-D"
+[T],relentlesstech,2013-02-26T05:40Z,"@extracube:
+Digital River does not have the 'latest' SP1 release listed - The MD5 hash is incorrect, and the filesize is way too small - From the hash check on the x64 ISO they are hosting (X17-59465.iso), the copies there match the October/November 2012 release hash ..."
+,extracube,2013-02-26T08:06Z,"Right, and the copy of x86 is X17-59463.iso.  Ok, thanks.
+
+After downloading and installing, let's get some feedback people."
+[T],relentlesstech,2013-02-26T12:56Z,"27 people finished this already, and not one of them fucking seeded at all - If you're going to just 'grab and go', you could at LEAST comment on the damned thing!"
+,thanks1222,2013-02-26T13:21Z,Thanks for sharing. I appreciate the untouched release much more than the ones with God knows what added to them.
+[T],relentlesstech,2013-02-26T14:53Z,"@thanks1222:
+Me too - That's why when I get an opportunity to make copies of the original DVDs, I do! :-P"
+,NickeNyfiken66,2013-02-26T18:02Z,"Can you up this original in Swedish to?
+
+For this is good info includes
+Service Pack 1, all updates up to Feb 2, 2013"
+[T],relentlesstech,2013-02-26T18:55Z,"@NickeNyfiken66:
+I rarely ever have access to the DVDs in any other language other than English (That I know of), but can't you select the language you want at the beginning of the install?"
+,chrispi777,2013-02-27T08:15Z,"hi, ill seed once it is completed. thanks for this."
+,iamricco,2013-02-28T17:34Z,This one is great!! Thanks Relentlesstech. I will  seed only if im online.. thanks thanks thanks
+,ratajordan,2013-02-28T22:52Z,i am downloading the files but i do not know how i am going to install them or burn them...... can you tell me with details how do i continue after the downloading?
+[T],relentlesstech,2013-03-01T00:31Z,"@ratajordan:
+To burn the ISO to a DVD, I personally use Nero, and just select 'Burn image to disc' (NOTE: It is recommended that you use the SLOWEST burn speed, to prevent any errors)
+
+To 'burn' to USB (Flash drive), Google 'Windows 7 USB/DVD Download Tool', download that utility (It is small), and install. Once installed, run it, and select the Windows 7 ISO in the program, then select your Flash drive to burn to - Follow the prompts, and in minutes you'll have a bootable USB ...
+If you have any other problems, just ask - I check back here a few times a day"
+,dukestar,2013-03-03T02:40Z,i am new at installing systems so i want to know how to activate this version?
+,rtbrown11,2013-03-03T03:35Z,I just downloaded the program. I hope when I upload it to my new system that it will work. 
+[T],relentlesstech,2013-03-03T03:44Z,"@dukestar:
+When installing, you can select either 'Pre-Activated OEM', or install 'normal' version (Make sure to NOT enter any keys, and UNCHECK the 'Activate automatically' box) - Once OS is completely installed, run Windows Loader as Admin (Right-click, Run as Admin), select an OEM profile (HP, Asus, etc - Make sure all 3 are the same!), then Activate - Restart, and you're good to go!"
+,dzyne2014,2013-03-03T19:00Z,"Having trouble with install here.
+
+Created boot-able USB with .iso on it.
+
+Does it also need to have the loader on the USB?
+
+When I boot from USB it loads windows files, brings me to the blue screen then does nothing.
+
+Help!  Also, actively seeding to keep this healthy!"
+[T],relentlesstech,2013-03-03T21:55Z,"@dzyne2014:
+The Loader does not have to be on the USB/DVD - Once Windows is completely installed, then copy it to your Desktop, and run as Admin from there ...
+As far as only loading the files, then nothing else - Is it throwing an error message? Are you doing a clean install, or upgrade? I need to know these things to be able to try and help you"
+,amallica,2013-03-03T23:27Z,"Im starting this download now and I WILL leave a comment after I get it installed on my SSD, and activated successfully."
+,amallica,2013-03-04T02:46Z,"**UPDATE**
+
+Hi all, I have successfully installed this ISO onto a spare partition. From what I can tell so far, this is legit and working. 
+
+I'm a bit confused because the directions on this torrent didn't specify that there are two global installation options.
+
+
+DETAILS:
+-My system is Acer Aspire 5820tg.  It originally came with Win7Home. Corei5 system.
+
+
+-This torrent gave two options:
+1. Win 7 Ultimate x86
+2. Win 7 Ultimate x86 - OEM Activated
+
+Since my laptop is Acer I chose OEM activated version. 
+
+-Upon installation completion, it is already full activated and shows the Acer logo's etc, and also shows ""Activated"" in system properties. I didn't need to activate it manually.
+
+-Windows updates work fine.
+
+-System comes with SP1 and .NET 4.5 already installed.
+
+
+-thanks uploader"
+[T],relentlesstech,2013-03-04T04:47Z,"@amallica:
+I did forget to specify that there was also an OEM Pre-Activated install in the original post, but I think I mentioned it in a comment on the first page ...
+Thank you for posting a comment on the quality - I just wish more people would do that!  "
+,juggolow22,2013-03-04T06:32Z,Downloading Now. Will seed for a week! Thank you 
+,blogrider,2013-03-04T07:53Z,need windows serial....
+[T],relentlesstech,2013-03-04T21:25Z,"@blogrider:
+You do not need a CD key - Install without a key (And uncheck 'Activate automatically when online') - If using non-OEM install, once OS is completely installed, copy Loader to your Desktop, and run as Admin - Follow prompts, and you will be activated ..."
+,pyrobob4,2013-03-05T16:43Z,"Thanks a ton for these, relentlesstech. I picked up both of these for future use, so I don't have a comment on how well they work just yet. With the way my family computers, I have to clean install their OS' 2-3 times a year :/  This should make it a whole lot faster/easier, so thanks again.
+
+I might toss this on a system as a dual-boot just to give it a once over. But I've worked with OEMs and DAZ loader before, and considering how clean your version is, I have faith.
+
+One quick question. From what I can gather, you would suggest doing a 'normal' install, and activating it once its done; rather than using the Pre-Activated OEM on this .iso, correct? Can you elaborate a bit on why? (Or why not, if I'm wrong)"
+,shop3001,2013-03-05T17:01Z,thanks for this relentlesstech will keep seeding if i stop only to switch computers tired of vista bout to do a clean install onlly problem im not using any original parts to my pc will i have a problem im using adiffernt mob and aLREADY Have a oem vista other words am i good
+[T],relentlesstech,2013-03-05T17:15Z,"@pyrobob4:
+I just hate 'Pre-Activated', even if it's from Microsoft themselves - I've had customers that wanted the OEM install, and later on they had issues with Windows Updates - I just find it easier and more reliable to use the Loader LOL"
+[T],relentlesstech,2013-03-05T17:17Z,"@shop3001:
+You should be fine, since you already have OEM-activated Windows installed - If you perform an 'Upgrade', the activation from your existing OEM should still be valid ..."
+,Mr.Derick,2013-03-14T01:20Z,"Thank you so much for this!
+
+I'm looking for the 32bit version for some of my clients' computers specially those with old computers that are capable of running Win7.
+
+I already say goodbye to Windows XP because it will be remove from the market next year.
+
+Thanks again!
+
+waiting for your latest uploads...."
+[T],relentlesstech,2013-03-14T21:49Z,"Thanks for all the positive feedback, everyone! Without your comments, people wouldn't know that this is a GOOD one, and just pass it by - I really appreciate it! "
+,dzankic,2013-03-14T22:16Z,"If you find time could you, please, explain to me the difference between the OEM and ""normal"" install.
+
+I am planing on installing this to my newly-built computer so any info would be great. But like I said only if you have time, I don't want to be of any nuisance to you. 
+
+Thanks in advance."
+[T],relentlesstech,2013-03-14T23:34Z,"@dzankic:
+The OEM installer is what big companies such as HP, Dell, etc, use on most of their 'package deal' computers - The OS includes an OEM key/slic entry that makes Windows think the computer was purchased with the OS installed by the factory - I generally don't like OEM activated OSs, because I've had issues with updating before - I always install the 'normal' OS, then use the Loader - I've never had a problem doing it that way ..."
+,dzankic,2013-03-15T13:32Z,"@relentlesstech:
+
+Thanks a lot, I really appreciate you finding time to explain it to me. I'll be sure to comment as soon as I download and install it !"
+,horrorcow,2013-03-15T14:12Z,"@relentlesstech
+
+i'll be using mac bootcamp to install this, could you give me directions on how to do this? it's my first time so i'm not very sure. when they ask me for a serial key, what do i do? can i just leave it blank and click next? then copy and paste the loader onto my desktop when it starts up, and activate it from there?
+
+Thanks so much!"
+[T],relentlesstech,2013-03-15T15:15Z,"@horrorcow:
+I'm not a 'Mac Guy', so I have no idea what BootCamp is LOL - When installing (I recommend the non-OEM install), and it prompts for a key, make sure 'Activate When Online' is UNCHECKED, and leave the key area blank - Once Windows is fully installed, then copy the Loader to Desktop, and run as Admin - When selecting a system profile, make sure all three sections have the same entry (i.e. AsusAsusAsus, DellDellDell, etc) - Once you reboot you will be good to go! :-)"
+,dzankic,2013-03-16T23:41Z,"As I promised, coming back after installing on new build, great job for the uploader, clean install, everything is as it should be. 
+
+Well done and thank you for uploading !"
+[T],relentlesstech,2013-03-17T01:28Z,"Thanks for the positive feedback, dzankic! :thumbsup:"
+,uncleDex,2013-03-18T01:26Z,"if you want to install on vmware.
+what computer brand name am i choosing?"
+[T],relentlesstech,2013-03-18T03:11Z,"@uncleDex:
+You can choose any OEM profile you like, as long as they all match (i.e. Asus, Asus, Asus etc)"
+,timour79,2013-03-24T21:35Z,"When I installed it it had the basic interface and the resolution wouldn't go to 1080. It's a decently old computer and the latest drivers for it don't support windows 7, so it's a problem on my side I guess. Now i just gotta figure out how to revert it back to XP, if i can! When I build my new PC in a couple of months, i'll write another comment based on the results of that."
+,snake777snake,2013-03-30T18:32Z,"Hey Thanks Relentless!!! great job I'm all installed and good to. One question, can I update ok?"
+[T],relentlesstech,2013-04-01T22:10Z,"@snake777snake:
+It updates without a problem :-)"
+,snake777snake,2013-04-02T03:15Z,Thanks dude!!
+,annameti,2013-04-10T10:07Z,"@relentlesstech
+Every other windows 7 ultimate x86 torrent size is under 3.0 GiB, i am curious to know what makes your torrent ""Windows 7 Ultimate SP1 x86 (Feb 2013)"" makes it 3.12 GiB, sorry for my English."
+[T],relentlesstech,2013-04-11T13:53Z,"@annameti:
+Were the ones you checked the Feb 2013 releases? It could be either the integrated updates, or the 'OEM/Non-OEM' boot section ..."
+,shani0610,2013-04-12T06:17Z,"Installed on hp 530 notebook with oem activated. havnt used the loader.
+Am I advised to do some things otherwise?"
+[T],relentlesstech,2013-04-12T13:00Z,"@shani0610:
+I have never installed using the OEM version, but as far as I know there's nothing 'extra' you need to do, or anything - It should be ready to go once it's installed ..."
+,annameti,2013-04-13T03:06Z,"@relentlesstech
+Got no words to say, your upload is AWESOME, Ignore my before comment if its wrong, i wish you could upload more wonderful software, keep up the good work.."
+,wall550,2013-04-15T03:49Z,I am using it right now this is amazing best one I have seen.
+,jmg0825,2013-04-18T04:18Z,"How do I use the windows loader relentlesstech?
+
+Please reply i'm a noob here."
+[T],relentlesstech,2013-04-19T01:14Z,"@jmg0825:
+Once Windows is completely installed, right-click the Loader, and 'Run as Admin' - Once it loads, you can either just click the 'Install' button, and restart when prompted, or you can go advanced, and personalize your install by clicking the 'Profile' tab, and selecting the 'company' you want to emulate in the OS - You just need to make sure the SLIC, Certificate, and Serial all match (My PC has an ASUS Rampage IV motherboard, so I chose 'Asus, Asus, Asus') - You can personalize it even further by clicking the 'OEM' tab, and add your own information and pic that shows in the OS system properties - Just remember if you personalize that you need to run the 'install' AFTER you customize everything you want to in the Loader - Hope this helped!"
+,D255,2013-05-17T19:03Z,"relentlesstech;
+
+thank you very much
+fast in installing
+runs smoothly
+no doubt bout it
+the app got both
+non activated &
+activated version
+thanks...man
+
+hey guys
+this windows
+is updated till 16 feb 2013
+running with no
+issues...great"
+,D255,2013-05-17T19:05Z,"relentlesstech;
+cant wait
+for next upload
+& latest version"
+,D255,2013-05-20T14:19Z,"relentlesstech;
+after installation done by me
+then i do some research
+and the finding is originated
+to murphy78. the file can be
+found in windows/setup/info
+one is in text & the other is in
+internet shortcut to murphy78
+in piratebay. got any explanation??
+
+rep +1 to murphy78"

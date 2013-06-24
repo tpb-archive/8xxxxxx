@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,XxCmonxX,2013-02-27T14:14Z,lol how does this contain the previous update while its smaller in size @.@ and also no info about what does it change @.@
+[V],HeroMaster,2013-02-27T14:48Z,"@XxCmonxX Only GhostNet could answer that question, well other you can try it yourself."
+,Machine4578,2013-02-27T15:28Z,"@XxCmonxX 
+
+this is an xdelta patch which is why its small...
+you cant use this if you installed RLD's update 1 patch either.. the game files must be from v1.0!!
+here is the changelog(by using google which you could have done yourself!!) from the steam webpage...
+
+
+**2/26/13 Patch**
+We have released another patch to the game. We have a lot of big fixes:
+
+Major Fixes
+
+* IMPORTANT NOTE: 60Hz sim is now “opt in” not “opt out”. If you have a fast computer and can handle the 60 fps sim, please just turn it on in Brutal Legends Options!
+* Fixes to performance/lag on computers with slower CPUs.
+* HiFi Sim (i.e. simulate at 60 fps) now off by default. Users can enable it, but may see some jitter until we fix a couple more bugs. 
+* Fixes to some options not saving/loading correctly.
+* Fix for oceans sometimes not rendering on AMD GPUs.
+* Missing cutscene at end of intro bridge plays properly again.
+* Mission beacon now appears appropriately throughout game.
+* Fixes to some car physics when Hi Fi Sim is on."
+[V],Gh0stNet,2013-02-27T15:34Z,"@XxCmonxX
+Because this patch is made using xdelta which unlike Reloaded patch does not replace existing files with updated files but only updates the existing files with when u run the bat file thats why the update size is small just like the ones i uploaded for sleeping dogs "
+,badjhonsen,2013-02-27T16:52Z,ur the man works perfect now no more gay ass lag in the main world. now i can finally play this awesome unique game.
+,Whickerx7,2013-02-27T18:15Z,after patch it wont go past the doublefine spash screen might be my antivirus though
+,bladeks66,2013-02-27T18:39Z,does this mean that update 1 and 2 are the same just update 2 has less MB ?
+,XxCmonxX,2013-02-27T20:25Z,thanks everyone who answered. love u guys
+[V],Gh0stNet,2013-02-28T09:56Z,Get update 3 from here http://thepiratebay.sx/torrent/8202196/Brutal.Legend.Update.3-P2P
+,Stefanovics,2013-02-28T23:00Z,"sorry but saving not worked with this and the next update either, after i saved and returned to the main menu it loaded back BUT if i exited the game and reloaded it it wont find any save.
+so i stick with the only working save update the
+Brutal.Legend.Update.1-RELOADED"
+,Sarg338,2013-03-01T01:35Z,"Doesn't work for me. I copy the folder into the Game folder, rub the .bat, and it gives me a bunch of errors about not being able to find files. Afterwards, the files disappear (I'm assuming they were moved), I copy the folders into the Game folder and overwrite, and the game is stuck at the Double Fine logo.
+
+Any ideas?"

@@ -1,0 +1,84 @@
+--------------System Requirements-------------
+
+Games: Windows: Full game : English:
+
+Battlefield: Bad Company 2
+Publisher: EA Games
+Developer: EA DICE
+
+Minimum System Requirements
+OS: Windows XP
+Processor: Core 2 DUO @ 2 GHz
+Memory: 2 GB
+Hard Drive: 15 GB for Digital Version, 10 GB for Disc Version
+Video Memory: 256 MB (NVIDIA GeForce 7800GT/ATI X1900)
+Sound Card: DirectX Compatible
+DirectX: 9.0c
+Keyboard and Mouse
+DVD Rom Drive
+
+Recommended System Requirements
+OS: Windows Vista/7
+Processor: Any Quadcore Processor
+Memory: 2 GB
+Hard Drive: 15 GB for Digital Version, 10 GB for Disc Version
+Video Memory: 512 MB (NVIDIA GeForce GTX 260)
+Sound Card: DirectX Compatible
+DirectX: 10
+Keyboard and Mouse
+DVD Rom Drive
+
+NOTES:
+
+This game include update patch 795745 
+This game include Vietnam expansion.
+With this version you can play:
+- Single Player - full game
+- Multiplayer
+This game requires Microsoft Visual C++ 2005 and 2010 SP1 redistributables TO BE INSTALLED.
+
+--------------Battlefield Bad Company 2 Installation Guide------------
+
+1. Extract BFBC2.part1.rar to where ever you want the root game folder at, during extraction it will then extract all the other parts after part1 if you get an error saying exp Volume BFBC2.part3.rar is missing then you haven't downloaded it yet
+
+2. Once extraction is complete head on over to http://forums.emulatornexus.com/ucp.php?mode=register and register for an account with Nexus this will be your login id and password ect, to play multiplayer or if you get and error than http://forums.emulatornexus.com/ then find register and go from there.
+3. Confirm your email if asked
+
+4. Now download and installed Microsoft Visual C++ Redistributeables you can download that here 
+http://www.microsoft.com/en-us/download/...x?id=26999
+Side note if you have this installed already then you will not need to do this so skip this step then head to step 5
+
+5. Inside your Redist folder open the folder DirectX and run DXSETUP.EXE as administrator install and wait for installation to be complete may take some time.
+
+6. Punkbuster is already installed but if you recieve any errors or need updates heres the link http://www.punkbuster.com/index.php?page...rt-bc2.php
+
+7. Go inside the Update folder and open that archive BFBC2Update.rar
+
+8. Select everything inside that rar and drag and drop inside your root game folder Example
+C:Program FilesBattlefield Bad Company 2
+
+9. Go to http://forums.emulatornexus.com/bf/?download and download there latest update, drag everything from the archive into your root game folder, when asked to copy and replace confirm that.
+
+10. When asked to copy and replace everything confirm and do so, if needed administrative permission then confirm that
+
+11. When all is said and done you are ready to fuck shit up, open and run as administrator "play-MP-Nexus.exe" DO NOT OPEN "play-MP-noDICE.exe" as that no longer works anymore
+
+12. You may need to confirm with your firewall to allow play-MP-Nexus.exe allow it and a window should pop up then go to a full black screen then load the game
+
+13. Now login with your emulatornexus Username and Password you used when you made an account on there forums.
+
+14. Go to multiplayer than go to servers, none will load click search and a huge ammount of servers will show up, click on one that catches your interest and click on join, depending on what Country the server is on from yours it may take awhile or not long at all if you have a shitacular computer like mine then you will need to change the graphics to the lowest resolution possible and the graphics quality to low
+
+15. Please read the system requirements.txt for more information on that
+
+16. Share with your friends
+
+17. Visit our site for more great games, software ect.
+
+18. Enjoy and fuck shit up, the DOThack Team.
+
+If you like this then share and seed, so other can obtain this at a nice download speed.
+
+ProjectDOThack, ┬⌐ 2012-2013
+
+Bug reports email me @ crusisx@aol.com

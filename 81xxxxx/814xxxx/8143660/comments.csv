@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,mt_phile,2013-02-14T18:06Z,"Thanks!
+
+Audio?  Bit-rate?"
+,rassouli5,2013-02-14T21:22Z,@mt_phile I tried hard to find it's video bitrate because it was MKV. But it was something around 3100.
+,mt_phile,2013-02-14T23:32Z,"If you are on Windows you can try MediaInfo
+
+mediainfo.sourceforge(.)net"
+,rassouli5,2013-02-15T19:53Z,"@mt_phile Thanks man, it worked. I'll use it for my future torrents. "
+,rassouli5,2013-02-15T19:55Z,"BTW, after you finished downloading it, can you write how the quality was? "
+,mt_phile,2013-02-19T00:35Z,"1920x1040, 25fps, 11.2Mbps
+AC3, 6-Channels, 448Kpbs, 48KHz/16bits, headers stripped
+
+8/10 Audio (it is just a bit quiet)
+10/10 Video (stupidly good looking)
+
+Thanks @rassouli5 !"

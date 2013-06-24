@@ -1,0 +1,19 @@
+Las Pelotas - VIVO DVD - 11 de setiembre de 2010 Luna Park
+
+“Vivo” registra la inolvidable noche del 11 de setiembre de 2010, en la cual Las Pelotas brindó un increíble show repasando todos los clásicos que con más de 20 años de trayectoria y convertidos en uno de los referentes del rock argentino, hicieron presentes por primera vez en el emblemático estadio Luna Park.
+ 
+http://es.wikipedia.org/wiki/Las_Pelotas
+
+Tamaño: 1.41GB
+Duracion:
+Formato: MKV
+Video: h.264 60i 720x480 16/9
+Audio: AC3 192kbps 2.0ch
+Menu de Capitulos: SI, dentro del MKV
+
+Ripeado del DVD con los sig pasos:
+
+1- menu de capitulos extraido con DVD-Decripter en formato OGG
+2- DemuX AC3 Stream, and RemuX MPEG2 Stream en MKV ; con "eacto3 GUI"
+3- MKV-MPEG2 a MKV-h.264 con Mediacoder 64bit [preset Hig@4.1 , 2-pass 2500kbps , no-Deinterlace]
+4- RemuX MKV-H.264 60i 720x480 + AC3 192kbps + chapter file ; con "mkvmerge GUI 3.5"

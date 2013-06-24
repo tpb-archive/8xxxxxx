@@ -1,0 +1,71 @@
+Professional SQL Server 2012 Internals And Troubleshooting
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: PDF
+
+Book Description
+Hands-on troubleshooting methods on the most recent release of SQL Server
+
+The 2012 release of SQL Server is the most significant one since 2005 and introduces an abundance of new features. This critical book provides in-depth coverage of best practices for troubleshooting performance problems based on a solid understanding of both SQL Server and Windows internals and shows experienced DBAs how to ensure reliable performance. The team of authors shows you how to master the use of specific troubleshooting tools and how to interpret their output so you can quickly identify and resolve any performance issue on any server running SQL Server.
+
+- Covers the core technical topics required to understand how SQL Server and Windows should be working
+- Shares best practices so that you know how to proactively monitor and avoid problems
+- Shows how to use tools to quickly gather, analyze, and effectively respond to the source of a system-wide performance issueProfessional SQL Server 2012 Internals and Troubleshooting helps you to quickly become familiar with the changes of this new release so that you can best handle database performance and troubleshooting.
+
+From the Back Cover
+Proven techniques and best practices for troubleshooting SQL Server 2012
+
+This book is packed with expert advice and real-world examples, showing you how to troubleshoot SQL Server 2012 based on a thorough understanding of SQL Server and Windows internals. It shows how to master the use of specific troubleshooting tools, and how to interpret their output to quickly identify and resolve any performance issue?on any server running SQL Server.
+
+Professional SQL Server 2012 Internals and Troubleshooting:
+- Takes you through the life cycle of a query to help present SQL ServerΓÇÖs architecture in a practical context
+- Helps to demystify server hardware and storage systems and examines how SQL Server uses memory and how you should configure it
+- Explores query processing and execution, locking, and how tempdb works
+- Shows how to use troubleshooting tools to gather, analyze, and respond to the source of a system-wide performance issue
+- Details how to enhance your troubleshooting toolset with Powershell and Extended Events, and how to manage SQL Server in a virtual environment
+
+Table of Contents
+PART I: INTERNALS
+Chapter 1. SQL Server Architecture
+Chapter 2. Demystifying Hardware
+Chapter 3. Understanding Memory
+Chapter 4. Storage Systems
+Chapter 5. Query Processing and Execution
+Chapter 6. Locking and Concurrency
+Chapter 7. Latches and Spinlocks
+Chapter 8. Knowing Tempdb
+
+PART II: TROUBLESHOOTING TOOLS AND LESSONS FROM THE FIELD
+Chapter 9. Troubleshooting Methodology and Practices
+Chapter 10. Viewing Server Performance with PerfMon and the PAL Tool
+Chapter 11. Consolidating Data Capture with SQLdiag
+Chapter 12. Bringing It All Together with SQL Nexus
+Chapter 13. Diagnosing SQL Server 2012 Using Extended Events
+Chapter 14. Enhancing Your Troubleshooting Toolset with PowerShell
+Chapter 15. Delivering a SQL Server Health Check
+Chapter 16. Delivering Manageability and Performance
+Chapter 17. Running SQL Server in a Virtual Environment
+
+Book Details
+Paperback: 576 pages
+Publisher: Wrox (October 2012)
+Language: English
+ISBN-10: 1118177657
+ISBN-13: 978-1118177655

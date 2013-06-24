@@ -1,0 +1,7 @@
+These are LuaJIT 2.0.1 binaries for Windows.
+
+The binaries have been built from LuaJIT git HEAD (commit e7633db on February 19, 2013 at 21:14:27 GMT+0100) with /DLUAJIT_ENABLE_LUA52COMPAT option (see http://luajit.org/extensions.html#lua52).
+
+----------------
+Latest LuaJIT binaries for Windows are available at 
+http://luajit4win.no-ip.org

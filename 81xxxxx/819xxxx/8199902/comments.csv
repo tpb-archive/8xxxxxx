@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,mattypatty,2013-02-27T18:57Z,"man, thank you so much"
+,Pikachu_Kid,2013-02-27T19:35Z,Work it! thx =)
+,kicksaw,2013-02-27T19:47Z,"Sorry, some hosting problems for me :F Uploading all the time, but was for like 1kb/s before.. now should be ok. enjoy :)"
+,Averus,2013-02-27T22:30Z,tnx!
+,anInCast,2013-02-27T22:33Z,"i made a new account just to say THANK YOU SO FUCKING MUCH, i love you man! (tbh it took a few minutes to find out how to write a comment)"
+,odoylerules705,2013-02-28T00:26Z,"I just started playing this the other day worked no problems for a day and a half. Went to play today and it now says "" Error during initialization"" everytime  I try to open it to play. Deleted it and downloaded this, same problem. Could anyone help me out please?"
+,Garugamesh,2013-02-28T04:37Z,"Dude, you're the master. Thanks a million."
+,kicksaw,2013-02-28T13:16Z,"@odoylerules705 - after uninstalling don't starve do things i wrote above:
+
+1. C:UsersYourUserNameAppDataLocalFLTSteam211670  - remove that folder and content inside (save files, etc.). you can access here by run -> %appdata%, enter, and back once from Roaming folder too, if don't want to search on your HDD :)
+
+2. Same goes for 219740 folder
+
+3. Remove entire install folder of Don't starve if exist.
+
+4. Win7/8:   run -> regedit. HKEY_CURRENT_USERSOFTWAREVALVE - right click here, Permissions. Set to full control read/write.
+
+5. Run CCleaner with CCEnhancer, clean your files, and registry.
+
+6. Reinstall game
+
+7. Reinstall  Microsoft Visual C++ 2010 Redistributable Package (vcredist.exe)
+
+8. Win 7/8 Set permission for Don't starve folder (Properties->Security (?) ) to full control for all groups.
+
+If that helped im glad. Game should start normally. If no try to start game (i bet you can do it with clean install once) in window, create new world and save it, restart game - if you can join then it's ok. If not - clean saves (1-3 step, + CCleaner) and game installation, and try same but with disabling bloom, and that second option, don't remember it's name.
+
+Hope you can play DS then. If not, sorry but can't help much more :"
+,kicksaw,2013-02-28T13:18Z,"OR - As far as i found - first try to reinstall DirectX!
+
+It helps for some problems with initialization of DS"
+,cnloath,2013-02-28T19:17Z,Finally! Thanks
+,odoylerules705,2013-02-28T19:36Z,"Thank you kicksaw, got it to work. Was just getting addicted to the game when error started."
+,Outlaw2,2013-03-01T10:56Z,"kicksaw, please upload hotfix 28-Feb-2013."
+,kicksaw,2013-03-02T21:59Z,"http://thepiratebay.sx/torrent/8212150/Don_t_Starve_Beta_28_Feb_2013_-_Hotfix
+
+
+Reuploaded (previous was with wrong torrent name, but good file :F dont want to make mess here, so preffer to reupload as new). Enjoy :)"

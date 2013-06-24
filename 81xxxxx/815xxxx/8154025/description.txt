@@ -1,0 +1,130 @@
+KMSpico - The NextGen KMS Activator by heldigard of MDL forums
+Based on the work of CODYQX4 and mikmik38's work in MS toolkit 2.4.1
+
+Release File: fusionem_setup_v2.1.zip
+Size: 3.03MB
+CRC32: 4E70FF57
+MD5: 2D192D23F5D4F15FC4282FEACF672BA5
+SHA-1: 09AE28A9C6F6712B47A55D74DC9C259AC73E9240
+
+Mod: KMSpico-v2.1-NoSound-Installer-murphy78-repack.zip
+Size: 1.04MB
+CRC32: 097930D8
+MD5: 1988EE9FEFC1ED4A0420008E21063ADA
+SHA-1: 3823411DB073B2C92F05081E1EEADB0BD3B1A324
+
+Name: OEM-for-KMSpico-v2.1-NoSound-murphy78.zip
+CRC32: DD7D5C26
+MD5: 61C9E9BE888CB4DB2387E1F65AF0CFCD
+SHA-1: 6048535BE98D71C2071D6E7A7F8B3D48E5A102D7
+
+This version has a different Scheduled task name. Make sure you correctly
+remove previous versions before installing this.
+
+2nd one is my personal repack using all of the settings from heldigard's
+release except the kmseldi /music call. NoSound version
+is a little faster because it doesn't wait on the sound to finish.
+My versions are just 7z sfx programs and do not have proper uninstall.
+Use the Uninstall-KMSpico.cmd script I included to remove task and
+delete directory when you are done with it.
+
+OEM is just an oem folder you can toss in your sources directory
+if you know what you're doing. Don't bother if you don't know what
+it is.
+
+KMSpico is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. Heldigard has built on CODYQX4's
+amazing work from MS Toolkit 2.4 where mikmik38 and CODYQX4 made an emulated
+KMS activation program without the use of a Virtual Machine.
+
+KMSnano was GREAT. KMSpico is even BETTER, SMALLER, FASTER.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC*
+----------Again, those versions will NEVER support KMS activation---
+--------------------------------------------------------------------------------
+Core, ProWMC, and WServer support is in this, but it resets to
+30 day renewable activation since they don't natively support KMS.
+This, and the new low activation time, are the reason for daily re-activation.
+
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+1. Extract the zip file or run the associated exe from file explorer.
+2. Run the corresponding kmspico exe setup file.
+3. The NoSound activation is about 4 seconds, I think the sound ver is like 7ish
+(It takes longer for Retail to VL Office or Windows conversions)
+4. Done. Go about your business.
+
+-Every version of this setup will install the task to re-run every time you
+log on your computer. You can remove it by running taskschd.msc /s and
+deleting the KMS Activation task. If you do this for my nosound repack,
+you will need to create a new shortcut to pass the arguments /mtk /silent /log
+
+-For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+I highly recommend just getting a proper release. I have tons of them. 
+http://thepiratebay.se/user/murphy78
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from KMSpico v2:
+- Installer added since initial v2
+- Removed TriggerKMS.
+- Add /task flag to KMSELDI.
+- Auto Task "KMS Activation" for activation every reboot without backup and sound.
+- Add $OEM$ folder only to be included inside of Windows *.iso install.
+
+murphy's note-heldigard added an oem folder for the sound version that installs 
+automatically, however it still passes the /music argument to the kmseldi program,
+invoking the star-trek sound-effects. While he works out the kinks in that you can
+use my OEM folder. It doesn't have the Setup stuff passed through the registry for
+uninstall program, but I have added my usual Uninstall-KMSpico.cmd changed to
+accomodate the new KMS Activation trigger name removal.
+
+All is Done (for now).
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to KMSELDI.exe in Antivirus.
+
+Only known issue I spotted was that the /task option does not work during windows
+setup, requiring you to import xml to schedule a task manually. I know AutoKMS
+from MTK 2.4 works during setup. I'll let heldigard know and maybe he can rework
+his trigger coding a bit. It's his program though, he will do whatever he wants :P
+
+If you bug anyone at MDL, bug me before heldigard please. His primary language
+is not English, and I, or many others in the KMS Host and Tools v3.0 thread
+can help you just fine. Your KMSpico.log is in the KMSpico directory in
+Program Files.
+ 
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-and-TOOLS-v-3-0
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Enjoy Pirates,
+murphy78-TPB

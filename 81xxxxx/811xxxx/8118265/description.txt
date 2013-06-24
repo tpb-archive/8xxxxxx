@@ -1,0 +1,64 @@
+Official Web Site:  https://itunes.apple.com/app/hammer/id548600167?ls=1&mt=12
+
+Visit:  http://help.hammerformac.com/  for help
+
+Description:
+
+Hammer is a great way of building out HTML websites. With features including HTML includes, SASS and Coffeescript parsing and Clever Paths, Hammer is an indispensable tool!
+
+Hammer has some built in features that happen automatically, and some clever functions you use with special Hammer tags
+
+* HTML Includes
+
+Front-end developers shouldn't have to run local server environments, or use PHP just to put one HTML file inside another. With Hammer, you don't have to.
+
+* Clever Paths
+
+Wouldn't it be great if you could just reference an asset by name? Hammer will search your project for the file you reference, and write the file-path for you automagically.
+
+* Variables + Helpers
+
+Set and use variables in your template files and bend your templates to your will. Hammer also adds helpful classes to your HTML link tags, making menu logic a thing of the past.
+
+* Auto Reload
+
+Every time Hammer finishes compiling your project, it automatically refreshes your browser to show your latest changes and keep things up-to-date.
+
+* SASS + CoffeeScript
+
+Hammer knows all about SASS, SCSS & CoffeeScript and will automatically compile them to CSS & JavaScript. You can also use special tags to reference them in the head.
+
+* HAML and Markdown
+
+Hammer compiles HAML and Markdown files to HTML for you.
+
+* Publish Builds
+
+With Hammer's one-click publishing, you can share your work using a unique short URL. Show your clients, get feedback, then iterate quickly and easily.
+
+What's New in Version 1.2.0
+
+Super important: A rogue bug is currently doubling-up @stylesheet and @javascript wildcard (*) tags for some users. We've submitted a fix that should be with you all shortly. 
+
+* New features:
+
+* HAML and Markdown formats
+
+* Improved compilation engine
+
+* Under-the-hood tweaks
+
+* Bug fixes
+
+* Window is now 100% more resizable
+
+What's New in Version 1.2.1
+
+ΓÇó Bug fixes for stylesheet and javascript includes
+
+System Requirements: 
+
+Intel OS version: Requirements: OS X 10.7 or later
+Processor type(s) & speed: 64-bit processor
+
+---- PLEASE SEED ---

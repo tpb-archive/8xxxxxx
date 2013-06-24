@@ -1,0 +1,38 @@
+DO NOT USE THIS UPDATE UNLESS YOU ARE FAMILIAR AND CONFIDENT ABOUT EDITING AND USING .REG FILES. ALL UPDATES ARE REQUIRED FOR THE GAME TO FUNCTION PROPERLY. USE THESE UPDATES AND .REG FILES AT YOUR OWN RISK.
+
+This crack should fix the issues people have been having with the previous crack, due to the previous crack files only working for 64-bit OS's. you still have to follow the instructions in the video, or the below instructions.
+
+I have also included a modified version of the uninstaller
+
+Update Link:
+ 
+http://thepiratebay.se/torrent/8107421/The_Sims_3_Blackbox_Expansion_Stuff_Update_I
+
+Video Tutorial Link:
+ 
+http://thepiratebay.se/torrent/8125597/The_Sims_3_Blackbox_Expansion_Stuff_Update_I_Video_Tutorial
+
+Instructions:
+
+INSTALLATION INSTRUCTIONS:
+
+I: Install the original BlackBox version of The Sims 3
+I: Install the first update into your Main Sims 3 folder (all of the other expansions and stuff packs are location here as well), then edit the .reg file's (found in the crack folders) ExePath and Install Dir paths for your installation of The Sims 3
+
+Example; My Sim 3 path is: J:Installed GamesThe Sims 3
+
+So I edited it like so:
+
+"Install Dir"="J:Installed GamesThe Sims 3The Sims 3"
+"ExePath"="J:Installed GamesThe Sims 3The Sims 3GameBinTS3.exe"
+"ExePath"="J:Installed GamesThe Sims 3The Sims 3 SeasonsGameBinTS3EP08.exe"
+"Install Dir"="J:Installed GamesThe Sims 3The Sims 3 Seasons"
+"ExePath"="J:Installed GamesThe Sims 3The Sims 3 SupernaturalGameBinTS3EP07.exe"
+"Install Dir"="J:Installed GamesThe Sims 3The Sims 3 Supernatural"
+
+Do this for each .reg crack file, wherever there is a path to the installation folder, or a .exe file.
+
+Install the updates in the correct order, then use the cracks (all of which you should of modified) that are contained inside for each update. There is an uninstaller.reg file that will remove all registry files for The Sims 3, so use that and delete the sims 3 folder to uninstall.
+
+The .reg uninstaller does not need to be edited.
+

@@ -1,0 +1,107 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+(*cheer, he thinks I help :)
+
+Release File: nullam_facete_v24.1.rar*
+Size: 30.1MB
+CRC32: 20921314
+MD5: ADFDD3CD81177E338BCB3DFC45269ABA
+SHA-1: 551005AB224CA74DAD727BAEC8757304385FFA1F
+
+*:Rar pw is masterblaster666
+The pw is to prevent A/V from eating program. This is not a website scam.
+
+KMSNano is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. I have personally activated KMSNano without
+having my lan drivers even installed on a fresh install of Windows 7.
+
+There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC
+----------Again, those versions will NEVER activate with KMS---
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Extract the rar file to a directory.
+2. Run KMSnano.exe It will install to a folder, add shortcuts,
+and trigger install. This checks activation when you log on and will
+Run the Activator if 30 days or left are less on activation
+3. Wait about 45-60secs for an initial activation if you aren't activated
+(It takes longer for Retail to VL Office 2013 conversion)
+(You will hear sound on the first install if it runs activator)
+4. Done. Run the "Check KMSnano" link on start menu to verify your activation.
+
+For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+You can try the UpDown8 v1.3.exe tool if you have a version that is
+unsupported like enterprise trial version, but you use at your own risk.
+(Download it somewhere else, Installing a legit volume version is recommended)
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log:
+- Setup Better Encrypted.
+- Sound effects (thanks to masterblaster666)
+
+All is Done (for now).
+
+heldigard's note: Important!: You dont need download it, use it, shared it,
+publish it,  picture it, sing it, even see it; proceed only in your own super
+secure  risk.
+(murphy78's note: He means use/share it at your own risk, don't be a douche)
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable microsoft security updates.
+- Make exceptions to c:_program files_KMSnano in Antivirus.
+(murphy-says: Either allow kmsnano files through antivirus protection,
+or disable defender and anti-virus updates until (if possible) obfuscation
+protection of the file)
+
+Included is KMSnano Documentation v15-US.pdf Please read this first if you have
+any problems. Currently "Silent.cmd" replaces functionality of old "kmsnano.exe"
+When you run the activator by installing or running "silent.cmd" you will
+generate "kmsnano.log" in your Kmsnano folder. You may want this if you need
+to relay some info on the MDL boards about an unsupported language or something.
+
+heldigard added a supersilent.cmd that the runtrigger.cmd will install
+This is a shortcut for after you install. Go into the program fileskmsnano
+and run the runtrigger.cmd to change to the version with no sound effects.
+supersilent.cmd is the same as silent.cmd except that it won't play sound effects
+
+If you bug anyone at MDL, bug me before heldigard please. He has enough on his
+plate. I, or many others in the setup and charge thread can help you just fine.
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Personal comment to heldigard: Nice damn job on the installer oneclick!
+Enjoy Pirates,
+murphy78-TPB

@@ -1,0 +1,26 @@
+Brutal Legend Update 1 (c) Double Fine Prod
+
+02/2013: RELEASE.DATE .. PROTECTION: Steam
+1: DISC(S) .. GAME.TYPE: Action
+
+Major Fixes:
+
+IMPORTANT NOTE: 60Hz sim is now opt in not opt out. If you have a fast
+computer and can handle the 60 fps sim, please just turn it on in
+Brutal Legends Options!
+Fixes to performance/lag on computers with slower CPUs
+HiFi Sim (i.e. simulate at 60 fps) now off by default. Users can enable
+it, but may see some jitter until we fix a couple more bugs
+Fixes to some options not saving/loading correctly
+Fix for oceans sometimes not rendering on AMD GPUs
+Missing cutscene at end of intro bridge plays properly again
+Mission beacon now appears appropriately throughout game
+Fixes to some car physics when Hi Fi Sim is on
+
+
+1. Install the update to your game dir. Overwrite existing when asked
+2. Copy the content from /Crack directory to the
+directory of the game, overwriting the existing
+files
+3. Play the game
+4. Support the software developers. If you like this game, BUY IT!

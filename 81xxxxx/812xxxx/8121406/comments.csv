@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,Nomad_2nd,2013-02-09T11:54Z,Enjoy with final HD Textures for Crysis 2...
+,shauwy1978,2013-02-09T12:25Z,"Of course i take it thanx bro ;)
+But what the difference with the 4.0 beta ?"
+,Nomad_2nd,2013-02-09T12:29Z," MaLDoHD 4.0 Final version
+
+    Before use this mod, I recommend you run Crysis 2 and select standard Extreme graphics settings. Select DX9 or DX11 (I recommend DX11 for this mod, all changes have been made to shine in DX11). Select your resolution, you can use downsampling for better results. You can disable HiRes Textures if you want save some memory (not recommended). Then exit game.
+
+    Download mod, unrar, and execute MaLDoHD_C2_Setup to run installer.
+
+    Select your Crysis2 game root folder if installer can't find the path.
+
+    When installer finish, run Config Tool (shortcut in your desktop).
+
+    Use recommended settings. I know you maybe have a super highend computer, but take a look to Recommended Settings in Config Tool. This mod has been tweaked for use those settings. You can add Reflections, Penumbra Shadows and those candy effects over Recommended Settings preset using checkboxes. I recommend you do NOT check Particles Shadows. If you miss some important graphic effect using this config, ask me using this blog before try standard Ultra preset. I want you can play this mod with higher framerate possible. 
+
+    Don't use ingame graphics options. Using could break mod configuration. Don't worry if you see Extreme preset into game menu. It's the way MaLDoHD works. You will see Extreme preset always, regardless of the actual quality level. It's a trick to enable dinamic shadows for every configuration because some dynamic lights only cast shadows for extreme quality or higher, so the mod fools the game into thinking it is always in extreme settings.
+
+    Use DXOverrider or twice ALT+TAB to enable Triplebuffering. Crysis 2 DX11 has Triplebuffering disabled by default. If you use multigpu you don't need it (remember to check Multigpu option in Config Tool in your case).
+
+    When you play the mod for the first time, you must start a new campaign or restart a level from mod menu. Savegames from original levels checkpoints DON'T WORK. It's because this mod uses updated versions of maps and savegames have map info inside that don't match with the updated versions. Using old checkpoints from original maps in updated maps produces invisible objects and broken gameplay, so you can't resume your old campaign checkpoint. Start new campaign to play whole game or use Mod campaign menu for map selection. If you want reset your nanopoints, create a new profile.
+
+    If you are using Windows 8, you must avoid two highest values for antialiasing in Config Tool. Those modes use SMAA injector through SweetFX. A lot of users have reported ""uknow resolution"" problems with this injector in Windows 8. I can't find a fix because I don't have W8.
+
+    I hope you enjoy this mod."
+,Nomad_2nd,2013-02-09T12:34Z,"if torrent is slow here links for Mega
+https://mega.co.nz/#!2QI3yK6I!NN4JPm1ubeetgbLxI29FDzeMg1dL14Q3yP5x_xKQ3Vg
+https://mega.co.nz/#!iIoyXAoJ!JnLr9wL4Sp0nYTmTa7BH8Cduccg-3sTcF67mPhGiqUE
+https://mega.co.nz/#!eBQnEaQQ!PchJn0FHCkn686UNAIZOzHdtjAMFZEb_n0qa6k-4_z8"
+,Nomad_2nd,2013-02-09T15:22Z,link

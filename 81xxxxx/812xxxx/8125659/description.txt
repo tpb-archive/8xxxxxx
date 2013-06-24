@@ -1,0 +1,103 @@
+[size=5][color=red][u][b]Audacity win 2.0.3 [bellatrix][/b][/u][/color][/size]
+
+[img]http://audacity.sourceforge.net/about/images/audacity-windows.png[/img]
+
+[size=4][color=orangered][b]Audacity is a free, easy-to-use and multilingual audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. You can use Audacity to:[/b][/color][/size]
+
+
+[size=4][color=deepskyblue]Record live audio.
+Convert tapes and records into digital recordings or CDs.
+Edit Ogg Vorbis, MP3, WAV or AIFF sound files.
+Cut, copy, splice or mix sounds together.
+Change the speed or pitch of a recording.
+[/color][/size]
+[size=5][color=violet][u][b]Features[/b][/u][/color][/size]
+
+[size=4][color=lightskyblue]This is a list of features in Audacity, the free, open source, cross-platform audio editor. For full information on how to use these features, go to the help pages.
+[/color][/size]
+
+[size=4][color=orangered][u][b]Recording[/b][/u][/color][/size]
+
+[size=4]Audacity can record live audio through a microphone or mixer, or digitize recordings from cassette tapes, records, or minidiscs. With some sound cards, Audacity can also capture streaming audio.
+
+Record from microphone, line input, USB/Firewire devices and others.
+Device Toolbar manages multiple input and output devices.
+Timer Record and Sound Activated Recording features.
+Dub over existing tracks to create multi-track recordings.
+Record at sample rates up to 192,000 Hz (subject to appropriate hardware). Up to 384,000 Hz is supported for appropriate high-resolution devices, except when using Windows DirectSound host.
+Record multiple channels at once (subject to appropriate hardware).
+Level meters can monitor volume levels before, during and after recording. Clipping can be displayed in the waveform or in a label track.[/size]
+
+[size=4][color=orangered][u][b]Import and Export[/b][/u][/color][/size]
+
+[size=4][color=pink]Import sound files, edit them, and combine them with other files or new recordings. Export your recordings in many different file formats, including multiple files at once.
+
+Import and export WAV, AIFF, AU, FLAC and Ogg Vorbis files.
+Fast "On-Demand" import of WAV or AIFF files (letting you start work with the files almost immediately) if read directly from source.
+Import and export all formats supported by libsndfile such as GSM 6.10, 32-bit and 64-bit float WAV and U/A-Law.
+Import MPEG audio (including MP2 and MP3 files) using libmad.
+Import raw (headerless) audio files using the "Import Raw" command.
+Create WAV or AIFF files suitable for burning to audio CD.
+Export MP3 files with the optional LAME encoder library.
+Import and export AC3, M4A/M4R (AAC) and WMA with the optional FFmpeg library (this also supports import of audio from video files).[/color][/size]
+
+[size=4][color=orangered][u][b]Sound Quality[/b][/u][/color][/size]
+
+[size=4][color=red]Supports 16-bit, 24-bit and 32-bit (floating point) samples (the latter preserves samples in excess of full scale).
+Sample rates and formats are converted using high-quality resampling and dithering.
+Tracks with different sample rates or formats are converted automatically in real time.[/color][/size]
+
+[size=4][color=orangered][u][b]Editing[/b][/u][/color][/size]
+
+[size=4][color=silver]Easy editing with Cut, Copy, Paste and Delete.
+Unlimited sequential Undo (and Redo) to go back any number of steps.
+Edit and mix large numbers of tracks.
+Multiple clips are allowed per track.
+Label tracks with selectable Sync-Lock Tracks feature for keeping tracks and labels synchronized.
+Draw Tool to alter individual sample points.
+Envelope Tool to fade the volume up or down smoothly.
+Automatic Crash Recovery in the event of abnormal program termination.[/color][/size]
+
+[size=4][color=orangered][u][b]Accessibility[/b][/u][/color][/size]
+
+[size=4][color=khaki]Tracks and selections can be fully manipulated using the keyboard.
+Large range of keyboard shortcuts.
+Excellent support for JAWS, NVDA and other screen readers on Windows, and for VoiceOver on Mac.[/color][/size]
+
+[size=4][color=orangered][u][b]Effects[/b][/u][/color][/size]
+
+[size=4][color=deepskyblue]Change the pitch without altering the tempo (or vice-versa).
+Remove static, hiss, hum or other constant background noises.
+Alter frequencies with Equalization, Bass Boost, High/Low Pass and Notch Filter effects.
+Adjust volume with Compressor, Amplify, Normalize, Fade In/Fade Out and Adjustable Fade effects.
+Remove Vocals from suitable stereo tracks.
+Create voice-overs for podcasts or DJ sets using Auto Duck [/color][/size]
+
+[size=4][color=orangered][u][b]effect[/b][/u][/color][/size]
+
+[size=4][color=violet]Other built-in effects include:
+Echo
+Phaser
+Wahwah
+Paulstretch (extreme stretch)
+Reverse
+Truncate Silence
+Run "Chains" of effects on a project or multiple files in Batch Processing mode.[/color][/size]
+
+[size=4][color=orangered][u][b]Plug-ins[/b][/u][/color][/size]
+
+[size=4][color=tomato]Add new effects with LADSPA, Nyquist, VST and Audio Unit effect plug-ins.
+Effects written in the Nyquist programming language can be easily modified in a text editor - or you can even write your own plug-in.[/color][/size]
+
+[size=4][color=orangered][u][b]Analysis[/b][/u][/color][/size]
+[size=4][color=lime]
+Spectrogram view modes for visualizing frequencies.
+"Plot Spectrum" command for detailed frequency analysis.
+"Sample Data Export" for exporting a file containing amplitude values for each sample in the selection.
+Contrast Analysis for analyzing average rms volume differences between foreground speech and background music.
+Support for adding VAMP analysis plug-ins.[/color][/size]
+
+
+[size=5][color=tomato]DOWNLOAD !!![/color] [color=violet] SEED !!![/color]  [color=orange]ENJOY !!![/color][/size]
+
+:thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::lol::smile::thumbsup::thumbsup::thumbsup:

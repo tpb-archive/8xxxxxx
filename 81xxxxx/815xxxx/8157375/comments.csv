@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,notathome,2013-03-01T16:17Z,"So, I click the setup icon, it seems to install everything, then when I try to play it asks me to insert a disc. Was I supposed to have burned it on a disc? I'm freaking lost here."
+,dora77,2013-03-02T15:13Z,"And did you use the crack included, maybe the crack is wrong..."
+,sgt_noobums,2013-03-05T14:58Z,"Ok i must be missing something but i install and then try to run the game and it tries to get me to activate it.  There is no crack folder included that i can find and (obviously, seeing as i am having this issue) if the crack is supposed to be preinstalled it is not working right.
+
+Anyone know what the problem is?"
+,x1xaw,2013-03-08T08:09Z,"it played alright. but after i rescue catwoman and then get out to park row and the game saves and i can play as long as i can with no problem, but if i go to load the game upon exiting from any point after rescuing catwoman, the game goes on a black screen and doesnt load at all, and often crashes. any fix?"
+,seahawk2,2013-04-05T10:30Z,"@ x1xaw 
+To fix the crash :
+start game on EASY
+In Normal mode , there are chances of crash
+For those who already started game in NORMAL:
+GO TO C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Delete (make a backup) Synopsis8_SF.upk and
+Copy Synopsis0_SF.upk fromC:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+and paste it in C:Program FilesR.G. CatalystBatman Arkham CityBmGameCookedPCConsole
+Rename it to Synopsis8_SF.upk "
+,Daboor,2013-04-20T21:36Z,can someone please explain how to make this autonomous account I already have an account but I still can't save plzzzz reply.
+,dirtfoot1985,2013-04-27T00:53Z,I actually am having the same problem notathome it keeps asking for a disc I dont know what to do

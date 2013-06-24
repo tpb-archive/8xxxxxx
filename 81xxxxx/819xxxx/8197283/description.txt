@@ -1,0 +1,102 @@
+ http://lookpic.com/O/i2/1702/wShmXNgG.jpeg
+
+This is the most complete release which includes all available verisons of Windows 7 (except "N" and "E" editions) :
+ 
+http://lookpic.com/O/i2/790/BoSB7tFN.png
+
+********************************** 
+* Windows 7 Starter 32-bit 
+* Windows 7 Home Basic 32/64-bit 
+* Windows 7 Home Premium 32/64-bit 
+* Windows 7 Professional 32/64-bit 
+* Windows 7 Enterprise 32/64-bit 
+* Windows 7 Ultimate 32/64-bit 
+********************************** 
+
+- Bootable ISO which perfectly fits on classic DVD5 disc. 
+- Activated (no serial needed). 
+- Genuine version (Windows Update is available).
+
+Quote
+
+Service Pack 1 
+Microsoft released the first official service pack for Windows 7 on February 22, 2011. This is an important update that includes previously released security, performance, and stability updates for Windows 7. SP1 also includes new improvements to features and services in Windows 7, such as improved reliability when connecting to HDMI audio devices, printing using the XPS Viewer, and restoring previous folders in Windows Explorer after restarting. 
+Windows 7 Service Pack 1 is an update that does the following : 
+
+- Helps keep PCs supported. 
+- Provides ongoing improvement to the operating system, by including previous updates delivered over Windows Update as well as continuing incremental updates to the Windows 7 platform based on customer and partner feedback. 
+- Makes it easy for organizations to deploy a single set of updates. 
+
+Changes specific to Windows 7 
+
+Additional support for communication with third-party federation services 
+Additional support has been added to allow Windows 7 clients to effectively communicate with third-party identity federation services (those supporting the WS-Federation passive profile protocol). This change enhances platform interoperability, and improves the ability to communicate identity and authentication information between organizations. 
+
+Improved HDMI audio device performance 
+A small percentage of users have reported issues in which the connection between computers running Windows 7 and HDMI audio devices can be lost after system reboots. Updates have been incorporated into SP1 to ensure that connections between Windows 7 computers and HDMI audio devices are consistently maintained. 
+
+Corrected behavior when printing mixed-orientation XPS documents 
+Prior to the release of SP1, some customers have reported difficulty when printing mixed-orientation XPS documents (documents containing pages in both portrait and landscape orientation) using the XPS Viewer, resulting in all pages being printed entirely in either portrait or landscape mode. This issue has been addressed in SP1, allowing users to correctly print mixed-orientation documents using the XPS Viewer.
+
+
+Quote:
+How to install : 
+************** 
+
+- Extract using WinRAR. 
+- Use ImgBurn** to burn the extracted ISO file called "faXcooL.Windows.7.SP1.ENG.x86-x64.ACTiVATED" 
+* You can use any other software for this operation (Nero, Alcohol, CloneCD...) 
+* Burning speed should not be faster than 4x. 
+- Restart your computer*. 
+* You can install it from existing OS, but I'll recommend the clean installation. 
+- Make sure you've seleceted your DVD-ROM/RW drive as a first boot device (BIOS setup)* 
+* If you don't know how to do that, check this link http://www.hiren.info/pages/bios-boot-cdrom 
+- The text message will appear "Press any key to boot from CD or DVD...." 
+* By pressing the key you're entering the setup. 
+- Select your language, time and currency and keyboard input (optionaly) 
+- Click "Install now". 
+- Choose your edition* (x86 is 32-bit, x64 is 64-bit) depending of CPU type you have. 
+* Note that if you have less than 4GB of RAM, x64 will be useless. 
+- Click "I accept". 
+- Click "Custom (advanced). 
+- Choose your partition/hdd drive where Win7 should be installed and click format. 
+* Setup will continue automaticly and it will finish after 15-30 min. 
+- Next step will be username (Image 17). 
+- Type your password (if you want). 
+- Choose the third option for next step. 
+- Select your time zone. 
+- Select your current location. 
+- And the last step will be silent auto-activation* 
+* Your PC will restart for the last time. 
+
+And that would be all about installation. You're in Windows now. 
+
+- Activation - 
+*************** 
+
+This release has integrated RemoveWAT 2.2.6.0. 
+This tool completely removes Windows Activation Technologies from your sytem and your Windows will be fully activated and fully updateable, plus, you won't have to worry about malicious updates (i.e. KB971033) which can deactivate your copy of Windows. 
+It runs automaticly and silently after the setup. 
+
+- x64 Recovery - 
+**************** 
+
+This release has integrated Windows 7 Recovery Disc which can be used to access a system recovery menu, giving you options of using System Restore, Complete PC Backup, automated system repair and a command-line promptfor manual advanced recovery. Note that you cannot use the Windows 7 Recovery Disc to re-install Windows. It only fixes Windows. 
+
+
+If you have problems with Microsoft Security Essentials : 
+
+1. Restore WAT and reboot. 
+2. Download MSE :  
+http://www.microsoft.com/security_essentials/default.aspx 
+3. Install 
+4. Remove WAT. 
+
+RemoveWAT is located in : 
+\sources$oem$$$SetupscriptsfaXcooL.exe
+ 
+http://lookpic.com/O/i2/9/g3yHQtN.gif
+
+THANK YOU TO THE ORIG PROVIDER
+
+faXcooL

@@ -1,0 +1,58 @@
+ http://imdb.com/title/tt1333125/
+
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 1.46 GiB
+Duration                         : 1h 39mn
+Overall bit rate                 : 2 095 Kbps
+Encoded date                     : UTC 2013-02-26 05:37:27
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 11 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 39mn
+Bit rate                         : 1 645 Kbps
+Width                            : 800 pixels
+Height                           : 450 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 24.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.190
+Stream size                      : 1.12 GiB (77%)
+Writing library                  : x264 core 119 r2106 07efeb4
+Encoding settings                : cabac=1 / ref=11 / deblock=1:-2:-1 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.10 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=10 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=80 / rc=2pass / mbtree=1 / bitrate=1645 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=2:0.90
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 39mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 319 MiB (21%)
+Language                         : Russian
+
+Screens: 
+http://i.imgur.com/mkxblvM.png 
+http://i.imgur.com/zcpM3LYl.jpg 
+http://i.imgur.com/O7Whlhz.png 
+http://i.imgur.com/Nu4YlNU.png 
+http://i.imgur.com/dWvc2dh.png

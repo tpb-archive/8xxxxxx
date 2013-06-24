@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,Cloister1,2013-03-06T01:12Z,"WARNING: I installed this and found that a malware program called iehighutil.exe came with. It's some kind of bitcoin accumulator that overloads your GPU - I started getting constant GPU driver kernel issues (It also created a folder under c:temporary with the exact timestamp when I installed Highborn.)
+
+Be warned. You have to use msconfig to disable the iehighutil.exe program from restarting at startup, but after doing that and killing the process, I was free of the kernel problems again."

@@ -1,0 +1,77 @@
+murphy78 proudly presents Windows 8 PRO VL x86 en-US Feb2013
+Hotfixes included bring install current to Feb12 patch date
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+32-bit MSDN Source:
+en_windows_8_pro_vl_x86_dvd_917830.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Pro VL 32-Bit
+Windows 8 Pro VL 32-Bit KMS Pre-Activated
+
+KMS Pre-activated index is Pre-Activated with KMSnano v25 and
+reactivated whenever you boot with 30 days or less left on
+your activation.
+
+Release File: Win8Pro-VL-x86-en-US-Feb2013.iso
+Size: 3.37GiB
+CRC32: 27A83E2A
+MD5: 61A65A9631E472A36B93B96F5601B3B5
+SHA-1: EF88E20AAC5725B5478923BA721EA1A2D976C6D6
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image capture, recompression, and export
+dism for image mount (For copying a few files)
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+setupcomplete.cmd phase:
+Default install does not use setupcomplete.cmd
+-for KMS Pre-Activation index:
+KMSNano.exe
+schtasks xml task import for trigger
+reg add runonce for redundant trigger /install
+(It doesn't change your settings, just runs the trigger install)
+
+Changes from recent Windows 8 x64 releases:
+-Complete updating done online with audit mode and sysprep
+-DirectX web runtime ran to ensure latest directx files
+-NetFx2-3.5.1 added and patched to latest
+-Unmodified ei.cfg for extra stability long-term
+-Obviously the KMS Pre-Activation stuff
+
+People often ask in the comments which version of windows 8 I
+would recommend for them. Well, folks, for x64 people, this is
+the one I would recommend. Pro VL has the least likely chance
+of developing activation problems since the only offline method
+we have come up with for bypassing security is KMS. Enterprise
+has Windows 8 To Go and Hyper-V but most people don't use that.
+
+If a future problem arises and a newer activation method is
+needed, you can run the Uninstall-KMSnano.cmd in the folder:
+windows_setup_kmsnano This will delete the scheduled task and
+remove the kmsnano files.
+
+I'm not sure if smartscreen filter will bother with scheduled
+tasks and scripted tasks, but if it does, turn it off in
+action center in the control panel - system and security
+Allow any related programs through any firewall programs
+and A/V updates. (False positive in future for activator)
+
+01-Activation_Proof 
+http://bayimg.com/DaJOEaAeI
+
+02-Trigger_task_screen 
+http://bayimg.com/DaJOgaaEi
+
+(/salute heldigard)
+Enjoy Pirates,
+murphy78-TPB :)

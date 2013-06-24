@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+[T],maizena,2013-02-07T20:51Z,"General
+UniqueID/String                          : 236515893482005044880568510133514414774 (0xB1EF4DDD4D4B9422A92FCDD62F962AB6)
+Nombre completo                          : C:Taken2 .mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 4,19GIB
+Duración                                 : 1h 38min.
+Tasa de bits total                       : 6 098Kbps
+Película                                 : Taken2 
+Fecha de codificación                    : UTC 2013-01-29 22:34:00
+Aplicación de codifición                 : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 38min.
+Tasa de bits                             : 4 377Kbps
+Tasa de bits nominal                     : 4 600Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 800pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.119
+Tamaño de pista                          : 3,01GIB (72%)
+Título                                   : Taken2 
+Librería de codificación                 : x264 core 120 r2120 0c7dab9
+Opciones de codificación                 : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=hex / subme=5 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=4600 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Format_Settings_Mode                     : 16
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_DTS
+Duración                                 : 1h 38min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 768Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Tamaño de pista                          : 540MB (13%)
+Título                                   : DTS Castellano 
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A"

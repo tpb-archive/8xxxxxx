@@ -1,0 +1,72 @@
+﻿User Type,Username,Date,Text
+,Samotom,2013-02-22T23:54Z,"""Uploaded 5 mins ago"". That was fast!"
+,moeburn1,2013-02-23T01:56Z,"man this game looks weird.  I'm loving these mind-bending games like Portal and Antichamber, and now yet another one to fuck with my head!"
+,gendalv,2013-02-23T08:32Z,everywhere wrong release date :) it was released in 2011
+[V],Mr.Stifmeister,2013-02-23T09:51Z,@gendalv: At steam it says Release: 22 february 2013. http://store.steampowered.com/app/204240/
+[V],-wxm-,2013-02-23T11:08Z,"Thank you, this game is quite remarkable :D"
+,rhino999,2013-02-23T19:14Z,@gendalv : This is different game
+,Miatakias83,2013-02-23T23:34Z,guys what must i do to play??there is nothing to unzip...and there is no ISO.....how will i install it??
+,xgatto,2013-02-24T02:25Z,"I can't get it to work. It crashes on startup with the typical 'stopped working' message of Windows. Crack was installed properly as far as I know, its only 1 file."
+,Samotom,2013-02-24T08:07Z,"@Miatakias83: Its a bin file instead of ISO, pretty much the same. Just ""Open with..."" with Daemon Tools. "
+,mmsandi,2013-02-24T13:52Z,Walking with A+D doesn't work for me.
+,Miatakias83,2013-02-24T16:22Z,samoton  thnx man i google how to open a bin fle with power ISO cause i did not know to do it and now i will try to install it...:)
+,zkteh,2013-02-25T15:00Z,"Hey , 
+can somebody help me to solve this problem ? 
+
+
+http://sphotos-a.ak.fbcdn.net/hphotos-ak-prn1/17647_351901771592753_2135433367_n.jpg"
+,zkteh,2013-02-25T15:07Z,"@xgatto , yes .. 
+i am having exactly the same problem :( "
+,Zamzumin,2013-02-26T03:07Z,Came crashes on start on Windows XP SP3. Steps followed correctly.
+,Sons2010,2013-02-26T09:17Z,hey guys i got the same problem like zkteh.pls try to solve it
+,palhinha,2013-02-27T17:30Z,"for people using daemon tools do the following:
+associate first file with Rar, 
+then extract to a specified folder, 
+open daemon tools, 
+mount the Cue file on that folder, 
+PLAY!"
+,bb7891,2013-02-27T23:58Z,"doesn't work
+""The Bridge has stopped working"" ...Problem Signature 04:	Microsoft.Xna.Framework""
+
+Win7 32bit"
+,RiceKun,2013-02-28T13:34Z,"I have the same problem everyone else seems to be having regardless of which torrent I use. :(
+
+I'm using windows 7 64 bit and getting the same problem as zkteh and others. "
+,LgnLOL,2013-02-28T16:21Z,"Ok guys, i've found the problem.
+You need Windows Media Player installed on your pc in order to run the game.
+At least it worked for me, tell me if it works for you too :D"
+,LgnLOL,2013-02-28T16:25Z,"Ok guys, i've found the problem.
+You need Windows Media Player installed on your pc in order to run the game.
+At least it worked for me, tell me if it works for you too."
+,bb7891,2013-02-28T17:57Z,@LgnLOL Thank you!
+,bb7891,2013-02-28T20:04Z,"I had windows media player installed already, but it was turned off in ""Control PanelAll Control Panel ItemsPrograms and Features -> ""turn windows features on or off""  -> 'media features' -> windows media player
+
+game works now"
+,Zamzumin,2013-03-01T01:11Z,"@LgnLOL
+Fuck that, I'm not getting Windows Media Player just to play this game. Does anybody know a work around? How to fool the game into thinking that WMP is installed?"
+,LgnLOL,2013-03-01T13:01Z,"@Zamzumin I don't think it's possible. The audio is based on wmp files or smth like that, try to search the discussion on the steam forum."
+,zkteh,2013-03-03T09:01Z,"@LgnLOL , @bb7891
+
+Help .... =( 
+I already have my WMP pre-installed in my PC .. 
+and i check in Windows Feature , it's enabled .. 
+and WMP is working fine... 
+"
+,angma,2013-03-03T17:35Z,"Try installing the XNA redistributable.
+""The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 4.0."""
+,angma,2013-03-03T17:37Z,"It really doesn't look as if WMP is the problem. I've had games on steam install XNA before, so I'm not having problems. WMP is completely disabled on my Win7 x64 box."
+,zkteh,2013-03-04T09:43Z,"@angma 
+Yeah , u are right ..... 
+
+but the main problem is my VIrtual Drive Program not supporting .bin/.cue   
+
+Daemon Tools Lite helped me =D 
+- just remember to apply the crack ( steam_api.dll ) 
+
+To Uploader , if u have time , pls convert to ISO format ..... "
+,ChocolateAddict,2013-03-11T08:27Z,thanks for uploading. it worked fine for me.
+,jiff311,2013-03-15T19:00Z,am using a mac pro and it doesnt seem to work any hep plz ?
+,minastirith,2013-03-29T15:57Z,"Extracted after changing to .rar and mounted in PowerISO... access denied, can't even install it. Sigh what a waste of time. "
+,minastirith,2013-03-29T15:59Z,"Ignore my previous comment, you need to right click the .exe and run as Administrator. "
+,blackdragon13,2013-04-20T21:04Z,When I try to mount it with Daemon Tools Lite it shows nothing to mount.
+,blackdragon13,2013-04-20T22:33Z,Shows nothing to mount when using Power ISO either.

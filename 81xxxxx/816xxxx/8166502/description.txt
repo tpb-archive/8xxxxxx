@@ -1,0 +1,33 @@
+Zygor Guides update v4.0.5920, released February 19th, 2013. (Horde and Alliance)
+
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+
+Patch notes:
+
+
+Version: 4.0.5920
+Released on: February 19th, 2013
+[B] Reputations
+Fixed content with the Best Friend Reputations
+
+[B] General
+Removed portal steps now handled through the travel system
+
+[A] Achievements
+Pet collection achievement updated.
+
+[H] Reputations
+Worked on updating the Sporeggar and the Maghar Reputations
+Version: 4.0.5913
+Released on: February 19th, 2013
+[H] Titles
+Fixed a lua error with the SSO title.

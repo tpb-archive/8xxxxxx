@@ -1,0 +1,52 @@
+Nume complet : Nazis at the Center of the Earth 2012 BDRip XviD.RoHardSubb-GodFront.mkv 
+Format : Matroska 
+Format_Version : Version 2 
+Dimensiunea fisierului : 689 
+Duration/String : 1h 29mn 
+BitRate general : 1 075 
+Data codarii : UTC 2012-08-11 04:13:27 
+Dezvoltator aplicatie : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04 
+Dezvoltator biblioteci : libebml v1.2.3 + libmatroska v1.3.0 
+
+Video 
+ID : 1 
+Format : MPEG-4 Visual 
+Format_Profile : Advanced Simple@L5  
+CodecID : XVID 
+Duration/String : 1h 29mn 
+BitRate/String : 925 
+Latime : 624pixeli 
+Inaltime : 352pixeli 
+Raport imagine : 16:9 
+Frecventa cadre : 23,976pfs 
+ColorSpace : YUV 
+ChromaSubsampling : 4:2:0 
+BitDepth/String : 8biti 
+Bits-(Pixel*Frame) : 0.176 
+StreamSize/String : 593 (86%) 
+Dezvoltator biblioteci : XviD 61 
+Default : Da 
+Forced : Nu 
+
+Audio 
+ID : 2 
+Format : MPEG Audio 
+CodecID : A_MPEG/L3  
+Duration/String : 1h 29mn 
+BitRate/String : 128 
+Canal(e) : 2canale 
+SamplingRate/String : 48,0 
+StreamSize/String : 81,8 (12%) 
+Dezvoltator biblioteci : LAME3.90. 
+Setari codare : -m j -V 4 -q 2 -lowpass 17.6 --abr 128 
+Default : Da 
+Forced : Nu 
+
+Text 
+ID : 3 
+Format : UTF-8 
+CodecID : S_TEXT/UTF8 
+/ : UTF-8 Plain Text 
+Titlu : Romanian(GodFront) 
+Default : Da 
+Forced : Da

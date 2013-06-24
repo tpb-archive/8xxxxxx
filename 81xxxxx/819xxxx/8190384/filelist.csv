@@ -1,0 +1,15 @@
+﻿Filename,Size,Unit
+bios/SCPH1001.bin,512,K
+bios/scph7502.bin,512,K
+cards/slot1.bin,128,K
+d3dx9_26.dll,2.19,M
+primero copiar dll a c-windows-system32/d3dx9_26.dll,2.19,M
+psx.ini,3.07,K
+psxfin.exe,1.82,M
+readme.txt,17.94,K
+saves/1.psv,3.73,M
+saves/FFT.psv,3.63,M
+saves/put_saves_here.txt,17,B
+unicows.dll,252.3,K
+unicows_license.txt,27.37,K
+utils/cdztool.exe,152,K

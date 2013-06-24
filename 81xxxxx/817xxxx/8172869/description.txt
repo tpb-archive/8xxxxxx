@@ -1,0 +1,11 @@
+What's new in version 6.15 Final Build 3 (Released: February 21, 2013)
+
+- Added support for Firefox 21
+- Fixed a critical bug with processing some types of redirects
+- Fixed bugs with tabs rendering on "Download progress" dialog when Windows font size is increased, bugs with "download progress" component rendering
+
+IDM is multilingual. IDM is translated to
+Albanian, Arabic, Azerbaijan, Bosnian, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, Farsi, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Lithuanian, Macedonian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Thai, Turkish, and Uzbek languages.
+
+Homepage :  
+http://www.internetdownloadmanager.com

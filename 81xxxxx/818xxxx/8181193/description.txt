@@ -1,0 +1,14 @@
+CS 1.6 EcstaticCheat
+* Aimbot (not done)
+- Vector system
+- Aimlock (seriously advice keeping this on if your using mouse1)
+- AimSmooth (Human aiming)
+- Aimkey system (Mouse1-5)
+- AimTeam (0=Enemy || 1=Friends || 2=Everyone)
+- FOV around target (wich means FOV decreases the further away target is)
+* Wallhack
+* NoSmoke
+* NoFlash
+- FlashPercent (what alpha flash should start at, around 200 is "legit")
+* AntiRecoil
+- RecoilStrength (100 = No recoil) 

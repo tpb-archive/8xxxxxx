@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,Croweyes1121,2013-02-18T14:00Z,"Any chance of a 2D version of the 3D remaster? The 2D version has inferior video quality, but I don't have a 3D television. So I'd love a rip of just the ""left eye"" stream of this! Thanks!"
+[T],maizena,2013-02-19T00:22Z,wait please
+,Croweyes1121,2013-02-19T13:58Z,"Sure, thank you so much!!"
+,DuckyNDS,2013-02-20T00:05Z,Thank you for the upload but is there any possibility of getting an under-3gb version of this? The only thing I have to play this on is my PS3 and it doesn't like large files.
+,Croweyes1121,2013-02-20T13:11Z,"@Ducky - Seek out version 2.4.6 of mkv2vob.  It will convert this into a playable mpg file for the PS3, DTS audio intact and all.  Version 2.4.7 broke DTS encoding, so make sure not to get that version.  Just use something like PS3 Media Server to stream it direct from your computer.  The mkv2vob process takes less than 5 minutes, does NO re-encoding of the original, and works like a charm."
+,Croweyes1121,2013-02-20T13:20Z,@Ducky - Just convert the mkv to mpg with mkv2vob (MUST be version 2.4.7 - 2.4.9. will NOT work correctly).  Takes five minutes and does not affect quality.  Then just stream the file to your PS3.  Works like a charm.

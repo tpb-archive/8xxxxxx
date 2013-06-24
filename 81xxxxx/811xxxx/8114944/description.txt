@@ -1,0 +1,47 @@
+                             WBICreator - 2010kaiser
+                             ~~~~~~~~~~~~~~~~~~~~~~~
+
+I've uploaded this small portable freeware utility for those users who are having difficulty making bootable .ISO images from my Windows uploads.
+
+Info:
+=====
+
+WBICreator (Windows Bootable Image Creator) is a free and portable utility created by Shashi Kumar Sinha which allows you to create bootable ISO image file of Windows XP, Vista and Windows 7 setup.
+
+You just need to give any desired name to ISO image file, select the folder containing Windows setup files and select the target folder which will store the new ISO file and you are done. Just sit back and the bootable ISO image file will be created automatically within a few minutes which can be burned on a disk using any CD/DVD burning software.
+
+Instructions:
+=============
+1. Create a folder on your desktop. (For simplicity, i'll name this folder 'EXTRACTED').
+2. Extract the contents of your downloaded Windows .ISO image to the folder named 'EXTRACTED' using e.g. PowerISO.
+3. Create a 2nd folder on your desktop. (For simplicity, i'll name it 'COMPILED').
+4. Run WBICreator.
+5. From the 1st drop down menu, select the O/S type (For simplicity, i'll be using Windows 7).
+6. In the 'CD/DVD Label' window, name it what you like.
+7. In the 'Setup Location' window, navigate to and select the 'EXTRACTED' folder.
+8. In the 'Output Path' navigate to and select the 'COMPILED' folder.
+9. Click 'GO'.
+10. Once the process has finished, a bootable Windows 7 .ISO has been created in the folder named 'COMPILED'.
+11. Now just burn the image to disk using e.g. PowerISO.
+
+JOB DONE!!!
+
+2010kaiser home page at The Pirate Bay link below:
+
+  
+http://thepiratebay.se/user/2010kaiser/
+
+
+Check out the new PirateWiki! Where knowledge is shared ;-)
+
+           
+https://forum.suprbay.org/wiki/index.php?title=Portal:Main_Page
+
+
+For re-seed requests, help, support or anything else relating to The Pirate Bay. You'll find it all, and more, at suprbay. The official support forum of The Pirate Bay. Visit it at the link below:
+
+  
+https://forum.suprbay.org/ 
+
+
+ENJOY AND SEED!!!

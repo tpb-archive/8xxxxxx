@@ -1,0 +1,88 @@
+Poweramp Music Player FULL v2.0.8-build-521 + Widget Pack/Classic Skin
+
+Requirements: 2.1 and up, Rooted Phone
+
+Overview: Powerful Music Player for Android. Poweramp is a powerful music player for Android.
+
+Key Features:
+- plays mp3, mp4/m4a (including alac), ogg, wma*, flac, wav, ape, wv, tta, mpc, aiff (* some wma pro files may require NEON support)
+- 10 band optimized graphical equalizer for all supported formats, presets, custom presets
+- separate powerful Bass and Treble adjustment
+- stereo eXpansion, mono mixing, balance
+- crossfade
+- gapless
+- replay gain
+- plays songs from folders and from own library
+- dynamic queue
+- lyrics support, including lyrics search via musiXmatch plugin
+- embed and standalone .cue files support
+- support for m3u, m3u8, pls, wpl playlists
+- OpenGL based cover art animation
+- downloads missing album art
+- 4 configurable widget types
+- configurable lock screen with optional Direct Unlock
+- headset support, automatic Resume on headset and/or BT connection (can be disabled in settings)
+- scrobbling
+- tag editor
+- visual themes, including support for external/3rd party skins
+- fast library scan
+- high level of customization via settings
+
+What's in this version:
+- build-520: updated localizations. Huge thanks to all crowdin.net translators!
+- build-519: Android 4.2+ lockscreen widget support
+- build-519: MusicFX API support (Settings=>Audio=>Advanced Tweaks), useful for Sony devices with custom MusicFX & some CM ROMs
+- build-519: Huawei Dolby Mobile support (where available on Huawei devices, like Ascend P1)
+- build-519: better ogg buffer management to avoid skips on Samsungs @ 4.1+
+- build-519: experimental multiwindow support for Samsung Notes
+- build-519: aiff id3v2 embed art
+- build-518: fix for playlist/library being reset sometimes when storage is unmounted and in few other cases
+- build-518: fixed Replay Gain for ogg
+- build-517: Hungarian (Gyula Király, Szilard Kovacs, Gyula Juhász, Bence Ujj, Szaby59, attila.kovacs.908132)
+- build-517: Dutch (wsnel57, Naxiz)
+- build-517: several other translations updated as well
+- Bulgarian (Dimitar Dimitrov, donjo, efgenni, vlado05, WizardBGR)
+- Chinese Simplified (Cye3s, 琳 曹)
+- Czech (Ghull, karanco, Jan Havlík, Michal, Dominik Matus, Inkvizition, jiri.havelka1, exabyte55242, kutead, Ondřej Šisle, and 29 others)
+- Danish (chreddy, John Hansen)
+- French (Fauque Benoit, Sceap, tictac, Rose, Frédéric Michel, Fr33lancer, Sebastien Grapain)
+- German (Vincent T., Saintscar, Stefan Druwe)
+- Hebrew (benjo24, elyashiv_sabach, עמרי עטייה, Yoel IL, Aviad Aviad, kavkatan, Yogev Haham, gadiheiman, ron razo)
+- Japanese ("sunatomo", kik0220)
+- Polish (Povilas Grebliunas)
+- Portuguese, Brazilian (Vinicius Camargo, Leandro Rodrigues de Sales, Eduardo Bertin, Rodrigo Damasceno)
+- Romanian (Andrei Sângeorzan)
+- Russian (Ka3u6y6a)
+- Spanish (maxelo, Jose Martin)
+- Swedish (Timmy Fox)
+- Slovak (Maťo, marttin, wupuchim, profile.trololol)
+- Turkish (sonysinger, elmasevmem, rserdar, Oğuzcan)
+- Ukrainian (rapkonig, Ka3u6y6a)
+
+         **************     Instructions   **************
+
+Method 1
+1.) Install Google Play Installer.apk
+2.) Run "Installer cracked GooglePlay" and press "Install and Reboot".
+3.) Enable Internet.
+4.) Install PowerAMP Unlocker.apk
+5.) Install PowerAMP v2.0.8.apk
+6.) Run PowerAMP. Done.
+
+Method 2 :
+1.) Install PowerAMP v2.0.8.apk: [Don't Run] (Then go to Apps -> PowerAMP -> Click Force stop then click Clear data)
+2.) Install PowerAMP Unlocker.apk: [Don't Run] (You can Force stop/Clear data on Unlocker just in case)
+3.) Install Lucky Patcher [Don't Run]
+4.) Run PowerAMP v2.0.8 once (don't run the PowerAMP unlocker app, just run the actual PowerAMP v2.0.8 app one time - and you should see the "Thanks for purchasing Full version" popup window)
+5.) Exit PowerAMP
+6.) Go to Apps -> PowerAMP -> Click Force stop (Don't click Clear data this time)
+7.) Run Lucky Patcher and run the custom patch ( patch.by.sanx_com.maxmpz.audioplayer) on PowerAMP
+8.) Run PowerAMP v2.0.8 and it should work fine now. (You can check by going to Settings -> About - You shouldn't see that upsidedown orange triangle anywhere about the license being invalid)
+
+* If not full, please patch again and reboot.
+
+More Info :
+ 
+https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer
+ 
+https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock

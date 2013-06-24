@@ -1,0 +1,72 @@
+Description
+
+Poster: http://cdn.piczend.com/image/dvrccoh0zteqhujlvb7gox7m7.jpeg
+Release date: 2012
+Genre: Comedy
+Plot: A look at the lives of Pete and Debbie a few years after the events of 'Knocked Up'.
+--------------------------------
+Runtime: 2 h 14 min
+Rating: 6.4/10
+Votes: 13,090
+Writer(s)/Director(s): Judd Apatow, Judd Apatow/Judd Apatow
+Actors: Paul Rudd, Leslie Mann, Maude Apatow, Iris Apatow
+Trailer: http://www.imdb.com/video/imdb/vi1017423641/
+
+Screenshots: 
+http://cdn.piczend.com/image/qmnrf0lzbsmga23qloyjvfze3.jpeg 
+http://cdn.piczend.com/image/gj5fy1vaedf5of67sdxlwnwac.jpeg 
+http://cdn.piczend.com/image/wwivbb2lw79ntasxgnlljjum7.jpeg 
+http://cdn.piczend.com/image/59lraddwlzxdryzpyn9y5wei8.jpeg
+
+Mediainfo:
+General
+Complete name :	This Is 40 (2012) DVDRip 420p [Zend]/This Is 40 (2012) DVDRip 420p [Zend].mp4
+Format :	MPEG-4
+Format profile :	Base Media
+Codec ID :	isom
+File size :	1.49 GiB
+Duration :	2h 11mn
+Overall bit rate :	1 625 Kbps
+Writing application :	Lavf53.21.1
+
+Video
+ID :	1
+Format :	AVC
+Format/Info :	Advanced Video Codec
+Format profile :	Main@L3.0
+Format settings, CABAC :	Yes
+Format settings, ReFrames :	3 frames
+Codec ID :	avc1
+Codec ID/Info :	Advanced Video Coding
+Duration :	2h 11mn
+Bit rate :	1 500 Kbps
+Width :	720 pixels
+Height :	288 pixels
+Display aspect ratio :	2.500
+Frame rate mode :	Constant
+Frame rate :	29.970 fps
+Color space :	YUV
+Chroma subsampling :	4:2:0
+Bit depth :	8 bits
+Scan type :	Progressive
+Bits/(Pixel*Frame) :	0.241
+Stream size :	1.37 GiB (92%)
+Writing library :	x264 core 123 r2189 35cf912
+Encoding settings :	cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=0 / open_gop=1 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=1500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.25 / aq=1:1.00
+
+Audio
+ID :	2
+Format :	MPEG Audio
+Format version :	Version 1
+Format profile :	Layer 3
+Mode :	Joint stereo
+Mode extension :	MS Stereo
+Codec ID :	6B
+Duration :	2h 11mn
+Bit rate mode :	Constant
+Bit rate :	128 Kbps
+Channel(s) :	2 channels
+Sampling rate :	48.0 KHz
+Compression mode :	Lossy
+Delay relative to video :	33ms
+Stream size :	120 MiB (8%)

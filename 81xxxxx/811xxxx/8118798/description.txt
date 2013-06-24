@@ -1,0 +1,105 @@
+
+ La lealtad de James Bond (Daniel Craig), el mejor agente de los servicios británicos, hacia su superiora M (Judi Dench) se verá puesta a prueba cuando el pasado de ella vuelve para atormentarla. Al mismo tiempo, el MI6 sufre un ataque, y 007 tendrá que localizar y destruir el grave peligro que representa el villano Silva (Javier Bardem). Para conseguirlo contará con la ayuda de la agente Eve (Naomie Harris). 
+
+
+DATOS TECNICOS
+
+
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 5.68 GiB
+Duration                                 : 2h 23mn
+Overall bit rate                         : 5 681 Kbps
+Encoded date                             : UTC 2013-02-04 22:27:25
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 3
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 23mn
+Bit rate                                 : 5 040 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 536 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.306
+Stream size                              : 4.93 GiB (87%)
+Writing library                          : x264 core 129 r2245kMod bc13772
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=7 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=18 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=5040 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 23mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 655 MiB (11%)
+Title                                    : Español Latino
+Language                                 : Spanish
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 1
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:04:28.477                             : en:00:04:28.477
+00:07:32.452                             : en:00:07:32.452
+00:12:47.392                             : en:00:12:47.392
+00:16:47.465                             : en:00:16:47.465
+00:21:37.338                             : en:00:21:37.338
+00:25:00.290                             : en:00:25:00.290
+00:29:25.222                             : en:00:29:25.222
+00:35:06.146                             : en:00:35:06.146
+00:38:27.764                             : en:00:38:27.764
+00:41:24.440                             : en:00:41:24.440
+00:46:22.905                             : en:00:46:22.905
+00:50:48.629                             : en:00:50:48.629
+00:54:53.290                             : en:00:54:53.290
+00:59:38.742                             : en:00:59:38.742
+01:05:14.244                             : en:01:05:14.244
+01:10:16.671                             : en:01:10:16.671
+01:17:09.750                             : en:01:17:09.750
+01:20:55.059                             : en:01:20:55.059
+01:26:10.374                             : en:01:26:10.374
+01:31:49.754                             : en:01:31:49.754
+01:37:04.527                             : en:01:37:04.527
+01:40:49.085                             : en:01:40:49.085
+01:43:45.970                             : en:01:43:45.970
+01:45:54.723                             : en:01:45:54.723
+01:52:10.599                             : en:01:52:10.599
+01:54:45.796                             : en:01:54:45.796
+01:58:13.044                             : en:01:58:13.044
+02:02:49.112                             : en:02:02:49.112
+02:09:38.646                             : en:02:09:38.646
+02:14:49.623                             : en:02:14:49.623
+02:17:46.425                             : en:02:17:46.425

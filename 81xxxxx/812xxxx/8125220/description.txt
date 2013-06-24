@@ -1,0 +1,47 @@
+Start8
+
+Bring back the Windows Start menu with Start8. Start8 returns the same Windows 7-style Start menu you have depended upon, while adding enhancements just for Windows 8. Quickly access your applications, devices, music, videos and documents the way you always have with Start 8. Features include a Windows 7-style Start menu with Windows 8 enhancements; Search for Windows 8-style (Modern UI) apps; Pin desktop and Metro apps; Boot directly to the Windows 8 desktop; Make the Windows 8 Start screen accessible from the Start menu; Jump List support; Unified Search for apps, settings and files; One click access to shut down, devices, music, documents, and videos. In addition to that, it offers Configurable Start menu size; Clean, streamlined UI; Option to disable the desktop Windows 8 "hot spots"; Changing of "Start" button, and a lot more! 
+
+Windows 8 or Windows Server 2012
+
+Homepage:  
+http://www.stardock.com/products/start8/
+
+    Changes in 1.11:
+
+    Added Start8tweak.exe advanced configuration for extra options including enabling / disabling Start8 on a per account basis.
+    Added email category to search results.
+    Added support for Modern UI app closing to return to the desktop rather than the Windows 8 menu on advanced settings.
+    Added native support for the DisplayFusion secondary taskbar.
+    Added support for BMP files as start button. RGB (255,0,255) is permitted for transparency.
+    Added registry entry to control if hidden items should be included in the All programs list.
+    Added registry entry to control if the user picture should have a border or not in the default theme.
+    Added registry entry to control if the tree has a horizontal scroll bar.
+    Added support for Search the Internet button on search results via registry key.
+    Documents, Pictures, Music, Computer and Recorded TV places will use the name set in explorer for them if the user has renamed them.
+    Shutdown button menu will have an item selected when accessed via the keyboard.
+    Adjusted start menu sizing to prevent bottom item on the places list from being slightly clipped in certain circumstances.
+    Modified shutdown menu to prevent surplus separator line showing when the machine doesn't support sleep or hibernate.
+    Right to left language versions of Windows now show the user picture.
+    Right to left language versions of Windows now have icons rendered the correct direction.
+    Tweaked to prevent .lnk text showing in tree on occasion.
+    Tweaked code to better handle closing a docked Modern UI application when at the desktop when the charms bar is set to disabled.
+    Fixed an issue with right click on the places list
+    Jumplists close when you pin / unpin something / delete it
+
+
+Anti-viruses will detect the patch as malware ,which is a false positive :)
+
+Instructions :
+
+1. Install Start8 and copy patch to folder where Start8 is installed.
+
+2. Open Windows Search and search for services.msc
+
+3. Stop the Startdock Start8 service, change its startup mode to 'Disabled'.
+
+4. Log out of the Windows and re-log in, then run the Patch and click the 'Patch' button. 
+
+5. Start back the service, change the startup mode to "Automatic" again and log out and re-log in once again.
+
+6. Enjoy! ;)

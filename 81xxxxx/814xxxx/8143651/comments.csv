@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,lolzob,2013-02-15T11:02Z,any comments plz!
+,stingrayopp,2013-02-15T13:46Z,"thanks for your updated upload, if you would not mind telling us that did you customize this windows xp by your own effort ? how would it perform or prove as an updated February 2013 version of window xp sp3 ?"
+,lolzob,2013-02-15T17:53Z,"this release is 100% created by me!
+CRC32: 0BE03B02
+MD5: 7E6AEF9E29CD1A8E0416B044E51989F6
+SHA-1: 18FDBBA37BB9DB8A0E4EE604CAEFCF44C8101779"
+,sethg_,2013-02-16T21:23Z,"'the key is already inserted.'
+VMWare Workstation asks for a key"
+,sethg_,2013-02-16T21:28Z,"Hmm, I don't see my earlier comment.
+
+Here is some help from another post:
+ STR34M at 2013-02-03 15:39 CET:
+Also, that serial (MR49R - DRJXX - M6PX2 - V96BF - 8CKBJ) is kind of a ""god serial key"" for Retail copies. Often the slipstreamed copies of windows xp that you find online utilize that key."
+,Frosty_Winnipeg,2013-02-17T00:42Z,sethg_'s previous statement saved me some time reinstalling. Just used a lil util called changekey.exe and entered that number.
+,xerik,2013-02-17T12:48Z,"""It's the original image from Microsoft except added updates, IE8, Adobe Flash Player and SATA drivers.""
+""NO serial needed during installation, the key is already inserted.""
+...this is NOT the original."
+,XoFware,2013-02-17T16:12Z,in this copy of WInXP SP3 OS can perform an update in windows or not ?
+,lolzob,2013-02-17T17:40Z,"if you ask cd key put this: MR49R-DRJXX-M6PX2-V96BF-8CKBJ
+also read the file ""info"""
+,lolzob,2013-02-17T17:43Z,with this releases of Windows you can update online.
+,_viruzz_,2013-02-17T19:36Z,"downloaded, burned and  ready to install, Thanks "
+,lolzob,2013-02-18T21:36Z,in the future you can visit forum from the picture
+,itworks22,2013-02-20T12:06Z,"Created a bootable install disc from the download - no problems.
+
+Tried it on a new hard disk. Automatically installed with no activation required. I subsequently installed Microsoft updates inc. Media player etc and again there were no problems.
+
+As it includes SP3, this install saved me a lot of time. In my case I had to do a new install on an old licensed pc where the op/system had corrupted. 
+
+Grateful thanks to the Uploader."
+,lito_S,2013-02-22T08:25Z,"Installer fails to copy PRESETUP.CMD and SETUP.ORG into the SYSTEM32 folder of the WINDOWS folder being created by the installer. You have to find a way to INSTALL this initially up to the point where these files are being asked, and boot from another OS with access to the said windowssystem32 folder and manually copy the files into it. Then reboot and let the installation continue...
+
+At least that's what I did and it worked fine."
+,lito_S,2013-02-22T08:31Z,"Oh, I forgot to state that i ran the installer from the EXTRACTED .iso files. I didn't have a blank CD to burn the .iso file. Maybe that was the reason behind the issues I got.
+
+Just the same, many thanks to LOLZOB."
+,leqonnieU,2013-03-12T07:56Z,is this autoboot?  need xp with autoboot to install it into a netbook. some help please. forgive my english
+,lolzob,2013-03-12T09:46Z,leqonnieU ... it is whit autoboot!
+,stingrayopp,2013-03-14T16:09Z,"what about march edition 2013 of windows xp sp3 professional ? have you done any stuff for the current release version ? it it is done, please upload fully. thanks a lot for your great support."

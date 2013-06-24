@@ -1,0 +1,19 @@
+This is a cracked evaluation version of the famous Interactive Disassembler from Hex-Rays. To date, no graphical version of IDA for Linux has has been leaked, prompting me to get my own copy. The evaluation version is a little buggy and we don't get that nifty decompiler, but most of the functionally was restored making for a fairly competent disassembler/debugger.
+
+-Completely replaced the code that loads the loader modules, removing the PE/ELF/Mach-O limitation.
+-Removed the check restricting which processor modules are allowed.
+-Created a custum loader to re-enable support for loading Binary files.
+-Removed the experation check.
+-Removed the nags when opening and closing projects.
+-Disabled the thread that would open a nag after some time. In the past it would force the program to close, but I guess that was broken in the transition to QT.
+-Removed the checks preventing self-disassembly.
+-Removed a limitation preventing large large amounts of data from being copied to the clipboard.
+-Some options were removed from the Help menu for cosmetics.
+
+No database saving or loading, so you will have to use IDC files to save your work.
+
+Pics:
+ 
+http://bayimg.com/kajjfAAek 
+http://bayimg.com/KAjjiAaeK 
+http://bayimg.com/KajjhAAEk

@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,cheezburga,2013-03-12T04:33Z,Thanks mate this is really helpful. U said it works with the bought version from Steam right? do I need to switch to offline mode before I play or is there any precautions? 
+,WDoubleYouW,2013-03-12T14:08Z,"@cheezburga
+I don't think Steam can catch you, since it works the same way as if it were a mod."
+,VegitoDBZ,2013-03-17T21:16Z,crashes at soul cairn
+,WDoubleYouW,2013-03-28T21:55Z,"@VegitoDBZ
+Mine doesn't ;)"
+,DanNorth93,2013-04-24T10:26Z,i have a question.. you said this will work on my steam release and it does.. i was wondering if ill be able to use mods that require this with it? like dawngaurd versions and whatnot? 
+,WDoubleYouW,2013-04-25T02:10Z,"@DanNorth93
+Yep. Just like as if you bought it."
+,ixlovexlink,2013-05-24T02:28Z,"I've downloaded it, unzipped it using 7 Zip and it seems to work on Nexus Mod Manager.  However, it's listed there under ""Plugins"" not ""Mods"" and in the Mods section it won't allow me to upload bsa or esm files.  I've started up my game with Dawnguard sitting in ""Plugins"" but it doesn't work.  Any ideas how to install this torrent on Nexus Mod?"
+,LKHarv3,2013-05-24T16:43Z,"I extracted as said to the skyrim data folder, but its not even showing the data files option to be accesable in my launcher, please help"
+,LKHarv3,2013-05-24T16:46Z,"i downloaded via rzr and i extracted to the data folder just as said, but my data files option in the launcher is not able to be accessed....how do i fix"
+,LKHarv3,2013-05-24T17:44Z,"nvrm, fixed the data files prob, but the game crashes when dawngaurd is checked"
+,WDoubleYouW,2013-05-25T01:36Z,"@ixlovexlink
+Just stick it into Nexus mod manager like as if you had manually downloaded a mod. Not that hard.
+
+@LKHarv3
+You need to update to the latest version of Skyrim:
+https://thepiratebay.sx/torrent/8300814"
+,ixlovexlink,2013-05-25T03:06Z,"@WDoubleYouW
+I have tried that, but it gives me an error message and says that it's a ""read only"" file."
+,ixlovexlink,2013-05-25T06:20Z,"@WDoubleYouW
+Okay, I've now managed to drag it into my mods on Nexus, but it has no box to check, only a green checkmark.  And when I load the game, the dawnguard quest still does not trigger.  Any ideas?"
+,WDoubleYouW,2013-05-25T12:48Z,"@ixlovexlink
+To make a file that is read-only not read-only is rather simple, although I'm surprised by the problem. All you have to do is right-click on the file, go to Properties, uncheck the read-only box at the bottom, click apply and OK. But it sounds like you may have got past that, so here's is what I want you to do. Go to your Skyrim folder and enter your Data directory. Is Dawnguard.bsa and Dawnguard.esm in there?"
+,ixlovexlink,2013-05-26T04:02Z,"@WDoubleYouW
+Thanks, I turned my one tricksy file un-read-only and downloaded it into Nexus as well.  ...So now I have two Dawnguard files on there which both have green check-marks and both don't seem to be working.  Umm, I just downloaded your Skyrim update, and in its Data file are both the bsa and the esm.  What next?"
+,DSCat,2013-06-05T03:25Z,Does this work with Update 13? Thanks. :]

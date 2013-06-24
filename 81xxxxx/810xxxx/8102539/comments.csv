@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-04T22:12Z,"heldigard implemented a /backup option in his kmseldi tool that starting working in this release.
+
+I think it may or may not have been in v20 but maybe it was getting deleted from being in the temp folder where kmsnano extracts and runs from.
+
+c:TokensBackup has the old c:windowssystem32sppstore from before using kmsnano"

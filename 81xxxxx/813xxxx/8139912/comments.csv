@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,AOC83,2013-02-22T01:55Z,I'm not 100% familiar with the install of this. If someone could help I would be eternally grateful.
+,walidov85,2013-02-22T02:40Z,"dont bother...
+lot of errors, and u cant crack it.
+just try other copies"
+,Joannou1,2013-02-27T00:54Z,"Works perfectly.
+Cracked it easily.
+
+Instructions were a little rough though.
+
+If the reg program crashes for you, don't worry.
+Just launch the program, and enter the given serial, worked for me."
+,friendly_tec,2013-03-03T14:13Z,"It seems avg got wise, so this is the way I have AVG Tuneup 2013 to work perfectly  (at least for now, on 3rd March 2013) Install the program OFFLINE, as soon as it says “finished” open the crack folder and send these 4 files to c:program files/avg. Next install the following name: Senzati    Serial:Q9RAD3-WJQQNR-68NKP0-8WDK62-4MDEJV-JRVWTY Lastly open the program and un check automatic updates. You may NOW connect to the internet."
+,ptpedropt,2013-03-05T18:09Z,"@@@@@ Solution @@@@@ 
+Before you put another serial key, block the ""avg tuneup update"" in firewall"
+,Ziero_1986,2013-03-05T19:14Z,"Okay everyone, here's how I fixed mine after accidentally letting it check for updates:
+
+First, I completely uninstalled AVG PC TuneUp 2013.
+
+Second, I opened run command (WindowsKey +R), type regedit in the box.
+
+3rd, press Ctrl+F to open the find dialog.  Make sure only the ""Keys"" and ""Match whole string only"" boxes are checked.  The type ""AWL"" (no quotes) in the 'Find What:' box. Press enter.
+
+Regedit will now find only the registry key that match AWL.  AWL is the key for PC TuneUp.  When it finds a key (folder), press delete.  Click yes on the confirmation box.  Now press F3 to automatically find the next key.  (NOTE: Sometimes, regedit will find the AWL key (folder), and underneath it there will be an AWL2012 folder also, delete it too.)
+
+Now, to be sure there is no trace of the program left, restart your PC.  This cleans out temp files that were stored in your RAM.
+
+Now, turn off your internet.  This can be easily achieved by unplugging your internet cable from your modem/router.  Now, install AVG PC TuneUp 2013, and make sure the settings for automatic update are completely disabled.  Next, close AVG PC TuneUp and make sure the icon in the notification area is also closed.  Follow the crack instructions to the letter (put the crack files in the main directory [folder] for AVG PC TuneUp 2013, replacing all). Look for RegWiz.exe in the main directory.  Run it and use whatever name and e-mail you like. After that is finished, run AVG PC TuneUp 2013.  When it asks you to enter usename/product key, use this one:
+
+name: Senzati
+product key: Q9RAD3-WJQQNR-68NKP0-8WDK62-4MDEJV-JRVWTY
+
+AVG PC TuneUp should now start without any problems.  You may now re-enable your internet, plug in the cord, whatever.  This worked for me, and it should work for anyone else also.  I don't know how long the activation will last, or if it will even expire, I just now figured this out and wanted to share it.
+
+Good luck!"
+,mauriciorinconc,2013-03-06T17:03Z,"I have followed the instructions given by @Ziero_1986. but when i try to run the RegWiz.exe it crashes. Not only this but i haven't been able to forceclose the icon in the notification area, everytime I close it in the task manager it reappears immediately. I have no idea how to stop this thing from doing that. What i do find funny is that  after deleting the previous  AVG Tuneup, deleting the AWL files, even running my CCleaner to aid me cleaning out any other files.. when I reinstall the program, it would still show me that my version has expired. Can anyone please advice? Thanks"
+,mauriciorinconc,2013-03-06T17:04Z,"I have followed the instructions given by @Ziero_1986. but when i try to run the RegWiz.exe it crashes. Not only this but i haven't been able to forceclose the icon in the notification area, everytime I close it in the task manager it reappears immediately. I have no idea how to stop this thing from doing that. What i do find funny is that after deleting the previous AVG Tuneup, deleting the AWL files, even running my CCleaner to aid me cleaning out any other files.. when I reinstall the program, it would still show me that my version has expired. Can anyone please advice? Thanks"
+,chubalicious,2013-04-26T21:48Z,Works just fine for me. Just carefully follow the tip from Ziero_1986 and your good to go. Thanks for the up OnlyByTheRain....
+,mattkilla,2013-05-03T05:03Z,"yes the new serial does work fine... just make sure you replace ALL the crack files B4 you try to enter the new serial. It will say your trying to enter a product key for a different AVG product, if you dont switch the crack files. Once you do copy them the new serial works fine as long as your not connected to internet during install AND you DO NOT do an update in the program... 
+"
+,baybeh,2013-05-12T11:44Z,the same people have commented by copy-pasting their replies on all tpb pages of this product. don't know if their advice is misleading or genuine....
+,baybeh,2013-05-12T12:06Z,"can someone help please? I'm a complete newbie and don't understand all that these gentlemen have been advising. Can someone write clear instructions in full detail for a person who doesn't understand this kind of installation and technology at all?
+Also I disconnected from the internet before installing the program but got confused midway so decided to just uninstall the thing. After uninstalling, my PC, which had 700mb space in C: drive now has 2.29 GB free. How is that possible? I hope that important files have not been deleted from the comp? Please help!"
+,baybeh,2013-05-12T12:19Z,"Can someone help please? I'm new to all this and can't figure out head or tail of the instructions left by the gentlemen in the comments. Can someone please give clear, step by step instructions for people who don't know anything at all?! 
+What i did do was to remove the internet and then install the program, but then got confused so i uninstalled the AVG PC tuneup. But when i did that, the 700 mb free space in my C: Drive suddenly expanded to 2.3 Gb. The program takes up only a few mb space if i'm not wrong. So only a few mb space should have been freed. What has happened? I hope i haven't lost important data? Please help!"

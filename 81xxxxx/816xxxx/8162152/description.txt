@@ -1,0 +1,51 @@
+ http://www.imdb.com/title/tt0232500/
+
+General The.Fast.and.the.Furious.2001.the.HH.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 350 MiB
+Duration                                 : 1h 46mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 458 Kbps
+Encoded date                             : UTC 2013-02-18 08:38:12
+Tagged date                              : UTC 2013-02-18 08:38:12
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 46mn
+Bit rate                                 : 391 Kbps
+Maximum bit rate                         : 2 611 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+
+Stream size                              : 299 MiB (85%)
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+
+Format profile                           : HE-AAC / LC
+Codec ID                                 : 40
+Duration                                 : 1h 46mn
+Bit rate mode                            : Variable
+Bit rate                                 : 64.0 Kbps
+Maximum bit rate                         : 91.4 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 48.9 MiB (14%)
+
+
+SCREENS
+[img]http://img90.imageshack.us/img90/2835/vlcsnap2013021914h30m43.png[/img]
+[img]http://img585.imageshack.us/img585/8264/vlcsnap2013021914h30m59.png[/img]
+[img]http://img515.imageshack.us/img515/8341/vlcsnap2013021914h31m03.png[/img]

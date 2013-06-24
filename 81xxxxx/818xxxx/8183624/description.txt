@@ -1,0 +1,111 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 7,83GIB
+Duración                                 : 2h 23min.
+Tasa de bits total                       : 7 814Kbps
+Fecha de codificación                    : UTC 2013-02-24 02:49:23
+Aplicación de codifición                 : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 9marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 23min.
+Tasa de bits                             : 6 545Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 692pixeles
+Relación de aspecto                      : 1,85:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.308
+Tamaño de pista                          : 6,39GIB (82%)
+Librería de codificación                 : x264 core 77 r1292M e381f6d
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 2h 23min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 15ms
+Tamaño de pista                          : 657MB (8%)
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 2h 23min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 657MB (8%)
+Título                                   : Inglés
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Texto
+ID                                       : 4
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Título                                   : Full
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Menú
+00:00:00.000                             : en:The Rifle
+00:08:48.361                             : en:Search for a Babysitter
+00:14:25.656                             : en:The Accident
+00:19:36.967                             : en:Volleyball Game
+00:27:52.588                             : en:Guilt Sick
+00:30:51.725                             : en:Crossing the Border
+00:35:39.763                             : en:In Need of a Doctor
+00:44:27.081                             : en:Police Visit
+00:50:00.748                             : en:The Gun Trail
+00:55:53.100                             : en:Mexican Wedding
+01:01:16.673                             : en:Local Medicine
+01:05:07.278                             : en:Tokyo Night
+01:15:23.477                             : en:On the Run
+01:20:17.646                             : en:Border Patrol
+01:30:06.568                             : en:No Transportation
+01:34:32.083                             : en:Seduction
+01:42:55.336                             : en:Surrender
+01:44:58.042                             : en:Lost in the Desert
+01:53:13.495                             : en:Reconnecting
+01:57:24.496                             : en:The Silent Shout
+01:59:28.495                             : en:Deported
+02:02:09.030                             : en:Leaving the Village
+02:08:44.717                             : en:Father and Daughter
+02:16:04.156                             : en:Credits

@@ -1,0 +1,15 @@
+-----------------------NOTE------------------
+Aerosoft has removed the ASE_Data protection from their newest sceneries
+
+This newer version no longer contains the ASE online protection.
+
+You could safely remove the ASE_Data settings/entry from your DLL.XML file if such exists.
+
+(%AppData%/Microsoft/FSX)
+
+---------------------------------------------
+
+HISTORY
+
+1.00 Download release
+1.01 Without ASE Online Protection

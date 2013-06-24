@@ -1,0 +1,80 @@
+--This will NOT fit on a 4.37GiB Single-Layer DVDR--
+-Use a Dual-Layer DVDR or a USB Flash drive
+
+murphy78 proudly presents Windows 8 PRO VL x64 en-US Feb2013
+Hotfixes included bring install current to Feb12 patch date
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+64-bit MSDN Source:
+en_windows_8_pro_vl_x64_dvd_917699.iso
+
+This RTM Source is the final Build 9200
+
+Installation Indexes:
+Windows 8 Pro VL 64-Bit
+Windows 8 Pro VL 64-Bit KMS Pre-Activated
+
+KMS Pre-activated index is Pre-Activated with KMSnano v25 and
+reactivated whenever you boot with 30 days or less left on
+your activation.
+
+Release File: Win8Pro-VL-x64-en-US-Feb2013.iso
+Size: 4.88GiB
+CRC32: D5420AF0
+MD5: 4ED0D808C2D19989EFB262A5874BBED5
+SHA-1: BDC85A63C71EAFF9FCDD0F7DF70F8155D038F99C
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image capture, recompression, and export
+dism for image mount (For copying a few files)
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+setupcomplete.cmd phase:
+Default install does not use setupcomplete.cmd
+-for KMS Pre-Activation index:
+KMSNano.exe
+schtasks xml task import for trigger
+reg add runonce for redundant trigger /install
+(It doesn't change your settings, just runs the trigger install)
+
+Changes from recent Windows 8 x64 releases:
+-Complete updating done online with audit mode and sysprep
+-DirectX web runtime ran to ensure latest directx files
+-NetFx2-3.5.1 added and patched to latest
+-Unmodified ei.cfg for extra stability long-term
+-Obviously the KMS Pre-Activation stuff
+
+People often ask in the comments which version of windows 8 I
+would recommend for them. Well, folks, for x64 people, this is
+the one I would recommend. Pro VL has the least likely chance
+of developing activation problems since the only offline method
+we have come up with for bypassing security is KMS. Enterprise
+has Windows 8 To Go and Hyper-V but most people don't use that.
+
+If a future problem arises and a newer activation method is
+needed, you can run the Uninstall-KMSnano.cmd in the folder:
+windows_setup_kmsnano This will delete the scheduled task and
+remove the kmsnano files.
+
+I'm not sure if smartscreen filter will bother with scheduled
+tasks and scripted tasks, but if it does, turn it off in
+action center in the control panel - system and security
+Allow any related programs through any firewall programs
+and A/V updates. (False positive in future for activator)
+
+01-Activation_Proof 
+http://bayimg.com/DaJOEaAeI
+
+02-Trigger_task_screen 
+http://bayimg.com/DaJOgaaEi
+
+(/salute heldigard)
+Enjoy Pirates,
+murphy78-TPB :)

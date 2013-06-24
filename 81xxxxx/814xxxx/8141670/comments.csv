@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,canc232,2013-02-14T07:36Z,Seed when you are done!
+,tdktbbt,2013-02-14T08:44Z,"thanks dude..
+pls upload new episode of suits 2mrw"
+,stinson33,2013-02-14T10:45Z,"are the subtitles included?
+in video description its written.. language: English; default:yes; forced:no.. i am assuming it is subtitles..."
+,canc232,2013-02-14T12:08Z,"No subtitles are not included. 
+
+When/if subtitles are muxed in the mkv file(softcoded) you can see an ID : 3(or 4 or 5)depending on the number of audio  and video tracks muxed in the file.
+
+If only a single video(id:1) and a single audio(id:2) are present in a file like this one, then you'll probably see it like this:
+
+Text :
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Language : English 
+Default : Yes 
+Forced : No 
+
+
+If subtitles are hardcoded into the frames of the video then you will not find such an extra text column.
+
+You may find the subtitles in the screens though (if the screens are captured during an active dialog)"
+,stinson33,2013-02-14T15:16Z,"Oh, ok.. thank you anyway.. "

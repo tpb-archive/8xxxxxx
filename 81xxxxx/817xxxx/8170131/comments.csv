@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,petrob13,2013-02-25T19:28Z,"downloaded, and when I press ""World of Warcraft"" application nothing happents... What should i do?
+I am rumming on MacBook Pro 13"" late 2011. OS X version 10.8.2. Help me plz =)"
+,slanx,2013-02-25T22:30Z,"1. Open terminal
+2. Right click on World of Warcraft, select view package content. 
+3. Browse around, look for a file called World of Warcraft. The icon should be blank, and the file size should be larger then the rest.
+4. On the terminal, type chmod u+x
+5. Drag the file to the terminal, and press enter."
+,petrob13,2013-02-26T07:36Z,Thx slanx! It works now!
+,erlingr01,2013-02-26T13:05Z,"Hi, Im having the same problem as petrob13 and tryed with chmod u+x but it still doesn't work.
+
+Ive got a MacBook Pro 13"" also late 2011. OS X version 10.6.8. 
+I really want to play WoW again so plz somebody help me !! "
+,erlingr01,2013-02-26T13:10Z,"After some time it comes out at the torrent downloader ""Error: ReadFromDisk: No such file or directory"""
+,slanx,2013-02-27T00:12Z,"can try 
+
+""sudo chmod u+x"" instead, space after x then drag file over, press return"
+,bryantorcha,2013-02-27T01:08Z,"Thx it works !!!
+
+""chmod u+x"" did not work the first time.
+
+I tried again later but with a SPACE after the X and it worked perfect"
+,erlingr01,2013-02-27T17:02Z,Yes ! Thanks a lot slanx !
+,lentila123,2013-02-28T05:51Z,"i have tried all of the possibilities around here and it still doesn't do anything when i try to open it. i have a mac late 2010 10.8.2
+please help"
+,lentila123,2013-02-28T05:54Z,i have tried with a space after X and it worked :D thanks!!
+,dnslew,2013-03-01T14:47Z,seed plz?
+,babono,2013-03-01T16:43Z,"i did the method above, but why i got ""permission denied""?
+
+i'm using os x version 10.6.8"
+,manav619,2013-03-01T17:39Z,Seed Please!
+,brokefrombuying,2013-03-08T14:45Z,this torrent is empty
+,McLyster,2013-03-18T11:29Z,"@brokefrombuying
+your head is empty, torrent is fine"
+,kaconi,2013-04-01T00:54Z,OK I just got my mac so I don't know what thouse terminals are and how to chmod u+x.. Is this the command button or what plase guys help me I really want to play Cata on mac..
+,alessvo,2013-04-12T10:36Z,"I'm trying to install using the ""sudu chmod u+x"" method, but all I get is permission denied. What do I do?"
+,jgini,2013-04-14T00:59Z,please seed!
+,jgini,2013-04-14T01:00Z,Did anyone get this working on Mac OS X 10.8.3?
+,jgini,2013-04-14T01:01Z,"Did anyone get this working on Mac OS X 10.8.3??
+
+SEED PLEASE!!"
+,Shadowcog,2013-04-23T08:11Z,"Hey, So I heard about all of these private servers and stuff...and I really want a 255 server...I heard Eternal-wow was awesome, and Im about to go try it, someone should tell me about it ^^"
+,mukulmehta13,2013-05-03T11:03Z,"Doesn't work on OS X 10.8.3.
+
+Mukuls-MacBook-Pro:~ mukulmehta$ /Users/mukulmehta/Downloads/World of Warcraft - Cataclysm 4.3.4 (15595) Mac/World of Warcraft.app/Contents/MacOS/World of Warcraft 
+-bash: /Users/mukulmehta/Downloads/World of Warcraft - Cataclysm 4.3.4 (15595) Mac/World of Warcraft.app/Contents/MacOS/World of Warcraft: Permission denied
+
+How to fix this error ?"
+,mukulmehta13,2013-05-04T00:24Z,"Got it working. I confirm, it works on OS X 10.8.3.
+
+The guys who're getting permission denied error, make the file executable first, it will work for sure.
+
+Nice Torrent."

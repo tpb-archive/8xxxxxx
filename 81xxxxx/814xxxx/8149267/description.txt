@@ -1,0 +1,55 @@
+murphy78 presents Windows 7 Ultimate SP1 Feb2013
+This release is based on updates up to Feb12, patch day
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Retail Source: X17-59463.iso
+Windows 7 Ultimate x86 32-bit English (digitalriver-media refresh)
+This is the default SP1 retail with an ascii character fix (KB2534111)
+
+Release File: Win7Ult-SP1-x86-en-US-Feb2013.iso
+Size: 3.11GiB
+CRC32: E7DCD39C
+MD5: B3380E67DC198F014EFE87AACDD47E5B
+SHA-1: 12D35E6854B21E7E1A3CBFA0B60C854C62C01A0C
+
+Language: en-US (English - United States)
+
+Installation Indexes:
+Windows 7 Ultimate SP1 32-bit
+Windows 7 Ultimate SP1 OEM-Activated 32-bit
+
+Tools used:
+imagex for image capture, compression, and extraction
+dism for copying scripts folder on oem index
+oscdimg for iso mastering
+
+-Default index: No scripting
+-OEM-Activated index:
+Multi-Brand Activation OOBE.cmd
+(Multi-Branding adds Desktop Background and various OEM logos on
+various System windows, Boot Screen, etc. Use Default index and
+activate manually if you don't want it) 
+http://bayimg.com/EAjhEAAek
+
+Setupcomplete.cmd for OEM-Activated index checks if
+Multi-Brand was able to install OEM license. If not, installs
+Windows Loader 2.2.1 using default options.
+reg add runonce to call delete folder script to allow time for any
+system protection to properly shut down after activation.
+Reboot to enable Loader if used
+
+Changes from Recent Ultsp1 releases:
+-Audit / Sysprep method used to eliminate need for adding online
+updates and .Net 4.5 and associated hotfixes.
+-DirectX Web Runtimes ran to ensure latest DirectX updates
+-All Windows Updates including Internet Explorer 9, KB971033, and all
+online-only updates including Defender updates.
+-The only update besides the languages I didn't install was a new grahpics driver. I know they need updating, but I'm not the guy to do it. They are huge and get updated fairly often. 
+http://bayimg.com/eAJhfAaek
+
+Enjoy Pirates,
+murphy78-TPB :)

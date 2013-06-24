@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+[V],brego45,2013-02-25T10:11Z,"Screens Covers Info
+
+
+http://desibbrg.org/images/01272519013335255914.png
+http://desibbrg.org/images/05862748766496919038.png
+http://desibbrg.org/images/08211525332767215891.png
+http://desibbrg.org/images/13543234510014549661.png
+http://desibbrg.org/images/24344787877164992974.jpg
+http://desibbrg.org/images/32133404388590787133.png
+http://desibbrg.org/images/32956867125452018392.png
+http://desibbrg.org/images/33383904918949290630.png
+http://desibbrg.org/images/35630135463034746640.png
+http://desibbrg.org/images/63399481373612593612.png
+http://desibbrg.org/images/69680612055413385952.png
+http://desibbrg.org/images/73199290465097842312.jpg
+http://desibbrg.org/images/84281224429341027771.jpg
+http://desibbrg.org/images/89258985993312682645.png
+
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 1.00 GiB
+Duration : 2h 25mn
+Overall bit rate : 988 Kbps
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 2
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 2h 25mn
+Bit rate : 853 Kbps
+Width : 720 pixels
+Height : 296 pixels
+Display aspect ratio : 2.40:1
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.167
+Stream size : 886 MiB (86%)
+Writing library : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID : 1
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : 2000
+Duration : 2h 25mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 133 MiB (13%)
+Alignment : Aligned on interleaves
+Interleave, duration : 64 ms (1.53 video frames)
+Interleave, preload duration : 192 ms
+Title : rip T80 2_0ch 192Kbps DELAY 0ms_new"

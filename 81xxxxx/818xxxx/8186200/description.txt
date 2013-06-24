@@ -1,0 +1,146 @@
+-=(Info Update:)=-
+
+Baldurs Gate Enhanced Edition v1.0.2012 Update info:
+
+Crash Fixes
+
+Improved multiplayer stability
+Fixed Black Pits sword crash
+Fixed crash when manipulating portrait files
+
+Features
+
+Damage notifications change colour depending on type of damage done
+Option to turn off coloured player circles (enables original green circles)
+Added roll total to ability screen when creating a new character
+Elven Chain Mail now obtainable
+Yeslick may rejoin the party in Jopalin's Tavern
+Black Lily purchases stolen goods
+UI improvements
+
+Bug Fixes
+
+Resolved random respawns occurring too often
+Stat modifications for unidentified items now appear
+Issue with Baeloth not returning solved (Black Pits)
+Bounty Hunter class gains proper skill points
+Eldoth and Skie removing and joining problem solved
+Fixed issue with certain spell portrait icons not being removed
+Officer Vai will only purchase bandit scalps
+Scroll case capacity increased
+Improved chatbar (Multiplayer)
+Issue with gender dialogue is now proper
+Nashkel movie will play instantly
+Fixed Yeslick infinite dialogue loop
+Selling infinite wolf pelt to Nashkel store glitch removed
+Lothander and Marek's antidote will never vanish
+Drizzt doesn't run away from gnoll battle
+Shapeshifted spider no longer held in webs
+Player will no longer have guards summoned when near previously opened containers
+Archers and Druids may now equip Ankheg Plate Mail
+Characters speak to the player more quickly in tutorial
+Characters respond appropriately during Obe's Combat tutorial
+Charmed NPCs will give the player their promised gifts
+Lightmap for Kagain's shop has been updated
+Cat familiar now has an attack
+Imp familiar polymorphing to orge and back works
+Wand of Polymorphing's range has been increased
+Improved Aldeth's Merchant League quest
+Simmeon now gives XP
+Some weapons not flagged as magical now are
+Casson's body quest has been touched up
+Resolved issue with Kivan leaving the party
+Characters with strength less than 5 are now able to complete the tutorial
+Monks now able to complete the tutorial
+Music restored to the Friendly Arm Inn
+Commoners in Beregost and Nashkel say proper lines after Chapter 2
+Spider body will not disappear (Landrin's quest)
+Missing Citizens quest has been polished
+Issues with Elkart's ransom money have been resolved
+Tersus will turn hostile if robbed
+Tiax now properly summons Ghasts
+Tiber will take his brother's body
+Quiver/Case of Plenty now give proper damage bonus
+History of the Nether Scrolls no longer sellable
+Issue with Ring of Free Action not properly effecting mobility
+Emerson no longer constantly updates player's journal
+Imoen responds correctly to changes in reputation
+Fixed sound sets of Tessilan, Faltis and Glayde
+Removed intelligence limit on certain miscellaneous items
+Sorcerous Sundries accessible without force selling of nymph hair
+Added an auto-save right before the opening cutscene (Black Pits)
+Correct rest movie is played in Adoy's Enclave
+Adoy's area is now correctly placed/coloured on map
+Ambient noises can now be heard in Adoy's Enclave
+Farmer Brun no longer takes more than one item
+Euric no longer takes more than one item
+Contagion spell now casts properly
+Fixed Branwen refusing to join party when declined at first
+Issue with drinkable quest items has been resolved
+Wizard Slayer and Beastmaster class have more weapon restrictions
+Amnish Soldiers guarding Nashkel Mine have been modified
+Gandolar voiced lines added/improved interaction
+Delsvirftanyon voiced lines added
+Interaction with Drunk has been improved
+Interaction with Bellamy has been improved
+Interaction with Kerrachus has been improved
+Interaction with Phandalyn has been improved
+Interaction with Zecke has been improved
+Interaction with Grael has been improved
+Interaction with Pang Wallen has been improved
+Interaction with Kirinhale has been improved
+Problem with Scar's character model dissapearing fixed
+Increased text size of weight allowed in inventory
+Dorn's starting XP and HP have been increased
+Fixed exploit allowing Dorn to receive THAC0 bonus
+Only Dorn may receive THAC0 bonus from Rancor +1
+Fixed exploit with Single-Weapon Style
+Looping dialogue with Neera after Meklin encounter fixed
+Spawning issue with Neera's initial encounter
+World's Edge now glows
+Characters in Obey's tutorial no longer have BG1 proficiency distributions
+Longbow +2 and Composite Longbow +2 now give proper damage
+All slings not usable by Kensai and Cavalier
+Balanced certain pre-generated character's proficiency distribution
+Fixed issue with some items not needing to be identified
+Monks and Kensai are no longer able to equip shields
+Prism and Greywolf's voiced lines added
+Chaos Shield now has description when cast
+Ring of Acuity/Captive Audience no longer equip-able by Monk
+Treacle's gender no longer in question (Black Pits)
+Travelling to other areas in Archaeological Site touched up
+Fixed Enchanted Weapon Enchantment/Charm
+Fixed issue with certain items playing the incorrect sound
+The Vampires Revenge now has the correct effects
+Tenya dialogue issues have been corrected
+Bassilus's voiced line now plays
+Issue with certain classes wearing armor (Tutorial)
+Various item descriptions/images have been fixed
+Various container and door highlights have been readjusted
+Quest/Journal log fixes
+
+.:(Info Installation):.
+
+1. Unpack release.
+2. Copy everything to the installation folder of the game.
+    directory:
+    32Bits
+C:Program FilesBeamdogBaldur's Gate - Enhanced Edition
+    64Bit
+C:Program Files (x86)BeamdogBaldur's Gate - Enhanced Edition
+
+3. Accept the replacement when it is shown.
+4. Have fun!
+
+.:(Info de Instalação):.
+
+1. Descompacte o lançamento
+2. Copie tudo, para a pasta de instalação do jogo.
+   Diretório:
+   32Bits
+C:Program FilesBeamdogBaldur's Gate - Enhanced Edition
+   64Bits
+C:Program Files (x86)BeamdogBaldur's Gate - Enhanced Edition
+
+3. Aceite as Substituição quando for exibida.
+4. Divirta-se!

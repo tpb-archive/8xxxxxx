@@ -1,0 +1,43 @@
+A collection of attack scripts, scanners and hack scripts that created by Innosec members. All is up-to-date version.
+
+To run specific file:
+- python file.py
+- perl file.py
+- Need to run php files on browser.
+
+:: For support, contact m0le@tormail.org or elitistinen@tormail.org ::
+
+Older version of:
+@ lafuzz                http://code.google.com/p/lafuzz/
+@ secscan/secs/secl     http://code.google.com/p/secscan-py/
+@ puppy                 http://code.google.com/p/puppy-pl/
+@ leviathan             http://code.google.com/p/leviathan-toolkit/
+@ slowql                http://code.google.com/p/slowql/
+
+.
+Γö£ΓöÇΓöÇ cracker
+Γöé┬á┬á ΓööΓöÇΓöÇ md5brute.pl
+Γö£ΓöÇΓöÇ dorker
+Γöé┬á┬á ΓööΓöÇΓöÇ secscan.py
+Γö£ΓöÇΓöÇ email
+Γöé┬á┬á Γö£ΓöÇΓöÇ hardline.py
+Γöé┬á┬á Γö£ΓöÇΓöÇ mailbomb.php
+Γöé┬á┬á Γö£ΓöÇΓöÇ max.py
+Γöé┬á┬á ΓööΓöÇΓöÇ spoofmail.php
+Γö£ΓöÇΓöÇ exploiter
+Γöé┬á┬á Γö£ΓöÇΓöÇ bunny.pl
+Γöé┬á┬á Γö£ΓöÇΓöÇ puppy.pl
+Γöé┬á┬á Γö£ΓöÇΓöÇ raven.py
+Γöé┬á┬á Γö£ΓöÇΓöÇ slowql.pl
+Γöé┬á┬á ΓööΓöÇΓöÇ tinyxss.py
+Γö£ΓöÇΓöÇ fuzzer
+Γöé┬á┬á ΓööΓöÇΓöÇ lafuzz.py
+Γö£ΓöÇΓöÇ proxy
+Γöé┬á┬á Γö£ΓöÇΓöÇ ipgen.py
+Γöé┬á┬á ΓööΓöÇΓöÇ psion.py
+Γö£ΓöÇΓöÇ readme.txt
+ΓööΓöÇΓöÇ scanner
+    Γö£ΓöÇΓöÇ badger.py
+    Γö£ΓöÇΓöÇ leviathan.pl
+    Γö£ΓöÇΓöÇ secl.py
+    ΓööΓöÇΓöÇ secs.py

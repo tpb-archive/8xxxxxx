@@ -1,0 +1,97 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 9,12GIB
+Duración                                 : 2h 1min.
+Tasa de bits total                       : 10,7Mbps
+Película                                 : American.Beauty.Bdrip.m-720p.Dual.x.lagartish
+Fecha de codificación                    : UTC 2013-01-13 16:50:14
+Aplicación de codifición                 : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 5marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 1min.
+Tasa de bits                             : 8 786Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 824pixeles
+Relación de aspecto                      : 2,35:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.232
+Tamaño de pista                          : 7,28GIB (80%)
+Librería de codificación                 : x264 core 104 r1713 c276662
+Opciones de codificación                 : cabac=1 / ref=5 / deblock=1:0:0 / Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 2h 1min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Demora del video                         : 250ms
+Tamaño de pista                          : 390MB (4%)
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Format_Settings_Mode                     : 16
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_DTS
+Duración                                 : 2h 1min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 1 509Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Tamaño de pista                          : 1,28GIB (14%)
+Título                                   : Inglés
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 4
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Texto #2
+ID                                       : 5
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Título                                   : Inglés
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+

@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,tajammata,2013-02-16T00:34Z,Has anyone experienced problems installing this?
+,schubert664,2013-03-08T20:52Z,"At first, clicking Setup.exe didn't work so I used Troubleshoot compatibility of Windows and the result is ""The specified path does not contain a valid program. Please select a valid program (ending with .exe)."" So I renamed it to Setup.exe.exe and it worked, I installed this application successfully. Thanks for this tiny but very useful application, very useful for Windows with System Restore problems."
+,MST2467,2013-04-09T20:55Z,"Key gen does not work.When trying to run the patch,IT says,the lang_en.xml is invalid and can't be patched.Maybe more detailed install instruct could be proveded.Thanks"
+,Bad213Boy,2013-04-19T20:29Z,Ya this is a garbage download. The KeyGen doesn't work with this version. The KeyGen looks like it's for Rollback v9.xx. Wastes of time TorDigger.
+,Bad213Boy,2013-04-19T21:37Z,"Instructions:
+1. Install
+2. Choose ""No, skip this step and continue the setup"", Next.
+3. Choose ""No, skip this step and continue the setup"", Next.
+4. Choose either Default or Custom (doesn't matter), Next.
+5. Click on Demo and then Next, and Next again.
+6. After installation is complete, you'll be asked to reboot. Go ahead and reboot.
+7. Add NetReg.exe to your Firewall to prevent internet access. Location is: C:Program Files (x86)Shield
+8. Double click on RollBack Rx's Taskbar icon to bring up the program.
+9. Click on Help in the top right corner and choose Activate License.
+10. Choose Activate RollBack Rx without Internet Connection.
+11. Now, copy and paste the Product ID & Activation ID on Keygen then click to generate Serial.
+12. Copy that Serial to activate RollBack Rx. You'll be prompted to reboot and go ahead.
+13. Done."

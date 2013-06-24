@@ -1,0 +1,55 @@
+Official Web Site:  http://megaseg.com/
+
+MegaSeg is a totally self-contained DJ music mixing and radio automation system which benefits from the ease, mobility, and reliability of Mac computers.
+
+MegaSeg enables DJs and radio stations to put their massive music libraries on their Mac and seamlessly segue or beat mix between songs or music videos, trigger sound effects via hot keys, note requests via color coded request lists, cue tracks via a second sound output, create dynamic scheduled playlists, and program timed playlist events.
+
+Mobile DJ businesses can use MegaSeg to easily add another system to their growing business, and is a professional solution for DJ's who need more mixing control than Apple's iTunes offers. MegaSeg has full integration with the iTunes library and playlists, including compatibly with songs bought from the iTunes Music Store.
+
+
+Whats New:
+
+* iTunes 11 compatibility fixes including support for hierarchical playlist
+  folders.
+
+* MegaSeg playlists can now be renamed inline with a 2nd click.
+
+* Support for ΓÇ£Media KeysΓÇ¥ on Apple keyboards (Play/Pause, FF/REW,
+   Eject, etc.) and various remotes that use multimedia keyboard profiles.
+
+* Volume Control prevents excessive fade-in for average level tracks.
+
+* Setting the Intro Time to tenths of a second works on all international 
+  systems.
+* Added additional import validity check for .mp4 and .m4v files.
+
+* Fix for deck output and channel initialization.
+
+* Fixed issue where mono files could cause VU Meters to get stuck in 
+  mono display mode.
+
+* Send to Server (Shoutcast, Icecast, HTTP) now supports metadata for 
+  "talk breaks".
+
+* Voice-Over / Mic attenuation adjustment to previous levels.
+
+* Fixed a fade out issue when two Voice Over tracks are played in quick 
+  succession between songs.
+
+* The main Loop button no longer gets stuck when a Scheduled Loop is 
+  performed.
+
+* Import Library as Text command works better with quote wrapped
+   delimiters, and fixed a possible error regarding text encodings.
+
+* Fixed an issue when MegaSeg is hidden and a playlist loads or loops it 
+  would display a scrollbar over the library.
+
+* Fixed issues with Adjust Master Volume event.
+
+System Requirements:
+
+Intel and PPC Mac OS X.4 or later, Lion Compatible
+
+--- PLEASE SEED ---
+

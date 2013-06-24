@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,ryballs,2013-02-06T05:25Z,"By the way you can adjust the difficulty by moving the sliders under ""Force Strength"". The further left the slider is the easier it is for that side. For example if you went Germans, the easiest setting would be with the left slider on ""Recruit"" and right slider on ""Elite"". You can see the changes the sliders make by viewing the ""Force Strength"" bar. The more of your chosen sides colour fills the bar, the easier that scenario will be."
+,ryballs,2013-02-06T10:38Z,"For more in-game help a manual is included inside this app. Locate it by right-clicking the app and selecting ""Show Package Contents"" then double-clicking ""drive_c"" folder then ""Matrix Games"" folder then ""Close Combat Last Stand Arnhem"" and finally the ""Manuals"" folder. The manual is the file named CCLSA-Manual-[EBOOK].pdf. Drag this file onto desktop or somewhere else convenient then open. Sorry I did not separate the manual from the app before creating the torrent (I usually do). I also forgot to delete my saved games, which you can easily do yourself with the big DELETE button in-game. I seriously must have been on crack when I uploaded this. Still neither of those fuck-ups affect gameplay so.. ENJOY! ;p"
+,iGeekBR,2013-02-08T23:04Z,This app works? Has anyone downloaded?
+,ryballs,2013-02-09T09:49Z,Well it works for me.. I don't port games that don't work mate. :)
+,ryballs,2013-02-09T16:31Z,PS: This game is fucking epic.
+,kiwi191,2013-02-12T00:04Z,"Great game, well done ryballs"
+,ryballs,2013-02-12T11:38Z,Thanks! :) If anyone is having trouble with the campaigns/operations RTFM (read the fucking manual). But for the basics just right click on the little things that look like envelopes to issue orders to your armies then when you are done click next/execute. It's just a fairly simple turn-based strategy phase to move/attack/rest multiple armies prior to the RTS part. You can choose to use special things like airstrikes during the next RTS battle by selecting an envelope thingy then selecting one of the special abilities on the left (if available).
+,-Morn-,2013-02-14T02:17Z,That is beautiful. Thank you sooo much! I've been waiting ten years for something like this. I really can't thank you enough. So happy.
+,ryballs,2013-02-14T09:08Z,Wow thanks so much for saying that. Makes it all worth it :)
+,ryballs,2013-02-14T09:18Z,"If you love this game, buy it! The latest (uncracked) ""Mega Update"" gives you all this:
+
+Mega Update Improvements
+Noticeable improvements were made to the way vehicles and soldiers travel to way points and reach the end destination of both simple and highly complex, unhindered paths with a very high degree of success.
+Soldier pathfinding was improved so that when soldiers fall behind (heavy weapon or momentarily lost) they plot their own path to successfully rejoin their team.
+Vehicle driver and soldier decision making was improved to help them deal with unexpected obstacles (vehicle moving into their way , or wreck that was knocked out in the course of battle to block a path that was already determined), and get out of dead-end locations.
+AI improvements were made to be in concert with the re-designed pathfinder.
+The ""Bee Dance"" of CC2 that was related to conflicts between the AI for the vehicle driver and the AI that tried to keep the team moving along the team's path that would result in a conflict about which portion of the AI to follow or ""which way to go.""
+Many other minor improvements were made and reported bugs were fixed.
+The mechanism for borrowing teams from the reserve battlegroup was redesigned.
+The Grand Campaign was redesigned for improved play balance."
+,Volkh666,2013-02-18T23:41Z,You don`t possibly have the latest Close Combat: Panthers in the Fog for PC do you?
+,ryballs,2013-02-20T13:37Z,Hasn't been cracked or ripped yet..
+,ryballs,2013-02-23T07:14Z,If someone has a serial number for Panthers in the Fog I will port it.
+,Johnteshlin,2013-02-24T10:10Z,Can you try porting heart of iron III(the app store one) and world in conflict and soviet assault?
+,Johnteshlin,2013-02-24T10:14Z,can you try porting world in conflict?
+,Johnteshlin,2013-02-24T10:18Z,Ryballs sorry to bother you but how come I try downloading every game you ported but still hasn't start downloading? 0kb...
+,ryballs,2013-02-25T09:45Z,All my ports have seeds so maybe its your bitorrent client..
+,Johnteshlin,2013-02-25T11:39Z,"its alright I solved the problem, can you try porting world in conflict? This is the cd key: JB4G-I0WN-BG7F-Y39L-GYWK"
+,Johnteshlin,2013-02-28T11:01Z,Ryballs I finish downloading the game but all those video cutscenes doesn't show!!!!
+,Johnteshlin,2013-03-01T15:36Z,Ryballs I really really really wish to tell you this and I will say a hundred thank you if you upload brothers in arms hell's highway for mac!!
+,tfaddegon,2013-03-02T01:07Z,"This is amazing.  My roommate and I are both mac owners we have been in some serious CC withdrawal from our high school days.  Speaking of which, does the multiplayer work? We can't figure it out."
+,ryballs,2013-03-03T02:57Z,Honestly I haven't tested it but theres no reason why multiplayer wouldn't work. See my previous post about where the manual is because I remember there was some multiplayer help in there.
+,tfaddegon,2013-03-04T06:00Z,Can't get it to work :( Whenever I click host game a small dialogue box flashes on the screen only to quickly disappear.  Definitely not hosting properly.  Thinking its a port issue since I deactivated my firewall and it's still not working. Anyone have an easy way to open up the necessary ports?
+,ryballs,2013-03-05T13:43Z,"Try this:
+1. Right Click Last Stand Anthem app
+2. Choose ""Show Contents""
+3. Double-click Wineskin
+Then:
+To allow multi-player games to be initiated (a benefit in BG because it allows you to create more than just one party member) I went to the Advanced > Tools screen in Wineskin.app and selected the utility Winetricks.
+Advanced > Tools dialog
+Click on Winetricks to launch the Winetricks utility. This utility is often used to install missing missing dll's and other Windows resources that are required by the application.
+On the Winetricks dialog check the Custom checkbox halfway down the dialog box and type directplay in the box to the right of ""winetricks"" and then click the Run button.
+Wineskin.app winetricks dialog
+Winetricks will then download and install directplay. When it completes you can click on the Close button to return to the Wineskin > Advanced dialog. Then click the Done button to return to the Wineskin.app initial menu."
+,tfaddegon,2013-03-15T02:07Z,Finally got a chance to try this fix. Now whenever I go into multiplayer there aren't even any options for connection type or to search/host games. Do I have to initiate the multiplayer through wineskin or something?

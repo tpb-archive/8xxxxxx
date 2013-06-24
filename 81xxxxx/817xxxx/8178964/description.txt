@@ -1,0 +1,27 @@
+Zygor Guides v4.0.5941, released February 22nd, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+3) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+4) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+********I need someone to verify that the Mac instructions work********
+
+
+Patch notes:
+
+[B] Achievements
+Added and fixed a majority of the achievements up to 5.0.
+
+[Travel]
+Fixed an error where flights in Pandaria were not getting marked as known correctly.

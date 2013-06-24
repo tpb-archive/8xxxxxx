@@ -1,0 +1,60 @@
+SPORT: Six Nations Rugby Highlights
+On: BBC HD 
+Date: Sunday 24th February 2013 
+Time: 23:05 to 23:50 
+
+The best of the action and reaction from the third weekend of the Six Nations. England face French resistance at Twickenham, Italy vie to cause an upset at home to Wales, and Scotland host Ireland.
+
+
+General
+Complete name                            : 2013.02.24.6N.Highlights.hdtv.x264.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 447 MiB
+Duration                                 : 43mn 57s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 423 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 15 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 43mn 57s
+Bit rate                                 : 1 295 Kbps
+Maximum bit rate                         : 6 206 Kbps
+Width                                    : 720 pixels
+Height                                   : 416 pixels
+Display aspect ratio                     : 1.731
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.173
+Stream size                              : 407 MiB (91%)
+Writing library                          : x264 core 129 r2245 bc13772
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 43mn 57s
+Bit rate mode                            : Variable
+Bit rate                                 : 124 Kbps
+Maximum bit rate                         : 129 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 38.9 MiB (9%)
+Language                                 : English

@@ -1,0 +1,70 @@
+General
+Complete name                            : Mass Effect - Paragon Lost (HD 1080p).m4v
+Format                                   : MPEG-4
+Codec ID                                 : M4V 
+File size                                : 5.54 GiB
+Duration                                 : 1h 34mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 399 Kbps
+Movie name                               : Mass Effect: Paragon Lost
+Performer                                : Laura Bailey, Bruce Carey, Justin Cook, Jason Douglas
+Recorded date                            : 2012-12-28
+Encoded date                             : UTC 2013-01-06 22:49:16
+Tagged date                              : UTC 2013-02-16 03:38:06
+Cover                                    : Yes
+desc                                     : An untold chapter in the Mass Effect saga, following the early career of Alliance Marine, James Vega, as he leads a squad of elite special forces into battle against a mysterious alien threat known as The Collectors. Stationed at a colony in a remote star system, Vega and his troops must protect the inhabitants from an invasion of the deadly insectoid warriors determined to collect the population for unknown purposes. Soon after the attack, Vega's commanding officer falls in battle, forcing the young officer to embrace the responsibility of leadership for the colony's survival. Having idolized Earth's greatest hero and warrior, Commander Shepard (the central character in the Mass Effect video games), the young and idealistic Vega must now make life and the death decisions that will effect not only the lives of his squad, but the lives of every person in the colony - all of whom he has sworn to protect...
+
+
+Video #1
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 34mn
+Bit rate mode                            : Variable
+Bit rate                                 : 8 192 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 24.390 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.165
+Stream size                              : 5.40 GiB (98%)
+Writing library                          : x264 core 129 r2230 1cffe9f
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=umh / subme=11 / psy=1 / psy_rd=1.02:0.10 / mixed_ref=1 / me_range=64 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / slices=4 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=240 / rc=2pass / mbtree=1 / bitrate=8192 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=50000 / vbv_bufsize=40000 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-01-06 22:49:16
+Tagged date                              : UTC 2013-01-06 22:53:50
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 34mn
+Bit rate mode                            : Variable
+Bit rate                                 : 197 Kbps
+Maximum bit rate                         : 311 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 84ms
+Stream size                              : 133 MiB (2%)
+Language                                 : English
+Encoded date                             : UTC 2013-01-06 22:49:16
+Tagged date                              : UTC 2013-01-06 22:53:50

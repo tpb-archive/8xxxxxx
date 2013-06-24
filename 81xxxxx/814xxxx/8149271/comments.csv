@@ -1,0 +1,123 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-16T08:30Z,"pic links in description are from my x86 testing, but I tested everything thoroughly."
+,StarR10,2013-02-16T11:18Z,"Hey Murphy, I've installed the 2.2.1 DAZ version, do i need to uninstall it to install this one ?? If i dont need to am i free to install newest windows updates ?? TNX Ur Torrents are the best ! :)"
+[V],murphy78,2013-02-16T12:53Z,"This *is* a 2.2.1 daz version of winloader.
+Oh you mean to use the oem branding?
+Well all that is done with scripting during the OOBE phase of setup. If the multi-brand activation doesn't take; I.E. your system isn't compatible or you need a bios mod for it to accept SLiC2.1, then it will install both the branding and WinLoader.
+
+If NEITHER of those work, then you can re-get winloader and install trying some different advanced options.
+
+Neither winloader nor the multi-branding will be affected by any windows updates. You can update as much as you want.
+
+To get the branding on an existing system, I honestly have no idea man. It's only avail in download as an OOBE phase. I'm sure you probably *could* inject the stuff after install, but It wouldn't be nearly as easy as just installing it this way.  Look at it like this: at least you won't have to download any updates :)"
+,Sonic_27,2013-02-16T15:41Z,Man.....your good! YOU know your shit! THANKS!!
+,Hijeputz1,2013-02-16T16:16Z,Hey man can I use this version of Windows to run into my Parallel Desktop 7 for my MacBook Pro?
+,Hijeputz1,2013-02-16T16:21Z,Hey men can I use this version of Windows to run into my Parallel Desktop 7 for my MacBook Pro?
+[V],murphy78,2013-02-17T01:32Z,"hije you put this stuff on a mac at your own risk. Be extremely careful with your re-partitioning and backup all your stuff.  This was designed for Intel and AMD x64 systems. You *might* be able to do it on an intel-based mac, but I don't have a mac to test it on, so I have no idea."
+,TheMajstorDane,2013-02-17T17:24Z,"Hi @murphy78! I really appreciate your hard work on this, it's nice to have all updates and SP1 slipstreamed into one installation. 
+I've tried to make this installation even more personalized for myself so I used ""RT 7 Lite"" software to apply couple of tweaks and unattend settings. With your previous releases of Win7 Ultimate from January 2013,both x64 and x86 version, everything worked perfect! So I wanted updated version and I did the same thing with this February 2013 release BUT I am getting this two messages in the middle of process: http://bayimg.com/DAjdNAaEL
+http://bayimg.com/eAJdaAAEl
+I've tried to track what causes the problem but with no sucess. All settings that I've already applied to January 2013 relase I did to this release as well, and I still keep getting these 2 messages all the time. By ""method of elimination"" I figured out that when I leave check box of ""customization"" unchecked - I am getting only first message and process continues till the end with success ( but than I am loosing some of  my favourite settings). 
+
+I am curious why previous January version worked fine with same settings and this February version causes RT7 lite to crash.If any of you had the same problem - I would be very gratefull for some help with this.
+
+Keep up the good work!"
+[V],murphy78,2013-02-17T18:34Z,"Hi TheMajstorDane. It's most probable that the cause of your errors is the audit/sysprep newer method I am using. Because it captures an image as-is, it might have things out of place from a standard dism-integrated image.
+
+I started using audit / sysprep this month as my standard way of integrating, because it adds a lot of things that I was having to install using setupcomplete.cmd
+
+setupcomplete.cmd is not terrible, but it REALLY slows down installs on slower computers.
+
+My advice would be to use my Jan2013 version, find the msu files from ms download center that you need to stay current, and add those packages using your rt7lite.  You won't be able to have the .net 4.5 or dx web runtimes pre-integrated, but that's the tradeoff.
+
+You could also just make your own Version of windows by capturing an image of it set up how you like it. If you want it customized to just your computer, shrink your c drive in half and install win7 again on the other partition, then boot into it and set it up in preparation for capture.
+
+Then download gimagex and capture the drive saving it as c:install.wim. Copy that over the old one in the sources directory of your win7dvd and you have yourself a version customized to your system."
+,lamportyx,2013-02-18T04:23Z,tnx! this is a great torrent no need to use a loader!
+,chrispi777,2013-02-18T05:48Z,"hi murphy78. i just installed this program, u said there is 
+No Windows 7 Settings were harmed in the making of this ISO.
+
+No Programs are added.
+
+No Unattended Settings were added to the installation.
+
+No Registry Settings were modified.
+
+but when i installed it, i had like MSI login and shutdown logo on it. but the jan 2013 was just as standard and no skin. "
+[V],murphy78,2013-02-18T08:08Z,"chris, it's oem branding. Use the normal index if you don't want it."
+,chrispi777,2013-02-18T14:31Z,"murphy78, thanks for the respond."
+,TheMajstorDane,2013-02-18T20:16Z,"@murphy78, tnx for your answer! I am working on my customized Win7 as you advised. 
+Cheers!"
+,fuctyou,2013-02-18T22:05Z,"Thanks for the updates, the x86 as well. Always good to have these. The time you spend uploading sames me time, much appreciated. "
+,kristina111,2013-02-19T14:00Z,"Rmurphy78 please help me.
+
+I am using Windows 8 pro that you have gave me with CMSNANO. it's work fine. 
+
+but right now I have seen that I am better comfortable with my Windows 7.
+
+I tried to download Win7 pro from digitalriver but it's not worked. I have installed Windows 7 sp1 from Microsoft's official site that's also not worked.
+
+Right now I am looking for this. I am not sure how to get it work. please help.
+
+The problem for both ISO is when I tried to run them they setup fail because of files currupted or missing. I have tried with USB and DISK both so I am sure I am right.
+
+Right now I believe in your torrent. please help me to install it.
+
+Love your torrents.
+
+Kris"
+,psycho34,2013-02-19T20:26Z,Thanks uploader!!
+[V],murphy78,2013-02-20T10:32Z,"kristina111, Make sure you only have one setup method available to your system so it doesn't read from the wrong drive. Win8 does this I've noticed. Also, if that doesn't fix your problem, you might be trying to install it in a way that it cannot create the boot files properly. Try deleting old partitions when you setup and install to unpartitioned space. If you still have a problem after that, I wouldn't know what to suggest."
+,xeno61,2013-02-20T21:26Z,Installed via refit/BootCamp on a 2009 Macbook. Thank you very much!
+,bearfan92,2013-02-21T11:12Z,I got this because I hate windows 8 since it keeps crashing but when I went to run this file it told me that 'autorun.dll' could not be loaded or is corrupt. setup cannot continue. Error code is [0x7E] murphy can you tell me what this means or how to fix it? i tried to run the 'setup.exe' file when i got this
+,long0857,2013-02-21T16:35Z,"Hello sorry i am not good at these computer.
+
+Right now i have a window vista. i am now upgrading the computer and i decided to upgrade this computer to window 7 .
+
+right now i just need to install this thing will do right ?
+
+will i still get the update for windows update? 
+
+secondly, if i decided to change a harddisk together ( Nothing in computer) is this still able to work ?"
+,Leopardi,2013-02-24T00:52Z,"I've installed this succesfully, but it says ""3 days until automatic activation. Activate windows now"", is this correct? Or is this torrent not activated after all?"
+,zero1zero,2013-02-24T07:47Z,"Hey murphy78, what is this default index and oem branding option? I don't want any custom logos, logins, or wallpapers. I just want to do a fresh install of regular win 7. How do I do that?"
+,rswt,2013-02-25T21:54Z,"Hey Murphy, Would this work on a Dell inspirion n7010 64 bit? BTW Love your uploads..."
+,shukree,2013-02-28T07:55Z,"to murphy78 and kristina111
+
+you can boot from a mini 7.iso or wim ,from a hard disk by loading it with EasyBCD.
+
+mount the Windows* iso and install.
+
+good luck"
+,daktarizg,2013-02-28T21:12Z,"thanx mate,working super,bootable disc,finally"
+,Leopardi,2013-03-02T12:16Z,This torrent is NOT activated. Once it's installed you need to download and run an activator.
+,*Wizard*,2013-03-06T16:00Z,"Hi murphy. I just built my new pc and this was the icing on the cake. Thanks so much for sharing this with us. It's been running for a few days absolutely flawlessly and is super fast.
+
+Oh, it most definitely IS activated."
+,nibeo,2013-03-07T13:46Z,"Nice work murphy. Just want to ask a couple of things cause i am a newbie to Windows 7. Anyone feel free to answer if you know.
+
+If i use the OEM index will i have problems later on if i upgrade my motherboard or some other part of my PC?
+
+If i use the default index, does this method means that it will use the ""Loader"" thing to activate, while with the OEM index it doesn't?
+
+Which method would be more future proof regarding Microsoft trying to deactivate Windows through the updates system?
+
+I am asking all these questions cause i wouldn't want to be locked out of my PC some day in the future. Thanks."
+,nibeo,2013-03-11T02:22Z,"Ok i started figuring how it works. If you use the ""OEM Activated"" index you get an OEM install with OEM logos and stuff and that IS ACTIVATED.
+
+If you choose the default index, you get an installation without OEM logos and stuff but it is NOT ACTIVATED either.
+
+Then i used the Daz Loader 2.2.1 thingie and it got activated, but the serial number in the System Properties is still -OEM-... :(
+
+So any chance we can get it activated with normal retail keys instead of OEM ones?
+
+The OEM key locks the installation to the specific motherboard, right?"
+,joetoads,2013-03-13T02:27Z,hey murohy78 first i want to say thank you!!!!!!! works great my question is do I need to turn updates off??? or can I turn them on thanks again 
+,joetoads,2013-03-13T02:29Z,murphy78 sorry for the type oo
+,joetoads,2013-03-13T22:51Z,do I turn updates on or keep them off??????? it say activated so what should I do 
+,Quronja,2013-03-20T21:05Z,This is the best torrent. Congrats man ...
+,Quronja,2013-03-20T21:08Z,When will be update in March 2013 ...?
+,zrxmike,2013-03-23T21:08Z,"Murphy, you are indeed a genius man. I already have genuine windows 7 but wanted to see if your downloads really work. I set up a separate partition and dual boot to test it. The damn thing installed ridiculously easy, actually easier than the real thing.
+I hear a lot of people continuously asking if you can update it so I gave it a whirl. No problem at all! Now I am going to download your windows 8 and give it a whirl. Thanks again dude, you are the best."
+,colourmesilver,2013-05-17T01:52Z,"Hello, just checking 2 things, its definately bootable and activated? cheers"
+,colourmesilver,2013-05-17T02:04Z,"ALso thanks for the upload as winblows 8 is fuckin shit lol, and im sick of OS x, its all gay."

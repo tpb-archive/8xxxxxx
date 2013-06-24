@@ -1,0 +1,83 @@
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **
+
+About This App:
+
+Updated:
+    February 26, 2013
+
+Current Version:
+    1.0.3.8
+
+Requires Android:
+    4.0 and up
+
+Category:
+    Tools
+
+Description:
+
+ Carbon is the missing app sync and backup solution for Android.
+
+Carbon does NOT require root. All Android users can use Carbon to backup and sync Android applications.
+
+Carbon lets you backup your apps and data to your SD card or cloud storage. With Carbon, you can sync app data from your other Android devices-- even if they are not on the same network. Set up backup schedules with Carbon, and never lose data again.
+
+Carbon Setup
+1. Install Carbon on Android
+a) Root user? You're done!
+2. Install and run Carbon Desktop (link below)
+a) Windows users must install their Android drivers as well
+3. Connect Android to computer.
+a) You may need to set your USB Connection Mode to "PTP". (Nexus 7, Nexus 10, etc)
+4. Carbon on Android should now be enabled.
+
+Carbon (Free) features:
+Backup and restore to SD card
+Backup and restore from PC
+
+Carbon (Premium) features:(Enabled)
+No ads
+Automatic Backup schedules
+Android to Android sync
+
+Cloud backup and restore
+* Dropbox
+* Box
+* Google Drive
+
+Note: Carbon is NOT available to Motorola devices. This is because Motorola phones have a bug that break Android's backup mechanism. Until this is fixed by Motorola, Carbon will not work on those Androids. You can download Carbon manually here: 
+http://download.clockworkmod.com/apks/Backup.apk
+
+If you find that Carbon *does* work on your Motorola Android, please notify me.
+
+Carbon Desktop Installer (non-rooted users): 
+http://www.clockworkmod.com/carbon
+
+What's in this version:
+Add user dictionary backup/restore
+Fix PC download issues
+Fix gallery icon spam
+Fix Google Play tablet incompatibility bug
+New permissions are necessary for call log and sms backup
+SMS and Call Log support
+Crash fix
+Handle broken root.
+Handle missing external sd cards.
+Fix wifi/3g sync negotiation bug.
+External SD Card support
+Android sync works over wifi now, and allows APK sync
+Temple Run (and others) Fix: Restores now support external files directory
+
+Note:No premium key is required
+
+PlayStore Link: 
+https://play.google.com/store/apps/details?id=com.koushikdutta.backup
+
+If you have any other request then tell me here: 
+https://forum.suprbay.org/member.php?action=profile&uid=330582
+
+TPB URL: 
+https://thepiratebay.se/user/toorentz

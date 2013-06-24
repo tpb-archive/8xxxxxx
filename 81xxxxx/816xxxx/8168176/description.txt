@@ -1,0 +1,204 @@
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 20. February 2013, 10:13
+
+Spin Doctors / Turn It Upside Down
+
+Used drive  : HL-DT-STDVDRAM GP08LU10   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:Program FilesExact Audio CopyFLACFLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "ALBUMARTIST=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:14.72 |         0    |    19121   
+        2  |  4:14.72 |  3:49.03 |     19122    |    36299   
+        3  |  8:04.00 |  4:04.25 |     36300    |    54624   
+        4  | 12:08.25 |  5:11.32 |     54625    |    77981   
+        5  | 17:19.57 |  4:18.70 |     77982    |    97401   
+        6  | 21:38.52 |  4:23.58 |     97402    |   117184   
+        7  | 26:02.35 |  4:47.40 |    117185    |   138749   
+        8  | 30:50.00 |  3:41.40 |    138750    |   155364   
+        9  | 34:31.40 |  3:55.00 |    155365    |   172989   
+       10  | 38:26.40 |  3:39.05 |    172990    |   189419   
+       11  | 42:05.45 |  3:53.37 |    189420    |   206931   
+       12  | 45:59.07 |  4:41.55 |    206932    |   228061   
+       13  | 50:40.62 |  4:34.70 |    228062    |   248681   
+
+
+Track  1
+
+     Filename D:DesktopEAC(01) Spin Doctors - Big Fat Funky Booty.wav
+
+     Peak level 97.5 %
+     Extraction speed 2.3 X
+     Track quality 99.9 %
+     Copy CRC 7015AF3A
+     Cannot be verified as accurate (confidence 48)  [B4B6AC40], AccurateRip returned [8266911E]  (AR v2)
+     Copy OK
+
+Track  2
+
+     Filename D:DesktopEAC(02) Spin Doctors - You Let Your Heart Go Too Fast.wav
+
+     Peak level 97.5 %
+     Extraction speed 2.6 X
+     Track quality 99.9 %
+     Copy CRC 693B1F7B
+     Cannot be verified as accurate (confidence 48)  [B7D48C62], AccurateRip returned [950D4619]  (AR v2)
+     Copy OK
+
+Track  3
+
+     Filename D:DesktopEAC(03) Spin Doctors - Cleopatra's Cat.wav
+
+     Peak level 97.5 %
+     Extraction speed 2.9 X
+     Track quality 99.9 %
+     Copy CRC 93B43C4D
+     Cannot be verified as accurate (confidence 48)  [7B892DD2], AccurateRip returned [7772CA38]  (AR v2)
+     Copy OK
+
+Track  4
+
+     Filename D:DesktopEAC(04) Spin Doctors - Hungry Hamed's.wav
+
+     Peak level 97.5 %
+     Extraction speed 3.3 X
+     Track quality 99.9 %
+     Copy CRC 29E55F75
+     Cannot be verified as accurate (confidence 48)  [364D00B2], AccurateRip returned [54C34DC7]  (AR v2)
+     Copy OK
+
+Track  5
+
+     Filename D:DesktopEAC(05) Spin Doctors - Biscuit Head.wav
+
+     Peak level 97.5 %
+     Extraction speed 3.4 X
+     Track quality 99.9 %
+     Copy CRC 607EABE1
+     Cannot be verified as accurate (confidence 48)  [0D8E464F], AccurateRip returned [A495D925]  (AR v2)
+     Copy OK
+
+Track  6
+
+     Filename D:DesktopEAC(06) Spin Doctors - Indifference.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.3 X
+     Track quality 100.0 %
+     Copy CRC 1AD6E263
+     Cannot be verified as accurate (confidence 48)  [AC7A01F1], AccurateRip returned [26F53A83]  (AR v2)
+     Copy OK
+
+Track  7
+
+     Filename D:DesktopEAC(07) Spin Doctors - Bags Of Dirt.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.6 X
+     Track quality 100.0 %
+     Copy CRC CB6F728F
+     Cannot be verified as accurate (confidence 47)  [1336F42E], AccurateRip returned [13817580]  (AR v2)
+     Copy OK
+
+Track  8
+
+     Filename D:DesktopEAC(08) Spin Doctors - Mary Jane.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.7 X
+     Track quality 100.0 %
+     Copy CRC CEA454B2
+     Cannot be verified as accurate (confidence 48)  [2A8DFF52], AccurateRip returned [FB447C5B]  (AR v2)
+     Copy OK
+
+Track  9
+
+     Filename D:DesktopEAC(09) Spin Doctors - More Than Meets The Ear.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.8 X
+     Track quality 100.0 %
+     Copy CRC A870963A
+     Cannot be verified as accurate (confidence 48)  [5277A830], AccurateRip returned [41A74D00]  (AR v2)
+     Copy OK
+
+Track 10
+
+     Filename D:DesktopEAC(10) Spin Doctors - Laraby's Gang.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.9 X
+     Track quality 100.0 %
+     Copy CRC F52C6068
+     Cannot be verified as accurate (confidence 47)  [44484C10], AccurateRip returned [D9E87DB0]  (AR v2)
+     Copy OK
+
+Track 11
+
+     Filename D:DesktopEAC(11) Spin Doctors - At This Hour.wav
+
+     Peak level 97.5 %
+     Extraction speed 5.2 X
+     Track quality 100.0 %
+     Copy CRC 2627FF29
+     Cannot be verified as accurate (confidence 48)  [6E15C4BB], AccurateRip returned [867FC501]  (AR v2)
+     Copy OK
+
+Track 12
+
+     Filename D:DesktopEAC(12) Spin Doctors - Someday All This Will Be Road.wav
+
+     Peak level 97.5 %
+     Extraction speed 5.4 X
+     Track quality 100.0 %
+     Copy CRC 683FE0B7
+     Cannot be verified as accurate (confidence 48)  [053CEBAE], AccurateRip returned [525F655E]  (AR v2)
+     Copy OK
+
+Track 13
+
+     Filename D:DesktopEAC(13) Spin Doctors - Beasts In The Woods.wav
+
+     Peak level 97.5 %
+     Extraction speed 4.8 X
+     Track quality 99.9 %
+     Copy CRC F0246425
+     Cannot be verified as accurate (confidence 48)  [B5FFFBF6], AccurateRip returned [23EBE6FA]  (AR v2)
+     Copy OK
+
+
+No tracks could be verified as accurate
+You may have a different pressing from the one(s) in the database
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: CpfeLsylu4Y2mHX87SNr8z1PmbQ-] found, Submit result: CpfeLsylu4Y2mHX87SNr8z1PmbQ- has been submitted
+[c954dd38] (90/90) Differs in 7208 samples @55:15:39-55:15:46
+You can use CUETools to repair this rip.

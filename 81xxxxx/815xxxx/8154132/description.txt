@@ -1,0 +1,32 @@
+KMSAuto Portable v1.6 By Ratiborus
+
+Windows & Office 2010-2013 KMS Emulator
+
+  
+http://img35.imageshack.us/img35/6246/20130217172642copy.png 
+http://img20.imageshack.us/img20/6671/20130217172915copy.png
+ 
+ 
+Description:
+KMSAuto - Automatic KMS-activator for the operating systems Windows Vista, 7, Windows 8/Server 2012 and Office 2010/2013 VL. Works without installation, activation does not leave traces of incriminating in the system,  file with the settings for a remove from the profile and allows easy to change the PID
+ 
+Based on Microsoft Toolkit 2.4.1 Stable from CODYQX4 (MDL) PID can edit the file in the folder Settings.xml Microsoft Toolkit. There is also a function of setting KMS-activator for everyday reactivation.
+ 
+How to use:
+
+Run as Administrator to file KMSAuto.exe
+ 
+A) Run Activation - Run KMSAuto for one-time activation
+I) Install AutoKMS - Set daily reactivation of
+U) Uninstall AutoKMS - Disable daily reactivation of
+R) ReadMe - Output to the console this file
+Q) Exit - exit with KMSAuto
+L) Show License - printing messages on the license
+G) Grab License - Copies PID computer is running emulator file pid_dli.txt
+ 
+
+Change Log: 
+v1.6 
++ Translated hidden commands in common. At the request of users. 
++ translated executable file format. exe
+

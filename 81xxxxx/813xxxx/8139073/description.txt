@@ -1,0 +1,75 @@
+Here is our remastered version in 720p to m2ts with Ac3-2.0/(2 channels)/41 Khz/384 kbps
+Final size : 4,48 Go.
+
+ More détails :
+
+    Complete name : TPB AFK_ The Pirate Bay Away From Keyboard -Remastered.Rip.720p[)(]Ac3-2.0-(Sw+En)+(En-sub).ts
+
+    Format : MPEG-TS
+    File size : 4.49 GiB
+    Duration : 1h 22mn
+    Overall bit rate mode : Variable
+    Overall bit rate : 7 825 Kbps
+  Video #256
+    ID : 256 (0x100)
+    Menu ID : 1 (0x1)
+    Format : AVC
+    Format/Info : Advanced Video Codec
+    Format profile : Main@L4.1
+    Format settings, CABAC : Yes
+    Format settings, ReFrames : 2 frames
+    Codec ID : 27
+    Duration : 1h 22mn
+    Bit rate mode : Variable
+    Bit rate : 7 000 Kbps
+    Maximum bit rate : 24.0 Mbps
+    Width : 1 280 pixels
+    Height : 720 pixels
+    Display aspect ratio : 16:9
+    Frame rate mode : Variable
+    Color space : YUV
+    Chroma subsampling : 4:2:0
+    Bit depth : 8 bits
+    Scan type : Progressive
+    Stream size : 4.04 GiB (90%)
+    Writing library : x264 core 129 r2230
+    Encoding settings : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x131 / me=hex / subme=5 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=1 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=0 / keyint=250 / keyint_min=1 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=abr / mbtree=0 / bitrate=7000 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / nal_hrd=vbr / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+
+  Audio #257
+    ID : 257 (0x101)
+    Menu ID : 1 (0x1)
+    Format : AC-3
+    Format/Info : Audio Coding 3
+    Mode extension : CM (complete main)
+    Format settings, Endianness : Big
+    Codec ID : 129
+    Duration : 1h 22mn
+    Bit rate mode : Constant
+    Bit rate : 384 Kbps
+    Channel(s) : 2 channels
+    Channel positions : Front: L R
+    Sampling rate : 48.0 KHz
+    Bit depth : 16 bits
+    Compression mode : Lossy
+    Delay relative to video : -5ms
+    Stream size : 226 MiB (5%)
+  Menu #4096
+    ID : 4096 (0x1000)
+    Menu ID : 1 (0x1)
+    Duration : 1h 22mn
+    List : 256 (0x100) (AVC) / 257 (0x101) (AC-3)
+    Service name : Service01
+    Service provider : FFmpeg
+    Service type : digital television
+
+Well nice balanced quality between video and sound...
+And smaller version than our previous anyway.
+Btw,we are still working on other enhanced versions....
+
+So see yourself and decide if you wanna get this last one or not.
+
+Enjoy and seed,please.
+
+Have a nice day
+
+Best regards

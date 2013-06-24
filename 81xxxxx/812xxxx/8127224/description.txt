@@ -1,0 +1,62 @@
+Quoted from the README, by the author:
+
+
+Lisboa Addon for the Portuguese Photoscenery
+============================================
+
+What does this contain?
+-----------------------
+- Enhanced quality for Lisbon area. Setubal, Sintra, Lisboa, Santa Cruz, Montijo, etc.
+
+- Night Lighting. Added night lighting for all the area. It's not perfect, but looks better than just plain dark textures.
+
+- Proper terrain exclusion for Montijo. Microsoft data is somewhat incorrect and there is land where there should be water. This is now fixed (see pictures).
+
+- Google objects. There are now a ton of easily recognizable landmarks in Lisbon and in some other Portuguese areas (Porto, Setubal, Sintra...). These objects
+  were compiled by the Portuguese FSX community and are added here as a bonus with their consent. It will make the photo terrain less dull and much more enjoyable.
+  Thank you to everyone who took the time to do these, you know who you are ;)
+
+
+How do i install this thing?
+----------------------------
+
+It's not hard to make this scenery work. Proper order in the library is important and i have included pictures of how the scenery looks when properly configured.
+If it doesn't look like the pictures, something is wrong with the library order (or some other conflicting addon is installed, like a terrain mesh).
+
+So, this is how it should like...
+
+----      Landmarks               -&gt;&gt; If you have the included landmarks installed, they should be ABOVE all the rest, even the airports.
+
+----      Aerosoft LPPT           -&gt;&gt; If you have Aerosoft's LisbonX installed, this is where it should be. All other airports need to be above the Portugal Photo scenery as well.
+
+----      Lisboa Photo            -&gt;&gt; This addon goes here. It has to be BELOW the airport and objects, and above the Portugal Photo scenery released before.
+                                      I have included a picture of how Lisboa looks like without the Portugal Photo addon so you can see how bad it is without it :)
+				      Remember this is only an enhancement for Lisboa, MEANT TO WORK with Portugal Photo.
+
+----      Portugal Photo          -&gt;&gt; If you have it, this is where it should be, BELOW everything else. Best place to put it is actually the Addon Sceneryscenery folder.
+
+
+
+Included pictures:
+
+Lisboa WITHOUT Portugal Photo     -&gt;&gt; How the scenery looks WITHOUT Portugal Photo installed. It just looks bad because it doesn't blend with the default at all.
+
+Correct Installation              -&gt;&gt; How the scenery should look in Lisbon area if everything is working properly and ALL sceneries installed.
+
+Night Lighting                    -&gt;&gt; How the scenery looks at night. Really good i might add :P
+
+
+So, what's next?
+----------------
+
+Porto and Faro areas in higher detail like this Lisbon area. There might be some other addons for aerodromes (in more detail) or maybe the outstanding Geres or Serra da Estrela areas.
+There are other enhancements being considered for known problems such as better "snipping" of coastal and river areas and better blending of some other areas. No promises here. 
+
+
+Credits:
+--------
+
+Portuguese FSX community. We aim to have the best Portuguese scenery available, since nobody cared about it yet (i mean any SERIOUS developer). Aerosoft seems to be working
+on a new Lisboa airport, but it's been like this for years and we're beginning to doubt it will ever see the light of day.
+
+Enjoy the best you can, we did this for you and for free.

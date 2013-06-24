@@ -1,0 +1,34 @@
+X-COM: Terror From The Deep
+
+X-COM: Terror From The Deep is the sequel to UFO Enemy Unknown (also known as X-COM: UFO Defense, UFO: Enemy Unknown or X-COM: Enemy Unknown). X-COM: TFTD applies the same formula that made its predecesor such masterpiece; expect more tactical combat agains alien invaders, this time underwater.
+
+X-COM: TFTD was first released for MS-DOS in 1995. A PSX port followed in 1996.
+
+This version in particular is the one included X-COM Collector's Edition (1998). It's a multi4 european version, you can choose English, French, German or Spanish.
+
+It includes two sets of executables, the old MS-DOS set and a new Windows 95 set.
+
+My suggestion is that you try the Windows 95 method first, because, as a general rule, a native executable is better than an emulator.
+X-COM Terror From The Deep for Windows 95
+
+Installation Instructions:
+
+-Create the folder that will contain the game (Ej. C:gamesxcomtfd)
+-Decompress "X-COM Terror From The Deep.7z" to the previous folder. You'll need 7-zip for this task. Get it from http://7-zip.org/
+-Double-click on "Terror From the Deep_patched.exe" to run the game. If that one doesn't work for you, try "Terror from the Deep.exe". If that one doesn't work either, read the next section.
+
+X-COM Terror From The Deep for MS-DOS
+
+If, for some reason, the Windows 95 executables don't work on your system, you'll have to go the DosBox way.
+
+Installation Instructions:
+
+-Create the folder that will contain the game (Ej. C:gamesxcomtfd)
+-Decompress "X-COM Terror From The Deep.7z" to the previous folder. You'll need 7-zip for this task. Get it from http://7-zip.org/
+-Download and install DosBox.
+
+The most confortable option to run the game is to create a shortcut to DosBox that passes the location of the game's executable as an argument, "c:gamesxcomtfdTERROR.BAT" in this case. What I'm asking you to do is Windows general culture, but if you don't know what I'm talking about, read this excellent tutorial.
+
+Enjoy!
+
+2010/10/06, trapacer

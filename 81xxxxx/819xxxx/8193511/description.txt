@@ -1,0 +1,49 @@
+Puppet Types And Providers
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+PuppetΓÇÖs true power exists in the simple resource model it uses to manage the state of complex operating systems. This concise guide shows you how to extend that model and implement custom functionality on top of Puppet by working with the type and provider APIs.
+
+Two experts from Puppet Labs explain the concepts behind these APIs, and provide instructions and examples to help you write your own fully functional types and providers. YouΓÇÖll also delve into PuppetΓÇÖs source code to get a better understanding of how types and providers are implemented internally. If youΓÇÖre familiar with basic Puppet concepts, youΓÇÖre ready to get started.
+
+- Learn the fundamental concepts behind resources, and become familiar with the structure of PuppetΓÇÖs Resource Model
+- Discover how the type API is used to create new resource types that Puppet can manage
+- Understand how providers interact with the system to achieve the desired state of a declared resource
+- Explore advanced features to get a more complete understanding of how Puppet works
+- Simplify the troubleshooting process when developing types and providers
+
+Table of Contents
+Chapter 1. Puppet Resources
+Chapter 2. Types
+Chapter 3. Providers
+Chapter 4. Advanced Types and Providers
+
+Appendix A. Installing Puppet
+Appendix B. Modules
+Appendix C. Troubleshooting and Debugging
+
+Book Details
+Paperback: 92 pages
+Publisher: OΓÇÖReilly Media (December 2012)
+Language: English
+ISBN-10: 1449339328
+ISBN-13: 978-1449339326

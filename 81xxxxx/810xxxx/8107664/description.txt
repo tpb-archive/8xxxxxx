@@ -1,0 +1,43 @@
+Rainy summer evening... Young people are arriving at the new trendy club named Phobos which is still under construction. Or re-construction - since it's a former bomb shelter which is reconstructed to become a club. At first, the party sees nothing wrong, but soon the bunker doors turn out to be locked, and the teenagers get trapped underground without light and communication. At first, all of them are joking and do not realize how dangerous their situation is. Then they get frightened. All of them will need to cope with their fears before the bunker will let them free.
+
+
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+FileSize/String                  : 915 MiB
+Duration/String                  : 1h 18mn
+OverallBitRate/String            : 1 628 Kbps
+
+Video
+ID/String                        : 0
+Format                           : xvid
+CodecID                          : xvid
+Duration/String                  : 1h 18mn
+BitRate/String                   : 1 488 Kbps
+Width/String                     : 640 pixels
+Height/String                    : 480 pixels
+DisplayAspectRatio/String        : 16:9
+FrameRate/String                 : 23.976 fps
+Bits-(Pixel*Frame)               : 0.202
+StreamSize/String                : 836 MiB (91%)
+
+Audio
+ID/String                        : 1
+Format                           : MPEG Audio
+Format_Version                   : Version 1
+Format_Profile                   : Layer 3
+Format_Settings_Mode             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+CodecID                          : 55
+CodecID/Hint                     : MP3
+Duration/String                  : 1h 18mn
+BitRate_Mode/String              : Constant
+BitRate/String                   : 128 Kbps
+Channel(s)/String                : 2 channels
+SamplingRate/String              : 44.1 KHz
+Compression_Mode/String          : Lossy
+StreamSize/String                : 71.9 MiB (8%)
+Alignment/String                 : Aligned on interleaves
+Interleave_Duration/String       : 26 ms (0.63 video frame)
+Interleave_Preload/String        : 52 ms
+Encoded_Library/String           : LAME3.98.2
+

@@ -1,0 +1,68 @@
+Episode Synopsis:
+
+Joey makes a quick call home in the middle of the night. In prison, Carroll asks a lawyer for help-one Olivia. Ryan gets deputised and sets out to find Joey. 
+Screens:
+ 
+http://imageshack.us/a/img69/1261/thefollowing01x05thesie.jpg 
+http://imageshack.us/a/img703/1261/thefollowing01x05thesie.jpg 
+http://imageshack.us/a/img560/1261/thefollowing01x05thesie.jpg
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 129 MiB 
+Duration : 42mn 50s 
+Overall bit rate mode : Variable 
+Overall bit rate : 420 Kbps 
+Encoded date : UTC 2013-02-19 08:55:27 
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00 
+Writing library : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L5.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 4 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 42mn 50s 
+Bit rate : 384 Kbps 
+Width : 720 pixels 
+Height : 416 pixels 
+Display aspect ratio : 1.731 
+Frame rate mode : Constant 
+Frame rate : 23.976 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.053 
+Stream size : 116 MiB 
+Writing library : x264 core
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : Vorbis 
+Format settings, Floor : 1 
+Codec ID : A_VORBIS 
+Duration : 42mn 50s 
+Bit rate mode : Variable 
+Bit rate : 33.2 Kbps 
+Channel(s) : 1 channel 
+Sampling rate : 22.05 KHz 
+Compression mode : Lossy 
+Stream size : 10.2 MiB (8%) 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Text 
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Language : English 
+Default : Yes 
+Forced : No

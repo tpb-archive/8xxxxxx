@@ -1,0 +1,15 @@
+It took me 12 nights to synchronize Bitcoin with the network :(
+
+Here it is ... 6.47 GB ;(
+
+You can copy your wallet.dat(if you have one) to /data/ folder, if you are a new to Bitcoin just run bitcoin.bat - the programm will create everyting it needs to work itself.
+
+bitcoin.bat - Starts Bitcoin in portable mode.
+
+---
+
+Current number of blocks: 223029 
+
+Last block time: Mon 25. Feb 12:19:03 2013
+
+---

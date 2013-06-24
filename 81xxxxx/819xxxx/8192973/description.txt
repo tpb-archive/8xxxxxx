@@ -1,0 +1,101 @@
+*This will NOT fit on a single layer 4.37GiB dvdr.*
+*Use either a Dual-Layer DVDR or a USB drive.*
+
+--WARNING: THIS IS WINDOWS VISTA--
+Windows Vista can cause suicidal thoughts, feelings of
+depression, nerd rage, slow hard-drives, and T.F.K Syndrome.
+You've been warned.
+
+murphy78 sadly presents Windows Vista SP2 AIO DaRT8 FINAL
+This release contains updates up to Feb12-2013, patch day
+
+No Windows Vista Settings were mercy-killed in the making of this ISO.
+No Programs are added to the Windows installs.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+(One reg add runonce was used for .net 4.5 and IE9 security update)
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+(Thank anarchist9027 for this AIO addition)
+
+Source RTM files:
+x64: 6002.18005.090410-1830_amd64fre_Client_en-us-FRTMCXFRE_EN_DVD.iso
+x86: FRTMCFRE_EN_DVD.iso
+These are both sp2 final build
+
+Release Files:
+WinVistaAIO-SP2-x64-x86-en-US-DaRT8-FINAL-Feb2013.iso
+Size 7.43GiB
+CRC32: A3122442
+MD5: 2440A41BC786586D0962970C868A8693
+SHA-1: 5FEDB5C4991EBA4961DBC175D4EC11373B1782FE
+
+Installation Indexes:
+Windows Vista Starter SP2 32-bit
+Windows Vista Home Basic SP2 32-bit
+Windows Vista Home Premium SP2 32-bit
+Windows Vista Business SP2 32-bit
+Windows Vista Ultimate SP2 32-bit
+Windows Vista Home Basic SP2 64-bit
+Windows Vista Home Premium SP2 64-bit
+Windows Vista Business SP2 64-bit
+Windows Vista Ultimate SP2 64-bit
+
+Language: en-US (English - United States)
+
+Tools used:
+vlite for package addition
+imagex for compression, export, and rename
+oscdimg for iso mastering
+
+KB Files added via add-package dism:
+*Trimmed to upload, read txt
+
+setupcomplete.cmd phase
+KB890830-v4.17 (Recent Malicious software removal tool)
+dotnetfx35.exe (NetFx 3.5 SP1)
+NDP35SP1-KB958484 (Net3.5.1 security update)
+NDP35SP1-KB963707 (Net3.5.1 security update)
+NDP35SP1-KB2604111 (Net3.5.1 security update)
+NDP35SP1-KB2657424 (Net3.5.1 security update)
+NDP35SP1-KB2736416 (Net3.5.1 security update)
+KB2758694 (xml4 exe only hotfix)
+mpas-fe and mpas-feX64 (Windows Defender Offline Update)
+reg add runonce clean.cmd (Sets up first boot to install
+.NET4-4.5 and IE9 Feb2013 updates and reboot)
+
+clean.cmd:
+dotnetfx45_full_x86_x64.exe (.NET4.5 post oct9 redist)
+KB2737083, KB2742613, KB2750147, KB2789648 (Net4.5 hotfixes)
+KB2792100 (IE9 Security update for the IE9.msu offline install)
+(This update is not allowed to install offline for vista)
+deletes the big Scripts folder.
+reboot to update system after IE9 security update.
+
+This is my FINAL Vista release ever. I didn't use 2 indexes
+for each install on this one because the previous version with
+OEM branding severely hampered the boot-setup. Vista likes to
+read all of the OOBE info during that phase. You can still use
+the previous version if you like it better.
+
+I played around with different methods of integration for over
+a week. Seriously. I did all sorts of audit-mode - sysprep
+captures from pre-integrated sources and original sources.
+The end result just wasn't satisfactory and I've accomplished
+the same thing with Vlite using about 1.5gigs less space,
+minus directx web runtimes. Chances are if someone really
+wants to use Vista, they aren't doing it for 3D games anyway.
+
+So that's it folks, this is the last Vista I'll do and it's
+as un-crappy as I can make it. If it isn't satisfactory to
+you, you can just not use it.  If you want to add the OEM
+branding from the mdl project, just copy the oem folder stuff
+into the oem folder from my release, but note that it will
+seriously slow down the initial install. I tested the hell
+out of every single one of these indexes. If you have a
+problem, it's probably on your end.
+
+Condolances Pirates,
+murphy78-TPB :)

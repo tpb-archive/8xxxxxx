@@ -1,0 +1,31 @@
+Zygor Guides update v4.0.5928, released February 21st, 2013. (Horde and Alliance)
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+3) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+4) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box.
+
+********I need someone to verify that the Mac instructions work********
+
+Patch notes:
+
+
+Version: 4.0.5928
+Released on: February 20th, 2013
+[H] Reputations
+Updated Reputations Guides in Outland
+
+* New: Waypoints (and ant-trail routes) are now shown on Flight Maps, for easier visibility - "where am I going?".
+* Fix: Mounted flights into Ironforge are working again.
+* Fix: Manually set travel routes are now refreshing themselves properly.
+* Fix: Crash when hiding a cooling-down travel item icon.

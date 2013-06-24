@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,v1ctor1a,2013-02-08T09:07Z,"Hi, quick question.. I'm new to this so please excuse the DUH... but once I download a game, what do I need to do to make it playable on the xbox360?? Thanks so much to all that offer help. "
+,xganonx,2013-02-15T16:24Z,"To play: 
+You must have ""flashed"" your firmware that runs the DVD drive. This is done by removing the DVD drive from the Xbox, hooking it up to your computer (powering it with the xbox, but using the data cable to connect to the computer) and flashing it with programs you can find with a bit of Google-ing. The kind of flash performed depends on the maker and model of the DVD drive.
+
+To play these games here, you'll need a DL DVD-R (Dual Layer DVD) because they hold 8.5GB of data instead of the 4.7. At that point imgburn should perform well at default settings (slow speed burn is best). Good luck!"

@@ -1,0 +1,60 @@
+SPORT: Y Clwb Rygbi - Scarlets v Munster
+On: S4C Digital
+Date: Saturday 16th February 2013 
+Time: 18:10 to 20:30 
+
+S4C features live RaboDirect Pro 12 rugby this evening as the Scarlets welcome Munster to Parc y Scarlets. Kick off is at 6.30pm. English commentary.
+
+
+General
+Complete name: 2013.02.16.Scarlets.v.Munster.pdtv.x264.mp4
+Format: MPEG-4
+Format profile: Base Media
+Codec ID: isom
+File size: 868 MiB
+Duration: 1h 32mn
+Overall bit rate mode: Variable
+Overall bit rate: 1 316 Kbps
+
+Video
+ID: 1
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: High@L3.1
+Format settings, CABAC: Yes
+Format settings, ReFrames: 5 frames
+Codec ID: avc1
+Codec ID/Info: Advanced Video Coding
+Duration: 1h 32mn
+Bit rate: 1 183 Kbps
+Maximum bit rate: 3 185 Kbps
+Width: 720 pixels
+Height: 416 pixels
+Display aspect ratio: 1.731
+Frame rate mode: Constant
+Frame rate: 25.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.158
+Stream size: 781 MiB (90%)
+Writing library: x264 core 129 r2245 bc13772
+
+Audio
+ID: 2
+Format: AAC
+Format/Info: Advanced Audio Codec
+Format profile: LC
+Codec ID: 40
+Duration: 1h 32mn
+Bit rate mode: Variable
+Bit rate: 128 Kbps
+Maximum bit rate: 141 Kbps
+Channel(s): 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode: Lossy
+Delay relative to video: 80ms
+Stream size: 84.4 MiB (10%)
+Language: English

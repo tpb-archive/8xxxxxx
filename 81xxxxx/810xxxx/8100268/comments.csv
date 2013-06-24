@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,osxp,2013-02-04T03:39Z,"let me think!hmmm you've just got home and had nothing better to do. LOL
+THANKS BUD"
+[V],murphy78,2013-02-04T05:11Z,"heh... actually there has been discussion on script helpers and such over at MDL. First someone came up with the idea to make a script helper. Then I went a step further and made a zip extractor with command-line info as it goes. Then they mentioned that triggerkms doesn't wait the first time if it starts activating like kmsnano alone does.
+
+So then someone helped out with a task monitoring script. Someone else then refined that a bit and came up with a lil pause before starting that and displaying info. I took that a bit further and made a sfx for it, but it was really basic.
+
+This one here is still basic but it at least lets you choose directory.  The command prompt screen is still kinda ugly so I may try to figure out how to do all this stuff with like a vbs, but no promises; I suck at programming."
+,neilzzz01,2013-02-04T06:56Z,"keep them coming and always updated..!
+Thanks for this sir."
+[T],crwildman,2013-02-04T07:04Z,we get a new one every couple days :P
+[T],crwildman,2013-02-04T07:13Z,"thanks, works great"
+,osxp,2013-02-04T07:17Z,"@crwildman This isn't a new one, this installer is pure murphy78's sin : )"
+[V],murphy78,2013-02-04T13:22Z,"Yah believe it or not, they will eventually slow down with the releases. There's always something you can do to improve things, but there comes a point when things have to improve at least a certain amount to be worth making a newer version. With kmsnano he's basically been fixing office conversion bugs lately, but at first there were size improvements and speed improvements. In fact I'm going to monitor the newer 20 version and some kmsmicroSE mods. Those guys echo2 and abbodi really tune up some good stuff.  They are like frontend designer and testers to heldigard's kmseldi program.
+
+Their post page is at:
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page520?p=695382#post695382
+
+I'm going to wait a lil bit and see if they implement a newer one for the new kmseldi tool, but they already have a sfx for their current one I believe.
+
+Those 2 guys and heldigard are both really good for the improvement of the tool over time.
+
+I hope some day we can get an encrypted install version like with daz's windows loader, but I'm not sure it's possible. They use so many tools that they didn't write themselves that I'm not sure they could hide everything that MS and the dumb anti-virus companies wouldn't try to list as malware."

@@ -1,0 +1,42 @@
+Zygor Guides update v4.0.5872, released February 13th, 2013. (Horde and Alliance)
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Patch notes since last version:
+
+
+Version: 4.0.5872
+Released on: February 13th, 2013
+[H] Professions List
+Updated Tailoring to lvl 400
+
+[B] Achievements
+Edited several achievements to give more information.
+
+[A] Leveling
+Fixed an issue with the Townlong Steppes leveling guide.
+
+[B] Mounts
+Fixed an error that could occur for a few of the mount guides on both sides. (Headless Horseman and some Cloud Serpents mostly)
+
+[B] Achievements
+Added in some missing achievements
+
+[A] PROFESSIONS
+Fixed a duplicate farming node in the Herbalism guide.
+Version: 4.0.5863
+Released on: February 12th, 2013
+[B] Achievements
+Fixed parsing issues in several guides
+
+[B] Pets/Mounts
+Fixed parsing issues in several guides
+
+[Travel]
+*Fixed an error that could cause Shaman's Astral Recall to be suggested incorrectly

@@ -1,0 +1,165 @@
+                 Windows 7 AIO Package Installer - 2010kaiser
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+For your convenience. An All In One (AIO) Windows disk creator. Software includes:
+
+
+WBICreator
+----------
+
+make your windows .ISO bootable in just a few clicks.
+
+
+PowerISO:
+---------
+
+Burn your newly created bootable Windows .ISO's to disk.
+
+
+WinUSB Maker:
+-------------
+
+Create a bootable USB in just a few clicks with WinUSB Maker. 
+
+
+
+.NET FrameWork 4.4:
+-------------------
+
+.NET FrameWork 4.5 included (WinUSB Maker needs .NET FrameWork installed to run).
+
+
+
+WinAIO Maker:
+-------------
+
+Create your own multi-edition, dual architecture Windows .ISO's in just a few clicks.
+
+
+
+
+
+
+
+If your A/V deltes or will not allow the "Key-Gen" to run. You can get a Name + serial in the "PowerISO Serials" TAB.
+
+Note: At a minimum. .NET FrameWork 3.5 MUST BE INSTALLED For WinUSB Maker To Run. Please Check That It's Installed. If Not. Click On ".NET FrameWork 4.5" TAB To Install It.
+
+
+
+1) WBICreator:
+==============
+==============
+
+
+Instructions:
+=============
+1. Create a folder on your desktop. (For simplicity, i'll name this folder 'EXTRACTED').
+2. Extract the contents of your downloaded Windows .ISO image to the folder named 'EXTRACTED' using e.g. PowerISO.
+3. Create a 2nd folder on your desktop. (For simplicity, i'll name it 'COMPILED').
+4. Run/click WBICreator.
+5. From the 1st drop down menu, select the O/S type (For simplicity, i'll be using Windows 7).
+6. In the 'CD/DVD Label' window, name it what you like.
+7. In the 'Setup Location' window, navigate to and select the 'EXTRACTED' folder.
+8. In the 'Output Path' navigate to and select the 'COMPILED' folder.
+9. Click 'GO'.
+10. Once the process has finished, a bootable Windows 7 .ISO has been created in the folder named 'COMPILED'.
+11. Now just burn the image to disk using e.g. PowerISO.
+
+
+
+2) PowerISO:
+============
+============
+
+
+Instructions:
+=============
+
+1. Click PowerISO.
+2. Install the application.
+3. Once installed, close application.
+4. Now open PowerISO again and select "Enter registration Code..."
+5. Enter name and serial from "Key-Gen" or "PowerISO Serials".
+
+NOTE: Block PowerISO with Windows Firewall with Inbound/Outbound rules.
+
+
+
+Win USB Maker:
+==============
+==============
+
+
+Instructions:
+=============
+
+1) Plug your USB into your PC/Laptop (Must be 5GB or more).
+
+2) Go to:
+
+Start/Computer/Right click on the USB and select 'FORMAT'
+
+3) Make sure, in the pop up window that appears. In the 'FILE SYSTEM' drop down menu. Select NTFS.
+
+4) Run your downloaded copy of Win USB Maker that you downloaded in step 1.
+5) When Windows USB Maker opens. In the center of the application you'll see an option which says:
+
+'First of all, select a device to work with'
+
+6) Click on that window and select the USB that you have formatted and have plugged into your PC/Laptop.
+7) Once youve done that, from the left, click on 'Setup to USB'.
+8) Then click on 'I want to work with an ISO image'.
+9) Then click on 'Select an ISO or directory'.
+10) From the window that pops up now. Navigate to the Windows 7 .ISO youve downloaded and want to transfer to the USB.
+When youve found the Windows 7 .ISO. Click on it ONLY ONCE and click 'Open'.
+11) Once you've done that, click on 'Make USB Bootable'.
+12) Youll then get a pop up window saying:
+
+'All device data and partitions will be lost with it. Continue?'.
+
+13) Click 'Yes'.
+
+Windows USB Maker will now transfer Windows 7 to the USB and make it bootable.
+
+Itll take a little time and at times, itll seem like it's not working (hanging). This is normal, give it time.
+
+
+Finally, when the process is complete, make sure you eject the USB correctly.
+
+
+
+
+WinAIO Maker:
+=============
+=============
+
+
+Instructions:
+=============
+
+
+1) Install application as normal.
+2. Use WinAIO Maker to create your own All In One Windows 7 Installation disk.
+
+
+2010kaiser home page at The Pirate Bay link below:
+
+  
+http://thepiratebay.se/user/2010kaiser/
+
+
+Check out the new PirateWiki! Where knowledge is shared ;-)
+
+           
+https://forum.suprbay.org/wiki/index.php?title=Portal:Main_Page
+
+
+For re-seed requests, help, support or anything else relating to The Pirate Bay. You'll find it all, and more, at suprbay. The official support forum of The Pirate Bay. Visit it at the link below:
+
+  
+https://forum.suprbay.org/ 
+
+
+ENJOY AND SEED!!!

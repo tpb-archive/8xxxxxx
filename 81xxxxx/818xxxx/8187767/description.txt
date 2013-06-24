@@ -1,0 +1,16 @@
+Howdy!
+
+This is the collection of component (Audio Unit) files from the Antares AVOX Evo toolkit. These are not universal binaries and will only work on Intel Macs running one of the somewhat-newer versions of OS X. They've been tested in 10.8, so I can't vouch for any version before that.
+
+I ripped these components from a different torrent I downloaded that contained an installer package for each individual plugin. The PKG files were clean and contained the necessary files, but for some reason only one of the plugin files was actually installed so I ripped the component files from the installers to put in the directory myself. Since I assume I won't be the only one to encounter this issue, I've decided to simply upload a torrent of the ripped component files.
+
+
+TO INSTALL, simply move (or copy, if you prefer) the .component files to:
+
+"/Library/Audio/Plug-Ins/Components"
+
+
+
+I suggest doing this while you're not running your DAW of choice simply because from my experience they don't actively "watch" the plugins folder for new plugins while they're running and Ableton Live's "rescan" feature never seems to actually do anything for me.
+
+Enjoy!

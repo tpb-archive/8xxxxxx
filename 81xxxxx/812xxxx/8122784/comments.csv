@@ -1,0 +1,58 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2013-02-10T03:47Z,come on people seed.. im getting low on data again
+,SerSpec-V,2013-02-10T19:02Z,"Thanks, I will seed. I can use anyone's wifi ;) "
+[V],psspss,2013-02-10T23:56Z,"didnt think wifi was hackable if you turn of wps and use psk2 with a random and longy password
+
+I guess theres a few router owners that use the old encryption still and bad firmware with wps which says disable when really it is not.. linksys was one of them."
+,SerSpec-V,2013-02-11T00:39Z,"The WPS default setting is ON on most routers it seems. Anyway it's not just a few router owners it's like 90%+  are easy to crack, sometimes in just 10min. "
+[V],psspss,2013-02-11T01:36Z,"yeh not many tech savvy out there,, but the ISPs should be sending techs or remote logging in and fixing or upgrading their firmware for them.. or send a replacement router.. 
+
+I also check my wireless status you can see whos connected to your router.. so even leave the mac address on the screen but in red when not conencted.. which is very handy indeed.. and cheap router too. my expensive dlink dont have such a nice option. 
+
+also one could make it harder by approving mac addresses for connection but most dont
+
+
+-----
+
+So have you watch and downloaded the pirate bay documentary.
+
+I just did to find its all swedish mostly and no subs file with darn thing.. but managed to download directly a srt file for it.. but I hate reading subs.. wish they did a voice over version as well. guess some will hard eng sub a version soon
+
+well time to watch it now i have eng subs!"
+[V],psspss,2013-02-11T01:43Z,"i mean some leave not so - some leave mac address on screen
+
+and yeh.. you can spend months brute force hacking as well.. will take a long time.. easier if got rainbow tables where dumbs leave the same ssid on
+
+but if your connecting i would spoof your mac address some if they come knocking the mac address wont match the one on the pc/lappy
+
+not sure if can spoof all macs via the hack soft?
+or lan driver? as I dont bother hacking
+in surburbs you can only see one or 2 in the area
+as most routers have low wattage antennas liek 50mwv that dont go futher then 20meters
+so I guess your in a aptment block or dense area"
+,SerSpec-V,2013-02-11T02:38Z,The ISP's could care less as long as the bill gets paid. Still people are renting old G routers with WEP and no password on the router itself. And then theirs people with open networks. Most people that have computers don't really know how to use them or know anything about security. WPA2/PSK2 just takes longer but were still talking hours and not days. That's why I don't use wifi for my own internet. 
+[V],psspss,2013-02-11T03:01Z,"a very long password on router should be enough
+i once talked to the guy who did the janus privacy adapter and invent the GPU soft to crack the weps and what he said.. psk2 is still very hard
+with a good password and long one
+
+12 characters should take ages to brute force
+
+but most now allow 32 and 63 character passwords
+
+but then i think you can sniff a encrypted packet
+and store on pc and run the pc with video cards
+and multicores cracking all the combos and do it sooner
+
+makes you wonder how MPAA can sue people for downloads when pcs and networks can be troajned so easily.... its all so fooked up"
+,SerSpec-V,2013-02-11T04:10Z,"I do wonder how MPAA  can sue people. Just say ""Oops I forgot to enable security on my wireless router"" or ""It's not my fault someone hacked my WEP"". With todays software psk2 usually just takes several hours. "
+[V],psspss,2013-02-11T04:26Z,"thats why I say check whats connected randomly each week and monitor data usage religiously like i do and
+
+enable MAC security on router but dont block yourself.. make sure you enter the macs of own pc properly heeh"
+[V],psspss,2013-02-11T04:41Z,"im surprised how little people download this series looks like the torrents for it will die soon
+
+it was a great show.. and it does show how little usa people dont know about their own countries evilness and going ons under their noses
+
+and also the UFO/alien and ghosty stuff were interesting and the Nostradamus followers would enjoy it as well"
+[V],psspss,2013-02-11T04:45Z,"AS George said.. Gaiam tv are sticking their necks out to get this out to the public which is subpressed by main stream tv/media so
+
+more reason to listen and share this series to wake up the people... banned things should be aired everywhere so we can see what we not finding out on"

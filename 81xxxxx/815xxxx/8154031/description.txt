@@ -1,0 +1,49 @@
+From: http://download.sirrix.com/content/pages/bbdl-en.htm
+
+Browser in the Box
+The Virtual Environment for secured and comfortable Web Browsing
+
+Browsing the Internet has become an absolutely necessary tool in today’s work environments. An information collection process can’t be thought anymore without the web. At the same time our computers are processing confidential and critical information like personal or company internal data. The immense benefit of the Internet comes along with constantly changing threats. The development of browser versions in the past years can be understood - besides all functional progress - as a constant race in the battle against various attack scenarios.
+
+Latest since the Internet has become active with the evolvement of “Web 2.0” the balance between threats and benefits has been lost. “Active content” has become a standard part on modern web sites. Actual web sites are more and more indistinguishable from full blown native applications. Programming interfaces like JavaScript, Java, ActiveX or VBScript provide means for accessing the computer and its resources like its file system or webcam. Trojan horses and viruses can abuse such powerful tools e.g. to steal confidential data. Companies and authorities alike are facing a dilemma: to limit the use of the Internet substantially or to find a way of living with existing threats.
+Single user version freely available for private persons
+
+The virtual surf environment "Browser in the Box" has initially been developed by Sirrix on behalf of the German Federal Office for Information Security for use by all federal authorities. Now the solution is open for everyone and enables users to surf the Internet with confidence even when using most modern and comfortable web technologies without limitation despite otherwise usual advice.
+
+On the basis of a “Browser-in-the-Box” concept a virtual machine is provided with a reduced operating system and a web browser encapsulated therein. Malware can’t thus penetrate the host operating system and a potential damage in the separated virtual machine will vanish with each start of the browser by returning to a certified starting point. All of that is fully transparent to the user.
+Protection against malware and data Leakage
+
+In contrast to simple sandboxing methods provided by standard browsers "Browser in the Box"  isolates all activities of the browser completely from the host operating system. Merely a single shared folder within the host is made accessible for a separate user account. This folder stores all persistent configuration data like favorites of the browser. Equally all downloaded files are initially stored in this folder and are only forwarded into the normal user accessible download folder after a malware scan.
+
+Besides this extensive protection of the host system against any attacks from the Internet "Browser in the Box"  prevents reliably any uploads of files into the Internet. Hence, the confidentiality of critical company or authority information is not already jeopardized by simply providing Internet access to its employees.
+
+"Browser in the Box"  provides thus, a cost efficient and carefree surf environment without any limitation in comfort. The expensive and complex usage of dedicated terminal servers as an alternative for secure surfing can be avoided. The performance impact is minimal for today’s computer architectures.
+
+
+For the dutch people
+
+
+Auteur:
+    Sirrix
+Taal:
+    Engels
+
+Licentie:
+    Freeware
+Besturingssysteem:
+    Win XP/Windows Vista/Windows 7
+Bestandsgrootte:
+    357.7MB
+
+ 
+
+BitBox Download informatie
+Community Box
+
+    Nieuwe downloadversie melden!
+
+Eenvoudig veilig surfen. Als je in een veilige omgeving wilt surfen of internetbankieren is de Browser in the Box de makkelijkste keuze.
+
+Omdat de tool van Sirrix een browser in een virtuele omgeving creëert, ben je beschermd tegen virussen en hackers. In deze omgeving ben je op geen enkele manier beperkt, dus bijvoorbeeld Flash werkt net als altijd. Tijdens de installatie heb je de keuze uit een standaard- of een expertmodus. Twijfel je, kies dan voor standaard, zodat het programma de meeste instellingen voor je instelt. In de expertmodus kun je bijvoorbeeld een eigen gebruikersnaam aanmaken, een wachtwoord voor de VM-Ware instellen en de software beveiligen tegen andere gebruikers. In elk geval maakt BitBox een eigen gebruikersprofiel voor je aan. Heb je nog geen virtuele machine zoals VM-Ware op je pc staan, dan wordt die automatisch geïnstalleerd. Vervolgens kun je de tool net als andere browsers als standaardbrowser instellen. Je kunt bijvoorbeeld instellen of bestanden gedownload en geüpload mogen worden en of je data buiten de virtuele machine mag opslaan.
+
+Is deze download de moeite waard of kan hij regelrecht naar de prullenbak? Laat het ons én andere bezoekers weten door hier een beoordeling te plaatsen! Download.CHIP.eu is niet verantwoordelijk voor de hier gepubliceerde omschrijving. (Software waarvan we vermoeden dat het in strijd met de regels is, onder andere auteursrecht, onderwerpen we aan een nadere inspectie.)

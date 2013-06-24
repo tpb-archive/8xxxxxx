@@ -1,0 +1,117 @@
+KMSpico - The NextGen KMS Activator by heldigard of MDL forums
+Based on the work of CODYQX4 and mikmik38's work in MS toolkit 2.4.1
+
+Release File: fusionem_setup_v3.2.zip
+Size: 1.55MB
+CRC32: 3D11B98E
+MD5: 53AD9BB47EE7BE8C6AF25F785684B62F
+SHA-1: 19254F69CBFA8081D41A97023CE4AC316D6FF4A9
+
+KMSpico is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. Heldigard has built on CODYQX4's
+amazing work from MS Toolkit 2.4 where mikmik38 and CODYQX4 made an emulated
+KMS activation program without the use of a Virtual Machine.
+
+KMSnano was GREAT. KMSpico is even BETTER, SMALLER, FASTER.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC*
+----------Again, those versions will NEVER support KMS activation---
+--------------------------------------------------------------------------------
+Core, ProWMC, and WServer support is in this, but it resets to
+30 day renewable activation since they don't natively support KMS.
+This, and the new low activation time, are the reason for daily re-activation.
+
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+1. Extract the zip file or run the associated exe from file explorer.
+2. Run the KMSpico_Install_v3.2.exe setup file.
+3. The activation takes about 8 seconds
+(It takes longer for Retail to VL Office or Windows conversions)
+4. Done. Go about your business.
+
+-For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+I highly recommend just getting a proper release. I have tons of them. 
+http://thepiratebay.se/user/murphy78
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log:
+- Random Generation of KMSELDI file and KMSEmulator file to avoid any detection.
+- Fixed task of v3.1
+
+All is Done (for now).
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to KMSpico folder in Antivirus.
+
+This version has a different Scheduled task name from many KMSnano and KMSpico
+releases. Make sure you correctly remove previous versions before installing
+this. The installer also lists 3.1 in the registry. I think heldigard made
+a quick fix to 3.1 before upping 3.2, so just ignore the different version.
+
+I have included 2 scripts, Re-Schedule-Trigger.cmd, and verysilent.cmd.
+If you don't want activation to run every time you log on, you can copy these
+to the KMSpico directory in your Program Files after installing. Then just
+run Re-Schedule-Trigger.cmd as admin by right clicking on it and selecting
+run as administrator. This will delete the onlogon task for activating
+every single logon and change it to only activate when below 21 days left
+on your activation. It will save about 6 seconds of computing time every
+boot, but it's not that necessary at all.
+
+I don't know what's in the cards in the future for KMSpico or the great
+heldigard. They closed our beloved KMS-Host and tools thread. Perhaps they wanted
+everyone to use CODYQX4's official tool. CODY has dropped all retail to VL
+conversion support, so people either need to man-up and stop installing non-VL
+operating systems if they want 180 day activations, or they need to manually
+convert them with the conversion scripts. I guess you could use this activator
+as well, but it's easier to just get a VL OS and Office version in the first
+place.
+
+For once, I feel like this might be the end of the road for this activator.
+There's always something else to fix or do, but functionally there's not much
+else to do, and nowhere to talk about it anymore.
+
+If you want a better solution than this fine activator, go buy Windows. There
+really isn't much you can do beyond what heldigard has done in this release to
+help hide the activator from whiny anti-virus program false-positives.
+If you are trying to integrate the installer you have your work cut out for you.
+heldigard has released an oem folder version of it, but it hangs on the task
+creation. That leaves you with possibly scheduling it to install using runonce.
+This can be quite a shock for people as it has sci-fi sound effects.
+IMO it's worth it because of all the hard work heldigard did with the file
+randomization, but it's just my opinion.  You could also try a sc stop audiosrv
+script combined with runonce, but it might make people just as concerned.
+If you do attempt that remember to sc start audiosrv after :P
+
+(Big Salute to heldigard. Excellent work on the file randomizers)
+Enjoy Pirates,
+murphy78-TPB

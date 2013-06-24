@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,dark_bob,2013-02-14T18:14Z,"The blood of my first born child to someone who tells me how to make this work with Konakt ...
+
+I've searched and searched but no joy ..."
+,sknowman,2013-05-19T22:45Z,"@dark_bob,
+Here's how I made this work in Kontakt 5 (x64 version). Take the folder you download here and place it in C:Program FilesNative InstrumentsKontakt 5Libraries. Then just open Kontakt (I did it in standalone mode) and make sure the Browse button is active, then click ""Add Library"" over on the left. When it comes up just navigate back to C:Program FilesNative InstrumentsKontakt 5Libraries and click the folder, don't go into it. It will add everything and patch it for you. I'll take that blood in annual deposits"

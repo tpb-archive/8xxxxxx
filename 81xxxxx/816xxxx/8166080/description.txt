@@ -1,0 +1,5 @@
+Debian Wheezy Installer 7.0 Release Candidate 1
+
+The Debian Installer team is pleased to announce the first release candidate of the installer for Debian 7.0 Wheezy.
+
+This new version of the installer ships several changes, including better speech synthesis support, various improvements for GNU/kFreeBSD and fixes for the grub2 package, as well as the addition of many Linux kernel drivers to the installer.

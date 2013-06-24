@@ -1,0 +1,102 @@
+KMSpico - The NextGen KMS Activator by heldigard of MDL forums
+Based on the work of CODYQX4 and mikmik38's work in MS toolkit 2.4.1
+
+Release File: fusionem_v1.zip
+Size: 0.9MB
+CRC32: 1B915CB4
+MD5: 244CF3F6B4F2110937AE87F5B4363814
+SHA-1: 8389D3A8F3E2B736034C4E8D3AA10EC910E7D664
+
+Mod: fusionem_v1-NoSoundVersion-heldigard-and-murphy78.zip
+Size: 0.9MB
+CRC32: 27F278C8
+MD5: EB8B9522C19B9CFCDDF25253F41E7579
+SHA-1: 6D28088E43E3B2734E0B7230C6FD0E16CD8EC80D
+
+2nd one is my personal repack using all of the settings from heldigard's
+release except the kmseldi /music call. If the star-trek sound effects
+are your thing, go ahead and use the normal release. NoSound version
+is a little faster because it doesn't wait on the sound to finish.
+
+KMSpico is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. Heldigard has built on CODYQX4's
+amazing work from MS Toolkit 2.4 where mikmik38 and CODYQX4 made an emulated
+KMS activation program without the use of a Virtual Machine.
+
+KMSnano was GREAT. KMSpico is even BETTER, SMALLER, FASTER.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC
+----------Again, those versions will NEVER activate with KMSpico---
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Extract the zip file to a directory. Make it a good one if you want to install.
+2. RunTrigger.cmd will install the program to re-activate when you log on with 30
+days or less on your 180-day KMS activation left. If you just want to do a
+one-time activation, just run the corresponding kmspico exe file.
+3. The NoSound activation is about 3 seconds, I think the sound ver is like 10ish
+(It takes longer for Retail to VL Office 2013 conversion)
+4. Done. Go about your business.
+
+For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+I highly recommend just getting a proper release. I have tons of them. 
+http://thepiratebay.se/user/murphy78
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from KMSnano v25:
+-No more Virtual Machine, and activation speeds are EXTREMELY fast now.
+You can thank CODYQX4 and mikmik38 for the super fast non-vm activation method.
+heldigard is the champ behind being able to use their new method and support
+conversions from retail methods. I'm sure CODYQX4 most certainly COULD do it,
+it just hasn't been done for his AutoKMS method yet.
+
+All is Done (for now).
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to KMSpico.exe in Antivirus.
+
+(murphy-says: Allow kmseldi.exe through a/v protection when it pops up for
+run-time protection if you downloaded an a/v update. Make sure you Pre-Screen
+any KB files you download. It's very possible MS will patch localhost KMS
+activations or somehow verify existing ones with a Genuine-type patch.)
+
+If you bug anyone at MDL, bug me before heldigard please. His primary language
+is not English, and I, or many others in the KMS Host and Tools v3.0 thread
+can help you just fine. 
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-and-TOOLS-v-3-0
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Personal comment to heldigard: Nice damn job on adopting this for conversion!
+Enjoy Pirates,
+murphy78-TPB

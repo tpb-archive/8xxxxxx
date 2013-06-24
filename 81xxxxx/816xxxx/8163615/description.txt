@@ -1,0 +1,20 @@
+tTorrent Pro v1.1.0.1[41] by CVedant95
+Transandroid search v1.3 by CVedant95
+
+Paid in Google Play
+
+Get it for free
+Download and enjoy.
+
+What's in this version:
+v1.1.0.1: Fixed FC in filebrowser below API
+level 11.
+Updated UI, support for batch operations on
+the status screen and in the filebrowser.
+Shutdown when battery limit reached option.
+PeX protocol can be switched off.
+Adjustable number of open connections.
+Move completed torrents feature, fixed
+incoming directory watching.
+Fixed NullPointerExceptions with some
+torrent URLs.

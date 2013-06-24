@@ -1,0 +1,123 @@
+﻿User Type,Username,Date,Text
+,yuyu5557,2013-02-10T13:12Z,Funciona perfectamente¡¡¡¡
+,VicVega,2013-02-12T18:59Z,"@not.me: ok, got a link to that?"
+,DudeOnFire,2013-02-15T16:16Z,"So does this work or not?
+Thanks for the upload nonetheless."
+,thundershnozel,2013-02-18T06:50Z,"@not.me, I have windows 8 pro x64, and I have successfully patched the program. It took me about 4 trials of installing and uninstalling the program, but I've finally done it. Here is the REALLLY detailed set of installation instructions:
+
+1. Uninstall any previous installation of Stardock Start8. Don't forget to delete the ""C:Program Files (x86)Stardock"" and the (hidden) ""C:ProgramDataStardock"" folders. Also run ccleaner to correct the registry.
+
+2. Run the ""Stardock Start8 v1.11.exe"" file and follow the on-screen instructions to install ""Stardock Start8 v1.11""
+
+3. When the installation process is finished, click on ""Finish""
+
+4. Click on ""Try Start8"" in the ""Welcome to Start8"" window and then close the ""Stardock Start8 Configuration"" window
+
+5. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security 
+
+   -----> ""Administrative Tools"" -----> ""Services""
+
+6. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:""
+
+   drop-down menu and choose ""Disabled"". Finally, click on ""Stop"" -----> ""Apply"" -----> ""OK""
+
+7. Close all open windows and restart your PC
+
+8. Copy the ""Stardock Start8 Patch.exe"" file to the ""C:Program Files (x86)StardockStart8"" folder
+
+9. Right-click on the ""Stardock Start8 Patch.exe"" file, located in the ""C:Program Files (x86)StardockStart8"" 
+
+   folder, choose ""Run as administrator"", uncheck the ""BACKUP"" box, and click on the ""Patch"" button. When the 
+
+   ""Stardock Start8 Patch"" program indicates that it has successfully patched the ""Stardock Start8 v1.11"" software,
+
+   click on ""EXIT"". You can now safely delete the ""Stardock Start8 Patch.exe"" file from the 
+
+   ""C:Program Files (x86)StardockStart8"" folder
+
+10. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security 
+
+   -----> ""Administrative Tools"" -----> ""Services""
+
+11. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:""
+
+   drop-down menu and choose ""Automatic"". Finally, click on ""Apply"" -----> ""OK""
+
+12. Close all open windows and restart your PC
+
+13. Enjoy !!!"
+,thundershnozel,2013-02-19T22:41Z,"O.K. guys, after trying to replicate start8 installation process using the instructions I've posted in the previous comment and failing, I've done some more experimentation. Here is the new set of installation instructions that worked for me (I've used these to install the program twice, just to be sure):
+
+1. Uninstall any previous installation of ""Stardock Start8"". Don't forget to delete the ""C:Program Files (x86)Stardock"" and the 
+   [hidden] ""C:ProgramDataStardock"" folders. Also run CCleaner to correct the registry.
+2. Run the ""Stardock Start8 v1.11.exe"" file and follow the on-screen instructions to install ""Stardock Start8 v1.11""
+3. When the installation process is finished, click on ""Finish""
+4. Click on ""Try Start8"" in the ""Welcome to Start8"" window and then close the ""Stardock Start8 Configuration"" window
+5. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security -----> 
+   ""Administrative Tools"" -----> ""Services""
+6. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:"" drop-down menu and 
+   choose ""Disabled"". Finally, click on ""Stop"" -----> ""Apply"" -----> ""OK""
+7. Close all open windows and restart your PC
+8. Copy the ""Stardock Start8 Patch.exe"" file to the ""C:Program Files (x86)StardockStart8"" folder
+9. Right-click on the ""Stardock Start8 Patch.exe"" file, choose ""Run as administrator"", and uncheck the ""BACKUP"" box
+10. Close any opened Windows Explorer window
+11. Press ""Ctrl + Alt + Del"" and then click on ""Task Manager"" -----> ""More details""
+12. In the ""Processes"" pane, right-click on ""Windows Explorer"", click on ""End task"", and then close the ""Task Manager"" window
+13. In the ""Stardock Start8 Patch"" window, click on ""PATCH"" -----> ""EXIT"", and then close the ""Stardock Start8 Patch"" window
+14. Press ""Ctrl + Alt + Del"" and use the icon in the bottom right corner of the screen to restart your PC
+15. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security -----> 
+    ""Administrative Tools"" -----> ""Services""
+16. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:"" drop-down menu and 
+    choose ""Automatic"". Finally, click on ""Apply"" -----> ""OK""
+17. Close all open windows and restart your PC
+18. Enjoy !!! (You can now safely delete the ""Stardock Start8 Patch.exe"" file from the ""C:Program Files (x86)StardockStart8"" folder)"
+,VÃ­vek,2013-02-22T20:09Z,not working. any guide to fix this..
+,justmealwatts,2013-03-01T00:18Z,"Working and registered!!! Win8 pro x64.
+
+Follow the second set of directions ""EXACTLY"", word for word, step by step,  posted by thundershnozel ( big Thanks !!!) .
+
+So there is not any confusion, I will copy and paste them once more:
+
+1. Uninstall any previous installation of ""Stardock Start8"". Don't forget to delete the ""C:Program Files (x86)Stardock"" and the 
+[hidden] ""C:ProgramDataStardock"" folders. Also run CCleaner to correct the registry.
+2. Run the ""Stardock Start8 v1.11.exe"" file and follow the on-screen instructions to install ""Stardock Start8 v1.11""
+3. When the installation process is finished, click on ""Finish""
+4. Click on ""Try Start8"" in the ""Welcome to Start8"" window and then close the ""Stardock Start8 Configuration"" window
+5. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security -----> 
+""Administrative Tools"" -----> ""Services""
+6. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:"" drop-down menu and 
+choose ""Disabled"". Finally, click on ""Stop"" -----> ""Apply"" -----> ""OK""
+7. Close all open windows and restart your PC
+8. Copy the ""Stardock Start8 Patch.exe"" file to the ""C:Program Files (x86)StardockStart8"" folder
+9. Right-click on the ""Stardock Start8 Patch.exe"" file, choose ""Run as administrator"", and uncheck the ""BACKUP"" box
+10. Close any opened Windows Explorer window
+11. Press ""Ctrl + Alt + Del"" and then click on ""Task Manager"" -----> ""More details""
+12. In the ""Processes"" pane, right-click on ""Windows Explorer"", click on ""End task"", and then close the ""Task Manager"" window
+13. In the ""Stardock Start8 Patch"" window, click on ""PATCH"" -----> ""EXIT"", and then close the ""Stardock Start8 Patch"" window
+14. Press ""Ctrl + Alt + Del"" and use the icon in the bottom right corner of the screen to restart your PC
+15. Right-click on the buttom left corner of the screen and then click on ""Control Panel"" -----> ""System and Security -----> 
+""Administrative Tools"" -----> ""Services""
+16. In the ""Services"" window, find the ""Stardock Start8"" item and double-click on it. Click on the ""Startup type:"" drop-down menu and 
+choose ""Automatic"". Finally, click on ""Apply"" -----> ""OK""
+17. Close all open windows and restart your PC
+18. Enjoy !!! (You can now safely delete the ""Stardock Start8 Patch.exe"" file from the ""C:Program Files (x86)StardockStart8"" folder)"
+,JPeterson,2013-03-02T22:22Z,"## Remove settings
+
+rmdir /s /q ""C:ProgramDataStardock""
+reg delete HKLMSOFTWAREWow6432NodeStardock /f
+reg delete HKCUSoftwareStardock /f
+
+## Run, end
+
+""c:program files (x86)stardockstart8start8_64.exe"" & taskkill /f /im explorer.exe & explorer.exe
+taskkill /f /im start8_64.exe & taskkill /f /im explorer.exe & explorer.exe"
+,vdshah,2013-03-03T14:32Z,Working Perfectly also in my x64 architecture Thanks
+,alter82,2013-03-20T19:36Z,"FYI:
+https://www.virustotal.com/en/file/16d9103a05fa1c173ec52a159dbd2e69f8e7741d4cd5046399d882cedd2fbec3/analysis/1363724780/
+
+I would recommend cracking the start8 program in a VM install of win8 then copy the cracked files over. "
+,wilco1000,2013-03-20T22:46Z,"@thundershnoze, works great but point 17. I found after, ""Close all open windows and restart your PC""
+you may find a blank screen, if so go to the right and allow slide screen to open and restart from there.
+When it restarts Works Great many thanks!"
+,robert342,2013-04-17T23:22Z,"Don't use this patch! Trojan
+check with > https://www.virustotal.com/en/"

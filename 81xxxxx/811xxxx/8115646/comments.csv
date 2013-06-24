@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,kumbayaya,2013-02-09T13:10Z,"Recommendations from the blog of Joey Hess: http://joeyh.name/blog/entry/LCA2013_wrapup/
+
+
+==  Git for Ages 4 and Up ==
+
+Schwern has found a new, excellent way to explain git. I felt rather bad for using up a seat, especially once people were kicked out when the room was filled over capacity. But I enjoyed every minute of it. (Also has the best speaker intro ever. ""Schwern once typed git pull --hard and pulled GitHub's sever room across the street."")
+
+    BTW, I must confess: I left the red apple on teacher's desk.
+
+
+== Radia Perlman's keynote ==
+
+Network protocol design and poetry from one of the quiet heros of our field. I knew Spanning Tree Protocol was used in ethernet, but it just works, so like many I never paid much attention to it. This talk felt like the best lectures, where you're learning from a master on multiple levels at once. Well done work often becomes an unremarked part of the landscape, which I sometimes find unrewarding, so it was great to have Radia give some perspective on what that's like over the course of decades.
+
+
+== Lightning Talks ==
+A 90 second time limit really helps. Too many conferences have 5 minute talks, which is less exciting. If you still find them boring, skip forward to 13:50, where pjf does two talks in 90 seconds! (If a 20 second talk on depression is too .. manic, there's an encore at the end.)
+
+
+== The IPocalypse 20 months later ==
+A reality check, with real data. Very important stuff here. We need to work to avoid this worst case scenario, and we also need to design around it.
+
+
+== REPENT!!! FOR THE END OF THE UNIX EPOCH IS NIGH!!! ==
+Wildest talk beginning I've seen since RMS put the hard drive halo on his head. And to an important point: Any programs that deal with dates 25 years in the future already need to be fixed today to deal with the epoch rollover. This got me digging around in Haskell date libraries, to make sure they're ok.
+
+
+== Building Persona: Federated and Privacy Sensitive Identity for the Web ==
+    This talk and some previous conversation with Francois have convinced me that Persona (AKA Browserid) has a design that can succeed. I will be adding Persona login support to ikiwiki.
+
+
+==  Beyond Alt Text: What Every Project Should Know About Accessibility==
+    I missed the first half due to giving my talk, but the second half was full of rather a lot of excellent information, some of which I'd only guessed at before.
+
+
+== Git: Not Just for Source Code Anymore ==
+    Good overview of the new ways to use git. Also kept giving examples from my body of work, which is some nice ego stroking, thanks Josh. ;-)"
+,fjensen69,2013-02-16T16:42Z,"This torrent is outdated, get http://thepiratebay.sx/torrent/8150916"

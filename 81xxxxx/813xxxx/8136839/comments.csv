@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,stratego77,2013-02-17T03:45Z,"All the parts are there and work great.  Thanks for the post!  As an FYI for Handbrake, setting Detelecine and Decomb to default will clear up the interlaced video."
+[V],rambam1776,2013-02-17T08:36Z,I've seen on many forums that I should NOT deinterlace or decomb. What's the advantage of doing so?
+,stratego77,2013-02-17T20:10Z,"OK.. My understanding is that as long as you have Handbrake set the framerate to ""same as source"" and set to ""Variable Framerate"" You can always have Detelecine on default because it only works when needed so it won't hurt the video at all.  Same for Decomb which will only work if it detects that it is needed.  The beauty is that you can leave them enabled and they won't slow down your encode if they aren't needed.  
+Matt Gadient did a really good Handbrake guide last year that explains most of the settings and I recommend it.  Search his name with ""Handbrake"" and it will come up in google.  That is the best current guide I've seen without reading the whole Handbrake help section."
+[V],rambam1776,2013-02-18T03:41Z,"I did a little experimenting on another set of VOB files, and it won't let you deinterlace AND decomb at the same time. It seems to be one or the other. In any event, I tried all three, and the results looked identical to me."
+[V],rambam1776,2013-02-20T18:24Z,"I've uploaded 500 gb, so I'm gonna be trialing off soon to seed other torrents. I hope the people grabbing this will commit to 1:1 seeding, or it will die quickly. I'm going to erase the vob files, I need the room."
+,mneisen,2013-04-10T20:27Z,"Actually, could you pls re-seed? We are stuck at 99.8%, and no amount of uploading will get this fixed - we need someone who has the complete torrent.
+
+So, PLEASE re-seed! Thanks!"

@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-17T17:15Z,"He still has the KMSnano logo on his installer, but don't worry, it's most definitely KMSpico.
+I put this thing through the wringer today."
+[V],murphy78,2013-02-17T18:23Z,"His wording is a bit odd on the reboot question and scheduling music and backup... He might just have music and backup on the initial install. If that's the case, then there really isn't much call for my nosound version.  I have made suggestions for improvement to heldi, but it's his program. He can do whatever he wants."
+,w4r3zh4ck,2013-02-17T20:19Z,"oh remove Trigger KMS ?
+Stay with v2"
+[V],murphy78,2013-02-17T21:59Z,"You could technically still use triggerkms, but you'd need to remove the ""kms activation"" task and copy over triggerkms and runtrigger.cmd and run the cmd.
+
+Like I said in the desc, it only takes like 4 seconds and a few of the versions only have 30 day activation, so you could technically change the cmd to whatever is comfortable for you and run the runtrigger.cmd
+
+If you wanna get  real fancy you could get rid of the logon trigger and change it to like weekly and when idle. There's a good amount of options if you know what to do."
+,w4r3zh4ck,2013-02-17T23:09Z,"now I see...
+Thanks!"
+,cmptrluvr,2013-02-18T06:43Z,"Bro can you please upload Mac OS X latest too... Have to format using a PenDrive...
+
+Can you do that???"
+[V],murphy78,2013-02-18T08:07Z,"nope sorry, no mac stuff."
+[V],murphy78,2013-02-18T10:22Z,"that would be what you call a ""hacktivator"" lamportyx. It butchers your system files and notification texts to make you think you're permanently activated. All you'd have to do is a ""SLMGR /DLV"" and you'd figure out exactly how activated you really are.
+
+Anyone who tries one of those hacktivators on a system that has kb files installed will be severely screwed. A lot of people haven't gotten the memo that you can't get free permanent activation in win8 yet; till someone actually figures out the retail activation.
+
+I'm not gonna go trash that guy. Anyone who thinks a ""Halloween"" activator is legit, needs their head examined."
+,zerglingKING,2013-02-18T11:02Z,"it worked for 30 days, it expires on 30/march/2013. what will I do in one month?
+
+btw
+i tried at least a dozen activators, none worked. "
+,supanut2000,2013-02-18T11:41Z,Nice activator; :D
+[V],murphy78,2013-02-19T01:45Z,"@zergling Nothing. It will run every time you boot. You will always be reset to 30 days when you reboot.
+
+There's a kmspico v3 beta out but I don't see any reason to upload it at this point. It's a bit off atm. Maybe the normal release will fix some of its issues."
+,Feelin,2013-02-21T10:40Z,"murphy78, first of all, thanks for this!
+
+I just downloaded and installed your personal repack, added to AV exclusions and sure thing, Office 2013 now shows as ACTIVATED! After reading other so much more complicated activator methods, this seems way too simple... it that really it?!
+
+(and sure, this is a compliment to you and all MDL ppl involved!) ;)"
+,MARTOZO87,2013-02-21T10:40Z,"hi, AVG thinks ths is a treat for my PC, i made an exeption on firewall for KMSELDI.exe, but still not working. What should i do ? http://www.bildites.lv/images/m31fnfdjpbnwplc73c6.jpg
+
+.exe file is changing all the time"
+,bigorna12,2013-03-05T00:23Z,survive windows updates ?
+,regular6,2013-04-29T17:36Z,"@bigorna12 yes, survived all of x64 system updates so far."

@@ -1,0 +1,106 @@
+General
+
+Complete name                    : OnlyYesterday[(1991) DVDRip].mkv
+Format                           : Matroska
+File size                        : 510 MiB
+Duration                         : 1h 58mn
+Overall bit rate                 : 601 Kbps
+Encoded date                     : UTC 2009-03-22 11:51:35
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 13 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 58mn
+Nominal bit rate                 : 498 Kbps
+Width                            : 640 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.092
+Language                         : Japanese
+
+Audio #1
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AACv2 / HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 58mn
+Channel(s)                       : 2 channels / 1 channel / 1 channel
+Channel positions                : Front: L R / Front: C / Front: C
+Sampling rate                    : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Language                         : Chinese
+
+Audio #2
+ID                               : 3
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AACv2 / HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 58mn
+Channel(s)                       : 2 channels / 1 channel / 1 channel
+Channel positions                : Front: L R / Front: C / Front: C
+Sampling rate                    : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Language                         : Chinese
+
+Audio #3
+ID                               : 4
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AACv2 / HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 1h 58mn
+Channel(s)                       : 2 channels / 1 channel / 1 channel
+Channel positions                : Front: L R / Front: C / Front: C
+Sampling rate                    : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Language                         : Japanese
+
+Text #1
+ID                               : 5
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : chs
+Language                         : Chinese
+
+Text #2
+ID                               : 6
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : cht
+Language                         : Chinese
+
+Text #3
+ID                               : 7
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : eng
+Language                         : English
+
+Text #4
+ID                               : 8
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Title                            : jpn
+Language                         : Japanese
+
+Download and Enjoy...Keep Seeding...

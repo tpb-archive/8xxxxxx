@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,salil_1337,2013-02-07T03:49Z,Phenom II Processors supported as well ? 
+,salil_1337,2013-02-07T03:56Z,Got a Phenom II X2 550 BE here with VMWare Workstation 9. And what about the cpu has been disabled by the guest operating system bug ? I got that on all of the images i downloaded. Have been keeping a track of the souldevteam blog. Thanks for the upload.
+,Natinxxx,2013-02-08T15:10Z,"sir, share below files, pls
+==================
+Android for VMware:
+AndroidOS VMware Image
+Android 4.0.1 ICS Virtual Machine
+LiveAndroid v0.3 "
+,salil_1337,2013-02-08T16:47Z,"Instructions - 
+
+1) Install VMWare Workstation
+2) Unrar the torrent contents
+3) In the extracted folder go to 
+VMware Unlocker - Mac OS X GuestVMware 8.x SeriesVMware Workstation Unlocker - Windows
+double click the 'install' bat file
+4) Restart computer, go to BIOS and enable AMD Secure Virtual Machine from Advanced Menu under CPU
+5) Reboot
+6) double click the amd_kernel file and type 'y' to backup your NVRAM
+7) double click the vmx file.
+8) In the VMWare workstation, right click on the vmachine loaded and remove Floppy drive, and under Display, check accelerate 3D graphics. Press OK
+9) Start the vmachine
+
+Bugs - it works fine for 5 mins then hangs. But this is the first one that at least boots
+
+NOTE : If you do not install the amd_kernel before booting the vmachine, it will give you the ""Guest operating system has disabled the CPU"" error."
+,mrcoolguy24,2013-02-19T01:54Z,"Hey, I used the darwin.iso to update the vmware tools and now when I try to start up the vmachine, it says kernel panic. What do I do?"
+,jayyfo,2013-02-21T16:39Z,has anyone been able to successfully get Final Cut Pro to work with this? I can get the virtual machine to work on my AMD Athlon(tm) II X2 260 processor but when running FCP it says FCP closed unexpectedly without even opening.
+,Iamfox,2013-03-21T09:25Z,I have a machine with Intel Processor (Core i5) .  Would it work with it too?
+,dooms316316,2013-03-28T05:24Z,I cant get it to unzip....winrar keeps not opening it:/

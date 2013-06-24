@@ -1,0 +1,66 @@
+﻿User Type,Username,Date,Text
+,Andyjai,2013-02-17T07:11Z,can you make Train Simulator 2013?
+,ferrarier,2013-02-26T00:09Z,"how I play this? and how could I change the language from Russian, please"
+,slasherman,2013-03-15T12:56Z,"to change the laguage. Find the launcher file in  BmGame-config-launcher. Then
+
+- Edit Launcher.ini located in batmanBmGameConfig folder
+- Search for [Launcher.CultureMap] section
+- Put a semi-colon before each line in this section except ""default=Int"" and ""en=Int"". This section should now looks like:
+Code:
+default=Int
+en=Int
+;fr=Fra
+;it=Ita
+;de=Deu
+;es=Esn
+;es-MX=Esm
+;pl=Pol
+;ru=Rus
+;pt=Por
+- Save the file
+
+Now your launcher and the game are in english.
+
+I had to save the file to desktop first and then copy/replace laucher file. Cause of administration "
+,slasherman,2013-03-15T12:57Z,"to change the laguage.
+
+- Edit Launcher.ini located in batman/BmGame/Config folder
+- Search for [Launcher.CultureMap] section
+- Put a semi-colon before each line in this section except ""default=Int"" and ""en=Int"". This section should now looks like:
+Code:
+default=Int
+en=Int
+;fr=Fra
+;it=Ita
+;de=Deu
+;es=Esn
+;es-MX=Esm
+;pl=Pol
+;ru=Rus
+;pt=Por
+- Save the file
+
+Now your launcher and the game are in english.
+
+I had to save the file to desktop first and then copy/replace laucher file. Cause of administration"
+,slasherman,2013-03-15T13:15Z,you also have to change the user engine file to: int
+,sasukeuchiwa29,2013-03-28T17:51Z,Does this one actually work properly>
+,jakedilla,2013-04-22T14:05Z,gonna take a chance on this cuz it's only 4gigs but in the future please explain how you got it to that size and what version of the game it is
+,sugarluxe,2013-04-24T16:47Z,It keeps telling me i need the DvD. any help on this?
+,mahigitam,2013-04-30T20:14Z,"I am getting this message:
+ ""No disc inserted.
+Please insert the original ""Batman: Arkham Asylum GOTY"" CD/DVD.""
+What to do ?"
+,mahigitam,2013-04-30T20:52Z,"It finally worked for me friends.
+1- Install game
+2- Copy files in crack folder, which can be downloaded here
+http://thepiratebay.sx/torrent/5089772/Batman_Arkham_Asylum_Crack_Only-RELOADED
+3- You need to edit the userengine.ini & Launcher.ini files. Their locations and what to edit can be found here
+http://forums.steampowered.com/forums/showthread.php?t=2252232"
+,mahigitam,2013-04-30T20:59Z,"""No disc inserted.
+Please insert the original ""Batman: Arkham Asylum GOTY"" CD/DVD.""
+It worked for me friends. You need to use the crack to avoid the above error. You can download the crack uploaded by RELOADED. And then do the changes as said above by user ""slasherman"" @2013-03-15 12:56 CET. 
+
+I guess you also need to go to DocumentsSquare EnixBatman Arkham Asylum GOTYBmGameConfig and edit userengine.ini file.
+
+Change Language=RUS to Language=Int. You are done. Enjoy the game."

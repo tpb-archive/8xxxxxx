@@ -1,0 +1,99 @@
+SIPNOSIS
+
+Narra la historia del fenómeno del surf Jay Moriarity (Jonny Weston). Cuando, a la edad de 15 años, Jay descubre que las míticas olas conocidas como ‘Mavericks’, unas de las más descomunales del planeta, se aproximan a su hogar de Santa Cruz, donde van a romper, busca la ayuda del legendario Frosty Hesson (Gerard Butler) para que lo entrene y así poder sobrevivir a dicho fenómeno. Cuando Jay y Frosty se embarcan en el empeño de lograr lo imposible va surgiendo entre ellos una singular amistad que transforma sus vidas; y su intento de dominar a las Mavericks se convierte en algo que rebasa la práctica del surf.
+
+
+
+
+DATOS TECNICOS
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 3.89 GiB
+Duration                                 : 1h 56mn
+Overall bit rate                         : 4 782 Kbps
+Encoded date                             : UTC 2013-02-20 17:47:27
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 56mn
+Bit rate                                 : 4 239 Kbps
+Nominal bit rate                         : 4 500 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 696 pixels
+Display aspect ratio                     : 1.85:1
+Original display aspect ratio            : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.198
+Stream size                              : 3.45 GiB (89%)
+Writing library                          : x264 core 129 r2230 1cffe9f
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=1 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=30 / rc=cbr / mbtree=1 / bitrate=4500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=4500 / vbv_bufsize=5000 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_AC3
+Duration                                 : 1h 56mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 373 MiB (9%)
+Title                                    : Español Latino
+Language                                 : Spanish
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:04:43.366                             : en:00:04:43.366
+00:08:35.348                             : en:00:08:35.348
+00:12:48.685                             : en:00:12:48.685
+00:17:09.028                             : en:00:17:09.028
+00:22:04.198                             : en:00:22:04.198
+00:28:15.485                             : en:00:28:15.485
+00:34:08.463                             : en:00:34:08.463
+00:38:34.771                             : en:00:38:34.771
+00:41:36.452                             : en:00:41:36.452
+00:44:13.693                             : en:00:44:13.693
+00:48:46.966                             : en:00:48:46.966
+00:52:18.510                             : en:00:52:18.510
+00:58:32.926                             : en:00:58:32.926
+01:00:36.550                             : en:01:00:36.550
+01:04:33.536                             : en:01:04:33.536
+01:07:56.864                             : en:01:07:56.864
+01:12:04.445                             : en:01:12:04.445
+01:15:16.721                             : en:01:15:16.721
+01:19:06.867                             : en:01:19:06.867
+01:23:13.405                             : en:01:23:13.405
+01:27:31.121                             : en:01:27:31.121
+01:31:22.185                             : en:01:31:22.185
+01:35:52.538                             : en:01:35:52.538
+01:39:34.135                             : en:01:39:34.135
+01:44:28.012                             : en:01:44:28.012
+01:49:12.171                             : en:01:49:12.171
+01:50:18.487                             : en:01:50:18.487

@@ -1,0 +1,32 @@
+O Windows Loader e uma ativação usada por milhões de pessoas em todo o mundo, conhecido por burlar o Microsoft Wat (Windows Activation Technologies) e é indiscutivelmente o mais seguro entre as as ativações do Windows.
+
+O próprio ativador injeta uma SLIC (Sistema de Código  interno Licenciado) em seu sistema antes da inicialização do Windows, isso é o que engana o Windows fazendo o pensar que ele é legitimo.
+
+Coisas que você pode querer saber:
+•Ele funciona em sistemas 32-bit e 64-bit 
+•É compatível com Windows 7 SP1 e todas as atualizações de sistema    
+•É compatível com todos os idiomas do sistema    
+•Ele pode ser usado para pré-activate do Windows   
+•Ele permite que você instale informações OEM personalizado  
+•Ele apresenta a verificação da integridade aplicação  
+•Ele suporta partições ocultas e algumas configurações complexas  
+•Ele pode trabalhar ao lado de GRUB do Linux ou qualquer outro gerenciador de boot  
+•Ele funciona com a VMware, VirtualBox e Hyper-V     
+•Ele funciona com a maioria duro por exemplo, software da unidade de criptografia 
+TrueCrypt ou o BitLocker    
+•Ele permite que você adicione seus próprios certificados e seriados externamente     
+•Ele vai instalar apenas o certificado e o número de série para os usuários com um 2,1 existentes SLIC     
+•Ele possui sistema automatizado de perfis (A aplicação combina com tudo para você)     
+•Não vai modificar qualquer sistema de arquivos    
+•Ele é executado antes do Windows é lançado    
+•Nenhum processo extras são executados assim que você não tem nada de comer em sua memória RAM   
+•Todas as peças-chave do carregador são encriptados com uma criptografia personalizado   
+•Cada usuário tem uma versão exclusiva do carregador instalado em seu sistema
+
+Novidades da Versão 2.2.1 (30/01/2012)
+• Adicionado um novo grldr
+•Redesenhou o guia de opções avançadas e acrescentou uma opção para mudar o local da RSDP à EBDA
+•Adicionado Seneca e Twinhead Windows 7 chaves profissionais
+•Adicionado BenQ Windows 7 Home Premium chave
+•Adicionado Seneca SLIC e certificado
+•Outros pequenos ajustes e correções

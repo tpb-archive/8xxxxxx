@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,bebe2010,2013-02-19T00:14Z,"This is the REAL DEAL
+
+If you want to update to the latest beta builds, this is working great.
+
+Thx for a great upload"
+,lex.usa,2013-02-20T19:33Z,"Works perfect
+But…how to uninstal it?"
+,w0lf1,2013-02-20T22:07Z,"@lex.usa
+
+Not sure, but you can diable it in System Preferences.
+
+I believe it edits you defaults file > /usr/bin/defaults  with some information from 
+https://swscan.apple.com/content/catalogs/others/index-mountainlionseed-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+
+Unless you're paranoid about something I wouldn't worry about removing it, the install is like less than 200kb"
+,lex.usa,2013-02-21T19:33Z,"Everything ok, but I change my mind update to Beta
+And Red spot with one update available always shows in apple store icon
+I don't like it :)
+Any ideas guys?"
+,ACfaraday,2013-04-13T17:59Z,This is still working for the 10.8.4 betas :)

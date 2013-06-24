@@ -1,0 +1,71 @@
+﻿User Type,Username,Date,Text
+[T],maizena,2013-02-11T11:41Z,"
+General
+UniqueID/String                          : 239387362478680549444807467989123172596 (0xB41854376A18A67A8C519301B9BF88F4)
+Nombre completo                          : C:Lo Imposible.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 4,31GIB
+Duración                                 : 1h 53min.
+Tasa de bits total                       : 5 438Kbps
+Película                                 : Lo Imposible 
+Fecha de codificación                    : UTC 2013-02-10 09:37:46
+Aplicación de codifición                 : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 53min.
+Tasa de bits                             : 4 434Kbps
+Tasa de bits nominal                     : 4 800Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 812pixeles
+Relación de aspecto                      : 2,35:1
+DisplayAspectRatio_Original/String       : 2,35:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 24,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.118
+Tamaño de pista                          : 3,52GIB (82%)
+Título                                   : Lo Imposible 
+Librería de codificación                 : x264 core 120 r2120 0c7dab9
+Opciones de codificación                 : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=hex / subme=5 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=4800 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 1h 53min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 364MB (8%)
+Título                                   : AC3 5.1 Castellano 
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del f"

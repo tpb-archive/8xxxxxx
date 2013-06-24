@@ -1,0 +1,53 @@
+SPORT: Rugby Highlights - Aviva Premiership
+On: itv1   
+Date: Monday 11th February 2013
+Time: 00:30 to 01:25
+
+Craig Doyle and Martin Bayfield presents action from round 14 including Wasps visit to The Stoop to play Harlequins. The Premiership's teams will be keen to get back to domestic business after a break for cup competitions.
+
+General
+Complete name                            : 2013.02.11.Rugby.Union.Aviva.Highlights.pdtv.x264.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 641 MiB
+Duration                                 : 45mn 22s
+Overall bit rate                         : 1 974 Kbps
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Duration                                 : 45mn 22s
+Bit rate                                 : 1 807 Kbps
+Width                                    : 688 pixels
+Height                                   : 560 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.188
+Stream size                              : 586 MiB (92%)
+Writing library                          : x264 core 129 r2245 bc13772
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Duration                                 : 45mn 22s
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Stream size                              : 41.5 MiB (6%)
+Language                                 : English
+

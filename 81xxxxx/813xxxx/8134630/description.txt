@@ -1,0 +1,100 @@
+KMSNano - The Ultimate Activator by heldigard of MDL forums
+Based on the work of Ratiborus's KMSmicro v3.10
+heldigard gives many thanks in his text file.
+Read it and you can find out who else are activation champions.
+(*cheer, he thinks I help :)
+
+Release File: Sint_facete_perfecto_no_vel_v25.zip
+Size: 30.0MB
+CRC32: 2465630B
+MD5: 806097129AAD2406E5DF2796B786B0B5
+SHA-1: 90A4C635EB77A12DC85A434A1D7000DDF41153E6
+
+Release File: Sint_facete_perfecto_no_vel_v25_portable.zip
+Size: 29.5MB
+CRC32: 12D598EF
+MD5: 0B342A34F14FD5D27C8E50DC6D0FCEB9
+SHA-1: 26F1A3B9BBDAF83EF6FAD19BB98B580577B01C34
+
+KMSNano is an Offline KMS Activator that emulates a KMS server in the memory of
+your computer and sends activation data back and forth attempting to activate
+volume versions of Windows and Office. I have personally activated KMSNano without
+having my lan drivers even installed on a fresh install of Windows 7.
+
+There are other earlier versions that may or may not work currently.
+You should always check for the latest version before using.
+
+--------------------------------------------------------------------------------
+Activates:
+Windows Vista Business/Enterprise Default/N/VL
+Windows 7 Pro/Enterprise Default/N/VL
+Windows 8 Pro/Enterprise Default/N/VL
+Windows Server Std/Data 2008/2008R2/2012
+Office/OfficeVL 2010/2013.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+----------Please read this non-KMS Windows versions list-------
+Retail-Only Versions of windows that will **NOT** activate are:
+Vista Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+7 Starter/Homebasic/Homepremium/Ultimate - Default/N/E
+8 core/coreN/ProWMC
+----------Again, those versions will NEVER activate with KMS---
+--------------------------------------------------------------------------------
+Requirements: . NET 4.0 or Windows 8
+
+Instructions:
+
+1. Extract the zip file to a directory.
+2. Run KMSnano_Install_v25.exe It will install to a folder, add shortcuts,
+and optionally install trigger. This checks activation when you log on and will
+Run the Activator if 30 days or left are less on activation
+3. Wait about 45-60secs for an initial activation if you aren't activated
+(It takes longer for Retail to VL Office 2013 conversion)
+4. Done. Run the "Check KMSnano" link on start menu to verify your activation.
+
+For Windows 8, it can take a minute or two of doing system things for the
+watermark to go away. You don't need to reboot. Activators that require
+a reboot are hacks and you should immediately run a "SFC /SCANNOW" if
+you have used one. (SFC is the System File Checker) Esp. KJ Hacktivator
+You CAN reboot if you want to, it's just not necessary for activation.
+
+Note that Pre-Release versions of Office or Windows will NEVER activate.
+You can try the UpDown8 v1.3.exe tool if you have a version that is
+unsupported like enterprise trial version, but you use at your own risk.
+(Installs to KMSnano Data directory)
+
+Why use this program over any other activation method?
+-It does not modify any of your system files.
+-Because it's not a crack or a hack.
+-Because it's the only way to get legit activation without using legit servers.
+-Did I mention it activates ALL KMS activation software?
+
+Change Log from v24.1:
+- Fixed reported bugs on v24 with Retail Editions and Skipped Windows.
+
+All is Done (for now).
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable microsoft security updates.
+- Make exceptions to c:_program files_KMSnano in Antivirus.
+(murphy-says: Either allow kmsnano files through antivirus protection,
+or disable defender and anti-virus updates until (if possible) obfuscation
+protection of the file)
+
+Included is KMSnano Documentation v15-US.pdf Please read this first if you have
+any problems.
+
+The setup defaults to quiet version (no sound at all). You can Run the version
+with sound by running the Silent.cmd in install directory. It defaults to
+running VerySilent.cmd, which is just a minimized version with no sound.
+Silent.cmd is minimized with sound and activation backup and all that.
+
+If you bug anyone at MDL, bug me before heldigard please. He has enough on his
+plate. I, or many others in the setup and charge thread can help you just fine.
+
+(Big Salute to heldigard and all the peeps who contributed to this project)
+Personal comment to heldigard: Nice damn job on the password passing!
+Enjoy Pirates,
+murphy78-TPB

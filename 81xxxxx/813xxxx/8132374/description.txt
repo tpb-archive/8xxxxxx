@@ -1,0 +1,93 @@
+
+The film has a lot of dirt and scratches, and there's not much I could do about that.  The DVD isn't really any better, so this is about the best we will have unless a restored Blu-Ray is released.
+
+There is a small logo for 30 seconds every 20 minutes.
+
+General
+Unique ID                        : 184220336067177954351115970816235610025 (0x8A978BD11F04E0A4A5D22A52F5651FA9)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.29 GiB
+Duration                         : 1h 49mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 991 Kbps
+Encoded date                     : UTC 2013-02-11 21:50:12
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 49mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 548 Kbps
+Maximum bit rate                 : 8.8 Mbps
+Width                            : 1 280 pixels
+Height                           : 696 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.119
+Stream size                      : 1.95 GiB (85%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 49mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 302 MiB (13%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:A Happy Occasion
+00:03:04.810                     : en:Princess Bride
+00:08:28.258                     : en:Wedding Night
+00:11:29.147                     : en:Advice From the Family
+00:13:24.929                     : en:Advice From the Radio
+00:16:15.455                     : en:Join the Army and Get a Condo
+00:19:19.450                     : en:This is the Army
+00:22:06.659                     : en:Capt. Lewis
+00:27:12.548                     : en:"Has Anybody Ever Died From Basic?"
+00:33:18.121                     : en:G.I. Judy: Troublemaker
+00:38:06.743                     : en:"Think I'll Stay"
+00:42:25.001                     : en:Swamp Duty
+00:45:58.653                     : en:Campfire Girl Talk
+00:48:58.060                     : en:Infiltration Made Easy
+00:51:44.518                     : en:The Winning Team
+00:54:21.049                     : en:Let's Not Keep in Touch
+00:58:43.937                     : en:Lady Screams the Blues
+01:03:04.072                     : en:New Orleans and a New Man
+01:12:09.367                     : en:Lady Thornbird
+01:15:56.510                     : en:A Reason to Jump
+01:17:44.702                     : en:Supreme Headquarters, Europe
+01:20:50.179                     : en:Renewing Old Acquantances
+01:26:40.384                     : en:Henri the Red
+01:31:09.714                     : en:Wedding Plans
+01:33:56.714                     : en:Prenuptial Disagreement
+01:37:10.783                     : en:Nervous
+01:41:28.082                     : en:Not So Fast
+01:46:36.098                     : en:There Goes the Bride
+01:47:17.620                     : en:End Credits

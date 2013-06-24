@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,moogle19,2013-02-15T00:47Z,"Hi, hab mir deine Untertitel nicht genau angeguckt, aber habe meine nocheinmal verbessert. Wenn du noch welche von deinen Verbesserungen rein schreiben möchtest, kannst du ja mal drüber gucken : http://thepiratebay.sx/torrent/8144832/TPB.AFK.German.Subs.new
+
+Dort sind auch noch Links zu dem git-Repo, wo du deine Änderungen direkt hinzufügen kannst.
+
+Grüße!"
+,heubergen,2013-02-16T12:24Z,"Das war auch bitter nötig. Frage mich vor allem wie du es geschafft, hast all diese ä,ö und ü so komisch zu schreiben..."
+,moogle19,2013-02-17T02:18Z,"Wieso komisch? Waren eigentlich ganz normal.
+Hast du dir die vielleicht in der falsche Codierung angeguckt? Ist eigentlich normaler Unicode UTF-8."
+,heubergen,2013-02-17T13:13Z,"Mann! Bin ich blöd!
+
+Ich habe mir das ganze Zeug in ISO-8859-1 (Westlich) angeschaut. So wurden die ä,ö und ü's zu solchen Zeichen: f√ºr anstatt für."

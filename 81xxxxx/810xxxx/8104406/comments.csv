@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-02-05T07:28Z,"A SETUP VERSION PPL :D
+Now I don't have to do all that annoying sfx stuff.
+*sits back and drinks a cold one*"
+,EliteG91,2013-02-05T07:40Z,"Hey man, love this. Thanks so much. One thing, I downloaded the Win 8 Pro w/ WMC. Will it ever be possible to ""activate"" that version of W8 with this program? I used the KJ Activator, and works fine, but I sure love KMSnano alot more. :)"
+[V],murphy78,2013-02-05T08:22Z,"Oh man bro... you have no idea how bad you f***ed up your computer with that KJ hacktivator.
+
+run an admin cmd prompt ""slmgr /dlv"" to see the real activation status."
+,Jer88,2013-02-05T10:21Z,"keep getting an error on the check program, keeps saying ""Error: Product activation failed"".
+
+I'm on Windows 7 Enterprise, build 7601. (Still have the 'Windows is not genuine' thingy on my bottom right of desktop.)"
+[V],murphy78,2013-02-05T10:43Z,"jer88, thanks for that info. does any other offline kms activator work for you? I just activated a 7 sp1 enterprise today using 19.1... can you see if that works for you?"
+[V],murphy78,2013-02-05T10:46Z,"I'm prolly going to get some sleep, but you can try running a ""SFC /SCANNOW"" or resort to a ""SLMGR /REARM"" if that doesn't work. Then retry activator.
+
+You can also extract the kmsnano.exe to a subdirectory with 7z or winrar and try running manual.cmd
+
+When the virtual machine has been up for like a minute, click the little EL activation button.
+
+Good luck."
+,alvester,2013-02-05T12:04Z,"I'm facing a weird issue after running this activator. Every time I run it, the option in Folder Options to show and hide the hidden files and folders goes blank. In order to fix it I have to restart the windows. I'm not implying that there's a virus in it but this kind of behaviour is done by a virus. Well its not a major issue and neither it harms the windows but its an issue none the less. Maybe its a bug. Can you confirm it murphy?"
+,Sonic_27,2013-02-05T16:58Z,THANKS murphy78
+,Adam1438,2013-02-05T17:20Z,"Hey can i use this to activate Office 2010 ProPlus VL x86 on Win7 ultimate sp1 OEM x64?
+
+Thanks!"
+,Bbmania,2013-02-05T20:23Z,"Does it work with W8 Enterprise 9200?
+Thank you"
+[V],murphy78,2013-02-05T23:27Z,"alvester I did notice that there are some unintented things going on in this release. I think that it is not supposed to go in the normal program folders on an x64 but the x86 one. That might be the cause of the problem.
+
+You guys can just use the previous versions, this is just a install release, it does not fix problems.
+
+Feel free to uninstall and use a different one. I've tested the uninstall and it correctly removes all files and trigger task"
+[V],murphy78,2013-02-05T23:28Z,"adam there are better solutions that are more refined for office 2010. Technically it should work, but it's more geared for win8 and office 2013"
+,Adam1438,2013-02-06T00:49Z,"Thankyou for the reply!
+""more refined for office 2010"">is MS Toolkit by CODYQX4 one of them???"
+[V],murphy78,2013-02-06T04:30Z,"The newer ones are the only ones I really know about, sorry adam"
+,alvester,2013-02-06T10:10Z,BTW I personally think that we don't really need a installer version but thats just my opinion.

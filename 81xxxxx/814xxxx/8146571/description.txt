@@ -1,0 +1,70 @@
+MediaInfo 0.7.61
+General
+Complete name                            : D:Yoko..avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 1.37 GiB
+Duration                                 : 1h 38mn
+Overall bit rate                         : 1 990 Kbps
+Writing application                      : VirtualDubModRus 1.5.10.2 (build 2542/release)
+Writing library                          : VirtualDub build 30009/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 38mn
+Bit rate                                 : 1 788 Kbps
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.248
+Stream size                              : 1.23 GiB (90%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 2000
+Duration                                 : 1h 38mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 136 MiB (10%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 40 ms (1.00 video frame)
+Interleave, preload duration             : 512 ms
+
+Screenshots: 
+http://img689.imageshack.us/img689/6559/grab53j.png 
+http://img29.imageshack.us/img29/6434/grab54.png 
+http://img11.imageshack.us/img11/3166/grab55f.png 
+http://img89.imageshack.us/img89/1833/grab56.png 
+http://img850.imageshack.us/img850/2410/grab57.png 
+http://img17.imageshack.us/img17/8002/grab58.png 
+http://img502.imageshack.us/img502/8350/grab59.png 
+http://img109.imageshack.us/img109/9817/grab60r.png 
+http://img818.imageshack.us/img818/8250/grab61w.png 
+http://img35.imageshack.us/img35/1903/grab62.png 
+http://img259.imageshack.us/img259/2752/grab63w.png 
+http://img145.imageshack.us/img145/8256/grab64.png

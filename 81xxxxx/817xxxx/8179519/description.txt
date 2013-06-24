@@ -1,0 +1,78 @@
+Poster: 
+http://imgr.us/images/tzny9jw6bba8em2da0fx.jpg
+
+Info:
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 1.20 GiB
+Duration : 1h 30mn
+Overall bit rate : 1 891 Kbps
+Writing library : VirtualDub build 32842/release
+
+
+Video
+ID : 0
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Format settings, GOP : M=1, N=2
+Codec ID : X264
+Codec ID/Info : XiWave GNU GPL x264 MPEG-4
+Duration : 1h 30mn
+Bit rate : 1 500 Kbps
+Width : 720 pixels
+Height : 360 pixels
+Display aspect ratio : 2.000
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.231
+Stream size : 971 MiB (79%)
+Writing library : x264 core 125 r2200bm 999b753
+
+Audio
+ID : 1
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : 2000
+Duration : 1h 30mn
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 249 MiB (20%)
+Alignment : Aligned on interleaves
+Interleave, duration : 40 ms (1.00 video frame)
+Interleave, preload duration : 512 ms
+
+Sample Included
+yes 1 samples
+_________________________________________________________________________________
+
+
+Notes:
+
+Source was pretty good.
+Source has some movement. Not much. Nothing big.
+Rotated,smoothed,sharpend. You know the Drill.
+Ran vid thru a few filters. An cleaned the vid up.
+
+Audio is untouched.
+**(Sound may not work in VLC Media Player, So, use any other media player)**
+
+Screens: 
+http://www.shotpix.com/images/30898247957030940711.png 
+http://www.shotpix.com/images/46558531866255731055.png 
+http://www.shotpix.com/images/46601254648208582638.png 
+http://www.shotpix.com/images/42830963649897324889.png 
+http://www.shotpix.com/images/34795462347214113220.png 
+http://www.shotpix.com/images/12095120460960290175.png 
+http://www.shotpix.com/images/69230575728078532603.png

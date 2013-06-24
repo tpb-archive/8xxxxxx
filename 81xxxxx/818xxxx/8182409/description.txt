@@ -1,0 +1,49 @@
+******* WARNING WARNING WARNING WARNING WARNING *********
+THIS IS A BETA TEST LIVE DISTRO DVD IMAGE.
+WE ARE NOT OFFERING TECH SUPPORT ON THIS.
+THIS WAS BUILT STRICTLY FOR TESTING PURPOSES.
+USE AT YOUR OWN RISK!
+
+Built off the original distro 11.10 release.
+
+Programs added in:
+Cowpatty
+Feeding Bottle
+Wireshark
+Pyrit
+Wifite
+Wine and Wine Tricks
+Mono
+Gnome Color Changer
+Play on Linux
+Windows Wireless drivers
+Ubuntu Tweak
+My Unity
+Virtual Box 4.2
+Firefox (Modded not finished)
+  -Hidemyass
+  -NewIPNow.com
+  -Downloadhelper
+  -Adblock
+  -No Script
+  -HTTPS Everywhere
+ClamAV
+Filezilla
+Ubuntu Restricted Extras
+Webcam Utils
+VLC
+LOIC
+XOIC
+Hivemind LOIC
+UDP Unicorn
+Konquerer
+JavaLOIC
+IPwin
+
+Removed games and Libre office set, i never used it myself not worth keeping on it. Its been updated to last night as well. Should stay that way as well even after your installing. It can be installed or run as a live cd.
+
+Built specifically for a laptop to run it live distro, crack the wifi in the area, and send http/udp style floods from that connect. Tor is installed however not functioning properly. Rev 2 will have this fixed and a few other apps installed. Other than a couple errors at the load up, worked fine for 3 machines here with different setups.
+
+This is an official Project Echelon project. Designed to down our foes! Do us a favor and simply check out the site we've included with the iso.
+
+        

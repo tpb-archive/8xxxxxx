@@ -1,0 +1,60 @@
+=====
+Message from uploader:
+"I will seed this alone for two weeks and then I am getting another broadband connection. I hope we will have seeders by that time. If not I will of course continue when I've got an up and ready broadband connection again."
+=====
+
+
+Welcome to the Final release of Demobase Amiga!.
+
+This is the third release of the biggest Amiga demo database.
+
+Since the V2 release the following things have been added :-
+
+HDF demos - almost 1200 - most of them are actual HD demos, the rest are demos that need certain libs so this is the way to get them to work !
+WHDLoad demos  - What can i say ? These HAVE to be a part of this demobase, 347 demos added. Just a very few not working.
+
+Floppy demos, sorted in AGA, OCS and ECS. 
+
+The Only View i did not completey redo is the OCS section, so the floppy swap info and or multiple floppy settings are not verified and or finished.
+When you find OCS demos that do NOT work please contact me so i can fix that in the master database, thanks very much !
+
+A MASSIVE total of 20000+ configured demos, including Group and year info.
+
+I have done a major cleanup and many things have been improved.
+
+For the HD demos i have created a Workbench 3.1 HDF and for every demo i have created a seperate HDF.
+So when you select a HDF demo, you will enter Workbench screen with 3 Icons.
+RAM Disk, Demo Name HDF and WB 3.1.
+Just double click on the Demoname HDF, then click on the demo icon to start the demo.
+When there is more than one file on the demo HDF, i have specified the file to run on the version tab in Gamebase.
+
+PLEASE NOTE:
+The Workbench.HDF, Kickstart ROMs, WHDLoad and WinUAE are NOT included and must be dowloaded seperately for the Demobase to work.
+You can download them in this separate emulator package.
+
+
+The Demobase scripts are configured to work with WinUAE v2.3.1.
+Older versions of the emulator will probabaly not work correctly, but newer versions should be ok (fingers crossed).
+
+My thanks go out to...
+
+Jimbo (Gamebase)
+Tony Willen (WinUAE)
+All the fellas from Bitworld (the best Amiga demo archive online)
+Galahad ,Retroplay and Stingray for fixing a few WHDLoad Demos.
+
+BIG thanks goes out to .mad. for helping me with so many things.
+
+This project has cost me years of my life, so i hope you all like it.
+I have now stopped working on this mega project.
+
+Please remember that this project is never finished and maybe there will be some small things i forgot.
+
+If you download this from UG and would like to give thanks, a small donation of upload credit would be very much appreciated,
+so i can enjoy some of the goodies in the coming years.
+
+As a BONUS i have added some videos from some AGA and PPC demos i could not get to work.
+
+ENJOY ! I wish you all the best.........
+
+Sjakie43 (Dirk)

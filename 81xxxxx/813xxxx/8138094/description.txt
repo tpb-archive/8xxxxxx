@@ -1,0 +1,70 @@
+Info:-
+
+Far Cry 3 Deluxe Edition Reloaded v1.04 Proper Single Player All DLC Unlock
+Unlike other FC3 DLC unlockers this one actually unlocks all the sp dlc.
+Unlike other FC3 DLC unlockers DLC Missions save/load propperly.
+Works with FC3 Deluxe Edition v1.04 game that is using Reloaded v1.04 crack only.
+
+What it unlocks:
+Monkey Business
+Lost Expeditions
+Testing Unit
+Warrior Pack - Tribal Knife 
+Predator Pack - M-700 Predator Rifle, 4 new unique animals  
+Cannon Gun
+
+Installation:-
+
+
+There are 2 methods for using the dlc unlock, pick the one that suites you.
+
+Method 1 is nice and simple, but your your existing game save will not be seen by the game.
+In other words if your playing the game for the first time or stating a new game then this method is for you.
+1. Replace your Far Cry 3binuplay_r1_loader.dll with the one supplied.
+  
+2. Edit your DocumentsMy GamesFar Cry 3GamersProfile.xml
+Change the line &lt;UplayProfile LockString="" /&gt; to &lt;UplayProfile LockString="aT2O6Z6+kzoImbx8lt9csmZNfJ5UQgOXlskAsmv5zTE=" /&gt;
+
+3. Start a new game and DLC's show after you unlock the first tower, just as the normal game should do.
+
+
+Method 2 is for those that want to use an existing save, it's a little more challenging to do.
+1. Decrypt your old save first.
+ How to Decrypt your save:
+ 1a. Launch FC3_Save_Helper.exe and browse to your FC3.dll or FC3_d3d11.dll
+     (If playing the game in DX9 then select FC3.dll, if playing your game in DX11 then select FC3_d3d11.dll)
+
+ 1b. In the Load group select Encrypt, in the Save group select Decrypt and hit Patch button
+ 
+ 1c. Launch your Far Cry 3 game and load your save, once in the game hit F9 to manual/quick save then exit the game.
+     (Your save is now decrypted)
+
+2. Replace your Far Cry 3binuplay_r1_loader.dll with the one supplied.
+
+3. Edit your DocumentsMy GamesFar Cry 3GamersProfile.xml
+   Change the line &lt;UplayProfile LockString="" /&gt; to &lt;UplayProfile LockString="aT2O6Z6+kzoImbx8lt9csmZNfJ5UQgOXlskAsmv5zTE=" /&gt;
+
+4. Set your game to load decrypted and save encrypted.
+ How to set your game to load decrypted and save encrypted:
+ 4a. Launch FC3_Save_Helper.exe and browse to your FC3.dll or FC3_d3d11.dll
+     (If playing the game in DX9 then select FC3.dll, if playing your game in DX11 then select FC3_d3d11.dll) 
+ 
+ 4b. In the Load group select Decrypt, in the Save group select Encrypt and hit Patch button.  
+
+5. Launch your Far Cry 3 game and load your decrypted save.
+   (DLC will not show while your using a decrypted save)
+
+Note:-
+All Credits for this Dlc unlocker goes to smashly.  
+
+6. Hit F9 in game to QuickManual save and exit game 
+   (your old save is now encrypted again).
+
+7. Set your game to load Encrypted and Save Encrypted.
+ How to set game to load Encrypted and Save Encrypted:
+ 7a. Launch FC3_Save_Helper.exe and browse to your FC3.dll or FC3_d3d11.dll
+    (If playing the game in DX9 then select FC3.dll, if playing your game in DX11 then select FC3_d3d11.dll)
+
+ 7b. In the Load group select Encrypt, in the Save group select Encrypt and hit Patch button.
+
+Your done, enjoy playing your old save with the All Single Player DLC properly unlocked. 

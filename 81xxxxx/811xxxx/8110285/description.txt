@@ -1,0 +1,105 @@
+General
+UniqueID/String                          : 200042260730280907701638254469884344139 (0x967EBCEE1D463C07AF0726AECF76F74B)
+Nombre completo                          : Adele Live At The Royal Albert Hall BRip 720p (Hi10).mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 4 / Version 2
+Tamaño del archivo                       : 1,72GIB
+Duración                                 : 1h 39min.
+Tasa de bits total                       : 2 482Kbps
+Fecha de codificación                    : UTC 2013-02-06 16:49:05
+Aplicación de codifición                 : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Librería de codificación                 : libebml v1.3.0 + libmatroska v1.4.0
+Attachment                               : Yes
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High 10@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 39min.
+Tasa de bits nominal                     : 2 000Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 544pixeles
+Relación de aspecto                      : 2,35:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,970fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 10bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.096
+Librería de codificación                 : x264 core 129 r2245 bc13772
+Opciones de codificación                 : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x1:0x111 / me=hex / subme=5 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=2 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=2000 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : A_AAC
+Duración                                 : 1h 39min.
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+Demora del video                         : 9ms
+Default                                  : Si
+Forced                                   : No
+
+Menú
+00:00:00.000                             : en:00:00:00.000
+00:05:06.306                             : en:00:05:06.306
+00:05:55.355                             : en:00:05:55.355
+00:09:59.599                             : en:00:09:59.599
+00:10:50.049                             : en:00:10:50.049
+00:16:11.270                             : en:00:16:11.270
+00:17:14.033                             : en:00:17:14.033
+00:21:25.017                             : en:00:21:25.017
+00:26:05.597                             : en:00:26:05.597
+00:27:42.861                             : en:00:27:42.861
+00:31:01.626                             : en:00:31:01.626
+00:33:28.506                             : en:00:33:28.506
+00:36:13.972                             : en:00:36:13.972
+00:38:26.070                             : en:00:38:26.070
+00:42:53.438                             : en:00:42:53.438
+00:43:49.827                             : en:00:43:49.827
+00:47:36.620                             : en:00:47:36.620
+00:51:19.810                             : en:00:51:19.810
+00:52:33.984                             : en:00:52:33.984
+00:58:53.230                             : en:00:58:53.230
+01:00:49.312                             : en:01:00:49.312
+01:07:16.666                             : en:01:07:16.666
+01:11:19.976                             : en:01:11:19.976
+01:16:39.995                             : en:01:16:39.995
+01:23:31.039                             : en:01:23:31.039
+01:26:36.425                             : en:01:26:36.425
+01:32:57.639                             : en:01:32:57.639
+01:39:19.353                             : en:01:39:19.353
+
+----------------------------------------------------------
+
+Tracklist:
+
+
+    «Hometown Glory»
+    «I'll Be Waiting»
+    «Don't You Remember»
+    «Turning Tables»
+    «Set Fire to the Rain»
+    «If It Hadn't Been for Love»
+    «My Same»
+    «Take It All»
+    «Rumour Has It»
+    «Right As Rain»
+    «One & Only»
+    «Lovesong»
+    «Chasing Pavements»
+    «I Can't Make You Love Me»
+    «Make You Feel My Love»
+    «Someone Like You»
+    «Rolling in the Deep»
+

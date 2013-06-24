@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,tsoutsouras,2013-02-05T19:52Z,I istalled the update and the game does not start at all...
+,UglyDucklingxyz,2013-02-06T08:03Z,Just started a new game with the patch installed and it works. Thanks BAT team. Much appreciated!
+,tsoutsouras,2013-02-06T15:23Z,"UglyDucklingxyz  can you please tell me what is the version of the game that you inastalled because mine is this
+http://thepiratebay.sx/torrent/7761493/Kings_Bounty_Warriors_of_the_North-FLT"
+,UglyDucklingxyz,2013-02-06T23:59Z,"I believe that's the one I used too. Have you tried a fresh install?
+
+However, something very strange is going on. The hero isn't gaining any experience. My soothsayer character gained no experience whatsoever. Tried another new game with a viking hero - this one gained a little experience and then none after that. Makes me wonder if this is merely an accidental bug...
+
+
+Note: I'm not talking about the valkyrie amulet, it's normal for it not to get any experience until the first valkyrie is encountered. "
+,tsoutsouras,2013-02-07T15:40Z,"UglyDucklingxyz . Thanks a lot for your answer. I did a clean install and then i applied the patch, but nothing happened. The game does not start at all, maybe it needs some king of crack."
+,UglyDucklingxyz,2013-02-08T01:20Z,"I did a clean install as well and used this update and the no-experience seems to be gone. Perhaps the previous patch (from this site as well) or a mod might have been interfering. Will report if I spot anything suspicious. 
+
+Hope your problem gets solved though. "
+,tsoutsouras,2013-02-14T14:51Z,"Ok. Finaly some good news. I removed the save files folder and I did a clean istallation. Then i applied this patch. The game works and its build upgrades to 6250. Then i created a new game and made a new save. Then I copied my old saves in the saves folder (only the saves not the game.ini file), and they worked.
+It seems that the old save folder created some problem and the game did n't start, at least thats what i think. I hope all these are helpful."
+,tsoutsouras,2013-02-14T14:57Z,Ok finaly some good news. I think the problem was created by the game.ini file that is in the saves folder. I removed the saves file and then did a clean installation. Then i applied this patch. I run the game and it works. It updades the build to 6250. I created a new game and a new save. The i copied the old saves (only the save files not the old game.ini file) to the addon folder. They work too. That's it. I hope it was helpful

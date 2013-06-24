@@ -1,0 +1,27 @@
+ASD 3S150 supports the following machine
+
+MacBook Pro (13-inch, Mid 2012) MacBook Pro (15-inch, Mid 2012) MacBook Pro (Retina, Mid 2012) MacBook Air (11-inch, Mid 2012) MacBook Air (13-inch, Mid 2012)
+
+Apple Service Diagnostics (ASD) is distributed to Apple Service Providers. The Apple Service Diagnostics application is designed to run both EFI and Mac OS X tests from an external USB hard drive. Apple Service Diagnostics (EFI) runs low-level tests of the hardware directly and does not require Mac OS X, while Apple Service Diagnostics (OS) uses Mac OS X to run tests.
+
+Installing Apple Service Diagnostics on a USB hard drive
+
+Please refer to the document "Installing ASD on a USB hard drive" included with this release.
+
+Note: ASD is tested with a custom Mac OS that is supplied in the image. As a test requirement the OS is set up as a root user. DO NOT copy ASD to another OS or some tests will fail. Also running ASD on another OS removes some of the Finder menu items and sets preferences specifically for ASD requirements. It will damage your OS so use the one provided.
+
+Booting and using the Apple Service Diagnostics application
+
+Before using Apple Service Diagnostics, disconnect any Ethernet network, USB, and audio cables.
+
+With the USB hard drive containing ASD OS 3S150 and ASD EFI 3S150 plugged into a USB port, restart the computer and hold down the option key as the computer boots up into the Boot Picker. To run ASD (EFI) select the "ASD EFI 3S150" drive icon and press return or select it with a mouse click. To run ASD (OS) select the "ASD OS 3S150" drive icon and press return or select it with a mouse click. ASD (EFI) will load in 20-30 seconds; ASD (OS) will load in 1-2 minutes. After running ASD (OS) or ASD (EFI), press the Shut Down button to shut down the computer. Removed the USB drive.
+
+Recommendations and Test Information
+
+In ASD (EFI), the Hard Drive full scan test may take an hour or more to complete.
+
+In ASD (OS), the Apple Simple Memory Test may take 20 to 60 minutes to complete depending on the amount of RAM installed. 
+
+---------------------
+
+If you suspect your computer has a hardware problem, the information provided by Apple Service Diagnostics can help identify the problem. If Apple Service Diagnostics detects a problem, an error will be displayed. Please make a note of the error before proceeding further. If no hardware failure is detected, the problem may be software related.

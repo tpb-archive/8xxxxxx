@@ -1,0 +1,74 @@
+Navigon Europe Q4 2012 incl. Turkey for PNA/PDA
+***********************************************
+
+Countries:
+---------
+Albania
+Andorra
+Austria
+Belarus
+Belgium
+Bosnia & Herzegovina
+Bulgaria
+Croatia
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+FYROM
+Germany
+Gibraltar
+Greece
+Hungary
+Iceland
+Isle Of Man
+Italy
+Kosovo
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Republic Of Ireland
+Romania
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Vatican City
+
+
+
+System files included:
+---------------------
+Brunnel_EU.nfs
+CountryProfiles.nfs
+Landmarks_EU.nfs
+MapDrawer.nfs
+NavigonRealityView_EU.nfs
+Navigon-Select-4.7.0.apk
+Poicats.nfs
+sat_EU.nfs
+Terrain_EU.nfs
+TMC.nfs
+TruckAttributes_EU.nfs
+
+
+Navigon Blitzer - POI Warner (ALL_PIOWARNER_EU.pom + POIWARNER_EU.nfs)
+
+
+Put all the above files into the &lt;map&gt; directory on your Navigon GPS device.

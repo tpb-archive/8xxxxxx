@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,solutioN-Ghost,2013-03-15T18:49Z,"Found false positive : cstrike/cl_dlls/GameUI.dll but should be okay, added it to the Exclusions tab, great release ! Thanks"
+,csgame199,2013-03-15T21:02Z,"I guess you are using NOD32.. so yeah! Only NOD32 gives false positive for that file. GameUI.dll is required for the bots, and it has been added to this release from CS: Condition Zero
+
+You can check GameUI.dll at https://www.virustotal.com/ru/file/d2d6f91b03ffc0a04b8b8d92965030a9634be7771c9e8ac1ad1849a6cc71c9b1/analysis/
+
+
+Enjoy (:"
+,solutioN-Ghost,2013-03-24T16:45Z,"yup you got that right. NOD32 always got problems with false positive but I already add it to exceptions tab. One more, what is the name of the song in the background menu?"
+,csgame199,2013-03-29T04:04Z,"name of the song
+
+Lux Aeterna By Clint Mansell"
+,solutioN-Ghost,2013-04-04T18:22Z,":D Thank You.
+
+1 more thing, do you know how to play Zombie Plague and Deathmatch mode? Cause I notice there's AMX Mod installed in this cs but I don't know how to play 'em"
+,solutioN-Ghost,2013-04-05T10:04Z,"Hey the song at gamestartup is what remix version? Cause the one I have Lux Aeterna By Clint Mansell is the original and kinda slow, not the one that I heard in this game"

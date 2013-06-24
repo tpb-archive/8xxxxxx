@@ -1,0 +1,29 @@
+What is new in version 5.0.0.42 (Released February 4th 2013)
+
+- 0006280: [Bug] chapter file name for menu missing for merged items (felicia) - resolved.
+- 0006281: [Bug] the starting times inside the chapter Menu thumbnails have 00:00 instead of correct time (felicia) - resolved.
+- 0006414: [Bug] Batcher - Disable sleep/hibernate ... while Batching (felicia) - resolved.
+- 0006421: [Bug] log window not scrolling during conversion (felicia) - resolved.
+- 0006418: [Bug] add hint for use of { in menu text (felicia) - resolved.
+- 0006413: [Feature Request] Batcher - Progress feedback issue (felicia) - resolved.
+- 0006407: [Bug] batcher - english typo (felicia) - resolved.
+- 0006415: [Bug] New merge function (felicia) - resolved.
+- 0006416: [Bug] Chapter List on Chapter Button always display - - : - - now, not displaying the chapter time. (felicia) - resolved.
+
+System Requirements
+
+Hardware
+Processor Intel Pentium III / AMD Athlon
+(Intel Pentium 4 / AMD Athlon XP or equivalent recommended)
+512 MB RAM with Windows XP
+1 GB RAM with Windows Vista
+Hard disk drive with at least 4.3 Gbytes free
+DVD Burner
+
+Operating System
+Windows XP SP2/SP3, Windows Vista, Windows 7 & 8
+
+Languages : English, Spanish, French, Italian, Japanese, Chinese, German, Arabic and more.
+
+Homepage :  
+http://www.vso-software.fr/products/convert_x_to_dvd/

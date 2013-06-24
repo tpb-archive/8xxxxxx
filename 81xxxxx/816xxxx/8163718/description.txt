@@ -1,0 +1,77 @@
+This is my own rip.
+
+General
+Unique ID                        : 237907772330688050274622820727182393290 (0xB2FB5ECA3D08CA3BADC582E02EBCFFCA)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 4.60 GiB
+Duration                         : 1h 43mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 6 338 Kbps
+Encoded date                     : UTC 2013-02-19 13:45:22
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 43mn
+Bit rate mode                    : Variable
+Bit rate                         : 5 763 Kbps
+Maximum bit rate                 : 39.6 Mbps
+Width                            : 1 912 pixels
+Height                           : 808 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.156
+Stream size                      : 4.18 GiB (91%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 43mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 333 MiB (7%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:Credits
+00:04:57.923                     : en:Water & Power
+00:12:08.895                     : en:H 2 Ownership
+00:18:55.843                     : en:Down and Dirty
+00:25:50.549                     : en:Partners
+00:31:59.835                     : en:Pipe Dreams
+00:36:45.684                     : en:Freedom
+00:43:09.045                     : en:Reconstruction
+00:48:47.299                     : en:Saving Sam
+00:57:09.718                     : en:Dog's Life
+01:06:37.285                     : en:Weapon Heist
+01:15:36.991                     : en:New Religion
+01:21:01.815                     : en:Break-In
+01:27:21.987                     : en:Main Event
+01:36:19.148                     : en:All's Good
+01:38:38.329                     : en:End Credits

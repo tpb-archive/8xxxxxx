@@ -1,0 +1,50 @@
+Luat de pe VOYO, sa ziceti MERCI bah uratilor! ;)
+
+
+
+---------------------------
+Move Info ( Ctrl+C for copy to Clipboard)
+---------------------------
+VIDEO:  [H264]  1072x608  0bpp  25.000 fps    0.0 kbps ( 0.0 kbyte/s)
+DEMUXER=lavfpref
+
+VIDEO_FORMAT=H264
+
+VIDEO_BITRATE=0
+
+VIDEO_WIDTH=1072
+
+VIDEO_HEIGHT=608
+
+VIDEO_FPS=25.000
+
+VIDEO_ASPECT=0.0000
+
+AUDIO_FORMAT=255
+
+AUDIO_BITRATE=0
+
+AUDIO_RATE=44100
+
+AUDIO_NCH=2
+
+LENGTH=7358.93
+
+SEEKABLE=1
+
+VIDEO_CODEC=ffh264
+
+
+AUDIO: 48000 Hz, 2 ch, s16le, 128.0 kbit/8.33% (ratio: 16000-&gt;192000)
+AUDIO_BITRATE=128000
+
+AUDIO_RATE=48000
+
+AUDIO_NCH=2
+
+AUDIO_CODEC=faad
+
+
+---------------------------
+OK   
+---------------------------

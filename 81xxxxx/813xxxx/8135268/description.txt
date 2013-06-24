@@ -1,0 +1,72 @@
+Description
+
+Poster: http://cdn.piczend.com/image/7k6lhorve2piwebfjqxyjcclz.jpeg
+Release date: 2013
+Genre: Crime, Drama
+Plot: When a cop's crooked past comes back to get him, can he do the right thing, or will he succumb to the threats of his dangerous connections?
+--------------------------------
+Runtime: N/A
+Rating: 5.2/10
+Votes: 1,301
+Writer(s)/Director(s): John Chase/Brian A Miller
+Actors: Jenae Altschwager, Jas Anderson, Kaitlyn Black, David Boreanaz
+Trailer: http://www.imdb.com/video/imdb/vi1108649753/
+
+Screenshots: 
+http://cdn.piczend.com/image/yraz6ahgfqxznrgppmo0j2hmq.jpeg 
+http://cdn.piczend.com/image/wnoohscys2vta2yqpo46ujm7y.jpeg 
+http://cdn.piczend.com/image/cgqjt7w6lae3ddm5yg6qvmvag.jpeg 
+http://cdn.piczend.com/image/suq4sfwzl6ijsfusjovm1rbxn.jpeg
+
+Mediainfo:
+General
+Complete name :	Officer Down (2013) DVDRip 304p [Zend]/Officer Down (2013) DVDRip 304p [Zend].mp4
+Format :	MPEG-4
+Format profile :	Base Media
+Codec ID :	isom
+File size :	1.10 GiB
+Duration :	1h 37mn
+Overall bit rate :	1 620 Kbps
+Writing application :	Lavf53.21.1
+
+Video
+ID :	1
+Format :	AVC
+Format/Info :	Advanced Video Codec
+Format profile :	Main@L3.0
+Format settings, CABAC :	Yes
+Format settings, ReFrames :	3 frames
+Codec ID :	avc1
+Codec ID/Info :	Advanced Video Coding
+Duration :	1h 37mn
+Bit rate :	1 500 Kbps
+Width :	720 pixels
+Height :	304 pixels
+Display aspect ratio :	2.35:1
+Frame rate mode :	Constant
+Frame rate :	23.976 fps
+Color space :	YUV
+Chroma subsampling :	4:2:0
+Bit depth :	8 bits
+Scan type :	Progressive
+Bits/(Pixel*Frame) :	0.286
+Stream size :	1.01 GiB (92%)
+Writing library :	x264 core 123 r2189 35cf912
+Encoding settings :	cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=0 / open_gop=1 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=1500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.25 / aq=1:1.00
+
+Audio
+ID :	2
+Format :	MPEG Audio
+Format version :	Version 1
+Format profile :	Layer 3
+Mode :	Joint stereo
+Codec ID :	6B
+Duration :	1h 37mn
+Bit rate mode :	Constant
+Bit rate :	128 Kbps
+Channel(s) :	2 channels
+Sampling rate :	48.0 KHz
+Compression mode :	Lossy
+Delay relative to video :	42ms
+Stream size :	89.2 MiB (8%)
+Writing library :	LAME3.99.5

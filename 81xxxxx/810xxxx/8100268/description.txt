@@ -1,0 +1,47 @@
+Here is an installer I made for KMSnano v19.1
+It lets you choose directory and will automatically install the trigger
+and monitor activation. It displays some basic info for people during
+install.
+
+File: KMSNano_v19.1-Installer.exe
+Size: 30.1MB
+CRC32: 99A8141E
+MD5: 1E8C360E337F3317D043FEF43A75407A
+SHA-1: 0F393DE561D5F762DD438DFD6A897DD26AA53557
+
+What it does is extract KMSnano v19.1 to a directory that you specify.
+Then it runs a modified RunTrigger.cmd that installs the
+TriggerKMS to monitor activation every boot. Since TriggerKMS install
+also runs the activator if necessary, it will monitor activation
+programs and let you know when they've stopped running and where
+your installed files are. I know it's redundant to show where you
+installed the files after you just selected a destination, but this is
+meant to help people who don't understand very much.
+
+When you run this installer, it will install the TriggerKMS scheduled
+task into the task scheduler to check every boot if your activation
+needs re-activating for Windows or Office.
+
+It runs the same KMSnano.exe from the normal release. I didn't modify
+any file except the RunTrigger.cmd
+
+You can see the post on MDL 
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page643?p=714148&viewfull=1#post714148
+
+Read KMSnano v19.1 info from my KMSnano v19.1 torrent at: 
+http://thepiratebay.se/torrent/8085417/KMSNano_v19.1_Offline_Office_and_Windows_KMS_Activator
+
+Note that I did not write any of the activation coding.
+
+heldigard made KMSnano.
+he gives thanks to many boards and people in his readme file.
+Read it and you can find out who else are activation champions.
+
+01-KMSnano v19.1 Installer - Choose Directory 
+http://bayimg.com/HajjKAaeE
+
+02-KMSnano v19.1 Installer - Script Screen and Finish box 
+http://bayimg.com/HAjjmAaeE
+
+Enjoy Pirates,
+murphy78 - TPB

@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,extracube,2013-02-17T00:49Z,"Thank you for Windows 7 x86 (32 bit).
+
+One thing I don't understand, in the image screen provided it says ""no updates,"" but in the text above it says updates installed until Feb 12.  Does the ""no updates"" mean ""no updates needed""?"
+[V],murphy78,2013-02-17T01:38Z,"Sorry, some clarity then.
+I installed this using audit mode, which you can switch to during install.
+I then downloaded all the windows updates, installed .net 4.5, directx updates, etc.
+Then I ran sysprep /generalize, which removes all my hardware specific stuff and Administrator username stuff from the registry.
+
+I then rebooted to my other partition and deleted the left-over user/administrator files.
+I then captured the image using imagex for use in the install dvd. I exported the original image to a different file, and re-mounted the image to add the OEM-branding stuff. I then exported the newly added OEM-image under a different name, to the existing one I just copied, so it now has both.
+
+It's a little complicated, but basically it has all the updates up to the Feb12 patch date."
+,Cascudo,2013-02-18T12:31Z,Excelente! Muito bom!
+,zeeraxis,2013-02-20T20:18Z,"i installed ur 64 bit version and its running like a charm now downloading 32 bit for my x86 desktop
+murphy ur a star "
+,nj98110,2013-02-21T14:48Z,Just brilliant murphy!! Your uploads the best in quality and functionality. Thank you.
+,Kamahl19,2013-03-07T15:13Z,"Hi, maybe I have a dumb question but I want to be sure. What is the difference between OEM and normal version except logos and brands? I see that OEM is activated, does it mean I can turn on Win updates? Is it possible also on normal version? Thanks for best Win7 torrent"
+,Quronja,2013-03-20T21:06Z,This is the best torrent. Congrats man ...
+,Quronja,2013-03-20T21:09Z,When will be update in March 2013 ...?

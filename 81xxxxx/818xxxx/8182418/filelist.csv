@@ -1,0 +1,106 @@
+﻿Filename,Size,Unit
+Registration/DA_ETHANCHV,2,B
+Registration/RegKey_32 bit.reg,330,B
+Registration/RegKey_64 bit.reg,354,B
+Setup/Setup/RunTime/VC2005 SP1 Update/InstallInfo.ini,350,B
+Setup/Setup/RunTime/VC2005 SP1 Update/vcredist_x86.exe,2.62,M
+Setup/Setup/RunTime/VC2008 SP1/InstallInfo.ini,198,B
+Setup/Setup/RunTime/VC2008 SP1/vcredist_x86.exe,4.02,M
+Setup/Setup/RunTime/VC2008 SP1 Update/InstallInfo.ini,206,B
+Setup/Setup/RunTime/VC2008 SP1 Update/vcredist_x86.exe,4.28,M
+Setup/Setup/Utility/AgreementDialog/Agreement.dll,532.52,K
+Setup/Setup/Utility/AgreementDialog/ARA.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/BGR.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/CHS.dll,93.29,K
+Setup/Setup/Utility/AgreementDialog/CHT.dll,105.29,K
+Setup/Setup/Utility/AgreementDialog/CSY.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/DAN.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/DEU.dll,45.29,K
+Setup/Setup/Utility/AgreementDialog/ELL.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/ENU.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/ESP.dll,53.29,K
+Setup/Setup/Utility/AgreementDialog/ETI.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/FIN.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/FRA.dll,53.29,K
+Setup/Setup/Utility/AgreementDialog/GdiPlus.dll,1.63,M
+Setup/Setup/Utility/AgreementDialog/HEB.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/HRV.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/Hun.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/ITA.dll,53.29,K
+Setup/Setup/Utility/AgreementDialog/JPN.dll,129.29,K
+Setup/Setup/Utility/AgreementDialog/KOR.dll,265.29,K
+Setup/Setup/Utility/AgreementDialog/LTH.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/LVI.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/Nld.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/Nor.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/PLK.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/PTB.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/PTG.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/ROM.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/RUS.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/SKY.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/SLV.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/SRL.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/SVE.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/THA.dll,41.29,K
+Setup/Setup/Utility/AgreementDialog/TRK.dll,41.29,K
+Setup/Setup/Utility/CLSM.exe,73.29,K
+Setup/Setup/Utility/TaskScheduler.exe,101.29,K
+Setup/Setup/Utility/wic_x86_enu.exe,1.17,M
+Setup/Setup/royalty.ini,2.68,K
+Setup/Setup/SKRSet.xml,95.36,K
+Setup/0x0404.ini,4.15,K
+Setup/0x0407.ini,6.93,K
+Setup/0x0409.ini,5.99,K
+Setup/0x040a.ini,6.86,K
+Setup/0x040c.ini,7.07,K
+Setup/0x0410.ini,6.74,K
+Setup/0x0411.ini,6.47,K
+Setup/0x0412.ini,5.59,K
+Setup/0x0416.ini,6.42,K
+Setup/0x0419.ini,6.36,K
+Setup/0x0804.ini,4.21,K
+Setup/0x1004.ini,4.21,K
+Setup/1028.mst,24,K
+Setup/1031.mst,38,K
+Setup/1033.mst,3.5,K
+Setup/1034.mst,35,K
+Setup/1036.mst,36.5,K
+Setup/1040.mst,37,K
+Setup/1041.mst,35.5,K
+Setup/1042.mst,31,K
+Setup/1046.mst,34,K
+Setup/1049.mst,32.5,K
+Setup/2052.mst,24.5,K
+Setup/4100.mst,24,K
+Setup/7z.dll,893,K
+Setup/7z.exe,160,K
+Setup/Custom.ini,582,B
+Setup/Cyberlink.MD5,5.22,K
+Setup/Data1.7z,74.9,M
+Setup/Data1.cab,23.75,M
+Setup/Define.ini,244,B
+Setup/info.ini,930,B
+Setup/ISSetup.dll,5.04,M
+Setup/PowerDVD.msi,453,K
+Setup/PowerDVD12.ico,172.96,K
+Setup/Product.ini,483,B
+Setup/Setup.exe,312.5,K
+Setup/Setup.ini,1.72,K
+Setup/setup.isn,6.43,M
+Setup/SKUtil.dll,156.5,K
+Setup/SKUtil2008.dll,175.5,K
+Setup/SupportFiles.7z,793.54,K
+Setup/ureg.ini,305,B
+Tweak/_ReadMe.txt,1.01,K
+Tweak/Blu-Ray Region Reset.bat,1.71,K
+Tweak/Disable BD Mouse Pop-up.bat,1.02,K
+Tweak/Disable CLFLVSplitter.bat,1.05,K
+Tweak/Disable MoovieLive.bat,3.56,K
+Tweak/Disable PowerDVD12Agent.bat,2.32,K
+Tweak/Enable CLFLVSplitter.bat,1.04,K
+Tweak/Enable MoovieLive.bat,3.56,K
+Update/PowerDVD12.Patch.DVD121001-01.exe,158.21,M
+ChingLiu.Install.Notes.nfo,3.19,K
+How To Open Nfo Files.txt,212,B
+PowerDVD_ENU.pdf,4.63,M

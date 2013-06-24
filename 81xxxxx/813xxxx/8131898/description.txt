@@ -1,0 +1,25 @@
+KMSnano v25
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+1. Install the file: KMSnano_Install_v25.exe
+2. Done.
+
+Change Log:
+- Fixed reported bugs on v24 with Retail Editions and Skipped Windows.
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to %programfiles%KMSnano in Antivirus.
+
+  File: Sint_facete_perfecto_no_vel_v25.zip
+CRC-32: 2465630b
+   MD4: 100d3772db352433f7d0cd4d7c765629
+   MD5: 806097129aad2406e5df2796b786b0b5
+ SHA-1: 90a4c635eb77a12dc85a434a1d7000ddf41153e6

@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+,CoderHyguru,2013-02-25T01:32Z,"WARNING - Tor does not activate from the LiveCD however it will once the operating system is installed to the hard drive. The errors at the beginning are for sata drives it seems, and all errors seem to be related to not being able to write log files to the DVD itself. No big issue and doesn't prevent anything other than tor. But the workaround is to install it."
+,MasterX_HackerX,2013-02-26T03:02Z,"I used a thumb drive to run it Live . It can write logs ...
+º¿º"
+,CoderHyguru,2013-02-27T19:58Z,"Or that :D Designed it to run off DVD (noobies ya know and all) but yeah USB will store the logs needed. Rev 4 has some major additions to it, we've already started working on rev 4."

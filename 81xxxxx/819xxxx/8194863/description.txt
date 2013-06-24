@@ -1,0 +1,46 @@
+PS4 reveal... been meaning to put this up since launch
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=60
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 4mn
+Bit rate                                 : 1 855 Kbps
+Maximum bit rate                         : 7 881 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.067
+Stream size                              : 1.62 GiB (91%)
+Tagged date                              : UTC 2013-02-20 21:41:22
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 4mn
+Bit rate mode                            : Variable
+Bit rate                                 : 192 Kbps
+Maximum bit rate                         : 201 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 171 MiB (9%)
+Title                                    : IsoMedia File Produced by Google, 5-11-2011
+Encoded date                             : UTC 2013-02-20 21:38:37
+Tagged date                              : UTC 2013-02-20 21:41:22

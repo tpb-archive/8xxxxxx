@@ -1,0 +1,76 @@
+General 
+http://www.imdb.com/title/tt2023587/
+Complete name                            : MAMA 2013 WEBrip subbed READNFO Ac3-MiNiSTRY.avi
+Source                                   : 720 WEBDL.BDTP file
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 1.50 GiB
+Duration                                 : 1h 39mn
+Overall bit rate                         : 2 159 Kbps
+Writing application                      : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                          : VirtualDubMod build 2540/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 39mn
+Bit rate                                 : 1 699 Kbps
+Width                                    : 720 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.875
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.205
+Stream size                              : 1.18 GiB (79%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : 2000
+Duration                                 : 1h 39mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 319 MiB (21%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 33 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+
+NOTES :
+
+source had choppy framerate
+encoded this several times with various framerates to try and eliminate it
+giveing it a constant framerate seemed to help
+shudder is still present in parts
+this is the full movie with no cuts or stops in video or patched cam  
+audio was re worked to 6 channel
+the creation of the channels done in sound forge and then mixed down in vegas
+
+this was the best i could get this take it or leave it
+
+2 samples included
+
+Screens : 
+http://s8.postimage.org/4y9x7qc6t/T1_Video_mkv094347.png 
+http://s8.postimage.org/nj2qsjn05/T1_Video_mkv125591.png 
+http://s8.postimage.org/7shnyx3qt/T1_Video_mkv129901.png 
+http://s8.postimage.org/5duds8cvp/vlcsnap_2013_02_23_15h42m23s166.png

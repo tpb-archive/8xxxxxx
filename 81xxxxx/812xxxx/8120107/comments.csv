@@ -1,0 +1,503 @@
+﻿User Type,Username,Date,Text
+,jtjh95,2013-02-10T04:27Z,I could Kiss you right now. [No homo]
+,Ep1cSauce,2013-02-10T08:07Z,Is it possible to use only the DLCs so I can install onto my steam version of Skyrim?
+,grateful2tpb,2013-02-10T08:30Z,"The game works but I don't think I'm able to get the DLCs to work.
+
+I followed the instructions but I don't think the installer fix is working. I'm running it with admin rights but sometimes it tells me that the registry entries were modified successfully but sometimes it gives me errors like this:
+
+System.IO.DirectoryNotFoundException: Could not find a part of the parth 'C;Users\AppData/Local/Skyrim'.
+at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+at Elder ScrollsVSkyrimInstallerFix.frmMain.AppendLauncherVariables()
+
+The Datafiles option is grayed out in SkyrimLauncher so I don't think any of the DLC load.
+
+
+I did change the default name of the folder that contains all the Skyrim files when I put it in Program Files. Do you think this is why the DLCs are broken?"
+,DIYDeath,2013-02-10T08:52Z,"@ grateful
+
+I have a similar problem, I got further along with the solution though.
+
+Got the game to run without DLC, had the same Install Fix errors you're running into.
+
+The data files being greyed out is fixable by going in document/my games/skyrim and editing the skyrimpref file there.
+
+add the line
+bEnableFileSelection=1
+under the {launcher} section.
+
+This version also seems to be unable to run with nexusmodmanager because the torrent is disorganized and not in a ""installed"" state.
+It's missing the ""data"" folder and instead has files loose in the main folder.
+
+If anyone else has info to help get this torrent working properly I'm all ears but so far this one's a bit of a flop."
+,DIYDeath,2013-02-10T08:57Z,"Also get the
+
+""
+ System.IO.DirectoryNotFoundException: Could not find a part of the parth 'C;UsersAppData/Local/Skyrim'.
+ at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+ at Elder ScrollsVSkyrimInstallerFix.frmMain.AppendLauncherVariables()""
+
+error. Google greyed out data files for skyrim to find out how to fix that problem.
+
+Nexusmodmanager also doesn't seem to work with this since there's no data folder where the .esm files are supposed to be located (instead of thrown willy-nilly in the main folder).
+
+This torrent is a great idea but wasn't done right. I'd much rather install each of these myself and have a to-do list 30 steps long then screw around with this."
+,kvntvan,2013-02-10T09:21Z,"Torrent works fine. Just extract the file to your desktop first before running the Install Fixer as admin. Then move it into your Program Files.
+
+I'm having an issue though where I constantly crash 1-3 minutes into playing. It might just be me though. I've tried a few things that haven't worked including reinstalling and turning off some of the DLCs and downloading the unofficial patch mods. "
+,DIYDeath,2013-02-10T09:49Z,"Finally got this pain in the $%^ torrent to work, lol.
+
+Let's rewrite those instructions so they apply to everyone.
+
+How to install:
+1. Unzip into your Program Files folder (even for 64bit users, it must be your program files folder. It CANNOT be anywhere else-including your 86x program files- or the Installer Fixer won't work)
+2. Run DirectX 11 setup and VCRedist setup from inside their respective folders.
+3. Run Reloaded's install fix as administrator (Thanks RELOADED! This cuts out a lot of otherwise intense manual work!)
+4. Run the SkyrimLauncher, under Data files, check the DLCs you want to use.
+5. Play Game!
+
+Another side note which is needed, when I unzipped this winzip removed all the paths and just threw the files into one folder. If your winzip is a baddie too then you need to manually make each path folder and unzip the files into their proper pathing.
+
+I'll update the comments if I get mods working with this version.
+GJ to the uploader, it's a good torrent and ty for the effort. :)"
+,WDoubleYouW,2013-02-10T13:44Z,"Guys, this is all quite simple.
+
+@Ep1cSauce
+Yes, you may simply copy the DLC files from this torrent and place them inside your Steam installation.
+
+@grateful2tpb
+Of course if you rename the the folder you're going to experience problems. Why? How do you think the install fix identifies the game? By the name! The path has to be correct for it to work!
+
+@DIYDeath
+Can't believe you hurt yourself so badly with such simple instructions! The reason it was a pain was becuz you didn't know basic things. Next time extract it correctly first! It is not a mess, and indeed is very well organized. And it does work with Nexus mod manager as well. And it's not broken. The install fix only works if you tell it where you have installed the game!
+
+Steps to get someone like you to understand how to install:
+1. Get 7-zip. Or WinRAR. Heck, get both.
+2. Extract somewhere. Preferably your desktop as you'll probably lose it otherwise.
+3. Right-click and cut the ENTIRE folder from your desktop into your Program Files directory, and since you're a little kid, you are NOT allowed to install it anywhere else!
+4. Inside the folder you just moved into your Program Files folder is another folder entitled DirectX. Double-click to enter that folder.
+5. Scroll down, down, down until you find the dxsetup and install it. Follow the onscreen instructions!
+6. Go back and find the VCRedist folder. No, it isn't related to outdated VCRs that used to play VHS videos. It's a Visual C++ runtime required to play the game. Install it if it hasn't been installed previously (it will say to repair it if it's already been installed).
+7. Go back and find the Install Fix folder. Enter. Right-click and run as Administrator. Make sure the path is correct and that you haven't improvised your own steps into the equation that could ruin everything, like renaming all files in the directory youmomishot.avi. Apply.
+8. Now lying in The Elder Scrolls V Skyrim directory is a program called SkyrimLauncher. Launch it. It should detect video card settings and apply a guess as to the best quality settings to apply. Now go into the Data section. If the Data section is greyed out, you messed something up, so go back and repeat steps 1 through 7 until you get it right. Select the DLCs you want to use.
+9. Play Game
+
+@kvntvan
+The install fix only half works if you apply it while Skyrim is on your desktop and you then move it. Run it again for where you haved moved it to. As for the crashes, it may be something to do with your video card, or it may be something else. Try running it on low settings to see if that helps. The thing is, this game is so large it's almost impossible for me to be able to tell you why it's crashing, as there are so many possible reasons."
+,grateful2tpb,2013-02-10T21:32Z,"WDoubleYouW, I followed your detailed instructions step by step but Data Files is still grayed out. 
+
+I'm using Windows 8, so perhaps that's the issue? Have you tested this release on Windows 8?"
+,WDoubleYouW,2013-02-10T22:08Z,"@grateful2tpb
+I test all my torrents on Windows 7 and 8 at a minimum, and it worked on both without a hitch. 
+
+Tell you what, I'll walk you through manually. You say you got the game working, just the Data files is greyed out. If this is the case, you should probably only need to do a little edit to an ini file.
+
+Go to your Documents folder. Enter the directory called ""My Games."" Then go into Skyrim. Now open the SkyrimPrefs.ini file with a text editor (e.g. Notepad). Press CTRL+F and search for [Launcher]. It will probably say something like this:
+
+[Launcher]
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Add a new line to it which says:
+bEnableFileSelection=1
+
+It should now something like this:
+[Launcher]
+bEnableFileSelection=1
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Save it. Reload the Skyrim Launcher and you should now be able to select the DLCs you want."
+,grateful2tpb,2013-02-10T23:34Z,"WDoubleYouW, that worked! But didn't it install that way automatically?
+
+After I installed SKSE and SkyUI, that line disappeared and Data Files was greyed out again. I had to re-insert those lines. 
+
+I set SkyUI and the 3 DLCs to load. I do not know if the DLCs have loaded in game, but I have been able to set it in Data Files.
+
+One issue I've noticed is that Skyrim introduces one half-second lag when I move my mouse in in-game menus. Is that Skyrim or SkyUI's fault? It's annoying to use the menus. I don't think its because my computer is too slow.
+
+But thanks WDoubleYouW for excellent customer service. ;) You've gone the extra mile."
+,kvntvan,2013-02-11T00:07Z,"I'm sure the crashing is something wrong with my own system and not the torrent itself, follow the instructions above and it should work fine for most. 
+
+If anyone else gets it working and experiences random CTD's 1-3 minutes into playing, do tell."
+,WDoubleYouW,2013-02-11T06:03Z,"@grateful2tpb
+The mouse issue is a well-known problem that is generally fixed by a SkyrimPrefs.ini tweak.
+
+Open the SkyrimPrefs.ini (the same file we edited earlier), and search for bMouseAcceleration (located under [Controls]). Set it equal to 0. Save."
+,BFausto,2013-02-11T13:40Z,"Hi WDoubleYouW. Your walkthrough was very concise. But when I run the install fix as admnistrator, it tells me that I'm not running it as admnistrator. I am sure I am running it, since I am admnistrator, and I right click it, and press ""run as admnistrator"". So, is there someway you can help me, or it's just my computer who is a enourmous jerk? -.-"
+,WDoubleYouW,2013-02-11T14:33Z,"@BFausto
+
+If you mean this message: ""This tool require to be run in administrator mode, if you already have run it in admin mode or have admin rights then click OK!"" It always says that. It's simply a safeguard against those nutballs who don't follow instructions."
+,BFausto,2013-02-11T15:02Z,"Yes, it says that, I press OK, because I do know I'm on administrator, then I press Save, and it gives me an error, saying that it can't copy the ini file, and that I should do it as an administrator. Which makes me go ""-.- thanks for the tip, computer."""
+,BFausto,2013-02-11T15:16Z,"I click OK when it says that, but then it gives me an error, saying it couldn't copy the .ini file, and that I should run the fix as administrator. Since I am already running it as administrator, I don't know what else can be done."
+,BFausto,2013-02-11T15:16Z,"Sorry for the double post, I couldn't see the first one -.-"
+,WDoubleYouW,2013-02-11T17:28Z,"@BFausto
+That's odd. Can you open up SkyrimLauncher at all? If you can, is Data files greyed out? If it isn't, you probably are fine. If it is, follow the instructions I gave in my comment to grateful2tpb at 2013-02-10 22:08 CET. If the launcher gives you an error about not being able to find the ini file, do the following:
+
+1. Run TESV. Let it load up and then quit.
+2. Run SkyrimLauncher. It shouldn't error this time. 
+3. It may say Install at the top. If it does, click it. It will turn to Play if it's already finished that.
+4. If Data files is greyed out, add bEnableFileSelection=1 to the [Launcher] section as I described in a previous comment.
+5. Once that's all working, load the SkyrimLauncher, click Data, and select the DLCs you want to use.
+6. You should be good to go. Play."
+,babygotback,2013-02-11T17:36Z,so will this work on windows xp (basic skyrim runs fine) but since i see there is a need to install directx 11 i have worries...
+,BFausto,2013-02-11T18:12Z,"Thanks for the tips, but they were unnecessary. I have made a stupid mistake. Since my C: is full, I saved in D: and forgot to change the path in the fix -.-
+
+Now it runs smoothly. Or close to that, since my computer is a bit slow, but it is like that with all games xD
+
+And thanks again for the help."
+,WDoubleYouW,2013-02-11T18:50Z,"@babygotback
+Skyrim's system requirements don't necessarily require v11 of DirectX. Just make sure you have DirectX v9.0c for XP and you should be fine by skipping the v11 installation. I haven't tested this on XP, but you should be okay. You will receive errors about missing dll files related to directX if it doesn't work, but it should work."
+,h1vem1nd,2013-02-11T18:52Z,"@WDoubleYouW:
+Oi mate, no need to start insulting other TPBers. I understand you're a bit frustrated, but slipping petty insults into your more detailed instructions isn't the way to get downloaders to trust you. It just makes you come off as an angry kid.
+
+Tone it down a bit, and try to relax. It's just the internet."
+,WDoubleYouW,2013-02-11T20:11Z,"@h1vem1nd
+Uhm, the only guy that I really got mad at was DIYDeath, who insulted me by his comments. I think if you continue reading my comments, I have toned down. Those who ask nicely will get nice answers. Those who ask nastily will get nasty answers. That's simply the way it goes."
+,Warroad345,2013-02-12T19:44Z,luftg0man shut up nobody cares
+,kvntvan,2013-02-12T23:57Z,never change luftgoman. never stop. never change.
+,DatrixTSW,2013-02-13T01:07Z,I got this to play but after that it wouldn't go any further but I can't get past the intro screen the dragon just sits there. I mean the beginning when I hit new game. Is there something I am missing?
+,DatrixTSW,2013-02-13T01:16Z,ok the game itself when I click new game should not take 10 minutes to load up a friken new game...WTH?
+,WDoubleYouW,2013-02-13T03:23Z,"@DatrixTSW
+Your system evidently isn't powerful enough to play Skyrim.
+
+Recommended:
+Windows 7/Vista/XP PC (32 or 64 bit)
+Quad-core Intel or AMD CPU processor
+4GB System RAM
+6GB free HDD (Hard disk drive) space
+DirectX 9.0c compatible NVIDIA or AMD ATI video card with 1GB of RAM: Nvidia GeForce GTX 260 or higher; ATI Radeon HD 4890 or higher
+DirectX compatible sound card
+
+Minimum System Requirements
+Windows 7/Vista/XP PC (32 or 64 bit)
+Processor: Intel Dual Core 2.0GHz or equivalent processor (AMD Sempron @ 2.4 GHz)
+2GB System RAM
+6GB free HDD space
+Direct X 9.0c compliant video card with 512 MB of RAM
+DirectX compatible sound card"
+,isiv93,2013-02-14T06:45Z,"Thanks much for this, I appreciate it greatly "
+,Mr_Duck,2013-02-14T08:11Z,i wanna kiss whoever invented pain
+,Mr_Duck,2013-02-14T08:20Z,8kpbs holy heck wowe that is slow
+,WDoubleYouW,2013-02-14T13:53Z,"@Mr_Duck
+Really? 8kbps? I did a speed test and pretty much everybody was getting around 1mbps..."
+,timman183,2013-02-14T22:04Z,"Hey. I've gotten a few torrents before, but i'm having some problems with this one. I run it on Utorrent as normal but after it finishes when i go to open it nothing happens. Help? Sorry."
+,JaboiNuck,2013-02-14T22:35Z,"It keeps saying ""The Elder Scrolls V Skyrim Dragonborn has stopped working"" When I run the fix. How do I fix this?"
+,WDoubleYouW,2013-02-14T23:07Z,"@timman183
+You do know how to open 7zip archives I hope? Install 7zip or WinRAR and extract.
+
+@JaboiNuck
+Are you getting the message when you run TESV or when you're running the fix? Did you make sure you installed the VCRedist? Does your computer meet minimum system requirements or better?
+"
+,JaboiNuck,2013-02-15T02:34Z,HMmm
+,JaboiNuck,2013-02-15T02:35Z,"I don't know if I do or not, how do I check and see? It runs fine enough for me to mod my xbox 360 gamesave. I also get the error when trying to open the fix, not Skyrim. How do I check my system requirements and show you?"
+,WDoubleYouW,2013-02-15T03:03Z,"How are you modding your xbox360 gamesave on this, the pc version of the game? Does that mean the game loads up and just the fix isn't working? If so, can you activate the DLCs in the Launcher?
+
+As for System requirements, check here: http://www.uesp.net/wiki/Skyrim:System_Requirements
+
+If you don't know how to tell what kind of hardware you got, you can always try Speccy."
+,JaboiNuck,2013-02-15T22:56Z,hmmmm
+,JaboiNuck,2013-02-15T22:57Z,I'm still trying to figure out why the DLC won't work. The fix isn't opening. It just keeps saying what I said it was saying. Do I need to install Skyrim or get the real game?
+,JaboiNuck,2013-02-15T22:59Z,It won't let me type the rest of my message. Weird.
+,JaboiNuck,2013-02-15T23:04Z,how do i check the version of my Skyrim? Maybe thats it. Though I got mine from you.
+,JaboiNuck,2013-02-15T23:13Z,I went to properties and it says 1.3.22.0. I think that's the version? How do I update?
+,WDoubleYouW,2013-02-16T00:03Z,"@JaboiNuck
+The version 1.3.22.0 you're seeing is the SkyrimLauncher version number, not Skyrim's. You need to go to properties - details of TESV.exe to find out the real version number, which is 1.8.151.0.7.
+
+If you're not getting the DLCs, try this troubleshooting procedure:
+
+Go to your Documents folder. Enter the directory called ""My Games."" Then go into Skyrim. Now open the SkyrimPrefs.ini file with a text editor (e.g. Notepad). Press CTRL+F and search for [Launcher]. It will probably say something like this:
+
+[Launcher]
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Add a new line to it which says:
+bEnableFileSelection=1
+
+It should now something like this:
+[Launcher]
+bEnableFileSelection=1
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Save it. Reload the Skyrim Launcher and you should now be able to select the DLCs you want."
+,JaboiNuck,2013-02-16T00:38Z,"LOL I helped myself. I did everything on my own before I saw your comment and you're right. Here's what I did. I kept changing shit in the Skyrim folder located in my C drive Skyrim folder instead of My Games/Skyrim folder. I got there and just added Launcher/bEnableFileSelection=1 thingy but it already had Launcher in it, just not the ""bEnableFileSelection=1"" so I added that to it and bam. If I hadn't of gotten it and came here to your comment, I woulda had it then. Right on man. Unlike these other uploads, you respond on time and help. Good shit."
+,Marasz,2013-02-16T12:15Z,"Hello.
+
+I have bought the Steam version of Skyrim, would it be possible to transfer all the DLC into the Steam Skyrim folder and be able to play it online with trophies, friends etc somehow? 
+(without buying the DLC on Steam of course.)"
+,thexreaper,2013-02-16T13:43Z,"Hmm i seem to have a really weird problem,
+all the DLCs items, places, Npcs...
+All got a giant red question mark above them ...
+Is there anyway to fix this?
+
+Thanks"
+,WDoubleYouW,2013-02-16T17:31Z,"@Marasz
+To use the DLCs with Steam, you don't need this torrent, as this is the entire game, although you could rip them out of the Data folder. You should use:
+https://thepiratebay.sx/torrent/8108221 for Dragonborn
+https://thepiratebay.sx/torrent/7499137 for Dawnguard
+https://thepiratebay.sx/torrent/7699805 for Hearthfire
+https://thepiratebay.sx/torrent/8114627 for High Resolution Texture Pack
+
+Take the BSA/ESM/ESP files and insert them in Skyrim's Data Directory and activate them in the SkyrimLauncher.
+
+I'm not sure what you mean by trophies/friends and all, since this is a single player game.
+
+@thexreaper
+You must have done something wrong, probably in the extraction process or the download process. Force-recheck of the torrent and make sure you have the entire file. Then extract with 7-zip or WinRAR. Red question marks in-game are a sign of data corruption which are best fixed with a reinstall."
+,thexreaper,2013-02-16T19:16Z,"@WDoubleYouW
+Thanks, ill try reinstalling it.
+Oh when i used the Vcredist and Install fix it said that the file may be damaged and asked me to fix it. I didnt really think about that, so i guess ill need to redownload?"
+,WDoubleYouW,2013-02-16T21:14Z,"@thexreaper
+If the VCRedist and Install Fix said that they were damaged, it is likely that they weren't the only items affected. Therefore, I'd advise a redownload. However, if you want to give it a shot, the VCRedist is available from Microsoft here: https://www.microsoft.com/en-us/download/details.aspx?id=5555
+And the install fix is available here: https://thepiratebay.sx/torrent/8111368"
+,thexreaper,2013-02-16T21:48Z,"@WDoubleYouW
+Well i tried downloading them, and the VCR says i got a newer version of it.
+And the Install fix just says its damaged.
+I saw that you talked about this before,
+does it matter if the files are in program files or (84x)
+Because i got mine in (84x) for other stuff i use that needs it to be in (84x)
+
+Games seems to hate me, you have no idea the numbers of games that wont work for me...
+
+Thanks for all the help."
+,WDoubleYouW,2013-02-16T22:32Z,"@thexreaper
+It's normal for the VCRedist to be already installed, since it is require by a lot of programs. It's simply included for those who just might not have it installed. Same thing for DirectX.
+
+The install fix needs to know where you extracted Skyrim. Make sure you have it on the folder that TESV is in. You can have it in any directory if you do this."
+,thexreaper,2013-02-16T23:23Z,"@WDoubleYouW
+I know, i got the install fix ""Folder"" in the main Skyrim folder. I use it as admin and its set on program files so i change it to (84x) install it, it says everything works fine. When i close the install fix it says it may have not been installed in the proper manner.
+At first Skyrim worked just fine, but everything that from the DLCs isnt working... Well it is, but in the form of a giant red question mark.
+I tried redownloading it but when i try to install it, it still wont work.
+If i download the Dlcs and add them it wont make any problems? Because i had all the Dlcs before i just wanted to redownload everything because all the mods i used make Skyrim really slow, and now its really fast. 
+And your torrent saved me a lot of time because i cant find any dlcs, only dragonborn.
+Thanks again for everything."
+,WDoubleYouW,2013-02-17T03:16Z,"@thexreaper
+The problem is not the install fix. The install fix almost always throws that little pop-up from Windows asking if it was installed correctly. Don't worry about it.
+
+I can't tell what's wrong why you still have problems with question marks. Normally that's diagnosed as an installation problem. But if you can make it work another way, that's fine."
+,thexreaper,2013-02-17T14:48Z,"@WDoubleYouW
+I know that it pops up everytime, im not talking about that, when i close it, it gives me the same thing as the VCR.
+But i think its the VCR right now i got a warning says:
+Microsoft visual c++
+This appliction has requested to runtune to terminate it in an unusual way.
+Or something like that, it isnt the first time i got it.
+It says its usually comes up when something isnt fully compatible with windows.
+I really have no idea whats going on.
+Ill try downloading the DLCs from another torrent because all 3 worked for me before.
+If you know anything about my problem ill be grateful.
+
+Thanks for everything once again."
+,Jnporfirio,2013-02-18T00:31Z,"I'm with a problem on estract. 
+
+SkyrimDataSoundvoiceskyrim.esnmaleuniqueesbern
+
+Gives error everytime. i tried winrar, 7zip, winzip....
+
+Can you help me please?"
+,WDoubleYouW,2013-02-18T03:48Z,"@Jnporfirio
+What version are you using? I have no issues whatsoever, and I've used latest WinRAR and 7-zip. Perhaps you haven't finished your download. Try Force-rechecking it."
+,DatrixTSW,2013-02-18T04:00Z,"Ok this game worked once now all of a sudden when I try playing a new game the I can't hear any voices, THere is no animation since the horses aren't walking just hovering on the ground... When I reach helgen the horse blasts off and hits the door causing the whole game to turn around really fast and then we finally stop and then I see a big color streak  coming off the officers head who is bringing us to helgen and then the game freezes on me and shuts down...What I want to know is what I did wrong or what did go wrong with this? I tried reinstalling the game but the same thing happens.  Now I can no longer choose which mods load first.  The Dragon symbol in the beginning them of skyrim doesn't move around at all infact nothing moves they only hover an inch"
+,DatrixTSW,2013-02-18T04:35Z,Oh I am just remembering I forgot the admin priveldges on the Install Fix and everything else man I feel stupid now. Also one of my files that I had I believe it was ctd.exe or .dll went bad and I need chkdisk to fix that so I think it is fixed now
+,DatrixTSW,2013-02-18T04:49Z,Ok nevermind...I am gonna reinstall it...I tried to use Admin Priveledges for everything that didn't work all my saves became corrupt. So I deleted them...
+,DatrixTSW,2013-02-18T04:55Z,Nope it is still not fixed so I will reinstall once more if not then I don't know what to do because my computer specs say it can handle this game
+,WDoubleYouW,2013-02-18T06:54Z,"@DatrixTSW
+It sounds like you have physically damaged your harddrive somehow. Generally when the graphics goes all glitchy it's because your system cannot handle it."
+,Jnporfirio,2013-02-18T13:33Z,"@WDoubleYouW
+
+I tried, but tells the same error. I downloaded the Update 11 and copied the sound folder and the game is working perfect! Thank you for this version! :D"
+,DatrixTSW,2013-02-19T01:38Z,@WDoubleUW well if that is the case then why does my computer still work My computer still runs. Is there some software I can use to tell me if the HDD is not running at peak efficeincy?
+,DatrixTSW,2013-02-19T01:58Z,"@WDoubleUW 
+
+ It works I just deleted the legal copy TESVhdTex because it was the old version deleted my old saves from the game. Re-installed the game used the fixes with admin priveldges I installed the PB version of the HD Textures for skyrim and it all works now. I am a little slow when it comes to figuring stuff out but when I do figure it out I am satisfied. Sorry for the trouble I put you through"
+,thexreaper,2013-02-19T17:12Z,"Thanks for all the help and for uploading this
+I finally got it to work, no giant question marks.
+Thanks!"
+,slimjerky,2013-02-19T18:41Z,its saying on install fix i need too run in administrative mode? how do i do this!!!
+,slimjerky,2013-02-20T01:28Z,nevermind i figured it out
+,PlagueMachine,2013-02-22T14:32Z,"I'm having an issue where my controls are being reset to default every time i launch the game. not the most problematic bug, but it gets quite annoying. Any ideas on how to fix it?"
+,WDoubleYouW,2013-02-22T18:39Z,"@PlagueMachine
+There are several possibilities. Try this:
+
+1. Run TESV as administrator
+2. Load game and change the keys you want
+3. Make sure you see the little note that says ""Saving"" after you press ESC
+4. Save you game
+5. Quit and relaunch to see if the controls are as you set them. If they are, you're all set."
+,Gloodizzle,2013-02-23T09:45Z,"Hey Double.. you are fucking awesome bro. The amount of effort you put into helping people is legit and I appreciate the fuck out of you. I myself am having a small issue. Finished dling this torrent, ran the directx install, tried to run the install fix, ran into same issues a few others had, went into docs >my games >skyrimpref and added that code to the txt file.. that allowed me to run the launcher no problem and data was not greyed out, HOWEVER.. when I go into data I see no available DLC. I see the DLC files in my data directory in my skyrim folder, but like I said, no DLC appears to be showing in the data tab through the games launcher. Wat do brother!?"
+,WDoubleYouW,2013-02-23T12:48Z,"@Gloodizzle
+I've never had that problem, but try this:
+
+1. Go to users(your user account)AppDataLocalSkyrim
+2. There should be three text files in there:
+DLCList.txt
+loadorder.txt
+plugins.txt
+3. Make sure all three have this in it:
+Dawnguard.esm
+Dragonborn.esm
+Hearthfires.esm"
+,Konda1,2013-02-23T13:56Z,"I have the same problem as Gloodizzle.
+
+I see no DLC in the data files."
+,Konda1,2013-02-23T14:20Z,"Okay , I went to AppDataLocalSkyrim but I only found two text files :
+
+DLClist
+plugins
+
+There was no third text file.
+
+And what do you mean by : Make sure all three have this in it:
+Dawnguard.esm
+Dragonborn.esm
+Hearthfires.esm 
+
+You cannot insert those files into text files.
+"
+,Konda1,2013-02-23T14:53Z,"Ahh nevermind , I fixed by running install fix as an admin.
+
+I completely forgot about that.
+
+But I appreciate the help you are giving to the others. Most uploaders dont give a shit..."
+,WDoubleYouW,2013-02-23T15:16Z,"@Konda1
+LOL. You don't stick those files inside the text file! ROFL. You add a line of text that says that. Literally a text file with three lines:
+Dawnguard.esm
+Dragonborn.esm
+Hearthfires.esm"
+,gjuro,2013-02-23T19:05Z,"First of thanks WDoubleYouW for the upload and all the effort your putting in this. You should be awarded some skulls next to your name. I hope you can help me with my problem. I've done everything you said (hopefully)correctly. I can see all of dlcs under data files and they are checked. But when I run the game, nothing happens. The same old skyrim appears. I can't see any changes, like if i had never installed dlcs. Please help :)"
+,gjuro,2013-02-23T19:08Z,"*you're 
+sorry for the spam. i just couldn't stand that irritating typo :)"
+,DatrixTSW,2013-02-23T23:33Z,Could this work for steam or Do I have to do something else for that.
+,WDoubleYouW,2013-02-24T07:12Z,"@gjuro
+What level character are you? Most of the DLCs don't activate until you get a certain level. As far as I'm aware, if they're checked, they're there.
+
+Dawnguard activates at level 10
+Dragonborn activates after your first visit to the Greybeards is completed and you're in town (usually)."
+,WDoubleYouW,2013-02-24T07:16Z,"@DatrixTSW
+You don't need this for Steam, as this is the full game with the DLCs bundled all together in one package. Of course you could simply rip the DLCs out of this package and insert them into your Steam installation, but that's a lot of hassle. Get the DLCs here:
+https://thepiratebay.sx/torrent/8154169 for Dawnguard
+https://thepiratebay.sx/torrent/8151165 for Hearthfire
+https://thepiratebay.sx/torrent/8108221 for Dragonborn"
+,omgzelda,2013-02-25T03:21Z,"Installed, works perfectly! Takes a bit of patience to install it correctly but once you figure it out, its a great choice! Much love"
+,Volkh666,2013-02-25T15:01Z,Thanks for the torrent. Installed and works great however I can`t activate high resolution texture pack in the launcher. All DLCs are listed except high res pack. What should I do?
+,WDoubleYouW,2013-02-25T15:28Z,"@Volkh666
+I didn't include the High Resolution texture pack in this torrent, as it would have increased the size by 4 gb. If you want the High Resolution texture pack...
+1. Download it https://thepiratebay.sx/torrent/8114627
+2. Copy it into the Data directory
+3. Activate it in the launcher."
+,kylepc,2013-03-05T15:49Z,"The DLC's show up in my launcher but when i launch skyrim to play, it closes right after the bethesda logo :/ help please."
+,kylepc,2013-03-05T16:11Z,"also, i don't use any mods. "
+,kylepc,2013-03-05T16:44Z,"its a clean install btw, no mods."
+,Wywy83,2013-03-08T14:27Z,"My textures are fucked up, starting with the main menue logo."
+,Wywy83,2013-03-08T14:29Z,"No wait scratch that, there ain't any textures when I try playing the game !"
+,WDoubleYouW,2013-03-08T14:41Z,"@Wywy83
+It sounds like your graphics card isn't compatible. Please visit systemrequirements dot com to see what hardware you need to upgrade."
+,Wywy83,2013-03-08T16:54Z,"@WDoubleYouW
+Nope, fully compatible, already installed the game a few months ago but deleted it because I had too much games on my drives. Anyway problem was coming from the download, somehow when I unzipped it the textures didn't came out properly. Seems fixed now. Computer magic you may say !"
+,mcdubble,2013-03-09T02:28Z,i cant run the directxsetup. it says the file directory is corrupted. what did i do wrong?
+,WDoubleYouW,2013-03-09T04:55Z,"@mcdubble
+Try skipping this step, as you most likely have DirectX already installed and it is only included in case you don't."
+,Runner17,2013-03-10T21:09Z,"I downloaded this (thanks) and i cant access my data files and i have the enable file selection line in the prefs, so do i have to get to a certain point in the game where i can use the data files or something?"
+,WDoubleYouW,2013-03-11T03:59Z,"@Runner17
+Didn't you run the Install Fix successfully? No, you don't need to get a certain length in the game to activate Data files. There's a number of troubleshooting advice for these types of issues in the comments here,  so your problem is probably covered if you read some of them."
+,Joxn,2013-03-11T06:19Z,"Hello, I'm having trouble with the  Install fix step. Whenever I try to open it, or even run it as administer.  A couple windows pop-up telling me that I'm not running it in administer even though I am?"
+,WDoubleYouW,2013-03-11T12:45Z,"@Joxn
+Did you try reading the pop-up? The pop-up always comes up just to remind you that if you're not doing it right, it will not work."
+,Joxn,2013-03-11T13:49Z,"The first pop-up is basically just asking, and confirming that it's being opened with administrator.
+The second one is
+ ""Failed to copy the source INI file (C:Programfiles/Skyrim/The Elders Scrolls V Skyrim/ Skyrim/SkyrimPrefs.ini) destination INI file (C:Users/Gamer/Documents/My Games/Skyrim/SkyrimPrefs.ini). Make sure you have administrator rights when running this program! "" 
+Even though I've tried right-click ""Run as administrator"" And when in to the properties giving even un-administrator user ""Full access"" and tried opening normal, neither worked.
+The game works, I started it, but I closed it out during the intro talking scene once you start a new game because the Save section when pressing escape was grayed out. Also because of the installation fix thing none of the DLC are available to be checked."
+,WDoubleYouW,2013-03-11T18:17Z,"When you're still in the first intro dialogue scene, you won't be able to save until after the first Autosave, since it's still in the intro ""movie."" After that, you'll be able to save.
+
+To fix the problem where you can't select DLCs...
+
+Go to your Documents folder. Enter the directory called ""My Games."" Then go into Skyrim. Now open the SkyrimPrefs.ini file with a text editor (e.g. Notepad). Press CTRL+F and search for [Launcher]. It will probably say something like this:
+
+[Launcher]
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Add a new line to it which says:
+bEnableFileSelection=1
+
+It should now something like this:
+[Launcher]
+bEnableFileSelection=1
+bShowAllResolutions=1
+uLastAspectRatio=3
+
+Save it. Reload the Skyrim Launcher and you should now be able to select the DLCs you want."
+,Runner17,2013-03-11T23:06Z,sorry again to comment haha but i tried doing the install fix and i had the same problem as Joxn but then when i run as admin i get a 3rd message that says Register entries successfully generated but launcher variables could not be set
+,Joxn,2013-03-12T01:01Z,"I also get the third pop-up but didn't think that one mattered to mention. I just tried to look for the .ini file under, it wasn't there. The only .ini file was under The Elder Scrolls V folder. After changing it though it didn't help the problem I've been having with the Install fix program not working. 
+When I press the Skyrim Launcher now a pop-up appears and say's that the "".ini file is missing please re-install Skyrim"" But still let's the game start.
+Well it use to let me click the data file tab on the launcher before this, but whenever I would there would just be an empty window. None of the DLC were even there to be clicked or not."
+,Joxn,2013-03-12T01:08Z,Just a quick added question. How will it effect the game if I'm not able to use the Install fix program?
+,WDoubleYouW,2013-03-12T05:56Z,"Is there no ini files in the Documents --> My Games --> Skyrim folder? If so...
+
+1. Right-click TESV.exe and run as administrator
+2. Exit and check to see if the ini files have been generated
+3. If they haven't, try copying the Skyrim_default.ini in the main directory to the Documents --> My Games --> Skyrim folder and renaming it Skyrim.ini. Then copy the SkyrimPrefs.ini that you found in the Skyrim subdirectory and paste it at the same place.
+4. Load the game up once and exit
+5. Check to see if you now can select in Data files.
+
+If you cannot activate the DLCs in the Data section, you will not be able to play them."
+,Joxn,2013-03-12T06:33Z,"I'm sorry, I'm pretty bad with explaining this. Maybe this will help clear things slightly -> http://i.imgur.com/ZURln4E.jpg"
+,Joxn,2013-03-12T06:39Z,"I just retried the steps you said a third time, the DLC are available. I'm hoping that they will stay this way even if I after I close out the game.
+I'm sorry for the trouble, thank you for being so helpful."
+,Sh4d0w183,2013-03-12T09:26Z,It works PERFECT. Thx m8 xD
+,Runner17,2013-03-14T00:57Z,"I fixed it i had to go to the skyrim prefs in documents, my games, skyrim i just went to where i extracted the files well thanks this is a great download!"
+,scaar88,2013-03-14T20:45Z,"Hi guys, i just found how to fix the prob. after take 2 hour and i found the mistake that i make."
+,scaar88,2013-03-14T20:49Z,"1. After extract the file, we can see the path for folder like C:Program FilesThe Elder Scrolls V SkyrimThe Elder Scrolls V Skyrim. just make it to C:Program FilesThe Elder Scrolls V Skyrim.
+
+2. Open up your Windows® Regedit.
+Find this folder : HKEY_LOCAL_MACHINE/SOFTWARE/Bethesda Softworks/Skyrim
+Extra step: If that doesn't exist create it. Also create a new string value and rename it into ""Installed Path"".
+Make sure you set the string value by your skyrim installation directory.    
+example: C:Program FilesThe Elder Scrolls V Skyrim
+
+x64 bit users need to make that string in
+
+HKEY_LOCAL_MACHINESOFTWAREWow6432NodeBethesda SoftworksSkyrim
+
+
+make sure the path is like the 1st one. i just make it to C:Program FilesThe Elder Scrolls V Skyrim
+
+3. run skyrim installer fix again.and then start SkyrimLauncher.exe, wait a second, if it still doesnt appear, then click ""Play"" button.
+
+im sure it will solve your problem."
+,RavenousRaven,2013-03-15T04:27Z,Can you use dlc if you have the paid version of skyrim?
+,DeathNimrod,2013-03-15T11:48Z,"If you had them seperate, that'd be great."
+,Z7Z7L,2013-03-18T00:57Z,"i just finished downloading it and it works great, thanks.
+
+i have one quick question though, when i played skyrim cracked before it worked smooth for me in windowed mode, but now for some odd reason every 10 minutes or so into the game it starts to freeze and slow down like an fps drop, any ideas what might be causing it?
+i have all settings on minimum and use windowed mode. thanks in advance  "
+,WDoubleYouW,2013-03-20T03:02Z,"Update 12 released!
+https://thepiratebay.sx/torrent/8277294
+
+Will make a new complete torrent when I find time."
+,mattphat,2013-03-21T18:09Z,"How do I add the DLCs without the launcher? I've tried several different versions of the torrent, and I can never get the launcher to work, only the TESV.exe. Hell, I had to change the resolution through a fucking .ini file, there must be a way to enable these without the launcher? (Yes, I already tried google.)"
+,edembedem,2013-03-21T21:33Z,"Its working fine, without any problems :)
+Thanks a lot."
+,penele,2013-03-24T17:26Z,"To everyone having trouble, make sure that before you run the installer fix the directory is the same that you have put your The Elder Scrolls V Skyrim folder in. 
+
+For example if your Skyrim folder is in Program Files (x86)/The Elder Scrolls V Skyrim, make the directory in the installer fix is the same.
+
+When I first tried it, I was having the same error as you all, then I realized I had put the Skyrim folder into the (x86) version of Program Files and the Installer Fix had just the standard Program Files as a directory. I moved the SKyrim folder to the Program Files directory and it worked perfectly."
+,ThyD0ctor,2013-03-24T23:57Z,Download was a little funny. Other that that everything worked out perfectly fine! Game is up and running silky smooth.
+,WDoubleYouW,2013-03-26T03:16Z,"Update 13 runtime 1.9.32.0.8 released.
+
+https://thepiratebay.sx/torrent/8300814
+
+Currently compiling an updated version."
+,WDoubleYouW,2013-03-26T19:26Z,"Updated version of this finished.
+
+https://thepiratebay.sx/torrent/8304043"
+,Det0n8ted,2013-04-01T12:54Z,"NEEDING HELP
+First off, thanks for this awesome bundle. Downloaded quickly, the file is in (x86). But, it tells me the gile name is: Skyrim.Dawnguard.Hearthfire.Dragonborn.(1.8.151.0.7) And that the file type is: 7) File (.7))
+This has baffled me, as I cant extract, or literally do anything with the file, it is 6.15gb like it should. But other then that i cant do anything with it. Note I have only WinRar, the options regarding winrar are to archive or compress :/
+Please help ASAP, Thanks guys"
+,Det0n8ted,2013-04-01T13:08Z,"Update to last message ^ Tried 7Zip, it began extracting, all I got was a couple hundred errors (absolutely everything errored) and nothing happened whatsoever"
+,WDoubleYouW,2013-04-01T16:42Z,"@Det0n8ted
+I shall no longer support this old installation. Please refer to the new version here: https://thepiratebay.sx/torrent/8304043"
+,Aleth77,2013-04-19T20:12Z,"So I'm stuck on something that I haven't heard anyone else mention in the comments but everytime I start to extract the file either with 7zip or winrar it freezes the unzip process at about 2% or exactly 273MB extracted and then refuses to do anything else, I can't close either 7zip or winrar and then I'm only left with the option of doing a hard reboot by forcing my laptop to shut down. I'm running windows 7 64bit and I've tried extracting the files to several different locations all with the same result. Any ideas?"

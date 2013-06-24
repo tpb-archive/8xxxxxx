@@ -1,0 +1,9 @@
+IDRISI is an integrated geographic information system (GIS) and remote sensing software developed by Clark Labs at Clark University for the analysis and display of digital geospatial information. IDRISI is a PC grid-based system that offers tools for researchers and scientists engaged in analyzing earth system dynamics for effective and responsible decision making for environmental management, sustainable resource development and equitable resource allocation.
+
+Key features of IDRISI include:
+
+a complete GIS analysis package for basic and advanced spatial analysis, including tools for surface and statistical analysis, decision support, land change and prediction, and image time series analysis;
+
+a complete Image Processing system with extensive hard and soft classifers, including machine learning classifiers such as neural networks and classification tree analysis, as well as image segmentation for classification;
+
+integrated modeling environments including the Earth Trends Modeler for image time series of environmental trends and Land Change Modeler for land change analysis and prediction.

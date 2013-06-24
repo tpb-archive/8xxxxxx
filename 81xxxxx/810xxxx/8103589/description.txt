@@ -1,0 +1,58 @@
+Battlestar.Galactica.The.Face.Of.The.Enemy.webisodes.v3.720p.mkv
+version3, 33minute 53second, 653,759,047bytes
+720p RF21.5 2329Kbps AVC, 2.0 192Kbps AC-3
+
+bsg4you is happy to present v3 of The Face Of The Enemy webisodes from Battlestar Galactica in a single 33minute 53second file with improved video and audio quality in comparison to v2.
+
+The story is powerful, both Gaeta (Alessandro Juliani) and Sweet Eight (Grace Park) do great jobs and we finally find out what Baltar whispered into Gaeta's ear in the brig that made him attack Baltar. This is best viewed in between s4e11 and s4e12. Since the parts are all strung together some unneeded establishing shots were cut as were some overlapping clips.
+
+v3 improvements over v2:
+* The conversion from the flv files (AVC/AAC) to editable ts files (MPEG2/AC3) was done with FFcoder for v3 with much better results
+* Output from the MPEG2 editor was lossless for the video; no video re-encoding occurred with v3 so the video quality was maintained
+* Final video bitrate for v3 is 2329Kbps vs 1900Kbps for v2
+* All sound transitions were greatly improved in v3 since the audio was demuxed into its own track on 2 timelines. In v2 editing problems prevented demuxing.
+* Removed 1 corrupt and several duplicate frames (these bugs in the source are very hard to notice at 30fps)
+* Added about 2seconds of audio from a line-in capture of a different source so the music fades out instead of stopping suddenly like in the main source
+
+Technical notes:
+The source was 1600Kbps 720p so it doesn't look great for HD but it should look better than most/all other versions. Until The Face Of The Enemy is officially released or a higher quality is available on the Internet, The.Face.Of.The.Enemy.webisodes.v3 fanedit should be the highest quality option.
+
+Source:
+video: AVC, 1600Kbps, 1280x720 (16:9), 29.970fps, Main@L3.1
+audio: AAC, 94.8Kbps, 44.1KHz/22.05Khz, 2 channels
+
+FFcoder: convert Source files to Editing files, video/audio re-encoded
+
+Editing:
+video: MPEG2, 5821-7436Kbps, 1280x720 (16:9), 29.970fps, Main@High 1440
+audio: AC3, 192Kbps, 48.0KHz, 2 channels
+
+Editing Output: convert clips on 3 timelines to single file, video passthrough, audio re-encoded
+video: MPEG2, 6338Kbps, 1280x720 (16:9), 29.970fps, Main@High 1440
+audio: AC3, 192Kbps, 48.0KHz, 2 channels
+
+Handbrake: convert Editing Output to Final Output, video re-encoded, audio passthrough
+
+Final Output: RF=21.5
+Battlestar.Galactica.The.Face.Of.The.Enemy.webisodes.v3.720p.mkv
+video: AVC, 2329Kbps, 1280x720 (16:9), 29.970fps, High@L3.1
+audio: AC3, 192Kbps, 48.0Khz, 2 channels
+
+All testing of edits was done with PotPlayer multimedia player, both 32-bit and 64-bit can be downloaded at: 
+http://www.dvbsupport.net/download/index.php?act=view&id=230 
+http://www.dvbsupport.net/download/index.php?act=view&id=236
+
+If you like this release, please check out other bsg4you fanedits:
+
+Boomer.and.Chief.v01 nfo and torrent 
+https://www.nzbindex.com/nfo/79725874/ 
+https://thepiratebay.se/torrent/7915602/
+
+Athena.and.Helo.v2 nfo and torrent 
+https://www.nzbindex.com/nfo/76097569/ 
+https://thepiratebay.se/torrent/7807568/
+
+Other edits: 
+https://thepiratebay.se/user/bsg4you/
+
+Thanks! bsg4you

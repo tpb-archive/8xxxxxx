@@ -1,0 +1,65 @@
+Screens: 
+http://imageshack.us/a/img842/9835/familyguy095853.jpg 
+http://imageshack.us/a/img20/1353/familyguy095900.jpg 
+http://imageshack.us/a/img855/4244/familyguy095913.jpg 
+http://imageshack.us/a/img28/4564/familyguy095923.jpg
+
+Episode Synopsis:
+
+To buy new sneakers, Chris steals money from Lois' purse. When Meg catches him in the act, she forces him to do all of her chores in exchange for keeping her mouth shut. But Chris finally tires of the pact, and runs away to live with Herbert. Meanwhile, Stewie and Brian become obsessed with singer Anne Murray, and visit her to find out the true meaning of 'Snowbird'. 
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 36.0 MiB 
+Duration : 21mn 45s 
+Overall bit rate : 231 Kbps 
+Encoded date : UTC 2013-02-18 04:33:03 
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00 
+Writing library : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 4 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 21mn 45s 
+Width : 720 pixels 
+Height : 404 pixels 
+Display aspect ratio : 16:9 
+Frame rate mode : Constant 
+Frame rate : 23.976 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Writing library : x264 core
+Language : English 
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format profile : LC 
+Codec ID : A_AAC 
+Duration : 21mn 45s 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 44.1 KHz 
+Compression mode : Lossy 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Text (thanks "elderman")
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Language : English 
+Default : Yes 
+Forced : No

@@ -1,0 +1,87 @@
+CBC mini-series of "Prairie Giant - The Tommy Douglas Story".
+
+No longer available for purchase, new, as complaints about the portrayal of one of the Conservative politicians in the video were deemed inaccurate, so the optical discs were pulled from the shelves and no longer allowed to be sold in Canada.
+
+Storyline
+
+In 1930s Saskatchewan, a small town parish has a new young new pastor, Tommy Douglas. However, for all his regular duties, which include boxing lessons, Tommy sees the poverty and injustice around him which seem beyond his power to address with the pulpit. With that in mind, Douglas enters politics with the socialist Canadian Commonwealth Federation and starts a career where his steadfast idealism runs headlong into the powerful opposition of the rich and the powerful. Despite the long odds, Douglas' new calling would soon make him a leader that would transform Canada and have him hailed as the greatest Canadian of all. 
+ 
+http://www.imdb.com/title/tt0439404/
+ 
+http://en.wikipedia.org/wiki/Prairie_Giant
+
+
+General
+Unique ID                                : 211526413621114741457948761707249322612 (0x9F2281620972C9E5A2342367E9BACA74)
+Complete name                            : M:Prairie.Giant-The.Tommy.Douglas.StoryPrairie.Giant-The.Tommy.Douglas.Story.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.19 GiB
+Duration                                 : 2h 57mn
+Overall bit rate                         : 962 Kbps
+Encoded date                             : UTC 2012-11-10 21:23:38
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 57mn
+Nominal bit rate                         : 800 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.077
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:6:6 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=2pass / mbtree=1 / bitrate=800 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 57mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:15:10.876                             : en:Chapter 2
+00:27:13.898                             : en:Chapter 3
+00:44:17.921                             : en:Chapter 4
+00:59:56.359                             : en:Chapter 5
+01:14:53.655                             : en:Chapter 6
+01:27:19.167                             : en:Chapter 7
+01:27:19.634                             : en:Chapter 1
+01:40:35.395                             : en:Chapter 2
+01:55:14.574                             : en:Chapter 3
+02:06:50.869                             : en:Chapter 4
+02:20:48.606                             : en:Chapter 5
+02:40:13.770                             : en:Chapter 6
+

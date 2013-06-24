@@ -1,0 +1,225 @@
+﻿User Type,Username,Date,Text
+,B737CL,2013-02-16T14:12Z,"Hello is it any chance any of you guys could make a step by step TUTORIAL please!!
+
+Is getting so complex!
+
+Cheers 
+"
+,jeromepp,2013-02-16T15:26Z,I got an error message when tying tu unpack the rar...
+,jeromepp,2013-02-16T17:12Z,Ok the rar works... Thanks
+,glounk,2013-02-16T19:14Z,"thank you airbusflyer for the work, is there any link to a windows pc cycle.
+cheers."
+,Sysrec222,2013-02-17T19:50Z,"Hi,
+
+please help all of us, can somebody upload these files:
+
+* Enroute/db_a/store/appedoc_store_1.lock
+* Enroute/db_a/store/appenr_store_1.lock
+* Enroute/db_b/store/appedoc_store_1.lock
+* Enroute/db_b/store/appenr_store_1.lock
+
+In most of the torrents it is missing an that are the most important files. When these files are missing, the enroute page in JeppFD is blank. No enroute data is displayed.
+
+Please upload somebody!!
+
+Many thanx"
+,airbusflyer,2013-02-18T01:13Z,"@Sysrec222
+do it like in the Tutorial described @cycle 1303,1302 for IPAD. You may have to erase the app (JeppFD) but then it works. I'm actual using the 1303 and it works also without these files.
+
+Maybe the files you named are files which are personalized by Apple/Jeppesen and so it wouldn't may a good idea to make them public.
+
+Check the tutorial and it should work fine :) "
+,Sysrec222,2013-02-18T10:09Z,"@airbusflyer
+
+Hey man,
+
+I appreciate your help very much. I followed exactly(!!) the tutorials, but in the tutorials there is the one point, where I have to copy over these .lock files. I do not have any .lock files. I tried to download 1213 again an in this torrent (TPB) is no .lock file included.
+
+My experience is as it follows: 
+
+When I installed the jeppFD App new/clean and then copy the term charts including airportlist.bin, the the Termcharts are working fine. Also enroute data is displayed, but these are OLD enroute data, I guess they are stored somewhere in the .app section on the iPad. 
+
+In the ""data"" folder I have no Enroute or Enr folder, if it is clean installed.
+
+When I now copy the new ""Enroute"" folder to the data folder, enroute data is displayed no more. It is gone completely. If I delete this enroute folder, then the enroute data in JeppFD reappears, but it is again the old one.
+
+What I am doing wrong? I am using the app in DEMO mode. 
+
+I am sure, that many others experience exactly the same problem with the enroute data.
+
+
+My theory: jeppFD looks, if a folder named ""enroute"" is existing in data folder. If so, it looks for the .lock files. If they don't exist or do not match for the version, no enroute data is displayed.
+
+Agree?? Again the problem, I don t have these .lock files.
+
+Thanks!!!"
+,precursor1188,2013-02-18T17:01Z,"@sysrec222
+I looked into the store folder of 1214. The .lock files are there. When I look into 1304, there are no .lock files.
+So if your theory is correct. U should update with 1214. If it works then, update to the latest. I think the trick is not to delete anything but to copy the folders over.
+My current working 1304 has the .lock file dated Sep 2012."
+,Sysrec222,2013-02-18T21:28Z,"@precursor1188
+@airbusflyer
+
+Hi precursor1188,
+
+MANY THANKS for your hints. I would like to try it but the big problem is, 1214 is not available. There is no torrent alive with 1214. 
+
+Do you have a link to get it or would it be possible or reasonable to upload those .lock files from 1214 somewhere?? You would help so many people with that...
+
+Thanks again! Can't wait to enjoy my full JeppFD.
+
+Sysrec222"
+,Sysrec222,2013-02-18T21:52Z,"@all
+
+Unbelievable. I made it. Thanks for your efforts @precursor1188 and @airbusflyer
+
+!!!! "
+,Karlskrone,2013-02-18T23:48Z,For   P C       P L E A S E !!!   Thanks a lot !!!
+,B737CL,2013-02-19T09:39Z,"Hello to airbus,Sysrec222 ...
+
+Im experiencing the same trouble of Sysrec222  and i cant do much if those missing .lock file are so essential to let enr chart work!!!
+
+I couldn't fint in any file i down loaded and so i dont understant how ppl say i have 1203 and is working because i have the .lock file i down loaded many version like 1213,16,19,20 1303,04,01 and none of this version has got the .lock file if you guys have please can u shere it with us!!
+
+Peace"
+,B737CL,2013-02-20T07:44Z,"I found a big problem in this .lock file.....all of them are 0kb!! so this is why they can't be downloaded???why we cant downloaded??
+
+
+HELP HELP HELP!!"
+,B737CL,2013-02-20T08:26Z,"Hello Gents and flyer!!!!!!!!
+
+I DID IT!!! 
+
+I will write my procedures!!
+
+In all the file we down load the file .lock are 0KB because i think is something that JFD create upon registration or something so wht i did is the following....
+
+Ive first downloaded the Cycle 1304
+
+Than....
+STEP1
+go to...
+data/Enroute/db_a/store 
+
+STEP2
+find...
+appedoc_store_1.ind
+copy and paste it and rename it as appedoc_store_1.lock
+
+STEP3
+go to...
+data/Enroute/db_a/store 
+
+STEP4
+find...
+appenr_store_1.ind
+copy and paste it and rename it as appenr_store_1.lock
+
+DO THIS OPERATION ALSO FOR bd_b and you are done!!
+
+Karma and peace to every one hope you fly hips of hrs with this!!
+
+B73"
+,B737CL,2013-02-20T08:31Z,"Hello ppl gents and airman!!
+
+I did it!!!
+
+Follow this steps!
+
+STEP1
+go to...
+db_a/store 
+find...
+appedoc_store_1.ind and appenr_store_1.ind
+copy and paste it and rename it as: appedoc_store_1.lock and appenr_store_1.lock
+
+REPETE THE OPS to db_b/store also by copying this file from db_a!!
+
+Peace and KARMA to me!!!
+
+It fantastic!! I hope you fly lots of HRS with JFD now!!"
+,airbusflyer,2013-02-20T13:35Z,"@all
+one question concerning FD:
+I'm using iPad 1 32GB with jailbreak and iOS 5.1.1 . But sometimes the app is crashing or it takes a while to load. Also weather updates are sometimes rejecected because the slider goes to OFF.
+
+Does someone have the same with newer iPad? My thoughts are that iPad 1 is just to slow/not much power to handle that. We all know the newer versions 2/3 has new CPU which should be much better.
+
+Thanks."
+,AN-124,2013-02-21T21:30Z,thanksssss
+,B737Driver,2013-02-22T06:32Z,Thank you very much for the upload. Has anyone got any idea how to run these updates on JeppTC for Android?
+,precursor1188,2013-02-22T11:23Z,"@B777Cl
+Great discovery. Tested and it works! Thank You."
+,B737CL,2013-02-23T09:08Z,"@precursor1188!
+
+No problem!! It was challenging thou! but i tried for desperation!!
+
+Good luck to all and USE IT!!!! 
+
+This stuff are too bloody expensive!! "
+,powerslave_a320,2013-02-23T22:40Z,"Thank you mate! You're awesome!
+Does anyone know how to get rid of this annoying Activate/Demo screen while starting the app?
+
+Any guidelines or any link please?
+
+Cheers"
+,mgs4410,2013-02-25T12:50Z,"@B737CL
+Thank you.  You got enroute charts working for me after many frustrating attempts over the past six months."
+,glounk,2013-02-25T22:35Z,"thank you airbusflyer for the work, is there any link to a windows pc cycle.
+ cheers."
+,dementie,2013-03-02T17:09Z,"thank you, is there any link to a windows pc cycle.
+ thanks. "
+,zlozla,2013-03-03T15:50Z,"can someone upload a  JetPlanner by Jeppesen,please? 
+Some information is here 
+http://www.airlinesoftware.net/jetplanner!pid=991"
+,Villa777,2013-03-05T03:29Z,"B737cl
+You have to download ifunbox or iexplorer, then you go into the program once its download find jeppview app then go to documents.
+After you download the file 1304.rar unzip and copy to data on the jeppview , data.
+You set to fly "
+,JWRBlack,2013-03-05T09:39Z,"1305 for Ipad is here: rutracker dot org /forum/viewtopic.php?t=4364459
+
+In the comments are some links for files extracted from the ipad version you can use to update the pc version"
+,glounk,2013-03-07T15:00Z,"hey!!  here is the 1305 for pc but aint no codes.
+rutracker dot org/forum/viewtopic.php?t=4369648"
+,glounk,2013-03-07T15:05Z,FullWorldwide - 011PI43554 VFR Europe - 011PK43554 
+,A32F_TAM,2013-03-07T18:08Z,"Hi guys! How can I get from rutracker? I´m sorry, but It´s very difficult in Russian... Is it possible to anybody post 1305 IPAD here? Thank´s a lot!"
+,wb2lrs,2013-03-08T00:50Z,"Well, rutracker seems to display endless ad pages and other material, but never a download ...seems useless."
+,JWRBlack,2013-03-08T09:01Z,"Rutracker is great once you figure it out. To get access you need to have an account there. Signup is free, but it is all in Russian. I was able to figure it out by using a translate browser addon in FF. "
+,jlbernot,2013-03-09T14:02Z,como hago para buscar esta informacion org/forum/viewtopic.php?t=4369648
+,V1RotateV2,2013-03-10T12:28Z,"HEY GUYS! Finally I've been able to make run 1305 FULLY, VFR-enabled, under IOS 6.1.2 and app v2.0, using Diskaid v5.46!
+
+- Erase JEPP FD application and download it from APPLE store.
+- Open it once, without having updated anything.
+- Close it completely (with X)
+- Copy only TermCharts from 1305.
+- Erase 'Enroute' Charts folder (whatever you find in Documents)
+- Copy 'Enroute' Charts folder from 1213.
+- Copy OVER PREVIOUS FOLDER, Enroute Charts from 1305.
+- If you want to enable VFR Terminal Charts, create your own airportlist.bin file (need jepp.exe application and JeppView for Windows)
+- Overwrite the older airportlist.bin with newer one in TermCharts
+- Copy FROM ""C:ProgramData/Jeppesen/Common/TerminalCharts"" TO your IPAD folder ""JeppFD/Documents/data/TermCharts""
+theese files: vfrcharts.bin, vfrchrts.dbf, vfrntms.dbf and vfrntms.dbt.
+
+* Note 1: vfrcharts.bin must be writen in LOWERCASE letters, NOT IN CAPITALS.
+* Note 2: Google to find jepp.exe application and it's manual.
+
+Voila! FULL JeppFD ;-) "
+,flyedal,2013-03-10T17:28Z,"Anyone got an new airportlist.bin (1305) for IFR AND VFR? 
+V1rotateV2 could you please share yours!? 
+
+when i use airportlist.bin from cycle 1303 shared here, i got VFR only! 
+
+Any idea how to merge by myself? (Without JeppView & Jepp.exe)
+
+THX"
+,A32F_TAM,2013-03-10T21:24Z,Does Anybody have 1305 for IPAD? From Anonymus is not working. Thanks. :)
+,precursor1188,2013-03-11T07:52Z,"@flydal
+just google for airportlist.bin. get the #2 version. then you can download Jepp.exe and do it yourself."
+,flyedal,2013-03-11T09:43Z,"Thanks!!
+But it looks like there are no seeders (airportlist creator #2) avaiable anymore, no way to load the files... 
+If anyone could share please!? ;)
+
+THX"
+,sgamd87,2013-03-13T21:54Z,http://thepiratebay.sx/torrent/8253760
+,sgamd87,2013-03-13T22:02Z,"airportlist.bin 1305
+
+http://thepiratebay.sx/torrent/8253760"

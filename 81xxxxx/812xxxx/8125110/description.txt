@@ -1,0 +1,46 @@
+Zygor Guides update 4.0.5839, released February 8th, 2013. (Horde and Alliance)
+
+
+
+Install instuctions:
+
+Extract the .zip, drop the ZygorGuidesViewer folder into your C:/Program Files (x86)/World of Warcraft/Interface/Addons folder and overwrite the current installation (if any).
+
+
+
+Patch notes for latest version(s):
+
+
+Version: 4.0.5839
+Released on: February 8th, 2013
+Guide Viewer
+* Fix: LibRover now loads entirely as it should, travel should work again.
+* Plural for "Mogu" and "mogu" is no longer "mogus".
+
+Daily Guides
+* Golden Lotus quest Lost Scouts isn't auto-complete anymore.
+Version: 4.0.5837
+Released on: February 8th, 2013
+[B] Leveling
+Fixed Zul'drak Loremaster not giving the achievement
+
+[H] Reputations/Dailies
+Fixed the Sons of Hodir questline
+
+[B] Reputations/Dailies
+Fixed issues where players were getting quests they did not have access to
+
+[A] Professions
+Fixed an issue in the skinning guide that was causing confusion
+
+[Travel]
+Shrine of Seven Stars will now have appropriate text when entering/exiting the city.
+Fixed an error that allowed taxis to attempt to fly to unknown flight paths.
+Flame Crest flightpoint is now correctly Horde only
+
+[B] Achievements / Includes
+Added some prequest includes.
+Added prequests to several guides that were missing them.
+
+[B] General
+Fixed parsing errors in several guides.

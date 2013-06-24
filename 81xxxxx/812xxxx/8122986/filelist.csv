@@ -1,0 +1,779 @@
+﻿Filename,Size,Unit
+Nethergate.exe,10.09,M
+SAVE1/backup.sav,1.75,M
+SAVE1/nethergate.sav,1.75,M
+Data/Celt Data/Celt Data.dat,1.34,M
+Data/Roman Data/Roman Data.dat,1.26,M
+Data/Shared Data/Shared Data.dat,967.73,K
+Data/Outdoor Data/Outdoor Data.dat,695.99,K
+Data/3005.bmp,469.8,K
+Data/7000.bmp,469.8,K
+Data/3003.bmp,469.8,K
+Data/3006.bmp,305.27,K
+Data/5407.bmp,245.2,K
+Data/5401.bmp,245.2,K
+Data/5405.bmp,245.2,K
+Data/5403.bmp,245.2,K
+Data/5100.bmp,245.2,K
+Data/5404.bmp,245.2,K
+Data/5101.bmp,245.2,K
+Data/5102.bmp,245.2,K
+Data/5402.bmp,245.2,K
+Data/5406.bmp,245.2,K
+Data/5105.bmp,245.2,K
+Data/5408.bmp,245.2,K
+Data/5409.bmp,245.2,K
+Data/5104.bmp,245.2,K
+Data/5103.bmp,245.2,K
+Data/908.bmp,245.19,K
+Data/801.bmp,228.05,K
+Data/1833.bmp,194.77,K
+Data/1828.bmp,194.77,K
+Data/1832.bmp,194.77,K
+Data/1831.bmp,194.77,K
+Data/1830.bmp,194.77,K
+Data/1829.bmp,194.77,K
+Data/1806.bmp,194.77,K
+Data/1801.bmp,194.77,K
+Data/1834.bmp,194.77,K
+Data/1835.bmp,194.77,K
+Data/1836.bmp,194.77,K
+Data/1805.bmp,194.77,K
+Data/1837.bmp,194.77,K
+Data/1803.bmp,194.77,K
+Data/1802.bmp,194.77,K
+Data/1807.bmp,194.77,K
+Data/1838.bmp,194.77,K
+Data/1822.bmp,194.77,K
+Data/1825.bmp,194.77,K
+Data/1839.bmp,194.77,K
+Data/1808.bmp,194.77,K
+Data/1809.bmp,194.77,K
+Data/1810.bmp,194.77,K
+Data/1811.bmp,194.77,K
+Data/1824.bmp,194.77,K
+Data/1827.bmp,194.77,K
+Data/1826.bmp,194.77,K
+Data/1823.bmp,194.77,K
+Data/1819.bmp,194.77,K
+Data/1821.bmp,194.77,K
+Data/1820.bmp,194.77,K
+Data/1814.bmp,194.77,K
+Data/1800.bmp,194.77,K
+Data/1815.bmp,194.77,K
+Data/1813.bmp,194.77,K
+Data/1817.bmp,194.77,K
+Data/1816.bmp,194.77,K
+Data/1818.bmp,194.77,K
+Data/1812.bmp,194.76,K
+Data/1804.bmp,194.39,K
+Data/903.bmp,185.19,K
+Data/4900.bmp,180.05,K
+Data/1701.bmp,167.68,K
+Data/corescendata2.txt,142.78,K
+Data/815.bmp,134.38,K
+steam_api.dll,117.79,K
+Data/Roman Data/t1Shadow Valldlg.txt,117.31,K
+Data/5301.bmp,114.73,K
+Data/5302.bmp,114.73,K
+Data/5300.bmp,114.73,K
+Data/790.bmp,104.77,K
+Data/602.bmp,104.77,K
+Data/600.bmp,104.77,K
+Data/603.bmp,104.77,K
+Data/601.bmp,104.68,K
+Data/604.bmp,104.54,K
+Data/605.bmp,104.26,K
+Data/Celt Data/t30Nethergatedlg.txt,103.96,K
+Data/810.bmp,98.68,K
+Data/806.bmp,82.87,K
+Data/1403.bmp,79.87,K
+Data/1404.bmp,79.05,K
+Data/3001.bmp,77.52,K
+Data/805.bmp,74,K
+Data/804.bmp,72.89,K
+Data/1405.bmp,68.43,K
+Data/1702.bmp,65.86,K
+Data/5201.bmp,62.58,K
+Data/5203.bmp,62.58,K
+Data/5202.bmp,62.07,K
+Data/5200.bmp,61.97,K
+Data/corescendata.txt,59.68,K
+Data/257.bmp,59.65,K
+Data/254.bmp,59.65,K
+Data/1506.bmp,56.93,K
+Data/1503.bmp,56.93,K
+Data/1575.bmp,56.93,K
+Data/1591.bmp,56.93,K
+Data/1588.bmp,56.93,K
+Data/1587.bmp,56.93,K
+Data/1593.bmp,56.93,K
+Data/1590.bmp,56.93,K
+Data/1594.bmp,56.93,K
+Data/1505.bmp,56.93,K
+Data/1504.bmp,56.93,K
+Data/1500.bmp,56.93,K
+Data/1501.bmp,56.93,K
+Data/1576.bmp,56.93,K
+Data/1502.bmp,56.93,K
+Data/1595.bmp,56.93,K
+Data/1509.bmp,56.93,K
+Data/1512.bmp,56.93,K
+Data/1560.bmp,56.93,K
+Data/1525.bmp,56.93,K
+Data/1510.bmp,56.93,K
+Data/1511.bmp,56.93,K
+Data/1513.bmp,56.93,K
+Data/1526.bmp,56.93,K
+Data/1529.bmp,56.93,K
+Data/1530.bmp,56.93,K
+Data/1531.bmp,56.93,K
+Data/1517.bmp,56.93,K
+Data/1518.bmp,56.93,K
+Data/1520.bmp,56.93,K
+Data/1522.bmp,56.93,K
+Data/1523.bmp,56.93,K
+Data/1524.bmp,56.93,K
+Data/1532.bmp,56.93,K
+Data/1559.bmp,56.93,K
+Data/1508.bmp,56.93,K
+Data/1577.bmp,56.93,K
+Data/1514.bmp,56.93,K
+Data/1592.bmp,56.93,K
+Data/1610.bmp,56.93,K
+Data/1704.bmp,55.37,K
+Data/606.bmp,53,K
+Data/607.bmp,52.78,K
+Data/803.bmp,51.84,K
+Data/820.bmp,50.44,K
+Data/821.bmp,50.44,K
+Data/4901.bmp,49.05,K
+Data/809.bmp,47.98,K
+Data/907.bmp,46.62,K
+Data/5075.bmp,45.12,K
+Data/5072.bmp,45.12,K
+Data/5026.bmp,45.12,K
+Data/5027.bmp,45.12,K
+Data/5028.bmp,45.12,K
+Data/5024.bmp,45.12,K
+Data/5029.bmp,45.12,K
+Data/5023.bmp,45.12,K
+Data/5065.bmp,45.12,K
+Data/5030.bmp,45.12,K
+Data/5021.bmp,45.12,K
+Data/5056.bmp,45.12,K
+Data/5057.bmp,45.12,K
+Data/5020.bmp,45.12,K
+Data/5058.bmp,45.12,K
+Data/5019.bmp,45.12,K
+Data/5018.bmp,45.12,K
+Data/5069.bmp,45.12,K
+Data/5068.bmp,45.12,K
+Data/5004.bmp,45.12,K
+Data/5017.bmp,45.12,K
+Data/5001.bmp,45.12,K
+Data/5067.bmp,45.12,K
+Data/5000.bmp,45.12,K
+Data/5059.bmp,45.12,K
+Data/5007.bmp,45.12,K
+Data/5074.bmp,45.12,K
+Data/5002.bmp,45.12,K
+Data/5022.bmp,45.12,K
+Data/5016.bmp,45.12,K
+Data/5015.bmp,45.12,K
+Data/5076.bmp,45.12,K
+Data/5061.bmp,45.12,K
+Data/5062.bmp,45.12,K
+Data/5063.bmp,45.12,K
+Data/5064.bmp,45.12,K
+Data/5080.bmp,45.12,K
+Data/5006.bmp,45.12,K
+Data/5066.bmp,45.12,K
+Data/5003.bmp,45.12,K
+Data/5071.bmp,45.12,K
+Data/5073.bmp,45.12,K
+Data/5010.bmp,45.12,K
+Data/5070.bmp,45.12,K
+Data/5014.bmp,45.12,K
+Data/5013.bmp,45.12,K
+Data/5012.bmp,45.12,K
+Data/5011.bmp,45.12,K
+Data/5025.bmp,45.12,K
+Data/5009.bmp,45.12,K
+Data/5005.bmp,45.12,K
+Data/5078.bmp,45.12,K
+Data/5008.bmp,45.12,K
+Data/5077.bmp,45.12,K
+Data/5060.bmp,44.18,K
+Data/5083.bmp,44.18,K
+Data/5087.bmp,44.18,K
+Data/5085.bmp,44.18,K
+Data/5081.bmp,44.18,K
+Data/5082.bmp,44.18,K
+Data/5084.bmp,44.18,K
+Data/5086.bmp,44.18,K
+Data/5079.bmp,44.18,K
+Data/1.bmp,40.7,K
+Data/2000.bmp,39.2,K
+Data/Shared Data/t16Hollow Hildlg.txt,37.16,K
+Data/5460.bmp,36.65,K
+Data/Roman Data/t17Vanariumdlg.txt,36.61,K
+Data/1598.bmp,35.93,K
+Data/1570.bmp,35.93,K
+Data/1572.bmp,35.93,K
+Data/1597.bmp,35.93,K
+Data/1645.bmp,35.93,K
+Data/1567.bmp,35.93,K
+Data/1566.bmp,35.93,K
+Data/1565.bmp,35.93,K
+Data/1644.bmp,35.93,K
+Data/1643.bmp,35.93,K
+Data/1642.bmp,35.93,K
+Data/1641.bmp,35.93,K
+Data/1640.bmp,35.93,K
+Data/1639.bmp,35.93,K
+Data/1637.bmp,35.93,K
+Data/1555.bmp,35.93,K
+Data/1528.bmp,35.93,K
+Data/1635.bmp,35.93,K
+Data/1552.bmp,35.93,K
+Data/1634.bmp,35.93,K
+Data/1578.bmp,35.93,K
+Data/1632.bmp,35.93,K
+Data/1527.bmp,35.93,K
+Data/1621.bmp,35.93,K
+Data/1620.bmp,35.93,K
+Data/1545.bmp,35.93,K
+Data/1619.bmp,35.93,K
+Data/1617.bmp,35.93,K
+Data/1616.bmp,35.93,K
+Data/1615.bmp,35.93,K
+Data/1540.bmp,35.93,K
+Data/1612.bmp,35.93,K
+Data/1582.bmp,35.93,K
+Data/1609.bmp,35.93,K
+Data/1608.bmp,35.93,K
+Data/1607.bmp,35.93,K
+Data/1534.bmp,35.93,K
+Data/1550.bmp,35.93,K
+Data/1606.bmp,35.93,K
+Data/1605.bmp,35.93,K
+Data/1603.bmp,35.93,K
+Data/1600.bmp,35.93,K
+Data/1648.bmp,35.93,K
+Data/1583.bmp,35.93,K
+Data/1589.bmp,35.93,K
+Data/1649.bmp,35.93,K
+Data/1562.bmp,35.93,K
+Data/1450.bmp,35.93,K
+Data/1585.bmp,35.93,K
+Data/1633.bmp,35.93,K
+Data/1453.bmp,35.93,K
+Data/1631.bmp,35.93,K
+Data/1536.bmp,35.93,K
+Data/1630.bmp,35.93,K
+Data/1539.bmp,35.93,K
+Data/1541.bmp,35.93,K
+Data/1628.bmp,35.93,K
+Data/1547.bmp,35.93,K
+Data/1627.bmp,35.93,K
+Data/1549.bmp,35.93,K
+Data/1451.bmp,35.93,K
+Data/1507.bmp,35.93,K
+Data/1571.bmp,35.93,K
+Data/1574.bmp,35.93,K
+Data/1579.bmp,35.93,K
+Data/1581.bmp,35.93,K
+Data/1586.bmp,35.93,K
+Data/1638.bmp,35.93,K
+Data/1596.bmp,35.93,K
+Data/1614.bmp,35.93,K
+Data/1584.bmp,35.93,K
+Data/1629.bmp,35.93,K
+Data/1599.bmp,35.93,K
+Data/1564.bmp,35.92,K
+Data/1548.bmp,35.92,K
+Data/1568.bmp,35.92,K
+Data/1535.bmp,35.92,K
+Data/1622.bmp,35.92,K
+Data/1618.bmp,35.92,K
+Data/1521.bmp,35.92,K
+Data/1647.bmp,35.92,K
+Data/1537.bmp,35.9,K
+Data/1604.bmp,35.89,K
+Data/1542.bmp,35.86,K
+Data/1400.bmp,35.86,K
+Data/1601.bmp,35.85,K
+Data/1602.bmp,35.85,K
+Data/1516.bmp,35.8,K
+Data/1543.bmp,35.77,K
+Data/1515.bmp,35.75,K
+Data/1613.bmp,35.73,K
+Data/1553.bmp,35.71,K
+Data/1626.bmp,35.7,K
+Data/1580.bmp,35.66,K
+Data/1569.bmp,35.66,K
+Data/1544.bmp,35.66,K
+Data/1557.bmp,35.58,K
+Data/1519.bmp,35.57,K
+Data/1452.bmp,35.52,K
+Data/1636.bmp,35.51,K
+Data/Celt Data/t12Faerie Bazdlg.txt,35.5,K
+Data/1561.bmp,35.47,K
+Data/1563.bmp,35.46,K
+Data/Celt Data/t17Vanariumdlg.txt,35.45,K
+Data/1573.bmp,35.43,K
+Data/1646.bmp,35.41,K
+Data/1556.bmp,35.41,K
+Data/1546.bmp,35.4,K
+Data/1538.bmp,35.38,K
+Data/1623.bmp,35.27,K
+Data/1551.bmp,35.21,K
+Data/1611.bmp,35.21,K
+Data/1625.bmp,35.1,K
+Data/1558.bmp,35.07,K
+Data/1554.bmp,35.04,K
+Data/1533.bmp,35.01,K
+Data/1624.bmp,34.99,K
+Data/Shared Data/t10Vale of th.txt,33.81,K
+Data/Celt Data/t30Nethergate.txt,33.63,K
+Data/Roman Data/t12Faerie Bazdlg.txt,32.64,K
+Data/Celt Data/t14Upper Goag.txt,30.08,K
+Data/Celt Data/t19Castle Aet.txt,30.04,K
+Data/685.bmp,29.95,K
+Data/687.bmp,29.78,K
+Data/688.bmp,29.78,K
+Data/686.bmp,29.78,K
+Data/681.bmp,29.78,K
+Data/682.bmp,29.78,K
+Data/683.bmp,29.78,K
+Data/689.bmp,29.78,K
+Data/684.bmp,29.78,K
+Data/680.bmp,29.77,K
+Data/256.bmp,29.6,K
+Data/1407.bmp,28.9,K
+Data/253.bmp,28.89,K
+Data/854.bmp,27.97,K
+Data/Celt Data/t16Bottom of .txt,27.7,K
+Data/731.bmp,27.33,K
+Data/620.bmp,27.33,K
+Data/797.bmp,27.33,K
+Data/730.bmp,27.33,K
+Data/796.bmp,27.33,K
+Data/795.bmp,27.33,K
+Data/793.bmp,27.33,K
+Data/789.bmp,27.33,K
+Data/749.bmp,27.33,K
+Data/744.bmp,27.33,K
+Data/709.bmp,27.33,K
+Data/785.bmp,27.33,K
+Data/617.bmp,27.33,K
+Data/743.bmp,27.33,K
+Data/700.bmp,27.33,K
+Data/701.bmp,27.33,K
+Data/742.bmp,27.33,K
+Data/741.bmp,27.33,K
+Data/780.bmp,27.33,K
+Data/778.bmp,27.33,K
+Data/773.bmp,27.33,K
+Data/769.bmp,27.33,K
+Data/610.bmp,27.33,K
+Data/767.bmp,27.33,K
+Data/618.bmp,27.33,K
+Data/614.bmp,27.33,K
+Data/764.bmp,27.33,K
+Data/763.bmp,27.33,K
+Data/762.bmp,27.33,K
+Data/761.bmp,27.33,K
+Data/760.bmp,27.33,K
+Data/613.bmp,27.33,K
+Data/758.bmp,27.33,K
+Data/757.bmp,27.33,K
+Data/752.bmp,27.33,K
+Data/704.bmp,27.33,K
+Data/726.bmp,27.33,K
+Data/713.bmp,27.33,K
+Data/708.bmp,27.33,K
+Data/705.bmp,27.33,K
+Data/707.bmp,27.33,K
+Data/720.bmp,27.33,K
+Data/740.bmp,27.33,K
+Data/722.bmp,27.33,K
+Data/723.bmp,27.33,K
+Data/702.bmp,27.33,K
+Data/728.bmp,27.33,K
+Data/716.bmp,27.33,K
+Data/703.bmp,27.33,K
+Data/721.bmp,27.33,K
+Data/725.bmp,27.33,K
+Data/706.bmp,27.33,K
+Data/724.bmp,27.33,K
+Data/788.bmp,27.32,K
+Data/766.bmp,27.32,K
+Data/781.bmp,27.32,K
+Data/768.bmp,27.32,K
+Data/786.bmp,27.32,K
+Data/782.bmp,27.32,K
+Data/719.bmp,27.32,K
+Data/718.bmp,27.32,K
+Data/717.bmp,27.32,K
+Data/783.bmp,27.32,K
+Data/750.bmp,27.32,K
+Data/751.bmp,27.32,K
+Data/787.bmp,27.32,K
+Data/711.bmp,27.32,K
+Data/727.bmp,27.32,K
+Data/1402.bmp,27.02,K
+Data/714.bmp,26.98,K
+Data/784.bmp,26.96,K
+Data/608.bmp,26.95,K
+Data/612.bmp,26.93,K
+Data/739.bmp,26.84,K
+Data/609.bmp,26.82,K
+Data/710.bmp,26.79,K
+Data/715.bmp,26.73,K
+Data/615.bmp,26.72,K
+Data/616.bmp,26.69,K
+Data/619.bmp,26.69,K
+Data/759.bmp,26.69,K
+Data/611.bmp,26.66,K
+Data/765.bmp,26.43,K
+Data/1408.bmp,26.39,K
+Data/807.bmp,26.37,K
+Data/Roman Data/t27Spire of A.txt,25.84,K
+Data/Celt Data/t16Bottom of dlg.txt,25.37,K
+Data/Celt Data/t8Crone Caver.txt,25.25,K
+Data/Shared Data/t4Maze of Webdlg.txt,25.18,K
+Data/252.bmp,24.87,K
+Data/Celt Data/t20Castle Aet.txt,24.36,K
+Data/Shared Data/t11Jagged Aer.txt,24.35,K
+Data/905.bmp,24.33,K
+Data/904.bmp,24.33,K
+Data/906.bmp,24.33,K
+Data/251.bmp,24,K
+Data/Celt Data/t25Halls of t.txt,23.98,K
+Data/Roman Data/t20Castle Aet.txt,23.98,K
+Data/Shared Data/t12Pit of Rep.txt,23.88,K
+Data/816.bmp,23.84,K
+Data/690.bmp,23.47,K
+Data/255.bmp,23.42,K
+Data/Roman Data/t1Shadow Vall.txt,22.91,K
+Data/Shared Data/t1Burial Glen.txt,22.31,K
+Data/Roman Data/t19Castle Aet.txt,22.28,K
+Data/Roman Data/t25Halls of t.txt,22.23,K
+Data/Shared Data/t8Under Gobli.txt,21.98,K
+Data/Celt Data/t12Faerie Baz.txt,21.69,K
+Data/Roman Data/t16Bottom of .txt,21.55,K
+Data/Roman Data/t26The Spire .txt,21.49,K
+Data/Celt Data/Celt Data.txt,21.21,K
+Data/250.bmp,21.17,K
+Data/Celt Data/t29Top of the.txt,21.12,K
+Data/Shared Data/t69warren.txt,21.01,K
+Data/Roman Data/Roman Data.txt,20.82,K
+Data/Shared Data/o22Spire Wood.txt,20.61,K
+Data/Roman Data/t8Crone Caver.txt,20.49,K
+Data/Celt Data/t6Under Ruine.txt,20.4,K
+Data/Celt Data/t10Temple of .txt,20.29,K
+Data/Shared Data/t5Galag Trav.txt,19.99,K
+Data/Celt Data/t27Spire of A.txt,19.94,K
+Data/Shared Data/t70halllamp.txt,19.54,K
+Data/Celt Data/t26The Spire .txt,19.47,K
+Data/Roman Data/t6Under Ruine.txt,19.19,K
+Data/Roman Data/t8Crone Caverdlg.txt,19.19,K
+Data/Celt Data/t11Under Temp.txt,19.01,K
+Data/Celt Data/t25Halls of tdlg.txt,18.63,K
+Data/Shared Data/t18Under Hagf.txt,18.51,K
+Data/Celt Data/t15Under Goag.txt,18.48,K
+Data/Shared Data/o42Eastern Wa.txt,18.47,K
+Data/Shared Data/o32Near Ruine.txt,18.33,K
+Data/Shared Data/o02Near Vanar.txt,18.23,K
+Data/Roman Data/t14Goagh Nar.txt,17.88,K
+Data/Celt Data/t22Valleys of.txt,17.87,K
+Data/Shared Data/o11Northweste.txt,17.64,K
+Data/Celt Data/t5Ruined Hall.txt,17.2,K
+Data/Roman Data/t12Faerie Baz.txt,17.09,K
+Data/Shared Data/t0Abandoned M.txt,17.03,K
+Data/732.bmp,16.86,K
+Data/Shared Data/t9Far Below G.txt,16.85,K
+Data/Shared Data/o04Southweste.txt,16.84,K
+Data/Celt Data/t18Castle Aet.txt,16.81,K
+Data/Roman Data/t18Castle Aet.txt,16.81,K
+Data/1700.bmp,16.79,K
+Data/Shared Data/o24Hagfen.txt,16.41,K
+Data/Celt Data/t20Castle Aetdlg.txt,16.4,K
+Data/Shared Data/t17Hagfendlg.txt,16.38,K
+Data/Celt Data/t24Annwn Spir.txt,16.34,K
+Data/Celt Data/t9Under Crone.txt,16.28,K
+Data/Shared Data/t6Under Galag.txt,16.28,K
+Data/814.bmp,16.23,K
+Data/Shared Data/o21Northern S.txt,15.5,K
+Data/Shared Data/o30Near Gobli.txt,15.49,K
+Data/Shared Data/o44Near Shado.txt,15.45,K
+Data/Celt Data/t10Temple of dlg.txt,15.23,K
+Data/Roman Data/t22Valleys of.txt,15.22,K
+Data/Roman Data/t11Under Temp.txt,15.11,K
+Data/Shared Data/t16Hollow Hil.txt,15.03,K
+Data/Roman Data/t19Castle Aetdlg.txt,14.65,K
+Data/Roman Data/t14Goagh Nardlg.txt,14.31,K
+Data/Roman Data/t15Under Goag.txt,14.3,K
+Data/Shared Data/o20Northern S.txt,14.24,K
+Data/Shared Data/o31Blackfang .txt,14.16,K
+Data/Celt Data/t23Annwn Batt.txt,14.14,K
+Data/Shared Data/t3Abandoned M.txt,14.12,K
+Data/Roman Data/t13Under Faer.txt,14.08,K
+Data/Shared Data/o00NorthWest .txt,14.08,K
+Data/Celt Data/t13Under Faer.txt,14.06,K
+Data/800.bmp,13.81,K
+Data/Shared Data/t7Goblin Pits.txt,13.58,K
+Data/Shared Data/o40Near Nethe.txt,13.31,K
+Data/Roman Data/t24Annwn Spirdlg.txt,13.29,K
+Data/Shared Data/t14Maze of Th.txt,13.27,K
+Data/Shared Data/o33SouthEaste.txt,13.17,K
+Data/Shared Data/o03Great West.txt,13.08,K
+Data/Roman Data/t10Temple of .txt,12.97,K
+Data/Shared Data/o23Southern S.txt,12.94,K
+Data/Shared Data/o34Southeaste.txt,12.79,K
+Data/Roman Data/t23Annwn Batt.txt,12.78,K
+Data/Celt Data/t17Vanarium.txt,12.69,K
+Data/Shared Data/t2Abandoned M.txt,12.68,K
+Data/Roman Data/t29Top of the.txt,12.61,K
+Data/Roman Data/t5Ruined Hall.txt,12.41,K
+Data/Roman Data/t9Under Crone.txt,12.34,K
+Data/Shared Data/t15Selkiehomedlg.txt,12.18,K
+Data/Shared Data/o14Near Hollo.txt,11.67,K
+Data/729.bmp,11.46,K
+Data/Shared Data/t1Burial Glendlg.txt,11.43,K
+Data/Shared Data/o01NorthWeste.txt,11.37,K
+Data/Shared Data/o41Eastern Sh.txt,10.62,K
+Data/Shared Data/t69warrendlg.txt,10.61,K
+Data/Shared Data/o12Western Sh.txt,10.41,K
+Data/Roman Data/t24Annwn Spir.txt,10.33,K
+Data/1705.bmp,10.14,K
+Data/Shared Data/o10Northweste.txt,9.85,K
+Data/1023.bmp,9.61,K
+Data/1019.bmp,9.61,K
+Data/1021.bmp,9.61,K
+Data/1022.bmp,9.61,K
+Data/1024.bmp,9.61,K
+Data/1025.bmp,9.61,K
+Data/1015.bmp,9.61,K
+Data/1048.bmp,9.61,K
+Data/1017.bmp,9.61,K
+Data/1045.bmp,9.61,K
+Data/1044.bmp,9.61,K
+Data/1010.bmp,9.61,K
+Data/1043.bmp,9.61,K
+Data/1013.bmp,9.61,K
+Data/1026.bmp,9.61,K
+Data/1027.bmp,9.61,K
+Data/1012.bmp,9.61,K
+Data/1039.bmp,9.61,K
+Data/1028.bmp,9.61,K
+Data/1038.bmp,9.61,K
+Data/1030.bmp,9.61,K
+Data/1003.bmp,9.61,K
+Data/1002.bmp,9.61,K
+Data/1035.bmp,9.61,K
+Data/1011.bmp,9.61,K
+Data/1036.bmp,9.61,K
+Data/1031.bmp,9.61,K
+Data/1033.bmp,9.61,K
+Data/1032.bmp,9.61,K
+Data/1040.bmp,9.61,K
+Data/1016.bmp,9.61,K
+Data/1034.bmp,9.61,K
+Data/1029.bmp,9.61,K
+Data/1008.bmp,9.61,K
+Data/1001.bmp,9.61,K
+Data/1009.bmp,9.6,K
+Data/1037.bmp,9.6,K
+Data/1007.bmp,9.6,K
+Data/1014.bmp,9.48,K
+Data/Celt Data/t27Spire of Adlg.txt,9.39,K
+Data/Celt Data/t28Hedge Pris.txt,9.33,K
+Data/1004.bmp,9.32,K
+Data/842.bmp,9.27,K
+Data/Roman Data/t17Vanarium.txt,9.27,K
+Data/841.bmp,9.22,K
+Data/1020.bmp,9.21,K
+Data/1000.bmp,9.21,K
+Data/Shared Data/t10Vale of thdlg.txt,9.19,K
+Data/1005.bmp,9.17,K
+Data/1018.bmp,9.16,K
+Data/1046.bmp,9.16,K
+Data/Roman Data/t28Hedge Prisdlg.txt,9.11,K
+Data/1006.bmp,9.06,K
+Data/1042.bmp,9.01,K
+Data/1047.bmp,8.83,K
+Data/Shared Data/t12Pit of Repdlg.txt,8.81,K
+Data/Roman Data/t28Hedge Pris.txt,8.79,K
+Data/1041.bmp,8.74,K
+Data/Shared Data/t15Selkiehome.txt,8.74,K
+Data/Shared Data/t4Maze of Web.txt,8.66,K
+Data/Shared Data/o13Southweste.txt,8.49,K
+Data/Roman Data/t25Halls of tdlg.txt,8.44,K
+Data/Shared Data/trap.txt,8.16,K
+Data/Shared Data/t13Stone Circ.txt,8.16,K
+Data/Shared Data/o43Southeaste.txt,7.99,K
+Data/Celt Data/t7The Stone G.txt,7.9,K
+Data/Shared Data/t14Maze of Thdlg.txt,7.5,K
+Data/Shared Data/t11Jagged Aerdlg.txt,7.23,K
+Data/Roman Data/t7The Stone G.txt,7.02,K
+Data/840.bmp,6.57,K
+Data/Celt Data/t21Tunnel Und.txt,6.42,K
+Data/651.bmp,6.4,K
+Data/654.bmp,6.4,K
+Data/658.bmp,6.35,K
+Data/Celt Data/t11Under Tempdlg.txt,6.25,K
+Data/Celt Data/t21Tunnel Unddlg.txt,6.24,K
+Data/662.bmp,5.94,K
+Data/857.bmp,5.88,K
+Data/Celt Data/t9Under Cronedlg.txt,5.78,K
+Data/660.bmp,5.67,K
+Data/652.bmp,5.67,K
+Data/655.bmp,5.66,K
+Data/656.bmp,5.66,K
+Data/858.bmp,5.66,K
+Data/657.bmp,5.66,K
+Data/663.bmp,5.66,K
+Data/Celt Data/t5Ruined Halldlg.txt,5.65,K
+Data/653.bmp,5.64,K
+Data/650.bmp,5.57,K
+Data/659.bmp,5.49,K
+Data/851.bmp,5.48,K
+Data/661.bmp,5.46,K
+Data/852.bmp,5.45,K
+Data/855.bmp,5.45,K
+Data/Shared Data/t17Hagfen.txt,5.32,K
+Data/856.bmp,5.29,K
+Data/Celt Data/t24Annwn Spirdlg.txt,5.25,K
+Data/Celt Data/t29Top of thedlg.txt,5.06,K
+Data/1934.bmp,5.05,K
+Data/1935.bmp,5.05,K
+Data/1918.bmp,5.05,K
+Data/1922.bmp,5.05,K
+Data/1966.bmp,5.05,K
+Data/1927.bmp,5.05,K
+Data/1965.bmp,5.05,K
+Data/1938.bmp,5.05,K
+Data/1933.bmp,5.05,K
+Data/1937.bmp,5.05,K
+Data/1928.bmp,5.05,K
+Data/1936.bmp,5.05,K
+Data/1932.bmp,5.05,K
+Data/1929.bmp,5.05,K
+Data/1930.bmp,5.05,K
+Data/1910.bmp,5.05,K
+Data/1912.bmp,5.05,K
+Data/1904.bmp,5.05,K
+Data/1908.bmp,5.05,K
+Data/1915.bmp,5.05,K
+Data/1916.bmp,5.05,K
+Data/1917.bmp,5.05,K
+Data/1911.bmp,5.05,K
+Data/1914.bmp,5.05,K
+Data/1909.bmp,5.05,K
+Data/1905.bmp,5.05,K
+Data/1913.bmp,5.05,K
+Data/1944.bmp,5.05,K
+Data/1948.bmp,5.05,K
+Data/1949.bmp,5.05,K
+Data/1919.bmp,5.05,K
+Data/1920.bmp,5.05,K
+Data/1921.bmp,5.05,K
+Data/1950.bmp,5.05,K
+Data/1959.bmp,5.05,K
+Data/1924.bmp,5.05,K
+Data/1925.bmp,5.05,K
+Data/1958.bmp,5.05,K
+Data/1926.bmp,5.05,K
+Data/1967.bmp,5.05,K
+Data/1957.bmp,5.05,K
+Data/1941.bmp,5.05,K
+Data/1952.bmp,5.05,K
+Data/1962.bmp,5.05,K
+Data/1902.bmp,5.05,K
+Data/1951.bmp,5.05,K
+Data/1961.bmp,5.05,K
+Data/1947.bmp,5.05,K
+Data/1964.bmp,5.05,K
+Data/1963.bmp,5.05,K
+Data/1953.bmp,5.05,K
+Data/1907.bmp,5.05,K
+Data/1900.bmp,5.05,K
+Data/1942.bmp,5.05,K
+Data/1954.bmp,5.05,K
+Data/1901.bmp,5.05,K
+Data/1946.bmp,5.05,K
+Data/1943.bmp,5.05,K
+Data/1960.bmp,5.05,K
+Data/1956.bmp,5.05,K
+Data/1903.bmp,5.05,K
+Data/1906.bmp,5.05,K
+Data/1955.bmp,5.05,K
+Data/1945.bmp,5.05,K
+Data/1923.bmp,5.04,K
+Data/1940.bmp,4.89,K
+Data/1931.bmp,4.88,K
+Data/1939.bmp,4.77,K
+Data/Shared Data/t8crone.txt,4.73,K
+Data/Shared Data/door.txt,4.66,K
+Data/Roman Data/t21Tunnel Und.txt,4.49,K
+Data/Shared Data/t12master.txt,4.46,K
+Data/Celt Data/t1Shadow Vall.txt,4.27,K
+Data/Shared Data/t20indigo.txt,4.26,K
+Data/Shared Data/qbeast.txt,4.23,K
+Data/Shared Data/abilnpc.txt,4.14,K
+Data/Shared Data/t14rit.txt,3.82,K
+Data/Roman Data/t30Nethergate.txt,3.71,K
+Data/Shared Data/t9Far Below Gdlg.txt,3.71,K
+Data/Celt Data/t28Hedge Prisdlg.txt,3.43,K
+Data/Shared Data/t3Abandoned Mdlg.txt,3.39,K
+Data/Shared Data/t29sylak.txt,3.36,K
+Data/Shared Data/t26decimus.txt,3.15,K
+Data/Roman Data/t5Ruined Halldlg.txt,3.14,K
+Data/Shared Data/guard.txt,3.13,K
+Data/Shared Data/splitter.txt,2.96,K
+Data/Shared Data/t20borak.txt,2.82,K
+Data/Shared Data/lockbox.txt,2.77,K
+Data/Shared Data/t65schief.txt,2.73,K
+Data/Celt Data/t23Annwn Battdlg.txt,2.72,K
+Data/Shared Data/t27vibius.txt,2.68,K
+Data/Shared Data/t23tegid.txt,2.63,K
+Data/Shared Data/summoner.txt,2.61,K
+Data/Shared Data/t64queen.txt,2.61,K
+Data/Celt Data/t19Castle Aetdlg.txt,2.59,K
+Data/850.bmp,2.59,K
+Data/Shared Data/t67gwyar.txt,2.56,K
+Data/Shared Data/t29relatur.txt,2.55,K
+Data/Shared Data/t61raven.txt,2.5,K
+Data/Shared Data/t70titus.txt,2.48,K
+Data/Shared Data/t7centurion.txt,2.46,K
+Data/Shared Data/hunter.txt,2.45,K
+Data/Shared Data/t22bel.txt,2.37,K
+Data/Shared Data/groupnpc.txt,2.36,K
+Data/Roman Data/t27runemob.txt,2.34,K
+Data/Shared Data/spawner.txt,2.34,K
+Data/Celt Data/t26The Spire dlg.txt,2.33,K
+Data/Shared Data/t70boss.txt,2.31,K
+Data/Shared Data/t62reptrakos.txt,2.26,K
+Data/Shared Data/t5dolojan.txt,2.25,K
+Data/Roman Data/t27keym.txt,2.23,K
+Data/Shared Data/t58vazec.txt,2.23,K
+Data/Roman Data/t28shade.txt,2.2,K
+Data/Shared Data/t10samael.txt,2.2,K
+Data/Shared Data/t14roava.txt,2.18,K
+Data/Shared Data/t13Stone Circdlg.txt,2.17,K
+Data/Shared Data/basicnpc.txt,2.16,K
+Data/Shared Data/t70harun.txt,2.12,K
+Data/Shared Data/t66roselady.txt,2.1,K
+Data/Shared Data/t69harun.txt,2.08,K
+Data/Shared Data/twopts.txt,2.05,K
+Data/Shared Data/t70ifrit.txt,2.04,K
+Data/Roman Data/t18Castle Aetdlg.txt,1.77,K
+Data/Celt Data/t18Castle Aetdlg.txt,1.74,K
+Data/Shared Data/t70halllampdlg.txt,1.27,K
+Data/Shared Data/specobj.txt,822,B
+Data/Shared Data/Shared Data.txt,803,B
+Data/Roman Data/t6Under Ruinedlg.txt,733,B
+Data/NethergateSettings.dat,30,B

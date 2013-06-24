@@ -1,0 +1,30 @@
+Name: Coda
+Version: - 2.0.7
+
+Mac Platform: Intel
+Includes: K
+
+OS version: Mac OS X 10.6.6 or later
+
+Link for more information: http://www.panic.com/coda/
+
+Pre-cracked shareware version courtesy of i/o
+
+Coda is a powerful Web editor that puts everything in one place. An editor. Terminal. CSS. Files. With Coda 2, we went beyond expectations. With loads of new, much-requested features, a few surprises, and a seriously refreshed UI, this update is, truly, major.
+
+Features:
+
+* Integrated file browser.
+* Fully-featured text editor.
+* CSS editor.
+* Preview.
+* Built-in terminal.
+* Complete set of references.
+
+What's New
+Version 2.0.7:
+* iCloud Open panel no longer appears on launch when no windows were open on quit
+* Improved stability and performance
+* When using spaces instead of tabs pressing tab now correctly lines up with tab stops
+* Improved Ruby code folding
+* Code navigator and variable autocomplete are now more reliable when opening a document outside of Coda

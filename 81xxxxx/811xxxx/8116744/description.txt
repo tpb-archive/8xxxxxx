@@ -1,0 +1,63 @@
+Metaprogramming In .NET + Code
+
+V413HAV
+
+For More Quality Uploads :
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+Metaprogramming in .NET is designed to help readers understand the basic concepts, advantages and potential pitfalls of metaprogramming. It introduces core concepts in clear, easy-to-follow language and then it takes you on a deep dive into the tools and techniques youΓÇÖll use to implement them in your .NET code. YouΓÇÖll explore plenty of real-world examples that reinforce key concepts. When you finish, youΓÇÖll be able to build high-performance, metaprogramming-enabled software with confidence.
+
+When you write programs that create or modify other programs, you are metaprogramming. In .NET, you can use reflection as well as newer concepts like code generation and scriptable software. The emerging Roslyn project exposes the .NET compiler as an interactive API, allowing compile-time code analysis and just-in-time refactoring.
+
+Metaprogramming in .NET is a practical introduction to the use of metaprogramming to improve the performance and maintainability of your code. This book avoids abstract theory and instead teaches you solid practices youΓÇÖll find useful immediately. It introduces core concepts like code generation and application composition in clear, easy-to-follow language, and then it takes you on a deep dive into the tools and techniques that will help you implement them in your .NET applications.
+
+Written for readers comfortable with C# and the .NET frameworkΓÇöno prior experience with metaprogramming is required.
+
+WhatΓÇÖs Inside
+- Metaprogramming concepts in plain language
+- Creating scriptable software
+- Code generation techniques
+- The Dynamic Language Runtime
+
+Table of Contents
+Part 1: Demystifying metaprogramming
+Chapter 1. Metaprogramming concepts
+Chapter 2. Exploring code and metadata with reflection
+
+Part 2: Techniques for generating code
+Chapter 3. The Text Template Transformation Toolkit (T4)
+Chapter 4. Generating code with the CodeDOM
+Chapter 5. Generating code with Reflection.Emit
+Chapter 6. Generating code with expressions
+Chapter 7. Generating code with IL rewriting
+
+Part 3: Languages and tools
+Chapter 8. The Dynamic Language Runtime
+Chapter 9. Languages and tools
+Chapter 10. Managing the .NET Compiler
+
+Appendix A. Metaprogramming in Windows 8
+Appendix B. Usage guide
+
+Book Details
+Paperback: 360 pages
+Publisher: Manning Publications (December 2012)
+Language: English
+ISBN-10: 1617290262
+ISBN-13: 978-1617290268

@@ -1,0 +1,12 @@
+PS3 Development Virtual Machine (for use with VMware Workstation 9 or VMware Player!)
+-------------------------------------------------------------------------------------
+
+Built using Debian 6 (Squeeze) and using the Openbox window manager, for a fast, lightweight and efficient operating system that is fully capable of compiling PSL1GHT code (100% legal code for the PS3) with the ps3toolchain, ps3soundlib, libfont and tiny3d!
+
+Samples and SDK are located in ROOT's HOME directory!
+
+1) Unzip first.
+2) Run .vmx with VMware Workstation/Player
+3) When booted, right-click the background and open up a Terminal.
+
+In order to send built applications straight to a PS3, first compile or run PS3Load for your PS3's firmware and setup PS3LOAD as an environment variable with the value of your PS3's IP address.

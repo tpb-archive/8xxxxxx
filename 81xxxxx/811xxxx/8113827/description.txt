@@ -1,0 +1,57 @@
+IMDB:   http://www.imdb.com/title/tt2303110/
+
+
+
+General
+Complete name                            :Jurassic Attack 2013 BRRip x264 AAC-SSN.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 909 MiB
+Duration                                 : 1h 23mn
+Overall bit rate                         : 1 523 Kbps
+Encoded date                             : UTC 2013-02-07 09:32:37
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 23mn
+Nominal bit rate                         : 1 226 Kbps
+Width                                    : 854 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.150
+Writing library                          : x264 core 129 r2245 bc13772
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 23mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 18ms
+Default                                  : Yes
+Forced                                   : No
+
+

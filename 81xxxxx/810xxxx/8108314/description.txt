@@ -1,0 +1,53 @@
+
+   General
+      Format : MPEG-4
+      Format profile : Adobe Flash
+      Codec ID : f4v 
+      File size : 237 MiB
+      Duration : 1h 11mn
+      Overall bit rate mode : Variable
+      Overall bit rate : 461 Kbps
+     
+   Video #1
+      ID : 1
+      Format : AVC
+      Format/Info : Advanced Video Codec
+      Format profile : Main@L3.2
+      Format settings, CABAC : Yes
+      Format settings, ReFrames : 1 frame
+      Codec ID : avc1
+      Codec ID/Info : Advanced Video Coding
+      Duration : 1h 11mn
+      Bit rate mode : Variable
+      Bit rate : 328 Kbps
+      Width : 512 pixels
+      Height : 288 pixels
+      Display aspect ratio : 16:9
+      Frame rate mode : Variable
+      Frame rate : 30.000 fps
+      Minimum frame rate : 29.412 fps
+      Maximum frame rate : 30.303 fps
+      Color space : YUV
+      Chroma subsampling : 4:2:0
+      Bit depth : 8 bits
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.074
+      Stream size : 169 MiB (71%)
+      Title : WowzaMediaServerPro
+      
+   Audio #2
+      ID : 2
+      Format : AAC
+      Format/Info : Advanced Audio Codec
+      Format profile : LC
+      Codec ID : 40
+      Duration : 1h 11mn
+      Bit rate mode : Variable
+      Bit rate : 128 Kbps
+      Channel(s) : 2 channels
+      Channel positions : Front: L R
+      Sampling rate : 44.1 KHz
+      Compression mode : Lossy
+      Stream size : 65.8 MiB (28%)
+      Title : WowzaMediaServerPro
+     

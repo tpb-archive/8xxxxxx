@@ -1,0 +1,28 @@
+KMSpico v1
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+- (Maybe Windows Server 2008, 2008 R2, 2012)
+
+1. Run KMSpico.exe or RunTrigger.cmd
+2. Done.
+
+Based off of Microsoft Toolkit - Official KMS Solution for Microsoft Products 2.4.1.
+
+Thanks to CODYQX4 and mikmik38. All the credits for they.
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable Microsoft Security Updates.
+- Make exceptions to KMSpico.exe in Antivirus.
+
+  File: fusionem_v1.zip
+CRC-32: 1b915cb4
+   MD4: 534c132e45c8e419bfb921cf3f655b31
+   MD5: 244cf3f6b4f2110937ae87f5b4363814
+ SHA-1: 8389d3a8f3e2b736034c4e8d3aa10ec910e7d664
+
+Supports conversion of Office Retail to VL
+
+developed by heldigard

@@ -1,0 +1,54 @@
+This is my remux with AC3 and an older version of MKVMerge V2.4, which changes the header compression and therefore the frame totals from the original which had DTS sound,thus this file is quite a bit smaller with no loss of video quality, to be compatible with more devices. 																							Download the sample and judge for yourself.																														All credit goes to the original ripper.																															Enjoy and please share.																																		TTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTL																									XIII_The_Series_S02_E04_Tempest_720p_BluRay_x264_AC3_TTL.mkv
+Format                           : Matroska
+File size                        : 1.75 GiB
+Duration                         : 44mn 54s
+Overall bit rate                 : 5 567 Kbps
+Encoded date                     : UTC 2013-01-10 18:57:42
+Writing application              : mkvmerge v2.4.0 ('Fumbling Towards Ecstasy') built on Oct 11 2008 20:13:15
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 2
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Muxing mode                      : Container profile=Unknown@4.1
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 44mn 54s
+Bit rate                         : 5 345 Kbps
+Nominal bit rate                 : 5 452 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.232
+Stream size                      : 1.68 GiB (96%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+
+Audio                            : English
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 44mn 54s
+Bit rate mode                    : Constant
+Bit rate                         : 112 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 36.0 MiB (2%)
+
+Menu
+00:00:00.000                     : en:00:00:00.000
+00:09:59.640                     : en:00:09:59.640
+00:18:28.440                     : en:00:18:28.440
+00:25:40.280                     : en:00:25:40.280
+00:32:14.840                     : en:00:32:14.840
+00:40:17.960                     : en:00:40:17.960
+
+

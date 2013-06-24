@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,PBandJake,2013-02-17T17:56Z,"I should have added that this is a WEB RIP from PBS converted to MPEG-4 with handbrake. 678 kbps, 512x288, 16:9. I wanted this for a school assignment (easier RW and FF and no stopping for loading, etc) and thought others might too.
+
+Enjoy!"
+,Kilroy222,2013-02-17T21:26Z,"Good stuff. FYI - Handbrake often produces audio sync issues. In my experience ffmpeg is a much better tool. For Windows, WinFF does a nice job as a GUI. I use it all the time."
+,PBandJake,2013-02-18T02:52Z,"Thanks for the the heads up, I'll try it out and see how it works for me."

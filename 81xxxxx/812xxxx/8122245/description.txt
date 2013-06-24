@@ -1,0 +1,46 @@
+Format : Matroska
+Format version : Version 4 / Version 2
+File size : 71.2 MiB
+Duration : 21mn 29s
+Overall bit rate : 463 Kbps
+Encoded date : UTC 2013-02-09 13:19:38
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 21mn 29s
+Width : 720 pixels
+Height : 406 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.962 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Writing library : x264 core 118
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 21mn 29s
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : -83ms
+Language : English
+Default : Yes
+Forced : No

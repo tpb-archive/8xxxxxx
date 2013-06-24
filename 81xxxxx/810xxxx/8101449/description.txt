@@ -1,0 +1,37 @@
+GENERAL INFO:
+
+This is a talkie version of The Secret of the Monkey Island 
+(Monkey Island 1) with original VGA graphics. Speech and sound 
+effects are from the Special Edition, which does not allow to 
+use the original graphics AND speech at the same time. 
+Hence this torrent. You need ScummVM 1.5.0 to run this game.
+
+The sound is compressed in lossy ogg format to get reasonable 
+quality and small file size. If you'd like to have a VGA talkie
+version with FLAC, you need to download and install the Special 
+Edition PC version (there are many torrents available) and use 
+this patching tool on it: 
+
+gratissaugen dot de / ultimatetalkies / monkey1 dot html
+
+(There are good instructions on how to do it in readme.txt) 
+
+
+STEPS TO TAKE:
+
+1. Install ScummVM 1.5.0 (Windows version included) if you don't 
+already have it
+
+NOTE: If you want to play the game on another system/device than 
+Windows PC, visit http://scummvm.org/downloads/ to find the right 
+ScummVM release to install
+
+2. Extract MI1_ULtimate_Talkie_Edition.zip anywhere you want
+
+3. Add the extracted folder in ScummVM. Add the included music 
+subfolder you prefer as an Extra Path in ScummVM options for 
+the game.
+
+4. You're all set. Just start the game in ScummVM.
+
+Enjoy! 

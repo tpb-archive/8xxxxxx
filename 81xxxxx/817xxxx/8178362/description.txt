@@ -1,0 +1,51 @@
+"If the oceans ever dry up, we know who to call"
+
+    -- My Girlfriend
+
+Haha, seed
+
+
+Video
+ID                                       : 201
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L2.1
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 27mn 56s
+Bit rate                                 : 400 Kbps
+Width                                    : 432 pixels
+Height                                   : 240 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.129
+Stream size                              : 80.4 MiB (76%)
+Writing library                          : x264 core 120 r2146 bcd41db
+
+Audio
+ID                                       : 101
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 27mn 56s
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 19.1 MiB (18%)
+Tagged date                              : UTC 2012-09-01 03:22:05
+
+
+
+
+

@@ -1,0 +1,61 @@
+aka Fin
+
+Release Date: 23 November 2012 (Spain)
+Genre: Thriller
+Stars : Miquel Fernández, Antonio Garrido, Daniel Grao
+Quality: BluRay 720p
+Encoder: SHQ@Ganool
+Source: BluRay 1080p AVC DTS-HD 5.1-KIRA
+Size: 600MB
+
+General
+Nombre completo                          : The End (2012) BluRay 720p 650MB Ganool.mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 651MB
+Duración                                 : 1h 32min.
+Tasa de bits total                       : 980Kbps
+Película                                 : fin ganool
+Fecha de codificación                    : UTC 2013-02-14 16:05:12
+Aplicación de codifición                 : mkvmerge v5.7.0 ('The Whirlwind') built on Jul  8 2012 20:08:51
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 32min.
+Tasa de bits nominal                     : 914Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 544pixeles
+Relación de aspecto                      : 2,35:1
+Velocidad de cuadro                      : 24,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.055
+Librería de codificación                 : x264 core 125 r2208 d9d2288
+Opciones de codificación                 : cabac=1 / ref=3 / deblock=1:-1:-1
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : HE-AAC / LC
+ID Códec                                 : A_AAC
+Duración                                 : 1h 32min.
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz / 24,0KHz
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Info: http://www.imdb.com/title/tt2046090/

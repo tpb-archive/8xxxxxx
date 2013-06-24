@@ -1,0 +1,77 @@
+=====
+Message from uploader:
+"I am not sure whether there is a newer version of this or not. I just found it on a hard drive."
+=====
+
+
+Welcome to the first release of
+Demobase C64 (06 Dec 2009)
+
+In an attempt to archive C64 demos,
+this Demobase C64 will be a constant
+work in progress.
+
+
+Relive the past !
+
+
+This project is the work of
+Sjakie43 and .mad.
+
+We hope you all enjoy this Demobase!
+
+Based on the demo collection from 
+http://c64.ch/ .
+We had to start somewhere. ;)
+
+All Blank D64 volume names have
+been renamed to make them gamebase
+friendly.
+
+Demobase Problems??
+-------------------
+CPU JAMs
+nothing we can do about it.
+Try another /latest emulator.
+
+Some Demos have to be loaded manually
+out of the Gamebase front end.
+
+T64 which contain filenames that
+start with a SPACE
+press RUN/STOP then type
+Load ""
+
+PRG Files that contain
+[up arrow]
+[pi]
+[commodore key GFX]
+
+will not load the correct "file name"
+
+Programs that start at $0400-$0700
+filling the screen with text
+will not Auto RUN
+
+fixed by typing "RUN:"
+
+Everything should be fixed when the
+NEW version of Gamebase v1.3
+by Jimbo gets a released. ;)
+
+If you have any demos you would like
+to see adding to the Demobase.
+
+please contact 
+Sjakie43 at the GB64.com forum.
+
+---------------------------------------
+Regards
+
+Sjakie43
+
+Demobase C64
+Demobase Vic/20
+Demobase C16-Plus4
+Demobase Amiga
+and more...

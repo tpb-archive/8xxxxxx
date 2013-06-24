@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,aok79,2013-02-13T05:36Z,Thanks eztv!
+,Toby196,2013-02-13T06:09Z,"Thanks again, eztv."
+,miss.ashleyn,2013-02-13T07:07Z,Thanks for all the downloads! Will you be uploading tonight's episode of Cracked? 
+,Jlost0000,2013-02-13T12:04Z,"Thanx for this!  I have a question:  Sometimes when I download x264 files, they do not have extensions (.mp4, .avi etc).  I've tried simply adding an extension via renaming the file, but this does not work.  Any ideas on what I might do to make these files accessible by VLC?"
+,stalkersrage,2013-02-13T16:35Z,"The definitely have an extension - all files do. Windows generally defaults to you not being able to see the extensions though. For a quick reference, right-click on any file and choose properties. This will show you the full file name and the extension. 
+There are also ways to permantently show extensions in Windows, and this is how you would edit the extension type. But, generally speaking, just changing something from, say, ""mp4"" to ""avi"" as an extension is not going to convert the file or anything. 
+99% of all of EZTVs files are mp4s, just FYI. VLC media player will play any file you download of theirs. "
+,MRMKHS1,2013-02-14T12:29Z,Maraming Salamat Po.
+,Jlost0000,2013-02-15T10:53Z,"@stalkersrage:  thanks for your help.  When I check on the file in question via properties, it just says ""file"" under the listing for 'type of file.'  Attempting to open it from vlc results in a grey screen w/ audio.  If these results were just from this one file I would assume that the file is bad, but I seem to be encountering this problem quite often.  Any other ideas?   Thanx!"
+,tflagger997,2013-02-26T23:49Z,"Your codecs sound corrupted.  Reinstall a generic codec pack.  Also Google ""show file extensions"" to explain the process to get them to always be displayed.
+
+Thanks EZ, as usual 10/10!"

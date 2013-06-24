@@ -1,0 +1,91 @@
+Plot: An account of a family caught, with tens of thousands of strangers, in the mayhem of one of the worst natural catastrophes of our time. 
+
+MediaInfo 0.7.61:
+General
+Complete name                            : D:Nevozmojnoe.2012.L2.BDRip.2100MB.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 2.05 GiB
+Duration                                 : 1h 53mn
+Overall bit rate                         : 2 586 Kbps
+Writing application                      : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                          : VirtualDubMod build 2540/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (MPEG)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 53mn
+Bit rate                                 : 1 932 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.368
+Stream size                              : 1.53 GiB (75%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio #1
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 2000
+Duration                                 : 1h 53mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 156 MiB (7%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+
+Audio #2
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 2000
+Duration                                 : 1h 53mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 364 MiB (17%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 500 ms
+
+Screenshots: 
+http://img443.imageshack.us/img443/9910/grab14p.png 
+http://img94.imageshack.us/img94/244/grab15j.png 
+http://img585.imageshack.us/img585/8575/grab16v.png 
+http://img849.imageshack.us/img849/6707/grab17hb.png 
+http://img854.imageshack.us/img854/1629/grab18s.png 
+http://img546.imageshack.us/img546/8100/grab19n.png 
+http://img339.imageshack.us/img339/3424/grab20c.png 
+http://img208.imageshack.us/img208/6077/grab21o.png 
+http://img255.imageshack.us/img255/2243/grab22nn.png 
+http://img707.imageshack.us/img707/1223/grab23l.png 
+http://img541.imageshack.us/img541/3554/grab24w.png 
+http://img402.imageshack.us/img402/2205/grab25v.png

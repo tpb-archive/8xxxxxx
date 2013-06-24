@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,sttoma,2013-02-10T13:17Z,What is this? It's not ISO file.
+,extracube,2013-02-10T17:38Z,"Yah, what is this?  I think more information should be provided by the upper as I looked on wikipedia for live boot cds and this didn't show up."
+,Etron71,2013-02-10T19:33Z,Its not an ISO but if you know how to burn a bootable cd then you can use these files to make a live OS like backtrack. basically you put it in the drive and if the cd drive is 1st boot device then the computer will load this as an OS. its made from windows 7 and uses the same GUI and kernel i believe so those of you that are familiar with windows it is easy to work with. it even has network and usb support without having mount and unmount drives manually plus it has windows network protocol built in so its easy to use that way as well. if your bios supports usb or sd card boot you can also use these files to make a bootable flash drive.
+,Etron71,2013-02-10T19:36Z,can we get some comments from people who know what they are doing please? and someone to confirm fake or virus?
+,gunkde_21,2013-02-11T02:15Z,i have tried it an it works... just extract it an copy to your usb flashdisk or cd.. then boot it up... done
+,czyberx,2013-02-13T14:39Z,"Perfect, ThanX"
+,jazzclub,2013-02-16T03:35Z,"worked a treat, thanks"
+,drmosta,2013-02-19T13:55Z,"Didnt work for me. Ive lost one cd with this file.
+Its a RAR file with boot info inside.
+
+I dont know but I think that you need to configure the burner tool and I dont know how to do that so this file is useless to me..."
+,abhishek9,2013-02-21T07:39Z,"put the extracted contents into winiso >add boot info (you can extract boot info from any bootable 
+cd using winiso) >save as iso >burn to disc and boot."
+,rbarron,2013-02-27T00:51Z,Uploader can help but he is rude.You can create iso file with magic iso and set boot file in extracted folder in Win 7 Live: bootetfsboot.com.Save iso and burn or test with Virtualbox.
+,analogkid6103,2013-03-15T20:12Z,"Another educational moment from the advanced players to the newbs. learn all you can, then teach to others."

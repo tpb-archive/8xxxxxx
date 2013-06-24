@@ -1,0 +1,36 @@
+What's New in Perfect Photo Suite 7.1
+
+-Clone stamp option for Retouch Brush in Layers
+-Metadata Panels
+-Red-eye Reduction tools in Layers and Portrait
+-Product improvement data collection
+-OpenGL test in the windows installer
+-Improved thumbnail rendering in the browser
+-General performance and stability improvements
+-Fixed support for CMYK, Grayscale and LAB files for Perfect Resize
+-Improved speed of the magic brush in Perfect Mask
+-Slider handles are easier to grab
+-Fixed redraw issue wight he blending options in the dialog in Perfect Effects
+-Tiling feature now works correctly via Photoshop in Perfect Resize
+-Replaced mask view keyboard shortcuts in Perfect Mask
+-Fixed issue that caused keyboard shortcuts to stop working
+-Updated support for raw files from newer cameras
+
+Minimum System Requirements
+
+Operating System : Windows Vista, Windows 7 or Windows 8 (current maintenance releases, 32 and 64 bit)
+Processor : Intel Core 2 Duo, Xeon or better processor(s)
+RAM : 4 GB (8GB or higher recommended)
+Hard Drive : 1.5 GB for installation
+Display :
+- OpenGL 2.0 compatible video card with 256 MB dedicated video VRAM
+- 1280x720 resolution or higher
+Optional Application Integration :
+* Photoshop CS4, CS5, CS6
+* Photoshop Elements 9, 10, 11
+* Photoshop Lightroom 2, 3, 4
+
+Language : English
+
+Homepage :  
+http://www.ononesoftware.com/products/suite7/

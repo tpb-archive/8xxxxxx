@@ -1,0 +1,8 @@
+Poker.Stove.Poker.Odds.Calculator
+
+PokerStove is a program that calculates hand equities (i.e., expected percentage of 
+the time that each hand wins at showdown).
+
+Since poker is a game of incomplete information, the calculator is designed to evaluate the equity of ranges of hands that players can hold, instead of individual hands.
+
+Pokerstove can calculate both pre-flop and post-flop equity given the community cards.

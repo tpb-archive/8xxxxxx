@@ -1,0 +1,13 @@
+This DVD collection is based on the RAR file uploaded by shadowfoxs here.
+ 
+http://thepiratebay.se/torrent/7978251/AGI_Master_Professional_Gunsmithing_Course_DVD
+
+Some of the DVD folders within that RAR file were complete DVDs while others were incomplete. All of the incomplete DVDs have been re-authored as stand alone DVDs that are unfortunately missing half of the content of the original DVD. I added chapter marks and labels based on the timecodes given in the AGI course catalog. The DVDs that were complete have been placed in correct format folders with any extra files removed. Each of these folders is labeled with the number of the DVD in the set and a general description of what is on the DVD. This torrent is not a RAR file so you can download only those DVDs that you need or are interested in.
+
+The following DVDs were complete from the original RAR file; 1, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27 and 28. If you have already downloaded the original RAR file from shadowfoxs then you do not need to download those particular DVD folders from this torrent. Just uncheck them for download in your torrent client after the file information has loaded.
+
+It should be noted that whomever ripped these DVDs looks to have set the video stream resolution in the IFO file to 352x480 instead of NTSC 720x480. This should not be a problem on a set top DVD player but when using VLC Media Player I noticed that it resized the viewing window to 352x480. You can overcome this by overriding the aspect ratio to 4:3. I tried to modify the IFO file to the correct resolution with IfoEdit but it didn't take.
+
+There is a modified copy of the AGI course catalog in PDF format in this folder. The content that is in this incomplete DVD set has been highlighted yellow and the missing sections have been highlighted dark gray.
+
+For those that have an Epson printer that can print on the label of printable DVDs I have included the Epson Print CD installation file along with all of the DVD covers I created.

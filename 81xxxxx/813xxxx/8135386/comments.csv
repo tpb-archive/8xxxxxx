@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,vidyarathne,2013-02-13T05:17Z,thanks
+,CamilleSR7,2013-02-13T12:05Z,"I don't get it. I install Office and install toolkit - no problem, it works and if I press ""check"" in toolkit it says it is active. The next day Office will not open. If I run toolkit and press ""check"" it says:
+
+
+
+If I run toolkit for win7 it says:
+Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+Family: Ultimate
+
+Apparently, something happens at midnight, and I am sure it has to do with won7, not Office. The readme says KMSnano (and toolkit???) will not work with Win 7 Ultimate, it this true?
+Toolkit (and KMSnano) only seem to work with VL editions like Win 7 pro or enterprise. Problem is, there is no good copy of Win 7 Pro on Piratebay..."
+,CamilleSR7,2013-02-13T12:07Z,"* The next day Office will not open. If I run toolkit and press ""check"" it says:
+"
+[V],murphy78,2013-02-13T21:13Z,"win7 banned the kms key almost instantly. It's likely that you installed kb971033. I think that is the one that sends info back and forth to microsoft. *I could be wrong.
+
+You can try figuring out a way to uninstall kb971033. I'm not entirely sure how to do it, but I know of at least two ways. One would be to boot into dart8 and remove offline kb files. Another would be to re-install windows.
+
+I'm sure there are much better solutions out there. I'm just offering advice."
+,CamilleSR7,2013-02-13T22:32Z,"@murphy78: tnx for you advice! So basically I am screwed and need to reinstall win7? But how do I control that my new installation of win7 ultimate doesn't automatically install the kb971033?
+Then again, I read this:
+http://forums.mydigitallife.info/threads/19404-Not-genuine-after-KB971033-update-Read-this!
+
+And when I checked, I DON'T have the partial product Key' as ""PMJBM"". So maybe I don't have that installed. The problem started allready with Office2010 that suddenly didn't want to start, so I am sure some win7 update screwed it up for me. Now Office 2013 doesn't work either. I guess a fresh win7 install and never download any updates is the only solution??"

@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,pro346pro,2013-02-09T02:34Z,Thanks interesting info about the directors cut didn't know that
+,majo0007,2013-02-09T19:42Z,"Many THX! Everytime it´s Christmas from you!
+Will you make also other alien movies?"
+,htlywho,2013-02-09T21:49Z,"thks mate gud rip
+wht r ur upcoming movies plz provide the list"
+[V],dhjudasx,2013-02-11T08:08Z,up coming movies will be all the sequels to the ones I just uploaded ;)
+,brait42,2013-02-11T13:09Z,you are awesome!! thank you so much!
+,brait42,2013-02-11T13:13Z,"Can you do Watchmen (The Ultimate Cut)? I know you're busy, but it's a great movie and there's currently no good quality and reasonable size rips =)"
+[V],dhjudasx,2013-02-13T21:21Z,"I only have the directors cut... looks like the ultimate cut only recently released locally here ...
+
+I'm a bit strapped for cash right now.. so purchasing the new versions of movies i already have might be a little stretch... but we will see."
+,brait42,2013-02-14T01:24Z,"Thanks =) and I read somewhere HE-AAC uses some techniques that results in poor stereo separation and LC-AAC would be recommended even with low bitrates, but idk if that's true.
+
+http://forum.doom9.org/showthread.php?t=161095
+
+might be useful. I never noticed anything weird in any of your rips, but since I found this I felt I should share"
+[V],dhjudasx,2013-02-14T17:53Z,"the number of variables for various solutions for AAC encoding if you enforce a single ""version"" can be a bit daunting as which is actually better can really be specific on on the content being ""used""
+
+Since almost ALL of the movies uses have only a 5.1 audio track (excluding this movie Aliens as it has a dedicated low bitrate AC3 Stereo track that i used for a source to encode the stereo aac track). When downmixing from 5.1 to stereo it makes for a VERY VERY difficult encode, the mixing is never entirely perfect/right plus the other things that HAVE to be done to the source in order to prevent a stereo mix being a fuzzy poppy crackling mess (low volume/gain to mix the other channels into just 2.)
+
+Now i encode using a Combination AAC method.. that way depending on the circumstances of the playback options... You should experience the ""best"" results overall. I use an HE-AAC/LC combo encode. After an encode is completed (when i was doing my initial comparison analyse..) I would compare the source to the newly encoded 5.1 track or Stereo track (I used a movie that has a dedicated stereo track... tron legacy was my choice)
+
+Enfocing LC mode or HE mode only had it's ups and downs.... using the combination HE/LC however gave the best balance between I found.
+
+96kbps is as LOW as you can go with AAC before the original 192-256kbps AC3 Stereo source starts to show better results. That's how good AAC compression is.. requires more processing power to decode... but the reproduction is fantastic.
+
+192kbps for the 5.1 Audio is as low as you can go before a AC3 384-640kbps Source has a noticeable Quality difference. @ 256kbps there was a ""minimal"" improvement that even a unbiased audiophile would be hard pressed to notice. Of course short of going full out CBR high bitrate which any audiophile would perfer.
+
+Again i refer to Balance.... at what levels does going higher have diminishing returns OR lower. It's all about balance.
+
+Trying to maintain the small file size without sacrifice to much in video quality AND audio quality."
+,brait42,2013-02-15T04:19Z,"Thanks for the explanation =)
+
+I know stuff depends on the content. The same happens with video. I should have thought you knew much more than me anyway.
+
+Is there much difference between encoding from the bluray and from a huge and good quality BDRip? I converted Watchmen (Ultimate Cut) and I ended with a 4.7GB file. I used around 2400kbps for the video, used handbrake to encode, and 640kbps AC-3 for the audio (I know I could encode it using HE-AAC). I noticed barely  0 loss comparing with the 17GB file I used as source (of course some grain and stuff was lost, but it's a very good rip though). I could make it less than 4GB (3h35min movie, hard to make it smaller, for me) by converting the audio to AAC.
+
+Mediainfo shows the following for my file (I tried to replicate your encoding, but I changed some stuff) 
+
+cabac=1 / ref=8 / deblock=1:1:1 / analyse=0x3:0 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=2 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=2400 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 /
+
+I've been using MediaCoder now, since it offer much more options and is updated more frequently. Just wanted your opinion on how to make my rips smaller while retaining video quality."
+[V],dhjudasx,2013-02-15T09:13Z,"I don't know everything or a lot still... but a little googling helps sort some of it out.. there is a lot of conflicting information though.
+
+With AAC you'd be able to trim a few hundred mb of the total size.
+
+From my experience it depends on how the Bluray ""rip"" source is... was it properly ripped with the protections removed?.... was the file structure and files kept in tact entirely. Did they demux anything or ""encode"" anything.
+
+I find most of the sub 15gb bluray sources/rips are more often than not.. re-encoded. The giant 25gb+ ones generally are the real deal... BUT again don't know what's been done with them.
+
+The rule is... Every transfer or demux /encode of a will always introduce some kind of degradation. Specially with the ""speedy"" ways things are usually done. It's ALWAYS best to have a true bluray source that is untouched."
+,stvgl,2013-03-09T10:20Z,"Thanks. Why does it say ""cropped"" for the video? Did you subjectively crop to a certain resolution?"
+[V],dhjudasx,2013-03-17T05:41Z,"stvgl
+
+Cropped means I've eliminated or cropped out the useless static black portions of the film that never change... they are just flat black bars usually above and below the actually real video. This eliminates wasted space... makes for a higher quality video encode at the rated bitrate and helps for even decoding too."
+,Axcalay,2013-03-19T19:59Z,Thanks Judas. Much appreciated.
+,armin0901,2013-03-22T08:24Z,"A:10
+V:10
+
+Great stuff!!!!! classic!"

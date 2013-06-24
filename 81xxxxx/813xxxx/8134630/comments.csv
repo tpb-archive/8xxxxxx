@@ -1,0 +1,72 @@
+﻿User Type,Username,Date,Text
+,Sonic_27,2013-02-12T18:32Z,"What is the difference between one and the other saying ""portable""??"
+,forless22,2013-02-12T23:45Z,thanks
+,forless22,2013-02-13T01:35Z,murphy78: is this a one time activation or every 180 days.and thanks again for your team hard work.
+,asakusa,2013-02-13T03:29Z,"Murphy, I'm waiting for windows 8 updated February 8, 2013 Thank you, your great work."
+[V],murphy78,2013-02-13T04:15Z,"portable version is one that extracts itself to temp, runs program, and deletes the temp files.
+
+other one installs to a directory and keeps itself.
+
+So one is portable, and one is not.
+
+The install version lets you choose to install the trigger for re-activation when 30 days or less are left on activation at boot"
+,Sonic_27,2013-02-13T05:04Z,"Thanks murphy78 for the info, your the best!"
+,Sonic_27,2013-02-13T05:22Z,"oh....I forgot to mention hope you come out with another Windows 8 pro x64-x86 (English) with the 11 new updates that came out today, including all the older updates with .net! Thanks!!"
+[V],murphy78,2013-02-13T05:24Z,"Man... there has been some historic news on the Win8 activation front over at MDL.
+
+It seems that CODYQX4 and mikmik38 have created a huge activation shortcut for KMS activation.
+
+They have officially worked out an emulator-less emulation program to do this sort of kms activation. Interestingly enough cody seems to think it might be possible to have gvlk prowmc activation because there is a prowmc key.  This will be great news to media center fans when he finishes his work if he gets it to jive properly.
+
+He originally broke the news at:
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Windows-and-Office-2010/page255?p=717645&viewfull=1#post717645
+
+You can follow the progress on that thread most likely. Please don't pester him in PM. We need him doing what he's awesome at. If you want to thank him for his work, go around ""thank""ing his posts.
+
+heldigard's kmsnano is still legendary. Don't think that you won't be seeing much of it around. I am almost certain that it will work better for some people or as a work-around for future kb-files that might block cody's particular methods.
+
+It's always better to have options, and kmsnano is a DAMN FINE one. heldigard sir, you are a legend in my eyes. You always will be.
+
+/salute"
+,boiazul25,2013-02-13T05:40Z,"seriously, I love you murphy78 :))))"
+,pr3nux,2013-02-13T06:24Z,Would you please be able to help me? I'm running Windows 7 Ultimate and no matter what I do I cant seem to activate it. I have tried many tools including this one. I have installed updated so I'm thinking that maybe the problem. Is there a specific security update that should not be installed? Thank you for all your hard work and thank you ahead of time for reading this question. 
+,pr3nux,2013-02-13T06:26Z,"I apologize, just re-read your description. Would you be able to recommend me a product that can activate my windows?"
+[V],murphy78,2013-02-13T07:36Z,"pr3nux, windows loader does that. If you cannot get it to activate with default options, try some of the advanced options. In my torrent for the 2.2.1 version, it links to the main page on MDL for windows loader. You can probably find appropriate recommendations for your settings there.
+
+If you give up and cannot get it to work, you can try removewat, but I would only use that as a last resort, you will not be able to install sp2 when it comes out if you do that."
+[V],murphy78,2013-02-13T20:37Z,"heldi says there's a fake 25.1 out there guys. At this time he has not made one. Be careful what you download. I didn't see it yet, but he isn't in the habit of making things up."
+,deathwisher08,2013-02-14T12:48Z,"murphy78. I tried all kmsnano activators, but this did me(literally) after a whole day searching the internet. thank u. I just wanted to know I got my win 8 pro activated an'all. now how do u get the media center update? I know its been past jan 31."
+,DRAKE-2,2013-02-15T20:24Z,"Hello, Hola
+Por fin, este funciona de maravilla, simple, rápido y eficaz.
+Gracias, Thanks a bunch, Merci beaucoup..."
+,MattyPRacerX,2013-02-18T06:32Z,"Thanks again Murphy... 95% of my computer is thanks to you, from Windows 8 x64 to Office 2013, and your torrents have not let me down yet. You da man! Many thanks!"
+,eXecuter.bin,2013-02-19T07:02Z,"I have Windows 7 Enterprise 64-bit Edition and this was able to activate it last week. However, Windows suddenly turned no genuine today and I am unable to activate it again using this. Any ideas?"
+[V],murphy78,2013-02-19T10:34Z,"executor, you might have downloaded kb971033. That is an anti-piracy kb file. The kms epid that kmsnano uses got banned almost immediately.  You're gonna have to avoid trying to legitify windows if you use kms activation, or just use online kms activation. You can do that by typing:
+slmgr /skms OnlineKMSservername.org
+slmgr /ato
+
+I'm not gonna post an online server name here, but you can look on the web for online kms servers and you'll prolly find some that will work for you. (they're supposed to only use them for their business, but some dumb IT guys leave it up for everyone)
+
+Anyway KMSpico is about 20 times faster than this because of the breakthrough codyqx4 had recently... Use KMSpico people."
+,eXecuter.bin,2013-02-20T05:34Z,"Thanks Murphy, you were right. Windows Update automatically installed that dreaded update, and the activator worked again after uninstalling the update and rearming Windows."
+,TPBFan1,2013-02-20T22:33Z,"Has anyone successfully activated Windows Server 2012 Standard with this?  I've used several different ISO's to install Server 2012 (at least one of them being a VL edition) and I can't get any of them to activate with this.  I haven't tested on Windows 8 yet, but with all the comments here I assume that works well. But my focus right now is Server 2012.  Any suggestions on how to make it work?  Thanks in advance for any help - as well as for the hard work put into this activator."
+,gauravbaadshah,2013-02-21T19:41Z,Works like a charm...thank you so very much !!!
+,solstice3,2013-03-02T22:11Z,"Need help debugging. I am running Windows 7 Ultimate OEM and trying to activate Microsoft Office 2013 ProPlusVL. Been trying to configure KMS manually with localhost IP 127.0.0.1 on port 1688. (ERROR CODE: 0x8007232B - ""DNS names does not exist""). Any help is appreciated. Thanks in advance!"
+,solstice3,2013-03-03T04:17Z,"Changed localhost ip to 127.0.0.2 w/ port 1688 and now I'm receiving the following error (Using Microsoft Toolkit (MTK) to debug):
+
+----------------------------------------
+Installing Any Matching Volume Keys.
+----------------------------------------
+Attempting To Activate Microsoft Office
+Attempting to Activate OfficeProPlus-KMS_Client
+
+----------------------------------------
+Attempting to Activate OfficeProPlusVL_KMS_Client
+ERROR CODE: 0x8007000D
+ERROR TEXT: The data is invalid.
+
+----------------------------------------"
+,Ja_som,2013-03-18T15:38Z,Thank you so much. Finally working activator...
+,abinowns,2013-04-12T20:56Z,"How come when I press download, it just shows up as ""checking"" in bit torrent?"
+,Giorgos64,2013-05-13T01:46Z,"thank you, works fine (watermark removed and pc doesn't show any problems)
+However AVG recognised KMSnano as a trojan horse generic8, can you explain me why is that?"

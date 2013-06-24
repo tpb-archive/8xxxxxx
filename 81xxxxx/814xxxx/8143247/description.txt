@@ -1,0 +1,58 @@
+Malón El Regreso mas esperado 2012 DVD
+ 
+http://es.wikipedia.org/wiki/El_regreso_m%C3%A1s_esperado
+ 
+http://www.malonmestizo.com/home.htm
+
+El regreso más esperado es un álbum en vivo doble, compuesto por un DVD y un CD, del concierto homónimo de la banda argentina Malón en la ciudad de Buenos Aires, el 18 de diciembre de 2011.El disco doble fue lanzado oficialmente el 22 de diciembre de 2012 en Buenos Aires para los asistentes al show, durante su último concierto del año.1 Aunque la presentación se produjo 10 días antes, el 12 de diciembre en un evento gratuito organizado por la banda para sus fanáticos y la prensa, en el cual se brindó una conferencia, se proyectó el backstage del concierto y 2 videoclips y un mini-recital acústico; además se pudo obtener las entradas para su show y el álbum de manera exclusiva.2 3 4 El álbum todavía no ha sido lanzado para su venta comercial e individual, ya que fue una edición especial y limitada. (WIKI)
+
+Recital: TrackList:
+
+01-Sintoma De La Infección
+02-Culto Siniestro
+03-Castigador Por Herencia
+04-Hipotecado
+05-Cancha De Lodo
+06-Evitando El Ablande
+07-Judas De Oficio
+08-Bajo El Dominio Danzante
+09-Grito De Pilaga
+10-Gil Trabajador
+11-Memoria De Siglos
+12-30000 Plegarias (acústico)
+13-Craneo Candente
+14-Gatillo Facil
+15-30000 Plegarias
+16-Malon Mestizo
+17-Tu Eres Su Seguridad
+18-Soy De La Esquina
+
+Tamaño: 1.54GB
+FORMATO: MKV
+Duracion: 01h23m44s
+Video: H.264 High@4.1 MBAFF 2000kbps 60i 720x480
+Audio: AC3 192kbps 2.0ch + AC3 448kbps 5.1ch
+Menu de Capitulos: SI, dentro del MKV
+
+Extras:
+
+01 Backstage - 02 Malon mestizo-Ensayo - 03 Grito de Pilaga (video clip) - 04 Castigador por herencia (video clip)
+
+FORMATO: MKV
+Video: H.264 High@4.1 MBAFF 1500kbps 60i 720x480
+Audio: AC3 192kbps 2.0ch
+
+Ripeado del DVD con los sig pasos:
+
+Recital:
+
+1- menu de capitulos extraido con DVD-Decripter en formato OGG
+2- DemuX AC3 Streams, and RemuX MPEG2 Stream en MKV ; con "eacto3 GUI"
+3- MKV-MPEG2 a MKV-h.264 con Mediacoder 64bit [preset Hig@4.1 , 2-pass 2000kbps , no-Deinterlace]
+4- RemuX MKV-H.264 60i 720x480 + AC3 192kbps + AC3 448kbps + chapter file ; con "mkvmerge GUI 3.5"
+
+Extras:
+
+1- DemuX AC3 Streams, and RemuX MPEG2 Stream en MKV ; con "eacto3 GUI"
+2- MKV-MPEG2 a MKV-h.264 con Mediacoder 64bit [preset H.264 Hig@4.1 , 2-pass 1500kbps , no-Deinterlace]
+3- RemuX MKV-H.264 60i 720x480 + AC3 192kbps; con "mkvmerge GUI 3.5" 

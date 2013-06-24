@@ -1,0 +1,34 @@
+Phoenix FD version 1.20 released
+
+The latest version 1.20 of the fluid dynamics system for simulation of fire and smoke Phoenix FD is available as of 26th November 2010. This is one of the newest products of Chaos Group. The software perfectly combines a grid based simulator with outstanding rendering capabilities. In addition to the usual uniform fluid behavior, Phoenix FD is capable of simulating a whole array of additional processes like pressure decay, thermal radiation cooling and mass-temperature dependence.
+New features:
+
+ΓÇó Extension for liquid simulations
+ΓÇó Turbulence helper
+ΓÇó Forward transfer advection
+ΓÇó Randomization
+ΓÇó Analytic scattering mode
+
+Modified features:
+
+ΓÇó Added ramps and ranges in the viewport
+ΓÇó Ability to use the radius of the PF particles in the source helper
+ΓÇó Color ramp and preview range for each channel
+ΓÇó RGB preview of the UVW channel
+ΓÇó Limits for the adaptive grid
+ΓÇó Optimized the interaction with the scene
+ΓÇó Option to displace without surface projection, using directly the 3d point coordinates (volumetric displacement).
+
+Bugs fixed:
+
+ΓÇó Problem with the solid sources when the temperature channel is not active
+ΓÇó Crash when a body exits from an adaptive grid
+ΓÇó The fluid can pass through a thin object
+ΓÇó When Phoenix FD is installed the CAT canΓÇÖt add fingers
+ΓÇó The vorticity does not affect certain areas in the simulation, especially the leading front of the flow.
+ΓÇó The GPU preview continues to update even when the window is invisible (performance bug).
+ΓÇó Crash when displacement is used in solid mode and the surface crosses the upper boundary
+ΓÇó Phoenix texture does not sample UVW and velocity channels if the node is not rendered
+ΓÇó The rendering hangs when the cell size is too small
+
+HOME http://www.chaosgroup.com/en/2/phoenix.html

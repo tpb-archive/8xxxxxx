@@ -1,0 +1,22 @@
+This theme will not work with any other launcher!
+Tip, configurations used:
+-The wallpaper mode is 'Center mode' (TSF&gt;Screen&gt;wallpaper mode).
+-The density is 1.6.
+_____________________________________________
+IMPORTANT - JELLY BEAN USERS
+Can't find the theme on TSF Shell themes menu?
+If you're running Jelly Bean 4.1, this problem might happen to you.
+To fix it follow this steps.
+If you have a ROOTED device:
+- Install the app/theme from Google Play
+- Open Titanium Backup (or whatever you use to backup your apps)
+- Find the TSF Shell theme that you just installed
+- Run a BACKUP of this app
+- Tap the app again and then RESTORE the theme (choose "App Only")
+- Go back into the TSF Shell theme chooser and find the Theme!
+
+
+This is a fully working version.
+If you like it then leave a comment and seed longer.......Thank You
+
+                          ** By Toorentz **

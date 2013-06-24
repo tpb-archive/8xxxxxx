@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,allofit,2013-02-18T22:00Z,"No comments so far, so I assume it's working okay for everyone. I came across a minor issue when disassembling a PPC elf(decompressed Wii dol). It complains about a setting in ida.cfg on line 966. This setting did not exist when the module was built(IDA 5.2), so you can commit out that line with two forward slashes and it will work just fine.
+
+There is also an incompatibility with the COFF and OMF loaders that I knew about when I shared this. If you are experienced and need this functionally, you should be able to remove the import and use mov eax, [ebp] in it's place.
+
+To clear up saving for the uninitiated, you can save your database like this:
+File->Produce File->Dump Database to IDC file...
+To load it, reload the file your working on, then open your saved IDC to restore your session:
+File->Script file...
+This will work between different versions of IDA so you can use your old databases and move between versions at will."
+,Midou01,2013-03-26T12:13Z,Windows version please?
+,allofit,2013-03-27T14:19Z,"This is old, a repack that includes the unmodified binaries can be found here:
+http://thepiratebay.sx/torrent/8170135/Hex-Rays_IDA_6.3_Linux_REPACK
+The loader patch is based off of IDA v5.2 and can be applied to the Windows, Mac, and Linux demos with only minor changes. All the hard work is done and shared; any updates or cracks for other platforms will have to be from your own initiative."

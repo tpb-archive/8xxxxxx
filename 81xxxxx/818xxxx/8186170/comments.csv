@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,shagamiri,2013-03-17T18:17Z,thank you!
+,jalucian,2013-04-11T01:51Z,"Thank you for ULing this - I've been looking for a follow up on the first 8 parts and you have included that, so thank you... but you should really list encoding stats. Bitrates, format (x264, XviD, etc.) and resolutions at a minimum. And why an flv container instead of mp4?"
+,jalucian,2013-04-11T01:53Z,"I mean I see that they are webrips, hence the flv, but it wouldn't have taken much effort to convert them to mp4."
+,serialdownloader,2013-04-18T18:59Z,"Convert web-rips into another format? I'm afraid the quality is bad enough as it is... The container format could probably be changed, but many webrips have non-standard or malformed file headers, seek issues, etc. Changing the container format could screw up an otherwise perfectly playable video.
+
+The only reason to prefer MP4 over FLV would be in order to play it on certain mobile devices that can play one format but not the other. On any standard PC computer, however, free media players such as VLC Media Player will play all of these files without any issues..."

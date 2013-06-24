@@ -1,0 +1,20 @@
+Language: Russian, English, Japanese, Portguese, German, Spanish, Serbian
+File size: 1.4 Mb
+
+Key features of Adguard:
+
+1. Saves time and nerves;
+2. Works with all popular browsers;
+3. Easy to use, works just out of the box, needs no tuning or customization;
+4. Comes with a browser module for manual ad blocking;
+5. Updated regularly;
+6. Works on 32x and 64x Windows versions.
+
+Release notes for 5.5:
+Added:
+
++ QT Web browser support
++ Sleipnir browser support 
++ Extended logging 
++ Filtration is enabled on big range of ports (not only 80) 
++ In proxy mode Adguard automatically set system settings 

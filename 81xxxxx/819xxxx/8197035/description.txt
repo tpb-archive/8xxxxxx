@@ -1,0 +1,55 @@
+Unapproved! Unofficial. Totally Underground. But, Absolutely Legal.
+
+For Your Consideration!
+
+Introducing!
+
+Ameretto!  - A Cappuccino Development Environment all Set up For You on a Linux Mint Live Distro!
+
+
+The password to enter this development environment: cappuccino
+
+I just began learning Cappuccino on Linux and thought I'd make it easier for any Linux or Window users who may be learning to program for the first time and who want to learn the hottest new multi-platfrom web programming language. You no longer have to think about writing browser specific code and you get a huge Framework of polished Mac-like controls that plug right in. And, you don't have to spend time with installation tutorials for dev tools, it's all set up for you on this iso. Instead, let's get coding now!
+
+I myself am using it and it's way better and more powerful than any web language I've used and you don't need a MicroSoft license!! Ha ha!
+
+Check out more about Cappuccino here: http://www.cappuccino-project.org/
+
+Based on the 4th most popular distro used in the world, Linux Mint is the top Linux choice for developing with Cappuccino. And the whole development environment is set up and ready to go for you with this customized iso.
+
+Try out live without touching your hard drive. This iso boots just to ram. Or install and update and get the speed benefits!
+
+The live disk also allows to just boot live and only develop in ram with Internet disconnected if you need the security for your development environment. This will keep all your work safe until you are ready to publish. Just save work on a secure or encrypted usb/hard disk until it ready for showing.
+
+All set up for development with:
+
+- Sublime
+- Chromium
+- Apache2
+- Django
+- Git
+- capp and jake
+
+- An off-line version of the Cappuccino API is loaded.
+- The most recent Cappuccino source compiled and ready to go.
+
+Post installation instructions:
+
+Update Linux Mint
+1. If the update icon appears on your toolbar, just hit it and follow instructions.
+
+Update Cappuccino
+Updating Cappuccino to get the bleeding edge changes is easy, it just take two commands:
+1. Open up terminal.
+2. Navigate to /home/cp/cappuccino/
+3. Enter the command: git pull
+4. After it finishes, enter: jake install
+5. Now you are updated!
+(I'll add a toolbar shortcut so this is one button press you for next release.)
+
+
+Here is an Objective-J tutorial I am creating to go with this iso:
+ 
+https://docs.google.com/document/d/1gJQq-V6gOjv9ZPudwODf-vOMWGG85QlMVRV9Zbr3wPE/edit?usp=sharing
+
+Thank you Linux Mint, Cappuccino, Sublime, Chromium, Django, and Apache! Special thanks to Remastersys which provides a way to integrate these awesome technologies in a custom Linux distro for a specific purpose. 

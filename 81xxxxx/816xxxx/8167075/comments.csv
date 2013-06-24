@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,darth5ava63,2013-02-20T21:26Z,"From the trailer i can see a huge change, feels more real. If that makes sense ?"
+,aenaon2k13,2013-02-20T23:10Z,"I think the right world is ""fluid"".
+
+60fps is fast enough for the eye to not be able to tell one frame from the other, giving the perception of fluid, realistic motion.
+
+24 fps is ok, but it is basically a slideshow whether you actively notice it or not."
+,okbyme,2013-02-22T20:00Z,"Was this sample converted from 24 fps to 60 fps? By what means?
+
+Where did the 36 extra frames come from? Interpolation? New frames from the original movie? How was the movie shot anyway?"
+,aenaon2k13,2013-02-22T23:13Z,"The movie was shot and released at 24fps as most do.
+There are many ways to do frame conversion, most of which is interpolation, like 120hz tvs do, but its nothing more than creating frames from the average of the frames near it.
+The best way is the motion estimated method, calculating where something was, where its going, and create the appropriate frame in-between.
+There are some programs that can do that, but the best results are using Apple's Compressor. The downside is that it's so CPU intensive that it is painfully slow. It is in fact the slowest conversion that you can do to a video but a huge margin :/"
+,okbyme,2013-02-23T18:08Z,I assume interpolation it is worth a look!

@@ -1,0 +1,17 @@
+Here are a couple of old games that I still like and I hope you will like them too.
+
+They aren't very long.  In fact you could beat the first game in under 3 hours and the second game in under 5 hours.  But they still pass the time very well.
+
+The games are:
+Star Trek 25th anniversary special (released 1993) and
+Star Trek Judgment Rites (released 1994)
+
+The torrent also includes:
+Manuals to both games (important because you need the star map to navigate to the correct planet or be out numbered by pirates, klingons, or romulans)
+DosBox (latest version) x86 version.  This is for compatibility reasons.  Also, I am not sure if there is even a x64 version of DosBox.
+
+To play these games, just extract to a folder on your hard drive. (something simple like C:OldGames).  Be sure to extract each game to its OWN folder.  I.E. Star Trek 25th Anniversary Special would be C:OldGamesST25.
+
+then install DosBox.  Then inside DosBox mount C Drive as C:OldGames (see why I said keep it simple).  DO NOT MOUNT C AS C:.  You can easily corrupt your OS doing that.  Once you have mounted the root folder where you extracted each of the star trek games, go into DosBox and type "CD ST25" for Star Trek 25th Anniversary and "CD Rites" for Star Trek Judgement Rites.
+
+IMPORTANT:  If you extract both the games to the same folder (and not their own subfolder) the games may become unstable and not work properly.

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,jooj21,2013-02-25T06:06Z,"the game works fine but it is in russian
+does anyone know a) if there is an english language already in the game and if so how to change it or b0 know a good english pack that will work for it"
+,monkeybro,2013-02-25T08:55Z,Thanks for all your uploads. I would be eternally grateful if you could upload a working version of Fallout 3. I have downloaded the torrent before but was unable to get working (after 20hrs dedicated to trying). Thanks mate!
+[V],thenoobish,2013-02-25T19:10Z,Jooj21: I'm sorry to hear that. I thought it had english language. I can't help you with that. I hope someone else can.
+,jooj21,2013-02-25T22:19Z,"its okay, if you come across another one that would be great, but you dont need to go out of your way thenoobish"
+,jooj21,2013-02-26T00:00Z,"it might have english in game, looking through the contents i have seen an english.lproj folder but i dont know how or if the language can be changed in game"
+,ad567,2013-03-02T19:43Z,"Hi Guyz
+
+Thanx for the upload
+
+wanted to share the Language Solution
+
+Go to the game in your application.>Left Click to show content.> search content for ""Options.cfg"">open with text edit.>scroll down till you find language.> Change ""ruru"" to ""EnEn"". 
+
+and your all set 
+
+Cheers"
+,Golfkidd101,2013-03-03T22:24Z,could you do any nascar game please
+,pilipalapong,2013-03-05T16:39Z,"Thanks ad567, your methods really works!"
+[V],thenoobish,2013-03-05T17:07Z,ad567: Thanks man. You are a good example of how the community should help each other! :)
+,grepe99,2013-03-06T23:37Z,game bounces on dock then goes to a white screen with two little white boxes in the top left corner. im running Lion 10.7.5 with intel graphics and 2.3 ghz. Please help im a fan and was too stoked to play but i have to wait.
+,jooj21,2013-03-08T03:13Z,"you have to go to the app in your applications folder, right click, show package contents, open wineskin, go to advanced, click on tools, change engined used, change to 1.5.23 and press OK, click update, ok, and it should work."
+,meluvsj00,2013-03-09T15:13Z,I cannot find the Options.cfg file inside the app... the only ruru I find is a folder inside the games folder
+,bjjfiter,2013-03-10T02:27Z,The tips posted here have been great.  Now the only problem for me is an invisible cursor in the game.  Anyone else getting this?
+,JejkCZ,2013-03-10T13:20Z,"Hey thenoobish,
+thanks 4 the upload you have a lot of good stuff here :) could you please put here game Pharaoh http://en.wikipedia.org/wiki/Pharaoh_(video_game)
+-- this game is very old but i used to play it a long time ago on my pc and i would be very pleased to have it on mac too
+
+Thanks
+
+btw i wonder how to put this game into english too :D"
+,bloopton,2013-03-10T23:13Z,"guys please help where is the Options.cfg file?  is it in drive c, contents, and if so, where in the contents?  "
+,pugaem,2013-03-10T23:30Z,"hi guys i cant play it, it stays on white screen any suggestions "
+,soxboy90,2013-03-11T21:20Z,"Thanks for the upload, and thank you to everyone for your helpful tips. I got the game working, but I also have an invisible mouse cursor. Does anyone know how to solve this? "
+,soxboy90,2013-03-13T19:38Z,"Solved the no cursor issue myself. Just put the game into windowed mode, and you should be good to go! Thanks again for the upload."
+,hagehun,2013-03-15T17:04Z,"If you have a white screen with two windows, then the wrapper needs an update.
+Right click on wrapper, run wineskin - Advanced - Tools - Update wrapper.
+
+I updated to 2.5.9 and it works like a charm."
+,McDiezel,2013-03-15T21:33Z,"You rule man lots of new games for my mac, but any more low-spec games for the mac you can upload would be much appreciated for my '06 Mac"
+,NoSeNaDa,2013-03-19T00:23Z,Seed please!
+,cemagaga,2013-04-06T12:44Z,"Had a little problem when launching the game, it gave me a white screen with a small square with the title Port Royale 3, could anyone help me?"
+,cemagaga,2013-04-06T12:45Z,"Sorry went trough the comment and found solution, real sorry for the trouble"
+,byoonbyoon,2013-04-14T15:29Z,"ad567
+
+Unfortunately, your method has proven ineffective for me. While I can open and view the options.cfg folder, it is a read-only volume and cannot be unlocked. I tried making a duplicate and replacing the original, but that didn't work either. Any advise would be excellent."

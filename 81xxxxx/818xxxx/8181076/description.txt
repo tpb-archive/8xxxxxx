@@ -1,0 +1,74 @@
+SkyriMerlin 1.2
+
+
+
+...::: Description :::...
+
+Based on Personalized Music by No_Aardvarks_Allowed (http://skyrim.nexusmods.com/mods/13286),
+this mod adds some music from the soundtrack of the BBC Merlin series to Skyrim.
+The songs have been manually sorted to appear in appropriate locations and situations and
+edited for the sake of smooth integration into the game's original soundtrack.
+The mod includes 45+ new tracks as of version 1.2. Future updates will include more songs.
+
+
+New music has been added for the following:
+
+-Dungeons
+-Battles
+-Dragon battles
+-Towns
+-Skyrim worldspace (different songs according to the time of day)
+
+
+By default, the new songs can be heard together with the game's original score,
+but there is also a replacer version available among the files (SkyriMerlin 1.2 - Only);
+as of now it is more of a semi-replacer, as castle music, tavern music, etc. have no replacement score yet.
+
+
+Additionally, you may download a replacement for the menu music and an accompanying menu background as well  (currently works on WIDESCREEN ONLY - other resolutions coming in later updates).
+
+
+
+...::: Installation instructions :::...
+
+Installing the replacer or non-replacer:
+
+1.) Open SkyriMerlin 1.2.rar (or SkyriMerlin 1.2 - Only.rar for the replacer) with WinRAR or a similar utility.
+2.) Extract SkyriMerlin 1.2.bsa (SkyriMerlin 1.2 - Only.bsa for the replacer) to &lt;Skyrim installation folder&gt;/Data. If asked to merge folders, click yes to all.
+2.) Extract SkyriMerlin 1.2.esp (SkyriMerlin 1.2 - Only.esp for the replacer) to &lt;Skyrim installation folder&gt;/Data.
+3.) Enable the appropriate .esp in your Skyrim Data Files. Both versions of the mod may be present in your Data folder simultaneously, but do not enable both .esps at the same time.
+4.) Enjoy!
+
+
+Installing the menu modification:
+
+1.) Open SkyriMerlin - Menu 1.0.rar with WinRAR or a similar utility.
+2.) Extract the contents of the Data folder in the archive to &lt;Skyrim installation folder&gt;/Data. If asked to merge  folders, click yes to all.
+3.) Enjoy!
+
+
+
+...::: Compatibility, other issues :::...
+
+SkyriMerlin 1.2 is compatible with all DLC-s up to Dragonborn.
+
+Known mod conflicts: any mods that replace music or alter the main menu background.
+
+
+
+...::: Recommended mods :::...
+
+Overall:
+Castle Strunmah, Cloaks of Skyrim, Deadly Dragon, Realistic Water Textures and Terrain, Skyrim HD - 2K Textures, Skyrim Flora Overhaul
+
+For a wizard:
+Balanced Magic, Midas Magic - Spells in Skyrim, Phenderix Magic Evolved - 272 Spells, Spells Will Give Off Light, Apocalypse Spell Package, Tribunal robes and masks
+
+For a knight:
+Hedge Knight Armor, A Steel Heater Shield, Excalibur, Craftable Crossbows and Bolts for all, Archery Power Balance, Torch Arrows, Enhanced Crossbows Enhanced
+
+
+
+...::: News, questions, help :::...
+
+IEG Team

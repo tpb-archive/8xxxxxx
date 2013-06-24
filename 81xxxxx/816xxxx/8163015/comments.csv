@@ -1,0 +1,96 @@
+﻿User Type,Username,Date,Text
+,angelarroyo22,2013-02-19T16:35Z,omg dude u are so obsesive why having all the pirate bay torrent??
+,mrjackspider,2013-02-19T17:29Z,This is fabulous!
+,dmiMyranib,2013-02-19T18:14Z,"That is a great upload, for sure ! I have already downloaded, but unable to open the XML file ! 
+
+I used :
+
+/Dreamweaver [ Error ]
+/Notepad++     [ File is too big ]
+/Mozilla Fire Fox [ Error on Line 6 Column 1 ]
+
+To read the XML File, none was able to open it !
+
+Help ! 
+"
+,radioman-lt,2013-02-19T23:37Z,use Large Text File Viewer: swiftgear.com/ltfviewer/features.html
+,lets_do_it_the_indian_way,2013-02-20T04:57Z,I am going to send this file on a flash drive to Mars . Then no one would be able to raid it . Fuck yeah !
+,nginx,2013-02-20T16:38Z,Good luck to the MAFIAA. Try and stop file sharing now. Every pirate on earth can now keep a copy of TPB on their HDD. Share away people!
+,Kalkusa,2013-02-20T22:28Z,"Reading the XML File in  ---Large Text File Viewer---
+is just horrible is there any alternatives? "
+,romintang,2013-02-21T00:19Z,"Dude, write your own program code to read and parse the XML, in C++, Java, Python, etc.... there're ton of XML parsers in the Internet. "
+,atndigcrk,2013-02-21T04:23Z,"as a uploader here , i love this alot"
+,TheMXL,2013-02-21T04:51Z,The power of millions is now in my possession! 
+,wasifmehmood,2013-02-21T11:38Z,"well my little question is how can i use it.i dowanload it i open it but i cn,t find any torrent there.now plz tell me how can i use all this"
+,SoftSex,2013-02-21T17:03Z,Good luck trying to stop piracy now! Tons of people with this in theyr hdd or any other storage devices! Never mess with a pirate!
+,kbilek,2013-02-21T21:36Z,Apparently the XML is not well formed. I will post the well-formed one afterwards (sorry guys)
+,T3chEra,2013-02-22T00:07Z,"I'll be waiting to download for the properly formatted XML, then. I wanna put this on a flash drive, but want it to work relatively without issue first >.<
+We appreciate your time and efforts, uploader!"
+,kbilek,2013-02-22T21:16Z,"Some people noticed that the XML files are not well-formed and valid. I am sorry for that, but I made perl scripts that will make them both, see https://github.com/runn1ng/pb-archive-make-valid. The script need perl, bash and sed, so you will need linux (OS X will maybe be sufficient but I have nowhere to try). I think it is better solution than uploading the file again; I am again sorry for the inconvenience.
+
+Also - to everyone that is trying to open the file in notepad/something crazy like that - the file is NOT intended for ordinary usage instead of pirate bay. There is not point in manually searching in 4GB XML file."
+,T3chEra,2013-02-22T23:44Z,"Out of curiosity, is this something you intend to continue doing? Will there be future archives? How often do you plan on making updated archives/when will the next one be?"
+,Bodhi2010,2013-02-23T13:31Z,"how do use this XML file? http://bvlist.com
+people want to make their own tracker
+"
+[H],shirepirate,2013-02-26T02:17Z,"@kbilek
+
+there are at least 2.4-ish million torrents. out of curiosity how many magnet URIs did you come up with?"
+,bluegreen0148,2013-02-26T16:48Z,"@kbilek I tried the script and still didn't work. Here's what it gave me: Backslash found where operator expected at correct.pl line 1, near ""rtf1""
+Backslash found where operator expected at correct.pl line 1, near ""ansi""
+Backslash found where operator expected at correct.pl line 1, near ""ansicpg1252""
+Backslash found where operator expected at correct.pl line 1, near ""cocoartf1187""
+Backslash found where operator expected at correct.pl line 2, near ""fonttbl""
+Backslash found where operator expected at correct.pl line 2, near ""f0""
+Backslash found where operator expected at correct.pl line 2, near ""fmodern""
+Backslash found where operator expected at correct.pl line 3, near ""red255""
+Backslash found where operator expected at correct.pl line 3, near ""green255""
+Backslash found where operator expected at correct.pl line 4, near ""margl1440""
+Backslash found where operator expected at correct.pl line 4, near ""margr1440""
+Backslash found where operator expected at correct.pl line 4, near ""vieww10800""
+Backslash found where operator expected at correct.pl line 4, near ""viewh8400""
+Backslash found where operator expected at correct.pl line 5, near ""viewkind0
+""
+	(Missing semicolon on previous line?)
+Backslash found where operator expected at correct.pl line 6, near ""deftab720
+""
+	(Missing semicolon on previous line?)
+Backslash found where operator expected at correct.pl line 6, near ""pard""
+Backslash found where operator expected at correct.pl line 8, near ""pardeftab720
+
+""
+	(Missing semicolon on previous line?)
+Backslash found where operator expected at correct.pl line 8, near ""f0""
+Backslash found where operator expected at correct.pl line 8, near ""fs26 ""
+	(Do you need to predeclare fs26?)
+Backslash found where operator expected at correct.pl line 12, near "") ""
+	(Missing operator before ?)
+Backslash found where operator expected at correct.pl line 14, near ""}""
+	(Missing operator before ?)
+Backslash found where operator expected at correct.pl line 24, near ""'    ""
+  (Might be a runaway multi-line '' string starting on line 20)
+	(Missing operator before     ?)
+Backslash found where operator expected at correct.pl line 26, near """"
+	(Missing operator before ?)
+Backslash found where operator expected at correct.pl line 30, near "") ""
+	(Missing operator before ?)
+Backslash found where operator expected at correct.pl line 33, near ""s/AAAmp/&/g""
+syntax error at correct.pl line 1, near ""rtf1""
+syntax error at correct.pl line 3, near ""red255""
+syntax error at correct.pl line 4, near ""margl1440""
+syntax error at correct.pl line 12, near ""if""
+syntax error at correct.pl line 14, near ""}""
+syntax error at correct.pl line 33, near ""s/AAAmp/&/g""
+Missing right curly or square bracket at correct.pl line 35, at end of line
+Execution of correct.pl aborted due to compilation errors."
+,qdhcjv,2013-02-26T21:05Z,"Fantastic! Use the Large Text File Viewer, it's very annoying but works:
+swiftgear.com/ltfviewer/features.html"
+,theguy39,2013-02-28T05:11Z,Could you release this in csv format!?
+,romintang,2013-03-03T23:58Z,"Will be much easier to utilize this xml when it's converted to database, 
+use this TPB tool: ""PremiumSoft Navicat Premium Enterprise v9.1.8+Keygen+Serial"" (8FAFC86BD3B8B87CE595159C8F584935CE5EE732) to import/convert xml to database (Mysql, oracle, sql server, postgresql, sqlite).
+will be much faster to read/search data in DBMS format."
+,marco22222,2013-03-09T04:53Z,Hello everyone. IMHO the most convenient to access and use the data is with an application that is already designed to handle hughe amount of news/data. Would it be possible to import the xml file into a feed reader such as RSS Owl? I wonder if the same would be possible for the BitSnoop archive.
+,chunkymunky9000,2013-03-13T05:02Z,"Ah yes, but does the archive contain a link to ITSELF?"
+,dlfx,2013-03-16T15:39Z,POWER TO THE PEOPLE!
+,w00tbie,2013-04-04T11:47Z,"thanks @chunkymunky9000, my head just exploded. "
+,pedro5_10,2013-06-01T21:23Z,i am the god of torrent watch thaat

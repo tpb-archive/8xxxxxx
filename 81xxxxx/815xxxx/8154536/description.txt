@@ -1,0 +1,29 @@
+TITLE: Star Wars: Yoda's Stories
+RELEASE DATE: March 1997
+DEVELOPER: LucasArts
+PLATFORM: Windows PC
+
+
+----INSTRUCTIONS----
+
+This game has been tested on Windows 7 and works. The latest patches have been applied.
+
+1. No installation. Simply click YODESK.exe to start playing.
+
+2. Playing the game: the game window is small. One trick to make it larger is to use the Magnifier accessory included with Windows. On Windows 7 it can be found in All Programs - Accessories - Ease of Access. If you find a better solution, please leave a comment.
+
+3. Saving the game: when you save your game (File - Save World), you can place the save file wherever you like. (If you use a cloud storage service like Dropbox or Google Drive, you can save it in your sync folder.) 
+
+HINT: Before starting a new game, check out World Control under Options. You can adjust the size of the game world.  
+
+
+----HOW THIS TORRENT WAS COMPILED----
+
+Based on this original ISO and Windows XP patch:               https://thepiratebay.se/torrent/5737393/Star_Wars_Yoda_Stories_with_XP_Patch_(1997)
+
+I simply copied the contents of the YODA folder on the mounted ISO and pasted it onto my hard drive. In fact, I found that was the only way I could run the game (normal installation didn't work). I applied the Windows XP patch from the above torrent to it, as well as yopatch6.exe from LucasArts:      http://www.lucasarts.com/support/update/yoda.html 
+
+Although the game seemed to work fine without it, I included the THEMES folder from the mounted ISO just in case and because, hey, you get the sprites! 
+
+
+NOTE: This torrent does not include the Star Wars: Making Magic interactive program that came included on the Yoda's Stories CD-ROM. That program can be found in other torrents (such as the one linked to above) and accounts for 469 MB / 487 MB of the ISO, i.e. of the original content of the CD-ROM. I didn't include Star Wars: Making Magic because it's a bonus feature that I can't even get to work on Windows 7, and because it would have made the torrent vastly larger. If you have found a way to get Making Magic to work on Windows 7, please leave a comment. I would love to get it running!

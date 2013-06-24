@@ -1,0 +1,7 @@
+Main issue is the auto deletion of the setup file, make sure to do the usually add to exclusions the folders being used (which may include Local/Temp)... the MAIN issue is it's not NOD32 that's deleting the setup file or the TNOD.exe file it's your other anti-spyware.
+
+Malwarebytes is detecting it as a trojan, in order to fix this first restore the file and then scan the file, it will popup and you can then right-click on the file and then click "Add to Ignore List".
+
+Do this on other programs to because it's not ESET NOD32 (otherwise disable everything in NOD32 until restart and then install and add to exclusions on all programs).
+
+Been running ESET NOD32 Smart Security for over 5 years now and it's still too expensive lol ;).

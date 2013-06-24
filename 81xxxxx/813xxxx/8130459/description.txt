@@ -1,0 +1,68 @@
+General
+Complete name                  : The.Impossible.2012.480p.BRRip.x264.AAC-AMX.mkv
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 697 MiB
+Duration                       : 1h 53mn
+Overall bit rate               : 858 Kbps
+Writing application            : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 8 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 53mn
+Nominal bit rate               : 751 Kbps
+Width                          : 720 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 24.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.143
+Writing library                : x264 core 129 r2245 bc13772
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 1h 53mn
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Delay relative to video        : 22ms
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Menu
+00:00:00.000                   : en:00:00:00.000
+00:07:10.292                   : en:00:07:10.292
+00:12:50.875                   : en:00:12:50.875
+00:21:20.250                   : en:00:21:20.250
+00:27:02.625                   : en:00:27:02.625
+00:31:59.083                   : en:00:31:59.083
+00:38:13.792                   : en:00:38:13.792
+00:44:35.833                   : en:00:44:35.833
+00:51:09.125                   : en:00:51:09.125
+00:56:24.042                   : en:00:56:24.042
+01:03:24.583                   : en:01:03:24.583
+01:10:14.500                   : en:01:10:14.500
+01:15:27.292                   : en:01:15:27.292
+01:23:51.083                   : en:01:23:51.083
+01:36:00.500                   : en:01:36:00.500
+
+Source: The.Impossible.2012.1080p.BluRay.DTS.x264-PublicHD Thanks!!!

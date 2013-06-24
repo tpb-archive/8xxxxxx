@@ -1,0 +1,44 @@
+What is new in Version 10.0 (Released: 2013-2-25)
+
+-New GUI design: 60 new Metro/Windows 8 style buttons
+-Resizable tool window
+-Big app icon (256 x 256)
+-Change all texts with Edit > Change all Texts
+-Change all fonts with Edit > Change all Fonts
+-Change all textures with Edit > Change all Textures
+-Find a layer with <Control> F
+-Find next layer with <Control> G
+-Merge shows with <Control> M
+-Multiple viewports
+-Full audio support
+-New physics effects: ZigZag and Robotic
+-New light layer property: Beam Range
+-New text layer effects: XY-Slices, Z-Slices, Straight Slices, Round Slices, Vertically Revolved, Tubular Square, Light Discs, Light Bulbs, Extended Outlines and Ornaments
+-New text layer properties: Text Rotation Centre, Slices Position and Slices Rotation
+-New particle layer effects: 3D Cubes and 3D Blocks
+-New plasma layer property: Gradient Power
+-New sketch layer effect: Square
+-New sketch layer property: Shearing
+-New model layer properties: Submodel and Rotation Centre
+-Z-Bias properties in the text, EPS, picture and model layers to solve sorting problems.
+-Advanced cache control: Cache XML files checkbox in the Settings > Internet Options... dialog
+-Possibility to set the resolution of your webcam
+-Possibility to attach a light layer to a camera layer
+-Select a layer by double clicking on it
+-Moving a layer by dragging it is now relative to the camera orientation
+-Super fast shader antialiasing
+-Motion blur export option
+-New setting in options dialog: sort layers on layer type
+-New setting in options dialog: auto folding layers hierarchy
+-New setting in options dialog: always show tool window on startup
+-Bugfix: undo/redo now works as it should
+
+Languages : Afrikaans, Arabic, Bahasa Indonesia, Bosanski, Bulgarian, Catalan, Chinese, Chinese Big5, Chuvash, Czech, Dansk, Deutsch, English, Español, Ewe, Farsi, Français, Galego, Greek, Hebrew, Hrvatski, Italiano, Japanese, Korean, Kurdish, Magyar, Myanmar, Nederlands, Norsk, Polski, Portugues, Portugues (Brasil), Romana, Russian, Slovak, Srpski, Suomi, Svenska, Tagalog, Türkçe, Ukrainian, Urdu
+
+BluffTitler requires : 
+
+- DirectX 9 version June 2007 or later. 
+- Windows 8, 7 and Vista run DirectX 9 side by side with higher versions of DirectX. So even on 8, 7 and Vista you might have to update DirectX 9.
+
+Homepage :  
+http://www.outerspace-software.com/blufftitler.html

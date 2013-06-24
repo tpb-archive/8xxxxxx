@@ -1,0 +1,58 @@
+SPORT: Rugby Highlights - Aviva Premiership
+On: itv 
+Date: Monday 18th February 2013 
+Time: 00:15 to 01:20 
+
+Action from this weekend's Round 15 games including Harlequins against Leicester, and Saracens' sold out first league match at their new stadium against Exeter Chiefs. Presented by Martin Bayfield and Craig Doyle.
+
+General
+Complete name: 2013.02.18.Rugby.Union.Aviva.Highlights.pdtv.x264.mp4
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size: 436 MiB
+Duration : 45mn 35s
+Overall bit rate mode: Variable
+Overall bit rate : 1 337 Kbps
+
+Video
+ID : 1
+Format : AVC
+Format/Info: Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames: 15 frames
+Codec ID : avc1
+Codec ID/Info: Advanced Video Coding
+Duration : 45mn 22s
+Bit rate : 1 215 Kbps
+Maximum bit rate : 4 174 Kbps
+Width: 720 pixels
+Height : 416 pixels
+Display aspect ratio : 1.731
+Frame rate mode: Constant
+Frame rate : 25.000 fps
+Color space: YUV
+Chroma subsampling : 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame) : 0.162
+Stream size: 394 MiB (90%)
+Writing library: x264 core 129 r2245 bc13772
+
+Audio
+ID : 2
+Format : AAC
+Format/Info: Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 45mn 22s
+Bit rate mode: Variable
+Bit rate : 124 Kbps
+Maximum bit rate : 130 Kbps
+Channel(s) : 2 channels
+Channel positions: Front: L R
+Sampling rate: 48.0 KHz
+Compression mode : Lossy
+Stream size: 40.2 MiB (9%)
+

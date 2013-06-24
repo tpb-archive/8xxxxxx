@@ -1,0 +1,84 @@
+ Plot: A series of interconnected short films follows a washed-up producer as he pitches hilarious and insane story lines featuring some of the biggest stars in hollywood.
+
+ MediaInfo:
+General
+Unique ID                                : 215937008423642809801339959721809767791 (0xA273F47EF9012807BD2BA3E939ED6D6F)
+Complete name                            : C:UsersIvanDesktoptempMovie 43.1080p.Remux.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 12.7 GiB
+Duration                                 : 1h 39mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 18.3 Mbps
+Encoded date                             : UTC 2013-02-25 15:55:09
+Writing application                      : mkvmerge v5.7.0 ('The Whirlwind') built on Jul  8 2012 20:08:51
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 39mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 30.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Format profile                           : MA / Core
+Mode                                     : 16
+Format settings, Endianness              : Big
+Codec ID                                 : A_DTS
+Duration                                 : 1h 39mn
+Bit rate mode                            : Variable
+Bit rate                                 : Unknown / 1 509 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless / Lossy
+Language                                 : Russian
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Format profile                           : MA / Core
+Mode                                     : 16
+Format settings, Endianness              : Big
+Codec ID                                 : A_DTS
+Duration                                 : 1h 39mn
+Bit rate mode                            : Variable
+Bit rate                                 : Unknown / 1 509 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless / Lossy
+Language                                 : Russian
+Default                                  : No
+Forced                                   : No
+
+Menu

@@ -1,0 +1,25 @@
+This package's goal is to provide a "streamlined" (i.e. PowerPC only) version
+of Mac OS X 10.5.8 (last minor release) for Macintosh users who still utilize
+PowerPC based Macs.  This is done through the following effort:
+
+
+1. Install a full version of Mac OS X 10.5
+(both Intel and PowerPC code)on a PowerPC based Mac
+ 
+2. Apply all updates available to Mac OS 10.5 as of released 
+ date of this package (MacOSX10.5.8)
+ 
+3. Stripping all Intel code from ALL libraries, binaries, etc
+(evenatthe Mach/BSDLayer)
+ 
+4. Resetting back to a core install 
+ (first time startup on next boot)
+ 
+5. Repackage contents into a compressed archive for distribution.
+ 
+ 
+ 
+The end result is a faster, cleaner running Mac OS X 10.5.8 
+for use on older PowerPC based Macintosh Systems that can be
+imaged over to any support PowerMac/Powerbook G4 or G5 system.
+ 

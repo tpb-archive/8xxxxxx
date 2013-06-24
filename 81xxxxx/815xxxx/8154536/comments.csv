@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,chunkymunky9000,2013-02-17T22:20Z,"Another way to address the issue of the game window being so small is as follows. Right-click YODESK.exe, go into properties, select the Compatibility tab, and check the box that says 'Run in 640 x 480 screen resolution'. This will turn your whole display into 640 x 480 until you close the game (it usually takes a minute to revert back to the normal resolution). I'll let you decide whether this is better or worse than using Magnifier  "
+,chunkymunky9000,2013-02-17T23:19Z,"Another tip: if you find that the enemies are moving around way too fast, go into Options and change the game speed. "
+,dahaka47,2013-02-17T23:28Z,"How did you even make it so big? I messed with Yoda Stories just a couple of days ago, and the full game, unpacked, takes about 8 megabytes."
+,chunkymunky9000,2013-02-18T00:08Z,"@dahaka47 The THEMES folder is 7.75 mb, and the two patch executables together are 1.32 mb. So that's where the extra 9 mb came from. As I said in the description, I included the THEMES folder because people might like to have the sprites from the game. I included the two patch executables (even though they are already applied and there is no need for them) just in case they would be interesting or useful to someone someday. "
+,dahaka47,2013-02-18T12:53Z,"I see. Good job man, thank you for bringing this game back to us. People with 64-bit systems would's be able to install it (16-bit installer).
+
+I myself have ""ported"" most Star Wars games onto new systems by remaking the installers and making full versions run properly without discs (and still with music and cinematics). So I'm totally with you on this. :)"
+,chunkymunky9000,2013-02-18T22:14Z,@dahaka47 ah cool! you should definitely upload your ported games onto here. I bet a lot of people would love to play them 
+,chunkymunky9000,2013-02-18T22:16Z,"Important note about the game: there are many stories (quests), I think fifteen in total. After you complete a story, it will say ""YOU WON!"" However, that just means you won one story, not the entire game. If you then hit Replay Story, you'll start a ""new"" game and you can begin a different story. 
+
+Yoda's Stories will keep track of how many stories you've won in the Statistics under Options. This way you will unlock new stories as you go along. (Also, it seems that getting in your X-Wing right away, before talking to Yoda, can trigger a different story than talking to him first thing.) If you're having trouble, leave a comment. 
+
+P.S. Having trouble fighting enemies? Where you hold your cursor controls the direction Luke is facing, hence the direction in which he attacks. "

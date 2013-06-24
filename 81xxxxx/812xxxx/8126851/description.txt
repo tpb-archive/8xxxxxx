@@ -1,0 +1,23 @@
+*** DIRECTSHOW FILTER LIST ***
+1. Default DirectSound Device
+2. VMR9 - Renderless mode
+3. Gretech Audio
+4. Gretech Video
+5. CyberLink Video/SP Decoder (PDVD10)
+6. Gretech Matroska Source
+
+
+*** VIDEO INFO ***
+Input Type : YUY2(RAW)
+Input Size : 720 x 576
+Output Type : YUY2
+Output Size : 720 x 576
+FrameRate(Frame/sec) : 0.00 (25.00)
+
+
+*** AUDIO INFO ***
+SampleRate(Sample/sec) : 48000
+BitRate(Bit/sample) : 16
+Channels : 2
+KBitRate(KBit/sec) : 0
+

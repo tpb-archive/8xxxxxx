@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,joecraft,2013-02-23T23:36Z,"working great, thanks"
+,12123554,2013-02-24T05:46Z,"This one runs perfectly, thanks soulking!"
+,Sons2010,2013-02-25T07:24Z,help this game crashes when i start the game
+,andre1828,2013-02-26T03:45Z,"It Works
+
+Really interesting game"
+,RiceKun,2013-02-28T13:28Z,"Didn't work for me. I use windows 7 64 bit. Error message below. 
+
+Steps taken: Unpacked, mounted .cue, ran .exe, copied crack.
+
+Problem signature:
+  Problem Event Name:	CLR20r3
+  Problem Signature 01:	the bridge.exe
+  Problem Signature 02:	1.1.0.0
+  Problem Signature 03:	5127a2f7
+  Problem Signature 04:	Microsoft.Xna.Framework
+  Problem Signature 05:	4.0.0.0
+  Problem Signature 06:	4c72cc22
+  Problem Signature 07:	504
+  Problem Signature 08:	51
+  Problem Signature 09:	System.InvalidOperationException
+  OS Version:	6.1.7601.2.1.0.768.3
+  Locale ID:	1033
+  Additional Information 1:	0a9e
+  Additional Information 2:	0a9e372d3b4ad19135b953a78882e789
+  Additional Information 3:	0a9e
+  Additional Information 4:	0a9e372d3b4ad19135b953a78882e789
+
+Read our privacy statement online:
+http://go.microsoft.com/fwlink/?linkid=104288&clcid=0x0409
+
+If the online privacy statement is not available, please read our privacy statement offline:
+  C:Windowssystem32en-USerofflps.txt
+
+Anyone have any idea how to fix it? First torrent I can't get working."
+,LgnLOL,2013-02-28T16:22Z,"Ok guys, i've found the problem.
+You need Windows Media Player installed on your pc in order to run the game.
+At least it worked for me, tell me if it works for you too :D "
+,jossan113,2013-03-02T14:05Z,"Don't work... I have all the fan-thbr-001 002 etc. files, but I cant put them together in winrar to begin to mount.. what should I do? Rly want this game"
+,angma,2013-03-03T17:41Z,"Try installing the MS XNA redistributable... that's what is being referred to in the error msg. 
+""The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 4.0."""
+,UnShame,2013-03-07T04:15Z,"Works fine for me, thanks."
+,memo81,2013-04-13T12:13Z,the starts in resolution higher that i can handle i cant change the resolution cuz its black screen what should i do ?

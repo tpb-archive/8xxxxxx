@@ -1,0 +1,57 @@
+MX Player Pro v1.7.11
+
+Requirements: Android 2.1 and up
+
+Overview: THIS IS THE AD-FREE VERSION OF MX PLAYER. MX Player - The best way to enjoy your
+
+&lt;Key Features&gt;
+
+a) MULTI-CORE DECODING - MX Video Player is the first Android video player that performs multi-core decoding. According to the test results on dual-core devices, it shows up to 70% performance improvement than single-core devices.
+
+b) CPU OPTIMIZATION - Provides highly optimized Codecs and Rendering Engines for the processors including ARM┬« NEONΓäó and NVIDIA┬« TegraΓäó 2.
+
+c) PINCH ZOOM - Easily zoom in and out by pinching and swiping across screen.
+
+d) SUBTITLE SCROLL - Scroll on subtitle text and playback position will be adjusted to match previous or next subtitle timing.
+
+e) BETTER SUBTITLE READABILITY - Increased subtitle readability with thicker border and shadow around text.
+
+f) ANDROID 4.1 - Fully supports Android 4.1 Jelly Bean.
+
+
+&lt;Subtitle Formats&gt;
+
+- DVD, DVB, SSA/ASS Subtitle Tracks.
+- Sub Station Alpha(.ssa/.ass) with full styling.
+- SAMI(.smi/.sami) with ruby tag support.
+- SubRip(.srt)
+- MicroDVD(.sub/.txt)
+- SubViewer2.0(.sub)
+- MPL2(.mpl/.txt)
+- PowerDivX(.psb/.txt)
+- TMPlayer(.txt)
+
+******
+What's in this version:
+Added support for double tap gesture; Toggle play/pause.
+Added support for Samsung multiwindow.
+Added an option to hide position text while seeking video. Check Playback screen &gt; Menu &gt; Display &gt; Settings &gt; Navigation &gt; Display position text while seeking video
+Changed Kids Lock behavior; If kids lock is in use, do not exit playback screen even if last video is finished.
+Fixed h/w+ playback failure on Google Nexus 10.
+Fixed dialogs not to hide behind main window in Android 4.2
+
+
+Note:
+
+Please remove all previous version and codec at first!!!
+
+Whats Included :
+
+MX Player Pro 1.7.11 (NEON)
+
+ARMv7 (Tegra2) Codec 1.7.11
+
+ARMv6+VFP Codec 1.7.11
+
+* Make a backup of your current version's data/setting (if necessary)
+** Restore your backup data/setting (if necessary) 

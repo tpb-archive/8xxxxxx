@@ -1,0 +1,10 @@
+This application is an application web server for android that includes:
+
+LIGHTTPD as the web server.
+PHP5 as php server with bgi.
+MYSQL for databases.
+
+In just one touch, you can run web dynamic scripts and host your very own website, blog or even forum!
+
+
+Please seed.

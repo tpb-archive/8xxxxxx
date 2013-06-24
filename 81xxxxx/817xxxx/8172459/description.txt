@@ -1,0 +1,52 @@
+HI2U
+
+The Cave for Linux (c) Double Fine
+
+Release Date : 21st of February, 2013
+Protection  :
+Type        : Adventure
+Size        : 25 x 50mb
+
+Description
+
+The Cave is a new adventure game from Monkey Island and Maniac Mansion
+creator Ron Gilbert, and Double Fine Productions, the award-winning studio
+behind Psychonauts and Brtal Legend
+
+Assemble your team of three from seven unlikely adventurers, each with their
+own unique personalities and stories, then descend into the mysterious
+depths to explore locations including a subterranean amusement park and a
+medieval castle, not to mention a fully armed and ready-to-launch nuclear
+tipped ICBM. The Cave awaits
+
+Key Features
+
+Seamlessly Spelunk - Explore a ginormous completely seamless cave-world
+presented in astounding cross-section that will blow... your... mind
+Assemble a team of 3 explorers - From the Hillbilly to the Time Traveller
+all 7 characters have their own unique personalities, special talents and
+a dark and secret reason for descending The Cave
+A Cave like no other - If you enjoy spelunking and dark rocky caverns then
+be prepared to be disappointed. Your first clue The Cave is a place like
+no other will be when you stumble across the subterranean amusement park
+or the medieval castle, not to mention the fully armed and ready to launch
+nuclear tipped missile
+Let's work together - Switch between the 3 characters, in cooperation with
+each other, and solve physical and adventure puzzles as you learn the
+truth behind why they are here. Share the cave exploring adventure with
+friends in local co-op
+Unlock all the secrets of the cave - Replay the adventure with a new set
+of characters for a whole different experience including unique story,
+puzzles and areas of The Cave, plus hidden treasures (not redeemable for
+cash) and collectables
+Watch the Cave come alive - Experience the detailed, stunning art style
+and humor that only Ron Gilbert and Double Fine can dream up.
+
+Install
+
+Unrar, unpack the archive, run the game using ./rungame.sh
+Enjoy
+
+Nb: You might need extra libs to get this to run. Use "ldd Cave.bin.x86" to
+check which are missing. On a 64-bit Ubuntu install we tested on, the
+following packages needed to be installed: libc6-i386 ia32-libs-multiarch

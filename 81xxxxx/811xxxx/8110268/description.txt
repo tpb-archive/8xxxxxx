@@ -1,0 +1,21 @@
+KMSnano v22
+
+This is a portable Key Management Service (KMS) Host for Windows (client) 6.0, 6.1, and 6.2, and for Office 14 and 15.
+It is a virtual machine that runs within Windows and activates Volume License versions of Windows (client) and Office for 180 days.
+
+- Requirements: .NET 4.0 or Windows 8.
+- Activates Windows Vista/7/8 Pro/Enterprise/N/VL and Office 2010/2013 Retail/VL.
+
+1. Install KMSnano_setup.exe
+2. Done.
+
+Change Log:
+- Fixed known bugs.
+
+Recommendations:
+
+- Disable SmartScreen.
+- Disable microsoft security updates.
+- Make exceptions to KMSnano.exe and %temp%KMSnano in Antivirus.
+
+Developed by heldigard from the MDL forums.

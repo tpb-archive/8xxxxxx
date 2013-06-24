@@ -1,0 +1,62 @@
+UFS Explorer Professional Recovery
+
+UFS Explorer Professional Recovery is a full-featured software application designed exclusively for data recovery specialists. The application successfully combines low-level data analysis and data management functions with high-level data recovery tools. UFS Explorer Professional Recovery is the only software of the UFS Explorer group that allows to alter original information on the storage.
+
+Advanced multi-tool interface makes the software suit even complicated data recovery tasks. With UFS Explorer Professional Recovery you can carry out thorough data analysis and conduct full-scaled data recovery. Embedded RAID-Builder mechanism allows to build standard RAID configurations of any level. Moreover, 'RAID definition language' used by this software will let you build any custom RAID configuration. If necessary, low-level tools of UFS Explorer Professional Recovery allow to make permanent changes to the information initially contained on the storage. The software can be installed to several operating systems - Microsoft Windows, Apple Mac OS and Linux.
+
+With consideration for user-friendliness software tools are grouped into several separate blocks each applicable to certain operations. Disk management system automatically defines storages and opens disk images, standard and custom RAID configurations as well as virtual disks of virtual machines. The system will let you open a disk partition or a storage device specifying name or mount point (disk letter, mount path etc.). UFS Explorer Professional Recovery embraces embedded Hex-Viewer tool that allows to view data on a disk or separate disk partition and alter including overwrite data on the storage. File manager allows to preview existing file system and recover data from it. Among other functions file manager includes files search and preview, data analysis, identification and positioning by file content and file descriptors. File system recovery manager allows to find files, preview found files and recover them to a local disk. For added convenience UFS Explorer Professional Recovery manages simultaneous performance of multitasking operations.
+
+Designed for professionals this product requires at least basic user expertise. The software contains a set of safe read-only data analysis tools that allow to solve most practical data loss cases and a write-enabled hexadecimal editor to correct even severe cases of file system damages.
+
+As a comprehensive multi-functional application UFS Explorer Professional Recovery will be perfect solution for detailed data analysis and professional recovery of lost and deleted data.
+
+Key features
+
+Immediate data access for consistent file systems
+
+The software allows to access data on all the supported file systems, including file systems on disk images, virtual disks, RAID storages etc. without the need of prior scan.
+
+Support of disk images and virtual disks
+
+The software allows to open disk images and virtual disks produced by virtual machines of the leading virtualization software vendors (including VMware Player, VMware Workstation, VMware ESX Server, VMware Fusion, Microsoft Virtual PC, Microsoft Hyper-V, Parallels Desktop etc.). The software operates virtual disks and disk image files exactly in a way as if they were physical disks and allows to access or recover lost data from disk images and virtual disks.
+
+Recovery of complex RAID storages
+
+This software edition for professional data recovery supports virtual reconstruction of a RAID system after failure of controller or RAID metadata. The software manages virtual RAID building and reading its files and folders as if it were physical RAID storage. This professional application easily handles both simple RAID configurations (such as stripe set - RAID level 0, Span, Mirror - RAID level 1) and complex RAID such as RAID 5 and RAID 6. RAID-on-RAID feature allows to build RAID configurations of increased complexity such as RAID 50, RAID 60 etc. Support of Runtime Software Virtual Image Files together with RAID Definition Language make possible to set up custom RAID configuration with different data distribution algorithms. Asynchronous data access technology and adaptive RAID reconstruction makes recovery fast and efficent. 
+
+Full-disk encryption support
+
+The software is able to decrypt disk volumes for data recovery and data access purposes (if encryption key is known). Decryption module is compatible to Linux device mapper encryption module (dm-crypt) and can be used with encrypted storages (including NAS storages).
+
+Disk-on-disk recovery
+
+The software opens disk image files or virtual disks from a file system opened in UFS Explorer. With this application you can easily build RAID that stores VMware ESX virtual machines (VMFS file system), open virtual disk directly from VMFS and recover data directly from virtual machine without the need to extract virtual disk first. Disk-on-Disk software feature activates a variety of low-level data access tools such as access to system-locked virtual disks of running Hyper-V server, access to CD/DVD image files stored on a file system of 'parallel' operating system etc.
+
+Comprehensive files recovery
+
+A set of tools implemented in the software provides solutions for most practical data loss cases. Depending on certain situation the software either simply reads or conducts detailed analysis of file system metadata to find lost files. Even if the metadata is lost permanently, the software can guess file allocation basing on the file system specifics, other files allocations and file content analysis to produce the best possible data recovery result.
+
+Recovery after file system format
+
+UFS Explorer Professional Recovery allows you to analyze the storage for previous file system formats and even choose among different possible file system configurations for recovery. If you are not sure what file system was on the storage before format, the software can analyze the storage and find all the possible file system variants. The software will find all detectable file system variations and allow you to choose all or any of them for recovery.
+
+Data consistency analysis and error correction
+
+UFS Explorer Professional Recovery is the only edition of UFS Explorer group that includes tools for low-level data consistency analysis. The software allows to identify location of file/folder descriptor, its contents, map of file/folder fragments and navigate among them. If file contents are faulty, UFS Explorer allows to navigate through file fragments, find the faulty one and to correct it. Write-enabled hexadecimal editor makes possible to correct minor and moderate file system damages (fix directory entries, move superblocks, fix inodes and so on) in order to return file system back into a consistent state.
+
+Supported OS:
+
+Windows ┬« NT 4 with Service Pack 6 and later;
+Windows xp/vista/7/8
+
+Homepage: http://www.ufsexplorer.com/
+
+Installation Instructions:
+
+- Install program.
+- Register application with given name and serial.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

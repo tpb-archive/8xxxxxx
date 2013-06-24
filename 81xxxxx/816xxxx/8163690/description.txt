@@ -1,0 +1,67 @@
+Plot :
+A former sports star who's fallen on hard times starts coaching his son's soccer team as a way to get his life together. His attempts to become an adult are met with challenges from the attractive soccer moms who pursue him at every turn
+
+IMDB Rating : 5.1
+www.imdb.com/title/tt1540128/
+
+Screens: 
+http://imageshack.us/a/img713/2600/playingforkeeps211631.jpg 
+http://imageshack.us/a/img254/4341/playingforkeeps211648.jpg 
+http://imageshack.us/a/img28/6139/playingforkeeps211655.jpg
+
+
+
+Format : Matroska 
+Format version : Version 4 / Version 2 
+File size : 366 MiB 
+Duration : 1h 45mn 
+Overall bit rate : 484 Kbps 
+Encoded date : UTC 2013-02-19 15:39:14 
+Writing application : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00 
+Writing library : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L2.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 2 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 1h 45mn 
+Width : 640 pixels 
+Height : 272 pixels 
+Display aspect ratio : 2.35:1 
+Frame rate mode : Constant 
+Frame rate : 20.000 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Writing library : x264
+Language : English 
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format profile : LC 
+Codec ID : A_AAC 
+Duration : 1h 45mn 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 44.1 KHz 
+Compression mode : Lossy 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Text 
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Default : Yes 
+Forced : No 

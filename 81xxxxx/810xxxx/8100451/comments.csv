@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,darkony1226,2013-02-04T05:54Z,Why is this smaller than the other version? It's a better version?
+[V],-wxm-,2013-02-04T05:59Z,I didn't try the other but I'd say both are the same just cracked differently
+,Flatulent,2013-02-04T14:24Z,"I can confirm this installs and runs great on Windows 7 x64.  Was a little concerned at first cause it uses THETA's own installer, seemed a bit sketchy.  However it passed several virus scans, installed and ran without incident."
+,mineativ,2013-02-04T14:31Z,trojan in the antichamber.exe
+,mineativ,2013-02-04T14:31Z,detectet by kaspersky
+,mineativ,2013-02-04T14:33Z,there is a trojan in the antichamber it was detectet by kaspersky
+,OmniNegro,2013-02-04T19:48Z,"@mineativ
+Sorry, your first three posts telling us you are a moron only confirm one another. Perhaps if you say it another three times we will give a fuck what your idiot scanner says.
+
+*ALL* commercial AV shows *ALL* cracks, keygens, and most everything else as malware. Pull your head from your ass and stop believing the bullshit.
+
+And since all but a few AV suites are commercial, you can readily predict the ones that do this. Here is how. Is there a ""Premium"" version of the AV that you have to pay for? If yes, then it wants you to think everything is malware and you are in danger until you cough up money.
+
+Use Clamwin and STFU."
+,grimm0000,2013-02-04T20:46Z,"Please someone help. I cant start game. The mouse cursor changes to working icon for 5 secs and thats it. Please Im trying for 2 days now, with the other torrent and now same thing with this one. I tried everything, drivers, crack but nothing seem to work. Anyone pleeaase heear my caall of despair!"
+,-Digi-,2013-02-04T20:52Z,hey guys great and all but i have a problem running it on fullscreen on my monitor...any ideas? :/
+,Flatulent,2013-02-05T01:45Z,"I may have discovered a small problem: savegames don't work!  Was playing for hours last night, it supposedly autosaves constantly. Came back today and had to start over.  Played for a few minutes, exited and re-entered the game again, started over again!
+
+Not sure if it's supposed to be like this or if it's a bug with THETA's release. Anyone else having this problem?"
+,Flatulent,2013-02-05T01:47Z,"Looks like if you have trouble with savegames not working, gotta run the game in Administrator mode. Wish I'd known that before. :("
+,imnota4,2013-02-08T16:53Z,Just keeps crashing at the logo in the beginning.
+,Zilmorph,2013-02-09T01:03Z,"I have the same issue as grim0000, everytime I click the UDK application to install, nothing happens except for the mouse icon changing for a few seconds."
+,gabriel1475,2013-02-09T11:11Z,"@mineativ
+
+you're quite a nubly, arent you?
+
+might be an unlearned soccer mom, or someone who just recently discovered the internet. a very fascinating invention, isnt it?"
+,jowjowjow,2013-02-09T15:46Z,"Not working, crap."
+[V],-wxm-,2013-02-09T18:09Z,"1. Run Antichamber.exe
+2. Go to Install folder and find Antichamber > Binaries and run UnSetup.exe
+3. Go to Antichamber > Binaries > Win32 and run UDK.exe
+4. Game should start for the first time, wait a while the screen should be black for about half a minute
+5. Push a button and start playing
+6. Create a shortcut from UDK.exe or run it again for future use
+
+There's really nothing else to say that's how I managed to make it work with saves in tact and the ability change from fullscreen etc. If these directions don't work then just find a new torrent :)"
+,jowjowjow,2013-02-09T18:21Z,"updated NVIDIA drivers and it works.
+
+Thanks!"
+,mineativ,2013-02-10T00:02Z,"sorry if you think im an idiot and so on but ive got many cracked games, and this is the first crack that was detectet as a trojan. sorry for my 3 comments, my internet was laggy..."
+,dragonkin,2013-02-10T05:08Z,"I'm going for a try-before-you-buy thing. 
+
+GUYS. ALWAYS TRY AND SUPPORT INDIE GAMES!
+
+Seriously, if I like this, I'm deleting this and buying it, it's DRM-free plus you get a steam-key!"
+,pcbflare,2013-02-12T16:57Z,"it was a bit of pain in the ass getting it to work- getting it through my ""ask-when-anything-happens-firewall"" but it definitely works... now it's a bit of a pain to ""get it"" :-) .. the game where even basic 3 dimensional space doesn't work as usual can be pretty challenging. -what is correct form, space don't or space doesn't?"
+,Speeder172,2013-02-13T18:40Z,Trojan with Kaspersky
+,FerrelBMW,2013-02-16T17:46Z,"@OmniNegro : Dumbass bitch,, do you know the different between TROJAN and Crack ???
+kaspersky antivirus won`t show crack, keygen as malware.... 
+I`m pretty sure this anti chamber is skidrow`s... because it has trojan inside the 474 mb application..
+The thing is, we don`t want the virus to spread out to our computer, so i deleted it,, then how the FCK WILL I PLAY THIS GAME ... "
+,arg410,2013-02-16T22:05Z,"UnSetup.exe just pop up a window called UnSetup Help....
+
+And UDK.exe says that XAPOFX1_5.dll is missing, when it is not......
+
+UGHHH, Please help :)"
+,toxic_P,2013-02-17T01:05Z,"Warning:
+
+There is a release which contains malware. No... I mean not false positive because of crack etc. .
+
+It will create a folder (C:Temporary) and starts a process ""iehighutil.exe"" from this folder (which imitates ""ielowutil"" by microsoft). This process tries to access den ""OpenCL.dll"" (which failed at my system because I did not install openCl). The folder contains some files (filenames like ""diablo23.cfg"", dll´s and other). 
+
+This malware is not very agressive. Just delete it and its gone.
+"
+,arg410,2013-02-18T02:59Z,"Ok, never mind... its just dosent work in WIndows 8
+But it does work in Windows 7 :D 
+
+If anybody wants mess with the win 8 thing, be my guess, tell me if you get anything :P"
+,vonwisdom,2013-02-20T01:00Z,Kaspersky wouldn't allow it.So I deleted Kap and now it works.
+,kdava,2013-02-23T21:28Z,"Hey. Pls help me, I installed it and ""UnSetup.exe"" only displays a help window. If I start UDK.exe, the antichamber logo comes up, then the Unreal logo, then crash. What am I missing? Tried the other torrent, same."
+,bronxboy530,2013-02-24T08:59Z,this damn thing dident save my game after i had been playing for like 5 hours what the hell
+,UFOslava,2013-02-24T16:58Z,"@bronxboy530, FFS run as administrator..."
+,Aaron1818,2013-03-01T04:49Z,Clean and works
+,astrong0,2013-04-05T08:16Z,"son of a bitch... i downloaded this yesterday and in stalled and said i was missing a XINPUT.dll or maybe there was something after the INPUT part anyway it said it was missing then i told my friend about this game and he downloaded THIS SAME TORRENT and i watched him play it on his computer...... i looked at him and said in my best radio announcer voice ""YOU SIR ARE A BIG FLAPPY CUNT!!!"" needless to say i'm downloading it again to see if it works. I'm sure it does just not for me. Yet."
+,dream2160,2013-04-27T18:36Z,"no virus, installed and played fine. no save problem. but i got a weird issue: i can't see any of black textbox pop up in hint or map sections of the chamber. any1 have the same problem?plz help "
+,nuneral,2013-05-06T04:19Z,"http://www.nvidia.com/object/physx-9.12.0613-driver.html
+
+download this if you crash on startup"
+,vekijo,2013-05-09T17:00Z,"Great new type of game...not usual...i play it fine on win 7, x64... to be able to save go to  shorcut, right click, properties, compability, and put a tick on run as administrator."
+,Madarali,2013-05-18T17:50Z,"its working on Windows 7 x64.
+thank you."
+,taelor_Z,2013-05-30T12:01Z,danke! >:)...
