@@ -1,0 +1,21 @@
+ MS-DOS 6.22 
+
+===================================================================================
+MS-DOS 6.22 is a classic command line OS from Microsoft.
+
+This is the MS-DOS 6.22 bootable install CD with the CD-ROM drivers.
+
+While booting for the first time install MS-DOS 6.22 and
+
+after restart install CD-ROM Drivers.
+
+When the install begins it will show error because your disk has to be formatted 
+
+before running the setup. You will have to create a new DOS partition using "fdisk" 
+
+command and format the drive using "format C:" command.
+
+Thats it the setup will do the rest of thing by itself.
+
+This release is a pure Mastermind release.
+=============================================

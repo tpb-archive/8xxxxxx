@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+[V],FalconFour,2013-04-01T08:55Z,"God.
+
+Damn.
+
+It.
+
+The description is all fucked up because TPB's servers burped (*hard*) while this was being uploaded. Now I can't even edit it to fix the cut-off description.
+
+Here's the rest:
+
+VFD with file copy allows you to make a "
+[V],FalconFour,2013-04-01T09:09Z,"ARE YOU KIDDING ME.
+
+It's the ""less than"" symbol that breaks it. Goddamnit, the coders at TPB need to have their heads bashed together.
+--- (continued) ---
+VFD with file copy allows you to make a (""LESS THAN SYMBOL"")1mb RAR file accessible to DR-DOS or Hiren's DOS in a virtual floppy. Wireless drivers in MiniXP along with improved Ethernet and storage support. Mini Linux provided by RIP Linux. Bootable partition and imaging utilities provided by Acronis True Image and EASEUS Partition Manager. Improved Memtest86+ with failsafe mode to resolve startup hangs. Kon-Boot 1.1 is really v1.1 now, with support for 32-bit and 64-bit Windows. Tons of new utilities in MiniXP with new launchers to provide easier access. ERD 5.0 is integrated with MiniXP for offline system restore and service/driver management, and Microsoft DaRT 6.5 (x86 and x64) are added to support Windows Vista and 7. Antivirus scanning with real-time updates is provided by DaRT 6.5's Standalone System Sweeper, and allows you to load definitions to a USB stick for live updating.
+
+This ain't yo mama's BartPE compilation.
+
+Once you dive into this disc, you'll never need another boot CD.
+
+------------------------------------------------------------------------------+
+                            O N   T H E   D I S C                             |
+------------------------------------------------------------------------------+
+Based on F4UBCD v4.5 with MiniXP from Hiren's 15.2, heavily modified.
+MiniXP gutted and rebuilt with new, flexible on-disc scripting, for easy mods.
+Active File Recovery 7.5.1
+CCleaner
+CPU-Z
+HWMonitor
+MS DaRT 5 / ERD Commander 2005 utilities
+HD Tune Pro 5
+ImgBurn
+Magical Jelly Bean Keyfinder 2.0.8
+MyDefrag 4.3.1 with FullOptimize script
+NirSoft collection 2/1/2013, now with 90% fewer antivirus false alarms
+SoftPerfect Network Scanner 5.1.2
+TreeSize Personal 5.4.4
+Firefox Portable
+Shiny graphics that make the room smell nicer
+
+And of course, a slew of utilities from Hiren's disc, some updated, including: EzPcFix, Acronis Disk Director, ATF Cleaner, Malwarebytes' Anti-Malware updated 11/6/2012, Bulk Rename Utility, Combofix updated 2/16/2013, Defraggler, Speccy, Content Advisor Password Remover, Recuva, Diskview, Filemon, Regmon, Procmon, DriveImageXML, GetDataBack, Recover My Files, Ghost32 11.5.1, ISOBuster, GImageX (ImageX GUI), SUPERAntiSpyware, IrfanView, NTPWEdit, Partition Magic, TeraCopy, TightVNC Server/Viewer, Unstoppable Copier, Victoria, MHDD, WinRAR, and 7-Zip ... among others.
+
+------------------------------------------------------------------------------+
+                              C H A N G E L O G                               |
+------------------------------------------------------------------------------+
+4.6, Apr-1-13:  Many modifications to MiniXP. AHCI/RAID support (not quite
+                universal yet due to architecture). Firefox update with Flash
+                support. Memtest86 instead of Memtest86+. Streamlined boot menu
+                configuration. Made USB setup easier with BootICE. ImageX front
+                and center on the desktop now, as well as some additional new
+                icons. Vastly improved MiniXP startup process. PDF, Word, Excel
+                file viewing support. Replaced a billion references to outdated
+                portable Opera browser in MiniXP with Firefox. Much improved
+                network driver support. Battery support. Power management
+                support (no longer roasts laptop CPUs while in MiniXP). Added
+                keyboard switcher in tray. More sane date/time display."
+,Sigma0mega,2013-04-01T09:22Z,"You need a job in computer repair? My IT friends set up websites with their IT creds on them, then have craigslist pointing to them. Easy way for you to work right out of your house :) Well thanks man your UBCD has been more help then you could possible know. Keep up the good work!"
+[V],FalconFour,2013-04-01T11:56Z,"I'd even be happy doing mail-order computer repair. Hit me up on the official F4UBCD page - let's see if TPB doesn't filter this out: ""eff bee dot com slash"" f4ubcd (it apparently filtered out ""eff-bee"" in the description - my god, TPB are URL nazis)"
+,chop007,2013-04-01T14:29Z,"Awesome F4 this has saved me many missions. If I could offer you a job I would but I am a Gynecologist, so there is only really space for one at a time, and there are so many of us these days I am thinking of changing my profession, getting tired of reading smelly pussies all day. Any ways, thanks bro.  "
+,mrtrotsky,2013-04-08T04:46Z,"You rock, dude."
+,Quinn4597,2013-04-09T08:14Z,"Fantastic torrent, Going to use this as a replacement for a BART CD i had for over 4 years. THANKS FOR UPLOAD!"
+,analogkid6103,2013-05-28T22:50Z,"This is the fix and yes when mini xp loads bliss indeed,thanks much F4 "
+,lamerbr,2013-06-02T14:44Z,"PORRA JA ERA TEMPO.... Iso e um aviso para quem usa raid x64 e win7 ... se colocar o cd do hiren ele arrrebenta o boot do windows 7 destroi!!!! em alguns casos vc consegue reparar porque? NAO SEI.. mas ...""4.6, Apr-1-13: Many modifications to MiniXP. AHCI/RAID support (not quite
+universal yet due to architecture)"" que suporta a arquitetura talvez nao FODA COM TODA A ARQUITETURA JA PRONTA... o hiren nao fode nada apenas o falcon entao fica um alerta para quem ultiliza raid no seu sistema os windows 7. ps: algumas x quando se cria um ponto de restauraçao no windows ele consegue recuperar mas isso leva ao menos 1h em muitos casos e seee...recuperar se nao vc perde tudo! cuidado.. se estiver em raid com win7 cuidado so de bootar o cd ele fode com windows..
+in ingles...
+--------------
+soo, WAS FUCKING TIME .... Iso and a warning for those using raid x64 and win7 ... placing the cd hiren he arrrebenta boot windows 7 destroys!! in some cases because u can repair? NOT KNOW .. but ... ""4.6, Apr-1-13: Many modifications to MiniXP. AHCI / RAID support (not quite
+yet due to universal architecture) ""which supports the architecture may not FUCK WITH ALL THE ARCHITECTURE now READY ... the hiren not fuck anything just then the falcon is a warning to those who ultiliza the raid on your system windows 7. ps: some x when creating a point of restoration on windows it can recover but it takes at least 1 hour in many cases and recover seee ... if not u lose everything! careful .. if in raid with care so the win7 boot cd he fucks with windows .."

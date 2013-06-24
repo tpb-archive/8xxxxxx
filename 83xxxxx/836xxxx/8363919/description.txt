@@ -1,0 +1,28 @@
+-Technical Stuff:
+
+The game now runs on Mac and Linux on Steam
+The game properly supports monitors with aspect ratios other than 16:9
+You can resize the HUD in the options menu
+The debug menu is disabled by default. You can enable it by editing your settings.ini
+
+
+-New Craftables:
+
+New armours: Grass and Marble
+You can craft a walrus-tusk walking cane
+
+
+-New Findables:
+
+You can find blueprints which unlock some recipes early
+Added lumpy trees that donΓÇÖt drop pinecones
+Added pig heads on sticks in mermland, merm heads on sticks in pigland
+Added titles at the start of adventure mode
+Some resource types will randomly swap out in adventure mode levels
+
+
+-Bug Fixes:
+
+Some optimization work for worlds with lots of entities
+Entity culling works properly with gigantic resolutions
+Mushrooms donΓÇÖt re-grow in winter		

@@ -1,0 +1,179 @@
+﻿Filename,Size,Unit
+00. Introduction/00 01. Welcome.mov,10.82,M
+00. Introduction/00 02. Using the exercise files.mov,9.16,M
+01. Drupal Themes/01 01. Learning about Drupal themes.mov,4.33,M
+01. Drupal Themes/01 02. Building sites today with Drupal.mov,2.15,M
+01. Drupal Themes/01 03. Required knowledge and software.mov,2.74,M
+02. Getting Drupal Ready/02 01. Installing Drupal 6 using Acquia.mov,4.66,M
+02. Getting Drupal Ready/02 02. Configuring the appropriate modules for a Drupal site.mov,2.92,M
+02. Getting Drupal Ready/02 03. Creating pages with standard node content types.mov,6.44,M
+02. Getting Drupal Ready/02 04. Creating custom node content types.mov,8.55,M
+02. Getting Drupal Ready/02 05. Adding RSS secondary content.mov,6.76,M
+02. Getting Drupal Ready/02 06. Finalizing site navigation.mov,2.53,M
+03. Essential Tools and Modules For Theme Creation/03 01. Installing the Theme Developer module (aka Devel).mov,8.72,M
+03. Essential Tools and Modules For Theme Creation/03 02. Ensuring cross-browser compatibility with conditional style sheets.mov,9.67,M
+03. Essential Tools and Modules For Theme Creation/03 03. Using Firefox extensions for site development.mov,9.34,M
+03. Essential Tools and Modules For Theme Creation/03 04. Working with Dreamweaver.mov,3.94,M
+04. Theme Administration/04 01. Choosing a default theme.mov,2.89,M
+04. Theme Administration/04 02. Touring the core themes.mov,8.15,M
+04. Theme Administration/04 03. Configuring global theme features and post settings.mov,5.74,M
+04. Theme Administration/04 04. Adding a logo and shortcut icon (favicon).mov,4.71,M
+04. Theme Administration/04 05. Setting the administration theme.mov,5.01,M
+04. Theme Administration/04 06. Installing a new theme.mov,6.38,M
+04. Theme Administration/04 07. Positioning blocks in theme regions.mov,7.3,M
+04. Theme Administration/04 08. Setting user theme permissions.mov,7.87,M
+05. Modifying Existing Themes/05 01. Using the Color module to change color schemes.mov,6.55,M
+05. Modifying Existing Themes/05 02. Preparing to build a sub-theme.mov,9.15,M
+05. Modifying Existing Themes/05 03. Building a sub-theme Creating the .info file.mov,11.24,M
+05. Modifying Existing Themes/05 04. Building a sub-theme Adding custom styles (CSS).mov,9.16,M
+05. Modifying Existing Themes/05 05. Building a sub-theme Adding custom theme regions.mov,15.39,M
+06. Creating New Themes/06 01. Exploring a theme folder.mov,3.01,M
+06. Creating New Themes/06 02. Setting up a theme .info file.mov,6.2,M
+06. Creating New Themes/06 03. Adding styles (CSS) to a theme.mov,9.04,M
+06. Creating New Themes/06 04. Including a style sheet for right to left readers.mov,1.7,M
+06. Creating New Themes/06 05. Creating a print style sheet.mov,4.58,M
+06. Creating New Themes/06 06. Adding JavaScript to a theme.mov,8.31,M
+06. Creating New Themes/06 07. Adding graphics and images to a theme.mov,3.66,M
+06. Creating New Themes/06 08. Understanding theme templates (tpl.php).mov,3.17,M
+06. Creating New Themes/06 09. Understanding template variables.mov,3.64,M
+07. Page Templates/07 01. Understanding page templates.mov,9.75,M
+07. Page Templates/07 02. Creating a template to theme every page (page.tpl.php).mov,9.29,M
+07. Page Templates/07 03. Creating a template to theme just the front page (page-front.tpl.php).mov,7.91,M
+07. Page Templates/07 04. Creating a template to theme individual pages (page-node-nid.tpl.php).mov,5.21,M
+07. Page Templates/07 05. Creating a template for site offline maintenance pages.mov,10.1,M
+08. Node Content Templates/08 01. Understanding node templates.mov,5.13,M
+08. Node Content Templates/08 02. Creating a template to theme every node (node.tpl.php).mov,3.11,M
+08. Node Content Templates/08 03. Creating a template to theme custom node types (node-type.tpl.php).mov,6.66,M
+08. Node Content Templates/08 04. Discovering node templates using the theme developer module.mov,1.92,M
+09. Block Templates/09 01. Understanding block templates.mov,3.99,M
+09. Block Templates/09 02. Creating a template to theme every block (block.tpl.php).mov,3.4,M
+09. Block Templates/09 03. Creating a template to theme an individual block (block-module-delta.tpl.php).mov,11.4,M
+09. Block Templates/09 04. Creating a template to theme all blocks from a single module (block-module.tpl.php).mov,4.8,M
+09. Block Templates/09 05. Creating a template to theme all blocks in a certain region (block-region.tpl.php).mov,4.19,M
+10. Other Templates/10 01. Exploring the comments template (comment.tpl.php).mov,7.15,M
+10. Other Templates/10 02. Exploring other core modules and their templates (other tpl.php files).mov,3.8,M
+11. Troubleshooting and Finishing Up/11 01. Removing unnecessary modules.mov,2.48,M
+11. Troubleshooting and Finishing Up/11 02. Optimizing site performance.mov,3.61,M
+11. Troubleshooting and Finishing Up/11 03. Streamlining site files for launch.mov,1.69,M
+11. Troubleshooting and Finishing Up/11 04. Troubleshooting when a white screen appears instead of Drupal.mov,5.18,M
+11. Troubleshooting and Finishing Up/11 05. Touring Drupal community groups.mov,1.69,M
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/about.txt,1.68,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/Ch_2_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/Download Drupal 6.txt,801,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/flower1.txt,993,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/flower2.txt,856,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/flower3.txt,792,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/iris.JPG,73.14,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/prettyinpink.jpg,7.71,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/services.txt,1013,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 02/sunflowers.jpg,78.15,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/condition/condition.info,329,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/condition/for-ie.css,391,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/condition/not-ie.css,20.65,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/condition/page.tpl.php,7.49,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/condition/screenshot.png,54.86,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/Drupal development modules.txt,119,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 03/Firefox development extensions.txt,400,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 04/Ch_4_start_database.sql.gz,47.36,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 04/Ch_4_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 04/hp_logo.png,55.8,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 05/subgarland/custom.css,55,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 05/subgarland/page.tpl.php,3.94,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 05/subgarland/subgarland.info,367,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 05/Ch_5_start_database.sql.gz,50.02,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 05/Ch_5_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/bg.png,1.04,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/block-alternate.png,3.48,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/block-bg.png,53.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/block-custom.png,468,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/block-default.png,1.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/collapsed.png,264,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/dashes.png,244,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/expanded.png,204,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/footer-block-bottom.png,324,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/footer-block-top.png,298,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/footer-end.png,53.33,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/footer-header.png,10.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/footer-start.png,7.06,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/gotdrupal.gif,788,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/header.png,11.69,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/menu-collapsed.png,231,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/menu-expanded.png,204,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/menu-leaf.png,264,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/more.png,523,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/images/nav.gif,265,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/block.tpl.php,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/favicon.png,55.8,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/logo.png,55.8,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/my_theme.info,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/node.tpl.php,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/page.tpl.php,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/print.css,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/screenshot.png,10.76,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/style.css,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/template.php,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/theme_folder/theme-settings.php,0,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/Ch_6_start_database.sql.gz,45.76,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/Ch_6_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/Ch_6_start_sites-all.zip,143.82,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/hanselandpetal.info,436,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/print.css,120,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/screenshot.png,10.76,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 06/style.css,14.77,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 07/Ch_7_start_database.sql.gz,46.78,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 07/Ch_7_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 07/Ch_7_start_sites-all.zip,153.57,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 07/new_page_regions.txt,869,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 08/Ch_8_start_database.sql.gz,51.41,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 08/Ch_8_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 08/Ch_8_start_sites-all.zip,158.33,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 09/Ch_9_start_database.sql.gz,51.42,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 09/Ch_9_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 09/Ch_9_start_sites-all.zip,160.93,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 09/gotdrupal.gif,788,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 10/Ch_10_start_database.sql.gz,51.57,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 10/Ch_10_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 10/Ch_10_start_sites-all.zip,161.65,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 11/Ch_11_start_database.sql.gz,51.68,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Ch 11/Ch_11_start_lynda-drupal-themes.zip,185.74,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/bg.png,1.04,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/block-alternate.png,3.48,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/block-bg.png,53.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/block-custom.png,468,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/block-default.png,1.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/collapsed.png,264,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/dashes.png,244,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/expanded.png,204,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/footer-block-bottom.png,324,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/footer-block-top.png,298,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/footer-end.png,53.33,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/footer-header.png,10.25,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/footer-start.png,7.06,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/gotdrupal.gif,788,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/header.png,11.69,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/menu-collapsed.png,231,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/menu-expanded.png,204,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/menu-leaf.png,264,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/more.png,523,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/images/nav.gif,265,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/block-block-1.tpl.php,1.18,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/block-right.tpl.php,1.26,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/block-user.tpl.php,1.26,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/block.tpl.php,1.26,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/comment.tpl.php,1.36,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/fix-ie.css,68,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/hanselandpetal.info,506,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/maintenance-page.tpl.php,3.05,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/node-blog.tpl.php,2.67,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/node-flower.tpl.php,2.68,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/node-page.tpl.php,2.62,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/node.tpl.php,2.67,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/page-front.tpl.php,7.5,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/page-node-5.tpl.php,7.85,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/page.tpl.php,8.22,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/print.css,120,B
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/screenshot.png,10.76,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Completed Theme/hanselandpetal/style.css,14.77,K
+Exercise Files/Ex_Files_DrupalThms_EssT/Exercise Files/Design Mockup/hansel&petal.png,222.26,K
+Exercise Files/Ex_Files_DrupalThms_EssT_Free/Ex_Files_DrupalThms_EssT_Free/Free Exercise Files/Ch 06/style.css,14.77,K
+Exercise Files/Ex_Files_DrupalThms_EssT_Free/Ex_Files_DrupalThms_EssT_Free/Free Exercise Files/Ch 07/new_page_regions.txt.txt,869,B

@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,pd8086,2013-04-14T20:14Z,How would I get this content to work with the Mac version?
+,MenuMono,2013-04-18T01:25Z,"@pd8086
+
+Shut the fuck up and get a PC you dumbass. Who cares about the fucking Mac version. Mac and Linux are fucking crap, get a motherfucking PC you dumbass cunt."
+,winman88,2013-04-18T21:15Z,"@MenuMono
+
+ You need to shut the fuck up, you go nothing nice to say, don't say it at all.  Cry baby."
+,thezapgun,2013-05-12T02:13Z,"@MenuMono
+All linux and mac users came from pc/windows. I wonder why..."
+,thezapgun,2013-05-12T03:07Z,"INSTALLING THE ""CONTENT DVD"" ON A MAC
+
+1/ Find a PC somewhere, launch the .exe file from an USB flash drive, then chose it as the installation location (you'll need near 3GB free space). The ""Assets"" and ""Samples"" folders are yours.
+
+ON THE MAC 
+
+2 / Put the ""Assets"" and ""Samples"" folders here :
+yourharddrive/Library/Application Support/Luxology/Content/
+
+(NOTE : The ""Library"" folder is the one from your HD, not from the ""User"" folder. If the ""Content"" folder doesn't exist, create it.)"

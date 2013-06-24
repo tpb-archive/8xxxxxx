@@ -1,0 +1,70 @@
+
+Wolfgang's Acoustica session (September 30,2000).
+
+My connection is not great so please seed for everyone's enjoyment.
+
+
+---------------------------------------------------------------------------
+
+Complete name                            : Wolfgang Acoustica VCDrip.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 293 MiB
+Duration                                 : 1h 12mn
+Overall bit rate                         : 567 Kbps
+Encoded date                             : UTC 2013-04-08 10:51:04
+Tagged date                              : UTC 2013-04-08 10:51:04
+Writing application                      : vlc 2.0.5 stream output
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L1.3
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 12mn
+Source duration                          : 1h 12mn
+Bit rate                                 : 432 Kbps
+Width                                    : 352 pixels
+Height                                   : 240 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Minimum frame rate                       : 29.441 fps
+Maximum frame rate                       : 30.333 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.171
+Stream size                              : 223 MiB (76%)
+Source stream size                       : 223 MiB (76%)
+Language                                 : English
+Encoded date                             : UTC 2013-04-08 10:51:04
+Tagged date                              : UTC 2013-04-08 10:51:04
+mdhd_Duration                            : 4336303
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : 6B
+Duration                                 : 1h 12mn
+Source duration                          : 1h 12mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 66.0 MiB (23%)
+Source stream size                       : 66.0 MiB (23%)
+Language                                 : English
+Encoded date                             : UTC 2013-04-08 10:51:04
+Tagged date                              : UTC 2013-04-08 10:51:04
+mdhd_Duration                            : 4336144

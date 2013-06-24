@@ -1,0 +1,77 @@
+SOURCE: DVD5
+ 
+http://www.imdb.com/title/tt0339707/
+
+-SUBTITLES: No
+
+-LANGUAGE: English
+
+-SAMPLE: Yes
+
+
+DIRECTOR: Aisling Walsh 
+
+CAST:
+----------
+Aidan Quinn, Iain Glen, Marc Warren, Stuart Graham, Andrew Simpson, Robert Sheehan
+
+PLOT:
+------------
+"Song for a Raggy Boy" is based on the true story of a single teacher's courage to stand up against an untouchable prefect's sadistic disciplinary regime and other abuse in a Catholic Reformatory and Industrial School in 1939 Ireland. 
+
+General
+------------
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 900 MiB
+Duration : 1h 31mn
+Overall bit rate : 1 374 Kbps
+Writing application : VirtualDubMod 1.5.10.3 | www.virtualdub-fr.org || (build 2550/release)
+Writing library : VirtualDubMod build 2550/release
+
+Video
+------------
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 1
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Custom
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 31mn
+Bit rate : 1 239 Kbps
+Width : 672 pixels
+Height : 384 pixels
+Display aspect ratio : 16:9
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.192
+Stream size : 811 MiB (90%)
+Writing library : XviD 64
+
+Audio
+----------
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 31mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 83.8 MiB (9%)
+Alignment : Aligned on interleaves
+Interleave, duration : 80 ms (2.00 video frames)
+Interleave, preload duration : 504 ms
+Writing library : LAME3.99r
+Language : English

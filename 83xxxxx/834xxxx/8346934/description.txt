@@ -1,0 +1,34 @@
+comparte:
+ 
+
+Idiomas: Español Latino, Inglés
+Languages: Latin Spanish, English
+
+Subtitulos: Español Latino .srt
+
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 4,66GIB
+Duración                                 : 1h 33min.
+Tasa de bits total                       : 7 149Kbps
+Fecha de codificación                    : UTC 2012-11-27 15:36:51
+Aplicación de codifición                 : mkvmerge v5.0.0 ('Die Wahre Liebe') built on Sep 25 2011 20:33:49
+Librería de codificación                 : libebml v1.2.2 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 5marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 33min.
+Tasa de bits                             : 5 197Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 696pixeles
+Relación de aspecto                      : 1,85:1
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No

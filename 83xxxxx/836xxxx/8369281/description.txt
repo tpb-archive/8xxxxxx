@@ -1,0 +1,70 @@
+This is OpenBSD 5.3/i386
+
+Built from CVS release sources. Official release date is 2013-05-01.
+
+ISO File size: 546080768 bytes
+MD5 (openbsd-5.3-i386.iso) = 564238a0708d8c3dbc183984d4b5aeb3
+
+CD is bootable and contains the entire x86 distribution + complete sources.
+
+New features in OpenBSD 5.3: see www.openbsd.org/53.html
+
+CD contents (or see ls-alR in CD root directory):
+---
+00_OpenBSD-5.3-i386
+ls-al
+root.mail
+INSTALL.i386
+INSTALL.linux
+5.3/i386/INSTALL.linux
+5.3/i386/pxeboot
+5.3/i386/cdboot
+5.3/i386/cdbr
+5.3/i386/bsd
+5.3/i386/bsd.mp
+5.3/i386/base53.tgz
+5.3/i386/comp53.tgz
+5.3/i386/etc53.tgz
+5.3/i386/game53.tgz
+5.3/i386/man53.tgz
+5.3/i386/INSTALL.i386
+5.3/i386/bsd.rd
+5.3/i386/floppy53.fs
+5.3/i386/floppyB53.fs
+5.3/i386/floppyC53.fs
+5.3/i386/cd53.iso
+5.3/i386/cdemu53.iso
+5.3/i386/SHA256
+5.3/i386/cdrom53.fs
+5.3/i386/xbase53.tgz
+5.3/i386/xetc53.tgz
+5.3/i386/xserv53.tgz
+5.3/i386/xshare53.tgz
+5.3/i386/xfont53.tgz
+source/ports.tar.gz
+source/xenocara.tar.gz
+source/sys.tar.gz
+source/src.tar.gz
+tools/README
+tools/fdimage.exe
+tools/gzip.exe
+tools/ntrw.exe
+tools/os-bs.doc
+tools/os-bs135.exe
+tools/pfdisk.doc
+tools/pfdisk.exe
+tools/rawrite.doc
+tools/rawrite.exe
+tools/fips/MD5
+tools/fips/README
+tools/fips/copying
+tools/fips/errors.txt
+tools/fips/fips.doc
+tools/fips/fips.exe
+tools/fips/fips.faq
+tools/fips/history.txt
+tools/fips/readme.1st
+tools/fips/restorrb.exe
+tools/fips/special.doc
+tools/fips/techinfo.txt
+---

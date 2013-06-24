@@ -1,0 +1,59 @@
+IMDB:  http://www.imdb.com/title/tt1919137/
+
+
+Language: Chinese
+
+
+
+
+General
+Complete name                            : The Last Supper 2013 BRRip x264 AAC-SSN.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.06 GiB
+Duration                                 : 1h 56mn
+Overall bit rate                         : 1 309 Kbps
+Encoded date                             : UTC 2013-04-10 09:10:41
+Writing application                      : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 56mn
+Nominal bit rate                         : 1 012 Kbps
+Width                                    : 900 pixels
+Height                                   : 376 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.150
+Writing library                          : x264 core 130 r2273 b3065e6
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 56mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 32.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No
+

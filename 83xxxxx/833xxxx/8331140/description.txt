@@ -1,0 +1,130 @@
+General
+Identifiant unique                       : 185374441513610633891120078724061145513 (0x8B75D19BCBD7D8CAAD99407C796B29A9)
+Nom complet                              : J:westerndjango unchained 2012 1080p par Cuzin.mkv
+Format                                   : Matroska
+Version du format                        : Version 2
+Taille du fichier                        : 6,23 Gio
+Duree                                    : 2h 45mn
+Type de debit global                     : Variable
+Debit global moyen                       : 5 390 Kbps
+Nom du film                              : django.unchained.2012.1080p.par Cuzin
+Date d'encodage                          : UTC 2013-04-01 09:04:48
+Application utilisee                     : dvdfab9 ; mkvmerge v3.2.0 ('Beginnings') built on Feb 12 2010 16:46:17
+Bibliotheque utilisee                    : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Parametres du format, CABAC              : Oui
+Parametres du format, RefFrames          : 2 images
+Identifiant du codec                     : V_MPEG4/ISO/AVC
+Duree                                    : 2h 45mn
+Type de debit                            : Variable
+Debit                                    : 4 387 Kbps
+Debit maximum                            : 6 739 Kbps
+Largeur                                  : 1 920 pixels
+Hauteur                                  : 800 pixels
+Format a l'ecran                         : 2,40:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-echantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type de balayage                         : Progressif
+Bits/(Pixel*Image)                       : 0.119
+Taille du flux                           : 5,07 Gio (81%)
+Default                                  : Oui
+Forced                                   : Non
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Parametres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Duree                                    : 2h 45mn
+Type de debit                            : Constant
+Debit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 530 Mio (8%)
+Titre                                    : AC3 5.1 FRANCAIS
+Langue                                   : FranΓö£┬║ais
+Default                                  : Non
+Forced                                   : Non
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Extension du mode                        : CM (complete main)
+Parametres du format, Endianness         : Big
+Identifiant du codec                     : A_AC3
+Duree                                    : 2h 45mn
+Type de debit                            : Constant
+Debit                                    : 448 Kbps
+Canaux                                   : 6 canaux
+Position des cannaux                     : Front: L C R, Side: L R, LFE
+Echantillonnage                          : 48,0 KHz
+Profondeur des couleurs                  : 16 bits
+Mode de compression                      : Avec perte
+Taille du flux                           : 530 Mio (8%)
+Titre                                    : AC3 5.1 anglais
+Langue                                   : Anglais
+Default                                  : Non
+Forced                                   : Non
+
+Texte #1
+ID                                       : 4
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : francais force
+Default                                  : Oui
+Forced                                   : Oui
+
+Texte #2
+ID                                       : 5
+Format                                   : UTF-8
+Identifiant du codec                     : S_TEXT/UTF8
+Identifiant du codec/Info                : UTF-8 Plain Text
+Titre                                    : francais
+Default                                  : Non
+Forced                                   : Non
+
+Menu
+00:00:00.000                             : 00:00:00.000
+00:03:36.466                             : 00:03:36.466
+00:12:47.934                             : 00:12:47.934
+00:18:49.420                             : 00:18:49.420
+00:26:48.273                             : 00:26:48.273
+00:31:44.528                             : 00:31:44.528
+00:40:27.133                             : 00:40:27.133
+00:46:05.513                             : 00:46:05.513
+00:52:36.862                             : 00:52:36.862
+00:58:12.823                             : 00:58:12.823
+01:02:20.320                             : 01:02:20.320
+01:12:13.496                             : 01:12:13.496
+01:18:35.794                             : 01:18:35.794
+01:26:08.038                             : 01:26:08.038
+01:34:49.642                             : 01:34:49.642
+01:40:52.380                             : 01:40:52.380
+01:45:34.036                             : 01:45:34.036
+01:50:01.094                             : 01:50:01.094
+01:55:03.980                             : 01:55:03.980
+02:03:54.969                             : 02:03:54.969
+02:08:14.103                             : 02:08:14.103
+02:14:14.380                             : 02:14:14.380
+02:17:28.991                             : 02:17:28.991
+02:22:32.544                             : 02:22:32.544
+02:26:28.530                             : 02:26:28.530
+02:33:00.463                             : 02:33:00.463
+02:35:41.999                             : 02:35:41.999
+02:41:30.931                             : 02:41:30.931
+

@@ -1,0 +1,96 @@
+The Topalovic family has been in the burial business for generations. When the old (150 yrs old) Pantelija dies, five generations of his heirs start to fight for the inheritance. 
+ 
+http://www.imdb.com/title/tt0084302/
+
+General
+Unique ID                                : 244746253865147611985145775183081650906 (0xB82069F5F9E79E6DA8559F67B74A3ADA)
+Complete name                            : Maratonci.trce.pocasni.krug.1982.DVDRip.x264.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.20 GiB
+Duration                                 : 1h 31mn
+Overall bit rate                         : 1 884 Kbps
+Encoded date                             : UTC 2013-04-17 03:40:06
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 11 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 31mn
+Bit rate                                 : 1 655 Kbps
+Width                                    : 694 pixels
+Height                                   : 462 pixels
+Display aspect ratio                     : 1.602
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.206
+Stream size                              : 1.06 GiB (88%)
+Writing library                          : x264 core 129 r2245 bc13772
+Encoding settings                        : cabac=1 / ref=11 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.15:0.05 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=23.0 / qcomp=0.65 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.30 / aq=2:0.60
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 31mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 126 MiB (10%)
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : VobSub
+Muxing mode                              : zlib
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : Slovenian
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : VobSub
+Muxing mode                              : zlib
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:08:08.160                             : en:Chapter 2
+00:10:49.440                             : en:Chapter 3
+00:20:42.720                             : en:Chapter 4
+00:29:56.160                             : en:Chapter 5
+00:39:40.800                             : en:Chapter 6
+00:48:19.680                             : en:Chapter 7
+00:59:03.360                             : en:Chapter 8
+01:09:25.920                             : en:Chapter 9
+01:17:35.520                             : en:Chapter 10
+01:21:57.600                             : en:Chapter 11
+01:27:00.480                             : en:Chapter 12
+
+My rip.

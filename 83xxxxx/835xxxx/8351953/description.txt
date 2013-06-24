@@ -1,0 +1,42 @@
+Stereo Tool 7.03
+================
+
+Stereo Tool is a professional low latency audio processor that is used by hundreds of FM, AM and web radio stations all over the world, by musicians who use it to process their recordings, and by hundreds of thousands of people who use the free version to listen to music on their PC.
+
+Stereo Tool makes your music sound more consistent, powerful, clear and detailed than ever before - regardless of whether you play it through low end or high end equipment.
+
+Stereo Tool can make recordings sound equal and consistent in volume and sound color, bring out the details, and increase existing stereo effects. It can repair 'broken' stereo images which often occur on cassette tapes, vinyl and cheap CD's, which normally causes havoc when playing it on a mono system, headphones or a system which includes a stereo widener.
+
+Special support (not free) is included for radio stations: Much louder output levels, FM pre-emphasis, stereo coding and RDS coding for FM stations, and protection of highs against distortion caused by lossy compression for web radio stations. The processing latency can be reduced as low as 12 ms, at the cost of reduced fidelity. At the maximum quality the processing latency is 93 ms.
+
+
+
+Working screen shot:   
+http://s9.postimage.org/ugsiyxt3j/Stereo_Tool_7_03.png
+
+
+Installation and crack:
+Instructions included in the download. No patch files or keygens required.
+
+
+--------------------------------------------------------------------------
+
+
+INSTALLING AND CRACKING
+-----------------------
+
+1. Run the installer relevant to you (DSP or Standalone), but afterward, do not run the program just yet.
+
+2. Open an elevated Notepad or Wordpad (Run as administrator) and use it to open your hosts file, located at: C:/Windows/System32/Drivers/etc
+
+3. Add the following:
+# BEGIN STEREO TOOL HOSTS 
+# ======================= 
+127.0.0.1   www.stereotool.com
+127.0.0.1   vvv.stereotool.com
+# END STEREO TOOL HOSTS 
+# =====================
+
+4. Save the hosts file (remember it must be open in a text editor with administrator privileges to be able to save/write any changes). Also make sure that the hosts file is not read-only (programs like Spybot S&D set it to read-only for extra security).
+
+5. Now you should run Stereo Tool and register using the key provided with this torrent.

@@ -1,0 +1,83 @@
+cover: http://img10.imageshack.us/img10/5606/benvenutopresidentea.jpg
+
+
+Nome: Benvenuto.Presidente.2013.iTALiAN.MD.CAM.avi
+Data: Fri, 29 Mar 2013 11:44:37 +0100
+Dimensione: 865,492,176 bytes (825.397659 MiB)
+Nota: L'analisi non è completa
+
+[ Magic ]
+
+Tipo file: RIFF (little-endian) data, AVI, 720 x 406, 25.00 fps, video: XviD, audio: Dolby AC3 (stereo, 48000 Hz)
+
+[ Info generiche ]
+
+Durata: 01:38:35 (5914.84 s)
+Contenitore: AVI
+L'AVI ha un indice?: Sì
+Totale tracce: 2
+Traccia n. 0: video
+Traccia n. 1: audio
+INAM: NUOVO.Title1.DVDRip
+IPRD: NUOVO
+ISFT: Lavf53.32.100
+Junk: odmldmlhø
+
+[ Dati rilevanti ]
+
+Risoluzione: 720 x 406
+Larghezza: multipla di 16
+Altezza: multipla di 2
+
+[ Traccia video ]
+
+FourCC: XVID/XVID
+Risoluzione: 720 x 406
+Frame aspect ratio: 360:203 = 1.773399 (~16:9)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 360:203 = 1.773399 (~16:9)
+Framerate: 25 fps
+Totale frames: 147,871
+Dimensione stream: 810,145,099 bytes (772.614573 MiB)
+Bitrate: 1095.74575 kbps
+Qf: 0.149938
+Key frames: 11,375 (0; 15; 28; 41; 54; ... 147864)
+Null frames: 0
+Min key int: 13
+Max key int: 15
+Avg key int: 12.999648
+Ritardo: 0 ms
+
+[ Traccia audio ]
+
+Audio tag: 0x2000 (AC3)
+Canali: 2
+Chunks: 184,775
+Dimensione stream: 47,302,400 bytes (45.111084 MiB)
+Tipo di bitstream (bs): AC3
+Bitrate (bs): 64 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): stereo
+Preload: 0 ms (1 video frames)
+Max A/V diff: 40 ms
+Ritardo: 0 ms
+
+[ Bitstream video ]
+
+Tipo di bitstream: MPEG-4 Part 2
+User data: DivX503b1393p
+User data: XviD0064
+Packed bitstream: Sì (*)
+QPel: No
+GMC: No
+Interlacciamento: No
+Aspect ratio: Square pixels
+Quant type: H.263
+
+[ Conformità al profilo ]
+
+Profilo selezionato: MTK PAL 6000
+Risoluzione: Ok
+Framerate: Ok
+
+Rapporto creato da AVInaptic (18-12-2011) in data 29-03-2013 15:02:19

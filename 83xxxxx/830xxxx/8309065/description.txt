@@ -1,0 +1,11 @@
+Newest Version of Gnomoria as of March 26, 2013
+
+This weeks patch is focused on bug fixes. There were a few high priority bugs introduced in last weeks patch that should be fixed up now as well as fixes for other bugs. You can read the full patch notes here: http://forums.gnomoria.com/index.php?topic=3755.0
+
+NOTICE:
+You need XNA framework and .NET framework 4.0 to play Gnomoria
+Starting with this version I have included the re-distributable installers for both of these libraries in the "_CommonRedist" folder inside the zip, the same way that steam now stores them. If you have problems with the game not launching or crashing before in loads all the way, you need to make sure you have installed these 2 programs.
+
+The Gnomoria alpha is now available on Steam through their Early Access program. ItΓÇÖll continue to work just like it has been with regular updates, except now you can have Gnomoria in your Steam library and use Steam for automatic updates.
+
+You can find Gnomoria on Steam here: http://store.steampowered.com/app/224500/

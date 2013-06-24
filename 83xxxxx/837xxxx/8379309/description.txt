@@ -1,0 +1,141 @@
+
+[img]http://i1300.photobucket.com/albums/ag82/Dottorbald/DRV_zpsa681b255.png[/img]
+
+Drive Angry
+
+INFO:
+Titolo originale: Drive Angry
+Paese di produzione: USA
+Anno: 2011
+Durata: 100 min
+Rapporto: 1,85 : 1
+Genere: azione, thriller
+Regia: Patrick Lussier
+
+CAST:
+Nicolas Cage: John Milton
+Amber Heard: Piper
+William Fichtner: Il contabile
+Billy Burke: Jonah King
+David Morse: Webster
+Todd Farmer: Frank
+Christa Campbell: Mona
+Charlotte Ross: Candy
+Pruitt Taylor Vince: Roy
+ 
+http://www.imdb.com/title/tt1502404/
+
+PLOT:
+John Milton è un mafioso fuggito dall'Inferno per uccidere Jonah King,
+leader di una setta satanica che ha ucciso la figlia di Milton
+e che ha rapito la sua nipotina
+con l'intento di sacrificarla in un rituale satanista.
+
+AVINAPTIC:
+
+[ About file ]
+Name: Drive.Angry.2011.BDrip.1080p.iTA.ENG.AC3.x264.mkv
+Date: Wed, 10 Apr 2013 03:46:24 +0200
+Size: 8,848,538,334 bytes (8438.623747 MiB)
+
+[ Generic infos ]
+Duration: 01:44:23 (6262.673 s)
+Container: matroska
+Total tracks: 3
+Track nr. 1: video (V_MPEG4/ISO/AVC) {eng}
+Track nr. 2: audio (A_AC3) {und}
+Track nr. 3: audio (A_AC3) {und}
+Muxing library: libmkv 0.6.5
+Writing application: HandBrake 0.9.8
+
+[ Relevant data ]
+Resolution: 1920 x 1080
+Width: multiple of 32
+Height: multiple of 8
+Average DRF: 22.426542
+Standard deviation: 0.587781
+Std. dev. weighted mean: 0.531184
+
+[ Video track ]
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 1080
+Frame aspect ratio: 16:9 = 1.777778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.777778
+Framerate: 23.976025 fps
+Stream size: 8,140,886,890 bytes (7763.75474 MiB)
+Duration (bs): 01:44:23 (6262.672883 s)
+Bitrate (bs): 10399.249064 kbps
+Qf: 0.20917
+
+[ Audio track nr. 1 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 350,712,320 bytes (334.465332 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 195,710
+Duration (bs): 01:44:23 (6262.72 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 350,712,320 bytes (334.465332 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 195,710
+Duration (bs): 01:44:23 (6262.72 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 120 | H.264/MPEG-4 AVC codec | Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html | cabac=1 | ref=4 | deblock=1:0:0
+User data: analyse=0x3:0x113 | me=umh | subme=7 | psy=1 | psy_rd=1.00:0.00
+User data: mixed_ref=1 | me_range=16 | chroma_me=1 | trellis=1 | 8x8dct=1
+User data: cqm=0 | deadzone=21,11 | fast_pskip=1 | chroma_qp_offset=-2
+User data: threads=9 | sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=4 | b_pyramid=2
+User data: b_adapt=2 | b_bias=0 | direct=3 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=50 | rc=2pass | mbtree=1 | bitrate=10400 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=3 | qpmax=69 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4
+  Num ref frames: 4
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 150,154
+Drop/delay frames: 0
+Corrupt frames: 0
+
+[ DRF analysis ]
+average DRF: 22.426542
+standard deviation: 0.587781
+max DRF: 23
+
+DRF<17:     0 (  0.000 %)
+DRF=17:     1 (  0.001 %)
+DRF=18:     2 (  0.001 %)
+DRF=19:   193 (  0.129 %)
+DRF=20:  1759 (  1.171 %)
+DRF=21:  1104 (  0.735 %)
+DRF=22: 77834 ( 51.836 %) ##########
+DRF=23: 69261 ( 46.127 %) #########
+DRF>23:     0 (  0.000 %)
+
+SCREENS:
+
+[img]http://i1300.photobucket.com/albums/ag82/Dottorbald/DriveAngry2011thumbs_zps0fcf1862.jpg[/img]

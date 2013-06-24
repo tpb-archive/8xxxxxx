@@ -1,0 +1,10 @@
+And here is 24 season 3, as requested. Make sure you use a player which is capable of playing 10bit material, for example VLC.
+No borders were cropped this time, but some denoising was done once again.
+Unfortunately the noise was pretty heavy and complex sometimes and I did not want to tweak the parameters for each episode individually.
+So you might still notice some artifacts, but definitely better than the original DVD.
+
+
+Source: DVD9 PAL
+Video: x264 2273 x64 10bit @crf 16 using very slow settings
+Audio: English and German untouched streams (English is default) AC3 @448/384kbps 6Ch
+Filters: ColorMatrix, FFT3DFilter (prefiltering), MDegrain3

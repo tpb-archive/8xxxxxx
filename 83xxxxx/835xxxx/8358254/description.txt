@@ -1,0 +1,8 @@
+Instructions:
+
+1. Install TSplines3.4_r8555ForRhino_64.msi
+
+2. Run t-splines.for.rhino.build.3.4.r8555.(64)-patch.exe as administrator and click Patch. If it says it can`t find the file, it will offer you to search for it.
+Go to Program Files/t-Splines for Rhino/ and select TSplines_64.rhp
+
+3. Thats it... Enjoy ;)

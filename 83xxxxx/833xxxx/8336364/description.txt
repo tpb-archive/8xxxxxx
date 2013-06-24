@@ -1,0 +1,50 @@
+New Features in Lightroom 4:
+* Highlight and shadow recovery brings out all the detail that your camera captures in dark shadows and bright highlights.
+* Photo book creation with easy-to-use elegant templates.
+* Location-based organization lets you find and group images by location, assign locations to images, and display data from GPS-enabled cameras.
+* White balance brush to refine and adjust white balance in specific areas of your images.
+* Additional local editing controls let you adjust noise reduction and remove moiré in targeted areas of your images.
+* Extended video support for organizing, viewing, and making adjustments and edits to video clips.
+* Easy video publishing lets you edit and share video clips onand Flickr®.
+* Soft proofing to preview how an image will look when printed with color-managed printers.
+* Email directly from Lightroom using the email account of your choice.
+
+Changes in Adobe Photoshop Lightroom 4.4:
+
+- The crop overlay tool resized incorrectly when used in conjunction with the “Constrain to Crop” checkbox in the Lens Correction panel 
+- Background graphics were not correctly rendered within the Book Module
+- Reading metadata from file would sometimes result in keyword and and GPS metadata to not save for video files
+- Updated the "Missing File Icon" for HiDPI / Retina dispalsy
+- The supplied lens profile for the Sony RX-1 did not contain vignette information
+- Preview in Develop Module was not updated with the latest adjustments
+- Square tile artifacts while painting with brush
+- Previews of photos in portrait orientation were blurry when viewed in the filmstrip in the Develop module. (Mac only)
+- Image in Book Disappears After Changing Modules
+- Error changing modules when in Slideshow with second monitor connected
+- Stack badges displayed the wrong count when creating new stack that included a preexisting stack.
+- Local Adjustment Effect (Brushed Adjustment) Disappears (temporarily) After Selecting a Pin (Win only)
+- Book changes are not saved after switching between modules
+- The Filter scrollbar within the Library module was not rendering properly.
+- Auto-tone was not working properly when used in conjunction with the Exposure adjustment slider. (Win only) 
+- The Black&White button was not creating a History state within the Develop module. (Win only) 
+- When switching from image to image, remnants of previous image visible on fringes of new photo. This occurred on Retina screens only. 
+- RGB color readouts were specified in the Adobe RGB colorspace rather than the ProPhoto linear colorspace. This occurred when working in Soft Proofing within the Develop module. 
+- Horizontal artifacts would occassionally appear in DNG files.
+- Adding a page behaved inconsistently in the Book module depending on the method used to add a page.
+- The state of the “Remove Chromatic Aberrations” checkbox within the Lens Correction was not persistent between sessions of Lightroom.
+- Cannot add contacts from Address Book to email on Mac
+- Sliders can no longer be moved on Win by using mouse wheel. Working with Lightroom 4 and Adobe Photoshop Camera
+
+System requirements Windows
+
+* Intel® Pentium® 4 or AMD Athlon® 64 processor
+* Microsoft® Windows Vista® with Service Pack 2 or Windows® 7 with Service Pack 1, Windows 8 (64 bit)
+* 2GB of RAM
+* 1GB of available hard-disk space
+* 1024x768 display
+* DVD-ROM drive
+
+Languages : English, Deutsch, Español, Français, Italiano, Nederlands, Português (Brasil), Svenska, 日本語, 简体中文, 繁體中文, 한국어
+
+Homepage :  
+http://www.adobe.com/products/photoshoplightroom/

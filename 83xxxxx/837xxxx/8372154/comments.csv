@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,whoaitsthatdude,2013-04-21T06:14Z,"Works great! Scanned with Eset NOD32 (no viruses).
+
+Thanks man!"
+,Skweez,2013-05-30T20:23Z,"It works, thanks!"
+,NdGMM,2013-06-01T15:32Z,"Regarding Mac OS X: The last big update (YNAB 4.3?) changed the location of the license file from '~/Library/Preferences/com.ynab.YNAB4.LiveCaptive/Local Store/.lic' to '~/Library/Application Support/com.ynab.YNAB4.LiveCaptive/Local Store/.lic'
+
+Any chance you can update the reactivator to reflect that? Currently it's just quitting because it can't find the file. Editing manually (vim/nano/text edit/whatever) is still working fine, so no changes by the devs there."
+,zeraww,2013-06-01T21:23Z,"Yup, I've updated it:
+http://thepiratebay.sx/torrent/8530019"
+,MaXXw3ll,2013-06-09T14:22Z,"It doesn't work on windows XP. Got error message: ""YNAB license file not found"". Try for YNAB 4.3.7"

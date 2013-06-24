@@ -1,0 +1,54 @@
+               PublicHD - High-Definition Bittorrent Community
+     
+                         https://publichd.se/
+
+            ----------------------------------------------------
+
+The.Last.Waltz.1978.720p.BluRay.x264-CtrlHD [PublicHD]
+ 
+http://www.imdb.com/title/tt0077838
+
+RUNTIME.........: 01h:57m:13s
+SIZE............: 6.55 GiB
+VIDEO CODEC.....: x264, High@L4.1, 2pass, DXVA
+FRAMERATE.......: 23.976 FPS
+VIDEO BITRATE...: 7230kbps
+RESOLUTION......: 1280x692
+ASPECT RATIO....: 1.85:1
+AUDIO...........: English AC3 5.1 @ 640kbps
+                  English Commentary AAC 2.0 @ 124kbps q=0.45
+SUBTITLES.......: English, English SDH, Spanish
+CHAPTERS........: Included & Named 
+SOURCE..........: The Last Waltz Blu-ray 1080p MPEG-2 PCM5.1 CtrlHD
+
+ENCODER.........: kaziopompaa
+RELEASE DATE....: 28/03/2013
+
+
+
+x264 log
+
+y4m1280x692p 0:0 @ 24000/1001 fps (cfr)
+x264using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2
+x264profile High, level 4.1
+x264frame I:780 Avg QP:16.35 size: 95860
+x264frame P:35528 Avg QP:18.75 size: 50332
+x264frame B:132332 Avg QP:19.75 size: 33940
+x264consecutive B-frames: 0.9% 1.6% 6.9% 17.1% 30.5% 43.0%
+x264mb I I16..4: 7.1% 80.8% 12.1%
+x264mb P I16..4: 0.6% 12.6% 1.1% P16..4: 39.0% 25.6% 14.9% 0.0% 0.0% skip: 6.1%
+x264mb B I16..4: 0.0% 3.0% 0.2% B16..8: 46.4% 18.4% 5.3% direct:10.2% skip:16.5% L0:46.4% L1:42.3% BI:11.4%
+x2648x8 transform intra:89.2% inter:65.7%
+x264direct mvs spatial:96.5% temporal:3.5%
+x264coded y,uvDC,uvAC intra: 93.6% 83.7% 51.9% inter: 51.5% 39.0% 4.6%
+x264i16 v,h,dc,p: 43% 13% 18% 26%
+x264i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 5% 8% 11% 15% 15% 12% 12% 11%
+x264i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 4% 3% 8% 12% 12% 9% 9% 8%
+x264i8c dc,h,v,p: 37% 23% 20% 20%
+x264Weighted P-Frames: Y:5.9% UV:2.9%
+x264ref P L0: 36.1% 6.7% 18.0% 9.8% 8.1% 7.0% 6.0% 4.0% 3.7% 0.5% 0.0%
+x264ref B L0: 60.7% 14.6% 9.0% 5.2% 4.2% 3.6% 2.0% 0.6%
+x264ref B L1: 89.0% 11.0%
+x264kb/s:7227.32
+
+encoded 168640 frames, 4.04 fps, 7227.32 kb/s

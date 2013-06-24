@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,VeryC,2013-04-14T05:59Z,"Forgot to mention, this is only the launcher. The latest version is automaticaly downloaded duriing the first start."
+,zucumx,2013-04-14T10:31Z,"Thanks but i get this error:
+
+""The version of this file is not compatible with the version of Windows you're running. Check your computer's system information to see whether you need an x86 (32-bit) or x64 (64-bit) version of the program, and then contact the software publisher.
+
+Im on x86."
+,pbkomek,2013-04-15T04:17Z,This version does not work. I have the 1.1.872 mobile version and I had an earlier version than that as well. Both those other downloads work fine. I tried running games on both Windows and Android. Windows simply doesn't run and the Android one has APK permission issues. I would look into this package.
+,pbkomek,2013-04-16T02:30Z,"Any update on this? Did you look into it?
+
+BTW, thanks for releasing these. I have had a great time designing stuff and didn't pay because I didn't know if it would fit my needs. Definitely paying when I have a finished project so I can legally release something."
+,VeryC,2013-04-17T00:06Z,"I am working on a fix, I will release it as soon as possible."
+,anonamouse123,2013-04-17T00:45Z,"When I try and run a game (any game) I get a compile error window showing, but there's nothing in it. Win7x64.
+The free v1.1.917 works fine.
+
+You totally rock for releasing these. Like others, I intend to purchase after development is complete, if this turns out to be the right tool for me."
+,coute,2013-04-17T12:13Z,"I'm having the same problem as anonamouse123. I cannot run any games.
+
+Anyone have a fix?"
+,VeryC,2013-04-18T03:51Z,"I am working on a fix as we speak, you will not be able to find a fix for yourself as it has to do with some of my code in the launcher. Wait a little for me to release a fix. Next version will fix everything. I am also going to be making auto-updater versions distributed with updates. So The next version should be the last torrent version."
+,coute,2013-04-18T07:12Z,"Ok, thanks for the fast response and these releases!"
+,zucumx,2013-04-19T05:29Z,Thanks for the upcoming fix!
+,enoooks,2013-04-23T20:17Z,"Thank you VeryC ! You are the BEST ! :)
+Looking forward for next release.
+
+Would you mind telling me what software/tools you use ? I am trying to learn to do what you do and im not sure im learning the right tools."
+,Jollyrancher23,2013-04-26T04:59Z,"Wow this is awesome! I really appreciate you doing this, none of the other GM Studio links work nearly as good as this one, I want to thank you for doing this.
+
+I'm not downloading this one because as others are saying, there is some issues right?
+
+I will wait for the fix, any ETA on when that may be? I'm excited."
+,gldss_games,2013-04-28T04:28Z,"Nice your project, most of these errors happen because of propio User, my intention not been to bad criticizes but lack of information."
+,VeryC,2013-04-29T10:57Z,Please understand that I have been busy and have had 0 time to work on the fix. I will see about a release in the next 2-3 days. I make no promises.
+,VeryC,2013-04-29T11:09Z,"Forgot to mention in the last post, the fix will be a compleatly new version (v3). I will be starting off with beta version(s). After I fix all bugs and problems in the beta versions I will create the final version and force people on my other torrents to move to that version through a patch.
+
+This will drive other people on my other versions to thelatest, as well as get other people looking for gms on the latest version rather then all the other beta versions here onb tpb."
+,ankithd,2013-05-02T08:24Z,"Any News about the update? I really need GMS 1.1.929, it has a important collision bug fix. Anyways keep up the good work!"
+,ankithd,2013-05-02T08:30Z,"Any news about the V3 release? I really need that GMS 1.1.929 update, It has a very important collision bug fix. Anyways keep up the good work!"
+,Red_Mars,2013-05-05T06:45Z,"Works great, Thanks!  
+
+I only ran into a small problem and that is the window height of the launcher is too short, cutting off the majority of the bottom buttons including the text itself.  A small sliver of the buttons isn't cut off and I pressed randomly until this got moving.  
+
+My OS is Windows 8."
+,VeryC,2013-05-28T06:52Z,"Ok I know there are a lot of complaints going about right now, please keep in mind that I got back from Google I/O a few days ago and have not had much time to do much. I will also be going to Microsoft Build next month.
+
+ The reason why downloads are not working anymore is because I have exceeded my bandwidth by quite a bit. As in 126 Gigs.
+
+ Right now YoYo is going through the odd transition between the 1.1.xxx versions to the 1.2.xxx versions. So I am holding off on releasing the last auto updater.
+
+ And there is a lot greater advantage to using a auto updater then manual uploads. The rate that yoyo can release updates is astounding at times. Its just simpler to just create a updater that does all the work for me. I don't have a very fast upload speed, and when you have pure leechers who grab the latest version quickly and aren't decent enough to seed there share. If I am just uploading a new update file to my server whenever there is a update I use less bandwidth and you receive the update faster.
+
+ Now for some other news, I will start uploading regular install versions until the auto updater is perfected. I will need people who are willing to help with this as I have no way of telling how the updater will work in your environment.
+
+ -VeryC- "

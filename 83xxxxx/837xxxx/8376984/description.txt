@@ -1,0 +1,38 @@
+Updates the game to 1.1.21.26939, runs it without Steam, and unlocks the following 5 original DLC:
+
+Early Bird Special Pack (part of Season Pass package)
+  5 Infusion bottles
+  4 pieces of gear (Ammo Advantage, Eagle Strike, Electric Punch, Ghost Soldier)
+  machine gun damage upgrade and gold skin
+  pistol damage upgrade and gold skin
+Industrial Revolution (bonuses for completing pre-order bonus puzzle game)
+  3 pieces of gear (Fleet Feet, Handyman Nemesis, Sugar Rush)
+  500 Silver Eagles
+  5 lockpicks
+Upgrade Pack (part of collector's editions)
+  3 pieces of Gear (Betrayer, Bull Rush, Extra! Extra!)
+Birds Eye sniper rifle (Best Buy pre-order bonus)
+China Broom shotgun (GameStop pre-order bonus)
+
+---
+Instructions:
+
+1. Install the game.
+2. Run BioShock.Infinite.Update.1.exe in the Update directory.
+3. Copy the entire contents of the Cracked Files directory to your game's installation directory. For example: C:\Program Files (x86)\Bioshock Infinite
+
+The game will store its saves in C:\Users\YOUR_USERNAME\AppData\Local\SKIDROW\8870\Storage
+You may want to move your old saves to that location.
+
+---
+Other details:
+
+The BioShockInfinite.exe comes from the 1.1.21.26939 update package provided by RELOADED ( http://thepiratebay.se/torrent/8366401 ).
+
+The steam_api.dll, steam_appid.txt, Steamclient.dll, and Unleashed.ini were provided by triplesec in the CS.RIN.RU forums:  
+http://cs.rin.ru/forum/viewtopic.php?p=820479#p820479 
+http://cs.rin.ru/forum/viewtopic.php?p=820485#p820485
+As he says, they're from the Unleashed (SKIDROW side-group) rip of Zen Bound 2 (with the app ID changed).
+
+The DLC files came from http://thepiratebay.se/torrent/8323601 , but they're set up like machine4578 says in the CS.RIN.RU forums: 
+http://cs.rin.ru/forum/viewtopic.php?p=821038#p821038

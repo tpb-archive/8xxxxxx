@@ -1,0 +1,52 @@
+Format                         : Matroska
+Format version                 : Version 1
+File size                      : 488 MiB
+Duration                       : 1h 39mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 688 Kbps
+Writing application            : DivXMKVMux 3.7.0.0073
+Writing library                : libDivXMediaFormat 3.7.0.0073
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 3 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 39mn
+Bit rate mode                  : Variable
+Maximum bit rate               : 20.0 Mbps
+Width                          : 720 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 30.000 fps
+Standard                       : PAL
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Language                       : English
+Default                        : Yes
+Forced                         : No
+Color primaries                : BT.601 PAL
+Transfer characteristics       : BT.470 System B, BT.470 System G
+Matrix coefficients            : BT.601
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 1h 39mn
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Language                       : English
+Default                        : Yes
+Forced                         : No
+

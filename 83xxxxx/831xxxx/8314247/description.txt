@@ -1,0 +1,7 @@
+INTRODUCTION
+
+Resilient T-SQL code is code that is designed to last, and to be safely reused by others. The goal of defensive database programming, and of this book, is to help you to produce resilient T-SQL code that robustly and gracefully handles cases of unintended use, and is resilient to common changes to the database environment.
+
+Too often, as developers, we stop work as soon as our code passes a few basic tests to confirm that it produces the "right result" in a given use case. We do not stop to consider the other possible ways in which the code might be used in the future, or how our code will respond to common changes to the database environment, such as a change in the database language setting, or a change to the nullability of a table column, and so on.
+
+In the short-term, this approach is attractive; we get things done faster. However, if our code is designed to be used for more than just a few months, then it is very likely that such changes can and will occur, and the inevitable result is broken code or, even worse, code that silently starts to behave differently, or produce different results. When this happens, the integrity of our data is threatened, as is the validity of the reports on which critical business decisions are often based. At this point, months or years later, and long after the original developer has left, begins the painstaking process of troubleshooting and fixing the problem. 

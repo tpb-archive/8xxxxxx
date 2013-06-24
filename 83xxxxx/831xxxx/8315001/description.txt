@@ -1,0 +1,39 @@
+100% working
+package ready for action 
+already cracked 
+no patch needed
+
+campagne and skirmish pack for mac osx
+
+follow this :
+
+1- install "little snitch" (not include, find on the web) to make refuse all connection of starcraft program to connect to internet automatically 
+(or switch off your wifi/LAN each time you launch SC2)
+
+2 - open starcraftII.dmg 
+run starcraft II inside this dmg 
+
+and close it 
+(it will make a folder at user/user/documents/blizzard/starcraft II/saves/)
+
+3 - run the other one DMG "starcraft 2 - challenges & player vs AI Maps v1.0"
+copy the two folder "challenge" and  "versusAI" 
+past this 2 folders at the previous folder we talked about :
+user/user/documents/blizzard/starcraft II/saves/...
+
+4- you can now play SC2 
+(you can now past the "starcraft 2" folder of the game where you want )
+
+5 - for playing skirmish just use "load" party  inside a tutorial session
+and choose the skirmish party you want to play by loading it !
+
+enjoy
+
+by diablade
+  
+
+ps for french people : 
+
+Ouvrez /Documents/Blizzard/StarCraft II/Variables.txt
+Changez la ligne localeiddata=enUs par localeiddata=frFR
+Votre Jeux est en VOSTFR vous pouvez jouer.

@@ -1,0 +1,88 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-04-13T09:03Z,"Important Updates:
+http://bayimg.com/gALIDAAeL
+
+Optional Updates:
+http://bayimg.com/GALieAaEL
+
+Pre-Activated Loader Install:
+http://bayimg.com/GALIFaAEL
+
+IE10:
+http://bayimg.com/GaLiGaael
+
+Validation-1:
+http://bayimg.com/GalIHaAeL
+
+Validation-2:
+http://bayimg.com/GALiiAael"
+,Sonic_27,2013-04-13T14:41Z,Windows 8 x64 AIO with all updates (non activated) PLEASE 
+,bhc70,2013-04-14T01:55Z,"murphy78,
+I think you're torrents are the best. 
+The windows install including .net 4.5 take so long.
+Any chance of creating the April 2013 version of
+Windows 7 Ultimate SP1 x64 OEM Activated Feb2013? The install is fast and .net 4.5 is already installed."
+,Quronja,2013-04-14T09:16Z,"Sir, thank you very much for this good work. But this version of the installation takes too long. OEM Activated Feb2013 is the best version."
+[V],murphy78,2013-04-14T12:33Z,I believe you are referring to the .net 4.5 install. Don't use this if you don't want it.
+,FRID@,2013-04-14T18:05Z,"@murphy78
+what is the difference between
+
+X17-59465.iso
+and
+en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso ??
+
+both are Win 7 SP1 Ultimate x64 English :0
+One is Msdn iso but what is the other you use?"
+[V],murphy78,2013-04-14T23:20Z,"Oh I know what that guy was talking about... I think in Feb I did audit-sysprep stuff. Yah that speeds up installs but it also causes problems for some people.
+
+Anyhow X17-59465.iso is (Digital River Retail Media Refresh Ult-SP1). MS contracted Digital River to host file downloads for retail editions of things. They have Win7 stuff, Office retail stuff, etc.
+
+Back in Win7, there wasn't much of a difference between retail and msdn versions. In Win8, there's a huge difference and you cannot integrate the downloaded versions because they contain an encrypted .esd install file instead of .wim."
+,lolzob,2013-04-15T00:22Z,"Is it possible to speak privately with you?
+My mail address drillbell@yahoo.com, I expect to send mail."
+,tikataka,2013-04-15T06:36Z,"In any case, thank you, you are the best ... But OEM Activated Feb2013 is the best version."
+[V],murphy78,2013-04-15T07:33Z,"lolzob you can pm me any time you want on mdl...
+
+http://www.mydigitallife.info
+
+Interesting... someone posted this on rlslog_net:
+
+calls me a p2p group hah."
+,ancienthordes,2013-04-16T11:20Z,"Sir, the installation index u mention
+Windows 7 Ultimate SP1 64-bit
+Windows 7 Ultimate SP1 64-bit Pre-Activated
+
+1) i believe its safe for noob like me to opt for 2nd option pre actived rite with no worries ?
+i dont want to use those  daz loaders stuff after installation u know what i mean 
+please response to this humble noob :)"
+,IvanFuryo,2013-04-17T00:00Z,"Do I have to re-install windows for SP1 to be applied? Can I just install SP1 as a stand-alone over my current installation? (Same version, build 7600)"
+,IvanFuryo,2013-04-17T00:17Z,Can I use this to update my current windows installation?
+,netusername,2013-04-17T18:49Z,"I don't normally comment, but this is a great torrent. Solves those endless .net updates and restarts after installation... Well worth the extra time during initial installation. Thanks murphy78! This is how torrents should be...thought out a little more...Was sick and tired of people uploading ""Windows Up to date"" and then find out about those damn .net updates!"
+,hedns,2013-04-17T20:31Z,"bro can u update .net from here http://www.wincert.net/forum/topic/10480-slim-net-framework-45-full-x86x64-4-17-2013/
+& add http://www.wincert.net/forum/topic/9790-aio-microsoft-visual-bcfj-redistributable-x86x64/"
+,kumsum,2013-04-18T01:44Z,"Thanks to Green skull Murphy, i have a small question, Is this OEM? and can i turn on windows activation, usually we should not but don't know how you have built this iso? please reply.
+"
+,kumsum,2013-04-18T01:57Z,Just checked on net.. we can download updates from net but we should make sure not to install KB971033.. This is all rite??
+[V],murphy78,2013-04-18T15:01Z,"OK after reading Microsoft's comments about said kb file you mentioned, I'll re-do this month's ultimate releases without the kb file 2823324.
+
+It appears to replace the ntfs kernel driver or something... I didn't read every word, just skimmed, but it seems as though it could cause problems for people who use certain kinds of software.
+
+So I'll re-do the ultimate releases, then drop an AIO a day or two later after seeding ultimate."
+,Bittornado,2013-04-18T16:32Z,"@murphy78:
+First off thank you a million times for all the hard work and for providing all this stuff to everyone for free! There are no words for such nice and dedicated souls ;)
+
+I was just about to d/l this version but after reading your last post I'll wait for the new and updated release then. Will you link to the new torrent upload from here?!
+
+Thanks again m8!"
+[V],murphy78,2013-04-18T19:00Z,Just click my name. It will list my torrents starting from most recent. You can bookmark it or whatever...
+,Bittornado,2013-04-18T19:29Z,"Yup, damn, my lameness... didn't think of that of course! Thx m8 :)"
+,ancienthordes,2013-04-19T09:18Z,"murphy78 
+sir i have already downloaded this and installed it with no problems, now whats all this fuss with this kb file?is that all serious or shoud i wait for your next release."
+,ancienthordes,2013-04-20T21:12Z,"@murphy78
+        please for God sake reply to my post :) that would give me satisfaction. "
+[V],murphy78,2013-04-21T00:54Z,"ancient, I'm sorry I was working on win7 reversion and the aio. I was pre-occupied.
+
+If you do not have any problems, there's really no reason to be concerned. The newer version will simply not have the kb file that updates the ntfs kernel stuff.  From what I can tell it only affects some high-security stuff like banking software. I haven't really gotten 100% of the details.
+
+So yah, it's totally not necessary to use the v2 I am doing if you are not having any problems."
+,fisherman2474,2013-06-05T14:03Z,"Somehow autoupdate got activated and my 30 days is about up, How do I deactivate and redo the activator without saving all my files and reinstalling?"

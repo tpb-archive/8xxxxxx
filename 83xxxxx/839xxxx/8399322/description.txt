@@ -1,0 +1,29 @@
+Binary Fortress Software LogFusion Pro
+
+The LogFusion application was developed to be a powerful log monitoring tool that makes parsing your logs easy. Take advantage of LogFusion's Row Highlighting and Text Filtering features to quickly filter your log and only show the relevant lines you are looking for.
+
+Use the Custom Columns feature to let LogFusion parse and split your logs into separate columns for easier reading. Just like the popular 'tail' program in Linux/Unix, LogFusion can also auto-scroll and always show you the newest lines in your log files in real-time.
+
+LogFusion can load any text logs, including web server logs, developer debug logs and any other text that is outputted to a file. LogFusion can also read Event Logs in real-time, and can even use it's powerful Text Filtering and Row Highlighting features to help you find specific items.
+
+Supported OS:
+
+Windows 8, 7 and Vista (32-bit and 64-bit)
+Windows XP (see special requirements below)
+Windows Server 2012, 2008 and 2003 (32-bit and 64-bit)
+
+Note: If you are using Windows XP you will need:
+Microsoft .NET Framework v2.0 (32-bit)
+
+Homepage: http://www.binaryfortress.com
+
+Installation Instructions:
+
+- Install program.
+- Register application with given name/key.
+- Block "LogFusion.exe" with your firewall solution
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

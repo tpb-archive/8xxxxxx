@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+[T],lletaif,2013-03-26T22:13Z,"Media Info:
+
+General
+Unique ID                                : 338536743974861317054030752255788589711 (0xFEAFCE24D7614905266C3ECE6A8A228F)
+Complete name                            : Great.Expectations.2012.720p.BRRip.x264.HORiZON-ArtSubs
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.36 GiB
+Duration                                 : 2h 8mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 634 Kbps
+Writing application                      : Lavf52.94.0
+Writing library                          : Lavf52.94.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=15
+Codec ID                                 : V_MPEG4/ISO/AVC
+Bit rate mode                            : Variable
+Maximum bit rate                         : 6 778 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Original frame rate                      : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 8mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 64ms
+Default                                  : Yes
+Forced                                   : No
+"

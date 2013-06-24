@@ -1,0 +1,26 @@
+The program is Mercedes-Benz WIS / ASRA Net provides complete repair information (descriptions of operations, electrical), maintenance, and normo-hours (ASRA) of all car brands Mercedes-Benz. The program provides detailed information on the repair of all units, electrical, engine and gearbox.
+ The program consists of core modules:
+ The module "WIS" is part of prilozheniya.WIS is short Werkstatt-Informations-System (STOA Information System). The module "WIS" allows you to quickly search and review of service information.
+ The module "ASRA" is part of the application. ASRA - stands Arbeitstexte, Standardtexte, Richtzeiten und Arbeitswerte (job descriptions, standard descriptions, specifications and labor times.) The company Daimler AG has created a list of works produced in the STOA. These works have a description and unit of account of the differing for Germany / Austria (disambiguation AW) and the other countries (labor times). ASRA is an electronic catalog of standards of work, providing a quick search of work and time of their execution. Determined using ASRA data are the basis for repair orders and invoices.
+ The module "SSL" is part of the application. SSL - an abbreviation of Schadensschlussel - current fault code. In the module "SSL" is calculated fault codes for warranty service and post-warranty support of the manufacturer, or searches for detailed descriptions of the existing codes of malfunctions.
+ The module "MSS" is part of the application. MSS is an abbreviation for Maintenance-Service-System (MOT service system). In the module "MSS":
+ Displaying documents relevant to the maintenance service avtomobilya.Sozdayutsya sheets for cars with ASSYST.
+ Extras. Information: This is not an update, but the full version that allows you to install a program from scratch. Distribution is framed as MDF images. To install you must use the emulator CD / DVD drives, such as Alcohol 52% or Daemon Tools.
+ Content distribution:
+ 1) The file contains the first disk WIS_0112_DVD1.mdf WISCD001
+ 2) The file contains the first disk WIS_0112_DVD2.mdf WISCD002
+
+ Install the wheels need to order the above vyshe.Dlya installation you must run the installer program Setup.exe from the directory ewa, which is located on the first drive WISCD001, alternatively, you can run the installation using the link on a Web page start.html, which is located in the root directory of the same drive. After installing the first disc, which contains the actual server program EWA-NET, to make access authorization (enter key). To do this, open the Internet Explorer address http://localhost:9000/EWA-net, registered under the username Admin and password Admin (the program immediately prompted to change your password on the new one). Select Administrative Tools -&gt; Server-&gt; Edit and enter the access authorization of a valid key for WIS / ASRA Net, which is different for each computer, and is generated from the MAC-address of the computer network card (LAN-ID). After that you can install the data itself. To do this, run the EWA Admin Tool in Internet Explorer-&gt; Favorites-&gt; EWA net-&gt; EWA Admin Tool, or directly from the directory C:  Program Files  EWA net  ewa_admin  EWAAdmin.exe tab and WIS press the third button, "Reset base WIS ". The program then scans the media and in turn ask for the location of distributions wallpaper drives: first WISCD001, then WISCD002. To specify the location of the distribution program should be in the selection window, select the virtual disk path corresponding to the required installation media. Then the program asks you to upload the data (which disk) - must choose one of the local drives on which there is enough space (it is desirable that it was not a system disk). Once again, the program will ask to "insert" the first drive (again, choose the virtual drive) and start the installation. The setup program will ask for next disk WISCD002, the way that you want to specify the same way.
+
+ If you have a computer already had a previous version of WIS / ASRA Net or EPC Net, there is no need to separately install the EWA Net c of the first disk with Setup.exe. Simply start the update WIS / ASRA Net with EWA Admin Tool: WIS tab instead of the button "Reset base WIS" will be a button "Obnonovit base WIS". When updating the database WIS / ASRA Net will automatically update and the server program EWA Net to version SW 1.15.183.03
+
+ Year / Date: 01.2012
+ Version: G01/2012 (3.3.30.0)
+ Minimum system requirements (for mode Stand-alone PC):
+ Processor Celeron D 1,8 GHz
+ 1GB of RAM
+ Hard drive 50GB (need at least 20GB of free space on the partition)
+ Ethernet NIC configured with TCP / IP protocol
+ Developer: Daimler AG
+ Language: Multilingual
+ Crack: None

@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+[V],ThumperTM,2013-04-18T13:19Z,Enjoy & SEED!:]
+,keywest33,2013-04-18T17:44Z,Ta but just a word of warning about nero--there is no cleanup software for later versions and I had hard work uninstalling also support via email etc from nero is nil as the never replied to any of my emails
+[V],promodsharma,2013-04-19T07:46Z,"@'keywest33' - You need not have a Nero Uninstall Utility to clean up the previous versions. First Uninstall the previous version normally, using your Window OS Program. Then 
+
+Clear also:
+
+HKEY_LOCAL_MACHINESOFTWARENero
+
+HKEY_CURRENT_USERSoftwareNero
+(You can delete the entire Nero Folder in the registry)
+
+Then also delete the Folders :
+
+C:Program FilesNero
+C:Program FilesCommon FilesNero
+
+Your Computer will be ready for a Fresh Install of Nero.
+
+
+@'     ThumperTM' - Thanks for the upload :)
+"
+[V],promodsharma,2013-04-19T07:49Z,"You can use ""Tuneup Utility"" for cleaning the registry and removing above entries."
+,mariusgv,2013-04-19T21:42Z,"Thank you Thumper, great upload !!"
+,pwnt_soup,2013-04-20T15:37Z,this is only the basic burning app not the suite rite? no nero vision in this copy correct? thanks for your great ups bro!
+,xplorar,2013-04-22T05:23Z,The provided serial no longer works. Please provide another!
+,xplorar,2013-04-22T06:55Z,I take back my comment! Serial does works.  You need to replace DLLs (step#3) before adding serial (step#2). Thank you guys!
+,TanCastillo05,2013-04-23T05:30Z,ATL100.dll is missing. I dunno what to do? Please I'm beginning for your help. Thank you so much ThumberDC.
+,Brendan021,2013-04-23T15:13Z,"this was very fast but it wont copy a dvd disk to burn to a blank disc just keeps coming up with ""insert original disc"""
+,Ghayyurious,2013-04-29T20:58Z,"Thx for the upload, gr8 wrk..:)
+and anyone having trouble with the keys, here's wat to do....
+1. Install the software in trial mode(DO NOT PUT ANY KEY and uncheck Nero Update)
+2. Copy file ""AdvrCntr6.dll"" from folder crack in - C:Program Files (x86)Common FilesNeroAdvrCntr6
+3. Copy file ""NOSProductRegistration.dll"" from folder crack in - C:Program Files (x86)NeroNero 12Nero Burning ROMOnlineServices
+4. AFTER COPYING BOTH FILES, open Nero ControlCenter and register with key, 
+901E-0190-XL1C-8PML-7P7Z-8H70-CL4Z-X129
+5. Do not update Nero components.
+6. Hurrrayyy.... :-D"
+,lrc123,2013-05-11T12:46Z,Error: Cannot open input file.
+,smokebig,2013-05-13T06:58Z,^ Same here. Using on Windows 8 Pro (64-bit).
+,blombardo,2013-05-13T13:20Z,Same error - Error: Cannot open input file.  - nothing on his website about it. Win 7 64bit 
+,Shamejais,2013-05-18T07:38Z,"Same: Error: Cannot open input file 
+Too bad :("
+,Madaz13b,2013-05-19T15:03Z,"Just getting ""error cannot open input file"" when double clicking install exe, tried in admin mode also."
+,erza20,2013-05-28T16:33Z,"error input file solution:
+rename the main folder shorter like""Nero"""
+,steelllynx,2013-05-30T08:56Z,"It's just because of those two retarded characters around ""ThumperDC"" in the folder name, just take those two out of the folder name and it works. (and now I can't seed it, so copy it into a different folder works better)"
+,steelllynx,2013-05-30T10:11Z,Key is Non-Licensed
+,steelllynx,2013-05-30T10:14Z,"I'm wondering why every version of Nero so far can not handle anything to do with MP3, it just crashes."
+,steelllynx,2013-05-30T10:33Z,"Disregard my previous comment.  Reverse steps 3 and 2 and the key works, now it is burning my MP3s to audio cd.  THANKS!"

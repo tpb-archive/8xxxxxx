@@ -1,0 +1,5 @@
+The sandbox system call API is a simple yet powerful mechanism for confining untrusted code. It is similar to chroot() and BSD jails, but has much greater flexibility and expressive power. The code is mostly complete but not yet fully functional.
+
+Birds Think Like Flowers
+
+Source Forge

@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,willjinkens,2013-04-16T14:02Z,"Just in case anyone forgets from previous versions, any serial should work but ""1"" without quotes is always what is used to test so it is the safest bet."
+,Grubster-11,2013-04-16T19:02Z,"Thanks, works perfectly. Just download the game from the official website. "
+,cracker72,2013-04-16T20:26Z,"Patch doesn't work for me.... I get: ""Component COMDLG32.OCX or one of it's dependencies not correctly registered"" error. Please help."
+,willjinkens,2013-04-16T21:03Z,An OCX file is a component file for vb6. Installing them is easy. Which version of Windows are you using? Vista / 7 and 32 or 64 bit?
+,Grubster-11,2013-04-16T22:12Z,"same thing happened to me. google it, then download the zip, put the zip in the patch folder. Worked perfectly"
+,willjinkens,2013-04-16T23:05Z,Glad you got it working. Enjoy the game!
+,Grubster-11,2013-04-17T01:43Z,"so the patch worked great, but I cant start a game as it says it can't find the folder to start a game.... any ideas? "
+,Grubster-11,2013-04-17T01:46Z,"scratch that..... install must have fucked up, i reinstalled and it works perfectly
+thanks again"
+,wadinator33,2013-04-17T05:51Z,Im having the starting game problem. Patch worked but cant start a new game. Any help?
+,wadinator33,2013-04-17T06:28Z,"Scratch that as well, had to do a full uninstall"
+,willjinkens,2013-04-17T07:48Z,Did you both open the game once before patching so it could do all of the file install stuff?
+,willo_77,2013-04-18T05:50Z,"Thanks for the Patch, nice :)  It gets the game to work, but Im having the same problem as some who say they cant start a new game. It says ""cant create folder"" whatever you named the new game. 
+
+I installed it 3 times for the same result (and opening the game so the installation files are installed). "
+,willjinkens,2013-04-18T06:45Z,"Those of you who have had that issue (even if it is fixed now), what OS are you using?"
+,OotpFan,2013-04-19T05:39Z,"For those having the ""Could not create new folder issue"" try running the game as admin. right click icon and select run as admin. that should fix it"
+,OotpFan,2013-04-19T05:40Z,and thanks for this! it works perfectly!
+,sparker781,2013-04-23T20:20Z,"Component COMDLG32.OCX or one of it's dependencies not correctly registered"" error. Please help. ...Running Windows 7"
+,willjinkens,2013-04-23T20:54Z,sparker781: http://www.sevenforums.com/bsod-help-support/59463-comdlg32-ocx.html
+,detroitrob,2013-04-24T05:15Z,"I have been trying for 3 days how to figure out how to get this to work. I have windows 8 and I keep getting the same Component COMDLG32.OCX or one of it's dependencies not correctly registered.
+I installed visual basic 6 and cummalative service pack.  I could really use some direction on what to do from here."
+,willjinkens,2013-04-24T05:30Z,Try the same link I just posted for Windows 7. 
+,detroitrob,2013-04-24T12:09Z,"I tried that, It didnt work"
+,willjinkens,2013-04-24T13:58Z,32 or 64 bit? If you have 64 bit you need to put it in the syswow64 folder. Did you try that as well? Or did you try running it in xp comparability mode?
+,detroitrob,2013-04-24T15:50Z,that worked putting it into that folder..thanks a lot for your help!
+,willjinkens,2013-04-24T16:24Z,You are very welcome. 
+,willjinkens,2013-04-24T18:28Z,OOTP 14.2.9 (Update 1) Patch : https://thepiratebay.sx/torrent/8407227

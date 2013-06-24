@@ -1,0 +1,43 @@
+Crayon Physics Deluxe is a 2D physics puzzle / sandbox game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. Solve puzzles with your artistic vision and creative use of physics.
+
+ 
+----------------
+
+Tested and working on OSX-Lion, 10.7.5
+
+----------------
+
+
+INSTALL:
+1. Extract the .ZIP folder. (CPD-MacOSX.zip)
+2. Play the game!
+Simple as that!
+
+
+----------------
+
+There's a chance it might not work on Mountain Lion.
+
+Here's some possible fixes.
+. Navigate to the game
+. Right-click on the game
+. Show package content
+. Double click "Wineskin"
+. Advanced
+. The tab "Options"
+. And the check the box that says:
+  "force use of system istalled XQuartz instead of WineskinX11"
+
+
+. Download and install XQuartz if you don't already have it here:
+. http://xquartz.macosforge.org/landing/
+
+
+. Download Wineskin Winery:
+. http://wineskin.urgesoftware.com/tiki-index.php?page=Downloads
+
+----------------
+
+I'M NOT TAKING ANY CREDIT FOR THE GAME FILES. I'M TAKING CREDIT FOR THE PORT/WRAPPER.
+THE GAMEFILES ARE TAKEN FROM THIS TORRENT: 
+http://thepiratebay.se/torrent/6842672/Crayon_Physics_Deluxe_-_Release_55_[ADHDerby]

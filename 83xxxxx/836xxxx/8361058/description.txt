@@ -1,0 +1,50 @@
+Files are named via TheTVDB.com for my XBMC if you don't like it rename them.
+
+My upload speed is slow so give it some time, be patient, and SEED!
+
+The Blu-rays on this one were exceptional quality. I sat through many preview encodes to try and capture the original quality as best as possible with the smallest size and after 6.5 days straight of encoding on a 2600k @ 4.8Ghz we are left with this. 1.6GB per episodes is not exactly small but completely necessary to get close to original quality. I did keep the grain as best as I could. If you want a slightly smaller size with no grain or 720p go download the [OZC] release.
+
+The movies video is Hi10p (10 bit) and also not my encode. I re-encoded the audio for the Japanese 24 bit FLAC to 640Kbps AC3 and re-muxed making English the default language. I don't remember the release group sorry. Thanks to them for that video encode.
+
+Lastly be sure to buy this when / if it comes out on Blu-ray in the US / EU it is going to be one hell of a collection.
+
+
+--SERIES--
+
+Handbrake Settings: rc-lookahead=50:ref=10:bframes=16:b-adapt=2:direct=auto:b-pyramid=strict:me=umh:subme=10:merange=64:analyse=all:trellis=2:no-dct-decimate=1
+
+Video...
+Format profile: High@L5.0
+Bit rate: 8,000 Kbps
+Display aspect ratio: 4:3
+
+English Audio...
+Format: AC3
+Bit rate: 640 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+Japanese Audio...
+Format: AC3
+Bit rate: 640 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+English SSA Subs.
+
+--MOVIE--
+
+Video...
+Format profile: High 10@L5.1
+Bit rate: 8,022 Kbps
+Display aspect ratio: 1.85:1
+
+English Audio...
+Format: AC3
+Bit rate: 448 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+Japanese Audio...
+Format: AC3
+Bit rate: 640 Kbps
+Channels: 6 (5.1 Surround Sound)
+
+English ASS Styled Subs.

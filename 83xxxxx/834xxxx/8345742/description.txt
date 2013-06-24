@@ -1,0 +1,42 @@
+VLC Handbrake Rip Play Encrypted Blu-ray Mac Win Linux
+
+linux:
+32
+libaacs.so.0
+64
+libaacs.so.0
+BluRay - ArchWiki.pdf
+handbrake
+HandBrake Checksums.pdf
+HandBrake-0.9.8.tar.bz2
+KEYDB.cfg
+VLC Blu-Ray.pdf
+
+mac:
+On OS X this hack seems to work with VLC 2.0 only.
+handbrake
+HandBrake Checksums.pdf
+HandBrake-0.9.8-MacOSX.6_GUI_x86_64.dmg
+KEYDB.cfg
+keys.pdf
+libaacs.dylib
+VLC Blu-ray plugin - Watch encrypted Blu-rays directly in VLC 2.0+.pdf
+VLC Blu-Ray.pdf
+vlc-2.0.0-intel64.dmg
+vlc-2.0.0.dmg.md5
+
+win:
+32
+libaacs.dll
+64
+libaacs.dll
+handbrake
+HandBrake Checksums.pdf
+HandBrake-0.9.8-i686-Win_GUI.exe
+HandBrake-0.9.8-x86_64-Win_GUI.exe
+How to Access the Application Data Folder - eHow.com.pdf
+How To Play Blurays In VLC.pdf
+KEYDB.cfg
+VLC Blu-Ray.pdf
+
+tags: blu-ray, vlc, mac, win, linux, keys, aacs, BR, play, rip, disc, handbrake, blu, ray, blue

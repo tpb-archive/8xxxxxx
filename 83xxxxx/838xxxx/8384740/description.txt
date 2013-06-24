@@ -1,0 +1,23 @@
+Course Outline
+
+Introduction to the MCSE : Desktop Administrator and the 70-415 Exam
+Exploring the Architecture and Technologies that Enable a Windows Desktop Infrastructure
+Planning for Automated Windows Desktop Image Deployment
+Preparing for and Implementing Windows Deployment Services
+Automating Windows Installation in WDS
+Capturing and Deploying Windows Desktop Images with WDS
+Implementing Light Touch Deployment with the Microsoft Deployment Toolkit
+Integrating User State Migration and the USMT into Image Deployment
+Implementing Zero Touch Deployment with System Center Configuration Manager 2012
+Planning and Implementing Remote Desktop Services Host Servers
+Connecting Users to Applications with Remote Desktop Web Access and RemoteApp and Desktop Connections
+Extending RDSH Applications to the Internet with the Remote Desktop Gateway
+Implementing a VDI Infrastructure with Remote Desktop Virtualization Host
+Creating and Configuring Virtual Desktop Collections
+Managing the Remote Desktop Client Experience
+Planning for and Implementing User State Virtualization
+Configuring Desktop Security
+Monitoring the Virtual Desktop Infrastructure
+Implementing an Updates Infrastructure
+Tips and Tricks in Maintaining Images
+

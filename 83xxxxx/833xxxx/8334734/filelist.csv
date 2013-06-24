@@ -1,0 +1,119 @@
+﻿Filename,Size,Unit
+1. Introduction to Force.com/1. Introduction.wmv,2.99,M
+1. Introduction to Force.com/10. Introducing the course scenario.wmv,2.18,M
+1. Introduction to Force.com/11. Developer resources.wmv,1.77,M
+1. Introduction to Force.com/12. Summary.wmv,4.33,M
+1. Introduction to Force.com/2. What does Platform as a Service (PaaS) mean.wmv,3.84,M
+1. Introduction to Force.com/3. Salesforce.com vs. Force.com.wmv,2.4,M
+1. Introduction to Force.com/4. Key concepts.wmv,3.35,M
+1. Introduction to Force.com/5. Primary services.wmv,3.32,M
+1. Introduction to Force.com/6. Comparing Force.com to other PaaS offerings.wmv,3.23,M
+1. Introduction to Force.com/7. When should you choose Force.com.wmv,3.48,M
+1. Introduction to Force.com/8. Creating an account and sample application.wmv,3,M
+1. Introduction to Force.com/9. DEMO - Creating an account and sample application.wmv,12.44,M
+2. Using the Force.com Database/1. Introduction.wmv,1.37,M
+2. Using the Force.com Database/10. Leveraging formula fields.wmv,2.49,M
+2. Using the Force.com Database/11. DEMO - Leveraging formula fields.wmv,12.65,M
+2. Using the Force.com Database/12. Data structure visualization using Schema Builder.wmv,2.75,M
+2. Using the Force.com Database/13. DEMO - Data structure visualization using Schema Builder.wmv,12.74,M
+2. Using the Force.com Database/14. Querying database objects using SOQL.wmv,6.16,M
+2. Using the Force.com Database/15. DEMO - Querying database objects using SOQL.wmv,16.59,M
+2. Using the Force.com Database/16. Searching database objects using SOSL.wmv,4.05,M
+2. Using the Force.com Database/17. DEMO - Searching database objects using SOSL.wmv,6.13,M
+2. Using the Force.com Database/18. Summary.wmv,2.13,M
+2. Using the Force.com Database/2. Scenario overview.wmv,1.08,M
+2. Using the Force.com Database/3. Creating data objects.wmv,3.63,M
+2. Using the Force.com Database/4. DEMO - Creating data objects.wmv,24.96,M
+2. Using the Force.com Database/5. Adding fields.wmv,5.97,M
+2. Using the Force.com Database/6. DEMO - Adding fields to custom objects.wmv,26.94,M
+2. Using the Force.com Database/7. DEMO - Adding fields to standard objects.wmv,17.6,M
+2. Using the Force.com Database/8. Defining relationships.wmv,2.82,M
+2. Using the Force.com Database/9. DEMO - Defining relationships.wmv,22.74,M
+3. Configuring and Customizing the Force.com User Interface/1. Introduction.wmv,1.29,M
+3. Configuring and Customizing the Force.com User Interface/10. DEMO - Visualforce controllers.wmv,11.1,M
+3. Configuring and Customizing the Force.com User Interface/11. Changing the appearance of a Visualforce page.wmv,3.45,M
+3. Configuring and Customizing the Force.com User Interface/12. DEMO - Changing the appearance of a Visualforce page.wmv,7.4,M
+3. Configuring and Customizing the Force.com User Interface/13. Accessing Visualforce pages.wmv,2.28,M
+3. Configuring and Customizing the Force.com User Interface/14. Summary.wmv,2.38,M
+3. Configuring and Customizing the Force.com User Interface/2. Scenario overview.wmv,875.19,K
+3. Configuring and Customizing the Force.com User Interface/3. The user interface.wmv,3.56,M
+3. Configuring and Customizing the Force.com User Interface/4. DEMO - The user interface.wmv,21.13,M
+3. Configuring and Customizing the Force.com User Interface/5. Introducing Visualforce.wmv,2.78,M
+3. Configuring and Customizing the Force.com User Interface/6. Visualforce components.wmv,5.14,M
+3. Configuring and Customizing the Force.com User Interface/7. Developing Visualforce pages.wmv,3.15,M
+3. Configuring and Customizing the Force.com User Interface/8. DEMO - Developing Visualforce pages.wmv,16.81,M
+3. Configuring and Customizing the Force.com User Interface/9. Visualforce controllers.wmv,4.14,M
+4. Building Reports on Force.com/1. Introduction.wmv,1.52,M
+4. Building Reports on Force.com/10. DEMO - Creating dashboards.wmv,5.86,M
+4. Building Reports on Force.com/11. Defining analytic snapshots.wmv,2.59,M
+4. Building Reports on Force.com/12. DEMO - Defining analytic snapshots.wmv,13.84,M
+4. Building Reports on Force.com/13. Summary.wmv,2.9,M
+4. Building Reports on Force.com/2. Scenario overview.wmv,1.01,M
+4. Building Reports on Force.com/3. Creating reports.wmv,3.81,M
+4. Building Reports on Force.com/4. DEMO - Creating reports.wmv,17.77,M
+4. Building Reports on Force.com/5. Executing reports.wmv,2.03,M
+4. Building Reports on Force.com/6. DEMO - Executing reports.wmv,7.24,M
+4. Building Reports on Force.com/7. Building custom reports.wmv,1.86,M
+4. Building Reports on Force.com/8. DEMO - Building custom reports.wmv,13.14,M
+4. Building Reports on Force.com/9. Creating dashboards.wmv,2.31,M
+5. Adding Business Logic to Force.com Applications/1. Introduction.wmv,1.97,M
+5. Adding Business Logic to Force.com Applications/10. DEMO - Apex language constructs - arrays.wmv,4.58,M
+5. Adding Business Logic to Force.com Applications/11. DEMO - Apex language constructs - lists.wmv,5.71,M
+5. Adding Business Logic to Force.com Applications/12. DEMO - Apex language constructs - sets.wmv,5.48,M
+5. Adding Business Logic to Force.com Applications/13. DEMO - Apex language constructs - maps.wmv,5.67,M
+5. Adding Business Logic to Force.com Applications/14. Apex language constructs - expression operators and control logic.wmv,3.41,M
+5. Adding Business Logic to Force.com Applications/15. DEMO - Apex language constructs - expression operators and control logic.wmv,8.94,M
+5. Adding Business Logic to Force.com Applications/16. Using Apex with the database.wmv,6.43,M
+5. Adding Business Logic to Force.com Applications/17. DEMO - Using Apex with the database.wmv,11.01,M
+5. Adding Business Logic to Force.com Applications/18. Working with Apex triggers.wmv,2.25,M
+5. Adding Business Logic to Force.com Applications/19. DEMO - Working with Apex triggers.wmv,12.79,M
+5. Adding Business Logic to Force.com Applications/2. Scenario overview.wmv,916.05,K
+5. Adding Business Logic to Force.com Applications/20. Leveraging the Apex Scheduler.wmv,3.06,M
+5. Adding Business Logic to Force.com Applications/21. Summary.wmv,3.48,M
+5. Adding Business Logic to Force.com Applications/3. Creating validation rules.wmv,4.99,M
+5. Adding Business Logic to Force.com Applications/4. DEMO - Creating validation rules.wmv,10.6,M
+5. Adding Business Logic to Force.com Applications/5. Apex language constructs - data types.wmv,4.04,M
+5. Adding Business Logic to Force.com Applications/6. Apex language constructs - classes.wmv,3.36,M
+5. Adding Business Logic to Force.com Applications/7. Apex language constructs - objects.wmv,2.96,M
+5. Adding Business Logic to Force.com Applications/8. DEMO - Writing Apex code.wmv,12.27,M
+5. Adding Business Logic to Force.com Applications/9. Apex language constructs - collections.wmv,4.61,M
+6. Leveraging Workflows in Force.com/1. Introduction.wmv,1.21,M
+6. Leveraging Workflows in Force.com/10. Summary.wmv,1.82,M
+6. Leveraging Workflows in Force.com/2. Scenario overview.wmv,729.24,K
+6. Leveraging Workflows in Force.com/3. Defining workflow rules and actions.wmv,3.04,M
+6. Leveraging Workflows in Force.com/4. DEMO - Defining workflow rules and actions.wmv,21.24,M
+6. Leveraging Workflows in Force.com/5. Configuring approval processes.wmv,1.52,M
+6. Leveraging Workflows in Force.com/6. DEMO - Configuring approval processes.wmv,23.46,M
+6. Leveraging Workflows in Force.com/7. Comparing workflow rules to approval processes.wmv,2.04,M
+6. Leveraging Workflows in Force.com/8. Using the Cloud Flow Designer.wmv,3.25,M
+6. Leveraging Workflows in Force.com/9. DEMO - Using the Cloud Flow Designer.wmv,18.08,M
+7. Securing Force.com Applications/1. Introduction.wmv,1.5,M
+7. Securing Force.com Applications/10. DEMO - Defining the organization wide defaults.wmv,5.98,M
+7. Securing Force.com Applications/11. Creating application roles.wmv,2.69,M
+7. Securing Force.com Applications/12. DEMO - Creating application roles.wmv,7.77,M
+7. Securing Force.com Applications/13. Sharing records.wmv,3.12,M
+7. Securing Force.com Applications/14. DEMO - Sharing records.wmv,18.13,M
+7. Securing Force.com Applications/15. Performing SSO using SAML.wmv,4.58,M
+7. Securing Force.com Applications/16. Summary.wmv,1.77,M
+7. Securing Force.com Applications/2. Scenario overview.wmv,746.76,K
+7. Securing Force.com Applications/3. Overview of security controls.wmv,5.15,M
+7. Securing Force.com Applications/4. Visualizing access control.wmv,3.97,M
+7. Securing Force.com Applications/5. Understanding profiles.wmv,3.03,M
+7. Securing Force.com Applications/6. DEMO - Understanding profiles.wmv,14.64,M
+7. Securing Force.com Applications/7. Applying field security.wmv,1.78,M
+7. Securing Force.com Applications/8. DEMO - Applying field security.wmv,9.91,M
+7. Securing Force.com Applications/9. Defining the organization wide defaults.wmv,2.22,M
+8. Integrating with Force.com/1. Introduction.wmv,1.14,M
+8. Integrating with Force.com/10. DEMO - Creating custom Apex SOAP web service.wmv,11.29,M
+8. Integrating with Force.com/11. Building RESTful Apex services.wmv,3,M
+8. Integrating with Force.com/12. DEMO - Consuming built-in RESTful services.wmv,20.17,M
+8. Integrating with Force.com/13. DEMO - Creating a RESTful Apex service.wmv,8.91,M
+8. Integrating with Force.com/14. Summary.wmv,2.19,M
+8. Integrating with Force.com/2. Scenario overview.wmv,881.03,K
+8. Integrating with Force.com/3. Event-driven behavior with Outbound Messaging.wmv,4.25,M
+8. Integrating with Force.com/4. DEMO - Event-driven behavior with Outbound Messaging.wmv,16.79,M
+8. Integrating with Force.com/5. Using the Enteprise WSDL.wmv,3.61,M
+8. Integrating with Force.com/6. DEMO - Using the Enterprise WSDL.wmv,23.81,M
+8. Integrating with Force.com/7. Using the Partner WSDL.wmv,2.57,M
+8. Integrating with Force.com/8. DEMO - Using the Partner WSDL.wmv,13.95,M
+8. Integrating with Force.com/9. Creating custom Apex SOAP web services.wmv,2.94,M

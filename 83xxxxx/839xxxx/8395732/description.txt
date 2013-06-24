@@ -1,0 +1,25 @@
+Features: 
+
+- UNLIMITED DOWNLOAD SPEED! 
+- download single files from torrents with multiple files 
+- multiple torrent downloading, queuing 
+- search for torrents 
+- Wifi only mode, Wifi or WiMAX mode 
+- able to set Upload/Download speed in options 
+- web browser integration 
+- magnet link support 
+- trackerless torrent (DHT) support 
+- RSS support(automatically download torrents published in feeds) 
+- UPnP and NAT-PMP support 
+- IP filtering support 
+- proxy support(SOCKS, HTTP) 
+- encryption 
+- Local Peer Discovery 
+- creating torrents 
+
+WhatΓÇÖs in this version: 
+
+Fixed FC with search. 
+Improved search: it is easier to change site and previous queries are editable. 
+Media scan can be disabled in settings. 
+Support for gzipped RSS feeds. Fixed Atom feed support.

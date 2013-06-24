@@ -1,0 +1,107 @@
+Odete works in a hypermarket in Lisbon. She dreams of having a child with her boyfriend, Alberto, who works in the same hypermarket as a night watchman. But when Odete tells him about her desire for a child, Alberto runs away. Left alone, Odete becomes obsessed with her dream. Two youths, Pedro and Rui, are kissing outside a bar. They have been together for a year now and exchange engagement rings and oaths of love. Pedro goes home by car and Rui returns to the bar where he works at night. A few streets away, and a few minutes later, Pedro has a car accident. He dies in the arms of Rui, who comes running to help him. Rui, forlorn and hopeless, loses the desire to live. But the love between Pedro and Rui is eternal. Strangely, their destiny will meet that of Odete, who is summoned by PedroΓÇÖs ghost. 
+
+
+________________________________________________
+
+
+
+General
+Complete name                    : C:UsersantonioDocumentsFilmesOdete (Joao Pedro Rodrigues, 2005)Odete.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 1.17 GiB
+Duration                         : 1h 37mn
+Overall bit rate                 : 1 726 Kbps
+Writing application              : VirtualDubMod 1.5.4.1 (build 2178/release)
+Writing library                  : VirtualDubMod build 2178/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Custom
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 37mn
+Bit rate                         : 1 033 Kbps
+Width                            : 720 pixels
+Height                           : 400 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.143
+Stream size                      : 719 MiB (60%)
+Writing library                  : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio #1
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 37mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 312 MiB (26%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 96 ms (2.40 video frames)
+Interleave, preload duration     : 96 ms
+
+Audio #2
+ID                               : 2
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Mode extension                   : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 37mn
+Bit rate mode                    : Variable
+Bit rate                         : 109 Kbps
+Nominal bit rate                 : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 75.9 MiB (6%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 24 ms (0.60 video frame)
+Interleave, preload duration     : 619 ms
+Writing library                  : LAME3.98r
+Encoding settings                : -m j -V 4 -q 2 -lowpass 17 --abr 128
+
+Audio #3
+ID                               : 3
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Mode extension                   : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 37mn
+Bit rate mode                    : Variable
+Bit rate                         : 113 Kbps
+Nominal bit rate                 : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 78.9 MiB (7%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 24 ms (0.60 video frame)
+Interleave, preload duration     : 535 ms
+Writing library                  : LAME3.98r
+Encoding settings                : -m j -V 4 -q 2 -lowpass 17 --abr 128
+

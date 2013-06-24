@@ -1,0 +1,53 @@
+	Source: The Host 2013 720p HDRip x264 AC3-JYK Thx
+Notes: running some nice filters to be awesome
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 10mn
+Bit rate                                 : 1 316 Kbps
+Width                                    : 720 pixels
+Height                                   : 296 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.206
+Stream size                              : 1.20 GiB (86%)
+Writing library                          : x264 core 104 r1698bm c41b8f0
+
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 10mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 179 MiB (12%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Screens: 
+http://i.imgur.com/Seena8c.png 
+http://i.imgur.com/6zjKKHr.png 
+http://i.imgur.com/icmVQWR.png 
+http://i.imgur.com/sFHbVao.png

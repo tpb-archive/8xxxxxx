@@ -1,0 +1,20 @@
+Lately i've been playing around with Opus a Audio Codec designed with Great Things at a very small bitrate, mainly set up for voice and over the internet phone.
+But also it has a great range of up to 512kbps which is great for Music. 
+
+The positive thing i noticed with opus is how high the audio bitrate is at low levels at 96kbps it recorded a rate of 20.5khz and i got curious and went up to 128kbps and the height was exactly the same at 20.5khz. that got me baffled a bit and on reading and learning that is the max they have set for the opus codec and as one person said, "it's a lossy codec and there is no need to go overboard, you can't hear it anyway why have it!" I AGREE! 
+
+This more or less the way MP3 VBRV0 works as well, scraps the highest bits unless your a bat or dog and 320 is proved worthless over 20khz as well and with the opus codec it's not a dip of an early rate like 13khz and gradully fades away, no across the whole opus range is good right up to at least 19khz and i notice it's a decline. a on purpose decline... so already opus out does MP3 by a long shot! 
+
+and for the record a MP3 128kbps stops at 16.5khz
+
+so i have made a collection of songs ripped from Wav and Flac to opus 128kbps
+
+The downfall to this and you won't notice this is that opus decodes at 48,000hz where WAV/Flac/MP3 standard is 16 bit 44.1 
+except those vinyl rips 24/96/192 there at 48 which makes ripping them to opus almost faultless.. 
+
+Grab one song and have a listen, grab a few..
+
+oh Opus plays in VLC and Foobar and i'm not sure on the rest of the music players. 
+MP3 320 has a rate of around 20khz
+MP3 VBRV0 the same
+Opus 128 as i mentioned above.. 

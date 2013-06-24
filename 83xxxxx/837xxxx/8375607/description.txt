@@ -1,0 +1,120 @@
+Official Web Site:  http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html
+
+DEVONthink Pro is your essential assistant for today's world, where almost everything is digital. From shopping receipts to important research papers, your life often fills your hard drive in the form of emails, PDFs, Word documents, multimedia files and more.
+
+Questions eventually pop up, like where do you store all of this stuff? How do you organize these very different file types, and even better, how do you find the exact file you're looking for the second you need it? It's almost as if you need a second brain just to keep your digital life straight.
+
+DEVONthink Pro Office 2.5.2
+
+This maintenance update not only fixes a number of reported bugs but also improves the synchronization, the Clip to DEVONthink browser extension, the bookmarklets, and many other aspects of the app. The web interface allows you to change comments and is much faster.
+
+Whats New:
+
+* Clip to DEVONthink indicates that a web address to be added is
+   already present in the currently open databases and allows to reveal 
+   the first found document directly from the destination popup menu.
+
+* Both bookmarklets and Clip to DEVONthink can also create rich text
+  documents and can capture the selection as rich text if possible.
+
+* Favorites are shown in destination popups.
+
+* Automatic Wiki links support also names and aliases with only two 
+  characters (e.g. for Asian languages).
+
+Whats Improved:
+
+* Synchronization is faster and more reliable. It's also more compatible 
+   to damaged databases. Better logging.
+
+* Web interface allows to change comments via its "Info" panel and is 
+  much faster.
+
+* Group selector shows the type of the bookmarklet that opened it.
+
+* DEVONthink Pro Office creates thumbnails for bookmarks 
+  immediately if set to do so in the preferences.
+
+* "Home" and "End" keys can be used in Quick Look panels without
+   activating it first.
+
+* "Activity" panel no longer takes the focus, shows progress smoother, 
+  and uses less CPU time.
+
+* Going up, e.g. via the toolbar or the Go menu, retains the selection if
+  possible.
+
+* Importing of QuickTime movies (in 64-bit mode)
+
+* Text views don't scale too large attached images anymore.
+
+* "File &gt; Import &gt; Images (with OCR)" retains the original PDF file
+   name (again).
+
+* Indexing unknown file types now supports "Preferences &gt; Import &gt; 
+  Titles &gt; Localized display name."
+
+* Better recognition of duplicates.
+
+* Faster and more reliable Sync Agent for synchronizing with 
+  DEVONthink To Go v1.
+
+* Graphics of Sorter tab updated.
+
+* SkimNotes support updated.
+
+* German and French localizations.
+
+* Overall reliability.
+
+Whats Fixed:
+
+* Several issues related to synchronization in general, sync stores on
+   WebDAV servers, and memory management.
+
+* Several issues related to text recognition.
+
+* Several issues related to scanning.
+
+Minor issues of the web interface.
+
+* Badge count of Dock icon wasn't always updated correctly.
+
+* "Activity" panel containing too many activities didn't use vertical 
+  scrollbars.
+
+* Changing the modification date via the "Info" panel changed the 
+  creation date.
+
+* Some contextual menu commands appeared even though the selection 
+  didn't contain usable data.
+
+* Toolbar search didn't always correctly search only in results of global 
+  smart groups.
+
+* Saving e.g. modified grayscale JPEG images could corrupt the image 
+  file.
+
+* Pressing ΓîÿS cleared the "Sorter's" note instead of saving it.
+
+* Web windows/tabs were sometimes closed/reset after e.g. repairing,
+   optimizing or synchronizing databases.
+
+* Glitches of text rulers.
+
+* Support Assistant didn't work on non-admin accounts due to a 
+  permission issue.
+
+* Rare crash after quitting the app in fullscreen mode on OS X 10.7 
+  and up.
+
+* Several minor memory management issues.
+
+* Further minor glitches.
+
+
+System Requirements:
+
+Intel Mac. OS X.6.8 or higher
+
+--- PLEASE SEED ---

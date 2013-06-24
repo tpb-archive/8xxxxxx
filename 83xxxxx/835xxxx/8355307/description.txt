@@ -1,0 +1,38 @@
+DATOS EN GENERAL
+
+Format                                   : Matroska/MKV
+Format version                           : Version 4 / Version 2
+File size                                : 1.61 GiB
+Duration                                 : 1h 52mn
+Overall bit rate                         : 2 039 Kbps
+
+DATOS DE VIDEO
+
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 52mn
+Bit rate                                 : 1 589 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+
+DATOS DE AUDIO
+
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 52mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+
+

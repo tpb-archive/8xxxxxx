@@ -1,0 +1,36 @@
+DATOS EN GENERAL :
+
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 924 MiB
+Duration                                 : 1h 18mn
+Overall bit rate                         : 1 641 Kbps
+
+DATOS DE VIDEO :
+
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 18mn
+Bit rate                                 : 1 000 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+
+DATOS DE AUDIO :
+
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1h 18mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE

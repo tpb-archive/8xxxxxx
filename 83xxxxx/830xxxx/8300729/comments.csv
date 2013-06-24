@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-26T02:01Z,"Testing screens from x86 ver but x64 was tested as well:
+
+00-No-Win-Updates
+http://bayimg.com/EaLbBaAeA
+
+01-WinLoader
+http://bayimg.com/eAlBCaaea
+
+02-Additions
+http://bayimg.com/EalBDAaea
+
+03-Genuine
+http://bayimg.com/eaLBgaaEA
+
+Pre-Activated information in the screens is not applicable to this UEFI release, but the methods are all the same for testing and activation, so the results will be the same."
+,alvester,2013-03-26T09:01Z,You forgot to write x64 in the title I guess...
+[V],murphy78,2013-03-26T09:32Z,UEFI is always x64... must have slipped my mind...
+,FRID@,2013-03-26T13:49Z,what means with USB3 Support ?? That you can install it with usb 3 or usb 3 memory work with the windows 7?
+,alvester,2013-03-26T15:10Z,One noob question regarding uefi...do I have to format all my drives into fat32 in order to install this or ntfs would work fine? Or it has nothing to do with format except from the fat32 pen drive I'm installing?
+[V],murphy78,2013-03-26T21:41Z,"UEFI just deals with the boot method. So you will want to convert your hard drive to GPT, and your fat32 usb drive to GPT. Other than that, you don't mess with any other drives, because they don't get booted."
+[V],murphy78,2013-03-26T21:44Z,"FRID, you can both boot from, and use usb3 drives after install. I installed the drivers both in the boot.wim and install.wim"
+,getnikkoo,2013-03-27T05:27Z,do u have windows server 2008 R2 SP2 updated to any of 2013 month ?
+,abhaykv.13,2013-03-27T15:17Z,"@murphy78
+
+I need your help !
+Can you suggest me any way to check whether my bios is uefi or it's just simple old bios.
+
+Please !"
+[V],murphy78,2013-03-27T21:50Z,"Go into your bios options. If you find anything that says UEFI, then it's UEFI. Duh!"
+,getnikkoo,2013-03-28T04:38Z,do any one have windows server 2008 updated till 2013 ?
+,typ050212,2013-04-01T08:30Z,"Hi, is this strictly for use as stated ""on an AMD64 UEFI system."" Can I use it on an Intel i5 system?"
+[V],murphy78,2013-04-04T10:46Z,"You can use it on an intel system if you load it onto a usb flash drive, but on a dvd, i'm not sure. I haven't tested an efi boot sector on a non-efi system."

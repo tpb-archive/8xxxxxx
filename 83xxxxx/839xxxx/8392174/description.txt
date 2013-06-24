@@ -1,0 +1,50 @@
+This torrent contains files that can be put on an SD card to update a Kenwood DNX9980HD car stereo/navigation head unit with the latest North American maps
+from Garmin, their 2013.40 (February 2013) update.
+
+You may want to apply the Garmin v2.2 firmware update before installing this SD
+card with the map updates.  That update is available at:
+
+  http://www8.garmin.com/support/collection.jsp?product=010-00857-20  
+
+Instructions for installing are provided with the download.
+
+To use the map update SD card, unpack the contents of the RAR files onto an SD
+card that's at least 4GB large and formatted with the FAT32 filesystem.  Insert 
+the SD card into your head unit and you should be good to go.  The SD card must
+remain in the head unit.  If you remove it, you will revert to your original 
+maps.
+
+You can check the map info under Settings to confirm that your unit is actually
+using the updated maps.
+
+I learned everything I know about this process through the Kenwood DNX9980HD
+Forum at http://www.kenwoodforums.com/viewforum.php?f=28  Go there if you need
+help or if you want to explore alternate methods of updating your DNX9980HD.
+
+The files on the SD card are:
+
+  Garmin
+  Γö£ΓöÇΓöÇ ASR
+  Γöé   Γö£ΓöÇΓöÇ 04785P1C.SRX
+  Γöé   ΓööΓöÇΓöÇ 04785P1D.ASR
+  Γö£ΓöÇΓöÇ GMAP3D.IMG
+  Γö£ΓöÇΓöÇ gmapsupp.img
+  Γö£ΓöÇΓöÇ GMAPTZ.IMG
+  Γö£ΓöÇΓöÇ JCV
+  Γöé   ΓööΓöÇΓöÇ D3060090A.JCV
+  ΓööΓöÇΓöÇ POI
+      ΓööΓöÇΓöÇ USCanadaCyclops_Apr_10.gpi
+
+The files in the ASR directory provide updated voice data.
+
+The GMAP3D.IMG file provides 3D buildings data.
+
+The GMAPSUPP.IMG file provides updated maps.
+
+The GMAPTZ.IMG file provides updated time zone data.
+
+The file in the JCV directory provides updated Junction View data.
+
+The file in the POI directory contains the locations of traffic safety cameras
+in North America.  The DNX9980HD alerts you when you are close to one of these
+cameras.

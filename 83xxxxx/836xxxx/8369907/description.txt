@@ -1,0 +1,36 @@
+Includes the Teorex Inpaint v5.2 installation package, a patch and a text file containing instructions.
+
+Install as usual. Use the provided patch, then enter any serial number to register. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Inpaint photo restoration software reconstructs the selected image area from the pixels near the area boundary. Remove undesirable objects from your images, such as logos, watermarks, power lines, people, text or any other undesired artefacts. There's no need to manually go through messing around with your old clone tool any more! Now you can use Inpaint to easily remove all those unexpected objects that end up spoiling an otherwise really great photograph.
+
+-Repair old photos
+-Remove watermarks
+-Erasing Power Lines
+-Remove unwanted objects
+-Digital Facial retouching
+-Remove date stamps
+-Erase wrinkles and skin blemishes
+-Remove tourists from travel photos
+-Fill black areas of a panorama
+-Remove text or logo from images
+-Easy to get use & started
+-Completely non-technical
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE? (CHANGES SINCE v4.7)
+
+-Fixed bugs
+-New preferences
+-New deselection mode which allows to subtract from selection area
+-New polygonal lasso selection tool
+-New lasso selection tool
+-New erasing algorithm
+-Improved undo/redo memory usage
+-New Inpaint look (New GUI)

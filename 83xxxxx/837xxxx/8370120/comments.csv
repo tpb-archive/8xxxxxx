@@ -1,0 +1,87 @@
+﻿User Type,Username,Date,Text
+,tofushoyu,2013-04-13T21:48Z,"Valeu, derew!
+Você vai colocar este na seedbox?"
+[T],derew,2013-04-13T22:09Z,"estou tentando mas nao sei oq ta errado, tipo, eu postei aqui, arrastei o torrent pra la mas nao sai do 0 %"
+,AndreGames,2013-04-14T01:04Z,"valewwwwwwwwwwwww
+
+baixando e semeando conserteza
+
+mano será que vc ou 210gustavo poderia postar os filmes da Múmia 1 2 e 3, duro de matar 1 2 3 e 4
+
+e o anjos da noite 1 2 e 3
+
+abrigado denovo e desculpe o emcomodo"
+,tofushoyu,2013-04-14T05:09Z,"@derew
+
+Deve ser algum problema no servidor deles. Se tiver algum ip que começa com 94 é do fuge.it. Se não tiver, tente apagar o torrent e colocar de novo.
+Boa sorte!
+"
+,tofushoyu,2013-04-14T05:11Z,"Eu vi lá derew, tem um ip do fuge.it baixando seu torrent sim. Começa com 94, usa libTorrent 0.13.2."
+,tofushoyu,2013-04-14T05:21Z,"@derew
+
+Ganhei mais 20GB de espaço e agora tenho 50GB.
+Cara, muito obrigado por ter divulgado no seu site!
+Quero também deixar meu agradecimento para quem me indicou lá no fuge.it:
+
+- bubuvidalo
+- narciso
+- resteves
+- darktemplarbr
+
+Esta atitude vai retornar em downloads mais rápidos para todos vocês.
+E também muito obrigado mais uma vez ao kilzone que deu esta dica preciosa para a galera.
+Muito obrigado, pessoal !!!!!!
+"
+[T],derew,2013-04-14T05:44Z,"@tofushoyu 
+
+de vez em quanto vou atualizar aquele post pra mais gente mencionar os uploaders, pq é rapidinho, nao custa nada e pra gente eh de grande ajuda!
+
+e vlw as dicas"
+,HolyCream,2013-04-14T22:35Z,"Esse fuge.it é muito zicado... faz um pouco de download e para, isso quando faz o download =("
+[T],derew,2013-04-14T23:37Z,"pior q eh, acho q o server deles nao tava preparado pra tanto usuario ao msm tempo, mas eles disseram q vao arrumar, mas msm assim é uma ajuda e tanto, eu upo 40 gb em 5 dias e eles pam 40 gb em 2 horas!"
+,tofushoyu,2013-04-15T01:46Z,"@derew
+
+Não vai colocar este na seedbox?"
+[T],derew,2013-04-15T03:23Z,"@tofushoyu
+
+eu coloco mas ele baixa um pouco e para, baixa e para, ta assim faz tempo kk'"
+,kilzone,2013-04-15T03:54Z,"o darew, como vc deixa a configuraçao do handbrake para codificar um filme em mp4? pq eu so consigo codificar em mkv... Quando faço em mp4 o video simplesmente nao roda..."
+[T],derew,2013-04-15T04:34Z,"@kilzone
+
+container mp4 , codec h264 (x264) , same as source, é só isso eu acho"
+,tofushoyu,2013-04-15T08:39Z,"Que pena, derew...
+Pelo tamanho este era o post perfeito pra deixar na seedbox.
+Mas fazer o que, ajudaremos a semear.
+Abraço!"
+,leandro-gamerpc,2013-04-15T14:33Z,vc postou mesmo obrigado
+,kilzone,2013-04-15T17:27Z,e na aba de audio do handbrake como vc deixa? Sera q ta dando pau pq eu uso um video em mkv e tem q ser em mp4 tmbm??
+[T],derew,2013-04-15T18:09Z,"@kilzone
+
+eu codifico direto de mkv tb, o audio eu nem mexo pq nao muda mutia cosia, é imperceptível!"
+,kilzone,2013-04-15T18:55Z,e o container MP4 aceita audio em AAC e AC3.. ou apenas audio em MP3?
+[T],derew,2013-04-15T19:01Z,"eu deixo o audio assim como esta, qualquer coisa dps eu retiro o audio do bluray e coloco no filme mp4 reduzido e pronto!"
+,kilzone,2013-04-15T21:12Z,af.. deu errado d novo... Qual o programa vc usa para retirar as faixas de audio e video de um mkv? pq o yamb faz isso mas apenas com mp4... Intao tipo.. eu posso pegar apenas a faixa de audio e video do mkv e montar em um mp4 com o yamb
+[T],derew,2013-04-15T22:44Z,"pode sim, quando é mkv eu converto para mp3, com o format factory, leva uns 10 min."
+,kilzone,2013-04-16T00:03Z,mas com qual o pragrama vc retira as faixas de audio e video dos mkv?
+[T],derew,2013-04-16T01:43Z,"se for mkv eu converto rpa mp3 o audio com o format factory, é mais rapido do q ficar empacotando em mp4 e dps extrair audio, e o audio sai com alta qualidade!"
+,bubuvidalo,2013-04-16T20:46Z,"Ta todo mundo falando dessa série, vou baixar pra ver se eu gosto , valew derew pelo post"
+,tofushoyu,2013-04-17T05:35Z,"@kilzone
+
+Dá pra extrair o áudio de MKV e AVI com o programa ""AVIMux GUI"". Selecione o filme, clique em ""generate data source from files"", clique com botão direito na faixa de áudio e selecione ""extract binary"". O container MP4 aceita AAC e AC-3 também.
+
+https://en.wikipedia.org/wiki/Comparison_of_container_formats
+
+Você vai começar a postar filmes também?
+
+@bubuvidalo
+
+Comecei a assistir hoje e estou gostando. Quem gosta de ""O Senhor dos Anéis"" vai curtir ""Game of Thrones"".
+
+@derew
+
+Já coloquei lá minha configuração do media coder.
+Abraço!"
+,kilzone,2013-04-17T17:19Z,Na real.. nao tinha ideia de postar muitos filmes.. apenas 2 q tenhu aqui.. keria aprender mais por questao de curiosidade mesmo.. Engraçado q os mkvs q fiz pelo hand ficaram perfeitos.. com qualidade praticamnte igual ao arquivo original.. porem quando coloco mp4 parece q o arquivo fica pesado e nao roda nunca no pc..
+[T],derew,2013-04-18T17:01Z,"kilzone
+
+estranho, tente pelo media coder com o tutorial do tofu quem sabe da certo"

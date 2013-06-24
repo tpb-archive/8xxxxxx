@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+,rajakumar,2013-04-08T21:43Z,"
+@dhjudasx:
+
+Question: Your ""Stargate (1994) 1080p 5.1 BrRip x264 - Judas"" is a Director's cut brrip or theatrical brrip film version. 
+
+How come u and YIFY has same screen RESOLUTION 1920x816?"
+,rajakumar,2013-04-08T22:01Z,"
+@dhjudasx:
+
+I have another question too, what is BrRip means in your movies? When u upload any movies do u cut a 1 or 2 mins of that movie so that is called a BrRip. I need an answer in your own words for BrRip."
+,pro346pro,2013-04-09T03:03Z,@rajakumar its 1920*816 because that's that aspect of the movie!
+[V],dhjudasx,2013-04-09T03:16Z,"My stargate is the Extended Directors Cut, It's among a few of the first movies I uploaded which at the time I was a newbie just starting to get labeling and naming conventions sorted out still. Unfortunately thepiratebay doesn't allow for modifying the torrent in any way shape or form. Even deleting them requires you to sign into the forums and then place it on the correct thread for requested deletion.
+
+I'd like to name it correctly.
+
+
+As for the resolution, It's because the bluray content/film is only that resolution. They are still referred to as 1080p because the width resolution is STILL 1920. It's called Aspect ratio and majority of the movies are filmed that way. It's counter productive and actually a hindrance on the image quality to encode the wasteful BLACK bars.... no point in including them, they don't provide anything but a bitrate black hole.
+
+It's all about being as efficient as possible.
+
+BrRip means many things to many people.
+
+It's arguable what it actually refers to. Most people will see BDRIP and BRRIP as one in the say. It usually means that it's sourced/ripped from a bluray disc or sourced file.
+
+However It's so vague and most people have usually ""encoded"" the raw bluray source files into a slightly compressed version. At which point it's no longer really ""truly"" a bd/br rip due to being already encoded once. I'd say over 95% of the people producing compressed encodes are using already encoded sources. Yify for example usually always uses pre-encoded sources for his heavily compressed version. This is how he's able to get movies out before their actual release, usually sourcing publicHD, which from what I've seen and downloaded is usually a 8-12 maybe at most 15gb movie that floats around which is then downloaded and used as a source for the encode. PublicHD also appears to provide raw bluray rips that haven't been touched (far as anyone can really tell at first glance) that are well above 30GB in size.
+
+Mine are all physical disc rips, So all of mine are raw bluray source, totally untouched and couldn't possibly be a better source short of having direct access to the Post Production ultra higher resolution 35mm/75mm/digital 2k/3k/4k/5k/etc Master."
+,buenio,2013-04-09T06:37Z,"Judas is so kind to answer this stupid question (I have another question too, what is BrRip means in your movies? When u upload any movies do u cut a 1 or 2 mins of that movie so that is called a BrRip. I need an answer in your own words for BrRip). and you answer it with complete details don't waste your time with that, hey before you all ask a stupid question google it first."
+,rajakumar,2013-04-09T15:02Z,"
+@buenio and dhjudasx:
+
+
+I already know what BrRip stands for? I know it is a stupid question that i asked him before. And i asked dhjudasx when he encodes the movies, does he cuts the scenes 1 to 2 mins (in Duration) of any of his movies when ripping and uploading to here TPB. That's my point."
+[V],dhjudasx,2013-04-09T17:18Z,I never cut off any movies.... they are all the length that they are on the bluray....
+,rajakumar,2013-04-09T18:10Z,"
+@dhjudasx:
+
+Thanks for the info bro. that’s cool that u are not cut off any scenes. For example: In other torrents that I used to download they used to cut off some 1 min or 2 mins max in their encoded dvdrip and also in brRip. I just conformed with you that’s it. okay what about audio, nowadays the physical blu-ray disk contains only of 8 channels of Dolby TrueHD and 8 channels of DTS-HD Master Audio and there is no available for standard 5.1 DD and no 5.1 DTS in any modern blu-ray disk. 
+
+And As u said in dark knight torrent 
+dd 384kb dd inferior to 5.1 aac 192kbs...
+
+like comparing mpeg2 to x264.... you could crank mpeg2 to 7500kbps.. and it'll never produce as good a picture as x264 at 2500kbps
+
+so in my opinion for video quality x264 is new version of mpeg2 and in audio 5.1 aac surround 192kb/s is more superior than dd 384kb/s dd. Am I right."
+[V],dhjudasx,2013-04-09T18:42Z,"for the most part.. if the source audio is excellent and the 5.1 aac file is encoded using HE-AAC/LC high profile 2 pass with very loosely held bitrate settings.... it should produce audio in equal if not better audio than a DTS/AC3 CBR audio format between 384kbps to as much as 640kbps.
+
+Example of my 192kbps encode results in usually a higher bitrate than 192kbps. I loosely enforce the encoding so that on a 2nd pass, the audio bitrate can be increased well beyond it if it's been determined that the audio accuracy is off. Some of my 192kbps AAC5.1 encodes turn out to be 230kbps average with maximum bitrates peaking well into the 320kbps range. This allows for SIGNIFICANTLY smaller file sizes while producing some of the best possible audio quality and fidelity at the given bitrates.
+
+I've love to encode AAC6.1 or 7.1 formats, but currently i've not come across many pc media players let alone smart tvs or devices that will even read/understand AAC6.1/7.1 formats, even though they have been a common set in stone standard for quite a few years. You basically need the newest VLC player to even get it to work. So this is why i down mix to 5.1.
+
+I'd also like to be able to encode AAC @ 24bit levels, the audio accuracy is further improved at lower bitrates. But the few devices i've tried AAC 24bit = crash/noise/no audio."
+,rajakumar,2013-04-09T19:53Z,"
+@dhjudasx:
+
+Okay u better stay with your current same audio bits. That's fine for everyone. The format MP4 and Mkv are only used in samsung smart tv to play your movies. What audio bits u are using now, is it 8 or 16 bit levels. Does your tv plays 24 bit level audio. What tv u have at your home is it smart tv or normal tv. And also English subtitle plays very well on my tv. thanks for everything."
+[V],dhjudasx,2013-04-10T00:08Z,"All my audio is encoded using 16bit sampling. Far as I know no body is going to even bother with 8bit lol.
+
+16bit is a common understood standard. However 24bit appears to be relatively fresh/new. While DTS/DD and LPCM raw audio formats have been available in 24bit for quite some time.. (rather since bluray launch), AAC 24bit has been available quite some time too unfortunately we still have devices that don't know how to deal with AAC5.1 let alone 24 bit aac.
+
+I'd say 99% of the encoded movies available are using 16bit audio regardless of it being aac/ac3/mp3/etc.
+
+mp4 is a universal standard, It's commonly understood by everything..
+
+mkv however is NOT a universal standard.. actually it really doesn't have any standard and is wide open to accept just about every format out there. This makes it near impossible for most devices to support it."
+,pro346pro,2013-04-10T00:42Z,I've found wd TV HD media player supports every format so if anyone is looking for cheap player this is the one to get ...it even supports  7.1 audio and the 10/12 bit thing you were talking about.
+[V],dhjudasx,2013-04-10T02:23Z,even AAC7.1?
+,pro346pro,2013-04-10T12:15Z,@judas I don't have a 7.1 setup but I think I remember people having success playing thishttp://thepiratebay.sx/torrent/6761833/Crazy_Stupid_Love_[2011]_720p_BRRiP_x264_AAC_7.1_-_ExtraTorrentR you get firmware updates all the time I think they added 7.1 aac support its a great little device never had a format or rip it wont play and it doesn't care about cinivia drm
+,pro346pro,2013-04-10T14:02Z,Correct link here whoops http://thepiratebay.sx/torrent/6761833/Crazy_Stupid_Love_[2011]_720p_BRRiP_x264_AAC_7.1_-_ExtraTorrentR
+[V],dhjudasx,2013-04-10T17:53Z,"good to hear.
+
+Maybe in the near future i'll start doing 3 or 4 audio track encodes. Primary stereo, secondary 5.1, 3rd 6.1/7.1 AAC (only if the bluray has these options, as most are still only 5.1).. and I've had requests to include the primary commentary for a 4th.
+
+The issue with doing that though is a ballooning of the overall file size. So it's only a real thought at the moment."
+,pro346pro,2013-04-10T23:52Z,@Judas to be honest and this is just my opinion I wouldn't bother with a 7.1 track can you imagine everyone complaining they can't get it too work! 1 320k 5.1 aac track would be ideal and just include some instructions on how to down mix it to stereo for those that need to.
+[V],dhjudasx,2013-04-11T00:34Z,"if I did a 320kbps AAC5.1 track, it'd be equivalent to about 640-1280kbps DTS HD or Master audio.
+
+A little unnecessary at this point as I've mentioned even audiophiles are hard pressed to pick up a difference currently between 384-640kbps ac3 and my 192kbps aac5.1"

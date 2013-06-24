@@ -1,0 +1,94 @@
+This is my own rip.
+
+There is a continuous logo, but I'm uploading this because of a request.
+Download the sample to see if the logo is a problem for you.
+
+General
+Unique ID                        : 186194791538565833025783542606491580881 (0x8C13CFFCCF0E2E14A16B72B1CAB479D1)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.02 GiB
+Duration                         : 1h 29mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 3 210 Kbps
+Encoded date                     : UTC 2013-03-28 19:52:52
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 29mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 890 Kbps
+Maximum bit rate                 : 8.8 Mbps
+Width                            : 1 280 pixels
+Height                           : 692 pixels
+Display aspect ratio             : 1.850
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.136
+Stream size                      : 1.81 GiB (90%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format profile                   : Dolby Digital
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 29mn
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 165 MiB (8%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Start
+00:03:33.630                     : "Who's Harry Crumb?"
+00:05:31.665                     : Midwest Assignment
+00:08:44.149                     : Mrs. MacIntyre
+00:16:06.924                     : Eliot Draisen
+00:21:58.108                     : P.J. Downing
+00:25:55.012                     : Suki's
+00:29:05.410                     : Ransom Note
+00:30:33.707                     : Detective Casey
+00:33:08.695                     : Playing Footsie
+00:35:49.939                     : Nikki
+00:38:02.113                     : Spying
+00:39:52.515                     : Going for a Spin
+00:43:15.218                     : The Scoop on Helen
+00:47:38.230                     : Car With No Brakes
+00:49:47.359                     : An Insightful Man
+00:51:10.734                     : V.J. from Bombay
+00:54:18.444                     : The Ventilator Shaft
+00:58:52.654                     : Ransom Revision
+01:00:08.355                     : Photograhic Prints
+01:03:13.623                     : $10 Million
+01:06:18.516                     : Eliot Takes the Cash
+01:12:48.553                     : Two of a Kind
+01:15:23.811                     : Metal Plate
+01:16:59.156                     : "Holding Out for a Hero"
+01:19:01.342                     : Black Belt & Boots
+01:20:08.971                     : "I Confess!"
+01:24:12.798                     : Frisco Bound
+01:25:07.060                     : End Credits

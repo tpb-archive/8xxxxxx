@@ -1,0 +1,17 @@
+~ Make sure to uncheck/deny a few extra installation offers before and after the actual installation. ~
+
+
+3.6.0.87 - April 17th 2013 UPDATE LIST
+
+- Added Instant View.
+- Fixed Denial Of Service PoC(PlayList M3U) - Provided by: Jigsaw
+  (Abdelmorite), KISA.
+- Modified default use of Internal Splitter(AVI) for streaming
+  (http, https, ftp).
+- Fixed TS source filter error.
+- Supports FTP server(UTF-8).
+- Added https streaming function.
+- Added Subtitle resync function. (Ctrl+Alt+[, Ctrl+Alt+])
+- Improved seek speed of MKV, MP4, FLV.
+ 
+http://www.kmpmedia.net/update/update/main/11

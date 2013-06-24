@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+,woshishei,2013-03-29T03:02Z,"Thanks for sharing but the app didn't work for me. All it did was launch and a few seconds later quit itself. Not complaining, just sharing so others know what to expect. iMac 2.8GHz Core i7, 10.8.3, 16GB RAM."
+,lazyboy13,2013-03-29T10:15Z,Thank you nobbish but do you how i can change the language as its not in english 
+,Spiritfingers,2013-03-29T12:55Z,Would be awesome if anyone knew how to change it to English! Other than that it works
+,boo991,2013-03-29T12:59Z,"This game has been ported by TyllerAllen86's wrapper on The Porting Team:
+
+http://portingteam.com/files/file/7765-the-walking-dead-survival-instinct/
+
+Use this instead if you want it in English. Both of them crash if you press ESC in-game."
+,Namdhak,2013-03-29T18:05Z,so how do i run it with the port
+,Namdhak,2013-03-29T19:38Z,got it working with english pack
+,le_manol,2013-03-29T20:16Z,"Hey guys,
+
+I've got a problem. I copied the App into my apps and i replaced the files that arre in the ""Crack"" folder that came in the wrapper that boo991 gently told us to download to have the game in english.
+
+Well it works, but i have a black screen when the game should start (after the menu and stuffs, after the loading screen). I can hear the sound but can't see the image... 
+I tried without the upgrade (home edition amateur upgrade in fact) and it's the same thing, black screen.
+
+
+Do you know why?"
+,GrunnyRiku,2013-03-30T17:20Z,All we need is the LANGUAGE.POD for english. i found the german (not russian) one. if you really wanted you could go through and change all the items one by one but if you could just get the .pod file in english and replace it that should work
+,TylerAllen86,2013-03-31T05:28Z,"@boo991
+Thanks for the shout out. I'm looking into the esc issue btw."
+,floq123,2013-04-01T00:15Z,"To change the language to english follow this steps:
+
+- Go to Applications Folder
+- Right-click on TWD Survival Instinct and select Show Package Contents
+- Go to drive_c > Program Files > The Walking Dead Survival Instinct
+- Open the file ""steam_rld.ini""
+- At the end of the file change the ""Language=russian"" to ""Language=english""
+
+Voilà :D"
+,Golfkidd101,2013-04-01T01:46Z,"I have the same issue as @woshishei, what should i do"
+,felipeb0gaerts,2013-04-01T02:02Z,"good torrent. if you have any problem go to contents and double click wineskin. then advanced, tools and update wrapper.
+it worked"
+,felipeb0gaerts,2013-04-01T02:18Z,"if your game doesnt starts you should go to package contents, double click wineskin, advanced, tools and update wrapper. it worked for me."
+,felipeb0gaerts,2013-04-01T03:03Z,"pleeeeease, someone try to fix the esc problem hash"
+,albertosanchezaguilar,2013-04-01T04:06Z,plz seed i want try the game
+,DMentMan,2013-04-01T20:56Z,this did not work (ERROR)
+,Golfkidd101,2013-04-01T21:25Z,doesn't work once you get into the truck after the first mission
+,Golfkidd101,2013-04-01T23:25Z,what do i do after i complete the first mission and the game moves to the car scene but it doesn't load
+,le_manol,2013-04-02T00:39Z,"i updater the wrapper, but it still get blocked into a black screen after loading a new game... :(
+"
+,RQ7,2013-04-04T12:58Z,It lags a bit on mine .. Anyone else ?
+,Cheatc0de,2013-04-04T15:48Z,"When I try to open the file ""steam_rld.ini"" to change the language it prompt me to pick a program to open that file. 
+What do I download?"
+,kidcali217,2013-04-05T05:03Z,@Cheatc0de you download anything. you open it in textedit
+,cemagaga,2013-04-06T05:17Z,"Im having a little trouble when using the car to travel to a second town after I have to look for gas and find a character that wants me to take him in exchange for gas. When traveling from here to the next town it gives me an error at the traveling screen, could anyone please help me solve this"
+,Aonoew,2013-04-12T17:30Z,",, it works to me 
+but it is too slow when I press to move forward it takes time to move"
+,woshishei,2013-04-13T06:56Z,"""if your game doesnt starts you should go to package contents, double click wineskin, advanced, tools and update wrapper. it worked for me.""
+
+Thanks for the tip. But when I did that, I got the following error message:
+
+There is an error with the installation of your Master Wrapper. Please update your Wrapper in Wineskin Winery (a manual install of a wrapper for Wineskin Winery will work too)"
+,le_manol,2013-04-15T15:10Z,THE BLACK SCREEN REALLY PISSES ME OFF? Am i the only one here?
+,ShadyKent,2013-04-16T12:33Z,"hey man hopefully you can help, I've downloaded it on my macbook pro 2.4ghz dual core i5,4gbRAM
+
+it ran pretty good in terms of game play but everything was in russian so i quit then i managed to change the language so went to play it again but after that i started getting the black screen after it was finished loading 
+
+any help would be really appreciated I'm pretty keen to play this game! Thanks!"
+,ShadyKent,2013-04-16T12:34Z,Oh and also if you've figured out how to fix the esc key i would really appreciate that too Thanks.
+,ShadyKent,2013-04-18T13:30Z,hey im no loner getting the black screen but now the game play is extremely laggy does anyone have a quick fix for this?
+,ken_adhitya,2013-04-23T12:06Z,how pause the game then?

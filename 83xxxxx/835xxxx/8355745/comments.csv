@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,marosggg,2013-04-14T18:51Z,does this one work? or does the trial run out like the rest?
+,Andres1191,2013-04-24T17:37Z,Thanks!!
+,ivan1706,2013-05-02T01:43Z,"Dude, the serial isn't working anymore now! I have no idea to run this Mixcraft except re-install the windows!
+this torrent is sucks!"
+,BlackRosesP90,2013-05-31T06:03Z,"If it keeps saying trial has expired try this
+
+WINKEY+R -> regedit -> HKEY_LOCAL_MACHINE -> SOFTWARE -> Acoustica -> Mixcraft6
+
+Find
+
+bDisableBuyDialogDuringTrial
+bHideBuyButton
+
+change the value of these to 1"
+,aasrit143,2013-06-02T11:45Z,@ BlackRosesP90 i did wht u said bt i cannot mixdown to mp3 what should i do please reply

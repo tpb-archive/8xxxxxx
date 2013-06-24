@@ -1,0 +1,34 @@
+This is the pdf version of the well-known "DSP guide" book from http://www.dspguide.com
+
+Here's the description from the site:
+
+* 640 Pages, Hardcover. Over 500 graphs and illustrations.
+* Clear explanations: Very readable - low math - many examples.
+* All the classic DSP techniques: Convolution, Recursion, Fourier Analysis...
+* For students and professionals
+* Written for a wide range of fields: physics, bioengineering, geology, oceanography, mechanical and electrical engineering.
+
+
+The website claims "You can browse and/or download the entire book without charge", which is only partially true: pdf versions of each chapter are available on the website, but the complete version isn't available. I couldn't find a good complete version online. Most versions out there consist of the chapters merged together into a single pdf file, without the table of contents, the glossary, etc. The only complete version of the book I found online was this one:but it is read-only; printing or editing it requires a password. So I decided to make a proper e-book. Here are the nitty-gritty details for those interested:
+
+1) I obtained the chapter files from http://www.dspguide.com/pdfbook.htm
+   (CH1.PDF to CH33.PDF)
+2) I grabbed the front and back pages (cover, table of content, glossary, etc.)
+   fromand
+3) I used LaTeX to fix the pagination so that the first few pages are numbered
+   i, ii, iii, etc. This allows one to type "50" in the page input box
+   of the pdf reader and actually be taken to that page in the book.
+   For this I used the technique described at http://askubuntu.com/a/34269
+4) Still in LaTeX, I added a blank page before the first chapter,
+   so that it is the 16th, rather than the 15th page of the pdf.
+   This fixes a bug in Adobe Reader where dual-view displays the pages incorrectly
+   if the odd pages of the book don't correspond to odd pages in the pdf
+   (basically, right and left pages swap places).
+5) Using PdfMod, I hand-inserted the index from the table of contents,
+   so that a sidebar will display on pdf readers to allow jumping
+   to a specific chapter as desired.
+   While I was at it, I also added in the pdf metadata (author and title).
+
+This should make a fairly robust and usable e-book, whether you like to read in single or dual-page mode, print it, edit it to fix typos (see the errata at http://www.dspguide.com/errata.htm), or whatever you want to do, really.
+
+All in all, this is a great book for those starting to learn about DSP. I highly recommend it. If you enjoy this torrent, don't forget to seed!

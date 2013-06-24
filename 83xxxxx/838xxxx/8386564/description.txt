@@ -1,0 +1,69 @@
+The MMA Hour 2013 04 15  (with CM Punk) WEBRip-WD
+
+The MMA Hour is back in your life on Monday. Here's a rundown of who will be stopping by Kelvin Gastelum, Cat Zingano, John Crouch, CM Punk, Lorenz Larkin and Tommy Toe Hold
+
+Format                                   : MPEG-4
+Website                                  : Wrestling Desires    http://wrestlingforum.info/    
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.21 GiB
+Duration                                 : 3h 22mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 857 Kbps
+Encoded date                             : UTC 2013-04-18 19:43:42
+Tagged date                              : UTC 2013-04-18 20:30:10
+Writing application                      : HandBrake 0.9.8 2012072200
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 3h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 690 Kbps
+Width                                    : 960 pixels
+Height                                   : 540 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Minimum frame rate                       : 7.937 fps
+Maximum frame rate                       : 500.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.044
+Stream size                              : 1 000 MiB (81%)
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2013-04-18 19:43:42
+Tagged date                              : UTC 2013-04-18 20:30:10
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 3h 22mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 244 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 31ms
+Stream size                              : 232 MiB (19%)
+Encoded date                             : UTC 2013-04-18 19:43:42
+Tagged date                              : UTC 2013-04-18 20:30:10
+
+

@@ -1,0 +1,123 @@
+﻿User Type,Username,Date,Text
+,NanoEntity,2013-04-21T07:44Z,"Well I downloaded it, tested, it works, seems legit.
+
+Thanks"
+,kaliver,2013-04-21T10:48Z,this is retail build according to devs
+,webmonk42,2013-04-22T18:31Z,how do you install this?
+,webmonk42,2013-04-23T14:40Z,Where do I put this to get it to work? Up my ass?
+,dubesor,2013-04-23T21:29Z,works perfectly
+,AkumaShe,2013-04-24T12:34Z,"webmonk42 at 2013-04-23 14:40 CET:
+Where do I put this to get it to work? Up my ass?
+
+Yes. Exactly. Make it deep enough to push on your brain, maybe it wakes up."
+,oneawesome,2013-04-24T12:47Z,"ok, now upload the full version please, k thx bye"
+,Dep0n,2013-04-24T14:11Z,"it works, my question is, where does it save your ..well saves, will my progress disappear with the next update?"
+,Korabika,2013-04-24T18:25Z,"it says ""error during initialization""
+how do i install it ? steam is required ?
+currently i tried running it from desktop and c: drive, still same problem.."
+,YogyBear,2013-04-24T19:02Z,"This worked on my desktop PC, but on my notebook it gives an error message saying ""Error during initialization"" when I launch it. I have pretty much the same environments on both PCs.
+
+@Dep0n I found the saves in ""Klei"" folder in My Documents folder, that's at path C:Users\My DocumentsKleiDoNotStarvesave (assuming you have user folders on drive C obviously)."
+,Korabika,2013-04-24T22:32Z,"i solved the ""error during initialization"" problem.
+
+i'am running windows 8 x64, i just installed DirectX (i thought it's included in win8 o.O) then "".Net Framework 3.5 Client"" and it works without any problems (not sure DX or .net fixed the problem). 
+
+THANK YOU :D"
+,Klixen,2013-04-27T10:24Z,"Sorry to ask, but I'm not sure how to install this. There is a file in the 'bin' folder called 'dontstarve_steam-exe' do I double-click that to install the game?
+I don't use Steam, so I'm not sure what to do. Thnx for any help."
+,JoeMcFly,2013-05-05T13:50Z,"Default save file location:
+
+c:UsersAll UsersSteamPlayer219740storage"
+,JoeMcFly,2013-05-05T14:07Z,"Save file location is NOT by default in
+
+c:*Users*[username]*Documents*Klei*
+
+folder like many assume. Only the settings.ini and log.txt files are kept there. 
+By default save files are kept here:
+
+c:*Users*All Users*Steam*Player*219740*storage*
+Note: The 219740 folder name may wary
+
+If you want to keep save files in the Klei*saves* folder modify the settings.ini by changing this line:
+
+DISABLECLOUD = true
+
+to this:
+
+DISABLECLOUD = false 
+
+And save the changes. If you have played the game before you changed that and want to keep save files in the Klei folder, simply copy files from:
+
+c:*Users*All Users*Steam*Player*219740*storage* 
+to 
+c:*Users*[username]*Documents*Klei*save*
+
+Took me a while to figure this out on my own, have fun ;)
+PS: * (asterisk) represents  (backslash)
+
+by JoeMcFly"
+,Sekai,2013-05-06T02:19Z,"In order to play you must have steam installed:
+1. extract to desktop
+2 login to steam and go to Games on the top left corner 
+3. then click on add a non steam game to my library 
+4. locate the don't starve folder you extracted by using browse
+5. click on the bin folder and select the dontstarve_steam application
+6. click on play 
+-------------------------------------------------------
+"
+,sagiy19,2013-05-06T20:17Z,"@Sekai, please DON'T WASTE people's time!
+
+@Korabika was right, you need to install the latest DirectX for this game."
+,lucarido,2013-05-06T21:11Z,"Error:Cannot find path specified
+Happens when I try and run the torrent-why?"
+,Teaz1337,2013-05-07T23:58Z,After trying this game out for awhile I decided to purchase this game on Steam to support the developers and I strongly recommend you guys to purchase the game if you like it so they can continue to update it and release new games!
+,Sekai,2013-05-08T06:52Z,@sagiy19 I was only trying to help and also forgot to mention you need to have the latest version of DirectX. The last comment I posted was the method that best work for me so that is why I posted it.
+,VegitoDBZ,2013-05-11T01:03Z,I saved and exit and now the game won't even launch... WTF
+,jstarkreborn,2013-05-11T17:08Z,You just need to extract and play as long as you have the latest directX.
+,thunderdoublecross,2013-05-13T05:35Z,"Hey i found a the save game location
+C:ProgramDataSteam
+
+remember program (data) not program (file)
+
+Note: u well find it even if u dont setup steam  "
+,OnyxSniper,2013-05-13T22:30Z,"Guys I need help!! When I click the run file it says: Graphic Error
+
+Error Processing Render Buffer Command Initialize Texture.
+
+I'm not the Best at downloading games, in fact, i'm horrible, so I need step-by-step procedure.
+
+PLEASE HELP, THANKS IN ADVANCE."
+,irus1024,2013-05-20T09:10Z,"If you get the ""error during initialization"" message just Google ""directx redist"" and download it from Microsoft and install the package and it will fix the issue. This doesn't mean your computer doesn't have DirectX on it, it's just missing some of its components that Steam usually install automatically (or that's what I assume it is).
+Anyhows have fun and if you like it please go and buy it!"
+,gyngrbred,2013-05-20T13:21Z,cave update is out!
+,Mpedaji,2013-05-20T21:54Z,How to make it in full screen ?
+,bizmarke,2013-05-21T06:27Z,"For people with the Initialization Error please try this as this is what got the game to work for me. IN your saves folder there should be a settings.ini file edit it like this or replace but make sure you have your proper video size listed.
+
+[STEAM]
+DISABLECLOUD = false
+
+
+[MISC]
+ENABLECONSOLE = false
+
+
+[graphics]
+use_small_textures = true
+window_x = 113
+window_y = 101
+windowed_width = 1280
+windowed_height = 720
+fullscreen_width = 1600
+fullscreen_height = 900
+display_id = 0
+refresh_rate = 59
+fullscreen = true
+
+
+[GA]
+UserId = 0
+FirstVisit = 1368130191
+LastVisit = 1369107459
+VisitCount = 11"
+,Mpedaji,2013-05-21T23:03Z,"@bizmarke, a million thanx.... it worked !!"
+,bizmarke,2013-05-22T22:56Z,@Mpedaji no problem mate!

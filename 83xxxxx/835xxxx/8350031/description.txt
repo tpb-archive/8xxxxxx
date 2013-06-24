@@ -1,0 +1,54 @@
+*******************************************************************************
+                               KDE Linux 4.10.2
+*******************************************************************************
+
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: OS x86 x64
+Platform.............: Linux / Unix
+Image Created with...: Remastersys
+Burn Tested..........: Yes
+
+
+
+
+-------------------------------------------------------------------------------
+                                 Release Notes
+-------------------------------------------------------------------------------
+Built on the stability of Kubuntu 12.04.2 LTS
+
+Kernel Updated to 3.5.0-23  very stable
+
+KDE upgraded to KDE 4.10.2 works well with current kernel.
+
+works poorly with Kubuntu 13.04 Beta2, later kernel.
+
+Included Apps are to name a few are:
+
+Truecrypt 7.1a
+Vmware Workstation 9.0.2
+VMware Player 5.0.2
+CrossOver Linux 11.3
+Virtualbox 4.2.10 plus VirtualBox 4.2.10 Oracle VM VirtualBox Extension Pack.
+LibreOffice (x86_64), version 4.0.2, English (US)
+CompizConfig Settings Manager
+Wine 1.5.27 plus WineTricks
+acrobat Reader  9.5.4
+
+
+for a complete list  - read the manifest txt file included
+
+
+
+
+-------------------------------------------------------------------------------
+                                 Install Notes
+-------------------------------------------------------------------------------
+Live Session, can test it
+Install only from boot menu
+
+
+-------------------------------------------------------------------------------
+Generated with Cool NFO Creator 
+-------------------------------------------------------------------------------

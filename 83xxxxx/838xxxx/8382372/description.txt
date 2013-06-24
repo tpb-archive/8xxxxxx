@@ -1,0 +1,65 @@
+Format                         : MPEG-4
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42
+File size                      : 394 MiB
+Duration                       : 1h 28mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 619 Kbps
+Encoded date                   : UTC 2013-03-28 12:11:22
+Tagged date                    : UTC 2013-03-28 12:11:22
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 3 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1h 28mn
+Source duration                : 1h 28mn
+Bit rate mode                  : Variable
+Bit rate                       : 490 Kbps
+Width                          : 704 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Variable
+Frame rate                     : 30.000 fps
+Minimum frame rate             : 30.000 fps
+Maximum frame rate             : 30.030 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.076
+Stream size                    : 312 MiB (79%)
+Source stream size             : 312 MiB (79%)
+Language                       : English
+Encoded date                   : UTC 2013-03-28 12:11:22
+Tagged date                    : UTC 2013-03-28 12:11:22
+mdhd_Duration                  : 5336834
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 1h 28mn
+Source duration                : 1h 28mn
+Bit rate mode                  : Variable
+Bit rate                       : 126 Kbps
+Maximum bit rate               : 402 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 80.0 MiB (20%)
+Source stream size             : 80.0 MiB (20%)
+Language                       : English
+Encoded date                   : UTC 2013-03-28 12:11:22
+Tagged date                    : UTC 2013-03-28 12:11:22
+mdhd_Duration                  : 5336875
+

@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,wisdomski,2013-04-13T18:14Z,"Installed,
+Got errors trying to run the game:
+fmodx.dll 
+blink32.dll
+libeay32.dll were missing
+found and placed files into the directory
+getting error msg:
+The ordinal 3906 could not be located in the dynamic link library libeay32.dll
+what am i doing wrong?"
+,wisdomski,2013-04-13T20:13Z,"my bad, it's not a full release, just an update, by the size of it i thought it's the whole thing."
+,DiabloFan666,2013-04-13T21:35Z,"hi
+thx for torrent game works great BUT...
+when i try to run modlauncher it says: Waiting for response from Steam...
+and the lower button stays faded for ever "
+,RezMar,2013-04-14T00:08Z,"Ok this is the instruction to play with mods.
+
+1. Install Torchlight II (Reloaded)
+2. then update to last version and crack it.
+3. download the demo from original site
+4. and wait to update to the newest version of game
+5. when everything is done just copy from demo game ModLauncher.exe and DataEditor dir. to reloaded game
+6. now u can start ModLauncher.exe and choose mods.
+
+PS> mods put to 
+C:Users******DocumentsMy GamesRunic GamesTorchlight 2mods
+****** this is your user name
+
+For me this procedure works great. Maybe is better way but for now i use this one.
+
+If u like the game SUPPORT IT!!!"
+,DiabloFan666,2013-04-14T00:16Z,never mind i have already fixed it
+,mikeym41240,2013-04-14T14:52Z,"This dosent work for me.I have done what Rezmar says.I ss the mods when i launch modlauncher.exe.But when i go to press the red play button with the gear to launch games with mods,nothing happens.The game dosent open.What am i doing wrong guys.I really want to play with the synergies mod."
+,mikeym41240,2013-04-14T15:06Z,"I done what rezmar said and i can see my mods after running modlauncher.exe,but after i pick the mods and click the button to start game with mods,the game dosnt open.Nothing happens."
+,tpb_joe,2013-04-15T04:39Z,"Please tell us how you fix it DiabloFan666, thanks!"
+,DiabloFan666,2013-04-15T12:40Z,"@tpb_jo
+http://kickassproxy.info/torchlight-ii-v1-24-x-8-update-13-modlauncher-fix-t7310038.html
+this worked for me
+scanned with nod4 looks clean"
+,mikeym41240,2013-04-15T15:24Z,I gave up on the reloaded version.Got the noSteam version and patched to current.Works.
+,theRealKarmine,2013-04-17T06:04Z,"ive had absolutely no problem with the reloaded full ISO, and this patch works just fine.
+people play this on gamranger but havent update to this and that disturbs me.  heres a tl;dr as well just so you know:
+
+if you revert to the original release but have characters from later updates, THAT will cause TL2 to crash at the first screen before title.  and the bad thing is that i cant alt-tab or ANYTHING so i have to hard reset.
+
+you are required to have the VC etc installed.
+im not sure but ATI's catalyst AI might mess with the game.  i had to turn it off to play neverwinter nights and baldur's gate 2etc.
+
+this game works very good. i suggest having a good video card because the game load is mostly GPU.....this is not a heavy cpu loading game.
+
+if you have a amd athlon 64/intel equiv thats good, but for highest settings and AA youll need a nice card.  i have a 30$ sapphire radeon hd 4850 and it runs GREAT......all i had to do was turn shadows to ""lightmaps only"" and i get 30+ fps or more.  and people who whine about only getting 50.....you dont notice video lag until you get below 29.97 FPS.  "
+,xaqutor,2013-04-19T15:19Z,"I will add more to RezMar's instructions to make mods work,
+
+Firstly do what RezMar says.
+
+then before you run modlauncher.exe, 
+
+1.right click it and select compatibility
+
+2.UNTICK the box that says ""run this program as administrator"" and then click ok
+
+3.run the modlauncher and it should work"
+,theRealKarmine,2013-04-20T17:12Z,"if you want a good WORKING character editor that is clean go to clockworkcore DOT org slash tl2rr DOT html.  dont use it to cheat on tunngle or gameranger.  i will ban you from my games if you come in flagged.
+
+but if you want to test builds etc thats fine....there a couple wiki sites with builds (i use mage so i wanna plan correctly and testing using this works good).
+
+it will say that its for earlier versions of the game but it DOES work for update 13 so no worries."
+,EthanKant,2013-04-21T08:34Z,"http://forums.runicgames.com/viewtopic.php?f=30&t=54282&p=459095&hilit=command+line+mod#p459095
+
+Alternative for modlauncher"
+,Junkinomik,2013-04-22T02:21Z,"For those who have installed the Modlauncher Fix 
+for Update 13
+
+(http://kickassproxy.info/torchlight-ii-v1-24-x-8-update-13-modlauncher-fix-t7310038.html)
+
+And still unable to launch the game with mods i have a quick fix in order to make it working again!
+
+A quick fix would be disabling this by going to your installed folder, right click torchlight2.exe and select Properties. Uncheck the Read Only box and press the Unblock button. Apply then close. you can recheck the Read Only Box if you want!
+
+I hope i helped take care guys :)"
+,rhino999,2013-04-27T20:24Z,"thanks Junkinomik
+it is working now"

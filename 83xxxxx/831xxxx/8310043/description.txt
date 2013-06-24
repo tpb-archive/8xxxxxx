@@ -1,0 +1,26 @@
+Computer Vision for Visual Effects
+by Richard J. Radke
+Cambridge University Press | November 2012 | ISBN-10: 0521766877 | PDF | 405 pages | 18.2 mb 
+http://www.amazon.com/Computer-Vision-Visual-Effects-Richard/dp/0521766877
+
+Modern blockbuster movies seamlessly introduce impossible characters and action into real-world settings using digital visual effects. These effects are made possible by research from the field of computer vision, the study of how to automatically understand images.
+Computer Vision for Visual Effects will educate students, engineers, and researchers about the fundamental computer vision principles and state-of-the-art algorithms used to create cutting-edge visual effects for movies and television. The author describes classical computer vision algorithms used on a regular basis in Hollywood (such as blue screen matting, structure from motion, optical flow, and feature tracking) and exciting recent developments that form the basis for future effects (such as natural image matting, multi-image compositing, image retargeting, and view synthesis). He also discusses the technologies behind motion capture and three-dimensional data acquisition. More than 200 original images demonstrating principles, algorithms, and results, along with in-depth interviews with Hollywood visual effects artists, tie the mathematical concepts to real-world filmmaking.
+
+About the Author 
+http://g-ecx.images-amazon.com/images/G/01/ciu/31/f1/578647c4a4d90ac1d1886f.L._V144459366_SX200_.jpg
+He is an Associate Professor in the ECSE (Electrical, Computer, and Systems Engineering) department at Rensselaer Polytechnic Institute (RPI), where his students he researches topics in computer vision, the study of algorithms for automatically understanding images. After many years of teaching image processing courses, he became particularly interested in the computer vision algorithms behind Hollywood visual effects (VFX), which are the topic of his first book. While writing the book, he was able to visit several VFX companies in California and see lots of behind-the-scenes material from movies and TV- a change from the typical professor lifestyle!
+His blog, http://cvfxbook.com, and his professional page, http://www.ecse.rpi.edu/~rjradke/research.htm.
+
+Contents
+1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+2 Image Matting . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+3 Image Compositing and Editing . . . . . . . . . . . . . . . 55
+4 Features and Matching . . . . . . . . . . . . . . . . . . . . . 107
+5 Dense Correspondence and Its Applications . . . . . . . 148
+6 Matchmoving . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
+7 Motion Capture . . . . . . . . . . . . . . . . . . . . . . . . . 255
+8 Three-Dimensional Data Acquisition . . . . . . . . . . . . 300
+A Optimization Algorithms for Computer Vision . . . . . . 353
+B Figure Acknowledgments . . . . . . . . . . . . . . . . . . . 364
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393

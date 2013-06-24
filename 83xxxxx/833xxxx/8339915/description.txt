@@ -1,0 +1,44 @@
+
+Video repair tool      grauonline.de
+
+I found a way to bypass the activation, use this software in full version and did a script to make the process faster (only with mac but probably as easy under win).
+
+In demo mode, the software creates a logfile.html, with inside the command to save only 50% of the video(first 2 lines).
+So there, save 50 needs to be delete and run terminal with the new command.
+This is when the script comes to be useful.
+
+- copy script on desktop(recommended, you will have few windows open, need to perform a drop later onΓÇª) 
+
+- run video repair tool in demo, cut internet on start if it tells you software out of date(or block the connection in host or with software like littlesnif) I don't know if new versions fixes this huge door.
+
+-choose the video, click on scan then stop(we just need the logfile)
+
+- find in output folder the famous logfile, drop ip on script and let the whole process  to finish before click anywhere. When terminal is processing the video, you can start another
+You can repair many video in same time. Depending of the file size, it can take all resources so your computer specifications.
+
+Warning:
+
+you have only 1 or 2 mins to perform the drop after creating the log. Afterwards it expires and you have to do  again the scan.
+
+Improvements:
+
+- the script can be process in background for better fluidity(I'm not too good to do that)
+
+- logfile expires minutes after its creations. I could find where but there must be a line to define the duration.
+
+But the best solution 
+
+-  video tool repair creates a simple line useful to repair the video. If we can understand how the key is created, we can throw away this software, that is only an interface, and only work the " movdump", the actual software that fixes the video.
+
+Anyone keen to accept this job
+
+I"ll be grateful 
+
+
+
+Enjoy !!!
+
+
+
+ 
+

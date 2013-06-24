@@ -1,0 +1,61 @@
+When a devil-monster appears in the middle of Francilee Jackson's cooking show and 
+
+eats her, it's up to the gang to find out what is really going on, with the help of 
+
+Dr. Rick Spartan. 
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 176 MiB
+Duration                                 : 22mn 41s
+Overall bit rate                         : 1 084 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+TITLE                                    : The Devouring
+ARTIST                                   : Scooby-Doo! Mystery Incorporated
+DATE_RELEASED                            : 2013-03-27T07:00:00Z
+GENRE                                    : Animation
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 22mn 41s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 22mn 41s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

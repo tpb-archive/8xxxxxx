@@ -1,0 +1,162 @@
+﻿User Type,Username,Date,Text
+,DekaSwap,2013-04-08T00:12Z,"Can anyone give details at to whether this works or not?
+(I don't trust the skulls, no offence.)"
+,archerduchess,2013-04-09T04:55Z,"It does seem to work, however it did also seem to install a keylogger. If you want to use it run a clean security sweep after download."
+[V],2010kaiser,2013-04-09T07:15Z,"@archerduchess
+
+There's no keylogger or any other Malware in this torrent. The Adobe Tool v3.4 is giving you a false positive."
+,glendraval01,2013-04-11T00:55Z,"Better to use the upload from ""the thingy"". Tried and tested by thousands. If unsure of installation instructions demonstrations are available on youtube."
+,SystemFolder,2013-04-11T02:26Z,"C'mon people. He's VIP, and I semi-personally know the guy. There no key loggers, no passwords, no surveys, and no malware of any kind. Just follow the installation directions and you'll be fine."
+,d3monsweat,2013-04-12T21:08Z,Easy install and works like a charm.  Thanks dude.
+,deathstalker82,2013-04-13T04:33Z,"Thanks for the upload. Very easy install and works beautifully. One question, I noticed that its a trial version. So after the 30 days will I have to re-install? If so not a problem since the install is super easy. Thanks again for upload."
+[V],2010kaiser,2013-04-13T13:06Z,"@deathstalker82
+
+If you followed the installation instructions EXACTLY, the trial will be frozen and there'll never be a need for a re-install. If the trial continues to count down, then you've missed something at some point during the install and you'll need to do a re-install. Watch the video provided in the installer for the correct procedure to install.
+If you do need to re-install. Once you've removed the current install of Photoshop. Go to:
+
+C:Program Files (x86)Common FilesAdobe
+
+or/and
+
+C:Program FilesCommon FilesAdobe
+
+Highlight all the folders and delete them. For those which you can't delete. Just skip them.If you don't do this step after the uninstall and before the re-install. Your fresh install of Photoshop will not be ""frozen"" and will count down like the previous install."
+,deathstalker82,2013-04-13T14:39Z,Cool man. Thanks for the quick reply. I followed it to a T so I should be good. If not its no biggie and I can always fix it later.
+,torrent_fan1001,2013-04-19T23:56Z,question...what is this torrent and do you need anything to download and use it.. sorry i'm kinda' clueless 
+[V],2010kaiser,2013-04-20T02:03Z,"@torrent_fan1001
+
+All you need is a torrent client to download the torrent. Download and install uTorrent from the link below. Everything else is contained in the downloaded installer:
+
+http://www.utorrent.com/"
+,pattyo41,2013-04-20T03:25Z,"when it comes to sign in with a adobe ID what should be done, Thanks"
+[V],2010kaiser,2013-04-20T04:20Z,"@pattyo41
+
+Skip it. Watch the install video contained in the installer and you'll have no problems."
+,abdou_dz,2013-04-21T17:24Z,"Hello,
+Can I update this without problems after I install it?"
+[V],2010kaiser,2013-04-21T20:33Z,"@abdou_dz
+
+yes"
+,xnyjyh,2013-04-23T05:49Z,"ok, thanks for the upload first of all! great stuff.... BUT!!!... when i try and ""flush DNS"" the adobe tool closes and i try again but still closes... annoying really! so whats my problem? please help me and ill give you a dollar lol"
+,xnyjyh,2013-04-23T05:50Z,"oh shoot sorry double post, forgot to mention im using XP pro sp3, which i dont think would be the case at all as ive never had any problems using CS5 extended"
+,xnyjyh,2013-04-23T06:00Z,"well this is gay, my messages are bnot showing... im trying to figure out why when i 'flush DNS' the adobe tool closes, crashes. cant continue installing untill this is corrected somehow... thanks :-)"
+,xnyjyh,2013-04-24T00:10Z,still aiting for a reply... if u dont know tell me plz...
+[V],2010kaiser,2013-04-24T02:22Z,"For support relating to Adobe Tool. Register and post on the thread below:
+
+https://forum.suprbay.org/showthread.php?tid=114451&highlight=adobe+tool"
+,Ifraa,2013-04-24T13:26Z,"Is it working on windows 8 anybody? I have tried many torrents, but i'm not getting  the Extented version of CS6 on windows 8. 
+
+Mine is Intel(R) Pentium Dual core "" 2.oo GHz processor. With 3 GB RAM. 
+
+Any help Mr.Kaiser ?"
+[V],2010kaiser,2013-04-24T14:18Z,"@Ifraa
+
+Tested and working on Windows 8."
+,abdou_dz,2013-04-24T18:33Z,Where can I go to update Photoshop?
+,abdou_dz,2013-04-24T18:35Z,The Update button is disabled. Where can I go to update Photoshop?
+[V],2010kaiser,2013-04-24T20:57Z,"@abdou_dz
+
+1. Disconnect your internet, open photoshop and select update (It won't/can't update because your internet is disconnected).
+2. Close photoshop but leave the update window open.
+3. Re-connect your internet and you can now download all updates.
+4. If trial starts again, just re-patch the amtlib.dll files.
+
+5. You can also download updates direct from Adobe and install them that way."
+,abdou_dz,2013-04-24T21:40Z,"The problem is that the Update button is disabled:
+http://image.bayimg.com/77da3a3cb92d5b5d9a8cb5e0df419c857a7b4fd2.jpg
+
+Is there any other place to update it ?"
+,abdou_dz,2013-04-24T23:29Z,"Well, I downloaded the updates from Adobe site, and installed them manually =)
+
+Thank you 2010kaiser ;)"
+,abdou_dz,2013-04-25T20:26Z,Can I install Illustrator CS6 using the same method showed in the video?
+,ant24,2013-04-26T05:21Z,"hey 2010kaiser im getting an error message saying ""The application was unable to start correctly (0xc0000018). Click ok to close the application."""
+[V],2010kaiser,2013-04-27T18:24Z,"@abdou_dz
+
+Yes. Exact same procedure."
+,Bujno,2013-05-02T10:52Z,Language - ?
+,Bujno,2013-05-02T12:39Z,"Kaspersky Internet Security 2013 (13.0.1.4190 (g)), bases 02.05.2013 11:00 - OK."
+[V],2010kaiser,2013-05-03T14:04Z,"@Bujno
+
+1. English.
+2. WTF?? is  ""Kaspersky Internet Security 2013 (13.0.1.4190 (g)), bases 02.05.2013 11:00 - OK. ""?????"
+,Arwen0001,2013-05-05T21:23Z,Thank you very much - this was an amazing find. Working excellent. You are pro! I love you already!
+,AnySecond,2013-05-06T04:16Z,"So I downloaded the torrent, but it shows up as encrypted. Any idea on a password or what I've done wrong?"
+,Arwen0001,2013-05-06T07:47Z,"@AnySecond: You have to run it as it is. If it doesnt work I would guess your security is blocking it, or your download is corrupted. You should get a startupscreen. Watch the video first and do exactly as shown, and it works like a charm. I turned off antivirus doing this, as I trust Kaiser based on a good feeling. It turned out well for me. "
+[V],2010kaiser,2013-05-06T18:48Z,"@AnySecond
+
+Arwen0001 is correct. Your A/V is probably reading the installer as Malware and not allowing it to run. Disable your A/V for the whole process and make sure you run the installer as Administrator. I can guarantee than it's 100% safe as i packaged and compiled it myself.
+Also, NONE of my torrents will ever be password protected in any way nor have they ever been. If you come up against the same issue on one of my torrents again. Disable your A/V and make sure you are running it as Administrator.
+"
+,dynamo.,2013-05-07T09:55Z,"Install went smooth but I'm getting warned about a ""HackTool:Win32/Keygen"""
+[V],2010kaiser,2013-05-07T15:29Z,"@dynamo
+
+It's a false positive. It's picking up the Adobe Tool v3.4 as Malware."
+,LastPanda,2013-05-13T11:32Z,"Thanks 2010kaiser, the video was a nice touch.
+
+For people who have the problem of your computer freezing when clicking adobe tool, disabling windows defender worked for me (win 8 64 fresh install)."
+,aear101,2013-05-13T14:50Z,It is downloaded as a 'File' on my system and I am unable to extract it for some reason. Can anyone please tell me how to extract it?
+[V],2010kaiser,2013-05-13T16:47Z,"@aear101
+
+Chane the file extension to .exe and you'll be fine."
+,cyborg05,2013-05-14T08:41Z,After downloading this what should be done? Should I watched the video first? Or I can just install it easily.? 
+[V],2010kaiser,2013-05-14T15:54Z,"@cyborg05
+
+Options:
+
+1. Watch the video to see how the application is installed correctly and then install the application.
+2. Get someone who knows what they're doing to install it for you.
+3. Stare at the downloaded torrent in the hope that it is an auto-installer and will install itself, making you a cup of coffee as part of the process :-)
+
+Personally, i'd go with option 1 ;-)"
+,smalltalkpro,2013-05-16T02:39Z,"After install, I don't have the 3D menu, and the About box doesn't say ""Extended"" version. WTF? Did I do something wrong?"
+,XePloiT,2013-05-16T14:19Z,hey guys.... ive got a little problem... ive downloaded the exe file... and shows the progress bar... when he get to the half it just quits... :
+,Ciipher,2013-05-17T04:22Z,"I'm getting an error when clicking on APS CS6 Ext. button from the installer-pack. 
+
+Error: 1020 
+An error occurred: 
+There was not enough memory to complete the operation. 
+
+Any clue why? Please respond ASAP! Thanks in advance! "
+,Ciipher,2013-05-17T04:42Z,"I'm getting an error when clicking on APS CS6 Ext. button from the installer-pack. 
+Error: 1020 
+An error occurred: 
+There was not enough memory to complete the operation. 
+
+Any clue why? Please respond ASAP! Thanks in advance! "
+,ctl61594,2013-05-18T01:42Z,"It is telling me ""sign in required"" after accepting Adobe software license agreement. What am I doing wrong or how do I get passed it?"
+,pbalex95,2013-05-18T07:30Z,"For some reason it said 0 days left for trial and didn't let me press continue with trial, though i just closed photoshop and continued the with the process and it still worked lol"
+,Orbit09,2013-05-21T13:51Z,I've done only steps 5-12 and works! Thanks!
+,schockstuhh,2013-05-22T00:29Z,I am also getting a message that a sign-in is required to continue after accepting the Adobe Software License Agreement. Not sure how to skip this. Would it be bad to register?
+[V],2010kaiser,2013-05-23T03:40Z,"@schockstuhh
+
+You haven't followed the steps in the video or install instructions."
+,z4cadpro,2013-05-24T07:15Z,Thanks 2010 Kaiser! I got it working even though the instructions weren't the best. I had to uninstall a partial before realizing it wasn't going to work. After about 45 minutes I got it through.
+,skrewball,2013-05-27T01:05Z,I cant even get the download to start. I keep getting an unknown error message and tells me to try saving in a different location. I have windows 8. Can anyone help? 
+,catcher66,2013-05-27T19:31Z,"Torrent looks great, but I'm getting an error when I try to run the setup (as administrator) that says ""Windows cannot access the specified device, path or file. You may not have the appropriate permissions to access the item."" Any idea? Running Windows 7."
+,pow666,2013-05-28T22:40Z,"So when I tried to install this program (following the procedure as shown in the video), the installation freezes at ""Currently Installing Microsoft_VC90_CRT_x86"".  I let it get up to ""About 432 minutes remaining (2% complete) before I officially gave up.  Only problem is, the installer won't close unless I restart my computer."
+,togio101,2013-06-01T01:36Z,Awesome job. This is easy and thanks a lot!
+,kensais,2013-06-02T14:13Z,Crc mismatched - I get up this error as I try to launch your installer. What to do?
+,kayanez24,2013-06-03T02:15Z,Where do I find the video instruction? I already installed and its asking trial or serial number. I can't find this video everyone keeps talking about. Help!
+,Azghan,2013-06-07T21:08Z,"It would have been much more helpful to allow people to chose where the install extracts itself instead of just picking C:. I for one can't spare any room in there, so, is there a way to make it extract somewhere else?"
+,PeaceMaker22,2013-06-08T23:43Z,"It seems to have worked. A couple minor things I ran into (besides missing text in instructions) was when I went to continue trial, I couldn't click it and it was grayed out.  It said 00 days on the left. That's probably because I had it previously on trial. Another thing is I was thinking, ""Watch this get deleted because I didn't turn off my Norton360.."" Yup.. I had to re-download it because Norton killed it after I started the exe. It says thousands of Norton users used it though and it was released a couple months ago, which seems about right. Turned off antivirus temporarily and put the file on exceptions to be sure and took it off exceptions after I was finished. Besides that it all worked and took about 5-10 minutes to install. I'll message back if something in the future goes wrong. Thanx for upload ~"
+,kevynlee,2013-06-09T00:58Z,"okay< I followed the instructions exactly but two differences.... it prompted me to sign into adobe, so I created a bogus account and the second was after install once I went into the 2 files adobe bridge etc, it didn't allow me to click on ""do not participate"" (the option was not there or once I went into the second file there wasn't your icon to click on.  however, I am not seeing anywhere in the adobe program that its a trial version or a timer that is counting down.  I hope this is installed accurately, feedback would be appreciated! :)"
+[V],2010kaiser,2013-06-09T01:23Z,"@PeaceMaker22
+
+And to anyone else who's had a previous install.
+Uninstall/delete your previous version.
+Then delete it from the CommonFiles directory. Normally located at:
+
+x64bit:
+=====
+
+C-Program Files (x86)-Common Files-Adobe
+
+x86(x32bit):
+========
+
+C-Program Files (x86)-Common Files-Adobe
+
+Skip what can't be deleted.
+
+Then do a re-install of the software."

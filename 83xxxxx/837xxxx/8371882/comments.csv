@@ -1,0 +1,107 @@
+﻿User Type,Username,Date,Text
+,LuciferDark,2013-04-15T08:12Z,"in the files information it only shows disk 2,3, and 4. what about disk 1?"
+,lrdgarth,2013-04-15T13:41Z,lol. You see that other 3.9gb file?
+[T],aviara,2013-04-15T14:41Z,"The Elder Scrolls V Skyrim Full Game+DLC-=AviaRa=-.exe, it`s disk 1... you only need to run that file the rest of the parts will install automaticaly"
+,Apaleytos,2013-04-15T18:26Z,"Always trust aviara:)
+
+Thx for the game."
+,Amalur69,2013-04-17T06:14Z,Only English or Multi?
+[T],aviara,2013-04-17T15:16Z,English only
+,In_Da_Club,2013-04-17T19:51Z,Is it just me or this is the worst seeded torrent yet? Getting speeds like 10-20kB/s if lucky that much over the course of 3 days time i am sitting at 6% downloaded.
+,mimodo,2013-04-18T13:25Z,"I  agree with you^ I've currently uploaded about 2.5 times what I've downloaded, which means a lot of people not seeding"
+,LuciferDark,2013-04-19T11:20Z,"uh yeah this needs seeding...ill contribute to that
+since ive been downloading for three days and im still only at 91 percent..."
+,cwatson2,2013-04-23T02:38Z,Can't play the dlc. I open the short cut and I can't launch or check anything in the data
+,Fupe,2013-04-25T05:00Z,"This needs more seeders. I've been downloading for 3 days and I'm at 60%; just keep seeding for a while, people."
+,Marlowe365,2013-04-26T19:04Z,"Well, you guys are luckier than I am. I'll be lucky if it finishes downloading during my lifetime. 0.1 kbit/s  isn't the best, really. There are more peers than seeds, wich isn't exactly spectacular, either.
+
+I think I'll leave it running for a year, then forget about it, so yeah. So much for downloading from the only ones I know have it working."
+,Deko260,2013-04-28T05:26Z,This torrent includes all updates?
+,vinceagashi,2013-04-30T16:12Z,"Nice, I left a comment here and now it is deleted. Was just trying to get some help here. I followed the instructions to a science and when I open the shortcut I get this error message
+
+""The application was unable to start correctly (0xc0000022). Click OK to close the application."
+,Apaleytos,2013-05-03T21:08Z,"Vinceagashi you probably have corrupted installation.
+
+1)Make sure you have  updated Directx,dotnetfx,vc+++ 
+2)Run aviara.exe as administrator
+3)My ESET security  steamapi.dll( false positive) and gave me corrupted install.Had to add exlusion for this file(reinstalled game).Maybe you have antivirus issues also.
+
+When you successfully  install the game, must run desktop shortcut as administrator for the first time otherwise skyrim launcher will not work (untill u run it as administrator).
+
+My machine runs win7x64."
+,lolgf,2013-05-04T17:53Z,When i Installed this it said i did not have steam api dll can i use one from another skyrim install?
+,theplqa,2013-05-04T18:58Z,"Works fine. Though you have to click ""Install Game"" on the launcher. Plays perfectly after that."
+,Apaleytos,2013-05-04T19:30Z,"lolgf your antivirus kills steam api.dll...
+1)Go to quarantine,add excusion for this file
+2)Reinstall the game  and it will run ok."
+,Pottu,2013-05-05T05:59Z,works like a sharm. thx AviaRa
+,Demi-lich,2013-05-07T13:55Z,it will take a week to get this =( 
+,Demi-lich,2013-05-07T14:03Z,I can seed with unlimited speed. but  a week to get it? very sad. i am off.
+,muggaloid1,2013-05-09T17:28Z,This is a quality torrent. I've been seeding for about 3 weeks now and will keep seeding for longer
+,nicklezbe,2013-05-09T23:02Z,"Please seed >.<  I will gladly seed for 3 months, been trying to download this for a week now which is unacceptable with a fioptics connection >."
+,nicklezbe,2013-05-09T23:03Z,Also Aviara ty for the upload but can you please tell me how to register for your site? I try repeatedly but it just takes me to a page that says an error has occurred you are not allowed to access this section and I know I got the captcha right. It's not because Im using VPN is it? Either way I'd really like to register and contribute to your site can you please help me?
+,Sepperoth0,2013-05-13T03:58Z,"Anyone else having trouble with the DLC not showing up? I've installed it twice already, and the Data Files option on the launcher is still grayed out. I've even gone into the SkyrimPrefs.ini file to make sure that under the [Launcher] options that ""bEnableFileSelection=1"" is there. Aside from the DLC issues though, the game runs beautifully and was a breeze to install (after adding an exception to my antivirus for steamapi.dll.)"
+,Taisho149,2013-05-13T18:12Z,Please people seed! I really want this.
+,m0zillaf0x,2013-05-14T02:12Z,"Im sure it's a great torrent! If only I could remember to turn off my antivirus, I've had to re-download this TWICE now!"
+,Lunna93,2013-05-15T21:49Z,"Hi, I just downloaded and installed it, but when the game starts I can hear a thing, no dialogues, no subtitles, anything. It doesn't even start the action of selecting your character....How can I fix it? "
+,m0zillaf0x,2013-05-16T03:13Z,"Okay, finally got it DLed, but when I run it as Administrator, nothing happens! Yes, I've disabled my Anti-Virus, but nothing happens! I've waited over an HOUR now after it says the ""Do you allow ___ to store data"" or whatever, but it just cancels then I'm guessing. HELP!!!"
+,m0zillaf0x,2013-05-16T03:14Z,"Wow. Nevermind, right after my last comment it opened up. FO SHIZZLE?!"
+,Victoevel,2013-05-17T03:04Z,"HELP!!!
+It says that there is an error with x3daudio1_7.dll
+Please help.
+Im seeding!!!"
+,Jx_Feint,2013-05-17T05:20Z,i need some help im stuck on the esbern quest he doesnt talk only the dialogue and please help...
+,matsschau,2013-05-18T11:26Z,"i can't play! when i launch it, the starting screen comes up, and when i press play the screen just flickers and nothing happens! what should i do?"
+,ryoganeo37,2013-05-26T04:43Z,"Victoevel: had that same error on a friends comp. You need to install DirectX 10 to get it working. google that, and it shouldn't be a problem. good luck!"
+,ethansafa,2013-05-26T08:26Z,@sepperoth yes i have the same fucking problem and nothing i do is fixing it make a fix ASAP please this is shitty.
+,Victoevel,2013-05-27T01:21Z,"ryoganeo37: Thx, I can play now. Seedingggggggggggggggggggggggggg!!!!!!!"
+,B12GgY7,2013-05-27T02:24Z,PLEASE SEED 10kb/s
+,Shoobox,2013-06-05T03:06Z,"HOW I GOT IT TO WORK:
+- installed add-on to separate folder
+- copied all files to the skyrim folder
+- re-copied the reloaded 11 patch to skyrim folder
+- You need to add that line in SkyrimPrefs.ini located in My document/MyGames/Skyrim or something quite close for any windows os.
+
+Look for the line:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+
+And add it like this:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+
+don't alter bshowallresolutions or ulastaspectfileselection values if they are different for you just add ""bEnableFileSelection=1""
+
+- click skyrim launcher
+- click data files
+- enable the DLC
+- play
+
+tips to get questline: go to white run, 
+go inside a building then come back out and you will probably get attacked by the people that start the Dragonborn questline. 
+if not run around whiterun for a while going in and out of buildings. they'll come if you actually activated the dlc. "
+,Shoobox,2013-06-05T03:07Z,"""- re-copied the reloaded 11 patch to skyrim folder""
+
+""update""
+use latest update in this part "
+,SamPlaysMC,2013-06-06T15:47Z,"The Full game works, but the Data Files arent activated. Ive tired the recommendation to change the Notepad file but when I try to change it, it says Acess Denied."
+,ajc23,2013-06-06T21:46Z,I installed properly then it tells me an Ini file cant be found How do i Fix?
+,stuff...,2013-06-06T23:39Z,can I get any kind of mod for this
+,Shoobox,2013-06-09T20:13Z,"@SamPlaysMC
+open the SkyrimPrefs.ini with notepad
+scroll to the bottom where it says [launch]
+add the line bEnableFileSelection=1
+exit ,It'll ask you to save, Save.
+
+if you cannot open with notepad then you do not have administrative  rights to your pc and are not running in admin mode"
+,Shoobox,2013-06-09T20:15Z,also after you do the steps you need to re-apply the latest patch and crack mine works fine yours should too.
+,Shoobox,2013-06-09T20:17Z,"after you have done all of these steps
+click on the skyrim launcher 
+go to data file with the latest update a new dialog box will pop up showing all the dlc's installed and working "
+,dude22072,2013-06-09T21:04Z,"Seeding Daily, Tested Bandwith -  4.10Mib/s"
+,SamPlaysMC,2013-06-10T11:31Z,@Shoobox I have admin rights to my computer. When I try to save it sais Access Denied.
+,SamPlaysMC,2013-06-10T11:34Z,"@Shoobox my [Launcher File also looks like this:[Launcher]
+bEnableFileSelection=1 "

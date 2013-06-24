@@ -1,0 +1,59 @@
+﻿User Type,Username,Date,Text
+,vivatpb5776,2013-04-13T16:58Z,"For those that care, here is the mediainfo:
+
+General
+Complete name                    : G:QCBroken City.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Format profile                   : OpenDML
+File size                        : 2.97 GiB
+Duration                         : 1h 48mn
+Overall bit rate                 : 3 896 Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                  : VirtualDubMod build 2540/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : 2
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 48mn
+Bit rate                         : 3 503 Kbps
+Width                            : 1 280 pixels
+Height                           : 528 pixels
+Display aspect ratio             : 2.40:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.216
+Stream size                      : 2.67 GiB (90%)
+Writing library                  : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 1h 48mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 299 MiB (10%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 42 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+
+The video quality is good. It does appear a bit darker than I would like. The movie is not slated for release until the end of the month. I am going to hold on to this until a better release is available. Thank you uploader."

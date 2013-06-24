@@ -1,0 +1,83 @@
+DISC INFO:
+
+Disc Title:     ALIEN_3_1992
+Disc Size:      45.141.122.315 bytes
+Protection:     AACS
+BD-Java:        Yes
+BDInfo:         0.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 2:24:52 (h:m:s)
+Size:                   30.730.770.432 bytes
+Total Bitrate:          28,28 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19489 kbps          1080p / 23,976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4145 kbps       5.1 / 48 kHz / 4145 kbps / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz / 768 kbps / 24-bit
+* DTS Audio                     Japanese        768 kbps        5.1 / 48 kHz / 768 kbps / 24-bit
+* Dolby Digital Audio           English         448 kbps        5.1 / 48 kHz / 448 kbps / DN -4dB
+Dolby Digital Audio             Thai            448 kbps        5.1 / 48 kHz / 448 kbps / DN -4dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz / 224 kbps / DN -4dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         24,074 kbps                     
+Presentation Graphics           Chinese         19,083 kbps                     
+Presentation Graphics           Chinese         19,112 kbps                     
+Presentation Graphics           Indonesian      26,048 kbps                     
+Presentation Graphics           Italian         24,928 kbps                     
+Presentation Graphics           Italian         38,931 kbps                     
+* Presentation Graphics         Japanese        14,678 kbps                     
+* Presentation Graphics         Japanese        0,399 kbps                     
+* Presentation Graphics         Japanese        29,940 kbps                     
+Presentation Graphics           Korean          14,929 kbps                     
+Presentation Graphics           Korean          29,021 kbps                     
+Presentation Graphics           Tagalog         28,295 kbps                     
+Presentation Graphics           Thai            19,929 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00750.M2TS      0:00:00.000     0:03:29.751     733.691.904     27.983         
+00752.M2TS      0:03:29.751     0:11:10.711     2.379.534.336   28.382         
+00753.M2TS      0:14:40.462     0:01:37.347     347.492.352     28.557         
+00754.M2TS      0:16:17.810     0:01:38.223     344.629.248     28.069         
+00755.M2TS      0:17:56.033     0:06:28.471     1.366.333.440   28.138         
+00756.M2TS      0:24:24.504     0:13:18.756     2.816.090.112   28.205         
+00757.M2TS      0:37:43.260     0:01:25.627     303.796.224     28.383         
+00758.M2TS      0:39:08.888     0:02:16.845     477.437.952     27.911         
+00759.M2TS      0:41:25.733     0:02:15.260     474.138.624     28.043         
+00760.M2TS      0:43:40.993     0:08:32.428     1.810.384.896   28.264         
+00761.M2TS      0:52:13.421     0:04:49.872     1.026.551.808   28.331         
+00762.M2TS      0:57:03.294     0:02:30.024     529.348.608     28.227         
+00763.M2TS      0:59:33.319     0:02:53.298     609.441.792     28.134         
+00764.M2TS      1:02:26.617     0:07:24.902     1.560.440.832   28.059         
+00765.M2TS      1:09:51.520     0:01:03.480     226.025.472     28.485         
+00766.M2TS      1:10:55.000     0:03:17.822     695.943.168     28.144         
+00767.M2TS      1:14:12.823     0:02:24.769     514.025.472     28.405         
+00768.M2TS      1:16:37.592     0:18:33.779     3.934.089.216   28.258         
+00769.M2TS      1:35:11.372     0:01:40.558     354.078.720     28.169         
+00770.M2TS      1:36:51.930     0:02:43.538     575.582.208     28.156         
+00771.M2TS      1:39:35.469     0:01:27.462     307.820.544     28.156         
+00772.M2TS      1:41:02.931     0:02:37.782     554.145.792     28.097         
+00773.M2TS      1:43:40.714     0:02:33.736     542.742.528     28.243         
+00774.M2TS      1:46:14.451     0:12:50.603     2.734.172.160   28.385         
+00775.M2TS      1:59:05.054     0:13:37.858     2.934.239.232   28.702         
+00776.M2TS      2:12:42.913     0:06:12.288     1.324.781.568   28.468         
+00777.M2TS      2:18:55.201     0:05:57.440     1.253.812.224   28.062         

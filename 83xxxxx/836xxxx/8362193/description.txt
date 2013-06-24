@@ -1,0 +1,47 @@
+Microsoft Security Releases ISO Image March, 2013
+
+ 
+http://img685.imageshack.us/img685/3735/784872720.jpg
+
+
+----|Info|---------------------------------------------------------------
+
+
+Author: Microsoft Corp. 
+Date: 2013-03-12 
+Size: 3.0 GB 
+Requires: Win 8 Win 7 Vista XP 
+
+
+This DVD5 ISO image file contains the security updates for Windows released on Windows Update in March 2013. 
+The image does not contain security updates for other Microsoft products. This DVD5 ISO image is intended 
+for administrators that need to download multiple individual language versions of each security update and 
+that do not use an automated solution such as Windows Server Update Services (WSUS). You can use this ISO 
+image to download multiple updates in all languages at the same time. 
+Important: Be sure to check the individual security bulletins at http://www.microsoft.com/technet/security 
+prior to deployment of these updates to ensure that the files have not been updated at a later date. 
+
+The below Operating Systems will contain the following number of languages unless otherwise noted: 
+
+Windows XP - 24 languages 
+Windows XP x64 Edition - 2 languages 
+Windows Server 2003 - 18 languages 
+Windows Server 2003 x64 Edition - 11 languages 
+Windows Server 2003 for Itanium-based Systems - 4 languages 
+Windows Vista - 36 languages 
+Windows Vista for x64-based Systems - 36 languages 
+Windows Server 2008 - 19 languages 
+Windows Server 2008 x64 Edition - 19 languages 
+Windows Server 2008 for Itanium-based Systems - 4 languages 
+Windows Server 2008 R2 x64 Edition - 19 languages 
+Windows Server 2008 R2 for Itanium-based Systems - 4 languages 
+Windows 7 - 36 languages 
+Windows 7 for x64-based Systems - 36 languages
+
+
+
+Install Notes :-
+
+1. Burn Iso with any burner
+2. Then Install your os Security Updates 
+3. AND INJOY :)

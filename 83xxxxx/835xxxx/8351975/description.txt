@@ -1,0 +1,39 @@
+                       ___ ___         __                   
+                      |   |   |.--.--.|  |.----.---.-.-----.
+                      |   |   ||  |  ||  ||  __|  _  |     |
+.:....................._____/ |_____||__||____|___._|__|__|.................:.
+||                 Real World Instrumentation with Python                    ||
+':-::---------------------------------------------------------------------::-:'
+   :: ........... Date : 2013-02-13                                 ..... ::
+   :: ......... Author : John M. Hughes                             ..... ::
+   :: ...... Publisher : O'Reilly Media                             ..... ::
+   :: ........... ISBN : 9780596809560                              ..... ::
+   :: ..... Num. pages : 624                                        ..... ::
+   :: ....... Language : English                                    ..... ::
+   :: ..... Categories : Computers                                  ..... ::
+   :: ...... Published : 2010-11-15                                 ..... ::
+   :: ............ URL : www.amazon.com                             ..... ::
+.::**:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**::.
+
+   Learn how to develop your own applications to monitor or control          
+   instrumentation hardware. Whether you need to acquire data from a         
+   device or automate its functions, this practical book shows you how to    
+   use Python's rapid development capabilities to build interfaces that      
+   include everything from software to wiring. You get step-by-step          
+   instructions, clear examples, and hands-on tips for interfacing a PC to   
+   a variety of devices. Use the book's hardware survey to identify the      
+   interface type for your particular device, and then follow detailed       
+   examples to develop an interface with Python and C. Organized by          
+   interface type, data processing activities, and user interface            
+   implementations, this book is for anyone who works with                   
+   instrumentation, robotics, data acquisition, or process control.          
+   Understand how to define the scope of an application and determine the    
+   algorithms necessary, and why it's important Learn how to use             
+   industry-standard interfaces such as RS-232, RS-485, and GPIB Create      
+   low-level extension modules in C to interface Python with a variety of    
+   hardware and test instruments Explore the console, curses, TkInter, and   
+   wxPython for graphical and text-based user interfaces Use open source     
+   software tools and libraries to reduce costs and avoid implementing       
+   functionality from scratch                                                
+
+'::**:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**::'

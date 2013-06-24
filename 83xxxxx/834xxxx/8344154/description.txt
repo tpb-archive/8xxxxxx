@@ -1,0 +1,54 @@
+What is PCSX2?
+
+PCSX2 is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
+
+ 
+Advantages over the Playstation 2 console
+
+    Custom resolutions, up to 4096x4096, Anti Aliasing and Texture filtering to make your old PS2 games look better than their HD remakes!
+    Unlimited memory cards
+    Save states, enabling you to quick save and load practically anywhere in your game
+    Easy cheating using our pnach patching system
+    Use any controller (PS3,Xbox360 etc) that works on Windows, keyboards and mice
+    Increase or decrease the game speed by using the built-in frame-limiter for fast grinding or passing hard spots by slowing them down
+    Ability to record in full HD with the built-in video recorder (F12 using the GSdx plugin)
+
+ 
+So how do I use it?
+
+    Download the version suited for you from our Downloads Section (for beginners, the full installer of the latest stable release is recommended)
+    Get the BIOS file from your Playstation 2 console. This is not included with PCSX2 since it is a Sony copyright so you have to get it from your console. Visit the tools section to find out how to do this.
+    Install PCSX2
+    Configure PCSX2. For beginners the Configuration Guide video and the Quick Start configuration guide should help you. For a detailed description of every single option you can always refer to the full guide.
+    Insert your PS2 game CD/DVD in your DVD rom. You can either run it directly from the disc or create an ISO image of your disc with a program like IMGburn for faster reads.
+    Enjoy!!!
+
+ 
+I can't make it work!
+
+PCSX2 is not the simplest program out there although we try to do it as user friendly as possible.
+
+If you have problems running your game, first check our compatibility list. Is your game listed as Playable there? If not, PCSX2 does not support your game yet so you'll have to wait for a fix or try another game. If you can't find it in the list we don't know if it works or not since it has not been tested!
+
+If your game is listed as playable, ask for help in our forum!
+
+ 
+It works but its slow!
+
+This is the most common problem users experience. PCSX2 is a very hardware intensive program, especially on your processor.
+
+It is highly recommended you read the first post of this thread: Will PCSX2 run fast on my computer? and if you still have questions reply to the thread, there are many helpful members who will answer.
+System Requirements
+Minimum (most games will be unplayable slow)
+
+    Windows/Linux OS
+    CPU: Any that supports SSE2 (Pentium 4 and up, Athlon64 and up)
+    GPU: Any that supports Pixel Shader model 2.0, except Nvidia FX series (broken SM2.0, too slow anyway)
+    512MB RAM (note Vista needs at least 2GB to run reliably)
+
+Recommended
+
+    Windows Vista / Windows 7 (32bit or 64bit) with the latest DirectX
+    CPU: Intel Core 2 Duo @ 3.2 GHz or better OR i3/i5/i7 @ 2,8 GHz or better OR AMD Phenom II @ 3,2 GHz or better
+    GPU: 8800gt or better (for Direct3D10 support)
+    RAM: 1GB on Linux/Windows XP, 2GB or more on Vista / Windows 7

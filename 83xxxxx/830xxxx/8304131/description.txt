@@ -1,0 +1,33 @@
+K-Mail
+
+Complete SMTP Client for Visual Basic 6┬⌐
+
+Summary
+
+K-Mail is an Active-X componenent for Microsoft Visual Basic 6. Thanks to K-Mail you can very easily send emails from your VB6 application. K-Mail supports HTML messages with images and sound, multiple attachments, worldwide characters sets, priority levels... This only requires a few lines of code. K-Mail's developper's package contains an help file and a sample application : complete SMTP (email) client source code.
+
+Features:
+
+Pure Winsock SMTP client.
+HTML (multipart alternative) support. Embedded Images support.
+Base64 atachment encoding.
+Multiple charsets support.
+Priority and Acknoledgement of receipt support.
+Error handling and monitoring functions.
+Includes a complete SMTP e-Mail client as sample application (full Visual Basic 6 source code).
+
+Supported OS:
+
+Windows All
+
+Homepage: http://www.kcsoftwares.com/?kmail
+
+Installation Instructions:
+
+- Install program.
+- Register application with given name/key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

@@ -1,0 +1,61 @@
+KMPlayer (KMP+) is a korean movie and audio player that supports a wide range of codecs and file formats. It has full VCD/DVD playback functionality. KMPlayer is a versatile media player which utilizes all kinds of video information and subtitles to bring the best video experience through software/hardware options and recognition of various display devices. The player provides a strong hybrid structure efficient for interconnecting various directshow filters, winamp input&dsp plugin, and internal filters. The most outstanding feature is that the player has the full control of filter connections to prevent a media playback from being messed. KMPlayer handles a wide range of subtitles and allows you to capture audio, video, and screenshots in many ways. The player provides both internal and external filters with a fully controlled environment in terms of connections to other splitters, decoders, audio/video transform filters and renderers without grappling with the DirectShow merit system.Internal filters are not registered to userΓÇÖs system to keep it from being messed up with system filters.
+
+The KMPlayer includes almost all the essential decoders required for media playback. Furthermore, to get beyond the limitation of internal decoders, the external ones such as commercial h.264 decoders or cyberlink/intervideo audio decoders can be specified, so that KMP works optimally by the usersΓÇÖ own customization. Even though the KMP is based upon directshow structure, it supports Winamp, Realmedia and Quicktime by the internal logic. Thus, it is possible to specify where to try to connect firstly the media in preferences.
+
+The player can set multifarious audio and video effects, slow down or increase playback speed with regular tone, select parts of a video as favorites, do an exceptionally powerful A-B repeat, remap the keys of remote interface for HTPC including overlay screen controls, change a skin dynamically depending on a media type playing, and many more. It is completely customizable thanks to a wide selection of skins and color schemes, and the configuration options are extremely extensive.
+
+KMPlayer developed by a South Korean engineer and is well known for stable engine and various features and used by millions of users every day. In order to develop the KMPlayer to the next level to accommodate growing needs from all over the world, Pandora TV, the largest video streaming company in Korea has acquired the technology including the source code and core engine for the KMPlayer from the original developer, Kang Yong-Huee on August, 2007.
+
+Features:
+KMP has required codecs built-in.
+ΓÇó Enjoy medias without installing codecs separately.
+ΓÇó KMP supports both built-in and 3rd party codecs.
+ΓÇó KMPΓÇÖs built-in codec is faster and reliable because it process internally.
+ΓÇó The current built-in codec supports all ffdshow codecs and also codecs that ffdshow doesnΓÇÖt support such as MPEG1, 2.
+ΓÇó Features audio codecs (AC3, MPEG1, 2, AAC, WMA 7, 8 etc.).
+ΓÇó Matrix/normalizer options through built-in voice codec.
+ΓÇó Through KMPΓÇÖs built-in codecs, you can enjoy all major media formats.
+ΓÇó KMP additionally supports 3rd party codecs for users that doesnΓÇÖt use the built-in codec and also doesnΓÇÖt install the codecs on the computer like other codecs do. Most public codec packs+players forces to install the codec on your computer, while KMP does not. This means that installing KMP will not affect your computer at all.
+
+Correction of corrupted files
+ΓÇó AVI format originally have problems when trying to view corrupted files.
+ΓÇó KMP therefore supports various methods to play AVI files. First, KMP utilizes the ΓÇÿAVI SplitterΓÇÖ. Minor corrupted AVI files can be viewed through previous versions of AVI Splitter.
+ΓÇó If it still doesnΓÇÖt play, KMP will utilize the ΓÇÿAVI Source FilterΓÇÖ for playback. The built-in ΓÇÿAVI Source FilterΓÇÖ analyses AVI files and plays by skipping bad frames.
+ΓÇó If it still doesnΓÇÖt play through the above methods, it will utilize the RealMedia engine to play the corrupted AVI files.
+
+Various File Format Support & Hardware Support
+ΓÇó KMP is based on DirectShow so it supports almost all Windows Media formats.
+ΓÇó KMP also supports Winamp, RealMedia, QuickTime, Flash(SWF) through KMPΓÇÖs ground-up technology.
+ΓÇó KMP supports the most media formats compared to all worldwide media players.
+ΓÇó KMP supports DirectShowΓÇÖs extension WDM (TVs/cameras) and DVDs..
+
+Various Options
+ΓÇó Various ratios supported (4:3, 16:9. 2.35:1, 1.85:1 etc.)
+ΓÇó Playback speed options.
+ΓÇó Various subtitle options.
+ΓÇó Standard Video Setup: Soften/Sharpen/Blend Color/Reverse Input/Reverse
+ΓÇó Advanced Video Setup: Remove Afterimage/Remove 3D Noise/Remove Noise in Phases/Add Noise/Fast Forward Mode etc.
+ΓÇó Manage still images, video captures, filters etc.
+ΓÇó Flash format supported (FLV, SWF).
+ΓÇó Watch Live URL broadcasts (VOD, MMS).
+
+Language: 25 languages supported (Albanian, Arabic, Belarusian, Bosanski, Brazilian, Chinese, Czech, Dutch, English, French, German, Hebrew, Hungarian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnam)
+
+
+Changes in KMPlayer 3.6:
+
+ - Added Instant View.
+ - Fixed Denial Of Service PoC(PlayList M3U) ΓÇô Provided by: Jigsaw (Abdelmorite), KISA.
+ - Modified default use of Internal Splitter(AVI) for streaming (http, https, ftp).
+ - Fixed TS source filter error.
+ - Supports FTP server(UTF-8).
+ - Added https streaming function.
+ - Added Subtitle resync function. (Ctrl+Alt+[, Ctrl+Alt+])
+ - Improved seek speed of MKV, MP4, FLV
+
+
+enjoy and seed,my friends.
+
+Have a very nice day
+
+kind regards

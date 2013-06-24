@@ -1,0 +1,55 @@
+General
+
+Format                         : AVI
+Format/Info                    : Audio Video Interleave
+Format profile                 : OpenDML
+File size                      : 4.58 GiB
+Duration                       : 1h 46mn
+Overall bit rate               : 6 155 Kbps
+Writing application            : Lavf52.84.0
+
+Video
+ID                             : 0
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Baseline@L3.1
+Format settings, CABAC         : No
+Format settings, ReFrames      : 2 frames
+Format settings, GOP           : M=1, N=13
+Codec ID                       : H264
+Duration                       : 1h 46mn
+Bit rate                       : 6 000 Kbps
+Width                          : 852 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 30.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.489
+Stream size                    : 4.46 GiB (97%)
+Writing library                : x264 core 110
+
+
+Audio
+ID                             : 1
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : 2000
+Duration                       : 1h 46mn
+Bit rate mode                  : Constant
+Bit rate                       : 160 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 122 MiB (3%)
+Alignment                      : Aligned on interleaves
+Interleave, duration           : 32 ms (0.96 video frame)
+Interleave, preload duration   : 32 ms
+

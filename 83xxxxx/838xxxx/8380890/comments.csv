@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,thfry,2013-04-17T11:14Z,"hvorfor kører lyd ikke synkron , med billede ?"
+[T],Realuploads,2013-04-17T11:32Z,"Tjekker lige
+
+Realuploads"
+[T],Realuploads,2013-04-17T11:40Z,"Har lige ""extract files"" og gennemset filmen med VLC og den kører ""sync"" her hos mig.
+
+Men hvis du oplever delay, så brug ""mkvmerge GUI"", her kan du ændre tidspunktet lyd / billede.
+
++ for senere og - for tidligere. 1 sec svarer til 1000 ms. Så prøv dig frem.
+
+
+Realuploads
+"
+,thfry,2013-04-17T11:59Z,"ok tak . det er mit samsung all share program der er galt med,-ja den køre udmærket på vlc"

@@ -1,0 +1,99 @@
+Unique ID : 236422262630019917066352154313827745993 (0xB1DD4581CDB0A8A493D0A9128BBB00C9)
+Complete name : Goodbye.Dragon.Inn.2003.DVDRip.x264-HANDJOB.mkv
+Format : Matroska
+Format version : Version 4 / Version 2
+File size : 826 MiB
+Duration : 1h 21mn
+Overall bit rate : 1 422 Kbps
+Encoded date : UTC 2010-02-22 21:41:31
+Writing application : mkvmerge v5.9.0 ('On The Loose') built on Dec 9 2012 15:37:01
+Writing library : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 9 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 21mn
+Bit rate : 1 106 Kbps
+Width : 702 pixels
+Height : 370 pixels
+Display aspect ratio : 1.686
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.142
+Stream size : 642 MiB (78%)
+Writing library : x264 core 120
+Encoding settings : cabac=1 / ref=9 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=14.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.20
+Language : English
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio #1
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : A_AC3
+Duration : 1h 21mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 111 MiB (13%)
+Title : Main Audio
+Language : Chinese
+
+Audio #2
+ID : 3
+Format : Vorbis
+Format settings, Floor : 1
+Codec ID : A_VORBIS
+Duration : 1h 21mn
+Bit rate mode : Variable
+Bit rate : 96.0 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 55.7 MiB (7%)
+Title : Commentary
+Writing library : aoTuV 20110424 (UTC 2011-04-24)
+Language : Chinese
+Writing application : HandBrake
+
+Text #1
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : English
+
+Text #2
+ID : 5
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Chinese
+
+Menu
+00:00:00.000 : en:Chapter 1
+00:09:13.219 : en:Chapter 2
+00:20:05.537 : en:Chapter 3
+00:27:36.821 : en:Chapter 4
+00:38:08.986 : en:Chapter 5
+00:47:09.526 : en:Chapter 6
+00:55:12.976 : en:Chapter 7
+01:01:02.191 : en:Chapter 8
+01:09:21.023 : en:Chapter 9

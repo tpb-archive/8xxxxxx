@@ -1,0 +1,121 @@
+Author: Curt Frye
+-------
+Level: Advanced | Duration: 4h 38m | Released date: Oct 06, 2011
+------            ---------          --------------
+
+Enhance productivity by automating routine tasks and providing custom functionality not built into Access with a few basics in VBA code. Author Curt Frye introduces object-oriented programming and provides database designers with a foundation in the Access object model and the Visual Basic for Applications (VBA) programming language. The course covers automating tasks with macros, working in the Visual Basic Editor, writing functions, adding logic, reading data, controlling forms, and more.
+
+Topics include:
+===============
+Working with macros and managing macro security settings
+Creating, exporting, and deleting code modules
+Running a VBA procedure
+Debugging VBA code
+Defining variables, constants, and calculations
+Displaying a calculated result in a message box
+Repeating tasks with loops
+Creating conditional statements
+Manipulating database objects, such as forms, tables, and queries
+Adding, editing, and deleting records
+Looking up values in a table
+Requerying and repainting forms
+
+Introduction
+============
+Welcome
+What you should know before watching this course
+Using the exercise files
+
+1. Automating Processes Using Macros
+====================================
+Introducing Access Automation
+Running macros
+Working with data macros
+Running a macro by clicking a command button
+Managing macro security settings
+
+2. Introducing Visual Basic for Applications (VBA)
+==================================================
+Introducing object-oriented programming
+Examining the Access Object Model
+Working in the Visual Basic Editor
+Creating, exporting, and deleting code modules
+Creating a subroutine
+Creating a function
+Adding comments to your code
+Running a VBA procedure
+
+3. Debugging Your VBA Code
+==========================
+Managing errors in VBA code using On Error statements
+Stepping through a subroutine or function
+Setting breakpoints in your code
+Verifying output using temporary message boxes
+Watching a value in a routine
+
+4. Defining Variables, Constants, and Calculations
+==================================================
+Introducing Access data types
+Declaring variables and requiring declaration before use
+Managing variable scope
+Defining constants and static variables
+Creating a calculation using mathematical operators
+Displaying a calculated result in a message box
+Defining an array
+Defining and using an object variable
+
+5. Adding Logic to Your VBA Code
+================================
+Repeating a task using a ForΓÇªNext loop
+Stepping through all items of a collection using a ForΓÇªEach loop
+Repeating a task using a DoΓÇªWhile loop
+Repeating a task using a DoΓÇªUntil loop
+Performing a task when conditions are met using an IfΓÇªThen statement
+Selecting actions using a Case statement
+
+6. Manipulating Database Objects Using DoCmd
+============================================
+Opening a form
+Opening a report
+Opening a table
+Opening a query
+Closing an object
+Closing a database or quitting Access
+Sounding beeps and displaying the hourglass cursor
+Running a menu command
+Printing the active database object
+Displaying or hiding warnings
+
+7. Reading and Manipulating Table Data
+======================================
+Displaying every row in a table (Recordset)
+Adding a new record to a table
+Editing values in an existing table row
+Preserving data integrity using transactions
+Displaying a table property using the TableDef object
+Closing a Recordset
+Deleting the current record
+Finding records within a table
+Moving within a Recordset
+Counting the records in a Recordset
+
+8. Manipulating a Database Using the Application Object
+=======================================================
+Summarizing values in a table field
+Finding the first or last value in a table field
+Looking up a value in a table field
+Create a progress bar using the SysCmd object
+
+9. Controlling Forms and Reports Using the Me Object
+====================================================
+Allowing or disallowing additions, deletions, and edits
+Manipulating form filters
+Setting the caption and background picture
+Requerying and repainting forms
+Discovering a record source
+Setting the ScrollBars property
+Rendering a form or reporting visible or invisible
+
+Conclusion
+==========
+Additional resources and final thoughts

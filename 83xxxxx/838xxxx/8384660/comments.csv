@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,FRID@,2013-04-18T14:22Z,"Great job for windows 8 users =)
+Realy want to see a split like this but windows 7 :P but without update 2823324 =).. If you want a msdn of something to make a job i can give you, have all win 7 and win 8 msdn and little more =)"
+[V],murphy78,2013-04-18T14:55Z,"I could use win7enterprise-N-sp1 if you have the rtm FRID. I'm using wzt's leak, which is almost identical, but I'd still prefer the rtm if you have it. Could use both the x86 and x64 versions..
+
+hit me up with a pm on mdl maybe we can do a private torrent or something if you wouldn't mind...
+
+http://www.mydigitallife.info
+
+Or if you really don't want to do that, you can pm me on suprbay... just lemme know if you do because I hardly ever go onto suprbay."
+,hedns,2013-04-18T20:37Z,"@murphy78 nice release :) tq for your hard jobs, you are my fans heheheh, btw can u release for windows server 2008, windows server 2008 r2 & windows server 2012 ?"
+,POPiO,2013-04-19T10:32Z,its activated aleady or just a trial period?.. 
+[V],murphy78,2013-04-19T16:35Z,"POPiO, how many times do I have to put the word Activated in a torrent for you to believe it's activated?
+
+hedns, after I sort out the win7stuff I'll check it out."
+,CoreyJensen83,2013-04-20T06:44Z,Fuck off you cock gobbler. Are you going to tell on me???
+,yunusp,2013-04-20T20:55Z,thank you 
+,rajat6393,2013-04-22T20:43Z,murphy78 please upload windows 8 pro x86 or x64 pre-activated but just single copy not 8 in one or 16 in one. thank you
+,ShyGuyHC,2013-04-24T07:19Z,Thanks for all these updates to so many versions. Helping techs out everywhere. Much Appreciated.
+,rehceel99,2013-04-28T18:10Z,works 100% :)
+,bux238,2013-04-30T14:47Z,"pls help. im having probem murphy78 with transfering iso to USB flash using winusbmaker. 
+at first it asked for .net4 - i installed it
+after few minutes no go.
+
+then i used rufus v1.3.2.232
+still no go
+
+some details 
+libcdio: fread (): Permission denied
+  Error reading UDF file sourcesen-uscompatctrl.dll.mui
+
+Found drive 'IT1170 USB Flash Disk USB Device'
+Sector Size: 512 bytes
+Cylinders: 1960, TracksPerCylinder: 255, SectorsPerTrack: 63
+Partition type: MBR, NB Partitions: 1
+Disk ID: 0x0023F6C9
+Partition 1:
+  Type: NTFS (0x07)
+  Size: 15.0 GB (16121331712 bytes)
+  Start Sector: 2048, Boot: No, Recognized: Yes
+"
+,bux238,2013-05-01T22:19Z,"UPDATE. sorry about that. it works fine now. it seems my ext hard drive got a lot bad sectors. CRCs 
+
+thank you murphy
+will be seeding..
+CHEERS!"
+,flacomt,2013-05-03T06:17Z,"thanks, got referred by another member, if works appropriately, will be seeding"
+,MissRychelle,2013-05-11T06:33Z,Im sorry for the stupid questions but can i use this to install windows 8 on my laptop that currently has windows7?
+,Mr.CTT,2013-05-11T17:43Z,"MissRychelle
+
+Yes this will work just burn it to a dual layer dvd or extract the iso and copy the files to a bootable flash drive (google how to make a bootable flash drive)  the last and easiest option is to use a portable hard drive just extract the iso and copy the files on the portable hard drive.  make sure the partition is set to active "
+,S.I.C.,2013-05-20T05:39Z,"murphy78,
+
+Thanks for the upload! The built-in KMS is genius.
+
+After researching other Windows 8, I chose your upload because it appeared more trustworthy, and I decided to install ""Windows 8 Enterprise 32-bit KMS-Activated"". I am new to Windows 8, so it took a little effort to familiarize myself with the new environment, but nothing too difficult.
+
+With a fresh OS install I needed all my previous applications reinstalled, which, pretty much, all came from TPB. I started off with Adobe's products (PS, DW, and Flash Pro - from thethingy), and I noticed the OS developed a ""hiccup"".
+
+The hiccup is the PC Settings is no longer accessible, and I cannot find the direct folder location to troubleshoot the problem (since it is a new feature of Windows 8). 
+
+Is this something that you have ran into yet? If so, what would be the solution to get PC Settings accessible again? The system is still activated, and I have disabled all startup applications from running to prevent software conflictions, but ""no bueno"". I did some Googling and was unable to locate a solution...
+
+If anyone else has experienced this problem, any help is appreciated. Thanks in advance..."
+,S.I.C.,2013-05-20T06:30Z,"Disregard above post, I found the problem...
+
+I ""over customized"" the Start Screen and removed some essential programs, along with other start screen shortcut files.
+
+Ran sfc/scannow from cmd prompt and had the missing/corrupted files recovered..."

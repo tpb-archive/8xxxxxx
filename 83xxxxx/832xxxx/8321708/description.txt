@@ -1,0 +1,52 @@
+
+Name: Outing-Fidanzati.Per.Sbaglio.2013.iTALiAN.MD.TS.XviD-IND.avi
+Date: SAT, 3003 2013 20:08:17 +0100
+Size: 1.33 Go
+
+[ Generic infos ]
+
+Duration: 01:42:37 (6157.408 s)
+Container: matroska
+Production date: Thu, 01 Jan 1970 01:00:01 +0100
+Total tracks: 1
+Track nr. 1: video (V_MPEG4/ISO/AVC) {ita}
+
+Muxing library: libebml v1.3.0 + libmatroska v1.4.0
+Writing application: mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+
+[ Relevant data ]
+
+Resolution: 1920 x 1080
+Width: multiple of 32
+Height: multiple of 8
+Average DRF: 6.063299
+Standard deviation: 1.351368
+Std. dev. weighted mean: 1.168343
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 1080
+Frame aspect ratio: 16:9 = 1.777778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.777778
+Framerate: 24.000002 fps
+Stream size: 8,845,902,415 bytes (8436.109939 MiB)
+Duration (bs): 01:42:37 (6157.291125 s)
+Bitrate (bs): 11493.239135 kbps
+Qf: 0.230944
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 492,592,640 bytes (469.772949 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 192,419
+Duration (bs): 01:42:37 (6157.408 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 640 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+[ Video bitstream ]

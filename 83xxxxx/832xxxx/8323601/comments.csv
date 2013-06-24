@@ -1,0 +1,169 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2013-03-31T17:00Z,"Now some people are still having problems in the DLC for bioshock Infinite, this will sure get their problem solved, just read and follow and yes DLC is all yours!"
+[V],Gh0stNet,2013-03-31T17:11Z,this dlc is using Reloaded emu so Hero u must have added in the info to move there save to the correct location SO now people will be complaining about there saves 
+,futhermukker,2013-03-31T17:37Z,"I don't know how it happened, but after installing your DLC Pack, my game is now in Russian! Is there anyway to fix this?"
+,zayan1992,2013-03-31T17:45Z,I have a crash in soldier's field level before opening the gate. plz help
+,futhermukker,2013-03-31T17:51Z,"For some reason my previous comments is gone. I figured out the Russian language problem. I simply edited the .ini file to English. :)
+
+But like Gh0stNet said in their comment, Saves are gone and had to start over. Not even sure if it will save anymore. Got to go to Church, being Easter and all. Will check on that when I get back home. :(
+
+man I was pretty far along too, bummer."
+[V],Gh0stNet,2013-03-31T18:14Z,"FLT save location:-
+C:UsersyourusernameAppDataLocalFLTSteam8870
+
+Reloaded save location:-
+C:ProgramDataRELOADEDRLD!8870
+
+so move your saves and play with your previous saves ;p"
+,brianxxx,2013-03-31T18:35Z,THANKS!!!!!!! I bought my game retail and it didn't have any DLC or extra goodies...
+,fuckingviruses,2013-03-31T19:04Z,"@futhermukker
+how exactly did you change the language i cant figure it out?? :)"
+,fuckingviruses,2013-03-31T19:06Z,"@futhermukker 
+how exactly did you change the language,i cant figure it out?? :)"
+,NikolaTesla1,2013-03-31T19:51Z,How to insert this dlc widout losing my saved game?
+,kookoo_gaagaa_63,2013-03-31T20:02Z,I copied the two folders into my main game folder but I didn't see any dlc at the blue ribbon rest. ?? Any idea why??
+,Remiv,2013-03-31T20:29Z,"Okay, its not letting me save at all, is there a way I can change were it searches for save files back to the original folder?"
+,brianxxx,2013-03-31T20:38Z,"HOW TO - 
+OK...I have retail from a store and I added this so this SHOULD work for everyone but YMMV.
+
+First - if you have Russian and want English - go into the Binaries/Win32 folder of this download then edit the steam_rld.ini file. Use notepad or similar to open it then change the line that says Language=russian to english.
+
+Second - your old saves are still fine! For now, just start a new game, let the couple drop you off at the light house again then quit out. There will now be a directory custom just for this download. It is  C:ProgramDataRELOADEDTirael4ik8870. Get your old saves and copy them inside the 8870 folder into the folder called STORAGE. 
+
+I only copied over the SaveData folder with my game saves in it and my profile.bin file. All is working well for me. Again, I have the retail game, but this should all be the same for you."
+,Remiv,2013-03-31T20:45Z,"okay I fixed my previous comment. I had to search for 8870. then copy and paste the save files from my steam 8870 to the 8870 that appears with the new DLCs. anyway now I have a new delimia, my Birds Eye (the only DLC I was lacking in the first place) does not appear."
+,lesa333,2013-03-31T21:06Z,"@HeroMaster
+Ok i solved my language problem,and lost my saves but i dont care about that,
+but in my first playtrough (of also yours torrent Bioshock Infinite DLC RePack MULTi2-SEYTER) i had  The Early Songbird pack but not the Industrial Revolution pack for some reason
+I downloaded this DLC just to see these new items in my second playtrough but now i dont even have The Early Songbird pack anymore i dont get anything at blue ribbon.
+Can you help out please? "
+,rkefreddyk2011,2013-03-31T22:09Z,"I copied the content of this torrent ( DLC & Binaries) into my game directory  ...BioShock Infinite but I didn't see any singe that the DLCs were installed the I wasn't able to click to the Dowloadable content in the main menu of the game?
+
+how I should install these DLCs?
+
+Thnaks  "
+,Remiv,2013-03-31T22:13Z,"Oh I forgot to mention, I bought the game retail, but activated it on steam. This would be so much easier if I could figure out how to just friggin generate a code for the Bird's Eye >."
+,voodood23,2013-03-31T23:04Z,DLC doesn't seem to work. Is grayed out in the main menu
+,futhermukker,2013-03-31T23:37Z,"@ fuckingviruses
+
+I went into the install directory and opened up stm_rld ini file in a test editor and at the bottom it  has a language option. I changed ""russian"" to ""english"" minus the quotes.
+
+Hope this helps.
+
+Now If I can only figure out the save game issue. Get back to reading replies."
+,iwilleatu,2013-03-31T23:52Z,"I used the 15gb FLT DL with the three disc folders that you had to unzip in each folder.......I've been playing the game just fine and I got the whole save thing, but why don't the DLC's work? the DLC is greyed out in the menu, I even went back in the chapter menu and went to Blue Ribbon (because I read above that's where they are) but no luck........why don't they work or did I do something wrong? I dropped these folders into my game directory for Bioshock Infinite........help please, Thanks in advance :)"
+,iwilleatu,2013-03-31T23:54Z,"not sure if my comment went through because of popup blocker......but I did everything I was supposed to do and even went back to Blue Ribbon but no luck.........did I do something wrong or di I have the wrong Bioshock DL? I have the FLT 15gb DL with the three disc folders that need to be unzipped, thanks in advance :)"
+,vagner995,2013-04-01T01:16Z,"Place a better installation guide, the DLCs didn't work for me at all XD"
+,GObonzo,2013-04-01T04:23Z,what the hell is the deal with these control issues about taking over our save location with the cracked games. why can't these ***s just leave them in default location? gives you all some kind of satisfaction knowing you've created some odd location on someone's machine and voided most player's time they may've already put in? a least make it plain to see for the noobs who dont know where to look or add the details in the descriptions. 
+,void70,2013-04-01T12:36Z,can you please clarify WHERE to place these files for. thanks so much.
+,void70,2013-04-01T13:35Z,"hiya, can you please describe the typical file path for: ""the folder with the distribution of the game folder"". thank you so much."
+,GodricPL,2013-04-01T16:37Z,"HeroMaster you upload this, so type installation steps  for this DLC. Folder Binaries is obvious but where i must copy folder DLC ?  plz help"
+,lesa333,2013-04-01T16:48Z,"''Installation Steps:
+Copy the contents of the folder with the distribution of the game folder.''
+I understood this like going to the place where you installed the game(logical) example C:/program files/bioshock infinite/ or like with me(with the torrent Bioshock Infinite DLC RePack MULTi2-SEYTER defult installation directory) C:/games/bioshock infinite
+there you will find two files like in this torrent Binares and DLC so (again logical) you should move the files there but that doesnt do anything in fact it only removed my Early Songbird pack
+in other words I dont know how the fuck this should work..."
+,Cerebral222,2013-04-01T17:19Z,"It seems that ANY DLC won't work with cracked versions. My advice is, back up your current files before adding & replacing them, but better yet, don't bother with DLC, if you really want that, then you might need to buy the game, but the game is good without the extras, so save yourself the headaches & just play the game, I'm loving it so far, as I'm sure everyone else is."
+,s1raz1,2013-04-01T17:38Z,"The reason why it doesnt work its because the DLCs ID on the steam_rld.ini included are mixed up.
+If u have Seyter repack, dont change the way the 2 dlc id are on the file( original file from the seyter iso). 
+DLC001=220140
+DLC002=214933
+Those 2 are the original seyter number id from Steam_rld.ini in case u changed them.
+Am still doing trial and error, since there is 10 more dlcs id to test. If i get them all right ill post the right id numbers."
+,Camci,2013-04-01T18:11Z,"I changed the DLC0001 and DLC0002 but it didnt do anything, its still greyed out in the start menu."
+,lesa333,2013-04-01T18:19Z,"@s1raz1
+Oh now i get it thanks man :) "
+,gplogz123,2013-04-01T19:33Z,"guys, this crack works. I'm using FLT's copy I just made it work by:
+
+1. copy the DLC folder to where bioshock is installed
+2. copy the binaries folder (.exe is optional i think)
+3. remove from the dlc folder birdseye pack and upgrade pack (they cause internal error)
+4. copy your save files from flt directory to reloaded directory
+5. play
+
+if it doesn't work restart your pc. 
+
+I'm currently testing if FLT's crack(.exe) can be used and if the two dlc's mentioned above really doesn't make all dlc's work"
+,kookoo_gaagaa_63,2013-04-01T19:37Z,I gave up on adding the dlc and you know what ? I'm actually enjoying playing the game without being overpowered!!I would recommend to all who wanna play the game to forget about the dlc and start the game on hard mode as medium is just too easy IMO.
+,gplogz123,2013-04-01T19:37Z,"i mean't this dlc pack works!
+
+also, play the game! load your save files. the DLC files doesn't make the downloadable content option in the menu selectable.
+
+@s1raz1 I also went down the route you are in now and I gave up hahaha!"
+,Camci,2013-04-01T19:38Z,"@gplogz123
+
+I did what you wrote but the downloaded content in the start meny is still greyed out, is it supose to be like that?"
+,Camci,2013-04-01T19:39Z,"@gplogz123
+
+Right OK. Where in game can I acess the DLCs then?"
+,gplogz123,2013-04-01T20:22Z,"Update: 
+1. Upgrade pack is the cause of dlc's not functioning correctly. Delete it from the DLC folder
+
+2. any bioshockinfinite.exe from cracks can be used
+
+3. use the steam_api.dll used in this dlc pack
+
+@Camci: when you have installed the dlc correctly, the game will prompt you at once that the dlc's are available AFTER loading your game. The dialogues will say if you carry the items or if you have to return to a certain place."
+,lesa333,2013-04-01T20:31Z,"@Camci
+at blue ribbon "
+,theresdividnglines,2013-04-01T20:34Z,"To make DLC work with FLT release (the one I downloaded) I did a few things...
+
+1. Searched ""bioshock dlc"" on kick-ass-torrents and downloaded the one called ""BioShock Infinite DLC Pack P2P"" (and was only 5.16 MB).
+
+2. Extracted the 7zip file and replaced the files in my BioShock Infinite directory (there's also a .zip file in the DLC torrent I downloaded but I think it's the exact same files, just in a different compression format... so ignore it).
+
+3. Start up game- it will ask about brightness, whatever, whatever, start a new game (because saves are gone). Then exit.
+
+4. Found my saves (FLT version) here -> C:Users-yourusername-AppData-Local-FLT-Steam-8870-remote and copied them to the new save folder C:ProgramData-RELOADED-RELOADED-8870-storage (which was created when I started a new game a few moments ago).
+
+5. Start up BioShock- settings and saves are back to normal but ""DLC"" is still greyed out. That's normal. Continue you're game. Right when your game loads you should get a bunch of prompts (if you're far enough into the game I think) that tells you what DLC you now have. "
+,lesa333,2013-04-01T20:50Z,"if you are missing your saves go to Steam_rld.ini and change the user name from Tirael4ik to what ever it was before for me it was SEYTER 
+that is why you lose your save and also change russian to english :)"
+,iwilleatu,2013-04-01T21:46Z,"YES!!!!! That worked!!!!! just remove the upgrade pack, you shouldn't have any problems........the only thing is is you have to forfeit the progress you've done past the rooftops if you want the stuff out of Blue Ribbon, other than that it works lovely :D Thanks everyone who took the time to get this working for us, much love and appreciation :D"
+,Nachorz,2013-04-01T22:16Z,"Works very nicely, I just used 3DM's crack on top of the FLT release(Rather R.G. Game's release which uses FLT's release, just compressed and removed other languages) and they all unlocked throughout the game. 
+
+You get the first message set on the intro about the sniper, shotgun and golden weapons. You get the second message set on The Blue Ribbon, and you'll get one final message set when you pick up a lockpick for the first time. "
+,Camci,2013-04-01T22:27Z,"@theresdividnglines
+
+omg thank you it worked"
+,s1raz1,2013-04-02T01:33Z,"If i delete the upgrade folder i get the notice about the shotgun and golden pistol/machine gun, but no notice about the sniper rifle (which is my main reason)
+What am  i doing wrong."
+,s1raz1,2013-04-04T19:29Z,"Ok, i made it work , u need like some people said the 3dm crack. 
+This crack will change ur save location
+to C:Userss1raz1AppDataLocalSKIDROW8870Storage just copy ur save to the save folder here and u have ur progesion. Some bonuses require  new playtrough and others are retroactive."
+,happyfarm,2013-04-04T21:54Z,"@s1raz1: Turns out the ""steam_rld"" file doesn't actually do anything. I tried all sorts of different combinations of DLCIDs whith absolutely no changes. Finally, I just deleted steam_rld completely and, as I suspected, it had absolutely zero effect on the DLC packs.
+
+I did, however, notice a pattern in how the game implements the DLC packs. First, you can disable a specific DLC pack by removing the ""+"" from the ""dlcpack""_XEngine file. For example, to disable the comstock shotgun, open ChinaBroom_XEngine and remove the ""+"" at the beginning of the line.
+
+That being said, if there are any DLC packs in the DLC folder at all, the game automatically forces one pack to be active at all times, regardless of whether the ""+"" has been removed. I wasn't able to determine how the game selects with pack to force always on, but by identifying which pack it was forcing on and deleting the corresponding folder, the game will move to the next available pack to force enable. (I think the order with which it selects is reverse alphabetical, but I'm not certain).
+
+TL;DR: If you only want the Comstock sniper rifle and Comstock shotgun but none of the other dlc packs, simply delete all the folders in the DLC folder except ""BirdsEye"" and ""ChinaBroom"".
+
+You can choose any combination of DLC packs, but keep in mind the pack that ranks last alphabetically will always be forced on by the game, regardless of changes to the _XEngine files. So, make sure to delete the packs you don't want."
+,Remiv,2013-04-05T02:31Z,"@happyfarm 
+
+Okay, you seem to know yer shit, quick question. I purchased everything in Bioshock I have legitly. I preordered from Gamestop and activated through steam. I have all the DLCs + China Broom. All I wanted to pirate is the Bird's Eye. Currently, the Bird's Eye is the ONLy dlc I cannot get to work. Any idea on a fix that wont remove my other DLCs?"
+,Remiv,2013-04-05T06:04Z,"Okay, update ya'll I fixed it by dling the 3dm crack, I finally have comstock's rifle! Yay! anyway, problem is. it seems there is a conflict between the comstock skin and the default one. depending on the lighting, my skin looks like comstocks, the default, or somewhere inbetween with the dlc skin fading in and out."
+,tinylittle123,2013-04-05T06:58Z,ok i just cant seem to get upgrade pack to work and i have the flt version of the game btw
+,monckey4,2013-04-05T08:45Z,"I got the Steam release and this has removed the ability to get achievements. I haven't messed around with it yet because I don't want to lose my save, but just fyi for anyone else"
+,Jintek55,2013-04-06T06:36Z,"Any way to get the Upgrade Pack and Sniper Rifle, Shotgun DLC working on a legit Steam game?  I really want these gears and weapons and would like to know if it's possible to unlock them on my Steam game?"
+,GObonzo,2013-04-06T17:17Z,
+,evildicks,2013-04-07T14:08Z,"Something new to try for ALL the DLCs..
+
+-Copy DLC folder
+
+-Use the steam crack with the following files: steam_api.dll (116kb), steamclient.dll (338kb), Unleashed.ini. (I used FLT main exe)
+
+-Edit ..BioShock InfiniteDLCChinaBroomChinaBroom__XEngine.ini in notepad so it looks like this:
+[XCore.XGameEngine]
++DLCBundleData=(DLCName=""ChinaBroom"",DLCDirName=""ChinaBroom"",UniqueDLCID=4,SteamAppID=214935)
++DLCBundleData=(DLCName=""BirdsEye"",DLCDirName=""BirdsEye"",UniqueDLCID=3,SteamAppID=214939)
++DLCBundleData=(DLCName=""UpgradePack"",DLCDirName=""UpgradePack"",UniqueDLCID=2,SteamAppID=214932)
+
+-Start game! Everything seems to work, for me at least."
+,Magotchi,2013-04-10T01:20Z,"I've made a new package with all 5 DLCs working, with the Unleashed crack and ChinaBroom ini tweak:
+http://thepiratebay.sx/torrent/8358661"
+,Twinmin,2013-04-10T17:37Z,"Try Magotchi's package(above). http://thepiratebay.sx/torrent/8358661   Works for me. 
+Win 7 x64"
+,Magotchi,2013-04-16T02:02Z,"I updated my package to 1.1.21.26939 (merged the RELOADED package with the Steam crack files from my 1.0 package):
+http://thepiratebay.sx/torrent/8376984"

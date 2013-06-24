@@ -1,0 +1,57 @@
+screens;
+ 
+http://baypic.net/img-5175864fd8a18.html 
+ 
+http://baypic.net/img-517586534084e.html 
+ 
+http://baypic.net/img-517586568fcda.html 
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 296 MiB
+Duration                                 : 6mn 29s
+Overall bit rate                         : 6 377 Kbps
+Writing application                      : Lavf54.3.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 6mn 29s
+Bit rate                                 : 6 000 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.097
+Stream size                              : 275 MiB (93%)
+Writing library                          : x264 core 120 r2164 da19765
+Tagged date                              : UTC 2013-04-03 18:53:38
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 6mn 29s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 8.92 MiB (3%)
+Tagged date                              : UTC 2013-04-03 18:53:38

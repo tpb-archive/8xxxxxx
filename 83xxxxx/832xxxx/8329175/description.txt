@@ -1,0 +1,76 @@
+Official Web Site:  http://www.alfredapp.com
+
+License file courtesy of NOY from a earlier release
+
+The application was pre-cracked by Scofield93 using Team NOY's earlier crack method. It appears to be working OK and the Power Pack was unlocked when I tested it.
+
+* Instructions:
+
+* To unlock the Power Pack offline, copy the supplied license.plist to 
+  /Users/yourname/Library/Application Support/Alfred 2/
+
+* Note for some users you may find the name of the folder as Alfred v2
+   instead.
+
+Alfred is an award-winning productivity application for OS X. Alfred saves you time when you search for files online or on your Mac. Be more productive with hotkeys, keywords, and file actions at your fingertips.
+
+Loads of app-launching, file-searching goodness - free for you to download and use with no strings attached. Alfred is the ultimate productivity tool for your Mac. Get it and see for yourself.
+
+WHAT'S NEW:
+
+* Improved app discovery and caching allowing for apps such as
+   iPhone Simulator to be found if folder added to search scope
+
+* Improved 'Browse in Alfred' workflow action, now allowing for
+   more control over which folder is browsed
+
+* iTunes keywords now available in Alfred's default results, if enabled
+   in Alfred's iTunes &gt; Keywords preferences
+
+* Flatten app cache search string for more reliable internationalised app 
+  searching such as Russian
+
+* Fully resolve symlinks in Alfred.alfredpreferences path which
+   prevented preferences not being saving in certain scenarios
+
+* Add error reporting to Alfred's preferences when a preference can't be
+   saved for better user feedback
+
+* Only enable the clipboard merge preferences if Alfred's clipboard 
+  history is enabled to prevent confusion
+
+* Make {query} work in the script filter placeholder fields as they do in 
+  keyword / custom search fields for consistency
+
+* Add selected theme to the 'not synced' info text in advanced prefs 
+  (allows for different theme per Mac)
+
+* Search by phonetic names in the contacts searcher for better internationalised support
+
+* Don't show the 'no update data available' warning on a background 
+  auto-update check
+
+* Clean up unnecessary data in the app support folder when it is no 
+  longer needed
+
+* Remove lightening bolt text from iTunes prefs as this is no longer in
+   v2
+
+* Clean up previous main results when switching from a typed query to 
+  a ' query in a single shot
+
+* Make keyword optional when saving a snippet, as it's not really
+   needed (as per v1)
+
+* Better main app icon without aliasing at certain icon sizes
+
+* Escape $ in the copy to / move to actions
+
+* Escape ()[] in 'Open Terminal Here' action
+
+System Requirements:
+
+Intel Mac, Mac OS X.6 or later
+Processor type(s) & speed: 64 Bit CPU
+
+---- PLEASE SEED ---

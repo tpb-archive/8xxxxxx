@@ -1,0 +1,11 @@
+Type: Video
+Codec: MPEG-4 Video (DX50)
+Resolution: 800x452
+Frame rate: 29.970000
+Decoded format: Planar 4:2:0 YUV
+
+Type: Audio
+Codec: MPEG Audio layer 1/2/3 (mpga)
+Channels: Stereo
+Sample rate: 44100 Hz
+Bitrate: 128 kb/s

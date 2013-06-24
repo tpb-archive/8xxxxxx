@@ -1,0 +1,67 @@
+**************************************************************
+* Microsoft Office Professional Plus SP1 2010 Volume Channel *
+**************************************************************
+
+murphy78 presents Microsoft Office ProPlus SP1 VL 2010 Apr2013
+Contains all KB files with msp patches to bring current to
+the Apr9-2013 security-patch date.
+
+MSDN SOURCE:
+en_office_professional_plus_2010_with_sp1_x86_x64_dvd_730330.iso
+
+Release File:
+Office_ProPlus_2010_SP1_VL_64Bit_En-US-Apr2013_730330.iso
+Size: 1.70GiB
+CRC32: 99D77168
+MD5: A320D703E6A656749AA9B0AAA1C4865A
+SHA-1: 6BE02D0AE9D18043C1315D0EF19988A3FA4A32C0
+
+First I converted the source from Retail to VL because you are
+NEVER going to activate any Retail version without purchasing.
+Then I added all the big MSP files into the updates folder.
+The updates folder for the source already had sp1 msp files,
+so I just needed to add ones for post-sp1 to satisfy MS Update.
+
+I split the source into 2 different versions so people wouldn't
+have to download both of them. They already had autorun info. I
+didn't modify the source other than switch it to VL and add
+updates. A lot of people from what I hear, recommend getting
+32-bit version of Office 2010 because of all the plug-ins.
+You can choose for yourself.
+
+You can't simply toss the exe files from MS Download Center in the
+folder, but you can extract those files with 7-zip and then copy
+the en-US and the none.MSP files to there. You also have to
+add any proofing spanish and french files or Update nags you.
+
+And that's exactly what I've done. These are all of the MSP files
+contained in MOST of the KB exe files available for download. There
+are still a few ones that don't have any MSP file inside, but
+they are very small. The non-MSP kb files total about 1-2megs on
+Microsoft Download. Those, you can do yourself. I cannot
+pre-integrate those without making a fully custom install using
+a bunch of registry settings, task settings, services, etc.
+Basically, just not gonna happen; would be a mistake to even try.
+
+MSP files in Updates Folder:
+clientshared32wwsp1-x-none.msp, clientsharedmuisp1-en-us.msp,
+csi-x-none.msp, excel-x-none.msp, filterpack-x-none.msp,
+gkall-x-none.msp, graph-x-none.msp, groove-x-none.msp,
+infopath-x-none.msp, ipeditor-x-none.msp, mso-x-none.msp,
+msointl-en-us.msp, msores-x-none.msp, niceclass-x-none.msp,
+oart-x-none.msp, oartconv-x-none.msp, officesuitemuisp1-en-us.msp,
+officesuitewwsp1-x-none.msp, onenote-x-none.msp,
+onenoteintl-en-us.msp, osc-x-none.msp, oscintl-en-us.msp,
+osetup-x-none.msp, outlfltr-x-none.msp, outlook-x-none.msp,
+outlookintl-en-us.msp, powerpoint-x-none.msp, proof-en-us.msp,
+proof-es-es.msp,proofingsp1-en-us.msp, proofsp1-en-us.msp,
+proofsp1-es-es.msp, vbe7-x-none.msp, visio-x-none.msp,
+vviewer-x-none.msp, word-x-none.msp
+
+You can activate using MS Toolkit 2.4.3.
+Click the office button, then activation tab, etc.
+
+You can backup your activation files in MTK.
+
+Enjoy Pirates,
+murphy78-TPB

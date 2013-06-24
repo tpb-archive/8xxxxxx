@@ -1,0 +1,58 @@
+PublicHD - High-Definition Bittorrent Community
+    
+http://publichd.se/
+
+----------------------------------------------------
+
+The.Bank.Job.2008.Hybrid.720p.BluRay.x264-DON [PublicHD]
+ 
+http://www.imdb.com/title/tt0200465
+
+RUNTIME.......: 1:51:40                            
+SIZE..........: 5.7 GB                              
+VIDEO CODEC...: x264, crf, L4.1, dxva                      
+FRAMERATE.....: 23.976 fps                           
+BITRATE.......: Variable ~ 6.3 Mbps (23% of source)                
+RESOLUTION....: 1280x544                            
+AUDIO 1.......: English DD 5.1 @ 640 Kbps - Main Audio
+AUDIO 2.......: English AAC 2.0 @ 70 Kbps (q=0.35) - 
+                Commentary by Director Roger Donaldson
+CHAPTERS......: Included & Named         
+SUBTITLES.....: English (.srt)     
+SOURCE 1......: The Bank Job 2008 1080p GER Blu-ray AVC DTS-HD MA 7.1 (Thank you!)
+SOURCE 2......: The Bank Job 2008 1080p Blu-ray AVC DTS-HD MA 7.1-BanG (Thank you!)
+
+NOTES.........: Encode from superior German source / 1394 (0.8%) frames from source #2 to fix glitches
+
+PROPER........: #1 Glitch in German source between frames 2213,2271 -&gt; fixed
+                #2 Visible dirty line and border on 4 segments in German source -&gt; 
+                   fixed
+                #3 Aftermath now in English instead of German
+
+
+
+
+
+x264frame I:108   Avg QP:14.35  size:110971
+x264frame P:2133  Avg QP:15.83  size: 60491
+x264frame B:7359  Avg QP:17.09  size: 29161
+x264consecutive B-frames:  2.4%  4.0%  8.9% 19.8% 17.4% 36.1%  7.4%  2.0%  2.0%
+x264mb I  I16..4:  6.3% 80.1% 13.6%
+x264mb P  I16..4:  1.1% 25.9%  1.9%  P16..4: 25.8% 23.2% 15.5%  0.8%  0.2%    skip: 5.6%
+x264mb B  I16..4:  0.1%  4.3%  0.3%  B16..8: 36.7% 20.4%  8.0%  direct:11.1%  skip:19.0%  L0:42.4% L1:39.4% BI:18.3%
+x2648x8 transform intra:89.6% inter:57.1%
+x264direct mvs  spatial:99.7% temporal:0.3%
+x264coded y,uvDC,uvAC intra: 95.9% 91.3% 80.6% inter: 50.1% 50.1% 28.0%
+x264i16 v,h,dc,p: 44%  8%  7% 41%
+x264i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10%  9% 12%  9% 12% 12% 12% 11% 13%
+x264i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  9%  8%  4%  9% 16% 15% 14% 11% 13%
+x264i8c dc,h,v,p: 54% 17% 15% 14%
+x264Weighted P-Frames: Y:1.9% UV:0.5%
+x264ref P L0: 46.1% 11.9% 18.1%  6.1%  5.2%  3.2%  3.0%  1.6%  1.5%  1.1%  1.1%  1.0%  0.1%  0.0%
+x264ref B L0: 72.5% 12.4%  5.4%  3.0%  2.0%  1.6%  1.2%  0.8%  0.6%  0.4%  0.2%
+x264ref B L1: 93.4%  6.6%
+x264kb/s:7105.01
+
+encoded 9600 frames, 9.09 fps, 7105.03 kb/s
+
+

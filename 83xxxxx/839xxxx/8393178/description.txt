@@ -1,0 +1,24 @@
+Jack Reacher
+
+Format                           : Matroska
+File size                        : 714 Mb
+Duration                         : 02:10:24	
+Writing application              : HandBrake 0.9.5
+Writing library                  : libmkv 0.6.4.1
+
+        Video
+
+Codec ID                         : V_MPEG4/ISO/AVC
+Width                            : 1280 pixels
+Height                           : 544 pixels
+Display aspect ratio             : 235:1
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+
+        Audio
+Format                           : AC-3
+Codec ID                         : A_AAC
+Bit rate mode                    : Constant
+Bit rate                         : 128Kbs
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R

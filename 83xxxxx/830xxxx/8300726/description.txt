@@ -1,0 +1,111 @@
+This will not fit on a 4.37GiB Single-Layer DVDR
+Use a Dual-Layer DVDR or a USB Flash drive
+
+murphy78 presents Windows 7 AIO 41in1 x64 x86 en-US DaRT8 Mar2013
+This AIO supports Windows Upgrade from previous Windows Versions.
+
+Hotfixes included bring install current to Mar12 patch date
+Internet Exporer 10, Network Drivers and USB3 Support Added!!!
+The USB3 drivers are not intended for VM support.
+
+No Windows 7 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+(Thank anarchist9027 for this AIO addition)
+
+64-bit Sources:
+X17-59465.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59337.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x64_dvd_u_677651.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x64fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENXVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+32-bit Sources:
+X17-59463.iso (Digital River Retail Media Refresh Ult-SP1)
+X17-59335.iso (Digital River Retail Media Refresh Pro-N-SP1)
+en_windows_7_enterprise_with_sp1_x86_dvd_u_677710.iso (MSDN Media Refresh)
+7601.17514.101119-1850_x86fre_enterprisen_en-us_VL_OEM
+_EnterpriseN-GRMCNENVOL_EN_DVD.iso (WZT Enterprise N Media Refresh leak)
+
+Media Refesh versions are SP1 versions with an ascii fix (KB2534111)
+
+Installation Indexes:
+Windows 7 Starter SP1 32-bit / WinLoader / OEMLoader
+Windows 7 Home Basic SP1 32-bit / WinLoader / OEMLoader
+Windows 7 Home Premium SP1 32-bit / WinLoader / OEMLoader
+Windows 7 Professional / N SP1 32-bit / WinLoader / OEMLoader / KMS-SS
+Windows 7 Ultimate SP1 32-bit / WinLoader / OEMLoader
+Windows 7 Enterprise / N SP1 32-bit / KMS-SS
+Windows 7 Home Basic SP1 64-bit / WinLoader / OEMLoader
+Windows 7 Home Premium SP1 64-bit / WinLoader / OEMLoader
+Windows 7 Professional / N SP1 64-bit / WinLoader / OEMLoader / KMS-SS
+Windows 7 Ultimate SP1 64-bit / WinLoader / OEMLoader
+Windows 7 Enterprise / N SP1 64-bit / KMS-SS
+
+Added WinLoader and OEMLoader Indexes on non-N except Enterprise.
+Added KMS-SS Indexes to Pro, Pro N, Enterprise, Enterprise N.
+Default Keys were added with /set-productkey passes for Loader
+indexes and gVLK keys were added to KMS-SS indexes to clear any
+confusion.
+
+Release File:
+Win7SP1-AIO-41in1-en-US-DaRT8-Mar2013.iso
+Size: 6.60GiB
+CRC32: 540871A7
+MD5: BD2ADF21F31A306CCF0901E066BD30D0
+SHA-1: 0D51BEDF0AB54F4C880FE91657516C5959F0F526
+
+Language: en-US (English - United States)
+
+Tools used:
+Josh Cell Softwares AIO Maker 1.3 for sources split Windows Upgrade
+MS Diagnostics and Recovery Toolset 8 (Thanks anarchist9027)
+imagex for image compression, renaming, and export
+dism for MSU KB hotfix integration and mounted file copy
+oscdimg for ISO mastering
+Added Info folder to installs to annoy credit thieves.
+
+DISM KB add-package integrations:
+KB2479943, KB2491683, KB2502285, KB2503665, KB2506212,
+KB2506928-v2, KB2509553, KB2511455, KB2515325, KB2529073,
+KB2532531, KB2536275, KB2536276-v2, KB2541014, KB2544893,
+KB2545698, KB2547666, KB2552343, KB2560656, KB2563227,
+KB2564958, KB2570947, KB2574819, KB2579686, KB2584146,
+KB2585542, KB2592687, KB2604115, KB2618451, KB2619339,
+KB2620704, KB2620712, KB2621440, KB2631813, KB2640148-v2,
+KB2644615, KB2647753-v4, KB2653956, KB2654428, KB2655992,
+KB2656356, KB2656411, KB2659262, KB2660075, KB2660649,
+KB2661254, KB2667402-v2, KB2670838, KB2676562, KB2679255-v2,
+KB2685811, KB2685813, KB2685939, KB2690533, KB2691442,
+KB2698365, KB2699779-v2, KB2705219-v2, KB2709630, KB2709981-v2,
+KB2712808, KB2718704, KB2719857, KB2719985, KB2726535,
+KB2727528, KB2729094-v2, KB2729452, KB2732059-v5, KB2732487-v2,
+KB2732500-v2, KB2736233, KB2736422, KB2739159, KB2742599,
+KB2743555, KB2749655, KB2750841, KB2753842-v2, KB2756921,
+KB2757638, KB2761217, KB2763523, KB2769369, KB2770660,
+KB2773072, KB2778344, KB2779562, KB2785220, KB2786081,
+KB2786400, KB2789645, KB2790113, KB2790655, KB2791765,
+KB2799494, KB2807986, KB982018-v3
+
+x64-Only KB files:
+KB2603229, KB2645640
+
+setupcomplete.cmd phase:
+KB2533552 (online only update)
+dotnetfx45_full_x86_x64 (Adds Net4.0-4.5)
+KB2737083, KB2742613, KB2750147, KB2789648 (Net45 Hotfixes)
+mpas-fe (Defender Updates)
+KB890830 (Recent Malicious software removal tool)
+System will reboot only if Windows Loader is installed.
+
+Added Security Essentials to the ISO. You need to install
+the genuine validation to use it. (KB971033)
+
+(Thanks to CODYQX4 and Daz for their Activators)
+Enjoy Pirates,
+murphy78 - TPB/MDL :)

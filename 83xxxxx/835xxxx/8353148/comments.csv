@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,Segeq,2013-04-08T16:31Z,"Thanks, great upload!
+Någon som vet om det går att ha Office 2010 & Office 2013 på samma dator samtidigt?"
+,NickeNyfiken66,2013-04-08T17:03Z,"Det går inte att ha olika versioner av Office installerade utan att drabbas av detta. Orsaken är att programmen använder samma registerinställningar och delvis samma filer. Varje gång du startar endera versionen måste den konfigureras om för att fungera och vara standardprogram. Det är helt enkelt inte meningen att du ska kunna köra båda samtidigt.
+
+Det finns några utvägar, mer eller mindre komplicerade. Du kan till exempel ha en dubbel operativsystemsinstallation och köra en version i varje eller köra en virtuell dator(Virtualbox eller Virtual PC) med ett annat operativsystem och den andra versionen av Office.
+
+Men enklast är nog att köra dem i varsin sandlåda. Det borde fungera med exempelvis programmet Sandboxie (www.sandboxie.com). Annars har faktiskt Microsoft en egen lösning, även om de inte rekommenderar att man använder den: http://support.microsoft.com/kb/928091."
+,Segeq,2013-04-09T10:28Z,"Tack för bra info. Tänkte mest köra dubbelt under en övergångsperiod för att se om allt fungerar bra.
+Mitt nuvarande 2010 fungerar mycket bra men det är väl bara att avinstallera för att lägga in 2013.
+Som sagt, Tack."
+,Ultrasaurus,2013-04-09T13:07Z,"Om någon vill installera både Office 2013 och Office 2010 måste du använda KMS Server Service från MTK och scriptet i länken för att aktivera. AutoKMS och default activate option i MTK stöder inte mer än en Office installation.
+
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products/page347?p=731096&viewfull=1#post731096
+
+// FRID@"
+,15augusti,2013-04-09T15:54Z,Det går inte att avinstallera Office2010 utan att rester blir kvar. Formatera och installera om datorn är det enda som gäller!

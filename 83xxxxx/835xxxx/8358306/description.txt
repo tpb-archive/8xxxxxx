@@ -1,0 +1,61 @@
+screens;
+ 
+http://baypic.net/img-5164781b7ea3f.html
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 905 MiB
+Duration                                 : 24mn 29s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 167 Kbps
+Encoded date                             : UTC 2013-04-05 17:44:51
+Tagged date                              : UTC 2013-04-05 17:44:51
+Writing application                      : Lavf53.32.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 24mn 29s
+Bit rate                                 : 5 000 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.080
+Stream size                              : 876 MiB (97%)
+Writing library                          : x264 core 120
+
+Language                                 : English
+Encoded date                             : UTC 2013-04-05 17:44:51
+Tagged date                              : UTC 2013-04-05 17:44:51
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 24mn 29s
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 27.8 MiB (3%)
+Language                                 : English
+Encoded date                             : UTC 2013-04-05 17:44:51
+Tagged date                              : UTC 2013-04-05 17:44:51

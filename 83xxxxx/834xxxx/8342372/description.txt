@@ -1,0 +1,3 @@
+Zend Studio is a commercial, proprietary integrated development environment (IDE) for PHP developed by Zend Technologies, based on the PHP Development Tools (PDT) plugin for the Eclipse platform (the PDT project is led by Zend).
+Zend Studio is tightly integrated with Zend Server, Zend's pre-integrated, tested PHP application stack. The integration enables developers to quickly set up a complete PHP environment and speed up root cause analysis[1] of problems detected in testing or in the production environment.
+Zend Studio is also integrated with Zend Framework. For example, it provides an MVC view for easy code navigation and integration with Zend_Tool for automated code generation.[2]

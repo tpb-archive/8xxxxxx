@@ -1,0 +1,18 @@
+MC Open Launcher by Sparamoule
+
+
+Unzip in the directory you want, then add a shortcut on your desktop. Have fun!
+
+
+This launcher is a version of the 13w16a launcher that came out on 04.18.2013, but allows non-premium users to download
+the latest version of minecraft and play the game with the username they want.
+
+The original launcher allows you to choose and download the minecraft version you want (from 13w16a snapshot), then play it.
+
+- Enter only the username, no password required
+- Username used in the game (not Player857 or anything else)
+- Detect and download the latest version
+- Skin and premium-only servers are not accessible. (and won't be until the end of times)
+
+
+Made by decompilating the downloaded launcher, then recompiling with minor changes on the ui and authentification system.

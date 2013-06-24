@@ -1,0 +1,78 @@
+*******************************************************************************
+                               KDE  4.10.2 QUANTAL
+*******************************************************************************
+
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: OS x86 x64
+Platform.............: Linux / Unix
+Image Created with...: Remastersys/Dist*
+Burn Tested..........: Yes
+
+YOU CAN ALSO ROLL YOUR OWN FROM THIS BY ADDING STUFF AND LAUNCHING: Remastsersys
+
+*Dist meaning distribution Copy, no customizations.
+
+Exact same setup as Regular Kubuntu, except updated for KDE 4.10.2 Support for LVM encrypted system volumes.
+Live session you can install from, in contrast to my last build.
+Live session auto login, no passwords in contrast to my last build. Crossover Office updated to latest 12.3 version.
+
+Based on Kubuntu 12.10 updated
+
+-------------------------------------------------------------------------------
+                                 Release Notes
+-------------------------------------------------------------------------------
+
+
+3.5.0-23  very stable
+
+KDE upgraded to KDE 4.10.2 works well with current kernel.
+
+
+Included Apps are to name a few are:
+
+Truecrypt 7.1a
+Vmware Workstation 9.0.2
+VMware Player 5.0.2
+CrossOver Linux 12.2
+Virtualbox 4.2.10 plus VirtualBox 4.2.10 Oracle VM VirtualBox Extension Pack.
+LibreOffice (x86_64), version 4.0.2, English (US)
+Wine 1.5.27 plus WineTricks
+more......
+
+3dchess 0.8.1-17
+abs-guide 6.5-10.8-0ubuntu2
+account-plugin-flickr 0.8-0ubuntu2
+account-plugin-google 0.8-0ubuntu2
+accountsservice 0.6.21-6ubuntu5
+acetoneiso 2.3-2
+acl 2.2.51-8ubuntu2
+acpi-support 0.141
+acpid 1:2.0.16-1ubuntu1
+adduser 3.113+nmu1ubuntu1
+aisleriot 1:3.4.1+really3.2.3.2-0ubuntu1
+ajaxterm 0.10-12ubuntu1
+akonadi-backend-mysql 1.9.1-0ubuntu1~ubuntu12.10~ppa10.0git20120712-0ubuntu2
+akonadi-server 1.9.1-0ubuntu1~ubuntu12.10~ppa1
+akregator 4:4.10.2-0ubuntu1~ubuntu12.10~ppa1
+alsa-base 1.0.25+dfsg-0ubuntu3.1
+alsa-utils 1.0.25-3ubuntu2
+amarok 2:2.7.0-0ubuntu2~ubuntu12.10~ppa1
+amarok-common 2:2.7.0-0ubuntu2~ubuntu12.10~ppa1
+amarok-utils 2:2.7.0-0ubuntu2~ubuntu12.10~ppa1
+anacron 2.3-19ubuntu1
+apache2 2.2.22-6ubuntu2.2
+apache2-mpm-worker 2.2.22-6ubuntu2.2
+apache2-utils 2.2.22-6ubuntu2.2
+apache2.2-bin 2.2.22-6ubuntu2.2
+apache2.2-common 2.2.22-6ubuntu2.2
+apg 2.2.3.dfsg.1-2build1
+app-install-data 0.12.10.6
+app-install-data-partner 12.12.10.1
+apparmor 2.8.0-0ubuntu5
+appmenu-gtk 12.10.2-0ubuntu1.3
+appmenu-gtk3 12.10.2-0ubuntu1.3
+appmenu-qt 0.2.6-1ubuntu1
+
+And lots more all latest all security updates, best linux you will try

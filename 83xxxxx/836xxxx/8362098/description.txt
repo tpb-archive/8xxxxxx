@@ -1,0 +1,69 @@
+Official Web Site:  http://boinx.com/fotomagico
+
+Serial courtesy of Special [K] and edited by 1 digit by TOBW for version 4.2.2. And there is also a serial in Serial Box that also might work for additional licenses if needed.
+
+FotoMagico lets you create professional slideshows from your photos and music with just a few, simple mouse clicks. It sports a very clean and intuitive yet powerful user interface. High image quality, fast performance, and user flexibility were some of the design goals for this application.
+
+Create the most spectacular slideshows:
+
+* Scale, move, rotate, zoom or pan around your images to highlight that 
+  part that matters the most.
+
+* Your slides fit together perfectly with the new, gorgeous transitions.
+
+* Provide more meaning with subtle titles here and there.
+
+Perform a breathtaking show:
+
+* Your slideshow uses the best possible resolution of your presentation 
+  device.
+
+* Use large displays, HDTV screens and other high resolution devices.
+
+* Even on a VGA projector, your photos will look better with 
+  FotoMagico.
+
+Your audience will want to take it home:
+
+* Burn DVDs of your slideshow with iDVD or Roxio Toast.
+
+* Put your slideshow on the new iPod.
+
+* Export in almost any QuickTime format.
+
+Your audience will never fall asleep again.
+
+What's New:
+
+* Fixed a big memory leak when changing the selection in the 
+  Storyboard. This memory leaked caused version 4.2.1 to quickly 
+  become unusable.
+
+* When a movie is too short for a long slide, FotoMagico no no longer 
+  automatically changes the slide duration. Instead it visualizes the 
+  problem, displays an alert icon and offers an explanation and solutions 
+  in the popover that appears when clicking on the alert icon.
+
+* The about box is now a regular window with a close box, as opposed 
+  to a modal window that can only be closed by clicking inside the 
+  window.
+
+* The file format has been updated to be more efficient with external 
+  media files in the OS X sandbox environment.
+
+* Quick Save used to be broken after the user canceled closing a 
+  document. It now works again.
+
+* Make sure that the Stage gets redrawn when everything is deselected
+   in the Storyboard.
+
+* Fixed a couple of exceptions that could cause inconsistent states in the 
+  application.
+
+* Various small fixes.
+
+System Requirements:
+
+Intel Mac, OS X.7.4 or later
+
+--- PLEASE SEED ---

@@ -1,0 +1,54 @@
+Storyline
+
+In St. John College, the freshmen and best friends Luke and Roger meet the sexy blond cousins Lilly and Constance in the laundry of their building. They are next-door neighbors, and the experienced girls invite the young men to visit them anytime. Lilly forgets a package of coins in the laundry, and Luke goes to their room to return it. The room is empty, and he sneaks around, when the two girls arrive. Luke hides himself in the wardrobe, and through an opening, he sees Lilly with many tentacles on her breast. Luke tries to convince his friends that the girls are aliens, planning to attack Earth, but nobody believes in him. Meanwhile, some friends of them are found dead, with the internal organs completely frozen. 
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 694 MiB
+Duration                                 : 1h 36mn
+Overall bit rate                         : 1 010 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 36mn
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 36mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

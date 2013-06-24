@@ -1,0 +1,20 @@
+TVble is a new project that combines the simplicity of DLNA enabled media servers (allows you to consume content straight from your smart TV/tablet) with the freedom of online torrent content.
+
+TVble works like this:
+
+-&gt; Browse movie information sourced from themoviedb, rotten tomatoes and TPB.
+-&gt; Select a playlist of movies (for example TOP rental DVDs, house of cards etc)
+-&gt; TVble adds files to the queue and begins to download the first 2% of each file
+-&gt; TVble media server allows DLNA players (smarts TV, media players, tablets etc) to browse the files and start playing a file.
+-&gt; TVble un-pauses the currently playing file and continues to download the rest of the movie - while you watch it
+
+The bottom line is that your selected list of movies is ready to watch straight on your TV, without having to download, wait, connect a TV, or walk to the computer to turn on the volume :-)
+
+TVble combines these three areas to make a great experience:
+* DLNA media server
+* Torrent peer to peer sharing
+* Online movie databases and metadata
+
+This is the first beta version for the software, to update to the latest (and less buggy) version visit our website www.tvble.com
+
+For any comments or suggestions please visit http://support.tvble.com

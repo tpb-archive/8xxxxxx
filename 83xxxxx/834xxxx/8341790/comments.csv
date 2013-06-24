@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,ceezoowe,2013-04-04T23:07Z,"What's the resolution here?  Video information? 480p, 720p, or what?"
+,sonicated909,2013-04-13T19:54Z,"@ceezoowe ""Ask and it will be given to you"" -- Matthew 7:7 
+
+
+Complete name                            : The.Bible.S01.BDRip.XviD-GECKOSThe.Bible.S01E07.BDRip.XviD-GECKOSthe.bible.s01e07.bdrip.xvid-geckos.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 349 MiB
+Duration                                 : 46mn 38s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 046 Kbps
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 1
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 46mn 38s
+Bit rate                                 : 896 Kbps
+Width                                    : 624 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.170
+Stream size                              : 299 MiB (86%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 46mn 38s
+Bit rate mode                            : Variable
+Bit rate                                 : 138 Kbps
+Minimum bit rate                         : 32.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 46.0 MiB (13%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.58 video frame)
+Interleave, preload duration             : 87 ms
+Title                                    : MP3
+Writing library                          : LAME3.99r
+Encoding settings                        : -m j -V 4 -q 0 -lowpass 17.5 --vbr-new -b 32"

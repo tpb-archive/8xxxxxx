@@ -1,0 +1,56 @@
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 817 MiB
+Duration                                 : 1h 14mn
+Overall bit rate                         : 1 544 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 14mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
+Movie Info
+
+Jasin and his lover Caleb battle an army of immortal foes when Demetrius builds up a bloodsucking brood, and declares all-out war. Now, in order to remain together for all eternity, Jasin and Caleb must battle not only Jasin's embittered ex Tara, but an onslaught of vampire boxers as well. ~ Jason Buchanan, Ro
+Action & Adventure, Horror
+
+
+Runtime: 1 Hour 14 Minutes

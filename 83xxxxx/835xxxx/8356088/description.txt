@@ -1,0 +1,7 @@
+After all the delays in our Mageia 3 planning, we're very pleased to be able to announce the beta 4 release.
+
+Packagers and the QA team have worked hard to fix as many bugs as possible. We are now one month from Mageia 3 final release, so your tests - and reports! - are more important than ever.
+
+This beta release comes with nearly all the designs for Mageia 3 integrated - many thanks to Leo who made the background image for Mageia 2 and then worked again on the Mageia 3 design. Our thanks to him for his patience and for his contribution!
+
+We are aware that there is a new issue with the repositories not being added after installing and rebooting. It is a result of a restructuring of the ISOs to better support things like broadcom wifi. It will be fixed for the RC but we thought you have waited long enough! For now, please manually add the medias using Mageia Control Center after you install from a Live ISO.

@@ -1,0 +1,36 @@
+FEATURES
+
+Time Tested
+Registry First Aid, developed by Rose City Software, is one if the first registry repair tools available and with years of fine tuning has evolved into a world class program to keep your computer tuned for high performance. 
+
+Easy and Fast to Use
+We listen to our users... With Registry First Aid, you have an easy to use step by step interface design that has been fine tuned with input from hundreds of thousands of users making it very effortless to use. Speed is essential with our high-performance detection algorithm that quickly identifies missing and invalid references in your Windows registry selecting them for correction or deletion. 
+
+Safe for Beginners
+By flagging problems in the registry with the green, yellow and red safety levels, you know which problems you can easily correct yourself. You will find that the clones such as the ?one click fix? models and others will just plow through the registry and delete many required entries. Don't let that happen to you! 
+
+Thorough
+Experience always improves performance, and Registry First Aid has that with years of experience in detecting and correcting problems. In side by side comparisons, Registry First Aid has always found more problems than the competition. 
+
+Complete Built-in Backup System
+Before running, Registry First Aid will make a Restore Point or backup of your registry. When the registry corrections are made, a complete backup of all changes made is save and you can restore the registry to the way it was before you started as well as individual registry entries in case of a problem. This is another feature not found in many of the new programs on the registry repair scene. 
+
+New in version 9.1.0 
+
++ support of Windows 2008;
+* do not show the help message if automatic scan was started;
+* language files were updated;
+* create restore point only once per day, not in every session run;
++ show total size of registry hives available for Full Backup;
+- bugfix: last full backup date was not loaded and cleared on exit if the program started with parameter "/autoscan";
+- bugfix: incorrect sorting registry hives to defragment by clicking on column caption;
+- bugfix: size of total registry bytes saved from last defragment was not remembered; 
+
+Supported Operating Systems
+
+Windows 8, Windows 7, Vista, XP, 2000, 2003 and 2008 (32-bit and 64-bit)
+
+Languages : English, Français, Magyar, Italiano, Polski, Slovenčina, Slovenščina, Español, Bosanski, Català, Cestina, Dansk, Deutsch, Nederlands, Norsk, Português (Brasil), Português (Portugal), Srpski, Suomi, 한국어, עברית, 日本語, Ελληνικά, Русский, العربية
+
+Homepage :  
+http://www.rosecitysoftware.com/reg1aid/

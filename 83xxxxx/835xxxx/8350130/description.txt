@@ -1,0 +1,44 @@
+Notable fixes/changes in version 12.0 (Build 563)
+*Added support for rendering 24p AVC-Intra 100 Panasonic P2 video to a folder on your computer or to a connected P2 camera.. 
+*Improved performance for decoding XAVC 4K video from Sony F5/F55 cameras. 
+*Added support for exporting event timestretching as velocity when exporting to Final Cut Pro X format. 
+*Added support for exporting event pan and crop settings as motion when exporting to Final Cut Pro X format. Please note that event zooming, cropping, and scaling are exported as separate operations. 
+- To export event zoom, the Event Pan/Crop Maintain aspect ratio control must be set to No, and Stretch to fill frame must be set to Yes. 
+- To export event crop, the Event Pan/Crop Stretch to fill frame control must be set to No. 
+- To export event rotation, the Event Pan/Crop Stretch to fill frame control must be set to Yes. 
+*Added support for importing event pan and crop settings when importing a Final Cut Pro X format. 
+*Timecode for MOV files is now read properly and displayed in Vegas Pro media properties. 
+*Added support for reading and rendering up to 16 channels of audio in SD OP1a MXF files. 
+*Added new rendering templates to the Sony AVC/MVC format: use Internet 1920x1080-30p and Internet 1280x720-30p to render HD video for Internet distribution. 
+*Fixed a bug that could cause a crash when using Tools &gt; Selectively Prerender Video. 
+*Fixed a bug that could cause a crash when browsing in the Vegas Explorer when the Documents library was empty. 
+*Fixed a bug that could prevent Windows Explorer libraries from being displayed in the Vegas Pro Explorer after refreshing the Explorer window. 
+*Fixed a bug that prevented inserting busses, input busses, and assignable effects after opening and closing the Render As window. 
+*Fixed a bug that could cause the application to freeze when loading thumbnail images in the Project Media window. 
+*Fixed a bug that could cause the Video Preview window to display red when choosing Clipboard from the Split-Screen View button's drop-down list. 
+*Fixed a bug that could cause problems drawing audio peaks or saving files when using Open in Sound Forge or Open Copy in Sound Forge. 
+*Fixed a bug that could prevent Vegas Pro from starting when using a non-Administrator user account.
+
+Vegas Pro 12 system requirements
+
+* Microsoft┬« Windows Vista┬« 64-bit SP2, Windows 7 64-bit, or Windows┬« 8 64-bit operating system
+* 2 GHz processor (multicore or multiprocessor CPU recommended for HD or stereoscopic 3D)
+* 500 MB hard-disk space for program installation
+* 4 GB RAM (8 GB recommended)
+* OHCI-compatible IEEE-1394DV card (for DV and HDV capture and print-to-tape)
+* USB 2.0 connection (for importing from AVCHD, XDCAM EX, NXCAM, or DVD camcorders)
+* 512 MB GPU memory
+* Windows-compatible sound card
+* DVD-ROM drive (for installation from a DVD only)
+* Supported CD-recordable drive (for CD burning only)
+* Supported DVD-R/-RW/+R/+RW (for DVD burning only)
+* Supported BD-R/-RE drive (for Blu-ray DiscΓäó burning only)
+* Microsoft .NET Framework 3.51 (included on application disc)
+* Apple┬« QuickTime┬« 7.1.6 or later for reading and writing QuickTime files
+* Internet Connection (for Gracenote MusicID Service)
+* GPU-accelerated video processing and rendering require an OpenCLΓäó-supported NVIDIA┬«, AMD/ATIΓäó, or Intel┬« GPU with 512MB memory or more.
+
+Language : English
+
+Homepage :  
+http://www.sonycreativesoftware.com/vegaspro

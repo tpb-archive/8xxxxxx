@@ -1,0 +1,21 @@
+Tribes Vengeance: X2 ReVengeance edition
+
+
+Contains the X2 Map Pack and some skins. Single player module can be installed with the separated pack.
+
+HOW TO PLAY MULTIPLAYER:
+open [Trives Vengeace Game Directory]Tribes VengeanceContentSystemProfilesPlayerProfile.ini
+Add the lines to the file:
+serverFavorites=(IP="25.35.1.111",Port="7777")
+serverFavorites=(IP="88.102.113.124",Port="7777")
+serverFavorites=(IP="5.104.22.140",Port="7777")
+serverFavorites=(IP="64.27.56.209",Port="7777")
+serverFavorites=(IP="94.224.175.118",Port="7777")
+
+Now in game, click Multiplayer -&gt; Join -&gt; tick "SHOW FAVORITES ONLY"
+then some of the servers above should show up.
+
+You can add any server ip by following the same route.
+
+About the game, see: 
+http://en.wikipedia.org/wiki/Tribes:_Vengeance

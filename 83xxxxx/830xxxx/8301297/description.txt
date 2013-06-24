@@ -1,0 +1,53 @@
+Formato                                  : AVI
+Formato/Info                             : Audio Video Interleave
+Formato del perfil                       : OpenDML
+Tamaño del archivo                       : 1,40GIB
+Duración                                 : 19min.
+Tasa de bits total                       : 10,4Mbps
+Aplicación de codifición                 : Lavf52.93.0
+
+Video
+ID                                       : 0
+Formato                                  : MPEG-4 Visual
+Formato del perfil                       : Simple@L1
+Ajustes del formato, BVOP                : No
+Ajustes del formato, Qpel                : No
+Ajustes del formato, GMC                 : No warppoints
+Ajustes del formato, Matrix              : Default (H.263)
+ID Códec                                 : DIVX
+ID Códec/Info                            : Project Mayo
+ID Códec/Pista                           : DivX 4
+Duración                                 : 19min.
+Tasa de bits                             : 10,2Mbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.463
+Tamaño de pista                          : 1,38GIB (99%)
+Librería de codificación                 : Lavc52.108.0
+
+Audio
+ID                                       : 1
+Formato                                  : MPEG Audio
+Formato de la versión                    : Version 1
+Formato del perfil                       : Layer 3
+Format_Settings_Mode                     : Joint stereo
+Format_Settings_ModeExtension            : MS Stereo
+ID Códec                                 : 55
+ID Códec/Pista                           : MP3
+Duración                                 : 19min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 128Kbps
+Canal(es)                                : 2canales
+Velocidad de muestreo                    : 44,1KHz
+Tamaño de pista                          : 17,7MB (1%)
+Alineación                               : Alineación entrelazado
+Entrelazado, duración                    : 26 ms (0,63fotograma de video)
+Entrelazado, duración de precarga        : 52 ms
+Librería de codificación                 : LAME3.98.4
+

@@ -1,0 +1,113 @@
+INFO
+Titolo originale: The Jewel of the Nile
+Lingua originale: inglese
+Paese di produzione: Stati Uniti d'America
+Anno: 1985
+Durata. 104 min
+Genere: avventura, commedia
+Regia: Lewis Teague
+Soggetto: Diane Thomas
+Casa di produzione: 20th Century Fox
+
+
+
+
+In questo sequel de "All'inseguimento della Pietra Verde", Jack T. Colton e Joan Wilder vivono assieme in un’apparente vita felice.
+Ma in realtà Jack rimpiange di aver lasciato la sua vita avventurosa e Joan ha ormai perso l’ispirazione.
+Tutto cambia quando la nostra protagonista incontra lo sceicco di una piccola nazione mediorientale...
+
+# # #______________________________________________________# # #
+
+In this sequel to "Romancing the Stone" Jack and Joan have their yacht and easy life, but are gradually getting bored with each other and this way of life.
+Joan accepts an invitation to go to some middle eastern country as a guest of a sheik...
+
+[ Info sul file ]
+Nome: Jewel.Of.The.Nile.1985.iTA.ENG.AC3.BDrip.1080p.x264.mkv
+Data: Fri, 29 Mar 2013 10:16:58 +0200
+Dimensione: 9,280,402,324 bytes (8850.481342 MiB)
+
+[ Info generiche ]
+Durata: 01:45:55 (6355.456 s)
+Contenitore: matroska
+Production date: Wed, 27 Mar 2013 15:31:06 +0200
+Totale tracce: 5
+Traccia n. 1: video (V_MPEG4/ISO/AVC) {eng}
+Traccia n. 2: audio (A_AC3) [English AC3 5.1] {eng}
+Traccia n. 3: audio (A_AC3) [Italian AC3 5.1] {ita}
+Traccia n. 4: subtitle (S_TEXT/UTF8) [English] {eng}
+Traccia n. 5: subtitle (S_TEXT/UTF8) [Italian] {ita}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.0 ('Die Wahre Liebe') built on Sep 25 2011 20:33:49
+
+[ Dati rilevanti ]
+Risoluzione: 1920 x 816
+Larghezza: multipla di 32
+Altezza: multipla di 16
+DRF medio: 24.80388
+Deviazione standard: 0.500899
+Media pesata dev. std.: 0.458412
+
+[ Traccia video ]
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1920 x 816
+Frame aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 40:17 = 2.352941 (~2.35:1)
+Framerate: 23.976025 fps
+Dimensione stream: 8,261,643,938 bytes (7878.917635 MiB)
+Durata: 01:45:55 (6355.348797 s)
+Bitrate (bs): 10399.61041 kbps
+Qf: 0.276853
+
+[ Traccia audio nr. 1 ]
+Codec ID: A_AC3
+Freq. campionamento: 48000 Hz
+Canali: 6
+Dimensione stream: 508,436,480 bytes (484.882813 MiB)
+Tipo di bitstream (bs): AC3
+Frames (bs): 198,608
+Durata: 01:45:55 (6355.456 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 640 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): 3 front, 2 rear, 1 LFE
+
+[ Traccia audio nr. 2 ]
+Codec ID: A_AC3
+Freq. campionamento: 48000 Hz
+Canali: 6
+Dimensione stream: 508,436,480 bytes (484.882813 MiB)
+Tipo di bitstream (bs): AC3
+Frames (bs): 198,608
+Durata: 01:45:55 (6355.456 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 640 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): 3 front, 2 rear, 1 LFE
+
+[ Bitstream video ]
+  Profile: High@L4
+  Num ref frames: 4
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Tipo di codifica entropica: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Sì
+Totale frames: 152,376
+Drop/delay frames: 0
+Frames corrotti: 0
+
+[ Analisi DRF ]
+DRF medio: 24.80388
+deviazione standard: 0.500899
+max DRF: 27
+DRF<21:      0 (  0.000 %)
+DRF=21:     78 (  0.051 %)
+DRF=22:    489 (  0.321 %)
+DRF=23:    785 (  0.515 %)
+DRF=24:  30778 ( 20.199 %) ####
+DRF=25: 116144 ( 76.222 %) ###############
+DRF=26:   3961 (  2.599 %) #
+DRF=27:    141 (  0.093 %)
+DRF>27:      0 (  0.000 %)

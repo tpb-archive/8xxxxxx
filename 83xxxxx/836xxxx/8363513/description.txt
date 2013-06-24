@@ -1,0 +1,69 @@
+FIXED SECURITY ISSUES IN LINUX 100% CLEAN 
+-----------------------------------------
+
+Super Easy.  Takes just two clicks to created an awesome boot able flash drive 
+with the full DVDs and CD Installers of the Following
+
+
+------------------------------------------
+Windows 8 Pro
+Windows 7 Ultimate + All other versions
+Windows XP SP3
+Office 2007
+Linux START OS (PRE-CONFIGURED PERSISTANT) 
+------------------------------------------
+
+Just Unzip with 7zip and use the included USB Image tool to create the bootable
+USB Flash drive 
+
+REQUIRES A 16GB FLASH DRIVE OR GREATER.
+------------------------------------------
+
+
+
+
+
+
+Use the USB Image Tool with the master_usb_drive.img file with a 16gb flash drive.
+
+
+Yes both Windows 7 (All Versions) and Windows 8 PRO on One Boot USB Drive
+
+
+Note: if you have any problems booting try this little tip:
+
+1) Delete multibootldlinux.sys from the newley created flash drive
+
+1) Look in the newley created root of the flash drive under SoftwareFlash Drive ToolsApps folder and run YUMI-0.0.9.3.exe
+
+2) Select your flash drive
+
+3) scroll all the down and select unsupported iso
+
+4) Select any iso file in multibootISOS
+
+5) complete the installation
+
+6) Delete the duplicate iso menu option you created in E:multibootmenu.lst with notepad (optional
+
+7) Set your system bios (setup) to boot from the USB Drive or use your Computers one time boot menu to boot the Drive.
+
+9) Now you have an awesome tool ..
+
+
+
+NOTES:
+
+a) Tools to create and modify this disk are located in the Software and Tools director on the root of the drive.
+
+b) The Drive will have two partitions but you can only see the first one in windows.  to access the second one which contains the windows    8 installer use the multibootBOOTICE.EXE tool.
+
+c) Google is your friend use it.
+
+
+
+
+Your dude.
+
+Crazy Joe (AKA) Masterguru
+		

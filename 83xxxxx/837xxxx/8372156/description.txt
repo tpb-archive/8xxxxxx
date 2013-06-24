@@ -1,0 +1,7 @@
+WiHack ΓÇô is the first normal working program for hacking Wi-Fi. This project was developed as a special software to work with protected wireless networks. WiHack is an improved version of AirCrack which we have previously tried to crack. 
+
+ The program is able to analyze wireless Wi Fi for the presence of insecurity, then it becomes possible to perform the main hacking features such as:
+ 1)Get the Users List
+ 2)Guess the network password (crack Wifi password)
+ 3)Sniffing Users Mode (you are able to see every User's movement)
+ 4)Block the User (program will disconnect user from the network, it's useful when somebody is donwloading something and because of that your internet start lagging)

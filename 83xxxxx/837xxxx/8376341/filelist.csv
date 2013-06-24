@@ -1,0 +1,115 @@
+﻿Filename,Size,Unit
+0. Introduction/87007_00_01_SC03_intro.mp4,4.57,M
+0. Introduction/87007_00_02_SC11_know.mp4,927.21,K
+0. Introduction/87007_00_03_SC11_exerfiles.mp4,1.15,M
+1. Automating Processes Using Macros/87007_01_01_SC11_overview.mp4,7.39,M
+1. Automating Processes Using Macros/87007_01_02_SC11_createmacro.mp4,5.16,M
+1. Automating Processes Using Macros/87007_01_03_SC11_data.mp4,8.36,M
+1. Automating Processes Using Macros/87007_01_04_SC11_run.mp4,13.83,M
+1. Automating Processes Using Macros/87007_01_05_SC11_security.mp4,6.87,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_01_SC11_introobj.mp4,4.56,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_02_SC11_accobjmod.mp4,6.04,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_03_SC11_vbe.mp4,5.53,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_04_SC11_modules.mp4,12.2,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_05_SC11_sub.mp4,3.02,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_06_SC11_function.mp4,7.32,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_07_SC11_comments.mp4,5.68,M
+2. Introducing Visual Basic for Applications (VBA)/87007_02_08_SC11_run.mp4,2.52,M
+3. Debugging Your VBA Code/87007_03_01_SC11_handle.mp4,9.47,M
+3. Debugging Your VBA Code/87007_03_02_SC11_step.mp4,6.82,M
+3. Debugging Your VBA Code/87007_03_03_SC11_break.mp4,5.2,M
+3. Debugging Your VBA Code/87007_03_04_SC11_msg.mp4,8.55,M
+3. Debugging Your VBA Code/87007_03_05_SC11_watch.mp4,5.71,M
+"4. Defining Variables, Constants, and Calculations/87007_04_01_SC11_types.mp4",5.09,M
+"4. Defining Variables, Constants, and Calculations/87007_04_02_SC11_dim.mp4",10.99,M
+"4. Defining Variables, Constants, and Calculations/87007_04_03_SC11_scope.mp4",9.74,M
+"4. Defining Variables, Constants, and Calculations/87007_04_04_SC11_static.mp4",10.87,M
+"4. Defining Variables, Constants, and Calculations/87007_04_05_SC11_ops.mp4",9.79,M
+"4. Defining Variables, Constants, and Calculations/87007_04_06_SC11_msg.mp4",13.4,M
+"4. Defining Variables, Constants, and Calculations/87007_04_07_SC11_array.mp4",11.03,M
+"4. Defining Variables, Constants, and Calculations/87007_04_08_SC11_obj.mp4",7.93,M
+5. Adding Logic to Your VBA Code/87007_05_01_SC11_for.mp4,7.53,M
+5. Adding Logic to Your VBA Code/87007_05_02_SC11_each.mp4,8.55,M
+5. Adding Logic to Your VBA Code/87007_05_03_SC11_while.mp4,7.5,M
+5. Adding Logic to Your VBA Code/87007_05_04_SC11_until.mp4,6.52,M
+5. Adding Logic to Your VBA Code/87007_05_05_SC11_if.mp4,12.02,M
+5. Adding Logic to Your VBA Code/87007_05_06_SC11_case.mp4,8.85,M
+6. Manipulating Database Objects Using DoCmd/87007_06_01_SC11_openform.mp4,12.61,M
+6. Manipulating Database Objects Using DoCmd/87007_06_02_SC11_openreport.mp4,10.38,M
+6. Manipulating Database Objects Using DoCmd/87007_06_03_SC11_opentable.mp4,7.63,M
+6. Manipulating Database Objects Using DoCmd/87007_06_04_SC11_openquery.mp4,7.3,M
+6. Manipulating Database Objects Using DoCmd/87007_06_05_SC11_closeobject.mp4,7.08,M
+6. Manipulating Database Objects Using DoCmd/87007_06_06_SC11_quit.mp4,8.67,M
+6. Manipulating Database Objects Using DoCmd/87007_06_07_SC11_beep.mp4,10.29,M
+6. Manipulating Database Objects Using DoCmd/87007_06_08_SC11_command.mp4,6.5,M
+6. Manipulating Database Objects Using DoCmd/87007_06_09_SC11_print.mp4,6.87,M
+6. Manipulating Database Objects Using DoCmd/87007_06_10_SC11_warn.mp4,11.02,M
+7. Reading and Manipulating Table Data/87007_07_01_SC11_displayall.mp4,6.66,M
+7. Reading and Manipulating Table Data/87007_07_02_SC11_addnew.mp4,6.5,M
+7. Reading and Manipulating Table Data/87007_07_03_SC11_edit.mp4,11.79,M
+7. Reading and Manipulating Table Data/87007_07_04_SC11_transact.mp4,9.33,M
+7. Reading and Manipulating Table Data/87007_07_05_SC11_def.mp4,7.88,M
+7. Reading and Manipulating Table Data/87007_07_06_SC11_close.mp4,6.55,M
+7. Reading and Manipulating Table Data/87007_07_07_SC11_delete.mp4,8.94,M
+7. Reading and Manipulating Table Data/87007_07_08_SC11_find.mp4,15.89,M
+7. Reading and Manipulating Table Data/87007_07_09_SC11_move.mp4,9.39,M
+7. Reading and Manipulating Table Data/87007_07_10_SC11_count.mp4,6.86,M
+8. Manipulating a Database Using the Application Object/87007_08_01_SC11_summary.mp4,5.79,M
+8. Manipulating a Database Using the Application Object/87007_08_02_SC11_firstlast.mp4,5.17,M
+8. Manipulating a Database Using the Application Object/87007_08_03_SC11_lookup.mp4,6.16,M
+8. Manipulating a Database Using the Application Object/87007_08_04_SC11_meter.mp4,13.51,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_01_SC11_edits.mp4,10.09,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_02_SC11_filter.mp4,13.44,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_03_SC11_caption.mp4,11.29,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_04_SC11_requery.mp4,9.51,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_05_SC11_recordsource.mp4,6.36,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_06_SC11_scroll.mp4,5.68,M
+9. Controlling Forms and Reports Using the Me Object/87007_09_07_SC11_visible.mp4,5.5,M
+Conclusion/87007_10_01_SC11_goodbye.mp4,1.5,M
+Exercises/Exercise Files-Access 2003/Chapter01/._Access VBA Chapter01.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter01/Access VBA Chapter01.mdb,560,K
+Exercises/Exercise Files-Access 2003/Chapter02/Access VBA Chapter02.mdb,448,K
+Exercises/Exercise Files-Access 2003/Chapter03/Access VBA Chapter03.accdb,384,K
+Exercises/Exercise Files-Access 2003/Chapter03/Access VBA Chapter03.mdb,304,K
+Exercises/Exercise Files-Access 2003/Chapter04/._Access VBA Chapter04.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter04/Access VBA Chapter04.mdb,632,K
+Exercises/Exercise Files-Access 2003/Chapter05/Access VBA Chapter05.mdb,440,K
+Exercises/Exercise Files-Access 2003/Chapter06/._Access VBA Chapter06.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter06/Access VBA Chapter06.mdb,512,K
+Exercises/Exercise Files-Access 2003/Chapter07/._Access VBA Chapter07.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter07/Access VBA Chapter07.mdb,396,K
+Exercises/Exercise Files-Access 2003/Chapter08/._Access VBA Chapter08.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter08/Access VBA Chapter08.mdb,472,K
+Exercises/Exercise Files-Access 2003/Chapter09/._Access VBA Chapter09.mdb,4,K
+Exercises/Exercise Files-Access 2003/Chapter09/._Confidential.png,4,K
+Exercises/Exercise Files-Access 2003/Chapter09/Access VBA Chapter09.mdb,328,K
+Exercises/Exercise Files-Access 2003/Chapter09/Confidential.png,7.59,K
+Exercises/Exercise Files-Access 2003/._Chapter01,4,K
+Exercises/Exercise Files-Access 2003/._Chapter04,4,K
+Exercises/Exercise Files-Access 2003/._Chapter06,4,K
+Exercises/Exercise Files-Access 2003/._Chapter07,4,K
+Exercises/Exercise Files-Access 2003/._Chapter08,4,K
+Exercises/Exercise Files-Access 2003/._Chapter09,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter01/._Access VBA Chapter01.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter01/Access VBA Chapter01.accdb,868,K
+Exercises/Exercise Files-Access 2007_2010/Chapter02/Access VBA Chapter02.accdb,620,K
+Exercises/Exercise Files-Access 2007_2010/Chapter03/Access VBA Chapter03.accdb,572,K
+Exercises/Exercise Files-Access 2007_2010/Chapter04/._Access VBA Chapter04.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter04/Access VBA Chapter04.accdb,1.08,M
+Exercises/Exercise Files-Access 2007_2010/Chapter05/Access VBA Chapter05.accdb,1.02,M
+Exercises/Exercise Files-Access 2007_2010/Chapter06/._Access VBA Chapter06.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter06/Access VBA Chapter06.accdb,1.03,M
+Exercises/Exercise Files-Access 2007_2010/Chapter07/._Access VBA Chapter07.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter07/Access VBA Chapter07.accdb,496,K
+Exercises/Exercise Files-Access 2007_2010/Chapter08/._Access VBA Chapter08.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter08/Access VBA Chapter08.accdb,664,K
+Exercises/Exercise Files-Access 2007_2010/Chapter09/._Access VBA Chapter09.accdb,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter09/._Confidential.png,4,K
+Exercises/Exercise Files-Access 2007_2010/Chapter09/Access VBA Chapter09.accdb,676,K
+Exercises/Exercise Files-Access 2007_2010/Chapter09/Confidential.png,7.59,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter01,4,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter04,4,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter06,4,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter07,4,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter08,4,K
+Exercises/Exercise Files-Access 2007_2010/._Chapter09,4,K

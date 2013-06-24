@@ -1,0 +1,85 @@
+This is my own rip.
+
+General
+Unique ID                        : 182879441811201396452528971133657212041 (0x89954CA037495A209210587E1322E489)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.05 GiB
+Duration                         : 1h 39mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 935 Kbps
+Encoded date                     : UTC 2013-04-08 21:27:17
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 39mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 493 Kbps
+Maximum bit rate                 : 11.5 Mbps
+Width                            : 1 280 pixels
+Height                           : 692 pixels
+Display aspect ratio             : 1.850
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.117
+Stream size                      : 1.74 GiB (85%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 39mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 275 MiB (13%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Opening Credits
+00:03:06.061                     : The Proposition
+00:06:11.079                     : Leonard Huff
+00:11:56.925                     : The New Skipper
+00:16:36.913                     : Play Ball
+00:21:06.724                     : What's Best for the Team
+00:27:33.986                     : Voodoo Man From Mars
+00:32:02.671                     : Peace of Brain
+00:35:27.314                     : Minnesota Hospitality
+00:38:14.773                     : The Challenge
+00:44:08.187                     : A Visit to the Show
+00:49:56.327                     : A Little Chin Music
+00:53:22.658                     : Goin' Downtown
+00:55:23.654                     : The Off-Speed Stuff
+00:58:47.274                     : He Wants Us Downtown
+01:03:39.190                     : Pulling Together
+01:09:34.170                     : Billy's Return
+01:13:37.163                     : Another Challenge
+01:16:10.357                     : Motivational Speaker
+01:18:38.130                     : The Rematch
+01:24:01.495                     : Hog's Fight
+01:29:04.506                     : Bottom of the Ninth
+01:34:18.194                     : Gus's Choice
+01:35:31.039                     : End Credits

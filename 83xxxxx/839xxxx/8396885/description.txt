@@ -1,0 +1,15 @@
+iDeaS 1.0.20 (COMPLETE)
+
+Added AR codes 0xC0,0xE and 0xF. (Thanks to Vash) 
+Added Auto CPU Speed. 
+Added Auto Sort for translucent polygons. 
+Fixed a bug in ARM opcodes with LSL 
+Fixed bug in OAMs render. 
+Fixed bug in Tiles render. 
+New bitmaps for toolbar. (Thanks to LordForZerock) 
+
+--AUDIO PLUGIN 1.0.0.8--
+Fixed bug in Resampling Option. 
+Fixed bug in filling buffer audio.
+
+Wifi plugin

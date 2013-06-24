@@ -1,0 +1,49 @@
+Please Seed
+
+Complete name                            : D:VideosAdult SwimboondocksSeason 1S01E03 Guess Hoe's Coming to Dinner (1280x720) [Phr0stY].mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 278 MiB
+Duration                                 : 22mn 9s
+Overall bit rate                         : 1 753 Kbps
+Encoded date                             : UTC 2013-04-21 08:01:43
+Writing application                      : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 22mn 9s
+Width                                    : 1280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 22mn 9s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -33ms
+Default                                  : Yes
+Forced                                   : No
+

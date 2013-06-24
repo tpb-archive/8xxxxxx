@@ -1,0 +1,71 @@
+Prospero, a potent necromancer, lives on a desolate isle with his virginal daughter, Miranda. He's in exile, banished from his duchy by his usurping brother and the King of Naples. Providence brings these enemies near; aided by his vassal the spirit Ariel, Prospero conjures a tempest to wreck the Italian ship. The king's son, thinking all others lost, becomes Prospero's prisoner, falling in love with Miranda and she with him. Prospero's brother and the king wander the island, as do a drunken cook and sailor, who conspire with Caliban, Prospero's beastly slave, to murder Prospero. Prospero wants reason to triumph, Ariel wants his freedom, Miranda a husband; the sailors want to dance.
+
+Unique ID : 175872921479335688427558747307090193608 (0x844FE480AC3F6ED5844EB5D1AF1D2CC8)
+Format : Matroska
+Format version : Version 2
+File size : 1.65 GiB
+Duration : 1h 35mn
+Overall bit rate : 2 483 Kbps
+Writing application : HandBrake 0.9.5
+Writing library : libmkv 0.6.4.1
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 35mn
+Bit rate : 2 242 Kbps
+Width : 716 pixels
+Height : 480 pixels
+Display aspect ratio : 4:3
+Original display aspect ratio : 4:3
+Frame rate mode : Variable
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.272
+Stream size : 1.49 GiB (90%)
+Writing library : x264 core 112
+Encoding settings : cabac=1 / ref=16 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=0 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language : English
+Color primaries : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : A_AC3
+Duration : 1h 35mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 131 MiB (8%)
+Language : English
+
+Menu
+00:00:00.000 : Chapter 1
+00:03:30.860 : Chapter 2
+00:14:24.296 : Chapter 3
+00:22:19.271 : Chapter 4
+00:30:24.422 : Chapter 5
+00:38:35.963 : Chapter 6
+00:49:34.538 : Chapter 7
+00:55:34.014 : Chapter 8
+01:07:01.333 : Chapter 9
+01:14:13.098 : Chapter 10
+01:19:58.977 : Chapter 11
+01:25:01.830 : Chapter 12
+01:35:20.915 : Chapter 13

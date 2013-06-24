@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,pratt2112,2013-03-28T01:17Z,"I'm DL as I type. Can e an ascrypt.dll to crack it? Also being an avid FS enthusiast, Aerosoft said that those with megascenery Las Vegas installed which I do, they recommend removing certain files from that add-on. I wonder if the duplicate items have to do with activating the scenery from the launcher."
+,pierce368,2013-03-28T03:23Z,"You don't need a .dll for this. As far as megascenery goes I don't know how it interacts with this add on. From what I read though, the megascenery is much better. I would assume you just need to layer this higher than megascenery or rename bgl files that refer to aerial or ground to .off"

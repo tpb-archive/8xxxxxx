@@ -1,0 +1,27 @@
+Garmin BlueChart g2 Vision VEU710L - Skagerrak-Denmark-Germany v2013 (v14.50)UNLOCKED
+
+Detailed coverage of Denmark, Germany, and southern Noway and Sweden from Kristiansand, NO to Karlskrona, SE including Oslo, NO; Malmo and Trelleborg, SE and Lakes Vänern, Vättern, Mjörn, Sommen, Nommen and Bolmen, the Skagerrak and the Kattegat. Coverage also includes the entire German North Sea and Baltic coasts, all major inland canals of Germany including the Mittelland Canal, the Rhine River, the Main River to Bamberg, the Danube River from Kelheim to Passau, the Saar River, the Moselle River to Metz, FR; the Ems River to Papenburg, the Weser River to Minden, the Elbe River to Dresden and Lake Constance. 
+
+
+Code:
+File:		/VEU710L - Denmark Skagerrak  Kattegat v2013/gmapsupp.img, length 3133669376
+Header:   	24.01.2013 15:25:34, DSKIMG, XOR 00, V 14.50, Ms 0
+Mapset:   	VEU710L-Skagerrak-Denmark-Germany v2013.0
+fat:		1000h - 1200h - 20000h, block 65536
+maps:		63, sub-files 64
+
+Sub-file         fat     length
+ MARINAS  MDR   1200h   3248000
+ MARINAS  SRT   1400h       968
+ G0000018 GMP   1600h    828121
+	GMP:  TRE RGN LBL MAR
+	map 1107a92 (17857170)
+	PID 1, FID 2827, region 4,16
+	date 18.01.2013 16:03:14
+	priority 28, parameters 1 6 31 19, locked, transparent
+	N: 53.625040, S: 50.437460, W: 9.128952, E: 12.647667
+	g2Vision Marine Autoguidance
+	Copyright 1995-2013 by GARMIN Corporation.
+
+
+HOW TO: just copy the Garmin folder to your SD-card

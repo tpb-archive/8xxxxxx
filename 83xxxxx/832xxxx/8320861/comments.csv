@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,highresjunkie,2013-04-11T23:48Z,"Not that there's anything wrong with the quality here, but just a suggestion for tweaking x264 settings for animation...this might make the difference between a 9.9 and a 10 in quality for you.
+
+Set Deblocking to 1,1
+Set Psychovisual Rate Distorsion to 0.4
+Set Adaptive Quantization to 0.6
+If B-Frames are enabled (non-zero), add 2 B-Frames to Maximum B-Frames
+If using more than one Reference Frame(s), double the number of Reference Frames"
+,jalucian,2013-04-15T20:01Z,"Thanks. I actually just read about the animation preset recommendations several days ago, but not before I encoded this. I'll use those for any future animations. But like you said, this turned out well regardless. "

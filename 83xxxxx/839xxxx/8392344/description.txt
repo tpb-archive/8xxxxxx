@@ -1,0 +1,18 @@
+I could not find a copy of these songs anywhere, so I reverse engineered the javascript and flash players on their website (adoraband.com) and used wget to download the mp3s. All id3 tags are accurate and written by me. Due to the songs being extracted from a file hosting service the quality of many is quite low. All songs are mp3.
+
+One Word
+-Prologue          (211 kb/s)
+-Skeleton          (263 kb/s)
+-Breaking Branches (274 kb/s)
+-Room 401          (278 kb/s)
+-Safe And Sound    (256 kb/s)
+-Eyes On You       (254 kb/s)
+-Cards             (253 kb/s)
+-Epilogue          (222 kb/s)
+
+Save Yourself EP
+-Take A Breath     (128 kb/s)
+-The Snake Charmer (128 kb/s)
+-With Closed Fists (128 kb/s)
+-Save Yourself     (128 kb/s)
+-Condescending     (128 kb/s)

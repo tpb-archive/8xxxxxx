@@ -1,0 +1,102 @@
+PES 2013 SMoKE Patch 5.2 Blue
+
+---------------------------------------------------------------------------------
+
+Features:
+
+Konami:
+- includes latest konami data pack (DLC 4.0 - exe patch 1.03)
+- optional exe 1.02 included (replace file in PES folder)
+- removed blur
+
+Leagues:
+- correct leagues names
+- bundesliga replaces fake konami league
+- correct emblems and league patchs
+- complete real 2D teams replace fake teams (7 options):
+(English nPower, Spain liga adelante, German 2. bundesliga, Italian Serie B, 
+French ligue 2, Netherlands Eerste Divisie, south america league)
+- correct leagues balls
+
+Teams:
+- added 18 new national teams (not available in BAL mode):
+(Albania, Azerbaijan, Lithuania, Macedonia, Classic Spain, 
+Malaysia, Indonesia, Pakistan, Palestine, India, Cape Verde, Togo,
+Philippines, Bahrain, Georgia, Belarus, Burkina Faso, Singapore)
+- added 16 new clubs (available in ML mode):
+(Anzhi, Lok. Moscow, BATE, Basel, Young Boys,
+Rubin Kazan, Red star, Partizan, Aris, Viktoria Plzen,Trabonspor,
+Standard de liege, Genk, Hajduk Split, Steaua Bucuresti, all stars)
+- correct kits for all teams (full GDB folder)
+- correct clubs logo by genko06
+- correct national flags by ali.chila
+- correct and updated squads
+- revised clubs strategies and tactics
+- all teams have correct home stadium names
+- most teams have special chants (HQ double channel) (Add-on)
+- correct radar color for all teams
+
+Players:
+- revised stats for most players (SMoKE rating system)
+(not overrated, optimized for FL modes)
+- more than 850mb of real faces (3000 face/hair)
+- assigned call names for a lot of players
+- added more than 3000 new players
+- correct personal attributes
+- removed duplicated and fake players
+- real goalkeeper gloves
+
+Stadiums:
+- correct names for all stadiums
+- add 20 various stadiums with game stadium editor
+- all teams have correct stadium names
+- new enhanced adboards
+- HD turfs for all stadiums (Add-on)
+
+Others:
+- added and updated all boots (81 boots)
+- added and updated all balls (55 balls)
+- 6 optional scoreboards
+- includes latest kitserver files
+- updated referee kits
+- correct trophies and cups
+- real sponsors with logos (for all languages)
+- new graphics 
+- auto fix for directX errors
+- a lot of small enhancements
+
+---------------------------------------------------------------------------------
+Installation:
+1. Unrar files (download all 8 parts, put in the same place then extract)
+2. run (Setup 5.2.exe) and choose Install (add to antivirus exceptions before installing)
+3. follow all installer steps
+4. download and install latest smoke update
+
+Notes: 
+* delete old kitserver folder before installing the patch
+* tested on the original game and (reloaded) version
+* do not update from konami, the patch include the latest official updates
+* starting a new saves is highly recommended due to new system files and stuff
+* perform clean install for the game before installing the patch is recommended
+* run the game as admin
+* dont let AV block the installation of any file
+* use only the exe provided with the patch
+
+---------------------------------------------------------------------------------
+Patch size:
+
+installer 5.2 size: 1.4 gb
+uncompressed size: 1.65 gb
+
+Size details:
+konami updates: 250 mb
+stadium files: 80 mb
+faces: 850 mb
+balls: 45 mb
+kits: 275 mb
+2D installer: 50 mb
+graphics and patch files: 100 mb
+
+add-ons:
+Chants file size: 870 mb
+HD turf file size: 700 mb

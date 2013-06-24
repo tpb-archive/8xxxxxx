@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,JoeHam,2013-04-17T19:43Z,"Stuck @ 54%
+No Seeders
+
+Would be a great torrent but Nope...
+
+Ill update my comment when I can actually download this torrent."
+,SaTaNiK1,2013-04-18T00:59Z,Availability is 1.685 on my  end and seeding as fast as my connection will allow.
+[V],HighCode,2013-04-18T04:12Z,"thx for the great effort. I see you used bframes=16 lol, why? And how many re-frames if you don't mind?"
+[V],HighCode,2013-04-18T04:17Z,"I see ref=10:bframes=16 hoops, that will make files unplayable for many folks I'm afraid ;-) 
+If you make a sample using let's say ref=8:bframes=8 you will find out that the size won't be bigger but it will play easier, without tearing, pauses etc.
+Sorry, I'm just trying to help. Cheers"
+,SaTaNiK1,2013-04-18T06:07Z,"I don't support Hardware Decoding. ;) My personal opinion is that file size and video quality is more important than being able to play the files on a low end device. I test all of my releases on XBMC and PotPlayer with Hardware Decoding disabled before release.
+
+As for my comment on file size and this release being contradictory. This release is a special case, other encodes already exist with the grain removed and I wanted one with the grain.
+
+Anyways, Handbrake says for B-Frames ""Large number generally won't help significantly unless Adaptive B-frames is set to optimal."" I have it set to Optimal. Also, ""Cel-animation source material and B-pyramid also significantly increase the usefulness of larger values."" I have Pyramidel B-Frames set to Strict.
+
+I appreciate the constructive criticism though. Thanks."
+[V],HighCode,2013-04-18T17:09Z,"I don't support Hardware Decoding either, pc-s are the best players + hdmi etc. I also like shrinking using high profile but I mad sample using 10:10 frames & 8:8 frames and the sizes were similar. I once downloaded an encode that had 10:12 frames and I couldn't play it on a 4 GB ram/i7 processor pc. Even for animated material I doubt that above 8 frames would help, maybe 10 but not 16 b-frames. The quality is surely good using those settings, I agree that using denoise in encoding would kill the details, the grain is part of HD. One can use denoise filter(shader) in player if it bothers him. Would be handy for those with not so strong pc-s to test a file before downloads the whole pack, so seed only one episode from a different location/folder or pc and let people know in comment which episode they can check first before downloading the whole alot."
+,SaTaNiK1,2013-04-20T18:56Z,Just tested these encodes on my friends stock i3-2100 with 4gb of RAM and both KMPlayer and VLC play it just fine with ~16% CPU usage and use just 200-300mb of RAM. Maybe something is wrong with your player.
+,asbolina,2013-04-20T19:44Z,"Playback smoothness highly depends on the scene complexity and the instantaneous bitrate (more data to decode for a single frame, more pressure on the CPU). It also depends on the decoders and display systems. For instance I wouldn't even think rendering a video without madVR nowadays.
+
+If you don't encode in 10 bits, it's a shame that you don't care about hardware playback because it really has a negligible impact in term of compression. And we are not talking about low-end devices, but most home theater systems and TV sets."
+,SaTaNiK1,2013-04-21T21:27Z,"I highly doubt that even the most complex scene is going to bring that CPU from 16 to 100%.
+
+I found out a long time ago that Hardware Decoding and GPU acceleration is WAY more of a hassle than just spending $50 more on a better CPU. Especially nowadays CPUs have come a long way since the P4.
+
+I would encode 10bit on everything but Handbrake does not support it and I don't really like any of the other encoders that do. Damn 8bit banding drives me crazy though I must admit. I would have to disagree on the negligible impact but even if it is small it is worth it in my opinion. At first I encoded 480p at 1,500kbps then after tweaking x264 settings I brought it down to 1,200kbps and now 1,000kbps.
+
+What do you mean by Home Theater Systems and TV sets. I use my XBMC on a Sony STR-DH800 7.1 A/V receiver and a 40"" Bravia V3000 and have zero problems. Are you talking about GoogleTV, AppleTV, and things like the PS3. Well I think those devices are pointless for this kind of thing. Spend that extra money on a HTPC and a Roku if you want Streaming services (only $50-100 extra). Much more compatible, download whatever you want without having to worry about compatibility."
+,asbolina,2013-04-22T21:47Z,"Yes, a lot of people watch movies on their standalone DVD player, PS3, Xbox 360, etc. That's why xvid/mp3 files are still very popular: they rarely fail to play, whatever the device, contrary to AVC-based videos. Hardware decoding is often despised by encoding people in the anime community, because they believe that everybody is like them, comfortable with video and computer setup, spending all their money in regular hardware and software updates. But this is clearly not the case.
+
+I mean, there is not point doing it halfway. Target either elite setup/archival quality (10 bits, large bitrate, maxed-out settings), either large audience (8 bits, level 4.1 strict, mp4 + external srt preferred to mkv). There is no room in-between, as a single step out of the hardware-compliant settings immediately cuts out the largest part of the audience, without bringing the top notch quality you could expect."
+,SaTaNiK1,2013-04-23T19:02Z,Just an update. I have seeded 120% and most people are still on 87.1%. Leeches I am looking at you.
+,SaTaNiK1,2013-04-23T19:03Z,Oh look I see someone with 91.6% hording it all to himself.
+,SaTaNiK1,2013-05-17T18:24Z,Just realized I up-scaled these to 1920x1424. I thought everyone was talking about the up-scaled scenes to 1080p. My bad I fucked up in Handbrake. I don't have the blu-ray source anymore and the only difference it is going to make is it takes more CPU to decode so I am just going to leave it like it is. No wonder it took so long to encode. How annoying.

@@ -1,0 +1,23 @@
+Game of Thrones S03 E03
+Format                           : Matroska
+File size                        : 377 Mb
+Duration                         : 54:17	
+Writing application              : HandBrake 0.9.5
+Writing library                  : libmkv 0.6.4.1
+
+        Video
+
+Codec ID                         : V_MPEG4/ISO/AVC
+Width                            : 1280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+
+        Audio
+Format                           : AC-3
+Codec ID                         : A_AAC
+Bit rate mode                    : Constant
+Bit rate                         : 128Kbs
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R

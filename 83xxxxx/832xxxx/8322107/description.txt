@@ -1,0 +1,76 @@
+CODYQX4's Description:
+This is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported. For information about individual functions, read further.
+
+Requirements:
+Microsoft .NET Framework 4.0 or 4.5 (Not 3.5)
+Microsoft Office 2010 or Later for Office Toolkit Support 
+Windows Vista or Later for Windows Toolkit Support
+
+Microsoft Toolkit Changelog: 
+
+2.4.3
+-All KMS PID Settings default to RandomKMSPID due to KMS PID blacklisting.
+-Disable all KMS Server Service settings if it is not installed.
+-Fixed AutoKMS Scheduled Task paths breaking if you installed or removed Custom Task after rerunning the program.
+-Using new program icon.
+
+
+My additional info:
+Activates:
+Windows Vista Business/Enterprise
+Windows 7 Professional/Enterprise
+Windows 8 Core/Pro/ProWMC/Enterprise
+Microsoft Office 2010/2013
+
+EZ-Activator should convert any applicable Windows versions.
+For Office Retail to VL conversion, you want to do a pre-conversion.
+Extract your ISO to a folder and point MTK at the setup file.
+Then choose the customize setup option and Change Channel.
+
+To have a Self-Reactivating system, install KMS Server Service and run the following commands in admin command prompt:
+SLMGR /SKMS 127.0.0.2:1688
+SLMGR /ATO
+
+For Office you first need to navigate to your Office14 or Office15 directory depending on whether you installed 2010 or 2013.
+Example:
+cd
+cd program files
+cd microsoft office
+cd office15
+
+Then run the following commands to correctly setup auto-renewal:
+CSCRIPT OSPP.VBS /SETHST:127.0.0.2
+CSCRIPT OSPP.VBS /SETPRT:1688
+CSCRIPT OSPP.VBS /ACT
+
+To install a Windows gVLK without using EZ-Activator which also installs and runs AutoKMS, you can use the following admin cmd prompt command:
+SLMGR /IPK XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+
+Some useful gVLK you can install are:
+FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 (Win7Pro)
+MRPKT-YTG23-K7D7T-X2JMM-QY7MG (Win7ProN)
+BN3D2-R7TKB-3YPBD-8DRP2-27GG4 (Win8Core)
+8N2M2-HWPGY-7PGT9-HGDD8-GVGGY (Win8CoreN)
+NG4HW-VH26C-733KW-K6F98-J8CK4 (Win8Pro)
+XCVCF-2NXM9-723PB-MHCB7-2RYQQ (Win8ProN)
+GNBB8-YVD74-QJHX6-27H4K-8QHDG (Win8ProWMC)
+
+CODYQX4's Credits:
+-Bosh for the original GUI Design and co-development of Office Toolkit
+-ZWT for the original KMSEmulator
+-letsgoawayhell, Phazor, nosferati87, and mikmik38 for KMSEmulator fixes and improvements
+-MasterDisaster, FreeStyler, Daz, nononsense, and janek2012 for work on Key Checker
+
+I recommend adding any activator you install to any A/V program you install. For Windows 8, open windows defender and add the exclusion to the file. File locations are set in the settings, but are defaulted to:
+Windows_KMSServerService Windows_AutoKMS and Windows_AutoRearm
+Replace the underscores with backslashes. TPB comment filter erases them.
+
+Downloads:
+2.4.3
+EXE MD5: 1C5A2B27CE7E1A57E34DC5BF2311027F
+CODYQX4 recommends getting hashtab to verify the .EXE inside the zip file.
+
+Feel free to give CODYQX4 a "Thanks" for his wonderful toolkit. Please do not pester him with every little problem, you can ask me or any other person on the project thread for help. His box fills very quickly and he doesn't need everyone in the world bugging him for questions he's answered 1000x.
+
+Enjoy,
+murphy78 TPB/MDL

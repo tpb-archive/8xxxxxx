@@ -1,0 +1,9 @@
+Microprocessors And Interfacing PDF
+
+Title	Microprocessors And Interfacing
+Author	D.A.Godse A.P.Godse
+Publisher	Technical Publications, 2009
+ISBN	8184311257, 9788184311259
+Technical Publications, Jan 1, 2009 - 601 pages
+
+An overview of 8085, Architecture of 8086, Microprocessor, Special functions of general purpose registers, 8086 flag register and function of 8086 flags.Addressing modes of 8086, Instruction set of 8086, Assembler directives simple programs, Procedures, and Macros.Assembly language programs involving logical, Branch and Call instructions, Sorting, Evaluation of arithmetic expressions, String manipulation.Pin diagram of 8086-Minimum mode and maximum mode of operation, Timing diagram, Memory interfacing to 8086 (Static RAM and EPROM), Need for DMA, DMA data transfer method, Interfacing with 8237/8257.8255 PPI-Various modes of operation and interfacing to 8086, Interfacing keyboard, Displays, Stepper motor and actuators, D/A and A/D converter interfacing.Interrupt structure of 8086, Vector interrupt table, Interrupt service routines, Introduction to DOS and BIOS interrupts, 8259 PIC architecture and interfacing cascading of interrupt controller and its importance.Serial data transfer schemes, Asynchronous and synchronous data transfer schemes, 8251 USART architecture and interfacing, TTL to RS 232C and RS232C to TTL conversion, Sample program of serial data transfer, Introduction to High-speed serial communications standards, USB.8051 Microcontroller architecture, Register set of 8051, Modes of timer operation, Serial port operation, Interrupt structure of 8051, Memory and I/O interfacing 8051.

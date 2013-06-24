@@ -1,0 +1,74 @@
+General
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.37 GiB
+Duration                                 : 30mn 26s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 430 Kbps
+Writing application                      : mkvmerge v5.9.0
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 30mn 26s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 125 r2200 999b753
+Encoding settings                        : --preset slow --crf 22
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Format profile                           : MA / Core
+Mode                                     : 16
+Format settings, Endianness              : Big
+Muxing mode                              : Header stripping
+Codec ID                                 : A_DTS
+Duration                                 : 30mn 26s
+Bit rate mode                            : Variable
+Bit rate                                 : Unknown / 1 509 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless / Lossy
+Title                                    : 5.1 DTS-HD
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : The same subtitle format used on BDs
+Language                                 : Portuguese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:01. Let Me Hear You Scream
+00:03:26.833                             : en:02. Mr. Crowley
+00:09:10.500                             : en:03. I Dont't Know
+00:14:23.708                             : en:04. Fairies Wear Boots
+00:20:41.541                             : en:05. Crazy Train
+00:26:27.500                             : en:06. Paranoid

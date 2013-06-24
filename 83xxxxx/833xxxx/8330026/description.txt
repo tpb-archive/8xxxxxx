@@ -1,0 +1,64 @@
+Source : DVDR NoRBiT (Thanks)
+ 
+http://www.imdb.com/title/tt2212658/
+
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 1.28 GiB
+Duration                                 : 2h 10mn
+Overall bit rate                         : 1 397 Kbps
+Writing library                          : VirtualDub build 32842/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 4
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 2h 10mn
+Bit rate                                 : 876 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.162
+Stream size                              : 820 MiB (63%)
+Writing library                          : XviD 1.2.0.dev47 (UTC 2006-11-01)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 2000
+Duration                                 : 2h 10mn
+Bit rate mode                            : Constant
+Bit rate                                 : 512 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 479 MiB (37%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 42 ms (1.00 video frame)
+Interleave, preload duration             : 512 ms
+
+Plot
+A baby abducted at birth and raised by the woman who took her, eventually discovers she is a missing child, reconnects with her birth parents, and struggles with choosing between her two identities.
+ 
+http://www.shotpix.com/images/30590485403533357869.png 
+http://www.shotpix.com/images/11112006804085459098.png 
+http://www.shotpix.com/images/37389948185544403129.png

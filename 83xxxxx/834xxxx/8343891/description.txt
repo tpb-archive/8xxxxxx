@@ -1,0 +1,14 @@
+Visual Studio 2012 Update 2 (KB2707250)
+=======================================
+
+Tired with Microsoft using web installers which are unreliable, don't support
+pause/resume.
+
+* The update is an ISO format (it's inside the .7z file (I have a shitty internet))
+* You can extract using : http://www.7-zip.org/download.html
+* The update is untouched.
+* You can create your own update using VS2012.2.exe /layout
+
+
+
+vote on the issue here : https://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/3816021-provide-visual-studio-updates-as-an-iso-image-for-

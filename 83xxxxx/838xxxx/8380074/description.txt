@@ -1,0 +1,52 @@
+General
+Unique ID                                : 208416605134394442113957811909219729595 (0x9CCB93FCA16AE32DE917773F101240BB)
+Complete name                            : RiffTrax.Troll.2.1080p.HD_RIFFs.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 12.4 GiB
+Duration                                 : 1h 34mn
+Overall bit rate                         : 18.8 Mbps
+Encoded date                             : UTC 2013-04-11 15:34:32
+Writing application                      : mkvmerge v4.9.1 ('Ich will') built on Jul 18 2011 01:27:28
+Writing library                          : libebml v1.2.1 + libmatroska v1.2.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 16 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 34mn
+Width                                    : 1 920 pixels
+Height                                   : 1 040 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 34mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No

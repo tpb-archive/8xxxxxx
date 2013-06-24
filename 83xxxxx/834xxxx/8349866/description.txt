@@ -1,0 +1,16 @@
+
+
+BLUS31053/BLES01733 [4.XX] 
+
+-Requires Update 1.02. 
+-Install DLC then FIX 4.XX BLUS31053/BLES01733 
+
+Install instructions BLES01733: 
+1. Install Patch Update BLES 
+2. Install BLUS DLC. 
+3. Copy DLC folder USRDIR from BLUS to BLES: /dev_hdd0/game/BLUS31053/ to /dev_hdd0/game/BLES01733/ 
+4. Delete empty BLUS DLC folder. 
+5. Install BLES Fix 
+6. Go to your game settings in MM and run "fix permission" once. This will sync game and dlc. No need to repeat this anymore. 
+7. Make sure game is up to date 
+8. Play the game.

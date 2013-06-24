@@ -1,0 +1,44 @@
+AIOMOD v3.5 Test 6 (Full & Lite)
+
+XVM Update
+
+* bugs fixed
+* fixed endless loop when stat is not available
+* minimap: zoom size memory fixed
+* updated per-vehicle statistics data (added new tanks)
+* added button in company window for enabling automatic loading data
+
+EXTRAS
+
+* Visibility Lighting Mod v2 (Bug Fixed Map:  ensk)
+* Skins Penetration Zones for WOT 0.8.4
+
+* Memories Sound Mod for WOT 0.8.4 Build 4
+
+Guns:
+
+- Added sound for Soviet 76mm guns.
+- Added sound for automatic 76mm guns 54-76TG.
+- Added sound 17pdr.
+- Reworked sound 20pdr.
+- Added sound WG 105mm L52-L68 ΓÇïΓÇïguns.
+- Reworked some range guns.
+- Changed the sound of 45mm guns.
+- Changed the range of sound for heavy guns.
+- A new sound for the 150mm gun E-100.
+- New sound for American guns and 155mm BL- 10/M64.
+- Added sound tracers.
+- Reworked the sounds of 75-76mm guns.
+- Engines Sounds
+
+Engines:
+
+* Changed the sounds of engines in some tanks.
+* Changed the sounds of engines for the average Chinese tanks
+* Turn down the volume too loud, some sounding engines.
+* Removed the annoying sound for Continental AV-1790 series.
+* Added a sound for the British tank level 1.
+* Added sound for tanks Vickers, T1E6 and Locust.
+* Changed sound for BT-2 and BT-7 and T-50. Now, they actually sound like pretty fast tanks.
+* Added a sound for the Type 62, Type 59-like.
+* Fixed bugs.

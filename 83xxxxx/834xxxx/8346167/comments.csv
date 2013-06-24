@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,Ricky9712,2013-04-06T08:36Z,thenoobish can you try to get London 2012 the video game working on mac osx 10.8 mountain lion plz 
+,slinckkey,2013-04-07T20:30Z,Can't see my mouse in game. Help?
+,slinckkey,2013-04-07T21:43Z,"btw MBP  early 2011
+lion 10.7.5
+2.7 GHz i7
+HD3000 graphics"
+,Katy93,2013-04-08T22:51Z,"It works, but it's in a weird language... How can I change it? "
+,ThaBab,2013-04-11T02:55Z,I really don't understand how to change language !
+,slinckkey,2013-04-11T04:45Z,"Change language: 
+open mouse right-click CituesXL Platinum.app,
+launch wineskin.app,
+press Advanced button,
+change in ""LOCALIZATION/LANGUAGE=ru"" to ""LOCALIZATION/LANGUAGE=en"" (for english)
+Cmd+Q, launch CituesXL Platinum.app"
+,ThaBab,2013-04-11T15:32Z,"@ slinkkey I got mountain lion ,  when I click on  wineskin.app I got  The files is corrupt and can't be opened.
+
+Any idea ?"
+,gigas27,2013-04-12T00:32Z,"Change language: 
+right-click CituesXL Platinum.app,
+select show package contents,
+go to Contents folder and you'll find ""info.plist"", Open file to edit in textedit app and 
+change in ""LOCALIZATION/LANGUAGE=ru"" to ""LOCALIZATION/LANGUAGE=en"" (for english)
+Cmd+S to save and then Cmd+Q to quit, launch CituesXL Platinum.app and you'll see english!"
+,migueljop,2013-04-19T16:49Z,"Mouse not working, Can't see the mouse"
+,SeuLunga,2013-04-21T14:24Z,"slinckkey, I have fixed my mouse bug. Put the game into window mode (or do Command + Tab) and try to search for the mouse while it appears as a window. Sometimes, you put the mouse to the dock bar and when you return to the game, it continues for 2 segonds. So, in this time, you can change the screen resolution. When you change the resolution, the mouse is back. "
+,CRASH1SG0D,2013-05-23T18:48Z,"Thanks for saving me the effort of doing it myself; installing the Windows version and copying it over to the same Wineskin they used here from paulthetall.com 
+
+It might still be faster to do it myself really, considering the hours I save for the Windows game installer downloading. But if you run it before bed it makes no difference anyway. 
+
+Its stupid that it's default at Russian and not English, because the majority is English speakers. Changing it to LOCALIZATION/LANGUAGE=en worked though.
+
+You spelled ""Cities"" wrong and left out the space on the disk image and application too which is stupid also.
+
+And is it normal to take forever to load and be glitchy as fuck? I may try doing it manually just to see if it works better."
+,CRASH1SG0D,2013-05-23T19:12Z,"My bad, glitchyness was caused by the game resolution being set higher than my desktop resolution. (I have a massively high def 15"" TV for a monitor so I set it lower than max res so I can actually read what's on the screen) I set the game to the some resolution as my desktop and the glitchyness went away. "
+,vlee02,2013-06-06T02:19Z,Why are there so many bugs ugg very very good game if I could see my mouse :(
+,vlee02,2013-06-06T02:22Z,wow cant delete comments i thought that the most recent comments were at the top i see now xD thanks

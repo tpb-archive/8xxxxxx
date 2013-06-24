@@ -1,0 +1,52 @@
+Qualifying for the 2013 Chinese Grand Prix from the Shanghai International Circuit.
+
+
+MediaInfo Mac 0.7.33.2 file analysis report.
+Created on: 13 Apr 2013 11:36:08 BST
+Report for file: F1.20130413.China.Qualifying.720p.m4v
+General / Container Stream #1
+	Total Video Streams for this File.................1
+	Total Audio Streams for this File.................1
+	Video Codecs Used.................................AVC
+	Audio Codecs Used.................................AAC LC
+	File Format.......................................MPEG-4
+	Play Time.........................................2h 43mn
+	Total File Size...................................5.88 GiB
+	Total Stream BitRate..............................5 137 Kbps
+	Title (Tag).......................................13 Apr 2013 07:02
+	Encoding Library..................................app2
+Video Stream #1
+	Codec (Human Name)................................AVC
+	Codec (FourCC)....................................avc1
+	Codec Profile.....................................High@L3.1
+	Frame Width.......................................1 280 pixels
+	Frame Height......................................720 pixels
+	Frame Rate........................................25.000 fps
+	Total Frames......................................245988
+	Display Aspect Ratio..............................16:9
+	Video Standard....................................PAL
+	Scan Type.........................................Progressive
+	Colorimetry.......................................4:2:0
+	Codec Settings (Summary)..........................2 Ref Frames
+	QF (like Gordian Knot)............................0.217
+	Codec Settings (CABAC)............................No
+	Video Stream Length...............................2h 43mn 59s 520ms
+	Video Stream BitRate..............................5 002 Kbps
+	Video Stream BitRate Mode.........................VBR
+	Bit Depth.........................................8 bits
+	Video Stream Size.................................5.73 GiB (97%)
+	Video Stream Language.............................English
+	Date of Original Encoding.........................UTC 2013-04-13 09:00:39
+Audio Stream #1
+	Codec.............................................AAC
+	Codec (FourCC)....................................40
+	Audio Stream Length...............................2h 43mn 59s 595ms
+	Audio Stream BitRate..............................128 Kbps
+	Audio Stream BitRate Mode.........................CBR
+	Number of Audio Channels..........................2
+	Audio Channel's Positions.........................Front: L R
+	Sampling Rate.....................................48.0 KHz
+	Audio Stream Size.................................148 MiB (2%)
+	Audio Stream Language.............................English
+	Date of Original Encoding.........................UTC 2013-04-13 09:00:39
+Unknown Stream #1

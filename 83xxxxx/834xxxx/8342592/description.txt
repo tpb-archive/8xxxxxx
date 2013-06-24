@@ -1,0 +1,54 @@
+Advanced PDF Tools
+
+Advanced PDF Tools is developed for editing PDF property contents without opening PDF documents. It can edit PDF description, PDF custom description, PDF OpenAction options, PDF page view options, PDF metadata contents, and so on. It can recompress images of PDF or remove metadata contents for optimizing PDF. It is independent of any PDF editing software.
+
+Key features
+
+No need for PDF editing software
+Advanced PDF Tools can edit PDF documents without any PDF editing software installed in system. You need not open the PDF documents to edit their property and description contents. This may save your time and money observably.
+
+Various contents
+Advanced PDF Tools can edit various contents of PDF description and property. It can edit PDF descriptions, such as, tile, subject, author, keywords, created time, modified time, creator and producer. It can also edit PDF properties, like OpenAction, page view, image compression and metadata contents.
+
+Batch process
+Advanced PDF Tools is powerful for editing almost all PDF property contents and it also supports batch process. You can deal with a mess of PDF documents with its batch process ability. Just add your PDF documents into the process queue, set up all options, and press a button, and then everything has been done.
+
+Command line operation
+Advanced PDF Tools has a command line version that is named Advanced PDF Tools Command Line which has the same functions of Advanced PDF Tools. The command line version is helpful for manually controlling operation or script including.
+
+Software Development Kit
+Advanced PDF Tools offers a Software Development Kit, Advanced PDF Tools SDK, under a developer or server license. With this SDK, a developer or server operator can implement the same functions of Advanced PDF Tools in his/her software or on his/her server.
+
+Features of Advanced PDF Tools
+
+Support PDF format of version up to 1.8.
+No need for a third-party PDF editing application.
+Edit and append PDF descriptions including tile, subject, author, keywords, created time, modified time, creator and producer.
+Able to set and append custom PDF description.
+Set PDF OpenAction such as, which page to display, hide menu bar or not, initial page magnification, position of PDF viewer window on the screen, and so on.
+Set size of PDF page and page content.
+Able to rescale and rotate PDF page.
+Optimize PDF by removing metadata, Java script, thumbnails, etc.
+Option to enable PDF fast web view.
+Recompress images of PDF to color (Flate, JPEG or JPEG200), gray (Flate or JPEG) or monochrome (Flate or CCITT G4) images.
+Export source XML metadata from PDF.
+Import XML metadata to PDF.
+Support batch process that can edit multiple PDF documents by one click.
+Command line operation - Advanced PDF Tools has a command line version which is much useful for manual control and script calling.
+
+System Requirement:
+
+Memory: at least 64M.
+Operating System: Windows 98/ME/2000/XP/2003/Vista/7 of both 32 and 64-bit.
+
+Homepage: http://www.verypdf.com/app/advanced-pdf-tools/index.html
+
+Installation Instructions:
+
+- Install program.
+- Register application with given key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

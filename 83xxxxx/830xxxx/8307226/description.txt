@@ -1,0 +1,37 @@
+What is new in VirtualDJ 7.4 (20 March 2013)
+
+- new ContentUnlimited Video and Karaoke subscription plans
+- new improved LiveFeedback recommendations
+- Windows 8 multi-touch full compatibility
+- new actions "slip_mode", "slip", "loop_roll"
+- new actions "motorwheel 'speed'" and "motorwheel 'invspeed'" (for Denon motorized wheels)
+- midi definition &lt;jog&gt; can have ccmsb2="" for 21-bit messages
+- device definitions can include firmware update messages
+- fixed &lt;slider orientation="circle"&gt; with negative angles
+- fixed potential crash with malformed id3 tags
+
+MINIMUM system requirements:
+* Intel┬« Pentium┬« 4 or AMD AthlonΓäó XP
+* 1024x768 resolution
+* DirectX compatible soundcard
+* 512MB RAM
+* 50MB free on the hard drive
+
+RECOMENDED system requirements:
+* Intel┬« CoreΓäó 2 or AMD AthlonΓäó X2
+* 1280x1024 resolution
+* Multi-channel DirectX compatible soundcard
+* 1024MB RAM
+* 200MB free on the hard drive
+
+Additional requirements for Video mixing:
+* 2048MB (2GB) RAM
+* ATIΓäó or NVIDIA┬« video card w/256MB of Dedicated DDR3 RAM
+* Video card must support dual-screen output
+
+Supported Operating System:
+* MINIMUM: Microsoft┬« Windows XP SP3 or newer
+* RECOMMENDED: Microsoft┬« Windows 7 Professional 32-bit
+
+Homepage :  
+http://www.virtualdj.com/products/virtualdj/index.html

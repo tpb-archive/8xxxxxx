@@ -1,0 +1,80 @@
+SOURCE: DVD5
+ 
+http://www.imdb.com/title/tt0119783/
+
+-SUBTITLES: English, Serbian
+
+-SAMPLE: Yes
+
+-LANGUAGE: English
+
+
+DIRECTOR: Sidney Lumet
+
+
+CAST:
+---------
+Andy Garcia, Ian Holm, Richard Dreyfuss, Lena Olin, James Gandolfini, Colm Feore, Shiek Mahmud-Bey, Paul Guilfoyle, Dominic Chianese
+
+
+PLOT:
+--------
+Detectives Liam Casey (Ian Holm) and Joey Allegretto (James Gandolfini) are conducting a surveillance operation to apprehend Jordan Washington (Shiek Mahmud-Bey), a notorious drug dealer. On a tip from an informant, they venture into a building where Washington is presumed to be hiding. Washington preemptively fires a submachine gun through his front door, seriously wounding Casey. Police backup units arrive and swarm the building, but Washington executes a cunning escape in an NYPD squad car after murdering two police officers. Sean Casey is the newest member of the district attorneys office and he is close to uncovering a police scandal that might involve his father Liam, who works for the NYPD. Sean is chosen to prosecute the case.
+
+
+General
+-----------
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 900 MiB
+Duration : 1h 48mn
+Overall bit rate : 1 160 Kbps
+Writing application : VirtualDubMod 1.5.10.3
+Writing library : VirtualDubMod build 2550
+
+Video
+-----------
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 1
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Custom
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 48mn
+Bit rate : 1 024 Kbps
+Width : 672 pixels
+Height : 384 pixels
+Display aspect ratio : 16:9
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.159
+Stream size : 795 MiB (88%)
+Writing library : XviD 64
+
+Audio
+-----------
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Duration : 1h 48mn
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Stream size : 99.3 MiB (11%)
+Alignment : Aligned on interleaves
+Interleave, duration : 80 ms (2.00 video frames)
+Interleave, preload duration : 504 ms
+Writing library : LAME3.99r
+Language : English

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,alexlov13,2013-04-16T16:57Z,cider???? wineskin???? native????
+,felipeb0gaerts,2013-04-16T18:01Z,"wineskin, works on 10.8.3"
+,felipeb0gaerts,2013-04-16T19:11Z,"please, seed after you complete the download, because i'll upload new games and stop seeding this one"
+,felipeb0gaerts,2013-04-19T00:25Z,are u finishing the download? is everything going ok?
+,mycophage,2013-04-19T17:13Z,"Thanks for checking in, felipeb0gaerts.
+
+I've been downloading since the first day. The torrent indicates that only 67% of the file is available. In my swarm, 0 seeds are currently connected, at least according to my client (Vuze).
+
+I will seed indefinitely after receiving a full file and verifying that it works, but it looks like we need a bit more seeding from the original poster - at present there's not a full file-equivalent out there in the swarm."
+,felipeb0gaerts,2013-04-19T21:46Z,"i cant seed for more than 125 kb/s, and sometimes i have to turn off my macbook, so please be patient."
+,noobnak,2013-04-20T05:28Z,is this a reupload of previous dead space 3 torrents
+,felipeb0gaerts,2013-04-20T14:47Z,"i dont know, because i made this with wineskin, downloading the version of windows, so i cant know if the other torrents are fake.
+btw, has anyone finished yet?"
+,felipeb0gaerts,2013-04-21T01:31Z,"seed after you download, is the only thing i ask you for after almost a week seeding"
+,Gamatosreee,2013-04-21T09:52Z,I ve downloaded this torrent but when i start game it says your hardware video memory is exhausted...
+,felipeb0gaerts,2013-04-21T16:40Z,whats ur config? is everybody having this problem?
+,felipeb0gaerts,2013-04-21T16:53Z,"i saw a guy with this same problem on a forum, and the solution was: ""Try disabling the graphics auto-detect feature in wineskin (same page where you force the resolution) then do winetricks videomemorysize=512 or more. And lower the graphics all the way down, this should make the game playable."""
+,mycophage,2013-04-21T17:55Z,"Sophos Anti-Virus detects the Mal/Behav-363 Trojan in deadspace3.exe . (The app fails to launch is Sophos is active.)
+
+http://www.sophos.com/en-us/threat-center/threat-analyses/viruses-and-spyware/Mal~Behav-363.aspx 
+
+Removing the infected file would destroy the app, because it's in the executable.
+
+This is supposedly a Windows virus, but I am not sure how a Windows virus behaves on a Mac when Wineskin is running. Anyone have any thoughts? I'm not eager to turn off my antivirus software, but I would like to run the game."
+,mycophage,2013-04-21T19:49Z,"One potential solution to the problem reported in my previous comment might be to replace the deadspace.exe file with a clean version from one of the PC torrents. I tried this with one of the ""cracked"" versions and it didn't work, but I haven't tested exhaustively."
+,felipeb0gaerts,2013-04-23T04:23Z,"guys, i'll stop seeding soon, and if u dont help me it'll be a dead torrent..."
+,mycophage,2013-04-24T17:11Z,"The game doesn't work for me. Even when I turn off my anti-virus software so that the trojan in deadspace.exe isn't detected, the app launches for a few seconds and then disappears.
+
+Mac OS X 10.8.3, 2.3 GHz intel Core i7, 4 GB RAM,  AMD Radeon HD 6750M 1024 MB
+
+If anyone has thoughts about useful reconfigurations that might help the game run (or, as noted above, thoughts about the risks of disabling antivirus software), please post here. 
+
+I'll continue to seed through the weekend, but without more information about how to run the game, or anyone besides the original poster stating that they can get it to work, I'll probably stop at that point."
+,noobnak,2013-04-25T01:10Z,"mycophage
+
+un-zip with ARCHIVE UTILITY"
+,mycophage,2013-04-25T01:50Z,"While I appreciate the helpful comment, noobnak, my problem isn't with unarchiving the file (which I did, as you suggested, with Archive Utility). The file unarchives normally, creating a normal package. This package launches normally, but the game never does anything - just exists as an application for 30 sec or so and then quits."
+,noobnak,2013-04-25T15:13Z,"mycophage
+
+use thishttp://thepiratebay.sx/torrent/8293513/dead_space_3%5Bwineskin%5D_mac"
+,noobnak,2013-04-25T15:14Z,mycophage use this http://thepiratebay.sx/torrent/8293513/dead_space_3%5Bwineskin%5D_mac
+,mycophage,2013-04-25T16:09Z,"Thanks, though I'm not enthusiastic about downloading another 11 GB file.
+
+I solved the failure to launch - turns out that I needed to set Wine to use XQuartz rather than X11. The game launches well but runs choppily even on low graphics settings, and I'm seeing the black horizontal bars that other users discussed on the thread for noobnak's torrent.
+
+If anyone solves that graphics problem, please post."

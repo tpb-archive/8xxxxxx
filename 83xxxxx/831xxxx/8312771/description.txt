@@ -1,0 +1,51 @@
+The Australian Grand Prix from Melbourne's Albert Park circuit.
+
+
+
+MediaInfo Mac 0.7.33.2 file analysis report.
+Created on: 28 Mar 2013 22:27:18 GMT
+Report for file: F1.20130317.Australia.Race.SD.avi
+General / Container Stream #1
+	Total Video Streams for this File.................1
+	Total Audio Streams for this File.................1
+	Video Codecs Used.................................XviD
+	Audio Codecs Used.................................MPEG-1 Audio layer 3
+	File Format.......................................AVI
+	Play Time.........................................4h 25mn
+	Total File Size...................................2.16 GiB
+	Total Stream BitRate..............................1 164 Kbps
+	Encoding Library..................................MPlayer
+Video Stream #1
+	Codec (Human Name)................................MPEG-4 Visual
+	Codec (FourCC)....................................XVID
+	Codec Profile.....................................Advanced Simple@L5
+	Frame Width.......................................640 pixels
+	Frame Height......................................352 pixels
+	Frame Rate........................................25.000 fps
+	Total Frames......................................398872
+	Display Aspect Ratio..............................16:9
+	Scan Type.........................................Progressive
+	Colorimetry.......................................4:2:0
+	Codec Settings (Summary)..........................BVOP
+	Codec Settings (Packet BitStream).................No
+	QF (like Gordian Knot)............................0.182
+	Codec Settings (BVOP).............................Yes
+	Codec Settings (QPel).............................No
+	Codec Settings (GMC)..............................No warppoints
+	Codec Settings (Matrix)...........................Default (H.263)
+	Video Stream Length...............................4h 25mn 54s 880ms
+	Video Stream BitRate..............................1 024 Kbps
+	Bit Depth.........................................8 bits
+	Video Stream Size.................................1.90 GiB (88%)
+	Video Encoder.....................................XviD0063
+Audio Stream #1
+	Codec.............................................MPEG Audio
+	Codec (FourCC)....................................55
+	Codec Profile.....................................Joint stereo
+	Audio Stream Length...............................4h 25mn 54s 913ms
+	Audio Stream BitRate..............................128 Kbps
+	Audio Stream BitRate Mode.........................CBR
+	Number of Audio Channels..........................2
+	Sampling Rate.....................................44.1 KHz
+	Audio Stream Delay................................40ms
+	Audio Stream Size.................................243 MiB (11%)

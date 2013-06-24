@@ -1,0 +1,13 @@
+Inpaint reconstructs the selected image area from the pixel near the area boundary. Inpaint may be used unwanted objects from your photos. 
+Delete any unwanted object from your photo, such as extra power-line, people, text... The program will automatically inpaint the selected area to erase it. 
+If some unexpected object spoils an otherwise good photograph, Inpaint may be used to remove it. Simply select the object. No need for fiddly messing about with the clone tool! 
+really magic function. 
+It is alarmingly simple to use. Draw a selection around the object you wish to remove from the picture, and run smart remove selection. 
+Inpaint will fill the selection area with intelligently generated texture drawn from the surrounding image data.
+
+Info:
+- Install and don't start program
+- Copy patch to the install dir and run
+- Done
+ 
+http://img90.imageshack.us/img90/7624/inpaintsc.jpg

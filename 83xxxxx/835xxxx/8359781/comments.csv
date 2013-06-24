@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,nickcwpg,2013-04-11T13:20Z,"I downloaded and installed. I then opened Toolkit, on the Main tab I get: ""supported office installation is not detected on this system"".  Everything is greyed out.  I go to Activation Tab and under Auto KMS tool everthing is grey. I go down tool list and everything has grey keys except KMS Server Service.  I can the click install which I did.  I then go the Product Keys Tab. When I select Office 2013 and each office product and click chek, I get a Product Key which is valid for each product. 
+So that is my experience. The EZActivator is greyed out in Activation Tab.  
+So I next open Word and checked for status and Product Information.  In that screen I see ""Activation Required""  What have I done wrong. Could you consider including a detailed activation instructions.  Thank You"
+[V],murphy78,2013-04-11T13:34Z,"Don't know. You didn't give enough information about your system. I tested it just fine on my system. If you are using xp, I'm not entirely sure you can use MTK. If that's the case, try upgrading to win7 like everyone else on the planet. It doesn't require very much more processing power."
+,nickcwpg,2013-04-11T20:08Z,"I am using Win 7, 64 bit.  I am willing to uninstall and start over if you can send me more step by step instructions on activation.  I am a bit challenged with computers but know enough to follow.  Please respond ASAP...I will keep checking.  Could I contact you personally"
+[V],murphy78,2013-04-12T08:00Z,"Try the MTK project page over at mdl nick...
+go to mydigitallife.info then click on forums/community, then mdl projects, then Microsoft Toolkit"
+,nickcwpg,2013-04-12T11:12Z,Tried another Microsoft Toolkit and same thing on Main Tag: Supported Office installation not detected on this system.  I will now uninstall Office and then try re-installing
+,nickcwpg,2013-04-13T15:36Z,Ok. I had to clean install Win 7. Uninstall update kb971033 which installed itself.  Then checked registry keys to remove all microsoft office entries. I then installed your files.  The toolkit recognized the installation and activation was successful. I think the problem I was having was related to registry keys left over from previous office installations.  Thanks
+,ecoSt,2013-04-16T14:30Z,"hey Murphy, thanks for this app. just have 2 doubts to clarify please
+1.  do i need to uninstall the office 2007 currently running in my PC?
+2.  Is this a permanent activation? (I ask because of the need to back-up activation with MTK)...or is it just another KMS activation that might need to be reactivated once in a while.
+
+Waiting for your response... YOu a great dude"
+,abik0006,2013-04-19T13:50Z,"10000000000% working trust me
+
+1) Mount the iso using PowerISO.
+
+2) Run Setup.
+
+3) Restart pc after setup finalizes.
+
+4) Extract all files from the archive file titled ""MTKV243"".
+
+5) Run ""MICROSOFT TOOLKIT"" As Administrator.
+
+6) Click on the Office Icon.
+
+7) Click on the activation tab and choose Activate on the right hand side.
+
+8) Enjoy the software.
+
+this is a awesome torrent
+"
+,abik0006,2013-04-19T13:54Z,"worked on my pc
+1gb ram 400mhz
+intel pentium dual core E2200 @ 2.20GHz 2.20GHz
+windows 7 ultimate 32 bit (6.1, build 7601)"
+,sundharam,2013-04-22T07:44Z,My Kaspersky detects a genric trojan when the activate button is hit in the toolkit. Any ideas how I can deal with this?
+,ChillyCrossFoot,2013-04-23T17:39Z,"""setup cannot find or validate an installation file office 2013"" Whether I try to run as Administrator from the ISO Image Mounted, or from 7zip, or from a separate folder extracted from the ISO. Does not matter. Setup JUST does not start. This is B.S. Wait for a Fix. Office 2013 is nice, but what's the use if Setup cannot start? 
+Can you please chime in on this? I was so frustrated I deleted the download! Will come back to DL if I can calm down. A little help would be appreciated Murphy, thank you."
+,ChillyCrossFoot,2013-04-23T17:44Z,"Exact Message when Setup is Run is this.
+=============================
+Setup can't find or validate installation file. Please try reinstalling Office from your installation source, or if you installed from a downloaded package, please re-download and reinstall. If you continue to have problems, please contact Microsoft or your system administrator.
+==============================
+
+What mess is this? 
+I have .NET 4.0 Extended. Latest Visual C++ also. What can I do?"
+,ChillyCrossFoot,2013-04-23T18:00Z,This IMAGE is Corrupted. Setup does not Start. Please repost. I have downloaded this Twice.
+,ChillyCrossFoot,2013-04-23T18:04Z,"NEVER MIND. I am sorry. I just found out SSE2 is a requirement for Office 2013. If you are installing on ANY x86 Processor without SSE2, you are screwed. I use such a Processor to test downloads BEFORE putting them on my main PC. So I hope I helped clear that up. Often System Requirements are over looked by many, including myself. Will try this on a different PC and report back when I have time. Thanks!"
+,ShyGuyHC,2013-04-24T07:21Z,Thanks for all these updates to so many versions. Helping techs out everywhere. Much Appreciated.
+,MEGAWOP,2013-04-28T03:29Z,For some reason it keep saying that it encountered an error during installation
+,thescotsman1960,2013-05-19T03:29Z,"I need to write this, I'm not computer savy. This download worked for me the first time & I only wanted the Outlook portion. I kept my MS 2010 by clicking the customize and using the keep 2010. I then used WinRAR and clicked on Set up. Should say this download is on my USB 8 gig. The setup started and installed like magic. Then i restarted my HP computer. I then used WINRAR for the  MTK file, clicked set up as ADMIN then clicked the activation tab(second one from the left). Now I have a pop up from MS that says that my edition is not activated..no worries as the MTK activated successfully. Then I rebooted. Outlook 2013 took all of my setting from 2010 and works perfectly. It's activated as I checked. It was a smooth operation. Thank you Murphy78."

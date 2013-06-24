@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,zlamar,2013-04-07T05:26Z,"Will it work with maps from your post: ""Sygic_v.13.1.0_Europe_2012.10_Maps.rar""
+and with this: ""Sygic_Android_Latest_LoquendoTTS_Voices 27.03.2013.rar""?
+And one more question:
+In subfolder ""maps"" from  ""Sygic_13.1.0_TTS_Full_SP.rar"" there is ""WCL"" + ""content""... and also in ""Sygic_v.13.1.0_Europe_2012.10_Maps.rar"", there is ""WCL"" +""content""...?
+Which ""WCL"" folder and which ""content"" should be in Sygic/Map folder on phone, which one we should use?"
+,ScorpioPirate,2013-04-07T13:36Z,"@zlamar
+It will work with 2012.10 maps.
+And alo with to latest TTS files.
+I have made both ""wcl,content"" in all my maps uploads, because some users only use the maps
+In your case, use the content from ""Sygic_13.1.0_TTS_Full
+
+Have fun :)"
+,jvvarghese,2013-04-10T13:12Z,"Download Sygic v.12.2.2 via Play.google.Activate as trial and download data-content and those maps you want to use.Rename your folder ""sygic"" to Sygic_1"" and uninstall Sygic trail.after that Install Sygic v.12.2.2 Full, don't run yet, go to the folder ""sygic_1""rename it back to ""sygic"" and then run Sygic.WILL THESE STEPS WORKS FOR VERSION 13.1.0?"

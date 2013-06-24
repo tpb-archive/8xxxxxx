@@ -1,0 +1,33 @@
+CCleaner Professional is a system optimization and privacy tool. It removes unused files from your system - allowing Windows to run faster and freeing up valuable hard disk space. It also cleans traces of your online activities such as your Internet history. But the best part is that it's fast (normally taking less than a second to run) and contains NO Spyware or Adware!
+
+CCleaner cleans the following:
+ΓÇó Internet Explorer. Temporary files, history, cookies, super cookies, Autocomplete form history, index.dat files.
+ΓÇó Firefox. Temporary files, history, cookies, super cookies, download history, form history.
+ΓÇó Google Chrome. Temporary files, history, cookies, super cookies, download history, form history.
+ΓÇó Opera. Temporary files, history, cookies, super cookies, download history.
+ΓÇó Apple Safari. Temporary files, history, cookies, super cookies, form history.
+ΓÇó Other Supported Browsers. K-Meleon, Rockmelt, Flock, Google Chrome Canary, Chromium, SeaMonkey, Chrome Plus, SRWare Iron, Pale Moon, Phoenix, Netscape Navigator, Avant and Maxthon.
+ΓÇó Windows. Recycle Bin, Recent Documents, Temporary files, Log files, Clipboard, DNS Cache, Error Reporting, Memory Dumps, Jump Lists.
+ΓÇó Registry Cleaner. Advanced features to remove unused and old entries, including File Extensions, ActiveX Controls, ClassIDs, ProgIDs, Uninstallers, Shared DLLs, Fonts, Help Files, Application Paths, Icons, Invalid Shortcuts and moreΓÇª
+ΓÇó Third-party applications. Removes temp files and recent file lists (MRUs) from many apps including Windows Media Player, eMule, Google Toolbar, Microsoft Office, Nero, Adobe Acrobat, WinRAR, WinAce, WinZip and many moreΓÇª
+
+Changes in CCleaner 4.00.4064 (26 Mar 2013):
+- New improved graphics and icon.
+- Improved internal architecture for better performance.
+- New Duplicate File Finder tool.
+- New System and Browser Monitoring (Pro Version).
+- Optimized and improved Registry Cleaning.
+- Added cleaning for Avast Antivirus 8, Adobe Photoshop CS6, Samsung Kies and Real Player 16.
+- Improved Drive Wiper performance.
+- Optimized Startup item detection algorithm.
+- Optimized 64-bit builds on Windows 7 and 8.
+- Many performance improvements and bug fixes.
+
+Install notes:
+
+DISCONNECT THE INTERNET BEFORE INSTALLING.
+
+- During installation uncheck: Automatically check for updates CCleaner
+- After installation run
+- Register pasting data from a file Serial.txt
+- Turn on the internet

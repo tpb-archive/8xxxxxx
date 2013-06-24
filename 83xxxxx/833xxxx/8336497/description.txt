@@ -1,0 +1,10 @@
+Media Inspector (was MediaInfo Mac) is a multimedia file analyzer. By using the amazing MediaInfo Library by Jerome Martinez, it will tell you every detail about codecs, settings, profiles and containers used for almost any audio or video file.
+WHAT'S NEW
+Version 2.0.1:
+Fixed most UI issues reported by several users.
+Fixed Drag and Drop functionality.
+Fixed "Open With..." annoyances.
+Added new icon and graphics for retina display Macs.
+Updated MediaInfo Library
+REQUIREMENTS
+Intel, Mac OS X 10.6 or later

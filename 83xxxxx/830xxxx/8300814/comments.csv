@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,simolino,2013-03-26T05:23Z,"FAKE!! he's a fucking spammer, directs you to a survey site, don't download this shit. Nice try motherfucker."
+,Reinsch,2013-03-28T09:25Z,Is this a fake or not?
+,xangelicsin,2013-03-28T11:46Z,"simolino
+
+It's real you  Imbecile . go fuck yourself and learn how to download a fucking torrent , click on ""Get this torrent"" ... fucking TROLL "
+,theprophecyx3,2013-03-28T13:51Z,i would like to know if this fixes display cases bug in hearthfire
+,theprophecyx3,2013-03-28T13:58Z,wheres my comment? i need to know if this fixes display cases in herthfire asap
+,theprophecyx3,2013-03-28T15:01Z,it affects save file :/
+,WDoubleYouW,2013-03-28T15:25Z,"@theprophecyx3
+Display case bugs are all Bethesda's fault. To see the bug fixes, goto http://uesp.net/wiki/Skyrim:Patch"
+,MLO89,2013-03-31T09:04Z,"simolino had a dick in his mouth when he posted. Take the dick out you simolino fuck, this upload is legit. Might mention to, it has the crack in it rather than in a separate folder."
+,Sonicfan244,2013-04-01T01:49Z,Will this work with HD Texture pack and All DLC? Please reply.
+,WDoubleYouW,2013-04-01T06:12Z,"@Sonicfan244
+Yes, it is compatible with HD Texture Pack and all DLC."
+,Shantanab,2013-04-01T14:39Z,Will this work if I'm applying it directly to the RAZOR-cracked Skyrim (i.e. without applying the first 12 updates)?
+,Shantanab,2013-04-01T14:52Z,and is it compatible with x64? 
+,WDoubleYouW,2013-04-01T15:10Z,"@Shantanab
+Yes and Yes"
+,ShadowJax04,2013-04-02T00:33Z,"Does this patch include legendary difficulty? After installing and cracking I cannot toggle this mode. I will try reinstalling, for what I gather this version is supposed to include legendary mode? thx for upload thumbs up"
+,ShadowJax04,2013-04-02T01:00Z,Fixed.
+,.Korpiklaani.,2013-04-07T19:29Z,thanks!
+,Shantanab,2013-04-08T12:07Z,"when running using SKSE it asks me to upgrade to latest Skyrim, also it does not let me select files from data section, and it does not support the HiAlgoBoost GPU Accelerator.
+
+I believe your http://thepiratebay.sx/torrent/8332295/Skyrim.v1.9.32.0.with.Dawnguard.Hearthfire.Dragonborn.WWW.V2.iso, fixes all this, but I already have the game and only need the bug-fixed update...will you upload only that for us folks who already have the game"
+,WDoubleYouW,2013-04-08T13:56Z,"@Shantanab
+It sounds like your skse and HiAlgoBoost are outdated. Make sure skse is updated to 1.6.13 from skse.silverlock.org. Also make sure HiAlgoBoost is updated to version 2.3c."
+,Shantanab,2013-04-09T14:56Z,"@ WDoubleYouW : You're right!! Works like a charm, thank you"
+,mat15,2013-04-09T21:16Z,hi do i have to download all previous updates to make this working plz reply anyone
+,WDoubleYouW,2013-04-09T22:51Z,"@mat15
+No, you do not need to download the previous updates."
+,Shantanab,2013-04-10T10:49Z,"Thanks for amazing updates:
+I have been meaning to tell all of you who are facing problems with non-selectable data files, even after altering the registry..
+1. open ""SkyrimPrefs.ini"", located most probably inside ""My Games"" inside ""Documents""...using text editor.
+2. find the section under ""[Launcher]"", then add this line ""bEnableFileSelection=1"" under this section...
+3. Save this and open launcher ... VOILA!!!"
+,weltall2,2013-04-15T02:34Z,Thanks as always for the best uploads Double. You are the only unrecognized uploaded I trust on here. It has been like that since you started uploading the DLC with only the bsa and esm files and pointed out only these are needed. Also you post updates as just copy-paste files instead of those annoying installers :D
+,xDVoid,2013-04-16T05:59Z,"Everytime i launch the game im taken to the steam page, any help?"
+,SirLuminus,2013-04-17T18:52Z,Each time i try to open the game (both skse or normal launcher) i pass the Bethesda load screen and then it drops me on my desktop.Any ideas?
+,bixxi3,2013-05-04T00:11Z,"Hey can someone help me out i seem to be having a problem, which normally doesn't happen since i've been doing this for years.
+
+But once i updated this Skyrim will now open steam and not play. It is like the crack isn't working. 
+Any ideas will help alot thanks"
+,glardian,2013-05-04T08:19Z,"@SirLuminus
+It is probably a certain mod you are running. I had the same problem. For me it was Deus Mons_WithNPCs. Once I disabled it, voila. Just turn all your mods off and turn them back on one at a time until the game won't load. Then you've found the culprit."
+,WDoubleYouW,2013-05-05T21:59Z,"@bixxi3
+You probably used the other torrent with the same title, which tends to do that if people neglect to copy the crack over the uncracked update."
+,TopHatCats,2013-05-08T08:34Z,Is this going to affect my save file in any way?
+,TopHatCats,2013-05-08T08:35Z,Is this going to effect my save file at all?
+,evilguy69,2013-05-08T22:26Z,"Once i updated this Skyrim, when i open skyrim it will now open steam and not play. It is like the crack isn’t working.
+Any ideas will help alot thanks"
+,alphazombieelite,2013-05-10T23:23Z,"SKSE works, the gameplay an all works, but the map doesn't show my current location or goal, and the names of my skills are all fucked up, help?"
+,WDoubleYouW,2013-05-11T05:02Z,^ Sounds like an issue with incorrectly installed mods.
+,alphazombieelite,2013-05-12T18:27Z,"Yeah but I uninstalled all my mods and its still fucked up, does it have anything to do with the fact I used it on a KaOs release of it?"
+,alphazombieelite,2013-05-12T18:32Z,"Well, it didn't do this before I installed your update...however, I DID install another mod outside of the nexus manager at that time..so...you may be right, imam try reinstalling the game and your update"
+,Alkio,2013-05-14T00:04Z,"Works well, thanks for the patch. Strangely my anti virus regarded TSEV.exe as not safe and deleted it but no worries, i put in the one i got from a patch and it works fine. Like above the map is acting weird, my mouse cant register any clicks on maps or tabs, and when reading a book i cant put it down. Strange indeed. I do not have any mods, and this is the first update i have installed."
+,Alkio,2013-05-14T00:12Z,Nevermind ^ Downloaded TSEV.exe and it works fine now. Thanks agian.
+,dmac154,2013-05-16T21:32Z,thanks man
+,LucasMDOC_,2013-05-31T00:07Z,"I couldn't extract the files, all the files told that the previous part is missing. How to proceed?"
+,A57sc,2013-06-01T17:32Z,Perfecto! Buen torrent! :-)
+,richie231186,2013-06-06T10:11Z,Works good thanks mate!

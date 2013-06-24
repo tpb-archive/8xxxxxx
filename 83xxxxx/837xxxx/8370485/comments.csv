@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,viggen6666,2013-04-14T20:45Z,"excellent build, but one very thing missing, sata Drivers, I had to put my bios on compatibility mode"
+,Ultrasaurus,2013-04-14T21:06Z,"@viggen6666
+If you want i can make a iso with that. 
+Or something else you want to request thanx"
+,viggen6666,2013-04-14T21:18Z,"Yes, I like XP Home Edition, the only thing missing are those Sata drivers, and a activator altogether with this iso, like a separate file, as you did with the readme file, excellent work btw"
+,viggen6666,2013-04-14T21:29Z,"if you can do that, thanks, and an activator with the ISO, also I have found an unusual error with this build on msiexec.exe
+
+szAppName : msiexec.exe     szAppVer : 4.5.6001.22159     szModName : msi.dll
+szModVer : 4.5.6002.22362     offset : 0009c35a     "
+,viggen6666,2013-04-14T22:19Z,"I don't if it was suppose to happen, but Remote Desktop Connection, gives me an error, I don't know if this feature is only for PRO"
+,Ultrasaurus,2013-04-15T00:42Z,Remote Desktop are a feature in pro only :O
+,viggen6666,2013-04-15T08:21Z,"yes remote desktop is only a feature of pro, but why does ms puts an icon of it on the accessories, I love this XP, never had my computer so fast, to make this perfect is the sata drivers, thanks ultrasaurus, the msiexec.exe bug only happens when I install Diskeeper 2011, it must have something to do, whith a feature which is available on PRO which isn't available on Home Edition"
+,viggen6666,2013-04-17T21:10Z,"Ultrasaurus, I have already made my own XP Home with Sata Drivers, never thought it was so easy, used your ISO, and intregraded the drivers, now it's perfect, thank you so much for you work"
+,Ultrasaurus,2013-04-17T23:47Z,"UpdatePack updates only RemoteDesktop files to latest version (KB961742-v3)
+ but it doesn't add nothing. It's updated Windows' tsoc.inf file which decides during Windows Setup to add the remote desktop icon.
+To prevent it to do so, I must modify tsoc.inf file after integration: extract tsoc.in_ with Cabtool.
+
+please take note that KB961742-v2 adds only 5 new files and doesn't remove anything so you can keep XP Home as is!"
+,viggen6666,2013-04-19T00:39Z,"So this flaw of XP Home of adding a desktop icon of Remote Desktop is something that MS really missed, I really don't understand why MS didn't remove that icon on SP 1 trough SP 3.
+Btw are you going to release another build of XP Home in the future, to address these issues made by MS?"
+,FRID@,2013-04-19T14:01Z,viggen..The icon comes only with the update..

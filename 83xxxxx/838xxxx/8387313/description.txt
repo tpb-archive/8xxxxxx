@@ -1,0 +1,66 @@
+General
+Unique ID                                : 230519388413517338399941019228233980953 (0xAD6C6B56A35A951A9DBF2C19DACEDC19)
+Complete name                            : \Young Offender DVDrip x264 Ac3-MiLLENiUM.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.10 GiB
+Duration                                 : 1h 20mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 960 Kbps
+Encoded date                             : UTC 2013-04-18 17:32:22
+Writing application                      : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 20mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 510 Kbps
+Maximum bit rate                         : 40.0 Mbps
+Width                                    : 720 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.875
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.218
+Stream size                              : 849 MiB (75%)
+Writing library                          : x264 core 130 r2273 b3065e6
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : A_AC3
+Duration                                 : 1h 20mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 258 MiB (23%)
+Default                                  : Yes
+Forced                                   : No
+
+Screens : 
+http://s12.postimg.org/8x5h0wc2l/Young_Offender_DVDrip_x264_Ac3_Mi_LLENi_UM_mkv_sna.jpg 
+http://s12.postimg.org/qbpp9697h/Young_Offender_DVDrip_x264_Ac3_Mi_LLENi_UM_mkv_sna.jpg 
+http://s12.postimg.org/ywj10cjdp/Young_Offender_DVDrip_x264_Ac3_Mi_LLENi_UM_mkv_sna.jpg
+

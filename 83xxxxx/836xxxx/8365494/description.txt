@@ -1,0 +1,28 @@
+Garmin BlueChart g2 HEU800X The Nordics V14.51 UNLOCKED
+
+Detailed offshore coastal coverage of the Nordic countries including Norway, Sweden, Finland, and Denmark. Coverage features Svalbard; the North and Baltic Seas; the Skagerrak and Kattegat Straits; the Gulfs of Bothnia, Finland, and Riga; and the bordering coasts of Russia, Estonia, Latvia, Lithuania, Poland, Germany, the Netherlands, and Belgium. Also includes inland waterway coverage for Finland.
+
+/HEU800X 2013/Garmin/GMAPSUPP.IMG, length 1972797440
+Header:   	14.02.2013 08:30:45, DSKIMG, XOR 00, V 14.51, Ms 0
+Mapset:   	HXEU800X-The Nordics v2013.1
+fat:		1000h - 1200h - 58000h, block 32768
+maps:		148, sub-files 441
+
+Sub-file         fat     length
+ MARINAS  MDR   1200h     83961
+ MARINAS  SRT   1400h       968
+ B0000076 RGN   1600h      2900
+ B0000076 LBL   1800h       719
+	CP 1252, Western European
+ B0000076 TRE   1A00h       571
+	map 1123dea (17972714)
+	PID 1, FID 2819, region 18,1
+	date 13.02.2013 08:33:02
+	priority 28, parameters 0 6 29 3, locked, transparent
+	N: 81.199951, S: 47.246704, W: 2.504883, E: 37.375488
+	GARMIN G-Map
+	Copyright 1995-2013 by GARMIN Corporation.
+
+
+
+HOW TO: just copy the Garmin folder to your SD-card

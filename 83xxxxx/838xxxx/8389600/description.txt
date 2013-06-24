@@ -1,0 +1,48 @@
+ANDROID FIREWALL v2.2.0
+
+
+
+This is a fork of the popular application DroidWall that uses iptables to limit data usage and add security to Android. Droidwall was originally created by developer Rodrigo Zechin Rosauro. The app was discontinued and did not function correctly on Android 4.x.
+
+Note: ROOT ACCESS IS REQUIRED
+
+If you don't know what ROOT ACCESS is please read this: http://en.wikipedia.org/wiki/Android_rooting
+
+
+You can install the APK found in this torrent (See instructions below) or install it from https://play.google.com/store/apps/details?id=com.jtschohl.androidfirewall.
+
+
+------------
+Changelogs:
+-----------
+v2.2.0:
+a. Tethering now functions correctly. Root applications and kernel must be enabled. Please read the app description for more information.
+b. If you have a lot of apps on your SDCard, those apps, probably disappear from AF after a reboot. There is now a setting that changes that. This changes how the rules are applied after reboot. Please be aware that if you enable this option the firewall will be disabled until the Media Scanner is done scanning the SDCard.
+
+--------------------------
+Prerequisite requirement:
+--------------------------
+1. A rooted Android Phone.
+
+
+--------------------------
+Steps to install the APK:
+--------------------------
+
+1. On Android 2.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 3.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 4.x.x, go to Settings | Security and tick Unknown Sources.
+
+
+2. Copy the APK onto phone's internal SD card using a Wifi program or directly via the phone's USB connection.
+
+
+3. Use a file manager like (Astro File Manager, Root Explorer, etc) to browse to location of saved APK.
+
+
+4. Tap on APK to install.
+
+
+Enjoy.

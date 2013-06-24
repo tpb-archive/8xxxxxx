@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,aildoux,2013-04-29T11:23Z,Thanks.  Not sure how this extraction will go so I'll start by getting the first one before the rest.
+,aildoux,2013-04-30T02:17Z,"Ok, I got it:  open .wv.iso.wv with WinRar, convert .wv to .wav with dbPowerAMP, open .wv.cue with EAC, rename line 7 from .wv to .wav, click OK, File, Save CUE sheet..., rename .wv.cue to .wav.cue, click Tools, Split WAV by CUE sheet..., with gaps, open .wav file, open .wav.cue file, and voilà individual tracks in wave format are created.  Want flac or mp3? Convert wave to any format with dbPowerAMP.  Anyway, worked for me.  There could be a more simple solution, I don't know."

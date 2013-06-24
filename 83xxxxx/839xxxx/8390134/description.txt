@@ -1,0 +1,3 @@
+Develop smaller, lighter web apps that are simple to create and easy to test, extend, and maintain as they grow. This hands-on guide introduces you to AngularJS, the open source JavaScript framework that uses Model-view-controller (MVC) architecture, data binding, client-side templates, and dependency injection to create a much-needed structure for building web apps.
+
+Guided by two engineers who worked on AngularJS at Google, you'll walk through the framework's key features, and then build a working AngularJS app-from layout to testing, compiling, and debugging. You'll learn how AngularJS helps reduce the complexity of your web app.

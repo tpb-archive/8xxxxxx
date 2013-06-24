@@ -1,0 +1,71 @@
+screens;
+ 
+http://baypic.net/img-517587caaa6d1.html 
+ 
+http://baypic.net/img-517587cf627f9.html 
+ 
+http://baypic.net/img-517587d3db4ce.html 
+
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.71 GiB
+Duration                                 : 38mn 37s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 326 Kbps
+Encoded date                             : UTC 2013-02-22 02:46:02
+Tagged date                              : UTC 2013-02-23 04:48:51
+Writing application                      : Sorenson Squeeze
+Comment                                  : Encoded by
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 38mn 37s
+Bit rate mode                            : Variable
+Bit rate                                 : 6 000 Kbps
+Maximum bit rate                         : 9 600 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Minimum frame rate                       : 29.970 fps
+Maximum frame rate                       : 30.000 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.097
+Stream size                              : 1.62 GiB (95%)
+Encoded date                             : UTC 2013-02-22 02:46:02
+Tagged date                              : UTC 2013-02-22 02:46:02
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 38mn 37s
+Bit rate mode                            : Constant
+Bit rate                                 : 320 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 88.4 MiB (5%)
+Encoded date                             : UTC 2013-02-22 02:46:02
+Tagged date                              : UTC 2013-02-22 02:46:02

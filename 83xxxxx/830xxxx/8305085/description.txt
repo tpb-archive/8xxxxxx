@@ -1,0 +1,38 @@
+Zygor Guides update v4.0.6185, released March 26th, 2013. (Horde and Alliance)
+
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary 
+
+
+Changelog:
+
+-------
+
+[B] Leveling
+Fixed reported errors in the Death Knight Starting guide.
+
+[B] Dailies/Reputations
+Added and edited content in the Isle of Thunder dailies.
+Added in the final quest for the Tillers.
+
+[B] General
+Fixed several parsing issues in the guides.
+
+[B] Pets/Mounts
+Added in the Tiny Carp to the list.
+
+[A] Reputations
+Updated guides in Northrend.

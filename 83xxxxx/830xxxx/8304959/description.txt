@@ -1,0 +1,33 @@
+**Claims-Based Identity for Windows: The Big Picture - 00:01:16
+- Course Introduction - 01:16
+- This module is unavailableUnderstanding Claims-Based Identity - 00:25:18
+- The Problem: Too Much Diversity - 04:04
+- The Solution: Claims-Based Identity - 02:23
+- STSs and Identity Providers - 01:30
+- Getting a Token - 01:38
+- Using a Token - 02:07
+- How Applications Use Claims - 02:46
+- Using Multiple Identity Providers - 02:35
+- Identity Across Organizations - 02:48
+- Identity Federation - 02:31
+- Claims Transformation - 02:05
+- Summary - 00:51
+
+**Implementing Claims-Based Identity: Microsoft Technologies - 00:12:20 	
+- Microsoft Components for Claims-Based Identity - 02:52 	
+- Windows Server Active Directory with AD FS - 02:20 	
+- Windows Azure Active Directory - 02:31 	
+- Windows Azure Active Directory Access Control - 01:49 	
+- Windows Identity Foundation - 01:27 	
+- Summary - 01:21
+	
+**Using Claims-Based Identity: Scenarios - 00:21:45 	
+- Accessing an Enterprise Application: On-Premises - 03:29 	
+- Accessing an Enterprise Application: Via the Internet - 01:26 	
+- Accessing an Enterprise Application: In the Cloud - 01:37 	
+- Single Sign-On to an Application in Another Enterprise: Using Federation - 03:42 	
+- Using Windows Azure Active Directory as an Identity Provider - 01:49 	
+- Using Windows Azure Active Directory as a Federation Provider - 02:18 	
+- Using Windows Azure Active Directory Access Control as a Federation Provider - 03:14 	
+- Allowing Logins withand Other IDPs - 03:05 	
+- Summary - 01:05

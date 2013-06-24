@@ -1,0 +1,88 @@
+Name: The.Host.2013.iTALiAN.MD.HDCAM.XviD.MeP.mpg
+Date: Sun, 27 Mar 2013 17:46:20 +0100
+Size: 1,609,444,556 bytes (1893.192822 MiB)
+
+[ Generic infos ]
+
+Duration: 02:05:19 (6259.419833 s)
+Container: AVI OpenDML indexes multi-chunks
+AVI has index: Yes
+Total tracks: 2
+Track nr. 0: video
+Track nr. 1: audio
+Junk: VirtualDub build 32842/release
+
+[ Relevant data ]
+
+Resolution: 960 x 540
+Width: multiple of 32
+Height: multiple of 4
+Average DRF: 6.750614
+Standard deviation: 2.175313
+Std. dev. weighted mean: 1.649428
+
+[ Video track ]
+
+FourCC: xvid/XVID
+Resolution: 960 x 540
+Frame aspect ratio: 16:9 = 1.777778
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 16:9 = 1.777778
+Framerate: 29.97003 fps
+Total frames: 187,595
+Frames RIFF AVI: 159,495
+Stream size: 2,398,021,759 bytes (2286.931762 MiB)
+Bitrate: 3064.848597 kbps
+Qf: 0.197268
+Key frames: 2,024 (0; 122; 383; 528; 730; ... 187450)
+Null frames: 0
+Min key int: 1
+Max key int: 300
+Avg key int: 92.685277
+Delay: 0 ms
+
+[ Audio track ]
+
+Audio tag: 0x55 (MP3)
+Channels: 2
+Chunks: 180,224
+Stream size: 96,223,053 bytes (91.765454 MiB)
+Bitstream type (bs): MPEG-1 Layer III
+Frames (bs): 260,787
+Duration (bs): 01:44:19 (6258.888 s)
+Chunk-aligned (bs): No
+Bitrate (bs): 128 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): joint stereo
+Padding (bs): No
+Emphasis (bs): none
+Initial skip (bs): 8,000 bytes
+Internal skip (bs): 212 bytes
+Final skip (bs): 297 bytes
+Preload: 0 ms (2 video frames)
+Max A/V diff: 65 ms
+Delay: 0 ms
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 2
+User data: DivX503b1393p
+User data: XviD0064
+Packed bitstream: Yes (*)
+QPel: No
+GMC: No
+Interlaced: No
+Aspect ratio: Square pixels
+Quant type: H.263
+Total frames: 187,595
+Drop/delay frames: 0
+Corrupt frames: 0
+
+I-VOPs:   2024 (  1.079 %)
+P-VOPs:  74226 ( 39.567 %) ########
+B-VOPs: 111347 ( 59.354 %) ############
+S-VOPs:      0 (  0.000 %)
+N-VOPs:      0 (  0.000 %)
+
+Max consecutive B-VOPs: 2
+    1 consec: 27309 ( 39.391 %) ########

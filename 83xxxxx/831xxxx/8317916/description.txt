@@ -1,0 +1,32 @@
+Wireshark 1.9.0
+================
+
+Platform: Linux Debian package (64-bit)
+Compiled from source codes (Development Release 1.9.0).
+
+Working very well with Ubuntu 12.04 LTS (64-bit)
+
+
+A tool to analyse and troubleshoot your network
+
+Wireshark has all of the standard features  you would expect in a protocol analyzer, and several features not seen in any other product.
+
+Wireshark is used by network professionals around the world for troubleshooting, analysis, software and protocol development, and education.
+
+
+Product's homepage: http://www.wireshark.org/
+
+Here are some key features of "Wireshark":
+
+┬╖ Data can be captured "off the wire" from a live network connection, or read from a capture file.
+┬╖ Ethereal can read capture files from tcpdump (libpcap).
+┬╖ Captured network data can be browsed via a GUI, or via the TTY-mode "tethereal" program.
+┬╖ Capture files can be programmatically edited or converted via command-line switches to the "editcap" program.
+┬╖ Output can be saved or printed as plain text or PostScript.
+┬╖ Data display can be refined using a display filter.
+┬╖ Display filters can also be used to selectively highlight and color packet summary information.
+┬╖ All or part of each captured network trace can be saved to disk.
+
+
+Read more about Wireshark features from their official web page: 
+http://www.wireshark.org/

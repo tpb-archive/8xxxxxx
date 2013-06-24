@@ -1,0 +1,12 @@
+World's most popular multimedia player! Ever since the very beginning in the year 2000, the BS.Player ProΓäó has been one of the world's most popular multimedia players. It is popular for many reasons, one however should be pointed out: BS.PlayerΓäó is the first player ever to enable its users to focus on watching the movie instead of dealing with poor computer capabilities or running around looking for a proper setting and codec. BS.PlayerΓäó is a Windows ┬« player that plays back all kinds of all sort of media files ( avi / mpg / asf / wmv / wav / mp3...) and specialises in video and divx playback. It can also display subtitles. Also available are different skins for this player.
+
+Changelog:
+ BSPlayer 2.64 - improved compatibility with Windows 8 Metro
+
+ FIXED:
+ - problem with Windows 8 Metro applications
+ - new renderer for Windows 8 N versions, it is also supported on other versions 
+ (Windows XP+)
+ - some other minor bug fixes
+
+ OS: Windows 2000/XP/Vista/7/8

@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+[T],Totenkruez,2013-04-12T18:02Z,"Update 13 Changes:
+
+General
+ - No longer clear level history when a mod's version changes - only clear history when there are changes to the list of mods in use
+ - 10 mod limit now properly enforced
+
+
+Skills
+ - Gut Punch now accurately scales its radius as described
+
+
+Stability
+ - Fixed occasional hang when entering Tarroch's Tomb
+
+
+GUTS
+ - Fixed duplicate files being displayed after modding a file in various editor forms
+ - Editor WSAD camera movement keys are now mappable in the settings_editor.txt file
+ - Marquee object selection now property updates the selected scene tree nodes
+ - ""Open"" button for the player editor's skill tree layout override control now properly opens both base and mod layouts
+ - Really fixed the progress bar stat selectors and fixed progress bars in general after the last patch
+ - Fixed the layout save path checker not properly showing the right base and mod file locations in some circumstances
+ - Can no longer right-click to create static unittypes when modding (all modding should use dynamic unittypes)
+ - Fixed units not reloading in some circumstances when the unit editor were saved
+ - Fixed unittypes not reloading in some circumstances when the unittypes editor was saved
+ - Fixed inheritance nodes not being displayed in the unittype editor
+ - Fixed a number of layout object file browsers not returning proper relative paths for modded files (particles on missiles, meshes for generic models, etc.)
+ - Fixed the wardrobe panel not properly displaying units' wardobe data in the items editor"
+,tntnt2,2013-04-22T02:36Z,"It says you don't NEED an older copy, but CAN you have an older copy?  Will this just update a previous version (1.9.5.1)?  Also, if i need to uninstall the old version to make way for this new version, can I save my old saves and how?"
+[T],Totenkruez,2013-04-22T06:06Z,"Yes, you don't need the directly previous version to update. You can even update from a fresh install.
+
+Games usually leave your saves untouched if you decide to uninstall them. There may be an option to delete your saves, but such things are usually left off by default. In any case, you could just make a backup copy of your saves."
+,zalezale,2013-05-01T15:57Z,Could you upload the new upate?

@@ -1,0 +1,30 @@
+VMware Virtualization VCP vSphere 5
+Trainer: Greg D. Shields
+Time: 8 hrs
+
+VMware's vSphere 5 is an enterprise-ready virtualization solution. Superstar vSphere trainer Greg Shields will introduce you to VMware and vSphere, preparing you for the VMware Certified Professional 5, or VCP5, exam. You won't just have what it takes to take the exam, you'll learn career-critical virtualization skills in this Nugget series.
+This series covers most of the material necessary to pass the VCP-510 Exam.
+VMware recently modified the name of the certification from VCP5 to VCP5-DV. So far, the official name of the corresponding exam appears to be unchanged and is still named VCP510.
+
+Videos:
+
+Introduction to VMware, vSphere, and the VCP5
+Identify vSphere Architecture and Solutions
+Install and Configure vCenter Server
+Install and Configure VMware ESXi
+Configure vNetwork Standard Switches & vSS Policies
+Configure Shared Storage for vSphere
+Create and Configure VMFS Datastores
+Create and Deploy Virtual Machines & vApps
+Administer and Migrate Virtual Machines and vApps
+Configure VMware Clusters and Resource Pools
+Manage Virtual Machine Clones and Templates
+Backup and Restore Virtual Machines
+Update and Profile ESXi Hosts
+Configure vNetwork Distributed Switches & vDS Policies
+Secure vCenter Server and ESXi
+Plan and Implement VMware Fault Tolerance
+Configure the vSphere Storage Appliance
+Perform Basic vSphere Troubleshooting
+Monitor vCenter and Administer Alarms
+Plan and Perform vCenter Server and ESXi Upgrades

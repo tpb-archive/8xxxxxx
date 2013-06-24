@@ -1,0 +1,88 @@
+This is my own rip.
+
+General
+Unique ID                        : 224010412500831776361549907540154813943 (0xA886D60C8CA66FD58A475CD626408DF7)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 3.77 GiB
+Duration                         : 1h 55mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 4 668 Kbps
+Encoded date                     : UTC 2013-04-08 17:17:53
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 55mn
+Bit rate mode                    : Variable
+Bit rate                         : 4 127 Kbps
+Maximum bit rate                 : 43.5 Mbps
+Width                            : 1 912 pixels
+Height                           : 816 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.110
+Stream size                      : 3.33 GiB (88%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 55mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 370 MiB (10%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:First Love
+00:02:28.899                     : en:I'm a Forensic Psychologist
+00:07:45.799                     : en:Naomi's Missing
+00:10:01.976                     : en:Megan
+00:11:15.155                     : en:The Research Triangle
+00:19:16.614                     : en:Dr. McTiernan
+00:23:37.958                     : en:This Guy's a Collector
+00:24:59.957                     : en:Casanova Declares Himself
+00:29:09.414                     : en:Not a Clue
+00:32:42.836                     : en:The Lair
+00:36:04.454                     : en:Dr. Sachs
+00:38:06.451                     : en:Never Call Out
+00:41:00.041                     : en:The Odalisque
+00:43:34.403                     : en:Escape
+00:48:11.180                     : en:Kate Recovers
+00:53:24.868                     : en:Blame Me
+00:55:58.772                     : en:Hypnosis Session
+00:59:18.805                     : en:Take Me With You
+01:02:31.790                     : en:Rudolph
+01:07:51.734                     : en:Blending In
+01:11:05.636                     : en:Gone in the Night
+01:15:28.941                     : en:The Shrine
+01:18:48.974                     : en:Dr. Sachs Revisited
+01:25:20.907                     : en:Closing In
+01:36:29.951                     : en:Saved
+01:39:23.855                     : en:Tell Me What Truth Is
+01:51:56.960                     : en:End Credits

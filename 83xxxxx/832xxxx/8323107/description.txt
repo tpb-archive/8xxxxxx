@@ -1,0 +1,67 @@
+################################################## # 
+# 
+# Kufatec tool : Audi Neuwagen 
+#
+# SVM Code: 91E6A002
+#
+################################################## #
+
+[common]
+release = "6.15.5 Activator"
+vendor = "HBAS"
+variant = "9307"
+variant2 = "9308"
+variant3 = "9411"
+variant4 = "9408"
+variant5 = "9409"
+variant6 = "9410"
+variant7 = "9498"
+variant8 = "9499"
+variant9 = "9425"
+variant10 = "9436"
+variant11 = "9478"
+variant12 = "9461"
+variant13 = "9407"
+variant14 = "9406"
+variant15 = "9304"
+variant16 = "9303"
+region = "Europe"
+region2 = "RoW"
+region3 = "USA"
+skipFileCopyCrc = "true"
+skipEraseOrphanedImageHeaders = "true"
+skipCheckRegion = "true"
+skipSaveTrainName= "true"
+checkAllUpdates = "true"
+EnableUserDefinedSWDLMode = "true"
+MetafileChecksum = "AB9C3CB0"
+
+
+
+################################################## ###########################
+#
+# ACTIVATOR MAPS 6.15.5 MMI 3G, 3G+, RNS850, 3GBASIC 
+#
+################################################## ###########################
+
+[FSC]
+VendorInfo = "HB and Audi"
+DeviceDescription = "FSC 40005 for activating Navi"
+scriptPre = "./FSC/preUpdateScript"
+scriptPreName = "FSC-PreScript"
+scriptPreCRC = "f65fcaa2"
+scriptPreMaxTime = "1000"
+
+[FSCNavi defaultFile]
+Version = "9"
+Source = "00040005.fsc"
+FileSize = "202"
+Destination = "/HBpersistence/FSC/00040005.fsc"
+DisplayName = "FSC 00040005"
+DeleteDestinationDirBeforeCopy = "true"
+IsDestinationInFFS = "true"
+UpdateOnlyExisting = "false"
+CheckPoint = "134217728"
+CheckType = "CRC32_CheckWrittenData"
+CheckSumSize = "134217728"
+CheckSum = "FDF3C40A"

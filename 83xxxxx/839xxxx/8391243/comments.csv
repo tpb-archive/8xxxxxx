@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,muslim999,2013-04-20T05:45Z,thnaks
+,BluntzNzigzags,2013-04-20T06:00Z,does this work?
+,marquinhos0,2013-04-20T07:02Z,"for me yes , i hope for u too"
+,BluntzNzigzags,2013-04-20T08:03Z,"yeah I hope it works for me, been wanting this mod. but please SEED people."
+,izre,2013-04-20T10:34Z,"People, please leave your seed."
+,izre,2013-04-20T10:36Z,"People, please leave your seed. "
+,Sonicfan244,2013-04-22T18:18Z,SEED I'm stuck at 72.2%
+,dash006,2013-04-24T13:39Z,needs seeders..
+,sgstiles,2013-04-24T17:07Z,Really need seeders stuck at 92.5% with 0.5 and under kbps.
+,sgstiles,2013-04-24T17:08Z,Seed I am stuck at 92.5%
+,sgstiles,2013-04-24T22:12Z,For god's sake seed for 10 minutes.
+,dash006,2013-04-24T23:47Z,seeeeeeeeed
+,dash006,2013-04-24T23:57Z,TURN OFF INITIAL SEEDING!
+,sgstiles,2013-04-25T00:47Z,"Do what dash said, I want to play this in less than 3 weeks which is how long until it's done, unless I can get some seeders..."
+,Sonicfan244,2013-04-25T02:04Z,"3 words,
+MOTHER FUCKING SEED!"
+,War10ck7,2013-04-25T02:18Z,I will seed for 3 weeks if I can just get past 95.3%
+,sgstiles,2013-04-25T13:45Z,I will seed for 4 weeks if I can get from 95.8% to 100% soon.
+,sgstiles,2013-04-25T20:32Z,"marquinhos0... Your torrent doesn't have anywhere near enough seeders, it will NEVER finish at this rate and I am believing you that it works."
+,sgstiles,2013-04-25T20:45Z,I have uploaded 13.5GB and get nothing in return still stuck at 95.8% just like the other peers.
+,dash006,2013-04-26T23:47Z,"TURN OFF INITAL SEEDING @marquinhos0
+ get it out 100% to at least one person and then you can turn it back on."
+,dash006,2013-04-26T23:48Z,TURN OFF INITIAL SEEDING!!!
+,izre,2013-04-27T02:01Z,"and I have a 100% Ladies.
+I'm like seederman :)"
+,izre,2013-04-27T02:03Z,"and I have a 100% Ladies.
+I'll stay as seed a couple of days more."
+,dash006,2013-04-27T02:04Z,"problems with this upload, its using tunggle to connect to lan networks, runs off of arma 2 free , and requires several files to be downloaded separately before it will run, including dayz commander, and tunggle, the dayz version itself is outdated, I will use these files and reupload with the other files needed to get this working.."
+,dash006,2013-04-27T02:37Z,"can't get it to update arma 2 , or dayz dayz commander can't detect dayz"
+,dash006,2013-04-27T02:50Z,can't get it to work... dayz commander can't update arma2OA
+,dash006,2013-04-27T05:25Z,"got it to work by copied @dayz/addons contents to arma2free/addons folder,connecting/login to tunngle serching dayz, and then launching by arma2.exe switching to lan and joining server
+
+ignoring updates"
+,dash006,2013-04-27T06:20Z,stuck on character loading screen.. if someone gets it to work.. post how..
+,nephyx,2013-04-27T11:19Z,"Took me a while to figure it out, but it is now playable.
+
+1) Get rid of the Tunngle folder - you don't need it :))
+
+2) To avoid getting yelled at when connecting to a server due to an invalid serial key, you need to add the key to your registry. To do that, go to the ArmA 2 Free folder and run ""ARMA2AO_Install any Update_WIN.32bit.reg"". To be on the safe side, right-click on the .reg file and select ""edit"". Replace [HKEY_LOCAL_MACHINESOFTWAREBohemia Interactive StudioArmA 2 OA] with [HKEY_LOCAL_MACHINESOFTWAREWow6432NodeBohemia Interactive StudioArmA 2 OA] save the file and then run it again.
+
+3) The only thing left to do now is tell the DayZCommander where to look for ArmA. Run the commander located in ""DayZ CommanderCurrent"". Click ""Settings"" on the top of the window. Under ""Game Directories"" tick override for each directory. Now, I have extracted the contents of the downloaded archive to D: so you need to change the following according to where you've put it.
+Arma2 Directory: D:Bohemia InteractiveArmA 2 Free
+Arma2 OA Directory D:Bohemia InteractiveArmA 2 Free
+DayZ Directory: D:Bohemia Interactive@Dayz
+
+4) Remember to connect to servers labeled ""NO CD"" and you should be good to go!"
+,nephyx,2013-04-27T11:41Z,"All back slashes have been removed from my previous post for some reason...
+Here are the values where you need to replace / with the back slash character:
+
+[HKEY_LOCAL_MACHINE/SOFTWARE/Bohemia Interactive Studio/ArmA 2 OA]
+[HKEY_LOCAL_MACHINE/SOFTWARE/Wow6432Node/Bohemia Interactive Studio/ArmA 2 OA]
+D:/Bohemia Interactive/ArmA 2 Free
+D:/Bohemia Interactive/@Dayz"
+,dash006,2013-04-29T08:02Z,getting  bad serial number given in setup
+,dash006,2013-04-29T08:02Z, bad serial number given in setup
+,dash006,2013-05-01T16:25Z,"got it to work by manually going changing the key in the registry. press start go regedit, then localmachine/software/ create the folder Wow6432Node/Bohemia Interactive Studio/ArmA 2 OA] , then type new binary, and rename it key, then use a keychanger to add a new key."
+,greygrey2000,2013-05-02T20:49Z,"then use a keychanger to add a new key. 
+
+
+How do I do that exactly ? 
+Sorry but I never had to edit a registry "
+,greygrey2000,2013-05-02T20:51Z,how do I use a kaychanger to add a new key ? :(
+,dash006,2013-05-03T04:40Z,"I'm going to re-upload this so it actually is just download and play, the problem with this is you need to manually edit the registry, going to start and then reg edit, download a keygen and a keychanger, or it won't work. There isn't an included keygen here so you will have to search for one, until I reupload this with all the files needed. 
+
+you need to manually go in and change your registry and edit in a new key,  or you will get invalid key on startup, you need to google for a arma 2 0a key changer, and a key gen, and then google a video about how to change arma 2 key in registry"
+,greygrey2000,2013-05-03T09:08Z,"can't you provide some quick links ? Also,please link to your next upload"
+,capricornio,2013-06-03T23:23Z,"http://thepiratebay.sx/torrent/6405788/ArmA_II___OA___RFT_multi_keygen worked for me. Just make sure you select ""Arma 2 OA"" in the list, then click ""Generate"" and enter that key in the registry.
+"

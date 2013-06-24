@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,givara02,2013-04-20T00:01Z,thanks
+,metafaniel,2013-05-15T16:29Z,"HI! I've downloaded this torrent and I've installed Substance Designer 3, but the patch seems to be is not working. If I try to patch the existent substance_designer.exe the patch programs says ""Over write it?"" I say yes then i get ""Patch failed"". If I patch in any folder it creates the exe file, but when I replace the original with the patched one I get ""Cannot find 'freeimage.dll'. Please, re-install this application"" even if I can see this file. WHAT AM I DOING WRONG? Please help, thanks!! =)"
+,Schtrudel,2013-05-18T11:21Z,Same problem as metafaniel. 
+,gyriong,2013-05-23T09:43Z,Install x86 (32-bit) version
+,metafaniel,2013-05-24T21:24Z,"OF COURSE! I didn't though on that hehe thanks a lot, it works now =D"
+,metafaniel,2013-05-30T16:08Z,"Even if Substance Designer gets installed, if I try to create a new substance, the program crashes... so I can't use it =/ Any workarounds?? Thanks"
+,metafaniel,2013-06-06T15:46Z,How can I create a new substance or open one already made avoiding SB3 crashing?? Thanks
+,Gigantour2,2013-06-07T12:32Z,im kinda new to this and i downloaded this did the patch but i cant get past the log in page
+,DarkSanMaster,2013-06-09T12:52Z,"Same here, crash everytime i try to start new project, someone know the solution?"

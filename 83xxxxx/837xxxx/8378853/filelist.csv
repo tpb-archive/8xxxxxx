@@ -1,0 +1,242 @@
+﻿Filename,Size,Unit
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-3 Create an IndexedDB database.mp4,53.52,M
+HTML5 - Drag and Drop in Depth/3 - A Case Study/3-2 Exploring the RPS code.mp4,40.81,M
+HTML5 - Background Processes with Web Workers/3 - Shared Workers/3-3 Exploring the details.mp4,36.82,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-4 Inserting and reading rows of data.mp4,33.84,M
+HTML5 - Managing Browser History/2 - The Details/2-5 The complete application.mp4,32.6,M
+HTML5 - Drag and Drop in Depth/2 - The Details/2-3 Exploring the different events.mp4,32.37,M
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-4 Adding and reading data in an IndexedDB database.mp4,32.22,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-3 Creating a database.mp4,28.96,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-5 Editing rows of data.mp4,28.39,M
+HTML5 - Background Processes with Web Workers/2 - The Details/2-4 Communicating with the worker.mp4,28.23,M
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-2 Understanding the IndexedDB API.mp4,28.15,M
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-5 Editing data in an IndexedDB database.mp4,27.34,M
+HTML5 - Local Storage and Offline Applications in Depth/6 - Offline Applications/6-2 Using applications offline.mp4,24.96,M
+HTML5 - Local Storage and Offline Applications in Depth/2 - The Web Storage Interface/2-3 Persistent storage with localStorage.mp4,24.47,M
+HTML5 - Local Storage and Offline Applications in Depth/5 - Storage Events/5-2 Handling storage events with local storage.mp4,24.33,M
+HTML5 - Document Editing in Depth/2 - The Details/2-2 Enabling editing with the contentEditable attribute.mp4,24.2,M
+HTML5 - Drag and Drop in Depth/1 - Overview/1-2 Exploring a sample drag-and-drop application.mp4,23.57,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-6 Deleting rows of data.mp4,23.49,M
+HTML5 - Messaging and Communications in Depth/2 - Event Listeners/2-1 Registering a listener.mp4,23.03,M
+HTML5 - Local Storage and Offline Applications in Depth/2 - The Web Storage Interface/2-2 Understanding the Storage() interface.mp4,22.38,M
+HTML5 - Drag and Drop in Depth/2 - The Details/2-4 Using a drop zone.mp4,21.51,M
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-6 Deleting data from an IndexedDB database.mp4,20.37,M
+HTML5 - Messaging and Communications in Depth/2 - Event Listeners/2-2 Sending messages to a listener.mp4,19.13,M
+HTML5 - Geolocation in Depth/3 - Interfacing with Google Maps/3-2 Using HTML5 geolocation with Google Maps.mp4,18.68,M
+HTML5 - Messaging and Communications in Depth/2 - Event Listeners/2-3 Handling errors.mp4,18.53,M
+HTML5 - Drag and Drop in Depth/3 - A Case Study/3-1 Creating a simple game.mp4,17.86,M
+HTML5 - Document Editing in Depth/2 - The Details/2-3 Enabling full-document editing.mp4,17.31,M
+HTML5 - Messaging and Communications in Depth/1 - Overview/1-2 Security and the same-origin policy.mp4,16.91,M
+HTML5 - Messaging and Communications in Depth/1 - Overview/1-3 An example application.mp4,15.62,M
+HTML5 - Geolocation in Depth/2 - The Details/2-4 Continuous tracking with watchPosition().mp4,15.45,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-2 Understanding the Web SQL API.mp4,14.69,M
+HTML5 - Messaging and Communications in Depth/3 - Cross-Document Messaging/3-2 Exploring the example code.mp4,14.51,M
+HTML5 - Drag and Drop in Depth/2 - The Details/2-2 Coding a simple event listener.mp4,14.34,M
+HTML5 - Background Processes with Web Workers/2 - The Details/2-5 Handling errors.mp4,14.06,M
+HTML5 - Geolocation in Depth/1 - Overview/1-2 Exploring a sample geolocation application.mp4,13.94,M
+HTML5 - Background Processes with Web Workers/2 - The Details/2-1 Detecting Web Workers support.mp4,13.6,M
+HTML5 - Drag and Drop in Depth/3 - A Case Study/3-3 Exploring the RPS CSS.mp4,12.83,M
+HTML5 - Local Storage and Offline Applications in Depth/2 - The Web Storage Interface/2-4 Keeping context with sessionStorage.mp4,11.85,M
+HTML5 - Background Processes with Web Workers/2 - The Details/2-2 Reviewing the application.mp4,11.57,M
+HTML5 - Managing Browser History/2 - The Details/2-3 Handling back and forward buttons with the popstate event.mp4,11.16,M
+HTML5 - Background Processes with Web Workers/2 - The Details/2-3 Setting up the worker.mp4,11.13,M
+HTML5 - Geolocation in Depth/2 - The Details/2-2 Getting the coordinates.mp4,9.91,M
+HTML5 - Drag and Drop in Depth/2 - The Details/2-5 Receiving drops without a drop zone.mp4,9.85,M
+HTML5 - Drag and Drop in Depth/2 - The Details/2-1 Detecting drag-and-drop support.mp4,9.79,M
+HTML5 - Geolocation in Depth/3 - Interfacing with Google Maps/3-1 A simple Google map with current location.mp4,9.63,M
+HTML5 - Geolocation in Depth/2 - The Details/2-3 Handling errors.mp4,9.38,M
+HTML5 - Background Processes with Web Workers/1 - Overview/1-2 Deploying a worker.mp4,8.57,M
+HTML5 - Managing Browser History/2 - The Details/2-2 Pushing a new URL onto the stack.mp4,8.53,M
+HTML5 - Managing Browser History/2 - The Details/2-4 Updating the stack with replaceState().mp4,8.33,M
+HTML5 - Document Editing in Depth/1 - Overview/1-2 An example application.mp4,7.78,M
+HTML5 - Document Editing in Depth/2 - The Details/2-1 Detecting support.mp4,7.68,M
+HTML5 - Managing Browser History/1 - Overview/1-2 Viewing a sample application.mp4,7.63,M
+HTML5 - Drag and Drop in Depth/0 - Introduction/0-1 Welcome.mp4,7.27,M
+HTML5 - Background Processes with Web Workers/0 - Introduction/0-1 Welcome.mp4,6.61,M
+HTML5 - Local Storage and Offline Applications in Depth/1 - Overview/1-1 Four types of storage.mp4,6.32,M
+HTML5 - Geolocation in Depth/0 - Introduction/0-4 About the CSS file.mp4,5.99,M
+HTML5 - Drag and Drop in Depth/0 - Introduction/0-4 The CSS files.mp4,5.95,M
+HTML5 - Drag and Drop in Depth/0 - Introduction/0-3 The JavaScript library.mp4,5.8,M
+HTML5 - Local Storage and Offline Applications in Depth/0 - Introduction/0-1 Welcome.mp4,5.61,M
+HTML5 - Geolocation in Depth/0 - Introduction/0-1 Welcome.mp4,5.55,M
+HTML5 - Document Editing in Depth/0 - Introduction/0-1 Welcome.mp4,5.38,M
+HTML5 - Background Processes with Web Workers/3 - Shared Workers/3-2 Reviewing a shared workers example.mp4,5.33,M
+HTML5 - Geolocation in Depth/0 - Introduction/0-3 About the JavaScript library.mp4,5.28,M
+HTML5 - Managing Browser History/0 - Introduction/0-1 Welcome.mp4,5.26,M
+HTML5 - Geolocation in Depth/2 - The Details/2-1 Detecting geolocation support.mp4,5.17,M
+HTML5 - Managing Browser History/2 - The Details/2-1 Detecting HTML5 History API support.mp4,5.13,M
+HTML5 - Messaging and Communications in Depth/0 - Introduction/0-2 Using the exercise files.mp4,4.5,M
+HTML5 - Managing Browser History/0 - Introduction/0-3 About the bwH5.js library.mp4,4.48,M
+HTML5 - Managing Browser History/0 - Introduction/0-4 About the CSS files.mp4,4.05,M
+HTML5 - Local Storage and Offline Applications in Depth/1 - Overview/1-2 Understanding the architecture.mp4,4.04,M
+HTML5 - Local Storage and Offline Applications in Depth/0 - Introduction/0-4 Using the custom CSS included with the exercise files.mp4,3.65,M
+HTML5 - Local Storage and Offline Applications in Depth/0 - Introduction/0-3 Using the JavaScript library included with the exercise files.mp4,3.61,M
+HTML5 - Messaging and Communications in Depth/3 - Cross-Document Messaging/3-1 An interactive example.mp4,3.52,M
+HTML5 - Messaging and Communications in Depth/0 - Introduction/0-1 Welcome.mp4,3.51,M
+HTML5 - Background Processes with Web Workers/0 - Introduction/0-2 Using the exercise files.mp4,3.47,M
+HTML5 - Geolocation in Depth/1 - Overview/1-1 How geolocation works.mp4,3.18,M
+HTML5 - Local Storage and Offline Applications in Depth/4 - The Indexed Database API/4-1 The state of IndexedDB storage.mp4,3.11,M
+HTML5 - Background Processes with Web Workers/1 - Overview/1-1 Understanding workers.mp4,2.93,M
+HTML5 - Local Storage and Offline Applications in Depth/0 - Introduction/0-2 Using the exercise files.mp4,2.9,M
+HTML5 - Managing Browser History/1 - Overview/1-1 Manipulating browser history.mp4,2.88,M
+HTML5 - Managing Browser History/Conclusion/Goodbye.mp4,2.85,M
+HTML5 - Drag and Drop in Depth/1 - Overview/1-1 Understanding HTML5 drag and drop.mp4,2.68,M
+HTML5 - Drag and Drop in Depth/Conclusion/Next steps.mp4,2.65,M
+HTML5 - Managing Browser History/0 - Introduction/0-2 Using the exercise files.mp4,2.58,M
+HTML5 - Geolocation in Depth/Conclusion/Goodbye.mp4,2.48,M
+HTML5 - Local Storage and Offline Applications in Depth/3 - The Web Storage Interface/3-1 The state of Web SQL Storage.mp4,2.14,M
+HTML5 - Local Storage and Offline Applications in Depth/6 - Offline Applications/6-1 Overview of offline web applications.mp4,2.13,M
+HTML5 - Background Processes with Web Workers/Conclusion/Goodbye.mp4,2.08,M
+HTML5 - Messaging and Communications in Depth/1 - Overview/1-1 Overview of HTML5 messaging.mp4,2.07,M
+HTML5 - Document Editing in Depth/0 - Introduction/0-2 Using the exercise files.mp4,2.07,M
+HTML5 - Geolocation in Depth/0 - Introduction/0-2 Using the exercise files.mp4,2,M
+HTML5 - Messaging and Communications in Depth/Conclusion/Goodbye.mp4,2,M
+HTML5 - Document Editing in Depth/Conclusion/Goodbye.mp4,1.99,M
+HTML5 - Local Storage and Offline Applications in Depth/1 - Overview/1-3 Running applications offline.mp4,1.91,M
+HTML5 - Drag and Drop in Depth/0 - Introduction/0-2 Using the exercise files.mp4,1.86,M
+HTML5 - Local Storage and Offline Applications in Depth/5 - Storage Events/5-1 Understanding storage events.mp4,1.76,M
+HTML5 - Document Editing in Depth/1 - Overview/1-1 How document editing works.mp4,1.74,M
+HTML5 - Local Storage and Offline Applications in Depth/Conclusion/Goodbye.mp4,1.46,M
+HTML5 - Local Storage and Offline Applications in Depth/2 - The Web Storage Interface/2-1 Providing client-side storage.mp4,1.29,M
+HTML5 - Background Processes with Web Workers/3 - Shared Workers/3-1 Understanding API differences in shared workers.mp4,1.17,M
+HTML5 - Drag and Drop in Depth/Exercise Files/Images/Paper.png,115.32,K
+HTML5 - Managing Browser History/Exercise Files/Images/Paper.png,115.32,K
+HTML5 - Managing Browser History/Exercise Files/Images/Rock.png,112.61,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Images/Rock.png,112.61,K
+HTML5 - Managing Browser History/Exercise Files/Images/Scissors.png,110.12,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Images/Scissors.png,110.12,K
+HTML5 - Managing Browser History/Exercise Files/Images/Keyboard.png,103.33,K
+HTML5 - Managing Browser History/Exercise Files/Images/Coffee.png,92.76,K
+HTML5 - Managing Browser History/Exercise Files/Images/Mouse.png,90.84,K
+HTML5 - Managing Browser History/Exercise Files/Images/Placeholder.png,59.46,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/exp-calif-logo-offline.gif,10.51,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/exp-calif-logo.gif,9.68,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/06-done.html,9.51,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/02-done.html,9.5,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/05-done.html,8.87,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/06-start.html,8.87,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/02-done.html,8.72,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/06-done.html,8.7,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/05-done.html,8.09,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/06-start.html,8.03,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/04-done.html,7.11,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/05-start.html,7.11,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap03/RPS.html,6.73,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap01/RPS.html,6.73,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/05-start.html,6.17,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/04-done.html,6.17,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/.DS_Store,6,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/.DS_Store,6,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap03/workerSharedFrame.html,5.36,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Paper.html,5.33,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Mouse.html,5.33,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Scissors.html,5.33,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Rock.html,5.33,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Keyboard.html,5.33,K
+HTML5 - Managing Browser History/Exercise Files/Pager/Pager-Coffee.html,5.33,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerFindPrime-done.html,5.05,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerErrors-working.html,4.97,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerErrors-done.html,4.97,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap03/workerSharedMain.html,4.91,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/04-start.html,4.9,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/03-done.html,4.9,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap03/chat-one.html,4.79,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerComm-done.html,4.7,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 05/02-done.html,4.39,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap03/chat-two.html,4.39,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/contentEditable.html,4.22,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap03/workerSharedPrimeSeries.js,4,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap01/crossDomainOneError.html,3.87,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap01/crossDomainOne.html,3.87,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/errors-one-done.html,3.87,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap03/01-geoLocMap.html,3.84,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap01/02-geoLocTest.html,3.84,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/errors-one-start.html,3.82,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-one-done.html,3.82,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-one-working.html,3.69,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-one-start.html,3.69,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-one-done.html,3.69,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/02-done.html,3.52,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 05/02-start.html,3.49,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/02-start.html,3.49,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/03-done.html,3.47,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/04-start.html,3.43,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-one-start.html,3.32,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-one-working.html,3.32,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/04-done.html,3.29,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/errors-two-done.html,3.28,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/04-start.html,3.27,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/03-done.html,3.27,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap01/crossDomainTwo.html,3.27,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-two-done.html,3.24,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/errors-two-start.html,3.24,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/04-dropzone.html,3.15,K
+HTML5 - Background Processes with Web Workers/Exercise Files/CSS/main.css,3.07,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/CSS/main.css,3.07,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap01/workerPrimeSeries.html,3.07,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/05-nodropzone.html,3.01,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-two-done.html,2.99,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-two-start.html,2.99,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/sender-two-working.html,2.99,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap01/crossDomainTwoError.html,2.99,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap01/simpleEditable.html,2.98,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/03-start.html,2.9,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/02-done.html,2.9,K
+HTML5 - Geolocation in Depth/Exercise Files/Javascript/bwH5.js,2.86,K
+HTML5 - Managing Browser History/Exercise Files/Javascript/bwH5.js,2.86,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Javascript/bwH5.js,2.83,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/03-events-done.html,2.81,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/04-continuous-done.html,2.68,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-two-start.html,2.66,K
+HTML5 - Messaging and Communications in Depth/Exercise Files/Chap02/listener-two-working.html,2.66,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/frameOuterDoc.html,2.58,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/03-errorhandling-done.html,2.54,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Javascript/bwH5LS.js,2.54,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/04-continuous-start.html,2.54,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/detectingExecCommand-done.html,2.52,K
+HTML5 - Document Editing in Depth/Exercise Files/CSS/main.css,2.52,K
+HTML5 - Drag and Drop in Depth/Exercise Files/CSS/main.css,2.49,K
+HTML5 - Managing Browser History/Exercise Files/CSS/main.css,2.49,K
+HTML5 - Geolocation in Depth/Exercise Files/CSS/main.css,2.49,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/CSS/main.css,2.49,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/04-copy.txt,2.42,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap01/workerPrimeSeries.js,2.36,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/03-start.html,2.3,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/03-start.html,2.29,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/02-listening-done.html,2.29,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/03-events-start.html,2.28,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/03-copy.txt,2.28,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Images/DropZone.png,2.28,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerSetup-done.html,2.22,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 02/02-start.html,2.21,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 00/template.html,2.2,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/start.html,2.16,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/04-copy.txt,2.15,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/02-listening-start.html,2.11,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/workerFindPrime.js,2.08,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/detectWorkers-done.html,1.96,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/03-errorhandling-start.html,1.95,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/02-coordinates-done.html,1.95,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/05-copy.txt,1.91,K
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/05-copy.txt,1.79,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/04-replacestate-done.html,1.75,K
+HTML5 - Drag and Drop in Depth/Exercise Files/Chap02/01-detecting.html,1.71,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/03-popstate-done.html,1.7,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/02-coordinates-start.html,1.69,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/04-replacestate-start.html,1.69,K
+HTML5 - Managing Browser History/Exercise Files/Images/ArrowLeft.png,1.66,K
+HTML5 - Managing Browser History/Exercise Files/Images/ArrowRight.png,1.63,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/02-pushstate-done.html,1.48,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/03-popstate-start.html,1.48,K
+HTML5 - Background Processes with Web Workers/Exercise Files/Chap02/start.html,1.43,K
+HTML5 - Document Editing in Depth/Exercise Files/Chap02/editableFrameDoc.html,1.38,K
+HTML5 - Geolocation in Depth/Exercise Files/Chap02/01-detecting.html,1.37,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/02-pushstate-start.html,1.34,K
+HTML5 - Managing Browser History/Exercise Files/Chap02/01-detecting.html,1.34,K
+HTML5 - Drag and Drop in Depth/Exercise Files/CSS/rps.css,986,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/03-copy.txt,918,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 05/02-copy.txt,667,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 04/06-copy.txt,533,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 03/06-copy.txt,533,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/02-done.manifest,169,B
+HTML5 - Local Storage and Offline Applications in Depth/Exercise Files/Chapter 06/02-start.manifest,84,B

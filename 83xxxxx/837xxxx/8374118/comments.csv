@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+[V],polisdavid,2013-04-15T05:12Z,Thank You Seeders!!  ‚~)
+,garfieldmc,2013-04-17T09:53Z,"Hi polisdavid, 
+Thks for your uploads, it tells me ""corrupted"" upon launching the app am I the only one or can you help ? 
+THKS"
+,7117,2013-04-17T15:12Z,"@garfield
+check this link
+http://support.apple.com/kb/TS1888
+
+..and try first 
+Clear the QMaster cache
+
+You can sometimes resolve issues with batch processing by clearing the QMaster cache.
+
+Quit Compressor and Batch Monitor.
+In the Finder choose Go > Go to Folder.
+In the dialog that appears, type the following path: /var/spool/qmaster/
+Click Go.
+Drag the contents of /var/spool/qmaster/ to the trash.
+Restart your computer.
+Repair File Permissions
+Close all the files and applications that you have open.
+Open Disk Utility (located in the Utilities folder in Applications) and select your startup disk in the list on the left.
+Click First Aid.
+Click the Repair Disk Permissions button.
+..if not helps, try reinstall and other points on this link."
+,Albe_Sure,2013-06-09T13:39Z,"Here are some associated FCP links (also by trusted TBP members):
+
+Final Cut Pro X 10.0.8
+http://thepiratebay.sx/torrent/8323980/Final_Cut_Pro_X_10.0.8_Mac_OS_X_%5BChingLiu%5D
+
+Motion v5.0.7
+http://thepiratebay.sx/torrent/8338065/Motion_pre%5BK%5Dracked_v.5.0.7
+
+All the best! ;)
+
+
+-A.S.
+
+p.s.  THANK YOU polisdavid for the ORIG share (and to ALL the seeders for keeping it up)! ;)"

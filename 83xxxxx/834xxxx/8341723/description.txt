@@ -1,0 +1,57 @@
+Ant & Dec's Saturday Night Takeaway (often referred to simply as Saturday Night Takeaway) is a British television variety show presented and executively produced by Ant & Dec
+
+
+
+General
+Complete name                            : Ant.And.Decs.Saturday.Night.Takeaway.S10E06.WS.PDTV.x264-W33D.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 506 MiB
+Duration                                 : 1h 1mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 153 Kbps
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 1mn
+Bit rate                                 : 1 011 Kbps
+Maximum bit rate                         : 3 999 Kbps
+Width                                    : 704 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.150
+Stream size                              : 444 MiB (88%)
+Writing library                          : x264 core 130 r2273 b3065e6
+
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 1mn
+Bit rate mode                            : Variable
+Bit rate                                 : 138 Kbps
+Maximum bit rate                         : 155 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 80ms
+Stream size                              : 60.6 MiB (12%)

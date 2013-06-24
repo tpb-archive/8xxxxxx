@@ -1,0 +1,22 @@
+DotA Allstar v6.77c
+Language:  	 English
+Date: 	2013-03-16 
+
+* Tranquil Boots disabled speed reduced from 50 to 25
+* Tranquil Boots heal increased from 170 to 250
+* Tranquil Boots cooldown increased from 40 to 60
+* Tranquil Boots heal duration increased from 10 to 20
+* Illuminate manacost increased from 150 to 150/160/170/180
+* Illuminate AOE reduced from 400 to 350
+* Spiked Carapace duration reduced from 2.75 to 2.25
+* Spiked Carapace cooldown increased from 14 to 23/20/17/14
+* Marksmanship bonus is removed when there are nearby enemy heroes (instead of just being halved)
+* Reduced Marksmanship enemy detection aoe reduced from 400 to 375
+* HeavenΓÇÖs Halberd's Disarm is no longer dispelled by Manta
+* Living Armor damage reduction is now done for all instances of damage that reduce its charges
+
+Previous Living Armor Behavior: It would eat up charges from all damage sources, but only absorb some damage from heroes physical attacks
+
+New Living Armor Behavior: Still eats up charges from all sources (including magic), but absorbs some damage from them as well
+
+www.getdota.com

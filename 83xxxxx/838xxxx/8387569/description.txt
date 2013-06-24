@@ -1,0 +1,96 @@
+This is my own rip.  There is a small logo for 15 seconds every 30 minutes.
+
+There is another HDTV upload, but it has low-quality 2-channel audio, and the 25fps speedup makes the actors sound like chipmunks.
+
+To sync the commentary track (or subtitles) from the DVD to this rip, delay those tracks by 5376ms.
+
+General
+Unique ID                        : 206330982107196912668494374587382571746 (0x9B39E6D51FA2EF63A6D0A67D01DB22E2)
+Format                           : Matroska
+Format version                   : Version 4 / Version 2
+File size                        : 2.14 GiB
+Duration                         : 1h 55mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 655 Kbps
+Encoded date                     : UTC 2013-04-17 15:48:25
+Writing application              : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 55mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 218 Kbps
+Maximum bit rate                 : 10.4 Mbps
+Width                            : 1 280 pixels
+Height                           : 696 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.104
+Stream size                      : 1.79 GiB (84%)
+Writing library                  : x264 core 129 r2245 bc13772
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 55mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 317 MiB (14%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Credits Repartee
+00:02:11.006                     : Double Dealing
+00:06:04.823                     : The Getaway
+00:07:44.547                     : How About Irrigation?
+00:10:37.262                     : Between Friends
+00:14:27.533                     : Nick's Backyard
+00:16:24.275                     : The Ex-Wife Blues
+00:17:47.108                     : The Carlos Connection
+00:21:29.079                     : Maguire Questions Jo Ann
+00:25:37.661                     : Two in Play, One Under Wraps
+00:35:10.942                     : The Party
+00:41:09.258                     : Sunset Summit
+00:44:41.429                     : Payment for Service
+00:47:41.525                     : A Reason for Respectability
+00:52:11.754                     : Restaurant Confabs
+00:56:36.852                     : Him, Not Me
+00:57:35.911                     : Temptation
+00:59:54.071                     : Guilty Knowledge
+01:06:07.088                     : Slick Discovery
+01:10:54.917                     : "Nobody Wants Me to Quit"
+01:13:57.016                     : Hot-Tub Passion
+01:17:53.544                     : Enter Carlos
+01:22:37.327                     : An Informer Uncovered
+01:25:22.784                     : Gone Fishin'
+01:27:56.855                     : Bull Session
+01:33:47.102                     : Declaration in the Fog
+01:36:41.985                     : At Gunpoint
+01:41:07.959                     : Bullets Between Friends
+01:48:07.378                     : Up in Flames
+01:49:24.933                     : Probably Talking About Me
+01:51:24.761                     : End Credits

@@ -1,0 +1,55 @@
+KMSpico v5 Install, KMSpico OEM and KMSpico Only Service
+
+KMSpico
+
+ Important: If you like MS Windows and MS Office please buy legal and original
+ this program help to test this products, but recommend you buy legal.
+ I did this for fun, and now I am done with this. 
+ Working in W8 and Office 2013 fresh install and VOLUMEN LICENSE editions.
+ Ja mata ne, Farewell, Hejdå, Ciao, Aloha, Zegnaj, Doei
+
+ KMSpico v5 Setup Edition.
+
+ - Requirements: .NET 4.0 or Windows 8/2012.
+ - Activate: Windows Vista/7/8 
+ Office 2010/2013 
+Windows Server 2008/2008R2/2012
+
+ 0. Disable SmartScreen on Windows 8.
+ 1. Run KMSpico_Install_v4.5.exe
+ 2. Install.
+ 3. Done.
+
+ Based off of KMSEmulator of deagles.
+
+ Thanks to deagles, mikmik38, qad, CODYQX4, xinso. All the credits for they.
+ Thanks MyDigitalLife.info
+ Thanks hui.
+
+ Change Log:
+ - Changed Server to deagles's emulator.
+ - Faster.
+ - Small.
+
+ Note:
+ - If you install a Office Retail Version after the installation of KMSpico, then run again
+ the shortcut KMSpico to make the conversion, because the Service installed only activate VL.
+
+ Recommendations Optional:
+
+ - Disable Microsoft Security Updates.
+ - Make exceptions to Directory %ProgramFiles%KMSpico in Antivirus.
+
+ How This Program Works:
+
+ 1. Run KMSELDI.exe
+ 1.1. Check Products Installed.
+ 1.2. Convert Retail to VL if it is necessary.
+ 1.3. If it found a non-permanent product it will converted. (hacktivators based in modified dll's ARE NOT PERMANENT) (MAK or OEM keys are the only ones PERMANENT)
+ 1.4. Create a random service kms emulator in memory.
+ 1.5. Activate for 180 days all VL products installed against the emulator.
+ 1.6. Close emulator and KMSELDI.
+ 2. Install Service KMSELDI
+ 2.1. Every windows start or every 24 hours the service reactivate for 180 days (reset the count) with a random kms emulator.
+ 2.2. Close emulator.
+ 3. KMSELDI + Service KMSELDI = "permanent". 

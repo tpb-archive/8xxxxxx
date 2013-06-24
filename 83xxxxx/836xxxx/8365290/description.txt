@@ -1,0 +1,104 @@
+ http://www.imdb.com/title/tt1486217/
+
+
+[ About file ]
+
+Name: Archer.2009.S04E13.480p.HDTV.H264[area51].mp4
+Date: 12/04/2013 09:44:45
+Size: 90,160,031 bytes (85.983 MB)
+
+[ Generic infos ]
+
+Play duration: 00:21:11 (1271.423333 s)
+Container type: MP4/MOV
+Major brand: ISO Base Media version 1
+Compatible brands: JVT AVC
+Creation time: 12/04/2013 04:13:42 UTC
+Modification time: 12/04/2013 04:13:42 UTC
+Number of streams: 2
+Type of stream nr. 1: video (avc1) {264#trackID=1:fps=23.976@GPAC0.5.1-DEV-rev4283}
+Type of stream nr. 2: audio (AAC Low complexity) {Sound Media Handler}
+Audio streams: 1
+
+[ Relevant data ]
+
+Resolution: 848 x 480
+Width: multiple of 16
+Height: multiple of 32
+
+[ Video track ]
+
+Codec: avc1
+Resolution: 848 x 480
+Frame aspect ratio: 53:30 = 1.766666 (~16:9)
+Pixel aspect ratio: 853:848 = 1.005896
+Display aspect ratio: 853:480 = 1.777083 (~16:9)
+Framerate: 23.976023 fps
+Number of frames: 30481
+Bitrate: 497.349542 kbps
+
+[ Audio track ]
+
+Codec: AAC Low complexity
+Bitrate: 66.003624 kbps
+Channels: 2
+Sample rate: 48000 Hz
+
+  Profile: High@L4.1
+  Num ref frames: 5
+  Aspect ratio: Custom pixel shape (160:159 = 1.006289)
+  Chroma format idc: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+  Custom intra4X4 luma: 
+      8  16  23  30
+     16  25  34  40
+     23  34  46  60
+     30  40  60  84
+  Custom intra4X4 chromau: 
+     16  20  36  46
+     20  38  56  67
+     36  56  77 102
+     46  67 102 166
+  Custom inter4X4 luma: 
+     12  15  20  24
+     15  22  27  32
+     20  27  35  42
+     24  32  42  55
+  Custom inter4X4 chromau: 
+     18  20  32  38
+     20  36  44  56
+     32  44  66  78
+     38  56  78 100
+  Custom intra8X8 luma: 
+      8  13  16  18  23  28  29  32
+     13  14  18  22  26  27  29  33
+     16  18  23  27  28  29  32  35
+     18  22  27  30  32  34  38  39
+     23  26  28  32  37  42  45  47
+     28  27  29  34  42  49  55  57
+     29  29  32  38  45  55  63  69
+     32  33  35  39  47  57  69  84
+  Custom inter8X8 luma: 
+      8  12  14  15  16  17  18  20
+     12  13  16  17  18  19  21  22
+     14  16  18  19  20  22  24  25
+     15  17  19  21  24  26  27  28
+     16  18  20  24  28  29  30  32
+     17  19  22  26  29  32  35  38
+     18  21  24  27  30  35  42  46
+     20  22  25  28  32  38  46  55
+
+[ Profile compliancy ]
+
+Profile to check: MTK PAL 6000
+Resolution: 848 x 480 &gt; 720 x 576
+Framerate: 23.976023 &lt;&gt; 25
+
+
+
+
+Enjoy ;-)

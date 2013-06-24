@@ -1,0 +1,85 @@
+﻿User Type,Username,Date,Text
+,phase700b,2013-04-15T18:55Z,"Why is it a problem to not encode the black bars? This movie is 2.35:1. The black bars are not part of the movies aspect ratio. Not trying to be a troll, just don't understand the use of the phrase ""stop destroying the aspect ratio with cropping"""
+[T],vonRicht,2013-04-15T19:19Z,"Off course the black bars are part of the aspect ratio.
+
+If you wanna know - google is your friend.
+"
+[T],vonRicht,2013-04-15T19:31Z,"If you have downloaded this film, then open the film in VLC.
+
+Then go to Video setting and the go to Aspect Ratio and set the Aspect Ratio to 2.35:1.
+
+The image you are now seeing is a 2.35:1 Anamorphic Widescreen image. Also known as Panavision.
+
+When people crop the movie during encoding they crop the movie from 2.35:1 Anamorphic Widescreen to 1.85:1."
+[T],vonRicht,2013-04-15T19:33Z,The 2.35:1 Anamorphic Widescreen is also the Apsect Ratio you see in the theatres.
+,phase700b,2013-04-15T20:02Z,"Aspect ratio's and resolution on DVD's (anamorphic) and Blu-rays (square pixels) is a complicated subject that I have a deep and couple decade long knowledge of. We'll just have to agree to disagree on the subject. Don't want to start an in depth discussion, just want to say thanks for this classic HD upload. "
+,Chartsandgrafs,2013-04-15T20:54Z,"I, for one, appreciate the fact that you don't crop your movies.  I want to see as much original detail as possible, even if it's just on the sides of the frame. 
+
+It drives me nuts that Handbrake defaults to cropping when it should default to leaving the video 100% intact, just the way it was released.     "
+[T],vonRicht,2013-04-15T22:30Z,"@ phase700b:
+
+Well I agree, I don't wanna go into a discussion here.
+
+But then again there's nothing to discuss.
+
+2.35:1 is the image i'm showing.
+
+@Chartsandgrafs:
+
+You can get Handbrake to encode without cropping the 2.35:1 aspect ratio to 1.85:1.
+
+Set cropping to custom. And then set top, buttom left,and right to 0 (zero).
+
+Set anamophic to None and Modulus to 16.
+
+Then set Width and Height to 1920x1080 and that's it. 
+
+Keep the Keep Aspect Ratio unmarked.
+
+Start your encode."
+[T],vonRicht,2013-04-15T23:27Z,"Ohh Chartsandgrafs i think i misread your post. :) Sorry. 
+
+I agree that it is strange that Handbrake default setting is cropping the film!"
+,Gacy8Gein,2013-04-16T19:54Z,"Firstly, Thank you for the Rips.
+Awesome to be able to have DTS-HD and TrueHD on smaller than full on BluRay Demux's.
+
+
+On the Aspect ration Front, I'm gonna just pop two cases:
+- 21/9 monitors/TV's exist (~2.35:1 ratio)
+If you keep the black bars, the film would be very small on such screens. 21/9 is very rare atm.
+- 16/9 (16/10) Monitors are the Majority. With Black bars, the image doesn't have to be resized or rescaled by the player/TV. Without black bars, some players would stretch the image full screen, meaning the viewer would have to modify settings that work 99% of the time.
+
+On a PC, with or without black bars is not a problem, this is 99% a problem for people who watch direct on TV's (USB key) or through DVD/BD Players/NMT's.
+
+This video source is 16/9, showing a film in its original 21/9 ratio, with black bars to bring it up to 16/9.
+IIRC 2.35:1 (21/9) is/was the de-facto standard for Cinema's.
+1.85:1 (16/9) is/was for Wide-TV broadcast.
+
+DVD's still have 720x576 pixels, but as stated above, they are rectangular (width) for widescreen, so as when it is ripped, it should have a 'proper' resolution of 1024x576.
+
+99% will be happy with the black bars, it doesn't take up much encoding space (its permanently black).
+
+I can only see native 2.35:1 res useful for those with 21/9 screens, and those with projectors set up like that.
+
+If you are displeased with the bars/no bars, then either find an encode which suits you, or do it yourself, and upload it for like-minded others."
+[T],vonRicht,2013-04-16T20:40Z,"@Gacy8Gein:
+
+Much of what you are writing is correct. Just be carefull not to mix picture aspect ratio up with screen aspect ratio.
+
+However - the aspect ratio you are seeing in this torrent and all of my other torrents where the film is shot in 2.35:1 anamorphic widescreen is the original mastered 2.35:1 image. Non Cropped! As it should be.
+
+That's all from me on the subject here.
+
+Thank you for enjoying my rips, guys!  :)
+"
+,TheLathe,2013-05-23T06:50Z,"THANK YOU!!!
+
+This is one of my all time favourite films  : )
+
+I also agree about you leaving the AR unmolested; I too do not think that the slightly larger file sizes are that big of a deal if you can have the proper AR.
+
+I have a nice hardware OPPO player; and for a burned disc to play properly, it must be in a recognized format for the player.  Many times with these rips (since almost bloody EVERYONE crops the films) I have to leave as MKV files and play them that way.  BUT...  This greatly restricts my playback options such as using chapters (NO, my OPPO does NOT recognize anyone's use of chapters in the file) or being able to FF or rewind more than at 1x.
+
+So, I for one REALLY appreciate being able to burn the damn disc and just frigg'n PLAY it the way you are supposed to be able to  : )
+
+Thanks so much again mate!!!"

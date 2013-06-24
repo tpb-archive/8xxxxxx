@@ -1,0 +1,50 @@
+ANDROID FIREWALL v2.1.7
+
+
+
+This is a fork of the popular application DroidWall that uses iptables to limit data usage and add security to Android. Droidwall was originally created by developer Rodrigo Zechin Rosauro. The app was discontinued and did not function correctly on Android 4.x.
+
+Note: ROOT ACCESS IS REQUIRED
+
+If you don't know what ROOT ACCESS is please read this: http://en.wikipedia.org/wiki/Android_rooting
+
+
+You can install the APK found in this torrent (See instructions below) or install it from https://play.google.com/store/apps/details?id=com.jtschohl.androidfirewall.
+
+
+------------
+Changelogs:
+-----------
+v2.1.7:
+a. Widget is new and improved.
+b. Enable/Disable now works correctly
+c. Profile access through the widget.
+d. Notification icon updated to bring it more in line with standard Android notification icons.
+
+--------------------------
+Prerequisite requirement:
+--------------------------
+1. A rooted Android Phone.
+
+
+--------------------------
+Steps to install the APK:
+--------------------------
+
+1. On Android 2.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 3.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 4.x.x, go to Settings | Security and tick Unknown Sources.
+
+
+2. Copy the APK onto phone's internal SD card using a Wifi program or directly via the phone's USB connection.
+
+
+3. Use a file manager like (Astro File Manager, Root Explorer, etc) to browse to location of saved APK.
+
+
+4. Tap on APK to install.
+
+
+Enjoy.

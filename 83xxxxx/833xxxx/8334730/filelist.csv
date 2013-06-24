@@ -1,0 +1,109 @@
+﻿Filename,Size,Unit
+1. SQL Injection/03. Demo - Form based SQL Injection 1.wmv,33.72,M
+2. Information Leakage/07. How do you prevent Information Leakage.wmv,27.32,M
+8. Session Management and Hijacking/10. Custom session id managers.wmv,26.64,M
+6. Cross-Site Request Forgery (CSRF)/08. Demo - Web Forms One Click Attack - Forge user interaction.wmv,17.92,M
+8. Session Management and Hijacking/03. Session Management Demo.wmv,15.33,M
+3. Cross-Site Scripting (XSS)/17. Don't turn off Request Validation.wmv,14.33,M
+3. Cross-Site Scripting (XSS)/07. Demo - DOM Based XSS.wmv,13.85,M
+3. Cross-Site Scripting (XSS)/09. Demo - Dangling Markup-Scriptless Attacks.wmv,13.79,M
+1. SQL Injection/10. Basic Dynamic Query Ideas.wmv,13.21,M
+8. Session Management and Hijacking/05. Demo - stealing a session.wmv,12.78,M
+6. Cross-Site Request Forgery (CSRF)/10. Web Forms CSRF Prevention.wmv,12.72,M
+3. Cross-Site Scripting (XSS)/14. Demo (Prevention)- Content Security Policy.wmv,12.66,M
+6. Cross-Site Request Forgery (CSRF)/04. Demo - Exploit using email image src.wmv,12.26,M
+6. Cross-Site Request Forgery (CSRF)/11. MVC CSRF Prevention.wmv,11.92,M
+7. Denial of Service/04. Demo - Browser based distributed denial of service.wmv,11.64,M
+4. Parameter Tampering/04. MVC Parameter Tampering.wmv,11.1,M
+3. Cross-Site Scripting (XSS)/05. Demo - Persistent XSS Attack.wmv,10.77,M
+3. Cross-Site Scripting (XSS)/21. Demo (Fix) - Fixing DOM based attacks.wmv,10.72,M
+8. Session Management and Hijacking/02. ASP.NET Session Id Management Background.wmv,10.4,M
+5. Encryption and Hashing/11. Installing SSL on your development box.wmv,10.2,M
+1. SQL Injection/07. Additional Protections.wmv,9.78,M
+"6. Cross-Site Request Forgery (CSRF)/07. POSTs protect me, don't they.wmv",9.66,M
+4. Parameter Tampering/05. Web Forms Parameter Tampering.wmv,9.6,M
+3. Cross-Site Scripting (XSS)/19. Demo (Fix) - Fixing Web Forms Repeater.wmv,8.81,M
+5. Encryption and Hashing/18. Choosing the right approaches.wmv,8.72,M
+8. Session Management and Hijacking/07. Syncing Forms authentication timeouts and session timeouts.wmv,8.58,M
+1. SQL Injection/08. Problematic Fixes - Blacklisting Routines.wmv,8.47,M
+3. Cross-Site Scripting (XSS)/18. Know your encoding options.wmv,8.11,M
+3. Cross-Site Scripting (XSS)/08. Demo - Data URI - Link Hijack.wmv,8.01,M
+5. Encryption and Hashing/02. Why should I encrypt.wmv,7.99,M
+7. Denial of Service/05. Demo - Slow page = easy target.wmv,7.73,M
+1. SQL Injection/09. Problematic Fixes - SQL Routines and SQL Truncation.wmv,7.71,M
+1. SQL Injection/11. Using an ORM.wmv,7.51,M
+7. Denial of Service/02. How is DoS exploited.wmv,7.44,M
+4. Parameter Tampering/10. Validate your data.wmv,7.31,M
+5. Encryption and Hashing/06. How to encrypt - application code.wmv,6.87,M
+5. Encryption and Hashing/16. Demo - Hash brute force attack (even with a salt).wmv,6.65,M
+1. SQL Injection/02. What is SQL Injection.wmv,6.65,M
+5. Encryption and Hashing/07. How to encrypt - configuration settings.wmv,6.52,M
+1. SQL Injection/04. Demo - Form based SQL Injection 2.wmv,6.45,M
+3. Cross-Site Scripting (XSS)/15. Problems with blacklists-character filtering.wmv,6.25,M
+4. Parameter Tampering/07. Preventing tampering in MVC.wmv,6.24,M
+8. Session Management and Hijacking/08. Preventing - Removing the session cookie on login-logout.wmv,6.21,M
+3. Cross-Site Scripting (XSS)/16. How do you prevent XSS (last but not least).wmv,6.17,M
+5. Encryption and Hashing/04. SQL - Encrypt by passphrase.wmv,6.14,M
+4. Parameter Tampering/11. A few minor words of caution.wmv,6.11,M
+5. Encryption and Hashing/08. Forcing SSL - MVC.wmv,5.91,M
+3. Cross-Site Scripting (XSS)/04. Demo - Reflected XSS Attack.wmv,5.36,M
+1. SQL Injection/05. How do you prevent SQL Injection.wmv,5.3,M
+2. Information Leakage/04. Demo - Web App Basic Information Leakage.wmv,5.29,M
+1. SQL Injection/06. Demo - SQL Permissions Auditor Tool.wmv,5.11,M
+3. Cross-Site Scripting (XSS)/02. What is XSS.wmv,5.1,M
+3. Cross-Site Scripting (XSS)/06. Demo - Older Style IE6 Content Type Sniffing Attack.wmv,4.97,M
+4. Parameter Tampering/12. Summary.wmv,4.96,M
+3. Cross-Site Scripting (XSS)/10. How do you prevent XSS.wmv,4.6,M
+5. Encryption and Hashing/05. SQL - Encrypt by certificate.wmv,4.53,M
+7. Denial of Service/03. Demo - Affecting the victim's browser.wmv,4.5,M
+6. Cross-Site Request Forgery (CSRF)/03. How is CSRF exploited.wmv,4.46,M
+6. Cross-Site Request Forgery (CSRF)/06. Demo - CSRF from XSS.wmv,4.27,M
+5. Encryption and Hashing/15. Demo - Basic hash with salt.wmv,4.27,M
+5. Encryption and Hashing/13. How are hashes attacked.wmv,4.13,M
+3. Cross-Site Scripting (XSS)/12. Demo (Prevention)- AntiXss GetSafeHtmlFragment().wmv,4.11,M
+2. Information Leakage/03. How is it information gathered.wmv,4.05,M
+6. Cross-Site Request Forgery (CSRF)/09. How do you prevent CSRF.wmv,3.98,M
+4. Parameter Tampering/06. EventValidation issues with client side script.wmv,3.7,M
+3. Cross-Site Scripting (XSS)/22. Tools.wmv,3.64,M
+3. Cross-Site Scripting (XSS)/23. Summary.wmv,3.55,M
+6. Cross-Site Request Forgery (CSRF)/12. Summary.wmv,3.29,M
+7. Denial of Service/06. Preventing DoS.wmv,3.12,M
+2. Information Leakage/06. Demo - Information Leakage by Ajax.wmv,2.98,M
+4. Parameter Tampering/09. Preventions - Data Annotations.wmv,2.85,M
+3. Cross-Site Scripting (XSS)/20. Demo (Fix) - Fixing Scriptless-Dangling HTML.wmv,2.78,M
+4. Parameter Tampering/08. Preventions - Regular Expressions.wmv,2.72,M
+5. Encryption and Hashing/10. Forcing SSL - Additional Information.wmv,2.72,M
+5. Encryption and Hashing/19. Membership provider support.wmv,2.66,M
+3. Cross-Site Scripting (XSS)/13. Demo (Prevention)- Specifying UTF-8 Encoding.wmv,2.55,M
+6. Cross-Site Request Forgery (CSRF)/05. Demo - Repeatability is the key.wmv,2.38,M
+5. Encryption and Hashing/17. Tool Demo - Hashcat.wmv,2.33,M
+5. Encryption and Hashing/12. About Hashing.wmv,2.18,M
+5. Encryption and Hashing/14. What's a salt.wmv,2.05,M
+8. Session Management and Hijacking/11. Additional Information.wmv,2,M
+4. Parameter Tampering/03. How is it exploited.wmv,1.97,M
+8. Session Management and Hijacking/09. Preventing - Avoid cookieless sessions.wmv,1.89,M
+5. Encryption and Hashing/09. Forcing SSL - Web Forms.wmv,1.84,M
+5. Encryption and Hashing/20. But I need my lost password functionality.wmv,1.81,M
+3. Cross-Site Scripting (XSS)/11. How do you prevent XSS (page 2).wmv,1.8,M
+5. Encryption and Hashing/03. How to encrypt - database side.wmv,1.68,M
+2. Information Leakage/02. What is information leakage.wmv,1.64,M
+8. Session Management and Hijacking/04. How can sessions be attacked.wmv,1.6,M
+6. Cross-Site Request Forgery (CSRF)/02. What is CSRF.wmv,1.55,M
+8. Session Management and Hijacking/06. Preventing Session Attacks.wmv,1.46,M
+4. Parameter Tampering/13. Additional Information References.wmv,1.28,M
+2. Information Leakage/05. Demo - Information Leakage from error page.wmv,1.21,M
+3. Cross-Site Scripting (XSS)/03. How is XSS exploited.wmv,1.15,M
+5. Encryption and Hashing/21. Additional Information.wmv,991.87,K
+7. Denial of Service/07. Additional Information References.wmv,991.86,K
+4. Parameter Tampering/02. What is parameter tampering.wmv,956.89,K
+1. SQL Injection/12. Additional Information References.wmv,886.78,K
+3. Cross-Site Scripting (XSS)/24. Additional Information References.wmv,816.7,K
+2. Information Leakage/08. Additional Reading.wmv,770.08,K
+5. Encryption and Hashing/01. Introduction.wmv,285.61,K
+2. Information Leakage/01. Introduction.wmv,273.93,K
+8. Session Management and Hijacking/01. Introduction.wmv,262.28,K
+4. Parameter Tampering/01. Introduction.wmv,250.57,K
+6. Cross-Site Request Forgery (CSRF)/01. Introduction.wmv,250.54,K
+3. Cross-Site Scripting (XSS)/01. Introduction.wmv,250.54,K
+1. SQL Injection/01. Introduction.wmv,238.89,K
+7. Denial of Service/01. Introduction.wmv,215.52,K

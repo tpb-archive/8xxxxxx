@@ -1,0 +1,21 @@
+Tested on Windows 7 32-bit. Not included: the original and conquerors expansion CD cracks. Everything from those games is playable using the Forgotten Empires executable.
+
+Credit for the unofficial expansion goes here: http://www.forgottenempires.net/
+
+================ INSTALL ================
+
+1a. Mount and install age2_kings.iso (full install)
+1b. Run age2upa.exe to install the Age of Kings 2.0a update
+
+2a. Mount and install age2_conquerors.iso (full)
+2b. Run age2xpatch.exe to install the Conquerors 1.0c patch
+
+3a. Copy age2_forgotten-empires.exe to installation directory
+3b. Run it; download Age of Empires II - The Forgotten Empires Expansion (full)
+3c. Delete age2_forgotten-empires.exe from installation directory
+
+================   RUN   ================
+
+Once installed, locate and run
+
+C:Program FilesMicrosoft GamesAge of Empires IIage2_x1age2_x2.exe

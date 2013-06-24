@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,kingashi,2013-04-19T12:30Z,wow thanks namco...hope someone cracks it soon.....
+,kingashi,2013-04-19T12:32Z,can you tell what exactly it asks for...a serial key?? or through internet activation?? maybe you can try enable button....just saying..
+,KevTheOne,2013-04-19T13:13Z,"What happened with ORBX?
+Their products used to be free of copy-protection measures."
+,dg_gfy,2013-04-19T14:02Z,"Great... Now wait for crack. Thanks anyhow.
+By the way... warbirdsim Mustang ?"
+,Marklam_Voom,2013-04-19T15:13Z,"@Kev
+They where not free of copy-protection, they still require activation.
+Before they changed the activation procedure it was easy to circumvent that. Now we need someone with a little more expertise to find a solution to this new method. I don't think it's difficult, we just don't know how to, or have enough free time to try. :-"
+,namco-nexgen,2013-04-19T15:14Z,"It asks for purchase ID, email and name or something similar. It's something basic most surely."
+[T],_SnakEye,2013-04-19T15:56Z,"unwrapping is/was easy.
+now I will start working on the DLL files for the Installer itself to pass.
+I managed to narrow it down to two DLLs that in use. "
+,fenriz747,2013-04-19T16:40Z,"@KevTheOne, its form FlightSim store, i think only they use fucking protection.
+@SnakEye, do your best to remove this shit
+@Namco, thnaks again and now time for Alaska."
+,namco-nexgen,2013-04-19T18:24Z,I'll up it once this one is strongly seeded.
+,eshborn,2013-04-19T18:42Z,"Thank you sooo much been waiting for this big time ,,, but now we have to wait a Little more 
+
+thank you "
+,fenriz747,2013-04-19T19:59Z,"I extracted FTXEUWLS100.exe (with original Orbx icon) from OrbxFTXEUWales100 file but when i launch it and click Next i see ""This appears to be an illegitimate copy, please contact The Flight Sim Store..."" Its not that way, fuck FlightSim, waiting for SnakeEye"
+,RossM236,2013-04-19T21:41Z,"@fenriz
+it is good you posted that as SnakEye may be able to cut some corners with the cracking by just extracting that file and cracking it instead. And from the sounds of it all the Wrapper is doing is simply encrypting the .exe"
+,qiisaword,2013-04-19T23:34Z,"good luck Snakeye & namco, hope you crack this soon...
+btw namco, that's not you on avsim is it??"
+,namco-nexgen,2013-04-20T00:34Z,"Sorry, i don't do fag forum shit. I'll be on IRC if you wanna find me.
+
+Second time already and my nick is ""namco-nexgen"", not ""namco"""
+,KevTheOne,2013-04-20T01:54Z,Lol turn off the nerd rage pal.
+,fenriz747,2013-04-20T10:14Z,"Sorry namco-nexgen for only ""namco"" xD It would be perfectly to unwarap that shity FSS and get original clean installer like Orbx England. Waiting waiting..."
+[T],_SnakEye,2013-04-20T15:11Z,"@fenriz747, unwrapping the FSS was already done, we managed to unwrap it to the Orbx Original installation, however the Orbx Installation now days requiring some kind of Info that the FSS activation process inserts in to the computer that without it the Orbx Installation would not proceed.
+
+I will have more time next week working on this.
+I'll hook on the Installer Process and find what it is looking for.
+
+I am almost sure I understand the process.
+
+FSS injects some Info into the computer after you validate your Order number and PWD. etc.
+the Orbx Installation has a condition in it, if info that I am looking for (me as the installation program) = Trure (or whatever), then proceed.
+if does not exist and/or not valid Info , got end and display an error message.
+
+I'll hook on the installer itself rather then trying to activate the product."
+,snake4445,2013-04-20T18:15Z,Best of luck SnakEye.  Hopefully you can nail it.  Keep up the great work namco-nexgen with your postings!!
+,namco-nexgen,2013-04-22T12:51Z,"Well, we're all looking at the same objective. If everyone helps, we might get there.
+
+If this works out, i'll pass Alaska to Snakeye_ if he agrees to work on it."
+,melmacian,2013-04-22T16:37Z,"I will have a go at the crack, not promising anything. I feel I must at least give it a go. "
+,fenriz747,2013-04-22T17:01Z,"I count on SnakeEye, he is a smart guy and of course good luck @melmacian. clean installer would be great.
+@namco-nexgen, thanks for offer Alaska. Btw. I saw that you have new Majestic Dash 400 but I missed out when you posted link to cloud. Could you reup it ?"
+,free4last,2013-04-23T14:40Z,"Thanks namco-nexgen..
+_SnakEye, good luck with your finding.. hope it cracked soon.."
+,krw86,2013-04-29T00:08Z,Any updates yet guys

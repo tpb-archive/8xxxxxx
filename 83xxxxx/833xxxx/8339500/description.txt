@@ -1,0 +1,29 @@
+Needed Tools:
+ * XBox 360 w/ XTreme Firmware Update
+ * DVD+R Dual Layered Blank DVD
+ * Burner Capable Of Burning Dual Layered DVDs
+ * CloneCD
+ * XBOX360 SS Merger 1.5o from here.
+
+ First your going to download your games from wherever you get your stuff. I personally use newsgroups, it seems to be the fastest and most reliable source for getting anything. You need to check the game first to see what kind of rip it is. Straight rips of the games don't work yet so you need to find the ones that can be patched, or if your lucky already patched. This tutorial will show you how to patch the games if needed. The easiest way to check what kinda rip is to check the .nfo file that comes with almost every game.
+
+ Types Of Rips:
+ -Straight Rips: At this time these are impossible to do anything with. I group by the name of Pi has been releasing these lately. They are of no use at the current time though.
+
+ -Xtreme Rips (Not Patched): These are good rips that just need to be patched with the correct .bin file. I'll explain where to get these, and how to patch the files. After patched you can then burn it and it'll boot no problem.
+
+ -Xtreme Rips (Pre Patched): These files are the easiest to use, they come in .rar format like both other rips, the difference is you just have to unrar and burn. No patching required. This is the fastest way.
+
+ Note: Skip to step 2 if you have a prepatched iso.
+
+ 1. Your going to have to patch the game to work correctly, without a patch the XBox360 won't know how to handle the game. Your going to need XBOX360 SS Merger 1.5o to do this. Open the program and load your iso. When it asks to check the MD5 hit yes, it'll take a few minutes, its a pretty big file.It will then produce an MD5 number for you. You want to load your ss.bin file that came with the game, if it didnt come with the game visit http://www.ubclass.org/X360SS/sslist.htm to get the ss.bin file you need. Load the file.If both boxes are green and the numbers match, that is the correct file you need to patch. Hit the big huge button on the right side of the program to patch the file. Again, this will take a few minutes, it's a huge file.It will then tell you it's finish and you can load the file that it outputs.
+
+
+
+
+ 2. Open up Clone CD, anything above version 5 should work. Simply hit the second button to open and image file and select your new iso. It should load without problem. You will need a dual layered DVD+R to burn, your 360 won't read any other format correctly. Also, make sure you burn at 2x or close as possible so your game is readable and doesn't skip. This is very important.
+
+
+
+
+ 3. Put the game in your XBox360 and enjoy. You can even play on XBox Live without a single problem.

@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,TUDz,2013-03-31T03:51Z,Thanks you Superior being!
+,qobilidop,2013-03-31T12:00Z,"This seems to be the x64 version? Doesn't work on my Ubuntu, x86."
+,JardaHouska,2013-03-31T12:34Z,"It is written here, it is ""x86_64"" so 64bit version, 32bit versions are usually marked as ""i386"" or ""i686""..."
+,damian42,2013-04-02T03:09Z,"Hi - I most likely am being a bit stupid (or more than a bit stupid) - but I can't get the installer to initialize. I'm on a MacBook Pro, but running the 'InstallForMacOSX' script does nothing. Any suggestions would be appreciated. Thanks!"
+,nummyfx,2013-04-08T19:42Z,"damian42 try with sudo
+or check
+http://www.mathworks.com/support/solutions/en/data/1-DGBSMY/index.html
+http://www.mathworks.com/support/solutions/en/data/1-DIMLXY/index.html?solution=1-DIMLXY"
+,Chuck.ie,2013-04-21T07:14Z,anybody tried this with RHEL?
+,Homestarnnr,2013-04-26T17:40Z,"@qobilidop
+
+There is no x86 version of R2013a for Linux. In fact, R2012a is the very last version of MATLAB written for 32-bit Linux.
+
+http://www.mathworks.com/support/sysreq/current_release/linux.html"
+,whamwham,2013-05-01T04:35Z,"Does this have all toolboxes? The filesize is smaller than the windows versions eg 
+http://thepiratebay.sx/torrent/8371774/Mathworks.Matlab.R2013a-CYGiSO"
+,patiodude,2013-05-17T00:36Z,"Not sure if anyone else is getting this, but the InstallForMacOSX.app and InstallForMacOSX_Auto.app are both PPC apps, and won't work under Mountain Lion. Is there any way to fix this?"

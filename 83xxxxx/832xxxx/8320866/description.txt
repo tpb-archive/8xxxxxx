@@ -1,0 +1,22 @@
+                   Nero 12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1- Executar o ficheiro setup
+
+2- Instalar com a chave 901E-0190-XL1C-8PML-7P7Z-8H70-CL4Z-X129
+
+3- Coipiar o ficheiro patch para a diretoria principal e executar
+
+4- Executar o gicheiro *.reg correspondente à vossa versão do windows (X86-32 bits; X64- 64bits)
+
+Se fizerem updates apliquem de novo o patch.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+RECOMENDO inStalar assim funcionou para mim .
+Instalei tudo normal sem inserir chave nenhuma, depois de concluída a instalação reiniciei o sistema...
+
+De seguida inseri os valores de registo e só depois é que executei o patch...
+
+Passo final fui ao Control Center e inseri a chave que vinha no bloco de notas e eliminei a que dizia Demo... :)
+
+ 

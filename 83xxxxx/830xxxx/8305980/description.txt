@@ -1,0 +1,14 @@
+ZevenOS Linux Neptune edition is a Debian-based desktop GNU/Linux distribution for 64-bit computer systems with a customised KDE Plasma as the default desktop
+
+This release features the Linux kernel 3.8.4 and is exclusively meant to run on 64bit CPUs. We switched the Debian base from testing to wheezy to provide a more stable and better experience. The KDE Plasma Desktop ships with version 4.10.1. Chromium was updated to version 25, Icedove to version 10.0.12ESR, Gimp 2.8.2, Kdenlive 0.9.4, Amarok 2.7, VLC 2.0.5. We ship with the latest and greates multimedia codecs preinstalled aswell as the flashplayer. For wireless diagnosis we ship Wireshark, Aircrack-ng and kismon.
+
+The Neptune Installer now comes with a summary page allowing you to see a summary of the installation options aswell as allowing you to change the language and localization of your system right from within the installer (the new language-selector tool can be called after installation aswell). We also added a new advanced installation mode the Nested Installation.
+Thanks to our competition in creating Kdenlive title templates we were able to put lots of cool and new title templates into this release.
+The ZevenOS-Hardwaremanager was updated to be more polished and to allow even the installation of experimental proprietary graphicsdrivers (from the debian experimental repository).
+
+The artwork of Neptune 3.0 was modified aswell and for the first time also uses a custom sound theme aswell as a customized mouse cursor theme. We optimized the font rendering and turned font hinting on by default. 
+
+The new default launchermenu to open up applications has been switched to lancelot which allows you to use all the great krunner plugins in the integrated search aswell as offering a better overview of installed applications and a clickless navigation.
+
+Release notes: 
+http://www.zevenos.com/allgemein/neptune-3-0-brotkasten-release-is-ready.html

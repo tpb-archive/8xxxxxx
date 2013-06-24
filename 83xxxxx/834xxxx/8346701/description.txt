@@ -1,0 +1,83 @@
+
+[ Info sul file ]
+
+Nome: Tutto.Tutto.Niente.Niente.2012.iTALiAN.1080p.Bluray.UNTOUCHED.x264.BtH.mkv
+data: SAT, 06 Apr 2013 01:37:43 +0200
+Dimensione: 15.8 Go
+
+[ Info generiche ]
+
+Durata: 01:31:30 (5489.536 s)
+Contenitore: matroska
+Production date: Thu, 01 Jan 1970 02:00:01 +0200
+Totale tracce: 4
+Traccia n. 1: video (V_MPEG4/ISO/AVC) {ita}
+Traccia n. 2: audio (A_AC3) [Ita AC3] {ita}
+Traccia n. 3: subtitle (S_TEXT/UTF8) [Ita] {ita}
+Traccia n. 4: subtitle (S_TEXT/UTF8) [Eng] {eng}
+Muxing library: libebml v1.3.0 + libmatroska v1.4.0
+Writing application: mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+
+[ Dati rilevanti ]
+
+Risoluzione: 1024 x 432
+Larghezza: multipla di 32
+Altezza: multipla di 16
+DRF medio: 24.305512
+Deviazione standard: 2.590022
+Media pesata dev. std.: 2.571816
+
+[ Traccia video ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1024 x 432
+Frame aspect ratio: 64:27 = 2.37037 (~2.35:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 64:27 = 2.37037 (~2.35:1)
+Framerate: 23.976024 fps
+Dimensione stream: 1,485,459,143 bytes (1416.644233 MiB)
+Durata: 01:31:29 (5489.442248 s)
+Bitrate (bs): 2164.823421 kbps
+Qf: 0.204109
+
+[ Traccia audio ]
+
+Codec ID: A_AC3
+Freq. campionamento: 48000 Hz
+Canali: 6
+Dimensione stream: 439,162,880 bytes (418.818359 MiB)
+Tipo di bitstream (bs): AC3
+Frames (bs): 171,548
+Durata: 01:31:30 (5489.536 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 640 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): 3 front, 2 rear, 1 LFE
+
+[ Bitstream video ]
+
+Tipo di bitstream: MPEG-4 Part 10
+User data: x264 | core 120 | H.264/MPEG-4 AVC codec | Copyleft 2003-2011
+User data: http://www.videolan.org/x264.html | cabac=1 | ref=3 | deblock=1:0:0
+User data: analyse=0x3:0x113 | me=hex | subme=7 | psy=1 | psy_rd=1.00:0.00
+User data: mixed_ref=1 | me_range=16 | chroma_me=1 | trellis=1 | 8x8dct=1
+User data: cqm=0 | deadzone=21,11 | fast_pskip=1 | chroma_qp_offset=-2
+User data: threads=12 | sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=3 | b_pyramid=2
+User data: b_adapt=2 | b_bias=0 | direct=1 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=24 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=50 | rc=abr | mbtree=1 | bitrate=2200 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=3 | qpmax=69 | qpstep=4 | ip_ratio=1.40
+User data: aq=1:1.00
+SPS id: 0
+  Profile: High@L3.1
+  Num ref frames: 4
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Tipo di codifica entropica: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Sì
+Totale frames: 131,615
+Drop/delay frames: 0
+Frames corrotti: 0

@@ -1,0 +1,120 @@
+Official Web Site:  http://www.alfredapp.com
+
+Patch to unlock PowerPack courtesy of Special [K]
+
+Alfred is an award-winning productivity application for OS X. Alfred saves you time when you search for files online or on your Mac. Be more productive with hotkeys, keywords, and file actions at your fingertips.
+
+Loads of app-launching, file-searching goodness - free for you to download and use with no strings attached. Alfred is the ultimate productivity tool for your Mac. Get it and see for yourself.
+
+Get the Powerpack Discover the Powerpack, a set of incredibly powerful features, built on top of the robust core of Alfred and integrated with OS X.
+
+Whats New: 
+
+* Give Alfred's Auto Updater its own tab with change log
+
+* Migrate user set hotkeys and keywords when updating a workflow
+
+* Make no results from a script filter correctly fall back to fallbacks
+
+* Make the script filter item uid attribute optional, and generate a UUID 
+  for these instead. This prevents Alfred from learning the returned 
+  result order so will respect the XML returned order
+
+* Sort saved workflow [input] objects based on y position for more
+   predictable initial no-knowledge ordering
+
+* Add hidden knowledge for placeholder items - Allows for web 
+  searches / workflows to be ranked higher in the default results
+ 
+* better logic on alternative modifiers, allows default mod actions on 
+  invalid results
+
+* Respect opening contacts metadata files in Alfred's contact viewer if 
+  setup
+
+*  Don't show "View contact in Alfred' subtext for non Powerpack
+   users
+
+* Capitalise Finder in 'reveal file in finder' modifier press subtext
+
+* Fix spelling mistake 'searchces' when deleting a custom search
+
+* Add option to escape backslashes in {query} for scripting
+ 
+* default backslash escaping for script workflow templates and 
+  examples
+
+* When using cmd+c on a contact in Alfred's results, copy the name
+   rather than the contact id
+
+* Reset iTunes mini player if node stack typed mismatch, prevents nil
+   caused double characters
+
+* Add placeholder AppleScript for NSAppleScript configuration
+   window with no AppleScript
+
+* improve "Open With" matching to use kMDItemKeywords fields
+   which also match app char names from 10.8.3
+
+* fix issue with typed word not showing with define keyword in certain
+   scenarios
+
+* Add and improve timer logging for better performance profiling
+
+* Change resizing mode on snippets table in prefs to make more useful
+
+* If cmd+down on file, navigate into the containing folder
+
+* Show reason sheet why non-PP users can't import themes or 
+  workflows rather than just not doing anything
+
+* More efficient eject workflow which only loads the volumes if it 
+  needs to
+
+* Don't great out advanced 'sync' button for non-Powerpack users, 
+  instead, explain Powerpack is needed
+
+* Rename 'Update" to "Save" in the workflows detail editor to prevent
+   confusion
+
+* If a person is marked as a company, then prefix with the company in 
+  Alfred's results
+
+* Add in support for Mailplane 3 email attachments
+
+* Trim large type text to ensure there are no hanging characters before
+  displaying
+
+* More clear 'grey out' behavior for alt connection sheet when selecting 
+  'none' as the connection modifier
+
+* show full path at bottom of recent documents window
+
+* Add type to filter documents in the recent documents action
+
+* Fix some text in the v1 import sheet
+
+* Switch out some unused NSLogs
+
+* Add resilience against certain Address Book scenarios
+
+* Move application file cache database into app support folder to 
+  prevent auto cache cleaner apps from breaking or slowing Alfred
+
+* Fix issue where joining comments and keywords in the app cache 
+  caused a selector not found when assuming an id was an array
+
+* More robust default browser selection when populating browser info
+  into workflow object config browser selection
+
+* Fix time modifiers for snippets e.g. {time:short}
+
+* Code review and remove the unused update controllers from the 
+  general prefs
+
+System Requirements:
+
+Intel Mac, OS X.6 or later
+Processor type(s) & speed: 64 Bit CPU
+
+--- PLEASE SEED ---

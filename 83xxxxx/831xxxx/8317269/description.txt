@@ -1,0 +1,54 @@
+CODYQX4's Description:
+This is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported. For information about individual functions, read further.
+
+Requirements:
+Microsoft .NET Framework 4.0 or 4.5 (Not 3.5)
+Microsoft Office 2010 or Later for Office Toolkit Support 
+Windows Vista or Later for Windows Toolkit Support
+
+My additional info:
+Activates:
+Windows Vista Business/Enterprise Default/N
+Windows 7 Professional/Enterprise Default/N/E
+Windows 8 Pro/Ent Default/N
+Microsoft Office 2010/2013 VL versions
+
+Although it can also activate Windows 8 Core/N and ProWMC versions, each activation period defaults to a 30 day period. This is because MS never intended those versions to be activated with KMS, although they did give them a gVLK.
+
+To activate non-Volume versions of Windows, you need to have a version that has the gVLK set to support KMS activation and activation needs to allow KMS activation (usually does)
+
+KMS Server Service can be set-up to activate your own computer or any computer you can connect to. If you are having trouble with your localhost ip address that is set by default: 127.0.0.2, try setting to another number between 127.0.0.1 and 127.255.255.254. If you have a problem with the default port (1688) I would highly recommend changing other programs that are interfering with MTK. Changing the default port could cause problems with activation renewal.
+
+For self-activation with KMS Server Service, you can install using the default options, and click the Activate button.  For Office, I recommend also running admin command prompt commands:
+cscript ospp.vbs /sethst:127.0.0.2
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /act
+
+Do that from the Office14 or Office15 directory. You must navigate to the directory using CD commands. Once setup in this fashion, Office should re-activate itself every so often, depending on how long you set the renewal period for in the options. Default is every 7 days, but since KMS activation lasts 180 days for Office, I'd recommend setting it for something like every 90 days.  You will need to whip out the calculator and convert the numbers into minutes and enter them into the settings box in MTK for KMS Server Service.
+
+In my experience, for Windows, just installing the service using default options and using the Activate button correctly sets up the renewal period and no further input is necessary for self-activation.
+
+To activate others' computers, they need to run the licensing script but pointed to your computer's IP address and Port. For Windows, on the same network, it should go something like this:
+slmgr /skms 192.168.0.2:1688 (where that is the IP address/port of the activator system)
+slmgr /ato (activation command)
+
+Trying to activate Office on XP is tricky using this tool, but possible. I'd recommend using the KMS Server Service method. A lot of people report having issues using AutoKMS on XP.
+
+EZ-Activator installs a gVLK on Windows systems and installs and Activates with AutoKMS. If you don't know what you are doing, this is probably the best option.
+
+CODYQX4's Credits:
+-Bosh for the original GUI Design and co-development of Office Toolkit
+-ZWT for the original KMSEmulator
+-letsgoawayhell, Phazor, nosferati87, and mikmik38 for KMSEmulator fixes and improvements
+-MasterDisaster, FreeStyler, Daz, nononsense, and janek2012 for work on Key Checker
+
+2.4.2 
+EXE MD5*: C3D4CA35DFEB798E55FA45384F3BD366
+You can download and use hashtab on the exe to verify original.
+Check out the project page at: 
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products
+
+Feel free to give CODYQX4 a "Thanks" for his wonderful toolkit. Please do not pester him with every little problem, you can ask me or any other person on the project thread for help. His box fills very quickly and he doesn't need everyone in the world bugging him for questions he's answered 1000x.
+
+Enjoy,
+murphy78 TPB/MDL

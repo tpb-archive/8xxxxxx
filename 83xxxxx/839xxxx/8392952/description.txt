@@ -1,0 +1,31 @@
+HD Tune Pro is a hard disk / SSD utility with many functions. It can be used to measure the drive's performance, scan for errors, check the health status (S.M.A.R.T.), securely erase all data and much more.
+
+HD Tune Pro is a hard disk utility which has the following functions:
+- Benchmark: measures the low-level performance (read/write) 
+- File Benchmark: measures the file performance (read/write) 
+- Info: shows detailed information 
+- Health: checks the health status by using SMART 
+- Error Scan: scans the surface for errors 
+- Erase: securely erases all data from the disk 
+- Disk Monitor: monitors disk access 
+- Folder View: shows disk space usage for each folder 
+- AAM: reduces noise or increases seek performance 
+- Temperature display
+
+20 April 2013: HD Tune Pro 5.50 released.
+
+ Changes:
+- Added new module with following functions:
+- Check health status of all connected drives at once
+- Detailed S.M.A.R.T information
+- Run S.M.A.R.T self-test
+- Device statistics
+- Temperature statistics
+- Added support for more SSD drives
+- Improved support for +4TB disks
+- Added option to restore window position and size
+- Added new warning level
+
+Supported operating systems: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8.
+Home Page: www.hdtune.com
+Interface: English

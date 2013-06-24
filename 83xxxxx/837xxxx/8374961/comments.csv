@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,bluescowboy,2013-04-16T08:05Z,thank you
+,Tiberiusduck,2013-04-17T15:57Z,"If any of you are having a problem blocking this software from accessing the internet with Windows 7 or 8 Firewall, then go to to Youtube and check out this video entitled : 
+“Block Programs From Going Online Using Windows Firewall with Advanced Settings”.
+In this particular case, choose the outbound panel and block the “2 application files” individually that are located in the Reallusion folder. The 2 application names are called “CTApp” and  “RLSysRegAgentU”. 
+This does work folks. No more unplugging the internet."
+,Tiberiusduck,2013-04-17T18:45Z,"Sorry folks but after a while this software again created yet another attemp to access the internet through my Windows 7 Firewall. 
+
+No big deal though, this software still works great when disconnected manually from the internet.
+
+Thank you ""Ching_Liu""  for posting this torrent:)"
+,C1hrisin,2013-06-07T11:24Z,"I have no problems, I use Tinywall, it blocks the internet connection to the software without and problems at all."

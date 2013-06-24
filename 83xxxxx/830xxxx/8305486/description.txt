@@ -1,0 +1,79 @@
+Zygor Guides update v4.0.6185, released March 26th, 2013. (Horde and Alliance)
+
+
+
+
+Install instructions: 
+
+1) DO NOT USE THE OFFICIAL ZYGOR LAUNCHER FOR ANY REASON.
+
+2) Extract the .zip and drop the ZygorGuidesViewer folder into your WoW/Interface/Addons folder and overwrite the current installation.
+
+
+Mac-Only install instructions:
+
+1) Put the ZygorGuidesViewer folder in Hard Drive/Applications/World of Warcraft/Interface/AddOns.
+
+2) (Optional) Open World of Warcraft, login, click the Addons button on the Character Select Screen, make sure Zygor is selected, and check the "Load out of date addons" box. Some users have stated that this step is rarely/never necessary but it is here as a reference.
+
+
+***********************************************************************************
+READ ME:
+
+These uploads work just fine; if you are having problems it is on your end. That being said, if there does happen to be a problem with an upload, then fall back to the previous version and NICELY let me know... I'll fix it as soon as I can.
+
+
+Please DO NOT post comments about new updates. I check daily for updates and if I haven't posted a new version yet, I'll get to it when I get to it. 
+
+
+Please DO NOT make addon requests. The two most popular guides are Zygor and Dugi, and those are the ones that will be uploaded. (I'm working on Dugi currently.)
+***********************************************************************************
+
+
+
+Patch notes:
+
+
+Version: 4.0.6185
+Released on: March 26th, 2013
+[B] Leveling
+Fixed reported errors in the Death Knight Starting guide.
+
+[B] Dailies/Reputations
+Added and edited content in the Isle of Thunder dailies.
+Added in the final quest for the Tillers.
+
+[B] General
+Fixed several parsing issues in the guides.
+
+[B] Pets/Mounts
+Added in the Tiny Carp to the list.
+
+[A] Reputations
+Updated guides in Northrend.
+Version: 4.0.6178
+Released on: March 25th, 2013
+Guide Viewer
+* Fixed parse errors due to over-tightened parser optimization.
+Version: 4.0.6177
+Released on: March 25th, 2013
+[B] Leveling
+Fixed travel errors in the DK starting guide.
+
+[A] Dailies/Reputations
+Fixed reported errors in the 5.2 dailies.
+
+[H] Dailies/Reputations
+Fixed an issue with Into the Crypts not showing up as an available quest.
+
+[A] Dailies
+Fixed guides in the Northrend dailies section of the guides
+
+[B] Professions
+Fixed an error where the guide tells players to purchase Motes of Harmony from the Auction House.
+
+[B] Dailies/Reputations
+Misc. fixes in the 5.2 dailies
+
+[B] Achievements
+Mystically Epic Completed.

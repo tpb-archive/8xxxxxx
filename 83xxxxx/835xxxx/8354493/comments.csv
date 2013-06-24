@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,lambda1,2013-04-09T10:01Z,"i-FunBox is working in sandbox mode. Try this instead:
+
+Add the following repo to cydia: repo dot appvv dot com
+
+Download vShare app from this repo. This is an Installous alternative. Run it then exit.
+
+With iFunBox or iExplorer or iTools or any way you want copy the ipa file to the following folder on your device: /var/mobile/Library/appvv/
+Make sure NOT to copy to appvv/download, just simply to appvv/
+
+Start vShare and select Download from the left menu, then select Downloaded in the center column. JeppFD should be visible here. If you don't see, restart the app fully! Exit then double press home button and close vShare from the taskbar. If you still don't see you copied the ipa to wrong folder.
+
+Tap on JeppFD and select install. Let me know if it works."
+,polakritl,2013-05-06T09:24Z,"I downloaded AIRAC 1307. But cannot make it work on v2.0.0
+
+I tried searching in web but no luck. Anyone please tell me how."
+,cya320,2013-05-07T21:55Z,"Was checking JeppFD 2.06 with 1307 data on an ipad2 non-jb using ifunbox or diskaid
+all data loaded into jeppfd.app-demodata-enroute folder and sub folders.
+copy from 1307 db_b, db1 & store folder to ipad enroute-database folder. db_b folder has the lastest data. I think db_a has the older data. I confirmed with checking sometime updates.
+enroute data works
+copy terrain folder from jeppfd 2.0 to jeppfd 2.06 otherwise terrain limited to one map.
+terrain works. however the distinction of sea and land is not shown when zoom in
+termcharts works. no issue. copy the 1307 termcharts folder to demodata-termcharts.
+weather also works with terminal & enroute
+suggest to those still with fd2.0 to copy out all folders & data to pc for the time being. you don't know if you need them later.
+will have to wait & see what file structure for the next update."
+,jeromepp,2013-06-06T22:15Z,"Hi,
+How to install it on an iPad which already runs iOs 6.1.3. Jailbreak doesn't exists for 6.1.3...
+Any idea?"

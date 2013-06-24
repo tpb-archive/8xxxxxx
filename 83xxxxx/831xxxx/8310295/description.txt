@@ -1,0 +1,46 @@
+           Title: Let Over Lambda: 50 years of Lisp
+           Author: Doug Hoyte   
+           Source: Book
+           Year: 2008
+           Pages: 384
+ 
+           Desc: Let Over Lambda is one of the most hardcore 
+           computer programming books out there. Starting with 
+           the fundamentals, it describes the most advanced 
+           features of the most advanced language: COMMON LISP. 
+           The point of this book is to expose you to ideas that 
+           you might otherwise never be exposed to.
+
+           This book is about macros, that is programs that write 
+           programs. Macros are what make lisp the greatest 
+           programming language in the world. When used properly, 
+           macros enable amazing feats of abstraction, programmer 
+           productivity, and code efficiency and security that 
+           are unheard of elsewhere. Macros let you do things you 
+           simply cannot do in other languages.
+
+           If you are looking for a dry coding manual that 
+           re-hashes common-sense techniques in whatever langue
+           du jour, this book is not for you. This book is about 
+           pushing the boundaries of what we know about 
+           programming. While this book teaches useful macro 
+           skills that can help solve your programming problems 
+           today and now, it has also been designed to be 
+           entertaining and inspiring. If you have ever wondered
+           what lisp or even programming itself is really about, 
+           this is the book you have been looking for.
+ 
+           Notes: Text is a fully searchable djvu made from a
+           scan of the book. Djvu was the chosen format rather
+           than pdf, as djvu offers numerous technical
+           advantages, analogous to the shift from avi to mkv.
+           The bottom line to you is better quality and smaller
+           file sizes. On the whole, the quality of the ebook 
+           is good. Pages have been deskewed, dewarped, ocred 
+           text layer for searching, indexed, and bitonalized.
+
+           In the current setup, scanning books is very
+           tedious and time consuming, so don't expect a large
+           number of these book scan releases in the future,
+           only books worth the work (such as this one) will be
+           completed.

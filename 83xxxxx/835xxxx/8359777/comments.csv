@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,Sonic_27,2013-04-10T12:47Z,Can you PLEASE upload a small AIO with Windows 8 x64 (not pro) with all updates?? THANKS!
+,Sonic_27,2013-04-10T12:49Z,"oh.. I forgot to mention, NOT activated! Thanks my friend."
+,bluealphabet,2013-04-10T15:22Z,"Greetings murphy78. First off, thanks a bunch for your hard work and providing us with these updated office and windows images. Would you be able to make an updated Server 2008 R2 and Server 2012 image as well? I would greatly appreciate it. :)"
+[V],murphy78,2013-04-10T22:07Z,"@Sonic_27 - If my AIO gets over 8gb I'll split them into x64 and x86 versions. If size permits I'll include activated versions. I always include the non-activated versions for people that want to do their own thing, but I also include the activated indexes so people don't have to fumble around with activation options. Too many people try hacktivators which do not work with any sort of windows updates.
+
+@blue, answered you on x86"
+,elenos_priam,2013-04-11T01:27Z,"Can I put it in a fat32 usb flash drive?
+(Does it contain any file over 4gb?)
+For some reason I can't boot from ntfs usb flash drive..."
+,Sonic_27,2013-04-11T01:39Z,"ok cool. I just need Windows 8 x64 with all updates (not activated) so I can activate it on my own. Love your uploads ""ALWAYS THE BEST"" Thanks again!"
+[V],murphy78,2013-04-11T07:26Z,"elenos, you probably have a uefi system, see my uefi nofrills release to have one that fits on fat32"
+,elenos_priam,2013-04-12T02:59Z,"murphy, not really, I think it's because my flash drive (old 8gb). I want to buy and try a new 16gb because I've seen this working to a system similar to mine (not uefi), and the only difference I see is my flash drive. I like these releases with the updates and btw thank you for your work!"
+[V],murphy78,2013-04-12T08:05Z,"Ahh, sorry then. This is as small as I can make the releases without messing with windows' entire winsxs folder. The problem lies in Win8's Gigantic kb files. some are only 300kb, some are 90MB. To give you an idea, the entire win7sp1 kb files updates folder is only 240mb. Win8's kb files are 932MB, and it's only been out for half a year."
+,elenos_priam,2013-04-14T00:50Z,"Indeed, it was my flash drive that was not compatible with my gigabyte motherboard to boot with ntfs! So be careful what flash drive you choose or maybe try this: http://superuser.com/questions/470164/cant-boot-flash-drive-on-gigabyte-motherboard"
+,frappated,2013-04-14T09:58Z,there was a problem when burning to dvd
+,Jumpst0r,2013-04-14T10:49Z,"murphy thanks so much for upload, not like the other bs others post, this one isnt messed up and WORKS!! Just wondering if i can update without problems. TY :D"
+,Reed26,2013-04-16T01:21Z,"Can anyone help me?
+I installed windows 8 64 bit, my physical ram is 4GB, but it says, the usable ram is only 3.48 GB, 
+
+so, where is my other 0.52 GB ram? please help me..."
+,Reed26,2013-04-17T00:26Z,"I have successfully download this, and I copy the iso file to USB using ultra iso (since the program in this torrent is not working)
+
+After that, I try to install, but, in the first blue screen after I press Install button, there is a warning and I can't continue
+
+""Windows cannot open the required file D:Sourceinstall.wim. Make sure all files required for installation are available, and restart the installation. Error code 0x8007000D""
+
+Anyone please help me? what do you say @murphy78?"
+,IzayaOrihara,2013-04-17T00:34Z,"So how does this work? I Just burnt to a Dual Layer DVD, install it, and that's it? 
+
+Don't see any instructions anywhere so I'm assuming that's what I do.
+
+Can I connect to the internet on it? Can I get updates? If I can't get official updates, how and where do I get updates for this VL version?"
+,jayvon,2013-04-17T22:22Z,thanks your the best! You damn genius!
+,venom212,2013-04-18T18:39Z,how the kms will help me...can anybody help...plzz
+,ShyGuyHC,2013-04-24T07:14Z,Thanks for all these updates to so many versions. Helping techs out everywhere. Much Appreciated.
+,venom212,2013-04-24T15:24Z,"what to select exactly while installing it the 
+windows x86 kms-ss or the first option without kms-ss"
+,Halloweenpsycho,2013-04-30T07:10Z,"@venom212
+The kms will activate your system for 180days, but this kms is emulated to re activate after the 180day cycle expires.
+So when using Murphy's torrent make sure to install the kms for activation. I haven't used this torrent myself, but Murphy has been a good uploader. I may not like kms, but i can appreciate Murphy's efforts to give people options..Nice up Murph.."
+,driver011,2013-05-16T10:28Z,"nice and easy murphy,well done.. i have only one question,windows is activated for about 180 days more.what happens then? "
+,driver011,2013-05-21T12:34Z,"can you tell me what will happen after 180 days? do i need to do something?
+thanks"

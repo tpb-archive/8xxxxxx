@@ -1,0 +1,62 @@
+VLC Media Player 2.0.6 (64-bit) Final - SceneDL
+
+Title:	VLC Media Player 2.0.6 (64-bit)
+Filename:	vlc-2.0.6-win64.exe
+File size:	21.99 MB
+Requirements:	Windows XP / Vista / Windows7 / XP64 / Vista64 / Windows7 64
+Languages:	Multiple languages
+License:	Open Source
+Date added:	April 9, 2013
+
+
+VLC media player is a highly portable multimedia player for various audio and video formats as well as DVDs, VCDs, and various streaming protocols without external codec or program.
+
+It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network.
+
+VLC can play:
+
+MPEG-1, MPEG-2 and MPEG-4 / DivX files from a hard disk, a CD-ROM drive, and so on
+DVDs, VCDs, and Audio CDs
+From satellite cards (DVB-S)
+Several types of network streams: UDP/RTP Unicast, UDP/RTP Multicast, HTTP, RTSP, MMS, etc.
+From acquisition or encoding cards (on GNU/Linux and Windows only)
+
+What's new in VLC media player 2.0.6:
+April 9th, 2013
+
+Access:
+┬╖ Fix HTTPS playback with some certificates previously rejected
+
+Audio Output:
+┬╖ Fix lookup for device names in auhal plugin
+
+Demuxers:
+┬╖ Fix crash with broken asf files (SA-1302)
+┬╖ Fix MKV behaviour with unknown or new ebml elements
+┬╖ Fix use-after-free crash in Ogg demuxer, found by Tomi Juntunen
+┬╖ Fix regression on some paletted codecs in AVI
+┬╖ Fix ALAC in mp4 regression
+┬╖ Improvements to the vimeo playlist parser
+
+Decoders:
+┬╖ Fix GPU decoding on Intel HD 2000/3000 cards on Windows
+┬╖ Fix FLAC 6.1 and 7.1 channel layout
+┬╖ Fix crashes in HTML srt subtitles
+┬╖ 3rd party codecs updates
+
+Qt:
+┬╖ Fix clearing of Media Info panel on dialog exit
+
+Windows:
+┬╖ Fix uninstallation in different location than C:
+
+
+Install Notes:
+1) Install It
+2) Enjoy It
+
+Home page - http://www.videolan.org/
+
+By:
+
+SceneDL

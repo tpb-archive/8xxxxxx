@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,FRID@,2013-04-10T12:22Z,"@murphy78 
+how you install the hotfix?
+do you direct hotfix integration, directly replace the files and registry(overwrites the original files)?
+this maybe saves a lot of space on ISO. But you maybe allready do that =)
+
+And do you remove the uninstall information frome the hotfix? This maybe save space to =)
+
+maybe you can test do this on next windows 7.
+Thanx @murphy78 =)"
+,abhaykv.13,2013-04-10T13:16Z,"Hey murphy,
+Will you release an April updated version of Windows 7 Ultimate, if so, when ??"
+,bluealphabet,2013-04-10T15:23Z,"Greetings murphy78. First off, thanks a bunch for your hard work and providing us with these updated office and windows images. Would you be able to make an updated Server 2008 R2 and Server 2012 image as well? I would greatly appreciate it. :)"
+[V],murphy78,2013-04-10T22:03Z,"@FRID@ With enough know-how you could change the default package microsoft installs to use all of the kb file stuff, registry settings etc, but I don't do that because there's WAY too much that can go wrong. Deleting the winsxs backup folder is basically the only even-remotely safe way to reduce size, and if you read the description, I did it this month.
+
+@bluealphabet I don't really have plans for that, but I may do it as a special occasion thing. The problem lies in that they are simply not popular enough to sustain the torrents very long.  I may do them every once in a while, but definitely not every month."
+,bluealphabet,2013-04-11T13:33Z,"@murphy78-ok thanks for letting me know. maybe like a quarterly deal? I have a server 2012 image (iso) and I got all the updates up until the 9th, (around 70 of them). what app do you use? Is the wintoolkit the only option? I know there was windows 7 config tool, but not sure if this works for 8/server 2012? might do this with visio and project as well. :-)"
+[V],murphy78,2013-04-11T22:18Z,"I just load up a default install, find which kb files windows updates tries to install. Then I open up a web browser pointed at ms download center and go down the list downloading all of the ones from the list. I've never heard of wintoolkit, but if you mean microsoft toolkit, no that has little to do with integration.
+
+For the integration process roughly I just mount the index with dism, add-package the folder containing the updates, copy over the info folder and setupcomplete script stuff, then unmount /commit.  Although it sounds easy enough, there's still a lot that can go wrong, so I run them all through testing."
+,jonathan21,2013-04-13T13:35Z,can't thank you enough murphy. It being pre-activated is very useful.thanks for your time in doing these uploads and slipstreaming updates
+,atf_Mart,2013-05-06T19:31Z,"I installed feb version iirc, do I need to reinstall these versions, or windows update works fine on feb version? thanks"

@@ -1,0 +1,93 @@
+General
+Complete name                            : Argo (HD 720p).m4v
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 4.86 GiB
+Duration                                 : 2h 0mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 778 Kbps
+Movie name                               : Argo
+Performer                                : Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin, Taylor Schilling, Kyle Chandler, Clea DuVall, Victor Garber, Tate Donovan, Richard Kind, Mark Rhino Smith, Christopher Denham
+Genre                                    : Drama, Thriller
+Recorded date                            : 2012-10-12
+Encoded date                             : UTC 2013-04-08 04:58:43
+Tagged date                              : UTC 2013-04-10 06:41:22
+Writing application                      : HandBrake 5384svn 2013040601
+Cover                                    : Yes
+desc                                     : As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 0mn
+Bit rate mode                            : Variable
+Bit rate                                 : 4 900 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 532 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 17.026 fps
+Maximum frame rate                       : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.300
+Stream size                              : 4.12 GiB (85%)
+Writing library                          : x264 core 130
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=4 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.5 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=17500 / vbv_bufsize=17500 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Encoded date                             : UTC 2013-04-08 04:58:43
+Tagged date                              : UTC 2013-04-08 08:19:46
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 0mn
+Bit rate mode                            : Variable
+Bit rate                                 : 230 Kbps
+Maximum bit rate                         : 438 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 198 MiB (4%)
+Language                                 : English
+Encoded date                             : UTC 2013-04-08 04:58:43
+Tagged date                              : UTC 2013-04-08 08:19:46
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : ac-3
+Duration                                 : 2h 0mn
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 551 MiB (11%)
+Language                                 : English
+Encoded date                             : UTC 2013-04-08 04:58:43
+Tagged date                              : UTC 2013-04-08 08:19:46

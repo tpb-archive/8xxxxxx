@@ -1,0 +1,18 @@
+PCLinuxOS is a user-friendly GNU/Linux distribution with out-of-the-box support for many popular graphics and sound cards, as well as other peripheral devices. The bootable live CD provides an easy-to-use graphical installer and the distribution sports a wide range of popular applications for the typical desktop user, including browser plugins and full multimedia playback.
+
+Features:
+* Kernel 3.2.18-pclos2.bfs for maximum desktop performance.
+* Full KDE 4.10.1 Desktop.
+* Nvidia and ATI fglrx driver support.
+* Multimedia playback support for many popular formats.
+* Wireless support for many network devices.
+* Printer support for many local and networked printer devices.
+* Addlocale allows you to convert PCLinuxOS into over 60 languages.
+* LibreOffice already installed.
+* LibreOffice Manager can install LibreOffice supporting over 100 languages.
+* MyLiveCD allows you to take a snapshot of your installation and burn it to a * LiveCD/DVD.
+* PCLinuxOS-liveusb ΓÇô allows you to install PCLinuxOS on a USB key disk
+
+More info:  
+http://www.pclinuxos.com/  
+http://www.pclinuxos.com/?page_id=1867

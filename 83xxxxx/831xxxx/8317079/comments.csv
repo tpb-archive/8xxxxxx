@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,js99912,2013-03-30T02:28Z,"props goes to whomever created the artwork.  not leaving you out intentionally, I just have no fucken idea who it was, but props to those fuckers!  TY!
+
+-JS"
+,js99912,2013-04-09T02:20Z,"Moving forward, boot animations are not going to be supported.
+
+In our development for AW2.0, we have discovered that the video ""setup"" process often gets broken if you do not have the STOCK files.  You get the endless loading screen, or have to reboot to get AW to come back up, this could be why.  There is no logging to show what happens, so we can't verify where exactly it screws it up...
+
+Video and drivers, especially in Windows 8 are difficult enough, so we feel we need to discontinue this add-on until further notice.
+
+Ending seeding.
+-JS"

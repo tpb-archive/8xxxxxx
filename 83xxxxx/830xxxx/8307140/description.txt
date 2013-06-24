@@ -1,0 +1,59 @@
+General
+CompleteName                     : Chinatown.1974.Roman.Polanski.DVDRip.XviD.AC3-iRMã0S.MEURSAuLT.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+FileSize/String                  : 1.36 GiB
+Duration/String                  : 2h 5mn
+OverallBitRate/String            : 1 559 Kbps
+Encoded_Application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Encoded_Library/String           : VirtualDubMod build 2540/release
+
+Video
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Profile                   : Advanced Simple@L5
+Format_Settings_BVOP/String      : 2
+Format_Settings_QPel/String      : No
+Format_Settings_GMC/String       : No warppoints
+Format_Settings_Matrix/String    : Default (MPEG)
+MuxingMode                       : Packed bitstream
+CodecID                          : XVID
+CodecID/Hint                     : XviD
+Duration/String                  : 2h 5mn
+BitRate/String                   : 1 101 Kbps
+Width/String                     : 720 pixels
+Height/String                    : 296 pixels
+DisplayAspectRatio/String        : 2.40:1
+FrameRate/String                 : 25.000 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.207
+StreamSize/String                : 986 MiB (71%)
+Encoded_Library/String           : XviD 63
+
+Audio
+ID/String                        : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+CodecID                          : 2000
+Duration/String                  : 2h 5mn
+BitRate_Mode/String              : Constant
+BitRate/String                   : 448 Kbps
+Channel(s)/String                : 6 channels
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48.0 KHz
+BitDepth/String                  : 16 bits
+Compression_Mode/String          : Lossy
+StreamSize/String                : 401 MiB (29%)
+Alignment/String                 : Split accross interleaves
+Interleave_Duration/String       : 40 ms (1.00 video frame)
+Interleave_Preload/String        : 500 ms
+
+
+ 
+     

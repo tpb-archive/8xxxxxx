@@ -1,0 +1,94 @@
+﻿User Type,Username,Date,Text
+,Omgadnowai,2013-04-19T19:45Z,"That's some pretty fucking quick upload, sir.
+
+Thank you for yet another awesome torrent ;)"
+,Knursk,2013-04-19T20:02Z,instalation stop on 23%
+,CipherRo,2013-04-19T20:17Z,Same as Knursk. Running W7 x64
+,Omgadnowai,2013-04-19T20:20Z,"@Knursk: Let it finish. It blocks at 23% and lags out, but eventually it catches up."
+,snickers77,2013-04-19T20:21Z,working fine
+,Omgadnowai,2013-04-19T20:30Z,I managed to get past 23% after a bit.
+,GhrUhg,2013-04-19T20:34Z,Same problem as Knursk. Stops while installing resource.lib @ 23%.
+,Omgadnowai,2013-04-19T20:34Z,"The best way to install this is, and I won't say it twice:
+
+1) CLOSE ALL YOUR CURRENTLY RUNNING PROGRAMS.
+2) Don't browse the internet. I know. It's hard. You always do it when shit is installing. Don't do it now.
+3) CLOSE ALL YOUR CURRENTLY RUNNING PROGRAMS.
+4) Start the setup.
+5) Wait 3 minutes.
+6) ???
+7) PLAY!"
+,GhrUhg,2013-04-19T20:34Z,"Excuse that, it just takes a while, and my windows was thinking the program was timing out. It works fine!! Sorry, mr. Stifmeistro."
+,Omgadnowai,2013-04-19T20:51Z,"To all who may be interested in some fucking epic music to play this game with:
+
+http://thepiratebay.sx/torrent/6460626/Alestorm_-_Back_Through_Time_(2011)_[mp3_320]
+
+http://thepiratebay.sx/torrent/4925282/Alestorm_-_Black_Sails_At_Midnight_2009_(320k)_Power_Folk_Metal
+
+http://thepiratebay.sx/torrent/4031617/Alestorm_-_Captain_Morgan_s_revenge_2008_-_better_release
+
+
+
+Get these three albums, and play away. For hours. Or days."
+,ZtorkX86,2013-04-19T22:19Z,What causes the installation to lock itself for a few minutes?
+,iuliug,2013-04-20T00:29Z,"I get a ""division by zero"" error. Any idea why?"
+,motley666,2013-04-20T03:19Z,"If there is  no available pic, let the torrent be without a pic."
+,eskuter,2013-04-20T05:25Z,"@iuliug
+and the rest with this trouble is a bug of the game in certain machines, I had this issue too, to fix it:
+add the exe to dep in windows (dep its in system properties-advanced-performance-data execution procedure) if you have a radeon go to 3d in amd vision and make sure that in gaming your wait for vertical refresh its ""off unless the application specifies"" it work for me I hope that this work for you I found it searching a little :) enjoy
+
+
+"
+,eskuter,2013-04-20T18:42Z,"sorry I not read your comment carefully
+
+the fix is for the issue:
+""Context activation failed 0; The operation completed successfully"" when you start the game
+in w7 64 bits and radeon cards but could be good
+with other issues aswell game is really great but have many bugs I,m sure that the developers will fix them with patches, you have many fixes to the issues in the forums of the game if they exist for the issue obviously. btw thanks to uploader, the torrent works fine."
+,MicroBalls,2013-04-20T23:04Z,"It locks at 23% because the installer doesnt update as it installs, if you just leave it for a few minutes it will update itself when it's almost done installing the game."
+,iuliug,2013-04-20T23:34Z,"@eskuter
+
+Thanks a lot for the updates and effort. Cheers!
+Unfortunately, the DEP workaround did nor work for me.
+
+About the second update, i do not understand if you found another fix or you think the game needs to be updated.
+
+I also have a Radeon 7950 card (w/ the latest beta drivers installed) and i also get an ati related error when running config.
+
+If anyone can help, please... 
+
+Played the first game found it quite ok, looked forward to this one. Enjoy!"
+,eskuter,2013-04-21T02:05Z,"take a look in this forum (the official one)
+
+http://www.snowbirdgames.com/forum/index.php?forums/eador-motbw-%E2%80%94-technical-problems.27/
+
+not post here only read we not have a legal copy
+
+,wait a little or search in google
+
+its faster this way XD 
+
+I hope that you find the answer to your errors
+
+some issues only can resolved with official patches
+
+nice card btw 5850 here ;)
+"
+,kaliver,2013-04-22T00:47Z,already been updated or hotfixed on steam. any chance we'll see a patch?
+,kaliver,2013-04-22T02:01Z,"ok, ran the updater in the folder and it kept timing out. opened up the url in a browser and then opened the url that the updater was trying to download from. it took 45 min to download a 600kb file, so no wonder the updater was timing out and failing to install.
+
+tldr; you can download it from
+
+mediafir
+slash
+?
+wb5x52tv8eehbsg
+
+drop the pak file into your game folder and the game will display 1.01 at the main menu. have fun."
+,koshimae,2013-04-22T17:17Z,do you guys know any ideas/tools that might help me fix the resolution? it wont fit in my screen 
+,kaliver,2013-04-22T21:02Z,"Documents -> Eador -> profiles -> [name] -> profile.cfg
+
+One of the first settings in there is resolution and frequency. Set it to whatever your monitor requires. I also found the in-game settings would never stick but this works fine."
+,landon0473,2013-04-24T18:36Z,"I don't have an option to launch the game. When I run the Iso, it only has the installer. When I check the folder under programs, it only contains the uninstaller. Please help."
+,LRN,2013-04-29T13:25Z,"landon0473, just go into the directory where you installed the game and run eador_mbw.exe"
+,landon0473,2013-04-30T05:14Z,that what im saying.... the exe file isnt there. like someone altered the torrent. :(
+,tropomatic,2013-05-30T10:33Z,Good game but buggy as all hell! Has anyone got any patches above 1.01?

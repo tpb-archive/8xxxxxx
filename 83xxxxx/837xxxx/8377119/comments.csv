@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,waldyrious,2013-04-16T03:05Z,"Links from the description (including some url-shortened links that were automatically removed):
+
+- official website of the book: http://www.dspguide.com
+- complete online version (read-only): http://ft-sipil.unila.ac.id/dbooks/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20Digital%20Signal%20Process.pdf"
+,waldyrious,2013-04-16T03:06Z,"(cont.)
+- frontmatter: http://www.analog.com/static/imported-files/tech_docs/dsp_book_frontmat.pdf
+- backmatter: http://www.analog.com/static/imported-files/tech_docs/dsp_book_backmat.pdf
+- convert a pdf to hybrid roman/arabic pagination: http://askubuntu.com/a/34269"
+,waldyrious,2013-04-16T04:07Z,"(cont.)
+- PdfMod: https://live.gnome.org/PdfMod
+- book's errata: http://www.dspguide.com/errata.htm"
+[H],LemonJ-Lo,2013-04-16T05:22Z,Thanks!  You are to be commended for sharing the result of all the time and effort you have put into this.
+,waldyrious,2013-04-23T03:55Z,"Oh, I forgot to mention: the main reason the complete version I found online is unusable isn't that it's write-protected, nor that it doesn't contain any of the niceties I described in points 3, 4 and 5 above, but that it botched up some formulas; for example: 3+4j shows up as 3%4j, √-1 shows up as √%1, etc."
+,msx2013,2013-05-21T14:55Z,thanks alot  

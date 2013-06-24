@@ -1,0 +1,25 @@
+WinAce features
+WinAce is not just another archiving shell. With it's own powerful compression format ACE and built-in support for other popular compression types like ZIP, RAR and MS-CAB (to name a few), WinAce could actually become the only archiver you need.
+The feature list of WinAce includes:
+compression of the following formats: ACE, ZIP, LHA, MS-CAB, JAVA JAR
+decompression of: ACE, ZIP, LHA, MS-CAB, RAR, ARC, ARJ, GZip, TAR, ZOO, JAR
+multi-volume (disk spanning) archives for ACE, ZIP, CAB
+self-extracting archives (SFX) for ACE and ZIP
+password encryption & recovery records for data protection
+Integrity check for ACE, ZIP, LHA, MS-CAB, RAR, ARC, ARJ, GZip, TAR, ZOO, JAR
+Repair functionality for ACE and ZIP archives
+Authenticity verification for ACE archives
+comment files in HTML, ANSI or ASCII for ACE- and ZIP-Archives
+full command line access (compatible with DOS ACE)
+detailed information for all archive types
+Quickviewer for graphic files, Word Documents, HTML pages and ASCII files
+full drag&drop support
+complete file-management (copying, moving and deleting of files and directories)
+optimization of existing archives
+access to your archives in Windows Explorer and via the context menu (shell extension)
+table of contents in the "Properties" panel of ACE and ZIP files (shell extension)
+... and so much more!
+ 
+http://www.winace.com/
+ 
+http://www.winace.com/sfxfact.html

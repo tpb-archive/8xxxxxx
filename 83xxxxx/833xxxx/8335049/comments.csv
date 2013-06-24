@@ -1,0 +1,52 @@
+﻿User Type,Username,Date,Text
+,omgkilden,2013-04-04T15:43Z,"Where did the comments go?
+
+There is a delay problem on this one.
+
+Try sending something to a return chan and you'll notice."
+,blah317,2013-04-05T02:00Z,Is it possible to upload a 32-bit version :)?
+[V],Ching_Liu,2013-04-06T08:52Z,"@blah317 - Here you go
+.
+https://thepiratebay.sx/torrent/8346936/Ableton_Live_9_Suite_9.0.2_(Win_32_bit-io)_[ChingLiu]"
+,noonewil,2013-04-06T11:20Z,"The authorization file does not work....
+thanks for the link, waiting for the authorization file for this!"
+,tristanh9,2013-04-06T19:58Z,hey im having a hard time finding a serial code for this...would anybody be able to help me?
+,feuhorbe,2013-04-07T09:18Z,"I can't save until I authorize it with a real serial code. The include authorization file DOES NOT WORK. Don't leave us hanging, Ching_Liu."
+,Jahultz,2013-04-09T11:50Z,"Downloaded this torrent, comes out good. But i cant figure out how to locate and activate NFO files to make this a non trial version. Can you please update a thorough description of each step to take to make this a full client? Thank you"
+,bloodflux,2013-04-12T17:48Z,"Ching_Liu, I downloaded and install live 9 and came up perfectly but now I want to install max but it is asking to install this PACE anti-piracy software. It is also not registered. "
+,simonXR,2013-04-14T17:16Z,"Hey, you cheeky cunts, you motherfuckers insist shit doesn't work at all simply because it didn't work for you. How about becoming a little bit tech savvy before throwing around that kind of bullshit. For the fucker that said the authorization.auz file did not work (feuhorbe) , you open the file WITH ableton 9. .AUZ files are opened through ableton."
+,RhUmbUs,2013-04-18T08:35Z,"This is sweet and easy. It works just as the instructions say - you just need to follow them.
+Thanks Ching_Liu - really nice."
+,tpickles4,2013-04-18T22:51Z,"Win8 64bit install went fine and copy pasted the patches into the installation directory, however, when trying to authorize I get the following error: ""The application has failed to start because its side-by-side configuration is incorrect."" Any ideas?"
+,tpickles4,2013-04-18T23:57Z,win8 64bit installed and authorized (Visual C++ 2008 required). you da mon!
+,skylyne,2013-04-19T06:12Z,"Up and running! Such a nice visual upgrade from Live 8 as well. Ching Liu hasn't let me down yet... unless I put my brain on auto pilot, forget to pay attention to what I'm doing, and lose the install folder's path lol.
+
+Thanks to Ching Liu for the great work! Seeding..."
+,tildekey,2013-04-25T19:02Z,"The installer opens fine but as soon as I accept the terms to move on, it comes up with a missing .dll error. I have tried a few things, including the 9.0.1 from Ching_Liu. If anyone has a suggestion that would be straight. I've never gone wrong with Ching_Liu so I'm sure the crack is good."
+,echelon92,2013-04-25T23:00Z,"Symptom
+
+Live does not start and an error message says “The application has failed to start due to a side-by-side configuration error”.
+Reason
+
+This happens on computers which do not have Microsoft Visual C++ 2008 installed.
+
+Solution
+
+Install all available Windows updates and the latest Windows service pack and check if this already solves the problem.
+
+If this doesn't help, turn off Windows' User Account Control (UAC). Now download and install one of the following packages, depending on which Live version you are using:
+
+Live 32-bit - Microsoft Visual C++ 2008 SP1 Redistributable Package (x86)
+Live 64-bit - Microsoft Visual C++ 2008 SP1 Redistributable Package (x64)
+
+Please ensure you only install the 2008 version of the SP1 Redistributable Package as later versions (e.g. 2010) will not resolve this issue.
+
+Reboot your computer and launch Live."
+,tek13,2013-05-01T01:57Z,"Thanks alot for the upload. I need help. When I run set up, click the agree to terms box and click next to install, I get ""The Windows Installer service could not be accessed. Contact your support personnel to verify that the Windows Installer service is properly registered."" I've spent the last two nights trying to fix this. Anyone have a clue? "
+,hailsg,2013-05-15T22:32Z,"I'm fully aware of how to install .auz files, but it won't authorize on my computer. It keeps telling me that it isn't valid on my computer. What gives?"
+,ADEMIKS,2013-05-16T19:49Z,I followed your instruction except it gives me an orange message saying that I need to activate in order to export. There are no cracks included? Does this require registering with a free-trial first?
+,majestyx,2013-06-09T06:08Z,"first of all thanks for the upload, I followed the instructions and got it working.
+
+can anyone help me with this problem though: ITS RUNNING SLOW AND SKIPPING!!!
+I had the same problem with ableton live 8.2.2 so i got this to see if it would be any better, but its not :( Im using windows 8, multicore processor, and 247 free GBs! WHAT AM I DOING WRONG???
+i want this to run normal so bad so i can start working on my metal project! cant start until it runs normal >:("

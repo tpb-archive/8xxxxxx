@@ -1,0 +1,12 @@
+Stream 0
+   Type: Video
+   Codec: H264 - MPEG-4 AVC (part 10) (avc1)
+   Resolution: 1280x720
+   Frame rate: 30
+   Decoded format: Planar 4:2:0 YUV
+
+Stream 1
+   Type: Audio
+   Codec: MPEG AAC Audio (mp4a)
+   Channels: Stereo
+   Sample rate: 44100 Hz

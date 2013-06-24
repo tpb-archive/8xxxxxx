@@ -1,0 +1,28 @@
+               PublicHD - High-Definition Bittorrent Community
+     
+                         https://publichd.se/
+
+            ----------------------------------------------------
+
+A.Geisha.aka.Gion.Bayashi.1953.720p.BluRay.x264-DON [PublicHD]
+ 
+http://www.imdb.com/title/tt0045814
+
+RUNTIME.......: 1:24:33                      
+SIZE..........: 6.64 GB                      
+VIDEO CODEC...: x264, crf 16, L4.1           
+FRAMERATE.....: 23.976 fps                   
+BITRATE.......: Variable ~ 10959 Kbps        
+RESOLUTION....: 960x720                      
+AUDIO 1.......: Japanese FLAC 2.0 @ 284 Kbps 
+SUBTITLES.....: English                      
+CHAPTERS......: Included                     
+SOURCE........: Sanshô dayû 1954 / Gion bayashi 1953 1080p GBR Blu-ray AVC DTS-HD MA 2.0(thanks!)
+
+The source is bitrate starved, so I used GradFun2DBmod to fix banding and some damaged areas. Extra bitrate was also needed to keep it like this.
+
+
+x264frame I:553   Avg QP:15.72  size:122654
+x264frame P:19520 Avg QP:16.99  size: 85151
+x264frame B:101560 Avg QP:19.09  size: 51394
+x264consecutive B-frames:  0.5%  0.1%  0.7%  6.9% 14.5% 34.5% 17.1% 11.2%  6.1%  5.9%  2.5%

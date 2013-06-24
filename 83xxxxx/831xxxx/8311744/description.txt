@@ -1,0 +1,76 @@
+Title - Vehicle 19
+Year - 2013
+Language - English
+Type - DVDRip
+Source - ALZ
+
+NOTES - Cropped the source but there is still some Hard-Coded subs throughout the movie.
+
+IMDB - http://www.imdb.com/title/tt1911662/?ref_=sr_1
+
+A foreign traveler (Walker) unknowingly picks up a rental car that will tie him to a web of corrupt local police.
+
+General
+Complete name                            : Vehicle 19 [2013] DVDRip x264-SKAM3R.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 436 MiB
+Duration                                 : 1h 25mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 715 Kbps
+Encoded date                             : UTC 2013-03-29 06:29:03
+Tagged date                              : UTC 2013-03-29 07:47:43
+Writing application                      : HandBrake 0.9.8 2012071700
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L2.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 25mn
+Bit rate mode                            : Variable
+Bit rate                                 : 550 Kbps
+Width                                    : 720 pixels
+Height                                   : 280 pixels
+Display aspect ratio                     : 2.571
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.810 fps
+Maximum frame rate                       : 1 000.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.114
+Stream size                              : 335 MiB (77%)
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1
+Encoded date                             : UTC 2013-03-29 06:29:03
+Tagged date                              : UTC 2013-03-29 07:47:43
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 25mn
+Bit rate mode                            : Variable
+Bit rate                                 : 160 Kbps
+Maximum bit rate                         : 278 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 97.3 MiB (22%)
+Encoded date                             : UTC 2013-03-29 06:29:03
+Tagged date                              : UTC 2013-03-29 07:47:43

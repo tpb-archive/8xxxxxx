@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,syaz5103,2013-04-13T19:37Z,not work on jtag
+,AoF,2013-04-14T09:22Z,"@syaz5103,
+
+This is because its meant for flashed consoles"
+,syaz5103,2013-04-14T10:17Z,ALL THIS GAME I DOWNLOAD SHOW ME A ERROR WHEN ITS START
+,damasterozzy,2013-04-14T19:44Z,I think u need to update the dashbord on your xbox to the latest. dont know if u must re-flash it again..
+,jakenator,2013-04-16T00:22Z,For people with RGH/JTAG you need to update the dash to 2.0.16202 or up to run the game. Just get a copy of your nand from your 360 and use a program like J-Runner to rewrite the new dash to it then reinstall it on the xbox.
+,fr09n,2013-04-17T04:55Z,Does not work on Jtag Dash 16203. I get Disc is Unreadable. 
+,cikazeka,2013-04-17T14:37Z,game work on flashed console 
+,1makag23,2013-04-18T15:05Z,"@fr09n many reasons old/dirty optical lens, abgx360, dashboard, burning iso too fast"
+,narutowehh,2013-04-19T12:13Z,Does this work on pc or only XBOX 360
+,damasterozzy,2013-04-19T23:30Z,@cikazeka  did u update ur dash to the latest??
+,azuziel,2013-04-21T17:58Z,"game works perfectly for me. Running latest dashlaunch and fs3. Didn't even realize was an arcade fighter. Eye candy for about 20 min, then the limited controls kill it. "
+,Schmiddy1998,2013-05-01T06:27Z,does this work with an emulator 
+,quinnarty,2013-05-13T17:46Z,"Using ImgBurn to create backups of games you already own:
+Dual Layer DVD ( Verbatim Brand )
+iHas B DL DVD Burner
+
+For those of you creating backup games,
+XGD2 Games LayerBreak = 1913760
+XGD3 Games LayerBreak = 2133520
+Open your .dvd file in notepad and make sure that the layer break is set for either 1913760 or 2133520 depending on if the game is XGD2 or XGD3. 
+To check to see which your game is, visit the XDG3 Website and search your game. 
+If it has a Wave Number next to it, burn with XGD2 Layerbreak. 
+If it says XGD3 next to it, burn with XGD3 Layer Break. 
+I'm sure most of you already know to burn at 2.4x. 
+
+@QuinnArtyKno on Twitter if you have any questions."
+,quinnarty,2013-05-14T17:30Z,"If you google ""quinnarty burning"", my full burning backups guide is posted there on the first link."
+,Denver358,2013-05-17T03:51Z,can someone please upload all tables for pinball fx2 if you have it? i love pinball games and would greatly appreciate it alot
+,qqffpa,2013-05-23T22:11Z,"I'm getting a read error at 48%, anyone else having this problem? And could someone help me out?
+
+I'm using an iHas burner, and the game burns fine, but it always has a read error at either 47% or 48%. I don't know why, because I've burned pretty much every game successfully up until this one, so I don't know what the problem is. I have tried burning at 2.4x and at 4x, same result.
+
+I ran the ISO through ABGX and it came up all green, and the game will play fine on my xbox except when I go to Story Mode, and then it will just give me a black screen and won't do anything. 
+
+Someone, anyone, any and all advice would be greatly appreciated."
+,probabley,2013-05-24T12:30Z,"hey, does this work? should i download it?"
+,probabley,2013-05-24T12:32Z,does this work? should i download it?
+,smerfff,2013-05-25T08:07Z,"Yes download it, look how many seeders and leechers there are. It will work Does anyone know when you can get the DLC like batwoman ect?"
+,dejansm85,2013-05-27T05:17Z,Plesase uploader can you find the XGD2 version of this game or you cant because is a XGD3 game
+,KIRIN2012,2013-05-31T08:13Z,"@dejansm85 Just set your layer break in ImgBurn to 2133520. If you don't know how to do this, then go into ImgBurn and click Tools > Settings > ""Write"" Tab. Click User Specified under Layer Break and type in 2133520 Whenever you go to burn it, it will come up with an error saying that the disc is too small. Click yes. Then it will say layer break is set to something else. Click No. It will then say something like ""L0 > L1"" Click Yes. It should stop burning at 97% and come up with an error. Click Cancel. Then it will ask you if you'd like to finalize the disc. Click yes. It should work now. "
+,Rottin716,2013-06-08T13:06Z,I know I am going to look like a noob now but how do you install it ? I download it and unrar it . than what ?
+,ghosti102,2013-06-09T23:32Z,Does this game run on lt 2.0?

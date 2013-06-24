@@ -1,0 +1,103 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-31T05:00Z,"It is important to note that you can find information on the Toolkit thread at:
+http://forums.mydigitallife.info/threads/28669-Microsoft-Toolkit-Official-KMS-Solution-for-Microsoft-Products
+
+I accidently left it out of the description.
+Also, Installing KMS Server Service is not required for a simple activation. AutoKMS will activate your system just fine. EZ-Activator will install a gVLK if necessary and Install/Run AutoKMS. You do not have to do the complicated KSS if you are not very familiar.
+
+KSS is roughly the best activation method available, when set up correctly. That is why I recommended using it and setting it up with the commands I listed. It activates nearly instantly and should re-activate itself indefinitely when setup correctly.
+
+It also has the bonus ability of being able to activate anyone else's system you want to activate with KMS.  To activate someone else on your home network, go to the system that needs activating and run:
+SLMGR /SKMS 192.168.0.2:1688 (where 192.168.0.2 is the activator computer IP on your network)
+SLMGR /ATO
+
+The same goes for Office:
+CSCRIPT OSPP.VBS /SETHST:192.168.0.2
+CSCRIPT OSPP.VBS /SETPRT:1688
+CSCRIPT OSPP.VBS /ACT
+
+Remember to replace the IP with the actual activator computer's IP and it should activate and re-activate indefinitely."
+,TheBrenton,2013-03-31T06:15Z,Thanks
+,NickeNyfiken66,2013-03-31T10:59Z,Thanks..
+,bedtimefy,2013-03-31T14:18Z,how do I activate office 2013 cause i press activate and i get invalid data .do i have to press something else before?
+[V],murphy78,2013-04-01T00:20Z,"MTK has a problem with systems that have previously uninstalled a different version of Office.
+
+You could try cleaning up the old values with a junk cleaner or installing KMS Server Service and using those cscript ospp commands I listed to activate. You should uninstall autokms if you do install KSS."
+,pajama28,2013-04-04T15:08Z,"Master Murphy
+
+	You're the best hacker and trusted uploader I know, I only download from you, especially when it comes to windows OS and it all worked like a charm and virus free, thats why i make it a habit of seeding for your uploads forever or atleast a week
+
+	I've been convincing my co-workers almost 30+ of them to upgrade to your windows7ultimate and making them install/trust your cracks/activators. I have scanned your uploads with kaspersky antivirus 2013(genuine key) and avast(free) and the worst scan was only ""legal software that can be used by criminals for damaging your computer,"" i checked in the kaspersky forum and they said its not a serious threat. but my friends said if not the crack you could have tampered with the Windows OS installer itself, since you are a master hacker and might had put a malware/virus inside the installer itself.
+
+	My friends says that they can check the authenticity of you upload if they have the original copy from an offical download windows7 site, so i begun searching for the original copy of ""Windows 7 Ultimate SP1 x64 OEM Activated Feb2013"" but only found untrusworthy and unaffiliated with microsoft sites. Can you please provide me with the official and microsoft affiliated microsoft website where you downloaded the ""Windows 7 Ultimate SP1 x64 OEM Activated Feb2013""  Please help my friends they have been suffering from windowsXP poor performance and in need of your great uploads. And I will force them to seed to your uploads all 30+ of them for eternity ahahahaha
+
+	Thank you in advance	
+												          pajama"
+,l33tissw00t,2013-04-04T16:06Z,"Pajama, you mean this?
+https://thepiratebay.sx/torrent/8149271/Windows_7_Ultimate_SP1_x64_OEM_Activated_Feb2013"
+,pajama28,2013-04-06T01:46Z,"Thanks l33tissw00t,
+   Yup thats my amazing OS right now... One try install and now my desktop is back to business  thanks to murphy, ahahahaahahahaha"
+,pajama28,2013-04-06T01:49Z,"I hope murphy replies to me soon...
+     My co workers are always teasing me about my OS like murphy is hacking my skype account and watching me via my webcam.. ahahaha.. murphy wouldn't do that"
+[V],murphy78,2013-04-06T18:22Z,"Sorry to disappoint your co-workers, but that is why I list my source files and what I did to them.
+
+Basically for an AIO I have a no-updates version that I pieced together from the 8 various source images so that it contains both boot.wim files and both source folders but only one install.wim. In Windows 7 I did this with Josh Cell Softwares's AIO Maker 1.3.
+
+I use that as a source every month. It has 18 images in it that I run through integration passes. I just run dism /add-package commands pointed at an msu-file folder that contains all the kb files that are listed on Windows Update.
+
+I don't add programs that are not MS created, such as .NET 4.5 or IE10.  I may occasionally add drivers such as USB3 and network card drivers, but that's it as far as drivers. Those are very small. They are also signed in their original forms.
+
+I just do this integration stuff as a hobby. I didn't add any bogus stuff. Any even remotely iffy stuff like activators I always give people a choice to use or not."
+,ikapman,2013-04-08T07:24Z,"Hi murphy78, thanks so much for the wonderful uploads. can you please do a office 2013 RTM updated."
+[V],murphy78,2013-04-09T08:49Z,"homehlg, core/prowmc only do 30 days at a time.
+I have been testing KMS Server Service thoroughly and I suggest people who are not using a VL-Specific version of Windows 8 to use AutoKMS for self-activation.
+
+VL versions seem to have a package that throttles the date comparison check to auto-renew when the renew period is up.
+
+In Windows 7 it can lag behind windows a bit since it is not a grouped service. This tends to cause Windows to skip the first activation, then try again a few minutes later. If that activation fails for any reason, it will wait the entire activation interval (default 120 mins)
+
+I haven't thoroughly tested win7 with KSS yet, but I'd recommend just using WinLoader with everything except Enterprise. Enterprise you should be good with AutoKMS or KMS Server Service.  The default Activation button seemed to work fine with auto-renew as long as you are using a VL OS.
+
+So if you are not using a VL OS, I'd recommend simply clicking the ez-activator button. That will install the gVLK, schedule the autokms task, and run the KMS Emulator to activate."
+[V],murphy78,2013-04-09T08:51Z,"ikapman, I already did. They will be releasing new security patches in about 10 hours from the time I'm writing this, but I have much integration to do. I'll get around to Office after my Win8 and Win7 releases. Just click my name to find the ones I did for March."
+[V],murphy78,2013-04-09T10:08Z,Hmm actually seems to have been a problem with vmware 9.0.2. On 9.0.1 it seems to test just fine with auto-renew on non-vl versions with gvlk added.
+[V],murphy78,2013-04-09T13:05Z,"Yes, I understand your concern about updating, but I never release anything you cannot update. I also never add any programs that are not from microsoft or activation related."
+[V],murphy78,2013-04-09T23:57Z,"Seems like MS noticed the auto-renew issue certain people were having and fixed it in a new kb file today: KB2822241
+
+Go search ms download center for that kb file or use windows update if you are using MTK's KMS Server Service. It should fix the auto-renew not being correctly triggered.
+
+I've already tested every update so far on win8, nothing interferes with MTK."
+,AndroidLove,2013-04-11T14:34Z,"Sorry, I'm a newbie with this toolkit activation method.. I tried reading the Readme included and all the comments on here but it's still unclear for my noob head. So here's the scenario:
+I had downloaded and installed MS Office 2013 directly from the Microsoft website in trial mode. 
+
+Now the trial has expired and the main menu bar has turned red, editing documents has been disabled and it gives me an option to Buy / Enter Key / & Sign In - to add this computer to an active account?
+
+What do I have to do now with the toolkit to get Office working again now?
+I tried clicking on the EZ Activator button under the Activation tab based on what I could understood from the Readme but I get back a msg saying: ""Cannot Activate because this product is incapable of KMS Activation.
+
+
+Can someone please, please provide a step-by-step method of how to go about solving this?
+
+Also I am running a legal version of Windows 8 Pro x64 - will doing any of this hurt the legit windows version??
+
+
+Many many thanks in advance for any help at all and thanks for reading this far!
+
+
+Cheers!"
+[V],murphy78,2013-04-16T07:16Z,"android you cannot activate a Trial version of office. I recommend you uninstall that and install one of the office vl versions I upped. You then simply load MTK, click office button, click activate button."
+,HKCannibal,2013-05-04T18:22Z,Thanks a lot!
+,vwking,2013-05-10T11:09Z,"So now whats the best option to activate W8+office (bouth VL x64), KMSNano, KMSPico, Toolkit,..... ???
+
+btw, KMSPico v5.2.1 jsut was re released today!!!
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-and-TOOLS-v-3-0/page899?p=753176&viewfull=1#post753176"
+,bball230,2013-05-30T02:00Z,"Hi!
+
+So i did read through comments and discription, before asking, but i know this is probably a very noob question:
+
+I have a new computer with legitimate windows 8 (just the core edition) on it. Can i use this torrent to add the W8 Pro media center functionality on it without screwing up the legitimacy of the windows 8 core i have?
+
+also i was confused on the renewing? does this just auto renew and i dont have to worry about it once its installed / set up properly?"
+,heres_johnny,2013-06-09T01:18Z,"Folks, could someone help me, please? I'm a complete noob regarding Windows 8 activation :( . What are the steps to activate Windows 8 Core x64 (country specific)? What does each button do? 
+
+Anyway, thank you murphy78 for the torrent, now I need to learn how to install a key and activate it, and how to set up autoKMS."

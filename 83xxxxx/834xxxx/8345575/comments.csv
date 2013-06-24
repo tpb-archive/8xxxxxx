@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,Rift81,2013-04-05T20:34Z,"if this works, i willl love you.. been looking forward to this game for months =)"
+,ag_orange,2013-04-05T21:26Z,Thanks bro'! Svaka čast!
+,FredLeGrand,2013-04-05T22:16Z,Having issues running the game. Asking me to have steam running. I properly copied cracked content.
+,Sensej,2013-04-05T22:50Z,I have the same problem ... it doesn't work for me. 
+[V],HeroMaster,2013-04-05T22:52Z,"Fix for the game, Sorry for the delay:-
+
+https://forum.suprbay.org/showthread.php?tid=146621"
+,ferothul,2013-04-06T03:15Z,"Just to be blatantly clear for people, this is what I had to do to get this to work:
+
+1. Download this torrent.
+2. Run the setup.
+3. Go into the game directory you installed it to, usually Steam/Steamapps/common/Sang-Froid Tales of Werewolves.
+4. Go into the 'Install' folder and run 'SangFroidSetup.exe'.
+5. Copy the contents of the NoDVD folder over to the main game directory and overwrite. 
+6. Play. 
+
+If it still doesn't work, then download the fix HeroMaster posted and put it in your game directory. If it *still* doesn't work, copy the contents of the included 'Steam' folder into your Program Files x86Steam directory. Do not overwrite anything. "
+,AedanClarke,2013-04-06T03:21Z,"Says ""Unable to read 'config.sf' file in C:ProgramData.""
+
+I've installed this on both my C: and G: drives, making sure to use the updated 'steam_api.dll' file. Also, there's no such folder on either of my drives names 'ProgramData', so... I have no clue what's going on. Also, I've downloaded it twice and reinstalled both times. *shrugs*
+
+Some help would be appreciated. Thanks. :)"
+,AedanClarke,2013-04-06T04:23Z,"Oop, nevermind. Ferothul listed the step I missed: Going into the install menu and using THAT setup. The rest was fine.
+
+Thanks to the both of you and to Artifice Studio for making the game. Looks like a buy from me at some point in the future, at least from what I've seen so far."
+,coulolcou,2013-04-07T11:05Z,"Works perfectly with your link.
+
+Thanks !"
+,eric603x,2013-04-07T21:05Z,"This doesn't work for me.
+I've been dealing with cracks for years so i'm no dummy.
+HOWEVER, even after downloading the fix, etc.
+What happens is the game loads, I see the loading screen and then it goes to a white screen and does nothing after that. No crash, no freeze. Just a white screen and that's IT.
+Might want to address this issue, because this is a pretty big fail."
+,eric603x,2013-04-07T21:07Z,"Also, sometimes it just hangs on the loading screen and does nothing."
+,katoNAp1,2013-04-07T23:16Z,"1 Download The Kaos version (400Mb) and install c:Game (yes its a beta)
+2 Download the this version And install c:Game
+3 Copy this version ""media"" directory in the Kaos Version ""media"" dir
+4 run the Kaos version and play THE FULL GAME"
+,kewlbeanspx,2013-04-09T22:54Z,"works for me, i forgot step 3 the first time, but once i ran the setup in the install folder, everything was gravy"
+,skareo,2013-04-14T02:17Z,I'm actually surprised anyone would download this trash.
+,tke494x,2013-05-31T17:50Z,does this game require Steam to be installed?

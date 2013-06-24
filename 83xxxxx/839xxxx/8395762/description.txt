@@ -1,0 +1,14 @@
+Discover how Amazon Web Services (AWS) can be leveraged to deploy and scale your web applications. Author Jon Peck demonstrates how to build a simple application leveraging the Amazon cloud services while introducing the wide variety of products and services provided with AWS.
+
+This course starts with an overview of the foundational services, such as Amazon EC2 for virtual servers, Amazon S3 for online data storage, and Amazon RDS for a scalable database solution. Plus, explore how application services such as the Amazon Simple Notification Service can reduce overhead. Jon combines these services in the final chapter, where he builds, deploys, and monitors an application.
+Topics include:
+What is Amazon Web Services?
+Understanding the AWS terminology
+Exploring the foundation services
+Using tools for managing and administration of AWS
+Signing up for services
+Launching and managing EC2 instances
+Configuring the software development kit (SDK) with AWS credentials
+Storing objects in Amazon S3
+Pushing notifications
+Managing the workflow

@@ -1,0 +1,45 @@
+                   HardDisk and Pendrive Repair Tool v1.0.4 - SceneDL
+===================================================================================
+
+Modify, backup, restore the MBR and PBR
+ 
+Bootice is a portable utility that allows you to modify, backup and restore the MBR (Master Boot Record) and the PBR (Partition Boot Record) of local or removable drives. MBR refers to the first sector of a partitioned drive, while PBR implies the part that allows booting.
+
+The application is intended for professional users, yet provides a tab-based interface, which makes it easy to handle even by the less experienced. With this tool, you can easily change your MBR / PBR sections to another type. It supports multiple different boot records, ranging from Grub4DOS, UltralSO or Plop Boot Manager to BOOTMGR or SYSLinux.
+
+In addition to this, Bootice offers you the possibility to backup and restore your boot record. After choosing the boot record type, you can create a BIN file that you can use later as a backup solution.
+
+Moreover, this simple application is capable of handling and processing disk image files, such as IMG, IMA or VHD. You can view and process their MBR or PBR sectors. Also, the software enables you to view and edit the BCD of your system. If you want to, you can create a new BCD configuration.
+
+You can also use this application in case you want to erase all the data on your disk, as it can fill it with customized characters to ensure data security. Yet, the process is irreversible, so you have to be careful not to delete information or files that you need. Another advantage that this program brings you is the possibility to edit the Grub4DOS boot file. 
+
+Another useful function is the partition manager, which you can use to view a table containing all the partitions on your hard drive, their corresponding file system type, the number of sectors and the dimension. Here, you can perform several operations, including activating or hiding a selected partition, changing its ID, removing its drive letter and formatting it.
+
+Bootice is a simple, yet useful application that allows you to easily manage your drives' partitions and sectors, as well as change partition structure in order to efficiently manage your disk space.
+
+In Short:
+
+Bootice was developed to be a small tool that allows you to modify, backup, restore the MBR (Master Boot Record) and PBR (Partition Boot Record).
+
+Supported boot records:
+- Grub4Dos
+- SYSLINUX
+- Plop Boot Manager
+ 
+Here are some key features of "Bootice":
+
+┬╖ partitions management
+┬╖ sector viewing
+┬╖ partition table backup / restore
+
+What's New in This Release:
+
+┬╖ upgrade SYSLINUX to 5.01 and 4.06 version reserved;
+┬╖ behavior of GRUB4DOS 0.46A upgrade to 2013-02-02, amendment can not find grldr bug;
+┬╖ the behavior of GRUB4DOS menu editing window to increase the toolbar;
+┬╖ to increase / nodriveletters parameters, startup does not detect any drive letter;
+┬╖ other minor improvements not listed, this is Hesuiban it Oh
+
+By:
+
+SceneDL

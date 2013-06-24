@@ -1,0 +1,68 @@
+﻿User Type,Username,Date,Text
+,svadilfari,2013-04-16T19:03Z,multiplayer?
+,Cyb3rSick0,2013-04-16T21:34Z,"@bruss.aka.durka9 
+
+Procname value not found on command line or in rev.ini. Please edit the file"
+[T],bruss.aka.durka9,2013-04-16T22:02Z,"to Cyb3rSick0
+You use old game-build. You must download and install new-generation game-build: this. Update from older builds not available yet."
+,varna_81,2013-04-16T22:42Z,@bruss.aka.durka9  can i have your contact please ? i have few questions ...
+[T],bruss.aka.durka9,2013-04-16T23:34Z,"to varna_81
+http://bruss.org.ru"
+,Cyb3rSick0,2013-04-17T10:06Z,"@bruss.aka.durka9
+
+спасибо приятель"
+[T],bruss.aka.durka9,2013-04-17T10:36Z,"to Cyb3rSick0
+Рад помочь )"
+,frienziar,2013-04-17T13:30Z,"I had previous version v77,today after I updated it gave me this error ""Procname value not found on command line or in rev.ini. Please edit the file"".Does that means I have to uninstall the old v77 of CSS and install this fresh copy.Thanks"
+,frienziar,2013-04-17T15:25Z,"Ok after installation the problems are..
+1-Map(Dust 2) look crappy unlike in v77 it looks awesome
+2-Cant connect to servers which I used to play with v77(Steam Rejection error)"
+[T],bruss.aka.durka9,2013-04-17T18:09Z,"to frienziar 
+If you updating from previous version CS:S. You must add to rev.ini (placed in game-dir) strings:
+
+[Loader]
+ProcName = hl2.exe -steam -game cstrike -appid 240 -novid
+
+and replace
+
+SteamDll = .binSteamSteam.dll
+
+to
+
+SteamDll = .SteamSteam.dll
+
+Then off antivirus and run updater. After complete updating run game. Enjoy."
+[T],bruss.aka.durka9,2013-04-17T18:24Z,"Correction:
+
+replace
+
+SteamDll = ./bin/Steam/Steam.dll
+
+to
+
+SteamDll = ./Steam/Steam.dll"
+,DJ_DU2CE,2013-04-17T22:38Z,"All my Skins are away! But I think this is installed, but CSS takes the other default Skins. How can I changed that? And what have the update change?"
+,DJ_DU2CE,2013-04-17T22:46Z,"All my Skins are away! Are they really away? Have the update retextured all weapons,...?"
+[T],bruss.aka.durka9,2013-04-17T23:05Z,"to DJ_DU2CE
+Skins. You must read: /cstrike/custom/readme.txt
+Changes. Read: http://store.steampowered.com/news/?feed=steam_updates&appids=240"
+,DJ_DU2CE,2013-04-17T23:24Z,"That means, I must put the skin files as a VPK file?
+How can I do that and where I must put in my VPK files?"
+[T],bruss.aka.durka9,2013-04-18T01:13Z,"to DJ_DU2CE
+Too many questions for my. Use google search engine."
+,DJ_DU2CE,2013-04-18T01:39Z,"I googeled allready, but I know how to install skins, but if I make that, nothing changed! Have this changed since the update? Normally you download a weapon, in there is models, materials, scripts and sound. And this put in the cstrike folder. But nothing change! Do you know a site, where I can find how to install? Or a video? PLS HELP!! :/"
+[T],bruss.aka.durka9,2013-04-18T01:56Z,"to DJ_DU2CE
+Place your models, materials, scripts or sound dirs in cstrikecustommy_prety_content or in cstrikedownload - that's all )"
+,soulgamer_90,2013-04-18T07:10Z,you are in insecure mode. you must restart before you can connect to secure servers ? I want to play in Bruss servers but i dont know how to fix this insecure thing  HEEEELP !
+,soulgamer_90,2013-04-18T07:23Z,you are in insecure mode. you must restart before you can connect to secure servers ?
+[T],bruss.aka.durka9,2013-04-18T09:40Z,"to soulgamer_90
+Read my previous comments. If not help, then download and install this new version."
+,Liman_Bot,2013-04-18T14:12Z,"@ bruss.aka.durka9
+thanks again for your wonderful torrents that are top quality,you're the best source for L4D2/Garry'sMod/CS:S! :) Your hard work is always appreciated."
+,habib1994,2013-04-29T02:57Z,"can someone link a rev.ini to download (working rve.ini please)
+
+eror
+[Loader]
+Proc Name = hl2.exe-steam-game cstrike-appid 240-novid"
+[T],bruss.aka.durka9,2013-04-29T06:06Z,"to habib1994
+http://bayfiles.net/file/PkwJ/3rxU37/rev.ini"

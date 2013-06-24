@@ -1,0 +1,48 @@
+I don't usually upload stuff, but I couldn't find a torrent of this so figured I'd do it myself. The game runs, I don't know if there are any problems beyond that, I also scanned for viruses using Avast and didn't find anything, but by all means check for yourselves.
+
+From rlslog:
+
+P2P released Update v1.0.732.1 of Tomb Raider for PC. This patch fixes a lot of things since v1.0.722.3, read the changelog here. This release also includes multiple languages: Arabic, English, French, German, Italian, Polish, Russian, and Spanish. Enjoy guys!
+
+Release name: Tomb.Raider.Update.v1.0.732.1-P2P
+Size: 398 MB
+
+NFO:
+
+            iNSTALLATiON:
+            1) Download update
+            2) Extract update to MAIN game folder
+            3) Overwrite when prompted
+            4) Play! 
+
+CHANGELOG:
+
+    New fixes in 732.1:
+     
+    - Fixed an issue in ΓÇ¥Chasm MonasteryΓÇ¥ where the player cannot progress after fighting the Oni.
+    - New community requested graphics option ΓÇÿScreen EffectsΓÇÖ to disable camera-based full screen effects like water and blood drops.
+    - Fixed last campsite save not always updating when expected.
+    - Various small optimizations.
+    - Various minor UI fixes.
+    - Minor graphics fixes.
+     
+     
+    New fixes in 730.0:
+     
+    ΓÇó Upgraded the save slots from three to 99
+    ΓÇó Introduced ΓÇ£Last Campsite SaveΓÇ¥, which automatically saves your progress up to the last campsite you have visited
+    ΓÇó Added stereoscopic 3D reticle
+    ΓÇó Fixed issues with the discovery of the Unworthy campsite.
+    ΓÇó Fixed a problem that occurred when traveling back to the Sacred Hall Basecamp after that story has been completed
+    ΓÇó Fixed a playthrough stopper in Chasm Bridge
+    ΓÇó Fixed a playthrough stopper that could occur when loading a saved game created in the Coastal Forest after upgrading the axe but before opening the gate
+    ΓÇó The active selection in the main menu no longer changes due to the rotation of the menu itself
+    ΓÇó Fixed Mouse and Aim Sensitivity slider settings getting rounded to coarser values on save
+    ΓÇó Fixed a crash in multiplayer that could occur while migrating hosts
+    ΓÇó Added functionality to activate and deactivate DLC multiplayer maps during matchmaking. Maps can also be manually activated and deactivated in the new ΓÇÿMatch MakingΓÇÖ menu in the ΓÇÿOptionsΓÇÖ menu.
+    ΓÇó (DX11) Fixed a few self-shadowing artifacts in the beach
+    ΓÇó (DX11) Various performance optimizations
+    ΓÇó (DX11) Improved sunlight shadow quality
+    ΓÇó (DX11) Lens flares now render correctly in stereoscopic 3D
+    ΓÇó (DX11) Improved exclusive fullscreen &lt;-&gt; windowed transitions
+    ΓÇó (DX11) Fixed occasional crash on startup related to stereoscopic detection 

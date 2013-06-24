@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,Scipio323,2013-04-01T06:27Z,"hmm... it looked like it was starting up fine, but immediately after the first title screen, it cut to black, started playing the title music, and stayed there. I've been waiting about five minutes without a change. any idea how I could fix this?"
+,ryballs,2013-04-01T09:35Z,Hmm try hitting escape? What graphics card do you have?
+,vincebbbb,2013-04-01T11:17Z,"i have the same problem.
+
+Mac 10.6.8
+2.93 GHZ intel core 2 duo
+4 go 1067 mhz 
+Nvidia geforce 9400m
+
+help please & thanks :)"
+,Prblmoff,2013-04-01T21:21Z,"Same Here
+
+Intel Core i7 2.66 GHz
+
+NVIDIA GeForce GT 330M
+I tried updating my Wine library but didn't work, is there one in particular needed?"
+,Prblmoff,2013-04-01T21:35Z,"I figured it out
+open the Bloodbowl folder which should be in your documents folder
+open the config.xml with text editor or better yet text wrangler if oyu have
+set Shader to 0 and Fullscreen to 1 in Config.xml.
+save 
+done!"
+,Scipio323,2013-04-01T22:35Z,"worked like a charm, thanks!"
+,vincebbbb,2013-04-01T22:54Z,work for me ! big thanks prbimoff
+,ryballs,2013-04-02T03:37Z,Thanks Prblmoff. People with black screen issues read his post.
+,ryballs,2013-04-02T03:40Z,"By the way most people should be able to use shaders at ""2"". I am on a GT330M and it works fine (also looks better)."
+,bloopton,2013-04-04T17:47Z,god bless you sir
+,vincentjjc,2013-04-13T22:47Z,hi i cant find anywhere in config.xml a fullscreen option any help??
+,jekwhekls,2013-05-31T19:11Z,"Thanks! Everything seems to be working except when I try to create an in-game account it says ""error: connection failed."" Anyone else experience this? Wasn't sure if it was just this copy or my ports."

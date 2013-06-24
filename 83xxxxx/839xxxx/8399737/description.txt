@@ -1,0 +1,66 @@
+screens;
+ 
+http://baypic.net/img-51758c2f46f74.html 
+ 
+http://baypic.net/img-51758c33b5c71.html 
+ 
+http://baypic.net/img-51758c384bbdc.html 
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 1.79 GiB
+Duration                                 : 25mn 8s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 10.2 Mbps
+Encoded date                             : UTC 2013-04-19 00:02:02
+Tagged date                              : UTC 2013-04-19 00:02:02
+Writing library                          : Apple QuickTime
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 25mn 8s
+Source duration                          : 25mn 8s
+Bit rate mode                            : Variable
+Bit rate                                 : 9 581 Kbps
+Maximum bit rate                         : 10.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.154
+Stream size                              : 1.68 GiB (94%)
+Source stream size                       : 1.75 GiB (98%)
+Encoded date                             : UTC 2013-04-19 00:02:02
+Tagged date                              : UTC 2013-04-18 00:02:41
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 25mn 7s
+Bit rate mode                            : Variable
+Bit rate                                 : 192 Kbps
+Maximum bit rate                         : 199 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 34.5 MiB (2%)
+Encoded date                             : UTC 2013-04-19 00:02:02
+Tagged date                              : UTC 2013-04-18 00:02:41

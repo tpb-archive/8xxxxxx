@@ -1,0 +1,36 @@
+Mathworks Matlab R2013a UNIX ISO (8.1.0.604) x86_64
+
+Hello, I've installed it on Fedora Core 17, AMD64, and it works, serial number and license is included in directory serial/. Enjoy!
+
+
+Downloaded from:
+
+
+
+Mathworks Matlab 8.1.0.604 R2013a (Mac/Linux) | 5.2 Gb
+
+MathWorks announced Release 2013a (R2013a) of its MATLAB and Simulink product families. New in this release is the introduction of Fixed-Point Designer, which combines the functionality of Fixed-Point Toolbox and Simulink Fixed Point. Also included are capabilities within Phased Array System Toolbox and SimRF that strengthen wireless and radar communications system design. R2013a also updates 80 other products, including Polyspace embedded software verification products.
+
+For MATLAB, R2013a highlights include:
+
+- MATLAB: Unit test framework for the MATLAB language
+- Financial Instruments Toolbox: Calibration and Monte Carlo simulation for Hull-White, Linear Gaussian and LIBOR market models
+- Image Processing Toolbox: Image segmentation using active contours, C code generation for 10 functions, and GPU acceleration for 11 functions
+- Image Acquisition Toolbox: Kinect for Windows sensor support for acquiring images, depth maps, and skeleton data
+- Statistics Toolbox: Support vector machines (SVMs) for binary classification, PCA algorithms for missing data, and Anderson-Darling goodness-of-fit test
+- Data Acquisition Toolbox: Support Package for Digilent Analog Discovery Design Kit
+- Vehicle Network Toolbox: XCP support for accessing ECUs on CAN bus
+- Communications System Toolbox: Sphere Decoder and Constellation Diagram System objects
+- Computer Vision System Toolbox: Viola-Jones object detection training, FREAK feature extraction, and other new functions
+- DSP System Toolbox: Spectrum Analyzer and Logic Analyzer scopes and triggering of time scopes
+- Phased Array System Toolbox: Polarization support, array tapers, and apps for sensor array analysis, waveform analysis, and radar equation calculation.
+
+R2013a highlights for Simulink include:
+
+- Simulink: Simulation Performance Advisor, masking of linked library blocks, and active variant control via logical expressions
+- SimRF: Circuit Envelope solver for fast simulation and model load time
+- SimMechanics: Published XML schema for importing models from CAD and other systems
+- Simulink Design Verifier: Array out-of-bounds checking
+- Simulink Coder: Reduced data copies for Simulink functions called from Stateflow
+- Fixed-Point Designer: A new product that combines the functionality of Fixed-Point Toolbox and Simulink Fixed Point
+- HDL Verifier: HDL testbench generation from MATLAB

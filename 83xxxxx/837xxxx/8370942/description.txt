@@ -1,0 +1,41 @@
+
+The Rachel Maddow Show - mkv
+April 12  - 2013
+
+
+Video
+Source 				 : Small Fuzzy SDTV
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L2.2
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 10 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 43mn 33s
+Bit rate                         : 500 Kbps
+Width                            : 544 pixels
+Height                           : 304 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.101
+Stream size                      : 149 MiB (82%)
+Writing library                  : x264 core 120
+
+
+Audio
+ID                               : 2
+Format                           : Vorbis
+Format settings, Floor           : 1
+Codec ID                         : A_VORBIS
+Duration                         : 43mn 33s
+Bit rate mode                    : Variable
+Bit rate                         : 96.0 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 29.9 MiB (16%)

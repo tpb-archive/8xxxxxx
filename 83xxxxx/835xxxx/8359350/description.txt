@@ -1,0 +1,44 @@
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 997 MiB
+Duration                                 : 1h 34mn
+Overall bit rate                         : 1 482 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 34mn
+Width                                    : 720 pixels
+Height                                   : 462 pixels
+Display aspect ratio                     : 1.85:1
+Original display aspect ratio            : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.601
+
+
+Storyline
+
+Sam, a college student in a small Northwestern town, reluctantly joins his roommates in a contest to see who can hook up with the most gorgeous co-eds by the end of the semester. But when men slowly start disappearing around town, he and his friends learn that when it comes to beautiful women, it's what's inside that really matters.
+
+Sample Included
+
+

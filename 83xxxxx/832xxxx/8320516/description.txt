@@ -1,0 +1,56 @@
+General
+Complete name                  : Star.Wars.The.Complete.Saga.1977-2005.480p.BRRip.AAC.x264-AMX
+Format                         : Matroska
+Format version                 : Version 4 / Version 2
+File size                      : 698 MiB,697 MiB,697 MiB,697 MiB,698 MiB,698 MiB
+Duration                       : 2h 4mn,2h 22mn,2h 14mn,2h 20mn,2h 7mn,2h 16mn
+Overall bit rate               : 783 Kbps,684 Kbps,723 Kbps,696 Kbps,766 Kbps,716 Kbps
+Writing application            : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 8 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Width                          : 720 pixels
+Height                         : 304 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Writing library                : x264 core 130 r2273 b3065e6
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Delay relative to video        : 22ms
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Subs:
+1.English(Forced,SDH),Chinese(Simplified),Croatian,Czech,Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Italian,Norwegian,Portuguese(Br),Romanian,Slovenian,Spanish(Lat Am),Swedish,Turkish
+2.English(Forced,SDH),Croatian,Czech,Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Italian,Latvian,Lithuanian,Norwegian,Portuguese(Br),Romanian,Slovenian,Spanish(Lat Am),Swedish,Turkish
+3.English(SDH),Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Italian,Norwegian,Portuguese(Br),Spanish(Lat Am),Swedish,Turkish
+4.English(Forced,SDH),Croatian,Czech,Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Italian,Norwegian,Portuguese(Br),Romanian,Slovenian,Spanish(Lat Am),Swedish,Turkish
+5.English(SDH),Croatian,Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Icelandic,Italian,Norwegian,Polish,Portuguese(Br,Ib),Spanish(Lat Am,Cast),Swedish,Turkish
+6.English(Forced,SDH),Croatian,Danish,Dutch,Estonian,Finnish,French,German,Hungarian,Italian,Norwegian,Portuguese(Br),Spanish(Lat Am),Swedish,Turkish
+
+Chapters: None at source. Sorry!!!
+Source:Star Wars The Complete Saga BDRip 1080p DTS multisub HighCode

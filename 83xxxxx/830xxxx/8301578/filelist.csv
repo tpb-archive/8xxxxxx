@@ -1,0 +1,17 @@
+﻿Filename,Size,Unit
+DATA/D.dat,3.8,G
+DATA/S.dat,532.73,M
+DATA/3.dat,6.99,M
+DATA/U.dat,1.39,K
+Redist/DirectX/dsetup32.dll,1.49,M
+Redist/DirectX/Jun2010_d3dx9_43_x64.cab,915.28,K
+Redist/DirectX/Jun2010_d3dx9_43_x86.cab,750.04,K
+Redist/DirectX/DXSETUP.exe,505.84,K
+Redist/DirectX/dxupdate.cab,94.88,K
+Redist/DirectX/APR2007_xinput_x64.cab,94.55,K
+Redist/DirectX/DSETUP.dll,93.34,K
+Redist/DirectX/APR2007_xinput_x86.cab,52.05,K
+Redist/DirectX/dxdllreg_x86.cab,43.58,K
+Redist/vcredist_x86.exe,4.76,M
+Setup.exe,599.25,K
+AUTORUN.INF,29,B

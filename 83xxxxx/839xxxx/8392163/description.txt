@@ -1,0 +1,91 @@
+ http://beeimg.com/images/y88180951902.jpg
+
+Proxy Switcher PRO 5.7.0 Build 6366 Final - SceneDL
+
+Proxy Switcher - surf anonymously
+change proxy settings on the fly
+
+There are times when you have to cloak your true IP address. It might be that you want to remain anonymous when you visit a particular website. Or your access to various social networking and entertainment sites has been blocked.
+
+The solution is to use Proxy Switcher for all the anonymous browsing needs. It can be used to avoid all sorts of limitations imposed by various sites. Be that a download site that limits amount of downloads. Or video site works only in a particular country - more often than not it gets defeated by the anonymous browsing features Proxy Switcher provides.
+
+On top of that, if you used to manually change proxy settings Proxy Switcher provides a way to change them much faster and easier.
+
+Using Proxy Switcher, you can visit any web resources without fear of unauthorized save your data. You can be assured that your data will not fall into the spam lists that your IP address, operating system and internet browser are not defined.
+
+Features of Proxy Switcher:
+
+*Hide your IP address from the web sites you visit.
+*Penetrate bans and blocks on forums, classifields and download sites (rapidshare etc.).
+*Automatic proxy server switching for improved anonymous surfing.
+*Easy way to change proxy settings on the fly.
+*For webmasters - check search engine results from different countries.
+*Fully compatible with Internet Explorer, Firefox, Opera and other programs.
+*Full support of password protected servers.
+*Full support of Socks v5 and Elite servers.
+* Ability to change the proxy settings on the fly. "
+* Automatic connection proxy for anonymous surfing on the Internet.
+* Support for working with such popular browsers like: Internet Explorer, Firefox, Opera, etc.
+* Ability to easily manage a list of proxy servers.
+* Ability to check proxy servers on serviceability.
+* Ability to load the list of anonymous proxy servers.
+
+How Anonymous Browsing Works
+
+1] Anonymous browsing - how does it work
+
+In a regular case your web browser connects to the web site directly. Thus revealing quite a lot of sensitive information. An orange arrow denotes this case in the block scheme.
+To change this situation Proxy Switcher was written. It can be used to find working anonymous proxy servers and redirect requests through them.
+ 
+http://beeimg.com/images/l60183404792.png
+
+2] Anonymous Browsing - Possible usage scenario
+
+*If you get banned on the forum - use Proxy Switcher to fake your IP and avoid the ban.
+*If you are a webmaster that wants to check Geotargetting of some sites (i.e. Google).
+*Just want to hide your IP when visiting some sites which you might not want to record your IP address.
+
+3] Automatic Anonymous Proxy Switching
+
+To increase anonymity even further Proxy Switcher can periodically switch proxy servers. You can set this period down to every 10 seconds. In this mode Proxy Switcher will continually check and pick fastest available servers. 
+Following fragment from webserver log shows access from 5 IP addresses. While in reality it was accessed via Proxy Switcher and real address does not even show up at all.
+
+142.163.196.37 - - [10/May/2004:23:44:59 +0300] "GET / HTTP/1.1" 200 4188
+142.163.196.37 - - [10/May/2004:23:45:00 +0300] "GET /head.png HTTP/1.1" 200 198
+193.178.1.1 - - [10/May/2004:23:45:20 +0300] "GET /index.php?show=1 HTTP/1.0" 200 4175
+193.146.142.66 - - [10/May/2004:23:45:26 +0300] "GET /index.php?show=2 HTTP/1.1" 200 6472
+193.146.142.66 - - [10/May/2004:23:45:31 +0300] "GET /photo/ HTTP/1.1" 404 284
+142.163.196.37 - - [10/May/2004:23:45:37 +0300] "GET /index.php?show=1 HTTP/1.1" 200 4188
+142.163.196.37 - - [10/May/2004:23:45:44 +0300] "GET /index.php?show=4 HTTP/1.1" 200 2164
+12.170.99.234 - - [10/May/2004:23:45:52 +0300] "GET /cv/crast/index.html HTTP/1.0" 200 1147
+12.170.99.234 - - [10/May/2004:23:45:53 +0300] "GET /cv/crast/0.gif HTTP/1.0" 200 75191
+12.170.99.234 - - [10/May/2004:23:45:54 +0300] "GET /cv/crast/1.gif HTTP/1.0" 200 86378
+
+
+What's New In Proxy Switcher 5.7.0:
+
+Improvements:
+Added dialog (View-&gt;Internal Proxy Servers...) where user can rebind internal proxy servers to different ports.
+Scan log will properly show that server tests timed out instead of saying that server is invalid.
+Reduced memory use.
+Updated Ip2Country.
+
+Fixed Issues:
+Memory leaks when proxy list download is aborted and other memory leaks.
+Ip2City database sometimes was not correctly reloaded right after update.
+Other minor problems.
+
+Home Page : 
+ 
+http://www.proxyswitcher.com/
+
+Install Notes:
+
+1] Install The App
+2] Do Not Launch The App
+3] Copy Content from Crack Folder to Install Directory
+4] Enjoy This Release!!
+
+By:
+
+SceneDL

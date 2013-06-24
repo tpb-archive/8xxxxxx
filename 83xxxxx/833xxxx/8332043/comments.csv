@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,khalar9,2013-04-04T11:00Z,"This got it to work for me. Right click on the .app file and click on ""Show Package Contents"" open up the ""drive_c"" alias ""Program Files""""Slender - The Arrival v1.0"" and open ""Patcher.exe"" directly with Wine.
+
+If not on the loading screen an error will pop-up"
+,YoColin,2013-04-05T02:13Z,"NOPE doesn't work. After you click start there's a wine pop up box that says
+
+""Fatal error in gc. GetThreadContext failed"""
+,FastForwarder,2013-04-05T15:09Z,Why port it? Mac native version cracked already.
+,tiagoc.s,2013-04-05T21:10Z,"@FastForwarder
+Where?"
+,FastForwarder,2013-04-06T01:58Z,"tiagoc.s I downloaded it from Brokenstoners a private tracker. If you didn't mind a little spam you can get it from AppFull.com. 
+http://appfull.net/slender-the-arrival/id3187#.UV9k7b-MFFA
+Download the second edition Slender: The Arrival - 4.1.0f4 [Intel/K]. That one is real and working."
+,tiagoc.s,2013-04-06T03:19Z,Thanks Fastforwarder!
+,YoColin,2013-04-07T14:13Z,THANK YOU FASTFORWARDER. WORKS PERFECTLY :)
+,SlyFox909,2013-04-07T15:59Z,"Thank you FastForwarder!
+been looking for it for ages!"
+,Uncharted3Fan8,2013-04-08T21:45Z,my screen is a little laggy on 10.8.3

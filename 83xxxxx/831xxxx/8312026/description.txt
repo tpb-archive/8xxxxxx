@@ -1,0 +1,62 @@
+Episode 306 : The Heart's Eye
+
+SCREENS:
+ 
+http://imageshack.us/a/img94/2444/narutoshippuudenep30648.jpg 
+http://imageshack.us/a/img832/2444/narutoshippuudenep30648.jpg 
+http://imageshack.us/a/img29/2444/narutoshippuudenep30648.jpg
+
+
+
+General 
+
+Format : Matroska 
+Format_Version : Version 4 / Version 2 
+FileSize/String : 54.1 MiB 
+Duration/String : 23mn 9s 
+Encoded_Application : mkvmerge v6.1.0 ('Old Devil') 
+Encoded_Library/String : libebml v1.3.0 + libmatroska v1.4.0 
+
+Video 
+ID/String : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format_Profile : High 10@L4.1 
+CodecID : V_MPEG4/ISO/AVC 
+Duration/String : 23mn 9s
+Width/String : 848 pixels 
+Height/String : 480 pixels 
+DisplayAspectRatio/String : 16:9 
+FrameRate_Mode/String : Constant 
+FrameRate/String : 23.976 fps 
+ColorSpace : YUV 
+ChromaSubsampling : 4:2:0 
+BitDepth/String : 10 bits 
+ScanType/String : Progressive 
+Bits-(Pixel*Frame) : 0.029 
+Encoded_Library/String : x264 core 
+Color primaries : Generic film 
+Matrix coefficients : YCgCo
+
+
+
+Audio 
+ID/String : 2 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format_Profile : LC 
+CodecID : A_AAC 
+Duration/String : 23mn 9s 
+Channel(s)/String : 1 channel
+SamplingRate/String : 22.05 KHz
+Language/String : Japanese 
+
+ 
+
+Text 
+ID/String : 3 
+Format : UTF-8 
+CodecID : S_TEXT/UTF8 
+CodecID/Info : UTF-8 Plain Text 
+Language/String : English
+

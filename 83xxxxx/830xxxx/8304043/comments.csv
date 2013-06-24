@@ -1,0 +1,155 @@
+﻿User Type,Username,Date,Text
+,theprophecyx3,2013-03-28T13:33Z,does this fix the displaycases bug?
+[T],TAKINI,2013-03-28T14:22Z,Nice torrent man...
+,tohzoku,2013-03-28T19:57Z,"Since you won't marry me, how do you feel about one-night stands?"
+,WDoubleYouW,2013-03-28T21:52Z,"@theprophecyx3
+The day Bethesda fixes all the bugs in their games will be the day I won't pirate their games. In case you are now getting worried, rest assured that day will never come.
+
+@TAKINI
+Thanks!
+
+@tohzoku
+Don't like them either."
+,IGFanaan,2013-03-29T16:17Z,I bought Skyrim when it was released. Looking to get the Expansions. What do I need to do differently to use this with the expansions? If I already have Skyrim.
+,Slayer72727,2013-03-29T16:40Z,"So I downloaded and installed it, and ran the launcher fine, but when I try to click play the launcher window just closes and reopens. I've tried reinstalling among other things"
+,WDoubleYouW,2013-03-29T17:18Z,"@IGFanaan
+As long as your Skyrim is fully up to date, you don't need this. Get them here:
+
+Dawnguard: https://thepiratebay.sx/torrent/8154169
+Hearthfire: https://thepiratebay.sx/torrent/8151165
+Dragonborn: https://thepiratebay.sx/torrent/8108221"
+,WDoubleYouW,2013-03-29T17:23Z,"@Slayer72727
+
+This is a problem known to have several solutions depending upon the problem. I suggest you run TESV.exe and see if that doesn't fix your problem."
+,IGFanaan,2013-03-29T17:26Z,Nvm just had to run the install fix. I love you!!!!!!!!!!!
+,IGFanaan,2013-03-29T17:29Z,"Nvm it crashs, install you others now. Thank you again"
+,Felovely,2013-03-29T19:39Z,"Thank you so much for the download, I really appreciate it! I own two 360 copies of Skyrim and bought all of the mods at full price, and I seriously didn't feel like buying them all over again just for my computer, so I don't feel guilty pirating it.
+
+I just downloaded Steam and set up an account, and I was just wondering if you knew how I could get Steam to recognize it, adding it as a ""non-Steam game"" doesn't work. I think I can only get the mods to work easily if it's activated on Steam, but I don't know the activation code. Is the code hidden somewhere? I'd love some help with it.
+
+Anyways, thanks again, you're an angel c:"
+,WDoubleYouW,2013-03-30T13:40Z,"I was just informed that I forgot to update the TESV.exe to version 1.9.32.0.8 before I compiled this. Not a big problem, and the game will run fine without it, just NPCs will tend to sleep with their eyes open. To get the updated TESV.exe, grab it from update 13 here: https://thepiratebay.sx/torrent/8300814"
+,ArcherDozier,2013-03-30T17:54Z,Ok i installed the whole thing and I notice that legendary mode works but the dawnguard and dragonborn seem not to be working. I went to riften and talked to the guards about the dawnguard and he never mentions anything about them. I go by the cave that leads to the dawnguard tower and the entrance is no where to be found. Did install this wrong? I tried reinstalling it and I update the tesv.exe and I still have the same problem. 
+,WDoubleYouW,2013-03-30T19:11Z,"@ArcherDozier
+There are several problems it could be, however, let's start simple and go from there.
+
+Dawnguard doesn't activate until you reach level 10. If your character isn't level 10, wait until you're that level to look for Dawnguard.
+
+Dragonborn doesn't activate until after your first visit with the Greybeards.
+
+And I forget when Hearthfire activates.
+
+Also make sure you have the DLC checked in SkyrimLauncher Data section."
+,ArcherDozier,2013-03-30T21:19Z,@WDoubleYouW I am lvl67 and am way past the greybeards and I have nothing shows in my data files. Where do i find this HKEY_LOCAL that is in your description?
+,ArcherDozier,2013-03-30T21:21Z,"@WDoubleYouW I am currently lvl67 and in y data files shows nothing. You mention a HKEY_LOCAL in your description, where do I find that on my hardrive?"
+,ArcherDozier,2013-03-30T21:21Z,sorry for posting twice thought the first one didnt go through lol
+,WDoubleYouW,2013-03-31T13:09Z,". Press Winkey+R
+2. Type regedit and hit enter
+3. Expand tree HKEY_LOCAL_MACHINE, then SOFTWARE, if 64-bit then Wow6432Node, then Bethesda Softworks.
+4. Highlight Skyrim in the tree.
+5. To your right there should be displayed two values: (Default) and Installed Path
+6. If there is a duplicate Installed Path entry, delete it.
+7. If there is or when there is only one entry, make sure it is directed to the directory where you installed Skyrim (probaby C:GamesSteamSteamAppscommonskyrim)
+
+This should fix it. If you still can't figure this out, uninstall, then right-click on skyrim in the registry and delete, then reinstall and it should be fixed. "
+,capriciousserf,2013-03-31T13:48Z,"So for some unknown reason, I tried to play this game but right near the start when you have to run into the keep and Alduin is supposed to burst through the wall, that never happens and I am just stuck running around in the keep, hands still bound. Any one else with the same problem?"
+,WDoubleYouW,2013-03-31T14:51Z,"@capriciousserf
+That glitch happens sometimes. The fix is simply to load the autosave before it and try again. This problem is generally associated with slower computers. You might give the Hialgoboost mod a try."
+,capriciousserf,2013-04-01T02:44Z,"@WDoubleYouW Interesting. I'll give the autosave thing a try then, but I doubt it's my computer being too slow, with a gtx 670."
+,rockopeaches,2013-04-01T04:53Z,"I am getting an error that says ""The program can't start because X3DAudio1)7.dll is missing from your computer. Try reinstalling the program to fix this problem.""  I did uninstall and reinstall but am still getting the error. How can I fix this? Please help."
+,WDoubleYouW,2013-04-01T06:10Z,"@rockopeaches
+You evidently didn't allow the DirectX runtime to install at the end of installation. Missing X3DAudio17.dll and all similar missing DLL errors are caused by an incorrect installation of DirectX. From inside your Skyrim directory is a folder entitled DirectX. In that folder, run DXSETUP.exe and install. This should fix the problem."
+,VegitoDBZ,2013-04-01T16:11Z,"I hope in this dawnguard the quest with the prophet works, in my current one, he doesn't apologize, he just dies :("
+,unskotosable,2013-04-01T17:02Z,"I am downloading it right now it seems to be a greate torrent.....
+I will wright again if it works.
+Thanks for now
+
+
+And SEED more plz"
+,WDoubleYouW,2013-04-04T13:11Z,"V2 released!
+
+Changelog:
+
+V2
+-Fixed bug where previous Skyrim installs would interfere with ability to select files in Data section of SkyrimLauncher
+-Fixed bug where Skyrim was only updated to version 1.9.29.0.8 instead of 1.9.32.0.8
+-Added feature where you now install only the DLC that you want to install, or none at all
+-Added feature where you now have the option to install Creation Kit, skse, Script Dragon, Wrye Bash, TES5Edit, and/or HiAlgoBoost
+-Added feature where you now can create desktop icons
+-Added license to installer
+-Added install information to installer
+-Now the installer automatically searched for updated DirectX Runtime Components and updates as necessary
+-Now the installer automatically verifies whether or not Microsoft Visual C++ 2010 Redistributable runtime is correctly installed and fixes if needed
+
+https://thepiratebay.sx/torrent/8332295"
+,Fatumboba,2013-04-04T13:27Z,"@WDoubleYouW Hello mate, I have a problem and I can't fix it. I played ealier Skyrim but need to uninstall it. Now I'm download your torrent, do everything like in instructions and comments and in Data Files i don't have nothing. Then I'm tried to uninstall, manually delete Skyrim from My Documents and delete Bethesda folder from regedit. Now I'm install it once again and still don't have this data files. Now I don't have nothing in the registry (HKEY_LOCAL_MACHINE) and nothing in My Documents. Can you help me how to fix it to play with all DLC and don't have problems?"
+,WDoubleYouW,2013-04-04T17:21Z,"Use this fix provided by RELOADED:
+
+https://thepiratebay.sx/torrent/8111368
+
+1. Run Install Fix as administrator
+2. Browse to where you have installed Skyrim by pressing the ... button and locating the folder. Make sure you don't set it to the Skyrim folder within the skyrim folder.
+3. Click save.
+
+Otherwise, the easiest fix would be to uninstall this version, which is outdated now, and use V2, which fixes this problem."
+,Fatumboba,2013-04-04T17:59Z,"@WDoubleYouW Thanks a lot mate, this helped me. I hope that now all bugs will be fixed ;) For example last time I had bug that on 60 lvl i can't takings souls from dragons, even from new Dragons in Dragonborn and Dawnguard. Thanks once again, have a nice day"
+,mokito996,2013-04-07T20:38Z,"exclent torrent, but it is quite slo D:"
+,TheShmyt,2013-04-08T09:28Z,"Weird thing happened, it worked fine on DL and unpacked great and all but when i boot up the main one the options and datafiles headings are grayed out, I even have bEnableFileSelection=1 inserted into the SkyrimPrefs too, help please?"
+,TheShmyt,2013-04-08T10:05Z,Ignore that... world-class genius move here...forgot to read it and it just said install...
+,ayedawg,2013-04-09T07:02Z,Do not download this torrent. The Launcher does not work. Mods wont work with it (Data files window remains empty). Saving in-game freezes the entire game. Chances of destroying save game file is 50%
+,WDoubleYouW,2013-04-09T13:11Z,"@ayedawg
+You got a problem?"
+,Shantanab,2013-04-10T10:48Z,"Thanks for amazing updates:
+I have been meaning to tell all of you who are facing problems with non-selectable data files, even after altering the registry..
+1. open ""SkyrimPrefs.ini"", located most probably inside ""My Games"" inside ""Documents""...using text editor.
+2. find the section under ""[Launcher]"", then add this line ""bEnableFileSelection=1"" under this section...
+3. Save this and open launcher ... VOILA!!!"
+,waytooclose,2013-04-13T15:11Z,"guys seed please seed, i really appreciate if you all seed thanks guys !!!! ^^"
+,waytooclose,2013-04-14T12:34Z,guys seed!! thanks y'all!!
+,SirLuminus,2013-04-17T19:27Z,"File size seems ok,so if it works after finishing the download i will seed for a week or 2. :)"
+,Thraxx01,2013-04-25T03:39Z,JUST SO EVERYONE KNOWS THIS IS NOT 1.9.32.0.8 IT IS 1.9.29.0.8
+,Thraxx01,2013-04-25T03:40Z,Wait I looked through the comments and saw V2
+,_Nyms,2013-04-26T01:27Z,"Ok, this is getting a little annoying.
+
+At first I was fine, the game was fine. Then I realized none of the extra shit was on. So I tried to figure out why.
+
+After this two hour search to try and fix it, I did.
+
+BUT NOW IT SAYS THAT I'M MISSING A FILE THAT'S FUCKING THERE.  ;-;
+
+It's so annoying. It says..
+
+TESV.exe - System Error
+The program can't start because binkw32.dll is missing from your computer. Try reinstalling the program to fix this problem.
+
+
+I have, but it isn't working. Heeeelp? T_T"
+,WDoubleYouW,2013-04-26T03:15Z,"@_Nyms
+Go to your Skyrim directory. You should see a folder entitled DirectX. Inside that folder is DXSETUP.exe. Run it. This should fix it."
+,_Nyms,2013-04-26T16:23Z,"@WDoubleYouW
+It didn't. I tried twice and it error'd both times."
+,_Nyms,2013-04-26T16:28Z,"@WDoubleYouW
+I tried, it didn't work. I'm about to try re-downloading. x-x"
+,WDoubleYouW,2013-04-26T21:55Z,"@_Nyms
+If DirectX setup failed, that ain't good, and I'm not sure what could have went wrong, but Google is your friend. If you're redownloading, try my updated installer to see if that doesn't fix it.
+
+https://thepiratebay.sx/torrent/8332295"
+,Fawkes35,2013-04-26T22:00Z,"Thank you so much WDoubleYouW for this upload it was so fucking simple!  Literally a 3-step process DOWNLOAD, MOUNT, INSTALL I wish all games were this easy. Thank you for all your hard work with pre-cracking updating, and add-ons. Much love!!!!"
+,dragonsonata,2013-04-27T01:48Z,"Will this work with a xbox 360 controller?
+It keeps wanting me to use the keyboard and mouse.."
+,dragonsonata,2013-04-27T02:23Z,"Nevermind! Controller works, I'm just burnt :P
+Thank you for the great torrent brobeans. Keep it up!"
+,balne,2013-05-06T13:33Z,"Is this compatible with the mod 'Frostfall'? The author puts ""requirements- an uncracked version of Skyrim""."
+,WDoubleYouW,2013-05-06T20:08Z,"@balne
+Use this one: https://thepiratebay.sx/torrent/8332295
+
+Frostfall is compatible, but the author says that to stop people using cracks incorrectly asking stupid support questions from him. As long as you do it correctly and don't mention that you're using a cracked version, you'll be fine."
+,balne,2013-05-08T13:21Z,"@WDoubleYouW
+
+Well, I think I used tht one, or smthng, I'm not sure,  all i know is tht all mods are wrking fine, the game is running fine, althought there is a problem? with SKSE: Unable to set timestamps to update.bsa
+
+it'd be nice if u could help. but thx anyways."
+,balne,2013-05-08T17:05Z,"Ok, sorry to be a bother, but new problem: apparently, according to various sources, ur supposed to get a letter from a courier if u have HEarthfires installed. I didn't get one, and when i travelled to FR, the guards just attacked me. Additionally, the game CTD when I try to load autosave."
+,TarsonIV,2013-05-30T22:37Z,@WDoubleYouW  -  I've been reading through your comments as I download your torrent and I have to say...  You are the absolute most well mannered and helpful Pirate I have seen since the days of Napster.  Keep up the great work.
+,ixlovexlink,2013-05-31T19:23Z,"I kept on encountering problems with my Skyrim when I tried downloading these DLC's separately, so I decided to just torrent this whole pack.  Everything runs fine and I inserted my old save-games into the Skyrim folder, but when I launch the game and go to ""Data Files"", none of the DLC's are in there, and when I load my game and try triggering Dawnguard (talking to a stormcloak guard) nothing happens.  How do I activate these data files?"
+,bolderox,2013-06-03T21:51Z,"Works without a hitch... except when i went to add skse it told me to update to the latest version, I checked the game and it is currently running 1.9.29.0.8 and NOT 1.9.32.0.8, any insight?"

@@ -1,0 +1,47 @@
+9.0.2 Release Notes 
+
+Improvements and feature changes:
+- The "Group to Drum Rack" option is available again in the context menu of all instrument devices, provided that the device is not yet grouped into a rack and is not a drum rack device itself.
+- Improved browser performance when clicking on the "Drums" label.
+- Improved browser performance when clicking on labels while Search is active.
+- Improved browser performance when hot-swapping presets in the browser's "Places" section.
+- When Search is activated, the selection color in the browser's content pane is now in line with the color scheme of the browser's sidebar and the frame around the search field.
+- Changed the factory default for dropping samples on a Drum Rack. It now activates the "Retrigger" mode in Simpler by default.
+- Removed the gray shade which would cover the Arrangement View's scrub area when the global Back-to-Arrangement button was on, because the controls underneath (e.g. the loop brace, locators, etc.) would look inactive although being active.
+- Simplified message boxes at startup when using the Trial version offline.
+- Updated several lessons, info texts and translations.
+
+Bugfixes:
+- MIDI Mapping for Song Tempo Fine Tune would not work correctly.
+- When recording automation into a clip, the automation would not latch during the first iteration, but jump back to the last value. 
+- Clip automation for VST and AU plug-in parameters could get lost after importing a track from the browser into a new Live set.
+- When recording clips from Session into Arrangement View, the recorded clip could have an incorrect loop length if the Arrangement's loop was enabled.
+- MIDI would not be recorded into Session clips when launching a scene after shift-clicking the Session Record Button.
+- Under certain conditions, Time Signature Changes would not be recorded correctly into the Arrangement.
+- Under certain conditions, the white background that indicates the active clip region would not be shown for unwarped audio clips in the Arrangement View.
+- The numbers in the Arrangement View's beat time ruler could disappear when zooming in.
+- When duplicating MIDI notes in a clip, the duplicated notes would sometimes scroll out of view.
+- The browser's content pane could scroll to a wrong position when enabling hot-swap, so that the selected preset would be out of view.
+- The velocity setting in Simpler and Sampler wasn't correctly restored from 'Slice-To-New-MIDI-Track' presets.
+- The file manager would sometimes not replace missing samples even though matching candidates were found.
+- (64-bit Windows) Exporting video at 48 kHz would not work.
+- (64-bit Mac) The video window could go black after toggling full-screen mode on and off.
+- (64-bit Mac) The content in the video window would sometimes not resize correctly when jumping in the playback position.
+- Max for Live: the API would return a list instead a list of symbols in certain cases, e.g. when querying a track's input / output routing targets, it would return "Sends" "Only", instead of "Sends Only".
+- Live could crash when trying to preview a multi-selection of files in the browser via Shift+Enter.
+- Live could crash during authorization when successively clicking the "Authorize with Ableton.com" button.
+- Fixed a crash which could occur when importing certain Live sets by dragging them to the scene drop area.
+- Feature-limited versions (e.g. Live Intro or Lite) could crash when opening certain context menus.
+
+System requirements
+
+- Windows XP (64 bit), Windows Vista (64 bit), Windows 7 (64 bit) or Windows 8 (64 bit)
+- Multicore processor
+- 2 GB RAM
+-1024x768 display
+-3GB free disk space
+
+Languages : English, French, German, Italian, Japanese, Spanish
+
+Homepage :  
+https://www.ableton.com/

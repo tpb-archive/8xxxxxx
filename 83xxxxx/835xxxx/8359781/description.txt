@@ -1,0 +1,53 @@
+***********************************************************
+* Microsoft Office Professional Plus 2013 Volume Channel  *
+***********************************************************
+
+murphy78 presents Microsoft Office ProPlus VL 2013 Apr2013
+Contains all KB files with msp patches to bring current to
+the Apr9-2013 security-patch date.
+
+MSDN SOURCE:
+SW_DVD5_Office_Professional_Plus_2013_W32_English_MLF_X18-55138.ISO
+
+Release File:
+Office_Professional_Plus_2013_VL_32Bit_En-US-Apr2013_X18-55138.iso
+Size: 935MB
+CRC32: C904E16A
+MD5: 0563661D7A8518C2631B72F8EA8EF363
+SHA-1: 3B93B10BABA15EE33CD925FF257052743581538E
+
+Basically, what you have here is a beautiful MSDN ProPlus VL source
+and it has an updates folder. You can't simply toss the exe files
+from MS Download Center in the folder, but you can extract those files
+with 7-zip and then copy the en-US and the none.MSP files to there.
+You also have to add any proofing Spanish and French files or Update
+nags you.
+
+And that's exactly what I've done. These are all of the MSP files
+contained in MOST of the KB exe files available for download. There
+are still a few ones that don't have any MSP file inside, but
+they are very small. The non-MSP kb files total about 1-2megs on
+Microsoft Download. Those, you can do yourself. I cannot
+pre-integrate those without making a fully custom install using
+a bunch of registry settings, task settings, services, etc.
+Basically, just not gonna happen; would be a mistake to even try.
+
+MSP files added to Updates Folder:
+access-x-none.msp, ace-x-none.msp, convintl-en-us.msp,
+csi-x-none.msp, excel-x-none.msp, excelintl-en-us.msp,
+groove-x-none.msp, grooveintl-en-us.msp, lync-x-none.msp,
+lyncintl-en-us.msp, msmipc-x-none.msp, mso-x-none.msp,
+msointl-en-us.msp, msores-x-none.msp, oart-x-none.msp,
+onenote-x-none.msp, osetup-x-none.msp, outlfltr-x-none.msp,
+outlook-x-none.msp, outlookintl-en-us.msp, powerpoint-x-none.msp,
+powerpointintl-en-us.msp, project-x-none.msp, proof-en-us.msp,
+proof-es-es.msp,visio-x-none.msp,
+visiointl-en-us.msp, vviewer-x-none.msp, word-x-none.msp
+
+You can activate using MS Toolkit 2.4.3.
+Click the office button, then activation tab, etc.
+
+You can backup your activation files in MTK.
+
+Enjoy Pirates,
+murphy78-TPB

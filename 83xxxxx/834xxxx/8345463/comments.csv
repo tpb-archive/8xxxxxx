@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,zlayall,2013-04-06T21:05Z,"Thanx for the up.
+
+When i open the ""datafiles"" in the launcher, i can´t see the files, although i can see them in the datafolder in the install directory. I have the Reloaded version. Any ideas?
+
+Cheers"
+,WDoubleYouW,2013-04-06T22:03Z,"@zlayall
+I thought I had fixed this!
+Do the following:
+1. Press WinKey+R and type regedit and hit enter to open the registry editor
+2. Go to HKEY_LOCAL_MACHINE/SOFTWARE/Bethesda Softworks/Skyrim. If you're on a 64bit machine it will be HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Bethesda Softworks/Skyrim
+3. Add a slash (/) to the end of the Installed Path key"
+,wikidstix,2013-04-14T12:02Z,I have followed all instructions but Data Files is grayed out. Please Help!!!

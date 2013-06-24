@@ -1,0 +1,40 @@
+Mastering VMware View 5 and Preparing for the VCP510-DT Exam
+
+Learn about virtualizing desktops with VMware View 5--and learn from the master, Greg Shields.
+
+Server virtualization? Yeah, you've got that topic nailed. Having virtualized servers atop VMware vSphere, you think you're ready to branch out into desktop virtualization? Think again.
+
+Virtualizing desktops requires skills far beyond simple server virtualization. You've got storage contention to monitor, user state data to manage, login storms to prepare for, and a host of other problems unique to desktop VMs. Not to mention, you've also got a new product to learn: VMware View 5.
+
+CBT Nuggets instructor Greg Shields has been with us a long time, and in that time he's been globally recognized for his experience and expertise in virtualization of all forms. Having been awarded Microsoft's MVP, VMware's vExpert, and Citrix's CTP, there's no better instructor in the world to help evolve your server virtualization knowledge into desktop VDI. In this, his fifteenth training series for CBT Nuggets, Greg explores the topics and technologies surrounding VMware's VDI platform, View 5. You'll learn which buttons to click, but more importantly, you'll learn why you should click them ΓÇô and in a few cases, why you absolutely shouldn't.
+
+At the same time, you'll get a leg up on studying for that all-important VMware VCAP-DT certification, focusing specifically on the VCP510-DT exam.
+
+Desktop virtualization is a huge effort in time and energies. Make sure yours are perfectly aligned for success. Join Greg in this short/sweet/to-the-point CBT Nuggets series that'll ensure your VDI implementation passes the test.
+
+CBT Nuggets Trainer: Greg Shields
+
+Videos:
+
+Introduction to VMware View, the VCAP-DT, and the VCP510-DT Exam
+Understanding VMware View's Architecture and Components
+Preparing for and Installing the View Connection Server
+Building and Provisioning your First Virtual Desktop
+Configuring Pool Settings and Connecting to Virtual Desktops
+Managing Automated Pools with Full VMs
+Installing View Composer and Managing Linked-Clone VMs
+Understanding and Configuring RDP and PCoIP
+Installing View Transfer Server and Managing for Local Mode
+Creating and Working with a View Events Database
+Fitting Desktop Virtualization into your Application Delivery Infrastructure
+Creating ThinApp Virtual Applications
+Integrating VMware ThinApp into VMware View
+Managing User Settings with View Persona Management
+Configuring Printing for View Desktops
+Managing for Kiosk Mode
+Installing and Configuring View Security Server for External Clients
+Integrating Certificates and Smart Cards into VMware View
+Configuring View Roles and Permissions
+Troubleshooting a VMware View Environment
+
+Total Series Duration: 7 hours

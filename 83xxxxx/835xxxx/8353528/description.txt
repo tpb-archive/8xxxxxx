@@ -1,0 +1,52 @@
+Richardson Software RazorSQL
+
+RazorSQL is an SQL query tool, database browser, SQL editor, and database administration tool for Windows, Mac OS X, Linux, and Solaris.
+
+RazorSQL has been tested on over 30 databases, can connect to databases via either JDBC or ODBC, and includes support for the following databases:
+
+DB2,H2,Microsoft Access,Oracle, SQLite, DBASE, HSQLDB, Mimer SQL, Paradox, SQL Anywhere, Derby, Informix, MongoDB, Pervasive, SQL Azure, Filemaker
+Ingres, MS SQL Server, PostgreSQL, Sybase (ASE), Firebird, Interbase, MySQL, SimpleDB, Sybase IQ, Frontbase, Int.Sys. Cache, Netezza, solidDB, Teradata, Greenplum, JavaDB, OpenBase.
+
+Features
+
+A Database Navigator for browsing database objects.
+An SQL Editor for creating SQL queries.
+Visual tools for creating, editing, dropping, describing, altering, and viewing tables, views, indexes, and sequences
+Visual Tools for creating, editing, dropping, and executing stored procedures, functions, and triggers
+A robust programming editor that embeds the powerful EditRocket code editor that supports 20 programming languages including SQL, PL/SQL, TransactSQL, SQL PL, HTML, XML, and more.
+Export Tool - Export data in various formats
+Import Tool - Import data from delimited files, Excel files, or fixed width files into tables
+Ships with a built-in relational database engine (HSQLDB) that is up and running out of the box and requires no end-user administration
+A Generate DDL Tool for generating table, view, and index DDL.
+Table / SQL Query Compare tool for comparing tables or queries across multiple connections
+Database Data Search tool for searching single or multiple database table and view data.
+Database Object Search tool for searching for database objects.
+Backup tools such as the Database Backup Tool and Table Backup Tool
+Database conversion tools for many popular databases.
+Auto column and auto table lookup
+SQL Formatter
+SQL Query builder tool
+SQL Query Scheduler tool
+Command Line Interface
+PHP Bridges for connecting to MySQL, PostgreSQL, and SQL Server databases remotely via PHP enabled web servers
+An ASP bridge for connecting to MS SQL Server databases remotely via ASP enabled web servers
+SQL GUI Tools for generating SQL for various operations
+Edit, delete, and insert database data with the Database Editor
+Works with all major operating systems including Windows, Mac OS X, Linux, Solaris, and any other Java enabled OS
+Tested with Apache Derby / JavaDB, Daffodil DB, DB2, DBASE, Firebird, FrontBase, H2, HSQLDB / HyperSQL, Informix, Ingres, Interbase, Mckoi, Microsoft Access, Microsoft SQL Server, Mimer SQL, MySQL, Netezza, OpenBase, Oracle, Pervasive, Pointbase, PostgreSQL, Solid, SQLite, Sybase Adaptive Server Enterprise, Sybase SQL Anywhere, and Teradata
+
+System Requirements:
+
+For best results, use of one of the following operating systems is recommended: Windows 8, Windows 7, Windows Vista, Windows XP, Windows Server 2008 or 2003, or Windows 2000. The 32-bit version of RazorSQL runs on both 32-bit and 64-bit versions of Windows. The 64-bit version only runs on 64-bit versions of Windows. If using ODBC drivers to connect, make sure to use the version of RazorSQL that matches up with the architecture of the ODBC driver. For example, if using 32-bit ODBC drivers, the 32-bit version of RazorSQL is required.
+
+Homepage: http://www.razorsql.com/
+
+Installation Instructions:
+
+- Install program.
+- Register application with given key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

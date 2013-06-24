@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,LifeTheHound,2013-04-12T06:23Z,"Ah, forgot to mention the second episode cuts Tyrion's scene with Shay short after their kiss. It dissolves elegantly into the next scene so it doesn't feel so abrupt. "
+,asmodeus130,2013-04-12T13:43Z,Censored? gtfo lol
+,Asquiol,2013-04-12T22:08Z,"ROFLMAO 
+
+prudes shouldn't be watching this ever"
+,Man_no9,2013-04-13T23:43Z,"I'll never understand the world. People are OK with seeing others being burned to death, hacked to pieces or just plain ol' shanked in the eye. But watching something ""naughty"", like two people having sex or even just a naked person? God help us, that's dangerous! D:"
+,Flame_Leg,2013-04-14T09:58Z,"Just downloaded this, the quality is nice, and I like how you edited with the black bars. Only recommendation would be on the scene with tyrian and shay, you shouldn't of used the transition effect. Just cut to the next scene, and meld the audio, and no one could notice you even edited it. The transition makes it obvious.
+
+On another note I'm wondering what program you use, and your process? You got it real small, while preserving the quality. 
+
+On a last note, how soon do you plan on uploading these? The stuff I edit out is similar, so if your going to upload them, I might not need to. Just wondering. "
+,LifeTheHound,2013-04-15T04:34Z,"@Man_no9:
+What you speak is the truth. I don't understand it myself. If I could guess at the reason, I'd say nudity leads to more awkwardness between people than violence, because sexual matters are more tangible to us and more likely to be a real issue between friends and family than stabbing eyeballs. Or so I'd hope... 
+
+As much as I oppose censorship in general, awkwardness is more to be feared in my household (and apparently many others). To each his own, of course.
+
+@Flame_Leg:
+My friend, I'd never have had the idea to do this without you. I'll give you 90% of the credit (which is why I uploaded as ""Anonymous""). As for the transition, I'm a huge fan of them and can't understand why the show doesn't use more (but maybe that's why I'm here and not in Hollywood). Regardless, I'll gladly follow your suggestion. 
+
+As for the process on my Linux box, I edit the MPEG2 ts directly with AVXSynth and feed the resulting streams to a tricked-out commandline encoder. The frames the encoder sees are directly from the 12mbps+ original (edits occur in realtime via the script). 
+
+You'd get a similar result if you start from a high quality MKV, mux the streams into an MP4 (handbrake may have a ""copy"" mode for the two streams, which is lossless and very fast), and feed that into Premiere. When you export, make the bitrate obscenely huge. Finally, take that absurdly huge Premiere output and convert it to a realistically sized MP4 in handbrake or something with a high-profile preset (even if the huge intermediate file you're converting from is also MP4). "
+,LifeTheHound,2013-04-15T18:12Z,"Episode 3:
+http://thepiratebay.sx/torrent/8375934"
+,CutlassPierce,2013-04-28T05:54Z,"Hey Anon/Flameleg,
+
+My wife and I are a big fan of what you guys are doing.  Do you have plans to continue on? Please Please keep 'em coming.  I check here every day to see if the newest one is out.  Thanks for all you do!"
+,Flame_Leg,2013-04-28T21:07Z,"@CutlassPierce
+
+Glad you enjoy these. No need to check every day. The newest episodes air every sunday, and in the next few days(usually Monday) LifeTheHound releases the next episode censored. If he stops censoring them for some reason, I'll continue like I was, so don't worry about the uploads stopping.
+
+He already has episode 3 up, and you can download any episode 4 from another torrent, since it required no censoring.
+
+So you only really have to check on Monday, and then until the new torrent is uploaded. Hope that helps!"

@@ -1,0 +1,49 @@
+The Rachel Maddow Show plus All In With Chris Hayes - mkv
+April 5  - 2013
+
+Both shows are in one file - 126 minutes
+I included - ALL IN - because it was a new show and Rachel has been talking about it.
+I thought some of you might have been curious about it.
+
+My cable changed from a SD full screen 4-3 to a SD wide screen 16-9 letterboxed
+This made my source file even smaller which makes the quality worse.
+Nothing I can do about that.
+
+
+
+Video
+Source 				 : SDTV
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L2.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 26mn
+Bit rate                         : 450 Kbps
+Width                            : 544 pixels
+Height                           : 304 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.091
+Stream size                      : 266 MiB (80%)
+Writing library                  : x264 core 120
+
+
+Audio
+ID                               : 2
+Format                           : Vorbis
+Format settings, Floor           : 1
+Codec ID                         : A_VORBIS
+Duration                         : 1h 26mn
+Bit rate mode                    : Variable
+Bit rate                         : 96.0 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 59.2 MiB (18%)

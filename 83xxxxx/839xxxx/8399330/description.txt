@@ -1,0 +1,13 @@
+ver2.0.122 (2013/03/24)
+
+
+FIX: The bug of IDirectDrawSurface2.
+
+
+FIX: In the case of "Force CPU Processing" of DirectX10/11, the bug that non-
+
+indication of the mouse cursor is not handled normally.
+
+MOD: The code of an audio capture is changed.
+
+MOD: Supported special Present of DirectX9Ex.

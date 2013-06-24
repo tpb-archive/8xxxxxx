@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,serpentpan,2013-04-04T21:44Z,Welcome back.
+,harvey4love,2013-04-08T11:01Z,"Don't know what I'd do without you, Chitto.  Thank You"
+[V],HighCode,2013-04-08T22:10Z,"ChattChitto, you're a living legend!
+Thanks a lot!"
+,TheGift73,2013-04-10T02:41Z,"I know that the issue is on my end as your releases have always worked. However, I can install the program without issue as per instructions., but when it is set to rip/copy a bluray, it remains at 0%
+
+Process begins after I hit start, then nothing. Stops at 'Intel GPU acceleration for video encoding enabled'. Time elapsed keeps going and program remains responsive, just remains at 0%.
+
+Can play bluray's fine when watching them on my machine, it's just being able to rip/copy with this release that is causing the problem."
+,TheGift73,2013-04-10T03:57Z,"[Update]
+
+Issue resolved by changing a couple of things in the programs settings.
+
+Settings (Green Tick)>General>A/V Codec>Video Decoder
+
+Changed H.264 to Software (was set to Intel)
+Changed MPEG2 to Software (was set to Intel)
+
+Hope that helps someone else.
+
+Again, the upload works fine, the issue was on my end."
+,SparedParts,2013-05-10T03:48Z,Can anyone tell me the name of this song and artist on ChattChitto's installer?

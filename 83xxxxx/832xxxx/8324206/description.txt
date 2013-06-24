@@ -1,0 +1,52 @@
+               PublicHD - High-Definition Bittorrent Community
+     
+                         https://publichd.se/
+
+            ----------------------------------------------------
+
+Poklosie.2012.1080p.BluRay.x264-CtrlHD [PublicHD]
+ 
+http://www.imdb.com/title/tt2209300
+
+RUNTIME.........: 01h:49m:01s
+SIZE............: 12.7 GiB
+VIDEO CODEC.....: x264, High@L4.1, 2pass, DXVA
+FRAMERATE.......: 23.976 FPS
+VIDEO BITRATE...: 16 000kbps
+RESOLUTION......: 1920x804
+ASPECT RATIO....: 2.40:1
+AUDIO...........: Polish AC3 5.1 @ 640kbps
+		  Polish Commentary AAC 2.0 @ 114kbps q=0.4
+SUBTITLES.......: English
+CHAPTERS........: Included
+SOURCE..........: Poklosie 2012 1080p BluRay POL AVC DTS-HD MA 5.1-PSiG
+ENCODER.........: kaziopompaa
+RELEASE DATE....: 31/03/2013
+NOTES...........: I wasn't satisfied with lower bitrate
+
+
+
+y4m1920x804p 0:0 @ 24000/1001 fps (cfr)
+x264using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2
+x264profile High, level 4.1
+x264frame I:963 Avg QP:17.22 size:188676
+x264frame P:38326 Avg QP:18.39 size:111727
+x264frame B:117551 Avg QP:18.94 size: 73195
+x264consecutive B-frames: 4.1% 4.6% 12.8% 17.1% 15.3% 29.9% 7.7% 3.2% 5.4%
+x264mb I I16..4: 6.7% 85.3% 8.0%
+x264mb P I16..4: 1.4% 21.2% 1.5% P16..4: 27.8% 28.3% 13.9% 0.0% 0.0% skip: 5.8%
+x264mb B I16..4: 0.4% 3.5% 0.3% B16..8: 39.1% 20.7% 7.6% direct:14.2% skip:14.2% L0:44.0% L1:41.4% BI:14.6%
+x2648x8 transform intra:86.1% inter:63.8%
+x264direct mvs spatial:97.9% temporal:2.1%
+x264coded y,uvDC,uvAC intra: 88.0% 85.2% 65.2% inter: 62.3% 51.6% 10.7%
+x264i16 v,h,dc,p: 70% 9% 10% 11%
+x264i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 7% 9% 11% 14% 13% 12% 12% 12%
+x264i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 4% 6% 6% 10% 10% 8% 7% 7%
+x264i8c dc,h,v,p: 50% 17% 17% 16%
+x264Weighted P-Frames: Y:10.1% UV:6.1%
+x264ref P L0: 47.5% 10.9% 21.4% 10.0% 8.3% 1.8% 0.2%
+x264ref B L0: 73.1% 19.1% 6.2% 1.6%
+x264ref B L1: 90.9% 9.1%
+x264kb/s:15981.45
+
+encoded 156840 frames, 1.14 fps, 15981.45 kb/s

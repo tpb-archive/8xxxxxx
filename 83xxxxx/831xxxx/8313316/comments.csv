@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,GreyGold,2013-04-04T22:11Z,Nice.  Thanks!
+,sarabear1,2013-04-18T17:50Z,Be a hero and seed for at least a day. This file is HUGE.:)
+,sarabear1,2013-04-19T05:19Z,"This is an .iso
+When Office products are downloaded from the Volume License Service Center they come down as .ISO files. .ISO is not a file format that Windows can open natively.
+
+An ISO file is an image of a CD/DVD. Typically you would be able to use a burning program like Nero, or ImgBurn, to then burn that ISO file directly to a disk.
+
+How do I use .ISO files?
+
+Once you have downloaded an .ISO file, there are several possible options you can use to install the software:
+
+Use .ISO image file software to download and save the .ISO image file to a CD-R or a DVD-R. 
+If you are planning to install an Operating System on a PC or install software across multiple machines, this is one of your best options. A CD/DVD gives you the flexibility to make clean installs and to be used as a “boot CD.” 
+If you are using a PC with Windows 7, you don’t need any additional software to burn a CD-R or DVD-R. Simply double click on the .ISO file you downloaded, and then follow the steps in the Image Burner Wizard. 
+If you are using any other Operating System, you may need additional software. If your computer is equipped with a CD/DVD burner, this software is probably already loaded on your PC. Most CD-R/DVD-R writing software enables disk creation from an image file. Select a menu item such as Copy Image to CD or Burn Image to access this feature. For detailed instructions, see the software’s Help documentation.
+Virtually mount and access ISO files as a virtual device. 
+If you don’t have a CD/DVD burner installed on your machine or you don’t have media available to you (a blank CD-R/DVD-R), you can “mount” the ISO file as a virtual drive. With this method, your machine will believe that the file is a real disk drive, and you will be able to read files from this “virtual disk.” This approach is advisable only for installation of applications (such as Office) or minor system upgrades. You will not be able to install an Operating System using this approach, because the virtual drive would disappear at some point during the installation. 
+There are several software options for the virtual drive approach. Though they have not been tested and are not supported by the VLSC team, customers report that Daemon Tools and Pismo File Mount offer such capability as well as Microsoft Virtual CD Control Tool.
+Extract the .ISO files to your hard drive. 
+Contents of .ISO image files can be accessed directly using third-party tools that allow file extraction from the file to a temporary folder on your hard drive (similar to .zip files). As with the virtual drive, this approach is advisable to install application software or system upgrades. An example of this approach is the creation of an installation thumb drive to install software on netbooks or other devices with no optical drive. 
+The following tools offer .ISO file support:
+IsoBuster
+CDmage
+Daemon Tools
+Winrar
+
+Note: While other products may work to manipulate .ISO files, they have not been tested and are not recommended by Microsoft.
+The purpose of this blog will be to demonstrate the usage of my favorite third party freeware program that can be used to “mount” the ISO file and allow the extraction of the contents. 
+
+As you can see there are many programs that we could use to extract the contents from ISO files, but there are few reasons that I prefer Pismo File mount.
+
+- Free 
+- Easy to use 
+- Non invasive
+
+Let me demonstrate how I use Pismo File Mount to extract the contents from an Office ProPlus 2010 ISO I downloaded from the VLSC.
+
+1. Downloaded and ran the installer for Pismo File Mount Audit Package. 
+2. After the installation, I right click on the ISO file that I had downloaded and choose “Mount Image” "
+,sarabear1,2013-04-19T05:20Z,This is a .iso file so you will not be able to open it unless you Google instructions on how to use it. For this reason I am not seeding this. I hate .iso files. Too much work.

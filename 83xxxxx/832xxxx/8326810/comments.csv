@@ -1,0 +1,108 @@
+﻿User Type,Username,Date,Text
+,kavkisfile,2013-04-01T17:11Z,"For God sake, Don't try to take credit of my work. I checked it out every key, theses are my keys & my work. 
+DO NOT REMOVE, MODIFY ANY CONTENT OF IT. AT LEAST KEEP A LINK TO THIS SITE. www.kavkisfile.com
+
+http://www.kavkisfile.com/key/faq/"
+[T],594mgnav,2013-04-01T17:46Z,"@kavkasfile
+
+no one is taking ur credits sir. i gave credits to ur site in README. u can find it only if u have downloaded this torrent. i mentioned ur site in my torrent in other sites except this one.
+
+see here. - http://torrentmafia.org/torrents-details.php?id=58665
+
+plz see all of them and comment. dont just make such hasty comments.thanks.no offence."
+,Mr_BojangIes,2013-04-01T22:42Z,"Well thanks, whomever is responsible for the keys. It works great. 365 days, too! I won't have to change it for a whole year. I love you so much. Thanks :)"
+,schar2008,2013-04-10T07:36Z,"thank you 
+it works, but I got only 165 days."
+,Hector25,2013-04-10T22:15Z,"Didn't work for me, all keys seem to be blacklisted."
+,unamas,2013-04-11T13:31Z,"they just updated the blacklist
+all keys on pb are blocked..."
+,aznguy87,2013-04-11T17:33Z,"@Hector25
+@unamas
+
+After applying one of the keys offline, you will see that the key is invalid. All you have to do is connect to the internet and wait. It should work :) "
+,Hector25,2013-04-12T00:38Z,"@aznguy87, thanx for the tip..mate! It works, I actually had to click on the update after reconnecting to the internet. And I got one of the keys from this upload...
+
+http://thepiratebay.sx/torrent/8364191/Kaspersky_All_Version_Keys_%5BApril_11__2013%5D_-_SceneDL"
+,diegowfrk,2013-04-12T06:00Z,Works great. Thank you.
+,Hades77,2013-04-15T12:19Z,"Only the last one is not blocked( 274 days left).Hope you upload more keys when needed!!
+Thank you."
+,Rev3rse_,2013-05-03T13:14Z,"Extremely important notes:
+BEFORE ACTUALLY USING KIS, DO THE FOLLOWING:
+
+- Change auto updates to manual updates(from KIS settings); so KIS doesn't auto-update by itself(if it updates; you're fucked and your keys will be blocked)
+
+- Go to your hosts file, on windows 7: C:/windows/System32/drivers/etc/hosts
+And add the following lines to the end
+(This will block any attempt by KIS to update):
+127.0.0.1 dnl-01.geo.kaspersky.com
+127.0.0.1 dnl-02.geo.kaspersky.com
+127.0.0.1 dnl-03.geo.kaspersky.com
+127.0.0.1 dnl-04.geo.kaspersky.com
+127.0.0.1 dnl-05.geo.kaspersky.com
+127.0.0.1 dnl-06.geo.kaspersky.com
+127.0.0.1 dnl-07.geo.kaspersky.com
+127.0.0.1 dnl-08.geo.kaspersky.com
+127.0.0.1 dnl-09.geo.kaspersky.com
+127.0.0.1 dnl-10.geo.kaspersky.com
+127.0.0.1 dnl-11.geo.kaspersky.com
+127.0.0.1 dnl-12.geo.kaspersky.com
+127.0.0.1 dnl-13.geo.kaspersky.com
+127.0.0.1 dnl-14.geo.kaspersky.com
+127.0.0.1 dnl-15.geo.kaspersky.com
+127.0.0.1 dnl-16.geo.kaspersky.com
+127.0.0.1 dnl-17.geo.kaspersky.com
+127.0.0.1 dnl-18.geo.kaspersky.com
+127.0.0.1 dnl-19.geo.kaspersky.com
+127.0.0.1 dnl-00.geo.kaspersky.com
+
+These two steps will ensure your safety from getting blacklisted by Kaspersky. I had to learn this the hard way.
+
+---
+By the way: Thanks for the torrent."
+,mexican99,2013-05-09T16:56Z,Thanks alot man! got 249/Days =D 
+,frideska,2013-05-12T18:18Z,"Thank U so much My  Friends, this very helpfull.. once again, thank u.. :)"
+,freeloaderguy,2013-05-18T13:35Z,"KIS2013 will automatically quaranteen any host file which is modified with the 
+
+""kaspersky.com"" character string.
+
+Before modifying the hosts file, as documented by member Rev3rse_, you must 
+
+first add the unmodified host file to the KIS2013 File Exclusion settings.
+
+Here's how:
+
+1. Right click KIS 2013 icon in system tray, left click Settings
+2. In Settings window's left column, left click on Advanced Settings, Threats 
+
+and Exclusions
+3. In Exclusions panel on right side of Settings window, left click on 
+
+Settings
+4. In Trusted Zone window, left click on Exclusion rules tab, and click on Add
+5. In Exclusion rule window, left click on Select Object
+6. In Object name window, unselect the check box for Include subfolders, and 
+
+left click on the Browse button
+7. In this step you will locate and select the ""hosts"" file:
+In the Select folder window, expand ""Computer"", select and expand the C drive, 
+
+scroll to and expand the Windows directory, scroll to and expand the System32 
+
+directory, scroll to and expand the drivers directory, scroll to and expand 
+
+the etc directory, left click on the filename ""hosts"" and left click on OK.
+8. In the Object name window left click on OK.
+9. In the Exclusion rule window, with the Rule description box, left click 
+
+""select components"" on the Protection components line.
+In the Protection components window, check the boxes corresponding to
+[X] File Anti-Virus
+[X] Application Control
+[X] Scan
+then left click on OK.
+10. In the Exclusion rule window, left click on OK.
+11. In the Trusted zone window, left click on OK.
+12. In the Settings window, left click on Apply, then left click on OK.
+
+Now you can modify the hosts file, as is documented above by member Rev3rse_"
+,michael7998,2013-05-19T17:46Z,all key blocked

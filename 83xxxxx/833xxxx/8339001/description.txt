@@ -1,0 +1,89 @@
+This movie follows the life of a young German woman, married to a soldier in the waning days of WWII. Fassbinder has tried to show the gritty life after the end of WWII and the turmoil of the people trapped in its wake. 
+First film of the BRD Trilogy, followed by Veronika Voss and Lola.
+
+Complete name                            : The.Marriage.of.Maria.Braun.1979.CRITERION.DVDRip.x264.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.04 GiB
+Duration                                 : 2h 0mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 426 Kbps
+Encoded date                             : UTC 2011-03-07 17:28:17
+Writing application                      : mkvmerge v4.2.0 ('No Talking') built on Jul 28 2010 18:38:23
+Writing library                          : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 9 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 0mn
+Bit rate                                 : 2 126 Kbps
+Width                                    : 706 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.262
+Stream size                              : 1.79 GiB (88%)
+Writing library                          : x264 core 114 r1913 5fd3dce
+Encoding settings                        : cabac=1 / ref=9 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=64 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=16.1 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.20
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 0mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 1 channel
+Channel positions                        : Front: C
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 165 MiB (8%)
+Language                                 : German
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : Vorbis
+Format settings, Floor                   : 1
+Codec ID                                 : A_VORBIS
+Duration                                 : 2h 0mn
+Bit rate mode                            : Variable
+Bit rate                                 : 60.0 Kbps
+Channel(s)                               : 1 channel
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 51.7 MiB (2%)
+Title                                    : Commentary
+Writing library                          : libVorbis (Schaufenugget) (20101101 (Schaufenugget))
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

@@ -1,0 +1,48 @@
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 3.83 GiB
+Duration                       : 2h 30mn
+Overall bit rate               : 3 638 Kbps
+Writing application            : Lavf52.84.0
+Writing library                : Lavf52.84.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L5.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Format settings, GOP           : M=4, N=13
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2h 30mn
+Nominal bit rate               : 3 453 Kbps
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.056
+Writing library                : x264 core 110
+
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 2h 30mn
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : 97ms
+Default                        : Yes
+Forced                         : No

@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,brianxxx,2013-04-09T23:22Z,"Crysis 3 1.3 Patch
+Multiplatform
+
+Reduction in bandwidth usage
+Fixed issue where other player's weapons may not be visible when joining the game
+The ""Scout"" perk now saves progress correctly
+Fix for rip & throw items occasionally entering a state where players cannot interact with them
+Fix for Relay not capturing correct if the carrier is within the cap zone when the friendly relay is returned
+End of round audio now works correctly
+Fix for nanovisor becoming locked in some cases
+Fixed crashes/freezes of the game after the boss fight (some save games still might not be functioning 100% so a restart of the last level might be required)
+Fixed issue with boss not being triggered correctly and thus not appearing at all (some save games still might not be functioning 100% so a restart of the last level might be required)
+Fixed extended magazine attachment of the SCAR to not lose 10 clips anymore after each death of the player
+Fixed secret email not unlocking properly after collecting all Intel in the levels
+Fix for after match award dogtags failing to unlock
+
+PC Exclusive
+
+Option to turn off squad & clan support when balancing
+Anti cheat improvements
+Ability to customize ADS sensitivity through console commands
+Fixes for weapon customization when bound to a non-default key
+Fix for vsync not applying on first boot of the game (even if on in menus)
+Fix drawnear fov being reset every player spawn
+AMD feature updates for Eyefinity, DBT and HD3D support
+Improvements made regarding the SLI performance issues
+Additional Fix for Limit number of muted DX debug runtime error to bare minimum to help tracking issues early.
+
+Anti cheat improvements to be added
+Electronic Arts has announced that some of the changes being implemented in the third patch for Crysis 3 are reduction in bandwidth usage, fixed crashes and freezes, and customization of ADS sensitivity through console commands. The update will also include some gameplay tweaks and bug fixes."
+,dandalis,2013-04-10T20:20Z,im still seeing white spheres in campaign mode...
+,Stardust342,2013-04-13T18:28Z,Tyvm. Works like a dandy. 
+,rapidfirereaper,2013-04-13T22:50Z,its prolly your graphics card
+,McKneezee,2013-04-14T23:00Z,I cant get aeyrc file to move to BIN32. my virus software keeps picking it up. I disabled it but still no luck. any suggustions?
+,Barrytoo,2013-04-28T22:34Z,Malware in the dll file [By Windows Defender]
+,hexagonU,2013-05-07T17:44Z,a
+,ps7825,2013-05-28T01:18Z,"One of the cracks is listed as a malware, but I don't think it is."
+,Dynam0,2013-05-31T01:52Z,"Hi dude, thanks a lot but i have a question, do you need 1.2 or not? "
+,ps7825,2013-06-03T17:16Z,@Dynam0 read #2 in the description. Always look something up before commenting about it.

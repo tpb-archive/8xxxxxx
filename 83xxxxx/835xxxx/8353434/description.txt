@@ -1,0 +1,111 @@
+Unrar,
+start ThePit.exe to play the game.
+if it doesnt start install XNA from the folder _CommonRedistXNA4.0xnafx40_redist.msi
+
+v.1.0.4.0
+Critical fixes:
+- Fixed rare keyboard crash a couple players reported.
+
+Other fixes:
+- Fixed (finally) bug: Burst-fire sometimes misfiring when poisoned/choked.
+- Fixed bug: Level up sound playing when earning first experience in new game.
+- Fixed attack animations holding last frame while shot travels to target.
+- Fixed bug: Charge Hub infinite XP exploit.
+- Fixed bug: Selection color in recipe list for crafting.
+- Fixed bug: Enemies occupying the same square.
+- Fixed visual issues with attack animations.
+- Fixed bug: Interacting with devices while blind causing Outline to disappear.
+- Fixed bug: Skill/Stat modifiers not showing descriptions when loading save game.
+- Fixed bug: Extra ammo/items being discarded when picking up loot with full inventory.
+
+Additions and changes:
+- Enviromentally sealed armors now protect against gas attacks.
+- Added notification if player equips a weapon they don't meet the requirements for.
+- Added HUD toggle.
+- Quantum Scan Helmet now reveals props.
+- Adjusted monster variety on Floor 30 on Hard/Insane difficulty.
+- Added dragging item onto another of the same size to swap positions in inventory.
+- Added more info to SotsDex entries for weapons/armor/characters.
+- Added moves remaining to HUD.
+- Added grouping similar items when auto-sorting inventory.
+- Added log entries in SotSDex for experience earned.
+- Added context menu for shortcut items in Inventory.
+- Auto-targeting will track last target.
+- Skills now show stat contribution.
+- Biomods/Keys grouped together in SotsDex, including post-identification.
+- Energy Drink reduced speed increase from 2 to 1
+- Changed recipe failure dialog colors. Green for success, yellow for valid but failed recipe, red for invalid recipe.
+- New recipes and monsters.
+
+1.0.3.0
+Fixes:
+- Changed anti-venom to have immediate effect (reduce poison 1 level.)
+- Game now breaks grab if grabbing enemy is not within 1 square of target.
+- Fixed some tools were not being used when crafting recipes.
+- Fixed saved game exploits and bugs.
+- Fixed no sounds for floors 11,16,21.
+- Fixed some grenade issues.
+- Fixed a grabbed character no longer moves when confused.
+- Fixed tooltips showing for hidden traps when using quantum scan helmet.
+- Fixed super Image Inducer bug.
+- Fixed Knife/Blade/Spear skills are now based on Finesse (instead of Might.)
+- Fixed enemy weapons not firing because they are too close to a wall.
+- Fixed can now upgrade skill/stat, even if boosted over 100.
+- Fixed AI sometimes appearing to teleport through objects.
+- Fixed splash damage from shotguns would bypass armor for secondary targets. (sorry, gang)
+- Fixed grenades were being destroyed by explosive damage frequently. They are now treated as items, not weapons.
+- Fixed cyber scrambler would make organic enemies go berserk as well. 
+- Fixed lab station could be reused over and over by damaging it and repairing it.
+
+Other changes and additions:
+- Added "Auto Sort" to inventory.
+- Added "Drop All" button to inventory.
+- Added "Destoy" to context menu for inventory items.
+- Added confirmation to "Destroy" and "Unload and Destroy" actions.
+- Added warning when poison/radiation reduces stats below 5.
+- Added recipe details to SotSDex.
+- Task Dialog now selects tools which are "free" to use by default.
+- Player gets credit for monsters killed by traps.
+- charging hubs and repair stations made more efficient.
+-Improved usability of large inventories by adjusting the grid to use more vertical space.
+- Added "Equip Time" for armor to info displays.
+- Added "Reload Time" for weapons to info displays.
+- Sort SotsDex entries alphabetically.
+- Added method to display custom stats for items (eg repair factor for repair tools.)
+- Temporarily Removed GAMEPAD from build configuration until final compatibility is complete.
+- Added recipe info for messages that unlock recipes.
+- Augmentation hubs now use Decipher skill.
+- If mimicked player attacks enemy, enemy will attack back.
+- Added fully translated messages are Green in the SotsDex.
+- Added more details to repair dialog.
+- 7 new achievements.
+- 3 new weapons.
+- 2 new monsters.
+- Basket-load of new Easter items.
+- New recipes and messages.
+
+1.0.2.0 
+New Additions 
+- Two new monsters 
+- Five new recipes 
+- Four new items 
+- Two new weapons 
+Critical Fixes 
+- Fixed Shrinking Inventory / Dropped Item crash 
+- Fixed Projectile crash 
+- Fixed equipping/dropped armor crash 
+Other Fixes 
+- Fixed various outlying issues 
+- Greek letters on key-card doors no longer display when door destroyed 
+- Characters wearing self-contained armor or who are immune to radiation no longer affected when in an irradiated room 
+- Play Again remembers Difficulty setting 
+- Fixed Hero Sotswich achievement unlocking prematurely 
+Other changes 
+- Added reload value to weapon stats 
+- Irradiated rooms now show effect for visual warning 
+- Tweaks to auto-save to make it more robust 
+- Three auto-save slots, one for each character class (meaning you can now have three different games on the go , one for each character) 
+- Added mouse targeting for weapons 
+- Increased force field belt duration 
+- Added access to SotSDex in main menu 
+- Decrypted recipes messages now unlock recipes in SotSDex automatically

@@ -1,0 +1,11 @@
+What's new:
+Fixes for crashes and bugs, including:
+Fixed crash when restoring purchases if the Google billing service hasn't initialised.
+Fixed bug where controls (steering or shooting) could get locked down after the user has stopped touching the screen.
+More fixes and optimizations coming soon!
+
+
+More info:
+
+ 
+https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5zaWRoZWludGVyYWN0aXZlLnNpZi5EUiJd

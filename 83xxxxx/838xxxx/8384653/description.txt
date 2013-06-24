@@ -1,0 +1,113 @@
+This will NOT fit on a 4.37GiB Single-Layer DVDR
+Use a Dual-Layer DVDR or an 8GB+ USB flash drive.
+
+murphy78 presents Windows 8 AIO 18in1 x64 en-US DaRT8 Apr2013
+Contains all KB files to bring current to Apr9-2013 patch date
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Registry Settings were modified.*
+No Unattended Settings were added to the ISO.
+
+*small reg add runonce added to create KMS-SS Service.
+Add "KMS Server Service.exe" to any A/V programs and Firewall
+or Internet Security Programs you add. I have added exclusion
+to Windows Defender. To allow activation of other computers on
+your network or internet both parties need to enable Windows
+Management Instrumentation firewall settings. (disabled by default)
+
+Microsoft Diagnostics and Recovery Toolset 8 included in boot options.
+Features include System File Scan, Recovery, Backup restore,
+Offline hotfix removal, disk cleaning and repartitioning, etc.
+(Thank anarchist9027 for this AIO addition)
+
+64-bit MSDN Sources:
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_n_x64_dvd_916091.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_x64_dvd_915440.iso
+
+These RTM Sources are the final Build 9200
+
+Installation Indexes:
+Windows 8 (Core) 64-bit
+Windows 8 (Core) 64-bit KMS-Activated
+Windows 8 (Core) N 64-bit
+Windows 8 (Core) N 64-bit KMS-Activated
+Windows 8 Pro 64-bit
+Windows 8 Pro 64-bit KMS-Activated
+Windows 8 ProWMC 64-bit
+Windows 8 ProWMC 64-bit KMS-Activated
+Windows 8 Pro N 64-bit
+Windows 8 Pro N 64-bit KMS-Activated
+Windows 8 Pro VL 64-bit
+Windows 8 Pro VL 64-bit KMS-Activated
+Windows 8 Pro N VL 64-bit
+Windows 8 Pro N VL 64-bit KMS-Activated
+Windows 8 Enterprise 64-bit
+Windows 8 Enterprise 64-bit KMS-Activated
+Windows 8 Enterprise N 64-bit
+Windows 8 Enterprise N 64-bit KMS-Activated
+
+(Core) and ProWMC versions of KMS Activation are not
+officially supported by Microsoft, so use them at your
+own risk. They default to 30-day activation instead of
+the normal 180-day period. All KMS-Activated Indexes
+will auto-renew indefinitely as long as you do not
+install any kb file that blocks the service or if you
+install a security program without allowing the
+activation traffic and program through the firewall.
+
+Release File: Win8AIO-16in1-x64-en-US-Apr2013.iso
+Size: 6.46GiB
+CRC32: 09A94EF5
+MD5: B55A72AF37F45EFA462C02ABAA726BB6
+SHA-1: 02DEDBA0E041AAB720E3005EE55A75712A798513
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression, renaming, and export
+dism for MSU KB hotfix integration, mount for
+file copying of scripts, KMSServerService, Info folder
+oscdimg for ISO mastering
+MS DaRT8 (thx again anarchist9027)
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2729462, KB2736693, KB2737084,
+KB2742614, KB2742616, KB2750149, KB2753842-v2, KB2756872,
+KB2756923, KB2757638, KB2758246-v2, KB2761094, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2769166, KB2770660,
+KB2770917, KB2771744, KB2771821, KB2777166, KB2777294,
+KB2778171, KB2779562, KB2779768, KB2780342, KB2780523,
+KB2781197-v2, KB2781197, KB2782419, KB2783251, KB2784160,
+KB2785094, KB2785220, KB2788350, KB2789649, KB2789650,
+KB2790655, KB2790907, KB2790920, KB2792009, KB2795944,
+KB2800033, KB2800088, KB2803676, KB2807986, KB2808735,
+KB2811660, KB2812829, KB2813170, KB2815769, KB2817183,
+KB2822241, KB2823233, KB2823516, KB2833510
+
+setupcomplete.cmd phase:
+KB890830 (Recent Malicious software removal tool)
+mpas-fe (Defender Updates)
+KB2771431 (online only update)
+KB2772501 (iepropschema exe hotfix)
+
+For KMS-Activated indexes:
+-Additional reg file import for defender exlusion
+-Creates the Service using SC CREATE and 2 SC CONFIGs
+-Runs Activation using runonce script, removes watermark for
+first logon; may or may not show up on first logon for
+upgrade, but should disappear shortly after.
+
+Changes from recent Windows 8 AIO releases:
+-Split the AIO to x86 and x64 versions and added DaRT8
+-Saved a little room by deleting the winsxs backup folder.
+-Added .NET 2-3.5.1 and all hotfixes currently avail.
+-KMS-SS added. Read the included text file for more info
+
+Thank you for your AMAZING KMS Server Service CODYQX4!
+Enjoy Pirates,
+murphy78-TPB/MDL :)

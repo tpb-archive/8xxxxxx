@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+[T],k3nd00d,2013-04-09T02:30Z,"To assign a XXXp value to a video, divide the width dimension by 1.7777. These encodes are 200p."
+,recapstore,2013-04-09T11:11Z,"According to youtube's resizing algorithm, it's more something to do with vertical height, eg. 320x240=240p. 
+
+But don't get fooled by 200p though, with proper interpolation (such as h264 built in deblock) the quality will seem much better when viewing on high def screens"

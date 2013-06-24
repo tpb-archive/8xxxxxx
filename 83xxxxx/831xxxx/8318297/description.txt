@@ -1,0 +1,41 @@
+Infos:
+- The first Starcraft II Loader!
+- Supports Starcraft 2.0.5 and 2.0.6
+- Starts Starcraft II offline and blocks all internet access.
+- It does NOT affect the registry or files.
+- It creates a Loader.dll in temp which is required to load the game offline.
+
+What can it do?
+- You can play the complete Wings of Liberty and Heart of the Swarm Campaign offline (with the offline file and the keygen!)
+- You can play skirmish, ai, etc. on 2.0.5 and 2.0.6 offline with the 2.0.6 cache.
+
+HOWTO:
+- Copy the loader to your Starcraft II Folder.
+- Start the Loader with Administrator rights.
+- Play!
+
+Official thread : http://sc2.nibbits.com/forums/43/view/1997/
+
+THIS IS A FALSE POSITIVE AND IS APPROVED BY TPB STAFF :
+Here's an explanation why it's a false positive also download and check it for yourself;
+
+Sniffy's loader Uses FTL keygen among other cool features to make it way easier than the FLT crack to load!
+
+it triggers your AV false, not because of the generator, but due to the ability to load Sc2 completly offline, without you having to close your internet or block it with firewalls etc etc.
+
+to achieve this a "crack" method we call "hook" among others is used! its lets say when a program takes control of an other program to manipulate it as it likes!
+in this case the snify loader takes control of sc2 to force it go OFFLINE without accessing the web!
+
+because this "method" its also used by some true viruses, (after all a virus is just a program that does stuff the user doesnt want to  right?) the Antiviruses warn you about snify loader just for this method they detect!
+
+its absolutly safe because i have the source code, and you can tell your AV to trust this application next time and not block it!
+
+after all you will notice the antiviruses gives you a "Generic/Trojan or Generic/whateverxx" message!
+thats because it cant match it with any existing real virus in its database! thats why its called Generic!
+
+many many cracking tools have the same warnings from different AV! its logical!
+you can submit the file for examination in your AV website as a False Positive and in the next update will not warn you or any other user in the world that uses the same av version! ;-)
+
+And on nibbits i do NOT ALLOW FAKE BS, i am protecting mine and the WebSites reputation!
+
+Still need anything,ask below,enjoy :)

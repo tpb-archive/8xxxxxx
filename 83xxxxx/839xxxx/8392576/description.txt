@@ -1,0 +1,106 @@
+General
+Unique ID                        : 250205993419579685986090149678446086058 (0xBC3BEBE75EFEBC78AE9F68762CAD07AA)
+Complete name                    : Life.Of.Pi.2012.720p.BDRip.LATiNO.ENG.x264.AC3.DTS.mkv
+Format                           : Matroska
+File size                        : 6.55 GiB
+Duration                         : 2h 6mn
+Overall bit rate                 : 7 384 Kbps
+Movie name                       : Life.Of.Pi.2012.720p.BDRip.LATiNO.ENG.x264.AC3.DTS
+Encoded date                     : UTC 2013-03-01 06:15:43
+Writing application              : mkvmerge v6.0.0 ('Coming Up For Air') built on Jan 20 2013 09:52:00
+Writing library                  : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High 10@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Format settings, GOP             : M=4, N=23
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 6mn
+Bit rate mode                    : Variable
+Bit rate                         : 5 279 Kbps
+Maximum bit rate                 : 14.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 688 pixels
+Display aspect ratio             : 1.860
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 10 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.250
+Stream size                      : 4.68 GiB (71%)
+Writing library                  : x264 core 129 r2245 bc13772
+Encoding settings                : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=24 / lookahead_threads=4 / sliced_threads=0 / slices=4 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=0 / keyint=23 / keyint_min=1 / scenecut=40 / intra_refresh=0 / rc_lookahead=24 / rc=crf / mbtree=1 / crf=17.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=14000 / vbv_bufsize=14500 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+
+Audio #1
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 2h 6mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 407 MiB (6%)
+Language                         : Spanish
+
+Audio #2
+ID                               : 3
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Format profile                   : ES
+Codec ID                         : A_DTS
+Duration                         : 2h 6mn
+Bit rate mode                    : Constant
+Bit rate                         : 1 510 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 24 bits
+Compression mode                 : Lossy
+Stream size                      : 1.34 GiB (20%)
+Language                         : English
+
+Text #1
+ID                               : 4
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : Spanish
+
+Text #2
+ID                               : 5
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : Spanish Forzados
+Language                         : Spanish
+
+Text #3
+ID                               : 6
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Title                            : SDH
+Language                         : English
+
+Text #4
+ID                               : 7
+Format                           : VobSub
+Muxing mode                      : zlib
+Codec ID                         : S_VOBSUB
+Codec ID/Info                    : The same subtitle format used on DVDs
+Title                            : English Forced
+Language                         : English
+

@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,Agentbay,2013-04-20T18:41Z,"
+@SteelerJ17
+
+I can see that you're using the blocksize 8 MB in some of your uploads.  
+
+Thats a tough size .... !
+
+===================
+
+If you lower the blocksize down to 2 MB ( 2048 KB ), or maybe better 1 MB ( 1024 KB ), 
+you probably should gain a lot of time in upload time  / download time .... !
+
+( I'm talking about the so called ""Piece size"" when you create the new Torrent )
+
+This will have an impact, specially for downloaders with slower download-speed.
+
+===================
+
+.... also .... Sooner or later, the moderators will find out what you're doing here at TPB,
+and then there's a risk that they'll change the color of your skull ....
+
+/ You're doing a great job !"
+,SteelerJ17,2013-04-20T18:55Z,@Agentbay I'm enjoying uploading for all of you here.  I just want to upload good quality torrents. How do you lower your blocksize?  
+,Agentbay,2013-04-20T19:22Z,"
+@SteelerJ17
+===================================
+( If you're using uTorrent ) :
+
+When creating the Torrent
+
+01) Go up on the left side and click on ""file""
+02) Then click on ""Create New Torrent""
+03) Then you have on the lower part ""piece size""
+
+( 1024 KB or maybe 2048 KB are good choices )
+====================================
+
+/ I wish i had your ""Library"" around the corner ( LOL) ...."
+,SteelerJ17,2013-04-20T22:25Z,@Agentbay Okay. Thanks a lot. I'll do that for all my torrents. I'm still learning here. I hope that I get a skull soon. 

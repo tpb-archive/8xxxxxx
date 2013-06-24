@@ -1,0 +1,5 @@
+Mount *.mdx, *.mds/*.mdf, *.iso, *.b5t, *.b6t, *.bwt, *.ccd, *.cdi, *.bin/*.cue, *.ape/*.cue, *.flac/*.cue, *.nrg, *.isz disc images to a virtual drive
+Convert images from all supported formats to *.mdf/*.mds, *.mdx, *.iso
+Make .iso, *.mds/*.mdf and *.mdx images of CD, DVD, Blu-ray discs
+Make a compressed disc image or split the image to several files
+Protect images with password

@@ -1,0 +1,311 @@
+﻿User Type,Username,Date,Text
+,jacob5800,2013-04-07T22:15Z,no comments yet  ????
+,DECEiFER,2013-04-07T22:46Z,"The torrent was only uploaded this evening! What would you like to know, if it's clean? You can always download the official installers from stereotool.com (make sure it's 7.03) and use the text file provided in this torrent for the instructions and the serial key. :)"
+,forless22,2013-04-08T03:43Z,"It works,thank you Deceifer"
+,noel_lee,2013-04-08T21:34Z,"thanks man..it doesnt need a green/pink/blue skull to share what we love,so that others too enjoy it."
+,DECEiFER,2013-04-09T02:18Z,"Glad you're all enjoying it!
+
+I've just run a 12-hour test on it. Meaning, I've had SAM Broadcaster with Stereo Tool running as a DSP plugin on the Mixer for about 12 hours and 15 minutes now and there is no sign of Mr. van Zutphen's prerecorded and intrusive ""This sound is processed by Stereo Tool"" message, and I've been at the PC for the last 4 hours solid with headphones on.
+
+The previous upload I had (hence this one being a REPACK) had a crap serial included, which was my own fault and the cause of people having issues. I think this one's a winner! I should have tested before I uploaded the REPACK but I was hoping for quick feedback from you guys once you got your hands on it, also.
+
+Anyways, enjoy!"
+,Summersky,2013-04-09T08:15Z,"Hey, thanks DECEiFER! I'm testing it now and will let you know! "
+,Cosmic_Rocker,2013-04-09T17:18Z,"The app said registered at first at the top but later on did not say it at the top.  Progressive Rock, Classic Rock h_t_t_p_:_/_/_t_h_e_l_e_g_a_c_y_f_m_._t_k (remove the _'s)"
+,DECEiFER,2013-04-09T19:27Z,"@Summersky. Excellent, I'd be most appreciative if you did report back as soon as you know if it works or not. :)
+
+@Cosmic_Rocker. Nice shameless plug! Regarding your concern, what you experienced is normal. Look at the screen-shot I provided in the description, it's from my own copy. The title bar only has the ""Registered to"" bit on it right after you register but that goes away on subsequent launches."
+,Cosmic_Rocker,2013-04-09T21:18Z,"@DECEiFER:
+
+Nice Job and thanks for letting me know about the reg.  My station now sounds like a good 70s AOR station without the harsh CD ringing when I set it to Web Radio Soft Compression and turn down the Stereo Expansion to stop the echo effect.  Way better than SAM Broadcaster's internal AGC settings.  Again thanks."
+,Summersky,2013-04-10T19:07Z,"Hey DECEiFER,
+I'm sad to report that at exactly 11:01MST, the message played... :(
+
+I modified the 'host' file in C:WindowsSystem32driversetc exactly how you specified by running an elevated Notepad and modifying the hosts file. All saved correctly. I've shut down ST and even rebooted the machine running the processing...to no avail. The message still plays. "
+,DECEiFER,2013-04-10T20:56Z,"That's not good, Summersky.
+
+When you run ST, do you get anything above the waveform saying that you're using any features that the program is unregistered for AND/OR a message in the title bar saying ""Unregistered features in use""?
+
+Mine went for about 15 hours without any message being played and I was attending the PC for about 4 hours before the 12-hour mark. I really am stumped that it's not working for you because logically, once everything is done correctly, the program should be completely fooled into thinking it's running a legit serial key.
+
+Anyways, if you could provide details in relation to my question in the first paragraph, maybe you might find something you missed. Else, I'll have to run the 12-hour test again. I don't do a 24-hour station so I'm not always running it for that long but I might test it again just to be sure of my findings, maybe before or during the weekend."
+,DECEiFER,2013-04-10T21:01Z,"Oh, one more thing, Summersky. Are you using the plugin or standalone? Not sure if it makes a difference, but I always use the plugin and I always use it with SAM Broadcaster. If you're using the plugin, is it with Winamp or SAM or...?
+
+Cosmic_Rocker, if you're still around, do you have any feedback in relation to Summersky's problem? Are you getting that annoying prerecorded message, ""This sound is processed by Stereo Tool,"" played back every 12 hours?"
+,Summersky,2013-04-11T03:28Z,"DECEiFER Wrote: ""When you run ST, do you get anything above the waveform saying that you're using any features that the program is unregistered for AND/OR a message in the title bar saying ""Unregistered features in use""?"" 
+
+No. It shows as fully registered which is what is weird. As I stated in the very first comment on the last version you had up. It registers and stays registered and says it's registered, but yet that darn message plays every twelve hours. I even re-installed the program with the source file from ST's website...and yes, it was the correct version.
+
+In regards to which type I use, plugin or full suite? I use both and it's definitely happening on both. The plugin is for the web stream of course and the suite is for processing audio for the terrestrial signal to the audio card that feeds the transmitter. (I'm not a commercial broadcaster. This runs at very low power as a community station)
+
+Just curious....
+
+If for some reason we cannot resolve this, do you have any way you can upload a serial for Breakaway Broadcast? It's not my preferred processing software, but I am familiar with it and the bottom line, I can't keep having those messages go out. It's embarrassing. Unfortunate I do not have the funds for a legit copy. If I did, I'd totally register it. Just that as a poor student, I can't afford that right now. Anyways, thanks for any help you can provide. You've been fantastic so far! :)"
+,DECEiFER,2013-04-11T04:27Z,"Regarding the FM, that was my next question. I don't use any of the FM features on it so maybe the key provided doesn't cover the FM side of things as I believe it's a separate type of license. I feel you on the poor student front, I'm not long out of that game myself. But if it's the FM side of things that's causing the problem then I'm not sure I can do anything to help you. The key I have was obtained from a keygen by Team REPT (which gives some hits and misses - so I provided one key I knew to be a hit). So to test if FM is the issue, you'll need to try turning off every FM-related setting and see if the message stops playing.
+
+I don't use Breakaway Broadcast. Is it any good, how does it compare to Stereo Tool? I could look into it when I get a bit of time tomorrow or Friday.
+
+I'm sorry I can't do anything else for you, at least I can't think of anything at the moment. Let me know if you manage to test without any of the FM settings enabled and how it goes, if so."
+,DECEiFER,2013-04-11T04:41Z,"I just want to stress that although I don't use FM, I do use the Declipper and Advanced Clipper (Loudness), which would ordinarily qualify me for a dose of ""This sound is processed by Stereo Tool"" if not for this crack.
+
+So the plugin just deals with the stream, so maybe just go without the standalone version which handles your FM, and see if you hear any peep out of Hans."
+,Cosmic_Rocker,2013-04-11T05:50Z,I'll have to wait till a day where my wife is not playing games after an 8hr broadcast forcing me to switch to autodj.  I do notice a spike in processor resources after a few minutes assuming Stereo Tool is trying to call home durring that time.
+,Summersky,2013-04-11T06:05Z,"Hey DECEiFER, 
+
+I had already thought of that. Besides, the DSP doesn't use any of the FM features and the message plays out over that. So, not sure. 
+They both run independently from on another as two separate processes. I've tried testing with only running the plugin and using a different processor for the FM. Same result. 
+
+In regards to Breakaway, 
+There are some versions of Breakaway here on TPB, but they are pretty old versions. Wouldn't mind checking out the newer ones to see if it's gotten any better. Breakaway is a much simpler program, but it gets the job done...just not as good as Stereo Tool. :)"
+,Cosmic_Rocker,2013-04-12T01:23Z,As far as a program that is better than the SAM Broadcaster's AGC settings I've used CompWide before and its a FREE DSP plugin.  However not quite as good as Stereo Tool.  Today I used the Phoenix pristine setting and lowered the Stereo Bost to 1.12% which gives a little extra Stereo depth and yet does not over echo especially when you listen to your station in Surround Sound.  2 channel Stereo sounds good.  I still have not had the opportunity to run a 12hr or 24 hr broadcast as of yet but I love this DSP a lot.
+,DECEiFER,2013-04-12T15:39Z,"@Summersky: I can't seem to find any newer versions of Breakaway. Like you, I can only see the older versions floating around the web.
+
+@Cosmic_Rocker: Thanks for the heads-up. Please let us know when you get an opportunity to test and how it goes.
+
+I'll be doing another test today and I'll enable some of the FM features just to shake things up a bit."
+,Cosmic_Rocker,2013-04-12T18:36Z,I have been live for more than 12 hours now. I went to bed and left things running. If any of you love album rock and want to help monitor the station head to h_t_t_p_:_/_/_t_h_e_l_e_g_a_c_y_f_m_._t_k and let me know.
+,DECEiFER,2013-04-12T19:46Z,"I heard the sound. After 4 hours. Since I had FM plus the Advanced Clipper on, the sound is supposed to play every 4 hours instead of 12. I will try again tomorrow without the FM, so it will require the full 12 hours to test it. I won't be awake 12 hours from now so there's no point in doing it today.
+
+I wonder why it does that. What I mean is, it says it's registered, I wonder if it's a failsafe because it can't call home? If so, that would mean that anyone using ST offline would be subjected to the message (for FM only broadcasts, for a commercial example) which would be pretty crap. If not that, then I'm truly out of ideas."
+,Cosmic_Rocker,2013-04-12T21:40Z,Maybe this don't happen when you use the Web Radio broadcasting settings as this is what my station is and I don't need the FM settings.  Does this mean I'd hear it every 12 hours or every 4?  For my RadioLoyalty listeners I could schedule a RadioLoyalty ad to play at the times when you'd hear the Stereo Tool announcement.  But for my Shoutcast/iTunes listeners they'd hear that announcement.
+,Cosmic_Rocker,2013-04-12T23:54Z,"Sad to say that at 5:50PM EST A loud voice came on saying ""This sound is processed by Stereo Tool visit stereotool.com for information"" and it started the the beginning of one of my songs. We need to find an exe patch for this program as this trick obviously does not work."
+,Cosmic_Rocker,2013-04-13T02:04Z,"OK I found your little Keygen but you have to make real words and names.  I did this one its funny but see if it works.
+
+
+
+If your a real Rocker you'll have a laugh at that one lol."
+,Cosmic_Rocker,2013-04-13T02:11Z,"OK so you can't post keys so go to the link and DL the Gen.  h_t_t_p_:_/_/_d_o_w_n_a_r_c_h_i_v_e_._w_s
+
+Now search for Stereo Tool and you'll see it.  Just enter words and don't remove the / and letters after it.  Try PacLovers, TedNugent, BackMutant.  I really don't think it really works for after a while it don't say Registered and this means its not usually.
+
+Hope this helps."
+,Cosmic_Rocker,2013-04-13T02:14Z,"Damn can't post anymore.  I found the KeyGen
+
+h t t p : / / w w w . d o w n a r c h i v e . w s/
+
+Try nurmal words and names.  Don't remove anything after the / in the name but keep the string the same length and see what happens."
+,DECEiFER,2013-04-14T00:14Z,"I'm not seeing any results come up on that website for Stereo Tool, Cosmic. I'm a bit lost on the rest of the stuff you mentioned, perhaps I'm missing something?"
+,DECEiFER,2013-04-14T02:26Z,"If anyone's interested in testing out this keygen, please post back the results.
+
+This keygen comes with a patcher to stop ST from calling home. I'm not sure how this would differ from preventing the same from happening in the hosts file but we should try whatever we can at this point. You can remove the lines from your hosts file, this way you'll know it's working because it won't give any signs of the key being invalid.
+
+I just gave it a whirl and I just went 4 hours with FM and the Advanced Clipper enabled without hearing the message. However, I will do a 12-hour test tomorrow without the FM features enabled. I'll do what I did today, I'll start it first thing in the morning, take note of the time, and set an alarm 5 minutes in advance of the 12 hours and listen carefully from there until a reasonable time has passed after the deadline.
+
+Oh, just in-case, you should (as I have) register using a key from the keygen instead of the one I provided, as it could really be down to that and not just the EXE patching.
+
+If this keygen works out, I'll repack the torrent once again.
+
+
+Here it is:
+http://w_w_w_._s_e_n_d_s_p_a_c_e_._c_o_m/file/6b6am7"
+,DECEiFER,2013-04-14T02:28Z,"Sorry, remember to remove the underscores from the URL for it to work.
+
+Run the keygen, patch the EXE, remove the lines I previously gave you from your hosts file and save it, then register ST using a new key from the keygen.
+
+Please let me know your results! I'll do the same."
+,Paulinator,2013-04-14T04:22Z,"He probado ese keygen y no funciona. Keygen doesn't work. Siempre aparece 4 horas después el mensaje: 'this sound is processed by Stereo Tool..."". No hay Keygen para las versiones 7.xx. Contact to Team REPT (on FB)."
+,Cosmic_Rocker,2013-04-14T09:11Z,Its the same exact keygen I found.  when I uncompressed the keygen it was the same one.  Yes I too get that announcement after 12 hours using web Radio settings.  Sad to say indeed.
+,BagOfMoney,2013-04-14T21:41Z,"I have been looking heavily for this 1.... :)
+I will let you know in 12 hours if the message appears...I was successful with registration and I patched my Hosts file."
+,DECEiFER,2013-04-14T22:51Z,"So the keygen didn't fix the issue, Cosmic?
+
+If not then it looks like the only solution left is for someone in the reverse engineering world to NOP the function call that plays the sound. It's times like this when I wish I had applied myself to computer science and C++, etc."
+,BagOfMoney,2013-04-15T03:24Z,"UPDATE: Well, I went tp update  SAM on the production system, once I got everything back up and running, the registration was gone.
+The only way this may work is if you run it on a dedi that doesn't need reboots or software shutdowns ALL the time.
+
+So, if your system stays UP for months, and months, you're fine. As long as you do NOT close the software, your registraton should be ok.
+
+I hope we get someone to null this and remove the  voice file embedded. Who can help us out???"
+,Cosmic_Rocker,2013-04-15T21:03Z,"The Easiest solution is simply to regress back to Stereo Tool V6.30 as I was forced to do.  Funny thing is that the keygen for V7.xx actually works for 6.30 and STAYS registered when you reboot your SAM Broadcaster.  If its any help I'm using SAM Broadcaster V9.1 (waiting for 2013) but all is well so far it seams.  Have the Stereo settings set to Web Radio Pheonix - Pristine and turned off the Stereo Boost to avoid echo as Prog Rock stations want True Audiophile  sound.  To help I Downloaded Stereo Tool 6.30 from Winamp's site in the plugin section.  Then I went here to get the KeyGen
+
+h_t_t_p_:_/_/_w_w_w_._c_r_a_c_k_._m_s
+
+I'll let you know if it fails.  Good luck."
+,DECEiFER,2013-04-15T21:46Z,"Are you using a cracked SAM Broadcaster, Cosmic (4.9.1)? If not, 2013 is out since December. There's not a lot of difference yet between 2013 and 4.9.x. FLAC support is coming soon along with SAM VIBE integration (free for 2013 subscribers). Really looking forward to it since I am subscribed.
+
+Just an update on ST 7.03. I have done another 4-hour test with FM (pre-emphasis) and Advanced Clipper/Loudness enabled and it was fine, no message. I set my alarm for 5 minutes before the 4 hour mark and listened closely until the deadline past 6 minutes ago.
+
+I registered it using a key from the new keygen using a different name and killed the server check. When I get the time, I'll do the 12-hour test without FM enabled, leaving only the Advanced Clipper/Loudness enabled. For those curious, I use a self-modified version of Bojcha Addiction v11 in the Web Radio presets with Declipper also enabled.
+
+I'll check back in ASAP with the results of my next test."
+,BagOfMoney,2013-04-15T23:55Z,"Hi, how are you killing the server check with the activation? what file is it supposed to search for?
+ST is a DLL file"
+,Cosmic_Rocker,2013-04-16T00:44Z,"To answer ya deceifer my SAM is cracked.  I'm waiting foe r 2013 cuz i have a fixed income.
+
+BTW my 6.30 failed after 12 hrs.  I guess i'll have to drop to 5.something or find another processor.  Too bad i love stereo tool.  May have to deal with the message.  There needs to be a patch."
+,Summersky,2013-04-16T21:45Z,"Sadly I'm going to have to agree with Cosmic_Rocker. I have to find another solution to this. I'm not really willing to go back to versions before 6.30 and frankly, not activating the FM features is not an option for me. I would like to thank DECEiFER for all his hard work and dedication to addressing this issue because he certainly didn't have to, that's for sure. In the mean time, I'll just use the AGC that came with my automation suite, which btw, is NOT SAM. SAM's processing (if you want to call it that) is horrendously bad. I'll just use Breakaway for the FM. It's far from ideal, but I can't have these messages playing loudly over the audio programming I'm running as it's quite tacky to leave it as is. 
+
+Thanks for all the help!!"
+,DECEiFER,2013-04-17T02:51Z,"You're right about SAM's processing, Summersky. I used to use it and I was never fully satisfied. I took a look into DSP plugins one day and there was Stereo Tool. Curious, I gave it a try, and I literally have been using it ever since. Thing is, when I'm  not broadcasting, I'm doing something else on the PC for hours a day whether it be working on websites or some gaming in the evening, and I'll have SAM on without the encoders to pump out the tunes. I only do radio as a hobby and I've never made a dime from it. But I can't just let Stereo Tool go because I've become so attached to the quality of its processing. I used to record music as a hobby, so today I'm an out-of-practice hobbyist sound engineer, but I'm still very picky about how things sound; quality is of the utmost importance.
+
+Tomorrow I'll see about doing that 12-hour test I promised a few days ago. I keep forgetting to start it in the morning and by the time I do remember in the evening, it's too late as I'll be in bed when the message is due to play."
+,BagOfMoney,2013-04-17T20:02Z,"I have been using the KEY that was included in this download and it hasn't expired yet. That is, I have not restarted any software, so everything has been GREAT. No messages, nothing. And it's still registeerd."
+,Cosmic_Rocker,2013-04-17T21:10Z,There must be a boot file in stereo tool that checks reg keys. We need to crach the dll to not play the message or replace the audio file with ultra sonic white noise lasting the exact time.  I love the sound quality. Maybe there is something better than SAM broadcaster. 
+,BagOfMoney,2013-04-17T23:46Z,Unfortunately there is no software that is better than SAM.  Even the FREE ones. they all suck SAM is #1!
+,mdkgr,2013-04-19T09:21Z,"Hi, 
+
+I use Stereo Tool to process my audio through foobar2000. If I use Stereo Tool as a VST plugin, after some minutes, the message will ring. But, if I use the winamp_dsp_bridge.dll, which is the wrapper for winamp, no messages at all. 
+
+And to mention that I am currently running version 7.10, no problems at all, your key running perfectly. 
+
+I don't run the FM stuff and nor have I run the program for 12 hours but I haven't heard a message in quite some time now.
+
+Maybe that helps."
+,Cosmic_Rocker,2013-04-19T17:33Z,"@mdkgr: a lot of us are using SAM Broadcaster to broadcast our Internet Radio stations over the Internet.  Plus when you use the wrapper for Winamp it will NOT work in SAM.  I found a few nice Free audio processors I'd love to try in SAM Broadcaster but because of that damn Winamp Wrapper you can't.  I hate that Winamp has deliberately made it so that their third party plugins will not work on anything else unless you know how to kill the wrapper.
+
+Not only this but I don't use the FM Broadcast part of Stereo Tool as I am a web station.  The message will come up every 12 hours.  Its do able I suppose but I too feel it is a little tacky to have that message pop up on an Album Rock, Progressive Rock station.  most listeners of Progressive Rock don't mind shelling out 7K for a good audio system so they may not understand why any station would be forced to use a FREE crippled version of software.
+
+I'm still using it while waiting for something that sounds as good or close to Stereo Tool.  When Radiodj is finished I may try broadcasting with that on the count they have better audio processing than SAM Broadcaster does without Stereo Tool."
+,mdkgr,2013-04-19T18:13Z,"#Cosmic, 
+
+It's alright. I just thought some might use Stereo Tool for home use, like I do. 
+
+Imho, Stereo Tool is a nice buy. I usually don't buy my software, but if I was going serious I would really go ahead and buy this.
+
+Good luck!"
+,Summersky,2013-04-19T19:42Z,"@BagOfMoney ""Unfortunately there is no software that is better than SAM. Even the FREE ones. they all suck SAM is #1!""
+
+Number 1? No. I used to use SAM until I discovered ProppFrexx OnAir. This is REAL radio software with proper backtiming, scheduling and segue settings. With each track, you can set the gain, cue points, intros, outro and multiple ramp times. You can also tweak the auto segues to ensure a flawless mix on auto every time.
+
+Sure, there's a bit of a learning curve, but once you've played around with it and read the manual, you'll never look back at SAM again.
+
+ProppFrexx, like SAM, is a paid application. But there are great working cracks out there. Trust me BagOfMoney, you'll thank me later. :)"
+,DECEiFER,2013-04-20T00:12Z,"You can set the gain and cue points on individual tracks with SAM. Not sure what version you last used but it's pretty damn decent. I can't compare it to ProppFrexx due to never using it myself so I won't counter-argue with you on which is better nowadays.
+
+The thing about SAM, though, is that not all the features are available to the average user. For things to really heat up, you may need to write or ask (pay) someone to write you some PAL scripts. I personally love scripting. I'm not an expert but I'm decent enough at Lua, PHP, Flash ActionScript 3.0, and I've tried my hand at ASP.NET with VB (mostly website-related stuff). I did also do Java for a little while back in 2003 (I'm well out of practice now). I'm also terrible at JavaScript but I'm picking it up a bit more nowadays as I rely less and less on Flash. So it wasn't so bad for me when I got into PAL scripting in SAM, which is based on Delphi which is again based on Pascal. There are limitations and I'd like to see more callbacks and more tables/arrays with information pertaining to the current dB output so I can do liner overlays and adjust the Aux Deck volume appropriately to the track that's currently playing (some song intros are loud and some are very quiet so it's not a case of one volume fits all). But aside from that, bring it on!"
+,DECEiFER,2013-04-20T00:20Z,"This is a script I wrote to play a liner/stinger, or whatever terminology you use, over the intro to every x amount of songs. It's basic stuff but it gets the job done perfectly well, aside from being unable to dynamically set the Aux Deck volume based on the current dB output.
+
+Feel free to use it, tweak it, mutilate it, or leave it. It might not be for the faint of computers as the execution is locked so that it runs through it swiftly instead of line-by-line when unlocked. It's never done my setup any harm, though. :)
+
+
+PAL.LockExecution();
+PAL.Loop := true;
+
+Aux1.Volume := 160;
+
+// Here we'll check and see if there's a deck playing
+// We'll hang out here until we're set
+while (ActivePlayer = nil) do
+begin
+  PAL.WaitForTime(T['+00:00:01']);
+end;
+
+const LINER_SONG_GAP = 3;
+const ACTIVE_PLAYER_DEFAULT_VOLUME = 255;
+const LINER_VOLUME_DECREASE = 160;
+
+var Liner:TSongInfo = CAT['Liners (Overlay)'].ChooseSong(smRandom, prNoRules);
+var Duration:Float = Int(Liner['duration'] / 1000);
+var i:Integer;
+var Delay:String;
+var PostCommercials:Boolean = false;
+var Played:Boolean = false;
+
+WriteLn('The chosen Liner is: ' + Liner['title']);
+
+// Break down the Liner's length and typecast it into a string
+if (Duration < 0) then Delay := '+00:00:00'
+else if (Duration > 59) then
+begin
+  var Hours:Float = Int(Duration / 3600);
+  var Minutes:Float = Int((Duration mod 3600) / 60);
+  var Seconds:Float = Duration mod 60;
+  Delay := '+' + FloatToStr(Hours) + ':' + FloatToStr(Minutes) + ':' + FloatToStr(Seconds);
+end
+else Delay := '+00:00:' + FloatToStr(Duration);
+
+// We want the Liner to play after a gap of how many songs?
+for i := 1 to LINER_SONG_GAP do
+begin
+  // Let's check if we're currently on commercial break so we can hang tight until it's over
+  while not (ActivePlayer = nil) and not (ActivePlayer.GetSongInfo['songtype'] = 'S') do
+  begin
+    PAL.WaitForPlayCount(1);
+  end;
+
+  WriteLn('Waiting for ' + IntToStr(LINER_SONG_GAP - i + 1) + ' songs to play');
+  PAL.WaitForPlayCount(1);
+end;
+
+// Let's check if we're currently on commercial break so we can flag it and hang tight until it's over
+while not (ActivePlayer = nil) and not (ActivePlayer.GetSongInfo['songtype'] = 'S') do
+begin
+  PostCommercials := true;
+  PAL.WaitForPlayCount(1);
+end;
+
+// If we've just come back from commercials, we don't want the Liner to play just yet
+while (PostCommercials = true) do
+begin
+  PostCommercials := false;
+  PAL.WaitForPlayCount(1);
+end;
+
+// Finally we're ready to play the damn Liner, but only if there is an active player that is playing an actual song
+// We are checking for these conditions yet again to account for playback interruptions, such as chat time
+// Let's lower the active deck's volume while we're here, too
+if not (ActivePlayer = nil) and (ActivePlayer.GetSongInfo['songtype'] = 'S') then
+begin
+  Played := true;
+  Aux1.QueueSong(Liner);
+  ActivePlayer.Volume := LINER_VOLUME_DECREASE;
+  Aux1.Play();
+end;
+
+while (Played = true) do
+begin
+  // Let's hang here until the Liner has finished playing
+  PAL.WaitForTime(T[Delay]);
+
+  // We should also fix up the active deck's volume
+  ActivePlayer.Volume := ACTIVE_PLAYER_DEFAULT_VOLUME;
+  Played := false;
+end;
+
+// And we're done, let's clean house
+Liner.Free();
+PAL.UnlockExecution();"
+,BagOfMoney,2013-04-20T03:40Z,"Well, yeah it's registered but the sounder has played...OK!!!!!!!!!!! Well,. there goes that idea! "
+,BagOfMoney,2013-04-20T03:58Z,"@Summersky, If you could email me this ProppFrexx, I would like to give it a go. Hook a fellow broadcaster up, please: BagzzzOfMoney@gmail.com"
+,Cosmic_Rocker,2013-04-20T17:49Z,"Lunarcaster sounds like it will be a big success and its FREE and looks a lot like SAM as far as how the decks are set up and can use plugins. Just look at it by going to lounatcaster and put a dot and a com at the end of it.  Otherwise I'm waiting for SAM Broadcaster 2013 to be patched and then any little bugs with 4.9.1 will be fixed.
+
+I looked at that other broadcaster you guys mentioned and it looks complicated I mean I just want to set up a big playlist, tell it not to repeat the same artist for 3 hours and not to repeat the same song for 21 days and to be able to play my ID's and maybe the Promo or RadioLoyalty ad once an hour to make me a little money to cover my station costs.  SAM does this but it has its flaws (just a few).  I can also have a show and be able to announce after a few songs the Artist, Song, Album like Album Rock stations in the 70's did and yet be able to run it 24/7.  Its easy to press the mic button in SAM where as other broadcasters lack some of the ease or features yet Lunarcaster when done will do the same and its FREEWARE meaning you don't have to scan for cracks whenever they update."
+,BagOfMoney,2013-04-21T02:11Z,"@Summersky....I found it and the patch that works...great program man. I want to learn  how to program playlists, ets....can you help out?"
+,Summersky,2013-04-24T18:54Z,"Yo BagOfMoney. Sorry for the delayed response. I'm glad you found the patch. I'm also just learning it myself. So much to learn and if you don't know where to look for stuff, it can be tough to find at first. BUT, once you know it, you're super glad you do. :) 
+
+As you may know, I was using SAM from the uploads you have on TPB. (Only version 4.2.2 and 4.9.1 worked well and long-term for me. Had issues with all the rest)
+
+Email me: s.u.m.m.e.r.s.k.y.7.7.@.l.i.v.e..com (without all the dots, of course) I'll send you some screen caps of the settings I'm using.
+
+In regards to free programs, I have learned time and time again....there's usually a reason why they're free. Honestly, I've yet to find a free solution that works well and is actually a full automation, Live-in and streamer/encoder solution all in one package....and if it has all those, then it's stability problems. (Like RadioDJ in Windows NT 6.0 (Vista) and later)
+
+Now...in regards to Stereo Tool, I REALLY hope someone can come up with a patch to get rid of that annoying ""This Sound Is Being Processed By Stereo Tool. Go to stereotool.com for more information"" message. Probably a .dll file somewhere. But which one? I do not know... "
+,Summersky,2013-05-21T18:00Z,"I was REALLY hoping someone would have a solution to the 12 hour message issue by now.
+
+This package works great, however, if you plan on using registered features such as the advanced clipper, you get a message that plays every 12 hours, ""This Sound Is Being Processed by Stereo Tool. Go to stereotool.com for more information"" The message plays despite the modification to the hosts file.
+
+Now, some of you may think once every 12 hours is perfectly tolerable, however, I'm going to hazard to guess that for the majority of users, this can become a huge nuisance. The thing that triggered me to come back here to see if this issue has been resolved is because I did have a listener tell me that it scared the crap out of them when it played....
+
+I just hope that someone out there can figure this one out. I'm no software guru but I know this community has many talented folks out there. 
+
+Let's get this one solved guys because this is truly great software and I think it's totally worth the effort. There has to be something within the software itself that triggers this and after all, if it can be done, it can be undone, right? 
+
+My thinking is, If Adobe Suites can be cracked, this should be a breeze for those who are savvy with this kind of thing. :)"
+,DECEiFER,2013-05-28T03:28Z,"Haha, the Adobe Suite, how easy it is to crack, is quite laughable and I'm shocked that to this day that it remains so easy.
+
+Unfortunately I haven't had any luck here but I'll certainly share anything I come up with. Fingers crossed. Hopefully you'll do the same, as will anyone else reading this."
+,Summersky,2013-05-31T00:15Z,"Hey DECEiFER,
+
+That's fantastic! Could you point me towards an Adobe Suite torrent that is cracked...on EVERY feature...and STAYS cracked without calling home despite telling it not to? Challenge of the day! :) 
+
+Anyways, I look forward to any fixes. I'm still snooping around myself. Also, will there be an updated version of Stereo Tool soon DECEiFER? Or will this crack/SN work? 
+Cheers bud! :D"
+,Cosmic_Rocker,2013-05-31T22:10Z,"I Downloaded Breakaway Broadcast and patched it. It works pretty well but you have to configure the input and output to line 1 and then set it to KS and then go into SAM and set the Soundcard AGC setting  of your mixer to Input Breakaway Pipeline Line one and Output to Breakaway Pipeline Line 1.  Make sure you have the sample rate set to 44.1 and the channel set to 2.  You only need to worry about the Stereo L/R output setting as you'll not use RDS or MPX.  For non Top40 and Rap stations set your preset to Amsterdam and you'll get great sound.
+
+An example station:
+thelegacy_fm_._tk (remove the _s) and wait till the vidio finishes playing as this ad comes up before station plays.
+
+I really hope this helps till you can get a working Stereo Tool."
+,BagOfMoney,2013-06-01T22:31Z,"YOU GUYS DO KNOW THE ADOBE CS2 IS 100% COMPLETELTY FREE NOW? Since it's old and no longer being sold. Here is the official Adobe Link.... http://www.adobe.com/downloads/cs2_downloads/index.html
+
+Also, I went ahead and just purchased ST...it's only $46.58"

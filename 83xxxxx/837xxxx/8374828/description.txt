@@ -1,0 +1,31 @@
+Garmin BlueChart g2 HEU801X - Europe-NW Atlantic-Iberian Pen v14.50 UNLOCKED
+
+Detailed coverage of the Western Coast of Europe from the Canary to the Shetland Islands 
+featuring the Strait of Gibralter, Biscay Bay, Portugal, Spain, Scotland, Ireland, the United Kingdom, 
+the English Channel and its bordering shores of France, Belgium, and the Netherlands. 
+
+Code:
+File:		/Garmin/gmapsupp.img, length 849215488
+Header:   	25.01.2013 08:37:19, DSKIMG, XOR 00, V 14.50, Ms 0
+Mapset:   	HXEU801X-Europe-N/W Atlantic-Iberian Pen. v2013
+fat:		1000h - 1200h - 38000h, block 16384
+maps:		80, sub-files 237
+
+Sub-file         fat     length
+ MARINAS  MDR   1200h     52715
+ MARINAS  SRT   1400h       968
+ F0000078 RGN   1600h   2950266
+ F0000078 LBL   1800h       711
+	CP 1252, Western European
+ F0000078 TRE   1A00h     26100
+	map 110b5c1 (17872321)
+	PID 1, FID 2819, region 18,2
+	date 24.01.2013 14:08:44
+	priority 28, parameters 1 6 29 19, locked, transparent
+	N: 49.269347, S: 43.404365, W: 2.814131, E: 8.403597
+	GARMIN G-Map
+	Copyright 1995-2013 by GARMIN Corporation.
+
+
+
+HOW TO: just copy the Garmin folder to your SD-card

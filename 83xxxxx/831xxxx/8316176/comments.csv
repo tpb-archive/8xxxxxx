@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,future-dada,2013-03-29T22:05Z,dadalinux.wordpress.com
+,future-dada,2013-03-30T12:46Z,"The beginning is slow... I feel It.
+Plant the seed."
+,pfslow,2013-04-06T21:49Z,"This version does not contain the presets. Here is how to fix:
+
+1. Download the latest demo of Ozone 5 Advanced from Izotope and install. (it doesn't matter if you have installed this first but, if you haven't, don't)
+
+2. Open Documents/Izotope. Drag or copy the Ozone 5 folder to your Desktop.
+
+3. Open Library/Application Support/Izotope/ Ozone 5 folder. Find Uninstall iZotope Ozone 5 Advanced. Double-click to run the Uninstaller. It will say that not all folders were removed. This is ok.
+
+4. Run the installer from this download.
+
+5. Find the Ozone 5 folder you previously copied to your Desktop. Put it back into Documents/Izotope. If there is no Izotope Folder in Documents, create a new one first.
+
+6. The presets will now be available.
+
+
+The bad news: This version of Ozone Advanced 5.02 cannot be updated to 5.02B or 5.03 which includes Insight. Replacing the 5.02 components will cause the Demo screen to appear.
+
+I have only tested this in Digital Performer 7, 8 and Logic 9 but it works great.
+
+A similar version of 5.03 would be welcome but this will do for now."
+,shaqueeda,2013-04-08T10:02Z,"WILL THE DEMO POP UP ALWAYS BE THERE ????
+
+THANK U"
+,shaqueeda,2013-04-08T10:18Z,WILL THEY ALWAYS HAVE DEMO ON EACH PLUG-IN ?
+,Leesebastian,2013-06-04T07:31Z,The Demo will only pop up when you forget to un-install the previous Demo Installation first...

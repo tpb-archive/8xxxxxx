@@ -1,0 +1,69 @@
+ http://www.imdb.com/title/tt0199208/
+
+The Day the Universe Changed (subtitled "A Personal View by James Burke") is a British documentary television series written and presented by science historian James Burke, originally broadcast in 1985 by the BBC.
+
+Again, these versions are NOT the Science Channel versions. They are the original ones, as first aired in 1985.
+
+The quality is improved over the set I posted before (8240369) ...
+
+Why? some MVGroup people uploaded yet another version of the originals in mkv format. I figured XviD/AVI is more useful so I converted them. The mkv files had bitrates varying from under 1.5k to over 3k. I randomly chose 2k as a decent bitrate for these files.
+
+Format is XviD, typically:
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : ~800 MiB
+Duration                                 : ~50mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 184 Kbps
+Writing application                      : MEncoder r33883
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L3
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 50mn 4s
+Source duration                          : 50mn 4s
+Bit rate                                 : 1 986 Kbps
+Width                                    : 640 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Original display aspect ratio            : 4:3
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.216
+Stream size                              : 711 MiB (91%)
+Writing library                          : XviD 63
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 49mn 57s
+Bit rate mode                            : Variable
+Bit rate                                 : 185 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 66.0 MiB (8%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.72 video frame)
+Interleave, preload duration             : 205 ms
+
+Enjoy!

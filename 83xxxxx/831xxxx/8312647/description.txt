@@ -1,0 +1,54 @@
+Rodney Lataria (Reynaldo Gianecchini) é um robô que tem um dom para inventar máquinas, que trabalha com seu pai lavando pratos. Sonhando em conhecer seu ídolo, o Grande Soldador, Rodney decide partir em uma viagem rumo a Robópolis. Porém, ao chegar na cidade, ele percebe que sua busca será mais difícil do que imaginava. Logo Rodney se torna amigo dos Enferrujados, um grupo de robôs de rua que sabe se virar e que acaba por abrigá-lo. Tentando encontrar o Grande Soldador e mantendo seu ideal em fazer um mundo melhor, ele enfrenta situações que podem pôr em risco a própria existência de Robópolis.
+
+
+General
+Complete name                  : ROBÔS (2005) - DUBLADO.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 464 MiB
+Duration                       : 1h 23mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 776 Kbps
+Writing application            : Lavf52.93.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Baseline@L3.0
+Format settings, CABAC         : No
+Format settings, ReFrames      : 1 frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1h 23mn
+Bit rate                       : 666 Kbps
+Width                          : 640 pixels
+Height                         : 420 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 30.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.083
+Stream size                    : 398 MiB (86%)
+Writing library                : x264 core 112
+Encoding settings              : cabac=0 / ref=1 / deblock=1:0:0 / analyse=0x1:0x11 / me=dia / subme=5 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=24.0 / qcomp=0.50 / qpmin=10 / qpmax=51 / qpstep=3 / ip_ratio=1.41 / aq=1:1.00
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 1h 23mn
+Bit rate mode                  : Variable
+Bit rate                       : 105 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 63.0 MiB (14%)
+

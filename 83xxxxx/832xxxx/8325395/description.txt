@@ -1,0 +1,37 @@
+This is a small script i made myself, you can use it or modify it to however you want to.  its based on vb, vbs script. basically you can add a playlist with music and you can schedule it to Alarm you or wake you up on a certain time with a snooze.
+
+  
+Programs that come with this while installing 
+VLC media player 
+Playlist Creator 3.6.2
+
+Scrips = vb, vbs, batch, bat
+ 
+
+How to install?
+
+1. Run Alarm.exe and click on install = Setup will extract some files
+2. Setup will ask you if you want to install vlc media player. Click Accept if you donΓÇÖt have if already installed on your computer. = Follow instructions 
+3. A pop up msg will appear. Are you sure you want to add the information in Directory? Click yes if you want to add default settings to create playlist3 for directoryΓÇÖs.  
+4. Done! Start adding playlist 
+
+Important!
+Alarm wonΓÇÖt work if you donΓÇÖt do the following 
+
+1. you must save the .pls file to this directory C:Program FilesAlarmPlaylist
+2. Save file as Playlist.pls 
+3. Go to start, control panel, schedule task, and create a task for this file open.vbs alarm successfully created 
+ 
+
+
+How to use?
+
+Change snooze time: edit snooze.vbs = Change WScript.Sleep 8000 ' To the time you want to set it the snooze for example WScript.Sleep 15000
+
+Change Yes and No question: edit yes_no_snoze.vbs  = change ("Click OK to snooze, Cancel to exit & continue playing", 4, "Alarm clock") To whatever you want!
+
+
+Liking this small vbs script?
+
+
+

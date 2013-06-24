@@ -1,0 +1,42 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 1,04GIB
+Duración                                 : 56min.
+Tasa de bits total                       : 2 632Kbps
+Aplicación de codifición                 : Lavf54.29.104
+Librería de codificación                 : Lavf54.29.104
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 56min.
+Tasa de bits                             : 2 131Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 29,970fps
+Bits/(Pixel*cuadro)                      : 0.077
+Tamaño de pista                          : 865MB (81%)
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+ID Códec                                 : A_AC3
+Duración                                 : 56min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 182MB (17%)
+Default                                  : Si
+Forced                                   : No

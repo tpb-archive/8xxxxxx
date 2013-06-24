@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+[V],bigbluesea,2013-04-07T17:46Z,"The ""Activate from another computer"" part won't accept any number,says ""invalid code""
+
+Am I doing something wrong?"
+,nice_guy75,2013-04-09T03:22Z,"Try to disconnect the internet during the installation and activation, I have also faced the similar problem with the 5551 build but when I disconnected the net during installation and activation it worked."
+[V],bigbluesea,2013-04-09T15:09Z,"@nice_guy75 
+
+I did disconnect from the internet.It just won't accept the any number as per install directions
+
+Thanx :)"
+,asksigma6,2013-04-09T21:33Z,"yep I thought those instructions sounded hokey, ""just put in any numbers?"" didn't say how many or anything... and of course it didn't work, bloody sloppy instructions, go figure..."
+,asksigma6,2013-04-09T22:25Z,"My mistake, I checked Nikitas, same instructions, but I caught a possible mistake. It says to put the crypto file in the Common Files  Acronis folder, and delete the license from the Program Files. I did notice there was no file to replace, :o because I put it in the wrong folder!  And Ching's instructions are more specific about not starting application before rebooting system. The other comments set me the wrong way.  shame on you guys! ;p...  back to installing..."
+,GreyGold,2013-04-09T22:45Z,"As always, works perfectly and well-explained.  Thanks!"
+[V],bigbluesea,2013-04-10T14:59Z,"@asksigma6
+
+Thanx for your observation!
+
+The ""crypto"" file is to be replaced in the ""commons>Home"" folder.I missed that
+
+Working as it should now"
+,patrin0s,2013-04-10T15:13Z,"It works if you follow the instructions
+Key point is you MUST replace libcrypto10.dll.
+If it doesn't let you, like it happened with me, just reboot to safe mode, replace it, then reboot to normal. Continue from then on."
+,skulldragon,2013-04-15T08:48Z,"...or use Unlocker to kill that process and then replace the file.
+
+Yeah, worked fine. No viruses. But I only needed it to create Acronis Media ISO and that worked too.
+
+All hail Ching_Liu!"
+,ybriK,2013-04-28T02:52Z,"*ISSUES WITH COPYING AND PASTING ""libcrypto10.dll""*
+1. Click start
+
+2. Click Run... or type in search box ""msconfig""
+
+3. In the run window type in ""msconfig.msc"" (this is most likely for Windows XP and older)
+
+4. Go to the ""Boot"" tab and under ""Boot options"" check on ""Safe boot - Minimal"".
+
+5. Click OK and restart the system, now you can copy and paste ""libcrypto10""
+
+6. Once finished do Steps 1 and 2 or 3 but this time uncheck ""Safe boot"" and go back to ""General"" tab and click on the ""Normal startup"" radio box."
+,ybriK,2013-04-28T02:53Z,"NOTE IT IS NOT msconfig.msc IT IS msconfig.exe
+
+MY MISTAKE!"
+,darius242,2013-05-01T16:27Z,Can someone please seed?
+,cojon,2013-05-27T03:19Z,"Hi Ching_Liu
+
+I sincerely appreciate your top quality torrents. I have said this before and I will continue to say it. Thank you so much, were it not for people like you and thethingie (two of my favorite people) I would be stuck sitting on my hands all day. 
+
+I am disabled and living on the second worst mistake the USA ever made--Social Security disability.  The first is the governments medical care for profit. Between the two they are causing many of our older folks excessive stress. Did you know the USA is currently ranked 48th in medical care among industrialized nations.  Not bad huh? That places the great USA only two below Cuba, and we will likely never improve! 
+
+This country is not just bad, it's abominable.  I was treated far better in Mexico!  Where I had to run when they provided a disability award of only $530 a month in California for both myself and my wife. It was an error but some ignorant and mentally defective puerile with the attitude of a dull goose refused to consider that she had the wrong person, and stuck us with 28 years of absolute ruin.  She was too proud to admit a mistake. Her power position offered only  inaccuracy and hostility. 
+
+Shoulda stayed in the land of sombreros, amigo. . .           "
+,mr_brand,2013-05-30T18:17Z,"Thanks a lot for this Ching_Liu...already a fan of yours mate!!!
+
+Ta."
+,ForFun00,2013-06-01T19:27Z,Thanks a lot. Works great!

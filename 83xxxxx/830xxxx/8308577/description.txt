@@ -1,0 +1,56 @@
+VariCAD 2013
+
+VariCAD - 3D / 2D CAD software for mechanical engineering
+
+VariCAD is compact, fast, easy to use, and provides everything necessary for mechanical design. VariCAD is sold "fully loaded", including all features and functions, for one affordable price. The system contains:
+
+3D Modeling
+2D Drawing and Editing
+Optional Support of Parameters
+Optional Support of Geometrical Constraints
+Shells Modeling, Pipelines, Wires
+Crash Tests (Interferences)
+3D Assemblies and Groups
+Surface Development (Sheet Metal Unbending)
+Mechanical Part Libraries and Symbol Libraries
+Calculations of 3D Objects or 2D Sections
+BOM and Title Blocks
+
+Changes:
+
+(VariCAD 2013-2.01- March 22, 2013)
+
+More information:
+
+Support of multi-level assemblies
+You can define a sub-assembly created from multiple objects. It is similar as a definition of single part. The sub-assembly can be further inserted into assemblies, where it behaves as a single object. A sub-assembly itself can contain also inserted parts or other sub-assemblies, so you can create a complex structure of mechanical design.
+
+Support of relative paths in assembly ΓÇô sub-assembly ΓÇô part links
+Optionally, it is possible to use relative paths. This allows you to maintain situation, where various computers have access to server, and the access is mapped differently. Or, if some computers work under Windows and some computers work under Linux. All users can now access common data at server without problems. Another advantage may be in exchanging of files between different users - if these files are only copied as directory structures.
+
+Changes in BOM, allowing you to select various possibilities of data processing, if 3D contains multi-level assembly
+If 3D contains sub-assemblies, a BOM can be created by various methods. You can select whether to create a BOM from highest level only (as it was previously), or if to process complete structure of all levels of inserted parts and sub-assemblies. If a BOM is created at one single level, you can select creation from highest level only or from all parts from all levels. Then, you can obtain complete list of all parts necessary for completion of the highest assembly.
+
+Changes in definition and maintenance of solid attributes, if 3D contains multi-level assembly
+Changes in geometrical constraints in 3D, especially more legible listing of removed degrees of freedom (fixed movements or rotations along or around axes)
+Now, behavior of geometrical constraints is simpler. All constraints remove degrees of freedom (fix movement along or rotation around axes). This information is legible listed in tables, or in constraint panel. Before removing some constraint related to fixed axis, you are acknowledged. Also, you can see a complete list of possible collisions between new and existing constraints, if you create a colliding constraint. This prevents possibility of unexpected behavior later.
+
+Further improvements in STEP input
+Minor changes in DWG/DXF input
+Minor changes in 3D kernel
+
+System Requirements:
+
+Microsoft Windows XP, Windows Vista, Windows 7 and Windows 8. 
+
+Homepage: http://www.varicad.com/
+
+Installation Instructions:
+
+- Install program.
+- Register application with given name/key.
+- Done, Enjoy.
+
+Have A Nice Day
+
+Note: Uploader is only responsible if any problem in torrent, never responsible for software functionality problems.

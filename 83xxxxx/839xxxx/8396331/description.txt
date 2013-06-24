@@ -1,0 +1,62 @@
+ http://desibbrg.org/images/66952052392581364616.gif 
+http://desibbrg.org/images/75314883858598445555.jpg 
+http://desibbrg.org/images/70748703018322273621.jpg 
+http://desibbrg.org/images/36626201264185806545.jpg 
+http://desibbrg.org/images/56275347831991052560.jpg
+
+Media Info - 
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 19mn
+Bit rate : 2 422 Kbps
+Width : 1 280 pixels
+Height : 544 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 24.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.145
+Stream size : 2.31 GiB (84%)
+Writing library : x264 core 120 r2120 0c7dab9
+Language : English
+Default : Yes
+Forced : No
+Color primaries : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics : BT.709-5, BT.1361
+Matrix coefficients : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Muxing mode : Header stripping
+Codec ID : A_AC3
+Duration : 2h 19mn
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 383 MiB (14%)
+Language : Hindi
+Default : Yes
+Forced : No
+
+Ripper : NhaNc3
+
+Seeding 24x7... Extreme Seeding...
+
+
+Enjoy!

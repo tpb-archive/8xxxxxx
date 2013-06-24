@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,Chaoticdeath,2013-03-27T20:58Z,after a few days use come back and give some feedback plz :)
+[V],LegendaryAxeman,2013-05-05T23:04Z,"I narrowed it down to the ones which still exist, 
+resolved their IP addresses to weed out duplicates 
+and grouped them to prevent wasting queries:"
+[V],LegendaryAxeman,2013-05-05T23:05Z,"udp://178.239.54.153:3310
+udp://178.239.54.160:3310
+
+udp://31.172.124.2:80
+udp://31.172.124.2:6969
+
+udp://31.172.124.28:80
+udp://31.172.124.28:6969
+
+udp://31.172.124.3:80
+udp://31.172.124.3:6969
+
+udp://192.121.121.30:80
+udp://192.121.121.30:6969"
+[V],LegendaryAxeman,2013-05-05T23:15Z,"If those don't work you can add these but go easy on them 
+because they are small and usually overloaded:
+
+udp://208.83.20.164:80
+
+udp://91.121.150.186:6969
+
+udp://121.14.98.151:9090
+
+http://87.248.186.252:8080/announce
+http://87.248.186.252:6969/announce
+
+Always remember to immediately remove trackers 
+which cannot help you because they already have 
+a heavy workload, even the big ones in the first group.
+
+(I hope this gets through. The comments 
+system appears to be broken again,)"
+[V],LegendaryAxeman,2013-05-05T23:57Z,"Here's another one.  
+It looks good for the first of those two lists:
+
+udp://109.235.54.214:6969"
+,Chaoticdeath,2013-05-29T09:46Z,thanks LegendaryAxeman! :D i will be adding those and making a more up to date tracker list soon!

@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-26T02:01Z,"Testing screens from x86 ver but x64 was tested as well:
+
+00-No-Win-Updates
+http://bayimg.com/EaLbBaAeA
+
+01-WinLoader
+http://bayimg.com/eAlBCaaea
+
+02-Additions
+http://bayimg.com/EalBDAaea
+
+03-Genuine
+http://bayimg.com/eaLBgaaEA
+
+04-OEMLoader
+http://bayimg.com/EaLBhaaeA
+
+05-OEMLoader-Backgrounds
+http://bayimg.com/EalBiAaea"
+,krlsgye,2013-03-26T03:49Z,hi can you upload in spanish please!!!
+[V],murphy78,2013-03-26T04:36Z,Nope sorry. Spanish just isn't popular enough to sustain the torrent.
+,krlsgye,2013-03-26T05:22Z,:( ok sorry i understand
+,mrthuvi,2013-03-26T05:35Z,"Thanks you, murphy."
+,TheBrenton,2013-03-26T06:04Z,"Hi murphy
+i think you already  knew there is an big update like Service Pack Called Windows Blue is Leaked for Windows 8 - will you make an updated win 8 include that leaked update before it's officially released?"
+[V],murphy78,2013-03-26T08:43Z,"It depends thebrenton. If it is something that can be slipstreamed without half-assing it, then yah probably; as long as it's an official.
+
+Back when Windows 7 SP1 first came out, a lot of people did a lot of sub-standard SP1 integration. They un-cabbed, modified a bunch of different files, re-cabbed, etc...
+
+It was horrible. I even did it to satisfy my curiosity. It wasn't right. If MS wants these things to be integrated, they will release them in a form that doesn't require modification to slipstream.
+
+That being said, these days it's a lot easier to get the latest MSDN isos because a lot of people can share magnet links."
+,anarchist9027,2013-03-26T14:28Z,"Just what the doctor ordered ;)
+
+Thanks again Murphy"
+,vochinguyen,2013-03-31T05:44Z,@ Murphy78: Please check the MD5 Checksum.I downloaded the test is: 8b8f7733f4da91783ddb3737f2572fe9
+,vochinguyen,2013-03-31T05:44Z,@ Murphy78: Please check the MD5 Checksum. I downloaded the test is: 8b8f7733f4da91783ddb3737f2572fe9
+[V],murphy78,2013-04-04T10:45Z,"You might be using a different md5 checker.
+md5 is a uni-directional hash that can be used to check either the contents of a single file, or a whole directory, or anything else you can think of.
+
+You are probably using the whole-directory thing, which is not what I posted.. I posted the hashes for the single iso file."
+,vochinguyen,2013-04-05T13:59Z,Thank you very much Murphy78. I've used FFSJ 3.3 MD5 checksum test is then: BD2ADF21 - F31A306C - CF0901E0 - 66BD30D0 MD5 checksum matches yours. MD5 Checksum Verifier 4.71 has the wrong test.
+,mushfik3650,2013-04-08T15:57Z,I am operating a computer shop.every day i have to install win7 to clients computer more than 15+ times.I am using this win 7 iso to install windows 7 in clients computer. i have tried all of the version & patch to install win 7 using this iso.But the problem is this iso does not support auto update.  Every day i am trying to update my windows but it fails.i think you have removed windows auto update  feature.how can fix it??
+[V],murphy78,2013-04-08T22:55Z,I have most certainly not changed anything with windows update. If you are using an unattended file you need to know that it also changes windows update settings. Stop using an unattend.xml or autounattend.xml
+,POPiO,2013-04-19T10:30Z,"what is the meaning of Winloader and OEMloader, i've just download the torrent, I don't know what it means.. can u please help me.. thank u so much.."
+,msasanmh,2013-04-22T17:18Z,The Best Thanks to you murphy78
+,msasanmh,2013-04-22T17:31Z,The Best Thanks to You murphy78

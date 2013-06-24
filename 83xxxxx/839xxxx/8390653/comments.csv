@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,toddy_adt,2013-04-20T01:22Z,"whatsnew
+
+SINGLE-PLAYER
+ -Added support for DLC “The Tyranny of King Washington: The Redemption.”
+ -Guards will no longer be equipped with Washington’s sword.
+ -”Tyranny of King Washington” intro videos now pause if controller is unplugged.
+ -Fixed incorrectly displayed stealth icon sometimes appearing when leaving Wolf Cloak.
+ -Increased Wolf Pack effectiveness versus firing lines.
+ -Wolf Pack no longer interrupts counter-kills.
+ -Eagle Flight will no longer generate reactions when taking-off/landing in “The Betrayal.”
+ -Fixed remaining known issues (lockpicking, Memory Fragments, locked items) in “The Betrayal.”
+
+
+MULTIPLAYER
+ABILITIES
+ -Boost Cooldown now works as intended.
+
+MODE SPECIFIC
+ -The Artifact is no longer reset to its base while carried by a player under certain circumstances.
+
+PC SPECIFIC
+ -Anti-cheating measures against specific techniques have been put into place.
+ -Issues that could lead the Abstergo Store to become unavailable have been fixed."
+,backstreet,2013-04-27T09:42Z,"Welcome, if anyone can help?The most recent update v1.05 the problem was with me(not earlier updates),here's the problem:Error while patching file multiDataPC.forge.Incorrect source file. An error occured during updating multidataPC.forge.Sorry for my english,please help.Thank you!"

@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,maclos,2013-04-21T21:58Z,Over 50 MB smaller than others found on tpb=faster download.
+,kirunoku,2013-04-22T03:25Z,"""Unfortunately, FL Studio has stopped working.""
+
+I receive this message when trying to run fl studio after installing. put the files in the correct place, installed the .apk, but does not work."
+,kirunoku,2013-04-22T03:26Z,"I'm on a Transformer TF700T with android 4.2 btw, may be version specific"
+,Djdennistm,2013-04-22T10:47Z,"U must have modded playstore 
+heres the link
+http://thepiratebay.sx/torrent/8077852/Google_Play_Store_v3.10.10_modded_by_ChelpuS_Installer_v1.0.7_An
+
+after that u have installed modded playstore start Fl Studio and here you go. It can´t download resources but it starts and u can make songs."
+,ibanz0r,2013-04-26T02:18Z,doesnt work!
+,fenderjoe,2013-04-27T20:09Z,Useless
+,maclos,2013-04-28T23:06Z,"This torrent is NOT useless. You guys are doing something wrong more than likely. I've redowloaded it and installed it on my htc thunderbolt. I sure u'll have to check ur phones hardware and capabilites. Thats probably the problem. So Google minimum system requirements to run this app. I would but why? This is free here. If u can dl it, then u can google ur phones hardware and compare that to minimum requirements. Come on ppl. All apps wont run on all phones and devices. "
+,maclos,2013-04-28T23:10Z,"You have to be ROOTED to make the folder named obb inside your data folder. So use root explorer or another app like es file manager, give them root or superuser access. Navigate to /data/obb/ and place sdcard files inside obb folder. OMG do i have to hold your hand and walk you thru this? Its pretty straight forword and easy to accomplish."
+,maclos,2013-05-15T19:57Z,"OMFG folks! Let me hold your hand and walk you thru the installation. SMH.
+
+1. Extract the 7z file with 7zip/winrar,(on pc) or B1 archiver (on android). 
+2. On android phone- make a folder called Android(it may already be there) on sdcards root (ie. mnt/sdcard/Android. Make sure the 'a' is capital.
+3. Make a new folder called obb (all lowercase) inside Android folder.
+4. Move or copy and paste the 'com.imageline.FLM' folder to the obb folder.(inside the 'com.imageline.FLM' folder should be 'main.11.com.imageline.FLM.obb.
+5. Install the FL Studio Mobile apk file.
+6. Run the app.
+7. Stop saying my torrent is no good.
+8. Make music
+9. Profit"

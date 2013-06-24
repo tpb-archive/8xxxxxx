@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,JABBeatz,2013-03-30T08:21Z,"So I followed @akun91's instructions to a T and I still had an error. Installers worked perfect from both the Waves offline downloader and this crack, and the plugins showed up in my DAW(FL Studio) but there were multiples of each one in 32bit and 64bit. I then tried to open them and got an error saying that I was missing the file; ""WavesLib_9.1_Win32dll"" and it told me to reinstall the program and try again which I did twice. ***I previously had Waves Diamond v5.2 and removed all contents from my PC & DAW and tried to reinstall this new one once again and I still got the same error, so obviously that had nothing to do with the problem and didn't create a conflict*** !!!Please help!!! "
+,waves_user,2013-03-30T14:52Z,"@JABBeatz
+Did you clean the registry and delete ALL files and folders involving Waves and old bundle installs, make sure you run through and delete every file before re-installing this bundle? Try the Shellvst2 32/64-bit app included in this torrent to generate the plug-ins separately (it only supports vst2) go to the Waves folder/Waveshells and drap and drop the Waveshell vst2(32 or 64-bit doesnt matter which) onto the shellvst2 app and it will generate a Waves folder in that location and inside is the 400+ plug-ins, move that folder to your default vst plug-ins folder so FL can see them and re-scan your plug-ins. You should now see all of Waves stuff.."
+,waves_user,2013-03-30T14:53Z,"@JABBeatz
+.. In FL I always had problems with the waveshells crashing and giving me errors.. Similar issues happened with Mac versions where previous bundles where installed but not un-installed completely and that caused problems, it would ask you to locate old waveshells or say its missing files. Did a search for the WavesLib file and it should show up in Program Files (x86)/Waves/Plug-Ins see if any of this helps."
+,JABBeatz,2013-04-06T11:14Z,"@waves_user I realized that FL needed the waveshell to run the plugins and it works like a charm now no crashes errors or anything, thank you so much for this crack man much respect. "
+,dilip666,2013-04-17T10:57Z,Any special instructions while installing on Pro Tools 10.3.4 ? 
+,waves_user,2013-04-19T08:39Z,"@dilip666
+
+Not really. Uninstall old versions, clean ALL waves files/folders, run exe then crack. All good. If you got install problems let us know "
+,Tommy Campbell,2013-04-28T02:31Z,"I follow the instructions to a tee, and everytime I drag the shell to the shellvst tool I get the ""failed to create plugin"" error message.  Sonar sees the plug-ins but they're not useable.  
+
+Any ideas?  Thanks."
+,waves_user,2013-04-28T21:22Z,"@Tommy Campbell
+
+Be sure to install the exe and then the crack. If Sonar does not accept wavesshell then create separate plugins with the vst tool. After you run the crack look for the waveshells in the waves folder. Chances are you are using the wrong waveshell or wrong 32/64 bit version of the app with waveshell. See if that helps."
+,waves_user,2013-04-29T10:18Z,"Waves v9r11 just released
+
+http://thepiratebay.sx/torrent/8422131/Waves_v9r11_Team_R2R_For_Windows"
+,Tommy Campbell,2013-05-02T01:47Z,"@waves_user:
+
+Still nothing.  I've cleaned the registry, uninstalled sonar and waves, reinstalled waves per the instructions.  The VST tool keeps giving me the same ""Failed to create plugin"" message, no matter what I do.  I'm pulling the few hairs I have left out.
+"

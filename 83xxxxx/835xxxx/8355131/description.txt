@@ -1,0 +1,73 @@
+(Re-up since for some reason subs weren't seeding)
+
+The full Star Wars dual trilogy that fits on a single layer mini DVD. 
+
+That's right- A New Hope (1997), Empire Strikes Back (1980), Return of the Jedi, The Phantom Menace (1999), Attack of the Clones (2002) and Revenge of the Sith (2005) all contained within 1.16 GBs of compact goodness. But don't let the file size fool you, the format is perfectly watchable and comparable to Youtube 360p.
+
+
+Welcome to the Recapstore.
+
+
+(Wikipedia) Star Wars is an American epic space opera franchise that consists of a film series created by George Lucas.
+
+The first film in the series was originally released on May 25, 1977, under the title Star Wars, by 20th Century Fox, and became a worldwide pop culture phenomenon, followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film released on May 19, 2005. Reactions to the original trilogy were mostly positive, with the last film being considered the weakest, while the prequel trilogy received a more mixed reaction, with most of the praise being for the final movie, according to most review aggregator websites. Some of the films in the series were also nominated for or won Academy Awards. A sequel trilogy was rumoured at one time but never materialised.
+
+.srt Subtitles included for the original trilogy. Enjoy and Please seed to at least a 1.5 ratio!
+
+Also please bear with us as initial seeding may be a little slow
+
+Sample mediainfo from The Empire Strikes Back:
+
+
+General
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 176 MiB
+Duration                                 : 2h 7mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 194 Kbps
+Encoded date                             : UTC 2012-10-10 15:32:08
+Tagged date                              : UTC 2012-10-10 16:51:46
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L2.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 15 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 7mn
+Bit rate mode                            : Variable
+Bit rate                                 : 124 Kbps
+Width                                    : 352 pixels
+Height                                   : 144 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 5.994 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.102
+Stream size                              : 113 MiB (64%)
+Writing library                          : x264 core 120
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 7mn
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 209ms
+Stream size                              : 58.4 MiB (33%)

@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+[V],murphy78,2013-03-30T04:08Z,"CODYQX4 has been working on improving the Office 2013, pre-conversion in this release. If you are wondering if you can activate your particular version of Office, try extracting the ISO to a directory, loading Office Toolkit, and customizing setup. It can do things like converting retail to VL, run the /admin customization option, change languages, etc."
+,osxp,2013-03-30T04:19Z,"Thanx,murphy...keep it up."
+,TheBrenton,2013-03-30T05:39Z,"Thanks
+Finally I'm able to change my RETAIL version to VOLUME and activate my office 2013
+thanks @CODYQX4 for getting this tools together
+and thanks @murphy78 for making a torrent for it
+it works fine!"
+[V],murphy78,2013-03-30T07:45Z,"It occurs to me that XP may or may not be able to set up services. If that is the case, try other activation options for Office.  You could attempt to simply activate manually using the Activate button.  If you cannot get anything to work correctly, please post on the forum, but read through the last few pages to make sure it hasn't already been reported.
+
+A good way of reporting a problem is to kind-of put things in a format that helps people problem-solve it, such as:
+
+Using Ver 2.4.2
+Using OS Windows 7 Enterprise SP1 x86
+Have never used another activation tool.
+
+Description: Trying to activate using AutoKMS, but it gives me this error (0xC00040404)
+ETC... Try posting any relevant error information such as an error log with copy/pasting.
+
+They get a lot of people saying ""This doesn't work for me"" but then don't mention anything about their system, what they're trying to activate, or how they are trying to do it. They don't post any log information or error codes.
+
+Sadly, simply mentioning something doesn't work, will not help anyone. You have to give more detail.
+
+Anyway, good luck out there activators.
+Thanks again CODYQX4,
+Love your work bud."
+,w4r3zh4ck,2013-03-30T17:02Z,"@Nexusxxx
+For Office activation use this
+For Windows 8 use KMSPico
+For windows 7/Vista use Windows Loader"
+,BondClint,2013-03-30T17:34Z,"Thanks for your uploads, they work, clean.
+
+I really appreciate that you upload Windows untouched.
+
+Regarding this upload, can I installed Windows 8 PRO WMC, from your AIO untouched ISO of Windows 8. You included a gvlk script, do I run that first and crack windows 8 with this?
+
+If yes, I have to unblock processes with Windows defender? Which are these?
+
+Thanks."
+[V],murphy78,2013-03-30T18:22Z,"nexus, kmspico is based on this. After CODY's breathtrough in 2.4 final, where VM were no longer needed to self-activate, kmspico pretty much was not necessary. You can still use kmspico if you want. It will do extra unnecessary things like install product keys, convert post-install office versions, etc.  It also makes an attempt, depending on the version, to hide itself from VM scrutiny using file randomization.
+
+All of that extra stuff, however, adds to your activation times. If you activate daily, as pico started doing, then an extra 8-12 seconds every boot is more of a nuisance than a help.
+
+With AutoKMS it has to load a few .NET files to self-activate, but is still very fast. Even with boot-time loading, the entire program takes maybe a couple seconds, tops.
+
+With KMS Server Service, you can set it up to run all the time, but since the file is so incredibly tiny, you will never notice any performance hit and the activation time; since it uses Windows' own built-in activation methods is extremely unnoticeable.  It is by far the best activation option if you set it up correctly. It is virtually indistinguishable from retail activation in terms of processing times and activation network traffic.  A lot of people don't know this, but Windows 8 has built-in re-verification of all permanent activation methods. It phones home; daily.  If you don't believe me, try loading up a permanent Windows 8 activation and load eventvwr.msc. You can check the logs and you will see the SPP communicating with the activation server when it detects that you are online. Daz, the guy who made Windows Loader, brought this up in the tools v3 thread on MDL, and I've since confirmed it with my own personal ProWMC activation.  It may only be a matter of time before people with invalid permanent activation log on to a black screen o' non-genuineness. If you have experience with Windows 7 KMS activators, you know exactly what I'm talking about.
+
+BTW, set up KSS to use RandomKMSPID instead of DefaultKMSPID for Windows 7. CODYQX4 forgot to change the defaults. You can do this in the settings menu in options. For KSS, make sure to change it in the KMS Server Service tab and hit save after installing."
+[V],murphy78,2013-03-30T18:23Z,"meant A/V scrutiny on the pico comment, not VM scrutiny... *sigh*"
+[V],murphy78,2013-03-30T18:32Z,"Regarding ProWMC. The gVLK script I made simply installs the gVLK product key needed by KMS activation. You can install them by running admin command prompt and entering the commands yourself if you wish. The general format is:
+SLMGR /IPK XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+
+Some useful gVLK you can install are:
+FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 (Win7Pro)
+MRPKT-YTG23-K7D7T-X2JMM-QY7MG (Win7ProN)
+BN3D2-R7TKB-3YPBD-8DRP2-27GG4 (Win8Core)
+8N2M2-HWPGY-7PGT9-HGDD8-GVGGY (Win8CoreN)
+NG4HW-VH26C-733KW-K6F98-J8CK4 (Win8Pro)
+XCVCF-2NXM9-723PB-MHCB7-2RYQQ (Win8ProN)
+GNBB8-YVD74-QJHX6-27H4K-8QHDG (Win8ProWMC)
+
+Note that Win8Core/N/ProWMC only activate 30 days at a time with gVLK KMS activation, so you need to set renewal period for KMS Server Service some time before that. Really, simply leaving it at the 7day/2hr-Retry default settings will be fine for most everybody. I doubt anyone would even notice when it activates with KSS, it's that smooth and fast."
+[V],murphy78,2013-03-31T05:11Z,Indeed my friend... new version is upped. You guys can click my name and find it.

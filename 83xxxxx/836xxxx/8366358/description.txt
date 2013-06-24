@@ -1,0 +1,30 @@
+Release year: 2013
+Genre: Action Strategy
+Developer: Zero Sum Games
+Publisher: Zero Sum Games
+Platform: PC
+Version: 1.02B
+Publication Type: Informal
+Language: English
+Sound language: English
+Medicine: Present
+
+System requirements:
+minimum requirements
+OS: Windows XP Service Pack 3
+CPU: Intel Pentium 4 2.4GHz or AMD Sempron 3500 +
+RAM: 2GB System Memory
+GPU: Nvidia GeForce 8800 GS or ATI Radeon HD X1900 XTX
+DX: Direct x 9
+HDD: 2 GB Free Hard Drive Space
+optimal requirements
+OS: Windows 7 64bit
+CPU: Intel Core 2 Duo E4600 2.4GHz or AMD Athlon X2 4800 +
+RAM: 4GB System Memory
+GPU: Nvidia GeForce 8800 GS or Radeon X1900 XTX or higher
+DX: Direct x 11
+
+installation:
+
+click Setup
+If the crash occurs after installation, then swing Microsoft XNA Framework Redistributable 3.1

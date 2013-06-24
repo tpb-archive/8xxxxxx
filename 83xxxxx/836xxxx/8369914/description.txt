@@ -1,0 +1,9 @@
+This particular hack was performed by XDA Senior Member theos0o
+
+If you plan to do this, please be warned that you are taking the risk and could potentially break something, which would be entirely your fault. If youΓÇÖre okay with that, the instructions are as follows:
+
+    UninstallMessenger andHome if you already have them. Ifis pre-installed on your device, you may need root access to remove it.
+    Download the modifiedHome and optionallyMessenger. Extract the .rar file.
+    Install the officialappthen theHome launcherand then theMessenger app
+    EnableHome under theapp settings. Reboot your device.
+    If you face any issues, reboot into recovery and wipe the Dalvik cache.

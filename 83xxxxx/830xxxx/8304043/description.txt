@@ -1,0 +1,70 @@
+W     W DDD           b    l     Y   Y          W     W
+W  W  W D  D ooo u  u bbb  l eee   Y   ooo u  u W  W  W
+ W W W  D  D o o u  u b  b l e e   Y   o o u  u  W W W 
+  W W   DDD  ooo  uuu bbb  l ee    Y   ooo  uuu   W W  
+
+Release Name: Skyrim.updated.to.1.9.32.0.with.Dawnguard.Hearthfire.Dragonborn
+Release Type: Game
+Game: The Elder Scrolls V Skyrim
+Version: 1.9.32.0.8 (RELOADED update 13)
+Language: English
+DLCs included: Dawnguard, Hearthfire, and Dragonborn
+
+System Requirements:
+	RECOMMENDED SPECS
+	Windows 7/Vista/XP PC (32 or 64 bit)
+	Processor: Quad-core Intel or AMD CPU
+	4GB System RAM
+	9GB free HDD space
+	DirectX 9.0c compatible NVIDIA or AMD ATI video card with 1GB of RAM (Nvidia GeForce GTX 260 or higher; ATI Radeon 4890 or higher).
+	DirectX compatible sound card
+
+	MINIMUM SPECS
+	Windows 7/Vista/XP PC (32 or 64 bit)
+	Processor: Dual Core 2.0GHz or equivalent processor
+	2GB System RAM
+	9GB free HDD Space
+	Direct X 9.0c compliant video card with 512 MB of RAM
+	DirectX compatible sound card
+
+How to install:
+1. Mount or burn SKYRIM_EN_WWW.iso (this will require a dual-layer dvd if you choose to burn it)
+2. Install
+3. If you're not sure if your DirectX is updated to the latest version, there is an option to install it before you finish.
+4. When you run SkyrimLauncher, it will say Install at the top. Click Install. Launcher will then detect your system and apply an appropriate graphics setting.
+5. Enjoy!
+
+Release notes:
+This was created using Razor1911 install DVD, RELOADED's update 13 (equivalent to runtime 1.9.32.0.8), and the official DLCs from Bethesda. It includes the latest DirectX redistributable runtime and Microsoft Visual C++ 2010 x86 redistributable runtime required to run Skyrim.
+
+FAQs
+Q: Is this the full game?
+A: Yes
+
+Q: Do I need anything else to play Skyrim?
+A: No
+
+Q: Is this up to date?
+A: It is currently updated to version 1.9.32.0.8 (RELOADED update 13). To see if a newer version is available, check http://uesp.net/wiki/skyrim:patch
+
+Q: Does this include the High Resolution Texture Pack?
+A: No. Get it from https://thepiratebay.se/torrent/8114627
+
+Q: Which steam_api.dll did you use?
+A: RELOADED's steam_api.dll from update 11 (12 kb)
+
+Q: There is nothing in DATA
+A: Your registry has a problem, probably from a previous installation of Skyrim. Go to HKEY_LOCAL_MACHINESOFTWAREBethesda SoftworksSkyrim (HKEY_LOCAL_MACHINESOFTWAREWow6432NodeBethesda SoftworksSkyrim if you're on a x64 machine) and make sure the Installed Path is set to the correct directory and that there is only one entry for Installed Path.
+
+Q: Is this version moddable?
+A: Yes. The only thing different from the retail Steam game is three files: SkyrimLauncher.exe, TESV.exe, and steam_api.dll. These have been patched to play without interference from Steam. Treat this like you bought it.
+
+Q: Will you marry me?
+A: No
+
+Credits:
+Bethesda Game Studios for the game
+Razor1911 for the initial release and crack
+RELOADED for the updates and crack
+
+If you enjoy the game, BUY it. Support game developers!

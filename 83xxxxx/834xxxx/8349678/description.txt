@@ -1,0 +1,31 @@
+This is a Video Driver for Intel Video Cards particularly series 4 45 and many more.  Intel abandoned support for Win8, and third parties have written drivers.  After a marco polo like search on the fucken internet.  This one works with BlueStacks, in-turn works for us!
+
+
+Source:  
+http://teknogods.com/phpbb/viewforum.php?f=47
+
+Check there for updates.  Thanks to sniper bna, your on the map kid..
+
+
+
+Installation
+------------
+
+Run cmd.exe as administrator, by WIN+F, select apps, type cmd.exe, right click on the found result icon cmd.exe, select run as administrator in the bottom popup bar.  YOU HAVE TO DO THIS EVEN IF YOU ARE A LOCAL ADMIN USER
+
+type the following two commands, line by line.
+bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING ON
+
+reboot and install BNA by unzipping the file provided in this torrent and running RBNADSetup.exe. After install, reboot, run ADMIN command prompt again and enter
+
+bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING OFF
+
+
+
+I CONFIRMED this works personally.
+
+
+Enjoy!
+-JS		

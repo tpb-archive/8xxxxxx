@@ -1,0 +1,206 @@
+﻿Filename,Size,Unit
+0. Introduction/1. Welcome.mov,13.18,M
+0. Introduction/2. Using the Exercise Files.mov,641.61,K
+0. Introduction/3. Downloading Blender.mov,1.63,M
+0. Introduction/4. Using Blender on a Mac.mov,1.14,M
+0. Introduction/5. Using Blender on a Laptop.mov,1.13,M
+1. The Blender Interface/1. Overview of the Blender Interface.mov,10.14,M
+1. The Blender Interface/2. Understanding 3D View Windows.mov,10.93,M
+1. The Blender Interface/3. Navigating in 3D Space.mov,16.13,M
+1. The Blender Interface/4. Configuring User Preferences.mov,13.59,M
+1. The Blender Interface/5. Creating Custom Layouts.mov,11.65,M
+10. Basic Animation/1. Understanding the Timeline.mov,7.81,M
+10. Basic Animation/2. Animating Objects.mov,13.04,M
+10. Basic Animation/3. Animating Properties.mov,7.84,M
+10. Basic Animation/4. Editing Animation in the Graph Editor.mov,16.81,M
+10. Basic Animation/5. Using the Dope Sheet.mov,8.84,M
+10. Basic Animation/6. Path Animation.mov,10.16,M
+11. Character Rigging/1. Facial Animation Using Shape Keys.mov,11.72,M
+11. Character Rigging/2. Understanding Armatures.mov,11.87,M
+11. Character Rigging/3. Fitting an Armature to a Creature.mov,17.03,M
+11. Character Rigging/4. Deforming a Character with an Armature.mov,10.95,M
+11. Character Rigging/5. Setting Up Inverse Kinematics.mov,11.12,M
+11. Character Rigging/6. Controlling the Hips and Body.mov,5.33,M
+11. Character Rigging/7. Animating in Pose Mode.mov,5.64,M
+11. Character Rigging/8. Creating a Test Animation.mov,26.94,M
+12. Conclusion/1. Conclusion.mov,281.86,K
+2. Selecting and Translating Objects/1. Selecting Objects.mov,9.64,M
+2. Selecting and Translating Objects/2. Moving Objects.mov,10.15,M
+2. Selecting and Translating Objects/3. Rotating Objects.mov,7.34,M
+2. Selecting and Translating Objects/4. Scaling Objects.mov,4.89,M
+2. Selecting and Translating Objects/5. Understanding Transform Orientation.mov,8.96,M
+2. Selecting and Translating Objects/6. Changing an Object's Origin.mov,13.69,M
+2. Selecting and Translating Objects/7. Selecting Pivot Points.mov,7.63,M
+2. Selecting and Translating Objects/8. Using Snap to Move Objects Precisely.mov,6.88,M
+3. Modeling/1. Creating Mesh Primitives.mov,12.97,M
+"3. Modeling/2. Selecting Vertices, Edges and Faces.mov",8.24,M
+3. Modeling/3. Editing Mesh Objects.mov,20.63,M
+3. Modeling/4. Proportional Editing.mov,11.09,M
+3. Modeling/5. Sculpt Mode.mov,10.29,M
+3. Modeling/6. Working with Edges and Edge Loops.mov,10.49,M
+3. Modeling/7. Extrusions.mov,15.18,M
+3. Modeling/8. Smooth Shading Objects.mov,6.85,M
+3. Modeling/9. Subdividing Meshes.mov,14.61,M
+4. Advanced Modeling/1. Working with Modifiers.mov,10.57,M
+4. Advanced Modeling/10. Vertex Groups.mov,8.32,M
+4. Advanced Modeling/2. Working with Subdivision Surfaces.mov,10.73,M
+4. Advanced Modeling/3. Creating a Simple Creature.mov,22.61,M
+4. Advanced Modeling/4. Symmetrical Modeling with the Mirror Modifier.mov,23.9,M
+4. Advanced Modeling/5. Joining Mesh Objects.mov,8.51,M
+4. Advanced Modeling/6. Stitching Vertices.mov,13.86,M
+4. Advanced Modeling/7. Finalizing a Simple Creature.mov,13.76,M
+4. Advanced Modeling/8. Creating Text.mov,9.41,M
+4. Advanced Modeling/9. Boolean Tools.mov,8.14,M
+5. Staying Organized/1. Using the Outliner.mov,14.22,M
+5. Staying Organized/2. Using Layers.mov,7.34,M
+5. Staying Organized/3. Creating Groups.mov,4.83,M
+5. Staying Organized/4. Working with Scenes.mov,7.49,M
+5. Staying Organized/5. Creating Hierarchies.mov,5.89,M
+6. Applying Materials/1. Assigning Materials to Objects.mov,13.93,M
+6. Applying Materials/2. Diffuse Shaders.mov,10.77,M
+6. Applying Materials/3. Working with Specularity.mov,9.09,M
+6. Applying Materials/4. Using the Ramp Shader Options.mov,14.57,M
+6. Applying Materials/5. Additional Shading Options.mov,4.21,M
+6. Applying Materials/6. Creating Reflections.mov,15.62,M
+6. Applying Materials/7. Adding Transparency and Refractions.mov,13.1,M
+6. Applying Materials/8. Subsurface Scattering.mov,10.49,M
+7. Adding Textures/1. Adding a Simple Texture.mov,10.82,M
+7. Adding Textures/2. Using Bitmaps.mov,13.18,M
+7. Adding Textures/3. Mapping Textures in the UV Editor.mov,21.56,M
+7. Adding Textures/4. Using UV Projections.mov,16.18,M
+7. Adding Textures/5. UV Mapping a Character.mov,17.75,M
+7. Adding Textures/6. Fine-Tuning UV Mapping.mov,17.52,M
+7. Adding Textures/7. Creating Bump and Normal Maps.mov,5.96,M
+7. Adding Textures/8. Displacement Mapping.mov,6.39,M
+7. Adding Textures/9. Using the Node Editor.mov,8.79,M
+8. Working with Light/1. Adding Lamps to a Scene.mov,16.12,M
+8. Working with Light/2. Fine-Tuning Ray-Trace Shadows.mov,7.99,M
+8. Working with Light/3. Using Spot Lamps.mov,10.37,M
+8. Working with Light/4. Fine-Tuning Buffer Shadows.mov,12.27,M
+8. Working with Light/5. Using Hemi Lamps.mov,5.25,M
+8. Working with Light/6. Working with Area Lamps.mov,12.5,M
+8. Working with Light/7. Creating Sky and Ambient Light.mov,8.21,M
+8. Working with Light/8. Adding Background Images.mov,6.04,M
+8. Working with Light/9. Creating Sunlight.mov,13.65,M
+9. Cameras and Rendering/1. Working with Cameras.mov,9.14,M
+9. Cameras and Rendering/2. Creating Camera Targets with Constraints.mov,7.6,M
+9. Cameras and Rendering/3. Render Properties.mov,11.28,M
+9. Cameras and Rendering/4. Rendering Animation.mov,9.16,M
+9. Cameras and Rendering/5. Adding Motion Blur.mov,7.19,M
+9. Cameras and Rendering/6. Creating Depth of Field.mov,12.64,M
+Course Description.rtf,1.99,K
+Exercise Files/Chap01/Canvas_LtViolet.jpg,141.79,K
+Exercise Files/Chap01/Chap01_01.blend,390.03,K
+Exercise Files/Chap01/Chap01_02.blend,228.38,K
+Exercise Files/Chap01/Chap01_03.blend,228.63,K
+Exercise Files/Chap01/Chap01_04.blend,390.03,K
+Exercise Files/Chap01/Chap01_05.blend,12.07,M
+Exercise Files/Chap01/Fabric_Dots.jpg,134.7,K
+Exercise Files/Chap01/WoodPanels.jpg,295.27,K
+Exercise Files/Chap02/Canvas_LtViolet.jpg,141.79,K
+Exercise Files/Chap02/Chap02_01.blend,487.31,K
+Exercise Files/Chap02/Chap02_02.blend,209.79,K
+Exercise Files/Chap02/Chap02_03.blend,105.05,K
+Exercise Files/Chap02/Chap02_04.blend,101.73,K
+Exercise Files/Chap02/Chap02_05.blend,12.06,M
+Exercise Files/Chap02/Chap02_06.blend,2.33,M
+Exercise Files/Chap02/Chap02_07.blend,229.75,K
+Exercise Files/Chap02/Chap02_08.blend,487.31,K
+Exercise Files/Chap02/Fabric_Dots.jpg,134.7,K
+Exercise Files/Chap02/WoodPanels.jpg,295.27,K
+Exercise Files/Chap03/Chap03_01.blend,390.03,K
+Exercise Files/Chap03/Chap03_02.blend,311.6,K
+Exercise Files/Chap03/Chap03_03.blend,311.35,K
+Exercise Files/Chap03/Chap03_04.blend,719.32,K
+Exercise Files/Chap03/Chap03_05.blend,1.56,M
+Exercise Files/Chap03/Chap03_06.blend,497.8,K
+Exercise Files/Chap03/Chap03_07.blend,322.01,K
+Exercise Files/Chap03/Chap03_08.blend,313.69,K
+Exercise Files/Chap03/Chap03_09.blend,585.79,K
+Exercise Files/Chap04/Body-1.jpg,35.09,K
+Exercise Files/Chap04/Chap04_01.blend,394.58,K
+Exercise Files/Chap04/Chap04_02.blend,396.32,K
+Exercise Files/Chap04/Chap04_03.blend,390.03,K
+Exercise Files/Chap04/Chap04_04.blend,403.52,K
+Exercise Files/Chap04/Chap04_05.blend,417.34,K
+Exercise Files/Chap04/Chap04_05tmp.blend,413.79,K
+Exercise Files/Chap04/Chap04_06.blend,414.8,K
+Exercise Files/Chap04/Chap04_07.blend,408.86,K
+Exercise Files/Chap04/Chap04_08.blend,390.03,K
+Exercise Files/Chap04/Chap04_09.blend,397.99,K
+Exercise Files/Chap04/Chap04_10.blend,507.63,K
+Exercise Files/Chap04/Creature.blend,609.69,K
+Exercise Files/Chap04/Creature_modeled.blend,499.36,K
+Exercise Files/Chap05/Canvas_LtViolet.jpg,141.79,K
+Exercise Files/Chap05/Chap05_01.blend,288.38,K
+Exercise Files/Chap05/Chap05_02.blend,288.06,K
+Exercise Files/Chap05/Chap05_03.blend,284.63,K
+Exercise Files/Chap05/Chap05_04.blend,288.51,K
+Exercise Files/Chap05/Chap05_05.blend,1.46,M
+Exercise Files/Chap05/Fabric_Dots.jpg,134.7,K
+Exercise Files/Chap05/WoodPanels.jpg,295.27,K
+Exercise Files/Chap06/Body-1.jpg,35.09,K
+Exercise Files/Chap06/Chap06_01.blend,368.61,K
+Exercise Files/Chap06/Chap06_02.blend,385.22,K
+Exercise Files/Chap06/Chap06_03.blend,385.22,K
+Exercise Files/Chap06/Chap06_04.blend,389.02,K
+Exercise Files/Chap06/Chap06_05.blend,389.02,K
+Exercise Files/Chap06/Chap06_06.blend,797.62,K
+Exercise Files/Chap06/Chap06_07.blend,797.95,K
+Exercise Files/Chap06/Chap06_08.blend,703.32,K
+Exercise Files/Chap06/sky.jpg,456.32,K
+Exercise Files/Chap07/Body-1.jpg,35.09,K
+Exercise Files/Chap07/CardboardBox.jpg,282.66,K
+Exercise Files/Chap07/Chap07_01.blend,390.03,K
+Exercise Files/Chap07/Chap07_02.blend,406.7,K
+Exercise Files/Chap07/Chap07_03.blend,387.98,K
+Exercise Files/Chap07/Chap07_04.blend,331.1,K
+Exercise Files/Chap07/Chap07_05.blend,480.06,K
+Exercise Files/Chap07/Chap07_06.blend,516.35,K
+Exercise Files/Chap07/Chap07_07.blend,381.09,K
+Exercise Files/Chap07/Chap07_08.blend,448.05,K
+Exercise Files/Chap07/Chap07_09.blend,370.35,K
+Exercise Files/Chap07/Dots.jpg,38.15,K
+Exercise Files/Chap07/Fabric_Dots.jpg,134.7,K
+Exercise Files/Chap07/SoupLabel.jpg,91.28,K
+Exercise Files/Chap08/Chap08_01.blend,1.24,M
+Exercise Files/Chap08/Chap08_02.blend,1.24,M
+Exercise Files/Chap08/Chap08_03.blend,1.24,M
+Exercise Files/Chap08/Chap08_04.blend,1.25,M
+Exercise Files/Chap08/Chap08_05.blend,1.24,M
+Exercise Files/Chap08/Chap08_06.blend,1.24,M
+Exercise Files/Chap08/Chap08_07.blend,511.6,K
+Exercise Files/Chap08/Chap08_08.blend,511.6,K
+Exercise Files/Chap08/Chap08_09.blend,507.97,K
+Exercise Files/Chap08/Chap08_10.blend,1.26,M
+Exercise Files/Chap08/Grass.jpg,1.09,M
+Exercise Files/Chap08/House.jpg,230.28,K
+Exercise Files/Chap08/sky.jpg,456.32,K
+Exercise Files/Chap09/Billiard_02.jpg,6.73,K
+Exercise Files/Chap09/Billiard_08.jpg,6.64,K
+Exercise Files/Chap09/Billiard_15.jpg,9.37,K
+Exercise Files/Chap09/Chap09_01.blend,524.64,K
+Exercise Files/Chap09/Chap09_02.blend,457.71,K
+Exercise Files/Chap09/Chap09_03.blend,1.69,M
+Exercise Files/Chap09/Chap09_04.blend,1.96,M
+Exercise Files/Chap09/Chap09_05.blend,1.96,M
+Exercise Files/Chap09/Chap09_06.blend,1.69,M
+Exercise Files/Chap10/Billiard_02.jpg,6.73,K
+Exercise Files/Chap10/Billiard_08.jpg,6.64,K
+Exercise Files/Chap10/Billiard_15.jpg,9.37,K
+Exercise Files/Chap10/Chap10_01.blend,1.93,M
+Exercise Files/Chap10/Chap10_02.blend,1.15,M
+Exercise Files/Chap10/Chap10_03.blend,1.15,M
+Exercise Files/Chap10/Chap10_04.blend,933.89,K
+Exercise Files/Chap10/Chap10_05.blend,935.6,K
+Exercise Files/Chap10/Chap10_06.blend,928.98,K
+Exercise Files/Chap11/Body-1.jpg,35.09,K
+Exercise Files/Chap11/Chap11_01.blend,751.87,K
+Exercise Files/Chap11/Chap11_02.blend,802.84,K
+Exercise Files/Chap11/Chap11_03.blend,802.82,K
+Exercise Files/Chap11/Chap11_04.blend,827.08,K
+Exercise Files/Chap11/Chap11_05.blend,890.96,K
+Exercise Files/Chap11/Chap11_06.blend,896.02,K
+Exercise Files/Chap11/Chap11_07.blend,894.1,K
+Exercise Files/Chap11/Chap11_08.blend,970.63,K
+Exercise Files/Chap11/Chap11_08_final.blend,1.02,M

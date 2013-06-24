@@ -1,0 +1,10 @@
+Format: MPEG Audio
+Format_Version: Version 1
+Format_Profile: Layer 3
+Format_Settings_Mode: Joint stereo
+Duration/String: 3mn 39s
+BitRate_Mode/String: Variable
+BitRate/String: 289 Kbps
+BitRate_Minimum/String: 32.0 Kbps
+Channel(s)/String: 2 channels
+SamplingRate/String: 44.1 KHz

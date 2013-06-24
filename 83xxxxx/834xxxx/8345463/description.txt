@@ -1,0 +1,74 @@
+W     W DDD           b    l     Y   Y          W     W
+W  W  W D  D ooo u  u bbb  l eee   Y   ooo u  u W  W  W
+ W W W  D  D o o u  u b  b l e e   Y   o o u  u  W W W 
+  W W   DDD  ooo  uuu bbb  l ee    Y   ooo  uuu   W W  
+  
+#################################################
+
+Release Name:
+Skyrim.Official.High.Resolution.HD.Texture.Pack.(2-6-13)-WWW.iso
+
+Release Type: Game Plugin
+Game: The Elder Scrolls V Skyrim
+Version: Same as released by Bethesda on 6 February 2013
+
+#################################################
+
+How to install:
+1. Mount or burn SKYRIM_HD_WWW.iso.
+2. Install using Skyrim's main directory as the install directory. You must have Skyrim installed for this to work!
+3. Activate HighResTexturePack01.esp, HighResTexturePack02.esp, and HighResTexturePack03.esp in SkyrimLauncher Data files.
+4. Enjoy!
+
+#################################################
+
+Release notes:
+This is the official High Resolution Texture Pack DLC released by Bethesda, updated on 6 February 2013 to include HD textures for Hearthfire, Dawnguard, and Dragonborn, if installed.
+
+#################################################
+
+Changelog:
+
+V1
+-Initial Release
+-Automatically attempts to locate where you have installed Skyrim so you most likely will not have to manually select this location
+-TESV.exe must be present in the selected Skyrim install directory before this will allow you to install
+
+#################################################
+
+FAQs
+Q: Will this work with the Steam version of Skyrim?
+A: Yes
+
+Q: Will this work with a properly cracked version of Skyrim?
+A: Yes
+
+Q: I can't activate in launcher!
+A: Make sure bEnableFileSelection=1 is in [Launcher] section of Documents--&gt;My Games--&gt;Skyrim--&gt;skyrimprefs.ini
+
+Q: Does it include an uninstaller?
+A: It includes a clean uninstaller. It will NOT uninstall any Skyrim settings if you choose to uninstall this DLC.
+
+Q: My Skyrim is crashing now.
+A: Your system probably doesn't have enough RAM to use these high resolution textures.
+
+Q: Does this require Dawnguard to be installed?
+A: No, but it will use high resolution textures for it if it is installed.
+
+Q: Does this require Hearthfire to be installed?
+A: No, but it will use high resolution textures for it if it is installed.
+
+Q: Does this require Dragonborn to be installed?
+A: No, but it will use high resolution textures for it if it is installed.
+
+Q: Will you marry me?
+A: No
+
+#################################################
+
+Credits:
+Bethesda Game Studios for the High Resolution Textures
+
+#################################################
+
+If you enjoy the game, BUY it. Support game developers!

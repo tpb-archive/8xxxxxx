@@ -1,0 +1,40 @@
+Official Web Site:  http://echoone.com/filejuicer/
+
+Multigen courtesy of C.O.R.E
+
+File Juicer is a drag-and-drop can opener and data archaeologist. Its specialty is to find and extract images, video, audio or text from files which are hard to open in other ways.
+
+It finds and extracts: JPEG, JP2, PNG, GIF, PDF, BMP, WMF, EMF, PICT, TIFF, Flash, Zip, HTML, WAV, AVI, MOV, MP4, MPG, MP3, AIFF, AU, WMV or text from files which contain data in those formats.
+
+Lossless extraction... File Juicer does't convert the images/sounds/videos it finds, but saves them unchanged in their original format if possible. See the manual for details.
+
+This is useful:
+
+* if you want to extract the images/sounds/videos from a PDF or Word document
+
+* if you have old files you can no longer open with current applications,
+
+* if you receive emails with attachments you can not open,
+
+* if you have corrupt files or databases,
+
+* if you have damaged or acidentally erased flash cards for your digital camera,
+
+* if you receive "self extracting" EXE files designed for Windows,
+
+* or if this is just faster than copying and pasting from the file.
+
+When you have extracted some files - for instance from an accidentally erased flash card, you can then check that they are intact with QuickTime Player or convert them with other applications. For images, checking validity is done by letting File Juicer generate icons for the files. Then the files with icons are the ones which are intact.
+
+File Juicer has Automator support so you can save just the settings you need and use them directly from Finder.
+
+What's New:
+
+* Fixed: crash when extracting everything from a PDF. Thank you, 
+  Gabriel, for sending me the PDF so I could fix it!
+
+System Requirements:
+
+Intel Mac, OX X.5.8 or later
+
+--- PLEASE SEED ---

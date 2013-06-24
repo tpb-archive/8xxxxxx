@@ -1,0 +1,18 @@
+*** PESJP Patch 2013 Gameplay Improvement Update ***
+
+
+
+Requirement:
+- PESJP Patch version 3.05 + update 3.07 installation
+
+
+
+Features:
+- Update Maxtrix Option file 1.01
+- Update gameplay tool 3.31
+- New option AI Optimize mode: more active AI, aggressive defense, better teammate movement in BAL
+- Remove bad AI script: get rid of some bad scripts about player's stamina, defender's movement
+- Update GK slider
+- Added new slider: Player responsiveness 
+- Added new plugin: allow to use 9999 replay data. 
+- Update kit switcher: fixed number & font do not show correctly

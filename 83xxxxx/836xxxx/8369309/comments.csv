@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,Joohnnyboy87,2013-04-13T22:44Z,"Saved game is gone, where is the NEW save location so i can overwrite? cant find it at all."
+,MuduM,2013-04-14T02:57Z,"its in your hidden AppData/Local/Skidrow/203160 folder
+
+new folder is in ProgramData/Steam/RLD!/203160"
+,Joohnnyboy87,2013-04-14T08:37Z,"Thx a lot Mudum, i would have NEVER found that."
+,Ksipah843,2013-04-14T18:39Z,"New fixes in 742.0:
+
+- Resolved situation in which combat would not spawn the next encounter on Chasm Bridge, halting player progress.
+- Fixed an issue where the block and tackle itself was inaccessible while on the galleon.
+- Improved QTE timing (left/right movement, button mashing) to be more consistent independent of frame-rate.
+- Parachute controls are now more responsive on low frame-rate.
+- Improvements to the 3DVision support, and support for the 3DVision IR device.
+- Support for Eyefinity setups with multiple display-sets. (for example 3x1 + 1 setups).
+- Some small multiplayer improvements.
+- Various improvements to the handling of the last-campsite save.
+- We have decided to remove the Optional Movie download and instead provide links to our YouTube pages containing those same videos."
+,dandalis,2013-04-14T20:13Z,is this accumalitive update ?
+,russianhornybear,2013-04-16T07:03Z,"Another update ? O_o
+Old TR games 1 ,max 2 updates and with not very critical fixes.
+Coz of this console ports we need to eat this shit every year now.
+Not talking about nvidia cards users who cant play this game normally :)"
+,BTElvis,2013-04-17T00:01Z,"FYI: This, and all ""BAT"" updates, completely break the game on my Windows XP SP3, all updated rig. Causes an immediate 'app failed to start' error popup. The last Skidrow Updates work well.
+
+On Windows 7, they work great. Not sure why. So backup your stuff before trying this."
+[T],Danimal1q2w3,2013-04-17T03:47Z,"Thank you, very very much, I'd like to buy you a beer."
+,BTElvis,2013-04-17T07:21Z,"More FYI: This patch on Windows XP, but using the crack from Skidrow's Update 1.0.722.3 seems to work."

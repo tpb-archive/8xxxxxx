@@ -1,0 +1,85 @@
+┬á
+Official Web Site:  http://macpaw.com/cleanmymac
+
+CleanMyMac makes space for the things you love. Sporting a range of ingenious new features, CleanMyMac 2 lets you safely and intelligently scan and clean your entire system, delete large, unused files, reduce the size of your iPhoto library, uninstall unneeded apps or fix the ones that started to work improperly, manage all your extensions from one place and do much more - all from one newly designed and beautifully simple interface.
+
+WHAT'S NEW:
+
+ * Added compatibility for OS X 10.7 Lion starting from 10.7.0. But it 
+  is still recommended to update your OS to the latest one.
+
+* Added SymLinks support on Drag & Drop.
+
+* Improved all localizations texts and strings layouts.
+
+* Added additional Login Items for Appstore Apps to Extensions 
+  module.
+
+* Minor usability improvements.
+
+* Improved Feedback Reporter framework.
+
+* Improved Apps terminating dialog.
+
+* Updated Knowledge base, added number of reported apps to ignore
+   lists.
+
+Bugs fixed:
+
+* Fixed displaying of incorrect Launch Dates for some applications and 
+  improved Apps sorting.
+
+* Fixed Issue that could cause the reset of Launchpad Apps 
+  preferences, when removing dock icon during application 
+  uninstallation.
+
+* Fixed iPhoto cleaning bug that could prevent iTunes from syncing. 
+
+* Fixed potential freeze on certain graphic cards.
+
+* Fixed incorrect scheduler run times.
+
+* Fixed most of reported crashes and exceptions.
+
+* Fixed issue, where desktop wallpaper could disappear.
+
+* Fixed possible issues with Steam applications.
+
+* Fixed work with SymLinks in Trash Folders module.
+
+* App Trash monitor now displays correct dialog if CleanMyMac is
+   running.
+
+* "File" menu now correctly displays "Launch" and "Reveal in Finder" 
+  menu items for Applications.
+
+* Fixed sorting by Date in iPhoto module.
+
+* Improved the removal of some Login items in Extensions module.
+
+* Ignore lists are now saved for Leftovers and Unsupported 
+  applications when CleanMyMac restarts.
+
+* Fixed "Open in iPhoto" functionality when iPhoto is already running.
+
+* Fixed bottom bar behaviour after the removal of some extensions.
+
+* Fixed some layout problems on OS X 10.7 Lion.
+
+* Updated list of iOS firmware names.
+
+* Fixed the behaviour of the estimate progress indicator.
+
+* Fixed some incorrect language flags.
+
+* Fixed bug when cleanup size could be doubled after several cleanups.
+
+* Removed redundant logging.
+
+* Fixed Duplicated login items that could appear in extensions.
+
+System Requirements:
+
+Intel Mac, OS X.7.5 or later
+
+--- PLEASE SEED ---

@@ -1,0 +1,137 @@
+﻿User Type,Username,Date,Text
+,js99912,2013-03-29T02:05Z,"Hitting this with 5MB exclusive upload right now so long as it doesnt fuck up the Syracuse game.  If it does I'll drop to 3MB then full-nut-jones!
+
+Enjoy!
+-JS"
+,chop007,2013-03-29T11:54Z,"Freakin awesome bro, big up, thanks man. I will definitely leech this, oh sorry, I meant, I will definitely seed this. "
+,js99912,2013-03-29T22:20Z,"CONFIRMED, full Microsoft Surface, Surface Pro and Windows 8 support!
+
+If ANyOne is running XP tablet edition, hit me up.
+
+-JS"
+,ibanz0r,2013-03-30T00:24Z,is there anyway to delete the default acc or do fac reset on this man?
+,js99912,2013-03-30T01:59Z,"To reset google play, use ES file explorr, go UP to root folder, clcik the data folder, click the system folder.
+
+Hold down the left click on accounts.db, choose delete.
+
+Restart BlueStart by right-clicking the sytem tray icon, and choose restart.
+
+Open GMAIL, add your google account!
+
+Enjoy!
+-JS "
+,js99912,2013-03-30T02:26Z,"bootanimation here
+
+http://thepiratebay.sx/torrent/8317079
+
+-JS"
+,js99912,2013-03-30T05:40Z,"AppSettings Screen Resizer Here
+
+
+http://thepiratebay.sx/torrent/8317371"
+,js99912,2013-03-30T16:25Z,"If you are getting an error something like RPC-5-AE error when trying to download in Google Play and/or you are getting a Google Talk Authentication Chat Service error do the following:
+
+GOTO
+Settings:
+Manage Apps:
+-All Apps
+-select Google Play Store
+-click Clear cache button (NOT DATA)
+-click Force Stop
+-click Back Button
+-select Google Service Framework
+-Clear data button (NOT CACHE)
+-click Force Stop
+Close BlueStacks
+Right-Click tray icon (by the clock), choose restart.
+
+Then get to downloading!
+--------------------------------------------------------
+
+Enjoy
+-JS"
+,js99912,2013-04-04T23:08Z,"Compatibility
+--------------
+
+Works BEST with Windows 7/Vista x64
+Works with 7/Vista x86
+Works with Surface/Surface PRO, and Older Tablet PC navigation support.
+Works with Windows 8 x86/x64 LIMITED GRAPHICS driver support NOW -see below
+
+Works with Windows 8, however many video card manufacturer's do NT have proper  drivers for Windows 8, IE Intel Graphics for sure is the biggest problem.  Make sure your vid card has working accelerated graphics, or this won't even install.   NVIDIA card work the BEST in Win8 thus far. Decent ATI HD cards aren't a problem.
+
+Primary objective right now are having a pack that can install on anything, the goal of this isn't to have
+
+The included installer has several fixes, many have installed this pack, then opted to upgrade the BlueStacks components on their own...  Guess we all know how that worked out...  Don't do this.
+
+If anyone does come across driver for Win8 that work, post me a make/model and link to driver.
+
+Enjoy!
+-JS"
+,js99912,2013-04-07T01:17Z,"3D Graphics Support for Intel
+-----------------------------
+
+Intel x86 Intel Windows 8 Video Driver
+http://thepiratebay.sx/torrent/8349678
+
+Intel x64 Intel Windows 8 Video Driver
+http://thepiratebay.sx/torrent/8349630
+
+
+
+Quick Install Notes:
+--------------------
+source http://teknogods.com/phpbb/viewforum.php?f=47
+
+run command prompt as administrator
+bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING ON
+
+reboot
+
+install BNA. After install, reboot, run command prompt as administrator again and enter
+
+bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING OFF
+
+
+Enjoy!
+-JS"
+,js99912,2013-04-07T08:31Z,"If Google Play plagues you, give this one a try.  Does not require Lucky Patcher, just loaded and run it.  Hell I even loaded over a couple of fucked apk's and it all straightened out.
+
+props to http://thepiratebay.sx/user/HobbitWarez/ for the up!!
+http://thepiratebay.sx/torrent/7943227/"
+,sirsmokes,2013-04-11T01:20Z,"hey js great upload thanks a bunch.the simplicity of the root method is a time saver.
+
+i have 2 questions
+1.how do i access the sd card to copy SD game data to it. This version of bluestacks doesnt allow the .fs hack.
+2.y cant i connect to playstore?
+
+Again I appreciate your time :-)"
+,js99912,2013-04-19T21:24Z,"two easy ways to get the data into the environment, first, in windows you can move/copy any data you'd like to C:ProgramDataBlueStacksUserDataSharedFolder (create a shrcut to this if you like)
+
+Then in ES file explorer, go to bstfolder the SharedFolder and there is your shit.
+
+or
+Share out the folder is Windows, network share
+In ES file explorer go to LAN, SCAN r Add server 10.0.2.2 with your local PC username and password.
+
+Open it and there's your Shit.
+
+And google play, you can reset it with post from above, or install the cracked version found latest here: http://thepiratebay.sx/torrent/8365566
+
+
+And here is a preview the assholes put up of AW2 for the HD version, almost home on that
+-js"
+,js99912,2013-04-19T21:26Z,"heres that
+
+http://animoto.com/play/7eeYPkpuqQYYRfX8WGF5IQ"
+,edcrfv00,2013-05-03T11:54Z,"Thank You for Your great work!
+
+Just one question... can You try installing ""Fangz v1.0""? I´m interesting does it play ""better"" games?!
+
+Regards"
+,js99912,2013-05-05T13:21Z,"NEW VERSION HERE:
+http://thepiratebay.sx/torrent/8440340"
+,athlethal,2013-06-04T00:01Z,hey js great job my friend not too savy with bluestacks but can you tell me how to unpack another apk file with bluestacks
+,athlethal,2013-06-04T05:38Z,ok i unpacked APK ok with your torrent but not working any suggestions

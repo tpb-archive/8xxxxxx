@@ -1,0 +1,58 @@
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 697 MiB
+Duration                                 : 2h 1mn
+Overall bit rate                         : 802 Kbps
+Encoded date                             : UTC 2013-04-07 17:14:46
+Writing application                      : mkvmerge v6.1.0 ('Old Devil') built on Mar  2 2013 14:32:37
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L2.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 1mn
+Nominal bit rate                         : 736 Kbps
+Width                                    : 640 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.176
+Writing library                          : x264 core 130 r2273 b3065e6
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 1mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 31ms
+Default                                  : Yes
+Forced                                   : No
+
+screens;
+ 
+http://baypic.net/img-51628551dedef.html
+ 
+http://baypic.net/img-51628551f15eb.html
+ 
+http://baypic.net/img-516285520efab.html
+ 
+http://baypic.net/img-5162855220c07.html

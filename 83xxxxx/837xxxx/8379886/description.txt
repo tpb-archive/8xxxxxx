@@ -1,0 +1,45 @@
+Tomb Raider
+
+
+
+
+New fixes in 722.3:
+
+- Addressed an issue in ΓÇ¥Shipwreck BeachΓÇ¥ where the mast on the wooden ship was occasionally
+missing depending on the playerΓÇÖs path.
+- Fixed a gating issue in ΓÇ£Research BunkerΓÇ¥ where the elevator would get stuck in an
+unintended state.
+- Fixes for multiplayer connectivity
+o An issue related to security certificates that stopped many users from connection
+to Square Enix servers was resolved.
+o Improved messages when you are unable to connect with Square Enix servers.
+- Improvements to voice-chat for multiplayer
+o Newfeature, by default mapped to F1.
+o New voice-chat volume option.
+o Improved overall quality of voice-chat.
+- Fixes for crashes on startup in specific situations when no audio output is available.
+- Fixes for various reported crashes during both single-player and multi-player.
+- Movies are showing up again when using SSAA.
+- Cost of TressFX reduced, especially in combination with SSAA.
+- TressFX memory usage reduced for AMD Eyefinity and NVIDIA Surround setups.
+- TressFX simulation and graphical quality improvements.
+- New Ultra-quality shadow mode for contact hardening shadows.
+This is not enabled by default in any quality profile, but can be enabled from the advanced settings.
+- Improvements to fullscreen/windowed switching and multiple display handling.
+- Various UI improvements.
+
+While we expect this patch to be an improvement for everyone, if you do have trouble with this
+patch and prefer to stay on the old version we made a Beta available on Steam, Build718.4,
+that can be used to switch back to the previous version. Please note however that you can only
+play multiplayer with people that share your version.
+
+WeΓÇÖve been working closely with NVIDIA to address the issues experienced by some Tomb Raider players.
+In conjunction with this patch, NVIDIA will be releasing updated drivers that help to improve stability and performance of Tomb Raider on NVIDIA GeForce GPUs. We are continuing to work together to resolve
+any remaining outstanding issues.
+We recommend that GeForce users update to the latest GeForce 314.21 drivers
+(posting today) for the best experience in Tomb Raider.
+
+We are planning further patches beyond this one to address various issues that have come
+out of consumer feedback since the release of the game.
+
+Read more: http://blackwidowhacker.proboards.com/thread/62#ixzz2QdlreAmE

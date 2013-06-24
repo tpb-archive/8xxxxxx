@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,lompocian,2013-04-18T03:50Z,"### Computer-Aided Thermodynamic Tables 3 / CATT 3 ###
+
+--- Description ---
+
+This is a handy software for people working on Thermo courses. It normally comes with the Sonntag Thermodynamics (engineering) book. 
+
+This will work with contemporary windows versions (up through Windows 8 at least, and certainly everything that supports 32-bit and 64-bit windows applications). You can use both a 32-bit and 64-bit Windows version with this. No linux, mac, or other versions are available. 
+
+--- Sample Problem to Remove the Fear of Using a Computer ---
+Find the specific volume of water at 120 C and 500 kPa. 
+1. Open the progam.
+2. Mess around with the buttons at top for no good reason.
+3. Click the UNITS button and set things to the metric system you think appropriate. 
+4. Click the CALCULATOR button and, for case 1 (P and T), enter the appropriate values (120 C, 0.5 MPa). 
+5. Notice your history of searches is tabulated on the lower pane. Notice that cryogenics and other substances are in tabs on this pane. 
+6. Keep on messing around with stuff.
+
+### Posted 130417 -- April 17, 2013 ###"

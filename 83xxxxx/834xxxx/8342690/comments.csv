@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,joser116,2013-04-05T02:27Z,"Please Please Please Judas skip straight to Rise of the Guardians and Life of Pi, YIFI's encodes are nothing compared to yours. And please do it in Full HD :)"
+,rajakumar,2013-04-05T03:18Z,"
+@dhjudasx:
+
+What is your tomorrow's upcoming movie releases. "
+[V],dhjudasx,2013-04-05T06:46Z,"tomorrow I might be busy... I've major work to do this weekend.
+
+I don't have life of pi or rise of the guardians.... ""yet""... they are a long ways off unfortunately... sorry..
+
+I'm contemplating uploading drive angry... or more of the rest of the fast n furious"
+,rajakumar,2013-04-05T14:34Z,"
+
+@dhjudasx:
+
+can i get your e-mail id, so i will contact u there.
+
+Good thanks that u are not using anybody's sources. I Just watched all your 4 Aliens movies judas. The video quality in all 4 aliens movies has a bit burry images including dark scenes. Why won't u make a better in video and audio bits.
+
+Question: Why don't u just stick with 5.1 dd audio and rise up to 384 kb/s bit audio."
+[V],dhjudasx,2013-04-05T17:45Z,"Blurry images in the aliens?
+
+If you were to compare the bluray frame for frame to the encoded results, you'd realize that the encoded results are almost entirely spot on. They are OLD movies, they are not pristine like a modern movie like lets say Dark Knight Rises. They are in no way encoded poorly. The Alien anthology blurays just aren't anywhere near ""crisp and clear"" in comparison. And I cannot magically encode a movie to appear crisp and clear... it doesn't work that way. Any filters applied reduce the quality in one area while potentially marginally improving in another. Many encoders I see use a noise reduction filter to get rid of the original grainy appearance on movies, this has the benefit of working usually, but at a huge cost to detail and clarity of the image due to smudging up the video to get the grain out. It's very ugly looking on a big screen, bet to leave the bluray material as it is rather than trying to use filters to denoise it. Leave that to the TV to do.
+
+Additionally using DD/DTS 384kbps is rather inferior to that of 192kbps AAC 5.1 using HE-AAC/LC high profile 2 pass encoding. It's also SIGNIFICANTLY larger, resulting in the audio itself growing by as much as 175%, basically adding 450-500MB to the file versus 125-200MB that 5.1 AAC does.
+
+I thoroughly check my video encodes to compare them directly to that of the bluray itself. Aside from some basic compression artifacts that COULD be resolved with 10bit encoding and higher profile, as the same file size, unfortunately 99% of the devices wouldn't be able to play any of it. Otherwise the only compression issues are in very dark OR poorly post produced scenes.
+
+In many of these cases increasing, even doubling the bitrate doesn't resolve the artifacts (doubling or even nearly tripling the file size). Example of this is Avatar, Having increased it upwards of 3x the current bitrate, it just isn't enough to resolve the compression artifacts. You REALLY have to crank it to about 5x the bitrate to get a near perfect bluray encode. This is COMPLETELY counter productive to the intended balance of getting good video quality and file size.
+
+And we can't just double the file size because many movies would not fit within the fat32 limits which dictate a 4.37gb file size ceiling. Break that and bye bye to about 50%+ of the devices out there. A lot of people use a PS3, and a PS3 doesn't like NTFS. Many Smart TVS also do not like ntfs unfortunately.
+
+Sorry I will not give out my email."
+,rajakumar,2013-04-05T19:53Z,"
+
+@dhjudasx:
+
+Thanks for replying. I Understood everything what u said. So what TV does u have at your home. How to select 5.1 DD audio in a TV. Do u have any newer PC games like MAX PAYNE 3 or anymore. What kinda movies do u purchase? Like u buy only box office success movies or flop movies, live action, crime and thriller."
+[V],dhjudasx,2013-04-05T20:46Z,"I mostly use my computer for everything...
+
+However a few places i visit, many have anything from a 40 inch to the larger 65 or 70 inch tvs, LED Samsung 6 6000 or higher versions preferred... however the newer Samsung 5 5000 series are pretty decent too. Sony's aren't bad, and with all my rips being cinavia free, they work on sony's (even though sony is now having samsung make their tvs exclusively). LG is by far the worst for quality specially when they skimp on the decoding capabilities, it's pretty sad when some movies don't playback really well on LG tvs, or toshiba, another manufacturer that skimps.
+
+If you are attempting to playback a movie through connecting it to the TV... getting 5.1 audio output from the tv to the receiver is basically impossible even if it is DTS, MAJORITY of tvs only have analog R/W RCA Outputs to receivers, the few that hat have Fiber don't give a clear option to bitstream to a receiver. And the few that do usually don't come with a 5.1 setup that accepts it in the same manner.
+
+Most of the people i do know that have 5.1 audio support also have a PS3 or a laptop/desktop or some sort. Using an HDMI connection fed directly to the 5.1 Receiver, you don't need to bitstream, you can leave the ps3/computer's HDMI output on full 6 channel LPCM mode, the AAC5.1 will be decoded THEN transmitted as raw 6 channel Digital audio producing generally the best possible sound.
+
+I play plenty of modern games, borderlands 2, farcry 3 for example. The types of movies i purchase are mostly what you already see in my library on here. So plenty of genres..."
+[V],dhjudasx,2013-04-05T20:48Z,"I forgot to add that if you are using the TV to playback the audio... I do know most smart tvs give you the option to enable/disable subtitles... select subtitles... and also select/change audio tracks.
+
+The Samsung tv's i've got on hand all will Playback the 5.1 Audio, but it'll still keep it in 2 channel mode, it just sounds MUCH richer/Better/Fuller than the standard 2 channel 96kbps primary track.
+
+So anyone playing back a movie on a tv.. even if you are only using 2 channel stereo... switch to the 5.1 track with my encodes and experience much better quality audio."
+,rajakumar,2013-04-05T22:54Z,"
+@dhjudasx:
+
+Did you played max payne 3 game on your computer. Do u have MAX PAYNE 3 PG GAME at your home. If u have it then can u upload it to here Please. Why u did not upload any of your PC games?
+
+So I think u have Samsung 6 6000 series smart tv 55inch at ur home right. 
+I always switch to 2nd audio stream 5.1 DD while watching any movies and i don't like 2.0 stereo.
+
+Your all encode movie rips are superb +1 quality than yify."
+,buenio,2013-04-06T04:47Z,Yeah Judas right i played all of his rips on my SONY KLV 40ex43A LED FULL HD TV and it has an option for audio.

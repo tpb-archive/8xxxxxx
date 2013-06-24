@@ -1,0 +1,93 @@
+The wonderful Windows 7 Ultimate Lite x86 Faster June 2012 Very fast , light version are based on Windows 7 Ultimate SP1.
+
+-It's bootable image based on en_windows_7_ultimate_x86_dvd_u_677460.iso
+-This Windows is updateable through Windows Update (language packs cannot be installed).
+-There is no any software or updates added except newer Internet Explorer 9.
+-Windows 7 is not activated (you can use your own key or favourite method of activation).
+
+Some features left are:
+
+Windows Media Player (with default codecs)
+Internet Explorer 9 (Google is default search engine and home page)
+Windows Mail (working)
+Windows Fax and Scan
+Windows Defender (on by default)
+WinSAT (Windows Experience Index tool)
+all components needed for mobile computers
+Gadgets (CPU/RAM usage, time, calendar)
+Games (no premium games)
+.NET Framework 3.5.1
+Windows Update and Security Center
+NEW THEME ADDED
+A lot of stuff is removed to reduce the size of the image (fits on single CD).
+Some tweaks are applied:
+
+
+Allow 3rd Party Themes
+Allow Windows Live Movie to import from network
+Always Unload DLL
+Disable Group Policy Synchronise
+Disable Hibernation
+Disable Search Online on Unknown File Extensions
+Disable Shortcut Link Resolve
+Disable Thumbnail Cache
+Disable Windows Error Reporting
+Double Mouse Speed
+Enable Boot Defrag
+Enable DVD in Media Player
+Enable MSI Service in Safe Mode
+Faster Browsing in IE
+Increase Icon Cache
+Kill Services Quicker on Shutdown
+Open NFO files with notepad
+Remove 'HomeGroup' from Explorer
+Remove 'Libraries' from Explorer
+Remove 'Music' from Start Menu
+Remove 'Pictures' from Start Menu
+Remove Shortcut Suffix
+Remove 'Videos' from Start Menu
+Remove Windows Mail Splash
+Restore Previous Folder at Logon
+Show 'Computer' on Desktop
+Show Hidden Files/Folders
+Speed-up Access to AVI Media Files
+Unlimited Simultaneous Downloads
+
+
+
+Some services startup is modified as well
+
+
+Note that almost all the drivers are removed and you should have your computer drivers ready before installation (at least drivers needed for network devices).
+
+
+Drivers left:
+
+Basic system drivers
+Sound drivers
+LAN/WLAN drivers
+Display control
+
+
+
+Some removed features:
+
+Accessibility
+BitLocker
+PowerShell
+Windows Help
+asian languages and fonts (MS Office 2010 installs without errors)
+Some rarely used fonts
+Speech engine
+Tablet features
+IIS
+Remote Desktop and Assistance
+Sync Center
+Windows Sounds, themes (aero presents)
+Windows Easy Transfer
+
+An autoattended.xml file is inserted in the image to automate the installation 
+
+installation
+
+Burn the ISO to a CD & use it as a boot disc...

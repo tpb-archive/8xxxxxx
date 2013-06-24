@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,Violaceum,2013-03-31T22:36Z,"Ugh, utorrent dumped some of the trackers. Please make sure all these are added in your torrent program:
+
+udp://tracker.openbittorrent.com:80/announce
+
+udp://tracker.publicbt.com:80/announce
+
+udp://tracker.istole.it:80/announce
+
+udp://tracker.ccc.de:80/announce"

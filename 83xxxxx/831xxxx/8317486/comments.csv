@@ -1,0 +1,426 @@
+﻿User Type,Username,Date,Text
+,NiceLittleRabbit,2013-03-30T08:32Z,"Thanks
+
+Also, I mistakenly updated to Jeppesen Mobile FD 2.05. Anyone could drop a 2.0 ipa version for download?"
+,NiceLittleRabbit,2013-03-30T08:36Z,"OK, got it @ rutracker dot org /forum/viewtopic.php?t=4395076
+
+Thanks precursor1188"
+,AN-124,2013-03-30T11:38Z,thanksssss
+,NiceLittleRabbit,2013-03-30T12:48Z,"@aljufain1
+
+Do you mean that Jeppesen Mobile FD 2.0.5 works with these cycles?"
+,Budah76,2013-03-30T13:51Z,"Negative, this update is for jeppfd 2.0.0, I've 2.0.5 version and It doesn't work.
+We have to wait for a new version, if you don´t have a backup in your pc (how is my case) or downgrade if you are a lucky man."
+,zlozla,2013-03-30T14:38Z,Can you upload for PC?
+,paffnucy1,2013-03-30T16:03Z,Jeppesen seems to have removed JeppFD from the AppStore.
+,flyedal,2013-03-30T16:12Z,"@NiceLittleRabbit:
+acc. the hoster, it SHOULD work with Jepp FD 2.0.5! At least the folder structure has changed!
+
+@Budah76:
+No success using these files for Jepp FD 2.0.5??
+
+I just recognized, there is no airportlist.bin anymore?! Has anyone tried ""adding"" VFR charts with jepp.exe yet?
+
+I loaded the current iPad version on rutracker for Jepp FD 2.0.0, works fine!"
+,paffnucy1,2013-03-30T19:59Z,Does anyone have a working JeppFD 2.0.0. installation file? The one at rutracker asks for a username and password.
+,NiceLittleRabbit,2013-03-31T00:21Z,"Same question as paffnucy1: has anyone extracted correctly Jeppesen Mobile FD 2.0.0 so that it does not ask for the login/password of the installer? Any cracking utility from Cydia should do the trick.
+
+Thank you in advance"
+,zhuzhu4,2013-03-31T11:09Z,"The Russian version works fine on my ipad 3 ios6.1, jepp FD version 2.0.0."
+,airbusflyer,2013-03-31T14:45Z,"For me on iPad 1 with iOS 6.1.2 it also works now. Made only a short test be he has datas now also outside the demo area.
+Just follow the russian tipps ""New directories at 2.0.5""
+
+Only think which is missing:
+- no weather download
+- no VFR theme (only Low+High)
+- no terrain displayed
+
+But better then nothing of course..."
+,flybyware,2013-03-31T17:12Z,PC version pleaseeeeeeeeeeeeeeeeeee
+,anthony1976,2013-03-31T19:01Z,"I have uploaded FD 2,0,5 but this new version 1307 it's not working.
+
+How can we fix that pb? pls?"
+,olympica,2013-04-01T17:54Z,"On new folder 1307  documents/ data/terminal charts renane the Terminal Charts to TermCharts.This folder drop into the old folder documents/data and replace the old TermCharts With the new one, it works fine fo me "
+,Karlskrone,2013-04-01T21:16Z,NOWONE USES PC ???????????????????????
+,JWRBlack,2013-04-04T08:40Z,"1307 for PC is here: rutracker dot org/forum/viewtopic.php?t=4398802
+
+Full Worldwide  - 014KH45212
+VFR Europe  - 014KG45215
+Worldwide Military Supplement - 014KH45214 "
+,krisf,2013-04-04T16:11Z,"Hi guys,
+
+what i did to get it working on 2.05:
+
+as previously mentioned, put all the data in the 
+/JeppFD.app/DemoData folder.
+
+terrain goes in terrain, jvm goes in jvm and make sure you don't use ""sub"" maps, so everything directly in the folder.
+Once you open one map, 9example terrain) you can already see there are some files ther, delete those and search for the complete files in the downloaded cycle.
+The only tricky part is the enroute databas, or the folder /JeppFD.app/DemoData/Enroute/Database
+here you have to put the db1 and store folders coming out of the enr from this location:
+
+Jeppview 1307 IPADJeppview 1307 IPADDocumentsappDataJDS EnrouteJeppesen Enroute2456359.08333Jeppesenenr
+
+at least that is the one i used
+When all done, respring ipad and you're good to go
+
+If still not working let me know, i might have some more time on my hands too make a better tutorial, but i think this would be clear enough for  now...
+
+btw, using itools, simply the best for exploring the ipad"
+,Budah76,2013-04-04T20:49Z,"Hi Kris, 
+
+Thanks in advance, you are a genius!!!,
+
+as you´ve said, everything WORKS CORRECTLY!!!, but just one question, It seems that there are more folders in the torrent file of this cycle, what must I do with the rest of folders?.
+
+And, the number ""1"" of ""updates"" doesn´t disappear, could you help me?.
+
+Thanks in advance."
+,SeGaBro,2013-04-05T03:14Z,"Anyone know how to avoid or delete the ACTIVATION LINK in JEPP FD PRO?
+Is the only one available in App Store now, I donwloaded it but I do not have the tools to make it work."
+,fly2005,2013-04-05T06:13Z,"Hello, does anyone know to can I delete or update the folders in jeppfd.app because when I try to delete the files in there to update with the files I downloaded from this torrent, it seems lo be locked or protected and does not allow me to delete or replace any file at all.  I mean with the new JeppFD 2.0.5.  "
+,pasa001,2013-04-06T05:03Z,Hi I have updated to FD 2.0.5 but have been unable to get this to work with the new database 1307. I have followed peoples advise but Iexplorer is unable to overwrite the files in JeppFD.app/DemoData folder. ( it seems like JeppFD.app/DemoData folder has been locked and can not be overwritten.)Can someone please explain in great detail how this could be accomplished it would be greatly appreciated by this whole community.
+,ckamaury,2013-04-07T14:23Z,"Hi, thx for all, but it's not working on  the lastest jepp TC .. why ?"
+[T],_SnakEye,2013-04-08T07:59Z,"With all those problems and tweaks I am reading that needs to be done in order to make this work on v2.0.5, is there any added value Upgrading it to 2.0.5 from 2.0.0?
+
+what are the pluses that v2.0.5 has over 2.0.0?"
+,SeGaBro,2013-04-08T18:32Z,"ckamaury;
+
+I did it work following the instructions written before; I replaced the files in the folders according the instructions of Olimpica and worked perfectly.
+
+Good luck!"
+,lambda1,2013-04-08T19:16Z,"pasa001: those locked files are because your ipad is not jailbroken. You have to jailbreak it to get access to the root files like your folders inside your apps. If you have iOS version 6.1.2 or earlier you can, if you have 6.1.3 you can not jailbreak at the moment. But I have tried, and for me it works but not fully functional. No wx, a bit buggy enroue chart when you zoom in and no terrain. So the best option is v 2.0.0. The problem is that you can't go back to the previous version at the moment if you already updated."
+,pasa001,2013-04-09T05:04Z,"Hi Lambda1
+
+Thank you that make sense. I was able to go back to 2.0.0 by not updating JeppFD in my Itune on my computer. I just deleted 2.0.5 and then installed 2.0.0 from my Itunes folder on my computer. If I use 2.0.0 can I use the new data base (1307) to update some of my Terminal and Enroute Data or must I just stick with the last working data base 1306? Thanks for your reply Cheers"
+[T],_SnakEye,2013-04-09T17:29Z,"@pasa001 , I am working with 1307 on 2.0.0.
+no issues that I can spot."
+,krisf,2013-04-10T07:51Z,"@Budah76
+
+haven't found out what all the other files and folders are for so far.
+As for the ""1"" at the update icon,
+
+i believe this is because jepp fd now uses 2 different settings. 1 is the real app once you register / buy it and the other one is the demo.
+So I believe that the demo version will not update and the ""update"" will only look to the real registered folder to see if you have the latest database installed. 
+Since we are completely bypassing this it will only see an empty folder and will ask to update, or better yet, buy / register.
+
+In the 2.0 demo version we were working with the same database as we would be when it was registered so the program only had to cross check one database if it was the latest, now in 2.0.5 it checks if there is a database in the ""registered""folder, and then if it is current.
+
+But this is just my thought on the subject, not a specialist so there is a reasonably large chance i'm wrong ;-)
+
+Oh and since it was working with the few files i got, i let the rest of the files out of my ipad.
+
+So far the only thing i found is that the ""brightness slider""in the app goes along the brightness slider of the ipad now.
+But, as it probably should, it doesn't stay there when you exit the app, or switch to a different app. 
+
+
+And on a completely different not,
+
+i found the JeppFD 2.0.0 version is up on TPB now as well, for those wanting to go back to it, first one on the programs>ios(ipad) list"
+,jortiz1704,2013-04-10T19:02Z,"HI:
+i just made the big mistake to update to the last version (now 2.0.6)
+i have been trying all the ways posted here to make the app works, but i cant do it.
+Has anyone any idea to make the app works?
+i havent made a backup of the apps on my itunes so im not able to downgrade to 2.0 and im using iOs 6.1.3 so i cant jailbrake to install the ipa file to downgrade.
+can anyone send me to my email the files of jeppFD 2.0, so i cant put it on my itunes folder and made the downgrade?
+its really importante for me!
+thanks in advance!"
+,jortiz1704,2013-04-10T19:03Z,"sorry, my email is 
+jortiz1704@hotmail.com
+if somebody could help me, it l be vey appreciated!"
+,free_ryder,2013-04-10T21:57Z,"@krisf
+
+Hey! Perhaps you will know - do you need a JailBroken iPad in order to update the maps on 2.0.6? "
+,jortiz1704,2013-04-11T00:25Z,"I found a short-term solution for the TermCharts using cycle 1307 using the JeppTC, but there are not enroute charts, here is what i do:
+
+1.Download cycle 1307
+
+2. open the folder of the cycle and go to
+documents: appdata, terminal charts, terminal charts  201307, copy the whole content of this folder and past it in a new folder, you need to name the folder ""TermCharts"".
+
+3 using any software (ifunbox, iexplorer, itools etc) go to the JeppTC folder and open it.
+
+4.go to Documents, data, delete all the files there, and copy the folder ""TermCharts"".
+
+now its suposed to be working, just remember that is for term charts, so u are not gone have enroute charts, weather and all that stuff that is included in JeppFD, and lets pray for we can find a solution soon to new uddate of jeppFD."
+,pasa001,2013-04-11T06:35Z,"SnakEye,
+can you please post how you update Jeppfd2.0.0 using cycle 1703
+Thank you"
+,s3rgi0b,2013-04-11T18:42Z,A new update came out is 2.0.6 Im guessing we shouldn´t update?
+,avcalva,2013-04-12T01:56Z,"to update your Jepp TC, Copy all data from:
+
+DocumentsappDataTerminal ChartsTerminal Charts201307.1*.*
+
+To:
+Jepp TCDocumentsDataTermCharts
+
+And you Jepp TC will be update."
+[T],_SnakEye,2013-04-12T12:38Z,"@pasa001 
+the same way like previous versions, nothing new.
+deleted all the folders (enroute and termcarts) and copied the new ones instead."
+,precursor1188,2013-04-13T07:44Z,"Was checking JeppFD 2.06 with 1307 data on an ipad2 non-jb using ifunbox or diskaid
+all data loaded into jeppfd.app-demodata-enroute folder and sub folders.
+copy from 1307 db_b, db1 & store folder to ipad enroute-database folder. db_b folder has the lastest data. I think db_a has the older data. I confirmed with checking sometime updates.
+enroute data works
+copy terrain folder from jeppfd 2.0 to jeppfd 2.06 otherwise terrain limited to one map.
+terrain works. however the distinction of sea and land is not shown when zoom in
+termcharts works. no issue. copy the 1307 termcharts folder to demodata-termcharts.
+weather also works with terminal & enroute
+suggest to those still with fd2.0 to copy out all folders & data to pc for the time being. you don't know if you need them later.
+will have to wait & see what file structure for the next update."
+[T],_SnakEye,2013-04-13T16:03Z,"All I am hearing is that 2.0.6 has problems working with this and working with that, etc. tweaks are required I am reading that needs to be done in order to make this work partially on v2.0.6.
+ Is there any added value Upgrading it to 2.0.6 from 2.0.0?
+
+what are the pluses that v2.0.6 has over 2.0.0 that PPL chose to Upgrade?
+Why everyone insisting on making it work on v2.0.6 when it works perfectly on v2.0.0?
+
+is there a WOW feature that v2.0.6 has that 2.0.0 doesn't? "
+,s3rgi0b,2013-04-13T17:59Z,any fix if you upgrade to 6.1.3 by mistake?
+,wb2lrs,2013-04-13T19:07Z,"
+To use the JeppFD iPAD update 13.07 to update a JeppFD 2.06 iPAD installation, do the following steps:
+
+FIRST: Update to version 2.06 if you have not already done so. If you have messed around earlier with the file structure, it would be best to delete, reboot, and do a clean install of 2.06, so you start from a known position.
+
+SECOND: Unlock the iPAD so you see the iPAD desktop. Double-press the iPAD's home button.  At the bottom of the screen are displayed any running apps.  Find the JeppFD icon. If it's not there, it's not running. Proceed to THIRD.
+Press and hold the JeppFD icon. A red minus sign (-) appears on the top left of the icon. Tap the minus sign to shut down JeppFD.  Press the home button again to return to the desktop view.  
+
+THIRD: if you do not have iTools installed on your PC, get it and install it.  It does an excellent job of enabling examination AND MODIFICATION of the iPAD file structures (jailbroken or not).
+Get it here:
+http://itools.hk/multi_lang_pc_download.htm
+It's Free! No ads (adverts) or other annoyances.
+
+FOURTH: Place the Jeppview 1307 IPAD folder on your desktop and open it.
+
+FIFTH: Open the Jeppview 1307 IPAD/Documents folder.
+You should see the following list:
+ appData
+ data
+plus a file called EnrouteFeatureSettings.plist.  
+
+Having done these things, you're ready to begin. Remember, change nothing unless you are specifically directed to do so.
+Note: Do not be concerned that you will not use all of the files and folders found in the update. Some of these are needed to keep track of a real subscription, and are not necessary in the DemoData folder.
+
+1) Plug the iPAD into a USB port on the PC.
+
+2) Start iTools.
+iTools finds the iPAD, and displays the name of the iPAD on the left side of the window.
+
+3) Select iPADname/Applications.
+A list of the applications installed opens.
+
+4) Locate JeppFD in the list.
+
+5) Click on the blue circle (on the right) that shows a folder.
+A new window opens with the folders associated with JeppFD. We will refer to this window as the iTools window.
+
+6) Click on the Plus sign (+) on the left of JeppFD to expose the complete file structure.
+You should see on the left
++ Documents
++ JEPPFD.app
++ Library
++ tmp.
+
+Do NOT open JeppFD/Documents and try to install things there. It DOESN'T work. The program is designed not to look at anything in this location if a valid subscription serial number is not present.
+
+7) Click on the + to expand the JeppFD/JeppFD.app folder.
+You should see the following list of folders:
++ DemoData 
++ SC_Info
++ Settings.bundle
++ _CodeSignature 
+
+8) Click on the + next to DemoData to expand the folder.
+NOTE Leave the other files and folders listed in step 7 STRICTLY ALONE.
+You will see the following list:
++ Enroute
++ Termcharts.
+
+9) Click on the + next to Enroute.
+The folder expands.
+
+10) Click on the JeppFD.app/DemoData/Enroute/Database folder on the left.In the window on the right
+you see  2 folders:
+db1
+store.
+
+11) Delete the 2 folders
+db1
+store. 
+
+  a) Select the two folders.
+  b) Click on the blue circle that contains an X and confirm the deletion.
+     The 2 folders are deleted.
+
+12) in the 1307 IPAD update folder, open Jeppview 1307 IPADDocumentsappDataJDS EnrouteJeppesen Enroute2456359.08333Jeppesenenr
+You see these 2 folders:
+db1
+store.
+
+13) Drag these two folders into the JeppFD/jeppFD.app/DemoData/Enroute/Database folder, replacing the folders deleted in step 11.
+
+14) In the iTools window, navigate to the JeppFD/Jeppfd.app/DemoData/Enroute/JVM folder.
+
+15) Delete the files in this folder.
+
+16)  in the iPAD update folder, open Jeppview 1307 IPADDocumentsappDataCulturalWW201108JVM.
+
+17) Drag the files in step 16 to JeppFD/JeppFD.app/DemoData/Enroute/JVM in the iTools window.
+
+18) in the iTools window, click on JeppFD/Jeppfd.app/DemoData/Enroute/Terrain.
+
+19) Delete the contents of the folder in step 18.
+
+20) In the 1307 IPAD update folder, open Jeppview 1307 IPADDocumentsappDataTerrainWW2456190.75MobileFDTerrain
+
+21) Drag the files from step 20 into the now empty folder from step 19.
+Be sure to get all of them!"
+,daniel_mteixeira,2013-04-13T22:35Z,"wb2lrs, when i try to erase the files ""db1 and store"" in jeppfd.app/demodata/enroute/database, itools doesn´t allow me to erase, saying that the files are in use... how can i solve it?
+tks"
+,falcon2013,2013-04-14T00:03Z,"wb2lrs, thank you, I did everything that you said and it works!. Thanks alot!"
+,wb2lrs,2013-04-14T01:03Z,"Dang it!  The Pirate Bay cut off some of my instructions.  Also, they took out all the backslashes, so the paths are hard to read.  Hope everyone figured them out anyway! 
+Here's what was missing:
+
+22) In the iTools window, click on JeppFD/JeppFD.app/DemoData/Enroute/TermCharts.
+The terminal charts files are displayed.
+
+23) Delete all the files from the folder in step 22.
+
+24) in the iPAD 1307 update folder, open Jeppview 1307 IPADDocumentsappDataTerminal ChartsTerminal Charts201307.1.
+The files for updating the charts are displayed.
+
+25) Copy the all the files from step 24 into the TermCharts folder in the iTools window.
+Be sure to get them all!
+
+You're done with the charts update!  Optionally, if you wish to have the Jeppesen manuals on the iPAD (why not?), proceed as follows:
+
+1) Close the JeppFD window for iTools.
+
+2) Ensure that iBooks is installed on the iPad.  If not, go to the App Store and install it.
+
+3) In the iTools menu on the left side of the window, open iPADname/iBooks.
+NOTE: There is also a view of the iBooks app inside iPadname/Applications. This is NOT THE CORRECT FOLDER!
+
+4) If there are any old manuals displayed, select them and press the blue circle with an X in it (at the top of the window). The files are deleted.
+NOTE: if the X circle is greyed out, you need to select 1 or more files first.
+
+5) in the Jeppview 1307 IPAD update folder, open Jeppview 1307 IPAD/Documents/data/airway_manuals.
+
+6) Drag the files from this directory into the iTools window iPADname/iBooks.
+
+7) On the iPad, open the iBooks app and verify that the Jepp publications are visible. 
+
+This completes the updates.  Optionally, if you also want the Enroute Notices, you can copy those into iBooks also. The update files are in Jeppview 1307 IPADDocumentsappDataECNPDFJeppesen PDF Enroute2456378.75
+
+Now, Close iTools, open JeppFD on the iPad, tap Demo if asked, agree to the Terms and Conditions, if asked/  Then verify:
+
+1) The enroute chart displays world wide routes and airports, and
+2) The world's terminal charts are available.
+3) Weather should also work when connected to WiFi.  Sometimes, certain components don't complete loading.
+
+Yes? You're good to go!  No enroute data?
+1) Zoom in.  If you are zoomed out too far, the data are not viewable.
+2) You have probably made a mistake.  The instructions are pretty complicated.
+Deinstall and reinstall FD 2.06, and try again, following each step carefully.
+
+I have installed the 1307 update on an iPad 2 to develop these instructions, then validated them by installing the update on an iPad 3, following the instructions exactly.  Both worked. The IPad 1 is not recommended for version 2.06, and, indeed, doesn't work very well with version 2.0. It just doesn't have the hardware resources. The IPad 2 and newer should work OK.
+
+For future updates, the files should be in the same places in the update, and go into the same places in the DemoData folder.  Some of the numbered folders in the update may have different numbers.  We'll see!"
+,wb2lrs,2013-04-14T01:06Z,"daniel_mteixeira :
+If files are in use and cannot be deleted, this means that JeppFD is still running. Go back to SECOND in the instructions and shut down JeppFD.  Then try again.  You may need to disconnect, then reconnect the iPad to iTools, so iTools has an update view of everything..."
+,precursor1188,2013-04-14T05:00Z,"@wb2lrs
+Thank You. I updated jeppFD3.0.6 on a non-jb ipad2. It works. No issue with sea & land distinction when using my way to update.
+Those who download the 1307 ipad update data from russian site rutracker may find that they do not have the appData folder as mentioned by wb2lrs. You need to download the 1307 file from here. Guys plse keep the seed on.
+Everything works as per jeppFD2.0. From what I have gathered, the advantage of 3.0.6 is for paid used who download online lesser data as e.g. the terrain data need not be downloaded if there are no updates."
+,precursor1188,2013-04-14T05:15Z,Sorry. My earlier post mention JeppFD3.0.6. Should be JeppFD2.0.6
+,rafikihd,2013-04-14T09:55Z,"@wb2lrs
+
+I've been trying to delete all the necessary folders but iTools still dont let me do it. I've followed instructions step by step.
+What should I do? Thanks"
+,kalidim,2013-04-14T12:19Z,Same problem here. I've tried deleting the folders mentioned but no luck whatsoever. I've made sure that I have shutdown JeppFD but it still says that the files are in use... Any help or feedback would be greatly appreciated!
+,FlyboyX1,2013-04-14T13:58Z,"In case you upgraded from your JeppFD 2.0 you may find the folders ""TermCharts"" and ""Enroute"" in the Documents folder too (these are the ""old"" folders from JeppFD 2.0).
+
+Since we learned that running the version 2.06 in Demo mode the Documents folder is not searched for files, the files content in there can be deleted in order to save over 1 gig of memory.
+Otherwise your JeppFD will uselessly consume a lot of memory.
+
+But as always: make a backup of files before deleting them! Just in case..."
+,precursor1188,2013-04-14T14:25Z,Just to help those people unable to delete folders or files with itools. Ensure that you have install the latest itunes as it is need by itools. You don't have to run itunes when using itools. Also you can try ifunbox or diskaid if the problem is with itools. All the 3 programs need itunes installed.
+,flyedal,2013-04-14T15:10Z,"Same here, ifunbox woun't let me manipulate files in the JEPPFD.app folder, all other folders work fine! 
+I got latest iTunes, latest ifunbox! Still, i doenst work! Any help?"
+,Arinc429,2013-04-14T15:33Z,"I have the latest itunes version installed (with authority on this device)and following all steps I can delete or modify any JeppFD folder or file. I tried Ifunbox, iexplorer, itools and disk aid, and same results found. Curiously, DiskAid does not detect the JeppFD application on App tree. It seems to be protected."
+,precursor1188,2013-04-14T16:32Z,"Just a thought, maybe you guys can try running itools with right click run as administrator. Check if this solve the issue of unable to delete files.
+
+On another subject. I downloaded the 1308 ipad update posted on the russian site rutracker. The file structure favours updating to FD 2.0.6. May have issue for some if effective date is required because the day you update it becomes effective."
+,flyedal,2013-04-14T17:39Z,"@precursor1188
+are u running thoose apps on windows? 
+I m using ifunbox and itools on mac, haven't found such thing like run as admin! :(
+
+the 1308 from rutracker seams to have some difficulties in chart order! Can you open LOWW 11-6 ILS34 e.g.!
+
+And same here with some charts being displayed right away, even though it is not 18APR yet! ;)
+
+Running it on JeppFD 2.0.0"
+[T],_SnakEye,2013-04-14T19:37Z,"@flyedal 
+same here.
+using v2.0.0, tried 11-6 at LOWW, got an error saying
+""The requested chart is not in the library. contact Jeppesen Technical Support""
+I tried some other charts also and I get on some the same error.
+I wonder if the same issue is on v2.0.6.
+
+can some one with v2.0.6 can check if the chart 11-6 (ILS OR LOC RWY 34) at LOWW is working without an error message?"
+,s3rgi0b,2013-04-15T06:56Z,I can not delete files in JeppFD please help... is this because of iOS 6.1.3?
+,precursor1188,2013-04-15T08:54Z,Yes. I think the problem is due to ios 6.1.3. Previously I had ios 5.1.1 on my ipad2 and jeppFD2.0.6 and I could delete files. Now after upgrading to ios 6.1.3 I cannot delete files.
+,wb2lrs,2013-04-15T18:12Z,Loww loc rwy 34 is actually chart 11-5. This chart is in the 1307 update and does work without error.
+,wb2lrs,2013-04-15T18:21Z,"So there must be an anomaly in the ru.tracker 1308 update. Haven't tried it, yet, because of effectivity."
+,flyedal,2013-04-16T10:49Z,"okay, found a workaround for that ""Chart not in library"" error!
+I used airports.dbf & charts.dbf from 1307, and created a new airportlist.bin file with jepp.exe!
+Works fine for me, no more errors, got all the correct charts in the right place!
+However the effectivity issue still ISNT solved! :("
+,rafikihd,2013-04-16T14:23Z,"@flyedal
+Did u managed to manipulate the files?"
+,flyedal,2013-04-16T15:04Z,"no, i did it on v2.0.0!
+Sorry for confusion! ;)"
+,ricparis,2013-04-18T03:15Z,"Hi guys, im having some trouble with the app
+
+I Understand perfectly All the steps related to folders What I have to Move and replace, The thing is I cant Modify the Files in the FD Jeppensen Mobile app since I Updated to 2.0. 06, i used iexplorer and itools and none of them are modifying files, they dont give me any error or anything like that, it just wont do it. (I verified not having the app active and still nothing)
+
+im running IOS 6.1?
+
+Please Help me, I BEG you, im About to start A hard Week of flying and 2.0.6 has just Ruined My life
+
+Thanks to All of You.
+
+Greetings From Venezuela"
+,JAB69,2013-04-18T04:24Z,"Warning: With iOS 6.1.3 and Mobile FD 2.0.6 it is no longer possible to edit the necessary files in the iPad. I have a licensed verion of iExplore and also i Tools, none of them are able to edit the files on the ipad (delete and copy does not work) a workarond for this problem is necessary. "
+,JAB69,2013-04-18T04:39Z,Warning: With iOs 6.13 and Jeppview 2.0.6 it is no longer possible to edit the necessary files in the iPad with iExplorer and iTools. A workouround for this problem must be found.
+,flyedal,2013-04-18T07:32Z,"Rutracker org released another 1308 cycle!
+Works perfect on JeppFD 2.0.0! (iOS 6.1.3)
+No Chart library issues,
+No Eff date issues!
+
+Find&load the JeppFD 2.0.0 ipa here and replace your 2.0.6 file in the itunes folder!
+Delete 2.0.6 on the iPad, reinstall (v.2.0.0) via iTunes!
+Then you should be back to ""normal""!
+
+PS: Maybe you have to ""refind"" the file in itunes!"
+,Sky.Skipper,2013-04-18T11:35Z,"Dear flyedal,
+
+Would you please upload the (1308) version which you could successfully use, or put the usable link for download as most of us could not work with rutracker as it's in russian.  TNX"
+,mlpilot,2013-04-19T17:15Z,someone with cycle1308 pleaseeeee 
+,mlpilot,2013-04-19T17:31Z,"people here it goes... cycle1308 iPad
+
+http://thepiratebay.sx/torrent/8386276/jeppFD_TC_cycle_1308_(iPad)"
+,JAB69,2013-04-20T17:05Z,"Apple made some changes in iOS 6 where the .app (dot app) folder within an app directory is read-only and cannot be modified or written to, there is still read/write access in any other app subdirectory such as Documents or Library, same as in previous iOS versions. All iOS transfer utility software will have the same limitation with iOS 6, and jailbreaking the device is the only way around this currently. Try: http://evasi0n.com"
+,wingcpt777,2013-04-22T05:03Z,"HI Guys thanks for the great work. My first time in the forum and I have had my Jepp FD up and running on V2.0.6 and 1307 with out too much probs.
+Just need one more info, I cant seem to get my enroute chart to display the Atc frequencies? Got airports Fir boudaries etc but no freqs?
+Thanks"
+,precursor1188,2013-04-23T03:42Z,"@wingcpt777
+zoom in. long touch on the fir boundary or airport runways. a popup will appear. select the appropriate area control. you will see a communication option. suggest you go to jepp site and check out some tutorials."
+,daniel_mteixeira,2013-04-27T17:21Z,"Folks,
+
+I really wasn't able to erase some files on version 2.0.6, even trying all the tips written here...
+
+Meanwhile, i downloaded JeppTC to use the latest database... I don't have route, weather, night theme and other advantages of Jepp FD, but at least i have worldwide charts...
+
+It's horrible, but works...
+
+Seems that i'll be forced to JB my ipad ...."

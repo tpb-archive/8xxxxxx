@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,8906,2013-03-30T16:16Z,Thanks for this upload.
+,Hades77,2013-03-30T21:17Z,"I just resgister so I can comment that it doesn't work.I am not noob,playing with 1.9.32 patched game(with Dlcs etc) till now using CK 1.8 with no problems(even multiple master files enabled) but this version simply it's stopped loading(actually get stucked no matter how many time I leave it loading..)  when at status bar says that ""Windows initialiazed"" something. Any clues ? 
+1.8 CK works fine with game 1.9.32 though."
+,alibabi1201,2013-04-01T09:33Z,"Works perfectly fine for me, including loading all the DLCs. I chose not to replace the steam_api.dll, and instead kept the steam_api.dll from Reloaded's Update 13.
+
+Also, make sure your SkyrimEditor.ini is set up correctly. Add under [General] (if not already there):
+bAllowMultipleMasterLoads=1
+
+Under [Archive], replace the SArchiveList line with (all one line):
+SArchiveList=Skyrim - Textures.bsa, Skyrim - Meshes.bsa, Skyrim - Animations.bsa, Skyrim - Voices.bsa, Skyrim - Interface.bsa, Skyrim - Misc.bsa, Skyrim - Sounds.bsa, Skyrim - VoicesExtra.bsa, Skyrim - Shaders.bsa, Update.bsa, Dawnguard.bsa, Hearthfires.bsa, Dragonborn.bsa
+
+Also under [Archive], replace the SResourceArchiveList2 line with (all one line):
+SResourceArchiveList2=Skyrim - Shaders.bsa, Update.bsa, Dawnguard.bsa, Hearthfires.bsa, Dragonborn.bsa"
+,Hades77,2013-04-04T13:26Z,"I've done all that,I tried with Reloaded's steam_api.dll file,and tried also with the  one from this torrent..nothing.However 1.8 CK works fine wtih game 1.9"
+,strider4ever,2013-04-13T22:37Z,"@Hades77
+Even legit users have countless problems with the CK. I say google it and you might find a solution"
+,Rydevil,2013-04-20T07:07Z,Works perfectly for me
+,Azrakay666,2013-05-19T02:58Z,"Thx man,Works pefectly...ill just need to dl it again...cuz i has some serous problems with my Rig
+
+and PPL who have rz911 relase just make a backup of u steam_api.dll then use the one within tis torrent.....CK+Skyrim works for me with that dll,so it should to u guys too,but if dont just copy back the rz911 dll after u finished with the CK GL guys ^^"
+,117Masterchief,2013-06-07T15:58Z,"It says that these files couldn't load proper MODELS: Could not find model MeshesSkyAtmosphere.nif
+
+MODELS: Could not find model MeshesSkyClouds.nif
+
+MODELS: Could not find model MeshesWaterDefaultProceduralWater.NIF
+
+and if you have a solution can give a detailed decription to fix and say as if you were talking to a kid hahaha I suck at this stuff :P just wanna get into modding but have no idea how to frix it and the other comments i have no idea wtf there talking about lol so if could help meh out that'd be great :D"
+,117Masterchief,2013-06-07T16:00Z,"These things won't load properly when I start it and then it won't let me start it up after any help please 
+
+MODELS: Could not find model MeshesSkyAtmosphere.nif
+
+MODELS: Could not find model MeshesSkyClouds.nif
+
+MODELS: Could not find model MeshesWaterDefaultProceduralWater.NIF
+
+and if you have a solution could you please help me and describe it as if I was a kid :P haha I'm bad at this shit i just wanna get into modding and such Thanks"

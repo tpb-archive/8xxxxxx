@@ -1,0 +1,150 @@
+﻿User Type,Username,Date,Text
+,Satona,2013-03-27T17:47Z,"FYI, here's how to get all the videos/podcasts/q&a/bonus/livestreams (all credits go to cerebro13 who posted it on the previous video)
+---------------------------------------
+ Alright I made an account just for this to help you guys SO FUCKING LISTEN UP.
+
+There is a fucking easy way to get around the Project GO site YOU NEED AN EXISTING unsubscribed account, I haven't paid for about 2-3 months now and its working fine, its so fucking easy, just use the NoRedirect plugin on firefrox and add the following entry
+^http://(?:[^/]+.)?simplepickup.com
+
+This turns off the redirecting on Project GO so you wont redirect to the shitty sign up for project go page.
+
+Here is the steps.
+
+Download and install the NoRedirect plugin for FF, restart FF.
+
+go to tool and NoRedirect.
+
+click ADD on the right,
+
+paste in this ^http://(?:[^/]+.)?simplepickup.com
+
+tick source.
+
+move it to the top by clicking MOVE UP.
+
+click OK.
+
+go and log into your unsubscribed Project GO account.
+
+click on any of videos, podcasts or any PG content.
+
+then enjoy!
+--------------------------------------
+
+And now for some more information from me:
+IF YOU CAN ONLY SEE THE VIDEOS, HERE ARE THE DIRECT URLS TO ALL THE CATEGORIES (as of 27/03/2013)
+Videos: https://www.simplepickup.com/pgo/nav/video
+Q&A: https://www.simplepickup.com/pgo/nav/qa
+Podcasts: https://www.simplepickup.com/pgo/nav/podcast
+Bonus: https://www.simplepickup.com/pgo/nav/bonus
+Live events: https://www.simplepickup.com/pgo/nav/vokle
+
+I would upload everything on here but I'm on limited bandwidth so I can't... hopefully someone else will."
+,Satona,2013-03-27T17:51Z,"And apparently there's no edit function on TPB so...
+
+In the links I gave you, you may have to change https to http OR change
+^http://(?:[^/]+.)?simplepickup.com
+to
+^https?://(?:[^/]+.)?simplepickup.com
+
+in the NoRedirect plugin."
+,Rjvkr,2013-03-27T18:27Z,"@satona Can u give me an Unsubscribed account 
+I didnt understand dat procedure where u telling go and login in project go unsubcribed account 
+Help Bro!!!"
+,Rjvkr,2013-03-27T18:32Z,"@satona 
+can U Give us Unsubscribed account Of Project Go I Didint Understand ur Procedure where u told us go to project go and login with unsubscribed account 
+HELP Bro"
+,Satona,2013-03-27T18:56Z,"To make an unsubscribed account, just go to https://simplepickup.com/premium/signup/index/c/ and fill in all the information. Leave the payment type on ""Credit Card"" and then click Next.
+
+At that point, your account will be created. Obviously, don't enter any credit card information, just use that unsubscribed account to go through the website."
+,Rjvkr,2013-03-27T19:47Z,"@Satona Thnkx Just one thing What Should i add in NoRedirect Plugin
+Which One 
+1.^http://(?:[^/]+.)?simplepickup.com
+
+2.^https?://(?:[^/]+.)?simplepickup.com
+nd I will give u d Feedback if it works 4 me or not
+nd Its Asking Me Reffral Code What Should i Put Inside It?"
+,kingjiggy,2013-03-27T19:51Z,"@ Satona
+
+I did exactly the same as you described in your comment and I also created a unsubscribed account. But when I click on the videos, it always shows ""Sorry
+The creator of this video has not given you permission to embed it on this domain. This is a Vimeo Plus feature."" 
+
+How can I solve this problem? I live in Germany, maybe that matters?! Please help!!"
+,kingjiggy,2013-03-27T19:54Z,"@ Satona
+
+I did exactly the same as you described. But when I open the videos, it always says ""Sorry
+The creator of this video has not given you permission to embed it on this domain. This is a Vimeo Plus feature.""
+
+How can I solve this problem? I live in Germany, but I think this doesn't matter. Please help!!"
+,Rjvkr,2013-03-27T19:55Z,@satona I Fuckign Luv You Legitmate Man Thanks Serious Shit Luv u :)
+,kingjiggy,2013-03-27T19:57Z,The creator of this video has not given you permission to embed it on this domain. This is a Vimeo Plus feature.
+,kingjiggy,2013-03-27T19:58Z,"Can anyone help? When I try to open the videos, it always shows ""The creator of this video has not given you permission to embed it on this domain. This is a Vimeo Plus feature.""
+
+How can I solve this problem?"
+,Rjvkr,2013-03-27T20:03Z,@satnos hey listen Bro its not working for me No i cant see any video and podcast etc.
+,Rjvkr,2013-03-27T20:05Z,"@satnosh can u Make a Video of Procedure 
+Its Fucking Not Working Its Showing me video but its higlighted and nt playing its just not working its just only let me bypass but not letting me play anything"
+,Rjvkr,2013-03-27T20:05Z,Its Asking mE Reffrel Code What d hell is This 
+,cerebro13,2013-03-27T21:23Z,"Good to see my guide helping you guys out here, if you guys are having problems just forward the video a little if that doesn't work then just download that stream it internet download manager."
+,cerebro13,2013-03-27T21:24Z,*with internet download manager
+,chakde17,2013-03-27T22:12Z,"@Satona and @cerebro13
+I did everything you guys said to do..I still cant open any video's all i see is ""month 12, 11, 10"" and so on but i can not click on any of them or watch.... HELP me bros"
+,Satona,2013-03-27T22:30Z,"@chakde17
+You're not logged into the unsubscribed account."
+,internetboxer,2013-03-27T22:46Z,"I did all that as well and I am not able to see or download it , can you upload more bonus videos..."
+,zakco,2013-03-27T23:02Z,"@Satona and @cerebro13
+GODS AMONGST MEN, THANK YOU.
+
+@moonstar14
+Thanks for the constant uploads, you rock
+
+@ All simplepickup followers/ everyone else
+The trick outlined by Satona and cerebro13 is in fact legit. Follow those instructions, they work.
+ If you do have the extra money however, please actually pay for the subscription as it helps out the SP guys. 
+         Good luck players!"
+,internetboxer,2013-03-28T00:06Z,"We did all that but we get error because videos wont apper , and when i copy and paste link they say it is unvelible , please download it and upload on TPB , you will help us alot..."
+,Satona,2013-03-28T01:20Z,"Again, this is what it will look like if you are not logged in on your simple pickup account.
+http://i.imgur.com/ziOvQ5k.png
+This is what it will look like if you're logged in.
+http://i.imgur.com/fnz7N1p.png
+
+If you see the first thing, you NEED TO LOGIN FIRST. 
+
+@internetboxer
+The only two bonus videos are at:
+http://www.simplepickup.com/pgo/m01/bonus-aids-and-whole-foods-date/
+http://www.simplepickup.com/pgo/m06/new-project-go-bonus-video-jasons-15-min-pull/"
+,internetboxer,2013-03-28T02:06Z,"@Satona
+Yeah upload that 15 min pull...
+I have acc and everything , and when I click on some video here is what it shows:
+
+http://postimg.org/image/a5dcxq093/
+
+There is no video , and I am not able to download it with IDM...
+Can you download all Q&A and upload them on PTB?"
+,zakco,2013-03-28T03:13Z,"@internetboxer
+Firefox addon DownloadHelper. It will download any video, any site."
+,zcrixx,2013-03-28T03:20Z,"I would FUCKING LOVE the guy who posts all the Q and A. Honestly, it's a fuckton of Q and A and if someone already downloaded them it would help greatly if they were to upload it here. Please!"
+,zakco,2013-03-28T03:24Z,"Currently uploading all livestreams
+
+Would be cool if someone uploaded all the Question and answers."
+,all.4.1,2013-03-28T08:09Z,http://thepiratebay.sx/torrent/8306938/Simple_Pickup_-_Project_Go_-_Month_11_-_Week_4__Q_and_A_
+,internetboxer,2013-03-28T12:49Z,"@zakco 
+
+create file in bittorent , and upload that file, it shouldnt take more then 5 min...
+
+
+Thank you guys for uploading it o TPB..."
+,zakco,2013-03-28T17:05Z,"Livestreams
+http://thepiratebay.sx/torrent/8311433"
+,zakco,2013-03-28T17:07Z,"Q and As posted by all.4.1
+http://thepiratebay.sx/torrent/8309992/"
+,Armadared,2013-03-28T18:39Z,Everybody who have been having trouble viewing videos even with an account should try to disable any flashblocker addon that you have installed . I too had this viewing  problem and this simple trick solved it. Do let me know if this helped. And special thanks to Satona for sharing this wonderful trick. 
+,gabilcardoso,2013-04-01T20:03Z,livestreams are not working guys. 
+,internetboxer,2013-04-01T21:43Z,"@gabilcardoso
+
+They are working perfectly to me..."
+,BDuncan111,2013-04-18T09:11Z,"When will any April 2013 content be posted up, or has moonstar14 stopped uploading. "
+,BDuncan111,2013-04-18T09:12Z,"When will April 2013 content be posted up, or has moonstar14 stopped uploading."
+,BDuncan111,2013-04-18T09:14Z,"When will April 2013 content be posted, or has moonstar14 stopped uploading."
+,BDuncan111,2013-04-18T09:16Z,"When will April 2013 content be posted up, or has moonstar14 lost interest in uploading."

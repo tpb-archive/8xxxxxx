@@ -1,0 +1,41 @@
+Format                         : Flash Video
+File size                      : 365 MiB
+Duration                       : 1h 38mn
+Overall bit rate               : 520 Kbps
+httphostheader                 : r19---sn-30a7en76.googlevideo.com
+
+Video
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 3 frames
+Format settings, GOP           : M=1, N=60
+Codec ID                       : 7
+Duration                       : 1h 38mn
+Bit rate                       : 382 Kbps
+Width                          : 640 pixels
+Height                         : 352 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.057
+Stream size                    : 268 MiB (74%)
+
+Audio
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 10
+Duration                       : 1h 38mn
+Bit rate                       : 129 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 90.3 MiB (25%)
+

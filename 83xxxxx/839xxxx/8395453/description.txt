@@ -1,0 +1,104 @@
+==== Cowboy Bebop ====
+
+Complete series (26 episodes)
+
+
+==== Series information ====
+
+Year: 1998-1999
+Original Work: Hajime Yatate
+Direction: Shinichirou Watanabe
+Music: Youko Kanno
+Production studio: Sunrise
+Runtime: 24 minutes × 26 episodes
+
+
+==== Storyline ====
+
+Spike Spiegel, a bounty Hunter with a dark past, lives on bounty to bounty,
+barely making it each time, or not making it at all. His partners Jet Black,
+Faye Valentine, Ed and Ein the dog all help him in his adventures from planet
+to planet.
+
+                                                Source: Anime News Network
+
+Spike Spiegel et Jet Black sont deux chasseurs de primes parcourant la galaxie
+à bord du Bebop à la recherche de truands en tout genre. Ils seront vite
+rejoints par Faye Valentine l'endettée amnésique, Ed l'enfant hacker et Ein
+le chien prodige. Malgré les apparences, ils forment un petit groupe soudé
+à qui il arrive de nombreuses aventures. Les uns et les autres vont voir
+ressurgir des démons de leur passé…
+
+                                                Source : Anime-kun
+
+
+==== Release information ====
+
+Audio:
+- Japanese 5.1 48 kHz AAC ~600 kb/s (souce: Blu-ray, qaac V127)
+- French 5.1 48 kHz AC3 448 kb/s (source: Fr DVD, lildadou3)
+- English 5.1 48 kHz AC3 448 kb/s (source: R1 DVD, NP-Complete)
+- Japanese commentary mono 48 kHz AAC ~100 kb/s (source: Blu-ray, qaac V91)
+- English commentary stereo 48 kHz HE-AAC ~160 kb/s (source: R1 DVD, OZC)
+
+Subtitles, both styled and SRT:
+- French (source: Fr DVD, lildadou3)
+- English (source: R1 DVD, OZC)
+- Chinese (source: FOSKY Lingfeng Studio)
+- English commentary (source: R1 DVD, OZC)
+
+Video: 960×720 23.976 fps VFR, 10-bit H.264, 2-3 Mb/s, CRF 15-17
+
+Format: MKV
+
+Source: Blu-ray (shayes on ADC)
+
+Only episodes 1, 5, 11, 17, 22 and 24 come with an audio commentary, in English
+for episode 5. The translation is missing for episodes 11 and 22.
+
+
+==== Encoding notes ====
+
+The Cowboy Bebop Blu-ray footage come in four kinds:
+- True 1080p film scan. The quality is excellent but shows a lot of grain.
+  Fortunately, most parts of the series are made of these.
+- Smooth 720p film scan. Less crisp than the 1080p scans, but still good.
+  Shows a bit of noise reduction. Episode 3 is mostly made of these footage.
+- Sharp 720p film scan. Grainy and much closer to the 1080p look than the
+  smooth-720p sort, but shows terrible halos. Lot of them in episodes 14 or 24.
+- Various forms of upscaled SD video. They show halos, noticeable aliasing
+  (especially on the CG parts) and sometimes noise looking like dot crawl or
+  color banding. Some parts seem to have been processed in a very ugly way
+  (episode 23).
+
+What we did:
+- Interlaced video has been manually IVTCed and controlled in a semi-automated
+  way.
+- A few episodes contained 30p or 30i footage, we converted these parts to 30p
+  and made the video VFR.
+- Remaining interlacing artefacts and interlaced fades (ending) have been
+  smoothed.
+- Most grain has been filtered, but we kept it intact on delicate scenes.
+- Aliasing has been smoothed and temporally stabilised to counter the horrible
+  shimmering of CG animation.
+- Halos have been masked.
+- Color banding has been fixed.
+- We detected a few badly composed pictures that we fixed.
+
+What we could have done but did not:
+- Cel stabilization. Footage were not shaky enough to justify this processing
+  and the huge amount of work.
+- Dust cleaning. The whole series was already quite clean, but some parts had
+  more dust than others. Again, this is a lot of semi-automated work for a
+  minor annoyance.
+- Keeping the Japanese setero track.
+- Blu-ray bonus.
+
+Encoding source code attached to the episode 1, for encoders who wants to
+create and release a “whole-grain” version without redoing the IVTC and SD
+filtering from scratch.
+
+
+==== Screenshots ====
+ 
+http://postimg.org/gallery/c6zxpslw/de9e9480/

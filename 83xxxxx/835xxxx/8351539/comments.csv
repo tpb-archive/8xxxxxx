@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,pornstore,2013-04-08T01:08Z,If you using Windows 7 x64 you must copy files to C: - Program Files (x86) - Electronic Arts - Command & Conquer 3 because there are two folders named Program Files and need one which ends with (x86) (Step 2)
+,pornstore,2013-04-08T08:07Z,"TO RUN ON WINDOWS 7 x64
+
+1.Extract the game archive in any folder like D:Games
+
+2.Copy content of folder Command & Conquer 3 Kanes Wrath - #readme# - CC3-dummy to C: - Program Files (x86) - Electronic Arts - Command & Conquer 3 (dont change this path)
+
+Note: You must create above folders and subfolders yourself and you must have three items after copying such as Core , RetailExe and CNC3.exe all with zero file size. Do not change the name of above path and its destination!!!
+
+3.Edit the file RunMe C.reg with this content, save it and run it:
+
+REGEDIT4 
+
+[HKEY_CURRENT_USERSoftwareElectronic ArtsElectronic ArtsCommand and Conquer 3] 
+""InstallPath""=""D:\Program Files (x86)\Electronic Arts\Command & Conquer 3"" 
+
+4.Run the file Command & Conquer 3 Kanes Wrath - #readme# - RunMe.reg and click Yes.
+
+5.Run the game from its installed path from Command & Conquer 3 Kanes Wrathcnc3ep1.exe"
+,pornstore,2013-04-08T10:58Z,FAST MIRROR DOWNLOAD HERE: ftp://voksi.dyndns.info/Command.&.Conquer.3.Kanes.Wrath.rar

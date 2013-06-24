@@ -1,0 +1,77 @@
+Description
+
+
+Poster: http://cdn.piczend.com/image/s4a55ikigkdee3uovwh73kfx7.jpeg
+Release date: 2013
+Genre: Animation, Adventure, Comedy, Family, Sci-Fi
+Plot: Astronaut Scorch Supernova finds himself caught in a trap when he responds to an SOS from a notoriously dangerous alien planet.
+--------------------------------
+Runtime: 1 h 29 min
+Rating: 5.1/10
+Votes: 1,628
+Writer(s)/Director(s): Bob Barlen, Cal Brunker/Cal Brunker
+Actors: Brendan Fraser, Sarah Jessica Parker, Jessica Alba, Rob Corddry
+Trailer: http://www.imdb.com/video/imdb/vi1950917657/
+
+Screenshots: 
+http://cdn.piczend.com/image/p0xydbdyxit7kl8kimwc0j5hr.jpeg 
+http://cdn.piczend.com/image/4ku9ojpegdiih65qp3a12bzfx.jpeg 
+http://cdn.piczend.com/image/1w6w3nrd8rih6noalmiiiyycz.jpeg 
+http://cdn.piczend.com/image/p40oangwjspnajmrrto47ogkx.jpeg
+
+Mediainfo:
+General
+Complete name :	Escape from Planet Earth (2013) CAM 304p [Zend]/Escape from Planet Earth (2013) CAM 304p [Zend].mp4
+Format :	MPEG-4
+Format profile :	Base Media
+Codec ID :	isom
+File size :	1.01 GiB
+Duration :	1h 25mn
+Overall bit rate :	1 685 Kbps
+Writing application :	Lavf53.21.1
+
+Video
+ID :	1
+Format :	AVC
+Format/Info :	Advanced Video Codec
+Format profile :	Main@L3.0
+Format settings, CABAC :	Yes
+Format settings, ReFrames :	3 frames
+Codec ID :	avc1
+Codec ID/Info :	Advanced Video Coding
+Duration :	1h 25mn
+Source duration :	14mn 16s
+Bit rate :	1 500 Kbps
+Width :	720 pixels
+Height :	304 pixels
+Display aspect ratio :	2.35:1
+Frame rate mode :	Constant
+Frame rate :	24.940 fps
+Color space :	YUV
+Chroma subsampling :	4:2:0
+Bit depth :	8 bits
+Scan type :	Progressive
+Bits/(Pixel*Frame) :	0.275
+Stream size :	914 MiB (88%)
+Source stream size :	914 MiB (88%)
+Writing library :	x264 core 123 r2189 35cf912
+Encoding settings :	cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=0 / open_gop=1 / weightp=2 / keyint=250 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=1500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.25 / aq=1:1.00
+mdhd_Duration :	5151920
+
+Audio
+ID :	2
+Format :	AC-3
+Format/Info :	Audio Coding 3
+Mode extension :	CM (complete main)
+Format settings, Endianness :	Big
+Codec ID :	ac-3
+Duration :	1h 25mn
+Bit rate mode :	Constant
+Bit rate :	192 Kbps
+Channel(s) :	2 channels
+Channel positions :	Front: L R
+Sampling rate :	48.0 KHz
+Bit depth :	16 bits
+Compression mode :	Lossy
+Delay relative to video :	40ms
+Stream size :	118 MiB (11%)

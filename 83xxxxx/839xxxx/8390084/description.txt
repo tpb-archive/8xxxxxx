@@ -1,0 +1,25 @@
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 157 MiB
+Duration : 3mn 53s
+Overall bit rate mode : Variable
+Overall bit rate : 5 663 Kbps
+Encoded date : UTC 2013-04-12 11:27:50
+Tagged date : UTC 2013-04-12 11:27:50
+gsst : 0
+gstd : 233243
+gssd : B77E3C004HH1365939710821407
+gshh :
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 1 frame
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 3mn 53s
+Bit rate : 5 469 Kbps 

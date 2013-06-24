@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,Trehnt,2013-04-21T11:36Z,"Uh... that's weird, it's 10 GB..."
+[V],thenoobish,2013-04-21T14:17Z,You added both the iso and the jtag files. You should recreate it with just the jtag files:P
+,JohnNBK,2013-04-21T14:24Z,That's because it also contains the .iso

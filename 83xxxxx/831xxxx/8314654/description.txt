@@ -1,0 +1,48 @@
+               PublicHD - High-Definition Bittorrent Community
+     
+                         https://publichd.se/
+
+            ----------------------------------------------------
+
+Django.Unchained.2012.720p.BluRay.DTS.x264-CtrlHD [PublicHD]
+ 
+http://www.imdb.com/title/tt1853728/
+
+RUNTiME.........: 02h:45m:23s
+SiZE............: 8.11 GB
+ViDEO CODEC.....: x264, 2pass, L4.1
+FRAMERATE.......: 23.976 fps
+ViDEO BiTRATE...: 5500 Kbps
+RESOLUTiON......: 1280x534
+AUDiO...........: DTS 5.1 English @ 1510 kbps
+SUBTiTLE........: eng-sdh SUP, eng SRT, eng-sdh SRT
+SOURCE..........: Django Unchained 2012 1080p Blu-ray AVC DTS-HD MA 5.1-HDWinG
+
+ENCODER.........: CtrlHD
+RELEASE DATE....: 29/03/2013
+
+
+x264 Information
+y4m1280x534p 0:0 @ 24000/1001 fps (cfr)
+x264using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264profile High, level 4.1
+x264frame I:1932  Avg QP:12.90  size:154317
+x264frame P:48015 Avg QP:15.29  size: 56955
+x264frame B:187964 Avg QP:17.34  size: 20148
+x264consecutive B-frames:  1.7%  2.5%  5.0% 18.9% 17.5% 30.7%  8.5% 10.6%  2.6%  0.9%  1.1%
+x264mb I  I16..4:  2.8% 79.6% 17.6%
+x264mb P  I16..4:  0.1% 10.7%  0.8%  P16..4: 23.5% 32.9% 23.8%  5.7%  0.6%    skip: 1.8%
+x264mb B  I16..4:  0.0%  1.3%  0.1%  B16..8: 31.2% 25.7%  8.2%  direct: 8.6%  skip:24.9%  L0:43.3% L1:41.0% BI:15.8%
+x2648x8 transform intra:90.0% inter:49.6%
+x264direct mvs  spatial:98.9% temporal:1.1%
+x264coded y,uvDC,uvAC intra: 97.6% 96.2% 90.6% inter: 38.4% 28.3% 12.4%
+x264i16 v,h,dc,p: 40%  8%  9% 43%
+x264i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13%  8% 12%  9% 12% 11% 11% 11% 12%
+x264i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18%  7%  4%  8% 14% 13% 13% 11% 11%
+x264i8c dc,h,v,p: 54% 14% 15% 17%
+x264Weighted P-Frames: Y:2.7% UV:1.7%
+x264ref P L0: 42.8%  8.7% 19.6%  7.1%  6.9%  4.6%  4.8%  2.5%  2.8%  0.2%  0.0%
+x264ref B L0: 70.2% 13.6%  6.3%  3.6%  2.5%  2.2%  1.2%  0.5%
+x264ref B L1: 92.5%  7.5%
+x264SSIM Mean Y:0.9842391 (18.024db)
+x264kb/s:5498.29

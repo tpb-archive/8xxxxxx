@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,brbear,2013-04-24T06:43Z,"...and did you test it for Cinavia protection? The last 2 ISO's I downloaded have Cinavia, making this a silent film about 20-30 minutes into viewing it.
+"
+,hilife717,2013-04-25T20:29Z,"I have this ISO playing back with full audio using DVD-fab 8.2.2.8. There are possibly other Virtual ISO programs that are good for mounting ISO's. DVD-fab 8 has been my choice, I haven't tried any other to make a comparison. Keep me posted."
+,brbear,2013-04-27T23:06Z,"I cant speak for Cinavia, but I can tell you that if you burn it, it won't play in a BD player.
+
+a load bar comes up... then about 4 minutes of black, then the menu (no background video)... and if you select a video, either main feature or an extra... nothing happens.
+
+I'll try a re-burn, but I'm not holding my breath"
+,brbear,2013-04-28T01:17Z,"Reburn same result.
+
+Extracted the ISO and burned just the Blu-ray relevant folders ... same result.
+
+Unless you're using this as a PC image, this ISO is a dud."
+,hilife717,2013-04-28T03:14Z,"Well I found something interesting about Cinavia Protection, it seems that not all BD playesr have this detection scheme, however not all manufactures are created equal, meaning some can bypass this protection. 
+
+If it helps you in anyway I did burn this ISO using ImageBurn and haven't experienced any issue. I am using an LG BD-RW Drive Model: WH14NS40 Manufacture date Dec. 2012. 
+
+Also, see if the Hashes match. I am sure it will work, it's just a matter of time and effort. I'm not sure if your trying to play this on a PS3 but supposedly it wont play on firmware 3.10 and up. Try and see if you can convert it to another format like MKV."
+,brbear,2013-05-01T05:29Z,"I tried it on 3 different players.   A PS3 (which I wasn't too hopeful), a Sony, and a Samsung.
+
+Although Cinavia protected BDs don't experience this same problem.   They just go silent 20-30 minutes in and a prompt comes on the screen.
+
+This was odd... seems no ""video"" would play.   if I were to guess, I would say there is a 14 second ""video"" followed by a ~2min video before the menu loads.   I'd guess studio branding and promo most likely.
+
+And then there was no ""video"" behind the main menu screen.   As well, selecting any video (main feature or bonus items) resulted in no playback.
+
+I burned the disc 3 times with ImageBurn on an LG burner as well.  It was by far the most peculiar BD I've burned.
+
+On the other hand, I downloaded a different image from here, and it behaved properly, but was protected with Cinavia (I even commented on that thread as well.)
+
+I've seen the film, so someday it will wind up in the $5 bin.   I can wait."

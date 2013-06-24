@@ -1,0 +1,16 @@
+multiMAN ver 04.30.00 BASE (20130324)
+
+
+Includes:
+* multiMAN ver 04.30.00 BASE CEX (20130324).pkg
+* multiMAN ver 04.30.00 BASE DEX (20130324).pkg
+* multiMAN ver 04.30.00 BASE STEALTH (20130324).zip
+* Showtime 04.03.100 [CEX].pkg
+* Showtime 04.03.100 [DEX].pkg
+* Readme
+
+
+Changelog
+
+ΓÇóAdded support for various 4.40CFWs
+ΓÇóAdded support for loading PS2 Classics (from /dev_hdd0/PS2ISO)

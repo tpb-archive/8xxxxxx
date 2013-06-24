@@ -1,0 +1,66 @@
+ http://i1339.photobucket.com/albums/o717/oneforyoutwoforme/ytf_zps90ba0c26.jpg
+
+ 
+http://i.imgbox.com/achcZ2z5.png
+
+
+[code]General
+Unique ID                                : 188406413559641012888422967787543831261 (0x8DBDC15F339EE990A0B6BBED435BA2DD)
+Complete name                            : Tumhe Jo Maine Dekha - Main Hoon Na 720p 6ch Aac ESubs-ViVeKRaNa(PimpRG).mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 65.7 MiB
+Duration                                 : 4mn 3s
+Overall bit rate                         : 2 260 Kbps
+Encoded date                             : UTC 2010-02-22 21:41:31
+Writing application                      : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:37:01
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4mn 3s
+Nominal bit rate                         : 2 000 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.115
+Title                                    : ViVeKRaNa 6ch
+Writing library                          : x264 core 120
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 4mn 3s
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 64ms
+Title                                    : ViVeKRaNa 6ch
+Default                                  : Yes
+Forced                                   : No
+
+[/code]
+
+

@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,mcmig,2013-03-30T16:43Z,Trial Version.. don't download
+,mcmig,2013-03-30T16:48Z,"Disregard my previous comment.. If you don't have a folder named exdata, create one"
+,oudi1988,2013-03-30T16:50Z,what is this please explane
+,Sublime90,2013-03-30T18:30Z,"@oudi1988 Terraria is 2d minecraft-esque game.
+
+@mcmig Thanks for the heads up!
+
+For all those getting the trial version area make sure you placed the exdata file in the right folder.If you dont have the exdata folder, create it."
+,oudi1988,2013-03-30T21:03Z,Subime90 thank you put i get the trial virsion where must i past the exdata 
+,Sublime90,2013-03-30T23:02Z,"Put the Edat file in 
+
+/dev_hdd0/home/0000000x/exdata/  
+
+Use multimans file manager to do this."
+,damirbre,2013-03-31T17:03Z,"Can you please tell me what to do step by step ?
+I do it all as it says, but when I enter the game it shows up just black screen and i have to restart my ps3 !!!
+Please help !!! :D"
+,Sublime90,2013-03-31T22:33Z,@damirbre what CFW are you using?
+,Sublime90,2013-03-31T22:38Z,"1. Put the files on a usb drive or ftp it to your ps3
+2. Install Terraria.pkg file via ""Install Packages""
+3. Install the update according to which firmware you have by using install packages again and click on the update.
+4. Copy files from folder ""exdata"" to/ dev_hdd0/home/00000001/exdata / Using multimans file mangager or FTP (The folder '00000001' is your user profile id. If you have only one profile - that is the only folder you'll see under /home/
+In case you have multiple profiles, copy the *.edat file to the one that you will be playing the game from.
+If the folder 'exdata' is not present, create it  and put .edat file in it
+5. Play."
+,ghettofire11,2013-04-09T00:11Z,Is there a way of doing this without jailbreaking your PS3? I'ma noob at this and don't want to screw something up...
+,Sublime90,2013-04-10T20:10Z,@ghettofire11 nope.

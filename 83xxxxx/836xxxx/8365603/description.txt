@@ -1,0 +1,13 @@
+01. Run eagle-win-6.4.0.exe. (same file from official website)
+02. Click "Setup" and the installer will start.
+03. Run the installation and then select to "Run as Freeware". Installation completes.
+04. Start Cadsoft Eagle software. (Select "Run as Freeware" again if asked)
+    You will see "Control Panel - EAGLE 6.4.0 Light" as the title of the window.
+05. Open Cadsoft Eagle installtion directory and look for 'eagle.exe'
+    (example: C:Program Files (x86)EAGLE-6.4.0bin)
+06. Make a copy of "cadsoft.eagle.professional.6.4.0-patch.exe" in the directory in which 'eagle.exe' was found.
+07. Run "cadsoft.eagle.professional.6.4.0-patch.exe" as administrator.
+08. Click 'Patch' and you're done! You will receive a message in the patch software saying "---PATCHING DONE---"
+09. You can now delete "cadsoft.eagle.professional.6.4.0-patch.exe" from the Cadsoft Eagle installation directory.
+10. Start Cadsoft Eagle.
+    You will see "Control Panel - EAGLE 6.4.0 Professional" as the title of the window.

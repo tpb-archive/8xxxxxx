@@ -1,0 +1,93 @@
+[color=red]USB STICK IMPORTANT[/color]
+
+[b]# Artwork:[/b]
+
+[code]http://img602.imageshack.us/img602/3799/finalj.jpg[/code]
+
+xDarkΓäó has been build using only WAIK without removing any components or disabling any important services at all. The xDarkΓäó core consists of more than 500 .dll files modified to integrate a new and different look into Windows 7.
+
+In the Start Menu you will find many tools to Edit, Tweak, Customize, Fix or Search anything you need in the System, the xDarkΓäó Power Tools compile everything you need to Customize your OS to the limits making it more personal than ever and even faster, giving you the option to edit system files and applications with just a single right click and supporting the full modification or creation of Windows 7 Styles with the Integration of 7 Style Builder. 
+
+If you are an experienced user xDarkΓäó v.5 Series lets you create your own switchless installers or execute applications with parameters / silent switches in live mode using the context menu, you will also find many other options like customizing the icons appearance of the system and applications individually, changing the attributes options of files, renaming or copying the name of multiple files at once, saving the desktop icons position to restore them whenever you want... and many more.. 
+
+
+- ΓÇô - ΓÇô - ΓÇô - ΓÇô - -
+
+[b]# Enjoy the power of xDarkΓäó v.5.2 RG[/b]
+
+[img]http://i.imagebanana.com/img/u2zoyunf/wrf.png[/img]
+
+[img]http://i.imagebanana.com/img/55suz5ki/wrf2.png[/img]
+
+[img]hhttp://i.imagebanana.com/img/ctpsljen/wrf3.png[/img]
+
+[img]http://img7.imagebanana.com/img/xpij8two/folders.png[/img]
+
+
+MARK: 
+ALL IMAGES ARE CREATED FROM A V-BOX! 
+YOU NEED TO INSTALL YOUR GRAPIC DRIVER FOR THE AERO STYLE!
+Also imabit too lazy to make new screens deal with it :P
+- ΓÇô - ΓÇô - ΓÇô - ΓÇô - -
+
+Original Files crated by:[/b] skat666
+
+[b]Re-Builded, tewaked & tested by:mr. Citr3x[/b]
+
+[b]Installation Requirements:[/b]
+
+* 2 gigahertz (GHz) or faster 64-bit 
+* 4 gigabyte (GB) RAM 
+* 25 GB available hard disk space 
+* Internet Connection
+* DVD / USB HDD-Stick with more than 8 GB Space
+* DirectX 9 graphics device with WDDM 1.0 or higher driver
+ 
+- ΓÇô - ΓÇô - ΓÇô - ΓÇô - -
+
+Builded without Cracks, Loaders or something else, feel free to share!
+All titles, content, publisher names, trademarks, artwork, and associated imagery are trademakes and/or copyright material of their respective owners. All rights reserved.
+
+
+Install Notes:
+
+-&gt; U need an 16 gb + usb stick, Hard drive.......
+-&gt; Activate the Windows with the Lastest Loader (can find on torrent sites) or an Original x64 Ultimate Key
+-&gt; Internet Connection PERMANENTLY NECRESSARY for the Webinstaller Packages
+-&gt; Pc Is Full usable at the second boot time if the Configuration is done (restarts automatically DO IT NOT YOURSELF!)
+
+1. Open a CMD Terminal as an admin (Start -&gt;seach ,,cmd" -&gt;right click -&gt; open as admin....)
+2."DISKPART"
+3."LIST DISK"
+4. Compare the Disk Sizes and use the right Disk Number (when ur USB like 6gb/100gb, use the 6gb/100gb Disk Number)
+5. "SELECT DISK x" // not x, YOUR DRIVE NUMBER!
+6. "CLEAN"
+7. "CREATE PARTITION PRIMARY"
+8. "SELECT PARTITION 1"
+9. "ACTIVE"
+10. "FORMAT FS=NTFS QUICK" // can be 20-40 min.
+11. "ASSIGN"
+12. "EXIT"
+---------------------------------------------------------------------------------------
+13. Unpack the .ISO with Winrar or 7.ZIP
+14. Copy the whole files on your USB drive (J:SETUP.EXE, J:BOOT, J:EFI, J:SOURCES, ....) NOT A SUB FOLDER!
+15. "cd J:BOOT" // use your Stick not J: = just an example!
+16. "BOOTSECT.EXE /NT60 J:" // make it bootable!
+---------------------------------------------------------------------------------------
+
+17. Reboot your Computer. Go to the Bios, set the Boot Priority from your HDD/USB drive on the TOP
+18. Install the Windows on a clean HDD
+19. Boot from it and get some coffee...
+20. After the installation is done, follow the instructions on the 1st Time boot, 
+    Windows will Install all tools, its necressary to sit infront of ! (because Installer ask for going far like Java, Flash)
+
+++++++++++++++++++++++++++++++++++++++IMPORTANT NOTES: ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+U NEED A INTERNET CONNECTION AT THE 1ST BOOT TIME, FOR THE WEB-INSTALLERS!
+DO NOT LAUNCH APPS AFTER THE INSTALLATION IS FINESHD!
+Activate the Windows with the Lastest Loader (alrdy on the Desktop @ xDark) or an Original x64 Ultimate Key
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Please download & upload this torrent to other sites, not creating a own one, to keep the Sources in 1 circle

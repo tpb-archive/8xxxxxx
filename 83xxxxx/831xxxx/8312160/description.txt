@@ -1,0 +1,92 @@
+BlackUbuntu 12.04 V5:
+
+When you start BlackUbuntu: 
+1) Type y for Yes for start vnc and ssh.
+2) Next type in your resolution (For the S3 its 1280x720 than enter) 
+3) Click y and enter again to save settings.
+
+This should only have to be done once to set up your device to BlackUbuntu.
+
+_______________
+Change logs:
+_______________
+
+Fixed: 
+Lsusb 
+Wicd Start up error (At Start of BlackUbuntu)
+Updated iw
+Few minor tweaks. 
+
+
+
+_________________________
+OLD:
+_________________________
+BlackUbuntu 12.04 V4: 
+
+
+_______________
+Change logs:
+_______________
+
+Added:
+
+Kismet
+Python3 .
+
+Removed:
+
+metasploit (too many issues and takes up too much space.)
+backtrack repo
+
+
+Screenshot:
+
+_____________________________________________________
+
+
+BlackUbuntu 12.04 V3: 
+
+
+_______________
+Change logs:
+_______________
+
+Gedit
+mtpfs
+libusb
+yum
+tcpdump 
+Added backtrack repo 
+curl 
+git
+metasploit (NOT TESTED and not fully working)
+
+______________________________________ 
+
+
+
+There are still some bugs and missing programs for set and metasploit. 
+I will be working it. 
+If you have any input on this or tools. Please let me know.
+
+______________________________________
+
+Ubuntu 12.04 v2:
+
+_______________
+Change logs:
+_______________
+
+Added:
+QBittorrent
+Aircrack-ng
+Wicd (When booted ignore errors. Just needed to get airmon-ng to find the wireless card)
+build-essential
+libssl-dev
+Reaver 1.4 (wps cracker)
+libpcap-dev
+sqlite3
+libsqlite3-dev
+libpcap0.8-dev
+Subversion

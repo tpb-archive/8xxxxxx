@@ -1,0 +1,69 @@
+StarTCraft is a simple tool that allows you to Play Offline StarCraft II campaign and Blizzard custom games-skirmish!
+
+
+Minimum Requirements:
+
+-StarCraft II fully installed and updated latest version (from battle.net not from torrents)
+-Have Administrator Rights
+-UAC Disabled
+-No Antivirus or other aggressive defenses running in the background!
+-.Net Framework 4 Full Installed
+-Download and extract latest Cache Files once from the tool (when ever new cache version comes out)
+
+
+How It Works:
+
+-due to its nature of hacking SC2 some AntiVirus may report this as a Generic virus etc. its FALSE please add the tool to the exceptions of your antivirus if this happens or disable your AV when running otherwise it will fail to do its job, and you may get "STARTER EDITION: OFFLINE PLAY UNAVAILABLE"
+-if you have sc2 starter edition installed login online at least once with your account then exit the game.
+-you can place the tool everywhere you wish, still its recommended in the games main installation directory.
+-start the loader, and download once the latest cache from the button. Let it finish and then extract to the directory it recommends!(the cache files are needed for Custom Games)
+click the Generate License button just once to create a full license for your game so that can play offline.
+-just type your NickName (up to 11 characters)
+and press the Start StarCraft II Offline button.
+-when ingame first time type the following account and connect to prompt and play offline(its highly recommended to check the remember account check-box so that you dont have to type it again next time)
+account for offline login: offline@sc2allin1.net (or press ctrl+v to paste from clipboard)
+-play!
+
+p.s you can create a shortcut of this loader and add the parameter -oflfine so you can jumb straign into startcraft 2 in offline mode, with your last name you used.
+
+p.s 2 also you can use ctrl+v to paste the account mail offline@sc2allin1.net the first time you are in the login screen and then "tick" the remember account checkbox!
+
+Features:
+
+simple to use User Interface.
+no need to run any license keygens extra, or manually copy files etc.
+fully compatible with the latest StarCraft II, Wings of Liberty and Heart Of The Swarm.
+no need to close your internet connection or blocked it manually from firewalls or the host file or disable your lan! we advice to remove any firewall blocking this may slow down a lot your game! there is no need for that, the loader will block just the game from accessing the web.
+compatible with any 32bit or 64bit Windows.
+compatible with all Localizations of the game.
+compatible with all hardware (CPU, Mb, ram etc), thanks to Reloaded keygen.
+ability to download always the latest cache from our servers, no need to look around for links!
+ability to self update when you click the "check for updates" button to stay always updated to the latest StarTCraft version!
+in a shortcut with the paramerter -offline, starts directly into the game in offline mode by using your last given NickName.
+known issues:
+
+after v1.0.4 there should be no known issues.
+
+F.A.Q (read before posting something already explained a trillion times)
+
+1)to play custom games you need the latest cache properly installed.
+
+2)if you have more that one game paths, its your problem you have to choose only the latest one and use the reg files for your system to point to that path!
+
+3)if the loader cant read your game installation path, just edit the .reg fro your fits your system, and put your game paths in there correctly, save it then run it.
+
+4)at this point from v1.0.3 and later any crashes that you may get when trying to start the game its most likely because the loader can't "inject" the game, and thats most of the times because you have limitation, like no Administrator, AV still running in the back, UAC, maybe windows defender still on or other software that blicks the loader. its 90% not a loader issue. try to fix your systems.
+
+5)if you get message about missing data when launching the game, the clean up button should do the trick. READ the msg before saying yes!
+
+6)if you have long delays but the game starts, its again of the stupid "connecting to streaming server msgbox" that doesnt start in your system, so that the loader tries to close it! when you see this msg you need to press cancel your self if the loader cant do it automatically for you.
+
+7)if you get msg that starter edition cant play offline then you didnt generate once a working license! re try with our offline account not yours
+
+Developed by: Vernam7, Snify, MadSheep.
+Special Credits also in the program.
+Crack-Keygen by RELOADED : 
+Official website - http://sc2.nibbits.com/assets/startcraft-the-offline-starcraft-ii-loader/
+Proof :
+
+Enjoy! :)		

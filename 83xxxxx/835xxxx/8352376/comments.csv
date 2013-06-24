@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,taquelim,2013-04-25T04:43Z,Fiz tudo o que vinha no ficheiro das instruções mas não consegue activar. Têm algum conselho para se conseguir activar? Obrigado. :-)
+,taquelim,2013-04-25T04:50Z,"Foi este o erro que deu:
+""---Processing--------------------------
+----------------------------------------
+Installed product key detected - attempting to activate the following product:
+Name: Office 15, OfficeProPlusR_Grace edition
+Description: Office 15, RETAIL(Grace) channel
+Family: OfficeProPlusR_Grace
+SKU ID: 1b686580-9fb1-4b88-bfba-eae7c0da31ad
+Last 5 characters of installed product key: 27GXM
+ERROR CODE: 0xC004F017
+ERROR TEXT: The Software Licensing Service reported that the license is not installed.
+"""
+,KyleSpades2.0,2013-04-25T23:55Z,"Eu tive esse erro tambem cara, mas é bem simples, o office 2013 te dá 4 dias de uso gratuito sem registrar. O licenser só funciona passados os 4 dias, tenta de novo depois de um tempo. Pra conferir quantos dias ainda faltam, clica no Check na mesma aba (se eu não me engano) que o proprio programa te fala"

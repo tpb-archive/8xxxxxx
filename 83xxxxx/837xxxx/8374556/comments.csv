@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,th3anti,2013-04-15T16:11Z,Is there a copy that isn't .mkv?  Or conversely is there a program that will convert it to something xbox will play QUICKLY?  I apologize for the excruciating noobieness. 
+[T],trialNerror,2013-04-15T22:42Z,"MKV to PS3/X360 ready MP4 in minutes:
+
+Tools required: AviDemux
+
+1) Drop the MKV into AviDemux
+2) Copy the video track
+3) Change the audio to Stereo AAC
+4) Save as MP4
+
+Since it's only re-encoding the audio the ""conversion"" process only takes a couple minutes."
+,th3anti,2013-04-16T04:45Z,Much appreciated!

@@ -1,0 +1,54 @@
+ADAWAY v2.2
+
+
+
+AdAway is an open source ad blocker for Android using the hosts file.
+
+Note: ROOT ACCESS IS REQUIRED
+
+If you don't know what ROOT ACCESS is please read this: http://en.wikipedia.org/wiki/Android_rooting
+
+To all users with Galaxy Note Android 4.x.x stock ROM:
+The stock ROM ships with a broken toolbox which prevents AdAway from working.
+
+
+AdAway is no longer available on Google Play.
+
+
+------------
+Changelogs:
+-----------
+v2.2:
+a. Introduce SUPERUSER permission for new Superuser app
+b. Allow backups of AdAway (for Carbon)
+c. Logo reworked thanks to Alin Totea-Radu
+
+
+--------------------------
+Prerequisite requirement:
+--------------------------
+1. A rooted Android Phone.
+
+
+--------------------------
+Steps to install the APK:
+--------------------------
+
+1. On Android 2.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 3.x.x, go to Settings | Applications and tick Unknown Sources.
+
+On Android 4.x.x, go to Settings | Security and tick Unknown Sources.
+
+
+2. Copy the APK onto phone's internal SD card using a Wifi program or directly via the phone's USB connection.
+
+
+3. Use a file manager like (Astro File Manager, Root Explorer, etc) to browse to location of saved APK.
+
+
+4. Tap on APK to install.
+
+
+
+Enjoy.

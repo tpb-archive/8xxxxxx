@@ -1,0 +1,15 @@
+* "Ask Google for suggestions" spell checking feature improvements (e.g. grammar and homonym checking)
+* Desktop shortcuts for multiple users (profiles) on Windows
+* Asynchronous DNS resolver on Mac and Linux
+* Security fixes
+- Use-after-free in Web Audio. 
+- Out-of-bounds read in URL loader. 
+- Do not navigate dev tools upon drag and drop. 
+- Use-after-free with pop-up windows in extensions. 
+- Use-after-free in extension bookmarks API. 
+- Ensure isolated web sites run in their own processes.
+- Avoid HTTP basic auth brute force attempts. 
+- Medium CVE-2013-0923: Memory safety issues in the USB Apps API. 
+- Check an extensionΓÇÖs permissions API usage again file permissions. 
+- Avoid leaking URLs to extensions without the tabs permissions. 
+- Avoid pasting active tags in certain situations. 

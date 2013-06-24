@@ -1,0 +1,53 @@
+﻿Filename,Size,Unit
+00. Introduction/00 01. Welcome.mov,16.39,M
+00. Introduction/00 04. Touring examples of data visualization.mov,10.9,M
+00. Introduction/00 03. Using the exercise files.mov,4.86,M
+00. Introduction/00 02. Reviewing requirements.mov,3.82,M
+01. Learning How Drupal Handles Data/01 02. Importing and manipulating data.mov,14.05,M
+01. Learning How Drupal Handles Data/01 03. Looking at Drupals database.mov,11.96,M
+01. Learning How Drupal Handles Data/01 01. Planning data structure.mov,9.67,M
+01. Learning How Drupal Handles Data/01 04. Deciding whether to store personal data as nodes or users.mov,7.23,M
+02. Controlling How Drupal Presents Data Fields/02 06. Exploring CCKs other features.mov,17.5,M
+02. Controlling How Drupal Presents Data Fields/02 08. Adding date information as a CCK field.mov,14.97,M
+02. Controlling How Drupal Presents Data Fields/02 09. Including images as CCK fields.mov,14.47,M
+02. Controlling How Drupal Presents Data Fields/02 04. Reflecting CCK field data in the Title field.mov,12.2,M
+02. Controlling How Drupal Presents Data Fields/02 02. Creating new content types with CCK.mov,11.67,M
+02. Controlling How Drupal Presents Data Fields/02 05. Managing CCK field placement.mov,11.44,M
+02. Controlling How Drupal Presents Data Fields/02 10. Connecting content to existing nodes.mov,9.75,M
+02. Controlling How Drupal Presents Data Fields/02 11. Using taxonomies to categorize and group data.mov,8.57,M
+02. Controlling How Drupal Presents Data Fields/02 01. Understanding the Content Construction Kit (CCK).mov,7.66,M
+02. Controlling How Drupal Presents Data Fields/02 07. Using other CCK field types.mov,6.01,M
+02. Controlling How Drupal Presents Data Fields/02 03. Hiding the Body field.mov,4.62,M
+"03. Getting the Basics of Views/03 07. Adding view displays as pages, blocks, and RSS feeds.mov",22.21,M
+03. Getting the Basics of Views/03 03. Diving into the Views interface.mov,18.86,M
+03. Getting the Basics of Views/03 05. Understanding iconic controls in the Views interface.mov,13.48,M
+03. Getting the Basics of Views/03 04. Adding fields to a view.mov,12.16,M
+03. Getting the Basics of Views/03 02. Using SimpleViews to create basic content views.mov,11.13,M
+03. Getting the Basics of Views/03 01. Understanding why views are useful.mov,11.08,M
+"03. Getting the Basics of Views/03 06. Surveying the Sort, Filter, and Field options in Views.mov",10.05,M
+04. Changing the Appearance of Views/04 04. Surveying other basic display settings in Views.mov,28.12,M
+04. Changing the Appearance of Views/04 02. Attaching more information to views.mov,22.63,M
+"04. Changing the Appearance of Views/04 03. Improving view appearances with grid, list, and table formatting.mov",21.01,M
+04. Changing the Appearance of Views/04 01. Overriding default settings on view displays.mov,18.55,M
+04. Changing the Appearance of Views/04 05. Altering a views appearance through CSS.mov,8.22,M
+05. Going Further with Views/05 04. Creating views that arent based on nodes.mov,22.35,M
+05. Going Further with Views/05 05. Extending views with arguments.mov,20.49,M
+05. Going Further with Views/05 02. Controlling access to views.mov,18.66,M
+05. Going Further with Views/05 07. Going further with relationships.mov,14.63,M
+05. Going Further with Views/05 06. Extending views with relationships.mov,13.38,M
+"05. Going Further with Views/05 01. Importing, exporting, and cloning views.mov",12.03,M
+05. Going Further with Views/05 03. Learning from built-in views.mov,9.39,M
+06. Working with Locational Data/06 02. Setting up the Location module.mov,34.73,M
+06. Working with Locational Data/06 05. Integrating the GMap module with Views.mov,16.68,M
+06. Working with Locational Data/06 03. Entering geographic data with the Location module.mov,16.59,M
+06. Working with Locational Data/06 04. Displaying basic maps with the GMap module.mov,12.35,M
+06. Working with Locational Data/06 01. Understanding geographic data.mov,6.34,M
+07. Putting Data into Other Forms/07 06. Putting it all together in an attractive package.mov,25.42,M
+07. Putting Data into Other Forms/07 02. Planning with the calendar modules.mov,22.98,M
+07. Putting Data into Other Forms/07 01. Exporting data in tabular form.mov,21.41,M
+07. Putting Data into Other Forms/07 05. Making important data pop out with tag clouds.mov,16.82,M
+07. Putting Data into Other Forms/07 03. Using the Charts module and Google Charts.mov,11.57,M
+07. Putting Data into Other Forms/07 04. Graphing data with Open Flash Chart.mov,11.29,M
+08. Conclusion/08 01. Goodbye.mov,712.54,K
+Exercise Files/Drupal6_OnlinePres.zip,5.33,M
+Torrent downloaded from Demonoid.com.txt,47,B

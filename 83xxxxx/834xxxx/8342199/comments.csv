@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,tofumunch,2013-04-05T06:27Z,"thought 722 was the latest, thx though!"
+,g00nstlye,2013-04-05T09:24Z,it works but i lost my save/progress
+[V],Gh0stNet,2013-04-05T09:36Z,"just move your saves to new save location if you know where the saves are located
+
+skidrow location 
+
+C:UsersyourusernameAppDataLocalSKIDROW203160
+
+Bat location
+C:ProgramDataRELOADEDRLD!203160
+some where here if i am not wrong
+"
+,g00nstlye,2013-04-05T09:40Z,nvm i copied the old steam api and voila
+,kindred3006,2013-04-05T09:55Z,"Indeed, saves are gone, or the savegame path is different from Skidrow!!!
+So keep in mind when updating!
+I tried to find the new save path but couldn't..."
+,g00nstlye,2013-04-05T12:13Z,"@kindred3006 if you dont want to use old api and the .dir Ghost posted above dont work for you try searching in the following for 
+C:ProgramDataSteamRLD!203160"
+,dandalis,2013-04-05T13:44Z,"722 killed the perfomance in my game, hope this will do better, otherwise will go back to 718"
+,dandalis,2013-04-05T21:22Z,"tup my save game gone too, i go save folder, files are there, i even copy and replaced them with my back ups but it didnt help. what the hell do i suppose to do now ???"
+,bungunners,2013-04-07T03:08Z,"@g00nstlye.  Hey thanks dude! That's exactly where the old save file is, and simply doing what you said works great.  Old saves are there and functioning with new update.  Thanks again.. and Thanks to Gh0stNet too! "
+,MLO89,2013-04-08T21:14Z,"The included crack is not even needed if you had the previous Skidrow crack installed. The original Skidrow crack still works fine and no issues with save games that way. If you were already using the Skidrow crack, just install the patch and you are good to go."
+,bungunners,2013-04-09T00:40Z,"Well this patch does work and like MLO89 says, if this works without changing cracks, that would be good.  But the problem seems to be the patch itself in that the game runs worse after it's installed.  My frame rates went down a little ...like a 10-15 fps loss.  but what is more noticeable than that is the frame times.  It just has a jerkier feel to it.  So I ran the previous patch and put back the previous crack and it smoothed out again.  Haven't tried just the patch by itself and I may try that later.  I'm thinking the added features with motion blur and stuff may be the cause for me to lose smoothness..Idunno
+i5 3570K @4500
+GTX 670 2GB
+8GB DDR3 1600
+Windows 7 x64 SP1"
+,MikeO89,2013-04-09T19:11Z,I hate both Motion Blur and DOF. It's the first things I turn off if the game allows. Last thing I want when playing a game is having parts of my screen blurred out. I want everything crystal clear. Plus performance is better with that crap off.
+,Brizors,2013-04-12T01:00Z,Sorry but does this include all previous updates as well?
+,MLO89,2013-04-13T00:26Z,Yes it does include all previous patches. And a new patch just came out today. 1.01.742.0

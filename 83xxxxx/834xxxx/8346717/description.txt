@@ -1,0 +1,8 @@
+Hey gamemakers,
+I made this program to allow you to export your games made in gamemaker studio to a standalone IPA file that can be installed on any iDevice.
+
+This is useable no matter what version you have, from the free edition to the master collection, and it only requires iTunes to be installed. The IPA produced can then be submitted to a jailbroken appstore, and later support for .DEB to upload to cydia will be added. For windows, tested on Windows 8.
+
+Feedback is always appreciated, please leave a comment if it worked for you and if you encountered any problems :)
+
+This is an updated version from the last one, and allows you to set the game orientation.

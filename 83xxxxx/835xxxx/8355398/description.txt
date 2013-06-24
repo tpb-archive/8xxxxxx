@@ -1,0 +1,33 @@
+install 
+- dotNetFx40_Client_x86_x64 
+- xnafx40_redist 
+
+from _CommonRedist/ folder if they are not already installed on your system.
+
+- play!
+
+
+
+
+Gnomoria v0.8.34 Released - APRIL 2ND, 2013
+
+General 
+
+-Combined the "Assign" and "Status" tabs in the Population menu
+-Gnomes are listed in the Assign tab by their Profession
+-Population window is resizable
+-Increased size of drop down box when picking professions
+-Show ingredients in Job UI
+-Missing ingredients are shown in red
+-When "any" material is selected for an ingredient, mousing over will show a break down by material
+-Gnomes with Hauling that can't find a Stocking job will wait a short amount of time before looking again
+-Gnomes with "Way of the Gnome" perk are no longer afraid of enemies with better armor
+
+
+Fixed 
+
+-Repair broken connections on the navigation graph as they are discovered
+-Crash when no audio device is present
+-Crash when attempting to view a corpse that had invalid armor from loading a corrupted save
+-Gnomes not always freeing enough hands to pick up a two handed item
+-Attempting to remove a two handed item from storage and failing caused the item to get lost
